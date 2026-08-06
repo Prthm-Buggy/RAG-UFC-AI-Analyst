@@ -14,7 +14,7 @@ Tech Stack:
 - LLM - GPT-oss-120b - For reasoning and tool selection
 - Embeddings - BAAI/bge-small-en - For creating document and query embeddings
 
-A high level overview of the complete flow from user query to result - 
+A high level overview of the complete flow starting from the user query - 
 <img width="824" height="1012" alt="image" src="https://github.com/user-attachments/assets/5192d03f-aed2-4cfa-b7e7-88d3294e22c6" />
 
 
