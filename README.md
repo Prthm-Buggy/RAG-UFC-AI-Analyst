@@ -17,6 +17,8 @@ Tech Stack:
 A high level overview of the complete flow starting from the user query - 
 <img width="824" height="1012" alt="image" src="https://github.com/user-attachments/assets/5192d03f-aed2-4cfa-b7e7-88d3294e22c6" />
 
+Now a list of questions and answers to prove the intelligence of the project
+
 <img width="1994" height="599" alt="image" src="https://github.com/user-attachments/assets/b1e31f57-fc4b-4d30-b05d-008abb037c80" />
 
 <img width="2053" height="669" alt="image" src="https://github.com/user-attachments/assets/6b9dc24e-9934-4356-a2d4-43f2cc9d6aac" />
