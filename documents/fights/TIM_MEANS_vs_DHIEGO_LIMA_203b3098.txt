@@ -1,0 +1,14 @@
+Event: UFC 184: Rousey vs Zingano
+    Date: February 28, 2015
+    Location: Los Angeles, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: TIM MEANS defeated DHIEGO LIMA via KO/TKO  
+  at 2:17 of round 1
+  Key stats:
+  - TIM MEANS landed 23 significant strikes
+  - DHIEGO LIMA landed 7 significant strikes
+  - Knockdowns: TIM MEANS 2,  DHIEGO LIMA 0
+  - Takedowns: TIM MEANS 0,  DHIEGO LIMA 0
+  Bonus: perf

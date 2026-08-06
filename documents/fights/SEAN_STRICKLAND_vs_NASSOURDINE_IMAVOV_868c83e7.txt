@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Strickland vs. Imavov
+    Date: January 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: SEAN STRICKLAND defeated NASSOURDINE IMAVOV via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - SEAN STRICKLAND landed 182 significant strikes
+  - NASSOURDINE IMAVOV landed 123 significant strikes
+  - Knockdowns: SEAN STRICKLAND 0,  NASSOURDINE IMAVOV 0
+  - Takedowns: SEAN STRICKLAND 1,  NASSOURDINE IMAVOV 0

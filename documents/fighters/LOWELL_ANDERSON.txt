@@ -1,0 +1,11 @@
+Fighter: LOWELL ANDERSON
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 1999-09-24
+  Last fight: 1999-09-24
+
+Career Statistics:
+- Significant Strikes Landed :9
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

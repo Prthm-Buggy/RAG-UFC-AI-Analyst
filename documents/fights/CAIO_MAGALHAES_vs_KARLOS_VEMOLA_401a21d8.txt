@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Nogueira vs. Werdum
+    Date: June 08, 2013
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: CAIO MAGALHAES defeated KARLOS VEMOLA via Submission  
+  at 2:49 of round 2
+  Key stats:
+  - CAIO MAGALHAES landed 21 significant strikes
+  - KARLOS VEMOLA landed 30 significant strikes
+  - Knockdowns: CAIO MAGALHAES 0,  KARLOS VEMOLA 0
+  - Takedowns: CAIO MAGALHAES 1,  KARLOS VEMOLA 2

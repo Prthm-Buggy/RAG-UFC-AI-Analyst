@@ -1,0 +1,13 @@
+Event: UFC 29: Defense of the Belts
+    Date: December 16, 2000
+    Location: Tokyo, Japan
+    Weight Class: Middleweight
+    
+
+    Result: MATT LINDLAND defeated YOJI ANJO via KO/TKO  
+  at 2:58 of round 1
+  Key stats:
+  - MATT LINDLAND landed 17 significant strikes
+  - YOJI ANJO landed 0 significant strikes
+  - Knockdowns: MATT LINDLAND 0,  YOJI ANJO 0
+  - Takedowns: MATT LINDLAND 0,  YOJI ANJO 0

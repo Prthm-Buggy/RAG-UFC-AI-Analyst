@@ -1,0 +1,14 @@
+Event: UFC 124: St-Pierre vs Koscheck 2
+    Date: December 11, 2010
+    Location: Montreal, Quebec, Canada
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated CHARLES OLIVEIRA via Submission  
+  at 1:59 of round 1
+  Key stats:
+  - JIM MILLER landed 1 significant strikes
+  - CHARLES OLIVEIRA landed 5 significant strikes
+  - Knockdowns: JIM MILLER 0,  CHARLES OLIVEIRA 0
+  - Takedowns: JIM MILLER 1,  CHARLES OLIVEIRA 0
+  Bonus: sub

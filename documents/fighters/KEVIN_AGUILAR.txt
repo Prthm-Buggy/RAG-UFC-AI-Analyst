@@ -1,0 +1,11 @@
+Fighter: KEVIN AGUILAR
+  Date of Birth: 1988-09-07
+  Career record: 6
+  First fight: 2018-11-30
+  Last fight: 2021-05-15
+
+Career Statistics:
+- Significant Strikes Landed :320
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

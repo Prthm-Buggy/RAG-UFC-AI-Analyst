@@ -1,0 +1,13 @@
+Event: UFC 254: Khabib vs. Gaethje
+    Date: October 24, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Flyweight
+    
+
+    Result: MIRANDA MAVERICK defeated LIANA JOJUA via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - MIRANDA MAVERICK landed 49 significant strikes
+  - LIANA JOJUA landed 30 significant strikes
+  - Knockdowns: MIRANDA MAVERICK 0,  LIANA JOJUA 0
+  - Takedowns: MIRANDA MAVERICK 0,  LIANA JOJUA 0

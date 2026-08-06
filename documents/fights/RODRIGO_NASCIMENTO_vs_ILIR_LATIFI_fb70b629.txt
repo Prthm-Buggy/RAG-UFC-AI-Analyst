@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Hill
+    Date: May 20, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RODRIGO NASCIMENTO defeated ILIR LATIFI via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - RODRIGO NASCIMENTO landed 68 significant strikes
+  - ILIR LATIFI landed 49 significant strikes
+  - Knockdowns: RODRIGO NASCIMENTO 0,  ILIR LATIFI 0
+  - Takedowns: RODRIGO NASCIMENTO 0,  ILIR LATIFI 2

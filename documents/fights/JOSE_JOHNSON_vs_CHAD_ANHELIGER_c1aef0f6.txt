@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Allen vs. Craig
+    Date: November 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOSE JOHNSON defeated CHAD ANHELIGER via Submission  
+  at 4:49 of round 3
+  Key stats:
+  - JOSE JOHNSON landed 63 significant strikes
+  - CHAD ANHELIGER landed 26 significant strikes
+  - Knockdowns: JOSE JOHNSON 0,  CHAD ANHELIGER 0
+  - Takedowns: JOSE JOHNSON 1,  CHAD ANHELIGER 4

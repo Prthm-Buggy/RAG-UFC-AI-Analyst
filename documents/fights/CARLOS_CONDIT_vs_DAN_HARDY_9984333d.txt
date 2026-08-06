@@ -1,0 +1,14 @@
+Event: UFC 120: Bisping vs Akiyama
+    Date: October 16, 2010
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS CONDIT defeated DAN HARDY via KO/TKO  
+  at 4:27 of round 1
+  Key stats:
+  - CARLOS CONDIT landed 26 significant strikes
+  - DAN HARDY landed 9 significant strikes
+  - Knockdowns: CARLOS CONDIT 1,  DAN HARDY 0
+  - Takedowns: CARLOS CONDIT 0,  DAN HARDY 0
+  Bonus: ko

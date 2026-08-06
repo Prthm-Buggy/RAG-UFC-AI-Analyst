@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Garbrandt
+    Date: May 22, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: DAVID DVORAK defeated JUANCAMILO RONDEROS via Submission  
+  at 2:18 of round 1
+  Key stats:
+  - DAVID DVORAK landed 9 significant strikes
+  - JUANCAMILO RONDEROS landed 11 significant strikes
+  - Knockdowns: DAVID DVORAK 0,  JUANCAMILO RONDEROS 0
+  - Takedowns: DAVID DVORAK 0,  JUANCAMILO RONDEROS 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs Miller
+    Date: July 16, 2014
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: LESLIE SMITH defeated JESSAMYN DUKE via KO/TKO  
+  at 2:24 of round 1
+  Key stats:
+  - LESLIE SMITH landed 36 significant strikes
+  - JESSAMYN DUKE landed 16 significant strikes
+  - Knockdowns: LESLIE SMITH 1,  JESSAMYN DUKE 0
+  - Takedowns: LESLIE SMITH 0,  JESSAMYN DUKE 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cowboy vs Miller
+    Date: July 16, 2014
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Featherweight
+    
+
+    Result: LUCAS MARTINS defeated ALEX WHITE via KO/TKO  
+  at 2:08 of round 3
+  Key stats:
+  - LUCAS MARTINS landed 53 significant strikes
+  - ALEX WHITE landed 42 significant strikes
+  - Knockdowns: LUCAS MARTINS 1,  ALEX WHITE 0
+  - Takedowns: LUCAS MARTINS 0,  ALEX WHITE 0
+  Bonus: perf

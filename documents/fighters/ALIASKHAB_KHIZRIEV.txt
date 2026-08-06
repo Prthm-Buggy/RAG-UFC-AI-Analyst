@@ -1,0 +1,11 @@
+Fighter: ALIASKHAB KHIZRIEV
+  Date of Birth: 1990-08-24
+  Career record: 1
+  First fight: 2022-03-26
+  Last fight: 2022-03-26
+
+Career Statistics:
+- Significant Strikes Landed :42
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,11 @@
+Fighter: LANCE GIBSON JR.
+  Date of Birth: 1995-02-02
+  Career record: 2
+  First fight: 2025-12-13
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :43
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :0

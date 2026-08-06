@@ -1,0 +1,13 @@
+Event: UFC on FOX: Holm vs. Shevchenko
+    Date: July 23, 2016
+    Location: Chicago, Illinois, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: VALENTINA SHEVCHENKO defeated HOLLY HOLM via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - VALENTINA SHEVCHENKO landed 87 significant strikes
+  - HOLLY HOLM landed 54 significant strikes
+  - Knockdowns: VALENTINA SHEVCHENKO 0,  HOLLY HOLM 0
+  - Takedowns: VALENTINA SHEVCHENKO 3,  HOLLY HOLM 0

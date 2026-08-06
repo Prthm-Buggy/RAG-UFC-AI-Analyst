@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Vettori vs. Dolidze 2
+    Date : March 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Lightweight, Flyweight, Women's Strawweight, Middleweight, Featherweight, Light Heavyweight, Welterweight, Women's Bantamweight, Bantamweight, Women's Flyweight, Heavyweight
+
+    Fight Results:
+  - WALDO CORTES ACOSTA def. RYAN SPANN via KO/TKO(R2)
+- KEVIN VALLEJOS def. SEUNGWOO CHOI via KO/TKO(R1)
+- SAM HUGHES def. STEPHANIE LUCIANO via Decision - Split(R3)
+- CARLI JUDICE def. YUNEISY DUBEN via KO/TKO(R1)
+- BRENDSON RIBEIRO def. DIYAR NURGOZHAY via Submission(R2)
+- Andre Lima def. DANIEL BAREZ via Submission(R3)
+- DA'MON BLACKSHEAR def. CODY GIBSON via Submission(R2)
+- PRISCILA CACHOEIRA def. JOSIANE NUNES via KO/TKO(R1)
+- ALEXANDER HERNANDEZ def. KURT HOLOBAUGH via Decision - Unanimous(R3)
+- CHIDI NJOKUANI def. ELIZEU ZALESKI DOS SANTOS via KO/TKO(R2)
+- ROMAN DOLIDZE def. MARVIN VETTORI via Decision - Unanimous(R5)
+- CARLOS VERA def. JOSIAS MUSASA via Submission(R1)
+- SUYOUNG YOU def. AJ CUNNINGHAM via Decision - Unanimous(R3)

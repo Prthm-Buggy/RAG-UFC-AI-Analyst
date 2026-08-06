@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Belfort vs Henderson 2
+    Date: November 09, 2013
+    Location: Goiania, Goias, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: ADRIANO MARTINS defeated DARON CRUICKSHANK via Submission  
+  at 2:49 of round 2
+  Key stats:
+  - ADRIANO MARTINS landed 16 significant strikes
+  - DARON CRUICKSHANK landed 8 significant strikes
+  - Knockdowns: ADRIANO MARTINS 0,  DARON CRUICKSHANK 0
+  - Takedowns: ADRIANO MARTINS 1,  DARON CRUICKSHANK 0
+  Bonus: sub

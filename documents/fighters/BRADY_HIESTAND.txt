@@ -1,0 +1,11 @@
+Fighter: BRADY HIESTAND
+  Date of Birth: 1999-04-30
+  Career record: 4
+  First fight: 2021-08-28
+  Last fight: 2024-06-15
+
+Career Statistics:
+- Significant Strikes Landed :152
+- Total takedowns landed :18
+- Knockdowns :0
+- Submission Attempts :4

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Browne
+    Date: February 19, 2017
+    Location: Halifax, Nova Scotia, Canada
+    Weight Class: Middleweight
+    
+
+    Result: GERALD MEERSCHAERT defeated RYAN JANES via Submission  
+  at 1:34 of round 1
+  Key stats:
+  - GERALD MEERSCHAERT landed 3 significant strikes
+  - RYAN JANES landed 3 significant strikes
+  - Knockdowns: GERALD MEERSCHAERT 0,  RYAN JANES 0
+  - Takedowns: GERALD MEERSCHAERT 0,  RYAN JANES 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jedrzejczyk vs Penne
+    Date: June 20, 2015
+    Location: Berlin, Berlin, Germany
+    Weight Class: Welterweight
+    
+
+    Result: PETER SOBOTTA defeated STEVE KENNEDY via Submission  
+  at 2:57 of round 1
+  Key stats:
+  - PETER SOBOTTA landed 6 significant strikes
+  - STEVE KENNEDY landed 3 significant strikes
+  - Knockdowns: PETER SOBOTTA 0,  STEVE KENNEDY 0
+  - Takedowns: PETER SOBOTTA 2,  STEVE KENNEDY 0

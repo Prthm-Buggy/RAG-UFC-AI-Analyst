@@ -1,0 +1,17 @@
+Event : UFC 313: Pereira vs. Ankalaev
+    Date : March 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Welterweight, Lightweight, Light Heavyweight, Women's Strawweight, Middleweight, Flyweight, Featherweight
+
+    Fight Results:
+  - CARLOS LEAL def. ALEX MORONO via KO/TKO(R1)
+- MAGOMED ANKALAEV def. ALEX PEREIRA via Decision - Unanimous(R5)
+- JOSHUA VAN def. REI TSURUYA via Decision - Unanimous(R3)
+- OZZY DIAZ def. DJORDEN SANTOS via Decision - Unanimous(R3)
+- BRUNNO FERREIRA def. ARMEN PETROSYAN via Submission(R2)
+- MAIRON SANTOS def. FRANCIS MARSHALL via Decision - Split(R3)
+- AMANDA LEMOS def. IASMIN LUCINDO via Decision - Unanimous(R3)
+- JUSTIN GAETHJE def. RAFAEL FIZIEV via Decision - Unanimous(R3)
+- IGNACIO BAHAMONDES def. JALIN TURNER via Submission(R1)
+- MAURICIO RUFFY def. KING GREEN via KO/TKO(R1)

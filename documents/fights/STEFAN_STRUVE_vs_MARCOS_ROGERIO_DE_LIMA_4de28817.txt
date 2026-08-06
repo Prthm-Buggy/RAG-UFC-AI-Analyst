@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blachowicz vs. Santos
+    Date: February 23, 2019
+    Location: Prague, Czech Republic
+    Weight Class: Heavyweight
+    
+
+    Result: STEFAN STRUVE defeated MARCOS ROGERIO DE LIMA via Submission  
+  at 2:21 of round 2
+  Key stats:
+  - STEFAN STRUVE landed 0 significant strikes
+  - MARCOS ROGERIO DE LIMA landed 25 significant strikes
+  - Knockdowns: STEFAN STRUVE 0,  MARCOS ROGERIO DE LIMA 1
+  - Takedowns: STEFAN STRUVE 1,  MARCOS ROGERIO DE LIMA 0
+  Bonus: perf

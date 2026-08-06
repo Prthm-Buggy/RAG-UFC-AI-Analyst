@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Vera
+    Date: April 30, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated JAKE COLLIER via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ANDREI ARLOVSKI landed 91 significant strikes
+  - JAKE COLLIER landed 93 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 0,  JAKE COLLIER 0
+  - Takedowns: ANDREI ARLOVSKI 0,  JAKE COLLIER 2

@@ -1,0 +1,11 @@
+Fighter: TERRANCE MCKINNEY
+  Date of Birth: 1994-09-15
+  Career record: 13
+  First fight: 2021-06-12
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :229
+- Total takedowns landed :6
+- Knockdowns :3
+- Submission Attempts :5

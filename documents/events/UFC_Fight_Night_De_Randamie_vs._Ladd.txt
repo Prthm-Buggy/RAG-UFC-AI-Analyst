@@ -1,0 +1,18 @@
+Event : UFC Fight Night: De Randamie vs. Ladd
+    Date : July 13, 2019
+    Location: Sacramento, California, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Women's Bantamweight, Middleweight, Featherweight, Women's Strawweight
+
+    Fight Results:
+  - JULIANNA PENA def. NICCO MONTANO via Decision - Unanimous(R3)
+- BRIANNA FORTINO def. LIVINHA SOUZA via Decision - Unanimous(R3)
+- JONATHAN MARTINEZ def. PINGYUAN LIU via KO/TKO(R3)
+- MARVIN VETTORI def. CEZAR FERREIRA via Decision - Unanimous(R3)
+- GERMAINE DE RANDAMIE def. ASPEN LADD via KO/TKO(R1)
+- JOSH EMMETT def. MIRSAD BEKTIC via KO/TKO(R1)
+- KARL ROBERSON def. WELLINGTON TURMAN via Decision - Split(R3)
+- URIJAH FABER def. RICKY SIMON via KO/TKO(R1)
+- RYAN HALL def. DARREN ELKINS via Decision - Unanimous(R3)
+- BENITO LOPEZ def. VINCE MORALES via Decision - Unanimous(R3)
+- ANDRE FILI def. SHEYMON MORAES via KO/TKO(R1)

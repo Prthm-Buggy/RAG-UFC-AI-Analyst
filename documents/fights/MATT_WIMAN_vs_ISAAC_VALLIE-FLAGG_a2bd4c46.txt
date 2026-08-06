@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edgar vs Swanson
+    Date: November 22, 2014
+    Location: Austin, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATT WIMAN defeated ISAAC VALLIE-FLAGG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MATT WIMAN landed 68 significant strikes
+  - ISAAC VALLIE-FLAGG landed 80 significant strikes
+  - Knockdowns: MATT WIMAN 0,  ISAAC VALLIE-FLAGG 0
+  - Takedowns: MATT WIMAN 0,  ISAAC VALLIE-FLAGG 0

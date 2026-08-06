@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Sanchez vs Ellenberger
+    Date: February 15, 2012
+    Location: Omaha, Nebraska, USA
+    Weight Class: Lightweight
+    
+
+    Result: JUSTIN SALAS defeated ANTON KUIVANEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JUSTIN SALAS landed 50 significant strikes
+  - ANTON KUIVANEN landed 38 significant strikes
+  - Knockdowns: JUSTIN SALAS 0,  ANTON KUIVANEN 0
+  - Takedowns: JUSTIN SALAS 4,  ANTON KUIVANEN 0

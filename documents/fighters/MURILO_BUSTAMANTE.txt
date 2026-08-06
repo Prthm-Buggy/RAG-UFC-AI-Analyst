@@ -1,0 +1,11 @@
+Fighter: MURILO BUSTAMANTE
+  Date of Birth: 1966-07-30
+  Career record: 4
+  First fight: 2000-04-14
+  Last fight: 2002-05-10
+
+Career Statistics:
+- Significant Strikes Landed :52
+- Total takedowns landed :10
+- Knockdowns :2
+- Submission Attempts :3

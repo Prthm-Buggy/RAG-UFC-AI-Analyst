@@ -1,0 +1,11 @@
+Fighter: MARVIN EASTMAN
+  Date of Birth: 1971-06-08
+  Career record: 5
+  First fight: 2003-06-06
+  Last fight: 2008-06-21
+
+Career Statistics:
+- Significant Strikes Landed :69
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

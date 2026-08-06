@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Thompson vs. Till
+    Date: May 27, 2018
+    Location: Liverpool, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: DARREN STEWART defeated ERIC SPICELY via KO/TKO  
+  at 1:47 of round 2
+  Key stats:
+  - DARREN STEWART landed 34 significant strikes
+  - ERIC SPICELY landed 15 significant strikes
+  - Knockdowns: DARREN STEWART 1,  ERIC SPICELY 0
+  - Takedowns: DARREN STEWART 0,  ERIC SPICELY 0
+  Bonus: perf

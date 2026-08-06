@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rozenstruik vs. Almeida
+    Date: May 13, 2023
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Welterweight
+    
+
+    Result: IAN MACHADO GARRY defeated DANIEL RODRIGUEZ via KO/TKO  
+  at 2:57 of round 1
+  Key stats:
+  - IAN MACHADO GARRY landed 23 significant strikes
+  - DANIEL RODRIGUEZ landed 7 significant strikes
+  - Knockdowns: IAN MACHADO GARRY 1,  DANIEL RODRIGUEZ 0
+  - Takedowns: IAN MACHADO GARRY 0,  DANIEL RODRIGUEZ 0
+  Bonus: perf

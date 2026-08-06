@@ -1,0 +1,13 @@
+Event: UFC 42: Sudden Impact
+    Date: April 25, 2003
+    Location: Miami, Florida, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RICH FRANKLIN defeated EVAN TANNER via KO/TKO  
+  at 2:40 of round 1
+  Key stats:
+  - RICH FRANKLIN landed 16 significant strikes
+  - EVAN TANNER landed 6 significant strikes
+  - Knockdowns: RICH FRANKLIN 1,  EVAN TANNER 0
+  - Takedowns: RICH FRANKLIN 0,  EVAN TANNER 0

@@ -1,0 +1,13 @@
+Event: UFC 276: Adesanya vs. Cannonier
+    Date: July 02, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: IAN MACHADO GARRY defeated GABE GREEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - IAN MACHADO GARRY landed 116 significant strikes
+  - GABE GREEN landed 90 significant strikes
+  - Knockdowns: IAN MACHADO GARRY 1,  GABE GREEN 0
+  - Takedowns: IAN MACHADO GARRY 1,  GABE GREEN 1

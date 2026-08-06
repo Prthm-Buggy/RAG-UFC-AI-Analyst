@@ -1,0 +1,18 @@
+Event : UFC 275: Teixeira vs. Prochazka
+    Date : June 11, 2022
+    Location: Kallang, Singapore
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Bantamweight, Light Heavyweight, Welterweight, Women's Strawweight, Lightweight, Middleweight, Women's Featherweight, Featherweight
+
+    Fight Results:
+  - JACK DELLA MADDALENA def. RAMAZAN EMEEV via KO/TKO(R1)
+- BRENDAN ALLEN def. JACOB MALKOUN via Decision - Unanimous(R3)
+- MAHESHATE def. STEVE GARCIA via KO/TKO(R1)
+- JOSELYNE EDWARDS def. RAMONA PASCUAL via Decision - Unanimous(R3)
+- JIRI PROCHAZKA def. GLOVER TEIXEIRA via Submission(R5)
+- JAKE MATTHEWS def. ANDRE FIALHO via KO/TKO(R2)
+- KYUNG HO KANG def. BATGEREL DANAA via Decision - Unanimous(R3)
+- SILVANA GOMEZ JUAREZ def. LIANG NA via KO/TKO(R1)
+- ZHANG WEILI def. JOANNA JEDRZEJCZYK via KO/TKO(R2)
+- JOSH CULIBAO def. SEUNGWOO CHOI via Decision - Split(R3)
+- VALENTINA SHEVCHENKO def. TAILA SANTOS via Decision - Split(R5)

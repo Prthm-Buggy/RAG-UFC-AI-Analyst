@@ -1,0 +1,11 @@
+Fighter: CARLOS FELIPE
+  Date of Birth: 1995-01-12
+  Career record: 5
+  First fight: 2020-07-18
+  Last fight: 2021-10-16
+
+Career Statistics:
+- Significant Strikes Landed :366
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

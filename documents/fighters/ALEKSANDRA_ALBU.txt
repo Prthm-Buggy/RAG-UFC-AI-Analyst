@@ -1,0 +1,11 @@
+Fighter: ALEKSANDRA ALBU
+  Date of Birth: 1990-07-14
+  Career record: 4
+  First fight: 2015-04-11
+  Last fight: 2019-10-26
+
+Career Statistics:
+- Significant Strikes Landed :191
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

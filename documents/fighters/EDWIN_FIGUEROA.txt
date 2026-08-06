@@ -1,0 +1,11 @@
+Fighter: EDWIN FIGUEROA
+  Date of Birth: 1984-07-31
+  Career record: 6
+  First fight: 2011-03-26
+  Last fight: 2013-11-16
+
+Career Statistics:
+- Significant Strikes Landed :193
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :3

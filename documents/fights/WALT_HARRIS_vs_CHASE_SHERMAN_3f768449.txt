@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Penn
+    Date: January 15, 2017
+    Location: Phoenix, Arizona, USA
+    Weight Class: Heavyweight
+    
+
+    Result: WALT HARRIS defeated CHASE SHERMAN via KO/TKO  
+  at 2:41 of round 2
+  Key stats:
+  - WALT HARRIS landed 32 significant strikes
+  - CHASE SHERMAN landed 20 significant strikes
+  - Knockdowns: WALT HARRIS 1,  CHASE SHERMAN 0
+  - Takedowns: WALT HARRIS 0,  CHASE SHERMAN 0

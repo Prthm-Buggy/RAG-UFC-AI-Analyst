@@ -1,0 +1,14 @@
+Event: UFC 147: Silva vs Franklin 2
+    Date: June 23, 2012
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Catch Weight
+    
+
+    Result: RICH FRANKLIN defeated WANDERLEI SILVA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - RICH FRANKLIN landed 122 significant strikes
+  - WANDERLEI SILVA landed 58 significant strikes
+  - Knockdowns: RICH FRANKLIN 0,  WANDERLEI SILVA 1
+  - Takedowns: RICH FRANKLIN 1,  WANDERLEI SILVA 0
+  Bonus: fight

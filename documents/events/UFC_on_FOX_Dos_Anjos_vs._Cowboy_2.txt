@@ -1,0 +1,19 @@
+Event : UFC on FOX: Dos Anjos vs. Cowboy 2
+    Date : December 19, 2015
+    Location: Orlando, Florida, USA
+    Number of Fights: 12
+    Weight Classes: Women's Strawweight, Featherweight, Women's Bantamweight, Lightweight, Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - ALISTAIR OVEREEM def. JUNIOR DOS SANTOS via KO/TKO(R2)
+- CHARLES OLIVEIRA def. MYLES JURY via Submission(R1)
+- VALENTINA SHEVCHENKO def. SARAH KAUFMAN via Decision - Split(R3)
+- KAROLINA KOWALKIEWICZ def. RANDA MARKOS via Decision - Unanimous(R3)
+- VICENTE LUQUE def. HAYDER HASSAN via Submission(R1)
+- TAMDAN MCCRORY def. JOSH SAMMAN via Submission(R3)
+- KAMARU USMAN def. LEON EDWARDS via Decision - Unanimous(R3)
+- FRANCIS NGANNOU def. LUIS HENRIQUE via KO/TKO(R2)
+- RAFAEL DOS ANJOS def. DONALD CERRONE via KO/TKO(R1)
+- NIK LENTZ def. DANNY CASTILLO via Decision - Split(R3)
+- NATE MARQUARDT def. CB DOLLAWAY via KO/TKO(R2)
+- NATE DIAZ def. MICHAEL JOHNSON via Decision - Unanimous(R3)

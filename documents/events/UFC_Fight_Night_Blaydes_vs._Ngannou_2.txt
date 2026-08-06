@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Blaydes vs. Ngannou 2
+    Date : November 24, 2018
+    Location: Beijing, China
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Women's Flyweight, Welterweight, Women's Strawweight, Light Heavyweight, Middleweight
+
+    Fight Results:
+  - ZHANG WEILI def. JESSICA AGUILAR via Submission(R1)
+- YAN XIAONAN def. SYURI KONDO via Decision - Unanimous(R3)
+- ALEX MORONO def. SONG KENAN via Decision - Unanimous(R3)
+- KEVIN HOLLAND def. JOHN PHILLIPS via Submission(R3)
+- ALISTAIR OVEREEM def. SERGEI PAVLOVICH via KO/TKO(R1)
+- SONG YADONG def. VINCE MORALES via Decision - Unanimous(R3)
+- FRANCIS NGANNOU def. CURTIS BLAYDES via KO/TKO(R1)
+- RASHAD COULTER def. HU YAOZONG via Decision - Unanimous(R3)
+- LOUIS SMOLKA def. SUMUDAERJI via Submission(R2)
+- LI JINGLIANG def. DAVID ZAWADA via KO/TKO(R3)
+- WU YANAN def. LAUREN MUELLER via Submission(R1)
+- PINGYUAN LIU def. MARTIN DAY via Decision - Split(R3)

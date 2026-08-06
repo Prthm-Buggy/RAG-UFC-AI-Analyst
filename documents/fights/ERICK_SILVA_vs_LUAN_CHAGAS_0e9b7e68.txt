@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cyborg vs. Lansberg
+    Date: September 24, 2016
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: ERICK SILVA defeated LUAN CHAGAS via Submission  
+  at 3:57 of round 3
+  Key stats:
+  - ERICK SILVA landed 55 significant strikes
+  - LUAN CHAGAS landed 41 significant strikes
+  - Knockdowns: ERICK SILVA 1,  LUAN CHAGAS 2
+  - Takedowns: ERICK SILVA 0,  LUAN CHAGAS 1
+  Bonus: fight

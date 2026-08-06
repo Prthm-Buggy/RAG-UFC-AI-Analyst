@@ -1,0 +1,11 @@
+Fighter: JASON TAN
+  Date of Birth: 1981-12-17
+  Career record: 2
+  First fight: 2007-06-16
+  Last fight: 2008-05-24
+
+Career Statistics:
+- Significant Strikes Landed :8
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

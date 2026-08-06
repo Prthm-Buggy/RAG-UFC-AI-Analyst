@@ -1,0 +1,11 @@
+Fighter: TAE HYUN BANG
+  Date of Birth: 1983-04-15
+  Career record: 5
+  First fight: 2014-01-04
+  Last fight: 2016-09-03
+
+Career Statistics:
+- Significant Strikes Landed :166
+- Total takedowns landed :2
+- Knockdowns :3
+- Submission Attempts :2

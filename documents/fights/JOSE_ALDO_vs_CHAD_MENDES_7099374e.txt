@@ -1,0 +1,14 @@
+Event: UFC 179: Aldo vs Mendes 2
+    Date: October 25, 2014
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: JOSE ALDO defeated CHAD MENDES via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JOSE ALDO landed 102 significant strikes
+  - CHAD MENDES landed 77 significant strikes
+  - Knockdowns: JOSE ALDO 1,  CHAD MENDES 0
+  - Takedowns: JOSE ALDO 0,  CHAD MENDES 1
+  Bonus: belt

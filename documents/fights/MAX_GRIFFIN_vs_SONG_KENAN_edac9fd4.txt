@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Brunson vs. Holland
+    Date: March 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MAX GRIFFIN defeated SONG KENAN via KO/TKO  
+  at 2:20 of round 1
+  Key stats:
+  - MAX GRIFFIN landed 17 significant strikes
+  - SONG KENAN landed 14 significant strikes
+  - Knockdowns: MAX GRIFFIN 1,  SONG KENAN 0
+  - Takedowns: MAX GRIFFIN 0,  SONG KENAN 0
+  Bonus: perf

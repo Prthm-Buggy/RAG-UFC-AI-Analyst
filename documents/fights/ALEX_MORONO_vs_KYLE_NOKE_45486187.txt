@@ -1,0 +1,13 @@
+Event: UFC 195: Lawler vs Condit
+    Date: January 02, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALEX MORONO defeated KYLE NOKE via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ALEX MORONO landed 43 significant strikes
+  - KYLE NOKE landed 59 significant strikes
+  - Knockdowns: ALEX MORONO 0,  KYLE NOKE 0
+  - Takedowns: ALEX MORONO 0,  KYLE NOKE 1

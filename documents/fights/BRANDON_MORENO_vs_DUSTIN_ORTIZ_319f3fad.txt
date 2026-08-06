@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Swanson vs. Lobov
+    Date: April 22, 2017
+    Location: Nashville, Tennessee, USA
+    Weight Class: Flyweight
+    
+
+    Result: BRANDON MORENO defeated DUSTIN ORTIZ via Submission  
+  at 4:06 of round 2
+  Key stats:
+  - BRANDON MORENO landed 24 significant strikes
+  - DUSTIN ORTIZ landed 16 significant strikes
+  - Knockdowns: BRANDON MORENO 1,  DUSTIN ORTIZ 0
+  - Takedowns: BRANDON MORENO 0,  DUSTIN ORTIZ 4
+  Bonus: perf

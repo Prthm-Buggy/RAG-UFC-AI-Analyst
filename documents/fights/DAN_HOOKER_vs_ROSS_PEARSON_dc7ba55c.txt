@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Hunt
+    Date: June 10, 2017
+    Location: Auckland, New Zealand
+    Weight Class: Lightweight
+    
+
+    Result: DAN HOOKER defeated ROSS PEARSON via KO/TKO  
+  at 3:02 of round 2
+  Key stats:
+  - DAN HOOKER landed 69 significant strikes
+  - ROSS PEARSON landed 38 significant strikes
+  - Knockdowns: DAN HOOKER 1,  ROSS PEARSON 0
+  - Takedowns: DAN HOOKER 0,  ROSS PEARSON 0
+  Bonus: perf

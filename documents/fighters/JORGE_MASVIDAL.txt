@@ -1,0 +1,11 @@
+Fighter: JORGE MASVIDAL
+  Date of Birth: 1984-11-12
+  Career record: 22
+  First fight: 2013-04-20
+  Last fight: 2023-04-08
+
+Career Statistics:
+- Significant Strikes Landed :1170
+- Total takedowns landed :17
+- Knockdowns :9
+- Submission Attempts :7

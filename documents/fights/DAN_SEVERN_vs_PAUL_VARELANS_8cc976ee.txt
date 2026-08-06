@@ -1,0 +1,13 @@
+Event: UFC - Ultimate Ultimate '95
+    Date: December 16, 1995
+    Location: Denver, Colorado, USA
+    Weight Class: Open Weight
+    
+
+    Result: DAN SEVERN defeated PAUL VARELANS via Submission  
+  at 1:01 of round 1
+  Key stats:
+  - DAN SEVERN landed 0 significant strikes
+  - PAUL VARELANS landed 1 significant strikes
+  - Knockdowns: DAN SEVERN 0,  PAUL VARELANS 0
+  - Takedowns: DAN SEVERN 1,  PAUL VARELANS 0

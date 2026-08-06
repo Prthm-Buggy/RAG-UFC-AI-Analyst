@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Waterson vs. Hill
+    Date: September 12, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ED HERMAN defeated MIKE RODRIGUEZ via Submission  
+  at 2:41 of round 3
+  Key stats:
+  - ED HERMAN landed 40 significant strikes
+  - MIKE RODRIGUEZ landed 89 significant strikes
+  - Knockdowns: ED HERMAN 0,  MIKE RODRIGUEZ 2
+  - Takedowns: ED HERMAN 2,  MIKE RODRIGUEZ 0

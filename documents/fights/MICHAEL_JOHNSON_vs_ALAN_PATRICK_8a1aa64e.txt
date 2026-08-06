@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blachowicz vs. Rakic
+    Date: May 14, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MICHAEL JOHNSON defeated ALAN PATRICK via KO/TKO  
+  at 3:22 of round 2
+  Key stats:
+  - MICHAEL JOHNSON landed 30 significant strikes
+  - ALAN PATRICK landed 22 significant strikes
+  - Knockdowns: MICHAEL JOHNSON 1,  ALAN PATRICK 0
+  - Takedowns: MICHAEL JOHNSON 1,  ALAN PATRICK 0

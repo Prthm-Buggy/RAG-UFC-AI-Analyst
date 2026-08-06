@@ -1,0 +1,14 @@
+Event: UFC 98: Evans vs Machida
+    Date: May 23, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: BROCK LARSON defeated MIKE PYLE via Submission  
+  at 3:06 of round 1
+  Key stats:
+  - BROCK LARSON landed 4 significant strikes
+  - MIKE PYLE landed 1 significant strikes
+  - Knockdowns: BROCK LARSON 0,  MIKE PYLE 0
+  - Takedowns: BROCK LARSON 1,  MIKE PYLE 0
+  Bonus: sub

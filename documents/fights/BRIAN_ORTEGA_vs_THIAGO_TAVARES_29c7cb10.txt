@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Boetsch vs Henderson
+    Date: June 06, 2015
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Featherweight
+    
+
+    Result: BRIAN ORTEGA defeated THIAGO TAVARES via KO/TKO  
+  at 4:10 of round 3
+  Key stats:
+  - BRIAN ORTEGA landed 41 significant strikes
+  - THIAGO TAVARES landed 39 significant strikes
+  - Knockdowns: BRIAN ORTEGA 1,  THIAGO TAVARES 0
+  - Takedowns: BRIAN ORTEGA 0,  THIAGO TAVARES 6
+  Bonus: fight

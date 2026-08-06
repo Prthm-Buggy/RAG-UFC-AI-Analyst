@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ortega vs. Rodriguez
+    Date: July 16, 2022
+    Location: Elmont, New York, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: EMILY DUCOTE defeated JESSICA PENNE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - EMILY DUCOTE landed 116 significant strikes
+  - JESSICA PENNE landed 63 significant strikes
+  - Knockdowns: EMILY DUCOTE 0,  JESSICA PENNE 0
+  - Takedowns: EMILY DUCOTE 0,  JESSICA PENNE 0

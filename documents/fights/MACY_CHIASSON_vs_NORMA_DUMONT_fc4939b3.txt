@@ -1,0 +1,13 @@
+Event: UFC 274: Oliveira vs. Gaethje
+    Date: May 07, 2022
+    Location: Phoenix, Arizona, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: MACY CHIASSON defeated NORMA DUMONT via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MACY CHIASSON landed 32 significant strikes
+  - NORMA DUMONT landed 38 significant strikes
+  - Knockdowns: MACY CHIASSON 0,  NORMA DUMONT 0
+  - Takedowns: MACY CHIASSON 6,  NORMA DUMONT 0

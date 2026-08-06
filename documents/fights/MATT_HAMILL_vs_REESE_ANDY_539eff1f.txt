@@ -1,0 +1,13 @@
+Event: UFC 92: The Ultimate 2008
+    Date: December 27, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MATT HAMILL defeated REESE ANDY via KO/TKO  
+  at 2:19 of round 2
+  Key stats:
+  - MATT HAMILL landed 40 significant strikes
+  - REESE ANDY landed 34 significant strikes
+  - Knockdowns: MATT HAMILL 0,  REESE ANDY 0
+  - Takedowns: MATT HAMILL 1,  REESE ANDY 0

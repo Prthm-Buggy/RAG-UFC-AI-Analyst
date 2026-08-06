@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Rodrigues
+    Date: February 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: EDMEN SHAHBAZYAN defeated DYLAN BUDKA via KO/TKO  
+  at 1:35 of round 1
+  Key stats:
+  - EDMEN SHAHBAZYAN landed 7 significant strikes
+  - DYLAN BUDKA landed 1 significant strikes
+  - Knockdowns: EDMEN SHAHBAZYAN 1,  DYLAN BUDKA 0
+  - Takedowns: EDMEN SHAHBAZYAN 0,  DYLAN BUDKA 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: IAN LOVELAND
+  Date of Birth: 1983-09-07
+  Career record: 3
+  First fight: 2010-12-04
+  Last fight: 2011-08-27
+
+Career Statistics:
+- Significant Strikes Landed :122
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :1

@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Cannonier vs. Imavov
+    Date : June 08, 2024
+    Location: Louisville, Kentucky, USA
+    Number of Fights: 14
+    Weight Classes: Women's Strawweight, Welterweight, Middleweight, Lightweight, Light Heavyweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - PUNAHELE SORIANO def. MIGUEL BAEZA via Decision - Unanimous(R3)
+- BRUNNO FERREIRA def. DUSTIN STOLTZFUS via KO/TKO(R1)
+- DANIEL MARCOS def. JOHN CASTANEDA via Decision - Unanimous(R3)
+- DENISE GOMES def. EDUARDA MOURA via Decision - Split(R3)
+- PUJA TOMAR def. RAYANNE DOS SANTOS via Decision - Split(R3)
+- CARLOS PRATES def. CHARLES RADTKE via KO/TKO(R1)
+- ZACH REESE def. JULIAN MARQUEZ via KO/TKO(R1)
+- DOMINICK REYES def. DUSTIN JACOBY via KO/TKO(R1)
+- RAUL ROSAS JR. def. RICKY TURCIOS via Submission(R2)
+- NASSOURDINE IMAVOV def. JARED CANNONIER via KO/TKO(R4)
+- TAYLOR LAPILUS def. CODY STAMANN via Decision - Unanimous(R3)
+- LUDOVIT KLEIN def. THIAGO MOISES via Decision - Unanimous(R3)
+- MONTANA DE LA ROSA def. ANDREA LEE via Decision - Split(R3)
+- BRAD KATONA def. JESSE BUTLER via Decision - Unanimous(R3)

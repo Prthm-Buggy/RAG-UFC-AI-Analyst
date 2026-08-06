@@ -1,0 +1,11 @@
+Fighter: DENIS TIULIULIN
+  Date of Birth: 1988-05-17
+  Career record: 6
+  First fight: 2022-03-26
+  Last fight: 2024-08-03
+
+Career Statistics:
+- Significant Strikes Landed :170
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :0

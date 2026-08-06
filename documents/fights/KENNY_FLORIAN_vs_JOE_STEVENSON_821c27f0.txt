@@ -1,0 +1,13 @@
+Event: UFC 91: Couture vs Lesnar
+    Date: November 15, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: KENNY FLORIAN defeated JOE STEVENSON via Submission  
+  at 4:03 of round 1
+  Key stats:
+  - KENNY FLORIAN landed 17 significant strikes
+  - JOE STEVENSON landed 6 significant strikes
+  - Knockdowns: KENNY FLORIAN 0,  JOE STEVENSON 0
+  - Takedowns: KENNY FLORIAN 1,  JOE STEVENSON 1

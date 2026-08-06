@@ -1,0 +1,11 @@
+Fighter: CRISTIANO MARCELLO
+  Date of Birth: 1977-12-03
+  Career record: 4
+  First fight: 2012-06-01
+  Last fight: 2014-02-15
+
+Career Statistics:
+- Significant Strikes Landed :170
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

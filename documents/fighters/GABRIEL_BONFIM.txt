@@ -1,0 +1,11 @@
+Fighter: GABRIEL BONFIM
+  Date of Birth: 1997-08-20
+  Career record: 8
+  First fight: 2023-01-21
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :390
+- Total takedowns landed :14
+- Knockdowns :1
+- Submission Attempts :5

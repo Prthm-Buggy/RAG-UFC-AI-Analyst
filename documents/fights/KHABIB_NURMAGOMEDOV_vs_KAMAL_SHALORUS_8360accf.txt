@@ -1,0 +1,13 @@
+Event: UFC on FX: Guillard vs Miller
+    Date: January 20, 2012
+    Location: Nashville, Tennessee, USA
+    Weight Class: Lightweight
+    
+
+    Result: KHABIB NURMAGOMEDOV defeated KAMAL SHALORUS via Submission  
+  at 2:08 of round 3
+  Key stats:
+  - KHABIB NURMAGOMEDOV landed 35 significant strikes
+  - KAMAL SHALORUS landed 13 significant strikes
+  - Knockdowns: KHABIB NURMAGOMEDOV 1,  KAMAL SHALORUS 0
+  - Takedowns: KHABIB NURMAGOMEDOV 3,  KAMAL SHALORUS 0

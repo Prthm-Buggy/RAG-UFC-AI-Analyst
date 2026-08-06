@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Brunson vs. Holland
+    Date : March 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Heavyweight, Flyweight, Middleweight, Lightweight, Women's Bantamweight, Women's Strawweight, Welterweight
+
+    Fight Results:
+  - GRANT DAWSON def. LEONARDO SANTOS via KO/TKO(R3)
+- MONTSERRAT CONEJO RUIZ def. CHEYANNE VLISMAS via Decision - Unanimous(R3)
+- BRUNO SILVA def. JP BUYS via KO/TKO(R2)
+- TREVIN GILES def. ROMAN DOLIDZE via Decision - Unanimous(R3)
+- ADRIAN YANEZ def. GUSTAVO LOPEZ via KO/TKO(R3)
+- MAX GRIFFIN def. SONG KENAN via KO/TKO(R1)
+- MACY CHIASSON def. MARION RENEAU via Decision - Unanimous(R3)
+- DEREK BRUNSON def. KEVIN HOLLAND via Decision - Unanimous(R5)
+- MONTEL JACKSON def. JESSE STRADER via KO/TKO(R1)
+- TAI TUIVASA def. HARRY HUNSUCKER via KO/TKO(R1)

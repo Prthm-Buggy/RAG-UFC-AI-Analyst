@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs Arlovski
+    Date: May 08, 2016
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Women's Bantamweight
+    
+
+    Result: GERMAINE DE RANDAMIE defeated ANNA ELMOSE via KO/TKO  
+  at 3:46 of round 1
+  Key stats:
+  - GERMAINE DE RANDAMIE landed 18 significant strikes
+  - ANNA ELMOSE landed 6 significant strikes
+  - Knockdowns: GERMAINE DE RANDAMIE 1,  ANNA ELMOSE 0
+  - Takedowns: GERMAINE DE RANDAMIE 0,  ANNA ELMOSE 0
+  Bonus: perf

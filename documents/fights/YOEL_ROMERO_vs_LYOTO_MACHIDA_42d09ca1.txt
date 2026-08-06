@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs Romero
+    Date: June 27, 2015
+    Location: Hollywood, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: YOEL ROMERO defeated LYOTO MACHIDA via KO/TKO  
+  at 1:38 of round 3
+  Key stats:
+  - YOEL ROMERO landed 42 significant strikes
+  - LYOTO MACHIDA landed 31 significant strikes
+  - Knockdowns: YOEL ROMERO 0,  LYOTO MACHIDA 0
+  - Takedowns: YOEL ROMERO 1,  LYOTO MACHIDA 0
+  Bonus: perf

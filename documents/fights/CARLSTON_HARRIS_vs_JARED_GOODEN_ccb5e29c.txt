@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yan vs. Dvalishvili
+    Date: March 11, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLSTON HARRIS defeated JARED GOODEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CARLSTON HARRIS landed 63 significant strikes
+  - JARED GOODEN landed 51 significant strikes
+  - Knockdowns: CARLSTON HARRIS 0,  JARED GOODEN 0
+  - Takedowns: CARLSTON HARRIS 5,  JARED GOODEN 0

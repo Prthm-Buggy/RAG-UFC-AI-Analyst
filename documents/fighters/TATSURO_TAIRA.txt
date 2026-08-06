@@ -1,0 +1,11 @@
+Fighter: TATSURO TAIRA
+  Date of Birth: 2000-01-27
+  Career record: 10
+  First fight: 2022-05-14
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :337
+- Total takedowns landed :28
+- Knockdowns :3
+- Submission Attempts :10

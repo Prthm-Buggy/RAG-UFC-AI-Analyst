@@ -1,0 +1,11 @@
+Fighter: ANTONIO RODRIGO NOGUEIRA
+  Date of Birth: 1976-06-02
+  Career record: 11
+  First fight: 2007-07-07
+  Last fight: 2015-08-01
+
+Career Statistics:
+- Significant Strikes Landed :264
+- Total takedowns landed :8
+- Knockdowns :4
+- Submission Attempts :10

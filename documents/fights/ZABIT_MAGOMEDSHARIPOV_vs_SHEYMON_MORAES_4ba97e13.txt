@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bisping vs. Gastelum
+    Date: November 25, 2017
+    Location: Shanghai, Hebei, China
+    Weight Class: Featherweight
+    
+
+    Result: ZABIT MAGOMEDSHARIPOV defeated SHEYMON MORAES via Submission  
+  at 4:30 of round 3
+  Key stats:
+  - ZABIT MAGOMEDSHARIPOV landed 34 significant strikes
+  - SHEYMON MORAES landed 18 significant strikes
+  - Knockdowns: ZABIT MAGOMEDSHARIPOV 0,  SHEYMON MORAES 0
+  - Takedowns: ZABIT MAGOMEDSHARIPOV 11,  SHEYMON MORAES 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Vieira
+    Date: May 21, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: UROS MEDIC defeated OMAR MORALES via KO/TKO  
+  at 3:05 of round 2
+  Key stats:
+  - UROS MEDIC landed 47 significant strikes
+  - OMAR MORALES landed 33 significant strikes
+  - Knockdowns: UROS MEDIC 2,  OMAR MORALES 0
+  - Takedowns: UROS MEDIC 0,  OMAR MORALES 0

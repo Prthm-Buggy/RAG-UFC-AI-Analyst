@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Anderson vs. Blachowicz
+    Date: February 15, 2020
+    Location: Rio Rancho, New Mexico, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DEVIN CLARK defeated DEQUAN TOWNSEND via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DEVIN CLARK landed 39 significant strikes
+  - DEQUAN TOWNSEND landed 6 significant strikes
+  - Knockdowns: DEVIN CLARK 0,  DEQUAN TOWNSEND 0
+  - Takedowns: DEVIN CLARK 3,  DEQUAN TOWNSEND 0

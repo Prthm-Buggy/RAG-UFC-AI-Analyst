@@ -1,0 +1,11 @@
+Fighter: JASON VON FLUE
+  Date of Birth: 1975-08-01
+  Career record: 3
+  First fight: 2006-01-16
+  Last fight: 2006-08-17
+
+Career Statistics:
+- Significant Strikes Landed :45
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :3

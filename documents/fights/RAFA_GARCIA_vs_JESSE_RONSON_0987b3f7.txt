@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Luque vs. Muhammad
+    Date: April 16, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: RAFA GARCIA defeated JESSE RONSON via Submission  
+  at 4:50 of round 2
+  Key stats:
+  - RAFA GARCIA landed 35 significant strikes
+  - JESSE RONSON landed 25 significant strikes
+  - Knockdowns: RAFA GARCIA 0,  JESSE RONSON 0
+  - Takedowns: RAFA GARCIA 3,  JESSE RONSON 0

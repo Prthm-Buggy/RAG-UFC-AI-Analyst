@@ -1,0 +1,14 @@
+Event: UFC 305: Du Plessis vs. Adesanya
+    Date: August 17, 2024
+    Location: Perth, Western Australia, Australia
+    Weight Class: Middleweight
+    
+
+    Result: DRICUS DU PLESSIS defeated ISRAEL ADESANYA via Submission  
+  at 3:38 of round 4
+  Key stats:
+  - DRICUS DU PLESSIS landed 90 significant strikes
+  - ISRAEL ADESANYA landed 97 significant strikes
+  - Knockdowns: DRICUS DU PLESSIS 0,  ISRAEL ADESANYA 0
+  - Takedowns: DRICUS DU PLESSIS 4,  ISRAEL ADESANYA 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Tournament of Champions Finale
+    Date: December 03, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DONG HYUN MA defeated BRENDAN O'REILLY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DONG HYUN MA landed 21 significant strikes
+  - BRENDAN O'REILLY landed 25 significant strikes
+  - Knockdowns: DONG HYUN MA 0,  BRENDAN O'REILLY 0
+  - Takedowns: DONG HYUN MA 4,  BRENDAN O'REILLY 0

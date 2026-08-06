@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holm vs. Bueno Silva
+    Date: July 15, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: FRANCISCO PRADO defeated OTTMAN AZAITAR via KO/TKO  
+  at 4:05 of round 1
+  Key stats:
+  - FRANCISCO PRADO landed 38 significant strikes
+  - OTTMAN AZAITAR landed 14 significant strikes
+  - Knockdowns: FRANCISCO PRADO 1,  OTTMAN AZAITAR 0
+  - Takedowns: FRANCISCO PRADO 0,  OTTMAN AZAITAR 0
+  Bonus: perf

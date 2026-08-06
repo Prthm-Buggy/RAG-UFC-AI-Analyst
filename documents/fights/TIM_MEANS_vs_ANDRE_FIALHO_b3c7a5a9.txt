@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Fiziev vs. Gamrot
+    Date: September 23, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: TIM MEANS defeated ANDRE FIALHO via KO/TKO  
+  at 1:15 of round 3
+  Key stats:
+  - TIM MEANS landed 104 significant strikes
+  - ANDRE FIALHO landed 51 significant strikes
+  - Knockdowns: TIM MEANS 2,  ANDRE FIALHO 0
+  - Takedowns: TIM MEANS 0,  ANDRE FIALHO 1
+  Bonus: fight

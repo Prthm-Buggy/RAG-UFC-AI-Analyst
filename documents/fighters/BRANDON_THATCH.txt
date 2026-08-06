@@ -1,0 +1,11 @@
+Fighter: BRANDON THATCH
+  Date of Birth: 1985-07-11
+  Career record: 6
+  First fight: 2013-08-28
+  Last fight: 2016-12-30
+
+Career Statistics:
+- Significant Strikes Landed :119
+- Total takedowns landed :4
+- Knockdowns :3
+- Submission Attempts :2

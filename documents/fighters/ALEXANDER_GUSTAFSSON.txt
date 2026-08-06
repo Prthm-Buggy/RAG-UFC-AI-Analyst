@@ -1,0 +1,11 @@
+Fighter: ALEXANDER GUSTAFSSON
+  Date of Birth: 1987-01-15
+  Career record: 18
+  First fight: 2009-11-14
+  Last fight: 2022-07-23
+
+Career Statistics:
+- Significant Strikes Landed :751
+- Total takedowns landed :19
+- Knockdowns :9
+- Submission Attempts :5

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cyborg vs. Lansberg
+    Date: September 24, 2016
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated HECTOR URBINA via KO/TKO  
+  at 1:00 of round 1
+  Key stats:
+  - VICENTE LUQUE landed 11 significant strikes
+  - HECTOR URBINA landed 5 significant strikes
+  - Knockdowns: VICENTE LUQUE 1,  HECTOR URBINA 0
+  - Takedowns: VICENTE LUQUE 0,  HECTOR URBINA 0
+  Bonus: perf

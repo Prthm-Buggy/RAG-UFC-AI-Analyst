@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. Till
+    Date: July 25, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Heavyweight
+    
+
+    Result: FABRICIO WERDUM defeated ALEXANDER GUSTAFSSON via Submission  
+  at 2:30 of round 1
+  Key stats:
+  - FABRICIO WERDUM landed 4 significant strikes
+  - ALEXANDER GUSTAFSSON landed 11 significant strikes
+  - Knockdowns: FABRICIO WERDUM 0,  ALEXANDER GUSTAFSSON 0
+  - Takedowns: FABRICIO WERDUM 1,  ALEXANDER GUSTAFSSON 0
+  Bonus: perf

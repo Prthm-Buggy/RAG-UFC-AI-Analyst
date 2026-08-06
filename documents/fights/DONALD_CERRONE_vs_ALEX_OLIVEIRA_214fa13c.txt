@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cowboy vs Cowboy
+    Date: February 21, 2016
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Welterweight
+    
+
+    Result: DONALD CERRONE defeated ALEX OLIVEIRA via Submission  
+  at 2:33 of round 1
+  Key stats:
+  - DONALD CERRONE landed 4 significant strikes
+  - ALEX OLIVEIRA landed 14 significant strikes
+  - Knockdowns: DONALD CERRONE 0,  ALEX OLIVEIRA 0
+  - Takedowns: DONALD CERRONE 1,  ALEX OLIVEIRA 0
+  Bonus: perf

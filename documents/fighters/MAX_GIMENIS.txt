@@ -1,0 +1,11 @@
+Fighter: MAX GIMENIS
+  Date of Birth: 1993-04-14
+  Career record: 1
+  First fight: 2025-11-08
+  Last fight: 2025-11-08
+
+Career Statistics:
+- Significant Strikes Landed :3
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

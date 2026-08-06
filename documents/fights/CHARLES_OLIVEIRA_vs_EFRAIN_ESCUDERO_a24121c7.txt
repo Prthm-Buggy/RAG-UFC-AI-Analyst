@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Marquardt vs Palhares
+    Date: September 15, 2010
+    Location: Austin, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated EFRAIN ESCUDERO via Submission  
+  at 2:25 of round 3
+  Key stats:
+  - CHARLES OLIVEIRA landed 35 significant strikes
+  - EFRAIN ESCUDERO landed 13 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  EFRAIN ESCUDERO 0
+  - Takedowns: CHARLES OLIVEIRA 2,  EFRAIN ESCUDERO 0
+  Bonus: sub

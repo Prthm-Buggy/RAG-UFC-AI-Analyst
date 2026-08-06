@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Barao vs McDonald
+    Date: February 16, 2013
+    Location: London, England, United Kingdom
+    Weight Class: Bantamweight
+    
+
+    Result: VAUGHAN LEE defeated MOTONOBU TEZUKA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - VAUGHAN LEE landed 20 significant strikes
+  - MOTONOBU TEZUKA landed 4 significant strikes
+  - Knockdowns: VAUGHAN LEE 0,  MOTONOBU TEZUKA 0
+  - Takedowns: VAUGHAN LEE 0,  MOTONOBU TEZUKA 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Royval 2
+    Date: February 24, 2024
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Flyweight
+    
+
+    Result: RONALDO RODRIGUEZ defeated DENYS BONDAR via Submission  
+  at 4:59 of round 2
+  Key stats:
+  - RONALDO RODRIGUEZ landed 31 significant strikes
+  - DENYS BONDAR landed 41 significant strikes
+  - Knockdowns: RONALDO RODRIGUEZ 0,  DENYS BONDAR 0
+  - Takedowns: RONALDO RODRIGUEZ 0,  DENYS BONDAR 4

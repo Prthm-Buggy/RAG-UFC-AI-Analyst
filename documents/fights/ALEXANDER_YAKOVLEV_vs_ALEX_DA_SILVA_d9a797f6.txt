@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Oleinik
+    Date: April 20, 2019
+    Location: Saint Petersburg, Saint Petersburg, Russia
+    Weight Class: Lightweight
+    
+
+    Result: ALEXANDER YAKOVLEV defeated ALEX DA SILVA via Submission  
+  at 3:10 of round 2
+  Key stats:
+  - ALEXANDER YAKOVLEV landed 14 significant strikes
+  - ALEX DA SILVA landed 8 significant strikes
+  - Knockdowns: ALEXANDER YAKOVLEV 0,  ALEX DA SILVA 0
+  - Takedowns: ALEXANDER YAKOVLEV 1,  ALEX DA SILVA 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kattar vs. Ige
+    Date: July 15, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Featherweight
+    
+
+    Result: JARED GORDON defeated CHRIS FISHGOLD via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JARED GORDON landed 44 significant strikes
+  - CHRIS FISHGOLD landed 20 significant strikes
+  - Knockdowns: JARED GORDON 0,  CHRIS FISHGOLD 0
+  - Takedowns: JARED GORDON 3,  CHRIS FISHGOLD 0

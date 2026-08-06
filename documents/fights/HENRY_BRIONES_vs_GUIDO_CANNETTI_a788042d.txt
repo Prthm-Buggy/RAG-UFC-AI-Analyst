@@ -1,0 +1,14 @@
+Event: UFC 180: Werdum vs Hunt
+    Date: November 15, 2014
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Bantamweight
+    
+
+    Result: HENRY BRIONES defeated GUIDO CANNETTI via Submission  
+  at 1:44 of round 2
+  Key stats:
+  - HENRY BRIONES landed 32 significant strikes
+  - GUIDO CANNETTI landed 35 significant strikes
+  - Knockdowns: HENRY BRIONES 1,  GUIDO CANNETTI 0
+  - Takedowns: HENRY BRIONES 0,  GUIDO CANNETTI 1
+  Bonus: fight

@@ -1,0 +1,11 @@
+Fighter: ALATENGHEILI
+  Date of Birth: 1991-12-14
+  Career record: 8
+  First fight: 2019-08-31
+  Last fight: 2025-04-26
+
+Career Statistics:
+- Significant Strikes Landed :304
+- Total takedowns landed :14
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Diaz vs Neer
+    Date : September 17, 2008
+    Location: Omaha, Nebraska, USA
+    Number of Fights: 10
+    Weight Classes: Lightweight, Middleweight, Light Heavyweight
+
+    Fight Results:
+  - NATE DIAZ def. JOSH NEER via Decision - Split(R3)
+- DAN MILLER def. ROB KIMMONS via Submission(R1)
+- ERIC SCHAFER def. HOUSTON ALEXANDER via Submission(R1)
+- CLAY GUIDA def. MAC DANZIG via Decision - Unanimous(R3)
+- JOE LAUZON def. KYLE BRADLEY via KO/TKO(R2)
+- MIKE MASSENZIO def. DREW MCFEDRIES via Submission(R1)
+- WILSON GOUVEIA def. RYAN JENSEN via Submission(R2)
+- ALAN BELCHER def. ED HERMAN via Decision - Split(R3)
+- ALESSIO SAKARA def. JOE VEDEPO via KO/TKO(R1)
+- JASON BRILZ def. BRAD MORRIS via KO/TKO(R2)

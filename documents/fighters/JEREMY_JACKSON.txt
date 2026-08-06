@@ -1,0 +1,11 @@
+Fighter: JEREMY JACKSON
+  Date of Birth: 1982-09-19
+  Career record: 2
+  First fight: 2003-09-26
+  Last fight: 2006-11-11
+
+Career Statistics:
+- Significant Strikes Landed :14
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

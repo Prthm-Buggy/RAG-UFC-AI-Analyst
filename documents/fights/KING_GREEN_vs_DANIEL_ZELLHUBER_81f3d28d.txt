@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Kavanagh
+    Date: February 28, 2026
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Lightweight
+    
+
+    Result: KING GREEN defeated DANIEL ZELLHUBER via KO/TKO  
+  at 4:55 of round 2
+  Key stats:
+  - KING GREEN landed 86 significant strikes
+  - DANIEL ZELLHUBER landed 17 significant strikes
+  - Knockdowns: KING GREEN 1,  DANIEL ZELLHUBER 0
+  - Takedowns: KING GREEN 3,  DANIEL ZELLHUBER 0

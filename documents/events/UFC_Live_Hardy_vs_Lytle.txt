@@ -1,0 +1,19 @@
+Event : UFC Live: Hardy vs Lytle
+    Date : August 14, 2011
+    Location: Milwaukee, Wisconsin, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Middleweight, Welterweight, Lightweight, Light Heavyweight, Featherweight
+
+    Fight Results:
+  - DONALD CERRONE def. CHARLES OLIVEIRA via KO/TKO(R1)
+- JOSEPH BENAVIDEZ def. EDDIE WINELAND via Decision - Unanimous(R3)
+- ED HERMAN def. KYLE NOKE via Submission(R1)
+- RONNY MARKES def. KARLOS VEMOLA via Decision - Unanimous(R3)
+- CHRIS LYTLE def. DAN HARDY via Submission(R3)
+- BENSON HENDERSON def. JIM MILLER via Decision - Unanimous(R3)
+- JIMY HETTES def. ALEX CACERES via Submission(R2)
+- DUANE LUDWIG def. AMIR SADOLLAH via Decision - Unanimous(R3)
+- JACOB VOLKMANN def. DANNY CASTILLO via Decision - Unanimous(R3)
+- JARED HAMMAN def. CB DOLLAWAY via KO/TKO(R2)
+- COLE MILLER def. TJ O'BRIEN via Submission(R2)
+- EDWIN FIGUEROA def. JASON REINHARDT via KO/TKO(R2)

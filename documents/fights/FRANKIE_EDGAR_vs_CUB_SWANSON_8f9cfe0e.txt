@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edgar vs Swanson
+    Date: November 22, 2014
+    Location: Austin, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: FRANKIE EDGAR defeated CUB SWANSON via Submission  
+  at 4:56 of round 5
+  Key stats:
+  - FRANKIE EDGAR landed 93 significant strikes
+  - CUB SWANSON landed 31 significant strikes
+  - Knockdowns: FRANKIE EDGAR 0,  CUB SWANSON 0
+  - Takedowns: FRANKIE EDGAR 7,  CUB SWANSON 0
+  Bonus: perf

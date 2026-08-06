@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Munhoz vs. Edgar
+    Date: August 22, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: FRANKIE EDGAR defeated PEDRO MUNHOZ via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - FRANKIE EDGAR landed 135 significant strikes
+  - PEDRO MUNHOZ landed 166 significant strikes
+  - Knockdowns: FRANKIE EDGAR 0,  PEDRO MUNHOZ 0
+  - Takedowns: FRANKIE EDGAR 2,  PEDRO MUNHOZ 0
+  Bonus: fight

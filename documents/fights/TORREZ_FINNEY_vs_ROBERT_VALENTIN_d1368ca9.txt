@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Murphy
+    Date: April 05, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: TORREZ FINNEY defeated ROBERT VALENTIN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - TORREZ FINNEY landed 4 significant strikes
+  - ROBERT VALENTIN landed 23 significant strikes
+  - Knockdowns: TORREZ FINNEY 0,  ROBERT VALENTIN 0
+  - Takedowns: TORREZ FINNEY 8,  ROBERT VALENTIN 0

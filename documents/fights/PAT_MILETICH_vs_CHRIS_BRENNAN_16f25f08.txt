@@ -1,0 +1,13 @@
+Event: UFC 16: Battle in the Bayou
+    Date: March 13, 1998
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Lightweight
+    
+
+    Result: PAT MILETICH defeated CHRIS BRENNAN via Submission  
+  at 9:02 of round 1
+  Key stats:
+  - PAT MILETICH landed 6 significant strikes
+  - CHRIS BRENNAN landed 2 significant strikes
+  - Knockdowns: PAT MILETICH 0,  CHRIS BRENNAN 0
+  - Takedowns: PAT MILETICH 0,  CHRIS BRENNAN 1

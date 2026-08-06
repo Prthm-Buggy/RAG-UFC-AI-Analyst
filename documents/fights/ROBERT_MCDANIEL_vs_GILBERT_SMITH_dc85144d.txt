@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Jones vs. Team Sonnen Finale
+    Date: April 13, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROBERT MCDANIEL defeated GILBERT SMITH via Submission  
+  at 2:49 of round 3
+  Key stats:
+  - ROBERT MCDANIEL landed 35 significant strikes
+  - GILBERT SMITH landed 14 significant strikes
+  - Knockdowns: ROBERT MCDANIEL 0,  GILBERT SMITH 0
+  - Takedowns: ROBERT MCDANIEL 0,  GILBERT SMITH 3

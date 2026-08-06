@@ -1,0 +1,11 @@
+Fighter: ISAAC VALLIE-FLAGG
+  Date of Birth: 1978-04-08
+  Career record: 4
+  First fight: 2013-02-02
+  Last fight: 2014-11-22
+
+Career Statistics:
+- Significant Strikes Landed :284
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

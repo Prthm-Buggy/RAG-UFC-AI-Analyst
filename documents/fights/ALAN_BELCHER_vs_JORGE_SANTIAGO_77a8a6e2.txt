@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sanchez vs Riggs
+    Date: December 13, 2006
+    Location: San Diego, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALAN BELCHER defeated JORGE SANTIAGO via KO/TKO  
+  at 2:45 of round 3
+  Key stats:
+  - ALAN BELCHER landed 29 significant strikes
+  - JORGE SANTIAGO landed 14 significant strikes
+  - Knockdowns: ALAN BELCHER 1,  JORGE SANTIAGO 0
+  - Takedowns: ALAN BELCHER 1,  JORGE SANTIAGO 0

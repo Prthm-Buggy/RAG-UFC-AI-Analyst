@@ -1,0 +1,11 @@
+Fighter: ANDY ANDERSON
+  Date of Birth: 1974-07-16
+  Career record: 1
+  First fight: 1995-04-07
+  Last fight: 1995-04-07
+
+Career Statistics:
+- Significant Strikes Landed :2
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lemos vs. Andrade
+    Date: April 23, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JESSICA ANDRADE defeated AMANDA LEMOS via Submission  
+  at 3:13 of round 1
+  Key stats:
+  - JESSICA ANDRADE landed 3 significant strikes
+  - AMANDA LEMOS landed 7 significant strikes
+  - Knockdowns: JESSICA ANDRADE 0,  AMANDA LEMOS 0
+  - Takedowns: JESSICA ANDRADE 0,  AMANDA LEMOS 0
+  Bonus: perf

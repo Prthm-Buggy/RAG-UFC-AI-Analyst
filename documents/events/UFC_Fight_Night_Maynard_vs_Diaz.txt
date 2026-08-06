@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Maynard vs Diaz
+    Date : January 11, 2010
+    Location: Fairfax, Virginia, USA
+    Number of Fights: 10
+    Weight Classes: Middleweight, Welterweight, Lightweight
+
+    Fight Results:
+  - AMIR SADOLLAH def. BRAD BLACKBURN via Decision - Unanimous(R3)
+- RAFAEL DOS ANJOS def. KYLE BRADLEY via Decision - Unanimous(R3)
+- RICK STORY def. JESSE LENNOX via Decision - Split(R3)
+- RORY MACDONALD def. MIKE GUYMON via Submission(R1)
+- EVAN DUNHAM def. EFRAIN ESCUDERO via Submission(R3)
+- NICK CATONE def. JESSE FORBES via Decision - Split(R3)
+- AARON SIMPSON def. TOM LAWLOR via Decision - Split(R3)
+- GRAY MAYNARD def. NATE DIAZ via Decision - Split(R3)
+- GERALD HARRIS def. JOHN SALTER via KO/TKO(R3)
+- CHRIS LEBEN def. JAY SILVA via Decision - Unanimous(R3)

@@ -1,0 +1,11 @@
+Fighter: JARED ROSHOLT
+  Date of Birth: 1986-08-04
+  Career record: 8
+  First fight: 2013-11-30
+  Last fight: 2016-02-06
+
+Career Statistics:
+- Significant Strikes Landed :222
+- Total takedowns landed :13
+- Knockdowns :0
+- Submission Attempts :1

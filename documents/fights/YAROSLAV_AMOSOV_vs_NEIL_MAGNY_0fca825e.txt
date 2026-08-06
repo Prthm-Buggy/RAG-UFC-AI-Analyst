@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Royval vs. Kape
+    Date: December 13, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: YAROSLAV AMOSOV defeated NEIL MAGNY via Submission  
+  at 3:14 of round 1
+  Key stats:
+  - YAROSLAV AMOSOV landed 9 significant strikes
+  - NEIL MAGNY landed 5 significant strikes
+  - Knockdowns: YAROSLAV AMOSOV 0,  NEIL MAGNY 0
+  - Takedowns: YAROSLAV AMOSOV 1,  NEIL MAGNY 0

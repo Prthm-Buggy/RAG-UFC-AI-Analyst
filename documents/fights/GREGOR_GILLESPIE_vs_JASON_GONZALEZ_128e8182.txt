@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rockhold vs. Branch
+    Date: September 16, 2017
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Lightweight
+    
+
+    Result: GREGOR GILLESPIE defeated JASON GONZALEZ via Submission  
+  at 2:11 of round 2
+  Key stats:
+  - GREGOR GILLESPIE landed 20 significant strikes
+  - JASON GONZALEZ landed 22 significant strikes
+  - Knockdowns: GREGOR GILLESPIE 1,  JASON GONZALEZ 0
+  - Takedowns: GREGOR GILLESPIE 4,  JASON GONZALEZ 0
+  Bonus: fight

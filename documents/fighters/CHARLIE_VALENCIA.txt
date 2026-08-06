@@ -1,0 +1,11 @@
+Fighter: CHARLIE VALENCIA
+  Date of Birth: 1974-10-31
+  Career record: 1
+  First fight: 2011-04-30
+  Last fight: 2011-04-30
+
+Career Statistics:
+- Significant Strikes Landed :5
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

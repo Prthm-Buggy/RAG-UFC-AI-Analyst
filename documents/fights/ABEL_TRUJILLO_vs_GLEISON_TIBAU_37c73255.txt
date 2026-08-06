@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs Henderson 3
+    Date: November 07, 2015
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: ABEL TRUJILLO defeated GLEISON TIBAU via DQ  
+  at 1:45 of round 1
+  Key stats:
+  - ABEL TRUJILLO landed 0 significant strikes
+  - GLEISON TIBAU landed 3 significant strikes
+  - Knockdowns: ABEL TRUJILLO 0,  GLEISON TIBAU 0
+  - Takedowns: ABEL TRUJILLO 0,  GLEISON TIBAU 2

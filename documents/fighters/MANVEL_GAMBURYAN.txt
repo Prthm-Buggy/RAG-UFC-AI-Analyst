@@ -1,0 +1,11 @@
+Fighter: MANVEL GAMBURYAN
+  Date of Birth: 1981-05-08
+  Career record: 14
+  First fight: 2007-06-23
+  Last fight: 2016-11-19
+
+Career Statistics:
+- Significant Strikes Landed :268
+- Total takedowns landed :27
+- Knockdowns :1
+- Submission Attempts :8

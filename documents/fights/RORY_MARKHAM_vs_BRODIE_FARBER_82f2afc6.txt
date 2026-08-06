@@ -1,0 +1,14 @@
+Event: UFC: Silva vs Irvin
+    Date: July 19, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: RORY MARKHAM defeated BRODIE FARBER via KO/TKO  
+  at 1:37 of round 1
+  Key stats:
+  - RORY MARKHAM landed 6 significant strikes
+  - BRODIE FARBER landed 18 significant strikes
+  - Knockdowns: RORY MARKHAM 1,  BRODIE FARBER 0
+  - Takedowns: RORY MARKHAM 0,  BRODIE FARBER 0
+  Bonus: ko

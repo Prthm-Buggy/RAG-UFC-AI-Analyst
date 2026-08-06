@@ -1,0 +1,19 @@
+Event : UFC 152: Jones vs Belfort
+    Date : September 22, 2012
+    Location: Toronto, Ontario, Canada
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Light Heavyweight, Flyweight, Featherweight, Middleweight, Lightweight, Welterweight
+
+    Fight Results:
+  - DEMETRIOUS JOHNSON def. JOSEPH BENAVIDEZ via Decision - Split(R5)
+- JON JONES def. VITOR BELFORT via Submission(R4)
+- MICHAEL BISPING def. BRIAN STANN via Decision - Unanimous(R3)
+- MARCUS BRIMAGE def. JIMY HETTES via Decision - Unanimous(R3)
+- MITCH GAGNON def. WALEL WATSON via Submission(R1)
+- SETH BACZYNSKI def. SIMEON THORESEN via KO/TKO(R1)
+- CUB SWANSON def. CHARLES OLIVEIRA via KO/TKO(R1)
+- TJ GRANT def. EVAN DUNHAM via Decision - Unanimous(R3)
+- KYLE NOKE def. CHARLIE BRENNEMAN via KO/TKO(R1)
+- VINNY MAGALHAES def. IGOR POKRAJAC via Submission(R2)
+- SEAN PIERSON def. LANCE BENOIST via Decision - Unanimous(R3)
+- MATT HAMILL def. ROGER HOLLETT via Decision - Unanimous(R3)

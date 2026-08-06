@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swick vs Burkman
+    Date: January 23, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATT WIMAN defeated JUSTIN BUCHHOLZ via Submission  
+  at 2:56 of round 1
+  Key stats:
+  - MATT WIMAN landed 6 significant strikes
+  - JUSTIN BUCHHOLZ landed 3 significant strikes
+  - Knockdowns: MATT WIMAN 0,  JUSTIN BUCHHOLZ 0
+  - Takedowns: MATT WIMAN 1,  JUSTIN BUCHHOLZ 0

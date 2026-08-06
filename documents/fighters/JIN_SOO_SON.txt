@@ -1,0 +1,11 @@
+Fighter: JIN SOO SON
+  Date of Birth: 1993-04-01
+  Career record: 2
+  First fight: 2018-09-15
+  Last fight: 2019-07-20
+
+Career Statistics:
+- Significant Strikes Landed :153
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC on FOX: Teixeira vs Evans
+    Date: April 16, 2016
+    Location: Tampa, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOHN DODSON defeated MANVEL GAMBURYAN via KO/TKO  
+  at 0:37 of round 1
+  Key stats:
+  - JOHN DODSON landed 16 significant strikes
+  - MANVEL GAMBURYAN landed 2 significant strikes
+  - Knockdowns: JOHN DODSON 1,  MANVEL GAMBURYAN 0
+  - Takedowns: JOHN DODSON 0,  MANVEL GAMBURYAN 0

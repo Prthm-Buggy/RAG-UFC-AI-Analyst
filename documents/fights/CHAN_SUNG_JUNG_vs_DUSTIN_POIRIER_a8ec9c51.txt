@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Korean Zombie vs Poirier
+    Date: May 15, 2012
+    Location: Fairfax, Virginia, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHAN SUNG JUNG defeated DUSTIN POIRIER via Submission  
+  at 1:07 of round 4
+  Key stats:
+  - CHAN SUNG JUNG landed 74 significant strikes
+  - DUSTIN POIRIER landed 56 significant strikes
+  - Knockdowns: CHAN SUNG JUNG 0,  DUSTIN POIRIER 0
+  - Takedowns: CHAN SUNG JUNG 4,  DUSTIN POIRIER 0
+  Bonus: fight

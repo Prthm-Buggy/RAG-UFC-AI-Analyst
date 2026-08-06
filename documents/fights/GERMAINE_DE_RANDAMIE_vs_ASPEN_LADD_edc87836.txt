@@ -1,0 +1,13 @@
+Event: UFC Fight Night: De Randamie vs. Ladd
+    Date: July 13, 2019
+    Location: Sacramento, California, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: GERMAINE DE RANDAMIE defeated ASPEN LADD via KO/TKO  
+  at 0:16 of round 1
+  Key stats:
+  - GERMAINE DE RANDAMIE landed 4 significant strikes
+  - ASPEN LADD landed 0 significant strikes
+  - Knockdowns: GERMAINE DE RANDAMIE 1,  ASPEN LADD 0
+  - Takedowns: GERMAINE DE RANDAMIE 0,  ASPEN LADD 0

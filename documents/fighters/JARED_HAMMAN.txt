@@ -1,0 +1,11 @@
+Fighter: JARED HAMMAN
+  Date of Birth: 1982-03-07
+  Career record: 7
+  First fight: 2009-11-14
+  Last fight: 2013-08-31
+
+Career Statistics:
+- Significant Strikes Landed :280
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :0

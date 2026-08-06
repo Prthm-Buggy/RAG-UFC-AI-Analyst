@@ -1,0 +1,13 @@
+Event: UFC 227: Dillashaw vs. Garbrandt 2
+    Date: August 04, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARLON VERA defeated WULIJIBUREN via KO/TKO  
+  at 4:53 of round 2
+  Key stats:
+  - MARLON VERA landed 45 significant strikes
+  - WULIJIBUREN landed 31 significant strikes
+  - Knockdowns: MARLON VERA 1,  WULIJIBUREN 0
+  - Takedowns: MARLON VERA 1,  WULIJIBUREN 2

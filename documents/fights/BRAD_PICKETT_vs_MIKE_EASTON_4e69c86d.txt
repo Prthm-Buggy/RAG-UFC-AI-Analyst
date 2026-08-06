@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Mousasi vs Latifi
+    Date: April 06, 2013
+    Location: Stockholm, Sweden
+    Weight Class: Bantamweight
+    
+
+    Result: BRAD PICKETT defeated MIKE EASTON via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - BRAD PICKETT landed 68 significant strikes
+  - MIKE EASTON landed 71 significant strikes
+  - Knockdowns: BRAD PICKETT 0,  MIKE EASTON 0
+  - Takedowns: BRAD PICKETT 4,  MIKE EASTON 3
+  Bonus: fight

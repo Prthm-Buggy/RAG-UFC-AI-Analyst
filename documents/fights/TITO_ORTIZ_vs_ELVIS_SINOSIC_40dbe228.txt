@@ -1,0 +1,14 @@
+Event: UFC 32: Showdown in the Meadowlands
+    Date: June 29, 2001
+    Location: East Rutherford, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TITO ORTIZ defeated ELVIS SINOSIC via KO/TKO  
+  at 3:32 of round 1
+  Key stats:
+  - TITO ORTIZ landed 35 significant strikes
+  - ELVIS SINOSIC landed 3 significant strikes
+  - Knockdowns: TITO ORTIZ 0,  ELVIS SINOSIC 0
+  - Takedowns: TITO ORTIZ 1,  ELVIS SINOSIC 0
+  Bonus: belt

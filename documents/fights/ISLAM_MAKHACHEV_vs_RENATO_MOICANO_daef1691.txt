@@ -1,0 +1,14 @@
+Event: UFC 311: Makhachev vs. Moicano
+    Date: January 18, 2025
+    Location: Inglewood, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: ISLAM MAKHACHEV defeated RENATO MOICANO via Submission  
+  at 4:05 of round 1
+  Key stats:
+  - ISLAM MAKHACHEV landed 6 significant strikes
+  - RENATO MOICANO landed 9 significant strikes
+  - Knockdowns: ISLAM MAKHACHEV 0,  RENATO MOICANO 0
+  - Takedowns: ISLAM MAKHACHEV 1,  RENATO MOICANO 0
+  Bonus: belt

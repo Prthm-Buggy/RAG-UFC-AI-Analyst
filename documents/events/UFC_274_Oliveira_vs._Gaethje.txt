@@ -1,0 +1,21 @@
+Event : UFC 274: Oliveira vs. Gaethje
+    Date : May 07, 2022
+    Location: Phoenix, Arizona, USA
+    Number of Fights: 14
+    Weight Classes: Lightweight, Women's Strawweight, Light Heavyweight, Flyweight, Women's Featherweight, Welterweight, Women's Flyweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - MACY CHIASSON def. NORMA DUMONT via Decision - Split(R3)
+- CHARLES OLIVEIRA def. JUSTIN GAETHJE via Submission(R1)
+- LOOPY GODINEZ def. ARIANE CARNELOSSI via Decision - Unanimous(R3)
+- RANDY BROWN def. KHAOS WILLIAMS via Decision - Split(R3)
+- CJ VERGARA def. KLEYDSON RODRIGUES via Decision - Split(R3)
+- BRANDON ROYVAL def. MATT SCHNELL via Submission(R1)
+- JOURNEY NEWSON def. FERNIE GARCIA via Decision - Unanimous(R3)
+- BLAGOY IVANOV def. MARCOS ROGERIO DE LIMA via Decision - Unanimous(R3)
+- CARLA ESPARZA def. ROSE NAMAJUNAS via Decision - Split(R5)
+- FRANCISCO TRINALDO def. DANNY ROBERTS via Decision - Unanimous(R3)
+- MICHAEL CHANDLER def. TONY FERGUSON via KO/TKO(R2)
+- OVINCE SAINT PREUX def. MAURICIO RUA via Decision - Split(R3)
+- TRACY CORTEZ def. MELISSA GATTO via Decision - Unanimous(R3)
+- ANDRE FIALHO def. CAMERON VANCAMP via KO/TKO(R1)

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kape vs. Almabayev
+    Date: March 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: RAMAZAN TEMIROV defeated CHARLES JOHNSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAMAZAN TEMIROV landed 55 significant strikes
+  - CHARLES JOHNSON landed 66 significant strikes
+  - Knockdowns: RAMAZAN TEMIROV 0,  CHARLES JOHNSON 0
+  - Takedowns: RAMAZAN TEMIROV 1,  CHARLES JOHNSON 0

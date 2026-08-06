@@ -1,0 +1,13 @@
+Event: UFC 80: Rapid Fire
+    Date: January 19, 2008
+    Location: Newcastle, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: FABRICIO WERDUM defeated GABRIEL GONZAGA via KO/TKO  
+  at 4:34 of round 2
+  Key stats:
+  - FABRICIO WERDUM landed 46 significant strikes
+  - GABRIEL GONZAGA landed 19 significant strikes
+  - Knockdowns: FABRICIO WERDUM 0,  GABRIEL GONZAGA 0
+  - Takedowns: FABRICIO WERDUM 0,  GABRIEL GONZAGA 3

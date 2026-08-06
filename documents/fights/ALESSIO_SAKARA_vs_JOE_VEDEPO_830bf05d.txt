@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Diaz vs Neer
+    Date: September 17, 2008
+    Location: Omaha, Nebraska, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALESSIO SAKARA defeated JOE VEDEPO via KO/TKO  
+  at 1:27 of round 1
+  Key stats:
+  - ALESSIO SAKARA landed 7 significant strikes
+  - JOE VEDEPO landed 7 significant strikes
+  - Knockdowns: ALESSIO SAKARA 1,  JOE VEDEPO 0
+  - Takedowns: ALESSIO SAKARA 0,  JOE VEDEPO 0
+  Bonus: ko

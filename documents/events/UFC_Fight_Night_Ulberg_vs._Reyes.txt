@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Ulberg vs. Reyes
+    Date : September 27, 2025
+    Location: Perth, Western Australia, Australia
+    Number of Fights: 12
+    Weight Classes: Women's Strawweight, Lightweight, Women's Bantamweight, Welterweight, Featherweight, Middleweight, Light Heavyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - NAVAJO STIRLING def. RODOLFO BELLATO via Decision - Unanimous(R3)
+- CAM ROWSTON def. ANDRE PETROSKI via KO/TKO(R1)
+- ALEXIA THAINARA def. LOMA LOOKBOONMEE via Decision - Unanimous(R3)
+- MICHELLE MONTAGUE def. LUANA CAROLINA via Decision - Unanimous(R3)
+- CARLOS ULBERG def. DOMINICK REYES via KO/TKO(R1)
+- NEIL MAGNY def. JAKE MATTHEWS via Submission(R3)
+- TOM NOLAN def. CHARLIE CAMPBELL via Submission(R1)
+- BRANDO PERICIC def. ELISHA ELLISON via KO/TKO(R1)
+- JACK JENKINS def. RAMON TAVERAS via Decision - Unanimous(R3)
+- COLBY THICKNESSE def. JOSIAS MUSASA via Decision - Unanimous(R3)
+- JIMMY CRUTE def. IVAN ERSLAN via Submission(R1)
+- JAMIE MULLARKEY def. ROLANDO BEDOYA via Decision - Unanimous(R3)

@@ -1,0 +1,11 @@
+Fighter: NAM PHAN
+  Date of Birth: 1983-03-13
+  Career record: 8
+  First fight: 2010-12-04
+  Last fight: 2014-03-01
+
+Career Statistics:
+- Significant Strikes Landed :607
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

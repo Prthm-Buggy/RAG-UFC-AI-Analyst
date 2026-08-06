@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dolidze vs. Hernandez
+    Date: August 09, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ELIJAH SMITH defeated TOSHIOMI KAZAMA via KO/TKO  
+  at 4:10 of round 1
+  Key stats:
+  - ELIJAH SMITH landed 37 significant strikes
+  - TOSHIOMI KAZAMA landed 0 significant strikes
+  - Knockdowns: ELIJAH SMITH 0,  TOSHIOMI KAZAMA 0
+  - Takedowns: ELIJAH SMITH 0,  TOSHIOMI KAZAMA 1
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC 195: Lawler vs Condit
+    Date: January 02, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MICHAEL MCDONALD defeated MASANORI KANEHARA via Submission  
+  at 2:09 of round 2
+  Key stats:
+  - MICHAEL MCDONALD landed 5 significant strikes
+  - MASANORI KANEHARA landed 15 significant strikes
+  - Knockdowns: MICHAEL MCDONALD 0,  MASANORI KANEHARA 0
+  - Takedowns: MICHAEL MCDONALD 0,  MASANORI KANEHARA 2
+  Bonus: perf

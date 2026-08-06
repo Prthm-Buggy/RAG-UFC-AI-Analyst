@@ -1,0 +1,13 @@
+Event: UFC 95: Sanchez vs Stevenson
+    Date: February 21, 2009
+    Location: London, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR DOS SANTOS defeated STEFAN STRUVE via KO/TKO  
+  at 0:54 of round 1
+  Key stats:
+  - JUNIOR DOS SANTOS landed 12 significant strikes
+  - STEFAN STRUVE landed 0 significant strikes
+  - Knockdowns: JUNIOR DOS SANTOS 2,  STEFAN STRUVE 0
+  - Takedowns: JUNIOR DOS SANTOS 0,  STEFAN STRUVE 0

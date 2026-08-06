@@ -1,0 +1,13 @@
+Event: UFC 232: Jones vs. Gustafsson 2
+    Date: December 29, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICHAEL CHIESA defeated CARLOS CONDIT via Submission  
+  at 0:56 of round 2
+  Key stats:
+  - MICHAEL CHIESA landed 10 significant strikes
+  - CARLOS CONDIT landed 5 significant strikes
+  - Knockdowns: MICHAEL CHIESA 0,  CARLOS CONDIT 0
+  - Takedowns: MICHAEL CHIESA 4,  CARLOS CONDIT 0

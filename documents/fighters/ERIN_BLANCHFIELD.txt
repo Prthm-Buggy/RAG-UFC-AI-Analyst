@@ -1,0 +1,11 @@
+Fighter: ERIN BLANCHFIELD
+  Date of Birth: 1999-05-04
+  Career record: 9
+  First fight: 2021-09-18
+  Last fight: 2025-11-15
+
+Career Statistics:
+- Significant Strikes Landed :643
+- Total takedowns landed :16
+- Knockdowns :0
+- Submission Attempts :7

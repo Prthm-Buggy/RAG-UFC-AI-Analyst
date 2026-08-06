@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Strickland vs. Hernandez
+    Date: February 21, 2026
+    Location: Houston, Texas, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JOSELYNE EDWARDS defeated NORA CORNOLLE via Submission  
+  at 2:44 of round 2
+  Key stats:
+  - JOSELYNE EDWARDS landed 19 significant strikes
+  - NORA CORNOLLE landed 20 significant strikes
+  - Knockdowns: JOSELYNE EDWARDS 0,  NORA CORNOLLE 0
+  - Takedowns: JOSELYNE EDWARDS 2,  NORA CORNOLLE 0

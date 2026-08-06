@@ -1,0 +1,11 @@
+Fighter: CEZARY OLEKSIEJCZUK
+  Date of Birth: 2000-01-06
+  Career record: 1
+  First fight: 2025-12-13
+  Last fight: 2025-12-13
+
+Career Statistics:
+- Significant Strikes Landed :14
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :0

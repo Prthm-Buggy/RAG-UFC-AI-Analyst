@@ -1,0 +1,13 @@
+Event: UFC 199: Rockhold vs. Bisping 2
+    Date: June 04, 2016
+    Location: Los Angeles, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENEIL DARIUSH defeated JAMES VICK via KO/TKO  
+  at 4:16 of round 1
+  Key stats:
+  - BENEIL DARIUSH landed 46 significant strikes
+  - JAMES VICK landed 9 significant strikes
+  - Knockdowns: BENEIL DARIUSH 2,  JAMES VICK 0
+  - Takedowns: BENEIL DARIUSH 0,  JAMES VICK 0

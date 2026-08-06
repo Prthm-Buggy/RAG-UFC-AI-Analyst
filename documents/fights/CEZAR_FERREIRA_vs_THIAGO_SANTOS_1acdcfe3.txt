@@ -1,0 +1,13 @@
+Event: UFC 163: Aldo vs Jung
+    Date: August 03, 2013
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: CEZAR FERREIRA defeated THIAGO SANTOS via Submission  
+  at 0:47 of round 1
+  Key stats:
+  - CEZAR FERREIRA landed 3 significant strikes
+  - THIAGO SANTOS landed 0 significant strikes
+  - Knockdowns: CEZAR FERREIRA 0,  THIAGO SANTOS 0
+  - Takedowns: CEZAR FERREIRA 0,  THIAGO SANTOS 0

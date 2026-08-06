@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Hughes vs. Team Franklin Finale
+    Date: November 05, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: KEITH JARDINE defeated KERRY SCHALL via KO/TKO  
+  at 3:28 of round 2
+  Key stats:
+  - KEITH JARDINE landed 41 significant strikes
+  - KERRY SCHALL landed 8 significant strikes
+  - Knockdowns: KEITH JARDINE 1,  KERRY SCHALL 0
+  - Takedowns: KEITH JARDINE 0,  KERRY SCHALL 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Luque vs. Dos Anjos
+    Date: August 12, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KHALIL ROUNTREE JR. defeated CHRIS DAUKAUS via KO/TKO  
+  at 2:40 of round 1
+  Key stats:
+  - KHALIL ROUNTREE JR. landed 16 significant strikes
+  - CHRIS DAUKAUS landed 8 significant strikes
+  - Knockdowns: KHALIL ROUNTREE JR. 1,  CHRIS DAUKAUS 0
+  - Takedowns: KHALIL ROUNTREE JR. 0,  CHRIS DAUKAUS 0
+  Bonus: perf

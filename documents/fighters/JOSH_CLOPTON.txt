@@ -1,0 +1,11 @@
+Fighter: JOSH CLOPTON
+  Date of Birth: 1981-07-11
+  Career record: 2
+  First fight: 2011-12-03
+  Last fight: 2013-08-03
+
+Career Statistics:
+- Significant Strikes Landed :48
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

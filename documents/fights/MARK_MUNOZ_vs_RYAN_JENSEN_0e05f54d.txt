@@ -1,0 +1,13 @@
+Event: UFC 108: Evans vs Silva
+    Date: January 02, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARK MUNOZ defeated RYAN JENSEN via KO/TKO  
+  at 2:30 of round 1
+  Key stats:
+  - MARK MUNOZ landed 16 significant strikes
+  - RYAN JENSEN landed 9 significant strikes
+  - Knockdowns: MARK MUNOZ 0,  RYAN JENSEN 0
+  - Takedowns: MARK MUNOZ 1,  RYAN JENSEN 0

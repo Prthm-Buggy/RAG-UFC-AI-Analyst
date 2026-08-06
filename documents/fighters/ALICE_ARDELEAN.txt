@@ -1,0 +1,11 @@
+Fighter: ALICE ARDELEAN
+  Date of Birth: 1992-04-19
+  Career record: 5
+  First fight: 2024-07-27
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :487
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

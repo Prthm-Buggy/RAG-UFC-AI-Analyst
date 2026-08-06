@@ -1,0 +1,11 @@
+Fighter: TEEMU PACKALEN
+  Date of Birth: 1987-05-22
+  Career record: 4
+  First fight: 2015-07-18
+  Last fight: 2019-09-07
+
+Career Statistics:
+- Significant Strikes Landed :50
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :2

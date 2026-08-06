@@ -1,0 +1,11 @@
+Fighter: BRAD MORRIS
+  Date of Birth: 1979-11-01
+  Career record: 2
+  First fight: 2008-04-19
+  Last fight: 2008-09-17
+
+Career Statistics:
+- Significant Strikes Landed :5
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

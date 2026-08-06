@@ -1,0 +1,14 @@
+Event: UFC 64: Unstoppable
+    Date: October 14, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDERSON SILVA defeated RICH FRANKLIN via KO/TKO  
+  at 2:59 of round 1
+  Key stats:
+  - ANDERSON SILVA landed 31 significant strikes
+  - RICH FRANKLIN landed 10 significant strikes
+  - Knockdowns: ANDERSON SILVA 1,  RICH FRANKLIN 0
+  - Takedowns: ANDERSON SILVA 0,  RICH FRANKLIN 0
+  Bonus: belt

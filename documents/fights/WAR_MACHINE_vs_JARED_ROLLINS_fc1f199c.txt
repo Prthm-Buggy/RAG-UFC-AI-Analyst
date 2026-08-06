@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Hughes vs. Team Serra Finale
+    Date: December 08, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: WAR MACHINE defeated JARED ROLLINS via KO/TKO  
+  at 2:01 of round 3
+  Key stats:
+  - WAR MACHINE landed 29 significant strikes
+  - JARED ROLLINS landed 40 significant strikes
+  - Knockdowns: WAR MACHINE 0,  JARED ROLLINS 1
+  - Takedowns: WAR MACHINE 1,  JARED ROLLINS 2
+  Bonus: fight

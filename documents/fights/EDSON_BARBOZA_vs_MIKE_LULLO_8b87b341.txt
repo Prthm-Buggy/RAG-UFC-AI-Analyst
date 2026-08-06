@@ -1,0 +1,13 @@
+Event: UFC 123: Rampage vs Machida
+    Date: November 20, 2010
+    Location: Auburn Hills, Michigan, USA
+    Weight Class: Lightweight
+    
+
+    Result: EDSON BARBOZA defeated MIKE LULLO via KO/TKO  
+  at 0:26 of round 3
+  Key stats:
+  - EDSON BARBOZA landed 43 significant strikes
+  - MIKE LULLO landed 12 significant strikes
+  - Knockdowns: EDSON BARBOZA 2,  MIKE LULLO 0
+  - Takedowns: EDSON BARBOZA 2,  MIKE LULLO 0

@@ -1,0 +1,11 @@
+Fighter: DAN ARGUETA
+  Date of Birth: 1993-08-13
+  Career record: 4
+  First fight: 2022-06-04
+  Last fight: 2024-10-12
+
+Career Statistics:
+- Significant Strikes Landed :142
+- Total takedowns landed :18
+- Knockdowns :0
+- Submission Attempts :3

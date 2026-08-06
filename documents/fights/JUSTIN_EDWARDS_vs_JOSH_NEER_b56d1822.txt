@@ -1,0 +1,14 @@
+Event: UFC on FX: Browne vs Bigfoot
+    Date: October 05, 2012
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Welterweight
+    
+
+    Result: JUSTIN EDWARDS defeated JOSH NEER via Submission  
+  at 0:45 of round 1
+  Key stats:
+  - JUSTIN EDWARDS landed 6 significant strikes
+  - JOSH NEER landed 0 significant strikes
+  - Knockdowns: JUSTIN EDWARDS 0,  JOSH NEER 0
+  - Takedowns: JUSTIN EDWARDS 0,  JOSH NEER 0
+  Bonus: sub

@@ -1,0 +1,13 @@
+Event: UFC - Ultimate Brazil
+    Date: October 16, 1998
+    Location: Sao Paulo, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: PEDRO RIZZO defeated DAVID ABBOTT via KO/TKO  
+  at 8:07 of round 1
+  Key stats:
+  - PEDRO RIZZO landed 24 significant strikes
+  - DAVID ABBOTT landed 16 significant strikes
+  - Knockdowns: PEDRO RIZZO 2,  DAVID ABBOTT 0
+  - Takedowns: PEDRO RIZZO 0,  DAVID ABBOTT 1

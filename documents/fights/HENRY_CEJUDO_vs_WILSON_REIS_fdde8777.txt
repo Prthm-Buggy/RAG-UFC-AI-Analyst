@@ -1,0 +1,14 @@
+Event: UFC 215: Nunes vs Shevchenko 2
+    Date: September 09, 2017
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Flyweight
+    
+
+    Result: HENRY CEJUDO defeated WILSON REIS via KO/TKO  
+  at 0:25 of round 2
+  Key stats:
+  - HENRY CEJUDO landed 34 significant strikes
+  - WILSON REIS landed 5 significant strikes
+  - Knockdowns: HENRY CEJUDO 1,  WILSON REIS 0
+  - Takedowns: HENRY CEJUDO 2,  WILSON REIS 0
+  Bonus: perf

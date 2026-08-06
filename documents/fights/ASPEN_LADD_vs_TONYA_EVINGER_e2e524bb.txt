@@ -1,0 +1,14 @@
+Event: UFC 229: Khabib vs. McGregor
+    Date: October 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: ASPEN LADD defeated TONYA EVINGER via KO/TKO  
+  at 3:26 of round 1
+  Key stats:
+  - ASPEN LADD landed 50 significant strikes
+  - TONYA EVINGER landed 9 significant strikes
+  - Knockdowns: ASPEN LADD 0,  TONYA EVINGER 0
+  - Takedowns: ASPEN LADD 0,  TONYA EVINGER 0
+  Bonus: perf

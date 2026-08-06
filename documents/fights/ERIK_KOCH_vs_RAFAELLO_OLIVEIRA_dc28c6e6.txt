@@ -1,0 +1,13 @@
+Event: UFC 170: Rousey vs McMann
+    Date: February 22, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ERIK KOCH defeated RAFAELLO OLIVEIRA via KO/TKO  
+  at 1:24 of round 1
+  Key stats:
+  - ERIK KOCH landed 19 significant strikes
+  - RAFAELLO OLIVEIRA landed 1 significant strikes
+  - Knockdowns: ERIK KOCH 1,  RAFAELLO OLIVEIRA 0
+  - Takedowns: ERIK KOCH 0,  RAFAELLO OLIVEIRA 0

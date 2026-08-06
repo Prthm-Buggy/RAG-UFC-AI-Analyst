@@ -1,0 +1,11 @@
+Fighter: BJ PENN
+  Date of Birth: 1978-12-13
+  Career record: 25
+  First fight: 2001-05-04
+  Last fight: 2019-05-11
+
+Career Statistics:
+- Significant Strikes Landed :920
+- Total takedowns landed :19
+- Knockdowns :7
+- Submission Attempts :11

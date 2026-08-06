@@ -1,0 +1,14 @@
+Event: UFC 303: Pereira vs. Prochazka 2
+    Date: June 29, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ANDRE FILI defeated CUB SWANSON via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ANDRE FILI landed 67 significant strikes
+  - CUB SWANSON landed 62 significant strikes
+  - Knockdowns: ANDRE FILI 0,  CUB SWANSON 0
+  - Takedowns: ANDRE FILI 2,  CUB SWANSON 0
+  Bonus: fight

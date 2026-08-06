@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yusuff vs. Barboza
+    Date: October 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: EMILY DUCOTE defeated ASHLEY YODER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - EMILY DUCOTE landed 117 significant strikes
+  - ASHLEY YODER landed 102 significant strikes
+  - Knockdowns: EMILY DUCOTE 0,  ASHLEY YODER 0
+  - Takedowns: EMILY DUCOTE 1,  ASHLEY YODER 0

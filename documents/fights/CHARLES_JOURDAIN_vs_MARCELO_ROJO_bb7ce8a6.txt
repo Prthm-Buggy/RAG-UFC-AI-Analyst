@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edwards vs. Muhammad
+    Date: March 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHARLES JOURDAIN defeated MARCELO ROJO via KO/TKO  
+  at 4:31 of round 3
+  Key stats:
+  - CHARLES JOURDAIN landed 106 significant strikes
+  - MARCELO ROJO landed 74 significant strikes
+  - Knockdowns: CHARLES JOURDAIN 2,  MARCELO ROJO 0
+  - Takedowns: CHARLES JOURDAIN 0,  MARCELO ROJO 1

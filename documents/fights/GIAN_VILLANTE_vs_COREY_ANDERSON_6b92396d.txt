@@ -1,0 +1,14 @@
+Event: UFC on FOX: Machida vs Rockhold
+    Date: April 18, 2015
+    Location: Newark, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: GIAN VILLANTE defeated COREY ANDERSON via KO/TKO  
+  at 4:18 of round 3
+  Key stats:
+  - GIAN VILLANTE landed 70 significant strikes
+  - COREY ANDERSON landed 111 significant strikes
+  - Knockdowns: GIAN VILLANTE 0,  COREY ANDERSON 0
+  - Takedowns: GIAN VILLANTE 0,  COREY ANDERSON 0
+  Bonus: fight

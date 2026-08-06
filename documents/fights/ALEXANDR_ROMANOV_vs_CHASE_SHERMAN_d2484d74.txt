@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Vera
+    Date: April 30, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEXANDR ROMANOV defeated CHASE SHERMAN via Submission  
+  at 2:11 of round 1
+  Key stats:
+  - ALEXANDR ROMANOV landed 8 significant strikes
+  - CHASE SHERMAN landed 0 significant strikes
+  - Knockdowns: ALEXANDR ROMANOV 0,  CHASE SHERMAN 0
+  - Takedowns: ALEXANDR ROMANOV 3,  CHASE SHERMAN 0

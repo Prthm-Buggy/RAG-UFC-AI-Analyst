@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Kattar vs. Allen
+    Date : October 29, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Middleweight, Featherweight, Light Heavyweight, Flyweight, Welterweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - JUNYONG PARK def. JOSEPH HOLMES via Submission(R2)
+- WALDO CORTES ACOSTA def. JARED VANDERAA via Decision - Unanimous(R3)
+- STEVE GARCIA def. CHASE HOOPER via KO/TKO(R1)
+- KHALIL ROUNTREE JR. def. DUSTIN JACOBY via Decision - Split(R3)
+- ROMAN DOLIDZE def. PHIL HAWES via KO/TKO(R1)
+- TRESEAN GORE def. JOSH FREMD via Submission(R2)
+- ARNOLD ALLEN def. CALVIN KATTAR via KO/TKO(R2)
+- MAX GRIFFIN def. TIM MEANS via Decision - Split(R3)
+- MARCOS ROGERIO DE LIMA def. ANDREI ARLOVSKI via Submission(R1)
+- CODY DURDEN def. CARLOS MOTA via Decision - Unanimous(R3)
+- CHRISTIAN RODRIGUEZ def. JOSHUA WEEMS via Submission(R1)

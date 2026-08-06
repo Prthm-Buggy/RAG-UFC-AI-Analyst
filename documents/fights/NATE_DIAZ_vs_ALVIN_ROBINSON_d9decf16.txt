@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Swick vs Burkman
+    Date: January 23, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NATE DIAZ defeated ALVIN ROBINSON via Submission  
+  at 3:39 of round 1
+  Key stats:
+  - NATE DIAZ landed 3 significant strikes
+  - ALVIN ROBINSON landed 2 significant strikes
+  - Knockdowns: NATE DIAZ 0,  ALVIN ROBINSON 0
+  - Takedowns: NATE DIAZ 2,  ALVIN ROBINSON 0
+  Bonus: sub

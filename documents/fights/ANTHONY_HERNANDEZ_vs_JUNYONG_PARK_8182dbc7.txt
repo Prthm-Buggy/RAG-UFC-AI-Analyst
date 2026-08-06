@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Andrade vs. Zhang
+    Date: August 31, 2019
+    Location: Shenzhen, Guangdong, China
+    Weight Class: Middleweight
+    
+
+    Result: ANTHONY HERNANDEZ defeated JUNYONG PARK via Submission  
+  at 4:39 of round 2
+  Key stats:
+  - ANTHONY HERNANDEZ landed 59 significant strikes
+  - JUNYONG PARK landed 81 significant strikes
+  - Knockdowns: ANTHONY HERNANDEZ 0,  JUNYONG PARK 0
+  - Takedowns: ANTHONY HERNANDEZ 6,  JUNYONG PARK 0

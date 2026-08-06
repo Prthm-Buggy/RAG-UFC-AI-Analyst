@@ -1,0 +1,14 @@
+Event: UFC 82: Pride of a Champion
+    Date: March 01, 2008
+    Location: Columbus, Ohio, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS LEBEN defeated ALESSIO SAKARA via KO/TKO  
+  at 3:16 of round 1
+  Key stats:
+  - CHRIS LEBEN landed 24 significant strikes
+  - ALESSIO SAKARA landed 13 significant strikes
+  - Knockdowns: CHRIS LEBEN 1,  ALESSIO SAKARA 0
+  - Takedowns: CHRIS LEBEN 0,  ALESSIO SAKARA 0
+  Bonus: ko

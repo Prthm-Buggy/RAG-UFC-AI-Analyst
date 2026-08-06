@@ -1,0 +1,16 @@
+Event : The Ultimate Fighter: Team Hughes vs. Team Serra Finale
+    Date : December 08, 2007
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Welterweight
+
+    Fight Results:
+  - ROGER HUERTA def. CLAY GUIDA via Submission(R3)
+- WAR MACHINE def. JARED ROLLINS via KO/TKO(R3)
+- ROMAN MITICHYAN def. DORIAN PRICE via Submission(R1)
+- TROY MANDALONIZ def. RICHIE HIGHTOWER via KO/TKO(R1)
+- BEN SAUNDERS def. DAN BARRERA via Decision - Unanimous(R3)
+- MATT ARROYO def. JOHN KOLOSCI via Submission(R1)
+- JONATHAN GOULET def. PAUL GEORGIEFF via Submission(R1)
+- GEORGE SOTIROPOULOS def. BILLY MILES via Submission(R1)
+- MAC DANZIG def. TOMMY SPEER via Submission(R1)

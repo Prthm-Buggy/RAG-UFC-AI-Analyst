@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ulberg vs. Reyes
+    Date: September 27, 2025
+    Location: Perth, Western Australia, Australia
+    Weight Class: Lightweight
+    
+
+    Result: TOM NOLAN defeated CHARLIE CAMPBELL via Submission  
+  at 4:08 of round 1
+  Key stats:
+  - TOM NOLAN landed 26 significant strikes
+  - CHARLIE CAMPBELL landed 15 significant strikes
+  - Knockdowns: TOM NOLAN 0,  CHARLIE CAMPBELL 0
+  - Takedowns: TOM NOLAN 1,  CHARLIE CAMPBELL 0
+  Bonus: perf

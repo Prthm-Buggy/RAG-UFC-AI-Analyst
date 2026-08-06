@@ -1,0 +1,14 @@
+Event: UFC 217: Bisping vs. St-Pierre
+    Date: November 04, 2017
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: GEORGES ST-PIERRE defeated MICHAEL BISPING via Submission  
+  at 4:23 of round 3
+  Key stats:
+  - GEORGES ST-PIERRE landed 59 significant strikes
+  - MICHAEL BISPING landed 27 significant strikes
+  - Knockdowns: GEORGES ST-PIERRE 1,  MICHAEL BISPING 0
+  - Takedowns: GEORGES ST-PIERRE 3,  MICHAEL BISPING 0
+  Bonus: belt

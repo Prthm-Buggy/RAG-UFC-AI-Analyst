@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Hill
+    Date: August 06, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: CORY MCKENNA defeated MIRANDA GRANGER via Submission  
+  at 1:03 of round 2
+  Key stats:
+  - CORY MCKENNA landed 13 significant strikes
+  - MIRANDA GRANGER landed 13 significant strikes
+  - Knockdowns: CORY MCKENNA 0,  MIRANDA GRANGER 0
+  - Takedowns: CORY MCKENNA 3,  MIRANDA GRANGER 0

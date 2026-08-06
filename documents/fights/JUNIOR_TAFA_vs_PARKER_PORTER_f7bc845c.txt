@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holloway vs. The Korean Zombie
+    Date: August 26, 2023
+    Location: Kallang, Singapore
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR TAFA defeated PARKER PORTER via KO/TKO  
+  at 1:24 of round 1
+  Key stats:
+  - JUNIOR TAFA landed 8 significant strikes
+  - PARKER PORTER landed 2 significant strikes
+  - Knockdowns: JUNIOR TAFA 1,  PARKER PORTER 0
+  - Takedowns: JUNIOR TAFA 0,  PARKER PORTER 0
+  Bonus: perf

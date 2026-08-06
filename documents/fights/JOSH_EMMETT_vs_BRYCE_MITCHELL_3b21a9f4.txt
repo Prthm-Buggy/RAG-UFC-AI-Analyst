@@ -1,0 +1,14 @@
+Event: UFC 296: Edwards vs. Covington
+    Date: December 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JOSH EMMETT defeated BRYCE MITCHELL via KO/TKO  
+  at 1:57 of round 1
+  Key stats:
+  - JOSH EMMETT landed 2 significant strikes
+  - BRYCE MITCHELL landed 0 significant strikes
+  - Knockdowns: JOSH EMMETT 1,  BRYCE MITCHELL 0
+  - Takedowns: JOSH EMMETT 0,  BRYCE MITCHELL 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: MANUEL TORRES
+  Date of Birth: 1995-03-25
+  Career record: 7
+  First fight: 2022-05-14
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :124
+- Total takedowns landed :2
+- Knockdowns :4
+- Submission Attempts :1

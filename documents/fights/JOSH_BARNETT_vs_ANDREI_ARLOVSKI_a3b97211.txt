@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Arlovski vs. Barnett
+    Date: September 03, 2016
+    Location: Hamburg, Hamburg, Germany
+    Weight Class: Heavyweight
+    
+
+    Result: JOSH BARNETT defeated ANDREI ARLOVSKI via Submission  
+  at 2:53 of round 3
+  Key stats:
+  - JOSH BARNETT landed 53 significant strikes
+  - ANDREI ARLOVSKI landed 38 significant strikes
+  - Knockdowns: JOSH BARNETT 0,  ANDREI ARLOVSKI 0
+  - Takedowns: JOSH BARNETT 1,  ANDREI ARLOVSKI 1
+  Bonus: fight

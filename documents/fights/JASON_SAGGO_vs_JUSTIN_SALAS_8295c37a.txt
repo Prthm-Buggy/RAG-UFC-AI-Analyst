@@ -1,0 +1,13 @@
+Event: UFC 196: McGregor vs Diaz
+    Date: March 05, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JASON SAGGO defeated JUSTIN SALAS via KO/TKO  
+  at 4:31 of round 1
+  Key stats:
+  - JASON SAGGO landed 20 significant strikes
+  - JUSTIN SALAS landed 1 significant strikes
+  - Knockdowns: JASON SAGGO 0,  JUSTIN SALAS 0
+  - Takedowns: JASON SAGGO 0,  JUSTIN SALAS 1

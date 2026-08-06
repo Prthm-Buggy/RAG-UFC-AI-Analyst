@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Felder vs. Hooker
+    Date: February 22, 2020
+    Location: Auckland, New Zealand
+    Weight Class: Heavyweight
+    
+
+    Result: MARCOS ROGERIO DE LIMA defeated BEN SOSOLI via KO/TKO  
+  at 1:28 of round 1
+  Key stats:
+  - MARCOS ROGERIO DE LIMA landed 19 significant strikes
+  - BEN SOSOLI landed 5 significant strikes
+  - Knockdowns: MARCOS ROGERIO DE LIMA 1,  BEN SOSOLI 0
+  - Takedowns: MARCOS ROGERIO DE LIMA 0,  BEN SOSOLI 0

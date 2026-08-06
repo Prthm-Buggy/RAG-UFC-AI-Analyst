@@ -1,0 +1,11 @@
+Fighter: TONY GRAVELY
+  Date of Birth: 1991-09-28
+  Career record: 8
+  First fight: 2020-01-25
+  Last fight: 2023-03-11
+
+Career Statistics:
+- Significant Strikes Landed :309
+- Total takedowns landed :33
+- Knockdowns :4
+- Submission Attempts :0

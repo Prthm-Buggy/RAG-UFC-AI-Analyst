@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Lesnar vs Team dos Santos Finale
+    Date: June 04, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ED HERMAN defeated TIM CREDEUR via KO/TKO  
+  at 0:48 of round 1
+  Key stats:
+  - ED HERMAN landed 11 significant strikes
+  - TIM CREDEUR landed 11 significant strikes
+  - Knockdowns: ED HERMAN 1,  TIM CREDEUR 0
+  - Takedowns: ED HERMAN 0,  TIM CREDEUR 0

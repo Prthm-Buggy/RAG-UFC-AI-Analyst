@@ -1,0 +1,14 @@
+Event: UFC 246: McGregor vs. Cowboy
+    Date: January 18, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEKSEI OLEINIK defeated MAURICE GREENE via Submission  
+  at 4:38 of round 2
+  Key stats:
+  - ALEKSEI OLEINIK landed 7 significant strikes
+  - MAURICE GREENE landed 13 significant strikes
+  - Knockdowns: ALEKSEI OLEINIK 0,  MAURICE GREENE 0
+  - Takedowns: ALEKSEI OLEINIK 3,  MAURICE GREENE 0
+  Bonus: perf

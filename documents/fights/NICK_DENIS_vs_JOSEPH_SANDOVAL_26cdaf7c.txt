@@ -1,0 +1,14 @@
+Event: UFC on FX: Guillard vs Miller
+    Date: January 20, 2012
+    Location: Nashville, Tennessee, USA
+    Weight Class: Bantamweight
+    
+
+    Result: NICK DENIS defeated JOSEPH SANDOVAL via KO/TKO  
+  at 0:22 of round 1
+  Key stats:
+  - NICK DENIS landed 11 significant strikes
+  - JOSEPH SANDOVAL landed 3 significant strikes
+  - Knockdowns: NICK DENIS 1,  JOSEPH SANDOVAL 0
+  - Takedowns: NICK DENIS 0,  JOSEPH SANDOVAL 0
+  Bonus: ko

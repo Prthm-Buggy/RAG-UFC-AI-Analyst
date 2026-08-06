@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hermansson vs. Strickland
+    Date: February 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SHAVKAT RAKHMONOV defeated CARLSTON HARRIS via KO/TKO  
+  at 4:10 of round 1
+  Key stats:
+  - SHAVKAT RAKHMONOV landed 13 significant strikes
+  - CARLSTON HARRIS landed 10 significant strikes
+  - Knockdowns: SHAVKAT RAKHMONOV 1,  CARLSTON HARRIS 0
+  - Takedowns: SHAVKAT RAKHMONOV 1,  CARLSTON HARRIS 0
+  Bonus: perf

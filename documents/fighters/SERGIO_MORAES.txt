@@ -1,0 +1,11 @@
+Fighter: SERGIO MORAES
+  Date of Birth: 1982-07-23
+  Career record: 13
+  First fight: 2012-06-23
+  Last fight: 2019-11-16
+
+Career Statistics:
+- Significant Strikes Landed :395
+- Total takedowns landed :14
+- Knockdowns :1
+- Submission Attempts :4

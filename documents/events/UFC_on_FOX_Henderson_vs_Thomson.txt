@@ -1,0 +1,17 @@
+Event : UFC on FOX: Henderson vs Thomson
+    Date : January 25, 2014
+    Location: Chicago, Illinois, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Bantamweight, Lightweight, Featherweight, Welterweight
+
+    Fight Results:
+  - DONALD CERRONE def. ADRIANO MARTINS via KO/TKO(R1)
+- NIKITA KRYLOV def. WALT HARRIS via KO/TKO(R1)
+- ALEX CACERES def. SERGIO PETTIS via Submission(R3)
+- HUGO VIANA def. RAMIRO HERNANDEZ via Decision - Unanimous(R3)
+- JEREMY STEPHENS def. DARREN ELKINS via Decision - Unanimous(R3)
+- EDDIE WINELAND def. YVES JABOUIN via KO/TKO(R2)
+- DARON CRUICKSHANK def. MIKE RIO via KO/TKO(R2)
+- BENSON HENDERSON def. JOSH THOMSON via Decision - Split(R5)
+- STIPE MIOCIC def. GABRIEL GONZAGA via Decision - Unanimous(R3)
+- GEORGE SULLIVAN def. MIKE RHODES via Decision - Unanimous(R3)

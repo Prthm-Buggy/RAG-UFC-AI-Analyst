@@ -1,0 +1,14 @@
+Event: UFC on FOX: Henderson vs Thomson
+    Date: January 25, 2014
+    Location: Chicago, Illinois, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALEX CACERES defeated SERGIO PETTIS via Submission  
+  at 4:39 of round 3
+  Key stats:
+  - ALEX CACERES landed 53 significant strikes
+  - SERGIO PETTIS landed 49 significant strikes
+  - Knockdowns: ALEX CACERES 1,  SERGIO PETTIS 0
+  - Takedowns: ALEX CACERES 1,  SERGIO PETTIS 1
+  Bonus: fight

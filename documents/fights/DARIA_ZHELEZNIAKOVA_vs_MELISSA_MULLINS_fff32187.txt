@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hill vs. Rountree Jr.
+    Date: June 21, 2025
+    Location: Baku, Azerbaijan
+    Weight Class: Women's Bantamweight
+    
+
+    Result: DARIA ZHELEZNIAKOVA defeated MELISSA MULLINS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DARIA ZHELEZNIAKOVA landed 99 significant strikes
+  - MELISSA MULLINS landed 64 significant strikes
+  - Knockdowns: DARIA ZHELEZNIAKOVA 0,  MELISSA MULLINS 0
+  - Takedowns: DARIA ZHELEZNIAKOVA 0,  MELISSA MULLINS 3

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Murphy
+    Date: April 05, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: LOMA LOOKBOONMEE defeated ISTELA NUNES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LOMA LOOKBOONMEE landed 32 significant strikes
+  - ISTELA NUNES landed 36 significant strikes
+  - Knockdowns: LOMA LOOKBOONMEE 0,  ISTELA NUNES 0
+  - Takedowns: LOMA LOOKBOONMEE 3,  ISTELA NUNES 0

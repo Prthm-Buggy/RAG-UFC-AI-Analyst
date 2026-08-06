@@ -1,0 +1,18 @@
+Event : The Ultimate Fighter: Team Lesnar vs Team dos Santos Finale
+    Date : June 04, 2011
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Welterweight, Middleweight, Lightweight, Light Heavyweight, Featherweight
+
+    Fight Results:
+  - ED HERMAN def. TIM CREDEUR via KO/TKO(R1)
+- CHRIS COPE def. CHUCK O'NEIL via Decision - Unanimous(R3)
+- SHAMAR BAILEY def. RYAN MCGILLIVRAY via Decision - Unanimous(R3)
+- JEREMY STEPHENS def. DANNY DOWNES via Decision - Unanimous(R3)
+- TONY FERGUSON def. RAMSEY NIJEM via KO/TKO(R1)
+- SCOTT JORGENSEN def. KEN STONE via KO/TKO(R1)
+- CLAY GUIDA def. ANTHONY PETTIS via Decision - Unanimous(R3)
+- GEORGE ROOP def. JOSH GRISPI via KO/TKO(R3)
+- KYLE KINGSBURY def. FABIO MALDONADO via Decision - Unanimous(R3)
+- CLAY HARVISON def. JUSTIN EDWARDS via Decision - Split(R3)
+- REUBEN DURAN def. FRANCISCO RIVERA via Submission(R3)

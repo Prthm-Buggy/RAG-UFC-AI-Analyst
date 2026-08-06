@@ -1,0 +1,11 @@
+Fighter: JOHN SALTER
+  Date of Birth: 1985-03-21
+  Career record: 3
+  First fight: 2010-01-11
+  Last fight: 2010-08-28
+
+Career Statistics:
+- Significant Strikes Landed :31
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

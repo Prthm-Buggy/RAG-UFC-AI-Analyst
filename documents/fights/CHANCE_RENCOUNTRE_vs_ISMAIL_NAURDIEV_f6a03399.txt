@@ -1,0 +1,13 @@
+Event: UFC 239: Jones vs. Santos
+    Date: July 06, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHANCE RENCOUNTRE defeated ISMAIL NAURDIEV via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHANCE RENCOUNTRE landed 4 significant strikes
+  - ISMAIL NAURDIEV landed 21 significant strikes
+  - Knockdowns: CHANCE RENCOUNTRE 0,  ISMAIL NAURDIEV 0
+  - Takedowns: CHANCE RENCOUNTRE 2,  ISMAIL NAURDIEV 2

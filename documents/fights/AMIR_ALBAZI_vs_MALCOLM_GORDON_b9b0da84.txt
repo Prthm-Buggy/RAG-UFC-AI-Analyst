@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Figueiredo vs. Benavidez 2
+    Date: July 18, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Bantamweight
+    
+
+    Result: AMIR ALBAZI defeated MALCOLM GORDON via Submission  
+  at 4:42 of round 1
+  Key stats:
+  - AMIR ALBAZI landed 12 significant strikes
+  - MALCOLM GORDON landed 3 significant strikes
+  - Knockdowns: AMIR ALBAZI 0,  MALCOLM GORDON 0
+  - Takedowns: AMIR ALBAZI 1,  MALCOLM GORDON 0

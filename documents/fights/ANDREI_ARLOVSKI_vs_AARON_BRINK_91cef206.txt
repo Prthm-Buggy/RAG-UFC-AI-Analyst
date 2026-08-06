@@ -1,0 +1,13 @@
+Event: UFC 28: High Stakes
+    Date: November 17, 2000
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated AARON BRINK via Submission  
+  at 0:55 of round 1
+  Key stats:
+  - ANDREI ARLOVSKI landed 2 significant strikes
+  - AARON BRINK landed 0 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 0,  AARON BRINK 0
+  - Takedowns: ANDREI ARLOVSKI 1,  AARON BRINK 0

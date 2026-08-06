@@ -1,0 +1,11 @@
+Fighter: MAURICE SMITH
+  Date of Birth: 1961-12-13
+  Career record: 7
+  First fight: 1997-07-27
+  Last fight: 2000-11-17
+
+Career Statistics:
+- Significant Strikes Landed :137
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :3

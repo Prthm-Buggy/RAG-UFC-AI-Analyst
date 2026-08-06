@@ -1,0 +1,17 @@
+Event : UFC on FOX: Evans vs Davis
+    Date : January 28, 2012
+    Location: Chicago, Illinois, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Middleweight, Light Heavyweight, Lightweight, Featherweight
+
+    Fight Results:
+  - CUB SWANSON def. GEORGE ROOP via KO/TKO(R2)
+- LAVAR JOHNSON def. JOEY BELTRAN via KO/TKO(R1)
+- MICHAEL JOHNSON def. SHANE ROLLER via Decision - Unanimous(R3)
+- CHRIS CAMOZZI def. DUSTIN JACOBY via Submission(R3)
+- CHRIS WEIDMAN def. DEMIAN MAIA via Decision - Unanimous(R3)
+- RASHAD EVANS def. PHIL DAVIS via Decision - Unanimous(R5)
+- EVAN DUNHAM def. NIK LENTZ via TKO - Doctor's Stoppage(R2)
+- CHAEL SONNEN def. MICHAEL BISPING via Decision - Unanimous(R3)
+- CHARLES OLIVEIRA def. ERIC WISELY via Submission(R1)
+- MIKE RUSSOW def. JON OLAV EINEMO via Decision - Unanimous(R3)

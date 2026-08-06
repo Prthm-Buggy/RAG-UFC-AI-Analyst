@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jedrzejczyk vs Penne
+    Date: June 20, 2015
+    Location: Berlin, Berlin, Germany
+    Weight Class: Middleweight
+    
+
+    Result: SCOTT ASKHAM defeated ANTONIO DOS SANTOS via KO/TKO  
+  at 2:52 of round 1
+  Key stats:
+  - SCOTT ASKHAM landed 11 significant strikes
+  - ANTONIO DOS SANTOS landed 11 significant strikes
+  - Knockdowns: SCOTT ASKHAM 2,  ANTONIO DOS SANTOS 0
+  - Takedowns: SCOTT ASKHAM 0,  ANTONIO DOS SANTOS 0

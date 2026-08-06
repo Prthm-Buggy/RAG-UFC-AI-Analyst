@@ -1,0 +1,11 @@
+Fighter: STEVEN KOSLOW
+  Date of Birth: 1997-01-22
+  Career record: 1
+  First fight: 2022-12-10
+  Last fight: 2022-12-10
+
+Career Statistics:
+- Significant Strikes Landed :11
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :1

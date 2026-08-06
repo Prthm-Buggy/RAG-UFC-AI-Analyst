@@ -1,0 +1,14 @@
+Event: UFC 282: Blachowicz vs. Ankalaev
+    Date: December 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DRICUS DU PLESSIS defeated DARREN TILL via Submission  
+  at 2:43 of round 3
+  Key stats:
+  - DRICUS DU PLESSIS landed 86 significant strikes
+  - DARREN TILL landed 35 significant strikes
+  - Knockdowns: DRICUS DU PLESSIS 0,  DARREN TILL 0
+  - Takedowns: DRICUS DU PLESSIS 6,  DARREN TILL 1
+  Bonus: fight

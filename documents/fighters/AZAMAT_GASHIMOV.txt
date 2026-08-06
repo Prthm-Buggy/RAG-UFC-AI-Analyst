@@ -1,0 +1,11 @@
+Fighter: AZAMAT GASHIMOV
+  Date of Birth: 1990-04-07
+  Career record: 2
+  First fight: 2012-11-17
+  Last fight: 2013-05-18
+
+Career Statistics:
+- Significant Strikes Landed :11
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

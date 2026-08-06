@@ -1,0 +1,14 @@
+Event: UFC 101: Declaration
+    Date: August 08, 2009
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Lightweight
+    
+
+    Result: BJ PENN defeated KENNY FLORIAN via Submission  
+  at 3:54 of round 4
+  Key stats:
+  - BJ PENN landed 57 significant strikes
+  - KENNY FLORIAN landed 19 significant strikes
+  - Knockdowns: BJ PENN 0,  KENNY FLORIAN 0
+  - Takedowns: BJ PENN 1,  KENNY FLORIAN 0
+  Bonus: belt

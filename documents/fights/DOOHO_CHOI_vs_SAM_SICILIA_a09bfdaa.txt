@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Henderson vs Masvidal
+    Date: November 28, 2015
+    Location: Seoul, South Korea
+    Weight Class: Featherweight
+    
+
+    Result: DOOHO CHOI defeated SAM SICILIA via KO/TKO  
+  at 1:33 of round 1
+  Key stats:
+  - DOOHO CHOI landed 18 significant strikes
+  - SAM SICILIA landed 8 significant strikes
+  - Knockdowns: DOOHO CHOI 1,  SAM SICILIA 0
+  - Takedowns: DOOHO CHOI 0,  SAM SICILIA 0
+  Bonus: perf

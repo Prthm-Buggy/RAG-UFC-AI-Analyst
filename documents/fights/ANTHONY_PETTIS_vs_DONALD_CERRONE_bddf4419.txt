@@ -1,0 +1,14 @@
+Event: UFC on FOX: Johnson vs Dodson
+    Date: January 26, 2013
+    Location: Chicago, Illinois, USA
+    Weight Class: Lightweight
+    
+
+    Result: ANTHONY PETTIS defeated DONALD CERRONE via KO/TKO  
+  at 2:35 of round 1
+  Key stats:
+  - ANTHONY PETTIS landed 18 significant strikes
+  - DONALD CERRONE landed 4 significant strikes
+  - Knockdowns: ANTHONY PETTIS 1,  DONALD CERRONE 0
+  - Takedowns: ANTHONY PETTIS 0,  DONALD CERRONE 0
+  Bonus: ko

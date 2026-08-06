@@ -1,0 +1,14 @@
+Event: UFC 100
+    Date: July 11, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GEORGES ST-PIERRE defeated THIAGO ALVES via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - GEORGES ST-PIERRE landed 59 significant strikes
+  - THIAGO ALVES landed 30 significant strikes
+  - Knockdowns: GEORGES ST-PIERRE 1,  THIAGO ALVES 0
+  - Takedowns: GEORGES ST-PIERRE 10,  THIAGO ALVES 0
+  Bonus: belt

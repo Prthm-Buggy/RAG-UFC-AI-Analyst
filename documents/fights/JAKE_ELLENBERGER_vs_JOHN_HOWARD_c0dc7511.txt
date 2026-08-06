@@ -1,0 +1,13 @@
+Event: UFC Live: Jones vs Matyushenko
+    Date: August 01, 2010
+    Location: San Diego, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: JAKE ELLENBERGER defeated JOHN HOWARD via TKO - Doctor's Stoppage  
+  at 2:21 of round 3
+  Key stats:
+  - JAKE ELLENBERGER landed 38 significant strikes
+  - JOHN HOWARD landed 17 significant strikes
+  - Knockdowns: JAKE ELLENBERGER 0,  JOHN HOWARD 0
+  - Takedowns: JAKE ELLENBERGER 5,  JOHN HOWARD 0

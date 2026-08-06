@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Cowboy vs. Gaethje
+    Date : September 14, 2019
+    Location: Vancouver, British Columbia, Canada
+    Number of Fights: 11
+    Weight Classes: Light Heavyweight, Middleweight, Lightweight, Welterweight, Featherweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - MILES JOHNS def. COLE SMITH via Decision - Split(R3)
+- TRISTAN CONNELLY def. MICHEL PEREIRA via Decision - Unanimous(R3)
+- LOUIS SMOLKA def. RYAN MACDONALD via KO/TKO(R1)
+- AUSTIN HUBBARD def. KYLE PREPOLEC via Decision - Unanimous(R3)
+- JUSTIN GAETHJE def. DONALD CERRONE via KO/TKO(R1)
+- URIAH HALL def. ANTONIO CARLOS JUNIOR via Decision - Split(R3)
+- MISHA CIRKUNOV def. JIMMY CRUTE via Submission(R1)
+- HUNTER AZURE def. BRAD KATONA via Decision - Unanimous(R3)
+- CHAS SKELLY def. JORDAN GRIFFIN via Decision - Unanimous(R3)
+- GLOVER TEIXEIRA def. NIKITA KRYLOV via Decision - Split(R3)
+- AUGUSTO SAKAI def. MARCIN TYBURA via KO/TKO(R1)

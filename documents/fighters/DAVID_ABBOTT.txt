@@ -1,0 +1,11 @@
+Fighter: DAVID ABBOTT
+  Date of Birth: 1965-04-26
+  Career record: 18
+  First fight: 1995-07-14
+  Last fight: 2003-11-21
+
+Career Statistics:
+- Significant Strikes Landed :156
+- Total takedowns landed :10
+- Knockdowns :4
+- Submission Attempts :4

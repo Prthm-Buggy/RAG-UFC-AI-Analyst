@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shields vs Ellenberger
+    Date: September 17, 2011
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: JUSTIN EDWARDS defeated JORGE LOPEZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JUSTIN EDWARDS landed 41 significant strikes
+  - JORGE LOPEZ landed 42 significant strikes
+  - Knockdowns: JUSTIN EDWARDS 0,  JORGE LOPEZ 0
+  - Takedowns: JUSTIN EDWARDS 2,  JORGE LOPEZ 3

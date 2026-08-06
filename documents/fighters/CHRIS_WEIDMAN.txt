@@ -1,0 +1,11 @@
+Fighter: CHRIS WEIDMAN
+  Date of Birth: 1984-06-17
+  Career record: 20
+  First fight: 2011-03-03
+  Last fight: 2024-12-07
+
+Career Statistics:
+- Significant Strikes Landed :626
+- Total takedowns landed :44
+- Knockdowns :5
+- Submission Attempts :11

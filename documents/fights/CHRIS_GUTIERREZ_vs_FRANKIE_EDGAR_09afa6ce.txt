@@ -1,0 +1,13 @@
+Event: UFC 281: Adesanya vs. Pereira
+    Date: November 12, 2022
+    Location: New York City, New York, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CHRIS GUTIERREZ defeated FRANKIE EDGAR via KO/TKO  
+  at 2:01 of round 1
+  Key stats:
+  - CHRIS GUTIERREZ landed 10 significant strikes
+  - FRANKIE EDGAR landed 2 significant strikes
+  - Knockdowns: CHRIS GUTIERREZ 1,  FRANKIE EDGAR 0
+  - Takedowns: CHRIS GUTIERREZ 0,  FRANKIE EDGAR 0

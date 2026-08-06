@@ -1,0 +1,11 @@
+Fighter: SAPARBEG SAFAROV
+  Date of Birth: 1986-10-14
+  Career record: 4
+  First fight: 2016-12-09
+  Last fight: 2020-03-07
+
+Career Statistics:
+- Significant Strikes Landed :120
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

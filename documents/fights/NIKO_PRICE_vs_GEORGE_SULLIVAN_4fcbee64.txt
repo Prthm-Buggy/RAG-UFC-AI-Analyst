@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs. Brunson 2
+    Date: January 27, 2018
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Welterweight
+    
+
+    Result: NIKO PRICE defeated GEORGE SULLIVAN via Submission  
+  at 4:21 of round 2
+  Key stats:
+  - NIKO PRICE landed 24 significant strikes
+  - GEORGE SULLIVAN landed 21 significant strikes
+  - Knockdowns: NIKO PRICE 0,  GEORGE SULLIVAN 0
+  - Takedowns: NIKO PRICE 2,  GEORGE SULLIVAN 1

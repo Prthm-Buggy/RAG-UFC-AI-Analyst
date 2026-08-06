@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bisping vs Kennedy
+    Date: April 16, 2014
+    Location: Quebec City, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: NORDINE TALEB defeated VIK GRUJIC via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NORDINE TALEB landed 48 significant strikes
+  - VIK GRUJIC landed 4 significant strikes
+  - Knockdowns: NORDINE TALEB 0,  VIK GRUJIC 0
+  - Takedowns: NORDINE TALEB 4,  VIK GRUJIC 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blanchfield vs. Barber
+    Date: May 31, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JORDAN LEAVITT defeated KURT HOLOBAUGH via Submission  
+  at 1:39 of round 1
+  Key stats:
+  - JORDAN LEAVITT landed 1 significant strikes
+  - KURT HOLOBAUGH landed 0 significant strikes
+  - Knockdowns: JORDAN LEAVITT 0,  KURT HOLOBAUGH 0
+  - Takedowns: JORDAN LEAVITT 3,  KURT HOLOBAUGH 0
+  Bonus: perf

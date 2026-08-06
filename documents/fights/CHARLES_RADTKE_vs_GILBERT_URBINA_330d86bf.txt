@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dolidze vs. Imavov
+    Date: February 03, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHARLES RADTKE defeated GILBERT URBINA via KO/TKO  
+  at 4:47 of round 1
+  Key stats:
+  - CHARLES RADTKE landed 30 significant strikes
+  - GILBERT URBINA landed 16 significant strikes
+  - Knockdowns: CHARLES RADTKE 2,  GILBERT URBINA 0
+  - Takedowns: CHARLES RADTKE 0,  GILBERT URBINA 0

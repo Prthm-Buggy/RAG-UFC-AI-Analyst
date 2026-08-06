@@ -1,0 +1,11 @@
+Fighter: NICK THOMPSON
+  Date of Birth: 1981-06-23
+  Career record: 2
+  First fight: 2005-11-19
+  Last fight: 2006-04-15
+
+Career Statistics:
+- Significant Strikes Landed :50
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :3

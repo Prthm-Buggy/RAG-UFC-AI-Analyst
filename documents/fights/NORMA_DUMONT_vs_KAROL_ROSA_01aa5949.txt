@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Pavlovich vs. Blaydes
+    Date: April 22, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: NORMA DUMONT defeated KAROL ROSA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NORMA DUMONT landed 35 significant strikes
+  - KAROL ROSA landed 33 significant strikes
+  - Knockdowns: NORMA DUMONT 0,  KAROL ROSA 1
+  - Takedowns: NORMA DUMONT 1,  KAROL ROSA 0

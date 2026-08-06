@@ -1,0 +1,13 @@
+Event: UFC 204: Bisping vs. Henderson
+    Date: October 08, 2016
+    Location: Manchester, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: LEON EDWARDS defeated ALBERT TUMENOV via Submission  
+  at 3:01 of round 3
+  Key stats:
+  - LEON EDWARDS landed 16 significant strikes
+  - ALBERT TUMENOV landed 32 significant strikes
+  - Knockdowns: LEON EDWARDS 0,  ALBERT TUMENOV 0
+  - Takedowns: LEON EDWARDS 3,  ALBERT TUMENOV 0

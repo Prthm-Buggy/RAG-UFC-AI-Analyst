@@ -1,0 +1,11 @@
+Fighter: YUSUKE KASUYA
+  Date of Birth: 1989-11-16
+  Career record: 2
+  First fight: 2015-09-26
+  Last fight: 2016-11-26
+
+Career Statistics:
+- Significant Strikes Landed :48
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

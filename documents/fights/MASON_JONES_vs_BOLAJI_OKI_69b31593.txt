@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Imavov vs. Borralho
+    Date: September 06, 2025
+    Location: Paris, Ile-de-France, France
+    Weight Class: Lightweight
+    
+
+    Result: MASON JONES defeated BOLAJI OKI via KO/TKO  
+  at 3:18 of round 2
+  Key stats:
+  - MASON JONES landed 57 significant strikes
+  - BOLAJI OKI landed 38 significant strikes
+  - Knockdowns: MASON JONES 1,  BOLAJI OKI 1
+  - Takedowns: MASON JONES 2,  BOLAJI OKI 0

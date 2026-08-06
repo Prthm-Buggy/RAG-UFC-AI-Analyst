@@ -1,0 +1,11 @@
+Fighter: DAVE STRASSER
+  Date of Birth: 1969-07-13
+  Career record: 2
+  First fight: 2003-04-25
+  Last fight: 2003-09-26
+
+Career Statistics:
+- Significant Strikes Landed :62
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

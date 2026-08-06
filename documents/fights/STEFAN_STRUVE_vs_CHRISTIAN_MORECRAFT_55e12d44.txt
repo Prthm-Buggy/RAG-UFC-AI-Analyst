@@ -1,0 +1,14 @@
+Event: UFC 117: Silva vs Sonnen
+    Date: August 07, 2010
+    Location: Oakland, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STEFAN STRUVE defeated CHRISTIAN MORECRAFT via KO/TKO  
+  at 0:22 of round 2
+  Key stats:
+  - STEFAN STRUVE landed 11 significant strikes
+  - CHRISTIAN MORECRAFT landed 36 significant strikes
+  - Knockdowns: STEFAN STRUVE 1,  CHRISTIAN MORECRAFT 0
+  - Takedowns: STEFAN STRUVE 0,  CHRISTIAN MORECRAFT 1
+  Bonus: ko

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Belfort vs. Gastelum
+    Date: March 11, 2017
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: EDSON BARBOZA defeated BENEIL DARIUSH via KO/TKO  
+  at 3:35 of round 2
+  Key stats:
+  - EDSON BARBOZA landed 30 significant strikes
+  - BENEIL DARIUSH landed 51 significant strikes
+  - Knockdowns: EDSON BARBOZA 1,  BENEIL DARIUSH 0
+  - Takedowns: EDSON BARBOZA 0,  BENEIL DARIUSH 0
+  Bonus: perf

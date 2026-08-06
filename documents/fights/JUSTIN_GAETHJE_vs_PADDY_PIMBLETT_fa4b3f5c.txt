@@ -1,0 +1,14 @@
+Event: UFC 324: Gaethje vs. Pimblett
+    Date: January 24, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JUSTIN GAETHJE defeated PADDY PIMBLETT via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JUSTIN GAETHJE landed 144 significant strikes
+  - PADDY PIMBLETT landed 156 significant strikes
+  - Knockdowns: JUSTIN GAETHJE 2,  PADDY PIMBLETT 0
+  - Takedowns: JUSTIN GAETHJE 3,  PADDY PIMBLETT 0
+  Bonus: belt

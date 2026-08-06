@@ -1,0 +1,11 @@
+Fighter: OLI THOMPSON
+  Date of Birth: 1980-01-02
+  Career record: 2
+  First fight: 2012-03-02
+  Last fight: 2012-08-04
+
+Career Statistics:
+- Significant Strikes Landed :47
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

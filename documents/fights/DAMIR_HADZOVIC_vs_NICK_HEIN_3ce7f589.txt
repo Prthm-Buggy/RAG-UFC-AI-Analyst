@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shogun vs. Smith
+    Date: July 22, 2018
+    Location: Hamburg, Hamburg, Germany
+    Weight Class: Lightweight
+    
+
+    Result: DAMIR HADZOVIC defeated NICK HEIN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - DAMIR HADZOVIC landed 71 significant strikes
+  - NICK HEIN landed 43 significant strikes
+  - Knockdowns: DAMIR HADZOVIC 1,  NICK HEIN 0
+  - Takedowns: DAMIR HADZOVIC 0,  NICK HEIN 0

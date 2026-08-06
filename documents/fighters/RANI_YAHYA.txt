@@ -1,0 +1,11 @@
+Fighter: RANI YAHYA
+  Date of Birth: 1984-09-12
+  Career record: 19
+  First fight: 2011-01-22
+  Last fight: 2024-04-27
+
+Career Statistics:
+- Significant Strikes Landed :413
+- Total takedowns landed :39
+- Knockdowns :0
+- Submission Attempts :23

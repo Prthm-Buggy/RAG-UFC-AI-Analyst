@@ -1,0 +1,11 @@
+Fighter: MATEUSZ REBECKI
+  Date of Birth: 1992-10-03
+  Career record: 8
+  First fight: 2023-01-14
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :495
+- Total takedowns landed :19
+- Knockdowns :5
+- Submission Attempts :2

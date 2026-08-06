@@ -1,0 +1,13 @@
+Event: UFC 278: Usman vs. Edwards
+    Date: August 20, 2022
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: LUCIE PUDILOVA defeated WU YANAN via KO/TKO  
+  at 4:04 of round 2
+  Key stats:
+  - LUCIE PUDILOVA landed 39 significant strikes
+  - WU YANAN landed 26 significant strikes
+  - Knockdowns: LUCIE PUDILOVA 0,  WU YANAN 0
+  - Takedowns: LUCIE PUDILOVA 2,  WU YANAN 0

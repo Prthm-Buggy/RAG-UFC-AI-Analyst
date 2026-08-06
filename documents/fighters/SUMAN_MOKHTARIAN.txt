@@ -1,0 +1,11 @@
+Fighter: SUMAN MOKHTARIAN
+  Date of Birth: 1992-06-13
+  Career record: 2
+  First fight: 2018-12-01
+  Last fight: 2019-12-21
+
+Career Statistics:
+- Significant Strikes Landed :38
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

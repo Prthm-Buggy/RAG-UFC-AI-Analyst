@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nzechukwu vs. Cutelaba
+    Date: November 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: CHARLES JOHNSON defeated ZHALGAS ZHUMAGULOV via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CHARLES JOHNSON landed 115 significant strikes
+  - ZHALGAS ZHUMAGULOV landed 119 significant strikes
+  - Knockdowns: CHARLES JOHNSON 0,  ZHALGAS ZHUMAGULOV 0
+  - Takedowns: CHARLES JOHNSON 0,  ZHALGAS ZHUMAGULOV 1

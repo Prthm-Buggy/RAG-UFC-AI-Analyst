@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Allen
+    Date: April 15, 2023
+    Location: Kansas City, Missouri, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ION CUTELABA defeated TANNER BOSER via KO/TKO  
+  at 2:05 of round 1
+  Key stats:
+  - ION CUTELABA landed 30 significant strikes
+  - TANNER BOSER landed 5 significant strikes
+  - Knockdowns: ION CUTELABA 0,  TANNER BOSER 0
+  - Takedowns: ION CUTELABA 1,  TANNER BOSER 0

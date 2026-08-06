@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Couture vs. Team Liddell Finale
+    Date: April 09, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DIEGO SANCHEZ defeated KENNY FLORIAN via KO/TKO  
+  at 2:49 of round 1
+  Key stats:
+  - DIEGO SANCHEZ landed 14 significant strikes
+  - KENNY FLORIAN landed 2 significant strikes
+  - Knockdowns: DIEGO SANCHEZ 0,  KENNY FLORIAN 0
+  - Takedowns: DIEGO SANCHEZ 1,  KENNY FLORIAN 0
+  Bonus: belt

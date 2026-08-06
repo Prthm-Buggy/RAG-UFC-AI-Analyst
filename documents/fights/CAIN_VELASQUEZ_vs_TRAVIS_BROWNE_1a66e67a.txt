@@ -1,0 +1,14 @@
+Event: UFC 200: Tate vs Nunes
+    Date: July 09, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CAIN VELASQUEZ defeated TRAVIS BROWNE via KO/TKO  
+  at 4:57 of round 1
+  Key stats:
+  - CAIN VELASQUEZ landed 50 significant strikes
+  - TRAVIS BROWNE landed 6 significant strikes
+  - Knockdowns: CAIN VELASQUEZ 1,  TRAVIS BROWNE 0
+  - Takedowns: CAIN VELASQUEZ 1,  TRAVIS BROWNE 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Hooker
+    Date: June 27, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TANNER BOSER defeated PHILIPE LINS via KO/TKO  
+  at 2:41 of round 1
+  Key stats:
+  - TANNER BOSER landed 15 significant strikes
+  - PHILIPE LINS landed 6 significant strikes
+  - Knockdowns: TANNER BOSER 1,  PHILIPE LINS 0
+  - Takedowns: TANNER BOSER 0,  PHILIPE LINS 0

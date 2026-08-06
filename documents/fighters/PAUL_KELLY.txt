@@ -1,0 +1,11 @@
+Fighter: PAUL KELLY
+  Date of Birth: 1984-09-12
+  Career record: 9
+  First fight: 2008-01-19
+  Last fight: 2011-02-05
+
+Career Statistics:
+- Significant Strikes Landed :325
+- Total takedowns landed :9
+- Knockdowns :1
+- Submission Attempts :10

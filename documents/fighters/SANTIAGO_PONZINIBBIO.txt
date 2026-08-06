@@ -1,0 +1,11 @@
+Fighter: SANTIAGO PONZINIBBIO
+  Date of Birth: 1986-09-26
+  Career record: 20
+  First fight: 2013-11-09
+  Last fight: 2025-05-03
+
+Career Statistics:
+- Significant Strikes Landed :1083
+- Total takedowns landed :9
+- Knockdowns :11
+- Submission Attempts :0

@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Sandhagen vs. Font
+    Date : August 05, 2023
+    Location: Nashville, Tennessee, USA
+    Number of Fights: 12
+    Weight Classes: Catch Weight, Featherweight, Light Heavyweight, Women's Strawweight, Flyweight, Welterweight, Lightweight, Bantamweight
+
+    Fight Results:
+  - DIEGO LOPES def. GAVIN TUCKER via Submission(R1)
+- CARLSTON HARRIS def. JEREMIAH WELLS via Submission(R3)
+- LUDOVIT KLEIN def. IGNACIO BAHAMONDES via Decision - Unanimous(R3)
+- SEAN WOODSON def. DENNIS BUZUKJA via Decision - Unanimous(R3)
+- DUSTIN JACOBY def. KENNEDY NZECHUKWU via KO/TKO(R1)
+- ASU ALMABAYEV def. ODE OSBOURNE via Submission(R2)
+- KYLER PHILLIPS def. RAONI BARCELOS via Decision - Unanimous(R3)
+- TANNER BOSER def. ALEKSA CAMUR via Decision - Unanimous(R3)
+- CODY DURDEN def. JAKE HADLEY via Decision - Unanimous(R3)
+- BILLY QUARANTILLO def. DAMON JACKSON via Decision - Unanimous(R3)
+- CORY SANDHAGEN def. ROB FONT via Decision - Unanimous(R5)
+- TATIANA SUAREZ def. JESSICA ANDRADE via Submission(R2)

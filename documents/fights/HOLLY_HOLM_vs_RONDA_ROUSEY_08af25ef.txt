@@ -1,0 +1,14 @@
+Event: UFC 193: Rousey vs Holm
+    Date: November 14, 2015
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Women's Bantamweight
+    
+
+    Result: HOLLY HOLM defeated RONDA ROUSEY via KO/TKO  
+  at 0:59 of round 2
+  Key stats:
+  - HOLLY HOLM landed 38 significant strikes
+  - RONDA ROUSEY landed 17 significant strikes
+  - Knockdowns: HOLLY HOLM 1,  RONDA ROUSEY 0
+  - Takedowns: HOLLY HOLM 1,  RONDA ROUSEY 0
+  Bonus: belt

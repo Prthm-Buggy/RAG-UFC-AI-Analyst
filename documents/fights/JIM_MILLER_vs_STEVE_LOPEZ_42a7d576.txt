@@ -1,0 +1,13 @@
+Event: UFC 103: Franklin vs Belfort
+    Date: September 19, 2009
+    Location: Dallas, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated STEVE LOPEZ via KO/TKO  
+  at 0:48 of round 2
+  Key stats:
+  - JIM MILLER landed 30 significant strikes
+  - STEVE LOPEZ landed 6 significant strikes
+  - Knockdowns: JIM MILLER 1,  STEVE LOPEZ 0
+  - Takedowns: JIM MILLER 0,  STEVE LOPEZ 0

@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Lewis vs. Spivac
+    Date : February 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Heavyweight, Light Heavyweight, Featherweight, Lightweight, Flyweight, Welterweight, Middleweight
+
+    Fight Results:
+  - HYUNSUNG PARK def. SEUNGGUK CHOI via Submission(R3)
+- ADAM FUGITT def. YUSAKU KINOSHITA via KO/TKO(R1)
+- TATSURO TAIRA def. JESUS AGUILAR via Submission(R1)
+- MARCIN TYBURA def. BLAGOY IVANOV via Decision - Unanimous(R3)
+- RINYA NAKAMURA def. TOSHIOMI KAZAMA via KO/TKO(R1)
+- ANSHUL JUBLI def. JEKA SARAGIH via KO/TKO(R2)
+- JEONGYEONG LEE def. YIZHA via Decision - Split(R3)
+- JUNYONG PARK def. DENIS TIULIULIN via Submission(R1)
+- SERGHEI SPIVAC def. DERRICK LEWIS via Submission(R1)
+- DEVIN CLARK def. DA WOON JUNG via Decision - Unanimous(R3)

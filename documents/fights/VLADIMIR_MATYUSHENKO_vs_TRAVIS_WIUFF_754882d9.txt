@@ -1,0 +1,13 @@
+Event: UFC 40: Vendetta
+    Date: November 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: VLADIMIR MATYUSHENKO defeated TRAVIS WIUFF via KO/TKO  
+  at 4:10 of round 1
+  Key stats:
+  - VLADIMIR MATYUSHENKO landed 24 significant strikes
+  - TRAVIS WIUFF landed 0 significant strikes
+  - Knockdowns: VLADIMIR MATYUSHENKO 0,  TRAVIS WIUFF 0
+  - Takedowns: VLADIMIR MATYUSHENKO 2,  TRAVIS WIUFF 0

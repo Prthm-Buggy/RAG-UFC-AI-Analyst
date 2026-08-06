@@ -1,0 +1,11 @@
+Fighter: ERICK SILVA
+  Date of Birth: 1984-06-21
+  Career record: 15
+  First fight: 2011-08-27
+  Last fight: 2017-12-16
+
+Career Statistics:
+- Significant Strikes Landed :265
+- Total takedowns landed :6
+- Knockdowns :3
+- Submission Attempts :10

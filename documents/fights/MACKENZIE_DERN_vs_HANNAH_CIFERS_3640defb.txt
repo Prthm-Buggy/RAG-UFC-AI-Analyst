@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Woodley vs. Burns
+    Date: May 30, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MACKENZIE DERN defeated HANNAH CIFERS via Submission  
+  at 2:36 of round 1
+  Key stats:
+  - MACKENZIE DERN landed 5 significant strikes
+  - HANNAH CIFERS landed 7 significant strikes
+  - Knockdowns: MACKENZIE DERN 0,  HANNAH CIFERS 0
+  - Takedowns: MACKENZIE DERN 0,  HANNAH CIFERS 0
+  Bonus: perf

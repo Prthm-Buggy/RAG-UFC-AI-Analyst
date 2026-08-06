@@ -1,0 +1,11 @@
+Fighter: PAUL BUENTELLO
+  Date of Birth: 1974-01-16
+  Career record: 6
+  First fight: 2005-02-05
+  Last fight: 2010-03-21
+
+Career Statistics:
+- Significant Strikes Landed :132
+- Total takedowns landed :1
+- Knockdowns :3
+- Submission Attempts :2

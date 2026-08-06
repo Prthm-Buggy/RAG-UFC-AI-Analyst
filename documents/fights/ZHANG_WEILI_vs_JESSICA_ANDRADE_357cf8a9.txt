@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Andrade vs. Zhang
+    Date: August 31, 2019
+    Location: Shenzhen, Guangdong, China
+    Weight Class: Women's Strawweight
+    
+
+    Result: ZHANG WEILI defeated JESSICA ANDRADE via KO/TKO  
+  at 0:42 of round 1
+  Key stats:
+  - ZHANG WEILI landed 29 significant strikes
+  - JESSICA ANDRADE landed 4 significant strikes
+  - Knockdowns: ZHANG WEILI 1,  JESSICA ANDRADE 0
+  - Takedowns: ZHANG WEILI 0,  JESSICA ANDRADE 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC 215: Nunes vs Shevchenko 2
+    Date: September 09, 2017
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: ARJAN BHULLAR defeated LUIS HENRIQUE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ARJAN BHULLAR landed 24 significant strikes
+  - LUIS HENRIQUE landed 32 significant strikes
+  - Knockdowns: ARJAN BHULLAR 1,  LUIS HENRIQUE 0
+  - Takedowns: ARJAN BHULLAR 1,  LUIS HENRIQUE 0

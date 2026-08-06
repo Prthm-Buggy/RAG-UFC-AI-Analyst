@@ -1,0 +1,13 @@
+Event: UFC 106: Ortiz vs Griffin 2
+    Date: November 21, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRIAN FOSTER defeated BROCK LARSON via KO/TKO  
+  at 3:25 of round 2
+  Key stats:
+  - BRIAN FOSTER landed 28 significant strikes
+  - BROCK LARSON landed 6 significant strikes
+  - Knockdowns: BRIAN FOSTER 0,  BROCK LARSON 0
+  - Takedowns: BRIAN FOSTER 2,  BROCK LARSON 1

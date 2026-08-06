@@ -1,0 +1,11 @@
+Fighter: RONYS TORRES
+  Date of Birth: 1975-08-13
+  Career record: 2
+  First fight: 2010-02-06
+  Last fight: 2010-03-31
+
+Career Statistics:
+- Significant Strikes Landed :26
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :1

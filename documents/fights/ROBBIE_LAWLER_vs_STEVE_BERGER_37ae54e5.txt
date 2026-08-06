@@ -1,0 +1,13 @@
+Event: UFC 37.5: As Real As It Gets
+    Date: June 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ROBBIE LAWLER defeated STEVE BERGER via KO/TKO  
+  at 0:27 of round 2
+  Key stats:
+  - ROBBIE LAWLER landed 28 significant strikes
+  - STEVE BERGER landed 11 significant strikes
+  - Knockdowns: ROBBIE LAWLER 1,  STEVE BERGER 0
+  - Takedowns: ROBBIE LAWLER 1,  STEVE BERGER 1

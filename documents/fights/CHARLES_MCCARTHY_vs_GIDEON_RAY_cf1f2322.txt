@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: The Comeback Finale
+    Date: November 11, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHARLES MCCARTHY defeated GIDEON RAY via Submission  
+  at 4:43 of round 1
+  Key stats:
+  - CHARLES MCCARTHY landed 2 significant strikes
+  - GIDEON RAY landed 9 significant strikes
+  - Knockdowns: CHARLES MCCARTHY 0,  GIDEON RAY 0
+  - Takedowns: CHARLES MCCARTHY 1,  GIDEON RAY 0

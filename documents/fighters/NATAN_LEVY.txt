@@ -1,0 +1,11 @@
+Fighter: NATAN LEVY
+  Date of Birth: 1991-09-30
+  Career record: 4
+  First fight: 2021-11-20
+  Last fight: 2024-03-16
+
+Career Statistics:
+- Significant Strikes Landed :214
+- Total takedowns landed :19
+- Knockdowns :0
+- Submission Attempts :0

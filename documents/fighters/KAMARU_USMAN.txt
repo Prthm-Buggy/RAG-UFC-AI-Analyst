@@ -1,0 +1,11 @@
+Fighter: KAMARU USMAN
+  Date of Birth: 1987-05-11
+  Career record: 19
+  First fight: 2015-07-12
+  Last fight: 2025-06-14
+
+Career Statistics:
+- Significant Strikes Landed :1411
+- Total takedowns landed :63
+- Knockdowns :10
+- Submission Attempts :2

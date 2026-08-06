@@ -1,0 +1,11 @@
+Fighter: THALES LEITES
+  Date of Birth: 1981-09-06
+  Career record: 21
+  First fight: 2006-11-11
+  Last fight: 2018-09-22
+
+Career Statistics:
+- Significant Strikes Landed :562
+- Total takedowns landed :37
+- Knockdowns :4
+- Submission Attempts :20

@@ -1,0 +1,14 @@
+Event: UFC 259: Blachowicz vs. Adesanya
+    Date: March 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: AMANDA NUNES defeated MEGAN ANDERSON via Submission  
+  at 2:03 of round 1
+  Key stats:
+  - AMANDA NUNES landed 18 significant strikes
+  - MEGAN ANDERSON landed 2 significant strikes
+  - Knockdowns: AMANDA NUNES 0,  MEGAN ANDERSON 0
+  - Takedowns: AMANDA NUNES 0,  MEGAN ANDERSON 0
+  Bonus: belt

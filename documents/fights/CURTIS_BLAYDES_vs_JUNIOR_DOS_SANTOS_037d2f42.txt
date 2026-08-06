@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Dos Santos
+    Date: January 25, 2020
+    Location: Raleigh, North Carolina, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CURTIS BLAYDES defeated JUNIOR DOS SANTOS via KO/TKO  
+  at 1:06 of round 2
+  Key stats:
+  - CURTIS BLAYDES landed 28 significant strikes
+  - JUNIOR DOS SANTOS landed 7 significant strikes
+  - Knockdowns: CURTIS BLAYDES 0,  JUNIOR DOS SANTOS 0
+  - Takedowns: CURTIS BLAYDES 0,  JUNIOR DOS SANTOS 0

@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: A Champion Will Be Crowned Finale
+    Date: December 12, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: YANCY MEDEIROS defeated JOE PROCTOR via Submission  
+  at 4:37 of round 1
+  Key stats:
+  - YANCY MEDEIROS landed 25 significant strikes
+  - JOE PROCTOR landed 15 significant strikes
+  - Knockdowns: YANCY MEDEIROS 1,  JOE PROCTOR 0
+  - Takedowns: YANCY MEDEIROS 0,  JOE PROCTOR 0
+  Bonus: perf

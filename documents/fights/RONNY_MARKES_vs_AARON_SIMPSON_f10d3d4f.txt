@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Sanchez vs Ellenberger
+    Date: February 15, 2012
+    Location: Omaha, Nebraska, USA
+    Weight Class: Middleweight
+    
+
+    Result: RONNY MARKES defeated AARON SIMPSON via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - RONNY MARKES landed 62 significant strikes
+  - AARON SIMPSON landed 55 significant strikes
+  - Knockdowns: RONNY MARKES 0,  AARON SIMPSON 1
+  - Takedowns: RONNY MARKES 2,  AARON SIMPSON 0

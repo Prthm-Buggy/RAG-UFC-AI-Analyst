@@ -1,0 +1,11 @@
+Fighter: ROYCE GRACIE
+  Date of Birth: 1966-12-12
+  Career record: 9
+  First fight: 1994-03-11
+  Last fight: 2006-05-27
+
+Career Statistics:
+- Significant Strikes Landed :33
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :12

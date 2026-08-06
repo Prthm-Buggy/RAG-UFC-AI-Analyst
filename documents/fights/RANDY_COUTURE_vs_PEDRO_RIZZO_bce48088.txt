@@ -1,0 +1,14 @@
+Event: UFC 34: High Voltage
+    Date: November 02, 2001
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RANDY COUTURE defeated PEDRO RIZZO via KO/TKO  
+  at 3:22 of round 3
+  Key stats:
+  - RANDY COUTURE landed 41 significant strikes
+  - PEDRO RIZZO landed 13 significant strikes
+  - Knockdowns: RANDY COUTURE 0,  PEDRO RIZZO 0
+  - Takedowns: RANDY COUTURE 3,  PEDRO RIZZO 1
+  Bonus: belt

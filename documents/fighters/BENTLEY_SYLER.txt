@@ -1,0 +1,11 @@
+Fighter: BENTLEY SYLER
+  Date of Birth: 1982-12-22
+  Career record: 1
+  First fight: 2015-03-21
+  Last fight: 2015-03-21
+
+Career Statistics:
+- Significant Strikes Landed :15
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

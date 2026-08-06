@@ -1,0 +1,14 @@
+Event: UFC 316: Dvalishvili vs. O'Malley 2
+    Date: June 07, 2025
+    Location: Newark, New Jersey, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MERAB DVALISHVILI defeated SEAN O'MALLEY via Submission  
+  at 4:42 of round 3
+  Key stats:
+  - MERAB DVALISHVILI landed 52 significant strikes
+  - SEAN O'MALLEY landed 31 significant strikes
+  - Knockdowns: MERAB DVALISHVILI 0,  SEAN O'MALLEY 0
+  - Takedowns: MERAB DVALISHVILI 5,  SEAN O'MALLEY 0
+  Bonus: belt

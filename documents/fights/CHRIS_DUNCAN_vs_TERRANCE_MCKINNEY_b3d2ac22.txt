@@ -1,0 +1,13 @@
+Event: UFC 323: Dvalishvili vs. Yan 2
+    Date: December 06, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHRIS DUNCAN defeated TERRANCE MCKINNEY via Submission  
+  at 2:30 of round 1
+  Key stats:
+  - CHRIS DUNCAN landed 38 significant strikes
+  - TERRANCE MCKINNEY landed 31 significant strikes
+  - Knockdowns: CHRIS DUNCAN 1,  TERRANCE MCKINNEY 0
+  - Takedowns: CHRIS DUNCAN 1,  TERRANCE MCKINNEY 0

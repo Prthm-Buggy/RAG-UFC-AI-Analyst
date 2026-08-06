@@ -1,0 +1,16 @@
+Event : UFC 60: Hughes vs Gracie
+    Date : May 27, 2006
+    Location: Los Angeles, California, USA
+    Number of Fights: 9
+    Weight Classes: Catch Weight, Light Heavyweight, Middleweight, Lightweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - MATT HUGHES def. ROYCE GRACIE via KO/TKO(R1)
+- DIEGO SANCHEZ def. JOHN ALESSIO via Decision - Unanimous(R3)
+- MIKE SWICK def. JOE RIGGS via Submission(R1)
+- SPENCER FISHER def. MATT WIMAN via KO/TKO(R2)
+- DEAN LISTER def. ALESSIO SAKARA via Submission(R1)
+- JEREMY HORN def. CHAEL SONNEN via Submission(R2)
+- GABRIEL GONZAGA def. FABIANO SCHERNER via KO/TKO(R2)
+- MELVIN GUILLARD def. RICK DAVIS via KO/TKO(R1)
+- BRANDON VERA def. ASSUERIO SILVA via Submission(R1)

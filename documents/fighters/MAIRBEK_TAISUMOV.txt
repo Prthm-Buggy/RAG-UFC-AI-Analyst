@@ -1,0 +1,11 @@
+Fighter: MAIRBEK TAISUMOV
+  Date of Birth: 1988-08-08
+  Career record: 9
+  First fight: 2014-01-04
+  Last fight: 2019-09-07
+
+Career Statistics:
+- Significant Strikes Landed :233
+- Total takedowns landed :7
+- Knockdowns :4
+- Submission Attempts :0

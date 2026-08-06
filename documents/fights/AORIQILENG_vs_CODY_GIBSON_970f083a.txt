@@ -1,0 +1,14 @@
+Event: UFC Fight Night: De Ridder vs. Allen
+    Date: October 18, 2025
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: AORIQILENG defeated CODY GIBSON via KO/TKO  
+  at 0:21 of round 1
+  Key stats:
+  - AORIQILENG landed 5 significant strikes
+  - CODY GIBSON landed 3 significant strikes
+  - Knockdowns: AORIQILENG 1,  CODY GIBSON 0
+  - Takedowns: AORIQILENG 0,  CODY GIBSON 0
+  Bonus: perf

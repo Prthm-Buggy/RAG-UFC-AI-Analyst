@@ -1,0 +1,11 @@
+Fighter: REESE ANDY
+  Date of Birth: 1973-03-31
+  Career record: 2
+  First fight: 2008-07-19
+  Last fight: 2008-12-27
+
+Career Statistics:
+- Significant Strikes Landed :64
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

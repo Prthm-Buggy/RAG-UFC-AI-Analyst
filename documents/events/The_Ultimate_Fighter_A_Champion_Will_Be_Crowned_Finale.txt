@@ -1,0 +1,17 @@
+Event : The Ultimate Fighter: A Champion Will Be Crowned Finale
+    Date : December 12, 2014
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Lightweight, Women's Strawweight, Featherweight
+
+    Fight Results:
+  - CHARLES OLIVEIRA def. JEREMY STEPHENS via Decision - Unanimous(R3)
+- HEATHER CLARK def. BEC RAWLINGS via Decision - Unanimous(R3)
+- ANGELA HILL def. EMILY KAGAN via Decision - Unanimous(R3)
+- TECIA PENNINGTON def. ANGELA MAGANA via Decision - Unanimous(R3)
+- CARLA ESPARZA def. ROSE NAMAJUNAS via Submission(R3)
+- JOANNE WOOD def. SEO HEE HAM via Decision - Unanimous(R3)
+- YANCY MEDEIROS def. JOE PROCTOR via Submission(R1)
+- AISLING DALY def. ALEX CHAMBERS via Submission(R1)
+- JESSICA PENNE def. RANDA MARKOS via Decision - Split(R3)
+- FELICE HERRIG def. LISA ELLIS via Submission(R2)

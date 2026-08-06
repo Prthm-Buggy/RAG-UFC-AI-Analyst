@@ -1,0 +1,13 @@
+Event: UFC 185: Pettis vs Dos Anjos
+    Date: March 14, 2015
+    Location: Dallas, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JARED ROSHOLT defeated JOSH COPELAND via KO/TKO  
+  at 3:12 of round 3
+  Key stats:
+  - JARED ROSHOLT landed 22 significant strikes
+  - JOSH COPELAND landed 9 significant strikes
+  - Knockdowns: JARED ROSHOLT 0,  JOSH COPELAND 0
+  - Takedowns: JARED ROSHOLT 2,  JOSH COPELAND 0

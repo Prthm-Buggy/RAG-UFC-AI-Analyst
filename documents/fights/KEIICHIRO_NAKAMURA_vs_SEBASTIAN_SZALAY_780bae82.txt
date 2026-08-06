@@ -1,0 +1,14 @@
+Event: UFC 325: Volkanovski vs. Lopes 2
+    Date: January 31, 2026
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Featherweight
+    
+
+    Result: KEIICHIRO NAKAMURA defeated SEBASTIAN SZALAY via KO/TKO  
+  at 3:48 of round 3
+  Key stats:
+  - KEIICHIRO NAKAMURA landed 45 significant strikes
+  - SEBASTIAN SZALAY landed 79 significant strikes
+  - Knockdowns: KEIICHIRO NAKAMURA 1,  SEBASTIAN SZALAY 0
+  - Takedowns: KEIICHIRO NAKAMURA 0,  SEBASTIAN SZALAY 1
+  Bonus: belt

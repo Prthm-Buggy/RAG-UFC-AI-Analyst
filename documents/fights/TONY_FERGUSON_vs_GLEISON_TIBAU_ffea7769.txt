@@ -1,0 +1,14 @@
+Event: UFC 184: Rousey vs Zingano
+    Date: February 28, 2015
+    Location: Los Angeles, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: TONY FERGUSON defeated GLEISON TIBAU via Submission  
+  at 2:37 of round 1
+  Key stats:
+  - TONY FERGUSON landed 11 significant strikes
+  - GLEISON TIBAU landed 2 significant strikes
+  - Knockdowns: TONY FERGUSON 0,  GLEISON TIBAU 0
+  - Takedowns: TONY FERGUSON 1,  GLEISON TIBAU 0
+  Bonus: perf

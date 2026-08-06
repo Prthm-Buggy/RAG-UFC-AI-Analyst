@@ -1,0 +1,11 @@
+Fighter: JASON HIGH
+  Date of Birth: 1981-10-12
+  Career record: 5
+  First fight: 2010-03-31
+  Last fight: 2014-06-07
+
+Career Statistics:
+- Significant Strikes Landed :42
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :9

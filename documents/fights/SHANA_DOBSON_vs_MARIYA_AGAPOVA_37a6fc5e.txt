@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Munhoz vs. Edgar
+    Date: August 22, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: SHANA DOBSON defeated MARIYA AGAPOVA via KO/TKO  
+  at 1:38 of round 2
+  Key stats:
+  - SHANA DOBSON landed 24 significant strikes
+  - MARIYA AGAPOVA landed 22 significant strikes
+  - Knockdowns: SHANA DOBSON 0,  MARIYA AGAPOVA 0
+  - Takedowns: SHANA DOBSON 2,  MARIYA AGAPOVA 2
+  Bonus: perf

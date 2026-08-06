@@ -1,0 +1,13 @@
+Event: UFC 66: Liddell vs Ortiz 2
+    Date: December 30, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MICHAEL BISPING defeated ERIC SCHAFER via KO/TKO  
+  at 4:24 of round 1
+  Key stats:
+  - MICHAEL BISPING landed 19 significant strikes
+  - ERIC SCHAFER landed 3 significant strikes
+  - Knockdowns: MICHAEL BISPING 0,  ERIC SCHAFER 0
+  - Takedowns: MICHAEL BISPING 0,  ERIC SCHAFER 3

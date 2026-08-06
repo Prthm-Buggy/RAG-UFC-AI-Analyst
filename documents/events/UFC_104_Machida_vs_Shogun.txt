@@ -1,0 +1,18 @@
+Event : UFC 104: Machida vs Shogun
+    Date : October 24, 2009
+    Location: Los Angeles, California, USA
+    Number of Fights: 11
+    Weight Classes: Light Heavyweight, Lightweight, Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - ANTHONY JOHNSON def. YOSHIYUKI YOSHIDA via KO/TKO(R1)
+- GLEISON TIBAU def. JOSH NEER via Decision - Unanimous(R3)
+- RYAN BADER def. ERIC SCHAFER via Decision - Unanimous(R3)
+- CAIN VELASQUEZ def. BEN ROTHWELL via KO/TKO(R2)
+- PAT BARRY def. ANTONI HARDONK via KO/TKO(R2)
+- JORGE RIVERA def. ROB KIMMONS via KO/TKO(R3)
+- LYOTO MACHIDA def. MAURICIO RUA via Decision - Unanimous(R5)
+- CHAEL SONNEN def. YUSHIN OKAMI via Decision - Unanimous(R3)
+- JOE STEVENSON def. SPENCER FISHER via KO/TKO(R2)
+- KYLE KINGSBURY def. RAZAK AL-HASSAN via Decision - Split(R3)
+- STEFAN STRUVE def. CHASE GORMLEY via Submission(R1)

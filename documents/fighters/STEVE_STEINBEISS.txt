@@ -1,0 +1,11 @@
+Fighter: STEVE STEINBEISS
+  Date of Birth: 1981-05-05
+  Career record: 2
+  First fight: 2009-09-16
+  Last fight: 2010-08-01
+
+Career Statistics:
+- Significant Strikes Landed :92
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

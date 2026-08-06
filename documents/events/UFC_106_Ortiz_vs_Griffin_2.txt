@@ -1,0 +1,16 @@
+Event : UFC 106: Ortiz vs Griffin 2
+    Date : November 21, 2009
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Welterweight, Middleweight, Light Heavyweight, Lightweight
+
+    Fight Results:
+  - ROGERIO NOGUEIRA def. LUIZ CANE via KO/TKO(R1)
+- KENDALL GROVE def. JAKE ROSHOLT via Submission(R1)
+- AMIR SADOLLAH def. PHIL BARONI via Decision - Unanimous(R3)
+- BRIAN FOSTER def. BROCK LARSON via KO/TKO(R2)
+- GEORGE SOTIROPOULOS def. JASON DENT via Submission(R2)
+- PAULO THIAGO def. JACOB VOLKMANN via Decision - Unanimous(R3)
+- BEN SAUNDERS def. MARCUS DAVIS via KO/TKO(R1)
+- JOSH KOSCHECK def. ANTHONY JOHNSON via Submission(R2)
+- FORREST GRIFFIN def. TITO ORTIZ via Decision - Split(R3)

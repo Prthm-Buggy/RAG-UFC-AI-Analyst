@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Aspinall
+    Date: March 19, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: PAUL CRAIG defeated NIKITA KRYLOV via Submission  
+  at 3:57 of round 1
+  Key stats:
+  - PAUL CRAIG landed 2 significant strikes
+  - NIKITA KRYLOV landed 19 significant strikes
+  - Knockdowns: PAUL CRAIG 0,  NIKITA KRYLOV 0
+  - Takedowns: PAUL CRAIG 1,  NIKITA KRYLOV 1
+  Bonus: perf

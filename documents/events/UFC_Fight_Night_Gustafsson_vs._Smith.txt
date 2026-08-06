@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Gustafsson vs. Smith
+    Date : June 01, 2019
+    Location: Stockholm, Sweden
+    Number of Fights: 12
+    Weight Classes: Light Heavyweight, Lightweight, Women's Bantamweight, Welterweight, Featherweight
+
+    Fight Results:
+  - SERGEY KHANDOZHKO def. ROSTEM AKMAN via Decision - Unanimous(R3)
+- LEONARDO SANTOS def. STEVIE RAY via KO/TKO(R1)
+- CHRISTOS GIAGOS def. DAMIR HADZOVIC via Decision - Unanimous(R3)
+- ANTHONY SMITH def. ALEXANDER GUSTAFSSON via Submission(R4)
+- ALEKSANDAR RAKIC def. JIMI MANUWA via KO/TKO(R1)
+- DEVIN CLARK def. DARKO STOSIC via Decision - Unanimous(R3)
+- LINA LANSBERG def. TONYA EVINGER via Decision - Unanimous(R3)
+- FRANK CAMACHO def. NICK HEIN via KO/TKO(R2)
+- JOEL ALVAREZ def. DANILO BELLUARDO via KO/TKO(R2)
+- BEA MALECKI def. DUDA SANTANA via Submission(R2)
+- DANIEL TEYMUR def. SUNG BIN JO via Decision - Unanimous(R3)
+- MAKWAN AMIRKHANI def. CHRIS FISHGOLD via Submission(R2)

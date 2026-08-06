@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blachowicz vs. Jacare
+    Date: November 16, 2019
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAN BLACHOWICZ defeated JACARE SOUZA via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - JAN BLACHOWICZ landed 71 significant strikes
+  - JACARE SOUZA landed 20 significant strikes
+  - Knockdowns: JAN BLACHOWICZ 0,  JACARE SOUZA 0
+  - Takedowns: JAN BLACHOWICZ 0,  JACARE SOUZA 0

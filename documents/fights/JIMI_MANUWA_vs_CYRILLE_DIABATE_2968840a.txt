@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Barao vs McDonald
+    Date: February 16, 2013
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIMI MANUWA defeated CYRILLE DIABATE via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - JIMI MANUWA landed 18 significant strikes
+  - CYRILLE DIABATE landed 9 significant strikes
+  - Knockdowns: JIMI MANUWA 0,  CYRILLE DIABATE 0
+  - Takedowns: JIMI MANUWA 3,  CYRILLE DIABATE 0

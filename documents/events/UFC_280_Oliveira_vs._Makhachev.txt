@@ -1,0 +1,19 @@
+Event : UFC 280: Oliveira vs. Makhachev
+    Date : October 22, 2022
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 12
+    Weight Classes: Welterweight, Lightweight, Middleweight, Light Heavyweight, Flyweight, Women's Bantamweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - CAIO BORRALHO def. MAKHMUD MURADOV via Decision - Unanimous(R3)
+- BELAL MUHAMMAD def. SEAN BRADY via KO/TKO(R2)
+- MUHAMMAD MOKAEV def. MALCOLM GORDON via Submission(R3)
+- BENEIL DARIUSH def. MATEUSZ GAMROT via Decision - Unanimous(R3)
+- ALJAMAIN STERLING def. TJ DILLASHAW via KO/TKO(R2)
+- KAROL ROSA def. LINA LANSBERG via Decision - Majority(R3)
+- MANON FIOROT def. KATLYN CERMINARA via Decision - Unanimous(R3)
+- ARMEN PETROSYAN def. AJ DOBSON via Decision - Unanimous(R3)
+- SEAN O'MALLEY def. PETR YAN via Decision - Split(R3)
+- ISLAM MAKHACHEV def. CHARLES OLIVEIRA via Submission(R2)
+- NIKITA KRYLOV def. VOLKAN OEZDEMIR via Decision - Unanimous(R3)
+- ABUBAKAR NURMAGOMEDOV def. GADZHI OMARGADZHIEV via Decision - Unanimous(R3)

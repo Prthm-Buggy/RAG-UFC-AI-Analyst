@@ -1,0 +1,14 @@
+Event: UFC 219: Cyborg vs. Holm
+    Date: December 30, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TIM ELLIOTT defeated MARK DE LA ROSA via Submission  
+  at 1:41 of round 2
+  Key stats:
+  - TIM ELLIOTT landed 12 significant strikes
+  - MARK DE LA ROSA landed 2 significant strikes
+  - Knockdowns: TIM ELLIOTT 0,  MARK DE LA ROSA 0
+  - Takedowns: TIM ELLIOTT 1,  MARK DE LA ROSA 0
+  Bonus: perf

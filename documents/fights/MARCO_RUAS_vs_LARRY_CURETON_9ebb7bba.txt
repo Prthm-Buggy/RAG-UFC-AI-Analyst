@@ -1,0 +1,13 @@
+Event: UFC 7: The Brawl in Buffalo
+    Date: September 08, 1995
+    Location: Buffalo, New York, USA
+    Weight Class: Open Weight
+    
+
+    Result: MARCO RUAS defeated LARRY CURETON via Submission  
+  at 3:23 of round 1
+  Key stats:
+  - MARCO RUAS landed 1 significant strikes
+  - LARRY CURETON landed 6 significant strikes
+  - Knockdowns: MARCO RUAS 0,  LARRY CURETON 0
+  - Takedowns: MARCO RUAS 1,  LARRY CURETON 0

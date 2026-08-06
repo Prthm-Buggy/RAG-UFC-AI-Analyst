@@ -1,0 +1,14 @@
+Event: UFC 77: Hostile Territory
+    Date: October 20, 2007
+    Location: Cincinnati, Ohio, USA
+    Weight Class: Middleweight
+    
+
+    Result: DEMIAN MAIA defeated RYAN JENSEN via Submission  
+  at 2:40 of round 1
+  Key stats:
+  - DEMIAN MAIA landed 3 significant strikes
+  - RYAN JENSEN landed 2 significant strikes
+  - Knockdowns: DEMIAN MAIA 0,  RYAN JENSEN 0
+  - Takedowns: DEMIAN MAIA 2,  RYAN JENSEN 0
+  Bonus: sub

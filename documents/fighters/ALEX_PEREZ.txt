@@ -1,0 +1,11 @@
+Fighter: ALEX PEREZ
+  Date of Birth: 1992-03-21
+  Career record: 15
+  First fight: 2017-12-09
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :445
+- Total takedowns landed :15
+- Knockdowns :6
+- Submission Attempts :4

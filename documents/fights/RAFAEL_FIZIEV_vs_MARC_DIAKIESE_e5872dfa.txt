@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Figueiredo vs. Benavidez 2
+    Date: July 18, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: RAFAEL FIZIEV defeated MARC DIAKIESE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAFAEL FIZIEV landed 78 significant strikes
+  - MARC DIAKIESE landed 68 significant strikes
+  - Knockdowns: RAFAEL FIZIEV 0,  MARC DIAKIESE 0
+  - Takedowns: RAFAEL FIZIEV 1,  MARC DIAKIESE 0
+  Bonus: fight

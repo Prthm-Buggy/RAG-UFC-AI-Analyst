@@ -1,0 +1,13 @@
+Event: UFC 19: Ultimate Young Guns
+    Date: March 05, 1999
+    Location: Bay St. Louis, Mississippi, USA
+    Weight Class: Middleweight
+    
+
+    Result: JEREMY HORN defeated CHUCK LIDDELL via Submission  
+  at 12:00 of round 1
+  Key stats:
+  - JEREMY HORN landed 8 significant strikes
+  - CHUCK LIDDELL landed 12 significant strikes
+  - Knockdowns: JEREMY HORN 0,  CHUCK LIDDELL 0
+  - Takedowns: JEREMY HORN 3,  CHUCK LIDDELL 0

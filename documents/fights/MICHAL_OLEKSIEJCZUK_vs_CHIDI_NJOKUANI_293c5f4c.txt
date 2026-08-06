@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holloway vs. The Korean Zombie
+    Date: August 26, 2023
+    Location: Kallang, Singapore
+    Weight Class: Middleweight
+    
+
+    Result: MICHAL OLEKSIEJCZUK defeated CHIDI NJOKUANI via KO/TKO  
+  at 4:16 of round 1
+  Key stats:
+  - MICHAL OLEKSIEJCZUK landed 44 significant strikes
+  - CHIDI NJOKUANI landed 29 significant strikes
+  - Knockdowns: MICHAL OLEKSIEJCZUK 0,  CHIDI NJOKUANI 0
+  - Takedowns: MICHAL OLEKSIEJCZUK 1,  CHIDI NJOKUANI 0
+  Bonus: perf

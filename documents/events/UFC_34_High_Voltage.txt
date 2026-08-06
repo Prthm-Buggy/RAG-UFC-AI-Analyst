@@ -1,0 +1,15 @@
+Event : UFC 34: High Voltage
+    Date : November 02, 2001
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Lightweight, Welterweight, Light Heavyweight, Middleweight
+
+    Fight Results:
+  - MATT HUGHES def. CARLOS NEWTON via KO/TKO(R2)
+- RICCO RODRIGUEZ def. PETE WILLIAMS via KO/TKO(R2)
+- RANDY COUTURE def. PEDRO RIZZO via KO/TKO(R3)
+- MATT LINDLAND def. PHIL BARONI via Decision - Majority(R3)
+- BJ PENN def. CAOL UNO via KO/TKO(R1)
+- JOSH BARNETT def. BOBBY HOFFMAN via KO/TKO(R2)
+- FRANK MIR def. ROBERTO TRAVEN via Submission(R1)
+- EVAN TANNER def. HOMER MOORE via Submission(R2)

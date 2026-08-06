@@ -1,0 +1,11 @@
+Fighter: ARIEL BECK
+  Date of Birth: 1990-09-16
+  Career record: 1
+  First fight: 2017-12-01
+  Last fight: 2017-12-01
+
+Career Statistics:
+- Significant Strikes Landed :35
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

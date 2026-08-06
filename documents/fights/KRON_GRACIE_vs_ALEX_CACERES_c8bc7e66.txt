@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ngannou vs. Velasquez
+    Date: February 17, 2019
+    Location: Phoenix, Arizona, USA
+    Weight Class: Featherweight
+    
+
+    Result: KRON GRACIE defeated ALEX CACERES via Submission  
+  at 2:06 of round 1
+  Key stats:
+  - KRON GRACIE landed 2 significant strikes
+  - ALEX CACERES landed 4 significant strikes
+  - Knockdowns: KRON GRACIE 0,  ALEX CACERES 0
+  - Takedowns: KRON GRACIE 1,  ALEX CACERES 0
+  Bonus: perf

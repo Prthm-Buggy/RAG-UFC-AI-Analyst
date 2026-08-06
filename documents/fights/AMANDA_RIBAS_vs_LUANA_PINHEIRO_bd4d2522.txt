@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Allen vs. Craig
+    Date: November 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: AMANDA RIBAS defeated LUANA PINHEIRO via KO/TKO  
+  at 3:53 of round 3
+  Key stats:
+  - AMANDA RIBAS landed 87 significant strikes
+  - LUANA PINHEIRO landed 55 significant strikes
+  - Knockdowns: AMANDA RIBAS 1,  LUANA PINHEIRO 0
+  - Takedowns: AMANDA RIBAS 0,  LUANA PINHEIRO 1
+  Bonus: perf

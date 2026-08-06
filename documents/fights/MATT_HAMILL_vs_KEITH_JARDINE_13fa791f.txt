@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Liddell vs Team Ortiz Finale
+    Date: June 19, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MATT HAMILL defeated KEITH JARDINE via Decision - Majority  
+  at 5:00 of round 3
+  Key stats:
+  - MATT HAMILL landed 77 significant strikes
+  - KEITH JARDINE landed 65 significant strikes
+  - Knockdowns: MATT HAMILL 0,  KEITH JARDINE 0
+  - Takedowns: MATT HAMILL 2,  KEITH JARDINE 0
+  Bonus: fight

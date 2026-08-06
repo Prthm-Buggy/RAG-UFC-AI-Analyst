@@ -1,0 +1,11 @@
+Fighter: VICTOR MARTINEZ
+  Date of Birth: 1991-07-17
+  Career record: 2
+  First fight: 2023-02-25
+  Last fight: 2024-05-18
+
+Career Statistics:
+- Significant Strikes Landed :25
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

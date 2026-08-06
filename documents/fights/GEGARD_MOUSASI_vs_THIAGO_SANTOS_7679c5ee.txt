@@ -1,0 +1,14 @@
+Event: UFC 200: Tate vs Nunes
+    Date: July 09, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GEGARD MOUSASI defeated THIAGO SANTOS via KO/TKO  
+  at 4:32 of round 1
+  Key stats:
+  - GEGARD MOUSASI landed 21 significant strikes
+  - THIAGO SANTOS landed 5 significant strikes
+  - Knockdowns: GEGARD MOUSASI 1,  THIAGO SANTOS 0
+  - Takedowns: GEGARD MOUSASI 2,  THIAGO SANTOS 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs. Harris
+    Date: May 16, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: CORTNEY CASEY defeated MARA ROMERO BORELLA via Submission  
+  at 3:36 of round 1
+  Key stats:
+  - CORTNEY CASEY landed 6 significant strikes
+  - MARA ROMERO BORELLA landed 5 significant strikes
+  - Knockdowns: CORTNEY CASEY 0,  MARA ROMERO BORELLA 0
+  - Takedowns: CORTNEY CASEY 0,  MARA ROMERO BORELLA 1
+  Bonus: perf

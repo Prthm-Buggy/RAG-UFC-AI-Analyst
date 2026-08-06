@@ -1,0 +1,13 @@
+Event: UFC 310: Pantoja vs. Asakura
+    Date: December 07, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICHAEL CHIESA defeated MAX GRIFFIN via Submission  
+  at 1:56 of round 3
+  Key stats:
+  - MICHAEL CHIESA landed 13 significant strikes
+  - MAX GRIFFIN landed 10 significant strikes
+  - Knockdowns: MICHAEL CHIESA 0,  MAX GRIFFIN 0
+  - Takedowns: MICHAEL CHIESA 2,  MAX GRIFFIN 0

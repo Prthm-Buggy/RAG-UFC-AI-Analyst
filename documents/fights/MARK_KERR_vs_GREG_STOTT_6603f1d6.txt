@@ -1,0 +1,13 @@
+Event: UFC 15: Collision Course
+    Date: October 17, 1997
+    Location: Bay St. Louis, Mississippi, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARK KERR defeated GREG STOTT via KO/TKO  
+  at 0:17 of round 1
+  Key stats:
+  - MARK KERR landed 1 significant strikes
+  - GREG STOTT landed 0 significant strikes
+  - Knockdowns: MARK KERR 1,  GREG STOTT 0
+  - Takedowns: MARK KERR 0,  GREG STOTT 0

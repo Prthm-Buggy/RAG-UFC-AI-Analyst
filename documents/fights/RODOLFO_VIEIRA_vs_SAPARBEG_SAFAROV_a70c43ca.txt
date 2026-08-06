@@ -1,0 +1,13 @@
+Event: UFC 248: Adesanya vs. Romero
+    Date: March 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: RODOLFO VIEIRA defeated SAPARBEG SAFAROV via Submission  
+  at 2:58 of round 1
+  Key stats:
+  - RODOLFO VIEIRA landed 5 significant strikes
+  - SAPARBEG SAFAROV landed 5 significant strikes
+  - Knockdowns: RODOLFO VIEIRA 0,  SAPARBEG SAFAROV 0
+  - Takedowns: RODOLFO VIEIRA 2,  SAPARBEG SAFAROV 0

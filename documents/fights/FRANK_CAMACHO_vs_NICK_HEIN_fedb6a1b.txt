@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gustafsson vs. Smith
+    Date: June 01, 2019
+    Location: Stockholm, Sweden
+    Weight Class: Lightweight
+    
+
+    Result: FRANK CAMACHO defeated NICK HEIN via KO/TKO  
+  at 4:56 of round 2
+  Key stats:
+  - FRANK CAMACHO landed 100 significant strikes
+  - NICK HEIN landed 37 significant strikes
+  - Knockdowns: FRANK CAMACHO 0,  NICK HEIN 0
+  - Takedowns: FRANK CAMACHO 0,  NICK HEIN 1

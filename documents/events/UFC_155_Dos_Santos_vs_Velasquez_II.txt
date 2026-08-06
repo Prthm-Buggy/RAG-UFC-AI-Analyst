@@ -1,0 +1,19 @@
+Event : UFC 155: Dos Santos vs Velasquez II
+    Date : December 29, 2012
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Middleweight, Lightweight, Featherweight, Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - JIM MILLER def. JOE LAUZON via Decision - Unanimous(R3)
+- MAX HOLLOWAY def. LEONARD GARCIA via Decision - Split(R3)
+- DEREK BRUNSON def. CHRIS LEBEN via Decision - Unanimous(R3)
+- EDDIE WINELAND def. BRAD PICKETT via Decision - Split(R3)
+- JOHN MORAGA def. CHRIS CARIASO via Submission(R3)
+- TODD DUFFEE def. PHILIP DE FRIES via KO/TKO(R1)
+- YUSHIN OKAMI def. ALAN BELCHER via Decision - Unanimous(R3)
+- MYLES JURY def. MICHAEL JOHNSON via Decision - Unanimous(R3)
+- CAIN VELASQUEZ def. JUNIOR DOS SANTOS via Decision - Unanimous(R5)
+- CONSTANTINOS PHILIPPOU def. TIM BOETSCH via KO/TKO(R3)
+- JAMIE VARNER def. MELVIN GUILLARD via Decision - Split(R3)
+- ERIK PEREZ def. BYRON BLOODWORTH via KO/TKO(R1)

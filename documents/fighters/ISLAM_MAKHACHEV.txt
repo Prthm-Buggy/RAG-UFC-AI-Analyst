@@ -1,0 +1,11 @@
+Fighter: ISLAM MAKHACHEV
+  Date of Birth: 1991-10-27
+  Career record: 18
+  First fight: 2015-05-23
+  Last fight: 2025-11-15
+
+Career Statistics:
+- Significant Strikes Landed :485
+- Total takedowns landed :41
+- Knockdowns :4
+- Submission Attempts :13

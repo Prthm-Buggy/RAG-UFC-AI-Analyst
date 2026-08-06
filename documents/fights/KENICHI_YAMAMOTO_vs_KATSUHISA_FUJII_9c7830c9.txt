@@ -1,0 +1,14 @@
+Event: UFC 23: Ultimate Japan 2
+    Date: November 19, 1999
+    Location: Chiba, Japan
+    Weight Class: Open Weight
+    
+
+    Result: KENICHI YAMAMOTO defeated KATSUHISA FUJII via Submission  
+  at 4:15 of round 2
+  Key stats:
+  - KENICHI YAMAMOTO landed 1 significant strikes
+  - KATSUHISA FUJII landed 27 significant strikes
+  - Knockdowns: KENICHI YAMAMOTO 0,  KATSUHISA FUJII 0
+  - Takedowns: KENICHI YAMAMOTO 0,  KATSUHISA FUJII 2
+  Bonus: belt

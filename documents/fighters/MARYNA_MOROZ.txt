@@ -1,0 +1,11 @@
+Fighter: MARYNA MOROZ
+  Date of Birth: 1991-09-08
+  Career record: 12
+  First fight: 2015-04-11
+  Last fight: 2024-03-09
+
+Career Statistics:
+- Significant Strikes Landed :662
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :6

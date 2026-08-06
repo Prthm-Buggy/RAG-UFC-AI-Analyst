@@ -1,0 +1,13 @@
+Event : UFC 16: Battle in the Bayou
+    Date : March 13, 1998
+    Location: New Orleans, Louisiana, USA
+    Number of Fights: 6
+    Weight Classes: Heavyweight, Lightweight, Middleweight
+
+    Fight Results:
+  - MIKEY BURNETT def. EUGENIO TADEU via KO/TKO(R1)
+- FRANK SHAMROCK def. IGOR ZINOVIEV via KO/TKO(R1)
+- PAT MILETICH def. CHRIS BRENNAN via Submission(R1)
+- PAT MILETICH def. TOWNSEND SAUNDERS via Decision - Split(R2)
+- TSUYOSHI KOHSAKA def. KIMO LEOPOLDO via Decision - Unanimous(R2)
+- JERRY BOHLANDER def. KEVIN JACKSON via Submission(R1)

@@ -1,0 +1,11 @@
+Fighter: ALEXANDRE PANTOJA
+  Date of Birth: 1990-04-16
+  Career record: 18
+  First fight: 2017-01-28
+  Last fight: 2025-12-06
+
+Career Statistics:
+- Significant Strikes Landed :941
+- Total takedowns landed :40
+- Knockdowns :4
+- Submission Attempts :14

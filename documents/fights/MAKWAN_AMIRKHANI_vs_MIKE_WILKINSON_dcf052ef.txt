@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Silva vs Bisping
+    Date: February 27, 2016
+    Location: London, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: MAKWAN AMIRKHANI defeated MIKE WILKINSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MAKWAN AMIRKHANI landed 32 significant strikes
+  - MIKE WILKINSON landed 13 significant strikes
+  - Knockdowns: MAKWAN AMIRKHANI 0,  MIKE WILKINSON 0
+  - Takedowns: MAKWAN AMIRKHANI 4,  MIKE WILKINSON 0

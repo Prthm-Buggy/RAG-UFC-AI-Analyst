@@ -1,0 +1,14 @@
+Event: UFC 211: Miocic vs. Dos Santos
+    Date: May 13, 2017
+    Location: Dallas, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHASE SHERMAN defeated RASHAD COULTER via KO/TKO  
+  at 3:36 of round 2
+  Key stats:
+  - CHASE SHERMAN landed 103 significant strikes
+  - RASHAD COULTER landed 36 significant strikes
+  - Knockdowns: CHASE SHERMAN 1,  RASHAD COULTER 0
+  - Takedowns: CHASE SHERMAN 0,  RASHAD COULTER 0
+  Bonus: fight

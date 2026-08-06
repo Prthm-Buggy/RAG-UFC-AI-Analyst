@@ -1,0 +1,13 @@
+Event: UFC 312: Du Plessis vs. Strickland 2
+    Date: February 08, 2025
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Featherweight
+    
+
+    Result: GABRIEL SANTOS defeated JACK JENKINS via Submission  
+  at 2:06 of round 3
+  Key stats:
+  - GABRIEL SANTOS landed 39 significant strikes
+  - JACK JENKINS landed 34 significant strikes
+  - Knockdowns: GABRIEL SANTOS 0,  JACK JENKINS 1
+  - Takedowns: GABRIEL SANTOS 4,  JACK JENKINS 0

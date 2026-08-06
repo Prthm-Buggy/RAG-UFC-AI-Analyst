@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Caceres
+    Date: August 06, 2016
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Featherweight
+    
+
+    Result: TERUTO ISHIHARA defeated HORACIO GUTIERREZ via KO/TKO  
+  at 2:32 of round 1
+  Key stats:
+  - TERUTO ISHIHARA landed 13 significant strikes
+  - HORACIO GUTIERREZ landed 5 significant strikes
+  - Knockdowns: TERUTO ISHIHARA 1,  HORACIO GUTIERREZ 0
+  - Takedowns: TERUTO ISHIHARA 0,  HORACIO GUTIERREZ 0
+  Bonus: perf

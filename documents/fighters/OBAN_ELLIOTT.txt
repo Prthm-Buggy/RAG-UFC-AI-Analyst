@@ -1,0 +1,11 @@
+Fighter: OBAN ELLIOTT
+  Date of Birth: 1997-12-19
+  Career record: 5
+  First fight: 2024-02-17
+  Last fight: 2026-01-31
+
+Career Statistics:
+- Significant Strikes Landed :229
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :0

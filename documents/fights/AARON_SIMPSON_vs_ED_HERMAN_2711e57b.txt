@@ -1,0 +1,13 @@
+Event: UFC 102: Couture vs Nogueira
+    Date: August 29, 2009
+    Location: Portland, Oregon, USA
+    Weight Class: Middleweight
+    
+
+    Result: AARON SIMPSON defeated ED HERMAN via KO/TKO  
+  at 0:17 of round 2
+  Key stats:
+  - AARON SIMPSON landed 25 significant strikes
+  - ED HERMAN landed 7 significant strikes
+  - Knockdowns: AARON SIMPSON 1,  ED HERMAN 0
+  - Takedowns: AARON SIMPSON 3,  ED HERMAN 0

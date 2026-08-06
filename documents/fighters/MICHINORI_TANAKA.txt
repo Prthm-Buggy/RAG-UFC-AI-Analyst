@@ -1,0 +1,11 @@
+Fighter: MICHINORI TANAKA
+  Date of Birth: 1990-10-04
+  Career record: 5
+  First fight: 2014-06-14
+  Last fight: 2017-02-04
+
+Career Statistics:
+- Significant Strikes Landed :148
+- Total takedowns landed :12
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,14 @@
+Event: UFC on FOX: Werdum vs Browne
+    Date: April 19, 2014
+    Location: Orlando, Florida, USA
+    Weight Class: Featherweight
+    
+
+    Result: ALEX WHITE defeated ESTEVAN PAYAN via KO/TKO  
+  at 1:28 of round 1
+  Key stats:
+  - ALEX WHITE landed 20 significant strikes
+  - ESTEVAN PAYAN landed 10 significant strikes
+  - Knockdowns: ALEX WHITE 1,  ESTEVAN PAYAN 0
+  - Takedowns: ALEX WHITE 0,  ESTEVAN PAYAN 0
+  Bonus: perf

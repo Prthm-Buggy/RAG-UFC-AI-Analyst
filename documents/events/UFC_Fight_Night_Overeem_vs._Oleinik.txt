@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Overeem vs. Oleinik
+    Date : April 20, 2019
+    Location: Saint Petersburg, Saint Petersburg, Russia
+    Number of Fights: 11
+    Weight Classes: Welterweight, Middleweight, Featherweight, Lightweight, Light Heavyweight, Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - SERGEI PAVLOVICH def. MARCELO GOLM via KO/TKO(R1)
+- ISLAM MAKHACHEV def. ARMAN TSARUKYAN via Decision - Unanimous(R3)
+- MICHAL OLEKSIEJCZUK def. GADZHIMURAD ANTIGULOV via KO/TKO(R1)
+- KRZYSZTOF JOTKO def. ALEN AMEDOVSKI via Decision - Unanimous(R3)
+- MOVSAR EVLOEV def. SEUNGWOO CHOI via Decision - Unanimous(R3)
+- ROXANNE MODAFFERI def. ANTONINA SHEVCHENKO via Decision - Split(R3)
+- ALISTAIR OVEREEM def. ALEKSEI OLEINIK via KO/TKO(R1)
+- MAGOMED MUSTAFAEV def. RAFAEL FIZIEV via KO/TKO(R1)
+- SULTAN ALIEV def. KEITA NAKAMURA via Decision - Unanimous(R3)
+- SHAMIL ABDURAKHIMOV def. MARCIN TYBURA via KO/TKO(R2)
+- ALEXANDER YAKOVLEV def. ALEX DA SILVA via Submission(R2)

@@ -1,0 +1,11 @@
+Fighter: TAI TUIVASA
+  Date of Birth: 1993-03-16
+  Career record: 18
+  First fight: 2017-11-18
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :491
+- Total takedowns landed :0
+- Knockdowns :8
+- Submission Attempts :0

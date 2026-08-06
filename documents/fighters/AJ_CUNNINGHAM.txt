@@ -1,0 +1,11 @@
+Fighter: AJ CUNNINGHAM
+  Date of Birth: 1994-09-07
+  Career record: 2
+  First fight: 2024-03-02
+  Last fight: 2025-03-15
+
+Career Statistics:
+- Significant Strikes Landed :52
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

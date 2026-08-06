@@ -1,0 +1,11 @@
+Fighter: JON TUCK
+  Date of Birth: 1984-08-28
+  Career record: 9
+  First fight: 2012-11-10
+  Last fight: 2018-08-25
+
+Career Statistics:
+- Significant Strikes Landed :324
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :7

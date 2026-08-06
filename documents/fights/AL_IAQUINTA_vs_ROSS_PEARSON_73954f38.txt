@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs Bisping
+    Date: November 07, 2014
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Lightweight
+    
+
+    Result: AL IAQUINTA defeated ROSS PEARSON via KO/TKO  
+  at 1:39 of round 2
+  Key stats:
+  - AL IAQUINTA landed 31 significant strikes
+  - ROSS PEARSON landed 20 significant strikes
+  - Knockdowns: AL IAQUINTA 2,  ROSS PEARSON 0
+  - Takedowns: AL IAQUINTA 0,  ROSS PEARSON 0

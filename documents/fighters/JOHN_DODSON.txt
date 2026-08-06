@@ -1,0 +1,11 @@
+Fighter: JOHN DODSON
+  Date of Birth: 1984-09-26
+  Career record: 17
+  First fight: 2011-12-03
+  Last fight: 2020-08-15
+
+Career Statistics:
+- Significant Strikes Landed :742
+- Total takedowns landed :11
+- Knockdowns :11
+- Submission Attempts :0

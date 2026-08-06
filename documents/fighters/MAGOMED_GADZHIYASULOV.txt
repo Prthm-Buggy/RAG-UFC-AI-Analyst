@@ -1,0 +1,11 @@
+Fighter: MAGOMED GADZHIYASULOV
+  Date of Birth: 1993-11-04
+  Career record: 2
+  First fight: 2024-06-22
+  Last fight: 2025-01-11
+
+Career Statistics:
+- Significant Strikes Landed :57
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

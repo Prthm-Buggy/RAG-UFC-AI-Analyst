@@ -1,0 +1,11 @@
+Fighter: DANILO MARQUES
+  Date of Birth: 1985-12-26
+  Career record: 4
+  First fight: 2020-09-26
+  Last fight: 2022-02-05
+
+Career Statistics:
+- Significant Strikes Landed :55
+- Total takedowns landed :10
+- Knockdowns :0
+- Submission Attempts :2

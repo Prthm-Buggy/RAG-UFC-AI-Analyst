@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shogun vs Sonnen
+    Date: August 17, 2013
+    Location: Boston, Massachusetts, USA
+    Weight Class: Featherweight
+    
+
+    Result: STEVEN SILER defeated MIKE BROWN via KO/TKO  
+  at 0:50 of round 1
+  Key stats:
+  - STEVEN SILER landed 6 significant strikes
+  - MIKE BROWN landed 3 significant strikes
+  - Knockdowns: STEVEN SILER 1,  MIKE BROWN 0
+  - Takedowns: STEVEN SILER 0,  MIKE BROWN 0

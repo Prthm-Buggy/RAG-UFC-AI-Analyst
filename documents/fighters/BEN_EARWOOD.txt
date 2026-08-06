@@ -1,0 +1,11 @@
+Fighter: BEN EARWOOD
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 2000-11-17
+  Last fight: 2000-11-17
+
+Career Statistics:
+- Significant Strikes Landed :5
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

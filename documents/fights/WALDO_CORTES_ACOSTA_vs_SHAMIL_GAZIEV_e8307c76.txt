@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tsarukyan vs. Hooker
+    Date: November 22, 2025
+    Location: Doha, Qatar
+    Weight Class: Heavyweight
+    
+
+    Result: WALDO CORTES ACOSTA defeated SHAMIL GAZIEV via KO/TKO  
+  at 1:22 of round 1
+  Key stats:
+  - WALDO CORTES ACOSTA landed 10 significant strikes
+  - SHAMIL GAZIEV landed 6 significant strikes
+  - Knockdowns: WALDO CORTES ACOSTA 2,  SHAMIL GAZIEV 0
+  - Takedowns: WALDO CORTES ACOSTA 0,  SHAMIL GAZIEV 0
+  Bonus: perf

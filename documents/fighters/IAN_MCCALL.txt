@@ -1,0 +1,11 @@
+Fighter: IAN MCCALL
+  Date of Birth: 1984-05-07
+  Career record: 5
+  First fight: 2012-06-08
+  Last fight: 2015-01-31
+
+Career Statistics:
+- Significant Strikes Landed :285
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :0

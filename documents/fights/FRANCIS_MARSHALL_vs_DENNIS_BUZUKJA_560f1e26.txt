@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cannonier vs. Borralho
+    Date: August 24, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: FRANCIS MARSHALL defeated DENNIS BUZUKJA via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - FRANCIS MARSHALL landed 57 significant strikes
+  - DENNIS BUZUKJA landed 66 significant strikes
+  - Knockdowns: FRANCIS MARSHALL 1,  DENNIS BUZUKJA 0
+  - Takedowns: FRANCIS MARSHALL 1,  DENNIS BUZUKJA 0

@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Fiziev vs. Gamrot
+    Date : September 23, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Featherweight, Lightweight, Women's Strawweight, Middleweight, Welterweight, Women's Bantamweight, Heavyweight
+
+    Fight Results:
+  - BRYAN BATTLE def. AJ FLETCHER via Submission(R2)
+- MATEUSZ GAMROT def. RAFAEL FIZIEV via KO/TKO(R2)
+- CODY BRUNDAGE def. JACOB MALKOUN via DQ(R1)
+- MONTSE RENDON def. TAMIRES VIDAL via Decision - Split(R3)
+- CHARLES JOURDAIN def. RICARDO RAMOS via Submission(R1)
+- MOHAMMED USMAN def. JAKE COLLIER via Decision - Unanimous(R3)
+- BRYCE MITCHELL def. DAN IGE via Decision - Unanimous(R3)
+- TIM MEANS def. ANDRE FIALHO via KO/TKO(R3)
+- MARINA RODRIGUEZ def. MICHELLE WATERSON-GOMEZ via KO/TKO(R2)
+- MIZUKI def. HANNAH GOLDY via Decision - Unanimous(R3)

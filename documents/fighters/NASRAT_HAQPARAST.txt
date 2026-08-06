@@ -1,0 +1,11 @@
+Fighter: NASRAT HAQPARAST
+  Date of Birth: 1995-08-22
+  Career record: 15
+  First fight: 2017-10-21
+  Last fight: 2025-10-25
+
+Career Statistics:
+- Significant Strikes Landed :1120
+- Total takedowns landed :4
+- Knockdowns :7
+- Submission Attempts :0

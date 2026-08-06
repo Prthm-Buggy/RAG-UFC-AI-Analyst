@@ -1,0 +1,13 @@
+Event: UFC 24: First Defense
+    Date: March 10, 2000
+    Location: Lake Charles, Louisiana, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TEDD WILLIAMS defeated STEVE JUDSON via KO/TKO  
+  at 3:23 of round 1
+  Key stats:
+  - TEDD WILLIAMS landed 9 significant strikes
+  - STEVE JUDSON landed 14 significant strikes
+  - Knockdowns: TEDD WILLIAMS 1,  STEVE JUDSON 0
+  - Takedowns: TEDD WILLIAMS 0,  STEVE JUDSON 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cejudo vs. Dillashaw
+    Date: January 19, 2019
+    Location: Brooklyn, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALLEN CROWDER defeated GREG HARDY via DQ  
+  at 2:28 of round 2
+  Key stats:
+  - ALLEN CROWDER landed 12 significant strikes
+  - GREG HARDY landed 29 significant strikes
+  - Knockdowns: ALLEN CROWDER 0,  GREG HARDY 0
+  - Takedowns: ALLEN CROWDER 1,  GREG HARDY 0

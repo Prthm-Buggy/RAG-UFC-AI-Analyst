@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs Bisping
+    Date: November 07, 2014
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Middleweight
+    
+
+    Result: SAM ALVEY defeated DYLAN ANDREWS via KO/TKO  
+  at 2:16 of round 1
+  Key stats:
+  - SAM ALVEY landed 6 significant strikes
+  - DYLAN ANDREWS landed 4 significant strikes
+  - Knockdowns: SAM ALVEY 0,  DYLAN ANDREWS 0
+  - Takedowns: SAM ALVEY 0,  DYLAN ANDREWS 2

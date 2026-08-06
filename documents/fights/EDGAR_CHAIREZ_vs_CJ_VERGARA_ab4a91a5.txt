@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moreno vs. Erceg
+    Date: March 29, 2025
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Flyweight
+    
+
+    Result: EDGAR CHAIREZ defeated CJ VERGARA via Submission  
+  at 2:30 of round 1
+  Key stats:
+  - EDGAR CHAIREZ landed 8 significant strikes
+  - CJ VERGARA landed 6 significant strikes
+  - Knockdowns: EDGAR CHAIREZ 0,  CJ VERGARA 0
+  - Takedowns: EDGAR CHAIREZ 0,  CJ VERGARA 0
+  Bonus: perf

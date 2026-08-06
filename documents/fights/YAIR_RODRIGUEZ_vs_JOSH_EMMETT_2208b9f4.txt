@@ -1,0 +1,14 @@
+Event: UFC 284: Makhachev vs. Volkanovski
+    Date: February 11, 2023
+    Location: Perth, Western Australia, Australia
+    Weight Class: Featherweight
+    
+
+    Result: YAIR RODRIGUEZ defeated JOSH EMMETT via Submission  
+  at 4:19 of round 2
+  Key stats:
+  - YAIR RODRIGUEZ landed 62 significant strikes
+  - JOSH EMMETT landed 22 significant strikes
+  - Knockdowns: YAIR RODRIGUEZ 0,  JOSH EMMETT 0
+  - Takedowns: YAIR RODRIGUEZ 0,  JOSH EMMETT 1
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC 91: Couture vs Lesnar
+    Date: November 15, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DEMIAN MAIA defeated NATE QUARRY via Submission  
+  at 2:13 of round 1
+  Key stats:
+  - DEMIAN MAIA landed 2 significant strikes
+  - NATE QUARRY landed 0 significant strikes
+  - Knockdowns: DEMIAN MAIA 0,  NATE QUARRY 0
+  - Takedowns: DEMIAN MAIA 1,  NATE QUARRY 0

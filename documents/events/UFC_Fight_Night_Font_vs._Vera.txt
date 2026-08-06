@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Font vs. Vera
+    Date : April 30, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Lightweight, Middleweight, Featherweight, Flyweight, Welterweight, Heavyweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - SHANNA YOUNG def. GINA MAZANY via KO/TKO(R2)
+- GRANT DAWSON def. JARED GORDON via Submission(R3)
+- NATAN LEVY def. MIKE BREEDEN via Decision - Unanimous(R3)
+- GABE GREEN def. YOHAN LAINESSE via KO/TKO(R2)
+- MARLON VERA def. ROB FONT via Decision - Unanimous(R5)
+- FRANCISCO FIGUEIREDO def. DANIEL LACERDA via Submission(R1)
+- ALEXANDR ROMANOV def. CHASE SHERMAN via Submission(R1)
+- JOANDERSON BRITO def. ANDRE FILI via KO/TKO(R1)
+- ANDREI ARLOVSKI def. JAKE COLLIER via Decision - Split(R3)
+- KRZYSZTOF JOTKO def. GERALD MEERSCHAERT via Decision - Unanimous(R3)
+- DARREN ELKINS def. TRISTAN CONNELLY via Decision - Unanimous(R3)

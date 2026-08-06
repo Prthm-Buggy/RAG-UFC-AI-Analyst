@@ -1,0 +1,13 @@
+Event: UFC 169: Barao vs Faber 2
+    Date: February 01, 2014
+    Location: Newark, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: NEIL MAGNY defeated GASAN UMALATOV via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NEIL MAGNY landed 71 significant strikes
+  - GASAN UMALATOV landed 34 significant strikes
+  - Knockdowns: NEIL MAGNY 0,  GASAN UMALATOV 0
+  - Takedowns: NEIL MAGNY 1,  GASAN UMALATOV 2

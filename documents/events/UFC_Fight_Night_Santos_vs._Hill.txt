@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Santos vs. Hill
+    Date : August 06, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Women's Flyweight, Middleweight, Welterweight, Women's Bantamweight, Lightweight, Light Heavyweight, Women's Strawweight
+
+    Fight Results:
+  - TERRANCE MCKINNEY def. ERICK GONZALEZ via Submission(R1)
+- SERGHEI SPIVAC def. AUGUSTO SAKAI via KO/TKO(R2)
+- CORY MCKENNA def. MIRANDA GRANGER via Submission(R2)
+- BRYAN BATTLE def. TAKASHI SATO via KO/TKO(R1)
+- JULIANA MILLER def. BROGAN WALKER via KO/TKO(R3)
+- MAYRA BUENO SILVA def. STEPHANIE EGGER via Submission(R1)
+- MOHAMMED USMAN def. ZAC PAUGA via KO/TKO(R2)
+- GEOFF NEAL def. VICENTE LUQUE via KO/TKO(R3)
+- MICHAL OLEKSIEJCZUK def. SAM ALVEY via KO/TKO(R1)
+- JAMAHAL HILL def. THIAGO SANTOS via KO/TKO(R4)

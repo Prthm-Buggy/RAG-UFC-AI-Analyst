@@ -1,0 +1,11 @@
+Fighter: TONY DESOUZA
+  Date of Birth: 1974-07-26
+  Career record: 6
+  First fight: 2001-05-04
+  Last fight: 2007-12-29
+
+Career Statistics:
+- Significant Strikes Landed :45
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :4

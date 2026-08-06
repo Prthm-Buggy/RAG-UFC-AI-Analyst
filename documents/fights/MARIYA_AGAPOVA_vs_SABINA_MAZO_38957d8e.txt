@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dern vs. Rodriguez
+    Date: October 09, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MARIYA AGAPOVA defeated SABINA MAZO via Submission  
+  at 0:53 of round 3
+  Key stats:
+  - MARIYA AGAPOVA landed 93 significant strikes
+  - SABINA MAZO landed 62 significant strikes
+  - Knockdowns: MARIYA AGAPOVA 1,  SABINA MAZO 0
+  - Takedowns: MARIYA AGAPOVA 0,  SABINA MAZO 0
+  Bonus: perf

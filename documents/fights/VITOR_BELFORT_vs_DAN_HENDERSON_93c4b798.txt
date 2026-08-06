@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Belfort vs Henderson 3
+    Date: November 07, 2015
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: VITOR BELFORT defeated DAN HENDERSON via KO/TKO  
+  at 2:07 of round 1
+  Key stats:
+  - VITOR BELFORT landed 6 significant strikes
+  - DAN HENDERSON landed 3 significant strikes
+  - Knockdowns: VITOR BELFORT 1,  DAN HENDERSON 0
+  - Takedowns: VITOR BELFORT 0,  DAN HENDERSON 0
+  Bonus: perf

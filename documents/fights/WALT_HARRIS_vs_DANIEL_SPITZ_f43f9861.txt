@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rivera vs. Moraes
+    Date: June 01, 2018
+    Location: Utica, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: WALT HARRIS defeated DANIEL SPITZ via KO/TKO  
+  at 4:59 of round 2
+  Key stats:
+  - WALT HARRIS landed 29 significant strikes
+  - DANIEL SPITZ landed 17 significant strikes
+  - Knockdowns: WALT HARRIS 1,  DANIEL SPITZ 0
+  - Takedowns: WALT HARRIS 0,  DANIEL SPITZ 0

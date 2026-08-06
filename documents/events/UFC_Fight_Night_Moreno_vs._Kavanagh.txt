@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Moreno vs. Kavanagh
+    Date : February 28, 2026
+    Location: Mexico City, Distrito Federal, Mexico
+    Number of Fights: 13
+    Weight Classes: Middleweight, Catch Weight, Featherweight, Women's Bantamweight, Flyweight, Lightweight, Bantamweight
+
+    Fight Results:
+  - JAVIER REYES def. DOUGLAS SILVA DE ANDRADE via KO/TKO(R1)
+- FRANCIS MARSHALL def. ERIK SILVA via Submission(R1)
+- SANTIAGO LUNA def. ANGEL PACHECO via Decision - Unanimous(R3)
+- REGINA TARIN def. ERNESTA KARECKAITE via Decision - Unanimous(R3)
+- AILIN PEREZ def. MACY CHIASSON via Decision - Unanimous(R3)
+- KING GREEN def. DANIEL ZELLHUBER via KO/TKO(R2)
+- RYAN GANDRA def. JOSE DANIEL MEDINA via KO/TKO(R1)
+- CRISTIAN QUINONEZ def. KRIS MOUTINHO via Decision - Unanimous(R3)
+- LONE'ER KAVANAGH def. BRANDON MORENO via Decision - Unanimous(R5)
+- DAVID MARTINEZ def. MARLON VERA via Decision - Unanimous(R3)
+- DAMIAN PINAS def. WES SCHULTZ via KO/TKO(R1)
+- IMANOL RODRIGUEZ def. KEVIN BORJAS via KO/TKO(R2)
+- EDGAR CHAIREZ def. FELIPE BUNES via Decision - Split(R3)

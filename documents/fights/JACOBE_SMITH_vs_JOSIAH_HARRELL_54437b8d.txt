@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Strickland vs. Hernandez
+    Date: February 21, 2026
+    Location: Houston, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: JACOBE SMITH defeated JOSIAH HARRELL via KO/TKO  
+  at 3:01 of round 1
+  Key stats:
+  - JACOBE SMITH landed 33 significant strikes
+  - JOSIAH HARRELL landed 7 significant strikes
+  - Knockdowns: JACOBE SMITH 0,  JOSIAH HARRELL 0
+  - Takedowns: JACOBE SMITH 2,  JOSIAH HARRELL 0
+  Bonus: perf

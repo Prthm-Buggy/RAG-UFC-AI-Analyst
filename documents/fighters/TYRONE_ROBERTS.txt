@@ -1,0 +1,11 @@
+Fighter: TYRONE ROBERTS
+  Date of Birth: 1972-07-14
+  Career record: 1
+  First fight: 2000-06-09
+  Last fight: 2000-06-09
+
+Career Statistics:
+- Significant Strikes Landed :16
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

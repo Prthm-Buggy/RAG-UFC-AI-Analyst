@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Joanna vs. Waterson
+    Date: October 12, 2019
+    Location: Tampa, Florida, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RYAN SPANN defeated DEVIN CLARK via Submission  
+  at 2:01 of round 2
+  Key stats:
+  - RYAN SPANN landed 17 significant strikes
+  - DEVIN CLARK landed 17 significant strikes
+  - Knockdowns: RYAN SPANN 0,  DEVIN CLARK 0
+  - Takedowns: RYAN SPANN 0,  DEVIN CLARK 2

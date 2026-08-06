@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Oezdemir vs. Smith
+    Date: October 27, 2018
+    Location: Moncton, New Brunswick, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: ARJAN BHULLAR defeated MARCELO GOLM via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ARJAN BHULLAR landed 47 significant strikes
+  - MARCELO GOLM landed 43 significant strikes
+  - Knockdowns: ARJAN BHULLAR 0,  MARCELO GOLM 0
+  - Takedowns: ARJAN BHULLAR 1,  MARCELO GOLM 0

@@ -1,0 +1,13 @@
+Event: UFC 303: Pereira vs. Prochazka 2
+    Date: June 29, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: IAN MACHADO GARRY defeated MICHAEL PAGE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - IAN MACHADO GARRY landed 19 significant strikes
+  - MICHAEL PAGE landed 21 significant strikes
+  - Knockdowns: IAN MACHADO GARRY 0,  MICHAEL PAGE 0
+  - Takedowns: IAN MACHADO GARRY 2,  MICHAEL PAGE 0

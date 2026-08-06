@@ -1,0 +1,11 @@
+Fighter: CODY EAST
+  Date of Birth: 1988-06-29
+  Career record: 2
+  First fight: 2016-04-23
+  Last fight: 2016-10-01
+
+Career Statistics:
+- Significant Strikes Landed :47
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

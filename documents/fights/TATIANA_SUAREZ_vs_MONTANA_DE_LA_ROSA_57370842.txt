@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Muniz vs. Allen
+    Date: February 25, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: TATIANA SUAREZ defeated MONTANA DE LA ROSA via Submission  
+  at 2:51 of round 2
+  Key stats:
+  - TATIANA SUAREZ landed 10 significant strikes
+  - MONTANA DE LA ROSA landed 5 significant strikes
+  - Knockdowns: TATIANA SUAREZ 0,  MONTANA DE LA ROSA 0
+  - Takedowns: TATIANA SUAREZ 2,  MONTANA DE LA ROSA 0
+  Bonus: perf

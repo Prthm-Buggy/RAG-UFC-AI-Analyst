@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Adesanya vs. Pyfer
+    Date: March 28, 2026
+    Location: Seattle, Washington, USA
+    Weight Class: Lightweight
+    
+
+    Result: TERRANCE MCKINNEY defeated KYLE NELSON via KO/TKO  
+  at 0:24 of round 1
+  Key stats:
+  - TERRANCE MCKINNEY landed 13 significant strikes
+  - KYLE NELSON landed 1 significant strikes
+  - Knockdowns: TERRANCE MCKINNEY 0,  KYLE NELSON 0
+  - Takedowns: TERRANCE MCKINNEY 0,  KYLE NELSON 0

@@ -1,0 +1,13 @@
+Event: UFC 30: Battle on the Boardwalk
+    Date: February 23, 2001
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: SEAN SHERK defeated TIKI GHOSN via Submission  
+  at 4:47 of round 2
+  Key stats:
+  - SEAN SHERK landed 12 significant strikes
+  - TIKI GHOSN landed 1 significant strikes
+  - Knockdowns: SEAN SHERK 0,  TIKI GHOSN 0
+  - Takedowns: SEAN SHERK 4,  TIKI GHOSN 0

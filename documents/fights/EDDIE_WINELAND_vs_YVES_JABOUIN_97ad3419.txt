@@ -1,0 +1,13 @@
+Event: UFC on FOX: Henderson vs Thomson
+    Date: January 25, 2014
+    Location: Chicago, Illinois, USA
+    Weight Class: Bantamweight
+    
+
+    Result: EDDIE WINELAND defeated YVES JABOUIN via KO/TKO  
+  at 4:16 of round 2
+  Key stats:
+  - EDDIE WINELAND landed 54 significant strikes
+  - YVES JABOUIN landed 33 significant strikes
+  - Knockdowns: EDDIE WINELAND 1,  YVES JABOUIN 0
+  - Takedowns: EDDIE WINELAND 0,  YVES JABOUIN 0

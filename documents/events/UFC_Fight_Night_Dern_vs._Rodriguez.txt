@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Dern vs. Rodriguez
+    Date : October 09, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Women's Strawweight, Welterweight, Flyweight, Lightweight, Featherweight, Women's Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - RANDY BROWN def. JARED GOODEN via Decision - Unanimous(R3)
+- LOOPY GODINEZ def. SILVANA GOMEZ JUAREZ via Submission(R1)
+- MARINA RODRIGUEZ def. MACKENZIE DERN via Decision - Unanimous(R5)
+- ALEXANDR ROMANOV def. JARED VANDERAA via KO/TKO(R2)
+- MARIYA AGAPOVA def. SABINA MAZO via Submission(R3)
+- MATHEUS NICOLAU def. TIM ELLIOTT via Decision - Unanimous(R3)
+- DAMON JACKSON def. CHARLES ROSA via Decision - Unanimous(R3)
+- CHRIS GUTIERREZ def. FELIPE COLARES via Decision - Split(R3)
+- STEVE GARCIA def. CHARLIE ONTIVEROS via KO/TKO(R2)

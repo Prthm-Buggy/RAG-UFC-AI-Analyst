@@ -1,0 +1,11 @@
+Fighter: CHASE SHERMAN
+  Date of Birth: 1989-11-16
+  Career record: 15
+  First fight: 2016-08-06
+  Last fight: 2023-05-13
+
+Career Statistics:
+- Significant Strikes Landed :969
+- Total takedowns landed :1
+- Knockdowns :3
+- Submission Attempts :0

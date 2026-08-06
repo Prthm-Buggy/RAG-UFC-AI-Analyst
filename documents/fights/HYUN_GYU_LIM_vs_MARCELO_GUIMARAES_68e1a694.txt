@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Silva vs. Stann
+    Date: March 02, 2013
+    Location: Saitama, Japan
+    Weight Class: Welterweight
+    
+
+    Result: HYUN GYU LIM defeated MARCELO GUIMARAES via KO/TKO  
+  at 4:00 of round 2
+  Key stats:
+  - HYUN GYU LIM landed 62 significant strikes
+  - MARCELO GUIMARAES landed 47 significant strikes
+  - Knockdowns: HYUN GYU LIM 1,  MARCELO GUIMARAES 0
+  - Takedowns: HYUN GYU LIM 0,  MARCELO GUIMARAES 2

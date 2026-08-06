@@ -1,0 +1,11 @@
+Fighter: BOBBY SOUTHWORTH
+  Date of Birth: 1969-12-16
+  Career record: 1
+  First fight: 2005-04-09
+  Last fight: 2005-04-09
+
+Career Statistics:
+- Significant Strikes Landed :21
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

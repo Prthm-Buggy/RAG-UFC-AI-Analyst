@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Eye vs. Calvillo
+    Date : June 13, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Women's Flyweight, Bantamweight, Middleweight, Lightweight, Featherweight, Catch Weight, Welterweight, Women's Bantamweight
+
+    Fight Results:
+  - MERAB DVALISHVILI def. GUSTAVO LOPEZ via Decision - Unanimous(R3)
+- CHARLES ROSA def. KEVIN AGUILAR via Decision - Split(R3)
+- CHRISTIAN AGUILERA def. ANTHONY IVY via KO/TKO(R1)
+- MARVIN VETTORI def. KARL ROBERSON via Submission(R1)
+- MARIYA AGAPOVA def. HANNAH CIFERS via Submission(R1)
+- ANDRE FILI def. CHARLES JOURDAIN via Decision - Split(R3)
+- JORDAN ESPINOSA def. MARK DE LA ROSA via Decision - Unanimous(R3)
+- JULIA AVILA def. GINA MAZANY via KO/TKO(R1)
+- CYNTHIA CALVILLO def. JESSICA EYE via Decision - Unanimous(R5)
+- TYSON NAM def. ZARRUKH ADASHEV via KO/TKO(R1)

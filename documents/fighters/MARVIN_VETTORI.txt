@@ -1,0 +1,11 @@
+Fighter: MARVIN VETTORI
+  Date of Birth: 1993-09-20
+  Career record: 17
+  First fight: 2016-08-20
+  Last fight: 2025-12-06
+
+Career Statistics:
+- Significant Strikes Landed :1398
+- Total takedowns landed :29
+- Knockdowns :1
+- Submission Attempts :6

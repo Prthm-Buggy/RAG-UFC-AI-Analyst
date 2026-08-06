@@ -1,0 +1,13 @@
+Event: UFC 74: Respect
+    Date: August 25, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ROGER HUERTA defeated ALBERTO CRANE via KO/TKO  
+  at 1:50 of round 3
+  Key stats:
+  - ROGER HUERTA landed 26 significant strikes
+  - ALBERTO CRANE landed 4 significant strikes
+  - Knockdowns: ROGER HUERTA 0,  ALBERTO CRANE 0
+  - Takedowns: ROGER HUERTA 0,  ALBERTO CRANE 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Munoz
+    Date: October 26, 2013
+    Location: Manchester, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: BRAD SCOTT defeated MICHAEL KUIPER via Submission  
+  at 4:17 of round 1
+  Key stats:
+  - BRAD SCOTT landed 14 significant strikes
+  - MICHAEL KUIPER landed 7 significant strikes
+  - Knockdowns: BRAD SCOTT 0,  MICHAEL KUIPER 0
+  - Takedowns: BRAD SCOTT 0,  MICHAEL KUIPER 1

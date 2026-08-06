@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dariush vs. Tsarukyan
+    Date: December 02, 2023
+    Location: Austin, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: CODY BRUNDAGE defeated ZACH REESE via KO/TKO  
+  at 1:49 of round 1
+  Key stats:
+  - CODY BRUNDAGE landed 9 significant strikes
+  - ZACH REESE landed 4 significant strikes
+  - Knockdowns: CODY BRUNDAGE 0,  ZACH REESE 0
+  - Takedowns: CODY BRUNDAGE 1,  ZACH REESE 0
+  Bonus: perf

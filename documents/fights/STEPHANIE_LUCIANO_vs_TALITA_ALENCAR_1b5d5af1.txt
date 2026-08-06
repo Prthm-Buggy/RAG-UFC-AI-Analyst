@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tybura vs. Spivac 2
+    Date: August 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: STEPHANIE LUCIANO defeated TALITA ALENCAR via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - STEPHANIE LUCIANO landed 72 significant strikes
+  - TALITA ALENCAR landed 41 significant strikes
+  - Knockdowns: STEPHANIE LUCIANO 1,  TALITA ALENCAR 0
+  - Takedowns: STEPHANIE LUCIANO 0,  TALITA ALENCAR 1

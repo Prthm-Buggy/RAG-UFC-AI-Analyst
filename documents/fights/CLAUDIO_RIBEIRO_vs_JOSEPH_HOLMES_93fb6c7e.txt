@@ -1,0 +1,13 @@
+Event: UFC 288: Sterling vs. Cejudo
+    Date: May 06, 2023
+    Location: Newark, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: CLAUDIO RIBEIRO defeated JOSEPH HOLMES via KO/TKO  
+  at 3:21 of round 2
+  Key stats:
+  - CLAUDIO RIBEIRO landed 37 significant strikes
+  - JOSEPH HOLMES landed 17 significant strikes
+  - Knockdowns: CLAUDIO RIBEIRO 1,  JOSEPH HOLMES 0
+  - Takedowns: CLAUDIO RIBEIRO 1,  JOSEPH HOLMES 1

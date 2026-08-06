@@ -1,0 +1,13 @@
+Event: UFC 187: Johnson vs Cormier
+    Date: May 23, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JUSTIN SCOGGINS defeated JOSH SAMPO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JUSTIN SCOGGINS landed 64 significant strikes
+  - JOSH SAMPO landed 35 significant strikes
+  - Knockdowns: JUSTIN SCOGGINS 0,  JOSH SAMPO 0
+  - Takedowns: JUSTIN SCOGGINS 1,  JOSH SAMPO 1

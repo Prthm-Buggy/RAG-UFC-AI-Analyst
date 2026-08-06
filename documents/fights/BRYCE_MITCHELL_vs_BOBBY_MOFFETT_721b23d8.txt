@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Thompson vs. Pettis
+    Date: March 23, 2019
+    Location: Nashville, Tennessee, USA
+    Weight Class: Featherweight
+    
+
+    Result: BRYCE MITCHELL defeated BOBBY MOFFETT via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BRYCE MITCHELL landed 17 significant strikes
+  - BOBBY MOFFETT landed 9 significant strikes
+  - Knockdowns: BRYCE MITCHELL 0,  BOBBY MOFFETT 0
+  - Takedowns: BRYCE MITCHELL 0,  BOBBY MOFFETT 5
+  Bonus: fight

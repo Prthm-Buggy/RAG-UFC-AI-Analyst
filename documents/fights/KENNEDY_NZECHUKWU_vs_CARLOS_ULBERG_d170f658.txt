@@ -1,0 +1,14 @@
+Event: UFC 259: Blachowicz vs. Adesanya
+    Date: March 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KENNEDY NZECHUKWU defeated CARLOS ULBERG via KO/TKO  
+  at 3:19 of round 2
+  Key stats:
+  - KENNEDY NZECHUKWU landed 82 significant strikes
+  - CARLOS ULBERG landed 146 significant strikes
+  - Knockdowns: KENNEDY NZECHUKWU 1,  CARLOS ULBERG 0
+  - Takedowns: KENNEDY NZECHUKWU 0,  CARLOS ULBERG 0
+  Bonus: fight

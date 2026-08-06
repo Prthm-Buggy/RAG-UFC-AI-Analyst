@@ -1,0 +1,13 @@
+Event: UFC 288: Sterling vs. Cejudo
+    Date: May 06, 2023
+    Location: Newark, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PARKER PORTER defeated BRAXTON SMITH via KO/TKO  
+  at 2:10 of round 1
+  Key stats:
+  - PARKER PORTER landed 25 significant strikes
+  - BRAXTON SMITH landed 14 significant strikes
+  - Knockdowns: PARKER PORTER 0,  BRAXTON SMITH 0
+  - Takedowns: PARKER PORTER 0,  BRAXTON SMITH 0

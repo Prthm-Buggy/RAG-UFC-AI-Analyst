@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Couture vs. Team Liddell Finale
+    Date: April 09, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOSH KOSCHECK defeated CHRIS SANFORD via KO/TKO  
+  at 4:21 of round 1
+  Key stats:
+  - JOSH KOSCHECK landed 14 significant strikes
+  - CHRIS SANFORD landed 1 significant strikes
+  - Knockdowns: JOSH KOSCHECK 0,  CHRIS SANFORD 0
+  - Takedowns: JOSH KOSCHECK 2,  CHRIS SANFORD 0

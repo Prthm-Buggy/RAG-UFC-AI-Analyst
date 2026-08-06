@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Luque vs. Dos Anjos
+    Date: August 12, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DA'MON BLACKSHEAR defeated JOSE JOHNSON via Submission  
+  at 3:47 of round 1
+  Key stats:
+  - DA'MON BLACKSHEAR landed 18 significant strikes
+  - JOSE JOHNSON landed 8 significant strikes
+  - Knockdowns: DA'MON BLACKSHEAR 0,  JOSE JOHNSON 0
+  - Takedowns: DA'MON BLACKSHEAR 2,  JOSE JOHNSON 0
+  Bonus: perf

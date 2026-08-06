@@ -1,0 +1,13 @@
+Event: UFC 105: Couture vs Vera
+    Date: November 14, 2009
+    Location: Manchester, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: NICK OSIPCZAK defeated MATTHEW RIDDLE via KO/TKO  
+  at 3:53 of round 3
+  Key stats:
+  - NICK OSIPCZAK landed 46 significant strikes
+  - MATTHEW RIDDLE landed 28 significant strikes
+  - Knockdowns: NICK OSIPCZAK 0,  MATTHEW RIDDLE 0
+  - Takedowns: NICK OSIPCZAK 0,  MATTHEW RIDDLE 4

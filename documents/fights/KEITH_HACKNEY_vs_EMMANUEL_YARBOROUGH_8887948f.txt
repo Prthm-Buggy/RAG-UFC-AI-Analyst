@@ -1,0 +1,13 @@
+Event: UFC 3: The American Dream
+    Date: September 09, 1994
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Open Weight
+    
+
+    Result: KEITH HACKNEY defeated EMMANUEL YARBOROUGH via KO/TKO  
+  at 1:59 of round 1
+  Key stats:
+  - KEITH HACKNEY landed 34 significant strikes
+  - EMMANUEL YARBOROUGH landed 1 significant strikes
+  - Knockdowns: KEITH HACKNEY 1,  EMMANUEL YARBOROUGH 0
+  - Takedowns: KEITH HACKNEY 0,  EMMANUEL YARBOROUGH 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gustafsson vs. Smith
+    Date: June 01, 2019
+    Location: Stockholm, Sweden
+    Weight Class: Lightweight
+    
+
+    Result: JOEL ALVAREZ defeated DANILO BELLUARDO via KO/TKO  
+  at 2:22 of round 2
+  Key stats:
+  - JOEL ALVAREZ landed 19 significant strikes
+  - DANILO BELLUARDO landed 13 significant strikes
+  - Knockdowns: JOEL ALVAREZ 0,  DANILO BELLUARDO 0
+  - Takedowns: JOEL ALVAREZ 0,  DANILO BELLUARDO 2

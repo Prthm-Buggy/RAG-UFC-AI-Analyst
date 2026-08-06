@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Poirier vs. Gaethje
+    Date : April 14, 2018
+    Location: Glendale, Arizona, USA
+    Number of Fights: 14
+    Weight Classes: Women's Flyweight, Heavyweight, Bantamweight, Middleweight, Welterweight, Flyweight, Women's Strawweight, Lightweight
+
+    Fight Results:
+  - LUKE SANDERS def. PATRICK WILLIAMS via Decision - Unanimous(R3)
+- ADAM WIECZOREK def. ARJAN BHULLAR via Submission(R2)
+- DUSTIN POIRIER def. JUSTIN GAETHJE via KO/TKO(R4)
+- ISRAEL ADESANYA def. MARVIN VETTORI via Decision - Split(R3)
+- ALEJANDRO PEREZ def. MATTHEW LOPEZ via KO/TKO(R2)
+- BRAD TAVARES def. KRZYSZTOF JOTKO via KO/TKO(R3)
+- LAUREN MUELLER def. SHANA DOBSON via Decision - Unanimous(R3)
+- MICHELLE WATERSON-GOMEZ def. CORTNEY CASEY via Decision - Split(R3)
+- ALEX OLIVEIRA def. CARLOS CONDIT via Submission(R2)
+- JOHN MORAGA def. WILSON REIS via Decision - Unanimous(R3)
+- YUSHIN OKAMI def. DHIEGO LIMA via Decision - Unanimous(R3)
+- ANTONIO CARLOS JUNIOR def. TIM BOETSCH via Submission(R1)
+- MUSLIM SALIKHOV def. RICKY RAINEY via KO/TKO(R2)
+- GILBERT BURNS def. DAN MORET via KO/TKO(R2)

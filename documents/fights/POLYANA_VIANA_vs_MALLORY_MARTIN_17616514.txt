@@ -1,0 +1,14 @@
+Event: UFC 258: Usman vs. Burns
+    Date: February 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: POLYANA VIANA defeated MALLORY MARTIN via Submission  
+  at 3:18 of round 1
+  Key stats:
+  - POLYANA VIANA landed 4 significant strikes
+  - MALLORY MARTIN landed 5 significant strikes
+  - Knockdowns: POLYANA VIANA 0,  MALLORY MARTIN 0
+  - Takedowns: POLYANA VIANA 0,  MALLORY MARTIN 1
+  Bonus: perf

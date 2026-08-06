@@ -1,0 +1,11 @@
+Fighter: OZZY DIAZ
+  Date of Birth: 1990-11-22
+  Career record: 3
+  First fight: 2024-11-23
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :150
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

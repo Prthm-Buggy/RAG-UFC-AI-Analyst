@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blanchfield vs. Fiorot
+    Date: March 30, 2024
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Featherweight
+    
+
+    Result: DENNIS BUZUKJA defeated CONNOR MATTHEWS via KO/TKO  
+  at 0:22 of round 3
+  Key stats:
+  - DENNIS BUZUKJA landed 83 significant strikes
+  - CONNOR MATTHEWS landed 60 significant strikes
+  - Knockdowns: DENNIS BUZUKJA 1,  CONNOR MATTHEWS 0
+  - Takedowns: DENNIS BUZUKJA 0,  CONNOR MATTHEWS 1
+  Bonus: perf

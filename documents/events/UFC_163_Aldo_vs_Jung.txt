@@ -1,0 +1,19 @@
+Event : UFC 163: Aldo vs Jung
+    Date : August 03, 2013
+    Location: Rio de Janeiro, Brazil
+    Number of Fights: 12
+    Weight Classes: Light Heavyweight, Featherweight, Middleweight, Flyweight, Women's Bantamweight, Welterweight
+
+    Fight Results:
+  - JOSE ALDO def. CHAN SUNG JUNG via KO/TKO(R4)
+- JOHN LINEKER def. JOSE MARIA via KO/TKO(R2)
+- THALES LEITES def. TOM WATSON via Decision - Unanimous(R3)
+- VISCARDI ANDRADE def. BRISTOL MARUNDE via KO/TKO(R1)
+- FRANCIMAR BARROSO def. EDNALDO OLIVEIRA via Decision - Unanimous(R3)
+- CEZAR FERREIRA def. THIAGO SANTOS via Submission(R1)
+- ANTHONY PEROSH def. VINNY MAGALHAES via KO/TKO(R1)
+- IAN MCCALL def. ILIARDE SANTOS via Decision - Unanimous(R3)
+- SERGIO MORAES def. NEIL MAGNY via Submission(R1)
+- PHIL DAVIS def. LYOTO MACHIDA via Decision - Unanimous(R3)
+- RANI YAHYA def. JOSH CLOPTON via Decision - Unanimous(R3)
+- AMANDA NUNES def. SHEILA GAFF via KO/TKO(R1)

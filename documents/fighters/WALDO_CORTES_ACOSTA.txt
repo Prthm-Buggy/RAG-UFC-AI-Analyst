@@ -1,0 +1,11 @@
+Fighter: WALDO CORTES ACOSTA
+  Date of Birth: 1991-10-03
+  Career record: 13
+  First fight: 2022-10-29
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :759
+- Total takedowns landed :4
+- Knockdowns :6
+- Submission Attempts :1

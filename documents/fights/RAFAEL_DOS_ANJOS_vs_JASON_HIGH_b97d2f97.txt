@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Khabilov
+    Date: June 07, 2014
+    Location: Albuquerque, New Mexico, USA
+    Weight Class: Lightweight
+    
+
+    Result: RAFAEL DOS ANJOS defeated JASON HIGH via KO/TKO  
+  at 3:36 of round 2
+  Key stats:
+  - RAFAEL DOS ANJOS landed 36 significant strikes
+  - JASON HIGH landed 24 significant strikes
+  - Knockdowns: RAFAEL DOS ANJOS 1,  JASON HIGH 0
+  - Takedowns: RAFAEL DOS ANJOS 2,  JASON HIGH 3

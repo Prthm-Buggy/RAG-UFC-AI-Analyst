@@ -1,0 +1,14 @@
+Event: UFC on FOX: Maia vs. Condit
+    Date: August 27, 2016
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Welterweight
+    
+
+    Result: DEMIAN MAIA defeated CARLOS CONDIT via Submission  
+  at 1:52 of round 1
+  Key stats:
+  - DEMIAN MAIA landed 1 significant strikes
+  - CARLOS CONDIT landed 1 significant strikes
+  - Knockdowns: DEMIAN MAIA 0,  CARLOS CONDIT 0
+  - Takedowns: DEMIAN MAIA 1,  CARLOS CONDIT 0
+  Bonus: perf

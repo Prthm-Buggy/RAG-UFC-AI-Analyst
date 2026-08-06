@@ -1,0 +1,13 @@
+Event: UFC 66: Liddell vs Ortiz 2
+    Date: December 30, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated MARCIO CRUZ via KO/TKO  
+  at 3:15 of round 1
+  Key stats:
+  - ANDREI ARLOVSKI landed 7 significant strikes
+  - MARCIO CRUZ landed 0 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 0,  MARCIO CRUZ 0
+  - Takedowns: ANDREI ARLOVSKI 0,  MARCIO CRUZ 0

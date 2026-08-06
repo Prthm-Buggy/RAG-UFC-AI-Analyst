@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Covington vs. Woodley
+    Date: September 19, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DARRICK MINNER defeated TJ LARAMIE via Submission  
+  at 0:52 of round 1
+  Key stats:
+  - DARRICK MINNER landed 15 significant strikes
+  - TJ LARAMIE landed 0 significant strikes
+  - Knockdowns: DARRICK MINNER 0,  TJ LARAMIE 0
+  - Takedowns: DARRICK MINNER 0,  TJ LARAMIE 0

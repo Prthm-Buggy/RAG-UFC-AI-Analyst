@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Condit vs Kampmann
+    Date: April 01, 2009
+    Location: Nashville, Tennessee, USA
+    Weight Class: Welterweight
+    
+
+    Result: BROCK LARSON defeated JESSE SANDERS via Submission  
+  at 2:01 of round 1
+  Key stats:
+  - BROCK LARSON landed 13 significant strikes
+  - JESSE SANDERS landed 0 significant strikes
+  - Knockdowns: BROCK LARSON 0,  JESSE SANDERS 0
+  - Takedowns: BROCK LARSON 1,  JESSE SANDERS 0

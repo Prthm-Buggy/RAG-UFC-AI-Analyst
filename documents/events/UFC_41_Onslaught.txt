@@ -1,0 +1,14 @@
+Event : UFC 41: Onslaught
+    Date : February 28, 2003
+    Location: Atlantic City, New Jersey, USA
+    Number of Fights: 7
+    Weight Classes: Middleweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - FRANK MIR def. DAVID ABBOTT via Submission(R1)
+- TIM SYLVIA def. RICCO RODRIGUEZ via KO/TKO(R1)
+- YVES EDWARDS def. RICH CLEMENTI via Submission(R3)
+- VLADIMIR MATYUSHENKO def. PEDRO RIZZO via Decision - Unanimous(R3)
+- DIN THOMAS def. MATT SERRA via Decision - Split(R3)
+- MATT LINDLAND def. PHIL BARONI via Decision - Unanimous(R3)
+- GAN MCGEE def. ALEXANDRE DANTAS via KO/TKO(R1)

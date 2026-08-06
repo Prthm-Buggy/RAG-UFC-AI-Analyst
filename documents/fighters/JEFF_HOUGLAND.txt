@@ -1,0 +1,11 @@
+Fighter: JEFF HOUGLAND
+  Date of Birth: 1978-08-02
+  Career record: 3
+  First fight: 2011-07-02
+  Last fight: 2012-11-10
+
+Career Statistics:
+- Significant Strikes Landed :93
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :4

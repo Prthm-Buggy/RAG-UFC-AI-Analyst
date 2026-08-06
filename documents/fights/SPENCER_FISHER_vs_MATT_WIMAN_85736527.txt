@@ -1,0 +1,13 @@
+Event: UFC 60: Hughes vs Gracie
+    Date: May 27, 2006
+    Location: Los Angeles, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: SPENCER FISHER defeated MATT WIMAN via KO/TKO  
+  at 1:43 of round 2
+  Key stats:
+  - SPENCER FISHER landed 27 significant strikes
+  - MATT WIMAN landed 10 significant strikes
+  - Knockdowns: SPENCER FISHER 1,  MATT WIMAN 0
+  - Takedowns: SPENCER FISHER 0,  MATT WIMAN 1

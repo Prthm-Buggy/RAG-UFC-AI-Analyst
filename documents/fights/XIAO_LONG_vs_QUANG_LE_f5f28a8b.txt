@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yan vs. Figueiredo
+    Date: November 23, 2024
+    Location: Macau, China
+    Weight Class: Bantamweight
+    
+
+    Result: XIAO LONG defeated QUANG LE via KO/TKO  
+  at 1:28 of round 3
+  Key stats:
+  - XIAO LONG landed 87 significant strikes
+  - QUANG LE landed 64 significant strikes
+  - Knockdowns: XIAO LONG 1,  QUANG LE 0
+  - Takedowns: XIAO LONG 0,  QUANG LE 1

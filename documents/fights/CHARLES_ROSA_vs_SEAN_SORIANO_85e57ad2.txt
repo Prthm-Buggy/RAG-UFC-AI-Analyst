@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McGregor vs Siver
+    Date: January 18, 2015
+    Location: Boston, Massachusetts, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHARLES ROSA defeated SEAN SORIANO via Submission  
+  at 4:43 of round 3
+  Key stats:
+  - CHARLES ROSA landed 37 significant strikes
+  - SEAN SORIANO landed 69 significant strikes
+  - Knockdowns: CHARLES ROSA 0,  SEAN SORIANO 0
+  - Takedowns: CHARLES ROSA 5,  SEAN SORIANO 3

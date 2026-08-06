@@ -1,0 +1,11 @@
+Fighter: VITOR PETRINO
+  Date of Birth: 1997-08-28
+  Career record: 9
+  First fight: 2023-03-11
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :294
+- Total takedowns landed :18
+- Knockdowns :3
+- Submission Attempts :5

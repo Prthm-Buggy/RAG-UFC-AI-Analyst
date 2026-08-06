@@ -1,0 +1,13 @@
+Event: UFC on FOX: Shevchenko vs. Pena
+    Date: January 28, 2017
+    Location: Denver, Colorado, USA
+    Weight Class: Welterweight
+    
+
+    Result: LI JINGLIANG defeated BOBBY NASH via KO/TKO  
+  at 4:45 of round 2
+  Key stats:
+  - LI JINGLIANG landed 37 significant strikes
+  - BOBBY NASH landed 39 significant strikes
+  - Knockdowns: LI JINGLIANG 1,  BOBBY NASH 1
+  - Takedowns: LI JINGLIANG 0,  BOBBY NASH 1

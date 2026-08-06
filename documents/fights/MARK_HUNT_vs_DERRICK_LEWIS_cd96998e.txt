@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Hunt
+    Date: June 10, 2017
+    Location: Auckland, New Zealand
+    Weight Class: Heavyweight
+    
+
+    Result: MARK HUNT defeated DERRICK LEWIS via KO/TKO  
+  at 3:51 of round 4
+  Key stats:
+  - MARK HUNT landed 59 significant strikes
+  - DERRICK LEWIS landed 51 significant strikes
+  - Knockdowns: MARK HUNT 0,  DERRICK LEWIS 0
+  - Takedowns: MARK HUNT 0,  DERRICK LEWIS 0
+  Bonus: fight

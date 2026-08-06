@@ -1,0 +1,14 @@
+Event: UFC 251: Usman vs. Masvidal
+    Date: July 11, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Bantamweight
+    
+
+    Result: PETR YAN defeated JOSE ALDO via KO/TKO  
+  at 3:24 of round 5
+  Key stats:
+  - PETR YAN landed 194 significant strikes
+  - JOSE ALDO landed 83 significant strikes
+  - Knockdowns: PETR YAN 1,  JOSE ALDO 0
+  - Takedowns: PETR YAN 1,  JOSE ALDO 0
+  Bonus: belt

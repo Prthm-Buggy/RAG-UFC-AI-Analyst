@@ -1,0 +1,11 @@
+Fighter: Jackson McVey
+  Date of Birth: 1999-03-25
+  Career record: 3
+  First fight: 2025-07-19
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :81
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

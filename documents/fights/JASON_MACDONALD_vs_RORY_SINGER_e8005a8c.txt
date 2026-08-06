@@ -1,0 +1,13 @@
+Event: UFC 72: Victory
+    Date: June 16, 2007
+    Location: Belfast, Northern Ireland, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: JASON MACDONALD defeated RORY SINGER via KO/TKO  
+  at 3:18 of round 2
+  Key stats:
+  - JASON MACDONALD landed 30 significant strikes
+  - RORY SINGER landed 17 significant strikes
+  - Knockdowns: JASON MACDONALD 0,  RORY SINGER 0
+  - Takedowns: JASON MACDONALD 2,  RORY SINGER 1

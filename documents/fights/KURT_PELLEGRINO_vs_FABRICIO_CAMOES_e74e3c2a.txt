@@ -1,0 +1,14 @@
+Event: UFC 111: St-Pierre vs Hardy
+    Date: March 27, 2010
+    Location: Newark, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: KURT PELLEGRINO defeated FABRICIO CAMOES via Submission  
+  at 4:20 of round 2
+  Key stats:
+  - KURT PELLEGRINO landed 16 significant strikes
+  - FABRICIO CAMOES landed 8 significant strikes
+  - Knockdowns: KURT PELLEGRINO 0,  FABRICIO CAMOES 0
+  - Takedowns: KURT PELLEGRINO 1,  FABRICIO CAMOES 1
+  Bonus: sub

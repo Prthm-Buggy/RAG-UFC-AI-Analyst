@@ -1,0 +1,13 @@
+Event: UFC: Silva vs Irvin
+    Date: July 19, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANDERSON SILVA defeated JAMES IRVIN via KO/TKO  
+  at 1:01 of round 1
+  Key stats:
+  - ANDERSON SILVA landed 13 significant strikes
+  - JAMES IRVIN landed 0 significant strikes
+  - Knockdowns: ANDERSON SILVA 1,  JAMES IRVIN 0
+  - Takedowns: ANDERSON SILVA 0,  JAMES IRVIN 0

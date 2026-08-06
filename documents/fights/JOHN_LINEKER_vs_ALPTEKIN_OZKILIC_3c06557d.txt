@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cowboy vs Miller
+    Date: July 16, 2014
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOHN LINEKER defeated ALPTEKIN OZKILIC via KO/TKO  
+  at 4:51 of round 3
+  Key stats:
+  - JOHN LINEKER landed 133 significant strikes
+  - ALPTEKIN OZKILIC landed 88 significant strikes
+  - Knockdowns: JOHN LINEKER 1,  ALPTEKIN OZKILIC 0
+  - Takedowns: JOHN LINEKER 2,  ALPTEKIN OZKILIC 1
+  Bonus: fight

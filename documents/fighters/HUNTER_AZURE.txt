@@ -1,0 +1,11 @@
+Fighter: HUNTER AZURE
+  Date of Birth: 1992-03-02
+  Career record: 4
+  First fight: 2019-09-14
+  Last fight: 2021-04-10
+
+Career Statistics:
+- Significant Strikes Landed :190
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :1

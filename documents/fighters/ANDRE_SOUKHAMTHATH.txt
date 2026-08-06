@@ -1,0 +1,11 @@
+Fighter: ANDRE SOUKHAMTHATH
+  Date of Birth: 1988-10-23
+  Career record: 7
+  First fight: 2017-03-04
+  Last fight: 2019-08-31
+
+Career Statistics:
+- Significant Strikes Landed :266
+- Total takedowns landed :8
+- Knockdowns :6
+- Submission Attempts :1

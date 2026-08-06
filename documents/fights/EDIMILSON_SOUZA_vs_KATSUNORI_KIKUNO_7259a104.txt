@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Maia vs LaFlare
+    Date: March 21, 2015
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: EDIMILSON SOUZA defeated KATSUNORI KIKUNO via KO/TKO  
+  at 1:31 of round 1
+  Key stats:
+  - EDIMILSON SOUZA landed 5 significant strikes
+  - KATSUNORI KIKUNO landed 1 significant strikes
+  - Knockdowns: EDIMILSON SOUZA 1,  KATSUNORI KIKUNO 0
+  - Takedowns: EDIMILSON SOUZA 0,  KATSUNORI KIKUNO 0
+  Bonus: perf

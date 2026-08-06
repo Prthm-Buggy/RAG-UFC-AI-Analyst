@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Pettis vs. Moreno
+    Date: August 05, 2017
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Lightweight
+    
+
+    Result: JORDAN RINALDI defeated ALVARO HERRERA MENDOZA via Submission  
+  at 2:01 of round 1
+  Key stats:
+  - JORDAN RINALDI landed 6 significant strikes
+  - ALVARO HERRERA MENDOZA landed 2 significant strikes
+  - Knockdowns: JORDAN RINALDI 0,  ALVARO HERRERA MENDOZA 0
+  - Takedowns: JORDAN RINALDI 0,  ALVARO HERRERA MENDOZA 0

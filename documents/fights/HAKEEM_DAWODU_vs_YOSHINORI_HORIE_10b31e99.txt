@@ -1,0 +1,14 @@
+Event: UFC 240: Holloway vs. Edgar
+    Date: July 27, 2019
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Featherweight
+    
+
+    Result: HAKEEM DAWODU defeated YOSHINORI HORIE via KO/TKO  
+  at 4:09 of round 3
+  Key stats:
+  - HAKEEM DAWODU landed 80 significant strikes
+  - YOSHINORI HORIE landed 39 significant strikes
+  - Knockdowns: HAKEEM DAWODU 1,  YOSHINORI HORIE 0
+  - Takedowns: HAKEEM DAWODU 0,  YOSHINORI HORIE 0
+  Bonus: perf

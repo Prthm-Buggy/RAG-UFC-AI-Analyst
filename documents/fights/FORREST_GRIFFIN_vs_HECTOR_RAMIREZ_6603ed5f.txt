@@ -1,0 +1,13 @@
+Event: UFC 72: Victory
+    Date: June 16, 2007
+    Location: Belfast, Northern Ireland, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: FORREST GRIFFIN defeated HECTOR RAMIREZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - FORREST GRIFFIN landed 113 significant strikes
+  - HECTOR RAMIREZ landed 20 significant strikes
+  - Knockdowns: FORREST GRIFFIN 0,  HECTOR RAMIREZ 0
+  - Takedowns: FORREST GRIFFIN 0,  HECTOR RAMIREZ 2

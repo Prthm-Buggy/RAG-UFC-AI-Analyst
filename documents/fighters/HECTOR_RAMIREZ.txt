@@ -1,0 +1,11 @@
+Fighter: HECTOR RAMIREZ
+  Date of Birth: 1976-03-28
+  Career record: 2
+  First fight: 2006-11-18
+  Last fight: 2007-06-16
+
+Career Statistics:
+- Significant Strikes Landed :53
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :1

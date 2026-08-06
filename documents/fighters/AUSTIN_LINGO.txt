@@ -1,0 +1,11 @@
+Fighter: AUSTIN LINGO
+  Date of Birth: 1994-07-10
+  Career record: 5
+  First fight: 2020-02-08
+  Last fight: 2023-07-15
+
+Career Statistics:
+- Significant Strikes Landed :267
+- Total takedowns landed :2
+- Knockdowns :2
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC 243: Whittaker vs. Adesanya
+    Date: October 05, 2019
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Women's Flyweight
+    
+
+    Result: JI YEON KIM defeated NADIA KASSEM via KO/TKO  
+  at 4:59 of round 2
+  Key stats:
+  - JI YEON KIM landed 80 significant strikes
+  - NADIA KASSEM landed 45 significant strikes
+  - Knockdowns: JI YEON KIM 1,  NADIA KASSEM 0
+  - Takedowns: JI YEON KIM 0,  NADIA KASSEM 1

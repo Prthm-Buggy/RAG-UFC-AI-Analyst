@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blaydes vs. Volkov
+    Date: June 20, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JOSH EMMETT defeated SHANE BURGOS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOSH EMMETT landed 127 significant strikes
+  - SHANE BURGOS landed 128 significant strikes
+  - Knockdowns: JOSH EMMETT 2,  SHANE BURGOS 0
+  - Takedowns: JOSH EMMETT 1,  SHANE BURGOS 0
+  Bonus: fight

@@ -1,0 +1,16 @@
+Event : UFC 14: Showdown
+    Date : July 27, 1997
+    Location: Birmingham, Alabama, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Heavyweight
+
+    Fight Results:
+  - MARK KERR def. DAN BOBISH via Submission(R1)
+- KEVIN JACKSON def. TODD BUTLER via KO/TKO(R1)
+- JOE MOREIRA def. YURI VAULIN via Decision - Unanimous(R2)
+- ALEX HUNTER def. SAM FULTON via Submission(R1)
+- TONY FRYKLUND def. DONNIE CHAPPELL via Submission(R1)
+- KEVIN JACKSON def. TONY FRYKLUND via Submission(R1)
+- MARK KERR def. MOTI HORENSTEIN via KO/TKO(R1)
+- MAURICE SMITH def. MARK COLEMAN via Decision - Unanimous(R3)
+- DAN BOBISH def. BRIAN JOHNSTON via Submission(R1)

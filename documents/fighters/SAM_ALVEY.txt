@@ -1,0 +1,11 @@
+Fighter: SAM ALVEY
+  Date of Birth: 1986-05-06
+  Career record: 23
+  First fight: 2014-08-16
+  Last fight: 2022-08-06
+
+Career Statistics:
+- Significant Strikes Landed :699
+- Total takedowns landed :1
+- Knockdowns :7
+- Submission Attempts :1

@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: A New World Champion Finale
+    Date: December 01, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: BRETT JOHNS defeated JOE SOTO via Submission  
+  at 0:30 of round 1
+  Key stats:
+  - BRETT JOHNS landed 1 significant strikes
+  - JOE SOTO landed 0 significant strikes
+  - Knockdowns: BRETT JOHNS 0,  JOE SOTO 0
+  - Takedowns: BRETT JOHNS 0,  JOE SOTO 0
+  Bonus: perf

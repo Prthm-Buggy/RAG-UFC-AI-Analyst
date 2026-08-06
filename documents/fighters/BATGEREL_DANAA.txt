@@ -1,0 +1,11 @@
+Fighter: BATGEREL DANAA
+  Date of Birth: 1989-07-04
+  Career record: 7
+  First fight: 2019-08-31
+  Last fight: 2023-04-22
+
+Career Statistics:
+- Significant Strikes Landed :311
+- Total takedowns landed :2
+- Knockdowns :4
+- Submission Attempts :0

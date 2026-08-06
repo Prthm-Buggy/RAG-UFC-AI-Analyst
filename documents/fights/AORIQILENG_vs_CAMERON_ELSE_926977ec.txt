@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lemos vs. Andrade
+    Date: April 23, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: AORIQILENG defeated CAMERON ELSE via KO/TKO  
+  at 2:48 of round 1
+  Key stats:
+  - AORIQILENG landed 37 significant strikes
+  - CAMERON ELSE landed 6 significant strikes
+  - Knockdowns: AORIQILENG 1,  CAMERON ELSE 0
+  - Takedowns: AORIQILENG 1,  CAMERON ELSE 0

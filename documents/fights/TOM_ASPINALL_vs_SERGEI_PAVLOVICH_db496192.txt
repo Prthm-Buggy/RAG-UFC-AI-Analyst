@@ -1,0 +1,14 @@
+Event: UFC 295: Prochazka vs. Pereira
+    Date: November 11, 2023
+    Location: New York City, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TOM ASPINALL defeated SERGEI PAVLOVICH via KO/TKO  
+  at 1:09 of round 1
+  Key stats:
+  - TOM ASPINALL landed 10 significant strikes
+  - SERGEI PAVLOVICH landed 1 significant strikes
+  - Knockdowns: TOM ASPINALL 1,  SERGEI PAVLOVICH 0
+  - Takedowns: TOM ASPINALL 0,  SERGEI PAVLOVICH 0
+  Bonus: belt

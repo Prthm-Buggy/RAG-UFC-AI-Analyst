@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs Bisping
+    Date: November 07, 2014
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY PEROSH defeated GUTO INOCENTE via Submission  
+  at 3:46 of round 1
+  Key stats:
+  - ANTHONY PEROSH landed 11 significant strikes
+  - GUTO INOCENTE landed 1 significant strikes
+  - Knockdowns: ANTHONY PEROSH 0,  GUTO INOCENTE 0
+  - Takedowns: ANTHONY PEROSH 1,  GUTO INOCENTE 0

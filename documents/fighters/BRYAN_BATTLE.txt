@@ -1,0 +1,11 @@
+Fighter: BRYAN BATTLE
+  Date of Birth: 1994-09-21
+  Career record: 8
+  First fight: 2021-08-28
+  Last fight: 2024-12-07
+
+Career Statistics:
+- Significant Strikes Landed :370
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :2

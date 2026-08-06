@@ -1,0 +1,13 @@
+Event: UFC - Ultimate Brazil
+    Date: October 16, 1998
+    Location: Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: VITOR BELFORT defeated WANDERLEI SILVA via KO/TKO  
+  at 0:44 of round 1
+  Key stats:
+  - VITOR BELFORT landed 7 significant strikes
+  - WANDERLEI SILVA landed 1 significant strikes
+  - Knockdowns: VITOR BELFORT 1,  WANDERLEI SILVA 0
+  - Takedowns: VITOR BELFORT 0,  WANDERLEI SILVA 0

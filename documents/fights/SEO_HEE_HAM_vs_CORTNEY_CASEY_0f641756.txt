@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Henderson vs Masvidal
+    Date: November 28, 2015
+    Location: Seoul, South Korea
+    Weight Class: Women's Strawweight
+    
+
+    Result: SEO HEE HAM defeated CORTNEY CASEY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SEO HEE HAM landed 71 significant strikes
+  - CORTNEY CASEY landed 78 significant strikes
+  - Knockdowns: SEO HEE HAM 0,  CORTNEY CASEY 0
+  - Takedowns: SEO HEE HAM 0,  CORTNEY CASEY 0
+  Bonus: fight

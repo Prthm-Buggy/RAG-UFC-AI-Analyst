@@ -1,0 +1,11 @@
+Fighter: GIANNI VAZQUEZ
+  Date of Birth: 1994-07-17
+  Career record: 1
+  First fight: 2026-02-07
+  Last fight: 2026-02-07
+
+Career Statistics:
+- Significant Strikes Landed :24
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :2

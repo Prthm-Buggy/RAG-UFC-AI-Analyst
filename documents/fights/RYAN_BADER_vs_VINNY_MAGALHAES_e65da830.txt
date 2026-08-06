@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Nogueira vs. Team Mir Finale
+    Date: December 13, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RYAN BADER defeated VINNY MAGALHAES via KO/TKO  
+  at 2:18 of round 1
+  Key stats:
+  - RYAN BADER landed 15 significant strikes
+  - VINNY MAGALHAES landed 4 significant strikes
+  - Knockdowns: RYAN BADER 1,  VINNY MAGALHAES 0
+  - Takedowns: RYAN BADER 0,  VINNY MAGALHAES 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swanson vs. Lobov
+    Date: April 22, 2017
+    Location: Nashville, Tennessee, USA
+    Weight Class: Flyweight
+    
+
+    Result: HECTOR SANDOVAL defeated MATT SCHNELL via KO/TKO  
+  at 4:24 of round 1
+  Key stats:
+  - HECTOR SANDOVAL landed 32 significant strikes
+  - MATT SCHNELL landed 16 significant strikes
+  - Knockdowns: HECTOR SANDOVAL 0,  MATT SCHNELL 0
+  - Takedowns: HECTOR SANDOVAL 3,  MATT SCHNELL 1

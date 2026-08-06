@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cerrone vs. Medeiros
+    Date: February 18, 2018
+    Location: Austin, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALEX MORONO defeated JOSHUA BURKMAN via Submission  
+  at 2:12 of round 1
+  Key stats:
+  - ALEX MORONO landed 7 significant strikes
+  - JOSHUA BURKMAN landed 4 significant strikes
+  - Knockdowns: ALEX MORONO 1,  JOSHUA BURKMAN 0
+  - Takedowns: ALEX MORONO 0,  JOSHUA BURKMAN 0

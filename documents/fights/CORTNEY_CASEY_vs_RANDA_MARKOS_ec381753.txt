@@ -1,0 +1,13 @@
+Event: UFC 202: Diaz vs. McGregor 2
+    Date: August 20, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: CORTNEY CASEY defeated RANDA MARKOS via Submission  
+  at 4:34 of round 1
+  Key stats:
+  - CORTNEY CASEY landed 21 significant strikes
+  - RANDA MARKOS landed 4 significant strikes
+  - Knockdowns: CORTNEY CASEY 0,  RANDA MARKOS 0
+  - Takedowns: CORTNEY CASEY 0,  RANDA MARKOS 1

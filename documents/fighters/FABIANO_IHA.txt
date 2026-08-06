@@ -1,0 +1,11 @@
+Fighter: FABIANO IHA
+  Date of Birth: 1970-07-28
+  Career record: 7
+  First fight: 1999-05-07
+  Last fight: 2001-09-28
+
+Career Statistics:
+- Significant Strikes Landed :45
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :8

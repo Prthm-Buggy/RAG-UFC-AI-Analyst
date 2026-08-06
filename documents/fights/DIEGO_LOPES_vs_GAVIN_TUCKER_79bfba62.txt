@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Font
+    Date: August 05, 2023
+    Location: Nashville, Tennessee, USA
+    Weight Class: Featherweight
+    
+
+    Result: DIEGO LOPES defeated GAVIN TUCKER via Submission  
+  at 1:38 of round 1
+  Key stats:
+  - DIEGO LOPES landed 0 significant strikes
+  - GAVIN TUCKER landed 0 significant strikes
+  - Knockdowns: DIEGO LOPES 0,  GAVIN TUCKER 0
+  - Takedowns: DIEGO LOPES 0,  GAVIN TUCKER 1
+  Bonus: perf

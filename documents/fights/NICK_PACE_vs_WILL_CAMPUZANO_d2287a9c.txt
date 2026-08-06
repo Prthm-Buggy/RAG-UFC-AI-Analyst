@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team GSP vs Team Koscheck Finale
+    Date: December 04, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: NICK PACE defeated WILL CAMPUZANO via Submission  
+  at 4:33 of round 3
+  Key stats:
+  - NICK PACE landed 18 significant strikes
+  - WILL CAMPUZANO landed 16 significant strikes
+  - Knockdowns: NICK PACE 0,  WILL CAMPUZANO 0
+  - Takedowns: NICK PACE 7,  WILL CAMPUZANO 1

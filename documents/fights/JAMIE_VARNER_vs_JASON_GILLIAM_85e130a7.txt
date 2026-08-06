@@ -1,0 +1,13 @@
+Event: UFC 68: The Uprising
+    Date: March 03, 2007
+    Location: Columbus, Ohio, USA
+    Weight Class: Lightweight
+    
+
+    Result: JAMIE VARNER defeated JASON GILLIAM via Submission  
+  at 1:34 of round 1
+  Key stats:
+  - JAMIE VARNER landed 7 significant strikes
+  - JASON GILLIAM landed 0 significant strikes
+  - Knockdowns: JAMIE VARNER 0,  JASON GILLIAM 0
+  - Takedowns: JAMIE VARNER 1,  JASON GILLIAM 0

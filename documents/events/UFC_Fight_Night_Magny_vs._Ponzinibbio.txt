@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Magny vs. Ponzinibbio
+    Date : November 17, 2018
+    Location: Buenos Aires, Buenos Aires, Argentina
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Featherweight, Light Heavyweight, Women's Strawweight, Welterweight, Middleweight, Lightweight, Flyweight
+
+    Fight Results:
+  - ALEXANDRE PANTOJA def. YUTA SASAKI via Submission(R1)
+- JOHNNY WALKER def. KHALIL ROUNTREE JR. via KO/TKO(R1)
+- JESUS PINEDO def. DEVIN POWELL via Decision - Unanimous(R3)
+- MARLON VERA def. GUIDO CANNETTI via Submission(R2)
+- MICHEL PRAZERES def. BARTOSZ FABINSKI via Submission(R1)
+- AUSTIN ARNETT def. HUMBERTO BANDENAY via Decision - Unanimous(R3)
+- CYNTHIA CALVILLO def. POLIANA BOTELHO via Submission(R1)
+- IAN HEINISCH def. CEZAR FERREIRA via Decision - Unanimous(R3)
+- RICARDO LAMAS def. DARREN ELKINS via KO/TKO(R3)
+- SANTIAGO PONZINIBBIO def. NEIL MAGNY via KO/TKO(R4)
+- LAUREANO STAROPOLI def. HECTOR ALDANA via Decision - Unanimous(R3)
+- NAD NARIMANI def. ANDERSON DOS SANTOS via Decision - Unanimous(R3)

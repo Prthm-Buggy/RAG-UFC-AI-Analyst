@@ -1,0 +1,14 @@
+Event: UFC 230: Cormier vs. Lewis
+    Date: November 03, 2018
+    Location: New York City, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DANIEL CORMIER defeated DERRICK LEWIS via Submission  
+  at 2:14 of round 2
+  Key stats:
+  - DANIEL CORMIER landed 19 significant strikes
+  - DERRICK LEWIS landed 4 significant strikes
+  - Knockdowns: DANIEL CORMIER 0,  DERRICK LEWIS 0
+  - Takedowns: DANIEL CORMIER 4,  DERRICK LEWIS 0
+  Bonus: belt

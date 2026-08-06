@@ -1,0 +1,11 @@
+Fighter: MOTI HORENSTEIN
+  Date of Birth: 1964-03-23
+  Career record: 2
+  First fight: 1996-07-12
+  Last fight: 1997-07-27
+
+Career Statistics:
+- Significant Strikes Landed :1
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

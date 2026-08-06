@@ -1,0 +1,11 @@
+Fighter: ALEKSANDAR RAKIC
+  Date of Birth: 1992-02-06
+  Career record: 11
+  First fight: 2017-09-02
+  Last fight: 2025-10-25
+
+Career Statistics:
+- Significant Strikes Landed :485
+- Total takedowns landed :5
+- Knockdowns :4
+- Submission Attempts :1

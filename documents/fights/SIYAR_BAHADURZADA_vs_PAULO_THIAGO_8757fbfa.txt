@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Gustafsson vs Silva
+    Date: April 14, 2012
+    Location: Stockholm, Sweden
+    Weight Class: Welterweight
+    
+
+    Result: SIYAR BAHADURZADA defeated PAULO THIAGO via KO/TKO  
+  at 0:42 of round 1
+  Key stats:
+  - SIYAR BAHADURZADA landed 3 significant strikes
+  - PAULO THIAGO landed 0 significant strikes
+  - Knockdowns: SIYAR BAHADURZADA 1,  PAULO THIAGO 0
+  - Takedowns: SIYAR BAHADURZADA 0,  PAULO THIAGO 0
+  Bonus: ko

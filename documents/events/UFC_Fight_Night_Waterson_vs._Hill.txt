@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Waterson vs. Hill
+    Date : September 12, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Women's Flyweight, Women's Bantamweight, Catch Weight, Welterweight, Light Heavyweight, Women's Strawweight, Lightweight, Featherweight
+
+    Fight Results:
+  - KING GREEN def. ALAN PATRICK via Decision - Unanimous(R3)
+- JALIN TURNER def. BROK WEAVER via Submission(R2)
+- BRYAN BARBERENA def. ANTHONY IVY via Decision - Unanimous(R3)
+- BILLY QUARANTILLO def. KYLE NELSON via KO/TKO(R3)
+- SIJARA EUBANKS def. JULIA AVILA via Decision - Unanimous(R3)
+- OTTMAN AZAITAR def. KHAMA WORTHY via KO/TKO(R1)
+- SABINA MAZO def. JUSTINE KISH via Submission(R3)
+- ED HERMAN def. MIKE RODRIGUEZ via Submission(R3)
+- ROXANNE MODAFFERI def. ANDREA LEE via Decision - Unanimous(R3)
+- MICHELLE WATERSON-GOMEZ def. ANGELA HILL via Decision - Split(R5)
+- ALEXANDR ROMANOV def. ROQUE MARTINEZ via Submission(R2)

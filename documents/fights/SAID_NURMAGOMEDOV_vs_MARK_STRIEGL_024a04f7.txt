@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ortega vs. The Korean Zombie
+    Date: October 17, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Bantamweight
+    
+
+    Result: SAID NURMAGOMEDOV defeated MARK STRIEGL via KO/TKO  
+  at 0:51 of round 1
+  Key stats:
+  - SAID NURMAGOMEDOV landed 18 significant strikes
+  - MARK STRIEGL landed 3 significant strikes
+  - Knockdowns: SAID NURMAGOMEDOV 0,  MARK STRIEGL 0
+  - Takedowns: SAID NURMAGOMEDOV 0,  MARK STRIEGL 0

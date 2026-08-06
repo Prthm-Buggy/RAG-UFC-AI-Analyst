@@ -1,0 +1,13 @@
+Event: UFC 224: Nunes vs. Pennington
+    Date: May 12, 2018
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: JOHN LINEKER defeated BRIAN KELLEHER via KO/TKO  
+  at 3:43 of round 3
+  Key stats:
+  - JOHN LINEKER landed 102 significant strikes
+  - BRIAN KELLEHER landed 50 significant strikes
+  - Knockdowns: JOHN LINEKER 2,  BRIAN KELLEHER 0
+  - Takedowns: JOHN LINEKER 0,  BRIAN KELLEHER 1

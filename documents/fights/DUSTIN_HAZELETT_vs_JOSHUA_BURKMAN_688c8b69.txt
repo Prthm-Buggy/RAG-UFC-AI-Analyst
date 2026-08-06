@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Rampage vs Team Forrest Finale
+    Date: June 21, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DUSTIN HAZELETT defeated JOSHUA BURKMAN via Submission  
+  at 4:46 of round 2
+  Key stats:
+  - DUSTIN HAZELETT landed 13 significant strikes
+  - JOSHUA BURKMAN landed 34 significant strikes
+  - Knockdowns: DUSTIN HAZELETT 0,  JOSHUA BURKMAN 0
+  - Takedowns: DUSTIN HAZELETT 1,  JOSHUA BURKMAN 1
+  Bonus: fight

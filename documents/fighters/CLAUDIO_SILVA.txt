@@ -1,0 +1,11 @@
+Fighter: CLAUDIO SILVA
+  Date of Birth: 1982-09-06
+  Career record: 8
+  First fight: 2014-03-08
+  Last fight: 2022-07-23
+
+Career Statistics:
+- Significant Strikes Landed :235
+- Total takedowns landed :18
+- Knockdowns :0
+- Submission Attempts :7

@@ -1,0 +1,14 @@
+Event: UFC 313: Pereira vs. Ankalaev
+    Date: March 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MAURICIO RUFFY defeated KING GREEN via KO/TKO  
+  at 2:07 of round 1
+  Key stats:
+  - MAURICIO RUFFY landed 4 significant strikes
+  - KING GREEN landed 4 significant strikes
+  - Knockdowns: MAURICIO RUFFY 1,  KING GREEN 0
+  - Takedowns: MAURICIO RUFFY 0,  KING GREEN 0
+  Bonus: perf

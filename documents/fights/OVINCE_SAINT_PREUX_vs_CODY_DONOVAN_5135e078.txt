@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shogun vs Sonnen
+    Date: August 17, 2013
+    Location: Boston, Massachusetts, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: OVINCE SAINT PREUX defeated CODY DONOVAN via KO/TKO  
+  at 2:07 of round 1
+  Key stats:
+  - OVINCE SAINT PREUX landed 6 significant strikes
+  - CODY DONOVAN landed 10 significant strikes
+  - Knockdowns: OVINCE SAINT PREUX 0,  CODY DONOVAN 0
+  - Takedowns: OVINCE SAINT PREUX 0,  CODY DONOVAN 0

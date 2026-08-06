@@ -1,0 +1,11 @@
+Fighter: BRANDON JENKINS
+  Date of Birth: 1991-09-30
+  Career record: 2
+  First fight: 2021-09-18
+  Last fight: 2022-04-16
+
+Career Statistics:
+- Significant Strikes Landed :59
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

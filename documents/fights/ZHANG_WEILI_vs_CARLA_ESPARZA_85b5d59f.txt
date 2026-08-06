@@ -1,0 +1,14 @@
+Event: UFC 281: Adesanya vs. Pereira
+    Date: November 12, 2022
+    Location: New York City, New York, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ZHANG WEILI defeated CARLA ESPARZA via Submission  
+  at 1:05 of round 2
+  Key stats:
+  - ZHANG WEILI landed 37 significant strikes
+  - CARLA ESPARZA landed 6 significant strikes
+  - Knockdowns: ZHANG WEILI 0,  CARLA ESPARZA 0
+  - Takedowns: ZHANG WEILI 0,  CARLA ESPARZA 1
+  Bonus: belt

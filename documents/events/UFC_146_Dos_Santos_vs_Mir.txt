@@ -1,0 +1,19 @@
+Event : UFC 146: Dos Santos vs Mir
+    Date : May 26, 2012
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Welterweight, Middleweight, Featherweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - GLOVER TEIXEIRA def. KYLE KINGSBURY via Submission(R1)
+- ROY NELSON def. DAVE HERMAN via KO/TKO(R1)
+- DARREN ELKINS def. DIEGO BRANDAO via Decision - Unanimous(R3)
+- CAIN VELASQUEZ def. ANTONIO SILVA via KO/TKO(R1)
+- DAN HARDY def. DUANE LUDWIG via KO/TKO(R1)
+- CB DOLLAWAY def. JASON MILLER via Decision - Unanimous(R3)
+- JUNIOR DOS SANTOS def. FRANK MIR via KO/TKO(R2)
+- PAUL SASS def. JACOB VOLKMANN via Submission(R1)
+- MIKE BROWN def. DANIEL PINEDA via Decision - Unanimous(R3)
+- JAMIE VARNER def. EDSON BARBOZA via KO/TKO(R1)
+- STEFAN STRUVE def. LAVAR JOHNSON via Submission(R1)
+- STIPE MIOCIC def. SHANE DEL ROSARIO via KO/TKO(R2)

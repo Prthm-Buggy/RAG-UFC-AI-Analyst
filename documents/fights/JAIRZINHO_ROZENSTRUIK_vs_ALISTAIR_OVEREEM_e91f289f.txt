@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Rozenstruik
+    Date: December 07, 2019
+    Location: Washington, DC, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAIRZINHO ROZENSTRUIK defeated ALISTAIR OVEREEM via KO/TKO  
+  at 4:56 of round 5
+  Key stats:
+  - JAIRZINHO ROZENSTRUIK landed 89 significant strikes
+  - ALISTAIR OVEREEM landed 74 significant strikes
+  - Knockdowns: JAIRZINHO ROZENSTRUIK 1,  ALISTAIR OVEREEM 0
+  - Takedowns: JAIRZINHO ROZENSTRUIK 0,  ALISTAIR OVEREEM 2

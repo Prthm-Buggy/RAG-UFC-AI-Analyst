@@ -1,0 +1,11 @@
+Fighter: REZA MADADI
+  Date of Birth: 1978-06-20
+  Career record: 7
+  First fight: 2012-04-14
+  Last fight: 2017-05-28
+
+Career Statistics:
+- Significant Strikes Landed :226
+- Total takedowns landed :19
+- Knockdowns :0
+- Submission Attempts :3

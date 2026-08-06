@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Dolidze 2
+    Date: March 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: BRENDSON RIBEIRO defeated DIYAR NURGOZHAY via Submission  
+  at 1:28 of round 2
+  Key stats:
+  - BRENDSON RIBEIRO landed 28 significant strikes
+  - DIYAR NURGOZHAY landed 17 significant strikes
+  - Knockdowns: BRENDSON RIBEIRO 1,  DIYAR NURGOZHAY 0
+  - Takedowns: BRENDSON RIBEIRO 0,  DIYAR NURGOZHAY 2

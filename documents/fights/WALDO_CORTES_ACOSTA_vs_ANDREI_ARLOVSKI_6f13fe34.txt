@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ankalaev vs. Walker 2
+    Date: January 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: WALDO CORTES ACOSTA defeated ANDREI ARLOVSKI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - WALDO CORTES ACOSTA landed 49 significant strikes
+  - ANDREI ARLOVSKI landed 58 significant strikes
+  - Knockdowns: WALDO CORTES ACOSTA 0,  ANDREI ARLOVSKI 0
+  - Takedowns: WALDO CORTES ACOSTA 0,  ANDREI ARLOVSKI 0

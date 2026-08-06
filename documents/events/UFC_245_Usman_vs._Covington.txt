@@ -1,0 +1,20 @@
+Event : UFC 245: Usman vs. Covington
+    Date : December 14, 2019
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Women's Bantamweight, Middleweight, Flyweight, Featherweight, Welterweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - MATT BROWN def. BEN SAUNDERS via KO/TKO(R2)
+- PETR YAN def. URIJAH FABER via KO/TKO(R3)
+- KAMARU USMAN def. COLBY COVINGTON via KO/TKO(R5)
+- BRANDON MORENO def. KAI KARA-FRANCE via Decision - Unanimous(R3)
+- AMANDA NUNES def. GERMAINE DE RANDAMIE via Decision - Unanimous(R5)
+- PUNAHELE SORIANO def. OSKAR PIECHOTA via KO/TKO(R1)
+- CHASE HOOPER def. DANIEL TEYMUR via KO/TKO(R1)
+- ALEXANDER VOLKANOVSKI def. MAX HOLLOWAY via Decision - Unanimous(R5)
+- IRENE ALDANA def. KETLEN VIEIRA via KO/TKO(R1)
+- OMARI AKHMEDOV def. IAN HEINISCH via Decision - Unanimous(R3)
+- GEOFF NEAL def. MIKE PERRY via KO/TKO(R1)
+- JESSICA EYE def. VIVIANE ARAUJO via Decision - Unanimous(R3)
+- MARLON MORAES def. JOSE ALDO via Decision - Split(R3)

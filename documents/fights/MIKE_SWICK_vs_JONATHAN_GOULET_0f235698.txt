@@ -1,0 +1,13 @@
+Event: UFC Fight Night - Fight for the Troops
+    Date: December 10, 2008
+    Location: Fayetteville, North Carolina, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE SWICK defeated JONATHAN GOULET via KO/TKO  
+  at 0:33 of round 1
+  Key stats:
+  - MIKE SWICK landed 7 significant strikes
+  - JONATHAN GOULET landed 1 significant strikes
+  - Knockdowns: MIKE SWICK 1,  JONATHAN GOULET 0
+  - Takedowns: MIKE SWICK 0,  JONATHAN GOULET 0

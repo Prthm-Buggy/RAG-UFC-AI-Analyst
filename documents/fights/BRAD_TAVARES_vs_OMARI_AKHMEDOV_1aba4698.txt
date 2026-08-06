@@ -1,0 +1,13 @@
+Event: UFC 264: Poirier vs. McGregor 3
+    Date: July 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRAD TAVARES defeated OMARI AKHMEDOV via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - BRAD TAVARES landed 84 significant strikes
+  - OMARI AKHMEDOV landed 48 significant strikes
+  - Knockdowns: BRAD TAVARES 1,  OMARI AKHMEDOV 0
+  - Takedowns: BRAD TAVARES 0,  OMARI AKHMEDOV 2

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Gomi
+    Date: March 31, 2010
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Middleweight
+    
+
+    Result: GERALD HARRIS defeated MARIO MIRANDA via KO/TKO  
+  at 4:49 of round 1
+  Key stats:
+  - GERALD HARRIS landed 17 significant strikes
+  - MARIO MIRANDA landed 16 significant strikes
+  - Knockdowns: GERALD HARRIS 2,  MARIO MIRANDA 1
+  - Takedowns: GERALD HARRIS 0,  MARIO MIRANDA 0

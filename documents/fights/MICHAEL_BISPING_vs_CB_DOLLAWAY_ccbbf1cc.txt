@@ -1,0 +1,13 @@
+Event: UFC 186: Johnson vs Horiguchi
+    Date: April 25, 2015
+    Location: Montreal, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL BISPING defeated CB DOLLAWAY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MICHAEL BISPING landed 75 significant strikes
+  - CB DOLLAWAY landed 47 significant strikes
+  - Knockdowns: MICHAEL BISPING 0,  CB DOLLAWAY 1
+  - Takedowns: MICHAEL BISPING 0,  CB DOLLAWAY 2

@@ -1,0 +1,14 @@
+Event: UFC 187: Johnson vs Cormier
+    Date: May 23, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated TRAVIS BROWNE via KO/TKO  
+  at 4:41 of round 1
+  Key stats:
+  - ANDREI ARLOVSKI landed 51 significant strikes
+  - TRAVIS BROWNE landed 15 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 1,  TRAVIS BROWNE 1
+  - Takedowns: ANDREI ARLOVSKI 0,  TRAVIS BROWNE 0
+  Bonus: fight

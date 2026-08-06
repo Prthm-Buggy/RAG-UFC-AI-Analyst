@@ -1,0 +1,11 @@
+Fighter: GAUGE YOUNG
+  Date of Birth: 2000-07-14
+  Career record: 3
+  First fight: 2025-04-26
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :315
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

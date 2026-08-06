@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Strickland vs. Imavov
+    Date: January 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DAN IGE defeated DAMON JACKSON via KO/TKO  
+  at 4:13 of round 2
+  Key stats:
+  - DAN IGE landed 34 significant strikes
+  - DAMON JACKSON landed 36 significant strikes
+  - Knockdowns: DAN IGE 1,  DAMON JACKSON 0
+  - Takedowns: DAN IGE 1,  DAMON JACKSON 0
+  Bonus: perf

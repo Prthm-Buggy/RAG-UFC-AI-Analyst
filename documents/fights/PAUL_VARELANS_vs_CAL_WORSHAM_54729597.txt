@@ -1,0 +1,13 @@
+Event: UFC 6: Clash of the Titans
+    Date: July 14, 1995
+    Location: Casper, Wyoming, USA
+    Weight Class: Open Weight
+    
+
+    Result: PAUL VARELANS defeated CAL WORSHAM via KO/TKO  
+  at 1:02 of round 1
+  Key stats:
+  - PAUL VARELANS landed 8 significant strikes
+  - CAL WORSHAM landed 9 significant strikes
+  - Knockdowns: PAUL VARELANS 1,  CAL WORSHAM 0
+  - Takedowns: PAUL VARELANS 0,  CAL WORSHAM 0

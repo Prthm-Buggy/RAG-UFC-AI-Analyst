@@ -1,0 +1,13 @@
+Event: UFC 186: Johnson vs Horiguchi
+    Date: April 25, 2015
+    Location: Montreal, Quebec, Canada
+    Weight Class: Lightweight
+    
+
+    Result: OLIVIER AUBIN-MERCIER defeated DAVID MICHAUD via Submission  
+  at 1:35 of round 3
+  Key stats:
+  - OLIVIER AUBIN-MERCIER landed 49 significant strikes
+  - DAVID MICHAUD landed 17 significant strikes
+  - Knockdowns: OLIVIER AUBIN-MERCIER 1,  DAVID MICHAUD 0
+  - Takedowns: OLIVIER AUBIN-MERCIER 3,  DAVID MICHAUD 0

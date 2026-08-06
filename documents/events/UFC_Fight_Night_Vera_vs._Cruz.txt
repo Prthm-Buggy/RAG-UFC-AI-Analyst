@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Vera vs. Cruz
+    Date : August 13, 2022
+    Location: San Diego, California, USA
+    Number of Fights: 12
+    Weight Classes: Catch Weight, Lightweight, Flyweight, Women's Bantamweight, Featherweight, Light Heavyweight, Middleweight, Women's Strawweight, Bantamweight, Women's Flyweight, Heavyweight
+
+    Fight Results:
+  - ANGELA HILL def. LOOPY GODINEZ via Decision - Unanimous(R3)
+- YAZMIN JAUREGUI def. IASMIN LUCINDO via Decision - Unanimous(R3)
+- MARLON VERA def. DOMINICK CRUZ via KO/TKO(R4)
+- NATE LANDWEHR def. DAVID ONAMA via Decision - Majority(R3)
+- JOSH QUINLAN def. JASON WITT via KO/TKO(R1)
+- AZAMAT MURZAKANOV def. DEVIN CLARK via KO/TKO(R3)
+- NINA NUNES def. CYNTHIA CALVILLO via Decision - Split(R3)
+- PRISCILA CACHOEIRA def. ARIANE DA SILVA via KO/TKO(R1)
+- TYSON NAM def. ODE OSBOURNE via KO/TKO(R1)
+- GERALD MEERSCHAERT def. BRUNO SILVA via Submission(R3)
+- MARTIN BUDAY def. LUKASZ BRZESKI via Decision - Split(R3)
+- GABRIEL BENITEZ def. CHARLIE ONTIVEROS via KO/TKO(R1)

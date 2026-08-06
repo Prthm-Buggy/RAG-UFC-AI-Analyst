@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: The Comeback Finale
+    Date: November 11, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: TRAVIS LUTTER defeated PATRICK COTE via Submission  
+  at 2:18 of round 1
+  Key stats:
+  - TRAVIS LUTTER landed 0 significant strikes
+  - PATRICK COTE landed 0 significant strikes
+  - Knockdowns: TRAVIS LUTTER 0,  PATRICK COTE 0
+  - Takedowns: TRAVIS LUTTER 1,  PATRICK COTE 0
+  Bonus: belt

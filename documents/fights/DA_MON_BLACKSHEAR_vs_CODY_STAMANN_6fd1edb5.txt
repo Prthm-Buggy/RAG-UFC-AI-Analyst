@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Magny vs. Prates
+    Date: November 09, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DA'MON BLACKSHEAR defeated CODY STAMANN via Submission  
+  at 4:19 of round 1
+  Key stats:
+  - DA'MON BLACKSHEAR landed 20 significant strikes
+  - CODY STAMANN landed 13 significant strikes
+  - Knockdowns: DA'MON BLACKSHEAR 0,  CODY STAMANN 0
+  - Takedowns: DA'MON BLACKSHEAR 0,  CODY STAMANN 0
+  Bonus: perf

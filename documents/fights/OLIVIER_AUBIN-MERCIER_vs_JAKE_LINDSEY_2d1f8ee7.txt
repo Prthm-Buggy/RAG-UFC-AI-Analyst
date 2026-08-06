@@ -1,0 +1,14 @@
+Event: UFC Fight Night: MacDonald vs Saffiedine
+    Date: October 04, 2014
+    Location: Halifax, Nova Scotia, Canada
+    Weight Class: Lightweight
+    
+
+    Result: OLIVIER AUBIN-MERCIER defeated JAKE LINDSEY via Submission  
+  at 3:22 of round 2
+  Key stats:
+  - OLIVIER AUBIN-MERCIER landed 31 significant strikes
+  - JAKE LINDSEY landed 24 significant strikes
+  - Knockdowns: OLIVIER AUBIN-MERCIER 0,  JAKE LINDSEY 0
+  - Takedowns: OLIVIER AUBIN-MERCIER 2,  JAKE LINDSEY 1
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swick vs Burkman
+    Date: January 23, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: THIAGO TAVARES defeated MICHIHIRO OMIGAWA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - THIAGO TAVARES landed 19 significant strikes
+  - MICHIHIRO OMIGAWA landed 11 significant strikes
+  - Knockdowns: THIAGO TAVARES 0,  MICHIHIRO OMIGAWA 0
+  - Takedowns: THIAGO TAVARES 7,  MICHIHIRO OMIGAWA 1

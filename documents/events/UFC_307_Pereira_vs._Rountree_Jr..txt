@@ -1,0 +1,19 @@
+Event : UFC 307: Pereira vs. Rountree Jr.
+    Date : October 05, 2024
+    Location: Salt Lake City, Utah, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Light Heavyweight, Women's Strawweight, Middleweight, Women's Bantamweight, Lightweight, Welterweight
+
+    Fight Results:
+  - KAYLA HARRISON def. KETLEN VIEIRA via Decision - Unanimous(R3)
+- ALEXANDER HERNANDEZ def. AUSTIN HUBBARD via Decision - Split(R3)
+- IASMIN LUCINDO def. MARINA RODRIGUEZ via Decision - Split(R3)
+- JULIANNA PENA def. RAQUEL PENNINGTON via Decision - Split(R5)
+- TECIA PENNINGTON def. CARLA ESPARZA via Decision - Unanimous(R3)
+- ALEX PEREIRA def. KHALIL ROUNTREE JR. via KO/TKO(R4)
+- MARIO BAUTISTA def. JOSE ALDO via Decision - Split(R3)
+- JOAQUIN BUCKLEY def. STEPHEN THOMPSON via KO/TKO(R3)
+- ROMAN DOLIDZE def. KEVIN HOLLAND via KO/TKO(R1)
+- RYAN SPANN def. OVINCE SAINT PREUX via Submission(R1)
+- COURT MCGEE def. TIM MEANS via Submission(R1)
+- CESAR ALMEIDA def. IHOR POTIERIA via Decision - Unanimous(R3)

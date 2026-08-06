@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Chikadze
+    Date: August 28, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRYAN BATTLE defeated GILBERT URBINA via Submission  
+  at 2:15 of round 2
+  Key stats:
+  - BRYAN BATTLE landed 46 significant strikes
+  - GILBERT URBINA landed 45 significant strikes
+  - Knockdowns: BRYAN BATTLE 0,  GILBERT URBINA 0
+  - Takedowns: BRYAN BATTLE 1,  GILBERT URBINA 2

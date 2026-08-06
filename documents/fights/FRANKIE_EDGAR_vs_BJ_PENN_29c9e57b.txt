@@ -1,0 +1,14 @@
+Event: UFC 112: Invincible
+    Date: April 10, 2010
+    Location: Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: FRANKIE EDGAR defeated BJ PENN via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - FRANKIE EDGAR landed 61 significant strikes
+  - BJ PENN landed 71 significant strikes
+  - Knockdowns: FRANKIE EDGAR 0,  BJ PENN 0
+  - Takedowns: FRANKIE EDGAR 1,  BJ PENN 0
+  Bonus: belt

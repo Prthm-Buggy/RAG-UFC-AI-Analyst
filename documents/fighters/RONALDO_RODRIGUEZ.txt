@@ -1,0 +1,11 @@
+Fighter: RONALDO RODRIGUEZ
+  Date of Birth: 1999-05-07
+  Career record: 3
+  First fight: 2024-02-24
+  Last fight: 2025-03-29
+
+Career Statistics:
+- Significant Strikes Landed :130
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

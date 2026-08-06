@@ -1,0 +1,13 @@
+Event: UFC 23: Ultimate Japan 2
+    Date: November 19, 1999
+    Location: Chiba, Japan
+    Weight Class: Middleweight
+    
+
+    Result: JOE SLICK defeated JASON DELUCIA via KO/TKO  
+  at 1:28 of round 1
+  Key stats:
+  - JOE SLICK landed 2 significant strikes
+  - JASON DELUCIA landed 1 significant strikes
+  - Knockdowns: JOE SLICK 0,  JASON DELUCIA 0
+  - Takedowns: JOE SLICK 1,  JASON DELUCIA 0

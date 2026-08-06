@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Strickland
+    Date: February 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOHN CASTANEDA defeated MILES JOHNS via Submission  
+  at 1:38 of round 3
+  Key stats:
+  - JOHN CASTANEDA landed 58 significant strikes
+  - MILES JOHNS landed 34 significant strikes
+  - Knockdowns: JOHN CASTANEDA 1,  MILES JOHNS 0
+  - Takedowns: JOHN CASTANEDA 0,  MILES JOHNS 0

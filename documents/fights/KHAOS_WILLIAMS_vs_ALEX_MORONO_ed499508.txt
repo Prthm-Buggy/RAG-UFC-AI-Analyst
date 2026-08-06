@@ -1,0 +1,14 @@
+Event: UFC 247: Jones vs. Reyes
+    Date: February 08, 2020
+    Location: Houston, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: KHAOS WILLIAMS defeated ALEX MORONO via KO/TKO  
+  at 0:27 of round 1
+  Key stats:
+  - KHAOS WILLIAMS landed 10 significant strikes
+  - ALEX MORONO landed 1 significant strikes
+  - Knockdowns: KHAOS WILLIAMS 1,  ALEX MORONO 0
+  - Takedowns: KHAOS WILLIAMS 0,  ALEX MORONO 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: DON SHAINIS
+  Date of Birth: 1990-09-16
+  Career record: 2
+  First fight: 2022-10-01
+  Last fight: 2023-02-11
+
+Career Statistics:
+- Significant Strikes Landed :53
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :2

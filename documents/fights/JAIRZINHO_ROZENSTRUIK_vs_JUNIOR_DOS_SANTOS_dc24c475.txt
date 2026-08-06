@@ -1,0 +1,13 @@
+Event: UFC 252: Miocic vs. Cormier 3
+    Date: August 15, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAIRZINHO ROZENSTRUIK defeated JUNIOR DOS SANTOS via KO/TKO  
+  at 3:47 of round 2
+  Key stats:
+  - JAIRZINHO ROZENSTRUIK landed 42 significant strikes
+  - JUNIOR DOS SANTOS landed 24 significant strikes
+  - Knockdowns: JAIRZINHO ROZENSTRUIK 1,  JUNIOR DOS SANTOS 0
+  - Takedowns: JAIRZINHO ROZENSTRUIK 0,  JUNIOR DOS SANTOS 0

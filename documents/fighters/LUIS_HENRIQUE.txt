@@ -1,0 +1,11 @@
+Fighter: LUIS HENRIQUE
+  Date of Birth: 1993-08-21
+  Career record: 6
+  First fight: 2015-12-19
+  Last fight: 2018-09-22
+
+Career Statistics:
+- Significant Strikes Landed :132
+- Total takedowns landed :15
+- Knockdowns :0
+- Submission Attempts :5

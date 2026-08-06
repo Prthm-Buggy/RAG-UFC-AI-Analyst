@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moreno vs. Albazi
+    Date: November 02, 2024
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: CHARLES JOURDAIN defeated VICTOR HENRY via Submission  
+  at 3:43 of round 2
+  Key stats:
+  - CHARLES JOURDAIN landed 39 significant strikes
+  - VICTOR HENRY landed 24 significant strikes
+  - Knockdowns: CHARLES JOURDAIN 0,  VICTOR HENRY 0
+  - Takedowns: CHARLES JOURDAIN 0,  VICTOR HENRY 4
+  Bonus: perf

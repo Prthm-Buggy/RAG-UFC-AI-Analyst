@@ -1,0 +1,11 @@
+Fighter: PARKER PORTER
+  Date of Birth: 1985-04-22
+  Career record: 8
+  First fight: 2020-08-15
+  Last fight: 2023-08-26
+
+Career Statistics:
+- Significant Strikes Landed :369
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :1

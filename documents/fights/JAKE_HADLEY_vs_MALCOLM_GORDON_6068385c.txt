@@ -1,0 +1,14 @@
+Event: UFC 286: Edwards vs. Usman 3
+    Date: March 18, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Flyweight
+    
+
+    Result: JAKE HADLEY defeated MALCOLM GORDON via KO/TKO  
+  at 1:01 of round 1
+  Key stats:
+  - JAKE HADLEY landed 10 significant strikes
+  - MALCOLM GORDON landed 3 significant strikes
+  - Knockdowns: JAKE HADLEY 1,  MALCOLM GORDON 0
+  - Takedowns: JAKE HADLEY 0,  MALCOLM GORDON 0
+  Bonus: perf

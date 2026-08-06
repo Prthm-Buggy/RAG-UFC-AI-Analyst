@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Usman vs. Buckley
+    Date: June 14, 2025
+    Location: Atlanta, Georgia, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MALCOLM WELLMAKER defeated KRIS MOUTINHO via KO/TKO  
+  at 2:37 of round 1
+  Key stats:
+  - MALCOLM WELLMAKER landed 25 significant strikes
+  - KRIS MOUTINHO landed 6 significant strikes
+  - Knockdowns: MALCOLM WELLMAKER 1,  KRIS MOUTINHO 0
+  - Takedowns: MALCOLM WELLMAKER 0,  KRIS MOUTINHO 0
+  Bonus: perf

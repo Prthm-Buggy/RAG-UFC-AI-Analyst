@@ -1,0 +1,11 @@
+Fighter: RUSLAN MAGOMEDOV
+  Date of Birth: 1986-11-26
+  Career record: 3
+  First fight: 2014-05-31
+  Last fight: 2015-10-03
+
+Career Statistics:
+- Significant Strikes Landed :181
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: JEAN-PAUL LEBOSNOYANI
+  Date of Birth: 1999-01-27
+  Career record: 1
+  First fight: 2026-02-21
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :66
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :2

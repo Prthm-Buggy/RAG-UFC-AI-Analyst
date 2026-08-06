@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gustafsson vs. Smith
+    Date: June 01, 2019
+    Location: Stockholm, Sweden
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY SMITH defeated ALEXANDER GUSTAFSSON via Submission  
+  at 2:38 of round 4
+  Key stats:
+  - ANTHONY SMITH landed 49 significant strikes
+  - ALEXANDER GUSTAFSSON landed 72 significant strikes
+  - Knockdowns: ANTHONY SMITH 0,  ALEXANDER GUSTAFSSON 0
+  - Takedowns: ANTHONY SMITH 0,  ALEXANDER GUSTAFSSON 1
+  Bonus: perf

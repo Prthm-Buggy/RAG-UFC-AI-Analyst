@@ -1,0 +1,13 @@
+Event: UFC 170: Rousey vs McMann
+    Date: February 22, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PYLE defeated TJ WALDBURGER via KO/TKO  
+  at 4:03 of round 3
+  Key stats:
+  - MIKE PYLE landed 56 significant strikes
+  - TJ WALDBURGER landed 38 significant strikes
+  - Knockdowns: MIKE PYLE 0,  TJ WALDBURGER 0
+  - Takedowns: MIKE PYLE 4,  TJ WALDBURGER 0

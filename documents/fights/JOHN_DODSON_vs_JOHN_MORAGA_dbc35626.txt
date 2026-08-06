@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Khabilov
+    Date: June 07, 2014
+    Location: Albuquerque, New Mexico, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOHN DODSON defeated JOHN MORAGA via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - JOHN DODSON landed 27 significant strikes
+  - JOHN MORAGA landed 8 significant strikes
+  - Knockdowns: JOHN DODSON 1,  JOHN MORAGA 0
+  - Takedowns: JOHN DODSON 1,  JOHN MORAGA 0

@@ -1,0 +1,17 @@
+Event : UFC 159: Jones vs Sonnen
+    Date : April 27, 2013
+    Location: Newark, New Jersey, USA
+    Number of Fights: 10
+    Weight Classes: Light Heavyweight, Middleweight, Women's Bantamweight, Featherweight, Lightweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - OVINCE SAINT PREUX def. GIAN VILLANTE via Decision - Majority(R3)
+- JON JONES def. CHAEL SONNEN via KO/TKO(R1)
+- MICHAEL BISPING def. ALAN BELCHER via Decision - Unanimous(R3)
+- BRYAN CARAWAY def. JOHNNY BEDFORD via Submission(R3)
+- PHIL DAVIS def. VINNY MAGALHAES via Decision - Unanimous(R3)
+- RUSTAM KHABILOV def. YANCY MEDEIROS via TKO - Doctor's Stoppage(R1)
+- ROY NELSON def. CHEICK KONGO via KO/TKO(R1)
+- CODY MCKENZIE def. LEONARD GARCIA via Decision - Unanimous(R3)
+- STEVEN SILER def. KURT HOLOBAUGH via Decision - Unanimous(R3)
+- SARA MCMANN def. SHEILA GAFF via KO/TKO(R1)

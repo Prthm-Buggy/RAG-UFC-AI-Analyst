@@ -1,0 +1,14 @@
+Event: UFC 221: Romero vs. Rockhold
+    Date: February 10, 2018
+    Location: Perth, Western Australia, Australia
+    Weight Class: Welterweight
+    
+
+    Result: JAKE MATTHEWS defeated LI JINGLIANG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JAKE MATTHEWS landed 63 significant strikes
+  - LI JINGLIANG landed 49 significant strikes
+  - Knockdowns: JAKE MATTHEWS 2,  LI JINGLIANG 0
+  - Takedowns: JAKE MATTHEWS 2,  LI JINGLIANG 0
+  Bonus: fight

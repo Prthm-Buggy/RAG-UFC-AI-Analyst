@@ -1,0 +1,14 @@
+Event: UFC 279: Diaz vs. Ferguson
+    Date: September 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: IRENE ALDANA defeated MACY CHIASSON via KO/TKO  
+  at 2:21 of round 3
+  Key stats:
+  - IRENE ALDANA landed 37 significant strikes
+  - MACY CHIASSON landed 39 significant strikes
+  - Knockdowns: IRENE ALDANA 1,  MACY CHIASSON 0
+  - Takedowns: IRENE ALDANA 0,  MACY CHIASSON 3
+  Bonus: perf

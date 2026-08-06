@@ -1,0 +1,11 @@
+Fighter: ROLAND DELORME
+  Date of Birth: 1983-12-18
+  Career record: 6
+  First fight: 2011-12-03
+  Last fight: 2014-08-23
+
+Career Statistics:
+- Significant Strikes Landed :134
+- Total takedowns landed :11
+- Knockdowns :2
+- Submission Attempts :7

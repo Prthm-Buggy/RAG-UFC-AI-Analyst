@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Evans vs Salmon
+    Date: January 25, 2007
+    Location: Hollywood, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: ED HERMAN defeated CHRIS PRICE via Submission  
+  at 2:58 of round 1
+  Key stats:
+  - ED HERMAN landed 5 significant strikes
+  - CHRIS PRICE landed 5 significant strikes
+  - Knockdowns: ED HERMAN 0,  CHRIS PRICE 0
+  - Takedowns: ED HERMAN 1,  CHRIS PRICE 0
+  Bonus: sub

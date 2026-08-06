@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Song vs. Simon
+    Date: April 29, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: RODOLFO VIEIRA defeated CODY BRUNDAGE via Submission  
+  at 1:28 of round 2
+  Key stats:
+  - RODOLFO VIEIRA landed 10 significant strikes
+  - CODY BRUNDAGE landed 20 significant strikes
+  - Knockdowns: RODOLFO VIEIRA 0,  CODY BRUNDAGE 1
+  - Takedowns: RODOLFO VIEIRA 1,  CODY BRUNDAGE 0
+  Bonus: perf

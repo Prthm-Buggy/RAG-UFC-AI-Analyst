@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. VanZant
+    Date: December 10, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SERGIO MORAES defeated OMARI AKHMEDOV via KO/TKO  
+  at 2:18 of round 3
+  Key stats:
+  - SERGIO MORAES landed 21 significant strikes
+  - OMARI AKHMEDOV landed 35 significant strikes
+  - Knockdowns: SERGIO MORAES 1,  OMARI AKHMEDOV 1
+  - Takedowns: SERGIO MORAES 0,  OMARI AKHMEDOV 1

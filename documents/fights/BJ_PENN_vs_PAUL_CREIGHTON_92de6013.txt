@@ -1,0 +1,13 @@
+Event: UFC 37: High Impact
+    Date: May 10, 2002
+    Location: Bossier City, Louisiana, USA
+    Weight Class: Lightweight
+    
+
+    Result: BJ PENN defeated PAUL CREIGHTON via KO/TKO  
+  at 3:23 of round 2
+  Key stats:
+  - BJ PENN landed 39 significant strikes
+  - PAUL CREIGHTON landed 6 significant strikes
+  - Knockdowns: BJ PENN 0,  PAUL CREIGHTON 0
+  - Takedowns: BJ PENN 0,  PAUL CREIGHTON 3

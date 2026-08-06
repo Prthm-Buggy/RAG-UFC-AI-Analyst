@@ -1,0 +1,20 @@
+Event : UFC 311: Makhachev vs. Moicano
+    Date : January 18, 2025
+    Location: Inglewood, California, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Heavyweight, Flyweight, Light Heavyweight, Women's Bantamweight, Lightweight, Middleweight
+
+    Fight Results:
+  - MERAB DVALISHVILI def. UMAR NURMAGOMEDOV via Decision - Unanimous(R5)
+- TAGIR ULANBEKOV def. CLAYTON CARPENTER via Decision - Unanimous(R3)
+- MUIN GAFUROV def. RINYA NAKAMURA via Decision - Unanimous(R3)
+- RAONI BARCELOS def. PAYTON TALBOTT via Decision - Unanimous(R3)
+- AZAMAT BEKOEV def. ZACH REESE via KO/TKO(R1)
+- BOGDAN GUSKOV def. BILLY ELEKANA via Submission(R2)
+- AILIN PEREZ def. KAROL ROSA via Decision - Unanimous(R3)
+- BENARDO SOPAJ def. RICKY TURCIOS via Decision - Unanimous(R3)
+- JIRI PROCHAZKA def. JAMAHAL HILL via KO/TKO(R3)
+- GRANT DAWSON def. DIEGO FERREIRA via Decision - Unanimous(R3)
+- ISLAM MAKHACHEV def. RENATO MOICANO via Submission(R1)
+- REINIER DE RIDDER def. KEVIN HOLLAND via Submission(R1)
+- JAILTON ALMEIDA def. SERGHEI SPIVAC via KO/TKO(R1)

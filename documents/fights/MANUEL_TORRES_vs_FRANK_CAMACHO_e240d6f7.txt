@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blachowicz vs. Rakic
+    Date: May 14, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MANUEL TORRES defeated FRANK CAMACHO via KO/TKO  
+  at 3:27 of round 1
+  Key stats:
+  - MANUEL TORRES landed 34 significant strikes
+  - FRANK CAMACHO landed 16 significant strikes
+  - Knockdowns: MANUEL TORRES 1,  FRANK CAMACHO 0
+  - Takedowns: MANUEL TORRES 0,  FRANK CAMACHO 0
+  Bonus: perf

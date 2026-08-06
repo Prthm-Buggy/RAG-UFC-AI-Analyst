@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Makhachev vs. Moises
+    Date: July 17, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DANIEL RODRIGUEZ defeated PRESTON PARSONS via KO/TKO  
+  at 3:47 of round 1
+  Key stats:
+  - DANIEL RODRIGUEZ landed 45 significant strikes
+  - PRESTON PARSONS landed 23 significant strikes
+  - Knockdowns: DANIEL RODRIGUEZ 0,  PRESTON PARSONS 0
+  - Takedowns: DANIEL RODRIGUEZ 0,  PRESTON PARSONS 0

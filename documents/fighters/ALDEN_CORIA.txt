@@ -1,0 +1,11 @@
+Fighter: ALDEN CORIA
+  Date of Birth: 1998-04-24
+  Career record: 2
+  First fight: 2025-09-13
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :121
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

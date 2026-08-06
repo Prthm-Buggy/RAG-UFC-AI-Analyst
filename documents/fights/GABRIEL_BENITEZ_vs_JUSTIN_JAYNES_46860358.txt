@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hermansson vs. Vettori
+    Date: December 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: GABRIEL BENITEZ defeated JUSTIN JAYNES via KO/TKO  
+  at 4:06 of round 1
+  Key stats:
+  - GABRIEL BENITEZ landed 38 significant strikes
+  - JUSTIN JAYNES landed 22 significant strikes
+  - Knockdowns: GABRIEL BENITEZ 1,  JUSTIN JAYNES 0
+  - Takedowns: GABRIEL BENITEZ 0,  JUSTIN JAYNES 0
+  Bonus: perf

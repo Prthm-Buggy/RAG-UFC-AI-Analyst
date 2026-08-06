@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hernandez vs. Pereira
+    Date: October 19, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JOSELYNE EDWARDS defeated TAMIRES VIDAL via Submission  
+  at 4:33 of round 3
+  Key stats:
+  - JOSELYNE EDWARDS landed 81 significant strikes
+  - TAMIRES VIDAL landed 34 significant strikes
+  - Knockdowns: JOSELYNE EDWARDS 0,  TAMIRES VIDAL 0
+  - Takedowns: JOSELYNE EDWARDS 4,  TAMIRES VIDAL 0

@@ -1,0 +1,11 @@
+Fighter: DANNY BARLOW
+  Date of Birth: 1995-08-02
+  Career record: 4
+  First fight: 2024-02-17
+  Last fight: 2025-10-18
+
+Career Statistics:
+- Significant Strikes Landed :250
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

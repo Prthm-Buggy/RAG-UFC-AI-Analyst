@@ -1,0 +1,14 @@
+Event: UFC 145: Jones vs Evans
+    Date: April 21, 2012
+    Location: Atlanta, Georgia, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BEN ROTHWELL defeated BRENDAN SCHAUB via KO/TKO  
+  at 1:10 of round 1
+  Key stats:
+  - BEN ROTHWELL landed 8 significant strikes
+  - BRENDAN SCHAUB landed 9 significant strikes
+  - Knockdowns: BEN ROTHWELL 1,  BRENDAN SCHAUB 0
+  - Takedowns: BEN ROTHWELL 0,  BRENDAN SCHAUB 0
+  Bonus: ko

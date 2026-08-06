@@ -1,0 +1,13 @@
+Event: UFC 19: Ultimate Young Guns
+    Date: March 05, 1999
+    Location: Bay St. Louis, Mississippi, USA
+    Weight Class: Heavyweight
+    
+
+    Result: GARY GOODRIDGE defeated ANDRE ROBERTS via KO/TKO  
+  at 0:43 of round 1
+  Key stats:
+  - GARY GOODRIDGE landed 8 significant strikes
+  - ANDRE ROBERTS landed 2 significant strikes
+  - Knockdowns: GARY GOODRIDGE 0,  ANDRE ROBERTS 0
+  - Takedowns: GARY GOODRIDGE 0,  ANDRE ROBERTS 0

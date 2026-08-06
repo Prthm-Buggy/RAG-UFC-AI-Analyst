@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: American Top Team vs. Blackzilians Finale
+    Date: July 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JORGE MASVIDAL defeated CEZAR FERREIRA via KO/TKO  
+  at 4:22 of round 1
+  Key stats:
+  - JORGE MASVIDAL landed 12 significant strikes
+  - CEZAR FERREIRA landed 7 significant strikes
+  - Knockdowns: JORGE MASVIDAL 1,  CEZAR FERREIRA 0
+  - Takedowns: JORGE MASVIDAL 0,  CEZAR FERREIRA 1
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 262: Oliveira vs. Chandler
+    Date: May 15, 2021
+    Location: Houston, Texas, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ANDREA LEE defeated ANTONINA SHEVCHENKO via Submission  
+  at 4:52 of round 2
+  Key stats:
+  - ANDREA LEE landed 45 significant strikes
+  - ANTONINA SHEVCHENKO landed 23 significant strikes
+  - Knockdowns: ANDREA LEE 0,  ANTONINA SHEVCHENKO 0
+  - Takedowns: ANDREA LEE 3,  ANTONINA SHEVCHENKO 0

@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Kattar vs. Emmett
+    Date : June 18, 2022
+    Location: Austin, Texas, USA
+    Number of Fights: 13
+    Weight Classes: Welterweight, Lightweight, Featherweight, Middleweight, Women's Strawweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - GREGORY RODRIGUES def. JULIAN MARQUEZ via KO/TKO(R1)
+- JOAQUIN BUCKLEY def. ALBERT DURAEV via TKO - Doctor's Stoppage(R2)
+- NATALIA SILVA def. JASMINE JASUDAVICIUS via Decision - Unanimous(R3)
+- ROMAN DOLIDZE def. KYLE DAUKAUS via KO/TKO(R1)
+- PHIL HAWES def. DERON WINN via KO/TKO(R2)
+- MARIA OLIVEIRA def. GLORIA DE PAULA via Decision - Split(R3)
+- DAMIR ISMAGULOV def. GURAM KUTATELADZE via Decision - Split(R3)
+- KEVIN HOLLAND def. TIM MEANS via Submission(R2)
+- JOSH EMMETT def. CALVIN KATTAR via Decision - Split(R5)
+- JEREMIAH WELLS def. COURT MCGEE via KO/TKO(R1)
+- CODY STAMANN def. EDDIE WINELAND via KO/TKO(R1)
+- ADRIAN YANEZ def. TONY KELLEY via KO/TKO(R1)
+- RICARDO RAMOS def. DANNY CHAVEZ via KO/TKO(R1)

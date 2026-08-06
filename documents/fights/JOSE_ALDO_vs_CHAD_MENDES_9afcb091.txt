@@ -1,0 +1,14 @@
+Event: UFC 142: Aldo vs Mendes
+    Date: January 14, 2012
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: JOSE ALDO defeated CHAD MENDES via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - JOSE ALDO landed 11 significant strikes
+  - CHAD MENDES landed 13 significant strikes
+  - Knockdowns: JOSE ALDO 1,  CHAD MENDES 0
+  - Takedowns: JOSE ALDO 0,  CHAD MENDES 0
+  Bonus: belt

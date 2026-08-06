@@ -1,0 +1,11 @@
+Fighter: MARIO NETO
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 2006-09-23
+  Last fight: 2006-09-23
+
+Career Statistics:
+- Significant Strikes Landed :10
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Jacare vs. Hermansson
+    Date: April 27, 2019
+    Location: Sunrise, Florida, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: GLOVER TEIXEIRA defeated ION CUTELABA via Submission  
+  at 3:37 of round 2
+  Key stats:
+  - GLOVER TEIXEIRA landed 30 significant strikes
+  - ION CUTELABA landed 74 significant strikes
+  - Knockdowns: GLOVER TEIXEIRA 0,  ION CUTELABA 0
+  - Takedowns: GLOVER TEIXEIRA 0,  ION CUTELABA 0
+  Bonus: perf

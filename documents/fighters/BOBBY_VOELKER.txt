@@ -1,0 +1,11 @@
+Fighter: BOBBY VOELKER
+  Date of Birth: 1979-04-26
+  Career record: 4
+  First fight: 2013-03-16
+  Last fight: 2014-06-07
+
+Career Statistics:
+- Significant Strikes Landed :191
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

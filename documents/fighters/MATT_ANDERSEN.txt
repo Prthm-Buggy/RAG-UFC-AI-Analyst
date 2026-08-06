@@ -1,0 +1,11 @@
+Fighter: MATT ANDERSEN
+  Date of Birth: 1971-05-29
+  Career record: 1
+  First fight: 1996-05-17
+  Last fight: 1996-05-17
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

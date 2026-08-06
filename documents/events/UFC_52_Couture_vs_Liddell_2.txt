@@ -1,0 +1,15 @@
+Event : UFC 52: Couture vs Liddell 2
+    Date : April 16, 2005
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Light Heavyweight, Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - GEORGES ST-PIERRE def. JASON MILLER via Decision - Unanimous(R3)
+- CHUCK LIDDELL def. RANDY COUTURE via KO/TKO(R1)
+- MATT HUGHES def. FRANK TRIGG via Submission(R1)
+- MATT LINDLAND def. TRAVIS LUTTER via Submission(R2)
+- IVAN SALAVERRY def. JOE RIGGS via Submission(R1)
+- JOE DOERKSEN def. PATRICK COTE via Submission(R3)
+- MIKE VAN ARSDALE def. JOHN MARSH via Decision - Unanimous(R3)
+- RENATO SOBRAL def. TRAVIS WIUFF via Submission(R2)

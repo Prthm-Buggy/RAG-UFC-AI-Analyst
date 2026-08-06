@@ -1,0 +1,13 @@
+Event: UFC 269: Oliveira vs. Poirier
+    Date: December 11, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: GILLIAN ROBERTSON defeated PRISCILA CACHOEIRA via Submission  
+  at 4:59 of round 1
+  Key stats:
+  - GILLIAN ROBERTSON landed 32 significant strikes
+  - PRISCILA CACHOEIRA landed 20 significant strikes
+  - Knockdowns: GILLIAN ROBERTSON 0,  PRISCILA CACHOEIRA 0
+  - Takedowns: GILLIAN ROBERTSON 1,  PRISCILA CACHOEIRA 0

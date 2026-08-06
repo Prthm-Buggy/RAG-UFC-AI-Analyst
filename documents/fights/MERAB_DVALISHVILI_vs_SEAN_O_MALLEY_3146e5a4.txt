@@ -1,0 +1,14 @@
+Event: UFC 306: Riyadh Season Noche UFC
+    Date: September 14, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MERAB DVALISHVILI defeated SEAN O'MALLEY via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MERAB DVALISHVILI landed 82 significant strikes
+  - SEAN O'MALLEY landed 47 significant strikes
+  - Knockdowns: MERAB DVALISHVILI 0,  SEAN O'MALLEY 0
+  - Takedowns: MERAB DVALISHVILI 6,  SEAN O'MALLEY 0
+  Bonus: belt

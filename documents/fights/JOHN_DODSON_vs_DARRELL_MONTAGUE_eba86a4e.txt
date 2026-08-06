@@ -1,0 +1,14 @@
+Event: UFC 166: Velasquez vs Dos Santos 3
+    Date: October 19, 2013
+    Location: Houston, Texas, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOHN DODSON defeated DARRELL MONTAGUE via KO/TKO  
+  at 4:13 of round 1
+  Key stats:
+  - JOHN DODSON landed 28 significant strikes
+  - DARRELL MONTAGUE landed 10 significant strikes
+  - Knockdowns: JOHN DODSON 2,  DARRELL MONTAGUE 0
+  - Takedowns: JOHN DODSON 0,  DARRELL MONTAGUE 0
+  Bonus: ko

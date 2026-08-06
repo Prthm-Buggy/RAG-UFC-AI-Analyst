@@ -1,0 +1,11 @@
+Fighter: RODOLFO BELLATO
+  Date of Birth: 1996-02-05
+  Career record: 3
+  First fight: 2023-12-02
+  Last fight: 2026-03-07
+
+Career Statistics:
+- Significant Strikes Landed :153
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

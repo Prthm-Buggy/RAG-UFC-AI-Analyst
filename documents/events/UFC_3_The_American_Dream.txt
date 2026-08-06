@@ -1,0 +1,13 @@
+Event : UFC 3: The American Dream
+    Date : September 09, 1994
+    Location: Charlotte, North Carolina, USA
+    Number of Fights: 6
+    Weight Classes: Open Weight
+
+    Fight Results:
+  - ROYCE GRACIE def. KIMO LEOPOLDO via Submission(R1)
+- KEITH HACKNEY def. EMMANUEL YARBOROUGH via KO/TKO(R1)
+- KEN SHAMROCK def. CHRISTOPHE LENINGER via KO/TKO(R1)
+- HAROLD HOWARD def. ROLAND PAYNE via KO/TKO(R1)
+- KEN SHAMROCK def. FELIX LEE MITCHELL via Submission(R1)
+- STEVE JENNUM def. HAROLD HOWARD via KO/TKO(R1)

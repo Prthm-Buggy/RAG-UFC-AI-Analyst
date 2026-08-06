@@ -1,0 +1,14 @@
+Event: UFC 69: Shootout
+    Date: April 07, 2007
+    Location: Houston, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT SERRA defeated GEORGES ST-PIERRE via KO/TKO  
+  at 3:25 of round 1
+  Key stats:
+  - MATT SERRA landed 20 significant strikes
+  - GEORGES ST-PIERRE landed 6 significant strikes
+  - Knockdowns: MATT SERRA 2,  GEORGES ST-PIERRE 0
+  - Takedowns: MATT SERRA 0,  GEORGES ST-PIERRE 0
+  Bonus: belt

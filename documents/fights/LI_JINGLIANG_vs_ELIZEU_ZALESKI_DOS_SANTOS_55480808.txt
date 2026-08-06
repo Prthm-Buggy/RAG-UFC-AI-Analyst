@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Andrade vs. Zhang
+    Date: August 31, 2019
+    Location: Shenzhen, Guangdong, China
+    Weight Class: Welterweight
+    
+
+    Result: LI JINGLIANG defeated ELIZEU ZALESKI DOS SANTOS via KO/TKO  
+  at 4:51 of round 3
+  Key stats:
+  - LI JINGLIANG landed 59 significant strikes
+  - ELIZEU ZALESKI DOS SANTOS landed 54 significant strikes
+  - Knockdowns: LI JINGLIANG 3,  ELIZEU ZALESKI DOS SANTOS 0
+  - Takedowns: LI JINGLIANG 2,  ELIZEU ZALESKI DOS SANTOS 0
+  Bonus: perf

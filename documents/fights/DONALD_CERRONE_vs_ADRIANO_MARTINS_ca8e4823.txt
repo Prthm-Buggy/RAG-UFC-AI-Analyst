@@ -1,0 +1,14 @@
+Event: UFC on FOX: Henderson vs Thomson
+    Date: January 25, 2014
+    Location: Chicago, Illinois, USA
+    Weight Class: Lightweight
+    
+
+    Result: DONALD CERRONE defeated ADRIANO MARTINS via KO/TKO  
+  at 4:40 of round 1
+  Key stats:
+  - DONALD CERRONE landed 16 significant strikes
+  - ADRIANO MARTINS landed 13 significant strikes
+  - Knockdowns: DONALD CERRONE 1,  ADRIANO MARTINS 0
+  - Takedowns: DONALD CERRONE 1,  ADRIANO MARTINS 0
+  Bonus: ko

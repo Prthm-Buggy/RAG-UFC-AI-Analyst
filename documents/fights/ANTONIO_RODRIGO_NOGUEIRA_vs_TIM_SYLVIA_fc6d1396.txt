@@ -1,0 +1,14 @@
+Event: UFC 81: Breaking Point
+    Date: February 02, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANTONIO RODRIGO NOGUEIRA defeated TIM SYLVIA via Submission  
+  at 1:28 of round 3
+  Key stats:
+  - ANTONIO RODRIGO NOGUEIRA landed 28 significant strikes
+  - TIM SYLVIA landed 53 significant strikes
+  - Knockdowns: ANTONIO RODRIGO NOGUEIRA 0,  TIM SYLVIA 1
+  - Takedowns: ANTONIO RODRIGO NOGUEIRA 2,  TIM SYLVIA 0
+  Bonus: belt

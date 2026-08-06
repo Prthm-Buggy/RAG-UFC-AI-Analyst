@@ -1,0 +1,13 @@
+Event: UFC 186: Johnson vs Horiguchi
+    Date: April 25, 2015
+    Location: Montreal, Quebec, Canada
+    Weight Class: Catch Weight
+    
+
+    Result: JOHN MAKDESSI defeated SHANE CAMPBELL via KO/TKO  
+  at 4:53 of round 1
+  Key stats:
+  - JOHN MAKDESSI landed 47 significant strikes
+  - SHANE CAMPBELL landed 25 significant strikes
+  - Knockdowns: JOHN MAKDESSI 2,  SHANE CAMPBELL 0
+  - Takedowns: JOHN MAKDESSI 0,  SHANE CAMPBELL 0

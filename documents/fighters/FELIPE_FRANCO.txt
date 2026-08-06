@@ -1,0 +1,11 @@
+Fighter: FELIPE FRANCO
+  Date of Birth: 2001-01-22
+  Career record: 1
+  First fight: 2026-03-21
+  Last fight: 2026-03-21
+
+Career Statistics:
+- Significant Strikes Landed :21
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

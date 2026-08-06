@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Teixeira vs Bader
+    Date: September 04, 2013
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: JACARE SOUZA defeated YUSHIN OKAMI via KO/TKO  
+  at 2:47 of round 1
+  Key stats:
+  - JACARE SOUZA landed 28 significant strikes
+  - YUSHIN OKAMI landed 1 significant strikes
+  - Knockdowns: JACARE SOUZA 1,  YUSHIN OKAMI 0
+  - Takedowns: JACARE SOUZA 0,  YUSHIN OKAMI 0

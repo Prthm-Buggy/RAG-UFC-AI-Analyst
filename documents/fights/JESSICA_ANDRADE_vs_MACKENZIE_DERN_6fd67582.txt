@@ -1,0 +1,14 @@
+Event: UFC 295: Prochazka vs. Pereira
+    Date: November 11, 2023
+    Location: New York City, New York, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JESSICA ANDRADE defeated MACKENZIE DERN via KO/TKO  
+  at 3:15 of round 2
+  Key stats:
+  - JESSICA ANDRADE landed 53 significant strikes
+  - MACKENZIE DERN landed 49 significant strikes
+  - Knockdowns: JESSICA ANDRADE 4,  MACKENZIE DERN 0
+  - Takedowns: JESSICA ANDRADE 0,  MACKENZIE DERN 0
+  Bonus: perf

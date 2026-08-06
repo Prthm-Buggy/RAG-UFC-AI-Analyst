@@ -1,0 +1,11 @@
+Fighter: ANTHONY HAMILTON
+  Date of Birth: 1980-04-14
+  Career record: 10
+  First fight: 2014-06-28
+  Last fight: 2017-11-18
+
+Career Statistics:
+- Significant Strikes Landed :246
+- Total takedowns landed :11
+- Knockdowns :1
+- Submission Attempts :0

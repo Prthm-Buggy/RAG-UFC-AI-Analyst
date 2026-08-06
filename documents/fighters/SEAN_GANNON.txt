@@ -1,0 +1,11 @@
+Fighter: SEAN GANNON
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 2005-10-07
+  Last fight: 2005-10-07
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

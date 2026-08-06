@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs Mir
+    Date: March 19, 2016
+    Location: Brisbane, Queensland, Australia
+    Weight Class: Welterweight
+    
+
+    Result: ALAN JOUBAN defeated BRENDAN O'REILLY via KO/TKO  
+  at 2:15 of round 1
+  Key stats:
+  - ALAN JOUBAN landed 32 significant strikes
+  - BRENDAN O'REILLY landed 8 significant strikes
+  - Knockdowns: ALAN JOUBAN 1,  BRENDAN O'REILLY 0
+  - Takedowns: ALAN JOUBAN 0,  BRENDAN O'REILLY 1

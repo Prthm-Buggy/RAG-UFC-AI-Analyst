@@ -1,0 +1,14 @@
+Event : UFC 20: Battle for the Gold
+    Date : May 07, 1999
+    Location: Birmingham, Alabama, USA
+    Number of Fights: 7
+    Weight Classes: Middleweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - PETE WILLIAMS def. TRAVIS FULTON via Submission(R1)
+- PEDRO RIZZO def. TRA TELLIGMAN via KO/TKO(R1)
+- BAS RUTTEN def. KEVIN RANDLEMAN via Decision - Split(R3)
+- LAVERNE CLARK def. FABIANO IHA via TKO - Doctor's Stoppage(R1)
+- WANDERLEI SILVA def. TONY PETARRA via KO/TKO(R1)
+- RON WATERMAN def. CHRIS CONDO via KO/TKO(R1)
+- MARCELO MELLO def. DAVID ROBERTS via KO/TKO(R1)

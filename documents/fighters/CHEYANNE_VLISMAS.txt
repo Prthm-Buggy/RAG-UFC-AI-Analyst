@@ -1,0 +1,11 @@
+Fighter: CHEYANNE VLISMAS
+  Date of Birth: 1995-06-25
+  Career record: 4
+  First fight: 2021-03-20
+  Last fight: 2022-12-17
+
+Career Statistics:
+- Significant Strikes Landed :209
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :1

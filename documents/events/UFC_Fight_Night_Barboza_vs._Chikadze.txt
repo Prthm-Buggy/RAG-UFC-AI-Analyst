@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Barboza vs. Chikadze
+    Date : August 28, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Women's Flyweight, Middleweight, Featherweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - PAT SABATINI def. JAMALL EMMERS via Submission(R1)
+- JJ ALDRICH def. VANESSA DEMOPOULOS via Decision - Unanimous(R3)
+- RICKY TURCIOS def. BRADY HIESTAND via Decision - Split(R3)
+- BRYAN BATTLE def. GILBERT URBINA via Submission(R2)
+- GERALD MEERSCHAERT def. MAKHMUD MURADOV via Submission(R2)
+- DANIEL RODRIGUEZ def. KEVIN LEE via Decision - Unanimous(R3)
+- DUSTIN JACOBY def. DARREN STEWART via KO/TKO(R1)
+- ABDUL RAZAK ALHASSAN def. ALESSIO DI CHIRICO via KO/TKO(R1)
+- MANA MARTINEZ def. GUIDO CANNETTI via Decision - Split(R3)
+- GIGA CHIKADZE def. EDSON BARBOZA via KO/TKO(R3)
+- WELLINGTON TURMAN def. SAM ALVEY via Decision - Split(R3)
+- ANDRE PETROSKI def. MICHEAL GILLMORE via KO/TKO(R3)

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Adesanya vs. Imavov
+    Date: February 01, 2025
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Weight Class: Bantamweight
+    
+
+    Result: VINICIUS OLIVEIRA defeated SAID NURMAGOMEDOV via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - VINICIUS OLIVEIRA landed 43 significant strikes
+  - SAID NURMAGOMEDOV landed 38 significant strikes
+  - Knockdowns: VINICIUS OLIVEIRA 0,  SAID NURMAGOMEDOV 0
+  - Takedowns: VINICIUS OLIVEIRA 3,  SAID NURMAGOMEDOV 1
+  Bonus: fight

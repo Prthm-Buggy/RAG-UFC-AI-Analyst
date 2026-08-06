@@ -1,0 +1,16 @@
+Event : UFC 223: Khabib vs. Iaquinta
+    Date : April 07, 2018
+    Location: Brooklyn, New York, USA
+    Number of Fights: 9
+    Weight Classes: Women's Flyweight, Women's Strawweight, Lightweight, Featherweight, Light Heavyweight
+
+    Fight Results:
+  - RENATO MOICANO def. CALVIN KATTAR via Decision - Unanimous(R3)
+- KAROLINA KOWALKIEWICZ def. FELICE HERRIG via Decision - Split(R3)
+- DEVIN CLARK def. MIKE RODRIGUEZ via Decision - Unanimous(R3)
+- ROSE NAMAJUNAS def. JOANNA JEDRZEJCZYK via Decision - Unanimous(R5)
+- ZABIT MAGOMEDSHARIPOV def. KYLE BOCHNIAK via Decision - Unanimous(R3)
+- KHABIB NURMAGOMEDOV def. AL IAQUINTA via Decision - Unanimous(R5)
+- ASHLEE EVANS-SMITH def. BEC RAWLINGS via Decision - Unanimous(R3)
+- OLIVIER AUBIN-MERCIER def. EVAN DUNHAM via KO/TKO(R1)
+- CHRIS GRUETZEMACHER def. JOE LAUZON via KO/TKO(R2)

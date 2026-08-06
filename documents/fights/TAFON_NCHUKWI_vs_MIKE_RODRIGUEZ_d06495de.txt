@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Spann
+    Date: September 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TAFON NCHUKWI defeated MIKE RODRIGUEZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TAFON NCHUKWI landed 116 significant strikes
+  - MIKE RODRIGUEZ landed 49 significant strikes
+  - Knockdowns: TAFON NCHUKWI 0,  MIKE RODRIGUEZ 0
+  - Takedowns: TAFON NCHUKWI 3,  MIKE RODRIGUEZ 0

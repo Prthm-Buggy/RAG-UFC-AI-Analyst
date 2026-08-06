@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rozenstruik vs. Sakai
+    Date: June 05, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARCIN TYBURA defeated WALT HARRIS via KO/TKO  
+  at 4:06 of round 1
+  Key stats:
+  - MARCIN TYBURA landed 4 significant strikes
+  - WALT HARRIS landed 23 significant strikes
+  - Knockdowns: MARCIN TYBURA 0,  WALT HARRIS 0
+  - Takedowns: MARCIN TYBURA 1,  WALT HARRIS 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 220: Miocic vs. Ngannou
+    Date: January 20, 2018
+    Location: Boston, Massachusetts, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ROB FONT defeated THOMAS ALMEIDA via KO/TKO  
+  at 2:24 of round 2
+  Key stats:
+  - ROB FONT landed 41 significant strikes
+  - THOMAS ALMEIDA landed 24 significant strikes
+  - Knockdowns: ROB FONT 2,  THOMAS ALMEIDA 0
+  - Takedowns: ROB FONT 1,  THOMAS ALMEIDA 0

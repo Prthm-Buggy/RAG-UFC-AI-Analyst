@@ -1,0 +1,11 @@
+Fighter: TAYLOR LAPILUS
+  Date of Birth: 1992-04-08
+  Career record: 8
+  First fight: 2015-04-11
+  Last fight: 2024-09-28
+
+Career Statistics:
+- Significant Strikes Landed :512
+- Total takedowns landed :2
+- Knockdowns :2
+- Submission Attempts :2

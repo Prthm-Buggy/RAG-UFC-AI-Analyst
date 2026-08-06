@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs. Gastelum
+    Date: March 11, 2017
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: ALEX OLIVEIRA defeated TIM MEANS via Submission  
+  at 2:38 of round 2
+  Key stats:
+  - ALEX OLIVEIRA landed 12 significant strikes
+  - TIM MEANS landed 9 significant strikes
+  - Knockdowns: ALEX OLIVEIRA 0,  TIM MEANS 0
+  - Takedowns: ALEX OLIVEIRA 6,  TIM MEANS 0

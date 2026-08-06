@@ -1,0 +1,11 @@
+Fighter: AMANDA LEMOS
+  Date of Birth: 1987-05-22
+  Career record: 15
+  First fight: 2017-07-16
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :445
+- Total takedowns landed :11
+- Knockdowns :6
+- Submission Attempts :8

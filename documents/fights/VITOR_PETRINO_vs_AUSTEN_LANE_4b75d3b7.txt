@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Teixeira
+    Date: July 12, 2025
+    Location: Nashville, Tennessee, USA
+    Weight Class: Heavyweight
+    
+
+    Result: VITOR PETRINO defeated AUSTEN LANE via Submission  
+  at 4:16 of round 1
+  Key stats:
+  - VITOR PETRINO landed 3 significant strikes
+  - AUSTEN LANE landed 3 significant strikes
+  - Knockdowns: VITOR PETRINO 0,  AUSTEN LANE 0
+  - Takedowns: VITOR PETRINO 1,  AUSTEN LANE 0

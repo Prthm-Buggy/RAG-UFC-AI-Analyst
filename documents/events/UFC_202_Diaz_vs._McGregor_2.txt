@@ -1,0 +1,19 @@
+Event : UFC 202: Diaz vs. McGregor 2
+    Date : August 20, 2016
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Middleweight, Featherweight, Welterweight, Women's Bantamweight, Women's Strawweight, Light Heavyweight
+
+    Fight Results:
+  - MARVIN VETTORI def. ALBERTO UDA via Submission(R1)
+- TIM MEANS def. SABAH HOMASI via KO/TKO(R2)
+- CODY GARBRANDT def. TAKEYA MIZUGAKI via KO/TKO(R1)
+- RAQUEL PENNINGTON def. ELIZABETH PHILLIPS via Decision - Unanimous(R3)
+- MIKE PERRY def. HYUN GYU LIM via KO/TKO(R1)
+- COLBY COVINGTON def. MAX GRIFFIN via KO/TKO(R3)
+- DONALD CERRONE def. RICK STORY via KO/TKO(R2)
+- CORTNEY CASEY def. RANDA MARKOS via Submission(R1)
+- ANTHONY JOHNSON def. GLOVER TEIXEIRA via KO/TKO(R1)
+- CONOR MCGREGOR def. NATE DIAZ via Decision - Majority(R5)
+- LORENZ LARKIN def. NEIL MAGNY via KO/TKO(R1)
+- ARTEM LOBOV def. CHRIS AVILA via Decision - Unanimous(R3)

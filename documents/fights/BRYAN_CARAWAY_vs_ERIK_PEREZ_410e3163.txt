@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Khabilov
+    Date: June 07, 2014
+    Location: Albuquerque, New Mexico, USA
+    Weight Class: Bantamweight
+    
+
+    Result: BRYAN CARAWAY defeated ERIK PEREZ via Submission  
+  at 1:52 of round 2
+  Key stats:
+  - BRYAN CARAWAY landed 7 significant strikes
+  - ERIK PEREZ landed 10 significant strikes
+  - Knockdowns: BRYAN CARAWAY 0,  ERIK PEREZ 0
+  - Takedowns: BRYAN CARAWAY 2,  ERIK PEREZ 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cerrone vs. Till
+    Date: October 21, 2017
+    Location: Gdansk, Poland
+    Weight Class: Middleweight
+    
+
+    Result: OSKAR PIECHOTA defeated JONATHAN WILSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - OSKAR PIECHOTA landed 56 significant strikes
+  - JONATHAN WILSON landed 17 significant strikes
+  - Knockdowns: OSKAR PIECHOTA 1,  JONATHAN WILSON 0
+  - Takedowns: OSKAR PIECHOTA 1,  JONATHAN WILSON 0

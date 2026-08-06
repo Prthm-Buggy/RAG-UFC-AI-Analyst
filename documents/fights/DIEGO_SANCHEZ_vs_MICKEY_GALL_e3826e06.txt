@@ -1,0 +1,14 @@
+Event: UFC 235: Jones vs. Smith
+    Date: March 02, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DIEGO SANCHEZ defeated MICKEY GALL via KO/TKO  
+  at 4:13 of round 2
+  Key stats:
+  - DIEGO SANCHEZ landed 56 significant strikes
+  - MICKEY GALL landed 23 significant strikes
+  - Knockdowns: DIEGO SANCHEZ 0,  MICKEY GALL 0
+  - Takedowns: DIEGO SANCHEZ 4,  MICKEY GALL 0
+  Bonus: perf

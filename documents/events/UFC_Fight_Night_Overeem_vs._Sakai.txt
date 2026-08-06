@@ -1,0 +1,14 @@
+Event : UFC Fight Night: Overeem vs. Sakai
+    Date : September 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 7
+    Weight Classes: Heavyweight, Women's Flyweight, Bantamweight, Light Heavyweight, Featherweight, Welterweight, Middleweight
+
+    Fight Results:
+  - MICHEL PEREIRA def. ZELIM IMADAEV via Submission(R3)
+- ANDRE MUNIZ def. BARTOSZ FABINSKI via Submission(R1)
+- VIVIANE ARAUJO def. MONTANA DE LA ROSA via Decision - Unanimous(R3)
+- HUNTER AZURE def. COLE SMITH via Decision - Unanimous(R3)
+- ALISTAIR OVEREEM def. AUGUSTO SAKAI via KO/TKO(R5)
+- OVINCE SAINT PREUX def. ALONZO MENIFIELD via KO/TKO(R2)
+- BRIAN KELLEHER def. RAY RODRIGUEZ via Submission(R1)

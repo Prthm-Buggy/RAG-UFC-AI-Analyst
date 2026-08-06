@@ -1,0 +1,11 @@
+Fighter: IKE VILLANUEVA
+  Date of Birth: 1984-04-04
+  Career record: 6
+  First fight: 2020-05-13
+  Last fight: 2022-04-23
+
+Career Statistics:
+- Significant Strikes Landed :92
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

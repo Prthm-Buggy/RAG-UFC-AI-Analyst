@@ -1,0 +1,13 @@
+Event: UFC 252: Miocic vs. Cormier 3
+    Date: August 15, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARLON VERA defeated SEAN O'MALLEY via KO/TKO  
+  at 4:40 of round 1
+  Key stats:
+  - MARLON VERA landed 18 significant strikes
+  - SEAN O'MALLEY landed 10 significant strikes
+  - Knockdowns: MARLON VERA 0,  SEAN O'MALLEY 0
+  - Takedowns: MARLON VERA 0,  SEAN O'MALLEY 0

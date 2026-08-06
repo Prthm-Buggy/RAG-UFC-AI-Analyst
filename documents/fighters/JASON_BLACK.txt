@@ -1,0 +1,11 @@
+Fighter: JASON BLACK
+  Date of Birth: 1972-07-15
+  Career record: 2
+  First fight: 2007-06-12
+  Last fight: 2007-10-20
+
+Career Statistics:
+- Significant Strikes Landed :10
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :9

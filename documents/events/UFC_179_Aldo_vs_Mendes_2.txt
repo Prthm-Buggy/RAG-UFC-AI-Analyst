@@ -1,0 +1,18 @@
+Event : UFC 179: Aldo vs Mendes 2
+    Date : October 25, 2014
+    Location: Rio de Janeiro, Brazil
+    Number of Fights: 11
+    Weight Classes: Featherweight, Light Heavyweight, Lightweight, Welterweight, Flyweight
+
+    Fight Results:
+  - ANDRE FILI def. FELIPE ARANTES via Decision - Unanimous(R3)
+- NEIL MAGNY def. WILLIAM MACARIO via KO/TKO(R3)
+- BENEIL DARIUSH def. DIEGO FERREIRA via Decision - Unanimous(R3)
+- GILBERT BURNS def. CHRISTOS GIAGOS via Submission(R1)
+- ANTHONY ROCCO MARTIN def. FABRICIO CAMOES via Submission(R1)
+- DARREN ELKINS def. LUCAS MARTINS via Decision - Split(R3)
+- JOSE ALDO def. CHAD MENDES via Decision - Unanimous(R5)
+- PHIL DAVIS def. GLOVER TEIXEIRA via Decision - Unanimous(R3)
+- YAN CABRAL def. NAOYUKI KOTANI via Submission(R2)
+- WILSON REIS def. SCOTT JORGENSEN via Submission(R1)
+- FABIO MALDONADO def. HANS STRINGER via KO/TKO(R2)

@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dillashaw vs. Barao II
+    Date: July 25, 2015
+    Location: Chicago, Illinois, USA
+    Weight Class: Lightweight
+    
+
+    Result: JAMES KRAUSE defeated DARON CRUICKSHANK via Submission  
+  at 1:27 of round 1
+  Key stats:
+  - JAMES KRAUSE landed 10 significant strikes
+  - DARON CRUICKSHANK landed 6 significant strikes
+  - Knockdowns: JAMES KRAUSE 0,  DARON CRUICKSHANK 0
+  - Takedowns: JAMES KRAUSE 1,  DARON CRUICKSHANK 0

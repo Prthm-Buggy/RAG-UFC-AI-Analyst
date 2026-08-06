@@ -1,0 +1,11 @@
+Fighter: FELIPE SILVA
+  Date of Birth: 1984-05-08
+  Career record: 3
+  First fight: 2016-08-27
+  Last fight: 2018-05-19
+
+Career Statistics:
+- Significant Strikes Landed :81
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :0

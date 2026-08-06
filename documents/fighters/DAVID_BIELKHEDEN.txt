@@ -1,0 +1,11 @@
+Fighter: DAVID BIELKHEDEN
+  Date of Birth: 1979-06-06
+  Career record: 3
+  First fight: 2008-03-01
+  Last fight: 2009-04-18
+
+Career Statistics:
+- Significant Strikes Landed :41
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :0

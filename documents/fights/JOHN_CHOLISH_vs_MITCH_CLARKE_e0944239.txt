@@ -1,0 +1,13 @@
+Event: UFC 140: Jones vs Machida
+    Date: December 10, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Lightweight
+    
+
+    Result: JOHN CHOLISH defeated MITCH CLARKE via KO/TKO  
+  at 4:36 of round 2
+  Key stats:
+  - JOHN CHOLISH landed 55 significant strikes
+  - MITCH CLARKE landed 17 significant strikes
+  - Knockdowns: JOHN CHOLISH 0,  MITCH CLARKE 0
+  - Takedowns: JOHN CHOLISH 1,  MITCH CLARKE 0

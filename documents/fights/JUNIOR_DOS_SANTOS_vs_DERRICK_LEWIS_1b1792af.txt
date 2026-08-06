@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Dos Santos
+    Date: March 09, 2019
+    Location: Wichita, Kansas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR DOS SANTOS defeated DERRICK LEWIS via KO/TKO  
+  at 1:58 of round 2
+  Key stats:
+  - JUNIOR DOS SANTOS landed 29 significant strikes
+  - DERRICK LEWIS landed 7 significant strikes
+  - Knockdowns: JUNIOR DOS SANTOS 1,  DERRICK LEWIS 0
+  - Takedowns: JUNIOR DOS SANTOS 0,  DERRICK LEWIS 0
+  Bonus: fight

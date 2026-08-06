@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edgar vs Swanson
+    Date: November 22, 2014
+    Location: Austin, Texas, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: PAIGE VANZANT defeated KAILIN CURRAN via KO/TKO  
+  at 2:54 of round 3
+  Key stats:
+  - PAIGE VANZANT landed 61 significant strikes
+  - KAILIN CURRAN landed 28 significant strikes
+  - Knockdowns: PAIGE VANZANT 0,  KAILIN CURRAN 0
+  - Takedowns: PAIGE VANZANT 3,  KAILIN CURRAN 5
+  Bonus: fight

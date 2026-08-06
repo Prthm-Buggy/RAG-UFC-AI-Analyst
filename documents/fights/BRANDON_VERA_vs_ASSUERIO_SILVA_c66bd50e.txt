@@ -1,0 +1,13 @@
+Event: UFC 60: Hughes vs Gracie
+    Date: May 27, 2006
+    Location: Los Angeles, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BRANDON VERA defeated ASSUERIO SILVA via Submission  
+  at 2:39 of round 1
+  Key stats:
+  - BRANDON VERA landed 8 significant strikes
+  - ASSUERIO SILVA landed 9 significant strikes
+  - Knockdowns: BRANDON VERA 0,  ASSUERIO SILVA 0
+  - Takedowns: BRANDON VERA 0,  ASSUERIO SILVA 1

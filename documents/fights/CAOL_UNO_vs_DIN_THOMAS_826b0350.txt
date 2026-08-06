@@ -1,0 +1,13 @@
+Event: UFC 39: The Warriors Return
+    Date: September 27, 2002
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Lightweight
+    
+
+    Result: CAOL UNO defeated DIN THOMAS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CAOL UNO landed 35 significant strikes
+  - DIN THOMAS landed 11 significant strikes
+  - Knockdowns: CAOL UNO 0,  DIN THOMAS 0
+  - Takedowns: CAOL UNO 0,  DIN THOMAS 3

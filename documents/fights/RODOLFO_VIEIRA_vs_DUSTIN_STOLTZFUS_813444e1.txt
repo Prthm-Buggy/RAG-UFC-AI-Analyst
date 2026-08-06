@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Makhachev vs. Moises
+    Date: July 17, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: RODOLFO VIEIRA defeated DUSTIN STOLTZFUS via Submission  
+  at 1:54 of round 3
+  Key stats:
+  - RODOLFO VIEIRA landed 49 significant strikes
+  - DUSTIN STOLTZFUS landed 67 significant strikes
+  - Knockdowns: RODOLFO VIEIRA 0,  DUSTIN STOLTZFUS 0
+  - Takedowns: RODOLFO VIEIRA 3,  DUSTIN STOLTZFUS 0
+  Bonus: perf

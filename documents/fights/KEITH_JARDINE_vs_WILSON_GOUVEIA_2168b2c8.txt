@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale
+    Date: June 24, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KEITH JARDINE defeated WILSON GOUVEIA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KEITH JARDINE landed 67 significant strikes
+  - WILSON GOUVEIA landed 48 significant strikes
+  - Knockdowns: KEITH JARDINE 0,  WILSON GOUVEIA 0
+  - Takedowns: KEITH JARDINE 1,  WILSON GOUVEIA 1

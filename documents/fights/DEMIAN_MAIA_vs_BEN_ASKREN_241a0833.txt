@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Maia vs. Askren
+    Date: October 26, 2019
+    Location: Kallang, Singapore
+    Weight Class: Welterweight
+    
+
+    Result: DEMIAN MAIA defeated BEN ASKREN via Submission  
+  at 3:54 of round 3
+  Key stats:
+  - DEMIAN MAIA landed 69 significant strikes
+  - BEN ASKREN landed 63 significant strikes
+  - Knockdowns: DEMIAN MAIA 0,  BEN ASKREN 0
+  - Takedowns: DEMIAN MAIA 0,  BEN ASKREN 4
+  Bonus: fight

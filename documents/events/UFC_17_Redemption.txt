@@ -1,0 +1,15 @@
+Event : UFC 17: Redemption
+    Date : May 15, 1998
+    Location: Mobile, Alabama, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Middleweight
+
+    Fight Results:
+  - CARLOS NEWTON def. BOB GILSTRAP via Submission(R1)
+- CHUCK LIDDELL def. NOE HERNANDEZ via Decision - Unanimous(R1)
+- MIKE VAN ARSDALE def. JOE PARDO via Submission(R1)
+- DAN HENDERSON def. ALLAN GOES via Decision - Unanimous(R2)
+- DAVID ABBOTT def. HUGO DUARTE via KO/TKO(R1)
+- DAN HENDERSON def. CARLOS NEWTON via Decision - Split(R2)
+- PETE WILLIAMS def. MARK COLEMAN via KO/TKO(R2)
+- FRANK SHAMROCK def. JEREMY HORN via Submission(R2)

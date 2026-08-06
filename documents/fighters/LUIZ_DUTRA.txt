@@ -1,0 +1,11 @@
+Fighter: LUIZ DUTRA
+  Date of Birth: 1982-05-06
+  Career record: 2
+  First fight: 2014-01-04
+  Last fight: 2015-05-30
+
+Career Statistics:
+- Significant Strikes Landed :31
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

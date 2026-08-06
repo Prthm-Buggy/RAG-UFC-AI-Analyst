@@ -1,0 +1,11 @@
+Fighter: NATE DIAZ
+  Date of Birth: 1985-04-16
+  Career record: 27
+  First fight: 2007-06-23
+  Last fight: 2022-09-10
+
+Career Statistics:
+- Significant Strikes Landed :1544
+- Total takedowns landed :18
+- Knockdowns :4
+- Submission Attempts :26

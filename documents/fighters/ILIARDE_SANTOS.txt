@@ -1,0 +1,11 @@
+Fighter: ILIARDE SANTOS
+  Date of Birth: 1980-09-25
+  Career record: 3
+  First fight: 2013-05-18
+  Last fight: 2013-10-09
+
+Career Statistics:
+- Significant Strikes Landed :81
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

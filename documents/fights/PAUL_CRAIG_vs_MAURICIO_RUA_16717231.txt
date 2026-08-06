@@ -1,0 +1,13 @@
+Event: UFC 255: Figueiredo vs. Perez
+    Date: November 21, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: PAUL CRAIG defeated MAURICIO RUA via KO/TKO  
+  at 3:36 of round 2
+  Key stats:
+  - PAUL CRAIG landed 29 significant strikes
+  - MAURICIO RUA landed 10 significant strikes
+  - Knockdowns: PAUL CRAIG 0,  MAURICIO RUA 0
+  - Takedowns: PAUL CRAIG 4,  MAURICIO RUA 0

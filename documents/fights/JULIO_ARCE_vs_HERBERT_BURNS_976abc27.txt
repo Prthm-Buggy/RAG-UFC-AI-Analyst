@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blanchfield vs. Fiorot
+    Date: March 30, 2024
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Featherweight
+    
+
+    Result: JULIO ARCE defeated HERBERT BURNS via KO/TKO  
+  at 2:00 of round 2
+  Key stats:
+  - JULIO ARCE landed 29 significant strikes
+  - HERBERT BURNS landed 15 significant strikes
+  - Knockdowns: JULIO ARCE 2,  HERBERT BURNS 0
+  - Takedowns: JULIO ARCE 0,  HERBERT BURNS 0

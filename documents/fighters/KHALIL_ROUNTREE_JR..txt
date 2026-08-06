@@ -1,0 +1,11 @@
+Fighter: KHALIL ROUNTREE JR.
+  Date of Birth: 1990-02-26
+  Career record: 17
+  First fight: 2016-07-08
+  Last fight: 2025-10-04
+
+Career Statistics:
+- Significant Strikes Landed :628
+- Total takedowns landed :0
+- Knockdowns :14
+- Submission Attempts :0

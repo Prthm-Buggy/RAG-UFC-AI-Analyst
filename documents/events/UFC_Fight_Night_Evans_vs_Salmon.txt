@@ -1,0 +1,15 @@
+Event : UFC Fight Night: Evans vs Salmon
+    Date : January 25, 2007
+    Location: Hollywood, Florida, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Welterweight, Light Heavyweight, Lightweight, Middleweight
+
+    Fight Results:
+  - NATE MARQUARDT def. DEAN LISTER via Decision - Unanimous(R3)
+- JAKE O'BRIEN def. HEATH HERRING via Decision - Unanimous(R3)
+- HERMES FRANCA def. SPENCER FISHER via KO/TKO(R2)
+- DIN THOMAS def. CLAY GUIDA via Decision - Unanimous(R3)
+- RICH CLEMENTI def. ROSS POINTON via Submission(R2)
+- ED HERMAN def. CHRIS PRICE via Submission(R1)
+- RASHAD EVANS def. SEAN SALMON via KO/TKO(R2)
+- JOSHUA BURKMAN def. CHAD REINER via Decision - Unanimous(R3)

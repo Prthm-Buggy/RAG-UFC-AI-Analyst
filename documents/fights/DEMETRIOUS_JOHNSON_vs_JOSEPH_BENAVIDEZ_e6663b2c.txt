@@ -1,0 +1,14 @@
+Event: UFC on FOX: Johnson vs. Benavidez 2
+    Date: December 14, 2013
+    Location: Sacramento, California, USA
+    Weight Class: Flyweight
+    
+
+    Result: DEMETRIOUS JOHNSON defeated JOSEPH BENAVIDEZ via KO/TKO  
+  at 2:08 of round 1
+  Key stats:
+  - DEMETRIOUS JOHNSON landed 7 significant strikes
+  - JOSEPH BENAVIDEZ landed 4 significant strikes
+  - Knockdowns: DEMETRIOUS JOHNSON 1,  JOSEPH BENAVIDEZ 0
+  - Takedowns: DEMETRIOUS JOHNSON 0,  JOSEPH BENAVIDEZ 0
+  Bonus: belt

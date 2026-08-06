@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tuivasa vs. Tybura
+    Date: March 16, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JAQUELINE AMORIM defeated CORY MCKENNA via Submission  
+  at 1:38 of round 1
+  Key stats:
+  - JAQUELINE AMORIM landed 3 significant strikes
+  - CORY MCKENNA landed 4 significant strikes
+  - Knockdowns: JAQUELINE AMORIM 0,  CORY MCKENNA 0
+  - Takedowns: JAQUELINE AMORIM 0,  CORY MCKENNA 1
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 95: Sanchez vs Stevenson
+    Date: February 21, 2009
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: TERRY ETIM defeated BRIAN COBB via KO/TKO  
+  at 0:10 of round 2
+  Key stats:
+  - TERRY ETIM landed 19 significant strikes
+  - BRIAN COBB landed 0 significant strikes
+  - Knockdowns: TERRY ETIM 1,  BRIAN COBB 0
+  - Takedowns: TERRY ETIM 1,  BRIAN COBB 2

@@ -1,0 +1,11 @@
+Fighter: JORDAN GRIFFIN
+  Date of Birth: 1990-02-28
+  Career record: 5
+  First fight: 2018-12-15
+  Last fight: 2021-04-10
+
+Career Statistics:
+- Significant Strikes Landed :169
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :8

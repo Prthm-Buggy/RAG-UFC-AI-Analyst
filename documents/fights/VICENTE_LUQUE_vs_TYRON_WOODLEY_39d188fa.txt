@@ -1,0 +1,14 @@
+Event: UFC 260: Miocic vs. Ngannou
+    Date: March 27, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated TYRON WOODLEY via Submission  
+  at 3:56 of round 1
+  Key stats:
+  - VICENTE LUQUE landed 25 significant strikes
+  - TYRON WOODLEY landed 18 significant strikes
+  - Knockdowns: VICENTE LUQUE 0,  TYRON WOODLEY 0
+  - Takedowns: VICENTE LUQUE 0,  TYRON WOODLEY 0
+  Bonus: fight

@@ -1,0 +1,14 @@
+Event: UFC 223: Khabib vs. Iaquinta
+    Date: April 07, 2018
+    Location: Brooklyn, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHRIS GRUETZEMACHER defeated JOE LAUZON via KO/TKO  
+  at 5:00 of round 2
+  Key stats:
+  - CHRIS GRUETZEMACHER landed 128 significant strikes
+  - JOE LAUZON landed 48 significant strikes
+  - Knockdowns: CHRIS GRUETZEMACHER 0,  JOE LAUZON 0
+  - Takedowns: CHRIS GRUETZEMACHER 0,  JOE LAUZON 0
+  Bonus: perf

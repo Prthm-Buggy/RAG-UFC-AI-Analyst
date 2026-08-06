@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rivera vs. Moraes
+    Date: June 01, 2018
+    Location: Utica, New York, USA
+    Weight Class: Featherweight
+    
+
+    Result: JULIO ARCE defeated DANIEL TEYMUR via Submission  
+  at 2:55 of round 3
+  Key stats:
+  - JULIO ARCE landed 63 significant strikes
+  - DANIEL TEYMUR landed 37 significant strikes
+  - Knockdowns: JULIO ARCE 0,  DANIEL TEYMUR 0
+  - Takedowns: JULIO ARCE 0,  DANIEL TEYMUR 0

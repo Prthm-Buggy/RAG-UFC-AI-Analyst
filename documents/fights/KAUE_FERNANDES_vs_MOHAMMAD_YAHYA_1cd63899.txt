@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Nurmagomedov
+    Date: August 03, 2024
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: KAUE FERNANDES defeated MOHAMMAD YAHYA via KO/TKO  
+  at 4:45 of round 1
+  Key stats:
+  - KAUE FERNANDES landed 37 significant strikes
+  - MOHAMMAD YAHYA landed 4 significant strikes
+  - Knockdowns: KAUE FERNANDES 1,  MOHAMMAD YAHYA 0
+  - Takedowns: KAUE FERNANDES 0,  MOHAMMAD YAHYA 0

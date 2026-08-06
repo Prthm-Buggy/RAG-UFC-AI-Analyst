@@ -1,0 +1,13 @@
+Event: UFC 31: Locked and Loaded
+    Date: May 04, 2001
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MATT LINDLAND defeated RICARDO ALMEIDA via DQ  
+  at 4:21 of round 3
+  Key stats:
+  - MATT LINDLAND landed 22 significant strikes
+  - RICARDO ALMEIDA landed 9 significant strikes
+  - Knockdowns: MATT LINDLAND 0,  RICARDO ALMEIDA 0
+  - Takedowns: MATT LINDLAND 5,  RICARDO ALMEIDA 0

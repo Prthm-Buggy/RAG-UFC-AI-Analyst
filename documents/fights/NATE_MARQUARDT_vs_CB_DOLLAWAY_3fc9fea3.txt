@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dos Anjos vs. Cowboy 2
+    Date: December 19, 2015
+    Location: Orlando, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: NATE MARQUARDT defeated CB DOLLAWAY via KO/TKO  
+  at 0:28 of round 2
+  Key stats:
+  - NATE MARQUARDT landed 16 significant strikes
+  - CB DOLLAWAY landed 15 significant strikes
+  - Knockdowns: NATE MARQUARDT 1,  CB DOLLAWAY 0
+  - Takedowns: NATE MARQUARDT 0,  CB DOLLAWAY 0

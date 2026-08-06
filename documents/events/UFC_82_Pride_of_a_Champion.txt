@@ -1,0 +1,17 @@
+Event : UFC 82: Pride of a Champion
+    Date : March 01, 2008
+    Location: Columbus, Ohio, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Middleweight, Welterweight, Lightweight
+
+    Fight Results:
+  - ANDERSON SILVA def. DAN HENDERSON via Submission(R2)
+- DIEGO SANCHEZ def. DAVID BIELKHEDEN via KO/TKO(R1)
+- ANDREI ARLOVSKI def. JAKE O'BRIEN via KO/TKO(R2)
+- JOSH KOSCHECK def. DUSTIN HAZELETT via KO/TKO(R2)
+- CHRIS LEBEN def. ALESSIO SAKARA via KO/TKO(R1)
+- JON FITCH def. CHRIS WILSON via Decision - Unanimous(R3)
+- YUSHIN OKAMI def. EVAN TANNER via KO/TKO(R2)
+- LUIGI FIORAVANTI def. LUKE CUMMO via Decision - Unanimous(R3)
+- HEATH HERRING def. CHEICK KONGO via Decision - Split(R3)
+- JORGE GURGEL def. JOHN HALVERSON via Decision - Unanimous(R3)

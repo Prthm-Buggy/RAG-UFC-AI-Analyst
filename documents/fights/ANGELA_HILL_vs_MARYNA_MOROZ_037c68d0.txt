@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Stephens
+    Date: February 24, 2018
+    Location: Orlando, Florida, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ANGELA HILL defeated MARYNA MOROZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ANGELA HILL landed 114 significant strikes
+  - MARYNA MOROZ landed 84 significant strikes
+  - Knockdowns: ANGELA HILL 0,  MARYNA MOROZ 0
+  - Takedowns: ANGELA HILL 1,  MARYNA MOROZ 0

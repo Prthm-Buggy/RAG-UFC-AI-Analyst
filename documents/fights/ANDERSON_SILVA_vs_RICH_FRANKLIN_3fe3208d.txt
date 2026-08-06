@@ -1,0 +1,14 @@
+Event: UFC 77: Hostile Territory
+    Date: October 20, 2007
+    Location: Cincinnati, Ohio, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDERSON SILVA defeated RICH FRANKLIN via KO/TKO  
+  at 1:07 of round 2
+  Key stats:
+  - ANDERSON SILVA landed 39 significant strikes
+  - RICH FRANKLIN landed 22 significant strikes
+  - Knockdowns: ANDERSON SILVA 3,  RICH FRANKLIN 0
+  - Takedowns: ANDERSON SILVA 0,  RICH FRANKLIN 1
+  Bonus: belt

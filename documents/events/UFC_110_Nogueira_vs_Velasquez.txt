@@ -1,0 +1,16 @@
+Event : UFC 110: Nogueira vs Velasquez
+    Date : February 20, 2010
+    Location: Sydney, New South Wales, Australia
+    Number of Fights: 9
+    Weight Classes: Heavyweight, Middleweight, Lightweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - RYAN BADER def. KEITH JARDINE via KO/TKO(R3)
+- CB DOLLAWAY def. GORAN RELJIC via Decision - Unanimous(R3)
+- CAIN VELASQUEZ def. ANTONIO RODRIGO NOGUEIRA via KO/TKO(R1)
+- CHRIS LYTLE def. BRIAN FOSTER via Submission(R1)
+- JAMES TE HUNA def. IGOR POKRAJAC via KO/TKO(R3)
+- KRZYSZTOF SOSZYNSKI def. STEPHAN BONNAR via TKO - Doctor's Stoppage(R3)
+- MIRKO FILIPOVIC def. ANTHONY PEROSH via TKO - Doctor's Stoppage(R2)
+- WANDERLEI SILVA def. MICHAEL BISPING via Decision - Unanimous(R3)
+- GEORGE SOTIROPOULOS def. JOE STEVENSON via Decision - Unanimous(R3)

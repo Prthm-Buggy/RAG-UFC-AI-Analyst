@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cannonier vs. Imavov
+    Date: June 08, 2024
+    Location: Louisville, Kentucky, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DOMINICK REYES defeated DUSTIN JACOBY via KO/TKO  
+  at 2:00 of round 1
+  Key stats:
+  - DOMINICK REYES landed 20 significant strikes
+  - DUSTIN JACOBY landed 6 significant strikes
+  - Knockdowns: DOMINICK REYES 2,  DUSTIN JACOBY 0
+  - Takedowns: DOMINICK REYES 0,  DUSTIN JACOBY 0

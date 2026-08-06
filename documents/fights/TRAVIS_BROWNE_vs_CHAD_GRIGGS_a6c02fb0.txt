@@ -1,0 +1,14 @@
+Event: UFC 145: Jones vs Evans
+    Date: April 21, 2012
+    Location: Atlanta, Georgia, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TRAVIS BROWNE defeated CHAD GRIGGS via Submission  
+  at 2:29 of round 1
+  Key stats:
+  - TRAVIS BROWNE landed 4 significant strikes
+  - CHAD GRIGGS landed 0 significant strikes
+  - Knockdowns: TRAVIS BROWNE 0,  CHAD GRIGGS 0
+  - Takedowns: TRAVIS BROWNE 1,  CHAD GRIGGS 0
+  Bonus: sub

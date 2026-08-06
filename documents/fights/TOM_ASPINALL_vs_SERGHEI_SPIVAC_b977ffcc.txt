@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Brunson vs. Till
+    Date: September 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TOM ASPINALL defeated SERGHEI SPIVAC via KO/TKO  
+  at 2:30 of round 1
+  Key stats:
+  - TOM ASPINALL landed 16 significant strikes
+  - SERGHEI SPIVAC landed 0 significant strikes
+  - Knockdowns: TOM ASPINALL 1,  SERGHEI SPIVAC 0
+  - Takedowns: TOM ASPINALL 0,  SERGHEI SPIVAC 0
+  Bonus: perf

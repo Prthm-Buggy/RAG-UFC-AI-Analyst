@@ -1,0 +1,11 @@
+Fighter: PANNIE KIANZAD
+  Date of Birth: 1991-12-08
+  Career record: 11
+  First fight: 2018-11-30
+  Last fight: 2024-08-10
+
+Career Statistics:
+- Significant Strikes Landed :713
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :1

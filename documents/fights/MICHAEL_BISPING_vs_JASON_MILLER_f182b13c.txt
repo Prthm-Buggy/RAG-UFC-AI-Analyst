@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Bisping vs Team Miller Finale
+    Date: December 03, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL BISPING defeated JASON MILLER via KO/TKO  
+  at 3:34 of round 3
+  Key stats:
+  - MICHAEL BISPING landed 102 significant strikes
+  - JASON MILLER landed 27 significant strikes
+  - Knockdowns: MICHAEL BISPING 0,  JASON MILLER 0
+  - Takedowns: MICHAEL BISPING 0,  JASON MILLER 1

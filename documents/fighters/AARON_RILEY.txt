@@ -1,0 +1,11 @@
+Fighter: AARON RILEY
+  Date of Birth: 1980-12-09
+  Career record: 9
+  First fight: 2002-05-10
+  Last fight: 2013-07-27
+
+Career Statistics:
+- Significant Strikes Landed :314
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :1

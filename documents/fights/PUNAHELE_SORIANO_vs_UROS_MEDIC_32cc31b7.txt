@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Ribas 2
+    Date: January 11, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: PUNAHELE SORIANO defeated UROS MEDIC via KO/TKO  
+  at 0:31 of round 1
+  Key stats:
+  - PUNAHELE SORIANO landed 13 significant strikes
+  - UROS MEDIC landed 2 significant strikes
+  - Knockdowns: PUNAHELE SORIANO 1,  UROS MEDIC 0
+  - Takedowns: PUNAHELE SORIANO 0,  UROS MEDIC 0

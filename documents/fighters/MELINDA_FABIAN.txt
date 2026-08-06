@@ -1,0 +1,11 @@
+Fighter: MELINDA FABIAN
+  Date of Birth: 1987-06-25
+  Career record: 1
+  First fight: 2018-06-23
+  Last fight: 2018-06-23
+
+Career Statistics:
+- Significant Strikes Landed :72
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

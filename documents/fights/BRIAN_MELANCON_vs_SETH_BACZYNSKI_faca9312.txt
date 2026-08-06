@@ -1,0 +1,13 @@
+Event: UFC 162: Silva vs Weidman
+    Date: July 06, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRIAN MELANCON defeated SETH BACZYNSKI via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - BRIAN MELANCON landed 24 significant strikes
+  - SETH BACZYNSKI landed 13 significant strikes
+  - Knockdowns: BRIAN MELANCON 1,  SETH BACZYNSKI 0
+  - Takedowns: BRIAN MELANCON 1,  SETH BACZYNSKI 0

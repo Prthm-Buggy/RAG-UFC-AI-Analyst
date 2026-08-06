@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Pettis vs. Moreno
+    Date: August 05, 2017
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Bantamweight
+    
+
+    Result: ALEJANDRO PEREZ defeated ANDRE SOUKHAMTHATH via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ALEJANDRO PEREZ landed 44 significant strikes
+  - ANDRE SOUKHAMTHATH landed 43 significant strikes
+  - Knockdowns: ALEJANDRO PEREZ 0,  ANDRE SOUKHAMTHATH 3
+  - Takedowns: ALEJANDRO PEREZ 1,  ANDRE SOUKHAMTHATH 0

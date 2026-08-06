@@ -1,0 +1,16 @@
+Event : UFC on FOX: Shogun vs Vera
+    Date : August 04, 2012
+    Location: Los Angeles, California, USA
+    Number of Fights: 9
+    Weight Classes: Light Heavyweight, Welterweight, Flyweight, Featherweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - RANI YAHYA def. JOSH GRISPI via Submission(R1)
+- PHILIP DE FRIES def. OLI THOMPSON via Submission(R2)
+- JOE LAUZON def. JAMIE VARNER via Submission(R3)
+- LYOTO MACHIDA def. RYAN BADER via KO/TKO(R2)
+- MAURICIO RUA def. BRANDON VERA via KO/TKO(R4)
+- MIKE SWICK def. DAMARQUES JOHNSON via KO/TKO(R2)
+- MANVEL GAMBURYAN def. MICHIHIRO OMIGAWA via Decision - Unanimous(R3)
+- NAM PHAN def. COLE MILLER via Decision - Split(R3)
+- JOHN MORAGA def. ULYSSES GOMEZ via KO/TKO(R1)

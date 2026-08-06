@@ -1,0 +1,14 @@
+Event: UFC on FOX: Dos Santos vs Miocic
+    Date: December 13, 2014
+    Location: Phoenix, Arizona, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR DOS SANTOS defeated STIPE MIOCIC via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JUNIOR DOS SANTOS landed 123 significant strikes
+  - STIPE MIOCIC landed 89 significant strikes
+  - Knockdowns: JUNIOR DOS SANTOS 1,  STIPE MIOCIC 0
+  - Takedowns: JUNIOR DOS SANTOS 1,  STIPE MIOCIC 1
+  Bonus: fight

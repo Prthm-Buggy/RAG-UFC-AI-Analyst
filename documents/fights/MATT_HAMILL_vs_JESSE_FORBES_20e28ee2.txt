@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale
+    Date: June 24, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MATT HAMILL defeated JESSE FORBES via KO/TKO  
+  at 4:47 of round 1
+  Key stats:
+  - MATT HAMILL landed 33 significant strikes
+  - JESSE FORBES landed 9 significant strikes
+  - Knockdowns: MATT HAMILL 0,  JESSE FORBES 0
+  - Takedowns: MATT HAMILL 1,  JESSE FORBES 0

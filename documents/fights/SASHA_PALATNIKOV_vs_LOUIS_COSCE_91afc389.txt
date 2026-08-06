@@ -1,0 +1,14 @@
+Event: UFC 255: Figueiredo vs. Perez
+    Date: November 21, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SASHA PALATNIKOV defeated LOUIS COSCE via KO/TKO  
+  at 2:47 of round 3
+  Key stats:
+  - SASHA PALATNIKOV landed 125 significant strikes
+  - LOUIS COSCE landed 99 significant strikes
+  - Knockdowns: SASHA PALATNIKOV 0,  LOUIS COSCE 1
+  - Takedowns: SASHA PALATNIKOV 1,  LOUIS COSCE 1
+  Bonus: fight

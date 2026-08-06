@@ -1,0 +1,14 @@
+Event: UFC 312: Du Plessis vs. Strickland 2
+    Date: February 08, 2025
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Lightweight
+    
+
+    Result: QUILLAN SALKILLD defeated ANSHUL JUBLI via KO/TKO  
+  at 0:19 of round 1
+  Key stats:
+  - QUILLAN SALKILLD landed 6 significant strikes
+  - ANSHUL JUBLI landed 0 significant strikes
+  - Knockdowns: QUILLAN SALKILLD 1,  ANSHUL JUBLI 0
+  - Takedowns: QUILLAN SALKILLD 0,  ANSHUL JUBLI 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: RAFAEL CAVALCANTE
+  Date of Birth: 1980-04-14
+  Career record: 5
+  First fight: 2013-06-08
+  Last fight: 2016-02-06
+
+Career Statistics:
+- Significant Strikes Landed :83
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

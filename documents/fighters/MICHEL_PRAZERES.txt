@@ -1,0 +1,11 @@
+Fighter: MICHEL PRAZERES
+  Date of Birth: 1981-07-25
+  Career record: 14
+  First fight: 2013-05-18
+  Last fight: 2021-06-26
+
+Career Statistics:
+- Significant Strikes Landed :407
+- Total takedowns landed :45
+- Knockdowns :2
+- Submission Attempts :7

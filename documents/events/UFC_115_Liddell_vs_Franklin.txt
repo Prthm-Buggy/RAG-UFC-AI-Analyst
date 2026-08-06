@@ -1,0 +1,18 @@
+Event : UFC 115: Liddell vs Franklin
+    Date : June 12, 2010
+    Location: Vancouver, British Columbia, Canada
+    Number of Fights: 11
+    Weight Classes: Welterweight, Light Heavyweight, Lightweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - MIKE PYLE def. JESSE LENNOX via Submission(R3)
+- CARLOS CONDIT def. RORY MACDONALD via KO/TKO(R3)
+- EVAN DUNHAM def. TYSON GRIFFIN via Decision - Split(R3)
+- CLAUDE PATRICK def. RICARDO FUNCH via Submission(R2)
+- MATT WIMAN def. MAC DANZIG via Submission(R1)
+- MARIO MIRANDA def. DAVID LOISEAU via KO/TKO(R2)
+- MIRKO FILIPOVIC def. PAT BARRY via Submission(R3)
+- MARTIN KAMPMANN def. PAULO THIAGO via Decision - Unanimous(R3)
+- JAMES WILKS def. PETER SOBOTTA via Decision - Unanimous(R3)
+- RICH FRANKLIN def. CHUCK LIDDELL via KO/TKO(R1)
+- BEN ROTHWELL def. GILBERT YVEL via Decision - Unanimous(R3)

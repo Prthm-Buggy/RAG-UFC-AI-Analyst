@@ -1,0 +1,11 @@
+Fighter: WULIJIBUREN
+  Date of Birth: 1989-03-01
+  Career record: 3
+  First fight: 2017-11-25
+  Last fight: 2019-02-09
+
+Career Statistics:
+- Significant Strikes Landed :65
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :1

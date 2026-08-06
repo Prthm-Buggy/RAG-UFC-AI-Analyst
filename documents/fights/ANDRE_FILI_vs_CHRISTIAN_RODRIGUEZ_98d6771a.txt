@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dolidze vs. Hernandez
+    Date: August 09, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ANDRE FILI defeated CHRISTIAN RODRIGUEZ via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ANDRE FILI landed 64 significant strikes
+  - CHRISTIAN RODRIGUEZ landed 83 significant strikes
+  - Knockdowns: ANDRE FILI 0,  CHRISTIAN RODRIGUEZ 0
+  - Takedowns: ANDRE FILI 3,  CHRISTIAN RODRIGUEZ 1

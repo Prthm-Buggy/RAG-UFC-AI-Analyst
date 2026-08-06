@@ -1,0 +1,14 @@
+Event: UFC 81: Breaking Point
+    Date: February 02, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHRIS LYTLE defeated KYLE BRADLEY via KO/TKO  
+  at 0:33 of round 1
+  Key stats:
+  - CHRIS LYTLE landed 12 significant strikes
+  - KYLE BRADLEY landed 0 significant strikes
+  - Knockdowns: CHRIS LYTLE 1,  KYLE BRADLEY 0
+  - Takedowns: CHRIS LYTLE 0,  KYLE BRADLEY 0
+  Bonus: ko

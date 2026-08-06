@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Perez vs. Taira
+    Date: June 15, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: NATE MANESS defeated JIMMY FLICK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NATE MANESS landed 89 significant strikes
+  - JIMMY FLICK landed 37 significant strikes
+  - Knockdowns: NATE MANESS 0,  JIMMY FLICK 0
+  - Takedowns: NATE MANESS 0,  JIMMY FLICK 1

@@ -1,0 +1,11 @@
+Fighter: ANDY OGLE
+  Date of Birth: 1989-02-16
+  Career record: 6
+  First fight: 2012-09-29
+  Last fight: 2015-01-24
+
+Career Statistics:
+- Significant Strikes Landed :163
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Strickland vs. Imavov
+    Date: January 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: UMAR NURMAGOMEDOV defeated RAONI BARCELOS via KO/TKO  
+  at 4:40 of round 1
+  Key stats:
+  - UMAR NURMAGOMEDOV landed 36 significant strikes
+  - RAONI BARCELOS landed 13 significant strikes
+  - Knockdowns: UMAR NURMAGOMEDOV 1,  RAONI BARCELOS 0
+  - Takedowns: UMAR NURMAGOMEDOV 0,  RAONI BARCELOS 0
+  Bonus: perf

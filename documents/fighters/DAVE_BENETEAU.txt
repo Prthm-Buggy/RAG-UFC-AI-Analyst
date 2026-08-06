@@ -1,0 +1,11 @@
+Fighter: DAVE BENETEAU
+  Date of Birth: Unknown
+  Career record: 6
+  First fight: 1995-04-07
+  Last fight: 1997-10-17
+
+Career Statistics:
+- Significant Strikes Landed :42
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :0

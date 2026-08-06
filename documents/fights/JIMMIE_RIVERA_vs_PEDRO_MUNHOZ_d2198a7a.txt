@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs Henderson 3
+    Date: November 07, 2015
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: JIMMIE RIVERA defeated PEDRO MUNHOZ via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JIMMIE RIVERA landed 96 significant strikes
+  - PEDRO MUNHOZ landed 66 significant strikes
+  - Knockdowns: JIMMIE RIVERA 0,  PEDRO MUNHOZ 0
+  - Takedowns: JIMMIE RIVERA 0,  PEDRO MUNHOZ 0

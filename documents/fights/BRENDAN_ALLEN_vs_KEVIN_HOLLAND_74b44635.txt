@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Reyes vs. Weidman
+    Date: October 18, 2019
+    Location: Boston, Massachusetts, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRENDAN ALLEN defeated KEVIN HOLLAND via Submission  
+  at 3:38 of round 2
+  Key stats:
+  - BRENDAN ALLEN landed 10 significant strikes
+  - KEVIN HOLLAND landed 22 significant strikes
+  - Knockdowns: BRENDAN ALLEN 0,  KEVIN HOLLAND 0
+  - Takedowns: BRENDAN ALLEN 2,  KEVIN HOLLAND 1

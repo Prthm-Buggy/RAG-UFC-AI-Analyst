@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Teixeira vs Bader
+    Date: September 04, 2013
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: LUCAS MARTINS defeated RAMIRO HERNANDEZ via Submission  
+  at 1:10 of round 1
+  Key stats:
+  - LUCAS MARTINS landed 10 significant strikes
+  - RAMIRO HERNANDEZ landed 4 significant strikes
+  - Knockdowns: LUCAS MARTINS 1,  RAMIRO HERNANDEZ 0
+  - Takedowns: LUCAS MARTINS 0,  RAMIRO HERNANDEZ 0

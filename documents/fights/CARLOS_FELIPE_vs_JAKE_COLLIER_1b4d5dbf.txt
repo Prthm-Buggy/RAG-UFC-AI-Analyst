@@ -1,0 +1,13 @@
+Event: UFC 263: Adesanya vs. Vettori 2
+    Date: June 12, 2021
+    Location: Glendale, Arizona, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CARLOS FELIPE defeated JAKE COLLIER via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CARLOS FELIPE landed 94 significant strikes
+  - JAKE COLLIER landed 130 significant strikes
+  - Knockdowns: CARLOS FELIPE 0,  JAKE COLLIER 0
+  - Takedowns: CARLOS FELIPE 0,  JAKE COLLIER 0

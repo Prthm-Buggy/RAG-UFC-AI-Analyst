@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Pettis vs. Moreno
+    Date: August 05, 2017
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Welterweight
+    
+
+    Result: NIKO PRICE defeated ALAN JOUBAN via KO/TKO  
+  at 1:44 of round 1
+  Key stats:
+  - NIKO PRICE landed 10 significant strikes
+  - ALAN JOUBAN landed 5 significant strikes
+  - Knockdowns: NIKO PRICE 1,  ALAN JOUBAN 0
+  - Takedowns: NIKO PRICE 0,  ALAN JOUBAN 0
+  Bonus: perf

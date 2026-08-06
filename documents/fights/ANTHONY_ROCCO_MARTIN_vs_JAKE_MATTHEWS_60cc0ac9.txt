@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Santos vs. Tuivasa
+    Date: December 01, 2018
+    Location: Adelaide, South Australia, Australia
+    Weight Class: Welterweight
+    
+
+    Result: ANTHONY ROCCO MARTIN defeated JAKE MATTHEWS via Submission  
+  at 1:19 of round 3
+  Key stats:
+  - ANTHONY ROCCO MARTIN landed 25 significant strikes
+  - JAKE MATTHEWS landed 24 significant strikes
+  - Knockdowns: ANTHONY ROCCO MARTIN 0,  JAKE MATTHEWS 0
+  - Takedowns: ANTHONY ROCCO MARTIN 0,  JAKE MATTHEWS 0

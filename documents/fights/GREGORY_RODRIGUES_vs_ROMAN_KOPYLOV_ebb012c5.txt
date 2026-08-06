@@ -1,0 +1,13 @@
+Event: UFC 322: Della Maddalena vs. Makhachev
+    Date: November 15, 2025
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: GREGORY RODRIGUES defeated ROMAN KOPYLOV via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - GREGORY RODRIGUES landed 90 significant strikes
+  - ROMAN KOPYLOV landed 52 significant strikes
+  - Knockdowns: GREGORY RODRIGUES 0,  ROMAN KOPYLOV 0
+  - Takedowns: GREGORY RODRIGUES 0,  ROMAN KOPYLOV 2

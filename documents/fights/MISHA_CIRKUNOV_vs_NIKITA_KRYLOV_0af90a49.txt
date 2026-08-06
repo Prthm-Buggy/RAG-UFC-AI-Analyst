@@ -1,0 +1,13 @@
+Event: UFC 206: Holloway vs. Pettis
+    Date: December 10, 2016
+    Location: Toronto, Ontario, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: MISHA CIRKUNOV defeated NIKITA KRYLOV via Submission  
+  at 4:38 of round 1
+  Key stats:
+  - MISHA CIRKUNOV landed 8 significant strikes
+  - NIKITA KRYLOV landed 16 significant strikes
+  - Knockdowns: MISHA CIRKUNOV 0,  NIKITA KRYLOV 0
+  - Takedowns: MISHA CIRKUNOV 2,  NIKITA KRYLOV 1

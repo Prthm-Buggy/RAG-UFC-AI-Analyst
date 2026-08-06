@@ -1,0 +1,13 @@
+Event: UFC 161: Evans vs Henderson
+    Date: June 15, 2013
+    Location: Winnipeg, Manitoba, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: STIPE MIOCIC defeated ROY NELSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - STIPE MIOCIC landed 106 significant strikes
+  - ROY NELSON landed 23 significant strikes
+  - Knockdowns: STIPE MIOCIC 0,  ROY NELSON 0
+  - Takedowns: STIPE MIOCIC 1,  ROY NELSON 0

@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Edgar vs. Team Penn Finale
+    Date: July 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: None
+    
+
+    Result: ADRIANO MARTINS defeated JUAN MANUEL PUIG via KO/TKO  
+  at 2:21 of round 1
+  Key stats:
+  - ADRIANO MARTINS landed 9 significant strikes
+  - JUAN MANUEL PUIG landed 13 significant strikes
+  - Knockdowns: ADRIANO MARTINS 1,  JUAN MANUEL PUIG 0
+  - Takedowns: ADRIANO MARTINS 0,  JUAN MANUEL PUIG 0
+  Bonus: perf

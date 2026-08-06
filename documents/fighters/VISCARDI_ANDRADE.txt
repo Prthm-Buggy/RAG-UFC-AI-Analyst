@@ -1,0 +1,11 @@
+Fighter: VISCARDI ANDRADE
+  Date of Birth: 1984-03-08
+  Career record: 4
+  First fight: 2013-08-03
+  Last fight: 2016-03-19
+
+Career Statistics:
+- Significant Strikes Landed :152
+- Total takedowns landed :6
+- Knockdowns :2
+- Submission Attempts :1

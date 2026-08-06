@@ -1,0 +1,13 @@
+Event: UFC 250: Nunes vs. Spencer
+    Date: June 06, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MAKI PITOLO defeated CHARLES BYRD via KO/TKO  
+  at 1:10 of round 2
+  Key stats:
+  - MAKI PITOLO landed 29 significant strikes
+  - CHARLES BYRD landed 11 significant strikes
+  - Knockdowns: MAKI PITOLO 0,  CHARLES BYRD 0
+  - Takedowns: MAKI PITOLO 3,  CHARLES BYRD 1

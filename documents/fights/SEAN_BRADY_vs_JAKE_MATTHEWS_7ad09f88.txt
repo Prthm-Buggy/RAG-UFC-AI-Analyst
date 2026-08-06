@@ -1,0 +1,13 @@
+Event: UFC 259: Blachowicz vs. Adesanya
+    Date: March 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SEAN BRADY defeated JAKE MATTHEWS via Submission  
+  at 3:28 of round 3
+  Key stats:
+  - SEAN BRADY landed 37 significant strikes
+  - JAKE MATTHEWS landed 21 significant strikes
+  - Knockdowns: SEAN BRADY 0,  JAKE MATTHEWS 0
+  - Takedowns: SEAN BRADY 1,  JAKE MATTHEWS 0

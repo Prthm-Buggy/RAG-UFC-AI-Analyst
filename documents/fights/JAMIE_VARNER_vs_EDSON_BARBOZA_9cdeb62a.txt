@@ -1,0 +1,13 @@
+Event: UFC 146: Dos Santos vs Mir
+    Date: May 26, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JAMIE VARNER defeated EDSON BARBOZA via KO/TKO  
+  at 3:23 of round 1
+  Key stats:
+  - JAMIE VARNER landed 20 significant strikes
+  - EDSON BARBOZA landed 11 significant strikes
+  - Knockdowns: JAMIE VARNER 1,  EDSON BARBOZA 0
+  - Takedowns: JAMIE VARNER 2,  EDSON BARBOZA 0

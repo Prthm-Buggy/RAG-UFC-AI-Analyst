@@ -1,0 +1,14 @@
+Event: UFC 259: Blachowicz vs. Adesanya
+    Date: March 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: UROS MEDIC defeated AALON CRUZ via KO/TKO  
+  at 1:40 of round 1
+  Key stats:
+  - UROS MEDIC landed 45 significant strikes
+  - AALON CRUZ landed 0 significant strikes
+  - Knockdowns: UROS MEDIC 1,  AALON CRUZ 0
+  - Takedowns: UROS MEDIC 0,  AALON CRUZ 0
+  Bonus: perf

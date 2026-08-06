@@ -1,0 +1,14 @@
+Event: UFC on FOX: Holm vs. Shevchenko
+    Date: July 23, 2016
+    Location: Chicago, Illinois, USA
+    Weight Class: Bantamweight
+    
+
+    Result: EDDIE WINELAND defeated FRANKIE SAENZ via KO/TKO  
+  at 1:54 of round 3
+  Key stats:
+  - EDDIE WINELAND landed 42 significant strikes
+  - FRANKIE SAENZ landed 45 significant strikes
+  - Knockdowns: EDDIE WINELAND 1,  FRANKIE SAENZ 0
+  - Takedowns: EDDIE WINELAND 0,  FRANKIE SAENZ 1
+  Bonus: perf

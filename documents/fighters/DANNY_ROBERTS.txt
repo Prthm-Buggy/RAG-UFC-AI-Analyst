@@ -1,0 +1,11 @@
+Fighter: DANNY ROBERTS
+  Date of Birth: 1987-07-14
+  Career record: 14
+  First fight: 2015-12-10
+  Last fight: 2023-07-22
+
+Career Statistics:
+- Significant Strikes Landed :405
+- Total takedowns landed :2
+- Knockdowns :3
+- Submission Attempts :2

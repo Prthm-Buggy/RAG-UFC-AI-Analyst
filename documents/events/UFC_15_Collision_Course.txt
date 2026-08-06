@@ -1,0 +1,14 @@
+Event : UFC 15: Collision Course
+    Date : October 17, 1997
+    Location: Bay St. Louis, Mississippi, USA
+    Number of Fights: 7
+    Weight Classes: Heavyweight
+
+    Fight Results:
+  - RANDY COUTURE def. VITOR BELFORT via KO/TKO(R1)
+- MARK KERR def. DWAYNE CASON via Submission(R1)
+- MARK KERR def. GREG STOTT via KO/TKO(R1)
+- DAVE BENETEAU def. CARLOS BARRETO via Decision - Unanimous(R2)
+- DWAYNE CASON def. HOUSTON DORR via KO/TKO(R1)
+- ALEX HUNTER def. HARRY MOSKOWITZ via Decision - Split(R1)
+- MAURICE SMITH def. DAVID ABBOTT via Submission(R1)

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Namajunas vs. Cortez
+    Date : July 13, 2024
+    Location: Denver, Colorado, USA
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Bantamweight, Welterweight, Lightweight, Flyweight, Middleweight, Featherweight
+
+    Fight Results:
+  - ROSE NAMAJUNAS def. TRACY CORTEZ via Decision - Unanimous(R5)
+- GABRIEL BONFIM def. ANGE LOOSA via Decision - Unanimous(R3)
+- CHARLES JOHNSON def. JOSHUA VAN via KO/TKO(R3)
+- JASMINE JASUDAVICIUS def. FATIMA KLINE via Decision - Unanimous(R3)
+- LUANA SANTOS def. MARIYA AGAPOVA via Submission(R1)
+- ANDRE PETROSKI def. JOSH FREMD via Decision - Unanimous(R3)
+- JEAN SILVA def. DREW DOBER via TKO - Doctor's Stoppage(R3)
+- JULIAN EROSA def. CHRISTIAN RODRIGUEZ via Submission(R1)
+- MONTEL JACKSON def. DA'MON BLACKSHEAR via KO/TKO(R1)
+- MUSLIM SALIKHOV def. SANTIAGO PONZINIBBIO via Decision - Split(R3)
+- EVAN ELDER def. DARRIUS FLOWERS via Submission(R2)

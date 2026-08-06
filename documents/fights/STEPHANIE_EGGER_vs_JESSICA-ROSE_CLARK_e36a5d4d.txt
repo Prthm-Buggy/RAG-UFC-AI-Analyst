@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Walker vs. Hill
+    Date: February 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: STEPHANIE EGGER defeated JESSICA-ROSE CLARK via Submission  
+  at 3:44 of round 1
+  Key stats:
+  - STEPHANIE EGGER landed 5 significant strikes
+  - JESSICA-ROSE CLARK landed 2 significant strikes
+  - Knockdowns: STEPHANIE EGGER 0,  JESSICA-ROSE CLARK 0
+  - Takedowns: STEPHANIE EGGER 2,  JESSICA-ROSE CLARK 1
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: AARON PICO
+  Date of Birth: 1996-09-23
+  Career record: 2
+  First fight: 2025-08-16
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :113
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :0

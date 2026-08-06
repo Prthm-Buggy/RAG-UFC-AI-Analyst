@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Ribas vs. Namajunas
+    Date : March 23, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Featherweight, Flyweight, Middleweight, Lightweight, Women's Bantamweight, Bantamweight, Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - YOUSSEF ZALAL def. BILLY QUARANTILLO via Submission(R2)
+- PAYTON TALBOTT def. CAMERON SAAIMAN via KO/TKO(R2)
+- Andre Lima def. IGOR SEVERINO via DQ(R2)
+- DARIA ZHELEZNIAKOVA def. MONTSE RENDON via Decision - Unanimous(R3)
+- EDMEN SHAHBAZYAN def. AJ DOBSON via KO/TKO(R1)
+- MICK PARKIN def. MOHAMMED USMAN via Decision - Unanimous(R3)
+- KARL WILLIAMS def. JUSTIN TAFA via Decision - Unanimous(R3)
+- ROSE NAMAJUNAS def. AMANDA RIBAS via Decision - Unanimous(R5)
+- MILES JOHNS def. CODY GIBSON via Decision - Unanimous(R3)
+- JULIAN EROSA def. RICARDO RAMOS via Submission(R1)
+- TREY OGDEN def. KURT HOLOBAUGH via Decision - Unanimous(R3)
+- FERNANDO PADILLA def. LUIS PAJUELO via Submission(R1)
+- JARNO ERRENS def. STEVEN NGUYEN via Decision - Unanimous(R3)

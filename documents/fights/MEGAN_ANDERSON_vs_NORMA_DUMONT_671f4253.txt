@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Benavidez vs. Figueiredo
+    Date: February 29, 2020
+    Location: Norfolk, Virginia, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: MEGAN ANDERSON defeated NORMA DUMONT via KO/TKO  
+  at 3:31 of round 1
+  Key stats:
+  - MEGAN ANDERSON landed 7 significant strikes
+  - NORMA DUMONT landed 5 significant strikes
+  - Knockdowns: MEGAN ANDERSON 1,  NORMA DUMONT 0
+  - Takedowns: MEGAN ANDERSON 0,  NORMA DUMONT 1
+  Bonus: perf

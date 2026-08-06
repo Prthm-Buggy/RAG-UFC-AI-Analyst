@@ -1,0 +1,13 @@
+Event: UFC 49: Unfinished Business
+    Date: August 21, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHRIS LYTLE defeated RONALD JHUN via Submission  
+  at 1:17 of round 2
+  Key stats:
+  - CHRIS LYTLE landed 12 significant strikes
+  - RONALD JHUN landed 8 significant strikes
+  - Knockdowns: CHRIS LYTLE 1,  RONALD JHUN 0
+  - Takedowns: CHRIS LYTLE 0,  RONALD JHUN 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Alvarez
+    Date: July 07, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: FELIPE ARANTES defeated JERROD SANDERS via Submission  
+  at 1:39 of round 2
+  Key stats:
+  - FELIPE ARANTES landed 3 significant strikes
+  - JERROD SANDERS landed 6 significant strikes
+  - Knockdowns: FELIPE ARANTES 0,  JERROD SANDERS 0
+  - Takedowns: FELIPE ARANTES 0,  JERROD SANDERS 1

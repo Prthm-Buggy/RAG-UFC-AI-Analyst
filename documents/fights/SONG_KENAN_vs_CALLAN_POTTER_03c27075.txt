@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Felder vs. Hooker
+    Date: February 22, 2020
+    Location: Auckland, New Zealand
+    Weight Class: Welterweight
+    
+
+    Result: SONG KENAN defeated CALLAN POTTER via KO/TKO  
+  at 2:20 of round 1
+  Key stats:
+  - SONG KENAN landed 17 significant strikes
+  - CALLAN POTTER landed 7 significant strikes
+  - Knockdowns: SONG KENAN 1,  CALLAN POTTER 0
+  - Takedowns: SONG KENAN 0,  CALLAN POTTER 1

@@ -1,0 +1,19 @@
+Event : UFC 222: Cyborg vs. Kunitskaya
+    Date : March 03, 2018
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Middleweight, Lightweight, Women's Strawweight, Featherweight, Women's Featherweight, Women's Bantamweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - ALEXANDER HERNANDEZ def. BENEIL DARIUSH via KO/TKO(R1)
+- KETLEN VIEIRA def. CAT ZINGANO via Decision - Split(R3)
+- SEAN O'MALLEY def. ANDRE SOUKHAMTHATH via Decision - Unanimous(R3)
+- CODY STAMANN def. BRYAN CARAWAY via Decision - Split(R3)
+- MACKENZIE DERN def. ASHLEY YODER via Decision - Split(R3)
+- JORDAN JOHNSON def. ADAM MILSTEAD via Decision - Split(R3)
+- CRISTIANE JUSTINO def. YANA SANTOS via KO/TKO(R1)
+- ZAK OTTOW def. MIKE PYLE via KO/TKO(R1)
+- CB DOLLAWAY def. HECTOR LOMBARD via DQ(R1)
+- JOHN DODSON def. PEDRO MUNHOZ via Decision - Split(R3)
+- ANDREI ARLOVSKI def. STEFAN STRUVE via Decision - Unanimous(R3)
+- BRIAN ORTEGA def. FRANKIE EDGAR via KO/TKO(R1)

@@ -1,0 +1,11 @@
+Fighter: JOSHUA BURKMAN
+  Date of Birth: 1980-04-10
+  Career record: 18
+  First fight: 2005-11-05
+  Last fight: 2018-02-18
+
+Career Statistics:
+- Significant Strikes Landed :501
+- Total takedowns landed :34
+- Knockdowns :2
+- Submission Attempts :4

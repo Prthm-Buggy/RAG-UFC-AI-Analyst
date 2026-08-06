@@ -1,0 +1,11 @@
+Fighter: TRESEAN GORE
+  Date of Birth: 1994-06-21
+  Career record: 7
+  First fight: 2022-02-05
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :214
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :3

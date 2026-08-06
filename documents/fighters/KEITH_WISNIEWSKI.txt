@@ -1,0 +1,11 @@
+Fighter: KEITH WISNIEWSKI
+  Date of Birth: 1981-10-25
+  Career record: 4
+  First fight: 2005-11-19
+  Last fight: 2013-09-04
+
+Career Statistics:
+- Significant Strikes Landed :125
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

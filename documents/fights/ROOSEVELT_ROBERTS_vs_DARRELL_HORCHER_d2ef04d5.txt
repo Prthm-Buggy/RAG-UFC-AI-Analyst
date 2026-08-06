@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Heavy Hitters Finale
+    Date: November 30, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ROOSEVELT ROBERTS defeated DARRELL HORCHER via Submission  
+  at 4:50 of round 1
+  Key stats:
+  - ROOSEVELT ROBERTS landed 16 significant strikes
+  - DARRELL HORCHER landed 10 significant strikes
+  - Knockdowns: ROOSEVELT ROBERTS 0,  DARRELL HORCHER 0
+  - Takedowns: ROOSEVELT ROBERTS 0,  DARRELL HORCHER 0
+  Bonus: perf

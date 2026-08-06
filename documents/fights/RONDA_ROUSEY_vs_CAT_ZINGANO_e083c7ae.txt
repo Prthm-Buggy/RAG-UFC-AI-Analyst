@@ -1,0 +1,14 @@
+Event: UFC 184: Rousey vs Zingano
+    Date: February 28, 2015
+    Location: Los Angeles, California, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: RONDA ROUSEY defeated CAT ZINGANO via Submission  
+  at 0:14 of round 1
+  Key stats:
+  - RONDA ROUSEY landed 0 significant strikes
+  - CAT ZINGANO landed 0 significant strikes
+  - Knockdowns: RONDA ROUSEY 0,  CAT ZINGANO 0
+  - Takedowns: RONDA ROUSEY 0,  CAT ZINGANO 0
+  Bonus: belt

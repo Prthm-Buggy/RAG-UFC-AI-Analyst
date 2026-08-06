@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rozenstruik vs. Almeida
+    Date: May 13, 2023
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT BROWN defeated COURT MCGEE via KO/TKO  
+  at 4:09 of round 1
+  Key stats:
+  - MATT BROWN landed 11 significant strikes
+  - COURT MCGEE landed 8 significant strikes
+  - Knockdowns: MATT BROWN 1,  COURT MCGEE 0
+  - Takedowns: MATT BROWN 0,  COURT MCGEE 1
+  Bonus: perf

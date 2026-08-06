@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Zabit vs. Kattar
+    Date: November 09, 2019
+    Location: Moscow, Moscow, Russia
+    Weight Class: Welterweight
+    
+
+    Result: DAVID ZAWADA defeated ABUBAKAR NURMAGOMEDOV via Submission  
+  at 2:50 of round 1
+  Key stats:
+  - DAVID ZAWADA landed 2 significant strikes
+  - ABUBAKAR NURMAGOMEDOV landed 4 significant strikes
+  - Knockdowns: DAVID ZAWADA 0,  ABUBAKAR NURMAGOMEDOV 0
+  - Takedowns: DAVID ZAWADA 0,  ABUBAKAR NURMAGOMEDOV 1
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edgar vs. The Korean Zombie
+    Date: December 21, 2019
+    Location: Busan, South Korea
+    Weight Class: Women's Strawweight
+    
+
+    Result: AMANDA LEMOS defeated MIRANDA GRANGER via Submission  
+  at 3:43 of round 1
+  Key stats:
+  - AMANDA LEMOS landed 8 significant strikes
+  - MIRANDA GRANGER landed 4 significant strikes
+  - Knockdowns: AMANDA LEMOS 0,  MIRANDA GRANGER 0
+  - Takedowns: AMANDA LEMOS 1,  MIRANDA GRANGER 0

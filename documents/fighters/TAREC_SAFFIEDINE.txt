@@ -1,0 +1,11 @@
+Fighter: TAREC SAFFIEDINE
+  Date of Birth: 1986-09-06
+  Career record: 6
+  First fight: 2014-01-04
+  Last fight: 2017-06-17
+
+Career Statistics:
+- Significant Strikes Landed :360
+- Total takedowns landed :4
+- Knockdowns :3
+- Submission Attempts :1

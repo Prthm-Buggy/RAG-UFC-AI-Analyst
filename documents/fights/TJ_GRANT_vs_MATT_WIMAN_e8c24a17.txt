@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs Dodson
+    Date: January 26, 2013
+    Location: Chicago, Illinois, USA
+    Weight Class: Lightweight
+    
+
+    Result: TJ GRANT defeated MATT WIMAN via KO/TKO  
+  at 4:51 of round 1
+  Key stats:
+  - TJ GRANT landed 54 significant strikes
+  - MATT WIMAN landed 18 significant strikes
+  - Knockdowns: TJ GRANT 1,  MATT WIMAN 0
+  - Takedowns: TJ GRANT 0,  MATT WIMAN 0

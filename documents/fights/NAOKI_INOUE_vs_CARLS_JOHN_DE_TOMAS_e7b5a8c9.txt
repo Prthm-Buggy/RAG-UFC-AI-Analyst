@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Correia
+    Date: June 17, 2017
+    Location: Kallang, Singapore
+    Weight Class: Flyweight
+    
+
+    Result: NAOKI INOUE defeated CARLS JOHN DE TOMAS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NAOKI INOUE landed 62 significant strikes
+  - CARLS JOHN DE TOMAS landed 30 significant strikes
+  - Knockdowns: NAOKI INOUE 0,  CARLS JOHN DE TOMAS 0
+  - Takedowns: NAOKI INOUE 0,  CARLS JOHN DE TOMAS 2

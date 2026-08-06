@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dern vs. Ribas 2
+    Date: January 11, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROMAN KOPYLOV defeated CHRIS CURTIS via KO/TKO  
+  at 4:59 of round 3
+  Key stats:
+  - ROMAN KOPYLOV landed 130 significant strikes
+  - CHRIS CURTIS landed 142 significant strikes
+  - Knockdowns: ROMAN KOPYLOV 1,  CHRIS CURTIS 0
+  - Takedowns: ROMAN KOPYLOV 1,  CHRIS CURTIS 0
+  Bonus: fight

@@ -1,0 +1,14 @@
+Event: UFC 321: Aspinall vs. Gane
+    Date: October 25, 2025
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Strawweight
+    
+
+    Result: MACKENZIE DERN defeated VIRNA JANDIROBA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MACKENZIE DERN landed 118 significant strikes
+  - VIRNA JANDIROBA landed 106 significant strikes
+  - Knockdowns: MACKENZIE DERN 0,  VIRNA JANDIROBA 0
+  - Takedowns: MACKENZIE DERN 2,  VIRNA JANDIROBA 9
+  Bonus: belt

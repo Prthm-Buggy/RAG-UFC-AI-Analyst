@@ -1,0 +1,13 @@
+Event: UFC 13: The Ultimate Force
+    Date: May 30, 1997
+    Location: Augusta, Georgia, USA
+    Weight Class: Lightweight
+    
+
+    Result: ENSON INOUE defeated ROYCE ALGER via Submission  
+  at 1:36 of round 1
+  Key stats:
+  - ENSON INOUE landed 0 significant strikes
+  - ROYCE ALGER landed 3 significant strikes
+  - Knockdowns: ENSON INOUE 0,  ROYCE ALGER 0
+  - Takedowns: ENSON INOUE 0,  ROYCE ALGER 0

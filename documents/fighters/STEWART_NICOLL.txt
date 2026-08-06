@@ -1,0 +1,11 @@
+Fighter: STEWART NICOLL
+  Date of Birth: 1994-11-04
+  Career record: 3
+  First fight: 2024-08-17
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :100
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

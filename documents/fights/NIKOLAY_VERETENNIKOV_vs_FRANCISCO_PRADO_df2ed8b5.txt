@@ -1,0 +1,13 @@
+Event: UFC 318: Holloway vs. Poirier 3
+    Date: July 19, 2025
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: NIKOLAY VERETENNIKOV defeated FRANCISCO PRADO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - NIKOLAY VERETENNIKOV landed 56 significant strikes
+  - FRANCISCO PRADO landed 47 significant strikes
+  - Knockdowns: NIKOLAY VERETENNIKOV 0,  FRANCISCO PRADO 0
+  - Takedowns: NIKOLAY VERETENNIKOV 2,  FRANCISCO PRADO 3

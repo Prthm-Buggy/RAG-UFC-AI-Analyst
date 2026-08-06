@@ -1,0 +1,13 @@
+Event: UFC 285: Jones vs. Gane
+    Date: March 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CAMERON SAAIMAN defeated MANA MARTINEZ via Decision - Majority  
+  at 5:00 of round 3
+  Key stats:
+  - CAMERON SAAIMAN landed 117 significant strikes
+  - MANA MARTINEZ landed 60 significant strikes
+  - Knockdowns: CAMERON SAAIMAN 1,  MANA MARTINEZ 0
+  - Takedowns: CAMERON SAAIMAN 1,  MANA MARTINEZ 0

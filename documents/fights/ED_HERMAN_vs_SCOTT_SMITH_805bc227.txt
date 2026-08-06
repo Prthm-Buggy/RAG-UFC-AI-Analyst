@@ -1,0 +1,14 @@
+Event: UFC 72: Victory
+    Date: June 16, 2007
+    Location: Belfast, Northern Ireland, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: ED HERMAN defeated SCOTT SMITH via Submission  
+  at 2:25 of round 2
+  Key stats:
+  - ED HERMAN landed 24 significant strikes
+  - SCOTT SMITH landed 3 significant strikes
+  - Knockdowns: ED HERMAN 0,  SCOTT SMITH 0
+  - Takedowns: ED HERMAN 3,  SCOTT SMITH 0
+  Bonus: sub

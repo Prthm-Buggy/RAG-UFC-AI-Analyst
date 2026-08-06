@@ -1,0 +1,13 @@
+Event: UFC 73: Stacked
+    Date: July 07, 2007
+    Location: Sacramento, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: KENNY FLORIAN defeated ALVIN ROBINSON via KO/TKO  
+  at 4:30 of round 1
+  Key stats:
+  - KENNY FLORIAN landed 20 significant strikes
+  - ALVIN ROBINSON landed 6 significant strikes
+  - Knockdowns: KENNY FLORIAN 0,  ALVIN ROBINSON 0
+  - Takedowns: KENNY FLORIAN 3,  ALVIN ROBINSON 1

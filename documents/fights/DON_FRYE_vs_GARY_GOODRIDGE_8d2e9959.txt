@@ -1,0 +1,14 @@
+Event: UFC 8: David vs Goliath
+    Date: February 16, 1996
+    Location: San Juan, Puerto Rico
+    Weight Class: Open Weight
+    
+
+    Result: DON FRYE defeated GARY GOODRIDGE via KO/TKO  
+  at 2:14 of round 1
+  Key stats:
+  - DON FRYE landed 12 significant strikes
+  - GARY GOODRIDGE landed 2 significant strikes
+  - Knockdowns: DON FRYE 0,  GARY GOODRIDGE 0
+  - Takedowns: DON FRYE 0,  GARY GOODRIDGE 1
+  Bonus: belt

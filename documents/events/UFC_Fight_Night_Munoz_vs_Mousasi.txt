@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Munoz vs Mousasi
+    Date : May 31, 2014
+    Location: Berlin, Germany
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Bantamweight, Welterweight, Featherweight, Middleweight, Lightweight
+
+    Fight Results:
+  - GEGARD MOUSASI def. MARK MUNOZ via Submission(R1)
+- SEAN STRICKLAND def. LUKE BARNATT via Decision - Split(R3)
+- PETER SOBOTTA def. PAWEL PAWLAK via Decision - Unanimous(R3)
+- CB DOLLAWAY def. FRANCIS CARMONT via Decision - Unanimous(R3)
+- MAXIMO BLANCO def. ANDY OGLE via Decision - Unanimous(R3)
+- NIKLAS BACKSTROM def. TOM NIINIMAKI via Submission(R1)
+- IURI ALCANTARA def. VAUGHAN LEE via KO/TKO(R1)
+- RUSLAN MAGOMEDOV def. VIKTOR PESTA via Decision - Unanimous(R3)
+- NICK HEIN def. DREW DOBER via Decision - Unanimous(R3)
+- MAGNUS CEDENBLAD def. KRZYSZTOF JOTKO via Submission(R2)

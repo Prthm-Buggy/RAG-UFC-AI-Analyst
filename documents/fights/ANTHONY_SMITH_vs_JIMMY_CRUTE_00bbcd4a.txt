@@ -1,0 +1,13 @@
+Event: UFC 261: Usman vs. Masvidal 2
+    Date: April 24, 2021
+    Location: Jacksonville, Florida, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY SMITH defeated JIMMY CRUTE via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - ANTHONY SMITH landed 26 significant strikes
+  - JIMMY CRUTE landed 18 significant strikes
+  - Knockdowns: ANTHONY SMITH 0,  JIMMY CRUTE 0
+  - Takedowns: ANTHONY SMITH 0,  JIMMY CRUTE 3

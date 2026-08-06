@@ -1,0 +1,14 @@
+Event: UFC 179: Aldo vs Mendes 2
+    Date: October 25, 2014
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: GILBERT BURNS defeated CHRISTOS GIAGOS via Submission  
+  at 4:57 of round 1
+  Key stats:
+  - GILBERT BURNS landed 7 significant strikes
+  - CHRISTOS GIAGOS landed 4 significant strikes
+  - Knockdowns: GILBERT BURNS 0,  CHRISTOS GIAGOS 0
+  - Takedowns: GILBERT BURNS 1,  CHRISTOS GIAGOS 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 193: Rousey vs Holm
+    Date: November 14, 2015
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Welterweight
+    
+
+    Result: JAMES MOONTASRI defeated ANTON ZAFIR via KO/TKO  
+  at 4:36 of round 1
+  Key stats:
+  - JAMES MOONTASRI landed 11 significant strikes
+  - ANTON ZAFIR landed 17 significant strikes
+  - Knockdowns: JAMES MOONTASRI 1,  ANTON ZAFIR 0
+  - Takedowns: JAMES MOONTASRI 0,  ANTON ZAFIR 1

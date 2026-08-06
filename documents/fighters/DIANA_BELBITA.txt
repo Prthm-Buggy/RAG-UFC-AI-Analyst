@@ -1,0 +1,11 @@
+Fighter: DIANA BELBITA
+  Date of Birth: 1996-06-26
+  Career record: 8
+  First fight: 2019-10-18
+  Last fight: 2025-04-05
+
+Career Statistics:
+- Significant Strikes Landed :561
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :0

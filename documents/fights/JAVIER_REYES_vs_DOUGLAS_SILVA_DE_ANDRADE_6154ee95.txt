@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Kavanagh
+    Date: February 28, 2026
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Featherweight
+    
+
+    Result: JAVIER REYES defeated DOUGLAS SILVA DE ANDRADE via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - JAVIER REYES landed 46 significant strikes
+  - DOUGLAS SILVA DE ANDRADE landed 17 significant strikes
+  - Knockdowns: JAVIER REYES 1,  DOUGLAS SILVA DE ANDRADE 0
+  - Takedowns: JAVIER REYES 1,  DOUGLAS SILVA DE ANDRADE 0

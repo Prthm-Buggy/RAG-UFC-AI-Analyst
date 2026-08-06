@@ -1,0 +1,13 @@
+Event: UFC 209: Woodley vs. Thompson 2
+    Date: March 04, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: CYNTHIA CALVILLO defeated AMANDA COOPER via Submission  
+  at 3:19 of round 1
+  Key stats:
+  - CYNTHIA CALVILLO landed 13 significant strikes
+  - AMANDA COOPER landed 7 significant strikes
+  - Knockdowns: CYNTHIA CALVILLO 0,  AMANDA COOPER 0
+  - Takedowns: CYNTHIA CALVILLO 1,  AMANDA COOPER 0

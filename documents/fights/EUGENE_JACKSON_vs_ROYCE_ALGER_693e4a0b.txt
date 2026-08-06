@@ -1,0 +1,13 @@
+Event: UFC 21: Return of the Champions
+    Date: July 16, 1999
+    Location: Cedar Rapids, Iowa, USA
+    Weight Class: Middleweight
+    
+
+    Result: EUGENE JACKSON defeated ROYCE ALGER via KO/TKO  
+  at 1:19 of round 2
+  Key stats:
+  - EUGENE JACKSON landed 21 significant strikes
+  - ROYCE ALGER landed 11 significant strikes
+  - Knockdowns: EUGENE JACKSON 1,  ROYCE ALGER 0
+  - Takedowns: EUGENE JACKSON 0,  ROYCE ALGER 2

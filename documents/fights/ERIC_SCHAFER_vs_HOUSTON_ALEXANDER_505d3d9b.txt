@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Diaz vs Neer
+    Date: September 17, 2008
+    Location: Omaha, Nebraska, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ERIC SCHAFER defeated HOUSTON ALEXANDER via Submission  
+  at 4:53 of round 1
+  Key stats:
+  - ERIC SCHAFER landed 24 significant strikes
+  - HOUSTON ALEXANDER landed 12 significant strikes
+  - Knockdowns: ERIC SCHAFER 0,  HOUSTON ALEXANDER 0
+  - Takedowns: ERIC SCHAFER 1,  HOUSTON ALEXANDER 0

@@ -1,0 +1,11 @@
+Fighter: CHRIS DAUKAUS
+  Date of Birth: 1989-09-25
+  Career record: 8
+  First fight: 2020-08-15
+  Last fight: 2023-08-12
+
+Career Statistics:
+- Significant Strikes Landed :154
+- Total takedowns landed :0
+- Knockdowns :6
+- Submission Attempts :0

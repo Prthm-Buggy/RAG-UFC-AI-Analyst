@@ -1,0 +1,13 @@
+Event: UFC on FOX: VanZant vs. Waterson
+    Date: December 17, 2016
+    Location: Sacramento, California, USA
+    Weight Class: Flyweight
+    
+
+    Result: HECTOR SANDOVAL defeated FREDY SERRANO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - HECTOR SANDOVAL landed 33 significant strikes
+  - FREDY SERRANO landed 22 significant strikes
+  - Knockdowns: HECTOR SANDOVAL 0,  FREDY SERRANO 0
+  - Takedowns: HECTOR SANDOVAL 2,  FREDY SERRANO 0

@@ -1,0 +1,11 @@
+Fighter: PHIL HAWES
+  Date of Birth: 1989-01-08
+  Career record: 8
+  First fight: 2020-10-24
+  Last fight: 2024-01-13
+
+Career Statistics:
+- Significant Strikes Landed :311
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs. Gaethje
+    Date: September 14, 2019
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: LOUIS SMOLKA defeated RYAN MACDONALD via KO/TKO  
+  at 4:43 of round 1
+  Key stats:
+  - LOUIS SMOLKA landed 59 significant strikes
+  - RYAN MACDONALD landed 30 significant strikes
+  - Knockdowns: LOUIS SMOLKA 1,  RYAN MACDONALD 0
+  - Takedowns: LOUIS SMOLKA 0,  RYAN MACDONALD 0

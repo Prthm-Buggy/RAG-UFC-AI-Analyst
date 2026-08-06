@@ -1,0 +1,13 @@
+Event: UFC 24: First Defense
+    Date: March 10, 2000
+    Location: Lake Charles, Louisiana, USA
+    Weight Class: Lightweight
+    
+
+    Result: BOB COOK defeated TIKI GHOSN via Submission  
+  at 1:29 of round 2
+  Key stats:
+  - BOB COOK landed 22 significant strikes
+  - TIKI GHOSN landed 24 significant strikes
+  - Knockdowns: BOB COOK 0,  TIKI GHOSN 0
+  - Takedowns: BOB COOK 1,  TIKI GHOSN 0

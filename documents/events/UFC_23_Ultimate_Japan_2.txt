@@ -1,0 +1,14 @@
+Event : UFC 23: Ultimate Japan 2
+    Date : November 19, 1999
+    Location: Chiba, Japan
+    Number of Fights: 7
+    Weight Classes: Middleweight, Open Weight, Heavyweight
+
+    Fight Results:
+  - PEDRO RIZZO def. TSUYOSHI KOHSAKA via KO/TKO(R3)
+- KENICHI YAMAMOTO def. KATSUHISA FUJII via Submission(R2)
+- JOE SLICK def. JASON DELUCIA via KO/TKO(R1)
+- KEVIN RANDLEMAN def. PETE WILLIAMS via Decision - Unanimous(R5)
+- EUGENE JACKSON def. KEIICHIRO YAMAMIYA via KO/TKO(R3)
+- KATSUHISA FUJII def. MASUTATSU YANO via KO/TKO(R2)
+- KENICHI YAMAMOTO def. DAIJU TAKASE via Decision - Unanimous(R3)

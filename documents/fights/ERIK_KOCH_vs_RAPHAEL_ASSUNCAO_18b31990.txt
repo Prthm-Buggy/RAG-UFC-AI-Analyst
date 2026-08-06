@@ -1,0 +1,14 @@
+Event: UFC 128: Shogun vs Jones
+    Date: March 19, 2011
+    Location: Newark, New Jersey, USA
+    Weight Class: Featherweight
+    
+
+    Result: ERIK KOCH defeated RAPHAEL ASSUNCAO via KO/TKO  
+  at 2:32 of round 1
+  Key stats:
+  - ERIK KOCH landed 4 significant strikes
+  - RAPHAEL ASSUNCAO landed 9 significant strikes
+  - Knockdowns: ERIK KOCH 1,  RAPHAEL ASSUNCAO 0
+  - Takedowns: ERIK KOCH 0,  RAPHAEL ASSUNCAO 0
+  Bonus: ko

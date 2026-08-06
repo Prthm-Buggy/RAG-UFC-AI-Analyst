@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Strickland vs. Magomedov
+    Date: July 01, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ELVES BRENER defeated GURAM KUTATELADZE via KO/TKO  
+  at 3:17 of round 3
+  Key stats:
+  - ELVES BRENER landed 65 significant strikes
+  - GURAM KUTATELADZE landed 85 significant strikes
+  - Knockdowns: ELVES BRENER 1,  GURAM KUTATELADZE 0
+  - Takedowns: ELVES BRENER 2,  GURAM KUTATELADZE 1
+  Bonus: fight

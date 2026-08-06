@@ -1,0 +1,13 @@
+Event: UFC 153: Silva vs Bonnar
+    Date: October 13, 2012
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: DIEGO BRANDAO defeated JOEY GAMBINO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DIEGO BRANDAO landed 33 significant strikes
+  - JOEY GAMBINO landed 39 significant strikes
+  - Knockdowns: DIEGO BRANDAO 1,  JOEY GAMBINO 0
+  - Takedowns: DIEGO BRANDAO 3,  JOEY GAMBINO 0

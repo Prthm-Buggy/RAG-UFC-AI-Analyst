@@ -1,0 +1,11 @@
+Fighter: YAROSLAV AMOSOV
+  Date of Birth: 1993-09-09
+  Career record: 2
+  First fight: 2025-12-13
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :25
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :1

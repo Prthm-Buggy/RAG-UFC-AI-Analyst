@@ -1,0 +1,11 @@
+Fighter: YUKI KONDO
+  Date of Birth: 1975-07-17
+  Career record: 3
+  First fight: 2000-09-22
+  Last fight: 2001-06-29
+
+Career Statistics:
+- Significant Strikes Landed :36
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

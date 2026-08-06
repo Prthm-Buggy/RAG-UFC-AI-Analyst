@@ -1,0 +1,13 @@
+Event: UFC 164: Henderson vs Pettis 2
+    Date: August 31, 2013
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Featherweight
+    
+
+    Result: DUSTIN POIRIER defeated ERIK KOCH via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DUSTIN POIRIER landed 54 significant strikes
+  - ERIK KOCH landed 32 significant strikes
+  - Knockdowns: DUSTIN POIRIER 2,  ERIK KOCH 0
+  - Takedowns: DUSTIN POIRIER 2,  ERIK KOCH 0

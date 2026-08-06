@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holloway vs. Kattar
+    Date: January 16, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Welterweight
+    
+
+    Result: LI JINGLIANG defeated SANTIAGO PONZINIBBIO via KO/TKO  
+  at 4:25 of round 1
+  Key stats:
+  - LI JINGLIANG landed 21 significant strikes
+  - SANTIAGO PONZINIBBIO landed 11 significant strikes
+  - Knockdowns: LI JINGLIANG 1,  SANTIAGO PONZINIBBIO 0
+  - Takedowns: LI JINGLIANG 0,  SANTIAGO PONZINIBBIO 0
+  Bonus: perf

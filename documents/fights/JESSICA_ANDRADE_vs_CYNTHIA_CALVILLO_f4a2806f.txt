@@ -1,0 +1,13 @@
+Event: UFC 266: Volkanovski vs. Ortega
+    Date: September 25, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: JESSICA ANDRADE defeated CYNTHIA CALVILLO via KO/TKO  
+  at 4:54 of round 1
+  Key stats:
+  - JESSICA ANDRADE landed 48 significant strikes
+  - CYNTHIA CALVILLO landed 27 significant strikes
+  - Knockdowns: JESSICA ANDRADE 0,  CYNTHIA CALVILLO 0
+  - Takedowns: JESSICA ANDRADE 0,  CYNTHIA CALVILLO 0

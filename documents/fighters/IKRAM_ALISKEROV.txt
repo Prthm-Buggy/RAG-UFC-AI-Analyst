@@ -1,0 +1,11 @@
+Fighter: IKRAM ALISKEROV
+  Date of Birth: 1992-12-07
+  Career record: 6
+  First fight: 2023-05-06
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :233
+- Total takedowns landed :10
+- Knockdowns :3
+- Submission Attempts :0

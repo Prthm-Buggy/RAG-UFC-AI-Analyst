@@ -1,0 +1,13 @@
+Event: UFC 81: Breaking Point
+    Date: February 02, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TIM BOETSCH defeated DAVID HEATH via KO/TKO  
+  at 4:52 of round 1
+  Key stats:
+  - TIM BOETSCH landed 42 significant strikes
+  - DAVID HEATH landed 7 significant strikes
+  - Knockdowns: TIM BOETSCH 0,  DAVID HEATH 0
+  - Takedowns: TIM BOETSCH 1,  DAVID HEATH 0

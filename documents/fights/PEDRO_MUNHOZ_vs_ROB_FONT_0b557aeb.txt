@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Brunson vs. Machida
+    Date: October 28, 2017
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: PEDRO MUNHOZ defeated ROB FONT via Submission  
+  at 4:03 of round 1
+  Key stats:
+  - PEDRO MUNHOZ landed 20 significant strikes
+  - ROB FONT landed 30 significant strikes
+  - Knockdowns: PEDRO MUNHOZ 0,  ROB FONT 0
+  - Takedowns: PEDRO MUNHOZ 0,  ROB FONT 0
+  Bonus: perf

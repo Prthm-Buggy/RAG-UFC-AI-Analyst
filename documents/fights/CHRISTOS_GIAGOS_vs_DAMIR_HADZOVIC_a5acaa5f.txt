@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gustafsson vs. Smith
+    Date: June 01, 2019
+    Location: Stockholm, Sweden
+    Weight Class: Lightweight
+    
+
+    Result: CHRISTOS GIAGOS defeated DAMIR HADZOVIC via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHRISTOS GIAGOS landed 47 significant strikes
+  - DAMIR HADZOVIC landed 24 significant strikes
+  - Knockdowns: CHRISTOS GIAGOS 0,  DAMIR HADZOVIC 0
+  - Takedowns: CHRISTOS GIAGOS 6,  DAMIR HADZOVIC 1

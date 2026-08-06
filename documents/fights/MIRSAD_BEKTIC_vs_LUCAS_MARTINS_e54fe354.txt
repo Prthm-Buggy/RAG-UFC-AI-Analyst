@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Condit vs Alves
+    Date: May 30, 2015
+    Location: Goiania, Goias, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: MIRSAD BEKTIC defeated LUCAS MARTINS via KO/TKO  
+  at 0:30 of round 2
+  Key stats:
+  - MIRSAD BEKTIC landed 39 significant strikes
+  - LUCAS MARTINS landed 7 significant strikes
+  - Knockdowns: MIRSAD BEKTIC 1,  LUCAS MARTINS 0
+  - Takedowns: MIRSAD BEKTIC 3,  LUCAS MARTINS 0

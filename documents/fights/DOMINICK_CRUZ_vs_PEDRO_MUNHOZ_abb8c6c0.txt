@@ -1,0 +1,14 @@
+Event: UFC 269: Oliveira vs. Poirier
+    Date: December 11, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DOMINICK CRUZ defeated PEDRO MUNHOZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DOMINICK CRUZ landed 103 significant strikes
+  - PEDRO MUNHOZ landed 74 significant strikes
+  - Knockdowns: DOMINICK CRUZ 0,  PEDRO MUNHOZ 1
+  - Takedowns: DOMINICK CRUZ 1,  PEDRO MUNHOZ 0
+  Bonus: fight

@@ -1,0 +1,11 @@
+Fighter: ANTONIO SILVA
+  Date of Birth: 1979-09-14
+  Career record: 10
+  First fight: 2012-05-26
+  Last fight: 2016-09-24
+
+Career Statistics:
+- Significant Strikes Landed :97
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :0

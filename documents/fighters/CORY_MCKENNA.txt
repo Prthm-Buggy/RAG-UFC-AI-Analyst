@@ -1,0 +1,11 @@
+Fighter: CORY MCKENNA
+  Date of Birth: 1999-07-11
+  Career record: 6
+  First fight: 2020-11-14
+  Last fight: 2024-10-12
+
+Career Statistics:
+- Significant Strikes Landed :196
+- Total takedowns landed :10
+- Knockdowns :0
+- Submission Attempts :2

@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Hermansson vs. Pyfer
+    Date : February 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Welterweight, Featherweight, Women's Strawweight, Light Heavyweight, Lightweight, Middleweight
+
+    Fight Results:
+  - CARLOS PRATES def. TREVIN GILES via KO/TKO(R2)
+- JACK HERMANSSON def. JOE PYFER via Decision - Unanimous(R5)
+- HYDER AMIL def. FERNIE GARCIA via KO/TKO(R2)
+- IHOR POTIERIA def. ROBERT BRYCZEK via Decision - Unanimous(R3)
+- BOLAJI OKI def. TIMMY CUAMBA via Decision - Split(R3)
+- MAX GRIFFIN def. JEREMIAH WELLS via Decision - Split(R3)
+- BOGDAN GUSKOV def. ZAC PAUGA via KO/TKO(R1)
+- LOMA LOOKBOONMEE def. BRUNA BRASIL via Decision - Unanimous(R3)
+- RODOLFO VIEIRA def. ARMEN PETROSYAN via Submission(R1)
+- GREGORY RODRIGUES def. BRAD TAVARES via KO/TKO(R3)
+- MARCIN PRACHNIO def. DEVIN CLARK via Decision - Unanimous(R3)
+- DAN IGE def. ANDRE FILI via KO/TKO(R1)
+- MICHAEL JOHNSON def. DARRIUS FLOWERS via Decision - Unanimous(R3)

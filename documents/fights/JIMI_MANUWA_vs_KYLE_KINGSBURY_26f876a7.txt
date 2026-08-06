@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Struve vs Miocic
+    Date: September 29, 2012
+    Location: Nottingham, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIMI MANUWA defeated KYLE KINGSBURY via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - JIMI MANUWA landed 53 significant strikes
+  - KYLE KINGSBURY landed 28 significant strikes
+  - Knockdowns: JIMI MANUWA 1,  KYLE KINGSBURY 0
+  - Takedowns: JIMI MANUWA 0,  KYLE KINGSBURY 2

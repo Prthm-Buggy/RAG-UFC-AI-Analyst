@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lopes vs. Silva
+    Date: September 13, 2025
+    Location: San Antonio, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: RAFA GARCIA defeated JARED GORDON via KO/TKO  
+  at 2:27 of round 3
+  Key stats:
+  - RAFA GARCIA landed 91 significant strikes
+  - JARED GORDON landed 65 significant strikes
+  - Knockdowns: RAFA GARCIA 1,  JARED GORDON 0
+  - Takedowns: RAFA GARCIA 2,  JARED GORDON 1

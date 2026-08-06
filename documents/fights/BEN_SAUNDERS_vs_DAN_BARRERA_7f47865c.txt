@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Hughes vs. Team Serra Finale
+    Date: December 08, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: BEN SAUNDERS defeated DAN BARRERA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BEN SAUNDERS landed 18 significant strikes
+  - DAN BARRERA landed 12 significant strikes
+  - Knockdowns: BEN SAUNDERS 0,  DAN BARRERA 0
+  - Takedowns: BEN SAUNDERS 0,  DAN BARRERA 1

@@ -1,0 +1,13 @@
+Event: UFC 117: Silva vs Sonnen
+    Date: August 07, 2010
+    Location: Oakland, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: RICK STORY defeated DUSTIN HAZELETT via KO/TKO  
+  at 1:15 of round 2
+  Key stats:
+  - RICK STORY landed 75 significant strikes
+  - DUSTIN HAZELETT landed 7 significant strikes
+  - Knockdowns: RICK STORY 1,  DUSTIN HAZELETT 0
+  - Takedowns: RICK STORY 3,  DUSTIN HAZELETT 0

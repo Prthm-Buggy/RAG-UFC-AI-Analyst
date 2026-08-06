@@ -1,0 +1,14 @@
+Event: UFC 273: Volkanovski vs. The Korean Zombie
+    Date: April 09, 2022
+    Location: Jacksonville, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: KHAMZAT CHIMAEV defeated GILBERT BURNS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KHAMZAT CHIMAEV landed 108 significant strikes
+  - GILBERT BURNS landed 119 significant strikes
+  - Knockdowns: KHAMZAT CHIMAEV 1,  GILBERT BURNS 0
+  - Takedowns: KHAMZAT CHIMAEV 2,  GILBERT BURNS 0
+  Bonus: fight

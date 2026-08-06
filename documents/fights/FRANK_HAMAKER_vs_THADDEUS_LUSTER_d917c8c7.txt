@@ -1,0 +1,13 @@
+Event: UFC 2: No Way Out
+    Date: March 11, 1994
+    Location: Denver, Colorado, USA
+    Weight Class: Open Weight
+    
+
+    Result: FRANK HAMAKER defeated THADDEUS LUSTER via Submission  
+  at 4:52 of round 1
+  Key stats:
+  - FRANK HAMAKER landed 2 significant strikes
+  - THADDEUS LUSTER landed 0 significant strikes
+  - Knockdowns: FRANK HAMAKER 0,  THADDEUS LUSTER 0
+  - Takedowns: FRANK HAMAKER 1,  THADDEUS LUSTER 0

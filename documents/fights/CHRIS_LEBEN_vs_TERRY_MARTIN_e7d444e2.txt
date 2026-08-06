@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Thomas vs Florian
+    Date: September 19, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS LEBEN defeated TERRY MARTIN via KO/TKO  
+  at 3:56 of round 3
+  Key stats:
+  - CHRIS LEBEN landed 53 significant strikes
+  - TERRY MARTIN landed 45 significant strikes
+  - Knockdowns: CHRIS LEBEN 1,  TERRY MARTIN 0
+  - Takedowns: CHRIS LEBEN 0,  TERRY MARTIN 4
+  Bonus: ko

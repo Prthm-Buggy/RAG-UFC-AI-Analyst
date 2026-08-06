@@ -1,0 +1,11 @@
+Fighter: LANDO VANNATA
+  Date of Birth: 1992-03-14
+  Career record: 12
+  First fight: 2016-07-13
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :540
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :1

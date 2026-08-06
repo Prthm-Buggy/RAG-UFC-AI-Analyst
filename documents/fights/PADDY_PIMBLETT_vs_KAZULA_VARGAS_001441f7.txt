@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Aspinall
+    Date: March 19, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: PADDY PIMBLETT defeated KAZULA VARGAS via Submission  
+  at 3:49 of round 1
+  Key stats:
+  - PADDY PIMBLETT landed 3 significant strikes
+  - KAZULA VARGAS landed 7 significant strikes
+  - Knockdowns: PADDY PIMBLETT 0,  KAZULA VARGAS 0
+  - Takedowns: PADDY PIMBLETT 1,  KAZULA VARGAS 0
+  Bonus: perf

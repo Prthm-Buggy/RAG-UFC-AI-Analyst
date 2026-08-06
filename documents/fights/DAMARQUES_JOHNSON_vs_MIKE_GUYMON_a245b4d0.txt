@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fight for the Troops 2
+    Date: January 22, 2011
+    Location: Killeen, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: DAMARQUES JOHNSON defeated MIKE GUYMON via Submission  
+  at 3:22 of round 1
+  Key stats:
+  - DAMARQUES JOHNSON landed 2 significant strikes
+  - MIKE GUYMON landed 1 significant strikes
+  - Knockdowns: DAMARQUES JOHNSON 0,  MIKE GUYMON 0
+  - Takedowns: DAMARQUES JOHNSON 1,  MIKE GUYMON 0

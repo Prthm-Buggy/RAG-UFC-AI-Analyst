@@ -1,0 +1,11 @@
+Fighter: TERUTO ISHIHARA
+  Date of Birth: 1991-07-23
+  Career record: 8
+  First fight: 2016-03-05
+  Last fight: 2019-02-09
+
+Career Statistics:
+- Significant Strikes Landed :207
+- Total takedowns landed :3
+- Knockdowns :6
+- Submission Attempts :0

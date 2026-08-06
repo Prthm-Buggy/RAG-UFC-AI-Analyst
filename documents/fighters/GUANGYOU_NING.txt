@@ -1,0 +1,11 @@
+Fighter: GUANGYOU NING
+  Date of Birth: 1981-12-15
+  Career record: 4
+  First fight: 2014-08-23
+  Last fight: 2016-11-26
+
+Career Statistics:
+- Significant Strikes Landed :146
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :1

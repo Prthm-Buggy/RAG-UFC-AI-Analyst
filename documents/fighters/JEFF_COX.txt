@@ -1,0 +1,11 @@
+Fighter: JEFF COX
+  Date of Birth: 1968-08-02
+  Career record: 2
+  First fight: 2007-06-12
+  Last fight: 2008-04-02
+
+Career Statistics:
+- Significant Strikes Landed :2
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

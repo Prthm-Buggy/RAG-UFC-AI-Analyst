@@ -1,0 +1,13 @@
+Event: UFC on FX: Alves vs Kampmann
+    Date: March 02, 2012
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAMES TE HUNA defeated AARON ROSA via KO/TKO  
+  at 2:08 of round 1
+  Key stats:
+  - JAMES TE HUNA landed 22 significant strikes
+  - AARON ROSA landed 0 significant strikes
+  - Knockdowns: JAMES TE HUNA 0,  AARON ROSA 0
+  - Takedowns: JAMES TE HUNA 0,  AARON ROSA 0

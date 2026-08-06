@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Thompson vs. Pettis
+    Date: March 23, 2019
+    Location: Nashville, Tennessee, USA
+    Weight Class: Welterweight
+    
+
+    Result: ANTHONY PETTIS defeated STEPHEN THOMPSON via KO/TKO  
+  at 4:55 of round 2
+  Key stats:
+  - ANTHONY PETTIS landed 32 significant strikes
+  - STEPHEN THOMPSON landed 47 significant strikes
+  - Knockdowns: ANTHONY PETTIS 1,  STEPHEN THOMPSON 0
+  - Takedowns: ANTHONY PETTIS 0,  STEPHEN THOMPSON 0
+  Bonus: perf

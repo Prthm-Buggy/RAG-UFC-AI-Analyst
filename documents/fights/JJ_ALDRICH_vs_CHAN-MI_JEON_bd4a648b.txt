@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Hunt
+    Date: June 10, 2017
+    Location: Auckland, New Zealand
+    Weight Class: Women's Strawweight
+    
+
+    Result: JJ ALDRICH defeated CHAN-MI JEON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JJ ALDRICH landed 98 significant strikes
+  - CHAN-MI JEON landed 92 significant strikes
+  - Knockdowns: JJ ALDRICH 0,  CHAN-MI JEON 0
+  - Takedowns: JJ ALDRICH 0,  CHAN-MI JEON 0

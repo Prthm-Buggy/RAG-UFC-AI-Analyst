@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Brunson vs. Shahbazyan
+    Date: August 01, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated RANDY BROWN via KO/TKO  
+  at 4:56 of round 2
+  Key stats:
+  - VICENTE LUQUE landed 64 significant strikes
+  - RANDY BROWN landed 61 significant strikes
+  - Knockdowns: VICENTE LUQUE 2,  RANDY BROWN 0
+  - Takedowns: VICENTE LUQUE 0,  RANDY BROWN 1
+  Bonus: perf

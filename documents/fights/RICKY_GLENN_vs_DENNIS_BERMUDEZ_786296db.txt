@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Santos vs. Ivanov
+    Date: July 14, 2018
+    Location: Boise, Idaho, USA
+    Weight Class: Featherweight
+    
+
+    Result: RICKY GLENN defeated DENNIS BERMUDEZ via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - RICKY GLENN landed 48 significant strikes
+  - DENNIS BERMUDEZ landed 42 significant strikes
+  - Knockdowns: RICKY GLENN 0,  DENNIS BERMUDEZ 0
+  - Takedowns: RICKY GLENN 0,  DENNIS BERMUDEZ 6

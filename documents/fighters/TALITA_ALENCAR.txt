@@ -1,0 +1,11 @@
+Fighter: TALITA ALENCAR
+  Date of Birth: 1990-10-17
+  Career record: 5
+  First fight: 2023-12-09
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :242
+- Total takedowns landed :14
+- Knockdowns :0
+- Submission Attempts :3

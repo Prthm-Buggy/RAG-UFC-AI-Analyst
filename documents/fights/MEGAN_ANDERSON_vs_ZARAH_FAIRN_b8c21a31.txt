@@ -1,0 +1,13 @@
+Event: UFC 243: Whittaker vs. Adesanya
+    Date: October 05, 2019
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Women's Featherweight
+    
+
+    Result: MEGAN ANDERSON defeated ZARAH FAIRN via Submission  
+  at 3:57 of round 1
+  Key stats:
+  - MEGAN ANDERSON landed 10 significant strikes
+  - ZARAH FAIRN landed 2 significant strikes
+  - Knockdowns: MEGAN ANDERSON 0,  ZARAH FAIRN 0
+  - Takedowns: MEGAN ANDERSON 1,  ZARAH FAIRN 0

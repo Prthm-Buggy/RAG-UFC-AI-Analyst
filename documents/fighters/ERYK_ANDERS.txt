@@ -1,0 +1,11 @@
+Fighter: ERYK ANDERS
+  Date of Birth: 1987-04-21
+  Career record: 19
+  First fight: 2017-07-22
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :776
+- Total takedowns landed :26
+- Knockdowns :6
+- Submission Attempts :1

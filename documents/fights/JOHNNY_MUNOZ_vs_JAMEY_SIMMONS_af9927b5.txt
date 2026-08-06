@@ -1,0 +1,13 @@
+Event: UFC 265: Lewis vs. Gane
+    Date: August 07, 2021
+    Location: Houston, Texas, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOHNNY MUNOZ defeated JAMEY SIMMONS via Submission  
+  at 2:35 of round 2
+  Key stats:
+  - JOHNNY MUNOZ landed 14 significant strikes
+  - JAMEY SIMMONS landed 7 significant strikes
+  - Knockdowns: JOHNNY MUNOZ 0,  JAMEY SIMMONS 0
+  - Takedowns: JOHNNY MUNOZ 2,  JAMEY SIMMONS 0

@@ -1,0 +1,13 @@
+Event: UFC 115: Liddell vs Franklin
+    Date: June 12, 2010
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PYLE defeated JESSE LENNOX via Submission  
+  at 4:44 of round 3
+  Key stats:
+  - MIKE PYLE landed 49 significant strikes
+  - JESSE LENNOX landed 37 significant strikes
+  - Knockdowns: MIKE PYLE 1,  JESSE LENNOX 0
+  - Takedowns: MIKE PYLE 0,  JESSE LENNOX 1

@@ -1,0 +1,13 @@
+Event: UFC 9: Motor City Madness
+    Date: May 17, 1996
+    Location: Detroit, Michigan, USA
+    Weight Class: Open Weight
+    
+
+    Result: CAL WORSHAM defeated ZANE FRAZIER via KO/TKO  
+  at 3:14 of round 1
+  Key stats:
+  - CAL WORSHAM landed 9 significant strikes
+  - ZANE FRAZIER landed 1 significant strikes
+  - Knockdowns: CAL WORSHAM 0,  ZANE FRAZIER 0
+  - Takedowns: CAL WORSHAM 1,  ZANE FRAZIER 0

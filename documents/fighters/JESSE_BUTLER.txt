@@ -1,0 +1,11 @@
+Fighter: JESSE BUTLER
+  Date of Birth: 1992-05-24
+  Career record: 2
+  First fight: 2023-06-03
+  Last fight: 2024-06-08
+
+Career Statistics:
+- Significant Strikes Landed :31
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

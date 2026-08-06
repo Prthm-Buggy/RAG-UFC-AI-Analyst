@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Belfort vs Henderson 3
+    Date: November 07, 2015
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: THOMAS ALMEIDA defeated ANTHONY BIRCHAK via KO/TKO  
+  at 4:24 of round 1
+  Key stats:
+  - THOMAS ALMEIDA landed 24 significant strikes
+  - ANTHONY BIRCHAK landed 27 significant strikes
+  - Knockdowns: THOMAS ALMEIDA 1,  ANTHONY BIRCHAK 0
+  - Takedowns: THOMAS ALMEIDA 0,  ANTHONY BIRCHAK 0
+  Bonus: perf

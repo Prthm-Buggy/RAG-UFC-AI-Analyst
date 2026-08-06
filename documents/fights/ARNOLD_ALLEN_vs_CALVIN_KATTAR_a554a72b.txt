@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kattar vs. Allen
+    Date: October 29, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ARNOLD ALLEN defeated CALVIN KATTAR via KO/TKO  
+  at 0:08 of round 2
+  Key stats:
+  - ARNOLD ALLEN landed 28 significant strikes
+  - CALVIN KATTAR landed 14 significant strikes
+  - Knockdowns: ARNOLD ALLEN 0,  CALVIN KATTAR 0
+  - Takedowns: ARNOLD ALLEN 0,  CALVIN KATTAR 0

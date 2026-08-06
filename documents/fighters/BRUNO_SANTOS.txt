@@ -1,0 +1,11 @@
+Fighter: BRUNO SANTOS
+  Date of Birth: 1987-07-17
+  Career record: 3
+  First fight: 2013-12-06
+  Last fight: 2014-10-04
+
+Career Statistics:
+- Significant Strikes Landed :53
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :1

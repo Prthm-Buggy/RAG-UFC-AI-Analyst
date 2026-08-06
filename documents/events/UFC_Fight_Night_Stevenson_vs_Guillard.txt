@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Stevenson vs Guillard
+    Date : April 05, 2007
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Welterweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - THIAGO TAVARES def. NAOYUKI KOTANI via Decision - Unanimous(R3)
+- KURT PELLEGRINO def. NATE MOHR via Submission(R1)
+- WILSON GOUVEIA def. SETH PETRUZELLI via Submission(R2)
+- JUSTIN MCCULLY def. ANTONI HARDONK via Decision - Unanimous(R3)
+- ROAN CARNEIRO def. RICH CLEMENTI via Decision - Unanimous(R3)
+- KUNIYOSHI HIRONAKA def. FORREST PETZ via Decision - Unanimous(R3)
+- JOE STEVENSON def. MELVIN GUILLARD via Submission(R1)
+- DREW FICKETT def. KEITA NAKAMURA via Decision - Unanimous(R3)
+- KENNY FLORIAN def. DOKONJONOSUKE MISHIMA via Submission(R3)

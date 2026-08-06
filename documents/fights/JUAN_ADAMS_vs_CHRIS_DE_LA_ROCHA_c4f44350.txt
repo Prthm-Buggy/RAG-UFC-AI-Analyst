@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lee vs. Iaquinta
+    Date: December 15, 2018
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUAN ADAMS defeated CHRIS DE LA ROCHA via KO/TKO  
+  at 0:58 of round 3
+  Key stats:
+  - JUAN ADAMS landed 86 significant strikes
+  - CHRIS DE LA ROCHA landed 41 significant strikes
+  - Knockdowns: JUAN ADAMS 0,  CHRIS DE LA ROCHA 0
+  - Takedowns: JUAN ADAMS 2,  CHRIS DE LA ROCHA 1

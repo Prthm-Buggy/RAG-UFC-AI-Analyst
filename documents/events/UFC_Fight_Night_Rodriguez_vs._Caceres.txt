@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Rodriguez vs. Caceres
+    Date : August 06, 2016
+    Location: Salt Lake City, Utah, USA
+    Number of Fights: 12
+    Weight Classes: Featherweight, Welterweight, Middleweight, Women's Strawweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - SANTIAGO PONZINIBBIO def. ZAK CUMMINGS via Decision - Unanimous(R3)
+- CUB SWANSON def. TATSUYA KAWAJIRI via Decision - Unanimous(R3)
+- YAIR RODRIGUEZ def. ALEX CACERES via Decision - Split(R5)
+- MARCIN TYBURA def. VIKTOR PESTA via KO/TKO(R2)
+- TERUTO ISHIHARA def. HORACIO GUTIERREZ via KO/TKO(R1)
+- TREVOR SMITH def. JOSEPH GIGLIOTTI via Decision - Unanimous(R3)
+- DENNIS BERMUDEZ def. RONY JASON via Decision - Unanimous(R3)
+- COURT MCGEE def. DOMINIQUE STEELE via Decision - Unanimous(R3)
+- MARYNA MOROZ def. DANIELLE TAYLOR via Decision - Split(R3)
+- THALES LEITES def. CHRIS CAMOZZI via Submission(R3)
+- JUSTIN LEDET def. CHASE SHERMAN via Decision - Unanimous(R3)
+- DAVID TEYMUR def. JASON NOVELLI via KO/TKO(R2)

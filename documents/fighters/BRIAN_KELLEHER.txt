@@ -1,0 +1,11 @@
+Fighter: BRIAN KELLEHER
+  Date of Birth: 1986-08-19
+  Career record: 17
+  First fight: 2017-06-03
+  Last fight: 2024-07-20
+
+Career Statistics:
+- Significant Strikes Landed :442
+- Total takedowns landed :15
+- Knockdowns :3
+- Submission Attempts :6

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Murphy
+    Date: May 18, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MELISSA GATTO defeated TAMIRES VIDAL via KO/TKO  
+  at 0:37 of round 3
+  Key stats:
+  - MELISSA GATTO landed 30 significant strikes
+  - TAMIRES VIDAL landed 15 significant strikes
+  - Knockdowns: MELISSA GATTO 0,  TAMIRES VIDAL 0
+  - Takedowns: MELISSA GATTO 2,  TAMIRES VIDAL 0

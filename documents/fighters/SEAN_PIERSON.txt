@@ -1,0 +1,11 @@
+Fighter: SEAN PIERSON
+  Date of Birth: 1976-03-10
+  Career record: 6
+  First fight: 2010-12-11
+  Last fight: 2013-06-15
+
+Career Statistics:
+- Significant Strikes Landed :298
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :2

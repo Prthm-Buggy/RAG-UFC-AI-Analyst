@@ -1,0 +1,13 @@
+Event: UFC 218: Holloway vs. Aldo 2
+    Date: December 02, 2017
+    Location: Detroit, Michigan, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANCIS NGANNOU defeated ALISTAIR OVEREEM via KO/TKO  
+  at 1:42 of round 1
+  Key stats:
+  - FRANCIS NGANNOU landed 6 significant strikes
+  - ALISTAIR OVEREEM landed 1 significant strikes
+  - Knockdowns: FRANCIS NGANNOU 1,  ALISTAIR OVEREEM 0
+  - Takedowns: FRANCIS NGANNOU 0,  ALISTAIR OVEREEM 0

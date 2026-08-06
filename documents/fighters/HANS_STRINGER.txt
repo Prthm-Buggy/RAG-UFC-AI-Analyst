@@ -1,0 +1,11 @@
+Fighter: HANS STRINGER
+  Date of Birth: 1987-07-06
+  Career record: 3
+  First fight: 2014-03-23
+  Last fight: 2015-07-18
+
+Career Statistics:
+- Significant Strikes Landed :79
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

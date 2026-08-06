@@ -1,0 +1,13 @@
+Event: UFC 61: Bitter Rivals
+    Date: July 08, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHEICK KONGO defeated GILBERT ALDANA via TKO - Doctor's Stoppage  
+  at 4:13 of round 1
+  Key stats:
+  - CHEICK KONGO landed 24 significant strikes
+  - GILBERT ALDANA landed 6 significant strikes
+  - Knockdowns: CHEICK KONGO 0,  GILBERT ALDANA 0
+  - Takedowns: CHEICK KONGO 1,  GILBERT ALDANA 2

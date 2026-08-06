@@ -1,0 +1,14 @@
+Event: UFC 127: Penn vs Fitch
+    Date: February 26, 2011
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Middleweight
+    
+
+    Result: KYLE NOKE defeated CHRIS CAMOZZI via Submission  
+  at 1:35 of round 1
+  Key stats:
+  - KYLE NOKE landed 4 significant strikes
+  - CHRIS CAMOZZI landed 4 significant strikes
+  - Knockdowns: KYLE NOKE 0,  CHRIS CAMOZZI 0
+  - Takedowns: KYLE NOKE 1,  CHRIS CAMOZZI 0
+  Bonus: sub

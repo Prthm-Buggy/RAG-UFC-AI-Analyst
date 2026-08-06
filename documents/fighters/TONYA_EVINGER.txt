@@ -1,0 +1,11 @@
+Fighter: TONYA EVINGER
+  Date of Birth: 1981-06-04
+  Career record: 3
+  First fight: 2017-07-29
+  Last fight: 2019-06-01
+
+Career Statistics:
+- Significant Strikes Landed :47
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

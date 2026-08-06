@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Blanchfield vs. Barber
+    Date : May 31, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Light Heavyweight, Women's Featherweight, Welterweight, Middleweight, Women's Strawweight, Flyweight
+
+    Fight Results:
+  - ALLAN NASCIMENTO def. JAFEL FILHO via Decision - Unanimous(R3)
+- RAMIZ BRAHIMAJ def. BILLY RAY GOFF via Submission(R1)
+- MATEUSZ GAMROT def. LUDOVIT KLEIN via Decision - Unanimous(R3)
+- ALICE ARDELEAN def. RAYANNE DOS SANTOS via Decision - Unanimous(R3)
+- KETLEN VIEIRA def. MACY CHIASSON via Decision - Unanimous(R3)
+- JORDAN LEAVITT def. KURT HOLOBAUGH via Submission(R1)
+- ZACH REESE def. DUSKO TODOROVIC via Decision - Unanimous(R3)
+- DUSTIN JACOBY def. BRUNO LOPES via KO/TKO(R1)
+- BOLAJI OKI def. MICHAEL ASWELL JR. via Decision - Unanimous(R3)

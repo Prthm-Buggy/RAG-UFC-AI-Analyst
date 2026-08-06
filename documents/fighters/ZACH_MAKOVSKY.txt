@@ -1,0 +1,11 @@
+Fighter: ZACH MAKOVSKY
+  Date of Birth: 1983-04-19
+  Career record: 7
+  First fight: 2013-12-14
+  Last fight: 2016-12-10
+
+Career Statistics:
+- Significant Strikes Landed :204
+- Total takedowns landed :26
+- Knockdowns :0
+- Submission Attempts :2

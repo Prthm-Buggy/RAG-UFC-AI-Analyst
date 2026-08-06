@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs. Prates
+    Date: November 09, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MELISSA MULLINS defeated KLAUDIA SYGULA via KO/TKO  
+  at 1:20 of round 2
+  Key stats:
+  - MELISSA MULLINS landed 38 significant strikes
+  - KLAUDIA SYGULA landed 12 significant strikes
+  - Knockdowns: MELISSA MULLINS 0,  KLAUDIA SYGULA 0
+  - Takedowns: MELISSA MULLINS 2,  KLAUDIA SYGULA 0

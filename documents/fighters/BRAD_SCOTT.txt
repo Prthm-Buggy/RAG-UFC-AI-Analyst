@@ -1,0 +1,11 @@
+Fighter: BRAD SCOTT
+  Date of Birth: 1989-06-24
+  Career record: 8
+  First fight: 2012-12-14
+  Last fight: 2018-05-27
+
+Career Statistics:
+- Significant Strikes Landed :327
+- Total takedowns landed :2
+- Knockdowns :2
+- Submission Attempts :4

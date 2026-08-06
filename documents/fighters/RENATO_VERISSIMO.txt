@@ -1,0 +1,11 @@
+Fighter: RENATO VERISSIMO
+  Date of Birth: 1973-08-03
+  Career record: 3
+  First fight: 2004-01-31
+  Last fight: 2004-10-22
+
+Career Statistics:
+- Significant Strikes Landed :33
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :7

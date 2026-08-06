@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Gustafsson vs Silva
+    Date: April 14, 2012
+    Location: Stockholm, Sweden
+    Weight Class: Middleweight
+    
+
+    Result: FRANCIS CARMONT defeated MAGNUS CEDENBLAD via Submission  
+  at 1:42 of round 2
+  Key stats:
+  - FRANCIS CARMONT landed 28 significant strikes
+  - MAGNUS CEDENBLAD landed 11 significant strikes
+  - Knockdowns: FRANCIS CARMONT 0,  MAGNUS CEDENBLAD 0
+  - Takedowns: FRANCIS CARMONT 2,  MAGNUS CEDENBLAD 0

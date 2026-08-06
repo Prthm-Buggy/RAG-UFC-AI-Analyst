@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Walker vs. Zhang
+    Date: August 23, 2025
+    Location: Shanghai, Hebei, China
+    Weight Class: Light Heavyweight
+    
+
+    Result: JOHNNY WALKER defeated ZHANG MINGYANG via KO/TKO  
+  at 2:37 of round 2
+  Key stats:
+  - JOHNNY WALKER landed 50 significant strikes
+  - ZHANG MINGYANG landed 20 significant strikes
+  - Knockdowns: JOHNNY WALKER 1,  ZHANG MINGYANG 0
+  - Takedowns: JOHNNY WALKER 0,  ZHANG MINGYANG 0
+  Bonus: perf

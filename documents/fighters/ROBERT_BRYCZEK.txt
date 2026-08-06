@@ -1,0 +1,11 @@
+Fighter: ROBERT BRYCZEK
+  Date of Birth: 1990-07-04
+  Career record: 3
+  First fight: 2024-02-10
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :117
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

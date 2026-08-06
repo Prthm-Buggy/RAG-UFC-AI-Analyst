@@ -1,0 +1,13 @@
+Event: UFC 267: Blachowicz vs. Teixeira
+    Date: October 30, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: ALBERT DURAEV defeated ROMAN KOPYLOV via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALBERT DURAEV landed 71 significant strikes
+  - ROMAN KOPYLOV landed 42 significant strikes
+  - Knockdowns: ALBERT DURAEV 0,  ROMAN KOPYLOV 1
+  - Takedowns: ALBERT DURAEV 1,  ROMAN KOPYLOV 1

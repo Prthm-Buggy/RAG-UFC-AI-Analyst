@@ -1,0 +1,19 @@
+Event : UFC 239: Jones vs. Santos
+    Date : July 06, 2019
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Welterweight, Women's Strawweight, Middleweight, Light Heavyweight, Women's Bantamweight, Featherweight, Bantamweight
+
+    Fight Results:
+  - JAN BLACHOWICZ def. LUKE ROCKHOLD via KO/TKO(R2)
+- SONG YADONG def. ALEJANDRO PEREZ via KO/TKO(R1)
+- CHANCE RENCOUNTRE def. ISMAIL NAURDIEV via Decision - Unanimous(R3)
+- MICHAEL CHIESA def. DIEGO SANCHEZ via Decision - Unanimous(R3)
+- ARNOLD ALLEN def. GILBERT MELENDEZ via Decision - Unanimous(R3)
+- AMANDA NUNES def. HOLLY HOLM via KO/TKO(R1)
+- EDMEN SHAHBAZYAN def. JACK MARSHMAN via Submission(R1)
+- JULIA AVILA def. PANNIE KIANZAD via Decision - Unanimous(R3)
+- JON JONES def. THIAGO SANTOS via Decision - Split(R5)
+- CLAUDIA GADELHA def. RANDA MARKOS via Decision - Unanimous(R3)
+- JORGE MASVIDAL def. BEN ASKREN via KO/TKO(R1)
+- MARLON VERA def. NOHELIN HERNANDEZ via Submission(R2)

@@ -1,0 +1,11 @@
+Fighter: LEVAN MAKASHVILI
+  Date of Birth: 1989-01-07
+  Career record: 2
+  First fight: 2015-05-16
+  Last fight: 2015-06-27
+
+Career Statistics:
+- Significant Strikes Landed :64
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :0

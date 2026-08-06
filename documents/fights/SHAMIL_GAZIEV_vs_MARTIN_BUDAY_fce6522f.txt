@@ -1,0 +1,14 @@
+Event: UFC 296: Edwards vs. Covington
+    Date: December 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SHAMIL GAZIEV defeated MARTIN BUDAY via KO/TKO  
+  at 0:56 of round 2
+  Key stats:
+  - SHAMIL GAZIEV landed 49 significant strikes
+  - MARTIN BUDAY landed 8 significant strikes
+  - Knockdowns: SHAMIL GAZIEV 0,  MARTIN BUDAY 0
+  - Takedowns: SHAMIL GAZIEV 0,  MARTIN BUDAY 0
+  Bonus: perf

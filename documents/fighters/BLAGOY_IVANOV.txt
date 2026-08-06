@@ -1,0 +1,11 @@
+Fighter: BLAGOY IVANOV
+  Date of Birth: 1986-10-09
+  Career record: 8
+  First fight: 2018-07-14
+  Last fight: 2023-07-01
+
+Career Statistics:
+- Significant Strikes Landed :422
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :1

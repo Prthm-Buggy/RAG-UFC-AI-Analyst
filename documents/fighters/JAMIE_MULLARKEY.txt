@@ -1,0 +1,11 @@
+Fighter: JAMIE MULLARKEY
+  Date of Birth: 1994-08-17
+  Career record: 13
+  First fight: 2019-10-05
+  Last fight: 2026-01-31
+
+Career Statistics:
+- Significant Strikes Landed :500
+- Total takedowns landed :20
+- Knockdowns :2
+- Submission Attempts :1

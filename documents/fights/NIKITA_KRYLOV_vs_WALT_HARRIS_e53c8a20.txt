@@ -1,0 +1,13 @@
+Event: UFC on FOX: Henderson vs Thomson
+    Date: January 25, 2014
+    Location: Chicago, Illinois, USA
+    Weight Class: Heavyweight
+    
+
+    Result: NIKITA KRYLOV defeated WALT HARRIS via KO/TKO  
+  at 0:25 of round 1
+  Key stats:
+  - NIKITA KRYLOV landed 11 significant strikes
+  - WALT HARRIS landed 1 significant strikes
+  - Knockdowns: NIKITA KRYLOV 1,  WALT HARRIS 0
+  - Takedowns: NIKITA KRYLOV 0,  WALT HARRIS 0

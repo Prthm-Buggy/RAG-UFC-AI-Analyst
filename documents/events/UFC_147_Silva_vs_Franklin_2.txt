@@ -1,0 +1,17 @@
+Event : UFC 147: Silva vs Franklin 2
+    Date : June 23, 2012
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Middleweight, Featherweight, Catch Weight
+
+    Fight Results:
+  - FABRICIO WERDUM def. MIKE RUSSOW via KO/TKO(R1)
+- RODRIGO DAMM def. ANISTAVIO MEDEIROS via Submission(R1)
+- FRANCISCO TRINALDO def. DELSON HELENO via KO/TKO(R1)
+- HUGO VIANA def. JOHN TEIXEIRA via Decision - Split(R3)
+- CEZAR FERREIRA def. SERGIO MORAES via Decision - Unanimous(R3)
+- THIAGO PERPETUO def. LEONARDO MAFRA via KO/TKO(R3)
+- RONY JASON def. GODOFREDO PEPEY via Decision - Unanimous(R3)
+- RICH FRANKLIN def. WANDERLEI SILVA via Decision - Unanimous(R5)
+- HACRAN DIAS def. IURI ALCANTARA via Decision - Unanimous(R3)
+- MARCOS VINICIUS def. WAGNER CAMPOS via KO/TKO(R3)

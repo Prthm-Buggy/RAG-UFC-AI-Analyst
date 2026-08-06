@@ -1,0 +1,13 @@
+Event: UFC - Road to UFC 4.6
+    Date: August 22, 2025
+    Location: Shanghai, Hebei, China
+    Weight Class: None
+    
+
+    Result: BRUNA BRASIL defeated SHI MING via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BRUNA BRASIL landed 31 significant strikes
+  - SHI MING landed 32 significant strikes
+  - Knockdowns: BRUNA BRASIL 0,  SHI MING 0
+  - Takedowns: BRUNA BRASIL 1,  SHI MING 2

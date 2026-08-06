@@ -1,0 +1,13 @@
+Event: UFC on FX: Belfort vs Bisping
+    Date: January 19, 2013
+    Location: Sao Paulo, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: KHABIB NURMAGOMEDOV defeated THIAGO TAVARES via KO/TKO  
+  at 1:55 of round 1
+  Key stats:
+  - KHABIB NURMAGOMEDOV landed 22 significant strikes
+  - THIAGO TAVARES landed 2 significant strikes
+  - Knockdowns: KHABIB NURMAGOMEDOV 1,  THIAGO TAVARES 0
+  - Takedowns: KHABIB NURMAGOMEDOV 0,  THIAGO TAVARES 0

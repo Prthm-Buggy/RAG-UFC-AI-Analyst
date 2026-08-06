@@ -1,0 +1,18 @@
+Event : The Ultimate Fighter: Team GSP vs Team Koscheck Finale
+    Date : December 04, 2010
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Lightweight, Light Heavyweight, Middleweight, Featherweight, Welterweight, Bantamweight
+
+    Fight Results:
+  - DEMIAN MAIA def. KENDALL GROVE via Decision - Unanimous(R3)
+- DAVID BRANCH def. RICH ATTONITO via Decision - Unanimous(R3)
+- KYLE WATSON def. SAKO CHIVITCHIAN via Decision - Unanimous(R3)
+- NICK PACE def. WILL CAMPUZANO via Submission(R3)
+- PABLO GARZA def. FREDSON PAIXAO via KO/TKO(R1)
+- RICK STORY def. JOHNY HENDRICKS via Decision - Unanimous(R3)
+- LEONARD GARCIA def. NAM PHAN via Decision - Split(R3)
+- STEPHAN BONNAR def. IGOR POKRAJAC via Decision - Unanimous(R3)
+- JONATHAN BROOKINS def. MICHAEL JOHNSON via Decision - Unanimous(R3)
+- IAN LOVELAND def. TYLER TONER via Decision - Unanimous(R3)
+- CODY MCKENZIE def. AARON WILKINSON via Submission(R1)

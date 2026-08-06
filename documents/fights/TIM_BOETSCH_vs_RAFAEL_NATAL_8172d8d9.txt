@@ -1,0 +1,13 @@
+Event: UFC 205: Alvarez vs McGregor
+    Date: November 12, 2016
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: TIM BOETSCH defeated RAFAEL NATAL via KO/TKO  
+  at 3:22 of round 1
+  Key stats:
+  - TIM BOETSCH landed 14 significant strikes
+  - RAFAEL NATAL landed 5 significant strikes
+  - Knockdowns: TIM BOETSCH 1,  RAFAEL NATAL 0
+  - Takedowns: TIM BOETSCH 0,  RAFAEL NATAL 0

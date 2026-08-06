@@ -1,0 +1,13 @@
+Event: UFC 140: Jones vs Machida
+    Date: December 10, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: YVES JABOUIN defeated WALEL WATSON via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - YVES JABOUIN landed 33 significant strikes
+  - WALEL WATSON landed 47 significant strikes
+  - Knockdowns: YVES JABOUIN 0,  WALEL WATSON 0
+  - Takedowns: YVES JABOUIN 2,  WALEL WATSON 0

@@ -1,0 +1,21 @@
+Event : UFC 304: Edwards vs. Muhammad 2
+    Date : July 27, 2024
+    Location: Manchester, England, United Kingdom
+    Number of Fights: 14
+    Weight Classes: Women's Strawweight, Welterweight, Middleweight, Featherweight, Light Heavyweight, Flyweight, Lightweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - NATHANIEL WOOD def. DANIEL PINEDA via Decision - Unanimous(R3)
+- GREGORY RODRIGUES def. CHRISTIAN LEROY DUNCAN via Decision - Unanimous(R3)
+- SHAUNA BANNON def. ALICE ARDELEAN via Decision - Split(R3)
+- MODESTAS BUKAUSKAS def. MARCIN PRACHNIO via Submission(R3)
+- MUHAMMAD MOKAEV def. MANEL KAPE via Decision - Unanimous(R3)
+- OBAN ELLIOTT def. PRESTON PARSONS via Decision - Unanimous(R3)
+- ARNOLD ALLEN def. GIGA CHIKADZE via Decision - Unanimous(R3)
+- BELAL MUHAMMAD def. LEON EDWARDS via Decision - Unanimous(R5)
+- TOM ASPINALL def. CURTIS BLAYDES via KO/TKO(R1)
+- BRUNA BRASIL def. MOLLY MCCANN via Decision - Unanimous(R3)
+- PADDY PIMBLETT def. KING GREEN via Submission(R1)
+- SAM PATTERSON def. KIEFER CROSBIE via Submission(R1)
+- JAKE HADLEY def. CAOLAN LOUGHRAN via Decision - Unanimous(R3)
+- MICK PARKIN def. LUKASZ BRZESKI via KO/TKO(R1)

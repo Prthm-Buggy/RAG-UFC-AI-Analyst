@@ -1,0 +1,13 @@
+Event: UFC 251: Usman vs. Masvidal
+    Date: July 11, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Featherweight
+    
+
+    Result: MAKWAN AMIRKHANI defeated DANNY HENRY via Submission  
+  at 3:15 of round 1
+  Key stats:
+  - MAKWAN AMIRKHANI landed 2 significant strikes
+  - DANNY HENRY landed 6 significant strikes
+  - Knockdowns: MAKWAN AMIRKHANI 0,  DANNY HENRY 0
+  - Takedowns: MAKWAN AMIRKHANI 1,  DANNY HENRY 0

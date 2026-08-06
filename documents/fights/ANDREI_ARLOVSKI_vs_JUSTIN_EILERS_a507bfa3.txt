@@ -1,0 +1,14 @@
+Event: UFC 53: Heavy Hitters
+    Date: June 04, 2005
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated JUSTIN EILERS via KO/TKO  
+  at 4:10 of round 1
+  Key stats:
+  - ANDREI ARLOVSKI landed 33 significant strikes
+  - JUSTIN EILERS landed 5 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 0,  JUSTIN EILERS 0
+  - Takedowns: ANDREI ARLOVSKI 0,  JUSTIN EILERS 0
+  Bonus: belt

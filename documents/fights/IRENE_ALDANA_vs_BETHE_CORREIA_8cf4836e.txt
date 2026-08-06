@@ -1,0 +1,13 @@
+Event: UFC 237: Namajunas vs. Andrade
+    Date: May 11, 2019
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Women's Bantamweight
+    
+
+    Result: IRENE ALDANA defeated BETHE CORREIA via Submission  
+  at 3:24 of round 3
+  Key stats:
+  - IRENE ALDANA landed 83 significant strikes
+  - BETHE CORREIA landed 81 significant strikes
+  - Knockdowns: IRENE ALDANA 0,  BETHE CORREIA 0
+  - Takedowns: IRENE ALDANA 0,  BETHE CORREIA 0

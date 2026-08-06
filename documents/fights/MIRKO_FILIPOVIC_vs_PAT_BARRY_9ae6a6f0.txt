@@ -1,0 +1,14 @@
+Event: UFC 115: Liddell vs Franklin
+    Date: June 12, 2010
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: MIRKO FILIPOVIC defeated PAT BARRY via Submission  
+  at 4:30 of round 3
+  Key stats:
+  - MIRKO FILIPOVIC landed 42 significant strikes
+  - PAT BARRY landed 25 significant strikes
+  - Knockdowns: MIRKO FILIPOVIC 1,  PAT BARRY 2
+  - Takedowns: MIRKO FILIPOVIC 0,  PAT BARRY 0
+  Bonus: sub

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Thompson vs. Till
+    Date: May 27, 2018
+    Location: Liverpool, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: TOM BREESE defeated DANIEL KELLY via KO/TKO  
+  at 3:33 of round 1
+  Key stats:
+  - TOM BREESE landed 23 significant strikes
+  - DANIEL KELLY landed 6 significant strikes
+  - Knockdowns: TOM BREESE 1,  DANIEL KELLY 0
+  - Takedowns: TOM BREESE 0,  DANIEL KELLY 0
+  Bonus: perf

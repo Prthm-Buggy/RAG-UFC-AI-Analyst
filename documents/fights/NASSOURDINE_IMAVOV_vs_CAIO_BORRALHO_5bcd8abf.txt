@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Imavov vs. Borralho
+    Date: September 06, 2025
+    Location: Paris, Ile-de-France, France
+    Weight Class: Middleweight
+    
+
+    Result: NASSOURDINE IMAVOV defeated CAIO BORRALHO via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - NASSOURDINE IMAVOV landed 81 significant strikes
+  - CAIO BORRALHO landed 66 significant strikes
+  - Knockdowns: NASSOURDINE IMAVOV 0,  CAIO BORRALHO 0
+  - Takedowns: NASSOURDINE IMAVOV 0,  CAIO BORRALHO 0

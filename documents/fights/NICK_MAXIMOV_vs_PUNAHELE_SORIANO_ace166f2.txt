@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Strickland
+    Date: February 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: NICK MAXIMOV defeated PUNAHELE SORIANO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - NICK MAXIMOV landed 29 significant strikes
+  - PUNAHELE SORIANO landed 45 significant strikes
+  - Knockdowns: NICK MAXIMOV 0,  PUNAHELE SORIANO 0
+  - Takedowns: NICK MAXIMOV 11,  PUNAHELE SORIANO 0

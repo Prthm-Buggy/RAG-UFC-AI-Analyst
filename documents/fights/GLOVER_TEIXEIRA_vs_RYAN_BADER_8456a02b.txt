@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Teixeira vs Bader
+    Date: September 04, 2013
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: GLOVER TEIXEIRA defeated RYAN BADER via KO/TKO  
+  at 2:55 of round 1
+  Key stats:
+  - GLOVER TEIXEIRA landed 14 significant strikes
+  - RYAN BADER landed 11 significant strikes
+  - Knockdowns: GLOVER TEIXEIRA 1,  RYAN BADER 0
+  - Takedowns: GLOVER TEIXEIRA 1,  RYAN BADER 0
+  Bonus: ko

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Strickland
+    Date: December 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DREW DOBER defeated KING GREEN via KO/TKO  
+  at 2:45 of round 2
+  Key stats:
+  - DREW DOBER landed 34 significant strikes
+  - KING GREEN landed 73 significant strikes
+  - Knockdowns: DREW DOBER 1,  KING GREEN 0
+  - Takedowns: DREW DOBER 0,  KING GREEN 0
+  Bonus: fight

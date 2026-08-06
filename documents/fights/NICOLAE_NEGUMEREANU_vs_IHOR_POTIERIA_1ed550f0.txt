@@ -1,0 +1,13 @@
+Event: UFC 277: Pena vs. Nunes 2
+    Date: July 30, 2022
+    Location: Dallas, Texas, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: NICOLAE NEGUMEREANU defeated IHOR POTIERIA via KO/TKO  
+  at 3:33 of round 2
+  Key stats:
+  - NICOLAE NEGUMEREANU landed 51 significant strikes
+  - IHOR POTIERIA landed 38 significant strikes
+  - Knockdowns: NICOLAE NEGUMEREANU 0,  IHOR POTIERIA 0
+  - Takedowns: NICOLAE NEGUMEREANU 2,  IHOR POTIERIA 0

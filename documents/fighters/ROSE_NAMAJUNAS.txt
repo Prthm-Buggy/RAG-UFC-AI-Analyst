@@ -1,0 +1,11 @@
+Fighter: ROSE NAMAJUNAS
+  Date of Birth: 1992-06-29
+  Career record: 19
+  First fight: 2014-12-12
+  Last fight: 2026-01-24
+
+Career Statistics:
+- Significant Strikes Landed :1040
+- Total takedowns landed :29
+- Knockdowns :6
+- Submission Attempts :7

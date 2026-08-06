@@ -1,0 +1,11 @@
+Fighter: COLE WILLIAMS
+  Date of Birth: 1983-12-15
+  Career record: 2
+  First fight: 2019-08-03
+  Last fight: 2020-10-31
+
+Career Statistics:
+- Significant Strikes Landed :3
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

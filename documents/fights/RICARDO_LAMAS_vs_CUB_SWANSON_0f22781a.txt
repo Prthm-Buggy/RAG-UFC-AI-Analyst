@@ -1,0 +1,14 @@
+Event: UFC on FOX: Velasquez vs Dos Santos
+    Date: November 12, 2011
+    Location: Anaheim, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: RICARDO LAMAS defeated CUB SWANSON via Submission  
+  at 2:16 of round 2
+  Key stats:
+  - RICARDO LAMAS landed 9 significant strikes
+  - CUB SWANSON landed 17 significant strikes
+  - Knockdowns: RICARDO LAMAS 0,  CUB SWANSON 0
+  - Takedowns: RICARDO LAMAS 2,  CUB SWANSON 1
+  Bonus: sub

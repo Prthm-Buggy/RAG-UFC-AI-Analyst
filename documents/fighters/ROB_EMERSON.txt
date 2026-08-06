@@ -1,0 +1,11 @@
+Fighter: ROB EMERSON
+  Date of Birth: 1981-07-30
+  Career record: 6
+  First fight: 2008-02-02
+  Last fight: 2010-03-31
+
+Career Statistics:
+- Significant Strikes Landed :182
+- Total takedowns landed :9
+- Knockdowns :2
+- Submission Attempts :1

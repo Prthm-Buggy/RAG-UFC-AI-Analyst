@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Marreta vs. Anders
+    Date: September 22, 2018
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Women's Flyweight
+    
+
+    Result: MAYRA BUENO SILVA defeated GILLIAN ROBERTSON via Submission  
+  at 4:55 of round 1
+  Key stats:
+  - MAYRA BUENO SILVA landed 11 significant strikes
+  - GILLIAN ROBERTSON landed 11 significant strikes
+  - Knockdowns: MAYRA BUENO SILVA 0,  GILLIAN ROBERTSON 0
+  - Takedowns: MAYRA BUENO SILVA 0,  GILLIAN ROBERTSON 1

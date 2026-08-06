@@ -1,0 +1,13 @@
+Event: UFC 240: Holloway vs. Edgar
+    Date: July 27, 2019
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Featherweight
+    
+
+    Result: GAVIN TUCKER defeated SEUNGWOO CHOI via Submission  
+  at 3:17 of round 3
+  Key stats:
+  - GAVIN TUCKER landed 37 significant strikes
+  - SEUNGWOO CHOI landed 23 significant strikes
+  - Knockdowns: GAVIN TUCKER 0,  SEUNGWOO CHOI 0
+  - Takedowns: GAVIN TUCKER 5,  SEUNGWOO CHOI 2

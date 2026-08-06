@@ -1,0 +1,11 @@
+Fighter: JUSTIN MCCULLY
+  Date of Birth: 1976-02-18
+  Career record: 4
+  First fight: 2007-04-05
+  Last fight: 2009-08-29
+
+Career Statistics:
+- Significant Strikes Landed :74
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :0

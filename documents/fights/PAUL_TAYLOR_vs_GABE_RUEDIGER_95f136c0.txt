@@ -1,0 +1,13 @@
+Event: UFC 126: Silva vs Belfort
+    Date: February 05, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: PAUL TAYLOR defeated GABE RUEDIGER via KO/TKO  
+  at 1:42 of round 2
+  Key stats:
+  - PAUL TAYLOR landed 37 significant strikes
+  - GABE RUEDIGER landed 17 significant strikes
+  - Knockdowns: PAUL TAYLOR 1,  GABE RUEDIGER 0
+  - Takedowns: PAUL TAYLOR 0,  GABE RUEDIGER 0

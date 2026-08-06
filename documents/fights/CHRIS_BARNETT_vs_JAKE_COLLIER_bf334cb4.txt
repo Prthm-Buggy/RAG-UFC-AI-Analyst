@@ -1,0 +1,13 @@
+Event: UFC 279: Diaz vs. Ferguson
+    Date: September 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHRIS BARNETT defeated JAKE COLLIER via KO/TKO  
+  at 2:24 of round 2
+  Key stats:
+  - CHRIS BARNETT landed 54 significant strikes
+  - JAKE COLLIER landed 51 significant strikes
+  - Knockdowns: CHRIS BARNETT 0,  JAKE COLLIER 1
+  - Takedowns: CHRIS BARNETT 0,  JAKE COLLIER 1

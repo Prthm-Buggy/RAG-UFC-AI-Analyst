@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Spann
+    Date: September 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY SMITH defeated RYAN SPANN via Submission  
+  at 3:47 of round 1
+  Key stats:
+  - ANTHONY SMITH landed 17 significant strikes
+  - RYAN SPANN landed 8 significant strikes
+  - Knockdowns: ANTHONY SMITH 2,  RYAN SPANN 0
+  - Takedowns: ANTHONY SMITH 0,  RYAN SPANN 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 139: Shogun vs Henderson
+    Date: November 19, 2011
+    Location: San Jose, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS WEIDMAN defeated TOM LAWLOR via Submission  
+  at 2:07 of round 1
+  Key stats:
+  - CHRIS WEIDMAN landed 3 significant strikes
+  - TOM LAWLOR landed 2 significant strikes
+  - Knockdowns: CHRIS WEIDMAN 0,  TOM LAWLOR 0
+  - Takedowns: CHRIS WEIDMAN 1,  TOM LAWLOR 0

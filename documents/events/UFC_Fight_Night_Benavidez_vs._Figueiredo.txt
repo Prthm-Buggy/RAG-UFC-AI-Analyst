@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Benavidez vs. Figueiredo
+    Date : February 29, 2020
+    Location: Norfolk, Virginia, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Flyweight, Women's Featherweight, Light Heavyweight, Featherweight, Welterweight, Middleweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - BRENDAN ALLEN def. TOM BREESE via KO/TKO(R1)
+- KYLER PHILLIPS def. GABRIEL SILVA via Decision - Unanimous(R3)
+- GRANT DAWSON def. DARRICK MINNER via Submission(R2)
+- MARCIN TYBURA def. SERGHEI SPIVAC via Decision - Unanimous(R3)
+- MAGOMED ANKALAEV def. ION CUTELABA via KO/TKO(R1)
+- SEAN BRADY def. ISMAIL NAURDIEV via Decision - Unanimous(R3)
+- SPIKE CARLYLE def. AALON CRUZ via KO/TKO(R1)
+- LUIS PENA def. STEVE GARCIA via Decision - Unanimous(R3)
+- MEGAN ANDERSON def. NORMA DUMONT via KO/TKO(R1)
+- FELICIA SPENCER def. ZARAH FAIRN via KO/TKO(R1)
+- DEIVESON FIGUEIREDO def. JOSEPH BENAVIDEZ via KO/TKO(R2)
+- JORDAN GRIFFIN def. TJ BROWN via Submission(R2)

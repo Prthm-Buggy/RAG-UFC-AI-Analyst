@@ -1,0 +1,13 @@
+Event: UFC 52: Couture vs Liddell 2
+    Date: April 16, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOE DOERKSEN defeated PATRICK COTE via Submission  
+  at 2:35 of round 3
+  Key stats:
+  - JOE DOERKSEN landed 9 significant strikes
+  - PATRICK COTE landed 37 significant strikes
+  - Knockdowns: JOE DOERKSEN 0,  PATRICK COTE 2
+  - Takedowns: JOE DOERKSEN 4,  PATRICK COTE 0

@@ -1,0 +1,11 @@
+Fighter: TYRELL FORTUNE
+  Date of Birth: 1990-07-04
+  Career record: 1
+  First fight: 2026-03-28
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :30
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

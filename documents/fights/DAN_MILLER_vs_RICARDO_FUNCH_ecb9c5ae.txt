@@ -1,0 +1,14 @@
+Event: UFC on FX: Maynard vs Guida
+    Date: June 22, 2012
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: DAN MILLER defeated RICARDO FUNCH via Submission  
+  at 3:12 of round 3
+  Key stats:
+  - DAN MILLER landed 57 significant strikes
+  - RICARDO FUNCH landed 72 significant strikes
+  - Knockdowns: DAN MILLER 1,  RICARDO FUNCH 0
+  - Takedowns: DAN MILLER 0,  RICARDO FUNCH 2
+  Bonus: sub

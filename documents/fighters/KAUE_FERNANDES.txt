@@ -1,0 +1,11 @@
+Fighter: KAUE FERNANDES
+  Date of Birth: 1995-03-17
+  Career record: 4
+  First fight: 2023-11-04
+  Last fight: 2025-09-06
+
+Career Statistics:
+- Significant Strikes Landed :163
+- Total takedowns landed :3
+- Knockdowns :4
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: LAUREANO STAROPOLI
+  Date of Birth: 1993-02-27
+  Career record: 6
+  First fight: 2018-11-17
+  Last fight: 2021-10-23
+
+Career Statistics:
+- Significant Strikes Landed :298
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

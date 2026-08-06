@@ -1,0 +1,11 @@
+Fighter: MATT SAYLES
+  Date of Birth: 1994-02-21
+  Career record: 4
+  First fight: 2018-08-04
+  Last fight: 2021-12-18
+
+Career Statistics:
+- Significant Strikes Landed :167
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :2

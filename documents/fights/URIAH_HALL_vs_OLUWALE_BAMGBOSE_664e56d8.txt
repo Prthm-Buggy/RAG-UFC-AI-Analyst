@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Teixeira vs Saint Preux
+    Date: August 08, 2015
+    Location: Nashville, Tennessee, USA
+    Weight Class: Middleweight
+    
+
+    Result: URIAH HALL defeated OLUWALE BAMGBOSE via KO/TKO  
+  at 2:32 of round 1
+  Key stats:
+  - URIAH HALL landed 11 significant strikes
+  - OLUWALE BAMGBOSE landed 7 significant strikes
+  - Knockdowns: URIAH HALL 0,  OLUWALE BAMGBOSE 0
+  - Takedowns: URIAH HALL 1,  OLUWALE BAMGBOSE 0

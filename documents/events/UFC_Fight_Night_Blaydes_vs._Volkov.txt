@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Blaydes vs. Volkov
+    Date : June 20, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Women's Flyweight, Featherweight, Catch Weight, Welterweight, Women's Strawweight, Lightweight, Women's Bantamweight
+
+    Fight Results:
+  - GILLIAN ROBERTSON def. CORTNEY CASEY via Submission(R3)
+- JIM MILLER def. ROOSEVELT ROBERTS via Submission(R1)
+- JUSTIN JAYNES def. FRANK CAMACHO via KO/TKO(R1)
+- KING GREEN def. CLAY GUIDA via Decision - Unanimous(R3)
+- JOSH EMMETT def. SHANE BURGOS via Decision - Unanimous(R3)
+- CURTIS BLAYDES def. ALEXANDER VOLKOV via Decision - Unanimous(R5)
+- BELAL MUHAMMAD def. LYMAN GOOD via Decision - Unanimous(R3)
+- RAQUEL PENNINGTON def. MARION RENEAU via Decision - Unanimous(R3)
+- LAUREN MURPHY def. ROXANNE MODAFFERI via Decision - Unanimous(R3)
+- TECIA PENNINGTON def. BRIANNA FORTINO via Decision - Unanimous(R3)
+- AUSTIN HUBBARD def. MAX ROHSKOPF via TKO - Doctor's Stoppage(R2)

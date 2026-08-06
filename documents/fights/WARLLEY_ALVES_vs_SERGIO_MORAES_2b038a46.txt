@@ -1,0 +1,14 @@
+Event: UFC 237: Namajunas vs. Andrade
+    Date: May 11, 2019
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: WARLLEY ALVES defeated SERGIO MORAES via KO/TKO  
+  at 4:13 of round 3
+  Key stats:
+  - WARLLEY ALVES landed 72 significant strikes
+  - SERGIO MORAES landed 20 significant strikes
+  - Knockdowns: WARLLEY ALVES 1,  SERGIO MORAES 0
+  - Takedowns: WARLLEY ALVES 0,  SERGIO MORAES 0
+  Bonus: perf

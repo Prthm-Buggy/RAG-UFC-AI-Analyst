@@ -1,0 +1,14 @@
+Event: UFC 288: Sterling vs. Cejudo
+    Date: May 06, 2023
+    Location: Newark, New Jersey, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: YAN XIAONAN defeated JESSICA ANDRADE via KO/TKO  
+  at 2:20 of round 1
+  Key stats:
+  - YAN XIAONAN landed 26 significant strikes
+  - JESSICA ANDRADE landed 12 significant strikes
+  - Knockdowns: YAN XIAONAN 1,  JESSICA ANDRADE 0
+  - Takedowns: YAN XIAONAN 0,  JESSICA ANDRADE 0
+  Bonus: perf

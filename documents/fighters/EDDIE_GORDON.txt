@@ -1,0 +1,11 @@
+Fighter: EDDIE GORDON
+  Date of Birth: 1983-07-22
+  Career record: 4
+  First fight: 2014-07-06
+  Last fight: 2015-06-27
+
+Career Statistics:
+- Significant Strikes Landed :79
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,17 @@
+Event : UFC 90: Silva vs Cote
+    Date : October 25, 2008
+    Location: Rosemont, Illinois, USA
+    Number of Fights: 10
+    Weight Classes: Middleweight, Welterweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - THALES LEITES def. DREW MCFEDRIES via Submission(R1)
+- JUNIOR DOS SANTOS def. FABRICIO WERDUM via KO/TKO(R1)
+- ANDERSON SILVA def. PATRICK COTE via KO/TKO(R3)
+- SPENCER FISHER def. SHANNON GUGERTY via Submission(R3)
+- GRAY MAYNARD def. RICH CLEMENTI via Decision - Unanimous(R3)
+- THIAGO ALVES def. JOSH KOSCHECK via Decision - Unanimous(R3)
+- HERMES FRANCA def. MARCUS AURELIO via Decision - Unanimous(R3)
+- SEAN SHERK def. TYSON GRIFFIN via Decision - Unanimous(R3)
+- PETE SELL def. JOSHUA BURKMAN via Decision - Unanimous(R3)
+- DAN MILLER def. MATT HORWICH via Decision - Unanimous(R3)

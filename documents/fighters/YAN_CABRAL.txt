@@ -1,0 +1,11 @@
+Fighter: YAN CABRAL
+  Date of Birth: 1983-05-13
+  Career record: 5
+  First fight: 2013-10-09
+  Last fight: 2016-05-08
+
+Career Statistics:
+- Significant Strikes Landed :115
+- Total takedowns landed :11
+- Knockdowns :1
+- Submission Attempts :4

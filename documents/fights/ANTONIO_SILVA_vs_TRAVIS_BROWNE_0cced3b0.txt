@@ -1,0 +1,13 @@
+Event: UFC on FX: Browne vs Bigfoot
+    Date: October 05, 2012
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANTONIO SILVA defeated TRAVIS BROWNE via KO/TKO  
+  at 3:27 of round 1
+  Key stats:
+  - ANTONIO SILVA landed 15 significant strikes
+  - TRAVIS BROWNE landed 8 significant strikes
+  - Knockdowns: ANTONIO SILVA 1,  TRAVIS BROWNE 0
+  - Takedowns: ANTONIO SILVA 0,  TRAVIS BROWNE 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Gastelum
+    Date: August 21, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: IGNACIO BAHAMONDES defeated ROOSEVELT ROBERTS via KO/TKO  
+  at 4:55 of round 3
+  Key stats:
+  - IGNACIO BAHAMONDES landed 105 significant strikes
+  - ROOSEVELT ROBERTS landed 55 significant strikes
+  - Knockdowns: IGNACIO BAHAMONDES 1,  ROOSEVELT ROBERTS 0
+  - Takedowns: IGNACIO BAHAMONDES 0,  ROOSEVELT ROBERTS 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Caceres
+    Date: August 06, 2016
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Middleweight
+    
+
+    Result: THALES LEITES defeated CHRIS CAMOZZI via Submission  
+  at 2:58 of round 3
+  Key stats:
+  - THALES LEITES landed 36 significant strikes
+  - CHRIS CAMOZZI landed 8 significant strikes
+  - Knockdowns: THALES LEITES 0,  CHRIS CAMOZZI 0
+  - Takedowns: THALES LEITES 5,  CHRIS CAMOZZI 0

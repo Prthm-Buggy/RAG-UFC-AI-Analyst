@@ -1,0 +1,11 @@
+Fighter: MANON FIOROT
+  Date of Birth: 1990-02-17
+  Career record: 9
+  First fight: 2021-01-20
+  Last fight: 2025-10-18
+
+Career Statistics:
+- Significant Strikes Landed :726
+- Total takedowns landed :9
+- Knockdowns :1
+- Submission Attempts :0

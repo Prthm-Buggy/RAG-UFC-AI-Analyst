@@ -1,0 +1,14 @@
+Event: UFC 290: Volkanovski vs. Rodriguez
+    Date: July 08, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: DENISE GOMES defeated YAZMIN JAUREGUI via KO/TKO  
+  at 0:20 of round 1
+  Key stats:
+  - DENISE GOMES landed 17 significant strikes
+  - YAZMIN JAUREGUI landed 0 significant strikes
+  - Knockdowns: DENISE GOMES 1,  YAZMIN JAUREGUI 0
+  - Takedowns: DENISE GOMES 0,  YAZMIN JAUREGUI 0
+  Bonus: perf

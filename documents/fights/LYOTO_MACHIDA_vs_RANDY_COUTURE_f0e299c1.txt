@@ -1,0 +1,14 @@
+Event: UFC 129: St-Pierre vs Shields
+    Date: April 30, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: LYOTO MACHIDA defeated RANDY COUTURE via KO/TKO  
+  at 1:05 of round 2
+  Key stats:
+  - LYOTO MACHIDA landed 15 significant strikes
+  - RANDY COUTURE landed 5 significant strikes
+  - Knockdowns: LYOTO MACHIDA 1,  RANDY COUTURE 0
+  - Takedowns: LYOTO MACHIDA 0,  RANDY COUTURE 0
+  Bonus: ko

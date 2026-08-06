@@ -1,0 +1,13 @@
+Event: UFC 181: Hendricks vs Lawler II
+    Date: December 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TRAVIS BROWNE defeated BRENDAN SCHAUB via KO/TKO  
+  at 4:50 of round 1
+  Key stats:
+  - TRAVIS BROWNE landed 25 significant strikes
+  - BRENDAN SCHAUB landed 5 significant strikes
+  - Knockdowns: TRAVIS BROWNE 0,  BRENDAN SCHAUB 0
+  - Takedowns: TRAVIS BROWNE 1,  BRENDAN SCHAUB 1

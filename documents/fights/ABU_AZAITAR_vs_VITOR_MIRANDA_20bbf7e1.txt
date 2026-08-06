@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shogun vs. Smith
+    Date: July 22, 2018
+    Location: Hamburg, Hamburg, Germany
+    Weight Class: Middleweight
+    
+
+    Result: ABU AZAITAR defeated VITOR MIRANDA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ABU AZAITAR landed 48 significant strikes
+  - VITOR MIRANDA landed 19 significant strikes
+  - Knockdowns: ABU AZAITAR 0,  VITOR MIRANDA 0
+  - Takedowns: ABU AZAITAR 1,  VITOR MIRANDA 3

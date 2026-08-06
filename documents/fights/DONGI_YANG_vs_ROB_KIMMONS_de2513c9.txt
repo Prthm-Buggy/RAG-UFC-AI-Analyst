@@ -1,0 +1,13 @@
+Event: UFC Live: Sanchez vs Kampmann
+    Date: March 03, 2011
+    Location: Louisville, Kentucky, USA
+    Weight Class: Middleweight
+    
+
+    Result: DONGI YANG defeated ROB KIMMONS via KO/TKO  
+  at 4:47 of round 2
+  Key stats:
+  - DONGI YANG landed 57 significant strikes
+  - ROB KIMMONS landed 1 significant strikes
+  - Knockdowns: DONGI YANG 1,  ROB KIMMONS 0
+  - Takedowns: DONGI YANG 1,  ROB KIMMONS 1

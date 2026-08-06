@@ -1,0 +1,13 @@
+Event: UFC 318: Holloway vs. Poirier 3
+    Date: July 19, 2025
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRUNNO FERREIRA defeated Jackson McVey via Submission  
+  at 3:35 of round 1
+  Key stats:
+  - BRUNNO FERREIRA landed 7 significant strikes
+  - Jackson McVey landed 4 significant strikes
+  - Knockdowns: BRUNNO FERREIRA 0,  Jackson McVey 0
+  - Takedowns: BRUNNO FERREIRA 1,  Jackson McVey 0

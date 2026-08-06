@@ -1,0 +1,13 @@
+Event: UFC 272: Covington vs. Masvidal
+    Date: March 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JALIN TURNER defeated JAMIE MULLARKEY via KO/TKO  
+  at 0:46 of round 2
+  Key stats:
+  - JALIN TURNER landed 52 significant strikes
+  - JAMIE MULLARKEY landed 35 significant strikes
+  - Knockdowns: JALIN TURNER 1,  JAMIE MULLARKEY 0
+  - Takedowns: JALIN TURNER 1,  JAMIE MULLARKEY 1

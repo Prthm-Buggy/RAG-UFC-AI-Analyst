@@ -1,0 +1,13 @@
+Event: UFC 113: Machida vs Shogun 2
+    Date: May 08, 2010
+    Location: Montreal, Quebec, Canada
+    Weight Class: Welterweight
+    
+
+    Result: MARCUS DAVIS defeated JONATHAN GOULET via KO/TKO  
+  at 1:23 of round 2
+  Key stats:
+  - MARCUS DAVIS landed 11 significant strikes
+  - JONATHAN GOULET landed 5 significant strikes
+  - Knockdowns: MARCUS DAVIS 2,  JONATHAN GOULET 0
+  - Takedowns: MARCUS DAVIS 0,  JONATHAN GOULET 4

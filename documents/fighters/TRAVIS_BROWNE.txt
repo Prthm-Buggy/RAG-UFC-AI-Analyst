@@ -1,0 +1,11 @@
+Fighter: TRAVIS BROWNE
+  Date of Birth: 1982-07-17
+  Career record: 16
+  First fight: 2010-06-19
+  Last fight: 2017-07-08
+
+Career Statistics:
+- Significant Strikes Landed :378
+- Total takedowns landed :9
+- Knockdowns :6
+- Submission Attempts :2

@@ -1,0 +1,13 @@
+Event: UFC 223: Khabib vs. Iaquinta
+    Date: April 07, 2018
+    Location: Brooklyn, New York, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DEVIN CLARK defeated MIKE RODRIGUEZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DEVIN CLARK landed 50 significant strikes
+  - MIKE RODRIGUEZ landed 40 significant strikes
+  - Knockdowns: DEVIN CLARK 0,  MIKE RODRIGUEZ 0
+  - Takedowns: DEVIN CLARK 7,  MIKE RODRIGUEZ 0

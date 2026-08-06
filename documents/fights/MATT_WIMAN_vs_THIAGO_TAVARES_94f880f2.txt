@@ -1,0 +1,14 @@
+Event: UFC 85: Bedlam
+    Date: June 07, 2008
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: MATT WIMAN defeated THIAGO TAVARES via KO/TKO  
+  at 1:57 of round 2
+  Key stats:
+  - MATT WIMAN landed 18 significant strikes
+  - THIAGO TAVARES landed 13 significant strikes
+  - Knockdowns: MATT WIMAN 1,  THIAGO TAVARES 0
+  - Takedowns: MATT WIMAN 2,  THIAGO TAVARES 1
+  Bonus: fight

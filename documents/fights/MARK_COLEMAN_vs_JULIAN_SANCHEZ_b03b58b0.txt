@@ -1,0 +1,13 @@
+Event: UFC 11: The Proving Ground
+    Date: September 20, 1996
+    Location: Augusta, Georgia, USA
+    Weight Class: Open Weight
+    
+
+    Result: MARK COLEMAN defeated JULIAN SANCHEZ via Submission  
+  at 0:45 of round 1
+  Key stats:
+  - MARK COLEMAN landed 7 significant strikes
+  - JULIAN SANCHEZ landed 0 significant strikes
+  - Knockdowns: MARK COLEMAN 0,  JULIAN SANCHEZ 0
+  - Takedowns: MARK COLEMAN 1,  JULIAN SANCHEZ 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Chikadze
+    Date: August 28, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DUSTIN JACOBY defeated DARREN STEWART via KO/TKO  
+  at 3:04 of round 1
+  Key stats:
+  - DUSTIN JACOBY landed 37 significant strikes
+  - DARREN STEWART landed 18 significant strikes
+  - Knockdowns: DUSTIN JACOBY 0,  DARREN STEWART 0
+  - Takedowns: DUSTIN JACOBY 0,  DARREN STEWART 2

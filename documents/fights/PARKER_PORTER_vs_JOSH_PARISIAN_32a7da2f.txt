@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Clark
+    Date: November 28, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PARKER PORTER defeated JOSH PARISIAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PARKER PORTER landed 126 significant strikes
+  - JOSH PARISIAN landed 114 significant strikes
+  - Knockdowns: PARKER PORTER 0,  JOSH PARISIAN 0
+  - Takedowns: PARKER PORTER 2,  JOSH PARISIAN 0

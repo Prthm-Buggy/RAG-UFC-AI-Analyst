@@ -1,0 +1,16 @@
+Event : UFC 68: The Uprising
+    Date : March 03, 2007
+    Location: Columbus, Ohio, USA
+    Number of Fights: 9
+    Weight Classes: Light Heavyweight, Middleweight, Welterweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - GLEISON TIBAU def. JASON DENT via Decision - Unanimous(R3)
+- MARTIN KAMPMANN def. DREW MCFEDRIES via Submission(R1)
+- JASON LAMBERT def. RENATO SOBRAL via KO/TKO(R2)
+- RANDY COUTURE def. TIM SYLVIA via Decision - Unanimous(R5)
+- JON FITCH def. LUIGI FIORAVANTI via Submission(R2)
+- RICH FRANKLIN def. JASON MACDONALD via KO/TKO(R2)
+- MATT HUGHES def. CHRIS LYTLE via Decision - Unanimous(R3)
+- MATT HAMILL def. REX HOLMAN via KO/TKO(R1)
+- JAMIE VARNER def. JASON GILLIAM via Submission(R1)

@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Korean Zombie vs Poirier
+    Date: May 15, 2012
+    Location: Fairfax, Virginia, USA
+    Weight Class: Middleweight
+    
+
+    Result: TOM LAWLOR defeated JASON MACDONALD via KO/TKO  
+  at 0:50 of round 1
+  Key stats:
+  - TOM LAWLOR landed 5 significant strikes
+  - JASON MACDONALD landed 1 significant strikes
+  - Knockdowns: TOM LAWLOR 1,  JASON MACDONALD 0
+  - Takedowns: TOM LAWLOR 0,  JASON MACDONALD 0
+  Bonus: ko

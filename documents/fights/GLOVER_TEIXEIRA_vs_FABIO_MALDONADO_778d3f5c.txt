@@ -1,0 +1,13 @@
+Event: UFC 153: Silva vs Bonnar
+    Date: October 13, 2012
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: GLOVER TEIXEIRA defeated FABIO MALDONADO via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - GLOVER TEIXEIRA landed 85 significant strikes
+  - FABIO MALDONADO landed 10 significant strikes
+  - Knockdowns: GLOVER TEIXEIRA 1,  FABIO MALDONADO 0
+  - Takedowns: GLOVER TEIXEIRA 3,  FABIO MALDONADO 0

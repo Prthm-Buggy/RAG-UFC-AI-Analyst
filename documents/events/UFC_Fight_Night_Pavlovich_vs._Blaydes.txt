@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Pavlovich vs. Blaydes
+    Date : April 22, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Welterweight, Featherweight, Lightweight, Women's Featherweight, Middleweight, Heavyweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - NORMA DUMONT def. KAROL ROSA via Decision - Unanimous(R3)
+- IASMIN LUCINDO def. BROGAN WALKER via Decision - Unanimous(R3)
+- WILLIAM GOMIS def. FRANCIS MARSHALL via Decision - Split(R3)
+- MOHAMMED USMAN def. JUNIOR TAFA via Decision - Unanimous(R3)
+- MONTEL JACKSON def. RANI YAHYA via KO/TKO(R1)
+- CHRISTOS GIAGOS def. RICKY GLENN via KO/TKO(R1)
+- BRADY HIESTAND def. BATGEREL DANAA via KO/TKO(R3)
+- SERGEI PAVLOVICH def. CURTIS BLAYDES via KO/TKO(R1)
+- JEREMIAH WELLS def. MATTHEW SEMELSBERGER via Decision - Split(R3)
+- BRUNO SILVA def. BRAD TAVARES via KO/TKO(R1)

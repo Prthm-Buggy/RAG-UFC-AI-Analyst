@@ -1,0 +1,13 @@
+Event: UFC 47: It's On!
+    Date: April 02, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MIKE KYLE defeated WES SIMS via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - MIKE KYLE landed 13 significant strikes
+  - WES SIMS landed 0 significant strikes
+  - Knockdowns: MIKE KYLE 1,  WES SIMS 0
+  - Takedowns: MIKE KYLE 0,  WES SIMS 0

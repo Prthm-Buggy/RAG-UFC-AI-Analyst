@@ -1,0 +1,11 @@
+Fighter: ERIK PEREZ
+  Date of Birth: 1989-11-19
+  Career record: 9
+  First fight: 2012-06-01
+  Last fight: 2016-11-05
+
+Career Statistics:
+- Significant Strikes Landed :285
+- Total takedowns landed :19
+- Knockdowns :3
+- Submission Attempts :1

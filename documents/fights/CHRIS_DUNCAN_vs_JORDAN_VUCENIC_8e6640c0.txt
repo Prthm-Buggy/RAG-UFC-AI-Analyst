@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edwards vs. Brady
+    Date: March 22, 2025
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: CHRIS DUNCAN defeated JORDAN VUCENIC via Submission  
+  at 3:42 of round 2
+  Key stats:
+  - CHRIS DUNCAN landed 15 significant strikes
+  - JORDAN VUCENIC landed 16 significant strikes
+  - Knockdowns: CHRIS DUNCAN 1,  JORDAN VUCENIC 0
+  - Takedowns: CHRIS DUNCAN 4,  JORDAN VUCENIC 1

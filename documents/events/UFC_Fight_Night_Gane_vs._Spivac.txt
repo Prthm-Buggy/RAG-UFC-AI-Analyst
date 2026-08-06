@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Gane vs. Spivac
+    Date : September 02, 2023
+    Location: Paris, Ile-de-France, France
+    Number of Fights: 11
+    Weight Classes: Lightweight, Light Heavyweight, Catch Weight, Featherweight, Women's Bantamweight, Welterweight, Heavyweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - FARID BASHARAT def. KLEYDSON RODRIGUES via Submission(R1)
+- JACQUELINE CAVALCANTI def. ZARAH FAIRN via Decision - Unanimous(R3)
+- VOLKAN OEZDEMIR def. BOGDAN GUSKOV via Submission(R1)
+- BENOIT SAINT DENIS def. THIAGO MOISES via KO/TKO(R2)
+- NORA CORNOLLE def. JOSELYNE EDWARDS via Decision - Unanimous(R3)
+- MANON FIOROT def. ROSE NAMAJUNAS via Decision - Unanimous(R3)
+- CIRYL GANE def. SERGHEI SPIVAC via KO/TKO(R2)
+- ANGE LOOSA def. RHYS MCKEE via Decision - Unanimous(R3)
+- MORGAN CHARRIERE def. MANOLO ZECCHINI via KO/TKO(R1)
+- TAYLOR LAPILUS def. CAOLAN LOUGHRAN via Decision - Unanimous(R3)
+- WILLIAM GOMIS def. YANIS GHEMMOURI via KO/TKO(R3)

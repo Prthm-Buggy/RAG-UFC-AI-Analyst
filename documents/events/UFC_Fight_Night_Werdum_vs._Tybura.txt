@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Werdum vs. Tybura
+    Date : November 18, 2017
+    Location: Sydney, New South Wales, Australia
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Women's Flyweight, Women's Strawweight, Lightweight, Welterweight, Middleweight, Flyweight, Catch Weight
+
+    Fight Results:
+  - JAKE MATTHEWS def. BOJAN VELICKOVIC via Decision - Split(R3)
+- ERIC SHELTON def. JENEL LAUSA via Decision - Unanimous(R3)
+- TAI TUIVASA def. RASHAD COULTER via KO/TKO(R1)
+- BELAL MUHAMMAD def. TIM MEANS via Decision - Split(R3)
+- JESSICA-ROSE CLARK def. BEC RAWLINGS via Decision - Split(R3)
+- ELIAS THEODOROU def. DANIEL KELLY via Decision - Unanimous(R3)
+- NIK LENTZ def. WILL BROOKS via Submission(R2)
+- FRANK CAMACHO def. DAMIEN BROWN via Decision - Split(R3)
+- ALEXANDER VOLKANOVSKI def. SHANE YOUNG via Decision - Unanimous(R3)
+- NADIA KASSEM def. ALEX CHAMBERS via Decision - Unanimous(R3)
+- ADAM WIECZOREK def. ANTHONY HAMILTON via Decision - Unanimous(R3)
+- FABRICIO WERDUM def. MARCIN TYBURA via Decision - Unanimous(R5)
+- RYAN BENOIT def. ASHKAN MOKHTARIAN via KO/TKO(R3)

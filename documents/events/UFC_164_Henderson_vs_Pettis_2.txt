@@ -1,0 +1,19 @@
+Event : UFC 164: Henderson vs Pettis 2
+    Date : August 31, 2013
+    Location: Milwaukee, Wisconsin, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Featherweight, Flyweight, Welterweight, Middleweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - HYUN GYU LIM def. PASCAL KRAUSS via KO/TKO(R1)
+- DUSTIN POIRIER def. ERIK KOCH via Decision - Unanimous(R3)
+- TIM ELLIOTT def. LOUIS GAUDINOT via Decision - Unanimous(R3)
+- AL IAQUINTA def. RYAN COUTURE via Decision - Unanimous(R3)
+- BEN ROTHWELL def. BRANDON VERA via KO/TKO(R3)
+- MAGNUS CEDENBLAD def. JARED HAMMAN via Submission(R1)
+- ANTHONY PETTIS def. BENSON HENDERSON via Submission(R1)
+- CHICO CAMUS def. KYUNG HO KANG via Decision - Unanimous(R3)
+- SOA PALELEI def. NIKITA KRYLOV via KO/TKO(R3)
+- GLEISON TIBAU def. JAMIE VARNER via Decision - Split(R3)
+- JOSH BARNETT def. FRANK MIR via KO/TKO(R1)
+- CHAD MENDES def. CLAY GUIDA via KO/TKO(R3)

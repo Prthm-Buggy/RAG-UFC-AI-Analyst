@@ -1,0 +1,15 @@
+Event : UFC 64: Unstoppable
+    Date : October 14, 2006
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Welterweight, Middleweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - ANDERSON SILVA def. RICH FRANKLIN via KO/TKO(R1)
+- YUSHIN OKAMI def. KALIB STARNES via KO/TKO(R3)
+- JON FITCH def. KUNIYOSHI HIRONAKA via Decision - Unanimous(R3)
+- KURT PELLEGRINO def. JUNIOR ASSUNCAO via Submission(R1)
+- SEAN SHERK def. KENNY FLORIAN via Decision - Unanimous(R5)
+- CARMELO MARRERO def. CHEICK KONGO via Decision - Split(R3)
+- CLAY GUIDA def. JUSTIN JAMES via Submission(R2)
+- SPENCER FISHER def. DAN LAUZON via KO/TKO(R1)

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brunson vs. Till
+    Date: September 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: JULIAN EROSA defeated CHARLES JOURDAIN via Submission  
+  at 2:56 of round 3
+  Key stats:
+  - JULIAN EROSA landed 103 significant strikes
+  - CHARLES JOURDAIN landed 85 significant strikes
+  - Knockdowns: JULIAN EROSA 0,  CHARLES JOURDAIN 1
+  - Takedowns: JULIAN EROSA 2,  CHARLES JOURDAIN 0

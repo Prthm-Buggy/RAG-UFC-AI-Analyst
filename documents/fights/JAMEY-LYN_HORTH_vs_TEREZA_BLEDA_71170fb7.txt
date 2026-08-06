@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Royval vs. Kape
+    Date: December 13, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: JAMEY-LYN HORTH defeated TEREZA BLEDA via KO/TKO  
+  at 2:05 of round 1
+  Key stats:
+  - JAMEY-LYN HORTH landed 16 significant strikes
+  - TEREZA BLEDA landed 2 significant strikes
+  - Knockdowns: JAMEY-LYN HORTH 0,  TEREZA BLEDA 0
+  - Takedowns: JAMEY-LYN HORTH 0,  TEREZA BLEDA 0

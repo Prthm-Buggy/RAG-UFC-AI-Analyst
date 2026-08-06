@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Edgar vs. Team Penn Finale
+    Date: July 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated GUTO INOCENTE via KO/TKO  
+  at 3:30 of round 1
+  Key stats:
+  - DERRICK LEWIS landed 6 significant strikes
+  - GUTO INOCENTE landed 6 significant strikes
+  - Knockdowns: DERRICK LEWIS 0,  GUTO INOCENTE 0
+  - Takedowns: DERRICK LEWIS 1,  GUTO INOCENTE 0

@@ -1,0 +1,19 @@
+Event : UFC 273: Volkanovski vs. The Korean Zombie
+    Date : April 09, 2022
+    Location: Jacksonville, Florida, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Women's Strawweight, Welterweight, Featherweight, Women's Bantamweight, Lightweight, Middleweight
+
+    Fight Results:
+  - IAN MACHADO GARRY def. DARIAN WEEKS via Decision - Unanimous(R3)
+- ANTHONY HERNANDEZ def. JOSH FREMD via Decision - Unanimous(R3)
+- JULIO ARCE def. DANIEL SANTOS via Decision - Unanimous(R3)
+- ALEXANDER VOLKANOVSKI def. CHAN SUNG JUNG via KO/TKO(R4)
+- MIKE MALOTT def. MICKEY GALL via KO/TKO(R1)
+- RAQUEL PENNINGTON def. ASPEN LADD via Decision - Unanimous(R3)
+- PIERA RODRIGUEZ def. KAY HANSEN via Decision - Unanimous(R3)
+- ALJAMAIN STERLING def. PETR YAN via Decision - Split(R5)
+- KHAMZAT CHIMAEV def. GILBERT BURNS via Decision - Unanimous(R3)
+- MARK MADSEN def. VINC PICHEL via Decision - Unanimous(R3)
+- MACKENZIE DERN def. TECIA PENNINGTON via Decision - Split(R3)
+- ALEKSEI OLEINIK def. JARED VANDERAA via Submission(R1)

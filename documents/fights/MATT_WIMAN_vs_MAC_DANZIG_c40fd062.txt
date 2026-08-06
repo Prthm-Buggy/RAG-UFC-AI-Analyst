@@ -1,0 +1,13 @@
+Event: UFC 115: Liddell vs Franklin
+    Date: June 12, 2010
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Lightweight
+    
+
+    Result: MATT WIMAN defeated MAC DANZIG via Submission  
+  at 1:45 of round 1
+  Key stats:
+  - MATT WIMAN landed 4 significant strikes
+  - MAC DANZIG landed 4 significant strikes
+  - Knockdowns: MATT WIMAN 0,  MAC DANZIG 0
+  - Takedowns: MATT WIMAN 0,  MAC DANZIG 1

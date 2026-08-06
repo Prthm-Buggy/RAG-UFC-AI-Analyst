@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swanson vs. Lobov
+    Date: April 22, 2017
+    Location: Nashville, Tennessee, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRYAN BARBERENA defeated JOE PROCTOR via KO/TKO  
+  at 3:30 of round 1
+  Key stats:
+  - BRYAN BARBERENA landed 28 significant strikes
+  - JOE PROCTOR landed 8 significant strikes
+  - Knockdowns: BRYAN BARBERENA 1,  JOE PROCTOR 0
+  - Takedowns: BRYAN BARBERENA 0,  JOE PROCTOR 0

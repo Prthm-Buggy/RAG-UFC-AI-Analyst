@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Belfort vs Henderson 3
+    Date: November 07, 2015
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: ALEX OLIVEIRA defeated PIOTR HALLMANN via KO/TKO  
+  at 0:51 of round 3
+  Key stats:
+  - ALEX OLIVEIRA landed 42 significant strikes
+  - PIOTR HALLMANN landed 36 significant strikes
+  - Knockdowns: ALEX OLIVEIRA 1,  PIOTR HALLMANN 0
+  - Takedowns: ALEX OLIVEIRA 0,  PIOTR HALLMANN 1
+  Bonus: perf

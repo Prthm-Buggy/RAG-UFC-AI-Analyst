@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Garcia vs. Onama
+    Date: November 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JEREMIAH WELLS defeated THEMBA GORIMBO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JEREMIAH WELLS landed 32 significant strikes
+  - THEMBA GORIMBO landed 18 significant strikes
+  - Knockdowns: JEREMIAH WELLS 0,  THEMBA GORIMBO 0
+  - Takedowns: JEREMIAH WELLS 3,  THEMBA GORIMBO 6

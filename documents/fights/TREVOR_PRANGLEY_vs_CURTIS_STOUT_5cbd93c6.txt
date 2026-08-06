@@ -1,0 +1,13 @@
+Event: UFC 48: Payback
+    Date: June 19, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: TREVOR PRANGLEY defeated CURTIS STOUT via Submission  
+  at 1:05 of round 2
+  Key stats:
+  - TREVOR PRANGLEY landed 12 significant strikes
+  - CURTIS STOUT landed 5 significant strikes
+  - Knockdowns: TREVOR PRANGLEY 0,  CURTIS STOUT 0
+  - Takedowns: TREVOR PRANGLEY 2,  CURTIS STOUT 0

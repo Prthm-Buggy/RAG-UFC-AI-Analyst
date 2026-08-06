@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yan vs. Dvalishvili
+    Date: March 11, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: KARL WILLIAMS defeated LUKASZ BRZESKI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KARL WILLIAMS landed 38 significant strikes
+  - LUKASZ BRZESKI landed 26 significant strikes
+  - Knockdowns: KARL WILLIAMS 1,  LUKASZ BRZESKI 0
+  - Takedowns: KARL WILLIAMS 8,  LUKASZ BRZESKI 0

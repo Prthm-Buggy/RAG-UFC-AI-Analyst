@@ -1,0 +1,14 @@
+Event: UFC 89: Bisping vs Leben
+    Date: October 18, 2008
+    Location: Birmingham, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated DAVID BARON via Submission  
+  at 3:19 of round 3
+  Key stats:
+  - JIM MILLER landed 15 significant strikes
+  - DAVID BARON landed 7 significant strikes
+  - Knockdowns: JIM MILLER 0,  DAVID BARON 0
+  - Takedowns: JIM MILLER 5,  DAVID BARON 0
+  Bonus: sub

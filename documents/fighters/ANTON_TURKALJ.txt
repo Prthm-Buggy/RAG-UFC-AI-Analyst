@@ -1,0 +1,11 @@
+Fighter: ANTON TURKALJ
+  Date of Birth: 1996-06-10
+  Career record: 4
+  First fight: 2022-09-10
+  Last fight: 2024-03-30
+
+Career Statistics:
+- Significant Strikes Landed :97
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

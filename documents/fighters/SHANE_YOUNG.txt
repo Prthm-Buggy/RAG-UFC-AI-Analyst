@@ -1,0 +1,11 @@
+Fighter: SHANE YOUNG
+  Date of Birth: 1993-07-31
+  Career record: 7
+  First fight: 2017-11-18
+  Last fight: 2023-09-09
+
+Career Statistics:
+- Significant Strikes Landed :373
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

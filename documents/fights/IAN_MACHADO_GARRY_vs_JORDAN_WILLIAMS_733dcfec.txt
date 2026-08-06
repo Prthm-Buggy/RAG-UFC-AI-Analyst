@@ -1,0 +1,13 @@
+Event: UFC 268: Usman vs. Covington 2
+    Date: November 06, 2021
+    Location: New York City, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: IAN MACHADO GARRY defeated JORDAN WILLIAMS via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - IAN MACHADO GARRY landed 18 significant strikes
+  - JORDAN WILLIAMS landed 22 significant strikes
+  - Knockdowns: IAN MACHADO GARRY 1,  JORDAN WILLIAMS 0
+  - Takedowns: IAN MACHADO GARRY 0,  JORDAN WILLIAMS 0

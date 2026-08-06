@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Makhachev vs. Green
+    Date: February 26, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: RAMIZ BRAHIMAJ defeated MICHEAL GILLMORE via Submission  
+  at 2:02 of round 1
+  Key stats:
+  - RAMIZ BRAHIMAJ landed 0 significant strikes
+  - MICHEAL GILLMORE landed 0 significant strikes
+  - Knockdowns: RAMIZ BRAHIMAJ 0,  MICHEAL GILLMORE 0
+  - Takedowns: RAMIZ BRAHIMAJ 1,  MICHEAL GILLMORE 0

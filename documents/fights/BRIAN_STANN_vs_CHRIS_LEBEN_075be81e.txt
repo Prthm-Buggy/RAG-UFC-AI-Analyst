@@ -1,0 +1,13 @@
+Event: UFC 125: Resolution
+    Date: January 01, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRIAN STANN defeated CHRIS LEBEN via KO/TKO  
+  at 3:37 of round 1
+  Key stats:
+  - BRIAN STANN landed 30 significant strikes
+  - CHRIS LEBEN landed 7 significant strikes
+  - Knockdowns: BRIAN STANN 3,  CHRIS LEBEN 0
+  - Takedowns: BRIAN STANN 0,  CHRIS LEBEN 0

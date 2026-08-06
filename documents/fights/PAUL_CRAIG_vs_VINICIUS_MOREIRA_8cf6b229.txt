@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Stephens
+    Date: September 21, 2019
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Light Heavyweight
+    
+
+    Result: PAUL CRAIG defeated VINICIUS MOREIRA via Submission  
+  at 3:19 of round 1
+  Key stats:
+  - PAUL CRAIG landed 18 significant strikes
+  - VINICIUS MOREIRA landed 1 significant strikes
+  - Knockdowns: PAUL CRAIG 1,  VINICIUS MOREIRA 0
+  - Takedowns: PAUL CRAIG 1,  VINICIUS MOREIRA 0
+  Bonus: perf

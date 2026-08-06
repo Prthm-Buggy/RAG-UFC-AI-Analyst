@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs Miller
+    Date: July 16, 2014
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: EDSON BARBOZA defeated EVAN DUNHAM via KO/TKO  
+  at 3:06 of round 1
+  Key stats:
+  - EDSON BARBOZA landed 10 significant strikes
+  - EVAN DUNHAM landed 10 significant strikes
+  - Knockdowns: EDSON BARBOZA 1,  EVAN DUNHAM 0
+  - Takedowns: EDSON BARBOZA 0,  EVAN DUNHAM 0

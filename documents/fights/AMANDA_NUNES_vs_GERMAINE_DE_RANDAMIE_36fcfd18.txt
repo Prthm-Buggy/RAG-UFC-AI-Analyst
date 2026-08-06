@@ -1,0 +1,14 @@
+Event: UFC 245: Usman vs. Covington
+    Date: December 14, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AMANDA NUNES defeated GERMAINE DE RANDAMIE via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - AMANDA NUNES landed 79 significant strikes
+  - GERMAINE DE RANDAMIE landed 40 significant strikes
+  - Knockdowns: AMANDA NUNES 0,  GERMAINE DE RANDAMIE 0
+  - Takedowns: AMANDA NUNES 8,  GERMAINE DE RANDAMIE 0
+  Bonus: belt

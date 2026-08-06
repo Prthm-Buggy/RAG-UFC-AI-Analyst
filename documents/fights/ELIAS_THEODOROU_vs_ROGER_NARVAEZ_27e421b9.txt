@@ -1,0 +1,13 @@
+Event: UFC 185: Pettis vs Dos Anjos
+    Date: March 14, 2015
+    Location: Dallas, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: ELIAS THEODOROU defeated ROGER NARVAEZ via KO/TKO  
+  at 4:07 of round 2
+  Key stats:
+  - ELIAS THEODOROU landed 39 significant strikes
+  - ROGER NARVAEZ landed 16 significant strikes
+  - Knockdowns: ELIAS THEODOROU 0,  ROGER NARVAEZ 0
+  - Takedowns: ELIAS THEODOROU 2,  ROGER NARVAEZ 0

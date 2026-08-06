@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Ngannou vs. Dos Santos
+    Date : June 29, 2019
+    Location: Minneapolis, Minnesota, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Light Heavyweight, Welterweight, Lightweight, Flyweight, Women's Strawweight
+
+    Fight Results:
+  - DREW DOBER def. MARCO POLO REYES via KO/TKO(R1)
+- ALONZO MENIFIELD def. PAUL CRAIG via KO/TKO(R1)
+- RICARDO RAMOS def. JOURNEY NEWSON via Decision - Unanimous(R3)
+- ERYK ANDERS def. VINICIUS MOREIRA via KO/TKO(R1)
+- VINC PICHEL def. ROOSEVELT ROBERTS via Decision - Unanimous(R3)
+- AMANDA RIBAS def. EMILY WHITMIRE via Submission(R2)
+- DALCHA LUNGIAMBULA def. DEQUAN TOWNSEND via KO/TKO(R3)
+- MAURICE GREENE def. JUNIOR ALBINI via KO/TKO(R1)
+- FRANCIS NGANNOU def. JUNIOR DOS SANTOS via KO/TKO(R1)
+- DEMIAN MAIA def. ANTHONY ROCCO MARTIN via Decision - Majority(R3)
+- JOSEPH BENAVIDEZ def. JUSSIER FORMIGA via KO/TKO(R2)
+- JARED GORDON def. DAN MORET via Decision - Unanimous(R3)

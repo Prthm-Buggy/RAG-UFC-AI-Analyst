@@ -1,0 +1,13 @@
+Event: UFC 239: Jones vs. Santos
+    Date: July 06, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICHAEL CHIESA defeated DIEGO SANCHEZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MICHAEL CHIESA landed 47 significant strikes
+  - DIEGO SANCHEZ landed 7 significant strikes
+  - Knockdowns: MICHAEL CHIESA 0,  DIEGO SANCHEZ 0
+  - Takedowns: MICHAEL CHIESA 5,  DIEGO SANCHEZ 1

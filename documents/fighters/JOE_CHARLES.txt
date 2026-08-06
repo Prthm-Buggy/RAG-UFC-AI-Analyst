@@ -1,0 +1,11 @@
+Fighter: JOE CHARLES
+  Date of Birth: Unknown
+  Career record: 2
+  First fight: 1995-04-07
+  Last fight: 1997-12-21
+
+Career Statistics:
+- Significant Strikes Landed :2
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC 250: Nunes vs. Spencer
+    Date: June 06, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: ALEX PEREZ defeated JUSSIER FORMIGA via KO/TKO  
+  at 4:06 of round 1
+  Key stats:
+  - ALEX PEREZ landed 29 significant strikes
+  - JUSSIER FORMIGA landed 18 significant strikes
+  - Knockdowns: ALEX PEREZ 2,  JUSSIER FORMIGA 0
+  - Takedowns: ALEX PEREZ 0,  JUSSIER FORMIGA 0
+  Bonus: perf

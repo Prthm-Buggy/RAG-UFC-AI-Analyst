@@ -1,0 +1,13 @@
+Event: UFC 257: Poirier vs. McGregor
+    Date: January 23, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JULIANNA PENA defeated SARA MCMANN via Submission  
+  at 3:39 of round 3
+  Key stats:
+  - JULIANNA PENA landed 38 significant strikes
+  - SARA MCMANN landed 21 significant strikes
+  - Knockdowns: JULIANNA PENA 0,  SARA MCMANN 0
+  - Takedowns: JULIANNA PENA 1,  SARA MCMANN 3

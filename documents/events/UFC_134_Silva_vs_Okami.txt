@@ -1,0 +1,19 @@
+Event : UFC 134: Silva vs Okami
+    Date : August 27, 2011
+    Location: Rio de Janeiro, Brazil
+    Number of Fights: 12
+    Weight Classes: Middleweight, Lightweight, Light Heavyweight, Welterweight, Featherweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - MAURICIO RUA def. FORREST GRIFFIN via KO/TKO(R1)
+- STANISLAV NEDKOV def. LUIZ CANE via KO/TKO(R1)
+- EDSON BARBOZA def. ROSS PEARSON via Decision - Split(R3)
+- YVES JABOUIN def. IAN LOVELAND via Decision - Split(R3)
+- RAPHAEL ASSUNCAO def. JOHNNY EDUARDO via Decision - Unanimous(R3)
+- IURI ALCANTARA def. FELIPE ARANTES via Decision - Unanimous(R3)
+- THIAGO TAVARES def. SPENCER FISHER via KO/TKO(R2)
+- ANTONIO RODRIGO NOGUEIRA def. BRENDAN SCHAUB via KO/TKO(R1)
+- ANDERSON SILVA def. YUSHIN OKAMI via KO/TKO(R2)
+- ROUSIMAR PALHARES def. DAN MILLER via Decision - Unanimous(R3)
+- ERICK SILVA def. LUIS RAMOS via KO/TKO(R1)
+- PAULO THIAGO def. DAVID MITCHELL via Decision - Unanimous(R3)

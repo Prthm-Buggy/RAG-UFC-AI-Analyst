@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Felder vs. Dos Anjos
+    Date: November 14, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: KHAOS WILLIAMS defeated ABDUL RAZAK ALHASSAN via KO/TKO  
+  at 0:30 of round 1
+  Key stats:
+  - KHAOS WILLIAMS landed 5 significant strikes
+  - ABDUL RAZAK ALHASSAN landed 2 significant strikes
+  - Knockdowns: KHAOS WILLIAMS 1,  ABDUL RAZAK ALHASSAN 0
+  - Takedowns: KHAOS WILLIAMS 0,  ABDUL RAZAK ALHASSAN 0
+  Bonus: perf

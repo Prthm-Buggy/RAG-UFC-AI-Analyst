@@ -1,0 +1,11 @@
+Fighter: SCOTT SMITH
+  Date of Birth: 1979-05-21
+  Career record: 4
+  First fight: 2006-04-15
+  Last fight: 2007-06-16
+
+Career Statistics:
+- Significant Strikes Landed :66
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :2

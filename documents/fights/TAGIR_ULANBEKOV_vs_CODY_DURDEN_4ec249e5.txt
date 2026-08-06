@@ -1,0 +1,13 @@
+Event: UFC 296: Edwards vs. Covington
+    Date: December 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: TAGIR ULANBEKOV defeated CODY DURDEN via Submission  
+  at 4:25 of round 2
+  Key stats:
+  - TAGIR ULANBEKOV landed 24 significant strikes
+  - CODY DURDEN landed 32 significant strikes
+  - Knockdowns: TAGIR ULANBEKOV 1,  CODY DURDEN 0
+  - Takedowns: TAGIR ULANBEKOV 2,  CODY DURDEN 0

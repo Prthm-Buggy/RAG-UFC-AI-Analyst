@@ -1,0 +1,14 @@
+Event: UFC 116: Lesnar vs Carwin
+    Date: July 03, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: STEPHAN BONNAR defeated KRZYSZTOF SOSZYNSKI via KO/TKO  
+  at 3:08 of round 2
+  Key stats:
+  - STEPHAN BONNAR landed 48 significant strikes
+  - KRZYSZTOF SOSZYNSKI landed 32 significant strikes
+  - Knockdowns: STEPHAN BONNAR 1,  KRZYSZTOF SOSZYNSKI 0
+  - Takedowns: STEPHAN BONNAR 2,  KRZYSZTOF SOSZYNSKI 0
+  Bonus: fight

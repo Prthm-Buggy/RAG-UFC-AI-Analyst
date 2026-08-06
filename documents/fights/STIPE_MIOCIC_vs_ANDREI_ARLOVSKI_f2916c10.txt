@@ -1,0 +1,14 @@
+Event: UFC 195: Lawler vs Condit
+    Date: January 02, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STIPE MIOCIC defeated ANDREI ARLOVSKI via KO/TKO  
+  at 0:54 of round 1
+  Key stats:
+  - STIPE MIOCIC landed 11 significant strikes
+  - ANDREI ARLOVSKI landed 7 significant strikes
+  - Knockdowns: STIPE MIOCIC 1,  ANDREI ARLOVSKI 0
+  - Takedowns: STIPE MIOCIC 0,  ANDREI ARLOVSKI 0
+  Bonus: perf

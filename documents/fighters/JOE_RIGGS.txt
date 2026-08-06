@@ -1,0 +1,11 @@
+Fighter: JOE RIGGS
+  Date of Birth: 1982-09-23
+  Career record: 12
+  First fight: 2004-08-21
+  Last fight: 2016-02-21
+
+Career Statistics:
+- Significant Strikes Landed :165
+- Total takedowns landed :13
+- Knockdowns :1
+- Submission Attempts :2

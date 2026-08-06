@@ -1,0 +1,13 @@
+Event: UFC 262: Oliveira vs. Chandler
+    Date: May 15, 2021
+    Location: Houston, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDRE MUNIZ defeated JACARE SOUZA via Submission  
+  at 3:59 of round 1
+  Key stats:
+  - ANDRE MUNIZ landed 7 significant strikes
+  - JACARE SOUZA landed 11 significant strikes
+  - Knockdowns: ANDRE MUNIZ 0,  JACARE SOUZA 0
+  - Takedowns: ANDRE MUNIZ 2,  JACARE SOUZA 1

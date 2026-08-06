@@ -1,0 +1,13 @@
+Event: UFC 105: Couture vs Vera
+    Date: November 14, 2009
+    Location: Manchester, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEXANDER GUSTAFSSON defeated JARED HAMMAN via KO/TKO  
+  at 0:41 of round 1
+  Key stats:
+  - ALEXANDER GUSTAFSSON landed 6 significant strikes
+  - JARED HAMMAN landed 6 significant strikes
+  - Knockdowns: ALEXANDER GUSTAFSSON 1,  JARED HAMMAN 0
+  - Takedowns: ALEXANDER GUSTAFSSON 0,  JARED HAMMAN 0

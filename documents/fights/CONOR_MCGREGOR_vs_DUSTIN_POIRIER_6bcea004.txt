@@ -1,0 +1,14 @@
+Event: UFC 178: Johnson vs Cariaso
+    Date: September 27, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CONOR MCGREGOR defeated DUSTIN POIRIER via KO/TKO  
+  at 1:46 of round 1
+  Key stats:
+  - CONOR MCGREGOR landed 9 significant strikes
+  - DUSTIN POIRIER landed 10 significant strikes
+  - Knockdowns: CONOR MCGREGOR 1,  DUSTIN POIRIER 0
+  - Takedowns: CONOR MCGREGOR 0,  DUSTIN POIRIER 0
+  Bonus: perf

@@ -1,0 +1,17 @@
+Event : UFC 124: St-Pierre vs Koscheck 2
+    Date : December 11, 2010
+    Location: Montreal, Quebec, Canada
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Welterweight, Lightweight, Middleweight
+
+    Fight Results:
+  - JOHN MAKDESSI def. PAT AUDINWOOD via Decision - Unanimous(R3)
+- STEFAN STRUVE def. SEAN MCCORKLE via KO/TKO(R1)
+- SEAN PIERSON def. MATTHEW RIDDLE via Decision - Unanimous(R3)
+- JIM MILLER def. CHARLES OLIVEIRA via Submission(R1)
+- MARK BOCEK def. DUSTIN HAZELETT via Submission(R1)
+- RICARDO ALMEIDA def. TJ GRANT via Decision - Unanimous(R3)
+- THIAGO ALVES def. JOHN HOWARD via Decision - Unanimous(R3)
+- GEORGES ST-PIERRE def. JOSH KOSCHECK via Decision - Unanimous(R5)
+- DAN MILLER def. JOE DOERKSEN via Decision - Split(R3)
+- MAC DANZIG def. JOE STEVENSON via KO/TKO(R1)

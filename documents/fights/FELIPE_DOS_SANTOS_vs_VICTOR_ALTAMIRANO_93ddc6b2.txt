@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Royval 2
+    Date: February 24, 2024
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Flyweight
+    
+
+    Result: FELIPE DOS SANTOS defeated VICTOR ALTAMIRANO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - FELIPE DOS SANTOS landed 37 significant strikes
+  - VICTOR ALTAMIRANO landed 40 significant strikes
+  - Knockdowns: FELIPE DOS SANTOS 0,  VICTOR ALTAMIRANO 0
+  - Takedowns: FELIPE DOS SANTOS 0,  VICTOR ALTAMIRANO 9

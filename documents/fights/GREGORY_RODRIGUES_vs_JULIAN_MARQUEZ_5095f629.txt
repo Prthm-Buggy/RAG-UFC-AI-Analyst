@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Emmett
+    Date: June 18, 2022
+    Location: Austin, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: GREGORY RODRIGUES defeated JULIAN MARQUEZ via KO/TKO  
+  at 3:18 of round 1
+  Key stats:
+  - GREGORY RODRIGUES landed 49 significant strikes
+  - JULIAN MARQUEZ landed 13 significant strikes
+  - Knockdowns: GREGORY RODRIGUES 3,  JULIAN MARQUEZ 0
+  - Takedowns: GREGORY RODRIGUES 0,  JULIAN MARQUEZ 0
+  Bonus: perf

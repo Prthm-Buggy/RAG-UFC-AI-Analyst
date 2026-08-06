@@ -1,0 +1,14 @@
+Event : The Ultimate Fighter: Team Hughes vs. Team Franklin Finale
+    Date : November 05, 2005
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 7
+    Weight Classes: Welterweight, Heavyweight
+
+    Fight Results:
+  - DIEGO SANCHEZ def. NICK DIAZ via Decision - Unanimous(R3)
+- JOE STEVENSON def. LUKE CUMMO via Decision - Unanimous(R3)
+- MELVIN GUILLARD def. MARCUS DAVIS via TKO - Doctor's Stoppage(R2)
+- KENNY FLORIAN def. KIT COPE via Submission(R2)
+- RASHAD EVANS def. BRAD IMES via Decision - Split(R3)
+- JOSHUA BURKMAN def. SAMMY MORGAN via KO/TKO(R1)
+- KEITH JARDINE def. KERRY SCHALL via KO/TKO(R2)

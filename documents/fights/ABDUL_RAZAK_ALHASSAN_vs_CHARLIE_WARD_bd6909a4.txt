@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Mousasi vs. Hall 2
+    Date: November 19, 2016
+    Location: Belfast, Northern Ireland, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: ABDUL RAZAK ALHASSAN defeated CHARLIE WARD via KO/TKO  
+  at 0:53 of round 1
+  Key stats:
+  - ABDUL RAZAK ALHASSAN landed 12 significant strikes
+  - CHARLIE WARD landed 2 significant strikes
+  - Knockdowns: ABDUL RAZAK ALHASSAN 3,  CHARLIE WARD 0
+  - Takedowns: ABDUL RAZAK ALHASSAN 0,  CHARLIE WARD 0
+  Bonus: perf

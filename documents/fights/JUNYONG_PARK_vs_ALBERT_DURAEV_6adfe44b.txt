@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Bueno Silva
+    Date: July 15, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JUNYONG PARK defeated ALBERT DURAEV via Submission  
+  at 4:45 of round 2
+  Key stats:
+  - JUNYONG PARK landed 50 significant strikes
+  - ALBERT DURAEV landed 31 significant strikes
+  - Knockdowns: JUNYONG PARK 1,  ALBERT DURAEV 0
+  - Takedowns: JUNYONG PARK 0,  ALBERT DURAEV 1

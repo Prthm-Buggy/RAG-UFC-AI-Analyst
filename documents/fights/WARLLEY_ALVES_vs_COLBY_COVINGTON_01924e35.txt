@@ -1,0 +1,13 @@
+Event: UFC 194: Aldo vs McGregor
+    Date: December 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: WARLLEY ALVES defeated COLBY COVINGTON via Submission  
+  at 1:26 of round 1
+  Key stats:
+  - WARLLEY ALVES landed 2 significant strikes
+  - COLBY COVINGTON landed 2 significant strikes
+  - Knockdowns: WARLLEY ALVES 0,  COLBY COVINGTON 0
+  - Takedowns: WARLLEY ALVES 0,  COLBY COVINGTON 1

@@ -1,0 +1,11 @@
+Fighter: BILLY RAY GOFF
+  Date of Birth: 1998-06-18
+  Career record: 3
+  First fight: 2023-08-26
+  Last fight: 2025-05-31
+
+Career Statistics:
+- Significant Strikes Landed :157
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

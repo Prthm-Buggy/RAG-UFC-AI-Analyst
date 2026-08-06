@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Imavov vs. Borralho
+    Date: September 06, 2025
+    Location: Paris, Ile-de-France, France
+    Weight Class: Welterweight
+    
+
+    Result: SAM PATTERSON defeated TREY WATERS via KO/TKO  
+  at 3:01 of round 1
+  Key stats:
+  - SAM PATTERSON landed 25 significant strikes
+  - TREY WATERS landed 18 significant strikes
+  - Knockdowns: SAM PATTERSON 0,  TREY WATERS 0
+  - Takedowns: SAM PATTERSON 0,  TREY WATERS 0

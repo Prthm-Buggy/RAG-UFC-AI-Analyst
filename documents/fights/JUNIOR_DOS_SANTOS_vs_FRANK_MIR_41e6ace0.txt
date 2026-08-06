@@ -1,0 +1,14 @@
+Event: UFC 146: Dos Santos vs Mir
+    Date: May 26, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR DOS SANTOS defeated FRANK MIR via KO/TKO  
+  at 3:04 of round 2
+  Key stats:
+  - JUNIOR DOS SANTOS landed 59 significant strikes
+  - FRANK MIR landed 17 significant strikes
+  - Knockdowns: JUNIOR DOS SANTOS 1,  FRANK MIR 0
+  - Takedowns: JUNIOR DOS SANTOS 0,  FRANK MIR 0
+  Bonus: belt

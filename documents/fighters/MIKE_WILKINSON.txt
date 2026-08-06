@@ -1,0 +1,11 @@
+Fighter: MIKE WILKINSON
+  Date of Birth: 1987-09-15
+  Career record: 4
+  First fight: 2012-12-14
+  Last fight: 2016-02-27
+
+Career Statistics:
+- Significant Strikes Landed :77
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :2

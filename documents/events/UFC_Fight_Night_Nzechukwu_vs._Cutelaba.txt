@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Nzechukwu vs. Cutelaba
+    Date : November 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Women's Strawweight, Welterweight, Flyweight, Light Heavyweight, Bantamweight, Women's Flyweight, Heavyweight
+
+    Fight Results:
+  - WALDO CORTES ACOSTA def. CHASE SHERMAN via Decision - Unanimous(R3)
+- NATALIA SILVA def. TEREZA BLEDA via KO/TKO(R3)
+- CHARLES JOHNSON def. ZHALGAS ZHUMAGULOV via Decision - Split(R3)
+- VANESSA DEMOPOULOS def. MARIA OLIVEIRA via Decision - Unanimous(R3)
+- JACK DELLA MADDALENA def. DANNY ROBERTS via KO/TKO(R1)
+- BRADY HIESTAND def. FERNIE GARCIA via Decision - Unanimous(R3)
+- JENNIFER MAIA def. MARYNA MOROZ via Decision - Unanimous(R3)
+- MUSLIM SALIKHOV def. ANDRE FIALHO via KO/TKO(R3)
+- MILES JOHNS def. VINCE MORALES via Decision - Unanimous(R3)
+- KENNEDY NZECHUKWU def. ION CUTELABA via KO/TKO(R2)
+- RICKY TURCIOS def. KEVIN NATIVIDAD via Decision - Split(R3)

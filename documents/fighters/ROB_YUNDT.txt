@@ -1,0 +1,11 @@
+Fighter: ROB YUNDT
+  Date of Birth: 1980-05-05
+  Career record: 2
+  First fight: 2008-02-02
+  Last fight: 2008-06-21
+
+Career Statistics:
+- Significant Strikes Landed :7
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

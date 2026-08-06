@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Nicolau vs. Perez
+    Date : April 27, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Women's Flyweight, Bantamweight, Heavyweight, Lightweight, Flyweight, Women's Strawweight, Welterweight, Featherweight, Light Heavyweight
+
+    Fight Results:
+  - Ketlen Souza def. MARNIC MANN via Decision - Unanimous(R3)
+- CHRIS PADILLA def. JAMES LLONTOP via Submission(R1)
+- DAVID ONAMA def. JONATHAN PEARCE via Decision - Unanimous(R3)
+- JHONATA DINIZ def. AUSTEN LANE via KO/TKO(R2)
+- BOGDAN GUSKOV def. RYAN SPANN via KO/TKO(R2)
+- IVANA PETROVIC def. LIANG NA via Submission(R3)
+- ALEX PEREZ def. MATHEUS NICOLAU via KO/TKO(R2)
+- DON'TALE MAYES def. CAIO MACHADO via Decision - Unanimous(R3)
+- VICTOR HENRY def. RANI YAHYA via KO/TKO(R3)
+- KARINE SILVA def. ARIANE DA SILVA via Decision - Unanimous(R3)
+- UROS MEDIC def. TIM MEANS via KO/TKO(R1)
+- MAHESHATE def. GABRIEL BENITEZ via Decision - Split(R3)
+- AUSTIN HUBBARD def. MICHAL FIGLAK via Decision - Unanimous(R3)

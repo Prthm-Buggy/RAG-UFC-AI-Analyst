@@ -1,0 +1,11 @@
+Fighter: REI TSURUYA
+  Date of Birth: 2002-06-22
+  Career record: 3
+  First fight: 2024-06-29
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :66
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blanchfield vs. Fiorot
+    Date: March 30, 2024
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: JACOB MALKOUN defeated ANDRE PETROSKI via KO/TKO  
+  at 0:39 of round 2
+  Key stats:
+  - JACOB MALKOUN landed 20 significant strikes
+  - ANDRE PETROSKI landed 13 significant strikes
+  - Knockdowns: JACOB MALKOUN 0,  ANDRE PETROSKI 0
+  - Takedowns: JACOB MALKOUN 0,  ANDRE PETROSKI 1

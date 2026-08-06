@@ -1,0 +1,14 @@
+Event: UFC 303: Pereira vs. Prochazka 2
+    Date: June 29, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEX PEREIRA defeated JIRI PROCHAZKA via KO/TKO  
+  at 0:13 of round 2
+  Key stats:
+  - ALEX PEREIRA landed 38 significant strikes
+  - JIRI PROCHAZKA landed 7 significant strikes
+  - Knockdowns: ALEX PEREIRA 2,  JIRI PROCHAZKA 0
+  - Takedowns: ALEX PEREIRA 0,  JIRI PROCHAZKA 0
+  Bonus: belt

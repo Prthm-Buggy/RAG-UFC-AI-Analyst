@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Rodriguez
+    Date: October 09, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: STEVE GARCIA defeated CHARLIE ONTIVEROS via KO/TKO  
+  at 1:51 of round 2
+  Key stats:
+  - STEVE GARCIA landed 34 significant strikes
+  - CHARLIE ONTIVEROS landed 7 significant strikes
+  - Knockdowns: STEVE GARCIA 0,  CHARLIE ONTIVEROS 2
+  - Takedowns: STEVE GARCIA 3,  CHARLIE ONTIVEROS 0

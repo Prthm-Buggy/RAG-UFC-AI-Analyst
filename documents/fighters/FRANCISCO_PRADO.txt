@@ -1,0 +1,11 @@
+Fighter: FRANCISCO PRADO
+  Date of Birth: 2002-06-16
+  Career record: 6
+  First fight: 2023-02-11
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :291
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :2

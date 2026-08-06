@@ -1,0 +1,13 @@
+Event: UFC 213: Romero vs. Whittaker
+    Date: July 08, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: THIAGO SANTOS defeated GERALD MEERSCHAERT via KO/TKO  
+  at 2:04 of round 2
+  Key stats:
+  - THIAGO SANTOS landed 60 significant strikes
+  - GERALD MEERSCHAERT landed 15 significant strikes
+  - Knockdowns: THIAGO SANTOS 0,  GERALD MEERSCHAERT 0
+  - Takedowns: THIAGO SANTOS 0,  GERALD MEERSCHAERT 3

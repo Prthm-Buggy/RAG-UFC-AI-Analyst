@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Clark
+    Date: November 28, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIGUEL BAEZA defeated TAKASHI SATO via Submission  
+  at 4:28 of round 2
+  Key stats:
+  - MIGUEL BAEZA landed 40 significant strikes
+  - TAKASHI SATO landed 15 significant strikes
+  - Knockdowns: MIGUEL BAEZA 0,  TAKASHI SATO 0
+  - Takedowns: MIGUEL BAEZA 1,  TAKASHI SATO 0
+  Bonus: perf

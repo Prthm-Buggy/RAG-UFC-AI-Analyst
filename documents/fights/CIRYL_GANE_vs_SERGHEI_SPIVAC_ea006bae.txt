@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gane vs. Spivac
+    Date: September 02, 2023
+    Location: Paris, Ile-de-France, France
+    Weight Class: Heavyweight
+    
+
+    Result: CIRYL GANE defeated SERGHEI SPIVAC via KO/TKO  
+  at 3:44 of round 2
+  Key stats:
+  - CIRYL GANE landed 109 significant strikes
+  - SERGHEI SPIVAC landed 11 significant strikes
+  - Knockdowns: CIRYL GANE 0,  SERGHEI SPIVAC 0
+  - Takedowns: CIRYL GANE 0,  SERGHEI SPIVAC 0
+  Bonus: perf

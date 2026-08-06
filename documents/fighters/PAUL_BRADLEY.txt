@@ -1,0 +1,11 @@
+Fighter: PAUL BRADLEY
+  Date of Birth: 1983-06-13
+  Career record: 2
+  First fight: 2011-08-06
+  Last fight: 2011-11-12
+
+Career Statistics:
+- Significant Strikes Landed :76
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

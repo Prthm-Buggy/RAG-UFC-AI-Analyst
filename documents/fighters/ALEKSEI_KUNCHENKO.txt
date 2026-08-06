@@ -1,0 +1,11 @@
+Fighter: ALEKSEI KUNCHENKO
+  Date of Birth: 1984-05-02
+  Career record: 4
+  First fight: 2018-09-15
+  Last fight: 2020-03-14
+
+Career Statistics:
+- Significant Strikes Landed :220
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

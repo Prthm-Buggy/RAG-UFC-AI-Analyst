@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Teixeira vs Bader
+    Date: September 04, 2013
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: EDIMILSON SOUZA defeated FELIPE ARANTES via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - EDIMILSON SOUZA landed 52 significant strikes
+  - FELIPE ARANTES landed 35 significant strikes
+  - Knockdowns: EDIMILSON SOUZA 0,  FELIPE ARANTES 0
+  - Takedowns: EDIMILSON SOUZA 0,  FELIPE ARANTES 3

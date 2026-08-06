@@ -1,0 +1,11 @@
+Fighter: JOHNNY CASE
+  Date of Birth: 1989-06-28
+  Career record: 6
+  First fight: 2014-09-20
+  Last fight: 2017-06-25
+
+Career Statistics:
+- Significant Strikes Landed :313
+- Total takedowns landed :9
+- Knockdowns :2
+- Submission Attempts :1

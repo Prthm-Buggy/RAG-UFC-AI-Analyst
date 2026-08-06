@@ -1,0 +1,20 @@
+Event : UFC 279: Diaz vs. Ferguson
+    Date : September 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Catch Weight, Light Heavyweight, Featherweight, Middleweight, Women's Featherweight, Welterweight, Women's Strawweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - ALATENGHEILI def. CHAD ANHELIGER via Decision - Unanimous(R3)
+- ELISE REED def. MELISSA MARTINEZ via Decision - Unanimous(R3)
+- JULIAN EROSA def. HAKEEM DAWODU via Decision - Unanimous(R3)
+- IRENE ALDANA def. MACY CHIASSON via KO/TKO(R3)
+- YOHAN LAINESSE def. DARIAN WEEKS via Decision - Split(R3)
+- KHAMZAT CHIMAEV def. KEVIN HOLLAND via Submission(R1)
+- DANIEL RODRIGUEZ def. LI JINGLIANG via Decision - Split(R3)
+- CHRIS BARNETT def. JAKE COLLIER via KO/TKO(R2)
+- DENIS TIULIULIN def. JAMIE PICKETT via KO/TKO(R2)
+- JOHNNY WALKER def. ION CUTELABA via Submission(R1)
+- NATE DIAZ def. TONY FERGUSON via Submission(R4)
+- NORMA DUMONT def. DANYELLE WOLF via Decision - Unanimous(R3)
+- JAILTON ALMEIDA def. ANTON TURKALJ via Submission(R1)

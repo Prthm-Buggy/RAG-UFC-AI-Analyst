@@ -1,0 +1,11 @@
+Fighter: TABATHA RICCI
+  Date of Birth: 1995-02-21
+  Career record: 11
+  First fight: 2021-06-05
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :573
+- Total takedowns landed :24
+- Knockdowns :0
+- Submission Attempts :1

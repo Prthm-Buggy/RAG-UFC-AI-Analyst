@@ -1,0 +1,15 @@
+Event : UFC 40: Vendetta
+    Date : November 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Light Heavyweight, Welterweight, Middleweight
+
+    Fight Results:
+  - ANDREI ARLOVSKI def. IAN FREEMAN via KO/TKO(R1)
+- CHUCK LIDDELL def. RENATO SOBRAL via KO/TKO(R1)
+- MATT HUGHES def. GIL CASTILLO via TKO - Doctor's Stoppage(R1)
+- TITO ORTIZ def. KEN SHAMROCK via KO/TKO(R3)
+- PHILLIP MILLER def. MARK WEIR via Submission(R2)
+- CARLOS NEWTON def. PETE SPRATT via Submission(R1)
+- ROBBIE LAWLER def. TIKI GHOSN via KO/TKO(R1)
+- VLADIMIR MATYUSHENKO def. TRAVIS WIUFF via KO/TKO(R1)

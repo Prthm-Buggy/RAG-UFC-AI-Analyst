@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bisping vs Kennedy
+    Date: April 16, 2014
+    Location: Quebec City, Quebec, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: MITCH GAGNON defeated TIM GORMAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MITCH GAGNON landed 47 significant strikes
+  - TIM GORMAN landed 15 significant strikes
+  - Knockdowns: MITCH GAGNON 0,  TIM GORMAN 0
+  - Takedowns: MITCH GAGNON 2,  TIM GORMAN 0

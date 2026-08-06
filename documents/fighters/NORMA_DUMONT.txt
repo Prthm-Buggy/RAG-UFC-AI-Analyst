@@ -1,0 +1,11 @@
+Fighter: NORMA DUMONT
+  Date of Birth: 1990-10-01
+  Career record: 12
+  First fight: 2020-02-29
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :687
+- Total takedowns landed :17
+- Knockdowns :2
+- Submission Attempts :0

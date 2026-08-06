@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Alvarez vs. Poirier 2
+    Date: July 28, 2018
+    Location: Calgary, Alberta, Canada
+    Weight Class: Flyweight
+    
+
+    Result: DUSTIN ORTIZ defeated MATHEUS NICOLAU via KO/TKO  
+  at 3:49 of round 1
+  Key stats:
+  - DUSTIN ORTIZ landed 8 significant strikes
+  - MATHEUS NICOLAU landed 7 significant strikes
+  - Knockdowns: DUSTIN ORTIZ 1,  MATHEUS NICOLAU 0
+  - Takedowns: DUSTIN ORTIZ 0,  MATHEUS NICOLAU 0

@@ -1,0 +1,14 @@
+Event: UFC 75: Champion vs Champion
+    Date: September 08, 2007
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: MARCUS DAVIS defeated PAUL TAYLOR via Submission  
+  at 4:14 of round 1
+  Key stats:
+  - MARCUS DAVIS landed 24 significant strikes
+  - PAUL TAYLOR landed 16 significant strikes
+  - Knockdowns: MARCUS DAVIS 0,  PAUL TAYLOR 1
+  - Takedowns: MARCUS DAVIS 1,  PAUL TAYLOR 0
+  Bonus: fight

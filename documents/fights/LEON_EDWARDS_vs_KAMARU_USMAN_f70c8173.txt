@@ -1,0 +1,14 @@
+Event: UFC 278: Usman vs. Edwards
+    Date: August 20, 2022
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Welterweight
+    
+
+    Result: LEON EDWARDS defeated KAMARU USMAN via KO/TKO  
+  at 4:04 of round 5
+  Key stats:
+  - LEON EDWARDS landed 55 significant strikes
+  - KAMARU USMAN landed 83 significant strikes
+  - Knockdowns: LEON EDWARDS 1,  KAMARU USMAN 0
+  - Takedowns: LEON EDWARDS 1,  KAMARU USMAN 5
+  Bonus: belt

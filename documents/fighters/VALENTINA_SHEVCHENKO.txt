@@ -1,0 +1,11 @@
+Fighter: VALENTINA SHEVCHENKO
+  Date of Birth: 1988-03-07
+  Career record: 18
+  First fight: 2015-12-19
+  Last fight: 2025-11-15
+
+Career Statistics:
+- Significant Strikes Landed :1020
+- Total takedowns landed :60
+- Knockdowns :2
+- Submission Attempts :6

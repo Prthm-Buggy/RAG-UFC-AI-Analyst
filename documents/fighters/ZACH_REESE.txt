@@ -1,0 +1,11 @@
+Fighter: ZACH REESE
+  Date of Birth: 1994-03-24
+  Career record: 7
+  First fight: 2023-12-02
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :254
+- Total takedowns landed :11
+- Knockdowns :1
+- Submission Attempts :4

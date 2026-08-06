@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rivera vs. Moraes
+    Date: June 01, 2018
+    Location: Utica, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: GREGOR GILLESPIE defeated VINC PICHEL via Submission  
+  at 4:06 of round 2
+  Key stats:
+  - GREGOR GILLESPIE landed 13 significant strikes
+  - VINC PICHEL landed 7 significant strikes
+  - Knockdowns: GREGOR GILLESPIE 0,  VINC PICHEL 0
+  - Takedowns: GREGOR GILLESPIE 7,  VINC PICHEL 0
+  Bonus: perf

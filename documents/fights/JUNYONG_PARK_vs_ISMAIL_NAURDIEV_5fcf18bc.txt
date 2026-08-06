@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hill vs. Rountree Jr.
+    Date: June 21, 2025
+    Location: Baku, Azerbaijan
+    Weight Class: Middleweight
+    
+
+    Result: JUNYONG PARK defeated ISMAIL NAURDIEV via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JUNYONG PARK landed 45 significant strikes
+  - ISMAIL NAURDIEV landed 76 significant strikes
+  - Knockdowns: JUNYONG PARK 0,  ISMAIL NAURDIEV 0
+  - Takedowns: JUNYONG PARK 2,  ISMAIL NAURDIEV 1

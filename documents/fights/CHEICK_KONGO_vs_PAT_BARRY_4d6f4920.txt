@@ -1,0 +1,14 @@
+Event: UFC Live: Kongo vs Barry
+    Date: June 26, 2011
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHEICK KONGO defeated PAT BARRY via KO/TKO  
+  at 2:39 of round 1
+  Key stats:
+  - CHEICK KONGO landed 10 significant strikes
+  - PAT BARRY landed 8 significant strikes
+  - Knockdowns: CHEICK KONGO 1,  PAT BARRY 2
+  - Takedowns: CHEICK KONGO 0,  PAT BARRY 0
+  Bonus: ko

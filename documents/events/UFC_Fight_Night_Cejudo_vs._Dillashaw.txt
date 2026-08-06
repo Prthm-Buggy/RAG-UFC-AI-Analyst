@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Cejudo vs. Dillashaw
+    Date : January 19, 2019
+    Location: Brooklyn, New York, USA
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Bantamweight, Women's Flyweight, Light Heavyweight, Lightweight, Welterweight, Flyweight
+
+    Fight Results:
+  - CHANCE RENCOUNTRE def. KYLE STEWART via Submission(R1)
+- CORY SANDHAGEN def. MARIO BAUTISTA via Submission(R1)
+- ALONZO MENIFIELD def. VINICIUS MOREIRA via KO/TKO(R1)
+- GEOFF NEAL def. BELAL MUHAMMAD via Decision - Unanimous(R3)
+- DENNIS BERMUDEZ def. TE EDWARDS via Decision - Unanimous(R3)
+- GLOVER TEIXEIRA def. KARL ROBERSON via Submission(R1)
+- JOANNE WOOD def. ARIANE DA SILVA via Decision - Unanimous(R3)
+- HENRY CEJUDO def. TJ DILLASHAW via KO/TKO(R1)
+- DONALD CERRONE def. ALEXANDER HERNANDEZ via KO/TKO(R2)
+- ALLEN CROWDER def. GREG HARDY via DQ(R2)
+- JOSEPH BENAVIDEZ def. DUSTIN ORTIZ via Decision - Unanimous(R3)
+- GREGOR GILLESPIE def. YANCY MEDEIROS via KO/TKO(R2)
+- PAIGE VANZANT def. RACHAEL OSTOVICH via Submission(R2)

@@ -1,0 +1,13 @@
+Event: UFC 297: Strickland vs. Du Plessis
+    Date: January 20, 2024
+    Location: Toronto, Ontario, Canada
+    Weight Class: Featherweight
+    
+
+    Result: SEAN WOODSON defeated CHARLES JOURDAIN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - SEAN WOODSON landed 80 significant strikes
+  - CHARLES JOURDAIN landed 60 significant strikes
+  - Knockdowns: SEAN WOODSON 0,  CHARLES JOURDAIN 0
+  - Takedowns: SEAN WOODSON 1,  CHARLES JOURDAIN 0

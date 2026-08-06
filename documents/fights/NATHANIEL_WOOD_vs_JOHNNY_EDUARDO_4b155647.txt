@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rivera vs. Moraes
+    Date: June 01, 2018
+    Location: Utica, New York, USA
+    Weight Class: Bantamweight
+    
+
+    Result: NATHANIEL WOOD defeated JOHNNY EDUARDO via Submission  
+  at 2:18 of round 2
+  Key stats:
+  - NATHANIEL WOOD landed 33 significant strikes
+  - JOHNNY EDUARDO landed 37 significant strikes
+  - Knockdowns: NATHANIEL WOOD 0,  JOHNNY EDUARDO 0
+  - Takedowns: NATHANIEL WOOD 0,  JOHNNY EDUARDO 0
+  Bonus: perf

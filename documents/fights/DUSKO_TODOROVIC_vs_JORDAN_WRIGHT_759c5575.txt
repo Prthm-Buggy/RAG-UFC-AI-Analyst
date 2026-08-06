@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Grasso vs. Araujo
+    Date: October 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DUSKO TODOROVIC defeated JORDAN WRIGHT via KO/TKO  
+  at 3:12 of round 2
+  Key stats:
+  - DUSKO TODOROVIC landed 61 significant strikes
+  - JORDAN WRIGHT landed 25 significant strikes
+  - Knockdowns: DUSKO TODOROVIC 0,  JORDAN WRIGHT 0
+  - Takedowns: DUSKO TODOROVIC 0,  JORDAN WRIGHT 3
+  Bonus: fight

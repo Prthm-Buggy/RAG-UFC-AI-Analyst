@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Teixeira
+    Date: May 13, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: GLOVER TEIXEIRA defeated ANTHONY SMITH via KO/TKO  
+  at 1:04 of round 5
+  Key stats:
+  - GLOVER TEIXEIRA landed 138 significant strikes
+  - ANTHONY SMITH landed 86 significant strikes
+  - Knockdowns: GLOVER TEIXEIRA 1,  ANTHONY SMITH 0
+  - Takedowns: GLOVER TEIXEIRA 1,  ANTHONY SMITH 1
+  Bonus: perf

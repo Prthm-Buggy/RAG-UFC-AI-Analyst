@@ -1,0 +1,13 @@
+Event: UFC 45: Revolution
+    Date: November 21, 2003
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Middleweight
+    
+
+    Result: MATT LINDLAND defeated FALANIKO VITALE via KO/TKO  
+  at 4:23 of round 3
+  Key stats:
+  - MATT LINDLAND landed 35 significant strikes
+  - FALANIKO VITALE landed 3 significant strikes
+  - Knockdowns: MATT LINDLAND 0,  FALANIKO VITALE 0
+  - Takedowns: MATT LINDLAND 1,  FALANIKO VITALE 0

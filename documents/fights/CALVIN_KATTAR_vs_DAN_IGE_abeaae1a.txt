@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kattar vs. Ige
+    Date: July 15, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Featherweight
+    
+
+    Result: CALVIN KATTAR defeated DAN IGE via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CALVIN KATTAR landed 105 significant strikes
+  - DAN IGE landed 84 significant strikes
+  - Knockdowns: CALVIN KATTAR 0,  DAN IGE 0
+  - Takedowns: CALVIN KATTAR 1,  DAN IGE 0

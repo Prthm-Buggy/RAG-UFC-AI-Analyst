@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Adesanya vs. Pyfer
+    Date: March 28, 2026
+    Location: Seattle, Washington, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TYRELL FORTUNE defeated MARCIN TYBURA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TYRELL FORTUNE landed 30 significant strikes
+  - MARCIN TYBURA landed 47 significant strikes
+  - Knockdowns: TYRELL FORTUNE 0,  MARCIN TYBURA 0
+  - Takedowns: TYRELL FORTUNE 3,  MARCIN TYBURA 0

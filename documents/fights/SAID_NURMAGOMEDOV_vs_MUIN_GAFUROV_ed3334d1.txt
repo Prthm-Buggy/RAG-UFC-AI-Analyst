@@ -1,0 +1,14 @@
+Event: UFC 294: Makhachev vs. Volkanovski 2
+    Date: October 21, 2023
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Bantamweight
+    
+
+    Result: SAID NURMAGOMEDOV defeated MUIN GAFUROV via Submission  
+  at 1:13 of round 1
+  Key stats:
+  - SAID NURMAGOMEDOV landed 5 significant strikes
+  - MUIN GAFUROV landed 1 significant strikes
+  - Knockdowns: SAID NURMAGOMEDOV 0,  MUIN GAFUROV 0
+  - Takedowns: SAID NURMAGOMEDOV 0,  MUIN GAFUROV 0
+  Bonus: perf

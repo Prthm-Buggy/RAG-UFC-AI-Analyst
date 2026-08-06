@@ -1,0 +1,11 @@
+Fighter: MARK EDDIVA
+  Date of Birth: 1986-02-16
+  Career record: 4
+  First fight: 2014-03-01
+  Last fight: 2016-03-19
+
+Career Statistics:
+- Significant Strikes Landed :139
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

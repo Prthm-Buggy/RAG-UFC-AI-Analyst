@@ -1,0 +1,13 @@
+Event: UFC 83: Serra vs St-Pierre 2
+    Date: April 19, 2008
+    Location: Montreal, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: RICH FRANKLIN defeated TRAVIS LUTTER via KO/TKO  
+  at 3:01 of round 2
+  Key stats:
+  - RICH FRANKLIN landed 28 significant strikes
+  - TRAVIS LUTTER landed 1 significant strikes
+  - Knockdowns: RICH FRANKLIN 1,  TRAVIS LUTTER 0
+  - Takedowns: RICH FRANKLIN 0,  TRAVIS LUTTER 1

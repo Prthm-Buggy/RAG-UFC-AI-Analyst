@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs. Hermansson
+    Date: April 27, 2019
+    Location: Sunrise, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: JACK HERMANSSON defeated JACARE SOUZA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JACK HERMANSSON landed 148 significant strikes
+  - JACARE SOUZA landed 90 significant strikes
+  - Knockdowns: JACK HERMANSSON 0,  JACARE SOUZA 0
+  - Takedowns: JACK HERMANSSON 3,  JACARE SOUZA 0

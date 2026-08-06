@@ -1,0 +1,14 @@
+Event: UFC on FOX: Shogun vs Vera
+    Date: August 04, 2012
+    Location: Los Angeles, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE LAUZON defeated JAMIE VARNER via Submission  
+  at 2:44 of round 3
+  Key stats:
+  - JOE LAUZON landed 44 significant strikes
+  - JAMIE VARNER landed 82 significant strikes
+  - Knockdowns: JOE LAUZON 0,  JAMIE VARNER 1
+  - Takedowns: JOE LAUZON 2,  JAMIE VARNER 2
+  Bonus: fight

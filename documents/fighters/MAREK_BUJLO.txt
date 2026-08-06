@@ -1,0 +1,11 @@
+Fighter: MAREK BUJLO
+  Date of Birth: 1992-10-10
+  Career record: 1
+  First fight: 2025-11-22
+  Last fight: 2025-11-22
+
+Career Statistics:
+- Significant Strikes Landed :31
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC 69: Shootout
+    Date: April 07, 2007
+    Location: Houston, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: MARCUS DAVIS defeated PETE SPRATT via Submission  
+  at 2:57 of round 2
+  Key stats:
+  - MARCUS DAVIS landed 6 significant strikes
+  - PETE SPRATT landed 7 significant strikes
+  - Knockdowns: MARCUS DAVIS 0,  PETE SPRATT 0
+  - Takedowns: MARCUS DAVIS 3,  PETE SPRATT 0

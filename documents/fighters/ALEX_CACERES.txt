@@ -1,0 +1,11 @@
+Fighter: ALEX CACERES
+  Date of Birth: 1988-06-20
+  Career record: 29
+  First fight: 2011-03-26
+  Last fight: 2024-05-11
+
+Career Statistics:
+- Significant Strikes Landed :1489
+- Total takedowns landed :13
+- Knockdowns :5
+- Submission Attempts :16

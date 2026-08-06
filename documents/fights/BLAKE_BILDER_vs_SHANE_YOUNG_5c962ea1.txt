@@ -1,0 +1,13 @@
+Event: UFC 284: Makhachev vs. Volkanovski
+    Date: February 11, 2023
+    Location: Perth, Western Australia, Australia
+    Weight Class: Featherweight
+    
+
+    Result: BLAKE BILDER defeated SHANE YOUNG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BLAKE BILDER landed 111 significant strikes
+  - SHANE YOUNG landed 80 significant strikes
+  - Knockdowns: BLAKE BILDER 0,  SHANE YOUNG 0
+  - Takedowns: BLAKE BILDER 1,  SHANE YOUNG 0

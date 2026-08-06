@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edgar vs Faber
+    Date: May 16, 2015
+    Location: Manila, Philippines
+    Weight Class: Bantamweight
+    
+
+    Result: GUANGYOU NING defeated ROYSTON WEE via KO/TKO  
+  at 4:59 of round 2
+  Key stats:
+  - GUANGYOU NING landed 46 significant strikes
+  - ROYSTON WEE landed 18 significant strikes
+  - Knockdowns: GUANGYOU NING 0,  ROYSTON WEE 0
+  - Takedowns: GUANGYOU NING 2,  ROYSTON WEE 0

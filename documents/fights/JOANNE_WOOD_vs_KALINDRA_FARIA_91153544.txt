@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gaethje vs. Vick
+    Date: August 25, 2018
+    Location: Lincoln, Nebraska, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: JOANNE WOOD defeated KALINDRA FARIA via Submission  
+  at 4:57 of round 1
+  Key stats:
+  - JOANNE WOOD landed 5 significant strikes
+  - KALINDRA FARIA landed 13 significant strikes
+  - Knockdowns: JOANNE WOOD 0,  KALINDRA FARIA 0
+  - Takedowns: JOANNE WOOD 0,  KALINDRA FARIA 1

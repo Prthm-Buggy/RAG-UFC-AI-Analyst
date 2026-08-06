@@ -1,0 +1,13 @@
+Event: UFC 212: Aldo vs. Holloway
+    Date: June 03, 2017
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: LUAN CHAGAS defeated JIM WALLHEAD via Submission  
+  at 4:48 of round 2
+  Key stats:
+  - LUAN CHAGAS landed 95 significant strikes
+  - JIM WALLHEAD landed 32 significant strikes
+  - Knockdowns: LUAN CHAGAS 1,  JIM WALLHEAD 0
+  - Takedowns: LUAN CHAGAS 0,  JIM WALLHEAD 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barnett vs Nelson
+    Date: September 26, 2015
+    Location: Saitama, Japan
+    Weight Class: Heavyweight
+    
+
+    Result: JOSH BARNETT defeated ROY NELSON via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JOSH BARNETT landed 146 significant strikes
+  - ROY NELSON landed 60 significant strikes
+  - Knockdowns: JOSH BARNETT 0,  ROY NELSON 0
+  - Takedowns: JOSH BARNETT 0,  ROY NELSON 4
+  Bonus: perf

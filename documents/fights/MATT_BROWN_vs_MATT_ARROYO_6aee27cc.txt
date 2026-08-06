@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Rampage vs Team Forrest Finale
+    Date: June 21, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT BROWN defeated MATT ARROYO via KO/TKO  
+  at 3:40 of round 2
+  Key stats:
+  - MATT BROWN landed 32 significant strikes
+  - MATT ARROYO landed 26 significant strikes
+  - Knockdowns: MATT BROWN 0,  MATT ARROYO 0
+  - Takedowns: MATT BROWN 0,  MATT ARROYO 2

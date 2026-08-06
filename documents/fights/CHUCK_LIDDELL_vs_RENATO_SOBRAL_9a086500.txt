@@ -1,0 +1,13 @@
+Event: UFC 40: Vendetta
+    Date: November 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CHUCK LIDDELL defeated RENATO SOBRAL via KO/TKO  
+  at 2:55 of round 1
+  Key stats:
+  - CHUCK LIDDELL landed 13 significant strikes
+  - RENATO SOBRAL landed 10 significant strikes
+  - Knockdowns: CHUCK LIDDELL 1,  RENATO SOBRAL 0
+  - Takedowns: CHUCK LIDDELL 0,  RENATO SOBRAL 0

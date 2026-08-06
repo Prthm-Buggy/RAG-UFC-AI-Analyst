@@ -1,0 +1,11 @@
+Fighter: ASU ALMABAYEV
+  Date of Birth: 1994-01-25
+  Career record: 8
+  First fight: 2023-08-05
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :238
+- Total takedowns landed :33
+- Knockdowns :1
+- Submission Attempts :9

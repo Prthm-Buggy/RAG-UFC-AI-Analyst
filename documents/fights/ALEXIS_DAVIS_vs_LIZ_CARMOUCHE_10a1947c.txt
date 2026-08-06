@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swanson vs. Ortega
+    Date: December 09, 2017
+    Location: Fresno, California, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ALEXIS DAVIS defeated LIZ CARMOUCHE via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ALEXIS DAVIS landed 23 significant strikes
+  - LIZ CARMOUCHE landed 49 significant strikes
+  - Knockdowns: ALEXIS DAVIS 0,  LIZ CARMOUCHE 0
+  - Takedowns: ALEXIS DAVIS 1,  LIZ CARMOUCHE 4

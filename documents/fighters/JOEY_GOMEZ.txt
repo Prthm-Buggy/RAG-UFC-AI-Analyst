@@ -1,0 +1,11 @@
+Fighter: JOEY GOMEZ
+  Date of Birth: 1986-07-21
+  Career record: 2
+  First fight: 2016-01-17
+  Last fight: 2016-09-17
+
+Career Statistics:
+- Significant Strikes Landed :59
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

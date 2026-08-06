@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Sanchez vs Ellenberger
+    Date: February 15, 2012
+    Location: Omaha, Nebraska, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STEFAN STRUVE defeated DAVE HERMAN via KO/TKO  
+  at 3:52 of round 2
+  Key stats:
+  - STEFAN STRUVE landed 47 significant strikes
+  - DAVE HERMAN landed 51 significant strikes
+  - Knockdowns: STEFAN STRUVE 1,  DAVE HERMAN 0
+  - Takedowns: STEFAN STRUVE 1,  DAVE HERMAN 0

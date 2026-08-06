@@ -1,0 +1,11 @@
+Fighter: ELVES BRENER
+  Date of Birth: 1997-09-27
+  Career record: 6
+  First fight: 2023-02-11
+  Last fight: 2025-08-02
+
+Career Statistics:
+- Significant Strikes Landed :361
+- Total takedowns landed :5
+- Knockdowns :2
+- Submission Attempts :0

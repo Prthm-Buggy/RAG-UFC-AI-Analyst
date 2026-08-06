@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cowboy vs. Gaethje
+    Date: September 14, 2019
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Lightweight
+    
+
+    Result: JUSTIN GAETHJE defeated DONALD CERRONE via KO/TKO  
+  at 4:18 of round 1
+  Key stats:
+  - JUSTIN GAETHJE landed 40 significant strikes
+  - DONALD CERRONE landed 17 significant strikes
+  - Knockdowns: JUSTIN GAETHJE 1,  DONALD CERRONE 0
+  - Takedowns: JUSTIN GAETHJE 0,  DONALD CERRONE 0
+  Bonus: perf

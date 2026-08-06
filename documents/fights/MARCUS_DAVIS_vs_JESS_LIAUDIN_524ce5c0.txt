@@ -1,0 +1,13 @@
+Event: UFC 80: Rapid Fire
+    Date: January 19, 2008
+    Location: Newcastle, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: MARCUS DAVIS defeated JESS LIAUDIN via KO/TKO  
+  at 1:04 of round 1
+  Key stats:
+  - MARCUS DAVIS landed 5 significant strikes
+  - JESS LIAUDIN landed 4 significant strikes
+  - Knockdowns: MARCUS DAVIS 1,  JESS LIAUDIN 0
+  - Takedowns: MARCUS DAVIS 0,  JESS LIAUDIN 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night 4
+    Date: April 06, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSH KOSCHECK defeated ANSAR CHALANGOV via Submission  
+  at 3:29 of round 1
+  Key stats:
+  - JOSH KOSCHECK landed 2 significant strikes
+  - ANSAR CHALANGOV landed 2 significant strikes
+  - Knockdowns: JOSH KOSCHECK 0,  ANSAR CHALANGOV 0
+  - Takedowns: JOSH KOSCHECK 2,  ANSAR CHALANGOV 0

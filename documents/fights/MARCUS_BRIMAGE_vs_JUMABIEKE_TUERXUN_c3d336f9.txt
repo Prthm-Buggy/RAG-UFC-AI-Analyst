@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs Bisping
+    Date: November 07, 2014
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Bantamweight
+    
+
+    Result: MARCUS BRIMAGE defeated JUMABIEKE TUERXUN via KO/TKO  
+  at 2:58 of round 1
+  Key stats:
+  - MARCUS BRIMAGE landed 5 significant strikes
+  - JUMABIEKE TUERXUN landed 6 significant strikes
+  - Knockdowns: MARCUS BRIMAGE 1,  JUMABIEKE TUERXUN 0
+  - Takedowns: MARCUS BRIMAGE 0,  JUMABIEKE TUERXUN 0

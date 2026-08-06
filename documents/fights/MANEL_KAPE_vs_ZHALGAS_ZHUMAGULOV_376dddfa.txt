@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Aldo
+    Date: December 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: MANEL KAPE defeated ZHALGAS ZHUMAGULOV via KO/TKO  
+  at 4:02 of round 1
+  Key stats:
+  - MANEL KAPE landed 53 significant strikes
+  - ZHALGAS ZHUMAGULOV landed 31 significant strikes
+  - Knockdowns: MANEL KAPE 2,  ZHALGAS ZHUMAGULOV 0
+  - Takedowns: MANEL KAPE 0,  ZHALGAS ZHUMAGULOV 0

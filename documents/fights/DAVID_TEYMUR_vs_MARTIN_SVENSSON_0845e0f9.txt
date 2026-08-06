@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Silva vs Bisping
+    Date: February 27, 2016
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: DAVID TEYMUR defeated MARTIN SVENSSON via KO/TKO  
+  at 1:26 of round 2
+  Key stats:
+  - DAVID TEYMUR landed 38 significant strikes
+  - MARTIN SVENSSON landed 13 significant strikes
+  - Knockdowns: DAVID TEYMUR 1,  MARTIN SVENSSON 0
+  - Takedowns: DAVID TEYMUR 1,  MARTIN SVENSSON 0

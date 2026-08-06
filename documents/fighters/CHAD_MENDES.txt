@@ -1,0 +1,11 @@
+Fighter: CHAD MENDES
+  Date of Birth: 1985-05-01
+  Career record: 14
+  First fight: 2011-02-05
+  Last fight: 2018-12-29
+
+Career Statistics:
+- Significant Strikes Landed :381
+- Total takedowns landed :27
+- Knockdowns :8
+- Submission Attempts :2

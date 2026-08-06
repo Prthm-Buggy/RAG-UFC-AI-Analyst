@@ -1,0 +1,11 @@
+Fighter: AKIRA CORASSANI
+  Date of Birth: 1982-08-27
+  Career record: 6
+  First fight: 2012-09-29
+  Last fight: 2015-01-24
+
+Career Statistics:
+- Significant Strikes Landed :139
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

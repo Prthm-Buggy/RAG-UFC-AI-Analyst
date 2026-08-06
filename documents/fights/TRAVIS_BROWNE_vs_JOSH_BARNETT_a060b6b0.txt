@@ -1,0 +1,14 @@
+Event: UFC 168: Weidman vs Silva 2
+    Date: December 28, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TRAVIS BROWNE defeated JOSH BARNETT via KO/TKO  
+  at 1:00 of round 1
+  Key stats:
+  - TRAVIS BROWNE landed 12 significant strikes
+  - JOSH BARNETT landed 5 significant strikes
+  - Knockdowns: TRAVIS BROWNE 0,  JOSH BARNETT 0
+  - Takedowns: TRAVIS BROWNE 0,  JOSH BARNETT 0
+  Bonus: ko

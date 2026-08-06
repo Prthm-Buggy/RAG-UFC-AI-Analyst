@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Woodley vs. Burns
+    Date: May 30, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: BRANDON ROYVAL defeated TIM ELLIOTT via Submission  
+  at 3:18 of round 2
+  Key stats:
+  - BRANDON ROYVAL landed 16 significant strikes
+  - TIM ELLIOTT landed 17 significant strikes
+  - Knockdowns: BRANDON ROYVAL 0,  TIM ELLIOTT 0
+  - Takedowns: BRANDON ROYVAL 1,  TIM ELLIOTT 4
+  Bonus: fight

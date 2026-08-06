@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs Henderson 2
+    Date: November 09, 2013
+    Location: Goiania, Goias, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: JEREMY STEPHENS defeated RONY JASON via KO/TKO  
+  at 0:40 of round 1
+  Key stats:
+  - JEREMY STEPHENS landed 3 significant strikes
+  - RONY JASON landed 1 significant strikes
+  - Knockdowns: JEREMY STEPHENS 1,  RONY JASON 0
+  - Takedowns: JEREMY STEPHENS 0,  RONY JASON 0

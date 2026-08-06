@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ribas vs. Namajunas
+    Date: March 23, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: Andre Lima defeated IGOR SEVERINO via DQ  
+  at 2:52 of round 2
+  Key stats:
+  - Andre Lima landed 30 significant strikes
+  - IGOR SEVERINO landed 36 significant strikes
+  - Knockdowns: Andre Lima 0,  IGOR SEVERINO 0
+  - Takedowns: Andre Lima 1,  IGOR SEVERINO 5

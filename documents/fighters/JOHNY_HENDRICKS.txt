@@ -1,0 +1,11 @@
+Fighter: JOHNY HENDRICKS
+  Date of Birth: 1983-09-12
+  Career record: 21
+  First fight: 2009-08-08
+  Last fight: 2017-11-04
+
+Career Statistics:
+- Significant Strikes Landed :885
+- Total takedowns landed :61
+- Knockdowns :6
+- Submission Attempts :6

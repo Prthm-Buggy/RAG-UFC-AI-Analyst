@@ -1,0 +1,11 @@
+Fighter: ALI ALQAISI
+  Date of Birth: 1990-09-23
+  Career record: 2
+  First fight: 2020-08-08
+  Last fight: 2020-10-10
+
+Career Statistics:
+- Significant Strikes Landed :73
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :2

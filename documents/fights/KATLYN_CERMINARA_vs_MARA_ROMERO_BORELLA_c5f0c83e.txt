@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs. Brunson 2
+    Date: January 27, 2018
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: KATLYN CERMINARA defeated MARA ROMERO BORELLA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KATLYN CERMINARA landed 68 significant strikes
+  - MARA ROMERO BORELLA landed 79 significant strikes
+  - Knockdowns: KATLYN CERMINARA 0,  MARA ROMERO BORELLA 0
+  - Takedowns: KATLYN CERMINARA 0,  MARA ROMERO BORELLA 1

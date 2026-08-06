@@ -1,0 +1,13 @@
+Event: UFC 140: Jones vs Machida
+    Date: December 10, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: IGOR POKRAJAC defeated KRZYSZTOF SOSZYNSKI via KO/TKO  
+  at 0:35 of round 1
+  Key stats:
+  - IGOR POKRAJAC landed 21 significant strikes
+  - KRZYSZTOF SOSZYNSKI landed 4 significant strikes
+  - Knockdowns: IGOR POKRAJAC 1,  KRZYSZTOF SOSZYNSKI 0
+  - Takedowns: IGOR POKRAJAC 0,  KRZYSZTOF SOSZYNSKI 0

@@ -1,0 +1,11 @@
+Fighter: CODY STAMANN
+  Date of Birth: 1989-11-09
+  Career record: 14
+  First fight: 2017-07-08
+  Last fight: 2024-11-09
+
+Career Statistics:
+- Significant Strikes Landed :735
+- Total takedowns landed :21
+- Knockdowns :2
+- Submission Attempts :0

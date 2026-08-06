@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Ankalaev
+    Date: March 12, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DAMON JACKSON defeated KAMUELA KIRK via Submission  
+  at 4:42 of round 2
+  Key stats:
+  - DAMON JACKSON landed 32 significant strikes
+  - KAMUELA KIRK landed 22 significant strikes
+  - Knockdowns: DAMON JACKSON 0,  KAMUELA KIRK 0
+  - Takedowns: DAMON JACKSON 2,  KAMUELA KIRK 0

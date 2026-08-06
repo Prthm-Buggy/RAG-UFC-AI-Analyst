@@ -1,0 +1,11 @@
+Fighter: JAMES VICK
+  Date of Birth: 1987-02-23
+  Career record: 14
+  First fight: 2013-08-17
+  Last fight: 2019-10-12
+
+Career Statistics:
+- Significant Strikes Landed :472
+- Total takedowns landed :2
+- Knockdowns :4
+- Submission Attempts :5

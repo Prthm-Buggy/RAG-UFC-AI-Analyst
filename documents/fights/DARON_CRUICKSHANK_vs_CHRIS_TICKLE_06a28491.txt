@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Live Finale
+    Date: June 01, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DARON CRUICKSHANK defeated CHRIS TICKLE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DARON CRUICKSHANK landed 17 significant strikes
+  - CHRIS TICKLE landed 16 significant strikes
+  - Knockdowns: DARON CRUICKSHANK 0,  CHRIS TICKLE 0
+  - Takedowns: DARON CRUICKSHANK 4,  CHRIS TICKLE 1

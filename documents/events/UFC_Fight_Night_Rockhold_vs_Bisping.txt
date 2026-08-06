@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Rockhold vs Bisping
+    Date : November 07, 2014
+    Location: Sydney, New South Wales, Australia
+    Number of Fights: 11
+    Weight Classes: Middleweight, Lightweight, Light Heavyweight, Welterweight, Flyweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - SAM ALVEY def. DYLAN ANDREWS via KO/TKO(R1)
+- LOUIS SMOLKA def. RICHIE VACULIK via KO/TKO(R3)
+- ROBERT WHITTAKER def. CLINT HESTER via KO/TKO(R2)
+- DANIEL KELLY def. LUKE ZACHRICH via Submission(R1)
+- JAKE MATTHEWS def. VAGNER ROCHA via Submission(R2)
+- MARCUS BRIMAGE def. JUMABIEKE TUERXUN via KO/TKO(R1)
+- CHRIS CLEMENTS def. VIK GRUJIC via KO/TKO(R1)
+- LUKE ROCKHOLD def. MICHAEL BISPING via Submission(R2)
+- AL IAQUINTA def. ROSS PEARSON via KO/TKO(R2)
+- SOA PALELEI def. WALT HARRIS via KO/TKO(R2)
+- ANTHONY PEROSH def. GUTO INOCENTE via Submission(R1)

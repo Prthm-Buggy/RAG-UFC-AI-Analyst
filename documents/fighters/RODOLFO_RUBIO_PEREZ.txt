@@ -1,0 +1,11 @@
+Fighter: RODOLFO RUBIO PEREZ
+  Date of Birth: 1987-01-29
+  Career record: 1
+  First fight: 2014-11-08
+  Last fight: 2014-11-08
+
+Career Statistics:
+- Significant Strikes Landed :17
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

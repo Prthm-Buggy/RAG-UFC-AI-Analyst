@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dillashaw vs Cruz
+    Date: January 17, 2016
+    Location: Boston, Massachusetts, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHRIS WADE defeated MEHDI BAGHDAD via Submission  
+  at 4:30 of round 1
+  Key stats:
+  - CHRIS WADE landed 5 significant strikes
+  - MEHDI BAGHDAD landed 1 significant strikes
+  - Knockdowns: CHRIS WADE 0,  MEHDI BAGHDAD 0
+  - Takedowns: CHRIS WADE 2,  MEHDI BAGHDAD 0

@@ -1,0 +1,14 @@
+Event: UFC 275: Teixeira vs. Prochazka
+    Date: June 11, 2022
+    Location: Kallang, Singapore
+    Weight Class: Women's Strawweight
+    
+
+    Result: SILVANA GOMEZ JUAREZ defeated LIANG NA via KO/TKO  
+  at 1:22 of round 1
+  Key stats:
+  - SILVANA GOMEZ JUAREZ landed 8 significant strikes
+  - LIANG NA landed 4 significant strikes
+  - Knockdowns: SILVANA GOMEZ JUAREZ 1,  LIANG NA 0
+  - Takedowns: SILVANA GOMEZ JUAREZ 0,  LIANG NA 0
+  Bonus: perf

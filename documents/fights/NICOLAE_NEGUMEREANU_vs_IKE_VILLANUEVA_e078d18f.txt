@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Costa vs. Vettori
+    Date: October 23, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: NICOLAE NEGUMEREANU defeated IKE VILLANUEVA via KO/TKO  
+  at 1:18 of round 1
+  Key stats:
+  - NICOLAE NEGUMEREANU landed 11 significant strikes
+  - IKE VILLANUEVA landed 7 significant strikes
+  - Knockdowns: NICOLAE NEGUMEREANU 0,  IKE VILLANUEVA 0
+  - Takedowns: NICOLAE NEGUMEREANU 0,  IKE VILLANUEVA 0

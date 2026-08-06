@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Jones vs. Team Sonnen Finale
+    Date: April 13, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TRAVIS BROWNE defeated GABRIEL GONZAGA via KO/TKO  
+  at 1:11 of round 1
+  Key stats:
+  - TRAVIS BROWNE landed 9 significant strikes
+  - GABRIEL GONZAGA landed 1 significant strikes
+  - Knockdowns: TRAVIS BROWNE 1,  GABRIEL GONZAGA 0
+  - Takedowns: TRAVIS BROWNE 0,  GABRIEL GONZAGA 0
+  Bonus: ko

@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Lesnar vs Team dos Santos Finale
+    Date: June 04, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: REUBEN DURAN defeated FRANCISCO RIVERA via Submission  
+  at 1:57 of round 3
+  Key stats:
+  - REUBEN DURAN landed 42 significant strikes
+  - FRANCISCO RIVERA landed 22 significant strikes
+  - Knockdowns: REUBEN DURAN 0,  FRANCISCO RIVERA 0
+  - Takedowns: REUBEN DURAN 2,  FRANCISCO RIVERA 0
+  Bonus: sub

@@ -1,0 +1,11 @@
+Fighter: KYLE BRADLEY
+  Date of Birth: 1982-08-19
+  Career record: 4
+  First fight: 2008-02-02
+  Last fight: 2010-01-11
+
+Career Statistics:
+- Significant Strikes Landed :46
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

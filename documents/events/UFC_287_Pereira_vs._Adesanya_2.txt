@@ -1,0 +1,19 @@
+Event : UFC 287: Pereira vs. Adesanya 2
+    Date : April 08, 2023
+    Location: Miami, Florida, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Middleweight, Welterweight, Women's Strawweight, Catch Weight, Featherweight
+
+    Fight Results:
+  - IGNACIO BAHAMONDES def. TREY OGDEN via Decision - Unanimous(R3)
+- CHRISTIAN RODRIGUEZ def. RAUL ROSAS JR. via Decision - Unanimous(R3)
+- SAM HUGHES def. JAQUELINE AMORIM via Decision - Unanimous(R3)
+- LOOPY GODINEZ def. CYNTHIA CALVILLO via Decision - Split(R3)
+- ROB FONT def. ADRIAN YANEZ via KO/TKO(R1)
+- ISRAEL ADESANYA def. ALEX PEREIRA via KO/TKO(R2)
+- STEVE GARCIA def. SHAYILAN NUERDANBIEKE via KO/TKO(R2)
+- KEVIN HOLLAND def. SANTIAGO PONZINIBBIO via KO/TKO(R3)
+- KELVIN GASTELUM def. CHRIS CURTIS via Decision - Unanimous(R3)
+- JOE PYFER def. GERALD MEERSCHAERT via KO/TKO(R1)
+- LUANA PINHEIRO def. MICHELLE WATERSON-GOMEZ via Decision - Split(R3)
+- GILBERT BURNS def. JORGE MASVIDAL via Decision - Unanimous(R3)

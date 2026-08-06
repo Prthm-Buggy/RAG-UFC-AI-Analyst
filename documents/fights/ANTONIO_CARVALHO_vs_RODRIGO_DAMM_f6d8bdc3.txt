@@ -1,0 +1,13 @@
+Event: UFC 154: St-Pierre vs Condit
+    Date: November 17, 2012
+    Location: Montreal, Quebec, Canada
+    Weight Class: Featherweight
+    
+
+    Result: ANTONIO CARVALHO defeated RODRIGO DAMM via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ANTONIO CARVALHO landed 48 significant strikes
+  - RODRIGO DAMM landed 50 significant strikes
+  - Knockdowns: ANTONIO CARVALHO 0,  RODRIGO DAMM 0
+  - Takedowns: ANTONIO CARVALHO 0,  RODRIGO DAMM 0

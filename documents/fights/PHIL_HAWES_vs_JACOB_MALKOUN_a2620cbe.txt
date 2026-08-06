@@ -1,0 +1,13 @@
+Event: UFC 254: Khabib vs. Gaethje
+    Date: October 24, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: PHIL HAWES defeated JACOB MALKOUN via KO/TKO  
+  at 0:18 of round 1
+  Key stats:
+  - PHIL HAWES landed 7 significant strikes
+  - JACOB MALKOUN landed 0 significant strikes
+  - Knockdowns: PHIL HAWES 1,  JACOB MALKOUN 0
+  - Takedowns: PHIL HAWES 0,  JACOB MALKOUN 0

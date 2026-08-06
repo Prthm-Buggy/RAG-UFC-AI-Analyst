@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yusuff vs. Barboza
+    Date: October 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DARREN ELKINS defeated TJ BROWN via Submission  
+  at 2:23 of round 3
+  Key stats:
+  - DARREN ELKINS landed 11 significant strikes
+  - TJ BROWN landed 15 significant strikes
+  - Knockdowns: DARREN ELKINS 0,  TJ BROWN 0
+  - Takedowns: DARREN ELKINS 5,  TJ BROWN 2

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dawson vs. Green
+    Date: October 07, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: NATE MANESS defeated MATEUS MENDONCA via KO/TKO  
+  at 4:40 of round 1
+  Key stats:
+  - NATE MANESS landed 29 significant strikes
+  - MATEUS MENDONCA landed 3 significant strikes
+  - Knockdowns: NATE MANESS 0,  MATEUS MENDONCA 0
+  - Takedowns: NATE MANESS 0,  MATEUS MENDONCA 0
+  Bonus: perf

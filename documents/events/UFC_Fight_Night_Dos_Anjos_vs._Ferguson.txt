@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Dos Anjos vs. Ferguson
+    Date : November 05, 2016
+    Location: Mexico City, Distrito Federal, Mexico
+    Number of Fights: 13
+    Weight Classes: Featherweight, Lightweight, Catch Weight, Welterweight, Women's Strawweight, Middleweight, Bantamweight
+
+    Fight Results:
+  - DOUGLAS SILVA DE ANDRADE def. HENRY BRIONES via KO/TKO(R3)
+- MAX GRIFFIN def. ERICK MONTANO via KO/TKO(R1)
+- DIEGO SANCHEZ def. MARCIN HELD via Decision - Unanimous(R3)
+- JOE SOTO def. MARCO BELTRAN via Submission(R1)
+- MARTIN BRAVO def. CLAUDIO PUELLES via KO/TKO(R2)
+- ERIK PEREZ def. FELIPE ARANTES via Decision - Split(R3)
+- RICARDO LAMAS def. CHARLES OLIVEIRA via Submission(R2)
+- TONY FERGUSON def. RAFAEL DOS ANJOS via Decision - Unanimous(R5)
+- BENEIL DARIUSH def. RASHID MAGOMEDOV via Decision - Unanimous(R3)
+- ALEXA GRASSO def. HEATHER CLARK via Decision - Unanimous(R3)
+- ENRIQUE BARZOLA def. CHRIS AVILA via Decision - Unanimous(R3)
+- SAM ALVEY def. ALEX NICHOLSON via Decision - Unanimous(R3)
+- MARCO POLO REYES def. JASON NOVELLI via Decision - Split(R3)

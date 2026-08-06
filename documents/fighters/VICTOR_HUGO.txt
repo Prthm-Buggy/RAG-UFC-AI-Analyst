@@ -1,0 +1,11 @@
+Fighter: VICTOR HUGO
+  Date of Birth: 1992-11-22
+  Career record: 2
+  First fight: 2024-04-06
+  Last fight: 2024-10-26
+
+Career Statistics:
+- Significant Strikes Landed :113
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :1

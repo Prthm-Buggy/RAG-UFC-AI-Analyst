@@ -1,0 +1,13 @@
+Event: UFC 159: Jones vs Sonnen
+    Date: April 27, 2013
+    Location: Newark, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL BISPING defeated ALAN BELCHER via Decision - Unanimous  
+  at 4:31 of round 3
+  Key stats:
+  - MICHAEL BISPING landed 93 significant strikes
+  - ALAN BELCHER landed 29 significant strikes
+  - Knockdowns: MICHAEL BISPING 0,  ALAN BELCHER 0
+  - Takedowns: MICHAEL BISPING 0,  ALAN BELCHER 0

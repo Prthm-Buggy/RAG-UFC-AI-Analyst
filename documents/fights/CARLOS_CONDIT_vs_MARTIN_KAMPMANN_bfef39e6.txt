@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Condit vs Kampmann 2
+    Date: August 28, 2013
+    Location: Indianapolis, Indiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS CONDIT defeated MARTIN KAMPMANN via KO/TKO  
+  at 0:54 of round 4
+  Key stats:
+  - CARLOS CONDIT landed 100 significant strikes
+  - MARTIN KAMPMANN landed 35 significant strikes
+  - Knockdowns: CARLOS CONDIT 1,  MARTIN KAMPMANN 0
+  - Takedowns: CARLOS CONDIT 0,  MARTIN KAMPMANN 6
+  Bonus: fight

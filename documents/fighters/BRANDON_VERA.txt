@@ -1,0 +1,11 @@
+Fighter: BRANDON VERA
+  Date of Birth: 1977-10-10
+  Career record: 15
+  First fight: 2005-10-03
+  Last fight: 2013-08-31
+
+Career Statistics:
+- Significant Strikes Landed :484
+- Total takedowns landed :8
+- Knockdowns :7
+- Submission Attempts :2

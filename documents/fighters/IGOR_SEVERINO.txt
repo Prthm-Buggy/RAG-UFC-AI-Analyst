@@ -1,0 +1,11 @@
+Fighter: IGOR SEVERINO
+  Date of Birth: 2003-04-21
+  Career record: 1
+  First fight: 2024-03-23
+  Last fight: 2024-03-23
+
+Career Statistics:
+- Significant Strikes Landed :36
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

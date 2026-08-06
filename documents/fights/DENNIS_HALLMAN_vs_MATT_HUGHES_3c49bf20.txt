@@ -1,0 +1,13 @@
+Event: UFC 29: Defense of the Belts
+    Date: December 16, 2000
+    Location: Tokyo, Japan
+    Weight Class: Welterweight
+    
+
+    Result: DENNIS HALLMAN defeated MATT HUGHES via Submission  
+  at 0:20 of round 1
+  Key stats:
+  - DENNIS HALLMAN landed 0 significant strikes
+  - MATT HUGHES landed 1 significant strikes
+  - Knockdowns: DENNIS HALLMAN 0,  MATT HUGHES 0
+  - Takedowns: DENNIS HALLMAN 0,  MATT HUGHES 1

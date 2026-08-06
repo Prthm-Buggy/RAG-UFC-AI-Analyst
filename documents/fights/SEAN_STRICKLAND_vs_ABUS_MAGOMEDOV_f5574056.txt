@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Strickland vs. Magomedov
+    Date: July 01, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: SEAN STRICKLAND defeated ABUS MAGOMEDOV via KO/TKO  
+  at 4:20 of round 2
+  Key stats:
+  - SEAN STRICKLAND landed 81 significant strikes
+  - ABUS MAGOMEDOV landed 47 significant strikes
+  - Knockdowns: SEAN STRICKLAND 1,  ABUS MAGOMEDOV 0
+  - Takedowns: SEAN STRICKLAND 0,  ABUS MAGOMEDOV 1
+  Bonus: perf

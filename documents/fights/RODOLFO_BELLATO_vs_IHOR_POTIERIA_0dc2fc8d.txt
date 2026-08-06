@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dariush vs. Tsarukyan
+    Date: December 02, 2023
+    Location: Austin, Texas, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RODOLFO BELLATO defeated IHOR POTIERIA via KO/TKO  
+  at 4:17 of round 2
+  Key stats:
+  - RODOLFO BELLATO landed 80 significant strikes
+  - IHOR POTIERIA landed 73 significant strikes
+  - Knockdowns: RODOLFO BELLATO 0,  IHOR POTIERIA 1
+  - Takedowns: RODOLFO BELLATO 1,  IHOR POTIERIA 0
+  Bonus: fight

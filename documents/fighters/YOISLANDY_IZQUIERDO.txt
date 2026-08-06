@@ -1,0 +1,11 @@
+Fighter: YOISLANDY IZQUIERDO
+  Date of Birth: 1984-01-09
+  Career record: 2
+  First fight: 2012-04-14
+  Last fight: 2012-07-07
+
+Career Statistics:
+- Significant Strikes Landed :63
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

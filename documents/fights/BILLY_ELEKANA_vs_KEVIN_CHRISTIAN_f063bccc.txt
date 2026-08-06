@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Garcia vs. Onama
+    Date: November 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: BILLY ELEKANA defeated KEVIN CHRISTIAN via Submission  
+  at 3:33 of round 1
+  Key stats:
+  - BILLY ELEKANA landed 17 significant strikes
+  - KEVIN CHRISTIAN landed 14 significant strikes
+  - Knockdowns: BILLY ELEKANA 1,  KEVIN CHRISTIAN 0
+  - Takedowns: BILLY ELEKANA 0,  KEVIN CHRISTIAN 0

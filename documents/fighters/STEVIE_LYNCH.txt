@@ -1,0 +1,11 @@
+Fighter: STEVIE LYNCH
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 2007-06-16
+  Last fight: 2007-06-16
+
+Career Statistics:
+- Significant Strikes Landed :7
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

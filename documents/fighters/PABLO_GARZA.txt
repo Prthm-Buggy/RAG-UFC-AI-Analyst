@@ -1,0 +1,11 @@
+Fighter: PABLO GARZA
+  Date of Birth: 1983-09-16
+  Career record: 6
+  First fight: 2010-12-04
+  Last fight: 2013-04-06
+
+Career Statistics:
+- Significant Strikes Landed :157
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :3

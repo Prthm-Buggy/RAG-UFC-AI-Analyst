@@ -1,0 +1,14 @@
+Event: UFC 248: Adesanya vs. Romero
+    Date: March 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ISRAEL ADESANYA defeated YOEL ROMERO via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ISRAEL ADESANYA landed 48 significant strikes
+  - YOEL ROMERO landed 40 significant strikes
+  - Knockdowns: ISRAEL ADESANYA 0,  YOEL ROMERO 0
+  - Takedowns: ISRAEL ADESANYA 0,  YOEL ROMERO 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC on FOX: Shogun vs Vera
+    Date: August 04, 2012
+    Location: Los Angeles, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: LYOTO MACHIDA defeated RYAN BADER via KO/TKO  
+  at 1:32 of round 2
+  Key stats:
+  - LYOTO MACHIDA landed 21 significant strikes
+  - RYAN BADER landed 7 significant strikes
+  - Knockdowns: LYOTO MACHIDA 1,  RYAN BADER 0
+  - Takedowns: LYOTO MACHIDA 0,  RYAN BADER 0

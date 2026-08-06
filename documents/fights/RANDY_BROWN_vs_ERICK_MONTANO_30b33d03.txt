@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Johnson
+    Date: September 17, 2016
+    Location: Hidalgo, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: RANDY BROWN defeated ERICK MONTANO via Submission  
+  at 0:18 of round 3
+  Key stats:
+  - RANDY BROWN landed 12 significant strikes
+  - ERICK MONTANO landed 21 significant strikes
+  - Knockdowns: RANDY BROWN 0,  ERICK MONTANO 0
+  - Takedowns: RANDY BROWN 1,  ERICK MONTANO 2

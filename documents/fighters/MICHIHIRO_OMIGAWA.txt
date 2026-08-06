@@ -1,0 +1,11 @@
+Fighter: MICHIHIRO OMIGAWA
+  Date of Birth: 1975-12-19
+  Career record: 7
+  First fight: 2007-09-22
+  Last fight: 2012-08-04
+
+Career Statistics:
+- Significant Strikes Landed :217
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :8

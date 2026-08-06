@@ -1,0 +1,13 @@
+Event: UFC 80: Rapid Fire
+    Date: January 19, 2008
+    Location: Newcastle, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: JORGE RIVERA defeated KENDALL GROVE via KO/TKO  
+  at 1:20 of round 1
+  Key stats:
+  - JORGE RIVERA landed 28 significant strikes
+  - KENDALL GROVE landed 0 significant strikes
+  - Knockdowns: JORGE RIVERA 1,  KENDALL GROVE 0
+  - Takedowns: JORGE RIVERA 1,  KENDALL GROVE 0

@@ -1,0 +1,13 @@
+Event: UFC on FX: Alves vs Kampmann
+    Date: March 02, 2012
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY PEROSH defeated NICK PENNER via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - ANTHONY PEROSH landed 25 significant strikes
+  - NICK PENNER landed 5 significant strikes
+  - Knockdowns: ANTHONY PEROSH 0,  NICK PENNER 0
+  - Takedowns: ANTHONY PEROSH 2,  NICK PENNER 0

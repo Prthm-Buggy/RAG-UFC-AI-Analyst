@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Reyes vs. Weidman
+    Date: October 18, 2019
+    Location: Boston, Massachusetts, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DOMINICK REYES defeated CHRIS WEIDMAN via KO/TKO  
+  at 1:43 of round 1
+  Key stats:
+  - DOMINICK REYES landed 8 significant strikes
+  - CHRIS WEIDMAN landed 3 significant strikes
+  - Knockdowns: DOMINICK REYES 1,  CHRIS WEIDMAN 0
+  - Takedowns: DOMINICK REYES 0,  CHRIS WEIDMAN 1
+  Bonus: perf

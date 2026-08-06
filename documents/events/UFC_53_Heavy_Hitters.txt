@@ -1,0 +1,15 @@
+Event : UFC 53: Heavy Hitters
+    Date : June 04, 2005
+    Location: Atlantic City, New Jersey, USA
+    Number of Fights: 8
+    Weight Classes: Middleweight, Welterweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - ANDREI ARLOVSKI def. JUSTIN EILERS via KO/TKO(R1)
+- RICH FRANKLIN def. EVAN TANNER via TKO - Doctor's Stoppage(R4)
+- NATE QUARRY def. SHONIE CARTER via KO/TKO(R1)
+- DAVID LOISEAU def. CHARLES MCCARTHY via KO/TKO(R2)
+- KARO PARISYAN def. MATT SERRA via Decision - Unanimous(R3)
+- NICK DIAZ def. KOJI OISHI via KO/TKO(R1)
+- FORREST GRIFFIN def. BILL MAHOOD via Submission(R1)
+- PAUL BUENTELLO def. KEVIN JORDAN via Submission(R1)

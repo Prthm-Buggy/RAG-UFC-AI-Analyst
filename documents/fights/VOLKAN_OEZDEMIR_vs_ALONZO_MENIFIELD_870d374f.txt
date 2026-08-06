@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tsarukyan vs. Hooker
+    Date: November 22, 2025
+    Location: Doha, Qatar
+    Weight Class: Light Heavyweight
+    
+
+    Result: VOLKAN OEZDEMIR defeated ALONZO MENIFIELD via KO/TKO  
+  at 1:27 of round 1
+  Key stats:
+  - VOLKAN OEZDEMIR landed 13 significant strikes
+  - ALONZO MENIFIELD landed 2 significant strikes
+  - Knockdowns: VOLKAN OEZDEMIR 1,  ALONZO MENIFIELD 0
+  - Takedowns: VOLKAN OEZDEMIR 0,  ALONZO MENIFIELD 0

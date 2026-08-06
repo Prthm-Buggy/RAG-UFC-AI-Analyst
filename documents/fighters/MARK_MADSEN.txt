@@ -1,0 +1,11 @@
+Fighter: MARK MADSEN
+  Date of Birth: 1984-09-23
+  Career record: 6
+  First fight: 2019-09-28
+  Last fight: 2023-11-11
+
+Career Statistics:
+- Significant Strikes Landed :224
+- Total takedowns landed :12
+- Knockdowns :0
+- Submission Attempts :0

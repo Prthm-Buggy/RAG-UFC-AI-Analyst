@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Korean Zombie vs Poirier
+    Date: May 15, 2012
+    Location: Fairfax, Virginia, USA
+    Weight Class: Lightweight
+    
+
+    Result: CODY MCKENZIE defeated MARCUS LEVESSEUR via Submission  
+  at 3:05 of round 1
+  Key stats:
+  - CODY MCKENZIE landed 1 significant strikes
+  - MARCUS LEVESSEUR landed 7 significant strikes
+  - Knockdowns: CODY MCKENZIE 0,  MARCUS LEVESSEUR 0
+  - Takedowns: CODY MCKENZIE 0,  MARCUS LEVESSEUR 2

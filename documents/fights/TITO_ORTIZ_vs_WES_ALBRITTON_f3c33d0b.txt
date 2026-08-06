@@ -1,0 +1,13 @@
+Event: UFC 13: The Ultimate Force
+    Date: May 30, 1997
+    Location: Augusta, Georgia, USA
+    Weight Class: Lightweight
+    
+
+    Result: TITO ORTIZ defeated WES ALBRITTON via KO/TKO  
+  at 0:31 of round 1
+  Key stats:
+  - TITO ORTIZ landed 21 significant strikes
+  - WES ALBRITTON landed 0 significant strikes
+  - Knockdowns: TITO ORTIZ 0,  WES ALBRITTON 0
+  - Takedowns: TITO ORTIZ 1,  WES ALBRITTON 0

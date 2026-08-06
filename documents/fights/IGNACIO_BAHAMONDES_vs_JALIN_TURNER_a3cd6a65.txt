@@ -1,0 +1,14 @@
+Event: UFC 313: Pereira vs. Ankalaev
+    Date: March 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: IGNACIO BAHAMONDES defeated JALIN TURNER via Submission  
+  at 2:29 of round 1
+  Key stats:
+  - IGNACIO BAHAMONDES landed 10 significant strikes
+  - JALIN TURNER landed 7 significant strikes
+  - Knockdowns: IGNACIO BAHAMONDES 0,  JALIN TURNER 0
+  - Takedowns: IGNACIO BAHAMONDES 0,  JALIN TURNER 0
+  Bonus: perf

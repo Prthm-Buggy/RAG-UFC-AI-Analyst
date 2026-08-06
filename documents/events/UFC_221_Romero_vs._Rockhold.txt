@@ -1,0 +1,19 @@
+Event : UFC 221: Romero vs. Rockhold
+    Date : February 10, 2018
+    Location: Perth, Western Australia, Australia
+    Number of Fights: 12
+    Weight Classes: Middleweight, Light Heavyweight, Welterweight, Lightweight, Featherweight, Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - CURTIS BLAYDES def. MARK HUNT via Decision - Unanimous(R3)
+- ALEXANDER VOLKANOVSKI def. JEREMY KENNEDY via KO/TKO(R2)
+- ISRAEL ADESANYA def. ROB WILKINSON via KO/TKO(R2)
+- JAKE MATTHEWS def. LI JINGLIANG via Decision - Unanimous(R3)
+- JUSSIER FORMIGA def. BEN NGUYEN via Submission(R3)
+- TAI TUIVASA def. CYRIL ASKER via KO/TKO(R1)
+- LUKE JUMEAU def. DAICHI ABE via Decision - Unanimous(R3)
+- JOSE QUINONEZ def. TERUTO ISHIHARA via Decision - Unanimous(R3)
+- DONG HYUN MA def. DAMIEN BROWN via Decision - Split(R3)
+- ROSS PEARSON def. MIZUTO HIROTA via Decision - Unanimous(R3)
+- YOEL ROMERO def. LUKE ROCKHOLD via KO/TKO(R3)
+- TYSON PEDRO def. SAPARBEG SAFAROV via Submission(R1)

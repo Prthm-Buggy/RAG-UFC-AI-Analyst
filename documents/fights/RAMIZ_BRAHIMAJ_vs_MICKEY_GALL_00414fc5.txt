@@ -1,0 +1,14 @@
+Event: UFC 309: Jones vs. Miocic
+    Date: November 16, 2024
+    Location: New York City, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: RAMIZ BRAHIMAJ defeated MICKEY GALL via KO/TKO  
+  at 2:55 of round 1
+  Key stats:
+  - RAMIZ BRAHIMAJ landed 31 significant strikes
+  - MICKEY GALL landed 28 significant strikes
+  - Knockdowns: RAMIZ BRAHIMAJ 1,  MICKEY GALL 0
+  - Takedowns: RAMIZ BRAHIMAJ 0,  MICKEY GALL 0
+  Bonus: perf

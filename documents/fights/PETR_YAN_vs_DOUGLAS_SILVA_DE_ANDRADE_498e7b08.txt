@@ -1,0 +1,13 @@
+Event: UFC 232: Jones vs. Gustafsson 2
+    Date: December 29, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: PETR YAN defeated DOUGLAS SILVA DE ANDRADE via KO/TKO  
+  at 5:00 of round 2
+  Key stats:
+  - PETR YAN landed 76 significant strikes
+  - DOUGLAS SILVA DE ANDRADE landed 28 significant strikes
+  - Knockdowns: PETR YAN 0,  DOUGLAS SILVA DE ANDRADE 0
+  - Takedowns: PETR YAN 3,  DOUGLAS SILVA DE ANDRADE 0

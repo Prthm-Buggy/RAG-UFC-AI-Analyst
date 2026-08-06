@@ -1,0 +1,11 @@
+Fighter: IRWIN RIVERA
+  Date of Birth: 1989-02-14
+  Career record: 3
+  First fight: 2020-05-16
+  Last fight: 2020-09-19
+
+Career Statistics:
+- Significant Strikes Landed :151
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

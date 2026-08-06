@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tuivasa vs. Tybura
+    Date: March 16, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MACY CHIASSON defeated PANNIE KIANZAD via Submission  
+  at 3:54 of round 1
+  Key stats:
+  - MACY CHIASSON landed 4 significant strikes
+  - PANNIE KIANZAD landed 2 significant strikes
+  - Knockdowns: MACY CHIASSON 0,  PANNIE KIANZAD 0
+  - Takedowns: MACY CHIASSON 2,  PANNIE KIANZAD 1
+  Bonus: perf

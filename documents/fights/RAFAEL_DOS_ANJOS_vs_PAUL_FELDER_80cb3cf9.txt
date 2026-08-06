@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Felder vs. Dos Anjos
+    Date: November 14, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: RAFAEL DOS ANJOS defeated PAUL FELDER via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - RAFAEL DOS ANJOS landed 92 significant strikes
+  - PAUL FELDER landed 98 significant strikes
+  - Knockdowns: RAFAEL DOS ANJOS 0,  PAUL FELDER 0
+  - Takedowns: RAFAEL DOS ANJOS 6,  PAUL FELDER 1
+  Bonus: fight

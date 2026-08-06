@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Miocic vs Hunt
+    Date: May 09, 2015
+    Location: Adelaide, South Australia, Australia
+    Weight Class: Featherweight
+    
+
+    Result: DAN HOOKER defeated HATSU HIOKI via KO/TKO  
+  at 4:13 of round 2
+  Key stats:
+  - DAN HOOKER landed 21 significant strikes
+  - HATSU HIOKI landed 32 significant strikes
+  - Knockdowns: DAN HOOKER 1,  HATSU HIOKI 0
+  - Takedowns: DAN HOOKER 0,  HATSU HIOKI 2
+  Bonus: perf

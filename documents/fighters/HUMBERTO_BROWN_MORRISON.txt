@@ -1,0 +1,11 @@
+Fighter: HUMBERTO BROWN MORRISON
+  Date of Birth: 1984-11-03
+  Career record: 1
+  First fight: 2014-11-15
+  Last fight: 2014-11-15
+
+Career Statistics:
+- Significant Strikes Landed :18
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

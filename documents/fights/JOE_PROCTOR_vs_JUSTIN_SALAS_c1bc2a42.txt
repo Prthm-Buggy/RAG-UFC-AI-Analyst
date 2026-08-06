@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs Miller
+    Date: July 16, 2014
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE PROCTOR defeated JUSTIN SALAS via KO/TKO  
+  at 3:27 of round 2
+  Key stats:
+  - JOE PROCTOR landed 25 significant strikes
+  - JUSTIN SALAS landed 35 significant strikes
+  - Knockdowns: JOE PROCTOR 1,  JUSTIN SALAS 0
+  - Takedowns: JOE PROCTOR 0,  JUSTIN SALAS 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gane vs. Volkov
+    Date: June 26, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JULIA AVILA defeated JULIJA STOLIARENKO via Submission  
+  at 4:19 of round 3
+  Key stats:
+  - JULIA AVILA landed 48 significant strikes
+  - JULIJA STOLIARENKO landed 40 significant strikes
+  - Knockdowns: JULIA AVILA 0,  JULIJA STOLIARENKO 0
+  - Takedowns: JULIA AVILA 1,  JULIJA STOLIARENKO 1

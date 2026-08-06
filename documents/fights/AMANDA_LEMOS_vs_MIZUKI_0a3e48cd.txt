@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Munhoz vs. Edgar
+    Date: August 22, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: AMANDA LEMOS defeated MIZUKI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - AMANDA LEMOS landed 83 significant strikes
+  - MIZUKI landed 57 significant strikes
+  - Knockdowns: AMANDA LEMOS 1,  MIZUKI 0
+  - Takedowns: AMANDA LEMOS 2,  MIZUKI 0

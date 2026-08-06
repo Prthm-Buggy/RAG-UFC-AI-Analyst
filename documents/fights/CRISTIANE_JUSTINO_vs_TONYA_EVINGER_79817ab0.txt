@@ -1,0 +1,14 @@
+Event: UFC 214: Cormier vs. Jones 2
+    Date: July 29, 2017
+    Location: Anaheim, California, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: CRISTIANE JUSTINO defeated TONYA EVINGER via KO/TKO  
+  at 1:56 of round 3
+  Key stats:
+  - CRISTIANE JUSTINO landed 74 significant strikes
+  - TONYA EVINGER landed 32 significant strikes
+  - Knockdowns: CRISTIANE JUSTINO 1,  TONYA EVINGER 0
+  - Takedowns: CRISTIANE JUSTINO 0,  TONYA EVINGER 1
+  Bonus: belt

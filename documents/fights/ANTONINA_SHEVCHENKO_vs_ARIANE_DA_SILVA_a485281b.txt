@@ -1,0 +1,14 @@
+Event: UFC 255: Figueiredo vs. Perez
+    Date: November 21, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ANTONINA SHEVCHENKO defeated ARIANE DA SILVA via KO/TKO  
+  at 4:33 of round 2
+  Key stats:
+  - ANTONINA SHEVCHENKO landed 39 significant strikes
+  - ARIANE DA SILVA landed 15 significant strikes
+  - Knockdowns: ANTONINA SHEVCHENKO 0,  ARIANE DA SILVA 0
+  - Takedowns: ANTONINA SHEVCHENKO 1,  ARIANE DA SILVA 0
+  Bonus: perf

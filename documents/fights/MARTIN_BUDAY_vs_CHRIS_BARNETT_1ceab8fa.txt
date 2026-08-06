@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Luque vs. Muhammad
+    Date: April 16, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARTIN BUDAY defeated CHRIS BARNETT via Decision - Unanimous  
+  at 1:38 of round 3
+  Key stats:
+  - MARTIN BUDAY landed 56 significant strikes
+  - CHRIS BARNETT landed 23 significant strikes
+  - Knockdowns: MARTIN BUDAY 1,  CHRIS BARNETT 0
+  - Takedowns: MARTIN BUDAY 0,  CHRIS BARNETT 0

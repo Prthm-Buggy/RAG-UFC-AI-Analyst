@@ -1,0 +1,11 @@
+Fighter: MACKENZIE DERN
+  Date of Birth: 1993-03-24
+  Career record: 16
+  First fight: 2018-03-03
+  Last fight: 2025-10-25
+
+Career Statistics:
+- Significant Strikes Landed :786
+- Total takedowns landed :14
+- Knockdowns :2
+- Submission Attempts :16

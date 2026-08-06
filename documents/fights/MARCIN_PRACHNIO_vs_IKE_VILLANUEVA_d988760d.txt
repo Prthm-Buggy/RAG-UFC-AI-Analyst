@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gane vs. Volkov
+    Date: June 26, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MARCIN PRACHNIO defeated IKE VILLANUEVA via KO/TKO  
+  at 0:56 of round 2
+  Key stats:
+  - MARCIN PRACHNIO landed 59 significant strikes
+  - IKE VILLANUEVA landed 34 significant strikes
+  - Knockdowns: MARCIN PRACHNIO 1,  IKE VILLANUEVA 0
+  - Takedowns: MARCIN PRACHNIO 0,  IKE VILLANUEVA 1
+  Bonus: perf

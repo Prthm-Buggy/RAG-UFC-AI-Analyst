@@ -1,0 +1,11 @@
+Fighter: ROMAN BOGATOV
+  Date of Birth: 1990-12-15
+  Career record: 1
+  First fight: 2020-07-11
+  Last fight: 2020-07-11
+
+Career Statistics:
+- Significant Strikes Landed :50
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

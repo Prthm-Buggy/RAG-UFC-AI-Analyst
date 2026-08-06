@@ -1,0 +1,14 @@
+Event: UFC 105: Couture vs Vera
+    Date: November 14, 2009
+    Location: Manchester, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: DENNIS SIVER defeated PAUL KELLY via KO/TKO  
+  at 2:53 of round 2
+  Key stats:
+  - DENNIS SIVER landed 38 significant strikes
+  - PAUL KELLY landed 12 significant strikes
+  - Knockdowns: DENNIS SIVER 2,  PAUL KELLY 0
+  - Takedowns: DENNIS SIVER 0,  PAUL KELLY 1
+  Bonus: ko

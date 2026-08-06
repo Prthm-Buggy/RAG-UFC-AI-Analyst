@@ -1,0 +1,14 @@
+Event: UFC 61: Bitter Rivals
+    Date: July 08, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: HERMES FRANCA defeated JOE JORDAN via Submission  
+  at 0:47 of round 3
+  Key stats:
+  - HERMES FRANCA landed 46 significant strikes
+  - JOE JORDAN landed 20 significant strikes
+  - Knockdowns: HERMES FRANCA 0,  JOE JORDAN 0
+  - Takedowns: HERMES FRANCA 3,  JOE JORDAN 0
+  Bonus: sub

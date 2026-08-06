@@ -1,0 +1,11 @@
+Fighter: WANDERLEI SILVA
+  Date of Birth: 1976-07-03
+  Career record: 12
+  First fight: 1998-10-16
+  Last fight: 2013-03-02
+
+Career Statistics:
+- Significant Strikes Landed :325
+- Total takedowns landed :2
+- Knockdowns :9
+- Submission Attempts :1

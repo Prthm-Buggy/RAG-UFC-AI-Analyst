@@ -1,0 +1,11 @@
+Fighter: STEPHANIE EGGER
+  Date of Birth: 1988-08-12
+  Career record: 7
+  First fight: 2020-10-10
+  Last fight: 2023-12-09
+
+Career Statistics:
+- Significant Strikes Landed :120
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :2

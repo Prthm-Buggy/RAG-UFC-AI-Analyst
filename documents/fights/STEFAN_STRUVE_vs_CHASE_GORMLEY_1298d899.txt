@@ -1,0 +1,14 @@
+Event: UFC 104: Machida vs Shogun
+    Date: October 24, 2009
+    Location: Los Angeles, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STEFAN STRUVE defeated CHASE GORMLEY via Submission  
+  at 4:04 of round 1
+  Key stats:
+  - STEFAN STRUVE landed 12 significant strikes
+  - CHASE GORMLEY landed 8 significant strikes
+  - Knockdowns: STEFAN STRUVE 0,  CHASE GORMLEY 0
+  - Takedowns: STEFAN STRUVE 1,  CHASE GORMLEY 1
+  Bonus: sub

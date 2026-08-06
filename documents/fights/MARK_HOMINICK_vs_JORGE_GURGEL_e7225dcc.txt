@@ -1,0 +1,13 @@
+Event: UFC Fight Night 5
+    Date: June 28, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MARK HOMINICK defeated JORGE GURGEL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARK HOMINICK landed 43 significant strikes
+  - JORGE GURGEL landed 36 significant strikes
+  - Knockdowns: MARK HOMINICK 0,  JORGE GURGEL 0
+  - Takedowns: MARK HOMINICK 0,  JORGE GURGEL 0

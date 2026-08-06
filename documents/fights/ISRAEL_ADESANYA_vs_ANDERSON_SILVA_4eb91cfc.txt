@@ -1,0 +1,14 @@
+Event: UFC 234: Adesanya vs. Silva
+    Date: February 09, 2019
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Middleweight
+    
+
+    Result: ISRAEL ADESANYA defeated ANDERSON SILVA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ISRAEL ADESANYA landed 65 significant strikes
+  - ANDERSON SILVA landed 31 significant strikes
+  - Knockdowns: ISRAEL ADESANYA 0,  ANDERSON SILVA 0
+  - Takedowns: ISRAEL ADESANYA 0,  ANDERSON SILVA 0
+  Bonus: fight

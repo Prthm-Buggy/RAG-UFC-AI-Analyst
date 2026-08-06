@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moreno vs. Erceg
+    Date: March 29, 2025
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Bantamweight
+    
+
+    Result: DAVID MARTINEZ defeated SAIMON OLIVEIRA via KO/TKO  
+  at 4:38 of round 1
+  Key stats:
+  - DAVID MARTINEZ landed 27 significant strikes
+  - SAIMON OLIVEIRA landed 7 significant strikes
+  - Knockdowns: DAVID MARTINEZ 1,  SAIMON OLIVEIRA 0
+  - Takedowns: DAVID MARTINEZ 0,  SAIMON OLIVEIRA 0
+  Bonus: perf

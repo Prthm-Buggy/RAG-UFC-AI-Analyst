@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs Nelson
+    Date: September 20, 2014
+    Location: Saitama, Japan
+    Weight Class: Lightweight
+    
+
+    Result: MYLES JURY defeated TAKANORI GOMI via KO/TKO  
+  at 1:32 of round 1
+  Key stats:
+  - MYLES JURY landed 10 significant strikes
+  - TAKANORI GOMI landed 1 significant strikes
+  - Knockdowns: MYLES JURY 1,  TAKANORI GOMI 0
+  - Takedowns: MYLES JURY 0,  TAKANORI GOMI 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Harris
+    Date: May 16, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALISTAIR OVEREEM defeated WALT HARRIS via KO/TKO  
+  at 3:00 of round 2
+  Key stats:
+  - ALISTAIR OVEREEM landed 68 significant strikes
+  - WALT HARRIS landed 25 significant strikes
+  - Knockdowns: ALISTAIR OVEREEM 1,  WALT HARRIS 1
+  - Takedowns: ALISTAIR OVEREEM 1,  WALT HARRIS 0

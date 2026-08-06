@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Shogun vs. Smith
+    Date: July 22, 2018
+    Location: Hamburg, Hamburg, Germany
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY SMITH defeated MAURICIO RUA via KO/TKO  
+  at 1:29 of round 1
+  Key stats:
+  - ANTHONY SMITH landed 23 significant strikes
+  - MAURICIO RUA landed 4 significant strikes
+  - Knockdowns: ANTHONY SMITH 1,  MAURICIO RUA 0
+  - Takedowns: ANTHONY SMITH 0,  MAURICIO RUA 0
+  Bonus: perf

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Maia vs LaFlare
+    Date : March 21, 2015
+    Location: Rio de Janeiro, Brazil
+    Number of Fights: 11
+    Weight Classes: Welterweight, Lightweight, Women's Bantamweight, Featherweight, Flyweight
+
+    Fight Results:
+  - CHRISTOS GIAGOS def. JORGE DE OLIVEIRA via Submission(R1)
+- FREDY SERRANO def. BENTLEY SYLER via KO/TKO(R3)
+- GILBERT BURNS def. ALEX OLIVEIRA via Submission(R3)
+- DEMIAN MAIA def. RYAN LAFLARE via Decision - Unanimous(R5)
+- EDIMILSON SOUZA def. KATSUNORI KIKUNO via KO/TKO(R1)
+- FRANCISCO TRINALDO def. AKBARH ARREOLA via Decision - Unanimous(R3)
+- LEONARDO SANTOS def. ANTHONY ROCCO MARTIN via Submission(R2)
+- ERICK SILVA def. JOSH KOSCHECK via Submission(R1)
+- GODOFREDO PEPEY def. ANDRE FILI via Submission(R1)
+- AMANDA NUNES def. SHAYNA BASZLER via KO/TKO(R1)
+- LEONARDO MAFRA def. CAIN CARRIZOSA via Decision - Unanimous(R3)

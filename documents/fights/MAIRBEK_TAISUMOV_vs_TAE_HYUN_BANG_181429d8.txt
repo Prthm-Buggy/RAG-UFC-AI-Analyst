@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Saffiedine vs Lim
+    Date: January 04, 2014
+    Location: Singapore, Singapore
+    Weight Class: Lightweight
+    
+
+    Result: MAIRBEK TAISUMOV defeated TAE HYUN BANG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MAIRBEK TAISUMOV landed 33 significant strikes
+  - TAE HYUN BANG landed 26 significant strikes
+  - Knockdowns: MAIRBEK TAISUMOV 0,  TAE HYUN BANG 0
+  - Takedowns: MAIRBEK TAISUMOV 5,  TAE HYUN BANG 0

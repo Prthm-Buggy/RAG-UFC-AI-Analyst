@@ -1,0 +1,13 @@
+Event: UFC 311: Makhachev vs. Moicano
+    Date: January 18, 2025
+    Location: Inglewood, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: AZAMAT BEKOEV defeated ZACH REESE via KO/TKO  
+  at 3:04 of round 1
+  Key stats:
+  - AZAMAT BEKOEV landed 21 significant strikes
+  - ZACH REESE landed 13 significant strikes
+  - Knockdowns: AZAMAT BEKOEV 0,  ZACH REESE 0
+  - Takedowns: AZAMAT BEKOEV 1,  ZACH REESE 0

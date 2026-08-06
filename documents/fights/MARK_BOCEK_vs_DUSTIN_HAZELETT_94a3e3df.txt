@@ -1,0 +1,14 @@
+Event: UFC 124: St-Pierre vs Koscheck 2
+    Date: December 11, 2010
+    Location: Montreal, Quebec, Canada
+    Weight Class: Lightweight
+    
+
+    Result: MARK BOCEK defeated DUSTIN HAZELETT via Submission  
+  at 2:33 of round 1
+  Key stats:
+  - MARK BOCEK landed 9 significant strikes
+  - DUSTIN HAZELETT landed 0 significant strikes
+  - Knockdowns: MARK BOCEK 0,  DUSTIN HAZELETT 0
+  - Takedowns: MARK BOCEK 1,  DUSTIN HAZELETT 0
+  Bonus: sub

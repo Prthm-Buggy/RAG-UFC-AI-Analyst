@@ -1,0 +1,14 @@
+Event: UFC 254: Khabib vs. Gaethje
+    Date: October 24, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAGOMED ANKALAEV defeated ION CUTELABA via KO/TKO  
+  at 4:19 of round 1
+  Key stats:
+  - MAGOMED ANKALAEV landed 21 significant strikes
+  - ION CUTELABA landed 11 significant strikes
+  - Knockdowns: MAGOMED ANKALAEV 2,  ION CUTELABA 0
+  - Takedowns: MAGOMED ANKALAEV 0,  ION CUTELABA 0
+  Bonus: perf

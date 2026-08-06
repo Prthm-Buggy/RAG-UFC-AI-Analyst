@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bautista vs. Oliveira
+    Date: February 07, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARIO BAUTISTA defeated VINICIUS OLIVEIRA via Submission  
+  at 4:46 of round 2
+  Key stats:
+  - MARIO BAUTISTA landed 15 significant strikes
+  - VINICIUS OLIVEIRA landed 12 significant strikes
+  - Knockdowns: MARIO BAUTISTA 0,  VINICIUS OLIVEIRA 0
+  - Takedowns: MARIO BAUTISTA 5,  VINICIUS OLIVEIRA 0
+  Bonus: perf

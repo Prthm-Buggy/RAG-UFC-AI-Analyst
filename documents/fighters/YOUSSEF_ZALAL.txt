@@ -1,0 +1,11 @@
+Fighter: YOUSSEF ZALAL
+  Date of Birth: 1996-09-04
+  Career record: 12
+  First fight: 2020-02-08
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :391
+- Total takedowns landed :19
+- Knockdowns :2
+- Submission Attempts :12

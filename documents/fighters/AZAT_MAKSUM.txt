@@ -1,0 +1,11 @@
+Fighter: AZAT MAKSUM
+  Date of Birth: 1995-02-02
+  Career record: 4
+  First fight: 2023-07-15
+  Last fight: 2025-10-25
+
+Career Statistics:
+- Significant Strikes Landed :165
+- Total takedowns landed :14
+- Knockdowns :1
+- Submission Attempts :1

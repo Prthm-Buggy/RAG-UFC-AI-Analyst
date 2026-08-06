@@ -1,0 +1,13 @@
+Event: UFC 39: The Warriors Return
+    Date: September 27, 2002
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Welterweight
+    
+
+    Result: SEAN SHERK defeated BENJI RADACH via TKO - Doctor's Stoppage  
+  at 4:16 of round 1
+  Key stats:
+  - SEAN SHERK landed 6 significant strikes
+  - BENJI RADACH landed 7 significant strikes
+  - Knockdowns: SEAN SHERK 0,  BENJI RADACH 0
+  - Takedowns: SEAN SHERK 1,  BENJI RADACH 0

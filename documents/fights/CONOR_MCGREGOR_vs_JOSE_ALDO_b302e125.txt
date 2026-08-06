@@ -1,0 +1,14 @@
+Event: UFC 194: Aldo vs McGregor
+    Date: December 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CONOR MCGREGOR defeated JOSE ALDO via KO/TKO  
+  at 0:13 of round 1
+  Key stats:
+  - CONOR MCGREGOR landed 5 significant strikes
+  - JOSE ALDO landed 1 significant strikes
+  - Knockdowns: CONOR MCGREGOR 1,  JOSE ALDO 0
+  - Takedowns: CONOR MCGREGOR 0,  JOSE ALDO 0
+  Bonus: belt

@@ -1,0 +1,11 @@
+Fighter: KANAKO MURATA
+  Date of Birth: 1993-08-10
+  Career record: 3
+  First fight: 2020-11-14
+  Last fight: 2023-10-07
+
+Career Statistics:
+- Significant Strikes Landed :86
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :2

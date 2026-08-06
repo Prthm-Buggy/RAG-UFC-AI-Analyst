@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Mendes vs Lamas
+    Date : April 04, 2015
+    Location: Fairfax, Virginia, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Lightweight, Featherweight, Women's Bantamweight, Middleweight
+
+    Fight Results:
+  - CLAY GUIDA def. ROBERT PERALTA via Decision - Unanimous(R3)
+- MICHAEL CHIESA def. MITCH CLARKE via Decision - Unanimous(R3)
+- DUSTIN POIRIER def. DIEGO FERREIRA via KO/TKO(R1)
+- ALEXANDER YAKOVLEV def. GRAY MAYNARD via Decision - Unanimous(R3)
+- CHAD MENDES def. RICARDO LAMAS via KO/TKO(R1)
+- TIMOTHY JOHNSON def. SHAMIL ABDURAKHIMOV via KO/TKO(R1)
+- LIZ CARMOUCHE def. LAUREN MURPHY via Decision - Unanimous(R3)
+- AL IAQUINTA def. JORGE MASVIDAL via Decision - Split(R3)
+- JULIANNA PENA def. MILANA DUDIEVA via KO/TKO(R1)
+- RON STALLINGS def. JUSTIN JONES via Decision - Unanimous(R3)

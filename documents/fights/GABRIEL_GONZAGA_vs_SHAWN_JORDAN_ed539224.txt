@@ -1,0 +1,13 @@
+Event: UFC 166: Velasquez vs Dos Santos 3
+    Date: October 19, 2013
+    Location: Houston, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: GABRIEL GONZAGA defeated SHAWN JORDAN via KO/TKO  
+  at 1:33 of round 1
+  Key stats:
+  - GABRIEL GONZAGA landed 8 significant strikes
+  - SHAWN JORDAN landed 2 significant strikes
+  - Knockdowns: GABRIEL GONZAGA 1,  SHAWN JORDAN 0
+  - Takedowns: GABRIEL GONZAGA 0,  SHAWN JORDAN 0

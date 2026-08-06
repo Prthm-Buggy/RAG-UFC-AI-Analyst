@@ -1,0 +1,11 @@
+Fighter: GABE GREEN
+  Date of Birth: 1993-05-02
+  Career record: 6
+  First fight: 2020-05-30
+  Last fight: 2025-05-17
+
+Career Statistics:
+- Significant Strikes Landed :353
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :2

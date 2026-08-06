@@ -1,0 +1,14 @@
+Event: UFC 253: Adesanya vs. Costa
+    Date: September 26, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: ISRAEL ADESANYA defeated PAULO COSTA via KO/TKO  
+  at 3:59 of round 2
+  Key stats:
+  - ISRAEL ADESANYA landed 55 significant strikes
+  - PAULO COSTA landed 12 significant strikes
+  - Knockdowns: ISRAEL ADESANYA 1,  PAULO COSTA 0
+  - Takedowns: ISRAEL ADESANYA 0,  PAULO COSTA 0
+  Bonus: belt

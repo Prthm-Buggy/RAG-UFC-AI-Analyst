@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rothwell vs Dos Santos
+    Date: April 10, 2016
+    Location: Zagreb, Croatia
+    Weight Class: Bantamweight
+    
+
+    Result: DAMIAN STASIAK defeated FILIP PEJIC via Submission  
+  at 2:16 of round 1
+  Key stats:
+  - DAMIAN STASIAK landed 2 significant strikes
+  - FILIP PEJIC landed 0 significant strikes
+  - Knockdowns: DAMIAN STASIAK 0,  FILIP PEJIC 0
+  - Takedowns: DAMIAN STASIAK 2,  FILIP PEJIC 0

@@ -1,0 +1,16 @@
+Event : UFC 80: Rapid Fire
+    Date : January 19, 2008
+    Location: Newcastle, England, United Kingdom
+    Number of Fights: 9
+    Weight Classes: Welterweight, Middleweight, Lightweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - MARCUS DAVIS def. JESS LIAUDIN via KO/TKO(R1)
+- FABRICIO WERDUM def. GABRIEL GONZAGA via KO/TKO(R2)
+- SAM STOUT def. PER EKLUND via Decision - Unanimous(R3)
+- WILSON GOUVEIA def. JASON LAMBERT via KO/TKO(R2)
+- PAUL KELLY def. PAUL TAYLOR via Decision - Unanimous(R3)
+- BJ PENN def. JOE STEVENSON via Submission(R2)
+- JORGE RIVERA def. KENDALL GROVE via KO/TKO(R1)
+- ANTONI HARDONK def. COLIN ROBINSON via KO/TKO(R1)
+- ALESSIO SAKARA def. JAMES LEE via KO/TKO(R1)

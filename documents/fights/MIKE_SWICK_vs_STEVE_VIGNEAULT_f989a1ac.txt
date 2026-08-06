@@ -1,0 +1,13 @@
+Event: UFC 58: USA vs Canada
+    Date: March 04, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MIKE SWICK defeated STEVE VIGNEAULT via Submission  
+  at 2:09 of round 1
+  Key stats:
+  - MIKE SWICK landed 13 significant strikes
+  - STEVE VIGNEAULT landed 6 significant strikes
+  - Knockdowns: MIKE SWICK 0,  STEVE VIGNEAULT 0
+  - Takedowns: MIKE SWICK 0,  STEVE VIGNEAULT 0

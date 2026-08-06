@@ -1,0 +1,11 @@
+Fighter: GABRIEL MIRANDA
+  Date of Birth: 1990-03-25
+  Career record: 4
+  First fight: 2022-09-03
+  Last fight: 2025-03-29
+
+Career Statistics:
+- Significant Strikes Landed :51
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :2

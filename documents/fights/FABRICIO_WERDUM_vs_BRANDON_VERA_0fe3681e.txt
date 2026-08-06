@@ -1,0 +1,13 @@
+Event: UFC 85: Bedlam
+    Date: June 07, 2008
+    Location: London, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: FABRICIO WERDUM defeated BRANDON VERA via KO/TKO  
+  at 4:40 of round 1
+  Key stats:
+  - FABRICIO WERDUM landed 15 significant strikes
+  - BRANDON VERA landed 15 significant strikes
+  - Knockdowns: FABRICIO WERDUM 0,  BRANDON VERA 0
+  - Takedowns: FABRICIO WERDUM 2,  BRANDON VERA 0

@@ -1,0 +1,11 @@
+Fighter: STEVE MONTGOMERY
+  Date of Birth: 1990-12-19
+  Career record: 2
+  First fight: 2015-06-27
+  Last fight: 2015-11-14
+
+Career Statistics:
+- Significant Strikes Landed :86
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

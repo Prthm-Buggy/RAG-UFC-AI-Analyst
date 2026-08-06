@@ -1,0 +1,11 @@
+Fighter: FRANCISCO RIVERA
+  Date of Birth: 1981-10-08
+  Career record: 10
+  First fight: 2011-06-04
+  Last fight: 2016-07-30
+
+Career Statistics:
+- Significant Strikes Landed :369
+- Total takedowns landed :7
+- Knockdowns :4
+- Submission Attempts :4

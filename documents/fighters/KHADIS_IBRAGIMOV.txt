@@ -1,0 +1,11 @@
+Fighter: KHADIS IBRAGIMOV
+  Date of Birth: 1995-05-21
+  Career record: 4
+  First fight: 2019-08-31
+  Last fight: 2020-09-26
+
+Career Statistics:
+- Significant Strikes Landed :164
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

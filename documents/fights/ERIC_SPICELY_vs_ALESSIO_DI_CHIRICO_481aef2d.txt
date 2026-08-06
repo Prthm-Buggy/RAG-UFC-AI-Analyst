@@ -1,0 +1,13 @@
+Event: UFC on FOX: Shevchenko vs. Pena
+    Date: January 28, 2017
+    Location: Denver, Colorado, USA
+    Weight Class: Middleweight
+    
+
+    Result: ERIC SPICELY defeated ALESSIO DI CHIRICO via Submission  
+  at 2:14 of round 1
+  Key stats:
+  - ERIC SPICELY landed 1 significant strikes
+  - ALESSIO DI CHIRICO landed 1 significant strikes
+  - Knockdowns: ERIC SPICELY 0,  ALESSIO DI CHIRICO 0
+  - Takedowns: ERIC SPICELY 1,  ALESSIO DI CHIRICO 0

@@ -1,0 +1,13 @@
+Event: UFC 97: Redemption
+    Date: April 18, 2009
+    Location: Montreal, Quebec, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: CHEICK KONGO defeated ANTONI HARDONK via KO/TKO  
+  at 2:29 of round 2
+  Key stats:
+  - CHEICK KONGO landed 53 significant strikes
+  - ANTONI HARDONK landed 9 significant strikes
+  - Knockdowns: CHEICK KONGO 0,  ANTONI HARDONK 0
+  - Takedowns: CHEICK KONGO 2,  ANTONI HARDONK 0

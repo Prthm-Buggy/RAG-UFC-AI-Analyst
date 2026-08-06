@@ -1,0 +1,11 @@
+Fighter: UMAR NURMAGOMEDOV
+  Date of Birth: 1996-01-03
+  Career record: 9
+  First fight: 2021-01-20
+  Last fight: 2026-01-24
+
+Career Statistics:
+- Significant Strikes Landed :489
+- Total takedowns landed :34
+- Knockdowns :1
+- Submission Attempts :2

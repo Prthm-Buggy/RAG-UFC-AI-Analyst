@@ -1,0 +1,18 @@
+Event : UFC 119: Mir vs Cro Cop
+    Date : September 25, 2010
+    Location: Indianapolis, Indiana, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Light Heavyweight, Welterweight, Middleweight, Lightweight
+
+    Fight Results:
+  - RYAN BADER def. ROGERIO NOGUEIRA via Decision - Unanimous(R3)
+- WAYLON LOWE def. STEVE LOPEZ via Decision - Split(R3)
+- THIAGO TAVARES def. PAT AUDINWOOD via Submission(R1)
+- CB DOLLAWAY def. JOE DOERKSEN via Submission(R1)
+- MATT MITRIONE def. JOEY BELTRAN via Decision - Unanimous(R3)
+- FRANK MIR def. MIRKO FILIPOVIC via KO/TKO(R3)
+- CHRIS LYTLE def. MATT SERRA via Decision - Unanimous(R3)
+- SEAN MCCORKLE def. MARK HUNT via Submission(R1)
+- SEAN SHERK def. EVAN DUNHAM via Decision - Split(R3)
+- MELVIN GUILLARD def. JEREMY STEPHENS via Decision - Split(R3)
+- TJ GRANT def. JULIO PAULINO via Decision - Unanimous(R3)

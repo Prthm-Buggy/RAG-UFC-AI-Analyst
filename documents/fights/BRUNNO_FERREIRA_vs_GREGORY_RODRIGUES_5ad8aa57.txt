@@ -1,0 +1,13 @@
+Event: UFC 283: Teixeira vs. Hill
+    Date: January 21, 2023
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: BRUNNO FERREIRA defeated GREGORY RODRIGUES via KO/TKO  
+  at 4:13 of round 1
+  Key stats:
+  - BRUNNO FERREIRA landed 22 significant strikes
+  - GREGORY RODRIGUES landed 21 significant strikes
+  - Knockdowns: BRUNNO FERREIRA 1,  GREGORY RODRIGUES 0
+  - Takedowns: BRUNNO FERREIRA 0,  GREGORY RODRIGUES 0

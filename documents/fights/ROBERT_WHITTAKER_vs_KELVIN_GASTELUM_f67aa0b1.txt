@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. Gastelum
+    Date: April 17, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROBERT WHITTAKER defeated KELVIN GASTELUM via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ROBERT WHITTAKER landed 150 significant strikes
+  - KELVIN GASTELUM landed 62 significant strikes
+  - Knockdowns: ROBERT WHITTAKER 0,  KELVIN GASTELUM 0
+  - Takedowns: ROBERT WHITTAKER 4,  KELVIN GASTELUM 1
+  Bonus: fight

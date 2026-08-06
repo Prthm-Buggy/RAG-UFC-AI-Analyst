@@ -1,0 +1,11 @@
+Fighter: RICHARD CRUNKILTON
+  Date of Birth: 1979-11-25
+  Career record: 1
+  First fight: 2003-04-25
+  Last fight: 2003-04-25
+
+Career Statistics:
+- Significant Strikes Landed :29
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

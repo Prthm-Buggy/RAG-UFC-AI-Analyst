@@ -1,0 +1,13 @@
+Event: UFC 286: Edwards vs. Usman 3
+    Date: March 18, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: JACK SHORE defeated MAKWAN AMIRKHANI via Submission  
+  at 4:27 of round 2
+  Key stats:
+  - JACK SHORE landed 28 significant strikes
+  - MAKWAN AMIRKHANI landed 10 significant strikes
+  - Knockdowns: JACK SHORE 0,  MAKWAN AMIRKHANI 0
+  - Takedowns: JACK SHORE 1,  MAKWAN AMIRKHANI 1

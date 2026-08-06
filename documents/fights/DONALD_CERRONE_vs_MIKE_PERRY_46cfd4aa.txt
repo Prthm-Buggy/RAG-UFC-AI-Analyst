@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Korean Zombie vs. Rodriguez
+    Date: November 10, 2018
+    Location: Denver, Colorado, USA
+    Weight Class: Welterweight
+    
+
+    Result: DONALD CERRONE defeated MIKE PERRY via Submission  
+  at 4:46 of round 1
+  Key stats:
+  - DONALD CERRONE landed 9 significant strikes
+  - MIKE PERRY landed 11 significant strikes
+  - Knockdowns: DONALD CERRONE 0,  MIKE PERRY 0
+  - Takedowns: DONALD CERRONE 0,  MIKE PERRY 1
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC 279: Diaz vs. Ferguson
+    Date: September 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: NATE DIAZ defeated TONY FERGUSON via Submission  
+  at 2:52 of round 4
+  Key stats:
+  - NATE DIAZ landed 101 significant strikes
+  - TONY FERGUSON landed 80 significant strikes
+  - Knockdowns: NATE DIAZ 0,  TONY FERGUSON 0
+  - Takedowns: NATE DIAZ 0,  TONY FERGUSON 1
+  Bonus: perf

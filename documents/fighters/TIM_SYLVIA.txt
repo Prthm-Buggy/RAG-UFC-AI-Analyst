@@ -1,0 +1,11 @@
+Fighter: TIM SYLVIA
+  Date of Birth: 1976-03-05
+  Career record: 13
+  First fight: 2002-09-27
+  Last fight: 2008-02-02
+
+Career Statistics:
+- Significant Strikes Landed :585
+- Total takedowns landed :1
+- Knockdowns :5
+- Submission Attempts :1

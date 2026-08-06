@@ -1,0 +1,11 @@
+Fighter: SABAH HOMASI
+  Date of Birth: 1988-10-19
+  Career record: 3
+  First fight: 2016-08-20
+  Last fight: 2018-01-20
+
+Career Statistics:
+- Significant Strikes Landed :80
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

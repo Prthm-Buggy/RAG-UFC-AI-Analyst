@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Emmett vs. Topuria
+    Date : June 24, 2023
+    Location: Jacksonville, Florida, USA
+    Number of Fights: 12
+    Weight Classes: Women's Flyweight, Featherweight, Middleweight, Welterweight, Lightweight, Women's Strawweight, Flyweight
+
+    Fight Results:
+  - JOSHUA VAN def. ZHALGAS ZHUMAGULOV via Decision - Split(R3)
+- CHEPE MARISCAL def. TREVOR PEEK via Decision - Unanimous(R3)
+- MATEUSZ REBECKI def. LOIK RADZHABOV via KO/TKO(R2)
+- ILIA TOPURIA def. JOSH EMMETT via Decision - Unanimous(R5)
+- MAYCEE BARBER def. AMANDA RIBAS via KO/TKO(R2)
+- NEIL MAGNY def. PHIL ROWE via Decision - Split(R3)
+- JACK JENKINS def. JAMALL EMMERS via Decision - Split(R3)
+- RANDY BROWN def. WELLINGTON TURMAN via Decision - Unanimous(R3)
+- SEDRIQUES DUMAS def. CODY BRUNDAGE via Decision - Unanimous(R3)
+- BRENDAN ALLEN def. BRUNO SILVA via Submission(R1)
+- TABATHA RICCI def. GILLIAN ROBERTSON via Decision - Unanimous(R3)
+- DAVID ONAMA def. GABRIEL SANTOS via KO/TKO(R2)

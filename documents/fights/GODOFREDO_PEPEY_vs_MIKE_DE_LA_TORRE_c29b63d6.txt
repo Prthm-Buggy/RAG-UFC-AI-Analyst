@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cyborg vs. Lansberg
+    Date: September 24, 2016
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: GODOFREDO PEPEY defeated MIKE DE LA TORRE via Submission  
+  at 3:03 of round 1
+  Key stats:
+  - GODOFREDO PEPEY landed 24 significant strikes
+  - MIKE DE LA TORRE landed 6 significant strikes
+  - Knockdowns: GODOFREDO PEPEY 0,  MIKE DE LA TORRE 0
+  - Takedowns: GODOFREDO PEPEY 1,  MIKE DE LA TORRE 0

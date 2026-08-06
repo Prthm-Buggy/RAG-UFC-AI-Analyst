@@ -1,0 +1,14 @@
+Event: UFC 305: Du Plessis vs. Adesanya
+    Date: August 17, 2024
+    Location: Perth, Western Australia, Australia
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS PRATES defeated LI JINGLIANG via KO/TKO  
+  at 4:02 of round 2
+  Key stats:
+  - CARLOS PRATES landed 55 significant strikes
+  - LI JINGLIANG landed 41 significant strikes
+  - Knockdowns: CARLOS PRATES 3,  LI JINGLIANG 0
+  - Takedowns: CARLOS PRATES 0,  LI JINGLIANG 0
+  Bonus: perf

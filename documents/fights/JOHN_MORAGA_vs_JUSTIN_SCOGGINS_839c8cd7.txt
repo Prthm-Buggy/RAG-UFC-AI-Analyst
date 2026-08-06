@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs Mousasi
+    Date: September 05, 2014
+    Location: Ledyard, Connecticut, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOHN MORAGA defeated JUSTIN SCOGGINS via Submission  
+  at 0:47 of round 2
+  Key stats:
+  - JOHN MORAGA landed 4 significant strikes
+  - JUSTIN SCOGGINS landed 13 significant strikes
+  - Knockdowns: JOHN MORAGA 0,  JUSTIN SCOGGINS 0
+  - Takedowns: JOHN MORAGA 0,  JUSTIN SCOGGINS 3

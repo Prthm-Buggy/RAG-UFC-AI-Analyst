@@ -1,0 +1,11 @@
+Fighter: OMARI AKHMEDOV
+  Date of Birth: 1987-10-12
+  Career record: 14
+  First fight: 2013-11-09
+  Last fight: 2021-07-10
+
+Career Statistics:
+- Significant Strikes Landed :484
+- Total takedowns landed :31
+- Knockdowns :2
+- Submission Attempts :3

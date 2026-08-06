@@ -1,0 +1,13 @@
+Event: UFC 103: Franklin vs Belfort
+    Date: September 19, 2009
+    Location: Dallas, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: NIK LENTZ defeated RAFAELLO OLIVEIRA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NIK LENTZ landed 67 significant strikes
+  - RAFAELLO OLIVEIRA landed 29 significant strikes
+  - Knockdowns: NIK LENTZ 0,  RAFAELLO OLIVEIRA 0
+  - Takedowns: NIK LENTZ 4,  RAFAELLO OLIVEIRA 4

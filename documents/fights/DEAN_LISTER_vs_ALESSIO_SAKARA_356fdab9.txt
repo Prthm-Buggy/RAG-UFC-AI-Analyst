@@ -1,0 +1,13 @@
+Event: UFC 60: Hughes vs Gracie
+    Date: May 27, 2006
+    Location: Los Angeles, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DEAN LISTER defeated ALESSIO SAKARA via Submission  
+  at 2:20 of round 1
+  Key stats:
+  - DEAN LISTER landed 1 significant strikes
+  - ALESSIO SAKARA landed 1 significant strikes
+  - Knockdowns: DEAN LISTER 0,  ALESSIO SAKARA 0
+  - Takedowns: DEAN LISTER 0,  ALESSIO SAKARA 0

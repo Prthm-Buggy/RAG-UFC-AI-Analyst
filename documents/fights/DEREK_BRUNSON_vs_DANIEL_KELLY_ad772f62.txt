@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Hunt
+    Date: June 10, 2017
+    Location: Auckland, New Zealand
+    Weight Class: Middleweight
+    
+
+    Result: DEREK BRUNSON defeated DANIEL KELLY via KO/TKO  
+  at 1:16 of round 1
+  Key stats:
+  - DEREK BRUNSON landed 8 significant strikes
+  - DANIEL KELLY landed 1 significant strikes
+  - Knockdowns: DEREK BRUNSON 1,  DANIEL KELLY 0
+  - Takedowns: DEREK BRUNSON 0,  DANIEL KELLY 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Teixeira vs Saint Preux
+    Date: August 08, 2015
+    Location: Nashville, Tennessee, USA
+    Weight Class: Middleweight
+    
+
+    Result: DEREK BRUNSON defeated SAM ALVEY via KO/TKO  
+  at 2:19 of round 1
+  Key stats:
+  - DEREK BRUNSON landed 27 significant strikes
+  - SAM ALVEY landed 4 significant strikes
+  - Knockdowns: DEREK BRUNSON 0,  SAM ALVEY 0
+  - Takedowns: DEREK BRUNSON 0,  SAM ALVEY 0

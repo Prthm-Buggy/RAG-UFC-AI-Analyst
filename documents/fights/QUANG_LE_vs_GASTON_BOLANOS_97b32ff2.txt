@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Figueiredo
+    Date: May 03, 2025
+    Location: Des Moines, Iowa, USA
+    Weight Class: Bantamweight
+    
+
+    Result: QUANG LE defeated GASTON BOLANOS via Submission  
+  at 1:54 of round 2
+  Key stats:
+  - QUANG LE landed 10 significant strikes
+  - GASTON BOLANOS landed 5 significant strikes
+  - Knockdowns: QUANG LE 0,  GASTON BOLANOS 0
+  - Takedowns: QUANG LE 4,  GASTON BOLANOS 0
+  Bonus: perf

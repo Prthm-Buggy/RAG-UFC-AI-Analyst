@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gustafsson vs Manuwa
+    Date: March 08, 2014
+    Location: London, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: LUKE BARNATT defeated MATS NILSSON via KO/TKO  
+  at 4:24 of round 1
+  Key stats:
+  - LUKE BARNATT landed 45 significant strikes
+  - MATS NILSSON landed 25 significant strikes
+  - Knockdowns: LUKE BARNATT 0,  MATS NILSSON 0
+  - Takedowns: LUKE BARNATT 0,  MATS NILSSON 0

@@ -1,0 +1,14 @@
+Event: UFC 94: St-Pierre vs Penn 2
+    Date: January 31, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GEORGES ST-PIERRE defeated BJ PENN via KO/TKO  
+  at 5:00 of round 4
+  Key stats:
+  - GEORGES ST-PIERRE landed 92 significant strikes
+  - BJ PENN landed 16 significant strikes
+  - Knockdowns: GEORGES ST-PIERRE 0,  BJ PENN 0
+  - Takedowns: GEORGES ST-PIERRE 4,  BJ PENN 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC 218: Holloway vs. Aldo 2
+    Date: December 02, 2017
+    Location: Detroit, Michigan, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUSTIN WILLIS defeated ALLEN CROWDER via KO/TKO  
+  at 2:33 of round 1
+  Key stats:
+  - JUSTIN WILLIS landed 22 significant strikes
+  - ALLEN CROWDER landed 15 significant strikes
+  - Knockdowns: JUSTIN WILLIS 1,  ALLEN CROWDER 0
+  - Takedowns: JUSTIN WILLIS 0,  ALLEN CROWDER 0

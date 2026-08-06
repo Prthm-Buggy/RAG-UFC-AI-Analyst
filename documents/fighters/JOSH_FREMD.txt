@@ -1,0 +1,11 @@
+Fighter: JOSH FREMD
+  Date of Birth: 1994-01-15
+  Career record: 6
+  First fight: 2022-04-09
+  Last fight: 2024-07-13
+
+Career Statistics:
+- Significant Strikes Landed :173
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :5

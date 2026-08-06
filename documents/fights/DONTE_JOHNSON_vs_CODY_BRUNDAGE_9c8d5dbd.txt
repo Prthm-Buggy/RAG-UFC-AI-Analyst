@@ -1,0 +1,13 @@
+Event: UFC 326: Holloway vs. Oliveira 2
+    Date: March 07, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DONTE JOHNSON defeated CODY BRUNDAGE via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - DONTE JOHNSON landed 45 significant strikes
+  - CODY BRUNDAGE landed 31 significant strikes
+  - Knockdowns: DONTE JOHNSON 0,  CODY BRUNDAGE 0
+  - Takedowns: DONTE JOHNSON 0,  CODY BRUNDAGE 2

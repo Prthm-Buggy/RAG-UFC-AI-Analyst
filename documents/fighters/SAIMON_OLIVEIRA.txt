@@ -1,0 +1,11 @@
+Fighter: SAIMON OLIVEIRA
+  Date of Birth: 1991-04-21
+  Career record: 4
+  First fight: 2022-01-22
+  Last fight: 2025-10-11
+
+Career Statistics:
+- Significant Strikes Landed :86
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :4

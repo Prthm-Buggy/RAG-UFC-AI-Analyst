@@ -1,0 +1,18 @@
+Event : UFC 262: Oliveira vs. Chandler
+    Date : May 15, 2021
+    Location: Houston, Texas, USA
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Middleweight, Lightweight, Featherweight
+
+    Fight Results:
+  - CHARLES OLIVEIRA def. MICHAEL CHANDLER via KO/TKO(R2)
+- LANDO VANNATA def. MIKE GRUNDY via Decision - Split(R3)
+- KATLYN CERMINARA def. VIVIANE ARAUJO via Decision - Unanimous(R3)
+- EDSON BARBOZA def. SHANE BURGOS via KO/TKO(R3)
+- PRISCILA CACHOEIRA def. GINA MAZANY via KO/TKO(R2)
+- ANDREA LEE def. ANTONINA SHEVCHENKO via Submission(R2)
+- TUCKER LUTZ def. KEVIN AGUILAR via Decision - Unanimous(R3)
+- CHRISTOS GIAGOS def. SEAN SORIANO via Submission(R2)
+- ANDRE MUNIZ def. JACARE SOUZA via Submission(R1)
+- BENEIL DARIUSH def. TONY FERGUSON via Decision - Unanimous(R3)
+- JORDAN WRIGHT def. JAMIE PICKETT via KO/TKO(R1)

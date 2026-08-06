@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Nogueira vs. Team Mir Finale
+    Date: December 13, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ROLANDO DELGADO defeated JOHN POLAKOWSKI via Submission  
+  at 2:18 of round 2
+  Key stats:
+  - ROLANDO DELGADO landed 15 significant strikes
+  - JOHN POLAKOWSKI landed 1 significant strikes
+  - Knockdowns: ROLANDO DELGADO 1,  JOHN POLAKOWSKI 0
+  - Takedowns: ROLANDO DELGADO 1,  JOHN POLAKOWSKI 0

@@ -1,0 +1,17 @@
+Event : UFC 260: Miocic vs. Ngannou
+    Date : March 27, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Women's Flyweight, Heavyweight, Bantamweight, Welterweight, Featherweight, Light Heavyweight, Middleweight, Lightweight
+
+    Fight Results:
+  - MICHAL OLEKSIEJCZUK def. MODESTAS BUKAUSKAS via Decision - Split(R3)
+- JAMIE MULLARKEY def. KHAMA WORTHY via KO/TKO(R1)
+- MARC-ANDRE BARRIAULT def. ABU AZAITAR via KO/TKO(R3)
+- VICENTE LUQUE def. TYRON WOODLEY via Submission(R1)
+- FRANCIS NGANNOU def. STIPE MIOCIC via KO/TKO(R2)
+- SEAN O'MALLEY def. THOMAS ALMEIDA via KO/TKO(R3)
+- MIRANDA MAVERICK def. GILLIAN ROBERTSON via Decision - Unanimous(R3)
+- ABUBAKAR NURMAGOMEDOV def. JARED GOODEN via Decision - Unanimous(R3)
+- OMAR MORALES def. SHANE YOUNG via Decision - Unanimous(R3)
+- ALONZO MENIFIELD def. FABIO CHERANT via Submission(R1)

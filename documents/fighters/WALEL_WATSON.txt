@@ -1,0 +1,11 @@
+Fighter: WALEL WATSON
+  Date of Birth: 1984-07-16
+  Career record: 4
+  First fight: 2011-10-01
+  Last fight: 2012-09-22
+
+Career Statistics:
+- Significant Strikes Landed :68
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :3

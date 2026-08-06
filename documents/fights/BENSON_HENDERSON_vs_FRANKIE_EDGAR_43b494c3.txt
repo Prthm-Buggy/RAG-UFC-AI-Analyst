@@ -1,0 +1,14 @@
+Event: UFC 144: Edgar vs Henderson
+    Date: February 25, 2012
+    Location: Saitama, Japan
+    Weight Class: Lightweight
+    
+
+    Result: BENSON HENDERSON defeated FRANKIE EDGAR via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - BENSON HENDERSON landed 87 significant strikes
+  - FRANKIE EDGAR landed 68 significant strikes
+  - Knockdowns: BENSON HENDERSON 0,  FRANKIE EDGAR 0
+  - Takedowns: BENSON HENDERSON 1,  FRANKIE EDGAR 5
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC 216: Ferguson vs. Lee
+    Date: October 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MARA ROMERO BORELLA defeated KALINDRA FARIA via Submission  
+  at 2:54 of round 1
+  Key stats:
+  - MARA ROMERO BORELLA landed 3 significant strikes
+  - KALINDRA FARIA landed 0 significant strikes
+  - Knockdowns: MARA ROMERO BORELLA 0,  KALINDRA FARIA 0
+  - Takedowns: MARA ROMERO BORELLA 1,  KALINDRA FARIA 0

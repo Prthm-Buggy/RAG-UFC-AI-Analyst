@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Shields vs Ellenberger
+    Date: September 17, 2011
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: TJ WALDBURGER defeated MIKE STUMPF via Submission  
+  at 3:52 of round 1
+  Key stats:
+  - TJ WALDBURGER landed 4 significant strikes
+  - MIKE STUMPF landed 0 significant strikes
+  - Knockdowns: TJ WALDBURGER 0,  MIKE STUMPF 0
+  - Takedowns: TJ WALDBURGER 3,  MIKE STUMPF 0
+  Bonus: sub

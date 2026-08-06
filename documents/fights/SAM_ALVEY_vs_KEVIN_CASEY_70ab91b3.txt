@@ -1,0 +1,13 @@
+Event: UFC on FOX: Maia vs. Condit
+    Date: August 27, 2016
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Middleweight
+    
+
+    Result: SAM ALVEY defeated KEVIN CASEY via KO/TKO  
+  at 4:56 of round 2
+  Key stats:
+  - SAM ALVEY landed 59 significant strikes
+  - KEVIN CASEY landed 25 significant strikes
+  - Knockdowns: SAM ALVEY 2,  KEVIN CASEY 0
+  - Takedowns: SAM ALVEY 0,  KEVIN CASEY 0

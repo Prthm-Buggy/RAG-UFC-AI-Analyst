@@ -1,0 +1,19 @@
+Event : UFC 295: Prochazka vs. Pereira
+    Date : November 11, 2023
+    Location: New York City, New York, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Featherweight, Light Heavyweight, Women's Strawweight, Lightweight, Flyweight, Catch Weight
+
+    Fight Results:
+  - DIEGO LOPES def. PAT SABATINI via KO/TKO(R1)
+- ALEX PEREIRA def. JIRI PROCHAZKA via KO/TKO(R2)
+- STEVE ERCEG def. ALESSANDRO COSTA via Decision - Unanimous(R3)
+- TOM ASPINALL def. SERGEI PAVLOVICH via KO/TKO(R1)
+- JARED GORDON def. MARK MADSEN via KO/TKO(R1)
+- LOOPY GODINEZ def. TABATHA RICCI via Decision - Split(R3)
+- JAMALL EMMERS def. DENNIS BUZUKJA via KO/TKO(R1)
+- BENOIT SAINT DENIS def. MATT FREVOLA via KO/TKO(R1)
+- JOHN CASTANEDA def. KYUNG HO KANG via Decision - Unanimous(R3)
+- MATEUSZ REBECKI def. ROOSEVELT ROBERTS via Submission(R1)
+- JESSICA ANDRADE def. MACKENZIE DERN via KO/TKO(R2)
+- JOSHUA VAN def. KEVIN BORJAS via Decision - Unanimous(R3)

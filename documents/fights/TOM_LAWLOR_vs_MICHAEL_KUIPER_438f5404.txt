@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Mousasi vs Latifi
+    Date: April 06, 2013
+    Location: Stockholm, Sweden
+    Weight Class: Middleweight
+    
+
+    Result: TOM LAWLOR defeated MICHAEL KUIPER via Submission  
+  at 1:05 of round 2
+  Key stats:
+  - TOM LAWLOR landed 7 significant strikes
+  - MICHAEL KUIPER landed 14 significant strikes
+  - Knockdowns: TOM LAWLOR 0,  MICHAEL KUIPER 0
+  - Takedowns: TOM LAWLOR 0,  MICHAEL KUIPER 3

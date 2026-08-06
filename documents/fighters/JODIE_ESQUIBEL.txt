@@ -1,0 +1,11 @@
+Fighter: JODIE ESQUIBEL
+  Date of Birth: 1986-05-07
+  Career record: 4
+  First fight: 2017-10-21
+  Last fight: 2019-08-17
+
+Career Statistics:
+- Significant Strikes Landed :246
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

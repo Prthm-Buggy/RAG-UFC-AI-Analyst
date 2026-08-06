@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Cannonier vs. Strickland
+    Date : December 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Featherweight, Flyweight, Lightweight, Middleweight, Women's Strawweight, Welterweight
+
+    Fight Results:
+  - ARMAN TSARUKYAN def. DAMIR ISMAGULOV via Decision - Unanimous(R3)
+- MANEL KAPE def. DAVID DVORAK via Decision - Unanimous(R3)
+- RINAT FAKHRETDINOV def. BRYAN BATTLE via Decision - Unanimous(R3)
+- CORY MCKENNA def. CHEYANNE VLISMAS via Decision - Unanimous(R3)
+- MICHAL OLEKSIEJCZUK def. CODY BRUNDAGE via KO/TKO(R1)
+- RAFA GARCIA def. MAHESHATE via Decision - Unanimous(R3)
+- SERGEY MOROZOV def. JOURNEY NEWSON via Decision - Unanimous(R3)
+- AMIR ALBAZI def. ALESSANDRO COSTA via KO/TKO(R3)
+- JARED CANNONIER def. SEAN STRICKLAND via Decision - Split(R5)
+- MATTHEW SEMELSBERGER def. JAKE MATTHEWS via Decision - Unanimous(R3)
+- DREW DOBER def. KING GREEN via KO/TKO(R2)
+- ALEX CACERES def. JULIAN EROSA via KO/TKO(R1)
+- SAID NURMAGOMEDOV def. SAIDYOKUB KAKHRAMONOV via Submission(R2)

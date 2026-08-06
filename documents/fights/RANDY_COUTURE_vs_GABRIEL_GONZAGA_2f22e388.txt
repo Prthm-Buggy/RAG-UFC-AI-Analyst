@@ -1,0 +1,14 @@
+Event: UFC 74: Respect
+    Date: August 25, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RANDY COUTURE defeated GABRIEL GONZAGA via KO/TKO  
+  at 1:37 of round 3
+  Key stats:
+  - RANDY COUTURE landed 63 significant strikes
+  - GABRIEL GONZAGA landed 11 significant strikes
+  - Knockdowns: RANDY COUTURE 0,  GABRIEL GONZAGA 0
+  - Takedowns: RANDY COUTURE 3,  GABRIEL GONZAGA 0
+  Bonus: belt

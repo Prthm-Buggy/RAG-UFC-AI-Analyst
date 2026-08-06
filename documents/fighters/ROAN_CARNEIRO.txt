@@ -1,0 +1,11 @@
+Fighter: ROAN CARNEIRO
+  Date of Birth: 1978-06-02
+  Career record: 9
+  First fight: 2007-04-05
+  Last fight: 2017-02-11
+
+Career Statistics:
+- Significant Strikes Landed :133
+- Total takedowns landed :18
+- Knockdowns :0
+- Submission Attempts :9

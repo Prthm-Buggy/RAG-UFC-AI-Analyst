@@ -1,0 +1,11 @@
+Fighter: ERIC SPICELY
+  Date of Birth: 1986-09-29
+  Career record: 7
+  First fight: 2016-07-13
+  Last fight: 2019-06-22
+
+Career Statistics:
+- Significant Strikes Landed :170
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :3

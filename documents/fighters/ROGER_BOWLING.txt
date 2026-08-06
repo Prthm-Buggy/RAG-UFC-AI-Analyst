@@ -1,0 +1,11 @@
+Fighter: ROGER BOWLING
+  Date of Birth: 1982-12-05
+  Career record: 2
+  First fight: 2013-04-20
+  Last fight: 2013-12-14
+
+Career Statistics:
+- Significant Strikes Landed :36
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

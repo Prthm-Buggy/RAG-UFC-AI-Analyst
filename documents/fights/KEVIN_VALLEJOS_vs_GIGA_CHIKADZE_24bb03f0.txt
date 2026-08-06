@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Royval vs. Kape
+    Date: December 13, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: KEVIN VALLEJOS defeated GIGA CHIKADZE via KO/TKO  
+  at 1:29 of round 2
+  Key stats:
+  - KEVIN VALLEJOS landed 20 significant strikes
+  - GIGA CHIKADZE landed 12 significant strikes
+  - Knockdowns: KEVIN VALLEJOS 1,  GIGA CHIKADZE 0
+  - Takedowns: KEVIN VALLEJOS 0,  GIGA CHIKADZE 0
+  Bonus: perf

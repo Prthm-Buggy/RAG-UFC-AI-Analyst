@@ -1,0 +1,14 @@
+Event: UFC 224: Nunes vs. Pennington
+    Date: May 12, 2018
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AMANDA NUNES defeated RAQUEL PENNINGTON via KO/TKO  
+  at 2:36 of round 5
+  Key stats:
+  - AMANDA NUNES landed 124 significant strikes
+  - RAQUEL PENNINGTON landed 64 significant strikes
+  - Knockdowns: AMANDA NUNES 0,  RAQUEL PENNINGTON 0
+  - Takedowns: AMANDA NUNES 3,  RAQUEL PENNINGTON 1
+  Bonus: belt

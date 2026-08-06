@@ -1,0 +1,13 @@
+Event: UFC Fight Night 1
+    Date: August 06, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MIKE SWICK defeated GIDEON RAY via KO/TKO  
+  at 0:22 of round 1
+  Key stats:
+  - MIKE SWICK landed 7 significant strikes
+  - GIDEON RAY landed 1 significant strikes
+  - Knockdowns: MIKE SWICK 1,  GIDEON RAY 0
+  - Takedowns: MIKE SWICK 0,  GIDEON RAY 0

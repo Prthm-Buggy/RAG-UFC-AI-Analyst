@@ -1,0 +1,13 @@
+Event: UFC 2: No Way Out
+    Date: March 11, 1994
+    Location: Denver, Colorado, USA
+    Weight Class: Open Weight
+    
+
+    Result: JOHNNY RHODES defeated FRED ETTISH via Submission  
+  at 3:07 of round 1
+  Key stats:
+  - JOHNNY RHODES landed 13 significant strikes
+  - FRED ETTISH landed 4 significant strikes
+  - Knockdowns: JOHNNY RHODES 1,  FRED ETTISH 0
+  - Takedowns: JOHNNY RHODES 0,  FRED ETTISH 0

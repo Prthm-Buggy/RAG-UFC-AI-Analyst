@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs Arlovski
+    Date: May 08, 2016
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Welterweight
+    
+
+    Result: LEON EDWARDS defeated DOMINIC WATERS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LEON EDWARDS landed 24 significant strikes
+  - DOMINIC WATERS landed 3 significant strikes
+  - Knockdowns: LEON EDWARDS 0,  DOMINIC WATERS 0
+  - Takedowns: LEON EDWARDS 2,  DOMINIC WATERS 4

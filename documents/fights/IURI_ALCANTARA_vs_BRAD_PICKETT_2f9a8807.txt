@@ -1,0 +1,14 @@
+Event: UFC 204: Bisping vs. Henderson
+    Date: October 08, 2016
+    Location: Manchester, England, United Kingdom
+    Weight Class: Bantamweight
+    
+
+    Result: IURI ALCANTARA defeated BRAD PICKETT via Submission  
+  at 1:59 of round 1
+  Key stats:
+  - IURI ALCANTARA landed 26 significant strikes
+  - BRAD PICKETT landed 1 significant strikes
+  - Knockdowns: IURI ALCANTARA 1,  BRAD PICKETT 0
+  - Takedowns: IURI ALCANTARA 0,  BRAD PICKETT 0
+  Bonus: perf

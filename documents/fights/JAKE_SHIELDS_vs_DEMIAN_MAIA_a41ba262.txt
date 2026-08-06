@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs Shields
+    Date: October 09, 2013
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: JAKE SHIELDS defeated DEMIAN MAIA via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - JAKE SHIELDS landed 35 significant strikes
+  - DEMIAN MAIA landed 24 significant strikes
+  - Knockdowns: JAKE SHIELDS 0,  DEMIAN MAIA 0
+  - Takedowns: JAKE SHIELDS 1,  DEMIAN MAIA 3

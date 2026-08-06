@@ -1,0 +1,14 @@
+Event: UFC 166: Velasquez vs Dos Santos 3
+    Date: October 19, 2013
+    Location: Houston, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CAIN VELASQUEZ defeated JUNIOR DOS SANTOS via KO/TKO  
+  at 3:09 of round 5
+  Key stats:
+  - CAIN VELASQUEZ landed 123 significant strikes
+  - JUNIOR DOS SANTOS landed 46 significant strikes
+  - Knockdowns: CAIN VELASQUEZ 1,  JUNIOR DOS SANTOS 0
+  - Takedowns: CAIN VELASQUEZ 2,  JUNIOR DOS SANTOS 0
+  Bonus: belt

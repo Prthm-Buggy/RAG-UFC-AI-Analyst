@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kape vs. Almabayev
+    Date: March 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SAM PATTERSON defeated DANNY BARLOW via KO/TKO  
+  at 3:10 of round 1
+  Key stats:
+  - SAM PATTERSON landed 18 significant strikes
+  - DANNY BARLOW landed 15 significant strikes
+  - Knockdowns: SAM PATTERSON 1,  DANNY BARLOW 0
+  - Takedowns: SAM PATTERSON 0,  DANNY BARLOW 0

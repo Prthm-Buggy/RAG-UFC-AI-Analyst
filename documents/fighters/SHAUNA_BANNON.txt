@@ -1,0 +1,11 @@
+Fighter: SHAUNA BANNON
+  Date of Birth: 1993-10-23
+  Career record: 5
+  First fight: 2023-07-22
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :225
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :2

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Thompson vs. Neal
+    Date: December 19, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARCIN TYBURA defeated GREG HARDY via KO/TKO  
+  at 4:31 of round 2
+  Key stats:
+  - MARCIN TYBURA landed 51 significant strikes
+  - GREG HARDY landed 50 significant strikes
+  - Knockdowns: MARCIN TYBURA 0,  GREG HARDY 0
+  - Takedowns: MARCIN TYBURA 1,  GREG HARDY 0
+  Bonus: perf

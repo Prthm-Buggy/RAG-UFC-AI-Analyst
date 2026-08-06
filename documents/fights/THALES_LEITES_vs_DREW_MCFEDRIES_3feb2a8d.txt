@@ -1,0 +1,13 @@
+Event: UFC 90: Silva vs Cote
+    Date: October 25, 2008
+    Location: Rosemont, Illinois, USA
+    Weight Class: Middleweight
+    
+
+    Result: THALES LEITES defeated DREW MCFEDRIES via Submission  
+  at 1:18 of round 1
+  Key stats:
+  - THALES LEITES landed 0 significant strikes
+  - DREW MCFEDRIES landed 1 significant strikes
+  - Knockdowns: THALES LEITES 0,  DREW MCFEDRIES 0
+  - Takedowns: THALES LEITES 1,  DREW MCFEDRIES 0

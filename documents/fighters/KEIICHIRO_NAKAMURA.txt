@@ -1,0 +1,11 @@
+Fighter: KEIICHIRO NAKAMURA
+  Date of Birth: 1998-12-02
+  Career record: 1
+  First fight: 2026-01-31
+  Last fight: 2026-01-31
+
+Career Statistics:
+- Significant Strikes Landed :45
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

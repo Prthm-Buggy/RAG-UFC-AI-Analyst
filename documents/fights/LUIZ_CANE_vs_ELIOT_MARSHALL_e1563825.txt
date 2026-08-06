@@ -1,0 +1,13 @@
+Event: UFC 128: Shogun vs Jones
+    Date: March 19, 2011
+    Location: Newark, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: LUIZ CANE defeated ELIOT MARSHALL via KO/TKO  
+  at 2:15 of round 1
+  Key stats:
+  - LUIZ CANE landed 29 significant strikes
+  - ELIOT MARSHALL landed 2 significant strikes
+  - Knockdowns: LUIZ CANE 1,  ELIOT MARSHALL 0
+  - Takedowns: LUIZ CANE 0,  ELIOT MARSHALL 0

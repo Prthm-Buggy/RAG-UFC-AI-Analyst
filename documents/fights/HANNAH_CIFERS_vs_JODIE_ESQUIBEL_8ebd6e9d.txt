@@ -1,0 +1,13 @@
+Event: UFC 241: Cormier vs. Miocic 2
+    Date: August 17, 2019
+    Location: Anaheim, California, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: HANNAH CIFERS defeated JODIE ESQUIBEL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - HANNAH CIFERS landed 70 significant strikes
+  - JODIE ESQUIBEL landed 43 significant strikes
+  - Knockdowns: HANNAH CIFERS 0,  JODIE ESQUIBEL 0
+  - Takedowns: HANNAH CIFERS 1,  JODIE ESQUIBEL 3

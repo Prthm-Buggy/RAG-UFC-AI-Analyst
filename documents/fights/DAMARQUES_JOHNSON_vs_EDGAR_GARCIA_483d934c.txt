@@ -1,0 +1,14 @@
+Event: UFC 107: Penn vs Sanchez
+    Date: December 12, 2009
+    Location: Memphis, Tennessee, USA
+    Weight Class: Welterweight
+    
+
+    Result: DAMARQUES JOHNSON defeated EDGAR GARCIA via Submission  
+  at 4:03 of round 1
+  Key stats:
+  - DAMARQUES JOHNSON landed 10 significant strikes
+  - EDGAR GARCIA landed 17 significant strikes
+  - Knockdowns: DAMARQUES JOHNSON 0,  EDGAR GARCIA 0
+  - Takedowns: DAMARQUES JOHNSON 0,  EDGAR GARCIA 1
+  Bonus: sub

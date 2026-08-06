@@ -1,0 +1,13 @@
+Event: UFC Fight Night 1
+    Date: August 06, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSH KOSCHECK defeated PETE SPRATT via Submission  
+  at 1:53 of round 1
+  Key stats:
+  - JOSH KOSCHECK landed 0 significant strikes
+  - PETE SPRATT landed 0 significant strikes
+  - Knockdowns: JOSH KOSCHECK 0,  PETE SPRATT 0
+  - Takedowns: JOSH KOSCHECK 1,  PETE SPRATT 0

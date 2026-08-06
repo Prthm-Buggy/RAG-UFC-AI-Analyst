@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Edwards
+    Date: July 20, 2019
+    Location: San Antonio, Texas, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RAY BORG defeated GABRIEL SILVA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAY BORG landed 15 significant strikes
+  - GABRIEL SILVA landed 8 significant strikes
+  - Knockdowns: RAY BORG 0,  GABRIEL SILVA 0
+  - Takedowns: RAY BORG 6,  GABRIEL SILVA 1

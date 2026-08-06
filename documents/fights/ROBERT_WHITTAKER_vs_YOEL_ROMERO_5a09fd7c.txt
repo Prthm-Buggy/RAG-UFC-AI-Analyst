@@ -1,0 +1,14 @@
+Event: UFC 225: Whittaker vs. Romero 2
+    Date: June 09, 2018
+    Location: Chicago, Illinois, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROBERT WHITTAKER defeated YOEL ROMERO via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - ROBERT WHITTAKER landed 128 significant strikes
+  - YOEL ROMERO landed 111 significant strikes
+  - Knockdowns: ROBERT WHITTAKER 0,  YOEL ROMERO 2
+  - Takedowns: ROBERT WHITTAKER 0,  YOEL ROMERO 3
+  Bonus: fight

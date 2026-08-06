@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Fight for the Troops 3
+    Date: November 06, 2013
+    Location: Fort Campbell, Kentucky, USA
+    Weight Class: Lightweight
+    
+
+    Result: MICHAEL CHIESA defeated COLTON SMITH via Submission  
+  at 1:41 of round 2
+  Key stats:
+  - MICHAEL CHIESA landed 7 significant strikes
+  - COLTON SMITH landed 4 significant strikes
+  - Knockdowns: MICHAEL CHIESA 0,  COLTON SMITH 0
+  - Takedowns: MICHAEL CHIESA 1,  COLTON SMITH 2
+  Bonus: sub

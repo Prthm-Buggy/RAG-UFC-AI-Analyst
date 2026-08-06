@@ -1,0 +1,14 @@
+Event: UFC 86: Jackson vs Griffin
+    Date: July 05, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: FORREST GRIFFIN defeated QUINTON JACKSON via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - FORREST GRIFFIN landed 77 significant strikes
+  - QUINTON JACKSON landed 50 significant strikes
+  - Knockdowns: FORREST GRIFFIN 0,  QUINTON JACKSON 1
+  - Takedowns: FORREST GRIFFIN 0,  QUINTON JACKSON 0
+  Bonus: belt

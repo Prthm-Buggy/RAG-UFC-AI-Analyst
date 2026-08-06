@@ -1,0 +1,13 @@
+Event: UFC 214: Cormier vs. Jones 2
+    Date: July 29, 2017
+    Location: Anaheim, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: DREW DOBER defeated JOSHUA BURKMAN via KO/TKO  
+  at 3:04 of round 1
+  Key stats:
+  - DREW DOBER landed 15 significant strikes
+  - JOSHUA BURKMAN landed 11 significant strikes
+  - Knockdowns: DREW DOBER 1,  JOSHUA BURKMAN 0
+  - Takedowns: DREW DOBER 0,  JOSHUA BURKMAN 0

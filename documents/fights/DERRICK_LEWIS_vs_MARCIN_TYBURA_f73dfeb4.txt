@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cerrone vs. Medeiros
+    Date: February 18, 2018
+    Location: Austin, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated MARCIN TYBURA via KO/TKO  
+  at 2:48 of round 3
+  Key stats:
+  - DERRICK LEWIS landed 30 significant strikes
+  - MARCIN TYBURA landed 37 significant strikes
+  - Knockdowns: DERRICK LEWIS 2,  MARCIN TYBURA 0
+  - Takedowns: DERRICK LEWIS 1,  MARCIN TYBURA 1
+  Bonus: perf

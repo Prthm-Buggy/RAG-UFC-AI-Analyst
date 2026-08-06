@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. De Ridder
+    Date: July 26, 2025
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Welterweight
+    
+
+    Result: MUSLIM SALIKHOV defeated CARLOS LEAL via KO/TKO  
+  at 0:42 of round 1
+  Key stats:
+  - MUSLIM SALIKHOV landed 3 significant strikes
+  - CARLOS LEAL landed 5 significant strikes
+  - Knockdowns: MUSLIM SALIKHOV 1,  CARLOS LEAL 0
+  - Takedowns: MUSLIM SALIKHOV 0,  CARLOS LEAL 0
+  Bonus: perf

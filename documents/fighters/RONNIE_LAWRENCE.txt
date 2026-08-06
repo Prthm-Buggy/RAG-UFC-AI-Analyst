@@ -1,0 +1,11 @@
+Fighter: RONNIE LAWRENCE
+  Date of Birth: 1992-06-13
+  Career record: 3
+  First fight: 2021-02-27
+  Last fight: 2022-07-09
+
+Career Statistics:
+- Significant Strikes Landed :138
+- Total takedowns landed :15
+- Knockdowns :3
+- Submission Attempts :0

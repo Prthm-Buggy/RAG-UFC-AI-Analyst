@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nelson vs. Ponzinibbio
+    Date: July 16, 2017
+    Location: Glasgow, Scotland, United Kingdom
+    Weight Class: Women's Bantamweight
+    
+
+    Result: LESLIE SMITH defeated AMANDA LEMOS via KO/TKO  
+  at 2:53 of round 2
+  Key stats:
+  - LESLIE SMITH landed 101 significant strikes
+  - AMANDA LEMOS landed 68 significant strikes
+  - Knockdowns: LESLIE SMITH 0,  AMANDA LEMOS 0
+  - Takedowns: LESLIE SMITH 0,  AMANDA LEMOS 1

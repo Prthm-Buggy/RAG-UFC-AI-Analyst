@@ -1,0 +1,17 @@
+Event : The Ultimate Fighter: Team Rousey vs. Team Tate Finale
+    Date : November 30, 2013
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Women's Bantamweight, Featherweight, Welterweight, Flyweight, Lightweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - JULIANNA PENA def. JESSICA RAKOCZY via KO/TKO(R1)
+- RAQUEL PENNINGTON def. ROXANNE MODAFFERI via Decision - Unanimous(R3)
+- NATE DIAZ def. GRAY MAYNARD via KO/TKO(R1)
+- JARED ROSHOLT def. WALT HARRIS via Decision - Unanimous(R3)
+- AKIRA CORASSANI def. MAXIMO BLANCO via DQ(R1)
+- CHRIS HOLDSWORTH def. DAVEY GRANT via Submission(R2)
+- TOM NIINIMAKI def. RANI YAHYA via Decision - Split(R3)
+- JOSH SAMPO def. RYAN BENOIT via Submission(R2)
+- SEAN SPENCER def. DREW DOBER via Decision - Unanimous(R3)
+- JESSAMYN DUKE def. PEGGY MORGAN via Decision - Unanimous(R3)

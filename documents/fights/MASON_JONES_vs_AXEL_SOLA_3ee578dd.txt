@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Evloev vs. Murphy
+    Date: March 21, 2026
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: MASON JONES defeated AXEL SOLA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MASON JONES landed 110 significant strikes
+  - AXEL SOLA landed 65 significant strikes
+  - Knockdowns: MASON JONES 0,  AXEL SOLA 0
+  - Takedowns: MASON JONES 0,  AXEL SOLA 3
+  Bonus: fight

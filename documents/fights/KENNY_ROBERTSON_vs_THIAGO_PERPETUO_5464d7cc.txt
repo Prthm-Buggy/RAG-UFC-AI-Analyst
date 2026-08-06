@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shogun vs Henderson 2
+    Date: March 23, 2014
+    Location: Natal, Rio Grande do Norte, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: KENNY ROBERTSON defeated THIAGO PERPETUO via Submission  
+  at 1:45 of round 1
+  Key stats:
+  - KENNY ROBERTSON landed 9 significant strikes
+  - THIAGO PERPETUO landed 0 significant strikes
+  - Knockdowns: KENNY ROBERTSON 0,  THIAGO PERPETUO 0
+  - Takedowns: KENNY ROBERTSON 1,  THIAGO PERPETUO 1

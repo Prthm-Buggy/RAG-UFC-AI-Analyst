@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs Cowboy
+    Date: February 21, 2016
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Middleweight
+    
+
+    Result: DEREK BRUNSON defeated ROAN CARNEIRO via KO/TKO  
+  at 2:38 of round 1
+  Key stats:
+  - DEREK BRUNSON landed 23 significant strikes
+  - ROAN CARNEIRO landed 0 significant strikes
+  - Knockdowns: DEREK BRUNSON 0,  ROAN CARNEIRO 0
+  - Takedowns: DEREK BRUNSON 0,  ROAN CARNEIRO 0

@@ -1,0 +1,14 @@
+Event: UFC 257: Poirier vs. McGregor
+    Date: January 23, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: DUSTIN POIRIER defeated CONOR MCGREGOR via KO/TKO  
+  at 2:32 of round 2
+  Key stats:
+  - DUSTIN POIRIER landed 48 significant strikes
+  - CONOR MCGREGOR landed 29 significant strikes
+  - Knockdowns: DUSTIN POIRIER 1,  CONOR MCGREGOR 0
+  - Takedowns: DUSTIN POIRIER 1,  CONOR MCGREGOR 0
+  Bonus: perf

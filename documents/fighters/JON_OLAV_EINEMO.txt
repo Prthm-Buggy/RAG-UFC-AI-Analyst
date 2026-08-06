@@ -1,0 +1,11 @@
+Fighter: JON OLAV EINEMO
+  Date of Birth: 1975-12-10
+  Career record: 2
+  First fight: 2011-06-11
+  Last fight: 2012-01-28
+
+Career Statistics:
+- Significant Strikes Landed :65
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

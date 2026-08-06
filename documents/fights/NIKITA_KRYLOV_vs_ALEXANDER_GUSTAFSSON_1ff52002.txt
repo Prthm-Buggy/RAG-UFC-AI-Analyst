@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blaydes vs. Aspinall
+    Date: July 23, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: NIKITA KRYLOV defeated ALEXANDER GUSTAFSSON via KO/TKO  
+  at 1:07 of round 1
+  Key stats:
+  - NIKITA KRYLOV landed 26 significant strikes
+  - ALEXANDER GUSTAFSSON landed 5 significant strikes
+  - Knockdowns: NIKITA KRYLOV 2,  ALEXANDER GUSTAFSSON 0
+  - Takedowns: NIKITA KRYLOV 0,  ALEXANDER GUSTAFSSON 0
+  Bonus: perf

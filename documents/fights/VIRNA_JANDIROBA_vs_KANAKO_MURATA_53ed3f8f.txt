@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jung vs. Ige
+    Date: June 19, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: VIRNA JANDIROBA defeated KANAKO MURATA via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - VIRNA JANDIROBA landed 36 significant strikes
+  - KANAKO MURATA landed 23 significant strikes
+  - Knockdowns: VIRNA JANDIROBA 0,  KANAKO MURATA 0
+  - Takedowns: VIRNA JANDIROBA 0,  KANAKO MURATA 0

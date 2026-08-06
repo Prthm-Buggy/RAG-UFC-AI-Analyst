@@ -1,0 +1,14 @@
+Event: UFC 149: Faber vs Barao
+    Date: July 21, 2012
+    Location: Calgary, Alberta, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: BRYAN CARAWAY defeated MITCH GAGNON via Submission  
+  at 1:39 of round 3
+  Key stats:
+  - BRYAN CARAWAY landed 11 significant strikes
+  - MITCH GAGNON landed 27 significant strikes
+  - Knockdowns: BRYAN CARAWAY 0,  MITCH GAGNON 0
+  - Takedowns: BRYAN CARAWAY 3,  MITCH GAGNON 1
+  Bonus: fight

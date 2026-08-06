@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Figueiredo vs. Benavidez 2
+    Date: July 18, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: JACK HERMANSSON defeated KELVIN GASTELUM via Submission  
+  at 1:18 of round 1
+  Key stats:
+  - JACK HERMANSSON landed 2 significant strikes
+  - KELVIN GASTELUM landed 0 significant strikes
+  - Knockdowns: JACK HERMANSSON 0,  KELVIN GASTELUM 0
+  - Takedowns: JACK HERMANSSON 0,  KELVIN GASTELUM 1

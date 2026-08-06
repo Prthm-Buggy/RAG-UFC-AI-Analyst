@@ -1,0 +1,11 @@
+Fighter: DA'MON BLACKSHEAR
+  Date of Birth: 1994-08-12
+  Career record: 9
+  First fight: 2023-03-04
+  Last fight: 2025-07-26
+
+Career Statistics:
+- Significant Strikes Landed :412
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :9

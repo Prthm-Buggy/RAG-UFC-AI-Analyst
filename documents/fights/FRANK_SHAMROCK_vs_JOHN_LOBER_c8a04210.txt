@@ -1,0 +1,14 @@
+Event: UFC - Ultimate Brazil
+    Date: October 16, 1998
+    Location: Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: FRANK SHAMROCK defeated JOHN LOBER via Submission  
+  at 7:40 of round 1
+  Key stats:
+  - FRANK SHAMROCK landed 23 significant strikes
+  - JOHN LOBER landed 4 significant strikes
+  - Knockdowns: FRANK SHAMROCK 2,  JOHN LOBER 0
+  - Takedowns: FRANK SHAMROCK 0,  JOHN LOBER 3
+  Bonus: belt

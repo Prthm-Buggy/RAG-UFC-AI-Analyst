@@ -1,0 +1,14 @@
+Event: UFC 205: Alvarez vs McGregor
+    Date: November 12, 2016
+    Location: New York City, New York, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JOANNA JEDRZEJCZYK defeated KAROLINA KOWALKIEWICZ via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JOANNA JEDRZEJCZYK landed 171 significant strikes
+  - KAROLINA KOWALKIEWICZ landed 50 significant strikes
+  - Knockdowns: JOANNA JEDRZEJCZYK 0,  KAROLINA KOWALKIEWICZ 0
+  - Takedowns: JOANNA JEDRZEJCZYK 1,  KAROLINA KOWALKIEWICZ 0
+  Bonus: belt

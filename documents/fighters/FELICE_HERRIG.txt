@@ -1,0 +1,11 @@
+Fighter: FELICE HERRIG
+  Date of Birth: 1984-09-18
+  Career record: 10
+  First fight: 2014-12-12
+  Last fight: 2022-06-04
+
+Career Statistics:
+- Significant Strikes Landed :425
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :6

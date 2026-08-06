@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs. Usman
+    Date: May 19, 2018
+    Location: Santiago, Chile
+    Weight Class: Light Heavyweight
+    
+
+    Result: DOMINICK REYES defeated JARED CANNONIER via KO/TKO  
+  at 2:55 of round 1
+  Key stats:
+  - DOMINICK REYES landed 20 significant strikes
+  - JARED CANNONIER landed 6 significant strikes
+  - Knockdowns: DOMINICK REYES 1,  JARED CANNONIER 0
+  - Takedowns: DOMINICK REYES 0,  JARED CANNONIER 0

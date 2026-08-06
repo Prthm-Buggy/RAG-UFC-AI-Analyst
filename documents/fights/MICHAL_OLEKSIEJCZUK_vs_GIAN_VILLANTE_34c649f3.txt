@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blachowicz vs. Santos
+    Date: February 23, 2019
+    Location: Prague, Czech Republic
+    Weight Class: Light Heavyweight
+    
+
+    Result: MICHAL OLEKSIEJCZUK defeated GIAN VILLANTE via KO/TKO  
+  at 1:34 of round 1
+  Key stats:
+  - MICHAL OLEKSIEJCZUK landed 14 significant strikes
+  - GIAN VILLANTE landed 9 significant strikes
+  - Knockdowns: MICHAL OLEKSIEJCZUK 1,  GIAN VILLANTE 0
+  - Takedowns: MICHAL OLEKSIEJCZUK 0,  GIAN VILLANTE 0
+  Bonus: perf

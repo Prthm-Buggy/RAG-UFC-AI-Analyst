@@ -1,0 +1,11 @@
+Fighter: PAT SCHILLING
+  Date of Birth: 1988-08-28
+  Career record: 2
+  First fight: 2012-01-20
+  Last fight: 2012-06-01
+
+Career Statistics:
+- Significant Strikes Landed :31
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

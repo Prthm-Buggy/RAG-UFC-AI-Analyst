@@ -1,0 +1,13 @@
+Event: UFC 66: Liddell vs Ortiz 2
+    Date: December 30, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: GABRIEL GONZAGA defeated CARMELO MARRERO via Submission  
+  at 3:22 of round 1
+  Key stats:
+  - GABRIEL GONZAGA landed 4 significant strikes
+  - CARMELO MARRERO landed 1 significant strikes
+  - Knockdowns: GABRIEL GONZAGA 0,  CARMELO MARRERO 0
+  - Takedowns: GABRIEL GONZAGA 1,  CARMELO MARRERO 0

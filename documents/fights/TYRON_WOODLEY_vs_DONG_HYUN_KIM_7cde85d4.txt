@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bisping vs Le
+    Date: August 23, 2014
+    Location: Macau, China
+    Weight Class: Welterweight
+    
+
+    Result: TYRON WOODLEY defeated DONG HYUN KIM via KO/TKO  
+  at 1:01 of round 1
+  Key stats:
+  - TYRON WOODLEY landed 13 significant strikes
+  - DONG HYUN KIM landed 2 significant strikes
+  - Knockdowns: TYRON WOODLEY 1,  DONG HYUN KIM 0
+  - Takedowns: TYRON WOODLEY 0,  DONG HYUN KIM 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: GORAN RELJIC
+  Date of Birth: 1984-03-20
+  Career record: 4
+  First fight: 2008-05-24
+  Last fight: 2010-11-13
+
+Career Statistics:
+- Significant Strikes Landed :90
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :4

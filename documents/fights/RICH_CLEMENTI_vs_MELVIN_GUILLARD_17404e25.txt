@@ -1,0 +1,13 @@
+Event: UFC 79: Nemesis
+    Date: December 29, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: RICH CLEMENTI defeated MELVIN GUILLARD via Submission  
+  at 4:40 of round 1
+  Key stats:
+  - RICH CLEMENTI landed 6 significant strikes
+  - MELVIN GUILLARD landed 5 significant strikes
+  - Knockdowns: RICH CLEMENTI 0,  MELVIN GUILLARD 0
+  - Takedowns: RICH CLEMENTI 2,  MELVIN GUILLARD 1

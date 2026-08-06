@@ -1,0 +1,14 @@
+Event: UFC 107: Penn vs Sanchez
+    Date: December 12, 2009
+    Location: Memphis, Tennessee, USA
+    Weight Class: Catch Weight
+    
+
+    Result: ALAN BELCHER defeated WILSON GOUVEIA via KO/TKO  
+  at 3:03 of round 1
+  Key stats:
+  - ALAN BELCHER landed 21 significant strikes
+  - WILSON GOUVEIA landed 29 significant strikes
+  - Knockdowns: ALAN BELCHER 1,  WILSON GOUVEIA 0
+  - Takedowns: ALAN BELCHER 0,  WILSON GOUVEIA 0
+  Bonus: fight

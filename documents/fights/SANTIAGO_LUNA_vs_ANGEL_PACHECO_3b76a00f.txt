@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Kavanagh
+    Date: February 28, 2026
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Bantamweight
+    
+
+    Result: SANTIAGO LUNA defeated ANGEL PACHECO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SANTIAGO LUNA landed 131 significant strikes
+  - ANGEL PACHECO landed 56 significant strikes
+  - Knockdowns: SANTIAGO LUNA 0,  ANGEL PACHECO 0
+  - Takedowns: SANTIAGO LUNA 5,  ANGEL PACHECO 1

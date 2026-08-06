@@ -1,0 +1,11 @@
+Fighter: LUIS GURULE
+  Date of Birth: 1993-11-16
+  Career record: 5
+  First fight: 2025-04-05
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :277
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

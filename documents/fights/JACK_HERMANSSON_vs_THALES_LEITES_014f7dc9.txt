@@ -1,0 +1,13 @@
+Event: UFC 224: Nunes vs. Pennington
+    Date: May 12, 2018
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: JACK HERMANSSON defeated THALES LEITES via KO/TKO  
+  at 2:10 of round 3
+  Key stats:
+  - JACK HERMANSSON landed 35 significant strikes
+  - THALES LEITES landed 11 significant strikes
+  - Knockdowns: JACK HERMANSSON 0,  THALES LEITES 0
+  - Takedowns: JACK HERMANSSON 3,  THALES LEITES 3

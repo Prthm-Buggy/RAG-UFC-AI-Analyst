@@ -1,0 +1,11 @@
+Fighter: GILLIAN ROBERTSON
+  Date of Birth: 1995-05-17
+  Career record: 20
+  First fight: 2017-12-01
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :560
+- Total takedowns landed :38
+- Knockdowns :0
+- Submission Attempts :12

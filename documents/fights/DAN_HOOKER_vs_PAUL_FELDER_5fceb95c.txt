@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Felder vs. Hooker
+    Date: February 22, 2020
+    Location: Auckland, New Zealand
+    Weight Class: Lightweight
+    
+
+    Result: DAN HOOKER defeated PAUL FELDER via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - DAN HOOKER landed 122 significant strikes
+  - PAUL FELDER landed 110 significant strikes
+  - Knockdowns: DAN HOOKER 0,  PAUL FELDER 0
+  - Takedowns: DAN HOOKER 1,  PAUL FELDER 0
+  Bonus: fight

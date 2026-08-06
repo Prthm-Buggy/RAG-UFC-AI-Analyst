@@ -1,0 +1,13 @@
+Event: UFC 184: Rousey vs Zingano
+    Date: February 28, 2015
+    Location: Los Angeles, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALAN JOUBAN defeated RICHARD WALSH via KO/TKO  
+  at 2:19 of round 1
+  Key stats:
+  - ALAN JOUBAN landed 12 significant strikes
+  - RICHARD WALSH landed 10 significant strikes
+  - Knockdowns: ALAN JOUBAN 0,  RICHARD WALSH 0
+  - Takedowns: ALAN JOUBAN 0,  RICHARD WALSH 0

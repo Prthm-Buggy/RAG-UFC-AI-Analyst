@@ -1,0 +1,13 @@
+Event: UFC 123: Rampage vs Machida
+    Date: November 20, 2010
+    Location: Auburn Hills, Michigan, USA
+    Weight Class: Welterweight
+    
+
+    Result: DENNIS HALLMAN defeated KARO PARISYAN via KO/TKO  
+  at 1:47 of round 1
+  Key stats:
+  - DENNIS HALLMAN landed 10 significant strikes
+  - KARO PARISYAN landed 2 significant strikes
+  - Knockdowns: DENNIS HALLMAN 1,  KARO PARISYAN 0
+  - Takedowns: DENNIS HALLMAN 0,  KARO PARISYAN 0

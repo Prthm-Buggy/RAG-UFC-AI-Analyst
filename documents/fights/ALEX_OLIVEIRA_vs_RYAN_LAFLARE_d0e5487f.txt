@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Weidman vs. Gastelum
+    Date: July 22, 2017
+    Location: Uniondale, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALEX OLIVEIRA defeated RYAN LAFLARE via KO/TKO  
+  at 1:50 of round 2
+  Key stats:
+  - ALEX OLIVEIRA landed 8 significant strikes
+  - RYAN LAFLARE landed 5 significant strikes
+  - Knockdowns: ALEX OLIVEIRA 1,  RYAN LAFLARE 0
+  - Takedowns: ALEX OLIVEIRA 0,  RYAN LAFLARE 0
+  Bonus: perf

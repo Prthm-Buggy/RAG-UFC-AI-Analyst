@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. Cortez
+    Date: July 13, 2024
+    Location: Denver, Colorado, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDRE PETROSKI defeated JOSH FREMD via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ANDRE PETROSKI landed 12 significant strikes
+  - JOSH FREMD landed 16 significant strikes
+  - Knockdowns: ANDRE PETROSKI 0,  JOSH FREMD 0
+  - Takedowns: ANDRE PETROSKI 3,  JOSH FREMD 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs Cowboy
+    Date: February 21, 2016
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Featherweight
+    
+
+    Result: DENNIS BERMUDEZ defeated TATSUYA KAWAJIRI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DENNIS BERMUDEZ landed 61 significant strikes
+  - TATSUYA KAWAJIRI landed 12 significant strikes
+  - Knockdowns: DENNIS BERMUDEZ 0,  TATSUYA KAWAJIRI 0
+  - Takedowns: DENNIS BERMUDEZ 4,  TATSUYA KAWAJIRI 1

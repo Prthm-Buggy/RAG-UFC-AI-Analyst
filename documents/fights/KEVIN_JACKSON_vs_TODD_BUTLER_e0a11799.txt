@@ -1,0 +1,13 @@
+Event: UFC 14: Showdown
+    Date: July 27, 1997
+    Location: Birmingham, Alabama, USA
+    Weight Class: Lightweight
+    
+
+    Result: KEVIN JACKSON defeated TODD BUTLER via KO/TKO  
+  at 1:27 of round 1
+  Key stats:
+  - KEVIN JACKSON landed 3 significant strikes
+  - TODD BUTLER landed 1 significant strikes
+  - Knockdowns: KEVIN JACKSON 0,  TODD BUTLER 0
+  - Takedowns: KEVIN JACKSON 1,  TODD BUTLER 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Allen vs. Curtis 2
+    Date: April 06, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JEAN MATSUMOTO defeated DAN ARGUETA via Submission  
+  at 4:59 of round 2
+  Key stats:
+  - JEAN MATSUMOTO landed 19 significant strikes
+  - DAN ARGUETA landed 14 significant strikes
+  - Knockdowns: JEAN MATSUMOTO 0,  DAN ARGUETA 0
+  - Takedowns: JEAN MATSUMOTO 2,  DAN ARGUETA 9

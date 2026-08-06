@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Dolidze 2
+    Date: March 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROMAN DOLIDZE defeated MARVIN VETTORI via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ROMAN DOLIDZE landed 141 significant strikes
+  - MARVIN VETTORI landed 111 significant strikes
+  - Knockdowns: ROMAN DOLIDZE 0,  MARVIN VETTORI 0
+  - Takedowns: ROMAN DOLIDZE 0,  MARVIN VETTORI 0

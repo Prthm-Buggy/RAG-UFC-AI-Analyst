@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Strickland
+    Date: February 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAILTON ALMEIDA defeated DANILO MARQUES via KO/TKO  
+  at 2:57 of round 1
+  Key stats:
+  - JAILTON ALMEIDA landed 30 significant strikes
+  - DANILO MARQUES landed 0 significant strikes
+  - Knockdowns: JAILTON ALMEIDA 0,  DANILO MARQUES 0
+  - Takedowns: JAILTON ALMEIDA 2,  DANILO MARQUES 0

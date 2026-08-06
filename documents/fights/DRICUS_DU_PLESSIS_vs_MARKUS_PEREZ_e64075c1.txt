@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moraes vs. Sandhagen
+    Date: October 10, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: DRICUS DU PLESSIS defeated MARKUS PEREZ via KO/TKO  
+  at 3:22 of round 1
+  Key stats:
+  - DRICUS DU PLESSIS landed 26 significant strikes
+  - MARKUS PEREZ landed 14 significant strikes
+  - Knockdowns: DRICUS DU PLESSIS 1,  MARKUS PEREZ 0
+  - Takedowns: DRICUS DU PLESSIS 0,  MARKUS PEREZ 0

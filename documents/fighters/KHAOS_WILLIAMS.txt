@@ -1,0 +1,11 @@
+Fighter: KHAOS WILLIAMS
+  Date of Birth: 1994-03-30
+  Career record: 11
+  First fight: 2020-02-08
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :507
+- Total takedowns landed :0
+- Knockdowns :6
+- Submission Attempts :0

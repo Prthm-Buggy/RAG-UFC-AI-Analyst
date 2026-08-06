@@ -1,0 +1,11 @@
+Fighter: PINGYUAN LIU
+  Date of Birth: 1993-02-13
+  Career record: 4
+  First fight: 2018-07-22
+  Last fight: 2019-12-21
+
+Career Statistics:
+- Significant Strikes Landed :139
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :4

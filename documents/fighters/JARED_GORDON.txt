@@ -1,0 +1,11 @@
+Fighter: JARED GORDON
+  Date of Birth: 1988-09-06
+  Career record: 17
+  First fight: 2017-06-25
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :1033
+- Total takedowns landed :24
+- Knockdowns :2
+- Submission Attempts :0

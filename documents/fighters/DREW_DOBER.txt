@@ -1,0 +1,11 @@
+Fighter: DREW DOBER
+  Date of Birth: 1988-10-19
+  Career record: 26
+  First fight: 2013-11-30
+  Last fight: 2026-03-07
+
+Career Statistics:
+- Significant Strikes Landed :972
+- Total takedowns landed :9
+- Knockdowns :10
+- Submission Attempts :1

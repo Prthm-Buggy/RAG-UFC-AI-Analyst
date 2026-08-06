@@ -1,0 +1,11 @@
+Fighter: Juan Diaz
+  Date of Birth: 1998-06-03
+  Career record: 1
+  First fight: 2026-04-04
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :13
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

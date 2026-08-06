@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shogun vs Henderson 2
+    Date: March 23, 2014
+    Location: Natal, Rio Grande do Norte, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: CB DOLLAWAY defeated CEZAR FERREIRA via KO/TKO  
+  at 0:39 of round 1
+  Key stats:
+  - CB DOLLAWAY landed 12 significant strikes
+  - CEZAR FERREIRA landed 3 significant strikes
+  - Knockdowns: CB DOLLAWAY 1,  CEZAR FERREIRA 0
+  - Takedowns: CB DOLLAWAY 0,  CEZAR FERREIRA 0

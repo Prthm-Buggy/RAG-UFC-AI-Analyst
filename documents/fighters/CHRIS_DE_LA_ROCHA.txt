@@ -1,0 +1,11 @@
+Fighter: CHRIS DE LA ROCHA
+  Date of Birth: 1979-05-15
+  Career record: 4
+  First fight: 2015-07-18
+  Last fight: 2018-12-15
+
+Career Statistics:
+- Significant Strikes Landed :121
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :2

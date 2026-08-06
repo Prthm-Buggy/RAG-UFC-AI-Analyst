@@ -1,0 +1,14 @@
+Event: UFC 63: Hughes vs Penn
+    Date: September 23, 2006
+    Location: Anaheim, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT HUGHES defeated BJ PENN via KO/TKO  
+  at 3:53 of round 3
+  Key stats:
+  - MATT HUGHES landed 35 significant strikes
+  - BJ PENN landed 17 significant strikes
+  - Knockdowns: MATT HUGHES 0,  BJ PENN 0
+  - Takedowns: MATT HUGHES 1,  BJ PENN 0
+  Bonus: belt

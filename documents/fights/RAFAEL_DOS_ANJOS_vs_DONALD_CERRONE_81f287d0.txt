@@ -1,0 +1,14 @@
+Event: UFC on FOX: Dos Anjos vs. Cowboy 2
+    Date: December 19, 2015
+    Location: Orlando, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: RAFAEL DOS ANJOS defeated DONALD CERRONE via KO/TKO  
+  at 1:06 of round 1
+  Key stats:
+  - RAFAEL DOS ANJOS landed 26 significant strikes
+  - DONALD CERRONE landed 4 significant strikes
+  - Knockdowns: RAFAEL DOS ANJOS 0,  DONALD CERRONE 0
+  - Takedowns: RAFAEL DOS ANJOS 0,  DONALD CERRONE 0
+  Bonus: belt

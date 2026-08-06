@@ -1,0 +1,14 @@
+Event: UFC 68: The Uprising
+    Date: March 03, 2007
+    Location: Columbus, Ohio, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JASON LAMBERT defeated RENATO SOBRAL via KO/TKO  
+  at 3:36 of round 2
+  Key stats:
+  - JASON LAMBERT landed 19 significant strikes
+  - RENATO SOBRAL landed 5 significant strikes
+  - Knockdowns: JASON LAMBERT 2,  RENATO SOBRAL 0
+  - Takedowns: JASON LAMBERT 2,  RENATO SOBRAL 1
+  Bonus: fight

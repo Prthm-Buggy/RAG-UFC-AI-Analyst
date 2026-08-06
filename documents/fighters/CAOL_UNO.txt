@@ -1,0 +1,11 @@
+Fighter: CAOL UNO
+  Date of Birth: 1975-05-08
+  Career record: 8
+  First fight: 2001-02-23
+  Last fight: 2010-03-31
+
+Career Statistics:
+- Significant Strikes Landed :174
+- Total takedowns landed :12
+- Knockdowns :0
+- Submission Attempts :1

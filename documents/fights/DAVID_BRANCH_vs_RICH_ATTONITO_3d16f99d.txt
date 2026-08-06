@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team GSP vs Team Koscheck Finale
+    Date: December 04, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAVID BRANCH defeated RICH ATTONITO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DAVID BRANCH landed 16 significant strikes
+  - RICH ATTONITO landed 6 significant strikes
+  - Knockdowns: DAVID BRANCH 0,  RICH ATTONITO 0
+  - Takedowns: DAVID BRANCH 4,  RICH ATTONITO 0

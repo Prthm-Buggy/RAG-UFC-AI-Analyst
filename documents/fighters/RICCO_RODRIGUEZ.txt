@@ -1,0 +1,11 @@
+Fighter: RICCO RODRIGUEZ
+  Date of Birth: 1977-08-19
+  Career record: 7
+  First fight: 2001-06-29
+  Last fight: 2003-11-21
+
+Career Statistics:
+- Significant Strikes Landed :178
+- Total takedowns landed :17
+- Knockdowns :0
+- Submission Attempts :6

@@ -1,0 +1,14 @@
+Event: UFC 143: Diaz vs Condit
+    Date: February 04, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DUSTIN POIRIER defeated MAX HOLLOWAY via Submission  
+  at 3:23 of round 1
+  Key stats:
+  - DUSTIN POIRIER landed 11 significant strikes
+  - MAX HOLLOWAY landed 11 significant strikes
+  - Knockdowns: DUSTIN POIRIER 0,  MAX HOLLOWAY 0
+  - Takedowns: DUSTIN POIRIER 1,  MAX HOLLOWAY 0
+  Bonus: sub

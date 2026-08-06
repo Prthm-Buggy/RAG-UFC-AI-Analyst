@@ -1,0 +1,11 @@
+Fighter: JAVIER VAZQUEZ
+  Date of Birth: 1977-07-16
+  Career record: 1
+  First fight: 2011-06-26
+  Last fight: 2011-06-26
+
+Career Statistics:
+- Significant Strikes Landed :62
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

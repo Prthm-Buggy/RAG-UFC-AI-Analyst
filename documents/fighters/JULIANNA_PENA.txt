@@ -1,0 +1,11 @@
+Fighter: JULIANNA PENA
+  Date of Birth: 1989-08-19
+  Career record: 12
+  First fight: 2013-11-30
+  Last fight: 2025-06-07
+
+Career Statistics:
+- Significant Strikes Landed :493
+- Total takedowns landed :18
+- Knockdowns :0
+- Submission Attempts :8

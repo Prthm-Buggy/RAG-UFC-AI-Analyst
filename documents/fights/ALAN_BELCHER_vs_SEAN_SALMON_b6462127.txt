@@ -1,0 +1,13 @@
+Event: UFC 71: Liddell vs Jackson
+    Date: May 26, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALAN BELCHER defeated SEAN SALMON via Submission  
+  at 0:53 of round 1
+  Key stats:
+  - ALAN BELCHER landed 0 significant strikes
+  - SEAN SALMON landed 1 significant strikes
+  - Knockdowns: ALAN BELCHER 0,  SEAN SALMON 0
+  - Takedowns: ALAN BELCHER 0,  SEAN SALMON 0

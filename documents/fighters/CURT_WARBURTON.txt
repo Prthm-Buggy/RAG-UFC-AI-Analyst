@@ -1,0 +1,11 @@
+Fighter: CURT WARBURTON
+  Date of Birth: Unknown
+  Career record: 3
+  First fight: 2010-10-16
+  Last fight: 2011-06-26
+
+Career Statistics:
+- Significant Strikes Landed :68
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :2

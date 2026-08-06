@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Vera
+    Date: April 30, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GABE GREEN defeated YOHAN LAINESSE via KO/TKO  
+  at 4:02 of round 2
+  Key stats:
+  - GABE GREEN landed 48 significant strikes
+  - YOHAN LAINESSE landed 41 significant strikes
+  - Knockdowns: GABE GREEN 0,  YOHAN LAINESSE 1
+  - Takedowns: GABE GREEN 0,  YOHAN LAINESSE 2

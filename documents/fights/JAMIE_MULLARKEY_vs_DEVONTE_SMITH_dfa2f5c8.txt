@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Santos vs. Walker
+    Date: October 02, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JAMIE MULLARKEY defeated DEVONTE SMITH via KO/TKO  
+  at 2:51 of round 2
+  Key stats:
+  - JAMIE MULLARKEY landed 55 significant strikes
+  - DEVONTE SMITH landed 29 significant strikes
+  - Knockdowns: JAMIE MULLARKEY 1,  DEVONTE SMITH 0
+  - Takedowns: JAMIE MULLARKEY 1,  DEVONTE SMITH 0
+  Bonus: perf

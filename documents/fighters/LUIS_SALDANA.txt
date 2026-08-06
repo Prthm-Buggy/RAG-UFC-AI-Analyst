@@ -1,0 +1,11 @@
+Fighter: LUIS SALDANA
+  Date of Birth: 1991-01-27
+  Career record: 3
+  First fight: 2021-04-10
+  Last fight: 2022-03-26
+
+Career Statistics:
+- Significant Strikes Landed :197
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

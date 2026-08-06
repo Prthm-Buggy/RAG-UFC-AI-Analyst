@@ -1,0 +1,11 @@
+Fighter: RONNY MARKES
+  Date of Birth: 1988-04-21
+  Career record: 5
+  First fight: 2011-08-14
+  Last fight: 2014-03-23
+
+Career Statistics:
+- Significant Strikes Landed :125
+- Total takedowns landed :12
+- Knockdowns :0
+- Submission Attempts :2

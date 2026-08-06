@@ -1,0 +1,11 @@
+Fighter: JOHN LINEKER
+  Date of Birth: 1990-06-12
+  Career record: 16
+  First fight: 2012-05-05
+  Last fight: 2019-04-27
+
+Career Statistics:
+- Significant Strikes Landed :1010
+- Total takedowns landed :7
+- Knockdowns :12
+- Submission Attempts :8

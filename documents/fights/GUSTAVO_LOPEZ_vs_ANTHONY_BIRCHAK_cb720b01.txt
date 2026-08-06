@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Teixeira
+    Date: November 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: GUSTAVO LOPEZ defeated ANTHONY BIRCHAK via Submission  
+  at 2:43 of round 1
+  Key stats:
+  - GUSTAVO LOPEZ landed 26 significant strikes
+  - ANTHONY BIRCHAK landed 17 significant strikes
+  - Knockdowns: GUSTAVO LOPEZ 0,  ANTHONY BIRCHAK 0
+  - Takedowns: GUSTAVO LOPEZ 2,  ANTHONY BIRCHAK 0

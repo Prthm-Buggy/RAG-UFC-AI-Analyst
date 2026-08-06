@@ -1,0 +1,11 @@
+Fighter: KELLY FASZHOLZ
+  Date of Birth: 1985-04-09
+  Career record: 2
+  First fight: 2016-02-21
+  Last fight: 2016-10-01
+
+Career Statistics:
+- Significant Strikes Landed :120
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

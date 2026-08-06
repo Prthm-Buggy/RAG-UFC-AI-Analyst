@@ -1,0 +1,14 @@
+Event: UFC 235: Jones vs. Smith
+    Date: March 02, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: KAMARU USMAN defeated TYRON WOODLEY via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - KAMARU USMAN landed 141 significant strikes
+  - TYRON WOODLEY landed 34 significant strikes
+  - Knockdowns: KAMARU USMAN 0,  TYRON WOODLEY 0
+  - Takedowns: KAMARU USMAN 2,  TYRON WOODLEY 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Walker vs. Hill
+    Date: February 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHAS SKELLY defeated MARK STRIEGL via KO/TKO  
+  at 2:01 of round 2
+  Key stats:
+  - CHAS SKELLY landed 14 significant strikes
+  - MARK STRIEGL landed 8 significant strikes
+  - Knockdowns: CHAS SKELLY 1,  MARK STRIEGL 0
+  - Takedowns: CHAS SKELLY 1,  MARK STRIEGL 0

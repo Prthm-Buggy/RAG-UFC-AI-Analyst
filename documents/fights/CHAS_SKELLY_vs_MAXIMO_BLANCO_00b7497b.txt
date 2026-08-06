@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Poirier vs. Johnson
+    Date: September 17, 2016
+    Location: Hidalgo, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHAS SKELLY defeated MAXIMO BLANCO via Submission  
+  at 0:19 of round 1
+  Key stats:
+  - CHAS SKELLY landed 1 significant strikes
+  - MAXIMO BLANCO landed 0 significant strikes
+  - Knockdowns: CHAS SKELLY 0,  MAXIMO BLANCO 0
+  - Takedowns: CHAS SKELLY 0,  MAXIMO BLANCO 0
+  Bonus: perf

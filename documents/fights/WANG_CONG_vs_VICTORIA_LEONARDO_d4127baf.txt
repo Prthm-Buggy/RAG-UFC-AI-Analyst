@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cannonier vs. Borralho
+    Date: August 24, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: WANG CONG defeated VICTORIA LEONARDO via KO/TKO  
+  at 1:02 of round 1
+  Key stats:
+  - WANG CONG landed 10 significant strikes
+  - VICTORIA LEONARDO landed 1 significant strikes
+  - Knockdowns: WANG CONG 1,  VICTORIA LEONARDO 0
+  - Takedowns: WANG CONG 0,  VICTORIA LEONARDO 0

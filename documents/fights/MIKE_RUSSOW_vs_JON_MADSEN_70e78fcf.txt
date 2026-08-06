@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nogueira vs Davis
+    Date: March 26, 2011
+    Location: Seattle, Washington, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MIKE RUSSOW defeated JON MADSEN via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - MIKE RUSSOW landed 14 significant strikes
+  - JON MADSEN landed 27 significant strikes
+  - Knockdowns: MIKE RUSSOW 0,  JON MADSEN 0
+  - Takedowns: MIKE RUSSOW 3,  JON MADSEN 0

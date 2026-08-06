@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gaethje vs. Vick
+    Date: August 25, 2018
+    Location: Lincoln, Nebraska, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: CORTNEY CASEY defeated ANGELA HILL via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CORTNEY CASEY landed 111 significant strikes
+  - ANGELA HILL landed 121 significant strikes
+  - Knockdowns: CORTNEY CASEY 0,  ANGELA HILL 0
+  - Takedowns: CORTNEY CASEY 1,  ANGELA HILL 1

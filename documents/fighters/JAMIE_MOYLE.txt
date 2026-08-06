@@ -1,0 +1,11 @@
+Fighter: JAMIE MOYLE
+  Date of Birth: 1989-03-17
+  Career record: 3
+  First fight: 2016-12-03
+  Last fight: 2018-07-07
+
+Career Statistics:
+- Significant Strikes Landed :203
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

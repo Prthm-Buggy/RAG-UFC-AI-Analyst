@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Jacare vs Mousasi
+    Date: September 05, 2014
+    Location: Ledyard, Connecticut, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE LAUZON defeated MICHAEL CHIESA via TKO - Doctor's Stoppage  
+  at 2:14 of round 2
+  Key stats:
+  - JOE LAUZON landed 21 significant strikes
+  - MICHAEL CHIESA landed 30 significant strikes
+  - Knockdowns: JOE LAUZON 0,  MICHAEL CHIESA 0
+  - Takedowns: JOE LAUZON 2,  MICHAEL CHIESA 1
+  Bonus: fight

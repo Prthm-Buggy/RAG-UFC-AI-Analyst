@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs Romero
+    Date: June 27, 2015
+    Location: Hollywood, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: THIAGO SANTOS defeated STEVE BOSSE via KO/TKO  
+  at 0:29 of round 1
+  Key stats:
+  - THIAGO SANTOS landed 3 significant strikes
+  - STEVE BOSSE landed 0 significant strikes
+  - Knockdowns: THIAGO SANTOS 1,  STEVE BOSSE 0
+  - Takedowns: THIAGO SANTOS 0,  STEVE BOSSE 0
+  Bonus: perf

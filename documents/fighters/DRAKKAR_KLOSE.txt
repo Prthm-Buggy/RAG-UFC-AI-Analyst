@@ -1,0 +1,11 @@
+Fighter: DRAKKAR KLOSE
+  Date of Birth: 1988-03-09
+  Career record: 13
+  First fight: 2017-01-15
+  Last fight: 2025-08-16
+
+Career Statistics:
+- Significant Strikes Landed :642
+- Total takedowns landed :15
+- Knockdowns :2
+- Submission Attempts :0

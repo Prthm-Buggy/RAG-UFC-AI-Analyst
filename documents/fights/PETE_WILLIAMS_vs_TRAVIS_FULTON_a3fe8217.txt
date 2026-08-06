@@ -1,0 +1,13 @@
+Event: UFC 20: Battle for the Gold
+    Date: May 07, 1999
+    Location: Birmingham, Alabama, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PETE WILLIAMS defeated TRAVIS FULTON via Submission  
+  at 6:28 of round 1
+  Key stats:
+  - PETE WILLIAMS landed 15 significant strikes
+  - TRAVIS FULTON landed 6 significant strikes
+  - Knockdowns: PETE WILLIAMS 0,  TRAVIS FULTON 0
+  - Takedowns: PETE WILLIAMS 0,  TRAVIS FULTON 0

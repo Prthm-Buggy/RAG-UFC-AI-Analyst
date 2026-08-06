@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Miocic vs Hunt
+    Date : May 09, 2015
+    Location: Adelaide, South Australia, Australia
+    Number of Fights: 12
+    Weight Classes: Middleweight, Featherweight, Women's Strawweight, Lightweight, Light Heavyweight, Flyweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - ROBERT WHITTAKER def. BRAD TAVARES via KO/TKO(R1)
+- SEAN O'CONNELL def. ANTHONY PEROSH via KO/TKO(R1)
+- SAM ALVEY def. DANIEL KELLY via KO/TKO(R1)
+- STIPE MIOCIC def. MARK HUNT via KO/TKO(R5)
+- DAN HOOKER def. HATSU HIOKI via KO/TKO(R2)
+- BRENDAN O'REILLY def. VIK GRUJIC via Decision - Unanimous(R3)
+- KYLE NOKE def. JONAVIN WEBB via Decision - Split(R3)
+- BRAD SCOTT def. DYLAN ANDREWS via Submission(R2)
+- BEN NGUYEN def. ALPTEKIN OZKILIC via KO/TKO(R1)
+- JAMES VICK def. JAKE MATTHEWS via Submission(R1)
+- ALEX CHAMBERS def. KAILIN CURRAN via Submission(R3)
+- BEC RAWLINGS def. LISA ELLIS via Submission(R1)

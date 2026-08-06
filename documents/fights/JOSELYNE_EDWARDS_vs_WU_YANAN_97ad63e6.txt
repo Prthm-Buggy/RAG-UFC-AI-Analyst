@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Kattar
+    Date: January 16, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JOSELYNE EDWARDS defeated WU YANAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOSELYNE EDWARDS landed 88 significant strikes
+  - WU YANAN landed 58 significant strikes
+  - Knockdowns: JOSELYNE EDWARDS 0,  WU YANAN 0
+  - Takedowns: JOSELYNE EDWARDS 0,  WU YANAN 1

@@ -1,0 +1,13 @@
+Event: UFC 173: Barao vs Dillashaw
+    Date: May 24, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TONY FERGUSON defeated KATSUNORI KIKUNO via KO/TKO  
+  at 4:06 of round 1
+  Key stats:
+  - TONY FERGUSON landed 38 significant strikes
+  - KATSUNORI KIKUNO landed 22 significant strikes
+  - Knockdowns: TONY FERGUSON 1,  KATSUNORI KIKUNO 0
+  - Takedowns: TONY FERGUSON 1,  KATSUNORI KIKUNO 0

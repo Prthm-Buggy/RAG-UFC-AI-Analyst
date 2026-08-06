@@ -1,0 +1,13 @@
+Event: UFC 57: Liddell vs Couture 3
+    Date: February 04, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PAUL BUENTELLO defeated GILBERT ALDANA via KO/TKO  
+  at 2:27 of round 2
+  Key stats:
+  - PAUL BUENTELLO landed 49 significant strikes
+  - GILBERT ALDANA landed 28 significant strikes
+  - Knockdowns: PAUL BUENTELLO 0,  GILBERT ALDANA 0
+  - Takedowns: PAUL BUENTELLO 1,  GILBERT ALDANA 0

@@ -1,0 +1,13 @@
+Event: UFC on FOX: Gustafsson vs Johnson
+    Date: January 24, 2015
+    Location: Stockholm, Sweden
+    Weight Class: Featherweight
+    
+
+    Result: SAM SICILIA defeated AKIRA CORASSANI via KO/TKO  
+  at 3:26 of round 1
+  Key stats:
+  - SAM SICILIA landed 10 significant strikes
+  - AKIRA CORASSANI landed 10 significant strikes
+  - Knockdowns: SAM SICILIA 1,  AKIRA CORASSANI 0
+  - Takedowns: SAM SICILIA 0,  AKIRA CORASSANI 0

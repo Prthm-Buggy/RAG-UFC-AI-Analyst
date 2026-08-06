@@ -1,0 +1,11 @@
+Fighter: TOM GALLICCHIO
+  Date of Birth: 1986-09-23
+  Career record: 1
+  First fight: 2017-07-07
+  Last fight: 2017-07-07
+
+Career Statistics:
+- Significant Strikes Landed :53
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Swanson vs Stephens
+    Date: June 28, 2014
+    Location: San Antonio, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: CUB SWANSON defeated JEREMY STEPHENS via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CUB SWANSON landed 87 significant strikes
+  - JEREMY STEPHENS landed 65 significant strikes
+  - Knockdowns: CUB SWANSON 0,  JEREMY STEPHENS 0
+  - Takedowns: CUB SWANSON 0,  JEREMY STEPHENS 2
+  Bonus: fight

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ribas vs. Namajunas
+    Date: March 23, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JARNO ERRENS defeated STEVEN NGUYEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JARNO ERRENS landed 105 significant strikes
+  - STEVEN NGUYEN landed 63 significant strikes
+  - Knockdowns: JARNO ERRENS 1,  STEVEN NGUYEN 0
+  - Takedowns: JARNO ERRENS 0,  STEVEN NGUYEN 1
+  Bonus: fight

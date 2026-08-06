@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Gomi
+    Date: March 31, 2010
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHARLIE BRENNEMAN defeated JASON HIGH via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHARLIE BRENNEMAN landed 33 significant strikes
+  - JASON HIGH landed 12 significant strikes
+  - Knockdowns: CHARLIE BRENNEMAN 0,  JASON HIGH 0
+  - Takedowns: CHARLIE BRENNEMAN 6,  JASON HIGH 0

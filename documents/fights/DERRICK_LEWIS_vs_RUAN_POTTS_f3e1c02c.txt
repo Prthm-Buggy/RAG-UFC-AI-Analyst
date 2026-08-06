@@ -1,0 +1,13 @@
+Event: UFC 184: Rousey vs Zingano
+    Date: February 28, 2015
+    Location: Los Angeles, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated RUAN POTTS via KO/TKO  
+  at 3:18 of round 2
+  Key stats:
+  - DERRICK LEWIS landed 53 significant strikes
+  - RUAN POTTS landed 7 significant strikes
+  - Knockdowns: DERRICK LEWIS 0,  RUAN POTTS 0
+  - Takedowns: DERRICK LEWIS 0,  RUAN POTTS 1

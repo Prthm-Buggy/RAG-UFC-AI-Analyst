@@ -1,0 +1,11 @@
+Fighter: CLAUDE PATRICK
+  Date of Birth: 1980-06-14
+  Career record: 4
+  First fight: 2010-06-12
+  Last fight: 2011-12-10
+
+Career Statistics:
+- Significant Strikes Landed :93
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :6

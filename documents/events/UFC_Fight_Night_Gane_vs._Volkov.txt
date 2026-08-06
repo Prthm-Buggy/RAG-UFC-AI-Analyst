@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Gane vs. Volkov
+    Date : June 26, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Welterweight, Featherweight, Women's Bantamweight, Light Heavyweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - MARCIN PRACHNIO def. IKE VILLANUEVA via KO/TKO(R2)
+- SHAVKAT RAKHMONOV def. MICHEL PRAZERES via Submission(R2)
+- RENATO MOICANO def. JAI HERBERT via Submission(R2)
+- CIRYL GANE def. ALEXANDER VOLKOV via Decision - Unanimous(R5)
+- JEREMIAH WELLS def. WARLLEY ALVES via KO/TKO(R2)
+- TIM MEANS def. NICOLAS DALBY via Decision - Unanimous(R3)
+- TIMUR VALIEV def. RAONI BARCELOS via Decision - Majority(R3)
+- JULIA AVILA def. JULIJA STOLIARENKO via Submission(R3)
+- DAMIR HADZOVIC def. YANCY MEDEIROS via Decision - Unanimous(R3)
+- TANNER BOSER def. OVINCE SAINT PREUX via KO/TKO(R2)
+- KENNEDY NZECHUKWU def. DANILO MARQUES via KO/TKO(R3)
+- CHARLES ROSA def. JUSTIN JAYNES via Decision - Split(R3)

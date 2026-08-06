@@ -1,0 +1,11 @@
+Fighter: JOURNEY NEWSON
+  Date of Birth: 1989-03-07
+  Career record: 5
+  First fight: 2019-06-29
+  Last fight: 2023-04-29
+
+Career Statistics:
+- Significant Strikes Landed :135
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

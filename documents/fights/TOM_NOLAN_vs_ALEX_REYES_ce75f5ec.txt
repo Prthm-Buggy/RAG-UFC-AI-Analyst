@@ -1,0 +1,13 @@
+Event: UFC 305: Du Plessis vs. Adesanya
+    Date: August 17, 2024
+    Location: Perth, Western Australia, Australia
+    Weight Class: Lightweight
+    
+
+    Result: TOM NOLAN defeated ALEX REYES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TOM NOLAN landed 84 significant strikes
+  - ALEX REYES landed 69 significant strikes
+  - Knockdowns: TOM NOLAN 0,  ALEX REYES 0
+  - Takedowns: TOM NOLAN 0,  ALEX REYES 2

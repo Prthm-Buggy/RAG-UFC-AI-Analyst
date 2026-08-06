@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Tournament of Champions Finale
+    Date: December 03, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ROB FONT defeated MATT SCHNELL via KO/TKO  
+  at 3:47 of round 1
+  Key stats:
+  - ROB FONT landed 26 significant strikes
+  - MATT SCHNELL landed 14 significant strikes
+  - Knockdowns: ROB FONT 1,  MATT SCHNELL 0
+  - Takedowns: ROB FONT 1,  MATT SCHNELL 0

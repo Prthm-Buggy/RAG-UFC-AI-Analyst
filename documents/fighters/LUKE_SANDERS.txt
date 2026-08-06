@@ -1,0 +1,11 @@
+Fighter: LUKE SANDERS
+  Date of Birth: 1985-12-12
+  Career record: 8
+  First fight: 2016-01-17
+  Last fight: 2021-05-01
+
+Career Statistics:
+- Significant Strikes Landed :416
+- Total takedowns landed :3
+- Knockdowns :4
+- Submission Attempts :1

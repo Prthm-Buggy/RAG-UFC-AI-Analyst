@@ -1,0 +1,14 @@
+Event: UFC 307: Pereira vs. Rountree Jr.
+    Date: October 05, 2024
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEX PEREIRA defeated KHALIL ROUNTREE JR. via KO/TKO  
+  at 4:32 of round 4
+  Key stats:
+  - ALEX PEREIRA landed 127 significant strikes
+  - KHALIL ROUNTREE JR. landed 61 significant strikes
+  - Knockdowns: ALEX PEREIRA 1,  KHALIL ROUNTREE JR. 0
+  - Takedowns: ALEX PEREIRA 0,  KHALIL ROUNTREE JR. 0
+  Bonus: belt

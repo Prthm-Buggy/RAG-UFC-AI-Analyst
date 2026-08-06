@@ -1,0 +1,13 @@
+Event: UFC 314: Volkanovski vs. Lopes
+    Date: April 12, 2025
+    Location: Miami, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHASE HOOPER defeated JIM MILLER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHASE HOOPER landed 21 significant strikes
+  - JIM MILLER landed 13 significant strikes
+  - Knockdowns: CHASE HOOPER 0,  JIM MILLER 0
+  - Takedowns: CHASE HOOPER 8,  JIM MILLER 1

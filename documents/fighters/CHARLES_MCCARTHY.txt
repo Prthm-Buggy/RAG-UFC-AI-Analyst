@@ -1,0 +1,11 @@
+Fighter: CHARLES MCCARTHY
+  Date of Birth: 1980-08-06
+  Career record: 3
+  First fight: 2005-06-04
+  Last fight: 2008-04-19
+
+Career Statistics:
+- Significant Strikes Landed :3
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :3

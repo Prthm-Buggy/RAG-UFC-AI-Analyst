@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nelson vs. Ponzinibbio
+    Date: July 16, 2017
+    Location: Glasgow, Scotland, United Kingdom
+    Weight Class: Flyweight
+    
+
+    Result: ALEXANDRE PANTOJA defeated NEIL SEERY via Submission  
+  at 2:31 of round 3
+  Key stats:
+  - ALEXANDRE PANTOJA landed 119 significant strikes
+  - NEIL SEERY landed 82 significant strikes
+  - Knockdowns: ALEXANDRE PANTOJA 1,  NEIL SEERY 0
+  - Takedowns: ALEXANDRE PANTOJA 1,  NEIL SEERY 0

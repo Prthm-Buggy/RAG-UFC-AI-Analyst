@@ -1,0 +1,20 @@
+Event : UFC 231: Holloway vs. Ortega
+    Date : December 08, 2018
+    Location: Toronto, Ontario, Canada
+    Number of Fights: 13
+    Weight Classes: Lightweight, Middleweight, Light Heavyweight, Featherweight, Welterweight, Women's Strawweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - VALENTINA SHEVCHENKO def. JOANNA JEDRZEJCZYK via Decision - Unanimous(R5)
+- MAX HOLLOWAY def. BRIAN ORTEGA via TKO - Doctor's Stoppage(R4)
+- DIEGO FERREIRA def. KYLE NELSON via KO/TKO(R2)
+- HAKEEM DAWODU def. KYLE BOCHNIAK via Decision - Split(R3)
+- BRAD KATONA def. MATTHEW LOPEZ via Decision - Unanimous(R3)
+- DHIEGO LIMA def. CHAD LAPRISE via KO/TKO(R1)
+- GILBERT BURNS def. OLIVIER AUBIN-MERCIER via Decision - Unanimous(R3)
+- THIAGO SANTOS def. JIMI MANUWA via KO/TKO(R2)
+- NINA NUNES def. CLAUDIA GADELHA via Decision - Unanimous(R3)
+- JESSICA EYE def. KATLYN CERMINARA via Decision - Split(R3)
+- GUNNAR NELSON def. ALEX OLIVEIRA via Submission(R2)
+- ALEKSANDAR RAKIC def. DEVIN CLARK via KO/TKO(R1)
+- ELIAS THEODOROU def. ERYK ANDERS via Decision - Split(R3)

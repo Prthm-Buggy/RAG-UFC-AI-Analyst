@@ -1,0 +1,13 @@
+Event: UFC 211: Miocic vs. Dos Santos
+    Date: May 13, 2017
+    Location: Dallas, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: JAMES VICK defeated MARCO POLO REYES via KO/TKO  
+  at 2:39 of round 1
+  Key stats:
+  - JAMES VICK landed 20 significant strikes
+  - MARCO POLO REYES landed 16 significant strikes
+  - Knockdowns: JAMES VICK 1,  MARCO POLO REYES 0
+  - Takedowns: JAMES VICK 0,  MARCO POLO REYES 0

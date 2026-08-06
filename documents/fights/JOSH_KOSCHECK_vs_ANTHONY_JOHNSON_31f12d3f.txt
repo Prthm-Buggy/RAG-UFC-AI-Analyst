@@ -1,0 +1,14 @@
+Event: UFC 106: Ortiz vs Griffin 2
+    Date: November 21, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSH KOSCHECK defeated ANTHONY JOHNSON via Submission  
+  at 4:47 of round 2
+  Key stats:
+  - JOSH KOSCHECK landed 19 significant strikes
+  - ANTHONY JOHNSON landed 16 significant strikes
+  - Knockdowns: JOSH KOSCHECK 0,  ANTHONY JOHNSON 0
+  - Takedowns: JOSH KOSCHECK 2,  ANTHONY JOHNSON 0
+  Bonus: fight

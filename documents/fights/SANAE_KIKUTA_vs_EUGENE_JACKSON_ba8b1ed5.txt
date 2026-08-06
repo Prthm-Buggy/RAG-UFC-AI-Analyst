@@ -1,0 +1,13 @@
+Event: UFC 25: Ultimate Japan 3
+    Date: April 14, 2000
+    Location: Tokyo, Japan
+    Weight Class: Middleweight
+    
+
+    Result: SANAE KIKUTA defeated EUGENE JACKSON via Submission  
+  at 4:38 of round 1
+  Key stats:
+  - SANAE KIKUTA landed 8 significant strikes
+  - EUGENE JACKSON landed 4 significant strikes
+  - Knockdowns: SANAE KIKUTA 0,  EUGENE JACKSON 0
+  - Takedowns: SANAE KIKUTA 2,  EUGENE JACKSON 0

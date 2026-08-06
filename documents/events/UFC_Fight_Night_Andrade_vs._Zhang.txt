@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Andrade vs. Zhang
+    Date : August 31, 2019
+    Location: Shenzhen, Guangdong, China
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Bantamweight, Flyweight, Women's Strawweight, Welterweight, Lightweight, Women's Bantamweight, Middleweight, Light Heavyweight
+
+    Fight Results:
+  - ZHANG WEILI def. JESSICA ANDRADE via KO/TKO(R1)
+- MIZUKI def. WU YANAN via Decision - Split(R3)
+- KAI KARA-FRANCE def. MARK DE LA ROSA via Decision - Unanimous(R3)
+- ANTHONY HERNANDEZ def. JUNYONG PARK via Submission(R2)
+- ALATENGHEILI def. BATGEREL DANAA via Decision - Unanimous(R3)
+- LI JINGLIANG def. ELIZEU ZALESKI DOS SANTOS via KO/TKO(R3)
+- SUMUDAERJI def. ANDRE SOUKHAMTHATH via Decision - Unanimous(R3)
+- DA WOON JUNG def. KHADIS IBRAGIMOV via Submission(R3)
+- DAMIR ISMAGULOV def. THIAGO MOISES via Decision - Unanimous(R3)
+- KAROL ROSA def. LARA PROCOPIO via Decision - Split(R3)
+- SONG KENAN def. DERRICK KRANTZ via Decision - Unanimous(R3)

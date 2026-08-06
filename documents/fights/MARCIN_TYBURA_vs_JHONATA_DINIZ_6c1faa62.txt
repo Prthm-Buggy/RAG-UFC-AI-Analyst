@@ -1,0 +1,13 @@
+Event: UFC 309: Jones vs. Miocic
+    Date: November 16, 2024
+    Location: New York City, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARCIN TYBURA defeated JHONATA DINIZ via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - MARCIN TYBURA landed 35 significant strikes
+  - JHONATA DINIZ landed 15 significant strikes
+  - Knockdowns: MARCIN TYBURA 0,  JHONATA DINIZ 0
+  - Takedowns: MARCIN TYBURA 1,  JHONATA DINIZ 0

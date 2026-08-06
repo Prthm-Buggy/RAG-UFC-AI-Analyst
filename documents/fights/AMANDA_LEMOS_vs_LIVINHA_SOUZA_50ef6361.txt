@@ -1,0 +1,13 @@
+Event: UFC 259: Blachowicz vs. Adesanya
+    Date: March 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: AMANDA LEMOS defeated LIVINHA SOUZA via KO/TKO  
+  at 3:39 of round 1
+  Key stats:
+  - AMANDA LEMOS landed 29 significant strikes
+  - LIVINHA SOUZA landed 1 significant strikes
+  - Knockdowns: AMANDA LEMOS 2,  LIVINHA SOUZA 0
+  - Takedowns: AMANDA LEMOS 0,  LIVINHA SOUZA 0

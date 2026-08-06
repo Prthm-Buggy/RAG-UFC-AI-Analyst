@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bisping vs Leites
+    Date: July 18, 2015
+    Location: Glasgow, Scotland, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: JOE DUFFY defeated IVAN JORGE via Submission  
+  at 3:05 of round 1
+  Key stats:
+  - JOE DUFFY landed 8 significant strikes
+  - IVAN JORGE landed 7 significant strikes
+  - Knockdowns: JOE DUFFY 0,  IVAN JORGE 0
+  - Takedowns: JOE DUFFY 0,  IVAN JORGE 0
+  Bonus: perf

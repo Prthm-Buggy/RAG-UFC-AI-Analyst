@@ -1,0 +1,11 @@
+Fighter: JOSH BRYANT
+  Date of Birth: 1980-04-23
+  Career record: 1
+  First fight: 2010-06-19
+  Last fight: 2010-06-19
+
+Career Statistics:
+- Significant Strikes Landed :9
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Chikadze
+    Date: January 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: VIACHESLAV BORSHCHEV defeated DAKOTA BUSH via KO/TKO  
+  at 3:47 of round 1
+  Key stats:
+  - VIACHESLAV BORSHCHEV landed 16 significant strikes
+  - DAKOTA BUSH landed 11 significant strikes
+  - Knockdowns: VIACHESLAV BORSHCHEV 1,  DAKOTA BUSH 0
+  - Takedowns: VIACHESLAV BORSHCHEV 0,  DAKOTA BUSH 2
+  Bonus: perf

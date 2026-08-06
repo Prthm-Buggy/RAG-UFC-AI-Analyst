@@ -1,0 +1,14 @@
+Event: UFC 287: Pereira vs. Adesanya 2
+    Date: April 08, 2023
+    Location: Miami, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ROB FONT defeated ADRIAN YANEZ via KO/TKO  
+  at 2:57 of round 1
+  Key stats:
+  - ROB FONT landed 33 significant strikes
+  - ADRIAN YANEZ landed 25 significant strikes
+  - Knockdowns: ROB FONT 1,  ADRIAN YANEZ 0
+  - Takedowns: ROB FONT 0,  ADRIAN YANEZ 0
+  Bonus: perf

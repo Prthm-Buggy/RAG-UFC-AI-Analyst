@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Costa vs. Vettori
+    Date: October 23, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: TABATHA RICCI defeated MARIA OLIVEIRA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TABATHA RICCI landed 62 significant strikes
+  - MARIA OLIVEIRA landed 66 significant strikes
+  - Knockdowns: TABATHA RICCI 0,  MARIA OLIVEIRA 0
+  - Takedowns: TABATHA RICCI 5,  MARIA OLIVEIRA 0

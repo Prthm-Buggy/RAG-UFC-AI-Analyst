@@ -1,0 +1,21 @@
+Event : UFC 299: O'Malley vs. Vera 2
+    Date : March 09, 2024
+    Location: Miami, Florida, USA
+    Number of Fights: 14
+    Weight Classes: Heavyweight, Women's Flyweight, Bantamweight, Welterweight, Light Heavyweight, Lightweight, Middleweight, Flyweight
+
+    Fight Results:
+  - PETR YAN def. SONG YADONG via Decision - Unanimous(R3)
+- CURTIS BLAYDES def. JAILTON ALMEIDA via KO/TKO(R2)
+- MICHAEL PAGE def. KEVIN HOLLAND via Decision - Unanimous(R3)
+- ASU ALMABAYEV def. CJ VERGARA via Decision - Unanimous(R3)
+- DUSTIN POIRIER def. BENOIT SAINT DENIS via KO/TKO(R2)
+- JOANNE WOOD def. MARYNA MOROZ via Decision - Split(R3)
+- MAYCEE BARBER def. KATLYN CERMINARA via Decision - Unanimous(R3)
+- ROBELIS DESPAIGNE def. JOSH PARISIAN via KO/TKO(R1)
+- JACK DELLA MADDALENA def. GILBERT BURNS via KO/TKO(R3)
+- MICHEL PEREIRA def. MICHAL OLEKSIEJCZUK via Submission(R1)
+- KYLER PHILLIPS def. PEDRO MUNHOZ via Decision - Unanimous(R3)
+- SEAN O'MALLEY def. MARLON VERA via Decision - Unanimous(R5)
+- PHILIPE LINS def. ION CUTELABA via Decision - Unanimous(R3)
+- MATEUSZ GAMROT def. RAFAEL DOS ANJOS via Decision - Unanimous(R3)

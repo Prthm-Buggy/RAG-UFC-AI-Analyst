@@ -1,0 +1,13 @@
+Event: UFC 54: Boiling Point
+    Date: August 20, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RANDY COUTURE defeated MIKE VAN ARSDALE via Submission  
+  at 0:52 of round 3
+  Key stats:
+  - RANDY COUTURE landed 27 significant strikes
+  - MIKE VAN ARSDALE landed 8 significant strikes
+  - Knockdowns: RANDY COUTURE 0,  MIKE VAN ARSDALE 0
+  - Takedowns: RANDY COUTURE 4,  MIKE VAN ARSDALE 1

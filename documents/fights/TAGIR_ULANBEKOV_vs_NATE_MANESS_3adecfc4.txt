@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Lemos
+    Date: November 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: TAGIR ULANBEKOV defeated NATE MANESS via Submission  
+  at 2:11 of round 1
+  Key stats:
+  - TAGIR ULANBEKOV landed 4 significant strikes
+  - NATE MANESS landed 4 significant strikes
+  - Knockdowns: TAGIR ULANBEKOV 0,  NATE MANESS 0
+  - Takedowns: TAGIR ULANBEKOV 1,  NATE MANESS 0

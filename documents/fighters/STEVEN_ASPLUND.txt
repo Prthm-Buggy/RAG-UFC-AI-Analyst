@@ -1,0 +1,11 @@
+Fighter: STEVEN ASPLUND
+  Date of Birth: 1998-07-16
+  Career record: 2
+  First fight: 2025-12-13
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :231
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

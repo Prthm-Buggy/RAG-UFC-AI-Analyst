@@ -1,0 +1,11 @@
+Fighter: ANDREW SANCHEZ
+  Date of Birth: 1988-04-08
+  Career record: 10
+  First fight: 2016-07-08
+  Last fight: 2021-10-16
+
+Career Statistics:
+- Significant Strikes Landed :557
+- Total takedowns landed :22
+- Knockdowns :3
+- Submission Attempts :0

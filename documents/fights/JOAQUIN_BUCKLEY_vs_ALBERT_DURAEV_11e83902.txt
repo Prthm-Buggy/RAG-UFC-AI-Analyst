@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Emmett
+    Date: June 18, 2022
+    Location: Austin, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOAQUIN BUCKLEY defeated ALBERT DURAEV via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - JOAQUIN BUCKLEY landed 27 significant strikes
+  - ALBERT DURAEV landed 10 significant strikes
+  - Knockdowns: JOAQUIN BUCKLEY 2,  ALBERT DURAEV 0
+  - Takedowns: JOAQUIN BUCKLEY 0,  ALBERT DURAEV 2
+  Bonus: perf

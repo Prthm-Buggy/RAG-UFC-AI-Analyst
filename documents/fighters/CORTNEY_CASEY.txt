@@ -1,0 +1,11 @@
+Fighter: CORTNEY CASEY
+  Date of Birth: 1987-05-05
+  Career record: 15
+  First fight: 2015-07-18
+  Last fight: 2022-07-09
+
+Career Statistics:
+- Significant Strikes Landed :816
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :6

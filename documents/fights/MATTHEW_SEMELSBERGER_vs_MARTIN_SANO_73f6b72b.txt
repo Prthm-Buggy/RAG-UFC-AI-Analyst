@@ -1,0 +1,13 @@
+Event: UFC 266: Volkanovski vs. Ortega
+    Date: September 25, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATTHEW SEMELSBERGER defeated MARTIN SANO via KO/TKO  
+  at 0:15 of round 1
+  Key stats:
+  - MATTHEW SEMELSBERGER landed 3 significant strikes
+  - MARTIN SANO landed 1 significant strikes
+  - Knockdowns: MATTHEW SEMELSBERGER 1,  MARTIN SANO 0
+  - Takedowns: MATTHEW SEMELSBERGER 0,  MARTIN SANO 0

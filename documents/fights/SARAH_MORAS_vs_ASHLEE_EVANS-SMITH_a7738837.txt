@@ -1,0 +1,13 @@
+Event: UFC 215: Nunes vs Shevchenko 2
+    Date: September 09, 2017
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Women's Bantamweight
+    
+
+    Result: SARAH MORAS defeated ASHLEE EVANS-SMITH via Submission  
+  at 2:51 of round 1
+  Key stats:
+  - SARAH MORAS landed 3 significant strikes
+  - ASHLEE EVANS-SMITH landed 3 significant strikes
+  - Knockdowns: SARAH MORAS 0,  ASHLEE EVANS-SMITH 0
+  - Takedowns: SARAH MORAS 0,  ASHLEE EVANS-SMITH 0

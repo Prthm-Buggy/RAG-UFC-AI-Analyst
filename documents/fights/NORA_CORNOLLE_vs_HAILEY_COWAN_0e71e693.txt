@@ -1,0 +1,13 @@
+Event: UFC 314: Volkanovski vs. Lopes
+    Date: April 12, 2025
+    Location: Miami, Florida, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: NORA CORNOLLE defeated HAILEY COWAN via Submission  
+  at 1:52 of round 2
+  Key stats:
+  - NORA CORNOLLE landed 8 significant strikes
+  - HAILEY COWAN landed 3 significant strikes
+  - Knockdowns: NORA CORNOLLE 0,  HAILEY COWAN 0
+  - Takedowns: NORA CORNOLLE 0,  HAILEY COWAN 1

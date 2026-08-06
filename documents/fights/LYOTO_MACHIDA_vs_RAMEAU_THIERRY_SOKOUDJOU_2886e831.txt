@@ -1,0 +1,13 @@
+Event: UFC 79: Nemesis
+    Date: December 29, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: LYOTO MACHIDA defeated RAMEAU THIERRY SOKOUDJOU via Submission  
+  at 4:20 of round 2
+  Key stats:
+  - LYOTO MACHIDA landed 21 significant strikes
+  - RAMEAU THIERRY SOKOUDJOU landed 6 significant strikes
+  - Knockdowns: LYOTO MACHIDA 1,  RAMEAU THIERRY SOKOUDJOU 0
+  - Takedowns: LYOTO MACHIDA 0,  RAMEAU THIERRY SOKOUDJOU 2

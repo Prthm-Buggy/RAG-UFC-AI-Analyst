@@ -1,0 +1,11 @@
+Fighter: ROLAND PAYNE
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 1994-09-09
+  Last fight: 1994-09-09
+
+Career Statistics:
+- Significant Strikes Landed :3
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

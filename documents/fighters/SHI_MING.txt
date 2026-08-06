@@ -1,0 +1,11 @@
+Fighter: SHI MING
+  Date of Birth: 1994-11-14
+  Career record: 2
+  First fight: 2024-11-23
+  Last fight: 2025-08-22
+
+Career Statistics:
+- Significant Strikes Landed :62
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC 83: Serra vs St-Pierre 2
+    Date: April 19, 2008
+    Location: Montreal, Quebec, Canada
+    Weight Class: Welterweight
+    
+
+    Result: GEORGES ST-PIERRE defeated MATT SERRA via KO/TKO  
+  at 4:45 of round 2
+  Key stats:
+  - GEORGES ST-PIERRE landed 42 significant strikes
+  - MATT SERRA landed 3 significant strikes
+  - Knockdowns: GEORGES ST-PIERRE 0,  MATT SERRA 0
+  - Takedowns: GEORGES ST-PIERRE 4,  MATT SERRA 0
+  Bonus: belt

@@ -1,0 +1,17 @@
+Event : UFC 142: Aldo vs Mendes
+    Date : January 14, 2012
+    Location: Rio de Janeiro, Brazil
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Welterweight, Lightweight, Middleweight, Featherweight
+
+    Fight Results:
+  - JOSE ALDO def. CHAD MENDES via KO/TKO(R1)
+- CARLO PRATER def. ERICK SILVA via DQ(R1)
+- GABRIEL GONZAGA def. EDNALDO OLIVEIRA via Submission(R1)
+- EDSON BARBOZA def. TERRY ETIM via KO/TKO(R3)
+- VITOR BELFORT def. ANTHONY JOHNSON via Submission(R1)
+- MIKE PYLE def. RICARDO FUNCH via KO/TKO(R1)
+- IURI ALCANTARA def. MICHIHIRO OMIGAWA via Decision - Unanimous(R3)
+- FELIPE ARANTES def. ANTONIO CARVALHO via Decision - Unanimous(R3)
+- ROUSIMAR PALHARES def. MIKE MASSENZIO via Submission(R1)
+- THIAGO TAVARES def. SAM STOUT via Decision - Unanimous(R3)

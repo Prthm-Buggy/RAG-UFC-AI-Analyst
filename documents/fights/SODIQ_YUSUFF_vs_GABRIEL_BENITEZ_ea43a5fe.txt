@@ -1,0 +1,13 @@
+Event: UFC 241: Cormier vs. Miocic 2
+    Date: August 17, 2019
+    Location: Anaheim, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: SODIQ YUSUFF defeated GABRIEL BENITEZ via KO/TKO  
+  at 4:14 of round 1
+  Key stats:
+  - SODIQ YUSUFF landed 34 significant strikes
+  - GABRIEL BENITEZ landed 24 significant strikes
+  - Knockdowns: SODIQ YUSUFF 1,  GABRIEL BENITEZ 0
+  - Takedowns: SODIQ YUSUFF 0,  GABRIEL BENITEZ 0

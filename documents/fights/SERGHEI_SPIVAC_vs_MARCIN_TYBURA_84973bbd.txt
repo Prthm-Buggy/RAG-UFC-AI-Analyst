@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tybura vs. Spivac 2
+    Date: August 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SERGHEI SPIVAC defeated MARCIN TYBURA via Submission  
+  at 1:44 of round 1
+  Key stats:
+  - SERGHEI SPIVAC landed 3 significant strikes
+  - MARCIN TYBURA landed 0 significant strikes
+  - Knockdowns: SERGHEI SPIVAC 0,  MARCIN TYBURA 0
+  - Takedowns: SERGHEI SPIVAC 1,  MARCIN TYBURA 0
+  Bonus: perf

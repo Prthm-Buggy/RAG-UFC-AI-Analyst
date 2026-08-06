@@ -1,0 +1,14 @@
+Event: UFC 221: Romero vs. Rockhold
+    Date: February 10, 2018
+    Location: Perth, Western Australia, Australia
+    Weight Class: Middleweight
+    
+
+    Result: ISRAEL ADESANYA defeated ROB WILKINSON via KO/TKO  
+  at 3:37 of round 2
+  Key stats:
+  - ISRAEL ADESANYA landed 52 significant strikes
+  - ROB WILKINSON landed 22 significant strikes
+  - Knockdowns: ISRAEL ADESANYA 1,  ROB WILKINSON 0
+  - Takedowns: ISRAEL ADESANYA 0,  ROB WILKINSON 3
+  Bonus: perf

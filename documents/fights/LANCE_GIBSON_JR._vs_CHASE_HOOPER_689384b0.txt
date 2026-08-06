@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Adesanya vs. Pyfer
+    Date: March 28, 2026
+    Location: Seattle, Washington, USA
+    Weight Class: Lightweight
+    
+
+    Result: LANCE GIBSON JR. defeated CHASE HOOPER via KO/TKO  
+  at 2:56 of round 1
+  Key stats:
+  - LANCE GIBSON JR. landed 13 significant strikes
+  - CHASE HOOPER landed 11 significant strikes
+  - Knockdowns: LANCE GIBSON JR. 1,  CHASE HOOPER 0
+  - Takedowns: LANCE GIBSON JR. 0,  CHASE HOOPER 0

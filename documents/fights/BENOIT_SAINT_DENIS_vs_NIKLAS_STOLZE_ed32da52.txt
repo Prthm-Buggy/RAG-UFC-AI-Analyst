@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Volkov vs. Rozenstruik
+    Date: June 04, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENOIT SAINT DENIS defeated NIKLAS STOLZE via Submission  
+  at 1:32 of round 2
+  Key stats:
+  - BENOIT SAINT DENIS landed 8 significant strikes
+  - NIKLAS STOLZE landed 11 significant strikes
+  - Knockdowns: BENOIT SAINT DENIS 0,  NIKLAS STOLZE 0
+  - Takedowns: BENOIT SAINT DENIS 3,  NIKLAS STOLZE 0

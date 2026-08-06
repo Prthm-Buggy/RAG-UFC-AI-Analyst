@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cowboy vs Cowboy
+    Date: February 21, 2016
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: LAUREN MURPHY defeated KELLY FASZHOLZ via KO/TKO  
+  at 4:55 of round 3
+  Key stats:
+  - LAUREN MURPHY landed 95 significant strikes
+  - KELLY FASZHOLZ landed 76 significant strikes
+  - Knockdowns: LAUREN MURPHY 0,  KELLY FASZHOLZ 0
+  - Takedowns: LAUREN MURPHY 1,  KELLY FASZHOLZ 0
+  Bonus: fight

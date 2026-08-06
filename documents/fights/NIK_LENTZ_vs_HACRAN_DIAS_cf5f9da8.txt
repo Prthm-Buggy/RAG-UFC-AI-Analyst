@@ -1,0 +1,13 @@
+Event: UFC on FX: Belfort vs. Rockhold
+    Date: May 18, 2013
+    Location: Jaragua do Sul, Santa Catarina, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: NIK LENTZ defeated HACRAN DIAS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NIK LENTZ landed 42 significant strikes
+  - HACRAN DIAS landed 40 significant strikes
+  - Knockdowns: NIK LENTZ 1,  HACRAN DIAS 0
+  - Takedowns: NIK LENTZ 4,  HACRAN DIAS 1

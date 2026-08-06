@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hendricks vs Thompson
+    Date: February 06, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: OVINCE SAINT PREUX defeated RAFAEL CAVALCANTE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - OVINCE SAINT PREUX landed 51 significant strikes
+  - RAFAEL CAVALCANTE landed 10 significant strikes
+  - Knockdowns: OVINCE SAINT PREUX 0,  RAFAEL CAVALCANTE 0
+  - Takedowns: OVINCE SAINT PREUX 1,  RAFAEL CAVALCANTE 0

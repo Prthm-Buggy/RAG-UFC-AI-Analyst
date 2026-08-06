@@ -1,0 +1,11 @@
+Fighter: KEITH HACKNEY
+  Date of Birth: 1958-04-15
+  Career record: 4
+  First fight: 1994-09-09
+  Last fight: 1995-12-16
+
+Career Statistics:
+- Significant Strikes Landed :47
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :1

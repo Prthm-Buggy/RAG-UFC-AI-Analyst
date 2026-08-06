@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Stephens
+    Date: September 21, 2019
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Featherweight
+    
+
+    Result: KYLE NELSON defeated MARCO POLO REYES via KO/TKO  
+  at 1:36 of round 1
+  Key stats:
+  - KYLE NELSON landed 12 significant strikes
+  - MARCO POLO REYES landed 6 significant strikes
+  - Knockdowns: KYLE NELSON 0,  MARCO POLO REYES 0
+  - Takedowns: KYLE NELSON 0,  MARCO POLO REYES 0

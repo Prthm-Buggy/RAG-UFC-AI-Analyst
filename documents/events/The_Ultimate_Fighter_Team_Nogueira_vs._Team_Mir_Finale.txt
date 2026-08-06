@@ -1,0 +1,17 @@
+Event : The Ultimate Fighter: Team Nogueira vs. Team Mir Finale
+    Date : December 13, 2008
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Lightweight, Light Heavyweight, Welterweight, Middleweight
+
+    Fight Results:
+  - ANTHONY JOHNSON def. KEVIN BURNS via KO/TKO(R3)
+- RYAN BADER def. VINNY MAGALHAES via KO/TKO(R1)
+- EFRAIN ESCUDERO def. PHILLIPE NOVER via Decision - Unanimous(R3)
+- TOM LAWLOR def. KYLE KINGSBURY via Decision - Unanimous(R3)
+- SHANE NELSON def. GEORGE ROOP via Decision - Split(R3)
+- WILSON GOUVEIA def. JASON MACDONALD via KO/TKO(R1)
+- ELIOT MARSHALL def. JULES BRUCHEZ via Submission(R1)
+- KRZYSZTOF SOSZYNSKI def. SHANE PRIMM via Submission(R2)
+- ROLANDO DELGADO def. JOHN POLAKOWSKI via Submission(R2)
+- JUNIE BROWNING def. DAVID KAPLAN via Submission(R2)

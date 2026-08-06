@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Till vs. Masvidal
+    Date: March 16, 2019
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: JORGE MASVIDAL defeated DARREN TILL via KO/TKO  
+  at 3:05 of round 2
+  Key stats:
+  - JORGE MASVIDAL landed 35 significant strikes
+  - DARREN TILL landed 21 significant strikes
+  - Knockdowns: JORGE MASVIDAL 1,  DARREN TILL 1
+  - Takedowns: JORGE MASVIDAL 1,  DARREN TILL 1
+  Bonus: fight

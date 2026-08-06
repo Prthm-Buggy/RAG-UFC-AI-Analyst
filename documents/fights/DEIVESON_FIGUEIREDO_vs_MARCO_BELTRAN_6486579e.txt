@@ -1,0 +1,13 @@
+Event: UFC 212: Aldo vs. Holloway
+    Date: June 03, 2017
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: DEIVESON FIGUEIREDO defeated MARCO BELTRAN via KO/TKO  
+  at 5:00 of round 2
+  Key stats:
+  - DEIVESON FIGUEIREDO landed 17 significant strikes
+  - MARCO BELTRAN landed 16 significant strikes
+  - Knockdowns: DEIVESON FIGUEIREDO 1,  MARCO BELTRAN 0
+  - Takedowns: DEIVESON FIGUEIREDO 2,  MARCO BELTRAN 0

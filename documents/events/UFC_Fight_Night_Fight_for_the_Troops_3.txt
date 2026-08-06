@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Fight for the Troops 3
+    Date : November 06, 2013
+    Location: Fort Campbell, Kentucky, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Lightweight, Women's Bantamweight, Middleweight, Welterweight, Featherweight
+
+    Fight Results:
+  - RUSTAM KHABILOV def. JORGE MASVIDAL via Decision - Unanimous(R3)
+- KING GREEN def. JAMES KRAUSE via KO/TKO(R1)
+- AMANDA NUNES def. GERMAINE DE RANDAMIE via KO/TKO(R1)
+- YOEL ROMERO def. RONNY MARKES via KO/TKO(R3)
+- DENNIS BERMUDEZ def. STEVEN SILER via Decision - Unanimous(R3)
+- MICHAEL CHIESA def. COLTON SMITH via Submission(R2)
+- ALEXIS DAVIS def. LIZ CARMOUCHE via Decision - Unanimous(R3)
+- LORENZ LARKIN def. CHRIS CAMOZZI via Decision - Unanimous(R3)
+- FRANCISCO RIVERA def. GEORGE ROOP via KO/TKO(R2)
+- TIM KENNEDY def. RAFAEL NATAL via KO/TKO(R1)
+- SETH BACZYNSKI def. NEIL MAGNY via Decision - Unanimous(R3)
+- DEREK BRUNSON def. BRIAN HOUSTON via Submission(R1)

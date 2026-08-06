@@ -1,0 +1,14 @@
+Event: UFC on FOX: VanZant vs. Waterson
+    Date: December 17, 2016
+    Location: Sacramento, California, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MICHELLE WATERSON-GOMEZ defeated PAIGE VANZANT via Submission  
+  at 3:21 of round 1
+  Key stats:
+  - MICHELLE WATERSON-GOMEZ landed 12 significant strikes
+  - PAIGE VANZANT landed 5 significant strikes
+  - Knockdowns: MICHELLE WATERSON-GOMEZ 0,  PAIGE VANZANT 0
+  - Takedowns: MICHELLE WATERSON-GOMEZ 1,  PAIGE VANZANT 0
+  Bonus: perf

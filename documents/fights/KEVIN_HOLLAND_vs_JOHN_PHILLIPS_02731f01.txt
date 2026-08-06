@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Ngannou 2
+    Date: November 24, 2018
+    Location: Beijing, China
+    Weight Class: Middleweight
+    
+
+    Result: KEVIN HOLLAND defeated JOHN PHILLIPS via Submission  
+  at 4:05 of round 3
+  Key stats:
+  - KEVIN HOLLAND landed 123 significant strikes
+  - JOHN PHILLIPS landed 51 significant strikes
+  - Knockdowns: KEVIN HOLLAND 0,  JOHN PHILLIPS 0
+  - Takedowns: KEVIN HOLLAND 5,  JOHN PHILLIPS 0

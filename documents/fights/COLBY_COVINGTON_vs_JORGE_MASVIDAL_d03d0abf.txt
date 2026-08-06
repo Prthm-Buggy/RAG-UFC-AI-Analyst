@@ -1,0 +1,14 @@
+Event: UFC 272: Covington vs. Masvidal
+    Date: March 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: COLBY COVINGTON defeated JORGE MASVIDAL via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - COLBY COVINGTON landed 94 significant strikes
+  - JORGE MASVIDAL landed 67 significant strikes
+  - Knockdowns: COLBY COVINGTON 0,  JORGE MASVIDAL 0
+  - Takedowns: COLBY COVINGTON 6,  JORGE MASVIDAL 0
+  Bonus: fight

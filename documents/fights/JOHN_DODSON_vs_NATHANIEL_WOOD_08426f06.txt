@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Anderson vs. Blachowicz
+    Date: February 15, 2020
+    Location: Rio Rancho, New Mexico, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOHN DODSON defeated NATHANIEL WOOD via KO/TKO  
+  at 0:16 of round 3
+  Key stats:
+  - JOHN DODSON landed 39 significant strikes
+  - NATHANIEL WOOD landed 46 significant strikes
+  - Knockdowns: JOHN DODSON 1,  NATHANIEL WOOD 0
+  - Takedowns: JOHN DODSON 0,  NATHANIEL WOOD 1

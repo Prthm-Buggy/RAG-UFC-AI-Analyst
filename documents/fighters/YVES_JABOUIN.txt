@@ -1,0 +1,11 @@
+Fighter: YVES JABOUIN
+  Date of Birth: 1979-05-30
+  Career record: 10
+  First fight: 2011-04-30
+  Last fight: 2015-08-23
+
+Career Statistics:
+- Significant Strikes Landed :300
+- Total takedowns landed :13
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC 269: Oliveira vs. Poirier
+    Date: December 11, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: KAI KARA-FRANCE defeated CODY GARBRANDT via KO/TKO  
+  at 3:21 of round 1
+  Key stats:
+  - KAI KARA-FRANCE landed 23 significant strikes
+  - CODY GARBRANDT landed 9 significant strikes
+  - Knockdowns: KAI KARA-FRANCE 2,  CODY GARBRANDT 0
+  - Takedowns: KAI KARA-FRANCE 0,  CODY GARBRANDT 0
+  Bonus: perf

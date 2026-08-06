@@ -1,0 +1,13 @@
+Event: UFC 119: Mir vs Cro Cop
+    Date: September 25, 2010
+    Location: Indianapolis, Indiana, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANK MIR defeated MIRKO FILIPOVIC via KO/TKO  
+  at 4:02 of round 3
+  Key stats:
+  - FRANK MIR landed 25 significant strikes
+  - MIRKO FILIPOVIC landed 19 significant strikes
+  - Knockdowns: FRANK MIR 1,  MIRKO FILIPOVIC 0
+  - Takedowns: FRANK MIR 0,  MIRKO FILIPOVIC 0

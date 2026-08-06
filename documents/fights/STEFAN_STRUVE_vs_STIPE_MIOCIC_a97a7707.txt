@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Struve vs Miocic
+    Date: September 29, 2012
+    Location: Nottingham, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: STEFAN STRUVE defeated STIPE MIOCIC via KO/TKO  
+  at 3:50 of round 2
+  Key stats:
+  - STEFAN STRUVE landed 57 significant strikes
+  - STIPE MIOCIC landed 48 significant strikes
+  - Knockdowns: STEFAN STRUVE 0,  STIPE MIOCIC 0
+  - Takedowns: STEFAN STRUVE 0,  STIPE MIOCIC 1
+  Bonus: fight

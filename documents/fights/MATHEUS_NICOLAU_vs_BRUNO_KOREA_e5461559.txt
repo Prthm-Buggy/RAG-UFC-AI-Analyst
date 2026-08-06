@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs Henderson 3
+    Date: November 07, 2015
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: MATHEUS NICOLAU defeated BRUNO KOREA via Submission  
+  at 3:27 of round 3
+  Key stats:
+  - MATHEUS NICOLAU landed 46 significant strikes
+  - BRUNO KOREA landed 27 significant strikes
+  - Knockdowns: MATHEUS NICOLAU 2,  BRUNO KOREA 1
+  - Takedowns: MATHEUS NICOLAU 3,  BRUNO KOREA 0

@@ -1,0 +1,11 @@
+Fighter: RANDA MARKOS
+  Date of Birth: 1985-08-10
+  Career record: 17
+  First fight: 2014-12-12
+  Last fight: 2021-10-23
+
+Career Statistics:
+- Significant Strikes Landed :626
+- Total takedowns landed :15
+- Knockdowns :0
+- Submission Attempts :3

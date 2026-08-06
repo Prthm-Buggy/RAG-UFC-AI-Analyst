@@ -1,0 +1,13 @@
+Event: UFC 117: Silva vs Sonnen
+    Date: August 07, 2010
+    Location: Oakland, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR DOS SANTOS defeated ROY NELSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JUNIOR DOS SANTOS landed 130 significant strikes
+  - ROY NELSON landed 40 significant strikes
+  - Knockdowns: JUNIOR DOS SANTOS 1,  ROY NELSON 0
+  - Takedowns: JUNIOR DOS SANTOS 1,  ROY NELSON 0

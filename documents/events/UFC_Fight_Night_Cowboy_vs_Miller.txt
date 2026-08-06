@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Cowboy vs Miller
+    Date : July 16, 2014
+    Location: Atlantic City, New Jersey, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Lightweight, Welterweight, Flyweight, Featherweight, Women's Bantamweight, Women's Strawweight
+
+    Fight Results:
+  - LESLIE SMITH def. JESSAMYN DUKE via KO/TKO(R1)
+- ALJAMAIN STERLING def. HUGO VIANA via KO/TKO(R3)
+- JOHN LINEKER def. ALPTEKIN OZKILIC via KO/TKO(R3)
+- RICK STORY def. LEONARDO MAFRA via Submission(R2)
+- DONALD CERRONE def. JIM MILLER via KO/TKO(R2)
+- EDSON BARBOZA def. EVAN DUNHAM via KO/TKO(R1)
+- GLEISON TIBAU def. PAT HEALY via Decision - Unanimous(R3)
+- JOE PROCTOR def. JUSTIN SALAS via KO/TKO(R2)
+- LUCAS MARTINS def. ALEX WHITE via KO/TKO(R3)
+- YOSDENIS CEDENO def. JERROD SANDERS via TKO - Doctor's Stoppage(R1)
+- CLAUDIA GADELHA def. TINA LAHDEMAKI via Decision - Unanimous(R3)

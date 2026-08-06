@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Iaquinta vs. Cowboy
+    Date: May 04, 2019
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: WALT HARRIS defeated SERGHEI SPIVAC via KO/TKO  
+  at 0:50 of round 1
+  Key stats:
+  - WALT HARRIS landed 17 significant strikes
+  - SERGHEI SPIVAC landed 1 significant strikes
+  - Knockdowns: WALT HARRIS 1,  SERGHEI SPIVAC 0
+  - Takedowns: WALT HARRIS 0,  SERGHEI SPIVAC 0
+  Bonus: perf

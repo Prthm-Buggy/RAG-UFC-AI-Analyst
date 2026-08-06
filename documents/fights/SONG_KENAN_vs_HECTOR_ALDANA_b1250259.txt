@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs. Edwards
+    Date: June 23, 2018
+    Location: Kallang, Singapore
+    Weight Class: Welterweight
+    
+
+    Result: SONG KENAN defeated HECTOR ALDANA via KO/TKO  
+  at 4:45 of round 2
+  Key stats:
+  - SONG KENAN landed 32 significant strikes
+  - HECTOR ALDANA landed 39 significant strikes
+  - Knockdowns: SONG KENAN 1,  HECTOR ALDANA 0
+  - Takedowns: SONG KENAN 0,  HECTOR ALDANA 2

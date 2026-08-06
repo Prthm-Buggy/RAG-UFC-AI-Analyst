@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Royval vs. Taira
+    Date: October 12, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: BRANDON ROYVAL defeated TATSURO TAIRA via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - BRANDON ROYVAL landed 124 significant strikes
+  - TATSURO TAIRA landed 42 significant strikes
+  - Knockdowns: BRANDON ROYVAL 0,  TATSURO TAIRA 0
+  - Takedowns: BRANDON ROYVAL 3,  TATSURO TAIRA 6
+  Bonus: fight

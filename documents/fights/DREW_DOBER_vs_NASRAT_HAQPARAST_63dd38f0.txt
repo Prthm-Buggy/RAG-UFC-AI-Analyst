@@ -1,0 +1,14 @@
+Event: UFC 246: McGregor vs. Cowboy
+    Date: January 18, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DREW DOBER defeated NASRAT HAQPARAST via KO/TKO  
+  at 1:10 of round 1
+  Key stats:
+  - DREW DOBER landed 13 significant strikes
+  - NASRAT HAQPARAST landed 7 significant strikes
+  - Knockdowns: DREW DOBER 1,  NASRAT HAQPARAST 0
+  - Takedowns: DREW DOBER 0,  NASRAT HAQPARAST 0
+  Bonus: perf

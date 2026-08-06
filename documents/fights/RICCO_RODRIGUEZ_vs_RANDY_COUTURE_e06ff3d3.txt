@@ -1,0 +1,14 @@
+Event: UFC 39: The Warriors Return
+    Date: September 27, 2002
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RICCO RODRIGUEZ defeated RANDY COUTURE via KO/TKO  
+  at 3:04 of round 5
+  Key stats:
+  - RICCO RODRIGUEZ landed 39 significant strikes
+  - RANDY COUTURE landed 39 significant strikes
+  - Knockdowns: RICCO RODRIGUEZ 0,  RANDY COUTURE 0
+  - Takedowns: RICCO RODRIGUEZ 4,  RANDY COUTURE 5
+  Bonus: belt

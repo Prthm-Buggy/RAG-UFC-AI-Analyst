@@ -1,0 +1,14 @@
+Event: UFC Fight Night 5
+    Date: June 28, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ROB MACDONALD defeated KRISTIAN ROTHAERMEL via Submission  
+  at 4:01 of round 1
+  Key stats:
+  - ROB MACDONALD landed 10 significant strikes
+  - KRISTIAN ROTHAERMEL landed 3 significant strikes
+  - Knockdowns: ROB MACDONALD 0,  KRISTIAN ROTHAERMEL 0
+  - Takedowns: ROB MACDONALD 4,  KRISTIAN ROTHAERMEL 0
+  Bonus: sub

@@ -1,0 +1,14 @@
+Event: UFC 76: Knockout
+    Date: September 22, 2007
+    Location: Anaheim, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: TYSON GRIFFIN defeated THIAGO TAVARES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TYSON GRIFFIN landed 29 significant strikes
+  - THIAGO TAVARES landed 6 significant strikes
+  - Knockdowns: TYSON GRIFFIN 0,  THIAGO TAVARES 0
+  - Takedowns: TYSON GRIFFIN 2,  THIAGO TAVARES 4
+  Bonus: fight

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: MacDonald vs Saffiedine
+    Date: October 04, 2014
+    Location: Halifax, Nova Scotia, Canada
+    Weight Class: Welterweight
+    
+
+    Result: NORDINE TALEB defeated LI JINGLIANG via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - NORDINE TALEB landed 66 significant strikes
+  - LI JINGLIANG landed 43 significant strikes
+  - Knockdowns: NORDINE TALEB 0,  LI JINGLIANG 0
+  - Takedowns: NORDINE TALEB 2,  LI JINGLIANG 2

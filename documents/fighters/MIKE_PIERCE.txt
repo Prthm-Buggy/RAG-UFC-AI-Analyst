@@ -1,0 +1,11 @@
+Fighter: MIKE PIERCE
+  Date of Birth: 1980-09-01
+  Career record: 14
+  First fight: 2009-09-16
+  Last fight: 2015-12-11
+
+Career Statistics:
+- Significant Strikes Landed :442
+- Total takedowns landed :31
+- Knockdowns :3
+- Submission Attempts :3

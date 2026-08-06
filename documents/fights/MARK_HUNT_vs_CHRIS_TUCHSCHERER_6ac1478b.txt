@@ -1,0 +1,14 @@
+Event: UFC 127: Penn vs Fitch
+    Date: February 26, 2011
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: MARK HUNT defeated CHRIS TUCHSCHERER via KO/TKO  
+  at 1:41 of round 2
+  Key stats:
+  - MARK HUNT landed 14 significant strikes
+  - CHRIS TUCHSCHERER landed 9 significant strikes
+  - Knockdowns: MARK HUNT 1,  CHRIS TUCHSCHERER 0
+  - Takedowns: MARK HUNT 0,  CHRIS TUCHSCHERER 1
+  Bonus: ko

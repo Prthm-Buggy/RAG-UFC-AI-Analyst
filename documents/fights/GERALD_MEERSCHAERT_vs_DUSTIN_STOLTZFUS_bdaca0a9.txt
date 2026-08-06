@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Daukaus
+    Date: December 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GERALD MEERSCHAERT defeated DUSTIN STOLTZFUS via Submission  
+  at 2:58 of round 3
+  Key stats:
+  - GERALD MEERSCHAERT landed 11 significant strikes
+  - DUSTIN STOLTZFUS landed 12 significant strikes
+  - Knockdowns: GERALD MEERSCHAERT 0,  DUSTIN STOLTZFUS 0
+  - Takedowns: GERALD MEERSCHAERT 1,  DUSTIN STOLTZFUS 4

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lineker vs. Dodson
+    Date: October 01, 2016
+    Location: Portland, Oregon, USA
+    Weight Class: Lightweight
+    
+
+    Result: ALEX OLIVEIRA defeated WILL BROOKS via KO/TKO  
+  at 3:30 of round 3
+  Key stats:
+  - ALEX OLIVEIRA landed 48 significant strikes
+  - WILL BROOKS landed 16 significant strikes
+  - Knockdowns: ALEX OLIVEIRA 0,  WILL BROOKS 0
+  - Takedowns: ALEX OLIVEIRA 4,  WILL BROOKS 4

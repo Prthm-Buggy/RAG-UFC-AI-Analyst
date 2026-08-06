@@ -1,0 +1,17 @@
+Event : UFC Fight Night - Fight for the Troops
+    Date : December 10, 2008
+    Location: Fayetteville, North Carolina, USA
+    Number of Fights: 10
+    Weight Classes: Welterweight, Light Heavyweight, Middleweight, Lightweight, Catch Weight, Heavyweight
+
+    Fight Results:
+  - JIM MILLER def. MATT WIMAN via Decision - Unanimous(R3)
+- DALE HARTT def. COREY HILL via KO/TKO(R2)
+- TIM CREDEUR def. NATE LOUGHRAN via KO/TKO(R2)
+- JOSH KOSCHECK def. YOSHIYUKI YOSHIDA via KO/TKO(R1)
+- MIKE SWICK def. JONATHAN GOULET via KO/TKO(R1)
+- JUSTIN MCCULLY def. EDDIE SANCHEZ via Decision - Unanimous(R3)
+- STEVE BRUNO def. JOHNNY REES via Submission(R2)
+- BEN SAUNDERS def. BRANDON WOLFF via KO/TKO(R1)
+- LUIGI FIORAVANTI def. BRODIE FARBER via Decision - Unanimous(R3)
+- STEVE CANTWELL def. RAZAK AL-HASSAN via Submission(R1)

@@ -1,0 +1,18 @@
+Event : UFC 324: Gaethje vs. Pimblett
+    Date : January 24, 2026
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Women's Flyweight, Heavyweight, Featherweight, Lightweight, Middleweight, Light Heavyweight, Welterweight, Flyweight
+
+    Fight Results:
+  - JUSTIN GAETHJE def. PADDY PIMBLETT via Decision - Unanimous(R5)
+- TY MILLER def. ADAM FUGITT via KO/TKO(R1)
+- JEAN SILVA def. ARNOLD ALLEN via Decision - Unanimous(R3)
+- UMAR NURMAGOMEDOV def. DEIVESON FIGUEIREDO via Decision - Unanimous(R3)
+- SEAN O'MALLEY def. SONG YADONG via Decision - Unanimous(R3)
+- NIKITA KRYLOV def. MODESTAS BUKAUSKAS via KO/TKO(R3)
+- WALDO CORTES ACOSTA def. DERRICK LEWIS via KO/TKO(R2)
+- NATALIA SILVA def. ROSE NAMAJUNAS via Decision - Unanimous(R3)
+- ALEX PEREZ def. CHARLES JOHNSON via KO/TKO(R1)
+- JOSH HOKIT def. DENZEL FREEMAN via KO/TKO(R1)
+- ATEBA GAUTIER def. ANDREY PULYAEV via Decision - Unanimous(R3)

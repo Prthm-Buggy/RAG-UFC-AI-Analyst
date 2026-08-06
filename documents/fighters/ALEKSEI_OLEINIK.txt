@@ -1,0 +1,11 @@
+Fighter: ALEKSEI OLEINIK
+  Date of Birth: 1977-06-20
+  Career record: 17
+  First fight: 2014-06-28
+  Last fight: 2022-10-01
+
+Career Statistics:
+- Significant Strikes Landed :380
+- Total takedowns landed :14
+- Knockdowns :2
+- Submission Attempts :15

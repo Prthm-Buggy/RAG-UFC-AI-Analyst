@@ -1,0 +1,13 @@
+Event: UFC 41: Onslaught
+    Date: February 28, 2003
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: GAN MCGEE defeated ALEXANDRE DANTAS via KO/TKO  
+  at 4:49 of round 1
+  Key stats:
+  - GAN MCGEE landed 9 significant strikes
+  - ALEXANDRE DANTAS landed 1 significant strikes
+  - Knockdowns: GAN MCGEE 0,  ALEXANDRE DANTAS 0
+  - Takedowns: GAN MCGEE 0,  ALEXANDRE DANTAS 0

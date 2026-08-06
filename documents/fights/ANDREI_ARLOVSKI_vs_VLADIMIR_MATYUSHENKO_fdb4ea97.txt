@@ -1,0 +1,13 @@
+Event: UFC 44: Undisputed
+    Date: September 26, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated VLADIMIR MATYUSHENKO via KO/TKO  
+  at 1:59 of round 1
+  Key stats:
+  - ANDREI ARLOVSKI landed 9 significant strikes
+  - VLADIMIR MATYUSHENKO landed 5 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 2,  VLADIMIR MATYUSHENKO 0
+  - Takedowns: ANDREI ARLOVSKI 0,  VLADIMIR MATYUSHENKO 0

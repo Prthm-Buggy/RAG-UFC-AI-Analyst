@@ -1,0 +1,13 @@
+Event: UFC 204: Bisping vs. Henderson
+    Date: October 08, 2016
+    Location: Manchester, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: MIRSAD BEKTIC defeated RUSSELL DOANE via Submission  
+  at 4:22 of round 1
+  Key stats:
+  - MIRSAD BEKTIC landed 4 significant strikes
+  - RUSSELL DOANE landed 6 significant strikes
+  - Knockdowns: MIRSAD BEKTIC 0,  RUSSELL DOANE 0
+  - Takedowns: MIRSAD BEKTIC 4,  RUSSELL DOANE 0

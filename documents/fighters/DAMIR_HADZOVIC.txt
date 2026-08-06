@@ -1,0 +1,11 @@
+Fighter: DAMIR HADZOVIC
+  Date of Birth: 1986-08-08
+  Career record: 10
+  First fight: 2016-04-10
+  Last fight: 2025-02-01
+
+Career Statistics:
+- Significant Strikes Landed :329
+- Total takedowns landed :6
+- Knockdowns :2
+- Submission Attempts :1

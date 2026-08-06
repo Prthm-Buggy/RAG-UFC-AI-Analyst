@@ -1,0 +1,13 @@
+Event: UFC 217: Bisping vs. St-Pierre
+    Date: November 04, 2017
+    Location: New York City, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CURTIS BLAYDES defeated ALEKSEI OLEINIK via TKO - Doctor's Stoppage  
+  at 1:39 of round 2
+  Key stats:
+  - CURTIS BLAYDES landed 39 significant strikes
+  - ALEKSEI OLEINIK landed 34 significant strikes
+  - Knockdowns: CURTIS BLAYDES 1,  ALEKSEI OLEINIK 0
+  - Takedowns: CURTIS BLAYDES 4,  ALEKSEI OLEINIK 0

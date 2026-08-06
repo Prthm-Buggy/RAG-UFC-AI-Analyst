@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Whittaker vs. Gastelum
+    Date : April 17, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Lightweight, Middleweight, Women's Strawweight, Heavyweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - TONY GRAVELY def. ANTHONY BIRCHAK via KO/TKO(R2)
+- GERALD MEERSCHAERT def. BARTOSZ FABINSKI via Submission(R1)
+- TRACY CORTEZ def. JUSTINE KISH via Decision - Split(R3)
+- ALEXANDR ROMANOV def. JUAN ESPINO via Decision - Split(R3)
+- AUSTIN HUBBARD def. DAKOTA BUSH via Decision - Unanimous(R3)
+- LUIS PENA def. ALEXANDER MUNOZ via Decision - Split(R3)
+- ANDREI ARLOVSKI def. CHASE SHERMAN via Decision - Unanimous(R3)
+- JACOB MALKOUN def. ABDUL RAZAK ALHASSAN via Decision - Unanimous(R3)
+- JESSICA PENNE def. LOOPY GODINEZ via Decision - Split(R3)
+- ROBERT WHITTAKER def. KELVIN GASTELUM via Decision - Unanimous(R5)

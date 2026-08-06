@@ -1,0 +1,14 @@
+Event: UFC 155: Dos Santos vs Velasquez II
+    Date: December 29, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TODD DUFFEE defeated PHILIP DE FRIES via KO/TKO  
+  at 2:04 of round 1
+  Key stats:
+  - TODD DUFFEE landed 20 significant strikes
+  - PHILIP DE FRIES landed 7 significant strikes
+  - Knockdowns: TODD DUFFEE 1,  PHILIP DE FRIES 0
+  - Takedowns: TODD DUFFEE 0,  PHILIP DE FRIES 1
+  Bonus: ko

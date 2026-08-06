@@ -1,0 +1,13 @@
+Event: UFC 56: Full Force
+    Date: November 19, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JEREMY HORN defeated TREVOR PRANGLEY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JEREMY HORN landed 38 significant strikes
+  - TREVOR PRANGLEY landed 38 significant strikes
+  - Knockdowns: JEREMY HORN 0,  TREVOR PRANGLEY 0
+  - Takedowns: JEREMY HORN 0,  TREVOR PRANGLEY 7

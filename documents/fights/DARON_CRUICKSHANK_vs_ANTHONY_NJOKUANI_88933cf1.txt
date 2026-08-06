@@ -1,0 +1,13 @@
+Event: UFC Fight Night: MacDonald vs Saffiedine
+    Date: October 04, 2014
+    Location: Halifax, Nova Scotia, Canada
+    Weight Class: Lightweight
+    
+
+    Result: DARON CRUICKSHANK defeated ANTHONY NJOKUANI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DARON CRUICKSHANK landed 42 significant strikes
+  - ANTHONY NJOKUANI landed 40 significant strikes
+  - Knockdowns: DARON CRUICKSHANK 0,  ANTHONY NJOKUANI 0
+  - Takedowns: DARON CRUICKSHANK 6,  ANTHONY NJOKUANI 0

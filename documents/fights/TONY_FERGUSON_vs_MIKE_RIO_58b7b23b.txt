@@ -1,0 +1,14 @@
+Event: UFC 166: Velasquez vs Dos Santos 3
+    Date: October 19, 2013
+    Location: Houston, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: TONY FERGUSON defeated MIKE RIO via Submission  
+  at 1:52 of round 1
+  Key stats:
+  - TONY FERGUSON landed 5 significant strikes
+  - MIKE RIO landed 4 significant strikes
+  - Knockdowns: TONY FERGUSON 0,  MIKE RIO 0
+  - Takedowns: TONY FERGUSON 0,  MIKE RIO 0
+  Bonus: sub

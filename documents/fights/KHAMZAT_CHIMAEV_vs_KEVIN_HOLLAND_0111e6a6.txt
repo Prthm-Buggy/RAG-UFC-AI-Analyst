@@ -1,0 +1,13 @@
+Event: UFC 279: Diaz vs. Ferguson
+    Date: September 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: KHAMZAT CHIMAEV defeated KEVIN HOLLAND via Submission  
+  at 2:13 of round 1
+  Key stats:
+  - KHAMZAT CHIMAEV landed 0 significant strikes
+  - KEVIN HOLLAND landed 0 significant strikes
+  - Knockdowns: KHAMZAT CHIMAEV 0,  KEVIN HOLLAND 0
+  - Takedowns: KHAMZAT CHIMAEV 2,  KEVIN HOLLAND 0

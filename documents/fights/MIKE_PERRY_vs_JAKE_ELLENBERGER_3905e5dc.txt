@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Swanson vs. Lobov
+    Date: April 22, 2017
+    Location: Nashville, Tennessee, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PERRY defeated JAKE ELLENBERGER via KO/TKO  
+  at 1:05 of round 2
+  Key stats:
+  - MIKE PERRY landed 26 significant strikes
+  - JAKE ELLENBERGER landed 17 significant strikes
+  - Knockdowns: MIKE PERRY 2,  JAKE ELLENBERGER 0
+  - Takedowns: MIKE PERRY 0,  JAKE ELLENBERGER 1
+  Bonus: perf

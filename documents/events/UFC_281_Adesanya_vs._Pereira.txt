@@ -1,0 +1,21 @@
+Event : UFC 281: Adesanya vs. Pereira
+    Date : November 12, 2022
+    Location: New York City, New York, USA
+    Number of Fights: 14
+    Weight Classes: Lightweight, Women's Strawweight, Featherweight, Middleweight, Light Heavyweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - ALEX PEREIRA def. ISRAEL ADESANYA via KO/TKO(R5)
+- MATT FREVOLA def. OTTMAN AZAITAR via KO/TKO(R1)
+- RENATO MOICANO def. BRAD RIDDELL via Submission(R1)
+- DAN HOOKER def. CLAUDIO PUELLES via KO/TKO(R2)
+- CARLOS ULBERG def. NICOLAE NEGUMEREANU via KO/TKO(R1)
+- RYAN SPANN def. DOMINICK REYES via KO/TKO(R1)
+- ANDRE PETROSKI def. WELLINGTON TURMAN via Decision - Unanimous(R3)
+- MONTEL JACKSON def. JULIO ARCE via Decision - Unanimous(R3)
+- KAROLINA KOWALKIEWICZ def. SILVANA GOMEZ JUAREZ via Decision - Unanimous(R3)
+- ZHANG WEILI def. CARLA ESPARZA via Submission(R2)
+- ERIN BLANCHFIELD def. MOLLY MCCANN via Submission(R1)
+- DUSTIN POIRIER def. MICHAEL CHANDLER via Submission(R3)
+- MICHAEL TRIZANO def. SEUNGWOO CHOI via KO/TKO(R1)
+- CHRIS GUTIERREZ def. FRANKIE EDGAR via KO/TKO(R1)

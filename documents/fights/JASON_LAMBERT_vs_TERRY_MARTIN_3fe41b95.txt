@@ -1,0 +1,13 @@
+Event: UFC 59: Reality Check
+    Date: April 15, 2006
+    Location: Anaheim, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JASON LAMBERT defeated TERRY MARTIN via KO/TKO  
+  at 2:37 of round 2
+  Key stats:
+  - JASON LAMBERT landed 31 significant strikes
+  - TERRY MARTIN landed 15 significant strikes
+  - Knockdowns: JASON LAMBERT 0,  TERRY MARTIN 0
+  - Takedowns: JASON LAMBERT 0,  TERRY MARTIN 1

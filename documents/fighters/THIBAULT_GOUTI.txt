@@ -1,0 +1,11 @@
+Fighter: THIBAULT GOUTI
+  Date of Birth: 1987-02-27
+  Career record: 6
+  First fight: 2016-02-27
+  Last fight: 2018-10-27
+
+Career Statistics:
+- Significant Strikes Landed :180
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :1

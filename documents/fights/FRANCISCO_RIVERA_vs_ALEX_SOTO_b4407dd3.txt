@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Korean Zombie vs Poirier
+    Date: May 15, 2012
+    Location: Fairfax, Virginia, USA
+    Weight Class: Bantamweight
+    
+
+    Result: FRANCISCO RIVERA defeated ALEX SOTO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - FRANCISCO RIVERA landed 68 significant strikes
+  - ALEX SOTO landed 41 significant strikes
+  - Knockdowns: FRANCISCO RIVERA 1,  ALEX SOTO 0
+  - Takedowns: FRANCISCO RIVERA 0,  ALEX SOTO 3

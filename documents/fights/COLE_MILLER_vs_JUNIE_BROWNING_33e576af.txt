@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Condit vs Kampmann
+    Date: April 01, 2009
+    Location: Nashville, Tennessee, USA
+    Weight Class: Lightweight
+    
+
+    Result: COLE MILLER defeated JUNIE BROWNING via Submission  
+  at 1:58 of round 1
+  Key stats:
+  - COLE MILLER landed 3 significant strikes
+  - JUNIE BROWNING landed 1 significant strikes
+  - Knockdowns: COLE MILLER 0,  JUNIE BROWNING 0
+  - Takedowns: COLE MILLER 0,  JUNIE BROWNING 0

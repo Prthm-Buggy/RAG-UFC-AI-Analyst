@@ -1,0 +1,19 @@
+Event : UFC 242: Khabib vs. Poirier
+    Date : September 07, 2019
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Women's Flyweight, Middleweight, Lightweight, Women's Bantamweight, Welterweight
+
+    Fight Results:
+  - ISLAM MAKHACHEV def. DAVI RAMOS via Decision - Unanimous(R3)
+- BELAL MUHAMMAD def. TAKASHI SATO via Submission(R3)
+- DIEGO FERREIRA def. MAIRBEK TAISUMOV via Decision - Unanimous(R3)
+- MUSLIM SALIKHOV def. NORDINE TALEB via KO/TKO(R1)
+- CURTIS BLAYDES def. SHAMIL ABDURAKHIMOV via KO/TKO(R2)
+- OTTMAN AZAITAR def. TEEMU PACKALEN via KO/TKO(R1)
+- DON MADGE def. FARES ZIAM via Decision - Unanimous(R3)
+- OMARI AKHMEDOV def. ZAK CUMMINGS via Decision - Unanimous(R3)
+- SARAH MORAS def. LIANA JOJUA via KO/TKO(R3)
+- JOANNE WOOD def. ANDREA LEE via Decision - Split(R3)
+- KHABIB NURMAGOMEDOV def. DUSTIN POIRIER via Submission(R3)
+- PAUL FELDER def. EDSON BARBOZA via Decision - Split(R3)

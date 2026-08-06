@@ -1,0 +1,13 @@
+Event: UFC 52: Couture vs Liddell 2
+    Date: April 16, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: IVAN SALAVERRY defeated JOE RIGGS via Submission  
+  at 2:42 of round 1
+  Key stats:
+  - IVAN SALAVERRY landed 2 significant strikes
+  - JOE RIGGS landed 6 significant strikes
+  - Knockdowns: IVAN SALAVERRY 0,  JOE RIGGS 0
+  - Takedowns: IVAN SALAVERRY 0,  JOE RIGGS 1

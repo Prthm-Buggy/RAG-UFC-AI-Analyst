@@ -1,0 +1,14 @@
+Event: UFC 140: Jones vs Machida
+    Date: December 10, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated LYOTO MACHIDA via Submission  
+  at 4:26 of round 2
+  Key stats:
+  - JON JONES landed 24 significant strikes
+  - LYOTO MACHIDA landed 13 significant strikes
+  - Knockdowns: JON JONES 1,  LYOTO MACHIDA 0
+  - Takedowns: JON JONES 1,  LYOTO MACHIDA 0
+  Bonus: belt

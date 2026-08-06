@@ -1,0 +1,13 @@
+Event: UFC 72: Victory
+    Date: June 16, 2007
+    Location: Belfast, Northern Ireland, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: DUSTIN HAZELETT defeated STEVIE LYNCH via Submission  
+  at 2:50 of round 1
+  Key stats:
+  - DUSTIN HAZELETT landed 20 significant strikes
+  - STEVIE LYNCH landed 7 significant strikes
+  - Knockdowns: DUSTIN HAZELETT 0,  STEVIE LYNCH 0
+  - Takedowns: DUSTIN HAZELETT 0,  STEVIE LYNCH 0

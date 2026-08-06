@@ -1,0 +1,11 @@
+Fighter: DONGI YANG
+  Date of Birth: 1984-12-07
+  Career record: 5
+  First fight: 2010-10-23
+  Last fight: 2015-11-28
+
+Career Statistics:
+- Significant Strikes Landed :219
+- Total takedowns landed :7
+- Knockdowns :2
+- Submission Attempts :2

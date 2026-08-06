@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Teixeira vs Saint Preux
+    Date : August 08, 2015
+    Location: Nashville, Tennessee, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Heavyweight, Light Heavyweight, Flyweight, Lightweight, Middleweight, Women's Bantamweight
+
+    Fight Results:
+  - BENEIL DARIUSH def. MICHAEL JOHNSON via Decision - Split(R3)
+- AMANDA NUNES def. SARA MCMANN via Submission(R1)
+- GLOVER TEIXEIRA def. OVINCE SAINT PREUX via Submission(R3)
+- SCOTT HOLTZMAN def. ANTHONY CHRISTODOULOU via Submission(R3)
+- URIAH HALL def. OLUWALE BAMGBOSE via KO/TKO(R1)
+- JONATHAN WILSON def. CHRIS DEMPSEY via KO/TKO(R1)
+- JARED ROSHOLT def. TIMOTHY JOHNSON via Decision - Unanimous(R3)
+- DEREK BRUNSON def. SAM ALVEY via KO/TKO(R1)
+- CHRIS CAMOZZI def. TOM WATSON via Decision - Unanimous(R3)
+- MARLON VERA def. ROMAN SALAZAR via Submission(R2)
+- DUSTIN ORTIZ def. WILLIE GATES via KO/TKO(R3)
+- FRANKIE SAENZ def. SIRWAN KAKAI via Decision - Split(R3)
+- RAY BORG def. GEANE HERRERA via Decision - Unanimous(R3)

@@ -1,0 +1,14 @@
+Event: UFC 279: Diaz vs. Ferguson
+    Date: September 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: JAILTON ALMEIDA defeated ANTON TURKALJ via Submission  
+  at 4:27 of round 1
+  Key stats:
+  - JAILTON ALMEIDA landed 17 significant strikes
+  - ANTON TURKALJ landed 1 significant strikes
+  - Knockdowns: JAILTON ALMEIDA 0,  ANTON TURKALJ 0
+  - Takedowns: JAILTON ALMEIDA 3,  ANTON TURKALJ 0
+  Bonus: perf

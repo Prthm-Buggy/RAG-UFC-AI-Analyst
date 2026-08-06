@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Song vs. Simon
+    Date : April 29, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Heavyweight, Middleweight, Welterweight, Featherweight, Flyweight, Women's Bantamweight, Catch Weight
+
+    Fight Results:
+  - MARCOS ROGERIO DE LIMA def. WALDO CORTES ACOSTA via Decision - Unanimous(R3)
+- TREY WATERS def. JOSH QUINLAN via Decision - Unanimous(R3)
+- JAMEY-LYN HORTH def. HAILEY COWAN via Decision - Unanimous(R3)
+- CAIO BORRALHO def. MICHAL OLEKSIEJCZUK via Submission(R2)
+- MARCUS MCGHEE def. JOURNEY NEWSON via Submission(R2)
+- MARTIN BUDAY def. JAKE COLLIER via Decision - Unanimous(R3)
+- SONG YADONG def. RICKY SIMON via KO/TKO(R5)
+- IRINA ALEKSEEVA def. STEPHANIE EGGER via Submission(R1)
+- CODY DURDEN def. CHARLES JOHNSON via Decision - Unanimous(R3)
+- RODOLFO VIEIRA def. CODY BRUNDAGE via Submission(R2)
+- FERNANDO PADILLA def. JULIAN EROSA via KO/TKO(R1)

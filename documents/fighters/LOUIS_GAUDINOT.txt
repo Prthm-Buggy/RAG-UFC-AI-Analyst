@@ -1,0 +1,11 @@
+Fighter: LOUIS GAUDINOT
+  Date of Birth: 1984-08-28
+  Career record: 4
+  First fight: 2011-12-03
+  Last fight: 2015-01-03
+
+Career Statistics:
+- Significant Strikes Landed :122
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :3

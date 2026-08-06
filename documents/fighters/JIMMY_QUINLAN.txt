@@ -1,0 +1,11 @@
+Fighter: JIMMY QUINLAN
+  Date of Birth: 1986-05-25
+  Career record: 1
+  First fight: 2013-04-13
+  Last fight: 2013-04-13
+
+Career Statistics:
+- Significant Strikes Landed :7
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

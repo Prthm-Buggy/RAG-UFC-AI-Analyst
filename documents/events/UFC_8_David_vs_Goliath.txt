@@ -1,0 +1,15 @@
+Event : UFC 8: David vs Goliath
+    Date : February 16, 1996
+    Location: San Juan, Puerto Rico
+    Number of Fights: 8
+    Weight Classes: Open Weight
+
+    Fight Results:
+  - DON FRYE def. GARY GOODRIDGE via KO/TKO(R1)
+- PAUL VARELANS def. JOE MOREIRA via Decision - Unanimous(R1)
+- DON FRYE def. SAM ADKINS via TKO - Doctor's Stoppage(R1)
+- GARY GOODRIDGE def. PAUL HERRERA via KO/TKO(R1)
+- DON FRYE def. THOMAS RAMIREZ via KO/TKO(R1)
+- GARY GOODRIDGE def. JERRY BOHLANDER via KO/TKO(R1)
+- JERRY BOHLANDER def. SCOTT FERROZZO via Submission(R1)
+- KEN SHAMROCK def. KIMO LEOPOLDO via Submission(R1)

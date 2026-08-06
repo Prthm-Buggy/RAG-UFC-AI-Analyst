@@ -1,0 +1,14 @@
+Event: UFC 247: Jones vs. Reyes
+    Date: February 08, 2020
+    Location: Houston, Texas, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: VALENTINA SHEVCHENKO defeated KATLYN CERMINARA via KO/TKO  
+  at 1:03 of round 3
+  Key stats:
+  - VALENTINA SHEVCHENKO landed 40 significant strikes
+  - KATLYN CERMINARA landed 17 significant strikes
+  - Knockdowns: VALENTINA SHEVCHENKO 0,  KATLYN CERMINARA 0
+  - Takedowns: VALENTINA SHEVCHENKO 3,  KATLYN CERMINARA 0
+  Bonus: belt

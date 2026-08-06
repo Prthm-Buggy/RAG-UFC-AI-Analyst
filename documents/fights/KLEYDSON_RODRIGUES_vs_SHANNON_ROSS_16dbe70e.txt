@@ -1,0 +1,13 @@
+Event: UFC 284: Makhachev vs. Volkanovski
+    Date: February 11, 2023
+    Location: Perth, Western Australia, Australia
+    Weight Class: Flyweight
+    
+
+    Result: KLEYDSON RODRIGUES defeated SHANNON ROSS via KO/TKO  
+  at 0:59 of round 1
+  Key stats:
+  - KLEYDSON RODRIGUES landed 14 significant strikes
+  - SHANNON ROSS landed 1 significant strikes
+  - Knockdowns: KLEYDSON RODRIGUES 1,  SHANNON ROSS 0
+  - Takedowns: KLEYDSON RODRIGUES 0,  SHANNON ROSS 0

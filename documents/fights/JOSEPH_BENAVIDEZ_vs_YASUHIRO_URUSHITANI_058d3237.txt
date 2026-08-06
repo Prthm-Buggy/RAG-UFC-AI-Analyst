@@ -1,0 +1,14 @@
+Event: UFC on FX: Alves vs Kampmann
+    Date: March 02, 2012
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Flyweight
+    
+
+    Result: JOSEPH BENAVIDEZ defeated YASUHIRO URUSHITANI via KO/TKO  
+  at 0:11 of round 2
+  Key stats:
+  - JOSEPH BENAVIDEZ landed 18 significant strikes
+  - YASUHIRO URUSHITANI landed 8 significant strikes
+  - Knockdowns: JOSEPH BENAVIDEZ 1,  YASUHIRO URUSHITANI 0
+  - Takedowns: JOSEPH BENAVIDEZ 1,  YASUHIRO URUSHITANI 0
+  Bonus: ko

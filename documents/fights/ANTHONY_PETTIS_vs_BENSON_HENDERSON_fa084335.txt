@@ -1,0 +1,14 @@
+Event: UFC 164: Henderson vs Pettis 2
+    Date: August 31, 2013
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Lightweight
+    
+
+    Result: ANTHONY PETTIS defeated BENSON HENDERSON via Submission  
+  at 4:41 of round 1
+  Key stats:
+  - ANTHONY PETTIS landed 9 significant strikes
+  - BENSON HENDERSON landed 11 significant strikes
+  - Knockdowns: ANTHONY PETTIS 0,  BENSON HENDERSON 0
+  - Takedowns: ANTHONY PETTIS 0,  BENSON HENDERSON 0
+  Bonus: belt

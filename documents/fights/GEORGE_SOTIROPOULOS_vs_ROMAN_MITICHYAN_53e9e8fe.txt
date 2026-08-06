@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Lauzon
+    Date: April 02, 2008
+    Location: Broomfield, Colorado, USA
+    Weight Class: Welterweight
+    
+
+    Result: GEORGE SOTIROPOULOS defeated ROMAN MITICHYAN via KO/TKO  
+  at 2:24 of round 2
+  Key stats:
+  - GEORGE SOTIROPOULOS landed 21 significant strikes
+  - ROMAN MITICHYAN landed 2 significant strikes
+  - Knockdowns: GEORGE SOTIROPOULOS 0,  ROMAN MITICHYAN 0
+  - Takedowns: GEORGE SOTIROPOULOS 3,  ROMAN MITICHYAN 0

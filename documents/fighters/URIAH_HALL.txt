@@ -1,0 +1,11 @@
+Fighter: URIAH HALL
+  Date of Birth: 1984-07-31
+  Career record: 19
+  First fight: 2013-04-13
+  Last fight: 2022-07-02
+
+Career Statistics:
+- Significant Strikes Landed :634
+- Total takedowns landed :7
+- Knockdowns :8
+- Submission Attempts :2

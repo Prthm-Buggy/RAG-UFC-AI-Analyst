@@ -1,0 +1,13 @@
+Event: UFC 140: Jones vs Machida
+    Date: December 10, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Middleweight
+    
+
+    Result: CONSTANTINOS PHILIPPOU defeated JARED HAMMAN via KO/TKO  
+  at 3:11 of round 1
+  Key stats:
+  - CONSTANTINOS PHILIPPOU landed 21 significant strikes
+  - JARED HAMMAN landed 9 significant strikes
+  - Knockdowns: CONSTANTINOS PHILIPPOU 3,  JARED HAMMAN 0
+  - Takedowns: CONSTANTINOS PHILIPPOU 1,  JARED HAMMAN 0

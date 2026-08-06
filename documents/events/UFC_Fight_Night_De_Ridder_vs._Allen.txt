@@ -1,0 +1,20 @@
+Event : UFC Fight Night: De Ridder vs. Allen
+    Date : October 18, 2025
+    Location: Vancouver, British Columbia, Canada
+    Number of Fights: 13
+    Weight Classes: Women's Flyweight, Bantamweight, Welterweight, Middleweight, Women's Bantamweight, Lightweight, Women's Strawweight, Flyweight
+
+    Fight Results:
+  - YOUSRI BELGAROUI def. AZAMAT BEKOEV via KO/TKO(R3)
+- MELISSA CRODEN def. TAINARA LISBOA via KO/TKO(R3)
+- BRUNO SILVA def. HYUNSUNG PARK via Submission(R3)
+- DJORDEN SANTOS def. DANNY BARLOW via Decision - Unanimous(R3)
+- BRENDAN ALLEN def. REINIER DE RIDDER via KO/TKO(R4)
+- DREW DOBER def. KYLE PREPOLEC via KO/TKO(R3)
+- MANON FIOROT def. JASMINE JASUDAVICIUS via KO/TKO(R1)
+- KYLE NELSON def. MATT FREVOLA via Decision - Unanimous(R3)
+- CHARLES JOURDAIN def. DAVEY GRANT via Submission(R1)
+- AORIQILENG def. CODY GIBSON via KO/TKO(R1)
+- MIKE MALOTT def. KEVIN HOLLAND via Decision - Unanimous(R3)
+- AIEMANN ZAHABI def. MARLON VERA via Decision - Split(R3)
+- STEPHANIE LUCIANO def. RAVENA OLIVEIRA via Submission(R3)

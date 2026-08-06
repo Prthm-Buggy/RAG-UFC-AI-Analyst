@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Silva vs Bisping
+    Date: February 27, 2016
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: TEEMU PACKALEN defeated THIBAULT GOUTI via Submission  
+  at 0:24 of round 1
+  Key stats:
+  - TEEMU PACKALEN landed 6 significant strikes
+  - THIBAULT GOUTI landed 0 significant strikes
+  - Knockdowns: TEEMU PACKALEN 1,  THIBAULT GOUTI 0
+  - Takedowns: TEEMU PACKALEN 0,  THIBAULT GOUTI 0
+  Bonus: perf

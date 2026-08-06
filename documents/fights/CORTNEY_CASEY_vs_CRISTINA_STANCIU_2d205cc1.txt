@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McDonald vs. Lineker
+    Date: July 13, 2016
+    Location: Sioux Falls, South Dakota, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: CORTNEY CASEY defeated CRISTINA STANCIU via KO/TKO  
+  at 2:36 of round 1
+  Key stats:
+  - CORTNEY CASEY landed 19 significant strikes
+  - CRISTINA STANCIU landed 5 significant strikes
+  - Knockdowns: CORTNEY CASEY 0,  CRISTINA STANCIU 0
+  - Takedowns: CORTNEY CASEY 2,  CRISTINA STANCIU 0

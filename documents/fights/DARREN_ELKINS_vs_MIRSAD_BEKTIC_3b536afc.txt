@@ -1,0 +1,14 @@
+Event: UFC 209: Woodley vs. Thompson 2
+    Date: March 04, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DARREN ELKINS defeated MIRSAD BEKTIC via KO/TKO  
+  at 3:19 of round 3
+  Key stats:
+  - DARREN ELKINS landed 28 significant strikes
+  - MIRSAD BEKTIC landed 60 significant strikes
+  - Knockdowns: DARREN ELKINS 1,  MIRSAD BEKTIC 0
+  - Takedowns: DARREN ELKINS 0,  MIRSAD BEKTIC 4
+  Bonus: perf

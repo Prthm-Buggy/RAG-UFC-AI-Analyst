@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs Mousasi
+    Date: September 05, 2014
+    Location: Ledyard, Connecticut, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MATT MITRIONE defeated DERRICK LEWIS via KO/TKO  
+  at 0:41 of round 1
+  Key stats:
+  - MATT MITRIONE landed 7 significant strikes
+  - DERRICK LEWIS landed 1 significant strikes
+  - Knockdowns: MATT MITRIONE 0,  DERRICK LEWIS 0
+  - Takedowns: MATT MITRIONE 0,  DERRICK LEWIS 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Woodley vs. Burns
+    Date: May 30, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: BILLY QUARANTILLO defeated SPIKE CARLYLE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BILLY QUARANTILLO landed 49 significant strikes
+  - SPIKE CARLYLE landed 37 significant strikes
+  - Knockdowns: BILLY QUARANTILLO 0,  SPIKE CARLYLE 0
+  - Takedowns: BILLY QUARANTILLO 2,  SPIKE CARLYLE 3

@@ -1,0 +1,14 @@
+Event: UFC 182: Jones vs Cormier
+    Date: January 03, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated DANIEL CORMIER via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JON JONES landed 92 significant strikes
+  - DANIEL CORMIER landed 58 significant strikes
+  - Knockdowns: JON JONES 0,  DANIEL CORMIER 0
+  - Takedowns: JON JONES 3,  DANIEL CORMIER 1
+  Bonus: belt

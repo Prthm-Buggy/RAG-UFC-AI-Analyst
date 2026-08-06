@@ -1,0 +1,11 @@
+Fighter: COLBY COVINGTON
+  Date of Birth: 1988-02-22
+  Career record: 17
+  First fight: 2014-08-23
+  Last fight: 2024-12-14
+
+Career Statistics:
+- Significant Strikes Landed :1099
+- Total takedowns landed :70
+- Knockdowns :1
+- Submission Attempts :3

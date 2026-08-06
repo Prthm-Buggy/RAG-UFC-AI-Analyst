@@ -1,0 +1,14 @@
+Event: UFC 276: Adesanya vs. Cannonier
+    Date: July 02, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRYAN BARBERENA defeated ROBBIE LAWLER via KO/TKO  
+  at 4:47 of round 2
+  Key stats:
+  - BRYAN BARBERENA landed 147 significant strikes
+  - ROBBIE LAWLER landed 81 significant strikes
+  - Knockdowns: BRYAN BARBERENA 0,  ROBBIE LAWLER 0
+  - Takedowns: BRYAN BARBERENA 0,  ROBBIE LAWLER 0
+  Bonus: fight

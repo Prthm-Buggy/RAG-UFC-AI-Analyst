@@ -1,0 +1,16 @@
+Event : UFC 77: Hostile Territory
+    Date : October 20, 2007
+    Location: Cincinnati, Ohio, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Light Heavyweight, Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - DEMIAN MAIA def. RYAN JENSEN via Submission(R1)
+- ANDERSON SILVA def. RICH FRANKLIN via KO/TKO(R2)
+- ALAN BELCHER def. KALIB STARNES via TKO - Doctor's Stoppage(R2)
+- STEPHAN BONNAR def. ERIC SCHAFER via KO/TKO(R2)
+- YUSHIN OKAMI def. JASON MACDONALD via Decision - Unanimous(R3)
+- JOSHUA BURKMAN def. FORREST PETZ via Decision - Split(R3)
+- ALVIN ROBINSON def. JORGE GURGEL via Decision - Unanimous(R3)
+- TIM SYLVIA def. BRANDON VERA via Decision - Unanimous(R3)
+- MATT GRICE def. JASON BLACK via Decision - Split(R3)

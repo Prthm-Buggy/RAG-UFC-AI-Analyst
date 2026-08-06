@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Covington vs. Lawler
+    Date: August 03, 2019
+    Location: Newark, New Jersey, USA
+    Weight Class: Flyweight
+    
+
+    Result: MATT SCHNELL defeated JORDAN ESPINOSA via Submission  
+  at 1:23 of round 1
+  Key stats:
+  - MATT SCHNELL landed 3 significant strikes
+  - JORDAN ESPINOSA landed 5 significant strikes
+  - Knockdowns: MATT SCHNELL 0,  JORDAN ESPINOSA 0
+  - Takedowns: MATT SCHNELL 0,  JORDAN ESPINOSA 0
+  Bonus: perf

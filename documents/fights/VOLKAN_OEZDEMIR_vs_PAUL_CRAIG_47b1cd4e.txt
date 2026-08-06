@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Aspinall
+    Date: July 23, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: VOLKAN OEZDEMIR defeated PAUL CRAIG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - VOLKAN OEZDEMIR landed 72 significant strikes
+  - PAUL CRAIG landed 33 significant strikes
+  - Knockdowns: VOLKAN OEZDEMIR 0,  PAUL CRAIG 0
+  - Takedowns: VOLKAN OEZDEMIR 1,  PAUL CRAIG 0

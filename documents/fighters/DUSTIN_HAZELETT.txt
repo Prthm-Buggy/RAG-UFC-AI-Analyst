@@ -1,0 +1,11 @@
+Fighter: DUSTIN HAZELETT
+  Date of Birth: 1986-04-29
+  Career record: 10
+  First fight: 2006-10-10
+  Last fight: 2010-12-11
+
+Career Statistics:
+- Significant Strikes Landed :122
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :15

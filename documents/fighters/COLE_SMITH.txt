@@ -1,0 +1,11 @@
+Fighter: COLE SMITH
+  Date of Birth: 1989-04-05
+  Career record: 3
+  First fight: 2019-05-04
+  Last fight: 2020-09-05
+
+Career Statistics:
+- Significant Strikes Landed :80
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :5

@@ -1,0 +1,13 @@
+Event: UFC 34: High Voltage
+    Date: November 02, 2001
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JOSH BARNETT defeated BOBBY HOFFMAN via KO/TKO  
+  at 4:25 of round 2
+  Key stats:
+  - JOSH BARNETT landed 17 significant strikes
+  - BOBBY HOFFMAN landed 6 significant strikes
+  - Knockdowns: JOSH BARNETT 0,  BOBBY HOFFMAN 0
+  - Takedowns: JOSH BARNETT 2,  BOBBY HOFFMAN 1

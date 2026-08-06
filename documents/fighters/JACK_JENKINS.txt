@@ -1,0 +1,11 @@
+Fighter: JACK JENKINS
+  Date of Birth: 1993-11-03
+  Career record: 6
+  First fight: 2023-02-11
+  Last fight: 2025-09-27
+
+Career Statistics:
+- Significant Strikes Landed :354
+- Total takedowns landed :8
+- Knockdowns :3
+- Submission Attempts :1

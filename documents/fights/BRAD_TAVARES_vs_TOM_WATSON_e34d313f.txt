@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Struve vs Miocic
+    Date: September 29, 2012
+    Location: Nottingham, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: BRAD TAVARES defeated TOM WATSON via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - BRAD TAVARES landed 83 significant strikes
+  - TOM WATSON landed 65 significant strikes
+  - Knockdowns: BRAD TAVARES 0,  TOM WATSON 0
+  - Takedowns: BRAD TAVARES 5,  TOM WATSON 0

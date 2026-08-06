@@ -1,0 +1,13 @@
+Event: UFC 253: Adesanya vs. Costa
+    Date: September 26, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Featherweight
+    
+
+    Result: LUDOVIT KLEIN defeated SHANE YOUNG via KO/TKO  
+  at 1:16 of round 1
+  Key stats:
+  - LUDOVIT KLEIN landed 9 significant strikes
+  - SHANE YOUNG landed 4 significant strikes
+  - Knockdowns: LUDOVIT KLEIN 1,  SHANE YOUNG 0
+  - Takedowns: LUDOVIT KLEIN 0,  SHANE YOUNG 0

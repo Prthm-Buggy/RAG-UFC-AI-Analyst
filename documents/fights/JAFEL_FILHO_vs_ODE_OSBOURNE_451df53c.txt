@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tuivasa vs. Tybura
+    Date: March 16, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JAFEL FILHO defeated ODE OSBOURNE via Submission  
+  at 4:27 of round 1
+  Key stats:
+  - JAFEL FILHO landed 21 significant strikes
+  - ODE OSBOURNE landed 0 significant strikes
+  - Knockdowns: JAFEL FILHO 0,  ODE OSBOURNE 0
+  - Takedowns: JAFEL FILHO 1,  ODE OSBOURNE 0
+  Bonus: perf

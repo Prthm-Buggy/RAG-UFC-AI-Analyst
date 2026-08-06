@@ -1,0 +1,19 @@
+Event : UFC 173: Barao vs Dillashaw
+    Date : May 24, 2014
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Featherweight, Light Heavyweight, Welterweight, Bantamweight
+
+    Fight Results:
+  - MICHAEL CHIESA def. FRANCISCO TRINALDO via Decision - Unanimous(R3)
+- TONY FERGUSON def. KATSUNORI KIKUNO via KO/TKO(R1)
+- LI JINGLIANG def. DAVID MICHAUD via Decision - Split(R3)
+- DANIEL CORMIER def. DAN HENDERSON via Submission(R3)
+- JAMES KRAUSE def. JAMIE VARNER via KO/TKO(R1)
+- TJ DILLASHAW def. RENAN BARAO via KO/TKO(R5)
+- ROBBIE LAWLER def. JAKE ELLENBERGER via KO/TKO(R3)
+- VINC PICHEL def. ANTHONY NJOKUANI via Decision - Unanimous(R3)
+- SAM SICILIA def. AARON PHILLIPS via Decision - Unanimous(R3)
+- CHRIS HOLDSWORTH def. CHICO CAMUS via Decision - Unanimous(R3)
+- TAKEYA MIZUGAKI def. FRANCISCO RIVERA via Decision - Unanimous(R3)
+- MITCH CLARKE def. AL IAQUINTA via Submission(R2)

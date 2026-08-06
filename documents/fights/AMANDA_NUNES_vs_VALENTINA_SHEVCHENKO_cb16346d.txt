@@ -1,0 +1,14 @@
+Event: UFC 215: Nunes vs Shevchenko 2
+    Date: September 09, 2017
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AMANDA NUNES defeated VALENTINA SHEVCHENKO via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - AMANDA NUNES landed 86 significant strikes
+  - VALENTINA SHEVCHENKO landed 72 significant strikes
+  - Knockdowns: AMANDA NUNES 0,  VALENTINA SHEVCHENKO 0
+  - Takedowns: AMANDA NUNES 2,  VALENTINA SHEVCHENKO 0
+  Bonus: belt

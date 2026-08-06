@@ -1,0 +1,11 @@
+Fighter: CAMERON SMOTHERMAN
+  Date of Birth: 1997-09-17
+  Career record: 4
+  First fight: 2024-10-19
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :186
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

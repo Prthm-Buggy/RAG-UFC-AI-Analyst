@@ -1,0 +1,11 @@
+Fighter: CORTAVIOUS ROMIOUS
+  Date of Birth: 1994-01-06
+  Career record: 2
+  First fight: 2024-11-09
+  Last fight: 2025-04-05
+
+Career Statistics:
+- Significant Strikes Landed :28
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :0

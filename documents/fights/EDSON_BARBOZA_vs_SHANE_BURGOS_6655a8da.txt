@@ -1,0 +1,14 @@
+Event: UFC 262: Oliveira vs. Chandler
+    Date: May 15, 2021
+    Location: Houston, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: EDSON BARBOZA defeated SHANE BURGOS via KO/TKO  
+  at 1:16 of round 3
+  Key stats:
+  - EDSON BARBOZA landed 98 significant strikes
+  - SHANE BURGOS landed 80 significant strikes
+  - Knockdowns: EDSON BARBOZA 1,  SHANE BURGOS 0
+  - Takedowns: EDSON BARBOZA 0,  SHANE BURGOS 0
+  Bonus: fight

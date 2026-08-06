@@ -1,0 +1,13 @@
+Event: UFC 154: St-Pierre vs Condit
+    Date: November 17, 2012
+    Location: Montreal, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: PATRICK COTE defeated ALESSIO SAKARA via DQ  
+  at 1:26 of round 1
+  Key stats:
+  - PATRICK COTE landed 14 significant strikes
+  - ALESSIO SAKARA landed 24 significant strikes
+  - Knockdowns: PATRICK COTE 0,  ALESSIO SAKARA 1
+  - Takedowns: PATRICK COTE 0,  ALESSIO SAKARA 0

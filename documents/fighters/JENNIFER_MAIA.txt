@@ -1,0 +1,11 @@
+Fighter: JENNIFER MAIA
+  Date of Birth: 1988-10-06
+  Career record: 12
+  First fight: 2018-07-14
+  Last fight: 2023-10-14
+
+Career Statistics:
+- Significant Strikes Landed :781
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :1

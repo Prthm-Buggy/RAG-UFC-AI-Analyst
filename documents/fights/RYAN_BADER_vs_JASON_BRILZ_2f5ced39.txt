@@ -1,0 +1,13 @@
+Event: UFC 139: Shogun vs Henderson
+    Date: November 19, 2011
+    Location: San Jose, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RYAN BADER defeated JASON BRILZ via KO/TKO  
+  at 1:17 of round 1
+  Key stats:
+  - RYAN BADER landed 6 significant strikes
+  - JASON BRILZ landed 1 significant strikes
+  - Knockdowns: RYAN BADER 1,  JASON BRILZ 0
+  - Takedowns: RYAN BADER 0,  JASON BRILZ 0

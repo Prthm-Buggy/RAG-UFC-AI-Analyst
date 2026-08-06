@@ -1,0 +1,20 @@
+Event : UFC 190: Rousey vs Correia
+    Date : August 01, 2015
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Number of Fights: 13
+    Weight Classes: Welterweight, Light Heavyweight, Lightweight, Women's Bantamweight, Middleweight, Women's Strawweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - ANTONIO SILVA def. SOA PALELEI via KO/TKO(R2)
+- IURI ALCANTARA def. LEANDRO ISSA via Decision - Unanimous(R3)
+- DEMIAN MAIA def. NEIL MAGNY via Submission(R2)
+- PATRICK CUMMINS def. RAFAEL CAVALCANTE via KO/TKO(R3)
+- VITOR MIRANDA def. CLINT HESTER via KO/TKO(R2)
+- GUIDO CANNETTI def. HUGO VIANA via Decision - Unanimous(R3)
+- CLAUDIA GADELHA def. JESSICA AGUILAR via Decision - Unanimous(R3)
+- STEFAN STRUVE def. ANTONIO RODRIGO NOGUEIRA via Decision - Unanimous(R3)
+- MAURICIO RUA def. ROGERIO NOGUEIRA via Decision - Unanimous(R3)
+- WARLLEY ALVES def. NORDINE TALEB via Submission(R2)
+- RONDA ROUSEY def. BETHE CORREIA via KO/TKO(R1)
+- REGINALDO VIEIRA def. DILENO LOPES via Decision - Unanimous(R3)
+- GLAICO FRANCA MOREIRA def. FERNANDO BRUNO via Submission(R3)

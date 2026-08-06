@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ankalaev vs. Walker 2
+    Date: January 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JEAN SILVA defeated WESTIN WILSON via KO/TKO  
+  at 4:12 of round 1
+  Key stats:
+  - JEAN SILVA landed 25 significant strikes
+  - WESTIN WILSON landed 11 significant strikes
+  - Knockdowns: JEAN SILVA 1,  WESTIN WILSON 0
+  - Takedowns: JEAN SILVA 1,  WESTIN WILSON 0

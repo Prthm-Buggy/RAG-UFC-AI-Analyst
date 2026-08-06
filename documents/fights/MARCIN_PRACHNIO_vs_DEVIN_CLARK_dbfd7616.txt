@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Pyfer
+    Date: February 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MARCIN PRACHNIO defeated DEVIN CLARK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARCIN PRACHNIO landed 101 significant strikes
+  - DEVIN CLARK landed 53 significant strikes
+  - Knockdowns: MARCIN PRACHNIO 0,  DEVIN CLARK 0
+  - Takedowns: MARCIN PRACHNIO 1,  DEVIN CLARK 0

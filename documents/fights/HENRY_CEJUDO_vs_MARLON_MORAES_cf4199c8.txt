@@ -1,0 +1,14 @@
+Event: UFC 238: Cejudo vs. Moraes
+    Date: June 08, 2019
+    Location: Chicago, Illinois, USA
+    Weight Class: Bantamweight
+    
+
+    Result: HENRY CEJUDO defeated MARLON MORAES via KO/TKO  
+  at 4:51 of round 3
+  Key stats:
+  - HENRY CEJUDO landed 90 significant strikes
+  - MARLON MORAES landed 57 significant strikes
+  - Knockdowns: HENRY CEJUDO 0,  MARLON MORAES 0
+  - Takedowns: HENRY CEJUDO 1,  MARLON MORAES 0
+  Bonus: belt

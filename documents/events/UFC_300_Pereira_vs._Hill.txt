@@ -1,0 +1,20 @@
+Event : UFC 300: Pereira vs. Hill
+    Date : April 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Lightweight, Light Heavyweight, Women's Strawweight, Middleweight, Women's Bantamweight, Featherweight, Bantamweight
+
+    Fight Results:
+  - KAYLA HARRISON def. HOLLY HOLM via Submission(R2)
+- DIEGO LOPES def. SODIQ YUSUFF via KO/TKO(R1)
+- ALEX PEREIRA def. JAMAHAL HILL via KO/TKO(R1)
+- ZHANG WEILI def. YAN XIAONAN via Decision - Unanimous(R5)
+- JIRI PROCHAZKA def. ALEKSANDAR RAKIC via KO/TKO(R2)
+- DEIVESON FIGUEIREDO def. CODY GARBRANDT via Submission(R2)
+- MAX HOLLOWAY def. JUSTIN GAETHJE via KO/TKO(R5)
+- RENATO MOICANO def. JALIN TURNER via KO/TKO(R2)
+- BO NICKAL def. CODY BRUNDAGE via Submission(R2)
+- JESSICA ANDRADE def. MARINA RODRIGUEZ via Decision - Split(R3)
+- ALJAMAIN STERLING def. CALVIN KATTAR via Decision - Unanimous(R3)
+- ARMAN TSARUKYAN def. CHARLES OLIVEIRA via Decision - Split(R3)
+- KING GREEN def. JIM MILLER via Decision - Unanimous(R3)

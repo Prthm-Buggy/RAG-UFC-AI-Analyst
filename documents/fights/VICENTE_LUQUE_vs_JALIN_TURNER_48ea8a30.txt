@@ -1,0 +1,13 @@
+Event: UFC 229: Khabib vs. McGregor
+    Date: October 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated JALIN TURNER via KO/TKO  
+  at 3:52 of round 1
+  Key stats:
+  - VICENTE LUQUE landed 41 significant strikes
+  - JALIN TURNER landed 31 significant strikes
+  - Knockdowns: VICENTE LUQUE 1,  JALIN TURNER 0
+  - Takedowns: VICENTE LUQUE 0,  JALIN TURNER 0

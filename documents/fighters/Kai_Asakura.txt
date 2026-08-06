@@ -1,0 +1,11 @@
+Fighter: Kai Asakura
+  Date of Birth: 1993-10-31
+  Career record: 3
+  First fight: 2024-12-07
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :47
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

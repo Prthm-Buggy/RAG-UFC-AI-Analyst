@@ -1,0 +1,14 @@
+Event: UFC 308: Topuria vs. Holloway
+    Date: October 26, 2024
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: KHAMZAT CHIMAEV defeated ROBERT WHITTAKER via Submission  
+  at 3:34 of round 1
+  Key stats:
+  - KHAMZAT CHIMAEV landed 3 significant strikes
+  - ROBERT WHITTAKER landed 2 significant strikes
+  - Knockdowns: KHAMZAT CHIMAEV 0,  ROBERT WHITTAKER 0
+  - Takedowns: KHAMZAT CHIMAEV 2,  ROBERT WHITTAKER 0
+  Bonus: perf

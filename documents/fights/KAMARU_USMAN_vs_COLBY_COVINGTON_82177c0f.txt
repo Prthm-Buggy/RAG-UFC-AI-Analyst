@@ -1,0 +1,14 @@
+Event: UFC 245: Usman vs. Covington
+    Date: December 14, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: KAMARU USMAN defeated COLBY COVINGTON via KO/TKO  
+  at 4:10 of round 5
+  Key stats:
+  - KAMARU USMAN landed 175 significant strikes
+  - COLBY COVINGTON landed 143 significant strikes
+  - Knockdowns: KAMARU USMAN 2,  COLBY COVINGTON 0
+  - Takedowns: KAMARU USMAN 0,  COLBY COVINGTON 0
+  Bonus: belt

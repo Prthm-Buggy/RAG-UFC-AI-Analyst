@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ribas vs. Namajunas
+    Date: March 23, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: YOUSSEF ZALAL defeated BILLY QUARANTILLO via Submission  
+  at 1:50 of round 2
+  Key stats:
+  - YOUSSEF ZALAL landed 33 significant strikes
+  - BILLY QUARANTILLO landed 10 significant strikes
+  - Knockdowns: YOUSSEF ZALAL 0,  BILLY QUARANTILLO 0
+  - Takedowns: YOUSSEF ZALAL 2,  BILLY QUARANTILLO 0

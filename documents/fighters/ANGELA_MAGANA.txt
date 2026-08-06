@@ -1,0 +1,11 @@
+Fighter: ANGELA MAGANA
+  Date of Birth: 1983-08-02
+  Career record: 3
+  First fight: 2014-12-12
+  Last fight: 2017-12-02
+
+Career Statistics:
+- Significant Strikes Landed :57
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

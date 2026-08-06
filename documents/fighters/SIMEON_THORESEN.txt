@@ -1,0 +1,11 @@
+Fighter: SIMEON THORESEN
+  Date of Birth: 1984-03-14
+  Career record: 3
+  First fight: 2012-04-14
+  Last fight: 2013-01-26
+
+Career Statistics:
+- Significant Strikes Landed :103
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :3

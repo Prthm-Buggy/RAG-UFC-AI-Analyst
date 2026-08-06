@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Abdurakhimov
+    Date: December 09, 2016
+    Location: Albany, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: RANDY BROWN defeated BRIAN CAMOZZI via KO/TKO  
+  at 1:25 of round 2
+  Key stats:
+  - RANDY BROWN landed 42 significant strikes
+  - BRIAN CAMOZZI landed 11 significant strikes
+  - Knockdowns: RANDY BROWN 1,  BRIAN CAMOZZI 0
+  - Takedowns: RANDY BROWN 1,  BRIAN CAMOZZI 0

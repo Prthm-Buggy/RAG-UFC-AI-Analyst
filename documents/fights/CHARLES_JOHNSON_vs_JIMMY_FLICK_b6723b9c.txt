@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Strickland vs. Imavov
+    Date: January 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: CHARLES JOHNSON defeated JIMMY FLICK via KO/TKO  
+  at 4:33 of round 1
+  Key stats:
+  - CHARLES JOHNSON landed 34 significant strikes
+  - JIMMY FLICK landed 7 significant strikes
+  - Knockdowns: CHARLES JOHNSON 0,  JIMMY FLICK 0
+  - Takedowns: CHARLES JOHNSON 0,  JIMMY FLICK 1

@@ -1,0 +1,14 @@
+Event: UFC on FOX: Teixeira vs Evans
+    Date: April 16, 2016
+    Location: Tampa, Florida, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: GLOVER TEIXEIRA defeated RASHAD EVANS via KO/TKO  
+  at 1:48 of round 1
+  Key stats:
+  - GLOVER TEIXEIRA landed 6 significant strikes
+  - RASHAD EVANS landed 7 significant strikes
+  - Knockdowns: GLOVER TEIXEIRA 1,  RASHAD EVANS 0
+  - Takedowns: GLOVER TEIXEIRA 0,  RASHAD EVANS 0
+  Bonus: perf

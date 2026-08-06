@@ -1,0 +1,14 @@
+Event: UFC 264: Poirier vs. McGregor 3
+    Date: July 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DRICUS DU PLESSIS defeated TREVIN GILES via KO/TKO  
+  at 1:41 of round 2
+  Key stats:
+  - DRICUS DU PLESSIS landed 25 significant strikes
+  - TREVIN GILES landed 10 significant strikes
+  - Knockdowns: DRICUS DU PLESSIS 1,  TREVIN GILES 0
+  - Takedowns: DRICUS DU PLESSIS 2,  TREVIN GILES 0
+  Bonus: perf

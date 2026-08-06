@@ -1,0 +1,11 @@
+Fighter: GABRIEL SANTOS
+  Date of Birth: 1996-11-28
+  Career record: 4
+  First fight: 2023-03-18
+  Last fight: 2025-02-08
+
+Career Statistics:
+- Significant Strikes Landed :223
+- Total takedowns landed :13
+- Knockdowns :1
+- Submission Attempts :4

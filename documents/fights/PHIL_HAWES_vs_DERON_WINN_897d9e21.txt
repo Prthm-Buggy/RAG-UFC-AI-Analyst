@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Emmett
+    Date: June 18, 2022
+    Location: Austin, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: PHIL HAWES defeated DERON WINN via KO/TKO  
+  at 4:25 of round 2
+  Key stats:
+  - PHIL HAWES landed 118 significant strikes
+  - DERON WINN landed 32 significant strikes
+  - Knockdowns: PHIL HAWES 1,  DERON WINN 0
+  - Takedowns: PHIL HAWES 1,  DERON WINN 0
+  Bonus: perf

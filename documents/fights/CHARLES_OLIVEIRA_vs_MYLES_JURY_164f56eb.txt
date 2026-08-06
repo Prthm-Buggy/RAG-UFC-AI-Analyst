@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dos Anjos vs. Cowboy 2
+    Date: December 19, 2015
+    Location: Orlando, Florida, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHARLES OLIVEIRA defeated MYLES JURY via Submission  
+  at 3:05 of round 1
+  Key stats:
+  - CHARLES OLIVEIRA landed 5 significant strikes
+  - MYLES JURY landed 5 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  MYLES JURY 0
+  - Takedowns: CHARLES OLIVEIRA 1,  MYLES JURY 0

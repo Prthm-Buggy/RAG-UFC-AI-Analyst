@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Song vs. Simon
+    Date: April 29, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CAIO BORRALHO defeated MICHAL OLEKSIEJCZUK via Submission  
+  at 2:49 of round 2
+  Key stats:
+  - CAIO BORRALHO landed 34 significant strikes
+  - MICHAL OLEKSIEJCZUK landed 30 significant strikes
+  - Knockdowns: CAIO BORRALHO 0,  MICHAL OLEKSIEJCZUK 0
+  - Takedowns: CAIO BORRALHO 3,  MICHAL OLEKSIEJCZUK 0
+  Bonus: perf

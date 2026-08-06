@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Andrade vs. Blanchfield
+    Date: February 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ZAC PAUGA defeated JORDAN WRIGHT via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ZAC PAUGA landed 59 significant strikes
+  - JORDAN WRIGHT landed 29 significant strikes
+  - Knockdowns: ZAC PAUGA 0,  JORDAN WRIGHT 0
+  - Takedowns: ZAC PAUGA 0,  JORDAN WRIGHT 0

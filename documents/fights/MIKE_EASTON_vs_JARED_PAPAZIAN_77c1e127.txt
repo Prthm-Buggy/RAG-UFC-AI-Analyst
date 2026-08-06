@@ -1,0 +1,13 @@
+Event: UFC on FX: Guillard vs Miller
+    Date: January 20, 2012
+    Location: Nashville, Tennessee, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MIKE EASTON defeated JARED PAPAZIAN via Decision - Majority  
+  at 5:00 of round 3
+  Key stats:
+  - MIKE EASTON landed 85 significant strikes
+  - JARED PAPAZIAN landed 68 significant strikes
+  - Knockdowns: MIKE EASTON 0,  JARED PAPAZIAN 0
+  - Takedowns: MIKE EASTON 1,  JARED PAPAZIAN 0

@@ -1,0 +1,13 @@
+Event: UFC 241: Cormier vs. Miocic 2
+    Date: August 17, 2019
+    Location: Anaheim, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: DRAKKAR KLOSE defeated CHRISTOS GIAGOS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DRAKKAR KLOSE landed 99 significant strikes
+  - CHRISTOS GIAGOS landed 87 significant strikes
+  - Knockdowns: DRAKKAR KLOSE 0,  CHRISTOS GIAGOS 0
+  - Takedowns: DRAKKAR KLOSE 2,  CHRISTOS GIAGOS 2

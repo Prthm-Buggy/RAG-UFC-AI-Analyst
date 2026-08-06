@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Saffiedine vs Lim
+    Date : January 04, 2014
+    Location: Singapore, Singapore
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Welterweight, Featherweight, Lightweight
+
+    Fight Results:
+  - MAIRBEK TAISUMOV def. TAE HYUN BANG via Decision - Unanimous(R3)
+- KIICHI KUNIMOTO def. LUIZ DUTRA via DQ(R1)
+- RUSSELL DOANE def. LEANDRO ISSA via Submission(R2)
+- TAREC SAFFIEDINE def. HYUN GYU LIM via Decision - Unanimous(R5)
+- TATSUYA KAWAJIRI def. SEAN SORIANO via Submission(R2)
+- KYUNG HO KANG def. SHUNICHI SHIMIZU via Submission(R3)
+- ROYSTON WEE def. DAVE GALERA via Decision - Unanimous(R3)
+- MAX HOLLOWAY def. WILL CHOPE via KO/TKO(R2)
+- KATSUNORI KIKUNO def. QUINN MULHERN via Decision - Unanimous(R3)
+- DUSTIN KIMURA def. JON DELOS REYES via Submission(R1)

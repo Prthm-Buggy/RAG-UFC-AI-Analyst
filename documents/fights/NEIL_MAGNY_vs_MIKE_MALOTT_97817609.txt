@@ -1,0 +1,13 @@
+Event: UFC 297: Strickland vs. Du Plessis
+    Date: January 20, 2024
+    Location: Toronto, Ontario, Canada
+    Weight Class: Welterweight
+    
+
+    Result: NEIL MAGNY defeated MIKE MALOTT via KO/TKO  
+  at 4:45 of round 3
+  Key stats:
+  - NEIL MAGNY landed 57 significant strikes
+  - MIKE MALOTT landed 45 significant strikes
+  - Knockdowns: NEIL MAGNY 0,  MIKE MALOTT 0
+  - Takedowns: NEIL MAGNY 1,  MIKE MALOTT 4

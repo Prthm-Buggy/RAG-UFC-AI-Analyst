@@ -1,0 +1,11 @@
+Fighter: MIKE PERRY
+  Date of Birth: 1991-09-15
+  Career record: 15
+  First fight: 2016-08-20
+  Last fight: 2021-04-10
+
+Career Statistics:
+- Significant Strikes Landed :722
+- Total takedowns landed :9
+- Knockdowns :8
+- Submission Attempts :2

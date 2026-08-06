@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edwards vs. Muhammad
+    Date: March 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RANI YAHYA defeated RAY RODRIGUEZ via Submission  
+  at 3:09 of round 2
+  Key stats:
+  - RANI YAHYA landed 8 significant strikes
+  - RAY RODRIGUEZ landed 3 significant strikes
+  - Knockdowns: RANI YAHYA 0,  RAY RODRIGUEZ 0
+  - Takedowns: RANI YAHYA 2,  RAY RODRIGUEZ 0

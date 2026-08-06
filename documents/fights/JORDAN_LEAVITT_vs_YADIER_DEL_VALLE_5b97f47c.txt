@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Strickland vs. Hernandez
+    Date: February 21, 2026
+    Location: Houston, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: JORDAN LEAVITT defeated YADIER DEL VALLE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JORDAN LEAVITT landed 17 significant strikes
+  - YADIER DEL VALLE landed 13 significant strikes
+  - Knockdowns: JORDAN LEAVITT 0,  YADIER DEL VALLE 0
+  - Takedowns: JORDAN LEAVITT 4,  YADIER DEL VALLE 0

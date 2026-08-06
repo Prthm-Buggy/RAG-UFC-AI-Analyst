@@ -1,0 +1,11 @@
+Fighter: NIKOLAY VERETENNIKOV
+  Date of Birth: 1989-12-22
+  Career record: 6
+  First fight: 2024-08-10
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :152
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :2

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Vieira
+    Date: May 21, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JUNYONG PARK defeated ERYK ANDERS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JUNYONG PARK landed 105 significant strikes
+  - ERYK ANDERS landed 65 significant strikes
+  - Knockdowns: JUNYONG PARK 0,  ERYK ANDERS 0
+  - Takedowns: JUNYONG PARK 0,  ERYK ANDERS 3

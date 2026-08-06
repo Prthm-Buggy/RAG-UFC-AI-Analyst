@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hermansson vs. Strickland
+    Date: February 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHIDI NJOKUANI defeated MARC-ANDRE BARRIAULT via KO/TKO  
+  at 0:16 of round 1
+  Key stats:
+  - CHIDI NJOKUANI landed 11 significant strikes
+  - MARC-ANDRE BARRIAULT landed 2 significant strikes
+  - Knockdowns: CHIDI NJOKUANI 1,  MARC-ANDRE BARRIAULT 0
+  - Takedowns: CHIDI NJOKUANI 0,  MARC-ANDRE BARRIAULT 0
+  Bonus: perf

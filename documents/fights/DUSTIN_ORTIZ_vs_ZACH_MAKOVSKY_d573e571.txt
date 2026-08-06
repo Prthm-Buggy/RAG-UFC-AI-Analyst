@@ -1,0 +1,13 @@
+Event: UFC 206: Holloway vs. Pettis
+    Date: December 10, 2016
+    Location: Toronto, Ontario, Canada
+    Weight Class: Flyweight
+    
+
+    Result: DUSTIN ORTIZ defeated ZACH MAKOVSKY via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - DUSTIN ORTIZ landed 34 significant strikes
+  - ZACH MAKOVSKY landed 21 significant strikes
+  - Knockdowns: DUSTIN ORTIZ 0,  ZACH MAKOVSKY 0
+  - Takedowns: DUSTIN ORTIZ 4,  ZACH MAKOVSKY 4

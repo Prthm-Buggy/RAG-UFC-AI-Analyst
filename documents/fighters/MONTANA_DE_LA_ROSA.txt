@@ -1,0 +1,11 @@
+Fighter: MONTANA DE LA ROSA
+  Date of Birth: 1995-02-14
+  Career record: 11
+  First fight: 2017-12-01
+  Last fight: 2024-06-08
+
+Career Statistics:
+- Significant Strikes Landed :394
+- Total takedowns landed :15
+- Knockdowns :1
+- Submission Attempts :8

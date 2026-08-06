@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bisping vs Leites
+    Date: July 18, 2015
+    Location: Glasgow, Scotland, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: DANIEL OMIELANCZUK defeated CHRIS DE LA ROCHA via KO/TKO  
+  at 0:48 of round 1
+  Key stats:
+  - DANIEL OMIELANCZUK landed 15 significant strikes
+  - CHRIS DE LA ROCHA landed 1 significant strikes
+  - Knockdowns: DANIEL OMIELANCZUK 1,  CHRIS DE LA ROCHA 0
+  - Takedowns: DANIEL OMIELANCZUK 0,  CHRIS DE LA ROCHA 0

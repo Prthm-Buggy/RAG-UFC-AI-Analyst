@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edwards vs. Muhammad
+    Date: March 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DAN IGE defeated GAVIN TUCKER via KO/TKO  
+  at 0:22 of round 1
+  Key stats:
+  - DAN IGE landed 1 significant strikes
+  - GAVIN TUCKER landed 1 significant strikes
+  - Knockdowns: DAN IGE 1,  GAVIN TUCKER 0
+  - Takedowns: DAN IGE 0,  GAVIN TUCKER 0
+  Bonus: perf

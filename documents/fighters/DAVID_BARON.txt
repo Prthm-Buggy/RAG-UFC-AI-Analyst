@@ -1,0 +1,11 @@
+Fighter: DAVID BARON
+  Date of Birth: 1973-02-15
+  Career record: 1
+  First fight: 2008-10-18
+  Last fight: 2008-10-18
+
+Career Statistics:
+- Significant Strikes Landed :7
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

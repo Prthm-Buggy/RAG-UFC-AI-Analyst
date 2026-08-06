@@ -1,0 +1,14 @@
+Event: UFC 58: USA vs Canada
+    Date: March 04, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: RICH FRANKLIN defeated DAVID LOISEAU via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - RICH FRANKLIN landed 127 significant strikes
+  - DAVID LOISEAU landed 21 significant strikes
+  - Knockdowns: RICH FRANKLIN 2,  DAVID LOISEAU 1
+  - Takedowns: RICH FRANKLIN 5,  DAVID LOISEAU 1
+  Bonus: belt

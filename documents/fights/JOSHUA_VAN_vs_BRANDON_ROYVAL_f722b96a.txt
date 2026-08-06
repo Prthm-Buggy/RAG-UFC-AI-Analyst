@@ -1,0 +1,14 @@
+Event: UFC 317: Topuria vs. Oliveira
+    Date: June 28, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOSHUA VAN defeated BRANDON ROYVAL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOSHUA VAN landed 204 significant strikes
+  - BRANDON ROYVAL landed 215 significant strikes
+  - Knockdowns: JOSHUA VAN 1,  BRANDON ROYVAL 0
+  - Takedowns: JOSHUA VAN 0,  BRANDON ROYVAL 0
+  Bonus: fight

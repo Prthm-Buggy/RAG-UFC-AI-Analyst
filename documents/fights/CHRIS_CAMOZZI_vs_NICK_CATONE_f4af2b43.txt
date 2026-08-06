@@ -1,0 +1,13 @@
+Event: UFC on FX: Maynard vs Guida
+    Date: June 22, 2012
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS CAMOZZI defeated NICK CATONE via TKO - Doctor's Stoppage  
+  at 1:51 of round 3
+  Key stats:
+  - CHRIS CAMOZZI landed 34 significant strikes
+  - NICK CATONE landed 14 significant strikes
+  - Knockdowns: CHRIS CAMOZZI 0,  NICK CATONE 0
+  - Takedowns: CHRIS CAMOZZI 0,  NICK CATONE 2

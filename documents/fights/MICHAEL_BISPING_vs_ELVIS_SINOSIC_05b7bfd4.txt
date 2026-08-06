@@ -1,0 +1,14 @@
+Event: UFC 70: Nations Collide
+    Date: April 21, 2007
+    Location: Manchester, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: MICHAEL BISPING defeated ELVIS SINOSIC via KO/TKO  
+  at 1:40 of round 2
+  Key stats:
+  - MICHAEL BISPING landed 36 significant strikes
+  - ELVIS SINOSIC landed 8 significant strikes
+  - Knockdowns: MICHAEL BISPING 0,  ELVIS SINOSIC 1
+  - Takedowns: MICHAEL BISPING 1,  ELVIS SINOSIC 0
+  Bonus: fight

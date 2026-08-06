@@ -1,0 +1,11 @@
+Fighter: DAN BOBISH
+  Date of Birth: 1970-01-26
+  Career record: 2
+  First fight: 1997-07-27
+  Last fight: 1997-07-27
+
+Career Statistics:
+- Significant Strikes Landed :9
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

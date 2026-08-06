@@ -1,0 +1,11 @@
+Fighter: VITOR MIRANDA
+  Date of Birth: 1979-03-10
+  Career record: 7
+  First fight: 2014-05-31
+  Last fight: 2018-07-22
+
+Career Statistics:
+- Significant Strikes Landed :235
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :1

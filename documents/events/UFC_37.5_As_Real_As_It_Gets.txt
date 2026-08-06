@@ -1,0 +1,13 @@
+Event : UFC 37.5: As Real As It Gets
+    Date : June 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 6
+    Weight Classes: Light Heavyweight, Welterweight, Lightweight, Middleweight
+
+    Fight Results:
+  - CHUCK LIDDELL def. VITOR BELFORT via Decision - Unanimous(R3)
+- ROBBIE LAWLER def. STEVE BERGER via KO/TKO(R2)
+- BENJI RADACH def. NICK SERRA via Decision - Unanimous(R3)
+- PETE SPRATT def. ZACH LIGHT via Submission(R1)
+- YVES EDWARDS def. JOAO PIERINI via KO/TKO(R1)
+- TONY FRYKLUND def. RODRIGO RUAS via KO/TKO(R2)

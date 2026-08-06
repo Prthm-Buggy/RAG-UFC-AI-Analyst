@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Maia vs. Askren
+    Date : October 26, 2019
+    Location: Kallang, Singapore
+    Number of Fights: 11
+    Weight Classes: Lightweight, Welterweight, Featherweight, Women's Strawweight, Heavyweight
+
+    Fight Results:
+  - MOVSAR EVLOEV def. ENRIQUE BARZOLA via Decision - Unanimous(R3)
+- SERGEI PAVLOVICH def. MAURICE GREENE via KO/TKO(R1)
+- LOMA LOOKBOONMEE def. ALEKSANDRA ALBU via Decision - Split(R3)
+- CIRYL GANE def. DON'TALE MAYES via Submission(R3)
+- RAFAEL FIZIEV def. ALEX WHITE via Decision - Unanimous(R3)
+- MUSLIM SALIKHOV def. LAUREANO STAROPOLI via Decision - Unanimous(R3)
+- RANDA MARKOS def. ASHLEY YODER via Decision - Split(R3)
+- BENEIL DARIUSH def. FRANK CAMACHO via Submission(R1)
+- STEVIE RAY def. MICHAEL JOHNSON via Decision - Majority(R3)
+- DEMIAN MAIA def. BEN ASKREN via Submission(R3)
+- RAPHAEL PESSOA def. JEFF HUGHES via Decision - Unanimous(R3)

@@ -1,0 +1,21 @@
+Event : UFC 271: Adesanya vs. Whittaker 2
+    Date : February 12, 2022
+    Location: Houston, Texas, USA
+    Number of Fights: 14
+    Weight Classes: Heavyweight, Bantamweight, Women's Flyweight, Light Heavyweight, Lightweight, Welterweight, Middleweight
+
+    Fight Results:
+  - MAXIM GRISHIN def. WILLIAM KNIGHT via Decision - Unanimous(R3)
+- JACOB MALKOUN def. AJ DOBSON via Decision - Unanimous(R3)
+- KING GREEN def. NASRAT HAQPARAST via Decision - Unanimous(R3)
+- RONNIE LAWRENCE def. MANA MARTINEZ via Decision - Unanimous(R3)
+- DOUGLAS SILVA DE ANDRADE def. SERGEY MOROZOV via Submission(R2)
+- JEREMIAH WELLS def. BLOOD DIAMOND via Submission(R1)
+- RENATO MOICANO def. ALEXANDER HERNANDEZ via Submission(R2)
+- KYLER PHILLIPS def. MARCELO ROJO via Submission(R3)
+- ANDREI ARLOVSKI def. JARED VANDERAA via Decision - Split(R3)
+- ISRAEL ADESANYA def. ROBERT WHITTAKER via Decision - Unanimous(R5)
+- JARED CANNONIER def. DEREK BRUNSON via KO/TKO(R2)
+- CASEY O'NEILL def. ROXANNE MODAFFERI via Decision - Split(R3)
+- TAI TUIVASA def. DERRICK LEWIS via KO/TKO(R2)
+- CARLOS ULBERG def. FABIO CHERANT via Decision - Unanimous(R3)

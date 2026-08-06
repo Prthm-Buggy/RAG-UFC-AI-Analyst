@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blanchfield vs. Barber
+    Date: May 31, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DUSTIN JACOBY defeated BRUNO LOPES via KO/TKO  
+  at 1:50 of round 1
+  Key stats:
+  - DUSTIN JACOBY landed 17 significant strikes
+  - BRUNO LOPES landed 3 significant strikes
+  - Knockdowns: DUSTIN JACOBY 1,  BRUNO LOPES 0
+  - Takedowns: DUSTIN JACOBY 0,  BRUNO LOPES 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gustafsson vs. Smith
+    Date: June 01, 2019
+    Location: Stockholm, Sweden
+    Weight Class: Featherweight
+    
+
+    Result: MAKWAN AMIRKHANI defeated CHRIS FISHGOLD via Submission  
+  at 4:25 of round 2
+  Key stats:
+  - MAKWAN AMIRKHANI landed 9 significant strikes
+  - CHRIS FISHGOLD landed 16 significant strikes
+  - Knockdowns: MAKWAN AMIRKHANI 0,  CHRIS FISHGOLD 0
+  - Takedowns: MAKWAN AMIRKHANI 1,  CHRIS FISHGOLD 0
+  Bonus: perf

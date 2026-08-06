@@ -1,0 +1,11 @@
+Fighter: JASON LAMBERT
+  Date of Birth: 1975-06-03
+  Career record: 8
+  First fight: 2006-03-04
+  Last fight: 2008-09-06
+
+Career Statistics:
+- Significant Strikes Landed :143
+- Total takedowns landed :4
+- Knockdowns :3
+- Submission Attempts :7

@@ -1,0 +1,11 @@
+Fighter: JESSE STRADER
+  Date of Birth: 1991-05-29
+  Career record: 2
+  First fight: 2021-03-20
+  Last fight: 2022-02-19
+
+Career Statistics:
+- Significant Strikes Landed :78
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

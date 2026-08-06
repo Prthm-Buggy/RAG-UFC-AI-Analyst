@@ -1,0 +1,13 @@
+Event: UFC 19: Ultimate Young Guns
+    Date: March 05, 1999
+    Location: Bay St. Louis, Mississippi, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SIONE LATU defeated JOEY ROBERTS via TKO - Doctor's Stoppage  
+  at 10:01 of round 1
+  Key stats:
+  - SIONE LATU landed 9 significant strikes
+  - JOEY ROBERTS landed 17 significant strikes
+  - Knockdowns: SIONE LATU 0,  JOEY ROBERTS 0
+  - Takedowns: SIONE LATU 1,  JOEY ROBERTS 1

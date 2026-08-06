@@ -1,0 +1,18 @@
+Event : UFC 317: Topuria vs. Oliveira
+    Date : June 28, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Heavyweight, Bantamweight, Lightweight, Flyweight, Middleweight, Welterweight, Featherweight
+
+    Fight Results:
+  - JOSE DELGADO def. HYDER AMIL via KO/TKO(R1)
+- JOSHUA VAN def. BRANDON ROYVAL via Decision - Unanimous(R3)
+- ALEXANDRE PANTOJA def. KAI KARA-FRANCE via Submission(R3)
+- TRACY CORTEZ def. VIVIANE ARAUJO via Decision - Unanimous(R3)
+- JACOBE SMITH def. NIKO PRICE via Submission(R2)
+- TERRANCE MCKINNEY def. VIACHESLAV BORSHCHEV via Submission(R1)
+- BENEIL DARIUSH def. RENATO MOICANO via Decision - Unanimous(R3)
+- GREGORY RODRIGUES def. JACK HERMANSSON via KO/TKO(R1)
+- ILIA TOPURIA def. CHARLES OLIVEIRA via KO/TKO(R1)
+- PAYTON TALBOTT def. FELIPE LIMA via Decision - Unanimous(R3)
+- JHONATA DINIZ def. ALVIN HINES via Decision - Unanimous(R3)

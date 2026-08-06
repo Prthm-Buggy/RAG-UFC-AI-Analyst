@@ -1,0 +1,11 @@
+Fighter: STEVE BOSSE
+  Date of Birth: 1981-07-29
+  Career record: 3
+  First fight: 2015-06-27
+  Last fight: 2016-06-18
+
+Career Statistics:
+- Significant Strikes Landed :98
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

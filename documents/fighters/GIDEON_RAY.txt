@@ -1,0 +1,11 @@
+Fighter: GIDEON RAY
+  Date of Birth: 1973-05-27
+  Career record: 3
+  First fight: 2005-02-05
+  Last fight: 2006-11-11
+
+Career Statistics:
+- Significant Strikes Landed :21
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

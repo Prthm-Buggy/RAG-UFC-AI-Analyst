@@ -1,0 +1,18 @@
+Event : UFC Live: Vera vs Jones
+    Date : March 21, 2010
+    Location: Broomfield, Colorado, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Welterweight, Light Heavyweight, Lightweight, Middleweight
+
+    Fight Results:
+  - JON JONES def. BRANDON VERA via KO/TKO(R1)
+- CLAY GUIDA def. SHANNON GUGERTY via Submission(R2)
+- VLADIMIR MATYUSHENKO def. ELIOT MARSHALL via Decision - Split(R3)
+- JOHN HOWARD def. DANIEL ROBERTS via KO/TKO(R1)
+- DARREN ELKINS def. DUANE LUDWIG via KO/TKO(R1)
+- CHEICK KONGO def. PAUL BUENTELLO via KO/TKO(R3)
+- JUNIOR DOS SANTOS def. GABRIEL GONZAGA via KO/TKO(R1)
+- ALESSIO SAKARA def. JAMES IRVIN via KO/TKO(R1)
+- JASON BRILZ def. ERIC SCHAFER via Decision - Unanimous(R3)
+- MIKE PIERCE def. JULIO PAULINO via Decision - Unanimous(R3)
+- BRENDAN SCHAUB def. CHASE GORMLEY via KO/TKO(R1)

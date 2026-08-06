@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gane vs. Spivac
+    Date: September 02, 2023
+    Location: Paris, Ile-de-France, France
+    Weight Class: Lightweight
+    
+
+    Result: BENOIT SAINT DENIS defeated THIAGO MOISES via KO/TKO  
+  at 4:44 of round 2
+  Key stats:
+  - BENOIT SAINT DENIS landed 101 significant strikes
+  - THIAGO MOISES landed 24 significant strikes
+  - Knockdowns: BENOIT SAINT DENIS 0,  THIAGO MOISES 0
+  - Takedowns: BENOIT SAINT DENIS 5,  THIAGO MOISES 1
+  Bonus: fight

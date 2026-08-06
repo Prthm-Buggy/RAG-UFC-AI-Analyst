@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Adesanya vs. Pyfer
+    Date : March 28, 2026
+    Location: Seattle, Washington, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Women's Flyweight, Middleweight, Lightweight, Light Heavyweight, Women's Strawweight, Featherweight, Welterweight
+
+    Fight Results:
+  - LERRYAN DOUGLAS def. JULIAN EROSA via KO/TKO(R1)
+- TYRELL FORTUNE def. MARCIN TYBURA via Decision - Unanimous(R3)
+- LANCE GIBSON JR. def. CHASE HOOPER via KO/TKO(R1)
+- YOUSRI BELGAROUI def. MANSUR ABDUL-MALIK via KO/TKO(R3)
+- TOFIQ MUSAYEV def. IGNACIO BAHAMONDES via Decision - Unanimous(R3)
+- ALEXA GRASSO def. MAYCEE BARBER via KO/TKO(R1)
+- CASEY O'NEILL def. GABRIELLA FERNANDES via KO/TKO(R1)
+- TERRANCE MCKINNEY def. KYLE NELSON via KO/TKO(R1)
+- ALEXIA THAINARA def. BRUNA BRASIL via Decision - Unanimous(R3)
+- JOE PYFER def. ISRAEL ADESANYA via KO/TKO(R2)
+- MICHAEL CHIESA def. NIKO PRICE via Submission(R1)
+- NAVAJO STIRLING def. BRUNO LOPES via KO/TKO(R2)

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cerrone vs. Medeiros
+    Date: February 18, 2018
+    Location: Austin, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: CURTIS MILLENDER defeated THIAGO ALVES via KO/TKO  
+  at 4:17 of round 2
+  Key stats:
+  - CURTIS MILLENDER landed 47 significant strikes
+  - THIAGO ALVES landed 33 significant strikes
+  - Knockdowns: CURTIS MILLENDER 2,  THIAGO ALVES 0
+  - Takedowns: CURTIS MILLENDER 0,  THIAGO ALVES 1
+  Bonus: perf

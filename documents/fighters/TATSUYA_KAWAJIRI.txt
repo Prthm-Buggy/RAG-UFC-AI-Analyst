@@ -1,0 +1,11 @@
+Fighter: TATSUYA KAWAJIRI
+  Date of Birth: 1978-05-08
+  Career record: 6
+  First fight: 2014-01-04
+  Last fight: 2016-08-06
+
+Career Statistics:
+- Significant Strikes Landed :136
+- Total takedowns landed :18
+- Knockdowns :0
+- Submission Attempts :2

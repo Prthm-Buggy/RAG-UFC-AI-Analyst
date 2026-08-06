@@ -1,0 +1,11 @@
+Fighter: BIA MESQUITA
+  Date of Birth: 1991-04-07
+  Career record: 3
+  First fight: 2025-10-11
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :57
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :2

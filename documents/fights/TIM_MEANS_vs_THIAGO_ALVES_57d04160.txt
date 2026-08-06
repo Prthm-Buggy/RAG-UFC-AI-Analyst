@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Rozenstruik
+    Date: December 07, 2019
+    Location: Washington, DC, USA
+    Weight Class: Welterweight
+    
+
+    Result: TIM MEANS defeated THIAGO ALVES via Submission  
+  at 2:38 of round 1
+  Key stats:
+  - TIM MEANS landed 23 significant strikes
+  - THIAGO ALVES landed 13 significant strikes
+  - Knockdowns: TIM MEANS 1,  THIAGO ALVES 0
+  - Takedowns: TIM MEANS 0,  THIAGO ALVES 0

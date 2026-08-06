@@ -1,0 +1,14 @@
+Event: UFC 52: Couture vs Liddell 2
+    Date: April 16, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CHUCK LIDDELL defeated RANDY COUTURE via KO/TKO  
+  at 2:06 of round 1
+  Key stats:
+  - CHUCK LIDDELL landed 13 significant strikes
+  - RANDY COUTURE landed 9 significant strikes
+  - Knockdowns: CHUCK LIDDELL 1,  RANDY COUTURE 0
+  - Takedowns: CHUCK LIDDELL 0,  RANDY COUTURE 0
+  Bonus: belt

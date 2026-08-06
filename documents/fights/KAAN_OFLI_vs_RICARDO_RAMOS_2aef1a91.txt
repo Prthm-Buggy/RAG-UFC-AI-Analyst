@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Oliveira vs. Gamrot
+    Date: October 11, 2025
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: KAAN OFLI defeated RICARDO RAMOS via Submission  
+  at 3:02 of round 1
+  Key stats:
+  - KAAN OFLI landed 1 significant strikes
+  - RICARDO RAMOS landed 1 significant strikes
+  - Knockdowns: KAAN OFLI 0,  RICARDO RAMOS 0
+  - Takedowns: KAAN OFLI 1,  RICARDO RAMOS 0

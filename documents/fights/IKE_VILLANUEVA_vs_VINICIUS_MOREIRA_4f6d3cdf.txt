@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Chiesa vs. Magny
+    Date: January 20, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: IKE VILLANUEVA defeated VINICIUS MOREIRA via KO/TKO  
+  at 0:39 of round 2
+  Key stats:
+  - IKE VILLANUEVA landed 24 significant strikes
+  - VINICIUS MOREIRA landed 24 significant strikes
+  - Knockdowns: IKE VILLANUEVA 1,  VINICIUS MOREIRA 0
+  - Takedowns: IKE VILLANUEVA 0,  VINICIUS MOREIRA 0

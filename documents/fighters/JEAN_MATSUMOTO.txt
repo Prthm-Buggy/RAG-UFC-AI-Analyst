@@ -1,0 +1,11 @@
+Fighter: JEAN MATSUMOTO
+  Date of Birth: 1999-09-09
+  Career record: 6
+  First fight: 2024-04-06
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :435
+- Total takedowns landed :19
+- Knockdowns :0
+- Submission Attempts :3

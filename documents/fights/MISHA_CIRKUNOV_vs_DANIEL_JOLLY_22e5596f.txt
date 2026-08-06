@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs Oliveira
+    Date: August 23, 2015
+    Location: Saskatoon, Saskatchewan, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: MISHA CIRKUNOV defeated DANIEL JOLLY via KO/TKO  
+  at 4:45 of round 1
+  Key stats:
+  - MISHA CIRKUNOV landed 24 significant strikes
+  - DANIEL JOLLY landed 6 significant strikes
+  - Knockdowns: MISHA CIRKUNOV 0,  DANIEL JOLLY 0
+  - Takedowns: MISHA CIRKUNOV 3,  DANIEL JOLLY 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Stephens vs. Choi
+    Date: January 14, 2018
+    Location: St. Louis, Missouri, USA
+    Weight Class: Lightweight
+    
+
+    Result: JAMES KRAUSE defeated ALEX WHITE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JAMES KRAUSE landed 35 significant strikes
+  - ALEX WHITE landed 56 significant strikes
+  - Knockdowns: JAMES KRAUSE 0,  ALEX WHITE 0
+  - Takedowns: JAMES KRAUSE 3,  ALEX WHITE 1

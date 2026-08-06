@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Covington vs. Woodley
+    Date: September 19, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MAYRA BUENO SILVA defeated MARA ROMERO BORELLA via Submission  
+  at 2:29 of round 1
+  Key stats:
+  - MAYRA BUENO SILVA landed 2 significant strikes
+  - MARA ROMERO BORELLA landed 6 significant strikes
+  - Knockdowns: MAYRA BUENO SILVA 0,  MARA ROMERO BORELLA 0
+  - Takedowns: MAYRA BUENO SILVA 0,  MARA ROMERO BORELLA 1

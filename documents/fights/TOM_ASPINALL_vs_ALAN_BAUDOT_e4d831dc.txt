@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moraes vs. Sandhagen
+    Date: October 10, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Heavyweight
+    
+
+    Result: TOM ASPINALL defeated ALAN BAUDOT via KO/TKO  
+  at 1:35 of round 1
+  Key stats:
+  - TOM ASPINALL landed 16 significant strikes
+  - ALAN BAUDOT landed 3 significant strikes
+  - Knockdowns: TOM ASPINALL 0,  ALAN BAUDOT 0
+  - Takedowns: TOM ASPINALL 1,  ALAN BAUDOT 0

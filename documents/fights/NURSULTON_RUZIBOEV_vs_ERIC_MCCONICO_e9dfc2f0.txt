@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cejudo vs. Song
+    Date: February 22, 2025
+    Location: Seattle, Washington, USA
+    Weight Class: Middleweight
+    
+
+    Result: NURSULTON RUZIBOEV defeated ERIC MCCONICO via KO/TKO  
+  at 0:33 of round 2
+  Key stats:
+  - NURSULTON RUZIBOEV landed 20 significant strikes
+  - ERIC MCCONICO landed 5 significant strikes
+  - Knockdowns: NURSULTON RUZIBOEV 2,  ERIC MCCONICO 0
+  - Takedowns: NURSULTON RUZIBOEV 0,  ERIC MCCONICO 0

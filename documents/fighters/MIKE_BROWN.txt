@@ -1,0 +1,11 @@
+Fighter: MIKE BROWN
+  Date of Birth: 1975-09-08
+  Career record: 6
+  First fight: 2004-04-02
+  Last fight: 2013-08-17
+
+Career Statistics:
+- Significant Strikes Landed :197
+- Total takedowns landed :13
+- Knockdowns :0
+- Submission Attempts :0

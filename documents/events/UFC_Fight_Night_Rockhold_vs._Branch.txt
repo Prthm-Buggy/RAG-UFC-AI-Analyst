@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Rockhold vs. Branch
+    Date : September 16, 2017
+    Location: Pittsburgh, Pennsylvania, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Lightweight, Middleweight, Welterweight
+
+    Fight Results:
+  - KAMARU USMAN def. SERGIO MORAES via KO/TKO(R1)
+- GILBERT BURNS def. JASON SAGGO via KO/TKO(R2)
+- ANTHONY SMITH def. HECTOR LOMBARD via KO/TKO(R3)
+- MIKE PERRY def. ALEX REYES via KO/TKO(R1)
+- GREGOR GILLESPIE def. JASON GONZALEZ via Submission(R2)
+- URIAH HALL def. KRZYSZTOF JOTKO via KO/TKO(R2)
+- LUKE ROCKHOLD def. DAVID BRANCH via KO/TKO(R2)
+- OLIVIER AUBIN-MERCIER def. ANTHONY ROCCO MARTIN via Decision - Split(R3)
+- DANIEL SPITZ def. ANTHONY HAMILTON via KO/TKO(R1)
+- JUSTIN LEDET def. AZUNNA ANYANWU via Decision - Split(R3)

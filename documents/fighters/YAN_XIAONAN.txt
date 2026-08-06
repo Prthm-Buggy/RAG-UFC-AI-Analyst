@@ -1,0 +1,11 @@
+Fighter: YAN XIAONAN
+  Date of Birth: 1989-06-16
+  Career record: 13
+  First fight: 2017-11-25
+  Last fight: 2025-04-12
+
+Career Statistics:
+- Significant Strikes Landed :916
+- Total takedowns landed :11
+- Knockdowns :2
+- Submission Attempts :0

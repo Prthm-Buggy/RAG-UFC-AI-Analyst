@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Saffiedine vs Lim
+    Date: January 04, 2014
+    Location: Singapore, Singapore
+    Weight Class: Bantamweight
+    
+
+    Result: KYUNG HO KANG defeated SHUNICHI SHIMIZU via Submission  
+  at 3:53 of round 3
+  Key stats:
+  - KYUNG HO KANG landed 65 significant strikes
+  - SHUNICHI SHIMIZU landed 2 significant strikes
+  - Knockdowns: KYUNG HO KANG 0,  SHUNICHI SHIMIZU 0
+  - Takedowns: KYUNG HO KANG 2,  SHUNICHI SHIMIZU 0

@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Jones vs. Team Sonnen Finale
+    Date: April 13, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DYLAN ANDREWS defeated JIMMY QUINLAN via KO/TKO  
+  at 3:22 of round 1
+  Key stats:
+  - DYLAN ANDREWS landed 20 significant strikes
+  - JIMMY QUINLAN landed 7 significant strikes
+  - Knockdowns: DYLAN ANDREWS 1,  JIMMY QUINLAN 0
+  - Takedowns: DYLAN ANDREWS 0,  JIMMY QUINLAN 1

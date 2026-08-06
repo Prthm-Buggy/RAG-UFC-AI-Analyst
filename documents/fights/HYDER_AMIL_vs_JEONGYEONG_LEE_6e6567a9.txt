@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lemos vs. Jandiroba
+    Date: July 20, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: HYDER AMIL defeated JEONGYEONG LEE via KO/TKO  
+  at 1:05 of round 1
+  Key stats:
+  - HYDER AMIL landed 42 significant strikes
+  - JEONGYEONG LEE landed 4 significant strikes
+  - Knockdowns: HYDER AMIL 0,  JEONGYEONG LEE 0
+  - Takedowns: HYDER AMIL 0,  JEONGYEONG LEE 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: TODD DUFFEE
+  Date of Birth: 1985-12-06
+  Career record: 5
+  First fight: 2009-08-29
+  Last fight: 2015-07-15
+
+Career Statistics:
+- Significant Strikes Landed :92
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :0

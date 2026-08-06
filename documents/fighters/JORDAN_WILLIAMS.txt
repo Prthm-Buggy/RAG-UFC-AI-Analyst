@@ -1,0 +1,11 @@
+Fighter: JORDAN WILLIAMS
+  Date of Birth: 1990-10-13
+  Career record: 3
+  First fight: 2020-10-03
+  Last fight: 2021-11-06
+
+Career Statistics:
+- Significant Strikes Landed :65
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Rampage vs Team Forrest Finale
+    Date: June 21, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DIEGO SANCHEZ defeated LUIGI FIORAVANTI via KO/TKO  
+  at 4:07 of round 3
+  Key stats:
+  - DIEGO SANCHEZ landed 51 significant strikes
+  - LUIGI FIORAVANTI landed 27 significant strikes
+  - Knockdowns: DIEGO SANCHEZ 2,  LUIGI FIORAVANTI 0
+  - Takedowns: DIEGO SANCHEZ 0,  LUIGI FIORAVANTI 1

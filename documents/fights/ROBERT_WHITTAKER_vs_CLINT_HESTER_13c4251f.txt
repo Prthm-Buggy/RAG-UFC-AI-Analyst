@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rockhold vs Bisping
+    Date: November 07, 2014
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Middleweight
+    
+
+    Result: ROBERT WHITTAKER defeated CLINT HESTER via KO/TKO  
+  at 2:43 of round 2
+  Key stats:
+  - ROBERT WHITTAKER landed 49 significant strikes
+  - CLINT HESTER landed 28 significant strikes
+  - Knockdowns: ROBERT WHITTAKER 2,  CLINT HESTER 0
+  - Takedowns: ROBERT WHITTAKER 1,  CLINT HESTER 0
+  Bonus: fight

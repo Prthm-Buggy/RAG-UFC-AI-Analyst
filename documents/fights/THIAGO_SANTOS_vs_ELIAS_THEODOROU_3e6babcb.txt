@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. VanZant
+    Date: December 10, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: THIAGO SANTOS defeated ELIAS THEODOROU via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - THIAGO SANTOS landed 52 significant strikes
+  - ELIAS THEODOROU landed 28 significant strikes
+  - Knockdowns: THIAGO SANTOS 0,  ELIAS THEODOROU 0
+  - Takedowns: THIAGO SANTOS 1,  ELIAS THEODOROU 1

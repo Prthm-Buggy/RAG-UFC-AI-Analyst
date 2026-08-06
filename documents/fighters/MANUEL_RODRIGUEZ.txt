@@ -1,0 +1,11 @@
+Fighter: MANUEL RODRIGUEZ
+  Date of Birth: 1985-04-25
+  Career record: 1
+  First fight: 2012-12-14
+  Last fight: 2012-12-14
+
+Career Statistics:
+- Significant Strikes Landed :4
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

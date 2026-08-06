@@ -1,0 +1,11 @@
+Fighter: COLIN ROBINSON
+  Date of Birth: 1968-11-27
+  Career record: 2
+  First fight: 2007-06-16
+  Last fight: 2008-01-19
+
+Career Statistics:
+- Significant Strikes Landed :36
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :2

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs Gastelum
+    Date: November 21, 2015
+    Location: Monterrey, Nuevo Leon, Mexico
+    Weight Class: Bantamweight
+    
+
+    Result: ALEJANDRO PEREZ defeated SCOTT JORGENSEN via KO/TKO  
+  at 4:26 of round 2
+  Key stats:
+  - ALEJANDRO PEREZ landed 39 significant strikes
+  - SCOTT JORGENSEN landed 11 significant strikes
+  - Knockdowns: ALEJANDRO PEREZ 0,  SCOTT JORGENSEN 0
+  - Takedowns: ALEJANDRO PEREZ 0,  SCOTT JORGENSEN 2

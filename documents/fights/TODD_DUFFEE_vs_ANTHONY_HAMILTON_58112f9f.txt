@@ -1,0 +1,13 @@
+Event: UFC 181: Hendricks vs Lawler II
+    Date: December 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TODD DUFFEE defeated ANTHONY HAMILTON via KO/TKO  
+  at 0:33 of round 1
+  Key stats:
+  - TODD DUFFEE landed 8 significant strikes
+  - ANTHONY HAMILTON landed 2 significant strikes
+  - Knockdowns: TODD DUFFEE 1,  ANTHONY HAMILTON 0
+  - Takedowns: TODD DUFFEE 0,  ANTHONY HAMILTON 0

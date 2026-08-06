@@ -1,0 +1,20 @@
+Event : UFC Fight Night: MacDonald vs Thompson
+    Date : June 18, 2016
+    Location: Ottawa, Ontario, Canada
+    Number of Fights: 13
+    Weight Classes: Women's Flyweight, Bantamweight, Welterweight, Lightweight, Light Heavyweight, Middleweight, Women's Strawweight, Flyweight
+
+    Fight Results:
+  - KRZYSZTOF JOTKO def. TAMDAN MCCRORY via KO/TKO(R1)
+- JOE SOTO def. CHRIS BEAL via Submission(R3)
+- JOANNE WOOD def. VALERIE LETOURNEAU via KO/TKO(R3)
+- RANDA MARKOS def. JOCELYN JONES-LYBARGER via Decision - Unanimous(R3)
+- OLIVIER AUBIN-MERCIER def. THIBAULT GOUTI via Submission(R3)
+- STEPHEN THOMPSON def. RORY MACDONALD via Decision - Unanimous(R5)
+- DONALD CERRONE def. PATRICK COTE via KO/TKO(R3)
+- JASON SAGGO def. LEANDRO SILVA via Decision - Split(R3)
+- ELIAS THEODOROU def. SAM ALVEY via Decision - Unanimous(R3)
+- MISHA CIRKUNOV def. ION CUTELABA via Submission(R3)
+- COLBY COVINGTON def. JONATHAN MEUNIER via Submission(R3)
+- ALI BAGAUTINOV def. GEANE HERRERA via Decision - Unanimous(R3)
+- STEVE BOSSE def. SEAN O'CONNELL via Decision - Unanimous(R3)

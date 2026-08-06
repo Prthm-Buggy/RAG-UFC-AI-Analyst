@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Lewis
+    Date: February 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JULIAN EROSA defeated NATE LANDWEHR via KO/TKO  
+  at 0:56 of round 1
+  Key stats:
+  - JULIAN EROSA landed 15 significant strikes
+  - NATE LANDWEHR landed 9 significant strikes
+  - Knockdowns: JULIAN EROSA 1,  NATE LANDWEHR 0
+  - Takedowns: JULIAN EROSA 0,  NATE LANDWEHR 0

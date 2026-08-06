@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Allen vs. Curtis 2
+    Date: April 06, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: IGNACIO BAHAMONDES defeated CHRISTOS GIAGOS via KO/TKO  
+  at 3:34 of round 1
+  Key stats:
+  - IGNACIO BAHAMONDES landed 40 significant strikes
+  - CHRISTOS GIAGOS landed 17 significant strikes
+  - Knockdowns: IGNACIO BAHAMONDES 1,  CHRISTOS GIAGOS 0
+  - Takedowns: IGNACIO BAHAMONDES 0,  CHRISTOS GIAGOS 0
+  Bonus: perf

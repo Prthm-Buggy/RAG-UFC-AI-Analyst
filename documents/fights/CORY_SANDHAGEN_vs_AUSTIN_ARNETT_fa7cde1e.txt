@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs. Brunson 2
+    Date: January 27, 2018
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Featherweight
+    
+
+    Result: CORY SANDHAGEN defeated AUSTIN ARNETT via KO/TKO  
+  at 3:48 of round 2
+  Key stats:
+  - CORY SANDHAGEN landed 80 significant strikes
+  - AUSTIN ARNETT landed 32 significant strikes
+  - Knockdowns: CORY SANDHAGEN 1,  AUSTIN ARNETT 0
+  - Takedowns: CORY SANDHAGEN 1,  AUSTIN ARNETT 1

@@ -1,0 +1,14 @@
+Event: UFC 292: Sterling vs. O'Malley
+    Date: August 19, 2023
+    Location: Boston, Massachusetts, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ZHANG WEILI defeated AMANDA LEMOS via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ZHANG WEILI landed 163 significant strikes
+  - AMANDA LEMOS landed 24 significant strikes
+  - Knockdowns: ZHANG WEILI 1,  AMANDA LEMOS 0
+  - Takedowns: ZHANG WEILI 6,  AMANDA LEMOS 0
+  Bonus: belt

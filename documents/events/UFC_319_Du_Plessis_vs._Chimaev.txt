@@ -1,0 +1,19 @@
+Event : UFC 319: Du Plessis vs. Chimaev
+    Date : August 16, 2025
+    Location: Chicago, Illinois, USA
+    Number of Fights: 12
+    Weight Classes: Featherweight, Welterweight, Lightweight, Middleweight, Flyweight, Women's Strawweight, Women's Flyweight
+
+    Fight Results:
+  - CARLOS PRATES def. GEOFF NEAL via KO/TKO(R1)
+- KHAMZAT CHIMAEV def. DRICUS DU PLESSIS via Decision - Unanimous(R5)
+- JOSEPH MORALES def. ALIBI IDIRIS via Submission(R2)
+- KARINE SILVA def. DIONE BARBOSA via Decision - Unanimous(R3)
+- TIM ELLIOTT def. Kai Asakura via Submission(R2)
+- ALEXANDER HERNANDEZ def. CHASE HOOPER via KO/TKO(R1)
+- MICHAEL PAGE def. JARED CANNONIER via Decision - Unanimous(R3)
+- MICHAL OLEKSIEJCZUK def. GERALD MEERSCHAERT via KO/TKO(R1)
+- DRAKKAR KLOSE def. EDSON BARBOZA via Decision - Unanimous(R3)
+- LOOPY GODINEZ def. JESSICA ANDRADE via Decision - Unanimous(R3)
+- LERONE MURPHY def. AARON PICO via KO/TKO(R1)
+- BAISANGUR SUSURKAEV def. ERIC NOLAN via Submission(R2)

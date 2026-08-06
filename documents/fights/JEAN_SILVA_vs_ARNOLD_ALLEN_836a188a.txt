@@ -1,0 +1,13 @@
+Event: UFC 324: Gaethje vs. Pimblett
+    Date: January 24, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JEAN SILVA defeated ARNOLD ALLEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JEAN SILVA landed 74 significant strikes
+  - ARNOLD ALLEN landed 56 significant strikes
+  - Knockdowns: JEAN SILVA 0,  ARNOLD ALLEN 0
+  - Takedowns: JEAN SILVA 4,  ARNOLD ALLEN 0

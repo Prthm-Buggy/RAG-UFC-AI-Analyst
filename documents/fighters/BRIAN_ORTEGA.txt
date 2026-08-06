@@ -1,0 +1,11 @@
+Fighter: BRIAN ORTEGA
+  Date of Birth: 1991-02-21
+  Career record: 13
+  First fight: 2015-06-06
+  Last fight: 2025-08-23
+
+Career Statistics:
+- Significant Strikes Landed :739
+- Total takedowns landed :11
+- Knockdowns :5
+- Submission Attempts :10

@@ -1,0 +1,13 @@
+Event: UFC 36: Worlds Collide
+    Date: March 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SEAN SHERK defeated JUTARO NAKAO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SEAN SHERK landed 21 significant strikes
+  - JUTARO NAKAO landed 4 significant strikes
+  - Knockdowns: SEAN SHERK 0,  JUTARO NAKAO 0
+  - Takedowns: SEAN SHERK 7,  JUTARO NAKAO 0

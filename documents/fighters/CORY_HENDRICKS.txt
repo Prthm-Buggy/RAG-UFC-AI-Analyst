@@ -1,0 +1,11 @@
+Fighter: CORY HENDRICKS
+  Date of Birth: 1988-05-10
+  Career record: 1
+  First fight: 2016-07-08
+  Last fight: 2016-07-08
+
+Career Statistics:
+- Significant Strikes Landed :47
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

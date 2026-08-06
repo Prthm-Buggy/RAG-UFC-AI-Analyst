@@ -1,0 +1,11 @@
+Fighter: ADLAN AMAGOV
+  Date of Birth: 1986-10-30
+  Career record: 2
+  First fight: 2013-04-06
+  Last fight: 2013-10-19
+
+Career Statistics:
+- Significant Strikes Landed :53
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :0

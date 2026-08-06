@@ -1,0 +1,11 @@
+Fighter: BILLY ELEKANA
+  Date of Birth: 1995-05-28
+  Career record: 4
+  First fight: 2025-01-18
+  Last fight: 2026-01-31
+
+Career Statistics:
+- Significant Strikes Landed :96
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :2

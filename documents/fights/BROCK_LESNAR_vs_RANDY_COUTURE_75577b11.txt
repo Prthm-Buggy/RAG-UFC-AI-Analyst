@@ -1,0 +1,14 @@
+Event: UFC 91: Couture vs Lesnar
+    Date: November 15, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BROCK LESNAR defeated RANDY COUTURE via KO/TKO  
+  at 3:07 of round 2
+  Key stats:
+  - BROCK LESNAR landed 31 significant strikes
+  - RANDY COUTURE landed 11 significant strikes
+  - Knockdowns: BROCK LESNAR 1,  RANDY COUTURE 0
+  - Takedowns: BROCK LESNAR 2,  RANDY COUTURE 1
+  Bonus: belt

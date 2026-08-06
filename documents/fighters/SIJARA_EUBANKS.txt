@@ -1,0 +1,11 @@
+Fighter: SIJARA EUBANKS
+  Date of Birth: 1985-04-27
+  Career record: 10
+  First fight: 2018-06-01
+  Last fight: 2021-12-18
+
+Career Statistics:
+- Significant Strikes Landed :578
+- Total takedowns landed :17
+- Knockdowns :1
+- Submission Attempts :3

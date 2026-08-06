@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ngannou vs. Velasquez
+    Date: February 17, 2019
+    Location: Phoenix, Arizona, USA
+    Weight Class: Bantamweight
+    
+
+    Result: LUKE SANDERS defeated RENAN BARAO via KO/TKO  
+  at 1:01 of round 2
+  Key stats:
+  - LUKE SANDERS landed 39 significant strikes
+  - RENAN BARAO landed 40 significant strikes
+  - Knockdowns: LUKE SANDERS 1,  RENAN BARAO 0
+  - Takedowns: LUKE SANDERS 0,  RENAN BARAO 0
+  Bonus: perf

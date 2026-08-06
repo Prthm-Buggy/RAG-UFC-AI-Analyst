@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Clark
+    Date: November 28, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ANDERSON DOS SANTOS defeated MARTIN DAY via Submission  
+  at 4:35 of round 1
+  Key stats:
+  - ANDERSON DOS SANTOS landed 11 significant strikes
+  - MARTIN DAY landed 9 significant strikes
+  - Knockdowns: ANDERSON DOS SANTOS 0,  MARTIN DAY 0
+  - Takedowns: ANDERSON DOS SANTOS 1,  MARTIN DAY 1

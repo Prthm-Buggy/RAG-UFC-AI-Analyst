@@ -1,0 +1,11 @@
+Fighter: ZARAH FAIRN
+  Date of Birth: 1983-12-10
+  Career record: 4
+  First fight: 2019-10-05
+  Last fight: 2023-09-02
+
+Career Statistics:
+- Significant Strikes Landed :171
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

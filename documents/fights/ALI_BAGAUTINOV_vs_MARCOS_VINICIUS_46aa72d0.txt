@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Teixeira vs Bader
+    Date: September 04, 2013
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: ALI BAGAUTINOV defeated MARCOS VINICIUS via KO/TKO  
+  at 3:28 of round 3
+  Key stats:
+  - ALI BAGAUTINOV landed 38 significant strikes
+  - MARCOS VINICIUS landed 27 significant strikes
+  - Knockdowns: ALI BAGAUTINOV 2,  MARCOS VINICIUS 0
+  - Takedowns: ALI BAGAUTINOV 3,  MARCOS VINICIUS 0

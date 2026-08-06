@@ -1,0 +1,13 @@
+Event : UFC 22: Only One Can be Champion
+    Date : September 24, 1999
+    Location: Lake Charles, Louisiana, USA
+    Number of Fights: 6
+    Weight Classes: Middleweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - CHUCK LIDDELL def. PAUL JONES via TKO - Doctor's Stoppage(R1)
+- FRANK SHAMROCK def. TITO ORTIZ via KO/TKO(R4)
+- JEREMY HORN def. JASON GODSEY via Submission(R1)
+- MATT HUGHES def. VALERI IGNATOV via Decision - Unanimous(R3)
+- JOHN LEWIS def. LOWELL ANDERSON via KO/TKO(R3)
+- BRAD KOHLER def. STEVE JUDSON via KO/TKO(R1)

@@ -1,0 +1,11 @@
+Fighter: ENRIQUE BARZOLA
+  Date of Birth: 1989-04-28
+  Career record: 9
+  First fight: 2015-11-21
+  Last fight: 2019-10-26
+
+Career Statistics:
+- Significant Strikes Landed :530
+- Total takedowns landed :41
+- Knockdowns :0
+- Submission Attempts :2

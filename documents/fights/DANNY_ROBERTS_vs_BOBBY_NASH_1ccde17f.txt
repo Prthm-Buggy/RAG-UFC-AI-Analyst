@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nelson vs. Ponzinibbio
+    Date: July 16, 2017
+    Location: Glasgow, Scotland, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: DANNY ROBERTS defeated BOBBY NASH via KO/TKO  
+  at 3:59 of round 2
+  Key stats:
+  - DANNY ROBERTS landed 24 significant strikes
+  - BOBBY NASH landed 25 significant strikes
+  - Knockdowns: DANNY ROBERTS 1,  BOBBY NASH 0
+  - Takedowns: DANNY ROBERTS 0,  BOBBY NASH 2

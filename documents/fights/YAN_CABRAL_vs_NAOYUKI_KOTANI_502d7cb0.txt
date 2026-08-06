@@ -1,0 +1,13 @@
+Event: UFC 179: Aldo vs Mendes 2
+    Date: October 25, 2014
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: YAN CABRAL defeated NAOYUKI KOTANI via Submission  
+  at 3:06 of round 2
+  Key stats:
+  - YAN CABRAL landed 11 significant strikes
+  - NAOYUKI KOTANI landed 5 significant strikes
+  - Knockdowns: YAN CABRAL 0,  NAOYUKI KOTANI 0
+  - Takedowns: YAN CABRAL 2,  NAOYUKI KOTANI 1

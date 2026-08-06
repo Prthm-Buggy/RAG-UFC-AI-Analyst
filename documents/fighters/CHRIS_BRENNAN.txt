@@ -1,0 +1,11 @@
+Fighter: CHRIS BRENNAN
+  Date of Birth: 1971-10-12
+  Career record: 2
+  First fight: 1998-03-13
+  Last fight: 2002-01-11
+
+Career Statistics:
+- Significant Strikes Landed :10
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :2

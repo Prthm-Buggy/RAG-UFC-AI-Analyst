@@ -1,0 +1,14 @@
+Event: UFC 192: Cormier vs Gustafsson
+    Date: October 03, 2015
+    Location: Houston, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALBERT TUMENOV defeated ALAN JOUBAN via KO/TKO  
+  at 2:55 of round 1
+  Key stats:
+  - ALBERT TUMENOV landed 19 significant strikes
+  - ALAN JOUBAN landed 17 significant strikes
+  - Knockdowns: ALBERT TUMENOV 1,  ALAN JOUBAN 0
+  - Takedowns: ALBERT TUMENOV 0,  ALAN JOUBAN 0
+  Bonus: perf

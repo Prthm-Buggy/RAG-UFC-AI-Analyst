@@ -1,0 +1,11 @@
+Fighter: CHAEL SONNEN
+  Date of Birth: 1977-04-03
+  Career record: 14
+  First fight: 2005-10-07
+  Last fight: 2013-11-16
+
+Career Statistics:
+- Significant Strikes Landed :410
+- Total takedowns landed :37
+- Knockdowns :0
+- Submission Attempts :4

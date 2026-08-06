@@ -1,0 +1,11 @@
+Fighter: LUCAS ALEXANDER
+  Date of Birth: 1995-07-28
+  Career record: 4
+  First fight: 2022-10-15
+  Last fight: 2025-02-01
+
+Career Statistics:
+- Significant Strikes Landed :131
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

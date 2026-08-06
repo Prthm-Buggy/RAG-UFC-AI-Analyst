@@ -1,0 +1,14 @@
+Event : UFC Fight Night 2
+    Date : October 03, 2005
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 7
+    Weight Classes: Welterweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - JON FITCH def. BROCK LARSON via Decision - Unanimous(R3)
+- SPENCER FISHER def. THIAGO ALVES via Submission(R2)
+- DAVID LOISEAU def. EVAN TANNER via TKO - Doctor's Stoppage(R2)
+- DREW FICKETT def. JOSH KOSCHECK via Submission(R3)
+- CHRIS LEBEN def. EDWIN DEWEES via Submission(R1)
+- BRANDON VERA def. FABIANO SCHERNER via KO/TKO(R2)
+- JONATHAN GOULET def. JAY HIERON via TKO - Doctor's Stoppage(R3)

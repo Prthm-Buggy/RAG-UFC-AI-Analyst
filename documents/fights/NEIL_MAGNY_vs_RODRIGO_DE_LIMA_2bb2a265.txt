@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Te Huna vs Marquardt
+    Date: June 28, 2014
+    Location: Auckland, New Zealand
+    Weight Class: Welterweight
+    
+
+    Result: NEIL MAGNY defeated RODRIGO DE LIMA via KO/TKO  
+  at 2:32 of round 2
+  Key stats:
+  - NEIL MAGNY landed 30 significant strikes
+  - RODRIGO DE LIMA landed 5 significant strikes
+  - Knockdowns: NEIL MAGNY 1,  RODRIGO DE LIMA 0
+  - Takedowns: NEIL MAGNY 2,  RODRIGO DE LIMA 1

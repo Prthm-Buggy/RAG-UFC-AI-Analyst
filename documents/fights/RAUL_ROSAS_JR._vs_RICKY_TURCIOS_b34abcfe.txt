@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Imavov
+    Date: June 08, 2024
+    Location: Louisville, Kentucky, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RAUL ROSAS JR. defeated RICKY TURCIOS via Submission  
+  at 2:22 of round 2
+  Key stats:
+  - RAUL ROSAS JR. landed 3 significant strikes
+  - RICKY TURCIOS landed 7 significant strikes
+  - Knockdowns: RAUL ROSAS JR. 0,  RICKY TURCIOS 0
+  - Takedowns: RAUL ROSAS JR. 4,  RICKY TURCIOS 0
+  Bonus: perf

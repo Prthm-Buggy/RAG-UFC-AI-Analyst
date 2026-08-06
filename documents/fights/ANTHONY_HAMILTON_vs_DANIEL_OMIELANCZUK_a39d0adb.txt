@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gonzaga vs Cro Cop 2
+    Date: April 11, 2015
+    Location: Krakow, Poland
+    Weight Class: Heavyweight
+    
+
+    Result: ANTHONY HAMILTON defeated DANIEL OMIELANCZUK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ANTHONY HAMILTON landed 83 significant strikes
+  - DANIEL OMIELANCZUK landed 36 significant strikes
+  - Knockdowns: ANTHONY HAMILTON 0,  DANIEL OMIELANCZUK 0
+  - Takedowns: ANTHONY HAMILTON 3,  DANIEL OMIELANCZUK 1

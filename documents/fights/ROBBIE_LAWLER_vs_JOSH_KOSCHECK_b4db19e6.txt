@@ -1,0 +1,14 @@
+Event: UFC 157: Rousey vs Carmouche
+    Date: February 23, 2013
+    Location: Anaheim, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: ROBBIE LAWLER defeated JOSH KOSCHECK via KO/TKO  
+  at 3:57 of round 1
+  Key stats:
+  - ROBBIE LAWLER landed 9 significant strikes
+  - JOSH KOSCHECK landed 2 significant strikes
+  - Knockdowns: ROBBIE LAWLER 0,  JOSH KOSCHECK 0
+  - Takedowns: ROBBIE LAWLER 0,  JOSH KOSCHECK 2
+  Bonus: ko

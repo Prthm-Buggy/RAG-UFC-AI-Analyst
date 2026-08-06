@@ -1,0 +1,11 @@
+Fighter: MATT SCHNELL
+  Date of Birth: 1990-01-15
+  Career record: 16
+  First fight: 2016-12-03
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :449
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :10

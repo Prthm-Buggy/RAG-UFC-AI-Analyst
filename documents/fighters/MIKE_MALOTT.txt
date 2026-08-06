@@ -1,0 +1,11 @@
+Fighter: MIKE MALOTT
+  Date of Birth: 1991-11-07
+  Career record: 8
+  First fight: 2022-04-09
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :301
+- Total takedowns landed :8
+- Knockdowns :5
+- Submission Attempts :3

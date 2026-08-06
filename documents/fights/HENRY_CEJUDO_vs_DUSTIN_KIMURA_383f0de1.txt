@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dos Santos vs Miocic
+    Date: December 13, 2014
+    Location: Phoenix, Arizona, USA
+    Weight Class: Bantamweight
+    
+
+    Result: HENRY CEJUDO defeated DUSTIN KIMURA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - HENRY CEJUDO landed 72 significant strikes
+  - DUSTIN KIMURA landed 25 significant strikes
+  - Knockdowns: HENRY CEJUDO 1,  DUSTIN KIMURA 0
+  - Takedowns: HENRY CEJUDO 0,  DUSTIN KIMURA 0

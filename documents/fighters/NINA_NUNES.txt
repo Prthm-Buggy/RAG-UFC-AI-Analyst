@@ -1,0 +1,11 @@
+Fighter: NINA NUNES
+  Date of Birth: 1985-12-03
+  Career record: 9
+  First fight: 2014-11-08
+  Last fight: 2022-08-13
+
+Career Statistics:
+- Significant Strikes Landed :542
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :4

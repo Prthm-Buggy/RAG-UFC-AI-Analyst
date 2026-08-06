@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs. Volkov
+    Date: February 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CORY SANDHAGEN defeated FRANKIE EDGAR via KO/TKO  
+  at 0:28 of round 1
+  Key stats:
+  - CORY SANDHAGEN landed 2 significant strikes
+  - FRANKIE EDGAR landed 2 significant strikes
+  - Knockdowns: CORY SANDHAGEN 1,  FRANKIE EDGAR 0
+  - Takedowns: CORY SANDHAGEN 0,  FRANKIE EDGAR 0
+  Bonus: perf

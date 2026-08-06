@@ -1,0 +1,11 @@
+Fighter: MARIYA AGAPOVA
+  Date of Birth: 1997-04-07
+  Career record: 6
+  First fight: 2020-06-13
+  Last fight: 2024-07-13
+
+Career Statistics:
+- Significant Strikes Landed :202
+- Total takedowns landed :2
+- Knockdowns :2
+- Submission Attempts :3

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Strickland vs. Hernandez
+    Date: February 21, 2026
+    Location: Houston, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: MELQUIZAEL COSTA defeated DAN IGE via KO/TKO  
+  at 4:56 of round 1
+  Key stats:
+  - MELQUIZAEL COSTA landed 19 significant strikes
+  - DAN IGE landed 7 significant strikes
+  - Knockdowns: MELQUIZAEL COSTA 1,  DAN IGE 0
+  - Takedowns: MELQUIZAEL COSTA 1,  DAN IGE 1
+  Bonus: perf

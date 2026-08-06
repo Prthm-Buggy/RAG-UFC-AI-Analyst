@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Nogueira vs. Werdum
+    Date: June 08, 2013
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: RONY JASON defeated MIKE WILKINSON via Submission  
+  at 1:24 of round 1
+  Key stats:
+  - RONY JASON landed 7 significant strikes
+  - MIKE WILKINSON landed 4 significant strikes
+  - Knockdowns: RONY JASON 0,  MIKE WILKINSON 0
+  - Takedowns: RONY JASON 0,  MIKE WILKINSON 1

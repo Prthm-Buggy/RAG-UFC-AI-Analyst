@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs. Anders
+    Date: February 03, 2018
+    Location: Belem, Para, Brazil
+    Weight Class: Women's Strawweight
+    
+
+    Result: POLYANA VIANA defeated MAIA STEVENSON via Submission  
+  at 3:50 of round 1
+  Key stats:
+  - POLYANA VIANA landed 12 significant strikes
+  - MAIA STEVENSON landed 6 significant strikes
+  - Knockdowns: POLYANA VIANA 0,  MAIA STEVENSON 0
+  - Takedowns: POLYANA VIANA 1,  MAIA STEVENSON 1

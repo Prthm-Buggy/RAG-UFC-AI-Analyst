@@ -1,0 +1,11 @@
+Fighter: FRANCISCO TREVINO
+  Date of Birth: 1981-12-17
+  Career record: 3
+  First fight: 2014-03-15
+  Last fight: 2015-10-03
+
+Career Statistics:
+- Significant Strikes Landed :82
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

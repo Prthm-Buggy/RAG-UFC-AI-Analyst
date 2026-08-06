@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shogun vs Henderson 2
+    Date: March 23, 2014
+    Location: Natal, Rio Grande do Norte, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: JUSSIER FORMIGA defeated SCOTT JORGENSEN via Submission  
+  at 3:07 of round 1
+  Key stats:
+  - JUSSIER FORMIGA landed 9 significant strikes
+  - SCOTT JORGENSEN landed 6 significant strikes
+  - Knockdowns: JUSSIER FORMIGA 0,  SCOTT JORGENSEN 0
+  - Takedowns: JUSSIER FORMIGA 1,  SCOTT JORGENSEN 0

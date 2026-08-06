@@ -1,0 +1,13 @@
+Event: UFC on FOX: Evans vs Davis
+    Date: January 28, 2012
+    Location: Chicago, Illinois, USA
+    Weight Class: Featherweight
+    
+
+    Result: CUB SWANSON defeated GEORGE ROOP via KO/TKO  
+  at 2:22 of round 2
+  Key stats:
+  - CUB SWANSON landed 43 significant strikes
+  - GEORGE ROOP landed 35 significant strikes
+  - Knockdowns: CUB SWANSON 1,  GEORGE ROOP 0
+  - Takedowns: CUB SWANSON 2,  GEORGE ROOP 0

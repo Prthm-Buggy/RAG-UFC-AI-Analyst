@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Muniz vs. Allen
+    Date: February 25, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JORDAN LEAVITT defeated VICTOR MARTINEZ via KO/TKO  
+  at 2:27 of round 1
+  Key stats:
+  - JORDAN LEAVITT landed 17 significant strikes
+  - VICTOR MARTINEZ landed 7 significant strikes
+  - Knockdowns: JORDAN LEAVITT 1,  VICTOR MARTINEZ 0
+  - Takedowns: JORDAN LEAVITT 0,  VICTOR MARTINEZ 0
+  Bonus: perf

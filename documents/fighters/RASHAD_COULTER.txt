@@ -1,0 +1,11 @@
+Fighter: RASHAD COULTER
+  Date of Birth: 1981-11-27
+  Career record: 4
+  First fight: 2017-05-13
+  Last fight: 2018-11-24
+
+Career Statistics:
+- Significant Strikes Landed :174
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

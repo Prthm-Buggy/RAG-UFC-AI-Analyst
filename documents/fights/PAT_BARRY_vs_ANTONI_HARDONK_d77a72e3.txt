@@ -1,0 +1,14 @@
+Event: UFC 104: Machida vs Shogun
+    Date: October 24, 2009
+    Location: Los Angeles, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PAT BARRY defeated ANTONI HARDONK via KO/TKO  
+  at 2:30 of round 2
+  Key stats:
+  - PAT BARRY landed 29 significant strikes
+  - ANTONI HARDONK landed 29 significant strikes
+  - Knockdowns: PAT BARRY 1,  ANTONI HARDONK 0
+  - Takedowns: PAT BARRY 0,  ANTONI HARDONK 0
+  Bonus: fight

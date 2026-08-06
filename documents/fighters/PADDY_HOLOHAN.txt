@@ -1,0 +1,11 @@
+Fighter: PADDY HOLOHAN
+  Date of Birth: 1988-05-03
+  Career record: 5
+  First fight: 2014-07-19
+  Last fight: 2015-10-24
+
+Career Statistics:
+- Significant Strikes Landed :122
+- Total takedowns landed :11
+- Knockdowns :1
+- Submission Attempts :5

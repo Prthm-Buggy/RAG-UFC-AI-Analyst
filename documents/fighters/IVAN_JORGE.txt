@@ -1,0 +1,11 @@
+Fighter: IVAN JORGE
+  Date of Birth: 1980-11-07
+  Career record: 4
+  First fight: 2013-09-04
+  Last fight: 2015-07-18
+
+Career Statistics:
+- Significant Strikes Landed :164
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :2

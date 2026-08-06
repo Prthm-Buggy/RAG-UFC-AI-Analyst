@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Stout vs Fisher
+    Date: June 12, 2007
+    Location: Hollywood, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: NATE MOHR defeated LUKE CAUDILLO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NATE MOHR landed 70 significant strikes
+  - LUKE CAUDILLO landed 28 significant strikes
+  - Knockdowns: NATE MOHR 0,  LUKE CAUDILLO 1
+  - Takedowns: NATE MOHR 0,  LUKE CAUDILLO 0

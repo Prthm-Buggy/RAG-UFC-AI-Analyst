@@ -1,0 +1,14 @@
+Event: UFC 70: Nations Collide
+    Date: April 21, 2007
+    Location: Manchester, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: TERRY ETIM defeated MATT GRICE via Submission  
+  at 4:48 of round 1
+  Key stats:
+  - TERRY ETIM landed 5 significant strikes
+  - MATT GRICE landed 26 significant strikes
+  - Knockdowns: TERRY ETIM 0,  MATT GRICE 0
+  - Takedowns: TERRY ETIM 0,  MATT GRICE 1
+  Bonus: sub

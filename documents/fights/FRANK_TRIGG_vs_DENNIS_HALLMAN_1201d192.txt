@@ -1,0 +1,13 @@
+Event: UFC 48: Payback
+    Date: June 19, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: FRANK TRIGG defeated DENNIS HALLMAN via KO/TKO  
+  at 4:15 of round 1
+  Key stats:
+  - FRANK TRIGG landed 20 significant strikes
+  - DENNIS HALLMAN landed 1 significant strikes
+  - Knockdowns: FRANK TRIGG 0,  DENNIS HALLMAN 0
+  - Takedowns: FRANK TRIGG 0,  DENNIS HALLMAN 0

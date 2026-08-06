@@ -1,0 +1,13 @@
+Event: UFC 291: Poirier vs. Gaethje 2
+    Date: July 29, 2023
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Welterweight
+    
+
+    Result: JAKE MATTHEWS defeated DARRIUS FLOWERS via Submission  
+  at 2:37 of round 2
+  Key stats:
+  - JAKE MATTHEWS landed 60 significant strikes
+  - DARRIUS FLOWERS landed 36 significant strikes
+  - Knockdowns: JAKE MATTHEWS 0,  DARRIUS FLOWERS 0
+  - Takedowns: JAKE MATTHEWS 0,  DARRIUS FLOWERS 1

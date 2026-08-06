@@ -1,0 +1,19 @@
+Event : UFC 197: Jones vs Saint Preux
+    Date : April 23, 2016
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Middleweight, Lightweight, Light Heavyweight, Flyweight, Welterweight, Women's Strawweight, Featherweight
+
+    Fight Results:
+  - ROBERT WHITTAKER def. RAFAEL NATAL via Decision - Unanimous(R3)
+- MARCOS ROGERIO DE LIMA def. CLINT HESTER via Submission(R1)
+- CARLA ESPARZA def. JULIANA LIMA via Decision - Unanimous(R3)
+- DEMETRIOUS JOHNSON def. HENRY CEJUDO via KO/TKO(R1)
+- JAMES VICK def. GLAICO FRANCA MOREIRA via Decision - Unanimous(R3)
+- SERGIO PETTIS def. CHRIS KELADES via Decision - Unanimous(R3)
+- DANNY ROBERTS def. DOMINIQUE STEELE via Decision - Unanimous(R3)
+- WALT HARRIS def. CODY EAST via KO/TKO(R1)
+- KEVIN LEE def. EFRAIN ESCUDERO via Decision - Unanimous(R3)
+- JON JONES def. OVINCE SAINT PREUX via Decision - Unanimous(R5)
+- YAIR RODRIGUEZ def. ANDRE FILI via KO/TKO(R2)
+- EDSON BARBOZA def. ANTHONY PETTIS via Decision - Unanimous(R3)

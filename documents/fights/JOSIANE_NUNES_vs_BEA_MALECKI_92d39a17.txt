@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Gastelum
+    Date: August 21, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JOSIANE NUNES defeated BEA MALECKI via KO/TKO  
+  at 4:54 of round 1
+  Key stats:
+  - JOSIANE NUNES landed 52 significant strikes
+  - BEA MALECKI landed 35 significant strikes
+  - Knockdowns: JOSIANE NUNES 1,  BEA MALECKI 0
+  - Takedowns: JOSIANE NUNES 0,  BEA MALECKI 0
+  Bonus: perf

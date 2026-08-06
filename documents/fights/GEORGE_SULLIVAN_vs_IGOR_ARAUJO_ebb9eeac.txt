@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bigfoot vs Arlovski
+    Date: September 13, 2014
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: GEORGE SULLIVAN defeated IGOR ARAUJO via KO/TKO  
+  at 2:31 of round 2
+  Key stats:
+  - GEORGE SULLIVAN landed 43 significant strikes
+  - IGOR ARAUJO landed 8 significant strikes
+  - Knockdowns: GEORGE SULLIVAN 0,  IGOR ARAUJO 0
+  - Takedowns: GEORGE SULLIVAN 1,  IGOR ARAUJO 2

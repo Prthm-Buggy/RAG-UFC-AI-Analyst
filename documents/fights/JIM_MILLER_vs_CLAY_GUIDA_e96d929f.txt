@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Covington vs. Lawler
+    Date: August 03, 2019
+    Location: Newark, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated CLAY GUIDA via Submission  
+  at 0:58 of round 1
+  Key stats:
+  - JIM MILLER landed 2 significant strikes
+  - CLAY GUIDA landed 2 significant strikes
+  - Knockdowns: JIM MILLER 0,  CLAY GUIDA 0
+  - Takedowns: JIM MILLER 0,  CLAY GUIDA 0

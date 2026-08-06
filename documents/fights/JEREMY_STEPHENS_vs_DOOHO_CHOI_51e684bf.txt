@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Stephens vs. Choi
+    Date: January 14, 2018
+    Location: St. Louis, Missouri, USA
+    Weight Class: Featherweight
+    
+
+    Result: JEREMY STEPHENS defeated DOOHO CHOI via KO/TKO  
+  at 2:36 of round 2
+  Key stats:
+  - JEREMY STEPHENS landed 49 significant strikes
+  - DOOHO CHOI landed 44 significant strikes
+  - Knockdowns: JEREMY STEPHENS 1,  DOOHO CHOI 0
+  - Takedowns: JEREMY STEPHENS 0,  DOOHO CHOI 0
+  Bonus: fight

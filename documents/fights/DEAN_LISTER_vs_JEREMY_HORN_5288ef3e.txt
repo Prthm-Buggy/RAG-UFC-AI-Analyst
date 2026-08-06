@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Rampage vs Team Forrest Finale
+    Date: June 21, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DEAN LISTER defeated JEREMY HORN via Submission  
+  at 3:52 of round 1
+  Key stats:
+  - DEAN LISTER landed 6 significant strikes
+  - JEREMY HORN landed 2 significant strikes
+  - Knockdowns: DEAN LISTER 0,  JEREMY HORN 0
+  - Takedowns: DEAN LISTER 1,  JEREMY HORN 0

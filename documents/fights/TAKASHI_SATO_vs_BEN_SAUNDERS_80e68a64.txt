@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs. Hermansson
+    Date: April 27, 2019
+    Location: Sunrise, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: TAKASHI SATO defeated BEN SAUNDERS via KO/TKO  
+  at 1:18 of round 2
+  Key stats:
+  - TAKASHI SATO landed 28 significant strikes
+  - BEN SAUNDERS landed 46 significant strikes
+  - Knockdowns: TAKASHI SATO 1,  BEN SAUNDERS 0
+  - Takedowns: TAKASHI SATO 0,  BEN SAUNDERS 0

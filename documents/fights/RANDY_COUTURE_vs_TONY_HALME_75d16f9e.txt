@@ -1,0 +1,13 @@
+Event: UFC 13: The Ultimate Force
+    Date: May 30, 1997
+    Location: Augusta, Georgia, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RANDY COUTURE defeated TONY HALME via Submission  
+  at 0:56 of round 1
+  Key stats:
+  - RANDY COUTURE landed 1 significant strikes
+  - TONY HALME landed 0 significant strikes
+  - Knockdowns: RANDY COUTURE 0,  TONY HALME 0
+  - Takedowns: RANDY COUTURE 1,  TONY HALME 0

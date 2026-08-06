@@ -1,0 +1,13 @@
+Event: UFC 28: High Stakes
+    Date: November 17, 2000
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARK HUGHES defeated ALEX STIEBLING via Decision - Unanimous  
+  at 5:00 of round 2
+  Key stats:
+  - MARK HUGHES landed 9 significant strikes
+  - ALEX STIEBLING landed 4 significant strikes
+  - Knockdowns: MARK HUGHES 0,  ALEX STIEBLING 0
+  - Takedowns: MARK HUGHES 2,  ALEX STIEBLING 0

@@ -1,0 +1,19 @@
+Event : The Ultimate Fighter: Team Jones vs. Team Sonnen Finale
+    Date : April 13, 2013
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Featherweight, Middleweight, Women's Bantamweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - COLE MILLER def. BART PALASZEWSKI via Submission(R1)
+- KELVIN GASTELUM def. URIAH HALL via Decision - Split(R3)
+- CLINT HESTER def. BRISTOL MARUNDE via KO/TKO(R3)
+- URIJAH FABER def. SCOTT JORGENSEN via Submission(R4)
+- DANIEL PINEDA def. JUSTIN LAWRENCE via Submission(R1)
+- JOSH SAMMAN def. KEVIN CASEY via KO/TKO(R2)
+- MAXIMO BLANCO def. SAM SICILIA via Decision - Unanimous(R3)
+- TRAVIS BROWNE def. GABRIEL GONZAGA via KO/TKO(R1)
+- CAT ZINGANO def. MIESHA TATE via KO/TKO(R3)
+- DYLAN ANDREWS def. JIMMY QUINLAN via KO/TKO(R1)
+- LUKE BARNATT def. COLLIN HART via Decision - Unanimous(R3)
+- ROBERT MCDANIEL def. GILBERT SMITH via Submission(R3)

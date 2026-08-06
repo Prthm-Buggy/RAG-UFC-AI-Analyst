@@ -1,0 +1,14 @@
+Event: UFC on FOX: Shevchenko vs. Pena
+    Date: January 28, 2017
+    Location: Denver, Colorado, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANCIS NGANNOU defeated ANDREI ARLOVSKI via KO/TKO  
+  at 1:32 of round 1
+  Key stats:
+  - FRANCIS NGANNOU landed 8 significant strikes
+  - ANDREI ARLOVSKI landed 3 significant strikes
+  - Knockdowns: FRANCIS NGANNOU 1,  ANDREI ARLOVSKI 0
+  - Takedowns: FRANCIS NGANNOU 0,  ANDREI ARLOVSKI 0
+  Bonus: perf

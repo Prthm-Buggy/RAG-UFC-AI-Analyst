@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blaydes vs. Dos Santos
+    Date: January 25, 2020
+    Location: Raleigh, North Carolina, USA
+    Weight Class: Featherweight
+    
+
+    Result: HERBERT BURNS defeated NATE LANDWEHR via KO/TKO  
+  at 2:43 of round 1
+  Key stats:
+  - HERBERT BURNS landed 7 significant strikes
+  - NATE LANDWEHR landed 4 significant strikes
+  - Knockdowns: HERBERT BURNS 1,  NATE LANDWEHR 0
+  - Takedowns: HERBERT BURNS 1,  NATE LANDWEHR 0
+  Bonus: perf

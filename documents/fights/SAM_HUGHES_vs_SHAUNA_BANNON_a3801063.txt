@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Imavov vs. Borralho
+    Date: September 06, 2025
+    Location: Paris, Ile-de-France, France
+    Weight Class: Women's Strawweight
+    
+
+    Result: SAM HUGHES defeated SHAUNA BANNON via Submission  
+  at 1:58 of round 2
+  Key stats:
+  - SAM HUGHES landed 21 significant strikes
+  - SHAUNA BANNON landed 13 significant strikes
+  - Knockdowns: SAM HUGHES 0,  SHAUNA BANNON 0
+  - Takedowns: SAM HUGHES 2,  SHAUNA BANNON 0

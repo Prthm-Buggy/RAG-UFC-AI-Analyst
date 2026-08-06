@@ -1,0 +1,13 @@
+Event: UFC 220: Miocic vs. Ngannou
+    Date: January 20, 2018
+    Location: Boston, Massachusetts, USA
+    Weight Class: Lightweight
+    
+
+    Result: ISLAM MAKHACHEV defeated GLEISON TIBAU via KO/TKO  
+  at 0:57 of round 1
+  Key stats:
+  - ISLAM MAKHACHEV landed 3 significant strikes
+  - GLEISON TIBAU landed 2 significant strikes
+  - Knockdowns: ISLAM MAKHACHEV 1,  GLEISON TIBAU 0
+  - Takedowns: ISLAM MAKHACHEV 0,  GLEISON TIBAU 0

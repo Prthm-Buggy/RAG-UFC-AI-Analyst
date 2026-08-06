@@ -1,0 +1,11 @@
+Fighter: KATLYN CERMINARA
+  Date of Birth: 1988-12-28
+  Career record: 17
+  First fight: 2016-07-13
+  Last fight: 2024-03-09
+
+Career Statistics:
+- Significant Strikes Landed :1104
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :5

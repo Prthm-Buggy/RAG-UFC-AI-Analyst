@@ -1,0 +1,14 @@
+Event: UFC 153: Silva vs Bonnar
+    Date: October 13, 2012
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: RONY JASON defeated SAM SICILIA via KO/TKO  
+  at 4:16 of round 2
+  Key stats:
+  - RONY JASON landed 46 significant strikes
+  - SAM SICILIA landed 39 significant strikes
+  - Knockdowns: RONY JASON 0,  SAM SICILIA 0
+  - Takedowns: RONY JASON 1,  SAM SICILIA 1
+  Bonus: ko

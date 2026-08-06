@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Allen
+    Date: April 15, 2023
+    Location: Kansas City, Missouri, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ZAK CUMMINGS defeated ED HERMAN via KO/TKO  
+  at 4:13 of round 3
+  Key stats:
+  - ZAK CUMMINGS landed 100 significant strikes
+  - ED HERMAN landed 54 significant strikes
+  - Knockdowns: ZAK CUMMINGS 3,  ED HERMAN 0
+  - Takedowns: ZAK CUMMINGS 0,  ED HERMAN 0

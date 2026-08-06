@@ -1,0 +1,11 @@
+Fighter: CHAD LAPRISE
+  Date of Birth: 1986-07-23
+  Career record: 10
+  First fight: 2014-04-16
+  Last fight: 2018-12-08
+
+Career Statistics:
+- Significant Strikes Landed :410
+- Total takedowns landed :6
+- Knockdowns :3
+- Submission Attempts :0

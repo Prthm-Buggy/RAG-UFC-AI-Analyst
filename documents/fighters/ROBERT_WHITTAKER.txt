@@ -1,0 +1,11 @@
+Fighter: ROBERT WHITTAKER
+  Date of Birth: 1990-12-20
+  Career record: 24
+  First fight: 2012-12-14
+  Last fight: 2025-07-26
+
+Career Statistics:
+- Significant Strikes Landed :1435
+- Total takedowns landed :16
+- Knockdowns :12
+- Submission Attempts :0

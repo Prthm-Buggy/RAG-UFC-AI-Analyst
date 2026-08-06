@@ -1,0 +1,11 @@
+Fighter: JOACHIM CHRISTENSEN
+  Date of Birth: 1978-11-07
+  Career record: 4
+  First fight: 2016-10-01
+  Last fight: 2017-06-25
+
+Career Statistics:
+- Significant Strikes Landed :93
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

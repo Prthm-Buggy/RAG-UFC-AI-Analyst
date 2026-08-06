@@ -1,0 +1,11 @@
+Fighter: DERRICK LEWIS
+  Date of Birth: 1985-02-07
+  Career record: 32
+  First fight: 2014-04-19
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :682
+- Total takedowns landed :10
+- Knockdowns :11
+- Submission Attempts :0

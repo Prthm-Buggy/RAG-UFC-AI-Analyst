@@ -1,0 +1,11 @@
+Fighter: MARCO BELTRAN
+  Date of Birth: 1986-05-18
+  Career record: 6
+  First fight: 2014-11-15
+  Last fight: 2017-10-07
+
+Career Statistics:
+- Significant Strikes Landed :134
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :1

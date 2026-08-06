@@ -1,0 +1,13 @@
+Event: UFC 293: Adesanya vs. Strickland
+    Date: September 09, 2023
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Featherweight
+    
+
+    Result: CHEPE MARISCAL defeated JACK JENKINS via KO/TKO  
+  at 3:19 of round 2
+  Key stats:
+  - CHEPE MARISCAL landed 38 significant strikes
+  - JACK JENKINS landed 41 significant strikes
+  - Knockdowns: CHEPE MARISCAL 0,  JACK JENKINS 0
+  - Takedowns: CHEPE MARISCAL 1,  JACK JENKINS 0

@@ -1,0 +1,11 @@
+Fighter: ENSON INOUE
+  Date of Birth: 1967-04-15
+  Career record: 1
+  First fight: 1997-05-30
+  Last fight: 1997-05-30
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

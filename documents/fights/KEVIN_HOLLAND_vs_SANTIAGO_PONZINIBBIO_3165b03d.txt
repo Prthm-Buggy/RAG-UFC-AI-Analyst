@@ -1,0 +1,13 @@
+Event: UFC 287: Pereira vs. Adesanya 2
+    Date: April 08, 2023
+    Location: Miami, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: KEVIN HOLLAND defeated SANTIAGO PONZINIBBIO via KO/TKO  
+  at 3:16 of round 3
+  Key stats:
+  - KEVIN HOLLAND landed 66 significant strikes
+  - SANTIAGO PONZINIBBIO landed 44 significant strikes
+  - Knockdowns: KEVIN HOLLAND 1,  SANTIAGO PONZINIBBIO 0
+  - Takedowns: KEVIN HOLLAND 0,  SANTIAGO PONZINIBBIO 0

@@ -1,0 +1,14 @@
+Event: UFC on FOX: Lawler vs Brown
+    Date: July 26, 2014
+    Location: San Jose, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: DENNIS BERMUDEZ defeated CLAY GUIDA via Submission  
+  at 2:57 of round 2
+  Key stats:
+  - DENNIS BERMUDEZ landed 47 significant strikes
+  - CLAY GUIDA landed 28 significant strikes
+  - Knockdowns: DENNIS BERMUDEZ 0,  CLAY GUIDA 0
+  - Takedowns: DENNIS BERMUDEZ 2,  CLAY GUIDA 0
+  Bonus: perf

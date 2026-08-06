@@ -1,0 +1,11 @@
+Fighter: MAKHMUD MURADOV
+  Date of Birth: 1990-02-08
+  Career record: 6
+  First fight: 2019-09-28
+  Last fight: 2023-07-22
+
+Career Statistics:
+- Significant Strikes Landed :332
+- Total takedowns landed :16
+- Knockdowns :3
+- Submission Attempts :1

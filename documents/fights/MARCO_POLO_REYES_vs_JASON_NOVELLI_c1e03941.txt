@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Ferguson
+    Date: November 05, 2016
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Lightweight
+    
+
+    Result: MARCO POLO REYES defeated JASON NOVELLI via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MARCO POLO REYES landed 50 significant strikes
+  - JASON NOVELLI landed 29 significant strikes
+  - Knockdowns: MARCO POLO REYES 0,  JASON NOVELLI 0
+  - Takedowns: MARCO POLO REYES 0,  JASON NOVELLI 1

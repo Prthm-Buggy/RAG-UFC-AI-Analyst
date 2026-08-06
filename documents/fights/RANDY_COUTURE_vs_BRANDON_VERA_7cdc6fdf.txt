@@ -1,0 +1,13 @@
+Event: UFC 105: Couture vs Vera
+    Date: November 14, 2009
+    Location: Manchester, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: RANDY COUTURE defeated BRANDON VERA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RANDY COUTURE landed 39 significant strikes
+  - BRANDON VERA landed 27 significant strikes
+  - Knockdowns: RANDY COUTURE 0,  BRANDON VERA 1
+  - Takedowns: RANDY COUTURE 1,  BRANDON VERA 1

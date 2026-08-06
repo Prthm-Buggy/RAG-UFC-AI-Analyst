@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ortega vs. The Korean Zombie
+    Date: October 17, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Flyweight
+    
+
+    Result: JESSICA ANDRADE defeated KATLYN CERMINARA via KO/TKO  
+  at 4:55 of round 1
+  Key stats:
+  - JESSICA ANDRADE landed 28 significant strikes
+  - KATLYN CERMINARA landed 19 significant strikes
+  - Knockdowns: JESSICA ANDRADE 1,  KATLYN CERMINARA 0
+  - Takedowns: JESSICA ANDRADE 2,  KATLYN CERMINARA 0
+  Bonus: perf

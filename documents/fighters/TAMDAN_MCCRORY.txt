@@ -1,0 +1,11 @@
+Fighter: TAMDAN MCCRORY
+  Date of Birth: 1986-11-05
+  Career record: 9
+  First fight: 2007-06-12
+  Last fight: 2016-10-01
+
+Career Statistics:
+- Significant Strikes Landed :160
+- Total takedowns landed :11
+- Knockdowns :0
+- Submission Attempts :11

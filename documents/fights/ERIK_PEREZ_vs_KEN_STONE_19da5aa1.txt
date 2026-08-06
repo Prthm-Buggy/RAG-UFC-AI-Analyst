@@ -1,0 +1,13 @@
+Event: UFC 150: Henderson vs Edgar II
+    Date: August 11, 2012
+    Location: Denver, Colorado, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ERIK PEREZ defeated KEN STONE via KO/TKO  
+  at 0:17 of round 1
+  Key stats:
+  - ERIK PEREZ landed 9 significant strikes
+  - KEN STONE landed 2 significant strikes
+  - Knockdowns: ERIK PEREZ 1,  KEN STONE 0
+  - Takedowns: ERIK PEREZ 0,  KEN STONE 0

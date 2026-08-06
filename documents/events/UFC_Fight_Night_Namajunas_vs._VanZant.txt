@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Namajunas vs. VanZant
+    Date : December 10, 2015
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Welterweight, Women's Strawweight, Featherweight, Lightweight, Middleweight
+
+    Fight Results:
+  - THIAGO SANTOS def. ELIAS THEODOROU via Decision - Unanimous(R3)
+- ROSE NAMAJUNAS def. PAIGE VANZANT via Submission(R5)
+- ALJAMAIN STERLING def. JOHNNY EDUARDO via Submission(R2)
+- TIM MEANS def. JOHN HOWARD via KO/TKO(R2)
+- SANTIAGO PONZINIBBIO def. ANDREAS STAHL via KO/TKO(R1)
+- KAILIN CURRAN def. EMILY KAGAN via Submission(R2)
+- SERGIO MORAES def. OMARI AKHMEDOV via KO/TKO(R3)
+- ZUBAIRA TUKHUGOV def. PHILLIPE NOVER via Decision - Split(R3)
+- MICHAEL CHIESA def. JIM MILLER via Submission(R2)
+- DANNY ROBERTS def. NATHAN COY via Submission(R1)
+- SAGE NORTHCUTT def. CODY PFISTER via Submission(R2)

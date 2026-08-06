@@ -1,0 +1,14 @@
+Event: UFC 291: Poirier vs. Gaethje 2
+    Date: July 29, 2023
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated MARCOS ROGERIO DE LIMA via KO/TKO  
+  at 0:33 of round 1
+  Key stats:
+  - DERRICK LEWIS landed 17 significant strikes
+  - MARCOS ROGERIO DE LIMA landed 1 significant strikes
+  - Knockdowns: DERRICK LEWIS 1,  MARCOS ROGERIO DE LIMA 0
+  - Takedowns: DERRICK LEWIS 0,  MARCOS ROGERIO DE LIMA 0
+  Bonus: perf

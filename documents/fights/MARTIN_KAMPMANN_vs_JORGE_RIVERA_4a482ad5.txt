@@ -1,0 +1,13 @@
+Event: UFC 85: Bedlam
+    Date: June 07, 2008
+    Location: London, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: MARTIN KAMPMANN defeated JORGE RIVERA via Submission  
+  at 2:44 of round 1
+  Key stats:
+  - MARTIN KAMPMANN landed 4 significant strikes
+  - JORGE RIVERA landed 2 significant strikes
+  - Knockdowns: MARTIN KAMPMANN 0,  JORGE RIVERA 0
+  - Takedowns: MARTIN KAMPMANN 1,  JORGE RIVERA 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ortega vs. Rodriguez
+    Date: July 16, 2022
+    Location: Elmont, New York, USA
+    Weight Class: Featherweight
+    
+
+    Result: YAIR RODRIGUEZ defeated BRIAN ORTEGA via KO/TKO  
+  at 4:11 of round 1
+  Key stats:
+  - YAIR RODRIGUEZ landed 23 significant strikes
+  - BRIAN ORTEGA landed 22 significant strikes
+  - Knockdowns: YAIR RODRIGUEZ 0,  BRIAN ORTEGA 0
+  - Takedowns: YAIR RODRIGUEZ 0,  BRIAN ORTEGA 1

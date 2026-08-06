@@ -1,0 +1,14 @@
+Event: UFC 122: Marquardt vs Okami
+    Date: November 13, 2010
+    Location: Oberhausen, North Rhine-Westphalia, Germany
+    Weight Class: Welterweight
+    
+
+    Result: PASCAL KRAUSS defeated MARK SCANLON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PASCAL KRAUSS landed 50 significant strikes
+  - MARK SCANLON landed 33 significant strikes
+  - Knockdowns: PASCAL KRAUSS 0,  MARK SCANLON 0
+  - Takedowns: PASCAL KRAUSS 3,  MARK SCANLON 3
+  Bonus: fight

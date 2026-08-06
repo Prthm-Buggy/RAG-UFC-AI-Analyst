@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Hughes vs. Team Franklin Finale
+    Date: November 05, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MELVIN GUILLARD defeated MARCUS DAVIS via TKO - Doctor's Stoppage  
+  at 2:55 of round 2
+  Key stats:
+  - MELVIN GUILLARD landed 19 significant strikes
+  - MARCUS DAVIS landed 3 significant strikes
+  - Knockdowns: MELVIN GUILLARD 0,  MARCUS DAVIS 0
+  - Takedowns: MELVIN GUILLARD 3,  MARCUS DAVIS 0

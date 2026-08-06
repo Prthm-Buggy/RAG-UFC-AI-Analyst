@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Heavy Hitters Finale
+    Date: November 30, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RAONI BARCELOS defeated CHRIS GUTIERREZ via Submission  
+  at 4:12 of round 2
+  Key stats:
+  - RAONI BARCELOS landed 35 significant strikes
+  - CHRIS GUTIERREZ landed 26 significant strikes
+  - Knockdowns: RAONI BARCELOS 0,  CHRIS GUTIERREZ 0
+  - Takedowns: RAONI BARCELOS 2,  CHRIS GUTIERREZ 0

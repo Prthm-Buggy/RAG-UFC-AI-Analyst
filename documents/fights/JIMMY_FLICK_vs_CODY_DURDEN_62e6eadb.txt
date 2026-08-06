@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Thompson vs. Neal
+    Date: December 19, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JIMMY FLICK defeated CODY DURDEN via Submission  
+  at 3:18 of round 1
+  Key stats:
+  - JIMMY FLICK landed 6 significant strikes
+  - CODY DURDEN landed 21 significant strikes
+  - Knockdowns: JIMMY FLICK 0,  CODY DURDEN 0
+  - Takedowns: JIMMY FLICK 0,  CODY DURDEN 2
+  Bonus: perf

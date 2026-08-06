@@ -1,0 +1,14 @@
+Event: UFC 5: The Return of the Beast
+    Date: April 07, 1995
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Open Weight
+    
+
+    Result: DAN SEVERN defeated DAVE BENETEAU via Submission  
+  at 3:01 of round 1
+  Key stats:
+  - DAN SEVERN landed 2 significant strikes
+  - DAVE BENETEAU landed 2 significant strikes
+  - Knockdowns: DAN SEVERN 0,  DAVE BENETEAU 0
+  - Takedowns: DAN SEVERN 1,  DAVE BENETEAU 0
+  Bonus: belt

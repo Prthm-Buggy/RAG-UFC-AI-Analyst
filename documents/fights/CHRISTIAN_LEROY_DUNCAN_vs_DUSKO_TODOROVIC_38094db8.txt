@@ -1,0 +1,13 @@
+Event: UFC 286: Edwards vs. Usman 3
+    Date: March 18, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: CHRISTIAN LEROY DUNCAN defeated DUSKO TODOROVIC via KO/TKO  
+  at 1:52 of round 1
+  Key stats:
+  - CHRISTIAN LEROY DUNCAN landed 9 significant strikes
+  - DUSKO TODOROVIC landed 4 significant strikes
+  - Knockdowns: CHRISTIAN LEROY DUNCAN 0,  DUSKO TODOROVIC 0
+  - Takedowns: CHRISTIAN LEROY DUNCAN 0,  DUSKO TODOROVIC 0

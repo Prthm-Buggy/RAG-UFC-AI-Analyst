@@ -1,0 +1,13 @@
+Event: UFC 316: Dvalishvili vs. O'Malley 2
+    Date: June 07, 2025
+    Location: Newark, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOE PYFER defeated KELVIN GASTELUM via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOE PYFER landed 57 significant strikes
+  - KELVIN GASTELUM landed 33 significant strikes
+  - Knockdowns: JOE PYFER 2,  KELVIN GASTELUM 0
+  - Takedowns: JOE PYFER 1,  KELVIN GASTELUM 0

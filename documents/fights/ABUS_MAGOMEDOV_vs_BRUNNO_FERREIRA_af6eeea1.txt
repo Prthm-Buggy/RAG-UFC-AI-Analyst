@@ -1,0 +1,13 @@
+Event: UFC 308: Topuria vs. Holloway
+    Date: October 26, 2024
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: ABUS MAGOMEDOV defeated BRUNNO FERREIRA via Submission  
+  at 3:14 of round 3
+  Key stats:
+  - ABUS MAGOMEDOV landed 26 significant strikes
+  - BRUNNO FERREIRA landed 29 significant strikes
+  - Knockdowns: ABUS MAGOMEDOV 0,  BRUNNO FERREIRA 0
+  - Takedowns: ABUS MAGOMEDOV 4,  BRUNNO FERREIRA 0

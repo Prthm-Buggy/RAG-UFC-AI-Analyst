@@ -1,0 +1,11 @@
+Fighter: PAT BARRY
+  Date of Birth: 1979-07-07
+  Career record: 12
+  First fight: 2008-12-27
+  Last fight: 2013-12-06
+
+Career Statistics:
+- Significant Strikes Landed :188
+- Total takedowns landed :0
+- Knockdowns :8
+- Submission Attempts :1

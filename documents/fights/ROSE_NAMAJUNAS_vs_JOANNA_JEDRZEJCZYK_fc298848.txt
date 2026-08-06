@@ -1,0 +1,14 @@
+Event: UFC 217: Bisping vs. St-Pierre
+    Date: November 04, 2017
+    Location: New York City, New York, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ROSE NAMAJUNAS defeated JOANNA JEDRZEJCZYK via KO/TKO  
+  at 3:03 of round 1
+  Key stats:
+  - ROSE NAMAJUNAS landed 15 significant strikes
+  - JOANNA JEDRZEJCZYK landed 5 significant strikes
+  - Knockdowns: ROSE NAMAJUNAS 1,  JOANNA JEDRZEJCZYK 0
+  - Takedowns: ROSE NAMAJUNAS 0,  JOANNA JEDRZEJCZYK 0
+  Bonus: belt

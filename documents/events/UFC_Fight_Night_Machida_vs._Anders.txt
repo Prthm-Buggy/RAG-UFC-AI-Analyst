@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Machida vs. Anders
+    Date : February 03, 2018
+    Location: Belem, Para, Brazil
+    Number of Fights: 11
+    Weight Classes: Lightweight, Middleweight, Welterweight, Flyweight, Women's Strawweight, Women's Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - THIAGO SANTOS def. ANTHONY SMITH via KO/TKO(R2)
+- DEIVESON FIGUEIREDO def. JOSEPH MORALES via KO/TKO(R2)
+- POLYANA VIANA def. MAIA STEVENSON via Submission(R1)
+- MICHEL PRAZERES def. DESMOND GREEN via Decision - Unanimous(R3)
+- VALENTINA SHEVCHENKO def. PRISCILA CACHOEIRA via Submission(R2)
+- DOUGLAS SILVA DE ANDRADE def. MARLON VERA via Decision - Unanimous(R3)
+- TIMOTHY JOHNSON def. MARCELO GOLM via Decision - Unanimous(R3)
+- IURI ALCANTARA def. JOE SOTO via KO/TKO(R1)
+- ALAN PATRICK def. DAMIR HADZOVIC via Decision - Unanimous(R3)
+- LYOTO MACHIDA def. ERYK ANDERS via Decision - Split(R5)
+- SERGIO MORAES def. TIM MEANS via Decision - Split(R3)

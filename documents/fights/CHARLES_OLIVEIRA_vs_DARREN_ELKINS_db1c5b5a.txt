@@ -1,0 +1,14 @@
+Event: UFC Live: Jones vs Matyushenko
+    Date: August 01, 2010
+    Location: San Diego, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated DARREN ELKINS via Submission  
+  at 0:41 of round 1
+  Key stats:
+  - CHARLES OLIVEIRA landed 3 significant strikes
+  - DARREN ELKINS landed 0 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  DARREN ELKINS 0
+  - Takedowns: CHARLES OLIVEIRA 0,  DARREN ELKINS 1
+  Bonus: sub

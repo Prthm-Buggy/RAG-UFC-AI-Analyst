@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fiziev vs. Gamrot
+    Date: September 23, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATEUSZ GAMROT defeated RAFAEL FIZIEV via KO/TKO  
+  at 2:03 of round 2
+  Key stats:
+  - MATEUSZ GAMROT landed 16 significant strikes
+  - RAFAEL FIZIEV landed 18 significant strikes
+  - Knockdowns: MATEUSZ GAMROT 0,  RAFAEL FIZIEV 0
+  - Takedowns: MATEUSZ GAMROT 1,  RAFAEL FIZIEV 0

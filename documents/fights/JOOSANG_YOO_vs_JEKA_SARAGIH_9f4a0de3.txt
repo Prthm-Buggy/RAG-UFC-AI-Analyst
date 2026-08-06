@@ -1,0 +1,14 @@
+Event: UFC 316: Dvalishvili vs. O'Malley 2
+    Date: June 07, 2025
+    Location: Newark, New Jersey, USA
+    Weight Class: Featherweight
+    
+
+    Result: JOOSANG YOO defeated JEKA SARAGIH via KO/TKO  
+  at 0:28 of round 1
+  Key stats:
+  - JOOSANG YOO landed 6 significant strikes
+  - JEKA SARAGIH landed 2 significant strikes
+  - Knockdowns: JOOSANG YOO 1,  JEKA SARAGIH 0
+  - Takedowns: JOOSANG YOO 0,  JEKA SARAGIH 0
+  Bonus: perf

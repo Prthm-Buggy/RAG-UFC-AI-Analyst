@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Rodrigues
+    Date: February 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GABRIEL BONFIM defeated KHAOS WILLIAMS via Submission  
+  at 4:58 of round 2
+  Key stats:
+  - GABRIEL BONFIM landed 35 significant strikes
+  - KHAOS WILLIAMS landed 20 significant strikes
+  - Knockdowns: GABRIEL BONFIM 0,  KHAOS WILLIAMS 0
+  - Takedowns: GABRIEL BONFIM 4,  KHAOS WILLIAMS 0
+  Bonus: perf

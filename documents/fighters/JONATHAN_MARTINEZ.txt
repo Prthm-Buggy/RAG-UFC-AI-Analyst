@@ -1,0 +1,11 @@
+Fighter: JONATHAN MARTINEZ
+  Date of Birth: 1994-04-20
+  Career record: 15
+  First fight: 2018-10-27
+  Last fight: 2024-11-16
+
+Career Statistics:
+- Significant Strikes Landed :887
+- Total takedowns landed :5
+- Knockdowns :9
+- Submission Attempts :1

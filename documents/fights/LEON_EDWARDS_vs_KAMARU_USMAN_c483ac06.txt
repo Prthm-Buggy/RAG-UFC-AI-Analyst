@@ -1,0 +1,14 @@
+Event: UFC 286: Edwards vs. Usman 3
+    Date: March 18, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: LEON EDWARDS defeated KAMARU USMAN via Decision - Majority  
+  at 5:00 of round 5
+  Key stats:
+  - LEON EDWARDS landed 120 significant strikes
+  - KAMARU USMAN landed 87 significant strikes
+  - Knockdowns: LEON EDWARDS 0,  KAMARU USMAN 0
+  - Takedowns: LEON EDWARDS 0,  KAMARU USMAN 4
+  Bonus: belt

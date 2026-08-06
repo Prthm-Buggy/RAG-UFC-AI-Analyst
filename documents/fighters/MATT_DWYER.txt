@@ -1,0 +1,11 @@
+Fighter: MATT DWYER
+  Date of Birth: 1989-12-17
+  Career record: 4
+  First fight: 2014-10-04
+  Last fight: 2016-01-30
+
+Career Statistics:
+- Significant Strikes Landed :88
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :0

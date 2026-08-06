@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Machida vs Munoz
+    Date : October 26, 2013
+    Location: Manchester, England, United Kingdom
+    Number of Fights: 11
+    Weight Classes: Lightweight, Light Heavyweight, Middleweight, Flyweight, Featherweight, Women's Bantamweight
+
+    Fight Results:
+  - JOHN LINEKER def. PHIL HARRIS via KO/TKO(R1)
+- JESSICA ANDRADE def. ROSI SEXTON via Decision - Unanimous(R3)
+- BRAD SCOTT def. MICHAEL KUIPER via Submission(R1)
+- JIMI MANUWA def. RYAN JIMMO via KO/TKO(R2)
+- AL IAQUINTA def. PIOTR HALLMANN via Decision - Unanimous(R3)
+- LUKE BARNATT def. ANDREW CRAIG via Submission(R2)
+- JIMY HETTES def. ROBERT WHITEFORD via Submission(R2)
+- LYOTO MACHIDA def. MARK MUNOZ via KO/TKO(R1)
+- NORMAN PARKE def. JON TUCK via Decision - Unanimous(R3)
+- COLE MILLER def. ANDY OGLE via Decision - Unanimous(R3)
+- NICHOLAS MUSOKE def. ALESSIO SAKARA via Submission(R1)

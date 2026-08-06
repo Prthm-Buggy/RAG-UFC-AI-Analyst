@@ -1,0 +1,13 @@
+Event: UFC 199: Rockhold vs. Bisping 2
+    Date: June 04, 2016
+    Location: Los Angeles, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: DUSTIN POIRIER defeated KING GREEN via KO/TKO  
+  at 2:53 of round 1
+  Key stats:
+  - DUSTIN POIRIER landed 36 significant strikes
+  - KING GREEN landed 16 significant strikes
+  - Knockdowns: DUSTIN POIRIER 2,  KING GREEN 0
+  - Takedowns: DUSTIN POIRIER 0,  KING GREEN 0

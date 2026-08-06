@@ -1,0 +1,11 @@
+Fighter: DEVONTE SMITH
+  Date of Birth: 1993-07-30
+  Career record: 6
+  First fight: 2018-11-10
+  Last fight: 2022-03-05
+
+Career Statistics:
+- Significant Strikes Landed :163
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :1

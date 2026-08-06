@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Luque vs. Dos Anjos
+    Date: August 12, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: IASMIN LUCINDO defeated POLYANA VIANA via Submission  
+  at 3:42 of round 2
+  Key stats:
+  - IASMIN LUCINDO landed 10 significant strikes
+  - POLYANA VIANA landed 10 significant strikes
+  - Knockdowns: IASMIN LUCINDO 0,  POLYANA VIANA 0
+  - Takedowns: IASMIN LUCINDO 2,  POLYANA VIANA 1
+  Bonus: perf

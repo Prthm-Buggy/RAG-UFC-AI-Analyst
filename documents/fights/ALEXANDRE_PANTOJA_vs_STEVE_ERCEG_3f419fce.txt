@@ -1,0 +1,14 @@
+Event: UFC 301: Pantoja vs. Erceg
+    Date: May 04, 2024
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: ALEXANDRE PANTOJA defeated STEVE ERCEG via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ALEXANDRE PANTOJA landed 125 significant strikes
+  - STEVE ERCEG landed 111 significant strikes
+  - Knockdowns: ALEXANDRE PANTOJA 0,  STEVE ERCEG 0
+  - Takedowns: ALEXANDRE PANTOJA 9,  STEVE ERCEG 1
+  Bonus: belt

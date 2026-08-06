@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Rousey vs. Team Tate Finale
+    Date: November 30, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NATE DIAZ defeated GRAY MAYNARD via KO/TKO  
+  at 2:38 of round 1
+  Key stats:
+  - NATE DIAZ landed 33 significant strikes
+  - GRAY MAYNARD landed 5 significant strikes
+  - Knockdowns: NATE DIAZ 0,  GRAY MAYNARD 0
+  - Takedowns: NATE DIAZ 0,  GRAY MAYNARD 1
+  Bonus: ko

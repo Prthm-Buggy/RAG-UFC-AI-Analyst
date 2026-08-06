@@ -1,0 +1,11 @@
+Fighter: SARAH KAUFMAN
+  Date of Birth: 1985-09-20
+  Career record: 3
+  First fight: 2014-04-16
+  Last fight: 2015-12-19
+
+Career Statistics:
+- Significant Strikes Landed :294
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

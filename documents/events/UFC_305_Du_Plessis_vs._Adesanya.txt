@@ -1,0 +1,19 @@
+Event : UFC 305: Du Plessis vs. Adesanya
+    Date : August 17, 2024
+    Location: Perth, Western Australia, Australia
+    Number of Fights: 12
+    Weight Classes: Women's Flyweight, Heavyweight, Featherweight, Flyweight, Lightweight, Welterweight, Middleweight
+
+    Fight Results:
+  - CARLOS PRATES def. LI JINGLIANG via KO/TKO(R2)
+- VALTER WALKER def. JUNIOR TAFA via Submission(R1)
+- CASEY O'NEILL def. LUANA SANTOS via Decision - Unanimous(R3)
+- JESUS AGUILAR def. STEWART NICOLL via Submission(R1)
+- JACK JENKINS def. HERBERT BURNS via KO/TKO(R3)
+- KAI KARA-FRANCE def. STEVE ERCEG via KO/TKO(R1)
+- DRICUS DU PLESSIS def. ISRAEL ADESANYA via Submission(R4)
+- TOM NOLAN def. ALEX REYES via Decision - Unanimous(R3)
+- SONG KENAN def. RICKY GLENN via Decision - Unanimous(R3)
+- DAN HOOKER def. MATEUSZ GAMROT via Decision - Split(R3)
+- RICARDO RAMOS def. JOSH CULIBAO via Decision - Split(R3)
+- JAIRZINHO ROZENSTRUIK def. TAI TUIVASA via Decision - Split(R3)

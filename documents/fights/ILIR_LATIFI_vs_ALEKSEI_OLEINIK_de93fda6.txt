@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Yan
+    Date: October 01, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ILIR LATIFI defeated ALEKSEI OLEINIK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ILIR LATIFI landed 38 significant strikes
+  - ALEKSEI OLEINIK landed 28 significant strikes
+  - Knockdowns: ILIR LATIFI 0,  ALEKSEI OLEINIK 0
+  - Takedowns: ILIR LATIFI 3,  ALEKSEI OLEINIK 0

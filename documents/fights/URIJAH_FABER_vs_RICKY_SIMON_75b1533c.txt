@@ -1,0 +1,14 @@
+Event: UFC Fight Night: De Randamie vs. Ladd
+    Date: July 13, 2019
+    Location: Sacramento, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: URIJAH FABER defeated RICKY SIMON via KO/TKO  
+  at 0:46 of round 1
+  Key stats:
+  - URIJAH FABER landed 11 significant strikes
+  - RICKY SIMON landed 4 significant strikes
+  - Knockdowns: URIJAH FABER 1,  RICKY SIMON 0
+  - Takedowns: URIJAH FABER 0,  RICKY SIMON 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 322: Della Maddalena vs. Makhachev
+    Date: November 15, 2025
+    Location: New York City, New York, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ERIN BLANCHFIELD defeated TRACY CORTEZ via Submission  
+  at 4:44 of round 2
+  Key stats:
+  - ERIN BLANCHFIELD landed 52 significant strikes
+  - TRACY CORTEZ landed 46 significant strikes
+  - Knockdowns: ERIN BLANCHFIELD 0,  TRACY CORTEZ 0
+  - Takedowns: ERIN BLANCHFIELD 2,  TRACY CORTEZ 1

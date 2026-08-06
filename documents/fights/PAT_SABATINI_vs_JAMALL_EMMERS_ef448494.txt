@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barboza vs. Chikadze
+    Date: August 28, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: PAT SABATINI defeated JAMALL EMMERS via Submission  
+  at 1:53 of round 1
+  Key stats:
+  - PAT SABATINI landed 1 significant strikes
+  - JAMALL EMMERS landed 10 significant strikes
+  - Knockdowns: PAT SABATINI 0,  JAMALL EMMERS 0
+  - Takedowns: PAT SABATINI 0,  JAMALL EMMERS 0
+  Bonus: perf

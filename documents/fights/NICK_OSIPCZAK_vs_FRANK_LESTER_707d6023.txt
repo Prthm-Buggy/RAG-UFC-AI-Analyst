@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: United States vs. United Kingdom Finale
+    Date: June 20, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: NICK OSIPCZAK defeated FRANK LESTER via Submission  
+  at 3:40 of round 1
+  Key stats:
+  - NICK OSIPCZAK landed 14 significant strikes
+  - FRANK LESTER landed 8 significant strikes
+  - Knockdowns: NICK OSIPCZAK 0,  FRANK LESTER 0
+  - Takedowns: NICK OSIPCZAK 1,  FRANK LESTER 0

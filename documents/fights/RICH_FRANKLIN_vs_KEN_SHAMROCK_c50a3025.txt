@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Couture vs. Team Liddell Finale
+    Date: April 09, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RICH FRANKLIN defeated KEN SHAMROCK via KO/TKO  
+  at 2:42 of round 1
+  Key stats:
+  - RICH FRANKLIN landed 23 significant strikes
+  - KEN SHAMROCK landed 0 significant strikes
+  - Knockdowns: RICH FRANKLIN 0,  KEN SHAMROCK 0
+  - Takedowns: RICH FRANKLIN 0,  KEN SHAMROCK 1

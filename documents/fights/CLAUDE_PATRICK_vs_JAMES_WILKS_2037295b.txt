@@ -1,0 +1,13 @@
+Event: UFC 120: Bisping vs Akiyama
+    Date: October 16, 2010
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: CLAUDE PATRICK defeated JAMES WILKS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CLAUDE PATRICK landed 23 significant strikes
+  - JAMES WILKS landed 12 significant strikes
+  - Knockdowns: CLAUDE PATRICK 0,  JAMES WILKS 0
+  - Takedowns: CLAUDE PATRICK 3,  JAMES WILKS 0

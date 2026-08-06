@@ -1,0 +1,14 @@
+Event: UFC 209: Woodley vs. Thompson 2
+    Date: March 04, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: IURI ALCANTARA defeated LUKE SANDERS via Submission  
+  at 3:13 of round 2
+  Key stats:
+  - IURI ALCANTARA landed 23 significant strikes
+  - LUKE SANDERS landed 94 significant strikes
+  - Knockdowns: IURI ALCANTARA 0,  LUKE SANDERS 0
+  - Takedowns: IURI ALCANTARA 1,  LUKE SANDERS 1
+  Bonus: perf

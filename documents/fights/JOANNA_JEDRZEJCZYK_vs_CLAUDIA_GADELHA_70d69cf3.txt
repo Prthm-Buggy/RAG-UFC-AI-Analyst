@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dos Santos vs Miocic
+    Date: December 13, 2014
+    Location: Phoenix, Arizona, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JOANNA JEDRZEJCZYK defeated CLAUDIA GADELHA via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JOANNA JEDRZEJCZYK landed 38 significant strikes
+  - CLAUDIA GADELHA landed 27 significant strikes
+  - Knockdowns: JOANNA JEDRZEJCZYK 1,  CLAUDIA GADELHA 0
+  - Takedowns: JOANNA JEDRZEJCZYK 0,  CLAUDIA GADELHA 7

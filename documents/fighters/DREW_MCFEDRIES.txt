@@ -1,0 +1,11 @@
+Fighter: DREW MCFEDRIES
+  Date of Birth: 1978-07-27
+  Career record: 9
+  First fight: 2006-11-18
+  Last fight: 2009-09-19
+
+Career Statistics:
+- Significant Strikes Landed :108
+- Total takedowns landed :2
+- Knockdowns :6
+- Submission Attempts :1

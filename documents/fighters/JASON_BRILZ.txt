@@ -1,0 +1,11 @@
+Fighter: JASON BRILZ
+  Date of Birth: 1975-07-07
+  Career record: 7
+  First fight: 2008-09-17
+  Last fight: 2011-11-19
+
+Career Statistics:
+- Significant Strikes Landed :185
+- Total takedowns landed :11
+- Knockdowns :0
+- Submission Attempts :6

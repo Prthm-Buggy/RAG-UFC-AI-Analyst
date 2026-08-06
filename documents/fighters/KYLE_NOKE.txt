@@ -1,0 +1,11 @@
+Fighter: KYLE NOKE
+  Date of Birth: 1980-03-18
+  Career record: 12
+  First fight: 2010-06-19
+  Last fight: 2016-11-26
+
+Career Statistics:
+- Significant Strikes Landed :357
+- Total takedowns landed :11
+- Knockdowns :3
+- Submission Attempts :4

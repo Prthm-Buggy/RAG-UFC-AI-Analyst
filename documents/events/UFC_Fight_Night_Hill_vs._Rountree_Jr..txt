@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Hill vs. Rountree Jr.
+    Date : June 21, 2025
+    Location: Baku, Azerbaijan
+    Number of Fights: 12
+    Weight Classes: Welterweight, Middleweight, Flyweight, Light Heavyweight, Lightweight, Women's Bantamweight, Catch Weight, Featherweight, Heavyweight
+
+    Fight Results:
+  - KLAUDIA SYGULA def. IRINA ALEKSEEVA via Decision - Unanimous(R3)
+- SEOKHYEON KO def. OBAN ELLIOTT via Decision - Unanimous(R3)
+- MOHAMMED USMAN def. HAMDY ABDELWAHAB via Decision - Unanimous(R3)
+- MYKTYBEK OROLBAI def. TOFIQ MUSAYEV via Submission(R1)
+- DARIA ZHELEZNIAKOVA def. MELISSA MULLINS via Decision - Unanimous(R3)
+- MUHAMMAD NAIMOV def. BOGDAN GRAD via Decision - Unanimous(R3)
+- JUNYONG PARK def. ISMAIL NAURDIEV via Decision - Unanimous(R3)
+- NAZIM SADYKHOV def. NIKOLAS MOTTA via KO/TKO(R2)
+- RAFAEL FIZIEV def. IGNACIO BAHAMONDES via Decision - Unanimous(R3)
+- TAGIR ULANBEKOV def. AZAT MAKSUM via Decision - Unanimous(R3)
+- KHALIL ROUNTREE JR. def. JAMAHAL HILL via Decision - Unanimous(R5)
+- CURTIS BLAYDES def. RIZVAN KUNIEV via Decision - Split(R3)

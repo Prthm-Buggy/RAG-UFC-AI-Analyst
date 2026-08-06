@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Rakic
+    Date: August 29, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: POLYANA VIANA defeated EMILY WHITMIRE via Submission  
+  at 1:53 of round 1
+  Key stats:
+  - POLYANA VIANA landed 9 significant strikes
+  - EMILY WHITMIRE landed 2 significant strikes
+  - Knockdowns: POLYANA VIANA 0,  EMILY WHITMIRE 0
+  - Takedowns: POLYANA VIANA 0,  EMILY WHITMIRE 0

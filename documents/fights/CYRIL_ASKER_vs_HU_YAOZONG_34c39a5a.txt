@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bisping vs. Gastelum
+    Date: November 25, 2017
+    Location: Shanghai, Hebei, China
+    Weight Class: Heavyweight
+    
+
+    Result: CYRIL ASKER defeated HU YAOZONG via Submission  
+  at 2:33 of round 2
+  Key stats:
+  - CYRIL ASKER landed 20 significant strikes
+  - HU YAOZONG landed 8 significant strikes
+  - Knockdowns: CYRIL ASKER 0,  HU YAOZONG 0
+  - Takedowns: CYRIL ASKER 4,  HU YAOZONG 0

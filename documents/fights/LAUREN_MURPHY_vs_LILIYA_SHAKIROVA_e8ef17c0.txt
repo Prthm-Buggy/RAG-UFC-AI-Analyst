@@ -1,0 +1,13 @@
+Event: UFC 254: Khabib vs. Gaethje
+    Date: October 24, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Flyweight
+    
+
+    Result: LAUREN MURPHY defeated LILIYA SHAKIROVA via Submission  
+  at 3:31 of round 2
+  Key stats:
+  - LAUREN MURPHY landed 22 significant strikes
+  - LILIYA SHAKIROVA landed 23 significant strikes
+  - Knockdowns: LAUREN MURPHY 0,  LILIYA SHAKIROVA 0
+  - Takedowns: LAUREN MURPHY 1,  LILIYA SHAKIROVA 0

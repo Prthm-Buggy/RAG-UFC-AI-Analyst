@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lauzon vs Stephens
+    Date: February 07, 2009
+    Location: Tampa, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE LAUZON defeated JEREMY STEPHENS via Submission  
+  at 4:43 of round 2
+  Key stats:
+  - JOE LAUZON landed 11 significant strikes
+  - JEREMY STEPHENS landed 15 significant strikes
+  - Knockdowns: JOE LAUZON 0,  JEREMY STEPHENS 0
+  - Takedowns: JOE LAUZON 2,  JEREMY STEPHENS 1
+  Bonus: sub

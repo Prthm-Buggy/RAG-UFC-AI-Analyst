@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gustafsson vs. Teixeira
+    Date: May 28, 2017
+    Location: Stockholm, Sweden
+    Weight Class: Welterweight
+    
+
+    Result: PETER SOBOTTA defeated BEN SAUNDERS via KO/TKO  
+  at 2:29 of round 2
+  Key stats:
+  - PETER SOBOTTA landed 46 significant strikes
+  - BEN SAUNDERS landed 19 significant strikes
+  - Knockdowns: PETER SOBOTTA 3,  BEN SAUNDERS 0
+  - Takedowns: PETER SOBOTTA 0,  BEN SAUNDERS 0

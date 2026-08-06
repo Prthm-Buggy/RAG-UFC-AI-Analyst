@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gaethje vs. Vick
+    Date: August 25, 2018
+    Location: Lincoln, Nebraska, USA
+    Weight Class: Featherweight
+    
+
+    Result: MICHAEL JOHNSON defeated ANDRE FILI via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MICHAEL JOHNSON landed 65 significant strikes
+  - ANDRE FILI landed 37 significant strikes
+  - Knockdowns: MICHAEL JOHNSON 0,  ANDRE FILI 0
+  - Takedowns: MICHAEL JOHNSON 0,  ANDRE FILI 2

@@ -1,0 +1,13 @@
+Event: UFC Live: Cruz vs Johnson
+    Date: October 01, 2011
+    Location: Washington, DC, USA
+    Weight Class: Lightweight
+    
+
+    Result: PAUL SASS defeated MICHAEL JOHNSON via Submission  
+  at 3:00 of round 1
+  Key stats:
+  - PAUL SASS landed 2 significant strikes
+  - MICHAEL JOHNSON landed 8 significant strikes
+  - Knockdowns: PAUL SASS 0,  MICHAEL JOHNSON 0
+  - Takedowns: PAUL SASS 0,  MICHAEL JOHNSON 0

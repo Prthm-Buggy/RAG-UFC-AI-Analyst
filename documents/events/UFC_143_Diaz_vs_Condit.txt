@@ -1,0 +1,18 @@
+Event : UFC 143: Diaz vs Condit
+    Date : February 04, 2012
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Middleweight, Welterweight, Featherweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - MATT BROWN def. CHRIS COPE via KO/TKO(R2)
+- STEPHEN THOMPSON def. DAN STITTGEN via KO/TKO(R1)
+- DUSTIN POIRIER def. MAX HOLLOWAY via Submission(R1)
+- RAFAEL NATAL def. MICHAEL KUIPER via Decision - Unanimous(R3)
+- MATTHEW RIDDLE def. HENRY MARTINEZ via Decision - Split(R3)
+- ED HERMAN def. CLIFFORD STARKS via Submission(R2)
+- CARLOS CONDIT def. NICK DIAZ via Decision - Unanimous(R5)
+- RENAN BARAO def. SCOTT JORGENSEN via Decision - Unanimous(R3)
+- JOSH KOSCHECK def. MIKE PIERCE via Decision - Split(R3)
+- FABRICIO WERDUM def. ROY NELSON via Decision - Unanimous(R3)
+- EDWIN FIGUEROA def. ALEX CACERES via Decision - Split(R3)

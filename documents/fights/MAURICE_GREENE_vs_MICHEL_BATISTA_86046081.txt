@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Heavy Hitters Finale
+    Date: November 30, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MAURICE GREENE defeated MICHEL BATISTA via Submission  
+  at 2:14 of round 1
+  Key stats:
+  - MAURICE GREENE landed 9 significant strikes
+  - MICHEL BATISTA landed 0 significant strikes
+  - Knockdowns: MAURICE GREENE 0,  MICHEL BATISTA 0
+  - Takedowns: MAURICE GREENE 0,  MICHEL BATISTA 1

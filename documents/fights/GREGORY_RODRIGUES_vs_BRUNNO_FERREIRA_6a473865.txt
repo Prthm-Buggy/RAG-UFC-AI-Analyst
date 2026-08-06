@@ -1,0 +1,14 @@
+Event: UFC 326: Holloway vs. Oliveira 2
+    Date: March 07, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GREGORY RODRIGUES defeated BRUNNO FERREIRA via KO/TKO  
+  at 1:47 of round 1
+  Key stats:
+  - GREGORY RODRIGUES landed 2 significant strikes
+  - BRUNNO FERREIRA landed 2 significant strikes
+  - Knockdowns: GREGORY RODRIGUES 1,  BRUNNO FERREIRA 0
+  - Takedowns: GREGORY RODRIGUES 0,  BRUNNO FERREIRA 0
+  Bonus: perf

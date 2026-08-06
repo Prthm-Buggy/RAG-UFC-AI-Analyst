@@ -1,0 +1,17 @@
+Event : UFC on FX: Alves vs Kampmann
+    Date : March 02, 2012
+    Location: Sydney, New South Wales, Australia
+    Number of Fights: 10
+    Weight Classes: Welterweight, Flyweight, Light Heavyweight, Middleweight, Featherweight, Heavyweight
+
+    Fight Results:
+  - JAMES TE HUNA def. AARON ROSA via KO/TKO(R1)
+- SHAWN JORDAN def. OLI THOMPSON via KO/TKO(R2)
+- DANIEL PINEDA def. MACKENS SEMERZIER via Submission(R1)
+- JOSEPH BENAVIDEZ def. YASUHIRO URUSHITANI via KO/TKO(R2)
+- ANTHONY PEROSH def. NICK PENNER via KO/TKO(R1)
+- TJ WALDBURGER def. JAKE HECHT via Submission(R1)
+- STEVEN SILER def. COLE MILLER via Decision - Unanimous(R3)
+- CONSTANTINOS PHILIPPOU def. COURT MCGEE via Decision - Unanimous(R3)
+- ANDREW CRAIG def. KYLE NOKE via Decision - Unanimous(R3)
+- MARTIN KAMPMANN def. THIAGO ALVES via Submission(R3)

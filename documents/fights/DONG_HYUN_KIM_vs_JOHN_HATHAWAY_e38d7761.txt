@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kim vs Hathaway
+    Date: March 01, 2014
+    Location: Macau, China
+    Weight Class: Welterweight
+    
+
+    Result: DONG HYUN KIM defeated JOHN HATHAWAY via KO/TKO  
+  at 1:02 of round 3
+  Key stats:
+  - DONG HYUN KIM landed 27 significant strikes
+  - JOHN HATHAWAY landed 27 significant strikes
+  - Knockdowns: DONG HYUN KIM 2,  JOHN HATHAWAY 0
+  - Takedowns: DONG HYUN KIM 1,  JOHN HATHAWAY 1
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night 3
+    Date: January 16, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: STEPHAN BONNAR defeated JAMES IRVIN via Submission  
+  at 4:30 of round 1
+  Key stats:
+  - STEPHAN BONNAR landed 2 significant strikes
+  - JAMES IRVIN landed 5 significant strikes
+  - Knockdowns: STEPHAN BONNAR 0,  JAMES IRVIN 0
+  - Takedowns: STEPHAN BONNAR 2,  JAMES IRVIN 0

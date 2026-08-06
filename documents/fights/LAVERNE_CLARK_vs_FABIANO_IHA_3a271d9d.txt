@@ -1,0 +1,13 @@
+Event: UFC 20: Battle for the Gold
+    Date: May 07, 1999
+    Location: Birmingham, Alabama, USA
+    Weight Class: Lightweight
+    
+
+    Result: LAVERNE CLARK defeated FABIANO IHA via TKO - Doctor's Stoppage  
+  at 1:21 of round 1
+  Key stats:
+  - LAVERNE CLARK landed 6 significant strikes
+  - FABIANO IHA landed 0 significant strikes
+  - Knockdowns: LAVERNE CLARK 1,  FABIANO IHA 0
+  - Takedowns: LAVERNE CLARK 0,  FABIANO IHA 0

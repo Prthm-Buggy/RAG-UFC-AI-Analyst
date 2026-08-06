@@ -1,0 +1,11 @@
+Fighter: FREDY SERRANO
+  Date of Birth: 1979-09-22
+  Career record: 4
+  First fight: 2015-03-21
+  Last fight: 2016-12-17
+
+Career Statistics:
+- Significant Strikes Landed :67
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Teixeira
+    Date: July 12, 2025
+    Location: Nashville, Tennessee, USA
+    Weight Class: Welterweight
+    
+
+    Result: JAKE MATTHEWS defeated CHIDI NJOKUANI via Submission  
+  at 1:09 of round 1
+  Key stats:
+  - JAKE MATTHEWS landed 3 significant strikes
+  - CHIDI NJOKUANI landed 5 significant strikes
+  - Knockdowns: JAKE MATTHEWS 0,  CHIDI NJOKUANI 0
+  - Takedowns: JAKE MATTHEWS 1,  CHIDI NJOKUANI 0

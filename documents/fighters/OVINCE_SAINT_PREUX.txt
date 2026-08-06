@@ -1,0 +1,11 @@
+Fighter: OVINCE SAINT PREUX
+  Date of Birth: 1983-04-08
+  Career record: 28
+  First fight: 2013-04-27
+  Last fight: 2024-10-05
+
+Career Statistics:
+- Significant Strikes Landed :793
+- Total takedowns landed :15
+- Knockdowns :6
+- Submission Attempts :6

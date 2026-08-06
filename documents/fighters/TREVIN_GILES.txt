@@ -1,0 +1,11 @@
+Fighter: TREVIN GILES
+  Date of Birth: 1992-08-06
+  Career record: 14
+  First fight: 2017-07-08
+  Last fight: 2024-11-02
+
+Career Statistics:
+- Significant Strikes Landed :487
+- Total takedowns landed :11
+- Knockdowns :3
+- Submission Attempts :3

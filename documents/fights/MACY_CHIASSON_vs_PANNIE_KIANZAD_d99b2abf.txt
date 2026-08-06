@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Heavy Hitters Finale
+    Date: November 30, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: MACY CHIASSON defeated PANNIE KIANZAD via Submission  
+  at 2:11 of round 2
+  Key stats:
+  - MACY CHIASSON landed 24 significant strikes
+  - PANNIE KIANZAD landed 19 significant strikes
+  - Knockdowns: MACY CHIASSON 1,  PANNIE KIANZAD 0
+  - Takedowns: MACY CHIASSON 0,  PANNIE KIANZAD 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC 86: Jackson vs Griffin
+    Date: July 05, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TYSON GRIFFIN defeated MARCUS AURELIO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TYSON GRIFFIN landed 92 significant strikes
+  - MARCUS AURELIO landed 20 significant strikes
+  - Knockdowns: TYSON GRIFFIN 0,  MARCUS AURELIO 0
+  - Takedowns: TYSON GRIFFIN 3,  MARCUS AURELIO 0

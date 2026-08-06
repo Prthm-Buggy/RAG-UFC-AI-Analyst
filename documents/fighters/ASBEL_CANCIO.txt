@@ -1,0 +1,11 @@
+Fighter: ASBEL CANCIO
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 1995-04-07
+  Last fight: 1995-04-07
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

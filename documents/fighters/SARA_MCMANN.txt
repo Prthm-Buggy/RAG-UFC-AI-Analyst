@@ -1,0 +1,11 @@
+Fighter: SARA MCMANN
+  Date of Birth: 1980-09-24
+  Career record: 13
+  First fight: 2013-04-27
+  Last fight: 2022-03-26
+
+Career Statistics:
+- Significant Strikes Landed :259
+- Total takedowns landed :27
+- Knockdowns :1
+- Submission Attempts :4

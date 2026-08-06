@@ -1,0 +1,14 @@
+Event: UFC 279: Diaz vs. Ferguson
+    Date: September 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JOHNNY WALKER defeated ION CUTELABA via Submission  
+  at 4:37 of round 1
+  Key stats:
+  - JOHNNY WALKER landed 3 significant strikes
+  - ION CUTELABA landed 3 significant strikes
+  - Knockdowns: JOHNNY WALKER 0,  ION CUTELABA 0
+  - Takedowns: JOHNNY WALKER 1,  ION CUTELABA 1
+  Bonus: perf

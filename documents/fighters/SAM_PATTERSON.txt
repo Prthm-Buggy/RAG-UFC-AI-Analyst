@@ -1,0 +1,11 @@
+Fighter: SAM PATTERSON
+  Date of Birth: 1996-04-30
+  Career record: 6
+  First fight: 2023-03-18
+  Last fight: 2026-03-21
+
+Career Statistics:
+- Significant Strikes Landed :71
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :2

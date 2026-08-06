@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Chiesa vs. Magny
+    Date: January 20, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Bantamweight
+    
+
+    Result: RICKY SIMON defeated GAETANO PIRRELLO via Submission  
+  at 4:00 of round 2
+  Key stats:
+  - RICKY SIMON landed 17 significant strikes
+  - GAETANO PIRRELLO landed 6 significant strikes
+  - Knockdowns: RICKY SIMON 0,  GAETANO PIRRELLO 0
+  - Takedowns: RICKY SIMON 7,  GAETANO PIRRELLO 0

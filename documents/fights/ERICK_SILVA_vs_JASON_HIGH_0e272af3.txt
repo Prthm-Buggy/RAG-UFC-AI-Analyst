@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Nogueira vs. Werdum
+    Date: June 08, 2013
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: ERICK SILVA defeated JASON HIGH via Submission  
+  at 1:11 of round 1
+  Key stats:
+  - ERICK SILVA landed 0 significant strikes
+  - JASON HIGH landed 0 significant strikes
+  - Knockdowns: ERICK SILVA 0,  JASON HIGH 0
+  - Takedowns: ERICK SILVA 0,  JASON HIGH 0
+  Bonus: sub

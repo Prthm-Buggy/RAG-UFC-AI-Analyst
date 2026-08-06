@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Machado Garry vs. Prates
+    Date : April 26, 2025
+    Location: Kansas City, Missouri, USA
+    Number of Fights: 14
+    Weight Classes: Light Heavyweight, Featherweight, Middleweight, Welterweight, Lightweight, Women's Bantamweight, Flyweight, Women's Strawweight, Bantamweight
+
+    Fight Results:
+  - DAVID ONAMA def. GIGA CHIKADZE via Decision - Unanimous(R3)
+- IKRAM ALISKEROV def. ANDRE MUNIZ via KO/TKO(R1)
+- JOSELYNE EDWARDS def. CHELSEA CHANDLER via KO/TKO(R1)
+- DA'MON BLACKSHEAR def. ALATENGHEILI via Decision - Unanimous(R3)
+- MALCOLM WELLMAKER def. CAMERON SAAIMAN via KO/TKO(R1)
+- ABUS MAGOMEDOV def. MICHEL PEREIRA via Decision - Unanimous(R3)
+- MATT SCHNELL def. JIMMY FLICK via Decision - Unanimous(R3)
+- CHRIS GUTIERREZ def. JOHN CASTANEDA via Decision - Split(R3)
+- RANDY BROWN def. NICOLAS DALBY via KO/TKO(R2)
+- JAQUELINE AMORIM def. POLYANA VIANA via Submission(R2)
+- ZHANG MINGYANG def. ANTHONY SMITH via KO/TKO(R1)
+- IAN MACHADO GARRY def. CARLOS PRATES via Decision - Unanimous(R5)
+- TIMMY CUAMBA def. ROBERTO ROMERO via KO/TKO(R2)
+- EVAN ELDER def. GAUGE YOUNG via Decision - Unanimous(R3)

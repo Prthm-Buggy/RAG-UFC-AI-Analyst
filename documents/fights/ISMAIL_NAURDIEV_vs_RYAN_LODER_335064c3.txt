@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tsarukyan vs. Hooker
+    Date: November 22, 2025
+    Location: Doha, Qatar
+    Weight Class: Middleweight
+    
+
+    Result: ISMAIL NAURDIEV defeated RYAN LODER via KO/TKO  
+  at 1:26 of round 1
+  Key stats:
+  - ISMAIL NAURDIEV landed 3 significant strikes
+  - RYAN LODER landed 1 significant strikes
+  - Knockdowns: ISMAIL NAURDIEV 1,  RYAN LODER 0
+  - Takedowns: ISMAIL NAURDIEV 0,  RYAN LODER 0

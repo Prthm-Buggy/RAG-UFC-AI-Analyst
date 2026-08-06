@@ -1,0 +1,11 @@
+Fighter: LEWIS GONZALEZ
+  Date of Birth: 1987-09-19
+  Career record: 1
+  First fight: 2015-06-27
+  Last fight: 2015-06-27
+
+Career Statistics:
+- Significant Strikes Landed :21
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

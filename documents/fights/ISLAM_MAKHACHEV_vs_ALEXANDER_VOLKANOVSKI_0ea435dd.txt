@@ -1,0 +1,14 @@
+Event: UFC 294: Makhachev vs. Volkanovski 2
+    Date: October 21, 2023
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: ISLAM MAKHACHEV defeated ALEXANDER VOLKANOVSKI via KO/TKO  
+  at 3:06 of round 1
+  Key stats:
+  - ISLAM MAKHACHEV landed 24 significant strikes
+  - ALEXANDER VOLKANOVSKI landed 4 significant strikes
+  - Knockdowns: ISLAM MAKHACHEV 1,  ALEXANDER VOLKANOVSKI 0
+  - Takedowns: ISLAM MAKHACHEV 0,  ALEXANDER VOLKANOVSKI 0
+  Bonus: belt

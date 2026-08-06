@@ -1,0 +1,17 @@
+Event : The Ultimate Fighter: Team Edgar vs. Team Penn Finale
+    Date : July 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Light Heavyweight, Middleweight, Featherweight, Lightweight, Catch Weight, Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - LEANDRO ISSA def. JUMABIEKE TUERXUN via Submission(R3)
+- KEVIN LEE def. JESSE RONSON via Decision - Split(R3)
+- ADRIANO MARTINS def. JUAN MANUEL PUIG via KO/TKO(R1)
+- SARAH MORAS def. ALEXIS DUFRESNE via Decision - Unanimous(R3)
+- COREY ANDERSON def. MATT VAN BUREN via KO/TKO(R1)
+- DUSTIN ORTIZ def. JUSTIN SCOGGINS via Decision - Split(R3)
+- FRANKIE EDGAR def. BJ PENN via KO/TKO(R3)
+- EDDIE GORDON def. DHIEGO LIMA via KO/TKO(R1)
+- DERRICK LEWIS def. GUTO INOCENTE via KO/TKO(R1)
+- PATRICK WALSH def. DANIEL SPOHN via Decision - Unanimous(R3)

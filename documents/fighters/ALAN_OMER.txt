@@ -1,0 +1,11 @@
+Fighter: ALAN OMER
+  Date of Birth: 1988-09-14
+  Career record: 2
+  First fight: 2014-04-11
+  Last fight: 2015-06-20
+
+Career Statistics:
+- Significant Strikes Landed :93
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

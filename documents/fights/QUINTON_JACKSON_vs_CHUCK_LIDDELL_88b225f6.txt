@@ -1,0 +1,14 @@
+Event: UFC 71: Liddell vs Jackson
+    Date: May 26, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: QUINTON JACKSON defeated CHUCK LIDDELL via KO/TKO  
+  at 1:53 of round 1
+  Key stats:
+  - QUINTON JACKSON landed 6 significant strikes
+  - CHUCK LIDDELL landed 4 significant strikes
+  - Knockdowns: QUINTON JACKSON 1,  CHUCK LIDDELL 0
+  - Takedowns: QUINTON JACKSON 0,  CHUCK LIDDELL 0
+  Bonus: belt

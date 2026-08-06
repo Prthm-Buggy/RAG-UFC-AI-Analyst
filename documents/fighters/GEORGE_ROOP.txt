@@ -1,0 +1,11 @@
+Fighter: GEORGE ROOP
+  Date of Birth: 1981-11-10
+  Career record: 13
+  First fight: 2008-12-13
+  Last fight: 2015-09-26
+
+Career Statistics:
+- Significant Strikes Landed :471
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :1

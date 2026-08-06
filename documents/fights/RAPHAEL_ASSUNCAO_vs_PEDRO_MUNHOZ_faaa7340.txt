@@ -1,0 +1,13 @@
+Event: UFC 170: Rousey vs McMann
+    Date: February 22, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RAPHAEL ASSUNCAO defeated PEDRO MUNHOZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAPHAEL ASSUNCAO landed 100 significant strikes
+  - PEDRO MUNHOZ landed 33 significant strikes
+  - Knockdowns: RAPHAEL ASSUNCAO 0,  PEDRO MUNHOZ 0
+  - Takedowns: RAPHAEL ASSUNCAO 3,  PEDRO MUNHOZ 0

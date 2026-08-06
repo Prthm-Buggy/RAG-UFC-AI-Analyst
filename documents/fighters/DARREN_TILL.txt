@@ -1,0 +1,11 @@
+Fighter: DARREN TILL
+  Date of Birth: 1992-12-24
+  Career record: 11
+  First fight: 2015-05-30
+  Last fight: 2022-12-10
+
+Career Statistics:
+- Significant Strikes Landed :326
+- Total takedowns landed :6
+- Knockdowns :4
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC 38: Brawl at the Hall
+    Date: July 13, 2002
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: PHILLIP MILLER defeated JAMES ZIKIC via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PHILLIP MILLER landed 30 significant strikes
+  - JAMES ZIKIC landed 29 significant strikes
+  - Knockdowns: PHILLIP MILLER 0,  JAMES ZIKIC 0
+  - Takedowns: PHILLIP MILLER 4,  JAMES ZIKIC 0

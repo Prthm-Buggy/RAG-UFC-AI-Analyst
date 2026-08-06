@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Iaquinta vs. Cowboy
+    Date: May 04, 2019
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Featherweight
+    
+
+    Result: MATT SAYLES defeated KYLE NELSON via Submission  
+  at 3:16 of round 3
+  Key stats:
+  - MATT SAYLES landed 75 significant strikes
+  - KYLE NELSON landed 26 significant strikes
+  - Knockdowns: MATT SAYLES 0,  KYLE NELSON 0
+  - Takedowns: MATT SAYLES 0,  KYLE NELSON 2

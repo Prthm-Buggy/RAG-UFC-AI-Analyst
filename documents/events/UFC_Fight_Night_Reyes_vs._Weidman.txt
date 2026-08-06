@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Reyes vs. Weidman
+    Date : October 18, 2019
+    Location: Boston, Massachusetts, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Women's Flyweight, Middleweight, Welterweight, Featherweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - DOMINICK REYES def. CHRIS WEIDMAN via KO/TKO(R1)
+- SEAN WOODSON def. KYLE BOCHNIAK via Decision - Unanimous(R3)
+- BRENDAN ALLEN def. KEVIN HOLLAND via Submission(R2)
+- RANDY COSTA def. BOSTON SALMON via KO/TKO(R1)
+- TANNER BOSER def. DANIEL SPITZ via Decision - Unanimous(R3)
+- MOLLY MCCANN def. DIANA BELBITA via Decision - Unanimous(R3)
+- MAYCEE BARBER def. GILLIAN ROBERTSON via KO/TKO(R1)
+- DARREN STEWART def. DERON WINN via Decision - Split(R3)
+- CHARLES ROSA def. MANNY BERMUDEZ via Submission(R1)
+- SEAN BRADY def. COURT MCGEE via Decision - Unanimous(R3)
+- JOE LAUZON def. JONATHAN PEARCE via KO/TKO(R1)
+- YAIR RODRIGUEZ def. JEREMY STEPHENS via Decision - Unanimous(R3)

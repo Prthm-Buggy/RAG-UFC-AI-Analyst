@@ -1,0 +1,11 @@
+Fighter: BROGAN WALKER
+  Date of Birth: 1988-08-02
+  Career record: 3
+  First fight: 2022-08-06
+  Last fight: 2025-10-04
+
+Career Statistics:
+- Significant Strikes Landed :81
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC 131: Dos Santos vs Carwin
+    Date: June 11, 2011
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Featherweight
+    
+
+    Result: DUSTIN POIRIER defeated JASON YOUNG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DUSTIN POIRIER landed 77 significant strikes
+  - JASON YOUNG landed 57 significant strikes
+  - Knockdowns: DUSTIN POIRIER 0,  JASON YOUNG 0
+  - Takedowns: DUSTIN POIRIER 5,  JASON YOUNG 0

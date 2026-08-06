@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Song vs. Gutierrez
+    Date : December 09, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Middleweight, Flyweight, Women's Strawweight, Women's Bantamweight, Lightweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - TATSURO TAIRA def. CARLOS HERNANDEZ via KO/TKO(R2)
+- STEVE GARCIA def. MELQUIZAEL COSTA via KO/TKO(R2)
+- LUANA SANTOS def. STEPHANIE EGGER via Decision - Unanimous(R3)
+- HYUNSUNG PARK def. SHANNON ROSS via KO/TKO(R2)
+- TALITA ALENCAR def. RAYANNE DOS SANTOS via Decision - Split(R3)
+- SONG YADONG def. CHRIS GUTIERREZ via Decision - Unanimous(R5)
+- TIM ELLIOTT def. SUMUDAERJI via Submission(R1)
+- ANDRE MUNIZ def. JUNYONG PARK via Decision - Split(R3)
+- KEVIN JOUSSET def. SONG KENAN via Decision - Unanimous(R3)
+- NASRAT HAQPARAST def. JAMIE MULLARKEY via KO/TKO(R1)
+- KHALIL ROUNTREE JR. def. ANTHONY SMITH via KO/TKO(R3)

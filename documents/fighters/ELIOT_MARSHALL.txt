@@ -1,0 +1,11 @@
+Fighter: ELIOT MARSHALL
+  Date of Birth: 1980-07-07
+  Career record: 6
+  First fight: 2008-12-13
+  Last fight: 2011-10-29
+
+Career Statistics:
+- Significant Strikes Landed :123
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :4

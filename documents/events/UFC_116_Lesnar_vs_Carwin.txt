@@ -1,0 +1,18 @@
+Event : UFC 116: Lesnar vs Carwin
+    Date : July 03, 2010
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Light Heavyweight, Middleweight, Lightweight, Welterweight
+
+    Fight Results:
+  - STEPHAN BONNAR def. KRZYSZTOF SOSZYNSKI via KO/TKO(R2)
+- RICARDO ROMERO def. SETH PETRUZELLI via Submission(R2)
+- DANIEL ROBERTS def. FORREST PETZ via Decision - Split(R3)
+- BROCK LESNAR def. SHANE CARWIN via Submission(R2)
+- KENDALL GROVE def. GORAN RELJIC via Decision - Split(R3)
+- BRENDAN SCHAUB def. CHRIS TUCHSCHERER via KO/TKO(R1)
+- GEORGE SOTIROPOULOS def. KURT PELLEGRINO via Decision - Unanimous(R3)
+- JON MADSEN def. KARLOS VEMOLA via Decision - Unanimous(R3)
+- CHRIS LEBEN def. YOSHIHIRO AKIYAMA via Submission(R3)
+- GERALD HARRIS def. DAVID BRANCH via KO/TKO(R3)
+- CHRIS LYTLE def. MATT BROWN via Submission(R2)

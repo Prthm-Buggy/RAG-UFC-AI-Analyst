@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Werdum vs. Tybura
+    Date: November 18, 2017
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Women's Flyweight
+    
+
+    Result: JESSICA-ROSE CLARK defeated BEC RAWLINGS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JESSICA-ROSE CLARK landed 101 significant strikes
+  - BEC RAWLINGS landed 65 significant strikes
+  - Knockdowns: JESSICA-ROSE CLARK 0,  BEC RAWLINGS 0
+  - Takedowns: JESSICA-ROSE CLARK 2,  BEC RAWLINGS 2

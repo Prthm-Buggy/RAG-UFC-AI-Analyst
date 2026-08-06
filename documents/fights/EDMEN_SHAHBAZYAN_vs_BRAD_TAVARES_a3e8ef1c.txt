@@ -1,0 +1,13 @@
+Event: UFC 244: Masvidal vs. Diaz
+    Date: November 02, 2019
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: EDMEN SHAHBAZYAN defeated BRAD TAVARES via KO/TKO  
+  at 2:27 of round 1
+  Key stats:
+  - EDMEN SHAHBAZYAN landed 14 significant strikes
+  - BRAD TAVARES landed 3 significant strikes
+  - Knockdowns: EDMEN SHAHBAZYAN 2,  BRAD TAVARES 0
+  - Takedowns: EDMEN SHAHBAZYAN 0,  BRAD TAVARES 0

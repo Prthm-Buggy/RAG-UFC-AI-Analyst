@@ -1,0 +1,11 @@
+Fighter: CAIN VELASQUEZ
+  Date of Birth: 1982-07-28
+  Career record: 15
+  First fight: 2008-04-19
+  Last fight: 2019-02-17
+
+Career Statistics:
+- Significant Strikes Landed :719
+- Total takedowns landed :34
+- Knockdowns :10
+- Submission Attempts :3

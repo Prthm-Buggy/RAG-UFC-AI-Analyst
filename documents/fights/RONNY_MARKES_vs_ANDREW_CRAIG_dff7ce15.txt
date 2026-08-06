@@ -1,0 +1,13 @@
+Event: UFC on FX: Belfort vs Bisping
+    Date: January 19, 2013
+    Location: Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: RONNY MARKES defeated ANDREW CRAIG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RONNY MARKES landed 5 significant strikes
+  - ANDREW CRAIG landed 20 significant strikes
+  - Knockdowns: RONNY MARKES 0,  ANDREW CRAIG 0
+  - Takedowns: RONNY MARKES 2,  ANDREW CRAIG 0

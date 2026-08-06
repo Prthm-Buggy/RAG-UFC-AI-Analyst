@@ -1,0 +1,11 @@
+Fighter: NATE MARQUARDT
+  Date of Birth: 1979-04-20
+  Career record: 25
+  First fight: 2005-08-06
+  Last fight: 2017-11-11
+
+Career Statistics:
+- Significant Strikes Landed :635
+- Total takedowns landed :33
+- Knockdowns :12
+- Submission Attempts :14

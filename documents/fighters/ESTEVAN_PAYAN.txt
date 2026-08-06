@@ -1,0 +1,11 @@
+Fighter: ESTEVAN PAYAN
+  Date of Birth: 1982-03-14
+  Career record: 3
+  First fight: 2013-05-25
+  Last fight: 2014-04-19
+
+Career Statistics:
+- Significant Strikes Landed :67
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Cannonier vs. Rodrigues
+    Date : February 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Welterweight, Women's Strawweight, Middleweight, Flyweight, Lightweight, Featherweight, Women's Bantamweight
+
+    Fight Results:
+  - JACQUELINE CAVALCANTI def. JULIA AVILA via Decision - Unanimous(R3)
+- JOSE DELGADO def. CONNOR MATTHEWS via KO/TKO(R1)
+- NAZIM SADYKHOV def. ISMAEL BONFIM via TKO - Doctor's Stoppage(R1)
+- RAFAEL ESTEVAM def. JESUS AGUILAR via Decision - Unanimous(R3)
+- EDMEN SHAHBAZYAN def. DYLAN BUDKA via KO/TKO(R1)
+- VALTER WALKER def. DON'TALE MAYES via Submission(R1)
+- GABRIEL BONFIM def. KHAOS WILLIAMS via Submission(R2)
+- JARED CANNONIER def. GREGORY RODRIGUES via KO/TKO(R4)
+- ANGELA HILL def. Ketlen Souza via Decision - Split(R3)
+- YOUSSEF ZALAL def. CALVIN KATTAR via Decision - Unanimous(R3)
+- ANDRE PETROSKI def. RODOLFO VIEIRA via Decision - Unanimous(R3)
+- ELIJAH SMITH def. VINCE MORALES via Decision - Unanimous(R3)

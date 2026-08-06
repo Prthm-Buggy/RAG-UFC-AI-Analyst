@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Te Huna vs Marquardt
+    Date: June 28, 2014
+    Location: Auckland, New Zealand
+    Weight Class: Lightweight
+    
+
+    Result: JAKE MATTHEWS defeated DASHON JOHNSON via Submission  
+  at 3:16 of round 3
+  Key stats:
+  - JAKE MATTHEWS landed 60 significant strikes
+  - DASHON JOHNSON landed 11 significant strikes
+  - Knockdowns: JAKE MATTHEWS 0,  DASHON JOHNSON 0
+  - Takedowns: JAKE MATTHEWS 4,  DASHON JOHNSON 0

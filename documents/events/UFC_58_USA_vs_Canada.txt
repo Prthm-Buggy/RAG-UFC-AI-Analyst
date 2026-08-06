@@ -1,0 +1,15 @@
+Event : UFC 58: USA vs Canada
+    Date : March 04, 2006
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Middleweight, Light Heavyweight, Lightweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - GEORGES ST-PIERRE def. BJ PENN via Decision - Split(R3)
+- NATE MARQUARDT def. JOE DOERKSEN via Decision - Unanimous(R3)
+- JASON LAMBERT def. ROB MACDONALD via Submission(R1)
+- RICH FRANKLIN def. DAVID LOISEAU via Decision - Unanimous(R5)
+- SAM STOUT def. SPENCER FISHER via Decision - Split(R3)
+- MARK HOMINICK def. YVES EDWARDS via Submission(R2)
+- TOM MURPHY def. ICHO LARENAS via KO/TKO(R3)
+- MIKE SWICK def. STEVE VIGNEAULT via Submission(R1)

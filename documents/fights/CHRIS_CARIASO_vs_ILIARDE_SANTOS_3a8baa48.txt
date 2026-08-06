@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs Shields
+    Date: October 09, 2013
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: CHRIS CARIASO defeated ILIARDE SANTOS via KO/TKO  
+  at 4:31 of round 2
+  Key stats:
+  - CHRIS CARIASO landed 54 significant strikes
+  - ILIARDE SANTOS landed 35 significant strikes
+  - Knockdowns: CHRIS CARIASO 0,  ILIARDE SANTOS 0
+  - Takedowns: CHRIS CARIASO 0,  ILIARDE SANTOS 2

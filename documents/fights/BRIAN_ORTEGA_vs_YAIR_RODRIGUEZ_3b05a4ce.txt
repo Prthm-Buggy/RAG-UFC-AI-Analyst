@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moreno vs. Royval 2
+    Date: February 24, 2024
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Featherweight
+    
+
+    Result: BRIAN ORTEGA defeated YAIR RODRIGUEZ via Submission  
+  at 0:58 of round 3
+  Key stats:
+  - BRIAN ORTEGA landed 28 significant strikes
+  - YAIR RODRIGUEZ landed 55 significant strikes
+  - Knockdowns: BRIAN ORTEGA 0,  YAIR RODRIGUEZ 1
+  - Takedowns: BRIAN ORTEGA 3,  YAIR RODRIGUEZ 0
+  Bonus: perf

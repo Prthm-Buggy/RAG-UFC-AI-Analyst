@@ -1,0 +1,20 @@
+Event : UFC 316: Dvalishvili vs. O'Malley 2
+    Date : June 07, 2025
+    Location: Newark, New Jersey, USA
+    Number of Fights: 13
+    Weight Classes: Welterweight, Featherweight, Light Heavyweight, Lightweight, Flyweight, Middleweight, Women's Bantamweight, Women's Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - KAYLA HARRISON def. JULIANNA PENA via Submission(R2)
+- JOOSANG YOO def. JEKA SARAGIH via KO/TKO(R1)
+- MARIO BAUTISTA def. PATCHY MIX via Decision - Unanimous(R3)
+- MERAB DVALISHVILI def. SEAN O'MALLEY via Submission(R3)
+- WALDO CORTES ACOSTA def. SERGHEI SPIVAC via Decision - Unanimous(R3)
+- WANG CONG def. ARIANE DA SILVA via Decision - Unanimous(R3)
+- ANDREAS GUSTAFSSON def. KHAOS WILLIAMS via Decision - Unanimous(R3)
+- JOSHUA VAN def. BRUNO SILVA via KO/TKO(R3)
+- JOE PYFER def. KELVIN GASTELUM via Decision - Unanimous(R3)
+- KEVIN HOLLAND def. VICENTE LUQUE via Submission(R2)
+- MARQUEL MEDEROS def. MARK CHOINSKI via Decision - Unanimous(R3)
+- QUILLAN SALKILLD def. YANAL ASHMOUZ via Decision - Unanimous(R3)
+- AZAMAT MURZAKANOV def. BRENDSON RIBEIRO via KO/TKO(R1)

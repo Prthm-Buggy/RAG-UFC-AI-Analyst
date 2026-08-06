@@ -1,0 +1,11 @@
+Fighter: ALISTAIR OVEREEM
+  Date of Birth: 1980-05-17
+  Career record: 20
+  First fight: 2011-12-30
+  Last fight: 2021-02-06
+
+Career Statistics:
+- Significant Strikes Landed :715
+- Total takedowns landed :10
+- Knockdowns :10
+- Submission Attempts :3

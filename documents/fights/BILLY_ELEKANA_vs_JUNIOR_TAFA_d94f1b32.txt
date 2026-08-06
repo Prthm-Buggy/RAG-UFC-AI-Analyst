@@ -1,0 +1,13 @@
+Event: UFC 325: Volkanovski vs. Lopes 2
+    Date: January 31, 2026
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: BILLY ELEKANA defeated JUNIOR TAFA via Submission  
+  at 3:18 of round 2
+  Key stats:
+  - BILLY ELEKANA landed 24 significant strikes
+  - JUNIOR TAFA landed 38 significant strikes
+  - Knockdowns: BILLY ELEKANA 0,  JUNIOR TAFA 1
+  - Takedowns: BILLY ELEKANA 1,  JUNIOR TAFA 0

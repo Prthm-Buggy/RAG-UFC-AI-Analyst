@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Pettis
+    Date: November 11, 2017
+    Location: Norfolk, Virginia, USA
+    Weight Class: Lightweight
+    
+
+    Result: CLAY GUIDA defeated JOE LAUZON via KO/TKO  
+  at 1:07 of round 1
+  Key stats:
+  - CLAY GUIDA landed 24 significant strikes
+  - JOE LAUZON landed 1 significant strikes
+  - Knockdowns: CLAY GUIDA 1,  JOE LAUZON 0
+  - Takedowns: CLAY GUIDA 0,  JOE LAUZON 0

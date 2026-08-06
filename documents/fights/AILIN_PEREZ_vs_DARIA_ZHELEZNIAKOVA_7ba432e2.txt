@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moicano vs. Saint Denis
+    Date: September 28, 2024
+    Location: Paris, Ile-de-France, France
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AILIN PEREZ defeated DARIA ZHELEZNIAKOVA via Submission  
+  at 3:52 of round 1
+  Key stats:
+  - AILIN PEREZ landed 7 significant strikes
+  - DARIA ZHELEZNIAKOVA landed 5 significant strikes
+  - Knockdowns: AILIN PEREZ 0,  DARIA ZHELEZNIAKOVA 0
+  - Takedowns: AILIN PEREZ 2,  DARIA ZHELEZNIAKOVA 1

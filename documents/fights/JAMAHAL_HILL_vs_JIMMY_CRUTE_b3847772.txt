@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Font vs. Aldo
+    Date: December 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAMAHAL HILL defeated JIMMY CRUTE via KO/TKO  
+  at 0:48 of round 1
+  Key stats:
+  - JAMAHAL HILL landed 4 significant strikes
+  - JIMMY CRUTE landed 6 significant strikes
+  - Knockdowns: JAMAHAL HILL 1,  JIMMY CRUTE 0
+  - Takedowns: JAMAHAL HILL 0,  JIMMY CRUTE 0
+  Bonus: perf

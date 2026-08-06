@@ -1,0 +1,13 @@
+Event: UFC 177: Dillashaw vs Soto
+    Date: August 30, 2014
+    Location: Sacramento, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANTHONY HAMILTON defeated RUAN POTTS via KO/TKO  
+  at 4:17 of round 2
+  Key stats:
+  - ANTHONY HAMILTON landed 60 significant strikes
+  - RUAN POTTS landed 10 significant strikes
+  - Knockdowns: ANTHONY HAMILTON 0,  RUAN POTTS 0
+  - Takedowns: ANTHONY HAMILTON 5,  RUAN POTTS 0

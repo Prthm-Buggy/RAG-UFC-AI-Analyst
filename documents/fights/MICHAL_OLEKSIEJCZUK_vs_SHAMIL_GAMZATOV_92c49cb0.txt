@@ -1,0 +1,13 @@
+Event: UFC 267: Blachowicz vs. Teixeira
+    Date: October 30, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: MICHAL OLEKSIEJCZUK defeated SHAMIL GAMZATOV via KO/TKO  
+  at 3:31 of round 1
+  Key stats:
+  - MICHAL OLEKSIEJCZUK landed 32 significant strikes
+  - SHAMIL GAMZATOV landed 35 significant strikes
+  - Knockdowns: MICHAL OLEKSIEJCZUK 1,  SHAMIL GAMZATOV 0
+  - Takedowns: MICHAL OLEKSIEJCZUK 0,  SHAMIL GAMZATOV 0

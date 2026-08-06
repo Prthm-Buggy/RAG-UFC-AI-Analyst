@@ -1,0 +1,14 @@
+Event: UFC 319: Du Plessis vs. Chimaev
+    Date: August 16, 2025
+    Location: Chicago, Illinois, USA
+    Weight Class: Flyweight
+    
+
+    Result: TIM ELLIOTT defeated Kai Asakura via Submission  
+  at 4:39 of round 2
+  Key stats:
+  - TIM ELLIOTT landed 27 significant strikes
+  - Kai Asakura landed 21 significant strikes
+  - Knockdowns: TIM ELLIOTT 0,  Kai Asakura 0
+  - Takedowns: TIM ELLIOTT 2,  Kai Asakura 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Maia vs LaFlare
+    Date: March 21, 2015
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: FREDY SERRANO defeated BENTLEY SYLER via KO/TKO  
+  at 1:34 of round 3
+  Key stats:
+  - FREDY SERRANO landed 20 significant strikes
+  - BENTLEY SYLER landed 15 significant strikes
+  - Knockdowns: FREDY SERRANO 1,  BENTLEY SYLER 0
+  - Takedowns: FREDY SERRANO 2,  BENTLEY SYLER 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 316: Dvalishvili vs. O'Malley 2
+    Date: June 07, 2025
+    Location: Newark, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: AZAMAT MURZAKANOV defeated BRENDSON RIBEIRO via KO/TKO  
+  at 3:25 of round 1
+  Key stats:
+  - AZAMAT MURZAKANOV landed 27 significant strikes
+  - BRENDSON RIBEIRO landed 8 significant strikes
+  - Knockdowns: AZAMAT MURZAKANOV 1,  BRENDSON RIBEIRO 0
+  - Takedowns: AZAMAT MURZAKANOV 0,  BRENDSON RIBEIRO 0

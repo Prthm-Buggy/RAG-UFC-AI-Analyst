@@ -1,0 +1,11 @@
+Fighter: GRANT DAWSON
+  Date of Birth: 1994-02-20
+  Career record: 14
+  First fight: 2019-03-09
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :504
+- Total takedowns landed :38
+- Knockdowns :1
+- Submission Attempts :10

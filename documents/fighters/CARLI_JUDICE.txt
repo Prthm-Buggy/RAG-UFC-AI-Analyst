@@ -1,0 +1,11 @@
+Fighter: CARLI JUDICE
+  Date of Birth: 1999-03-02
+  Career record: 4
+  First fight: 2024-06-15
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :374
+- Total takedowns landed :2
+- Knockdowns :2
+- Submission Attempts :0

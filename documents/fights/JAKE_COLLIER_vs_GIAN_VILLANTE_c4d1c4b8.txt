@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Vettori
+    Date: December 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAKE COLLIER defeated GIAN VILLANTE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JAKE COLLIER landed 123 significant strikes
+  - GIAN VILLANTE landed 80 significant strikes
+  - Knockdowns: JAKE COLLIER 0,  GIAN VILLANTE 0
+  - Takedowns: JAKE COLLIER 0,  GIAN VILLANTE 0

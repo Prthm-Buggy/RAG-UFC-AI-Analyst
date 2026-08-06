@@ -1,0 +1,11 @@
+Fighter: CODY GIBSON
+  Date of Birth: 1987-09-11
+  Career record: 10
+  First fight: 2014-02-22
+  Last fight: 2025-10-18
+
+Career Statistics:
+- Significant Strikes Landed :359
+- Total takedowns landed :14
+- Knockdowns :2
+- Submission Attempts :4

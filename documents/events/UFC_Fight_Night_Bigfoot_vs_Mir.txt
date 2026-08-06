@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Bigfoot vs Mir
+    Date : February 22, 2015
+    Location: Porto Alegre, Rio Grande do Sul, Brazil
+    Number of Fights: 11
+    Weight Classes: Women's Bantamweight, Welterweight, Featherweight, Lightweight, Middleweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - SAM ALVEY def. CEZAR FERREIRA via KO/TKO(R1)
+- MIKE DE LA TORRE def. TIAGO DOS SANTOS E SILVA via KO/TKO(R1)
+- MICHAEL JOHNSON def. EDSON BARBOZA via Decision - Unanimous(R3)
+- DOUGLAS SILVA DE ANDRADE def. CODY GIBSON via Decision - Unanimous(R3)
+- SANTIAGO PONZINIBBIO def. SEAN STRICKLAND via Decision - Unanimous(R3)
+- ADRIANO MARTINS def. RUSTAM KHABILOV via Decision - Split(R3)
+- MATT DWYER def. WILLIAM MACARIO via KO/TKO(R1)
+- FRANKIE SAENZ def. IURI ALCANTARA via Decision - Unanimous(R3)
+- FRANK MIR def. ANTONIO SILVA via KO/TKO(R1)
+- MARION RENEAU def. JESSICA ANDRADE via Submission(R1)
+- IVAN JORGE def. JOSH SHOCKLEY via Decision - Unanimous(R3)

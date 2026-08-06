@@ -1,0 +1,11 @@
+Fighter: MOTONOBU TEZUKA
+  Date of Birth: 1987-08-29
+  Career record: 2
+  First fight: 2012-11-10
+  Last fight: 2013-02-16
+
+Career Statistics:
+- Significant Strikes Landed :26
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ladd vs. Dumont
+    Date: October 16, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: NORMA DUMONT defeated ASPEN LADD via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - NORMA DUMONT landed 65 significant strikes
+  - ASPEN LADD landed 33 significant strikes
+  - Knockdowns: NORMA DUMONT 0,  ASPEN LADD 0
+  - Takedowns: NORMA DUMONT 1,  ASPEN LADD 0

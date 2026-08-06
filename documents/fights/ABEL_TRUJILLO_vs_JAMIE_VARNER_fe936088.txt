@@ -1,0 +1,14 @@
+Event: UFC 169: Barao vs Faber 2
+    Date: February 01, 2014
+    Location: Newark, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: ABEL TRUJILLO defeated JAMIE VARNER via KO/TKO  
+  at 2:32 of round 2
+  Key stats:
+  - ABEL TRUJILLO landed 18 significant strikes
+  - JAMIE VARNER landed 36 significant strikes
+  - Knockdowns: ABEL TRUJILLO 1,  JAMIE VARNER 0
+  - Takedowns: ABEL TRUJILLO 0,  JAMIE VARNER 0
+  Bonus: fight

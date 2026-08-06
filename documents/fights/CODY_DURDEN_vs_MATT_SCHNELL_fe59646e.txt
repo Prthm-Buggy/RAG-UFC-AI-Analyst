@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Burns vs. Brady
+    Date: September 07, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CODY DURDEN defeated MATT SCHNELL via Submission  
+  at 0:29 of round 2
+  Key stats:
+  - CODY DURDEN landed 34 significant strikes
+  - MATT SCHNELL landed 40 significant strikes
+  - Knockdowns: CODY DURDEN 0,  MATT SCHNELL 0
+  - Takedowns: CODY DURDEN 0,  MATT SCHNELL 0
+  Bonus: perf

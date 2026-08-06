@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moicano vs. The Korean Zombie
+    Date: June 22, 2019
+    Location: Greenville, South Carolina, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAIRZINHO ROZENSTRUIK defeated ALLEN CROWDER via KO/TKO  
+  at 0:09 of round 1
+  Key stats:
+  - JAIRZINHO ROZENSTRUIK landed 4 significant strikes
+  - ALLEN CROWDER landed 0 significant strikes
+  - Knockdowns: JAIRZINHO ROZENSTRUIK 1,  ALLEN CROWDER 0
+  - Takedowns: JAIRZINHO ROZENSTRUIK 0,  ALLEN CROWDER 0
+  Bonus: perf

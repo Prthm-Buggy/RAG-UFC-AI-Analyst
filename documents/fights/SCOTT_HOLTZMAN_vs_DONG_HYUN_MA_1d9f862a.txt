@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Covington vs. Lawler
+    Date: August 03, 2019
+    Location: Newark, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: SCOTT HOLTZMAN defeated DONG HYUN MA via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - SCOTT HOLTZMAN landed 44 significant strikes
+  - DONG HYUN MA landed 16 significant strikes
+  - Knockdowns: SCOTT HOLTZMAN 1,  DONG HYUN MA 0
+  - Takedowns: SCOTT HOLTZMAN 1,  DONG HYUN MA 1

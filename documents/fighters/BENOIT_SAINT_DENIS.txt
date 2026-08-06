@@ -1,0 +1,11 @@
+Fighter: BENOIT SAINT DENIS
+  Date of Birth: 1995-12-18
+  Career record: 12
+  First fight: 2021-10-30
+  Last fight: 2026-01-31
+
+Career Statistics:
+- Significant Strikes Landed :483
+- Total takedowns landed :24
+- Knockdowns :5
+- Submission Attempts :10

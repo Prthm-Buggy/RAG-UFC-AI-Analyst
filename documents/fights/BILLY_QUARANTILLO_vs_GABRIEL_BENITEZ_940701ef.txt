@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Makhachev vs. Moises
+    Date: July 17, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: BILLY QUARANTILLO defeated GABRIEL BENITEZ via KO/TKO  
+  at 3:40 of round 3
+  Key stats:
+  - BILLY QUARANTILLO landed 100 significant strikes
+  - GABRIEL BENITEZ landed 57 significant strikes
+  - Knockdowns: BILLY QUARANTILLO 1,  GABRIEL BENITEZ 1
+  - Takedowns: BILLY QUARANTILLO 3,  GABRIEL BENITEZ 0
+  Bonus: fight

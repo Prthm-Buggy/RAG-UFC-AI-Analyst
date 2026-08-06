@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Rozenstruik vs. Gaziev
+    Date : March 02, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Heavyweight, Lightweight, Middleweight, Flyweight, Light Heavyweight
+
+    Fight Results:
+  - CHRISTIAN LEROY DUNCAN def. CLAUDIO RIBEIRO via KO/TKO(R2)
+- AIEMANN ZAHABI def. JAVID BASHARAT via Decision - Unanimous(R3)
+- LOIK RADZHABOV def. ABDUL-KAREEM AL-SELWADY via KO/TKO(R3)
+- JAIRZINHO ROZENSTRUIK def. SHAMIL GAZIEV via KO/TKO(R4)
+- UMAR NURMAGOMEDOV def. BEKZAT ALMAKHAN via Decision - Unanimous(R3)
+- VITOR PETRINO def. TYSON PEDRO via Decision - Unanimous(R3)
+- ERYK ANDERS def. JAMIE PICKETT via Decision - Unanimous(R3)
+- STEVE ERCEG def. MATT SCHNELL via KO/TKO(R2)
+- MUHAMMAD MOKAEV def. ALEX PEREZ via Decision - Unanimous(R3)
+- LUDOVIT KLEIN def. AJ CUNNINGHAM via KO/TKO(R1)
+- VINICIUS OLIVEIRA def. BENARDO SOPAJ via KO/TKO(R3)

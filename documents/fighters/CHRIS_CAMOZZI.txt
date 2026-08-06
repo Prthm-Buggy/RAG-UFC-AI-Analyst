@@ -1,0 +1,11 @@
+Fighter: CHRIS CAMOZZI
+  Date of Birth: 1986-11-20
+  Career record: 19
+  First fight: 2010-06-19
+  Last fight: 2017-05-28
+
+Career Statistics:
+- Significant Strikes Landed :800
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :7

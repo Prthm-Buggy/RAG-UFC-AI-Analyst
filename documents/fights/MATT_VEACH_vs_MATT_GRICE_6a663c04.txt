@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lauzon vs Stephens
+    Date: February 07, 2009
+    Location: Tampa, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATT VEACH defeated MATT GRICE via KO/TKO  
+  at 4:34 of round 1
+  Key stats:
+  - MATT VEACH landed 12 significant strikes
+  - MATT GRICE landed 29 significant strikes
+  - Knockdowns: MATT VEACH 1,  MATT GRICE 1
+  - Takedowns: MATT VEACH 1,  MATT GRICE 0

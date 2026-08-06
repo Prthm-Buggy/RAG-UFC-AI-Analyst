@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shields vs Ellenberger
+    Date: September 17, 2011
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Bantamweight
+    
+
+    Result: KEN STONE defeated DONNY WALKER via Submission  
+  at 2:40 of round 1
+  Key stats:
+  - KEN STONE landed 7 significant strikes
+  - DONNY WALKER landed 1 significant strikes
+  - Knockdowns: KEN STONE 0,  DONNY WALKER 0
+  - Takedowns: KEN STONE 2,  DONNY WALKER 0

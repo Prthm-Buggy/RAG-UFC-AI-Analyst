@@ -1,0 +1,13 @@
+Event: UFC 171: Hendricks vs Lawler
+    Date: March 15, 2014
+    Location: Dallas, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: SEAN STRICKLAND defeated ROBERT MCDANIEL via Submission  
+  at 4:33 of round 1
+  Key stats:
+  - SEAN STRICKLAND landed 20 significant strikes
+  - ROBERT MCDANIEL landed 4 significant strikes
+  - Knockdowns: SEAN STRICKLAND 0,  ROBERT MCDANIEL 0
+  - Takedowns: SEAN STRICKLAND 1,  ROBERT MCDANIEL 1

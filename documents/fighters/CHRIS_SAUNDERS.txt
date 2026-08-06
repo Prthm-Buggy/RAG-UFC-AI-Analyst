@@ -1,0 +1,11 @@
+Fighter: CHRIS SAUNDERS
+  Date of Birth: 1986-03-11
+  Career record: 1
+  First fight: 2012-06-01
+  Last fight: 2012-06-01
+
+Career Statistics:
+- Significant Strikes Landed :6
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

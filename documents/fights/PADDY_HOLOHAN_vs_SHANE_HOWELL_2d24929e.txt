@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McGregor vs Siver
+    Date: January 18, 2015
+    Location: Boston, Massachusetts, USA
+    Weight Class: Flyweight
+    
+
+    Result: PADDY HOLOHAN defeated SHANE HOWELL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PADDY HOLOHAN landed 42 significant strikes
+  - SHANE HOWELL landed 22 significant strikes
+  - Knockdowns: PADDY HOLOHAN 0,  SHANE HOWELL 0
+  - Takedowns: PADDY HOLOHAN 3,  SHANE HOWELL 0

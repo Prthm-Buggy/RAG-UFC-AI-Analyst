@@ -1,0 +1,14 @@
+Event: UFC Live: Vera vs Jones
+    Date: March 21, 2010
+    Location: Broomfield, Colorado, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOHN HOWARD defeated DANIEL ROBERTS via KO/TKO  
+  at 2:01 of round 1
+  Key stats:
+  - JOHN HOWARD landed 6 significant strikes
+  - DANIEL ROBERTS landed 7 significant strikes
+  - Knockdowns: JOHN HOWARD 0,  DANIEL ROBERTS 0
+  - Takedowns: JOHN HOWARD 1,  DANIEL ROBERTS 1
+  Bonus: ko

@@ -1,0 +1,14 @@
+Event: UFC 160: Velasquez vs Silva 2
+    Date: May 25, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR DOS SANTOS defeated MARK HUNT via KO/TKO  
+  at 4:18 of round 3
+  Key stats:
+  - JUNIOR DOS SANTOS landed 74 significant strikes
+  - MARK HUNT landed 29 significant strikes
+  - Knockdowns: JUNIOR DOS SANTOS 2,  MARK HUNT 0
+  - Takedowns: JUNIOR DOS SANTOS 1,  MARK HUNT 0
+  Bonus: fight

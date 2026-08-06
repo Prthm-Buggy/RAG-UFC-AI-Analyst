@@ -1,0 +1,20 @@
+Event : UFC 171: Hendricks vs Lawler
+    Date : March 15, 2014
+    Location: Dallas, Texas, USA
+    Number of Fights: 13
+    Weight Classes: Welterweight, Featherweight, Flyweight, Middleweight, Lightweight, Women's Bantamweight, Light Heavyweight
+
+    Fight Results:
+  - KELVIN GASTELUM def. RICK STORY via Decision - Split(R3)
+- DENNIS BERMUDEZ def. JIMY HETTES via KO/TKO(R3)
+- SEAN STRICKLAND def. ROBERT MCDANIEL via Submission(R1)
+- JESSICA ANDRADE def. RAQUEL PENNINGTON via Decision - Split(R3)
+- OVINCE SAINT PREUX def. NIKITA KRYLOV via Submission(R1)
+- ALEX GARCIA def. SEAN SPENCER via Decision - Split(R3)
+- TYRON WOODLEY def. CARLOS CONDIT via KO/TKO(R2)
+- HECTOR LOMBARD def. JAKE SHIELDS via Decision - Unanimous(R3)
+- FRANCISCO TREVINO def. RENEE FORTE via Decision - Unanimous(R3)
+- JUSTIN SCOGGINS def. WILL CAMPUZANO via Decision - Unanimous(R3)
+- ROBERT WHITEFORD def. DANIEL PINEDA via Decision - Unanimous(R3)
+- JOHNY HENDRICKS def. ROBBIE LAWLER via Decision - Unanimous(R5)
+- MYLES JURY def. DIEGO SANCHEZ via Decision - Unanimous(R3)

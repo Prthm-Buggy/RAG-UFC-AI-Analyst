@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Chikadze
+    Date: January 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAKE COLLIER defeated CHASE SHERMAN via Submission  
+  at 2:26 of round 1
+  Key stats:
+  - JAKE COLLIER landed 20 significant strikes
+  - CHASE SHERMAN landed 10 significant strikes
+  - Knockdowns: JAKE COLLIER 0,  CHASE SHERMAN 0
+  - Takedowns: JAKE COLLIER 1,  CHASE SHERMAN 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: TONY PETARRA
+  Date of Birth: 1966-11-08
+  Career record: 1
+  First fight: 1999-05-07
+  Last fight: 1999-05-07
+
+Career Statistics:
+- Significant Strikes Landed :4
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

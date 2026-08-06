@@ -1,0 +1,11 @@
+Fighter: JAFEL FILHO
+  Date of Birth: 1993-05-05
+  Career record: 6
+  First fight: 2023-03-18
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :93
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :7

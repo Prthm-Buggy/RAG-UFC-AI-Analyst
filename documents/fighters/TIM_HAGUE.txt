@@ -1,0 +1,11 @@
+Fighter: TIM HAGUE
+  Date of Birth: 1983-05-09
+  Career record: 5
+  First fight: 2009-05-23
+  Last fight: 2011-01-22
+
+Career Statistics:
+- Significant Strikes Landed :97
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :2

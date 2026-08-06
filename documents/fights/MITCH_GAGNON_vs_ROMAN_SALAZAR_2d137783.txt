@@ -1,0 +1,13 @@
+Event: UFC Fight Night: MacDonald vs Saffiedine
+    Date: October 04, 2014
+    Location: Halifax, Nova Scotia, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: MITCH GAGNON defeated ROMAN SALAZAR via Submission  
+  at 2:06 of round 1
+  Key stats:
+  - MITCH GAGNON landed 5 significant strikes
+  - ROMAN SALAZAR landed 3 significant strikes
+  - Knockdowns: MITCH GAGNON 0,  ROMAN SALAZAR 0
+  - Takedowns: MITCH GAGNON 1,  ROMAN SALAZAR 0

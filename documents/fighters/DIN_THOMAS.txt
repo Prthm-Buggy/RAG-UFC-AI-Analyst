@@ -1,0 +1,11 @@
+Fighter: DIN THOMAS
+  Date of Birth: 1976-09-28
+  Career record: 9
+  First fight: 2001-06-29
+  Last fight: 2008-04-02
+
+Career Statistics:
+- Significant Strikes Landed :182
+- Total takedowns landed :9
+- Knockdowns :1
+- Submission Attempts :8

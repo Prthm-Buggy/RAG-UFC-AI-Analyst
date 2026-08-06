@@ -1,0 +1,11 @@
+Fighter: JON MADSEN
+  Date of Birth: 1980-02-12
+  Career record: 5
+  First fight: 2009-12-05
+  Last fight: 2011-03-26
+
+Career Statistics:
+- Significant Strikes Landed :140
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

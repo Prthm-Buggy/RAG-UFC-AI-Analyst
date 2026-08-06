@@ -1,0 +1,13 @@
+Event: UFC on FX: Maynard vs Guida
+    Date: June 22, 2012
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: RAMSEY NIJEM defeated CJ KEITH via KO/TKO  
+  at 2:29 of round 1
+  Key stats:
+  - RAMSEY NIJEM landed 5 significant strikes
+  - CJ KEITH landed 5 significant strikes
+  - Knockdowns: RAMSEY NIJEM 0,  CJ KEITH 0
+  - Takedowns: RAMSEY NIJEM 1,  CJ KEITH 0

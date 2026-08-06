@@ -1,0 +1,14 @@
+Event: UFC 324: Gaethje vs. Pimblett
+    Date: January 24, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: TY MILLER defeated ADAM FUGITT via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - TY MILLER landed 59 significant strikes
+  - ADAM FUGITT landed 36 significant strikes
+  - Knockdowns: TY MILLER 1,  ADAM FUGITT 0
+  - Takedowns: TY MILLER 0,  ADAM FUGITT 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC 40: Vendetta
+    Date: November 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TITO ORTIZ defeated KEN SHAMROCK via KO/TKO  
+  at 5:00 of round 3
+  Key stats:
+  - TITO ORTIZ landed 74 significant strikes
+  - KEN SHAMROCK landed 12 significant strikes
+  - Knockdowns: TITO ORTIZ 0,  KEN SHAMROCK 0
+  - Takedowns: TITO ORTIZ 3,  KEN SHAMROCK 0
+  Bonus: belt

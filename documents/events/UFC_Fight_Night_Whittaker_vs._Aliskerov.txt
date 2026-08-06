@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Whittaker vs. Aliskerov
+    Date : June 22, 2024
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Bantamweight, Middleweight, Featherweight, Light Heavyweight, Lightweight, Welterweight
+
+    Fight Results:
+  - ROBERT WHITTAKER def. IKRAM ALISKEROV via KO/TKO(R1)
+- FELIPE LIMA def. MUHAMMAD NAIMOV via Submission(R3)
+- CHANGHO LEE def. XIAO LONG via Decision - Split(R3)
+- MUIN GAFUROV def. KYUNG HO KANG via Decision - Unanimous(R3)
+- RINAT FAKHRETDINOV def. NICOLAS DALBY via Decision - Split(R3)
+- ALEXANDER VOLKOV def. SERGEI PAVLOVICH via Decision - Unanimous(R3)
+- VOLKAN OEZDEMIR def. JOHNNY WALKER via KO/TKO(R1)
+- KELVIN GASTELUM def. DANIEL RODRIGUEZ via Decision - Unanimous(R3)
+- NASRAT HAQPARAST def. JARED GORDON via Decision - Split(R3)
+- SHARA MAGOMEDOV def. ANTONIO TROCOLI via KO/TKO(R3)
+- MAGOMED GADZHIYASULOV def. BRENDSON RIBEIRO via Decision - Majority(R3)

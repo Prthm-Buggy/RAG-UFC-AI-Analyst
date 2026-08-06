@@ -1,0 +1,11 @@
+Fighter: VAL WOODBURN
+  Date of Birth: 1993-08-10
+  Career record: 2
+  First fight: 2023-07-08
+  Last fight: 2024-02-17
+
+Career Statistics:
+- Significant Strikes Landed :25
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :0

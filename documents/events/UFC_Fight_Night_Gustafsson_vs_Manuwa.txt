@@ -1,0 +1,15 @@
+Event : UFC Fight Night: Gustafsson vs Manuwa
+    Date : March 08, 2014
+    Location: London, England, United Kingdom
+    Number of Fights: 8
+    Weight Classes: Middleweight, Lightweight, Welterweight, Flyweight, Light Heavyweight
+
+    Fight Results:
+  - ILIR LATIFI def. CYRILLE DIABATE via Submission(R1)
+- GUNNAR NELSON def. OMARI AKHMEDOV via Submission(R1)
+- MICHAEL JOHNSON def. MELVIN GUILLARD via Decision - Unanimous(R3)
+- BRAD PICKETT def. NEIL SEERY via Decision - Unanimous(R3)
+- ALEXANDER GUSTAFSSON def. JIMI MANUWA via KO/TKO(R2)
+- CLAUDIO SILVA def. BRAD SCOTT via Decision - Unanimous(R3)
+- IGOR ARAUJO def. DANNY MITCHELL via Decision - Unanimous(R3)
+- LUKE BARNATT def. MATS NILSSON via KO/TKO(R1)

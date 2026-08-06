@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rozenstruik vs. Gaziev
+    Date: March 02, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: LUDOVIT KLEIN defeated AJ CUNNINGHAM via KO/TKO  
+  at 4:36 of round 1
+  Key stats:
+  - LUDOVIT KLEIN landed 60 significant strikes
+  - AJ CUNNINGHAM landed 36 significant strikes
+  - Knockdowns: LUDOVIT KLEIN 1,  AJ CUNNINGHAM 0
+  - Takedowns: LUDOVIT KLEIN 2,  AJ CUNNINGHAM 0

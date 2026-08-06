@@ -1,0 +1,11 @@
+Fighter: PEARL GONZALEZ
+  Date of Birth: 1986-08-12
+  Career record: 2
+  First fight: 2017-04-08
+  Last fight: 2017-10-07
+
+Career Statistics:
+- Significant Strikes Landed :64
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

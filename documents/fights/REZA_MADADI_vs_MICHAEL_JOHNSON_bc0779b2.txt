@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Mousasi vs Latifi
+    Date: April 06, 2013
+    Location: Stockholm, Sweden
+    Weight Class: Lightweight
+    
+
+    Result: REZA MADADI defeated MICHAEL JOHNSON via Submission  
+  at 1:33 of round 3
+  Key stats:
+  - REZA MADADI landed 34 significant strikes
+  - MICHAEL JOHNSON landed 20 significant strikes
+  - Knockdowns: REZA MADADI 0,  MICHAEL JOHNSON 1
+  - Takedowns: REZA MADADI 4,  MICHAEL JOHNSON 0
+  Bonus: sub

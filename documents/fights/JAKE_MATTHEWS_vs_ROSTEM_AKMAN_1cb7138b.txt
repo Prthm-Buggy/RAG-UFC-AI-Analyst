@@ -1,0 +1,13 @@
+Event: UFC 243: Whittaker vs. Adesanya
+    Date: October 05, 2019
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Welterweight
+    
+
+    Result: JAKE MATTHEWS defeated ROSTEM AKMAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JAKE MATTHEWS landed 59 significant strikes
+  - ROSTEM AKMAN landed 15 significant strikes
+  - Knockdowns: JAKE MATTHEWS 0,  ROSTEM AKMAN 0
+  - Takedowns: JAKE MATTHEWS 0,  ROSTEM AKMAN 0

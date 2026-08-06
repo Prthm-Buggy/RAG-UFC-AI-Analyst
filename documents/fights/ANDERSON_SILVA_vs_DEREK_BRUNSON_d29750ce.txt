@@ -1,0 +1,13 @@
+Event: UFC 208: Holm vs. De Randamie
+    Date: February 11, 2017
+    Location: Brooklyn, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDERSON SILVA defeated DEREK BRUNSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ANDERSON SILVA landed 43 significant strikes
+  - DEREK BRUNSON landed 54 significant strikes
+  - Knockdowns: ANDERSON SILVA 0,  DEREK BRUNSON 0
+  - Takedowns: ANDERSON SILVA 0,  DEREK BRUNSON 2

@@ -1,0 +1,13 @@
+Event: UFC 14: Showdown
+    Date: July 27, 1997
+    Location: Birmingham, Alabama, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEX HUNTER defeated SAM FULTON via Submission  
+  at 2:30 of round 1
+  Key stats:
+  - ALEX HUNTER landed 7 significant strikes
+  - SAM FULTON landed 1 significant strikes
+  - Knockdowns: ALEX HUNTER 0,  SAM FULTON 0
+  - Takedowns: ALEX HUNTER 1,  SAM FULTON 0

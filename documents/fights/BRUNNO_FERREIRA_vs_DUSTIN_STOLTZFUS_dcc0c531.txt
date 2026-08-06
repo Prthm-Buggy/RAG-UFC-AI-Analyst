@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Imavov
+    Date: June 08, 2024
+    Location: Louisville, Kentucky, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRUNNO FERREIRA defeated DUSTIN STOLTZFUS via KO/TKO  
+  at 4:51 of round 1
+  Key stats:
+  - BRUNNO FERREIRA landed 24 significant strikes
+  - DUSTIN STOLTZFUS landed 18 significant strikes
+  - Knockdowns: BRUNNO FERREIRA 1,  DUSTIN STOLTZFUS 0
+  - Takedowns: BRUNNO FERREIRA 0,  DUSTIN STOLTZFUS 1
+  Bonus: perf

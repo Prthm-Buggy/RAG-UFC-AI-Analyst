@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bonfim vs. Brown
+    Date: November 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHRIS PADILLA defeated ISMAEL BONFIM via KO/TKO  
+  at 4:30 of round 2
+  Key stats:
+  - CHRIS PADILLA landed 64 significant strikes
+  - ISMAEL BONFIM landed 42 significant strikes
+  - Knockdowns: CHRIS PADILLA 0,  ISMAEL BONFIM 0
+  - Takedowns: CHRIS PADILLA 0,  ISMAEL BONFIM 1

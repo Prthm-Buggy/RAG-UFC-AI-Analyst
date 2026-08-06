@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Carwin vs. Team Nelson Finale
+    Date: December 15, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PAT BARRY defeated SHANE DEL ROSARIO via KO/TKO  
+  at 0:26 of round 2
+  Key stats:
+  - PAT BARRY landed 11 significant strikes
+  - SHANE DEL ROSARIO landed 14 significant strikes
+  - Knockdowns: PAT BARRY 1,  SHANE DEL ROSARIO 0
+  - Takedowns: PAT BARRY 0,  SHANE DEL ROSARIO 1
+  Bonus: ko

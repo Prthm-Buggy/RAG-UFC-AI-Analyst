@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Daukaus
+    Date: December 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CUB SWANSON defeated DARREN ELKINS via KO/TKO  
+  at 2:12 of round 1
+  Key stats:
+  - CUB SWANSON landed 18 significant strikes
+  - DARREN ELKINS landed 2 significant strikes
+  - Knockdowns: CUB SWANSON 1,  DARREN ELKINS 0
+  - Takedowns: CUB SWANSON 0,  DARREN ELKINS 0
+  Bonus: perf

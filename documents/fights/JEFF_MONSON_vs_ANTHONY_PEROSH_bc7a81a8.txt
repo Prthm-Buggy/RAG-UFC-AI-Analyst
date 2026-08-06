@@ -1,0 +1,14 @@
+Event: UFC 61: Bitter Rivals
+    Date: July 08, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JEFF MONSON defeated ANTHONY PEROSH via KO/TKO  
+  at 2:42 of round 1
+  Key stats:
+  - JEFF MONSON landed 18 significant strikes
+  - ANTHONY PEROSH landed 8 significant strikes
+  - Knockdowns: JEFF MONSON 1,  ANTHONY PEROSH 0
+  - Takedowns: JEFF MONSON 0,  ANTHONY PEROSH 0
+  Bonus: ko

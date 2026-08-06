@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tuivasa vs. Tybura
+    Date: March 16, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MIKE DAVIS defeated NATAN LEVY via Submission  
+  at 1:43 of round 2
+  Key stats:
+  - MIKE DAVIS landed 3 significant strikes
+  - NATAN LEVY landed 8 significant strikes
+  - Knockdowns: MIKE DAVIS 1,  NATAN LEVY 0
+  - Takedowns: MIKE DAVIS 0,  NATAN LEVY 1

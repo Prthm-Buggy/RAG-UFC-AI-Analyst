@@ -1,0 +1,13 @@
+Event: UFC 36: Worlds Collide
+    Date: March 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANK MIR defeated PETE WILLIAMS via Submission  
+  at 0:46 of round 1
+  Key stats:
+  - FRANK MIR landed 4 significant strikes
+  - PETE WILLIAMS landed 0 significant strikes
+  - Knockdowns: FRANK MIR 0,  PETE WILLIAMS 0
+  - Takedowns: FRANK MIR 0,  PETE WILLIAMS 1

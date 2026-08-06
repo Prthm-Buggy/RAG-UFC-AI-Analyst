@@ -1,0 +1,11 @@
+Fighter: BEN SAUNDERS
+  Date of Birth: 1983-04-13
+  Career record: 19
+  First fight: 2007-12-08
+  Last fight: 2019-12-14
+
+Career Statistics:
+- Significant Strikes Landed :486
+- Total takedowns landed :2
+- Knockdowns :3
+- Submission Attempts :13

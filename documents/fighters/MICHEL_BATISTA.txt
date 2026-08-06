@@ -1,0 +1,11 @@
+Fighter: MICHEL BATISTA
+  Date of Birth: 1984-04-20
+  Career record: 1
+  First fight: 2018-11-30
+  Last fight: 2018-11-30
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

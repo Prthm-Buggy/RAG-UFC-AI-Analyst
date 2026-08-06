@@ -1,0 +1,14 @@
+Event: UFC 295: Prochazka vs. Pereira
+    Date: November 11, 2023
+    Location: New York City, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENOIT SAINT DENIS defeated MATT FREVOLA via KO/TKO  
+  at 1:31 of round 1
+  Key stats:
+  - BENOIT SAINT DENIS landed 6 significant strikes
+  - MATT FREVOLA landed 5 significant strikes
+  - Knockdowns: BENOIT SAINT DENIS 1,  MATT FREVOLA 0
+  - Takedowns: BENOIT SAINT DENIS 0,  MATT FREVOLA 2
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: JOSE JOHNSON
+  Date of Birth: 1995-05-20
+  Career record: 4
+  First fight: 2023-08-12
+  Last fight: 2025-01-11
+
+Career Statistics:
+- Significant Strikes Landed :84
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :2

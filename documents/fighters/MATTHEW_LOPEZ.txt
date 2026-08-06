@@ -1,0 +1,11 @@
+Fighter: MATTHEW LOPEZ
+  Date of Birth: 1987-01-21
+  Career record: 6
+  First fight: 2016-07-13
+  Last fight: 2018-12-08
+
+Career Statistics:
+- Significant Strikes Landed :212
+- Total takedowns landed :15
+- Knockdowns :0
+- Submission Attempts :6

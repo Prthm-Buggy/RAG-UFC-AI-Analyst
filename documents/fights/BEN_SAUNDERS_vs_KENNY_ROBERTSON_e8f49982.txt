@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dillashaw vs. Barao II
+    Date: July 25, 2015
+    Location: Chicago, Illinois, USA
+    Weight Class: Welterweight
+    
+
+    Result: BEN SAUNDERS defeated KENNY ROBERTSON via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - BEN SAUNDERS landed 98 significant strikes
+  - KENNY ROBERTSON landed 91 significant strikes
+  - Knockdowns: BEN SAUNDERS 0,  KENNY ROBERTSON 1
+  - Takedowns: BEN SAUNDERS 0,  KENNY ROBERTSON 2

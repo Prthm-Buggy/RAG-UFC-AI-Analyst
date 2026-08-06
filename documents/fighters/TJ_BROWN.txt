@@ -1,0 +1,11 @@
+Fighter: TJ BROWN
+  Date of Birth: 1990-05-22
+  Career record: 8
+  First fight: 2020-02-29
+  Last fight: 2023-10-14
+
+Career Statistics:
+- Significant Strikes Landed :342
+- Total takedowns landed :21
+- Knockdowns :0
+- Submission Attempts :9

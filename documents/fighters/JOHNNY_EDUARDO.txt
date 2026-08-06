@@ -1,0 +1,11 @@
+Fighter: JOHNNY EDUARDO
+  Date of Birth: 1978-08-03
+  Career record: 8
+  First fight: 2011-08-27
+  Last fight: 2021-10-02
+
+Career Statistics:
+- Significant Strikes Landed :204
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :2

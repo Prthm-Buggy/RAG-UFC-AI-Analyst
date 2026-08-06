@@ -1,0 +1,13 @@
+Event: UFC 268: Usman vs. Covington 2
+    Date: November 06, 2021
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS CURTIS defeated PHIL HAWES via KO/TKO  
+  at 4:27 of round 1
+  Key stats:
+  - CHRIS CURTIS landed 21 significant strikes
+  - PHIL HAWES landed 48 significant strikes
+  - Knockdowns: CHRIS CURTIS 1,  PHIL HAWES 0
+  - Takedowns: CHRIS CURTIS 0,  PHIL HAWES 0

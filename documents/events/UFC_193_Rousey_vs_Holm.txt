@@ -1,0 +1,20 @@
+Event : UFC 193: Rousey vs Holm
+    Date : November 14, 2015
+    Location: Melbourne, Victoria, Australia
+    Number of Fights: 13
+    Weight Classes: Middleweight, Welterweight, Flyweight, Light Heavyweight, Lightweight, Women's Bantamweight, Women's Strawweight, Heavyweight
+
+    Fight Results:
+  - JAKE MATTHEWS def. AKBARH ARREOLA via TKO - Doctor's Stoppage(R2)
+- HOLLY HOLM def. RONDA ROUSEY via KO/TKO(R2)
+- ROBERT WHITTAKER def. URIAH HALL via Decision - Unanimous(R3)
+- JOANNA JEDRZEJCZYK def. VALERIE LETOURNEAU via Decision - Unanimous(R5)
+- DANIEL KELLY def. STEVE MONTGOMERY via Decision - Unanimous(R3)
+- GIAN VILLANTE def. ANTHONY PEROSH via KO/TKO(R1)
+- DANNY MARTINEZ def. RICHIE VACULIK via Decision - Unanimous(R3)
+- MARK HUNT def. ANTONIO SILVA via KO/TKO(R1)
+- KYLE NOKE def. PETER SOBOTTA via KO/TKO(R1)
+- BEN NGUYEN def. RYAN BENOIT via Submission(R1)
+- JARED ROSHOLT def. STEFAN STRUVE via Decision - Unanimous(R3)
+- RICHARD WALSH def. STEVE KENNEDY via Decision - Unanimous(R3)
+- JAMES MOONTASRI def. ANTON ZAFIR via KO/TKO(R1)

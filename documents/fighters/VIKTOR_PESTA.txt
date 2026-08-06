@@ -1,0 +1,11 @@
+Fighter: VIKTOR PESTA
+  Date of Birth: 1990-07-15
+  Career record: 5
+  First fight: 2014-05-31
+  Last fight: 2017-01-15
+
+Career Statistics:
+- Significant Strikes Landed :79
+- Total takedowns landed :11
+- Knockdowns :0
+- Submission Attempts :0

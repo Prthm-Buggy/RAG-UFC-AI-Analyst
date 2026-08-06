@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Manuwa vs. Anderson
+    Date: March 18, 2017
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIMI MANUWA defeated COREY ANDERSON via KO/TKO  
+  at 3:05 of round 1
+  Key stats:
+  - JIMI MANUWA landed 6 significant strikes
+  - COREY ANDERSON landed 6 significant strikes
+  - Knockdowns: JIMI MANUWA 1,  COREY ANDERSON 0
+  - Takedowns: JIMI MANUWA 0,  COREY ANDERSON 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Walker vs. Zhang
+    Date: August 23, 2025
+    Location: Shanghai, Hebei, China
+    Weight Class: Light Heavyweight
+    
+
+    Result: URAN SATYBALDIEV defeated DIYAR NURGOZHAY via Submission  
+  at 2:45 of round 1
+  Key stats:
+  - URAN SATYBALDIEV landed 2 significant strikes
+  - DIYAR NURGOZHAY landed 7 significant strikes
+  - Knockdowns: URAN SATYBALDIEV 1,  DIYAR NURGOZHAY 0
+  - Takedowns: URAN SATYBALDIEV 0,  DIYAR NURGOZHAY 1
+  Bonus: perf

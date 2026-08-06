@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lawler vs. Dos Anjos
+    Date: December 16, 2017
+    Location: Winnipeg, Manitoba, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: GLOVER TEIXEIRA defeated MISHA CIRKUNOV via KO/TKO  
+  at 2:45 of round 1
+  Key stats:
+  - GLOVER TEIXEIRA landed 13 significant strikes
+  - MISHA CIRKUNOV landed 21 significant strikes
+  - Knockdowns: GLOVER TEIXEIRA 0,  MISHA CIRKUNOV 0
+  - Takedowns: GLOVER TEIXEIRA 1,  MISHA CIRKUNOV 0

@@ -1,0 +1,11 @@
+Fighter: ANTONIO DOS SANTOS
+  Date of Birth: 1988-07-21
+  Career record: 2
+  First fight: 2014-12-20
+  Last fight: 2015-06-20
+
+Career Statistics:
+- Significant Strikes Landed :48
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

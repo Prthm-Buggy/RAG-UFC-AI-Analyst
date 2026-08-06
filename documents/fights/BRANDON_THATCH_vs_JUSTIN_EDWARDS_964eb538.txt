@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Condit vs Kampmann 2
+    Date: August 28, 2013
+    Location: Indianapolis, Indiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRANDON THATCH defeated JUSTIN EDWARDS via KO/TKO  
+  at 1:23 of round 1
+  Key stats:
+  - BRANDON THATCH landed 17 significant strikes
+  - JUSTIN EDWARDS landed 2 significant strikes
+  - Knockdowns: BRANDON THATCH 2,  JUSTIN EDWARDS 0
+  - Takedowns: BRANDON THATCH 1,  JUSTIN EDWARDS 0
+  Bonus: ko

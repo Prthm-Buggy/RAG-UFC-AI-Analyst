@@ -1,0 +1,13 @@
+Event: UFC 222: Cyborg vs. Kunitskaya
+    Date: March 03, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CB DOLLAWAY defeated HECTOR LOMBARD via DQ  
+  at 5:00 of round 1
+  Key stats:
+  - CB DOLLAWAY landed 13 significant strikes
+  - HECTOR LOMBARD landed 19 significant strikes
+  - Knockdowns: CB DOLLAWAY 0,  HECTOR LOMBARD 1
+  - Takedowns: CB DOLLAWAY 0,  HECTOR LOMBARD 0

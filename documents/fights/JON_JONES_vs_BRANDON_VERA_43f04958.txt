@@ -1,0 +1,14 @@
+Event: UFC Live: Vera vs Jones
+    Date: March 21, 2010
+    Location: Broomfield, Colorado, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated BRANDON VERA via KO/TKO  
+  at 3:19 of round 1
+  Key stats:
+  - JON JONES landed 11 significant strikes
+  - BRANDON VERA landed 5 significant strikes
+  - Knockdowns: JON JONES 0,  BRANDON VERA 0
+  - Takedowns: JON JONES 2,  BRANDON VERA 0
+  Bonus: ko

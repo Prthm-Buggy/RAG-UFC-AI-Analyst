@@ -1,0 +1,14 @@
+Event: UFC 112: Invincible
+    Date: April 10, 2010
+    Location: Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: ANDERSON SILVA defeated DEMIAN MAIA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ANDERSON SILVA landed 61 significant strikes
+  - DEMIAN MAIA landed 10 significant strikes
+  - Knockdowns: ANDERSON SILVA 1,  DEMIAN MAIA 0
+  - Takedowns: ANDERSON SILVA 0,  DEMIAN MAIA 0
+  Bonus: belt

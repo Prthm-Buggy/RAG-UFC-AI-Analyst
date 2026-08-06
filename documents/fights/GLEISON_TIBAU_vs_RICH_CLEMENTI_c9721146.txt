@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lauzon vs Stephens
+    Date: February 07, 2009
+    Location: Tampa, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: GLEISON TIBAU defeated RICH CLEMENTI via Submission  
+  at 4:35 of round 1
+  Key stats:
+  - GLEISON TIBAU landed 7 significant strikes
+  - RICH CLEMENTI landed 1 significant strikes
+  - Knockdowns: GLEISON TIBAU 0,  RICH CLEMENTI 0
+  - Takedowns: GLEISON TIBAU 2,  RICH CLEMENTI 0

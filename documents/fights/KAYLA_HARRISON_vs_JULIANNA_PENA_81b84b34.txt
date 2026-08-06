@@ -1,0 +1,14 @@
+Event: UFC 316: Dvalishvili vs. O'Malley 2
+    Date: June 07, 2025
+    Location: Newark, New Jersey, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: KAYLA HARRISON defeated JULIANNA PENA via Submission  
+  at 4:55 of round 2
+  Key stats:
+  - KAYLA HARRISON landed 30 significant strikes
+  - JULIANNA PENA landed 9 significant strikes
+  - Knockdowns: KAYLA HARRISON 0,  JULIANNA PENA 0
+  - Takedowns: KAYLA HARRISON 2,  JULIANNA PENA 0
+  Bonus: belt

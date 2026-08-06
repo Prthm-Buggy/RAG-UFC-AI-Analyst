@@ -1,0 +1,16 @@
+Event : UFC 75: Champion vs Champion
+    Date : September 08, 2007
+    Location: London, England, United Kingdom
+    Number of Fights: 9
+    Weight Classes: Heavyweight, Lightweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - MICHAEL BISPING def. MATT HAMILL via Decision - Split(R3)
+- JESS LIAUDIN def. ANTHONY TORRES via KO/TKO(R1)
+- THIAGO SILVA def. TOMASZ DRWAL via KO/TKO(R2)
+- DENNIS SIVER def. NAOYUKI KOTANI via KO/TKO(R2)
+- CHEICK KONGO def. MIRKO FILIPOVIC via Decision - Unanimous(R3)
+- GLEISON TIBAU def. TERRY ETIM via Decision - Unanimous(R3)
+- MARCUS DAVIS def. PAUL TAYLOR via Submission(R1)
+- QUINTON JACKSON def. DAN HENDERSON via Decision - Unanimous(R5)
+- HOUSTON ALEXANDER def. ALESSIO SAKARA via KO/TKO(R1)

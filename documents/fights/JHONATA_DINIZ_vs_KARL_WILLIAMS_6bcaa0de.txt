@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tybura vs. Spivac 2
+    Date: August 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JHONATA DINIZ defeated KARL WILLIAMS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JHONATA DINIZ landed 59 significant strikes
+  - KARL WILLIAMS landed 29 significant strikes
+  - Knockdowns: JHONATA DINIZ 0,  KARL WILLIAMS 0
+  - Takedowns: JHONATA DINIZ 0,  KARL WILLIAMS 2

@@ -1,0 +1,14 @@
+Event: UFC 86: Jackson vs Griffin
+    Date: July 05, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MELVIN GUILLARD defeated DENNIS SIVER via KO/TKO  
+  at 0:36 of round 1
+  Key stats:
+  - MELVIN GUILLARD landed 10 significant strikes
+  - DENNIS SIVER landed 0 significant strikes
+  - Knockdowns: MELVIN GUILLARD 2,  DENNIS SIVER 0
+  - Takedowns: MELVIN GUILLARD 0,  DENNIS SIVER 0
+  Bonus: ko

@@ -1,0 +1,14 @@
+Event: UFC 165: Jones vs Gustafsson
+    Date: September 21, 2013
+    Location: Toronto, Ontario, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: RENAN BARAO defeated EDDIE WINELAND via KO/TKO  
+  at 0:35 of round 2
+  Key stats:
+  - RENAN BARAO landed 28 significant strikes
+  - EDDIE WINELAND landed 11 significant strikes
+  - Knockdowns: RENAN BARAO 1,  EDDIE WINELAND 0
+  - Takedowns: RENAN BARAO 0,  EDDIE WINELAND 0
+  Bonus: belt

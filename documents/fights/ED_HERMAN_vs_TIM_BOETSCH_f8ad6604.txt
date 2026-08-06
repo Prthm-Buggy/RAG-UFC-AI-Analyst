@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dillashaw vs Cruz
+    Date: January 17, 2016
+    Location: Boston, Massachusetts, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ED HERMAN defeated TIM BOETSCH via KO/TKO  
+  at 1:39 of round 2
+  Key stats:
+  - ED HERMAN landed 47 significant strikes
+  - TIM BOETSCH landed 27 significant strikes
+  - Knockdowns: ED HERMAN 1,  TIM BOETSCH 0
+  - Takedowns: ED HERMAN 0,  TIM BOETSCH 0
+  Bonus: perf

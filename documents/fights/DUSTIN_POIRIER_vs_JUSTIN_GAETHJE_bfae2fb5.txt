@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Poirier vs. Gaethje
+    Date: April 14, 2018
+    Location: Glendale, Arizona, USA
+    Weight Class: Lightweight
+    
+
+    Result: DUSTIN POIRIER defeated JUSTIN GAETHJE via KO/TKO  
+  at 0:33 of round 4
+  Key stats:
+  - DUSTIN POIRIER landed 174 significant strikes
+  - JUSTIN GAETHJE landed 115 significant strikes
+  - Knockdowns: DUSTIN POIRIER 0,  JUSTIN GAETHJE 0
+  - Takedowns: DUSTIN POIRIER 0,  JUSTIN GAETHJE 0
+  Bonus: fight

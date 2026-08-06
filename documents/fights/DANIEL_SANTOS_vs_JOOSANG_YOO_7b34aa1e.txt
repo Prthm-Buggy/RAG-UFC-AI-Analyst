@@ -1,0 +1,13 @@
+Event: UFC 320: Ankalaev vs. Pereira 2
+    Date: October 04, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: DANIEL SANTOS defeated JOOSANG YOO via KO/TKO  
+  at 0:21 of round 2
+  Key stats:
+  - DANIEL SANTOS landed 27 significant strikes
+  - JOOSANG YOO landed 31 significant strikes
+  - Knockdowns: DANIEL SANTOS 1,  JOOSANG YOO 0
+  - Takedowns: DANIEL SANTOS 1,  JOOSANG YOO 0

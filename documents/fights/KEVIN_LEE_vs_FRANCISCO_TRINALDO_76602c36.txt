@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs. Gastelum
+    Date: March 11, 2017
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: KEVIN LEE defeated FRANCISCO TRINALDO via Submission  
+  at 3:12 of round 2
+  Key stats:
+  - KEVIN LEE landed 15 significant strikes
+  - FRANCISCO TRINALDO landed 25 significant strikes
+  - Knockdowns: KEVIN LEE 0,  FRANCISCO TRINALDO 0
+  - Takedowns: KEVIN LEE 1,  FRANCISCO TRINALDO 0

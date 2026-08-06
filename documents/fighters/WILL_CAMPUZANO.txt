@@ -1,0 +1,11 @@
+Fighter: WILL CAMPUZANO
+  Date of Birth: 1986-05-27
+  Career record: 4
+  First fight: 2010-12-04
+  Last fight: 2014-03-15
+
+Career Statistics:
+- Significant Strikes Landed :123
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :1

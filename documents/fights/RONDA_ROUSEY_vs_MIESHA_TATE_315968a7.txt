@@ -1,0 +1,14 @@
+Event: UFC 168: Weidman vs Silva 2
+    Date: December 28, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: RONDA ROUSEY defeated MIESHA TATE via Submission  
+  at 0:58 of round 3
+  Key stats:
+  - RONDA ROUSEY landed 40 significant strikes
+  - MIESHA TATE landed 24 significant strikes
+  - Knockdowns: RONDA ROUSEY 0,  MIESHA TATE 0
+  - Takedowns: RONDA ROUSEY 6,  MIESHA TATE 1
+  Bonus: belt

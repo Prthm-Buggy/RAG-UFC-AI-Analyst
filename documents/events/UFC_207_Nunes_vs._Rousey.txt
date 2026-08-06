@@ -1,0 +1,16 @@
+Event : UFC 207: Nunes vs. Rousey
+    Date : December 30, 2016
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Bantamweight, Welterweight, Middleweight, Women's Bantamweight, Flyweight
+
+    Fight Results:
+  - NEIL MAGNY def. JOHNY HENDRICKS via Decision - Unanimous(R3)
+- CODY GARBRANDT def. DOMINICK CRUZ via Decision - Unanimous(R5)
+- AMANDA NUNES def. RONDA ROUSEY via KO/TKO(R1)
+- NIKO PRICE def. BRANDON THATCH via Submission(R1)
+- TJ DILLASHAW def. JOHN LINEKER via Decision - Unanimous(R3)
+- ANTONIO CARLOS JUNIOR def. MARVIN VETTORI via Decision - Unanimous(R3)
+- DONG HYUN KIM def. TAREC SAFFIEDINE via Decision - Split(R3)
+- RAY BORG def. LOUIS SMOLKA via Decision - Unanimous(R3)
+- ALEX GARCIA def. MIKE PYLE via KO/TKO(R1)

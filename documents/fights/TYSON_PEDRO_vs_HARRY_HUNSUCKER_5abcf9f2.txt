@@ -1,0 +1,13 @@
+Event: UFC 278: Usman vs. Edwards
+    Date: August 20, 2022
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TYSON PEDRO defeated HARRY HUNSUCKER via KO/TKO  
+  at 1:05 of round 1
+  Key stats:
+  - TYSON PEDRO landed 6 significant strikes
+  - HARRY HUNSUCKER landed 2 significant strikes
+  - Knockdowns: TYSON PEDRO 1,  HARRY HUNSUCKER 0
+  - Takedowns: TYSON PEDRO 0,  HARRY HUNSUCKER 0

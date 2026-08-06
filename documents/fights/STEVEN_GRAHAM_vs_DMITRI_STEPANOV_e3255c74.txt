@@ -1,0 +1,13 @@
+Event: UFC 13: The Ultimate Force
+    Date: May 30, 1997
+    Location: Augusta, Georgia, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STEVEN GRAHAM defeated DMITRI STEPANOV via Submission  
+  at 1:30 of round 1
+  Key stats:
+  - STEVEN GRAHAM landed 0 significant strikes
+  - DMITRI STEPANOV landed 1 significant strikes
+  - Knockdowns: STEVEN GRAHAM 0,  DMITRI STEPANOV 0
+  - Takedowns: STEVEN GRAHAM 1,  DMITRI STEPANOV 0

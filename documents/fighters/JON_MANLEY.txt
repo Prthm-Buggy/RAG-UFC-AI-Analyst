@@ -1,0 +1,11 @@
+Fighter: JON MANLEY
+  Date of Birth: 1986-07-07
+  Career record: 1
+  First fight: 2013-02-23
+  Last fight: 2013-02-23
+
+Career Statistics:
+- Significant Strikes Landed :17
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

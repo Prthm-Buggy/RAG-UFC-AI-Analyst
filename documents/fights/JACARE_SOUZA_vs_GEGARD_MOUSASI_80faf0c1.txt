@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Jacare vs Mousasi
+    Date: September 05, 2014
+    Location: Ledyard, Connecticut, USA
+    Weight Class: Middleweight
+    
+
+    Result: JACARE SOUZA defeated GEGARD MOUSASI via Submission  
+  at 4:30 of round 3
+  Key stats:
+  - JACARE SOUZA landed 32 significant strikes
+  - GEGARD MOUSASI landed 26 significant strikes
+  - Knockdowns: JACARE SOUZA 0,  GEGARD MOUSASI 0
+  - Takedowns: JACARE SOUZA 4,  GEGARD MOUSASI 0
+  Bonus: perf

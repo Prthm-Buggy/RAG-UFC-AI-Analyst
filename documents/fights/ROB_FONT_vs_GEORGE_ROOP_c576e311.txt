@@ -1,0 +1,14 @@
+Event: UFC 175: Weidman vs Machida
+    Date: July 05, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ROB FONT defeated GEORGE ROOP via KO/TKO  
+  at 2:19 of round 1
+  Key stats:
+  - ROB FONT landed 12 significant strikes
+  - GEORGE ROOP landed 10 significant strikes
+  - Knockdowns: ROB FONT 1,  GEORGE ROOP 0
+  - Takedowns: ROB FONT 0,  GEORGE ROOP 0
+  Bonus: perf

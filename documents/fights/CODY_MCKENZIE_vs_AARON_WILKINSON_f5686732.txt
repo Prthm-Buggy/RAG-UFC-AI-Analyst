@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team GSP vs Team Koscheck Finale
+    Date: December 04, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CODY MCKENZIE defeated AARON WILKINSON via Submission  
+  at 2:03 of round 1
+  Key stats:
+  - CODY MCKENZIE landed 0 significant strikes
+  - AARON WILKINSON landed 0 significant strikes
+  - Knockdowns: CODY MCKENZIE 0,  AARON WILKINSON 0
+  - Takedowns: CODY MCKENZIE 1,  AARON WILKINSON 1
+  Bonus: sub

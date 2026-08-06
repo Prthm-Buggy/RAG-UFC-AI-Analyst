@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lemos vs. Jandiroba
+    Date: July 20, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: VIRNA JANDIROBA defeated AMANDA LEMOS via Submission  
+  at 4:48 of round 2
+  Key stats:
+  - VIRNA JANDIROBA landed 2 significant strikes
+  - AMANDA LEMOS landed 2 significant strikes
+  - Knockdowns: VIRNA JANDIROBA 0,  AMANDA LEMOS 0
+  - Takedowns: VIRNA JANDIROBA 1,  AMANDA LEMOS 0
+  Bonus: perf

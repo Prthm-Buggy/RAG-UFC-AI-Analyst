@@ -1,0 +1,13 @@
+Event: UFC 120: Bisping vs Akiyama
+    Date: October 16, 2010
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEXANDER GUSTAFSSON defeated CYRILLE DIABATE via Submission  
+  at 2:41 of round 2
+  Key stats:
+  - ALEXANDER GUSTAFSSON landed 28 significant strikes
+  - CYRILLE DIABATE landed 11 significant strikes
+  - Knockdowns: ALEXANDER GUSTAFSSON 1,  CYRILLE DIABATE 0
+  - Takedowns: ALEXANDER GUSTAFSSON 2,  CYRILLE DIABATE 0

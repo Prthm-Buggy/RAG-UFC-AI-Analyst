@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vera vs. Cruz
+    Date: August 13, 2022
+    Location: San Diego, California, USA
+    Weight Class: Flyweight
+    
+
+    Result: TYSON NAM defeated ODE OSBOURNE via KO/TKO  
+  at 2:59 of round 1
+  Key stats:
+  - TYSON NAM landed 13 significant strikes
+  - ODE OSBOURNE landed 15 significant strikes
+  - Knockdowns: TYSON NAM 1,  ODE OSBOURNE 0
+  - Takedowns: TYSON NAM 0,  ODE OSBOURNE 0
+  Bonus: perf

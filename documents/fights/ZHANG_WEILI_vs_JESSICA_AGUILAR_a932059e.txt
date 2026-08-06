@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Ngannou 2
+    Date: November 24, 2018
+    Location: Beijing, China
+    Weight Class: Women's Strawweight
+    
+
+    Result: ZHANG WEILI defeated JESSICA AGUILAR via Submission  
+  at 3:41 of round 1
+  Key stats:
+  - ZHANG WEILI landed 45 significant strikes
+  - JESSICA AGUILAR landed 9 significant strikes
+  - Knockdowns: ZHANG WEILI 0,  JESSICA AGUILAR 0
+  - Takedowns: ZHANG WEILI 1,  JESSICA AGUILAR 0

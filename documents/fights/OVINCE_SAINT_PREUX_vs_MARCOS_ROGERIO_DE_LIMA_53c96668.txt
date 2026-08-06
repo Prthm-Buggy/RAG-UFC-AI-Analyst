@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swanson vs. Lobov
+    Date: April 22, 2017
+    Location: Nashville, Tennessee, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: OVINCE SAINT PREUX defeated MARCOS ROGERIO DE LIMA via Submission  
+  at 2:11 of round 2
+  Key stats:
+  - OVINCE SAINT PREUX landed 21 significant strikes
+  - MARCOS ROGERIO DE LIMA landed 17 significant strikes
+  - Knockdowns: OVINCE SAINT PREUX 0,  MARCOS ROGERIO DE LIMA 0
+  - Takedowns: OVINCE SAINT PREUX 1,  MARCOS ROGERIO DE LIMA 0

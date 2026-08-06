@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Walker vs. Zhang
+    Date: August 23, 2025
+    Location: Shanghai, Hebei, China
+    Weight Class: Middleweight
+    
+
+    Result: KYLE DAUKAUS defeated MICHEL PEREIRA via KO/TKO  
+  at 0:43 of round 1
+  Key stats:
+  - KYLE DAUKAUS landed 5 significant strikes
+  - MICHEL PEREIRA landed 2 significant strikes
+  - Knockdowns: KYLE DAUKAUS 1,  MICHEL PEREIRA 0
+  - Takedowns: KYLE DAUKAUS 0,  MICHEL PEREIRA 0
+  Bonus: perf

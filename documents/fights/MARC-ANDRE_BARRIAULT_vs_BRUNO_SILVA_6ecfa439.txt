@@ -1,0 +1,14 @@
+Event: UFC 315: Muhammad vs. Della Maddalena
+    Date: May 10, 2025
+    Location: Montreal, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: MARC-ANDRE BARRIAULT defeated BRUNO SILVA via KO/TKO  
+  at 1:27 of round 1
+  Key stats:
+  - MARC-ANDRE BARRIAULT landed 14 significant strikes
+  - BRUNO SILVA landed 6 significant strikes
+  - Knockdowns: MARC-ANDRE BARRIAULT 1,  BRUNO SILVA 0
+  - Takedowns: MARC-ANDRE BARRIAULT 0,  BRUNO SILVA 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blachowicz vs. Santos
+    Date: February 23, 2019
+    Location: Prague, Czech Republic
+    Weight Class: Featherweight
+    
+
+    Result: CHRIS FISHGOLD defeated DANIEL TEYMUR via Submission  
+  at 1:10 of round 2
+  Key stats:
+  - CHRIS FISHGOLD landed 14 significant strikes
+  - DANIEL TEYMUR landed 17 significant strikes
+  - Knockdowns: CHRIS FISHGOLD 0,  DANIEL TEYMUR 0
+  - Takedowns: CHRIS FISHGOLD 5,  DANIEL TEYMUR 1

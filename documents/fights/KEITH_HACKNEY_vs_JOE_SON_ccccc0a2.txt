@@ -1,0 +1,13 @@
+Event: UFC 4: Revenge of the Warriors
+    Date: December 16, 1994
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Open Weight
+    
+
+    Result: KEITH HACKNEY defeated JOE SON via Submission  
+  at 2:44 of round 1
+  Key stats:
+  - KEITH HACKNEY landed 8 significant strikes
+  - JOE SON landed 0 significant strikes
+  - Knockdowns: KEITH HACKNEY 0,  JOE SON 0
+  - Takedowns: KEITH HACKNEY 0,  JOE SON 1

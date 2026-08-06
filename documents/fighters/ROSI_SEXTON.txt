@@ -1,0 +1,11 @@
+Fighter: ROSI SEXTON
+  Date of Birth: 1977-07-16
+  Career record: 2
+  First fight: 2013-06-15
+  Last fight: 2013-10-26
+
+Career Statistics:
+- Significant Strikes Landed :122
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

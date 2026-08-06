@@ -1,0 +1,19 @@
+Event : UFC 321: Aspinall vs. Gane
+    Date : October 25, 2025
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Women's Strawweight, Lightweight, Light Heavyweight, Middleweight, Flyweight, Featherweight
+
+    Fight Results:
+  - UMAR NURMAGOMEDOV def. MARIO BAUTISTA via Decision - Unanimous(R3)
+- LUDOVIT KLEIN def. MATEUSZ REBECKI via Decision - Majority(R3)
+- MIZUKI def. JAQUELINE AMORIM via Decision - Unanimous(R3)
+- MITCH RAPOSO def. AZAT MAKSUM via Decision - Unanimous(R3)
+- VALTER WALKER def. LOUIE SUTHERLAND via Submission(R1)
+- IKRAM ALISKEROV def. JUNYONG PARK via Decision - Unanimous(R3)
+- ALEXANDER VOLKOV def. JAILTON ALMEIDA via Decision - Split(R3)
+- HAMDY ABDELWAHAB def. CHRIS BARNETT via Decision - Unanimous(R3)
+- QUILLAN SALKILLD def. NASRAT HAQPARAST via KO/TKO(R1)
+- MACKENZIE DERN def. VIRNA JANDIROBA via Decision - Unanimous(R5)
+- AZAMAT MURZAKANOV def. ALEKSANDAR RAKIC via KO/TKO(R1)
+- NATHANIEL WOOD def. JOSE DELGADO via Decision - Unanimous(R3)

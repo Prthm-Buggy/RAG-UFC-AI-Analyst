@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rivera vs. Moraes
+    Date: June 01, 2018
+    Location: Utica, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: DESMOND GREEN defeated GLEISON TIBAU via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DESMOND GREEN landed 77 significant strikes
+  - GLEISON TIBAU landed 28 significant strikes
+  - Knockdowns: DESMOND GREEN 0,  GLEISON TIBAU 0
+  - Takedowns: DESMOND GREEN 0,  GLEISON TIBAU 0

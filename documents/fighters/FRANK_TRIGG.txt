@@ -1,0 +1,11 @@
+Fighter: FRANK TRIGG
+  Date of Birth: 1972-05-07
+  Career record: 7
+  First fight: 2003-11-21
+  Last fight: 2010-02-06
+
+Career Statistics:
+- Significant Strikes Landed :74
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :2

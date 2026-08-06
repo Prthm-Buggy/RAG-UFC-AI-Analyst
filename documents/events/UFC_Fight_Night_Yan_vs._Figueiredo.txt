@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Yan vs. Figueiredo
+    Date : November 23, 2024
+    Location: Macau, China
+    Number of Fights: 13
+    Weight Classes: Flyweight, Women's Strawweight, Welterweight, Light Heavyweight, Lightweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - GABRIELLA FERNANDES def. WANG CONG via Submission(R2)
+- CARLOS HERNANDEZ def. NYAMJARGAL TUMENDEMBEREL via Decision - Split(R3)
+- SUYOUNG YOU def. BAERGENG JIELEYISI via Decision - Unanimous(R3)
+- DONGHUN CHOI def. KIRU SAHOTA via KO/TKO(R1)
+- PETR YAN def. DEIVESON FIGUEIREDO via Decision - Unanimous(R5)
+- YAN XIAONAN def. TABATHA RICCI via Decision - Unanimous(R3)
+- MUSLIM SALIKHOV def. SONG KENAN via KO/TKO(R1)
+- NIKOLAS MOTTA def. MAHESHATE via Decision - Unanimous(R3)
+- CARLOS ULBERG def. VOLKAN OEZDEMIR via Decision - Unanimous(R3)
+- ZHANG MINGYANG def. OZZY DIAZ via KO/TKO(R1)
+- SHI MING def. FENG XIAOCAN via KO/TKO(R3)
+- LONE'ER KAVANAGH def. JOSE OCHOA via Decision - Unanimous(R3)
+- XIAO LONG def. QUANG LE via KO/TKO(R3)

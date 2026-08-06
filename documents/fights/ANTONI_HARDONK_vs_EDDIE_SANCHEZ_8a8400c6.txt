@@ -1,0 +1,13 @@
+Event: UFC 85: Bedlam
+    Date: June 07, 2008
+    Location: London, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: ANTONI HARDONK defeated EDDIE SANCHEZ via KO/TKO  
+  at 4:15 of round 2
+  Key stats:
+  - ANTONI HARDONK landed 48 significant strikes
+  - EDDIE SANCHEZ landed 33 significant strikes
+  - Knockdowns: ANTONI HARDONK 1,  EDDIE SANCHEZ 2
+  - Takedowns: ANTONI HARDONK 0,  EDDIE SANCHEZ 2

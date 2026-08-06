@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Undefeated Finale
+    Date: July 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ROXANNE MODAFFERI defeated BARB HONCHAK via KO/TKO  
+  at 3:32 of round 2
+  Key stats:
+  - ROXANNE MODAFFERI landed 51 significant strikes
+  - BARB HONCHAK landed 24 significant strikes
+  - Knockdowns: ROXANNE MODAFFERI 0,  BARB HONCHAK 0
+  - Takedowns: ROXANNE MODAFFERI 1,  BARB HONCHAK 0

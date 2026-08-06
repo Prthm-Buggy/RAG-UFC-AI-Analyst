@@ -1,0 +1,11 @@
+Fighter: SARAH MORAS
+  Date of Birth: 1988-04-30
+  Career record: 9
+  First fight: 2014-07-06
+  Last fight: 2021-01-16
+
+Career Statistics:
+- Significant Strikes Landed :257
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :6

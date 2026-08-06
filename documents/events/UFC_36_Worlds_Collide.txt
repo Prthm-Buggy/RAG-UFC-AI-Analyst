@@ -1,0 +1,15 @@
+Event : UFC 36: Worlds Collide
+    Date : March 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Middleweight, Welterweight, Light Heavyweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - MATT LINDLAND def. PAT MILETICH via KO/TKO(R1)
+- FRANK MIR def. PETE WILLIAMS via Submission(R1)
+- SEAN SHERK def. JUTARO NAKAO via Decision - Unanimous(R3)
+- JOSH BARNETT def. RANDY COUTURE via KO/TKO(R2)
+- EVAN TANNER def. ELVIS SINOSIC via TKO - Doctor's Stoppage(R1)
+- PEDRO RIZZO def. ANDREI ARLOVSKI via KO/TKO(R3)
+- MATT HUGHES def. HAYATO SAKURAI via KO/TKO(R4)
+- MATT SERRA def. KELLY DULLANTY via Submission(R1)

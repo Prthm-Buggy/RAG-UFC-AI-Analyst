@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Johnson
+    Date: September 17, 2016
+    Location: Hidalgo, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: GABRIEL BENITEZ defeated SAM SICILIA via Submission  
+  at 1:20 of round 2
+  Key stats:
+  - GABRIEL BENITEZ landed 39 significant strikes
+  - SAM SICILIA landed 19 significant strikes
+  - Knockdowns: GABRIEL BENITEZ 1,  SAM SICILIA 0
+  - Takedowns: GABRIEL BENITEZ 0,  SAM SICILIA 0

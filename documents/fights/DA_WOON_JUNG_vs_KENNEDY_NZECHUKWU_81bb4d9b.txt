@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Rodriguez
+    Date: November 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DA WOON JUNG defeated KENNEDY NZECHUKWU via KO/TKO  
+  at 3:04 of round 1
+  Key stats:
+  - DA WOON JUNG landed 16 significant strikes
+  - KENNEDY NZECHUKWU landed 6 significant strikes
+  - Knockdowns: DA WOON JUNG 1,  KENNEDY NZECHUKWU 0
+  - Takedowns: DA WOON JUNG 0,  KENNEDY NZECHUKWU 0

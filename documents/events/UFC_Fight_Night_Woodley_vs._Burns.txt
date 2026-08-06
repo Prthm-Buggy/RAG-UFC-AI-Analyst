@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Woodley vs. Burns
+    Date : May 30, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Women's Flyweight, Heavyweight, Welterweight, Featherweight, Flyweight, Catch Weight, Women's Strawweight, Lightweight
+
+    Fight Results:
+  - KATLYN CERMINARA def. ANTONINA SHEVCHENKO via Decision - Unanimous(R3)
+- DANIEL RODRIGUEZ def. GABE GREEN via Decision - Unanimous(R3)
+- MACKENZIE DERN def. HANNAH CIFERS via Submission(R1)
+- ROOSEVELT ROBERTS def. BROK WEAVER via Submission(R2)
+- BILLY QUARANTILLO def. SPIKE CARLYLE via Decision - Unanimous(R3)
+- CHRIS GUTIERREZ def. VINCE MORALES via KO/TKO(R2)
+- GILBERT BURNS def. TYRON WOODLEY via Decision - Unanimous(R5)
+- BRANDON ROYVAL def. TIM ELLIOTT via Submission(R2)
+- AUGUSTO SAKAI def. BLAGOY IVANOV via Decision - Split(R3)
+- CASEY KENNEY def. LOUIS SMOLKA via Submission(R1)

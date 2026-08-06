@@ -1,0 +1,13 @@
+Event: UFC on FOX: Machida vs Rockhold
+    Date: April 18, 2015
+    Location: Newark, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: OVINCE SAINT PREUX defeated PATRICK CUMMINS via KO/TKO  
+  at 4:54 of round 1
+  Key stats:
+  - OVINCE SAINT PREUX landed 18 significant strikes
+  - PATRICK CUMMINS landed 14 significant strikes
+  - Knockdowns: OVINCE SAINT PREUX 1,  PATRICK CUMMINS 0
+  - Takedowns: OVINCE SAINT PREUX 0,  PATRICK CUMMINS 1

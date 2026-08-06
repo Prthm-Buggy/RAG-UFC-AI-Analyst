@@ -1,0 +1,14 @@
+Event: UFC 211: Miocic vs. Dos Santos
+    Date: May 13, 2017
+    Location: Dallas, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STIPE MIOCIC defeated JUNIOR DOS SANTOS via KO/TKO  
+  at 2:22 of round 1
+  Key stats:
+  - STIPE MIOCIC landed 26 significant strikes
+  - JUNIOR DOS SANTOS landed 12 significant strikes
+  - Knockdowns: STIPE MIOCIC 1,  JUNIOR DOS SANTOS 0
+  - Takedowns: STIPE MIOCIC 0,  JUNIOR DOS SANTOS 0
+  Bonus: belt

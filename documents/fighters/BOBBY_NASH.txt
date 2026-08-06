@@ -1,0 +1,11 @@
+Fighter: BOBBY NASH
+  Date of Birth: 1990-03-26
+  Career record: 3
+  First fight: 2017-01-28
+  Last fight: 2017-11-25
+
+Career Statistics:
+- Significant Strikes Landed :65
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :2

@@ -1,0 +1,14 @@
+Event: UFC 317: Topuria vs. Oliveira
+    Date: June 28, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ILIA TOPURIA defeated CHARLES OLIVEIRA via KO/TKO  
+  at 2:27 of round 1
+  Key stats:
+  - ILIA TOPURIA landed 21 significant strikes
+  - CHARLES OLIVEIRA landed 9 significant strikes
+  - Knockdowns: ILIA TOPURIA 1,  CHARLES OLIVEIRA 0
+  - Takedowns: ILIA TOPURIA 0,  CHARLES OLIVEIRA 0
+  Bonus: belt

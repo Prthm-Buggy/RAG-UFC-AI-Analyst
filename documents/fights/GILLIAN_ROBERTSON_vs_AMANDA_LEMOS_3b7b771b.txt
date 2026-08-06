@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Vallejos
+    Date: March 14, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: GILLIAN ROBERTSON defeated AMANDA LEMOS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - GILLIAN ROBERTSON landed 12 significant strikes
+  - AMANDA LEMOS landed 42 significant strikes
+  - Knockdowns: GILLIAN ROBERTSON 0,  AMANDA LEMOS 0
+  - Takedowns: GILLIAN ROBERTSON 3,  AMANDA LEMOS 1

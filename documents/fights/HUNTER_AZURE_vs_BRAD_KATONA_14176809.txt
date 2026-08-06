@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs. Gaethje
+    Date: September 14, 2019
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: HUNTER AZURE defeated BRAD KATONA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - HUNTER AZURE landed 41 significant strikes
+  - BRAD KATONA landed 21 significant strikes
+  - Knockdowns: HUNTER AZURE 0,  BRAD KATONA 0
+  - Takedowns: HUNTER AZURE 0,  BRAD KATONA 3

@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Dos Anjos vs. Lee
+    Date : May 18, 2019
+    Location: Rochester, New York, USA
+    Number of Fights: 13
+    Weight Classes: Middleweight, Lightweight, Women's Bantamweight, Welterweight, Featherweight, Light Heavyweight, Women's Featherweight
+
+    Fight Results:
+  - GRANT DAWSON def. MICHAEL TRIZANO via Submission(R2)
+- MICHEL PEREIRA def. DANNY ROBERTS via KO/TKO(R1)
+- FELICIA SPENCER def. MEGAN ANDERSON via Submission(R1)
+- CHARLES OLIVEIRA def. NIK LENTZ via KO/TKO(R2)
+- JULIO ARCE def. JULIAN EROSA via KO/TKO(R3)
+- ASPEN LADD def. SIJARA EUBANKS via Decision - Unanimous(R3)
+- ED HERMAN def. PATRICK CUMMINS via KO/TKO(R1)
+- IAN HEINISCH def. ANTONIO CARLOS JUNIOR via Decision - Unanimous(R3)
+- RAFAEL DOS ANJOS def. KEVIN LEE via Submission(R4)
+- DESMOND GREEN def. CHARLES JOURDAIN via Decision - Unanimous(R3)
+- ZAK CUMMINGS def. TREVIN GILES via Submission(R3)
+- DAVI RAMOS def. AUSTIN HUBBARD via Decision - Unanimous(R3)
+- VICENTE LUQUE def. DERRICK KRANTZ via KO/TKO(R1)

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Nascimento
+    Date: May 11, 2024
+    Location: St. Louis, Missouri, USA
+    Weight Class: Lightweight
+    
+
+    Result: ESTEBAN RIBOVICS defeated TERRANCE MCKINNEY via KO/TKO  
+  at 0:37 of round 1
+  Key stats:
+  - ESTEBAN RIBOVICS landed 5 significant strikes
+  - TERRANCE MCKINNEY landed 5 significant strikes
+  - Knockdowns: ESTEBAN RIBOVICS 1,  TERRANCE MCKINNEY 0
+  - Takedowns: ESTEBAN RIBOVICS 0,  TERRANCE MCKINNEY 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thompson vs. Pettis
+    Date: March 23, 2019
+    Location: Nashville, Tennessee, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARLON VERA defeated FRANKIE SAENZ via KO/TKO  
+  at 1:25 of round 1
+  Key stats:
+  - MARLON VERA landed 12 significant strikes
+  - FRANKIE SAENZ landed 4 significant strikes
+  - Knockdowns: MARLON VERA 1,  FRANKIE SAENZ 0
+  - Takedowns: MARLON VERA 0,  FRANKIE SAENZ 0

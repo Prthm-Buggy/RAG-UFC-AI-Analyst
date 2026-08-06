@@ -1,0 +1,13 @@
+Event: UFC 54: Boiling Point
+    Date: August 20, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GEORGES ST-PIERRE defeated FRANK TRIGG via Submission  
+  at 4:09 of round 1
+  Key stats:
+  - GEORGES ST-PIERRE landed 25 significant strikes
+  - FRANK TRIGG landed 1 significant strikes
+  - Knockdowns: GEORGES ST-PIERRE 0,  FRANK TRIGG 0
+  - Takedowns: GEORGES ST-PIERRE 1,  FRANK TRIGG 0

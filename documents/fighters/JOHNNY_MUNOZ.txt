@@ -1,0 +1,11 @@
+Fighter: JOHNNY MUNOZ
+  Date of Birth: 1993-02-16
+  Career record: 6
+  First fight: 2020-08-01
+  Last fight: 2023-10-07
+
+Career Statistics:
+- Significant Strikes Landed :168
+- Total takedowns landed :11
+- Knockdowns :0
+- Submission Attempts :8

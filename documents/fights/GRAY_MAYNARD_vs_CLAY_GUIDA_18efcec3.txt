@@ -1,0 +1,13 @@
+Event: UFC on FX: Maynard vs Guida
+    Date: June 22, 2012
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: GRAY MAYNARD defeated CLAY GUIDA via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - GRAY MAYNARD landed 49 significant strikes
+  - CLAY GUIDA landed 45 significant strikes
+  - Knockdowns: GRAY MAYNARD 0,  CLAY GUIDA 0
+  - Takedowns: GRAY MAYNARD 1,  CLAY GUIDA 0

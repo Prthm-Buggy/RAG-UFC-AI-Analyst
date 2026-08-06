@@ -1,0 +1,14 @@
+Event: UFC 96: Jackson vs Jardine
+    Date: March 07, 2009
+    Location: Columbus, Ohio, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MATT HAMILL defeated MARK MUNOZ via KO/TKO  
+  at 3:53 of round 1
+  Key stats:
+  - MATT HAMILL landed 23 significant strikes
+  - MARK MUNOZ landed 14 significant strikes
+  - Knockdowns: MATT HAMILL 1,  MARK MUNOZ 0
+  - Takedowns: MATT HAMILL 0,  MARK MUNOZ 0
+  Bonus: ko

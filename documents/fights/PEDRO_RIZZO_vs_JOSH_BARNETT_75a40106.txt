@@ -1,0 +1,13 @@
+Event: UFC 30: Battle on the Boardwalk
+    Date: February 23, 2001
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PEDRO RIZZO defeated JOSH BARNETT via KO/TKO  
+  at 4:21 of round 2
+  Key stats:
+  - PEDRO RIZZO landed 31 significant strikes
+  - JOSH BARNETT landed 39 significant strikes
+  - Knockdowns: PEDRO RIZZO 1,  JOSH BARNETT 0
+  - Takedowns: PEDRO RIZZO 0,  JOSH BARNETT 0

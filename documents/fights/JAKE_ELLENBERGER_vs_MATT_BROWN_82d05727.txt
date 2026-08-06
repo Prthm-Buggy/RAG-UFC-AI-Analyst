@@ -1,0 +1,14 @@
+Event: UFC 201: Lawler vs. Woodley
+    Date: July 30, 2016
+    Location: Atlanta, Georgia, USA
+    Weight Class: Welterweight
+    
+
+    Result: JAKE ELLENBERGER defeated MATT BROWN via KO/TKO  
+  at 1:46 of round 1
+  Key stats:
+  - JAKE ELLENBERGER landed 21 significant strikes
+  - MATT BROWN landed 7 significant strikes
+  - Knockdowns: JAKE ELLENBERGER 2,  MATT BROWN 0
+  - Takedowns: JAKE ELLENBERGER 0,  MATT BROWN 0
+  Bonus: perf

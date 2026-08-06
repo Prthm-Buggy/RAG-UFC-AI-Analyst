@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cowboy vs. Gaethje
+    Date: September 14, 2019
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Welterweight
+    
+
+    Result: TRISTAN CONNELLY defeated MICHEL PEREIRA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TRISTAN CONNELLY landed 64 significant strikes
+  - MICHEL PEREIRA landed 32 significant strikes
+  - Knockdowns: TRISTAN CONNELLY 0,  MICHEL PEREIRA 0
+  - Takedowns: TRISTAN CONNELLY 0,  MICHEL PEREIRA 2
+  Bonus: fight

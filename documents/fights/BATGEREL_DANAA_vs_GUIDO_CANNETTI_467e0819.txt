@@ -1,0 +1,13 @@
+Event: UFC 248: Adesanya vs. Romero
+    Date: March 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: BATGEREL DANAA defeated GUIDO CANNETTI via KO/TKO  
+  at 3:01 of round 1
+  Key stats:
+  - BATGEREL DANAA landed 17 significant strikes
+  - GUIDO CANNETTI landed 11 significant strikes
+  - Knockdowns: BATGEREL DANAA 1,  GUIDO CANNETTI 0
+  - Takedowns: BATGEREL DANAA 0,  GUIDO CANNETTI 0

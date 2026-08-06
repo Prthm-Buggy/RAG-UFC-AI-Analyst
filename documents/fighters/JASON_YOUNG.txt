@@ -1,0 +1,11 @@
+Fighter: JASON YOUNG
+  Date of Birth: 1986-06-28
+  Career record: 4
+  First fight: 2011-06-11
+  Last fight: 2012-09-29
+
+Career Statistics:
+- Significant Strikes Landed :135
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC 237: Namajunas vs. Andrade
+    Date: May 11, 2019
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: RAONI BARCELOS defeated CARLOS HUACHIN via KO/TKO  
+  at 4:49 of round 2
+  Key stats:
+  - RAONI BARCELOS landed 59 significant strikes
+  - CARLOS HUACHIN landed 20 significant strikes
+  - Knockdowns: RAONI BARCELOS 1,  CARLOS HUACHIN 0
+  - Takedowns: RAONI BARCELOS 0,  CARLOS HUACHIN 0

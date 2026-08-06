@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Joanna vs. Waterson
+    Date: October 12, 2019
+    Location: Tampa, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARLON VERA defeated ANDRE EWELL via KO/TKO  
+  at 3:17 of round 3
+  Key stats:
+  - MARLON VERA landed 80 significant strikes
+  - ANDRE EWELL landed 50 significant strikes
+  - Knockdowns: MARLON VERA 0,  ANDRE EWELL 0
+  - Takedowns: MARLON VERA 0,  ANDRE EWELL 0
+  Bonus: perf

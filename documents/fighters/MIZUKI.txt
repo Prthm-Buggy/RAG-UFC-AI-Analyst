@@ -1,0 +1,11 @@
+Fighter: MIZUKI
+  Date of Birth: 1994-08-19
+  Career record: 4
+  First fight: 2019-08-31
+  Last fight: 2025-10-25
+
+Career Statistics:
+- Significant Strikes Landed :267
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: DENIS STOJNIC
+  Date of Birth: 1980-02-02
+  Career record: 2
+  First fight: 2009-02-07
+  Last fight: 2009-06-13
+
+Career Statistics:
+- Significant Strikes Landed :23
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

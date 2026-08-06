@@ -1,0 +1,11 @@
+Fighter: BRODIE FARBER
+  Date of Birth: 1980-07-05
+  Career record: 2
+  First fight: 2008-07-19
+  Last fight: 2008-12-10
+
+Career Statistics:
+- Significant Strikes Landed :28
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

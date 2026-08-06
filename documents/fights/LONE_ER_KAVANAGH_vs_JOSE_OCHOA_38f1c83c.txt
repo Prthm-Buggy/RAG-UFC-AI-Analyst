@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yan vs. Figueiredo
+    Date: November 23, 2024
+    Location: Macau, China
+    Weight Class: Flyweight
+    
+
+    Result: LONE'ER KAVANAGH defeated JOSE OCHOA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LONE'ER KAVANAGH landed 51 significant strikes
+  - JOSE OCHOA landed 50 significant strikes
+  - Knockdowns: LONE'ER KAVANAGH 0,  JOSE OCHOA 0
+  - Takedowns: LONE'ER KAVANAGH 0,  JOSE OCHOA 0

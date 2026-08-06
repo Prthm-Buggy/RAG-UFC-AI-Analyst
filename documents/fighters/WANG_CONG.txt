@@ -1,0 +1,11 @@
+Fighter: WANG CONG
+  Date of Birth: 1992-05-15
+  Career record: 5
+  First fight: 2024-08-24
+  Last fight: 2026-02-07
+
+Career Statistics:
+- Significant Strikes Landed :341
+- Total takedowns landed :2
+- Knockdowns :3
+- Submission Attempts :1

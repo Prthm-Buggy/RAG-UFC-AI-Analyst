@@ -1,0 +1,13 @@
+Event: UFC 189: Mendes vs McGregor
+    Date: July 11, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT BROWN defeated TIM MEANS via Submission  
+  at 4:44 of round 1
+  Key stats:
+  - MATT BROWN landed 25 significant strikes
+  - TIM MEANS landed 16 significant strikes
+  - Knockdowns: MATT BROWN 0,  TIM MEANS 0
+  - Takedowns: MATT BROWN 1,  TIM MEANS 0

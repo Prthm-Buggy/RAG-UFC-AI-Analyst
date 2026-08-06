@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ngannou vs. Dos Santos
+    Date: June 29, 2019
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ERYK ANDERS defeated VINICIUS MOREIRA via KO/TKO  
+  at 1:18 of round 1
+  Key stats:
+  - ERYK ANDERS landed 11 significant strikes
+  - VINICIUS MOREIRA landed 2 significant strikes
+  - Knockdowns: ERYK ANDERS 1,  VINICIUS MOREIRA 0
+  - Takedowns: ERYK ANDERS 0,  VINICIUS MOREIRA 0
+  Bonus: perf

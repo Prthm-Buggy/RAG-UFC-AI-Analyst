@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dern vs. Yan
+    Date: October 01, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRENDAN ALLEN defeated KRZYSZTOF JOTKO via Submission  
+  at 4:17 of round 1
+  Key stats:
+  - BRENDAN ALLEN landed 3 significant strikes
+  - KRZYSZTOF JOTKO landed 3 significant strikes
+  - Knockdowns: BRENDAN ALLEN 0,  KRZYSZTOF JOTKO 0
+  - Takedowns: BRENDAN ALLEN 1,  KRZYSZTOF JOTKO 0
+  Bonus: perf

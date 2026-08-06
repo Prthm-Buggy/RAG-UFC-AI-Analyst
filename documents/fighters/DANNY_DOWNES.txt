@@ -1,0 +1,11 @@
+Fighter: DANNY DOWNES
+  Date of Birth: 1986-04-08
+  Career record: 2
+  First fight: 2011-06-04
+  Last fight: 2011-10-29
+
+Career Statistics:
+- Significant Strikes Landed :38
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

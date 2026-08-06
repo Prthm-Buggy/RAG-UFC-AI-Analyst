@@ -1,0 +1,11 @@
+Fighter: PAUL JONES
+  Date of Birth: 1963-06-16
+  Career record: 2
+  First fight: 1999-07-16
+  Last fight: 1999-09-24
+
+Career Statistics:
+- Significant Strikes Landed :26
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :2

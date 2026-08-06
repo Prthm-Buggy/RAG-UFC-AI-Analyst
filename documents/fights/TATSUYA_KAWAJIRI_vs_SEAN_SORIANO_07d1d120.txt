@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Saffiedine vs Lim
+    Date: January 04, 2014
+    Location: Singapore, Singapore
+    Weight Class: Featherweight
+    
+
+    Result: TATSUYA KAWAJIRI defeated SEAN SORIANO via Submission  
+  at 0:50 of round 2
+  Key stats:
+  - TATSUYA KAWAJIRI landed 32 significant strikes
+  - SEAN SORIANO landed 19 significant strikes
+  - Knockdowns: TATSUYA KAWAJIRI 0,  SEAN SORIANO 0
+  - Takedowns: TATSUYA KAWAJIRI 3,  SEAN SORIANO 0

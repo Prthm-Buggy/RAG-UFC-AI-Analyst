@@ -1,0 +1,11 @@
+Fighter: DAN MORET
+  Date of Birth: 1986-11-21
+  Career record: 3
+  First fight: 2018-04-14
+  Last fight: 2019-06-29
+
+Career Statistics:
+- Significant Strikes Landed :96
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

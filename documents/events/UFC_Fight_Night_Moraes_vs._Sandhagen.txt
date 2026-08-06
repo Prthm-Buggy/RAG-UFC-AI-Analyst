@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Moraes vs. Sandhagen
+    Date : October 10, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Heavyweight, Flyweight, Women's Bantamweight, Featherweight, Middleweight
+
+    Fight Results:
+  - MARCIN TYBURA def. BEN ROTHWELL via Decision - Unanimous(R3)
+- DRICUS DU PLESSIS def. MARKUS PEREZ via KO/TKO(R1)
+- CHRIS DAUKAUS def. RODRIGO NASCIMENTO via KO/TKO(R1)
+- ILIA TOPURIA def. YOUSSEF ZALAL via Decision - Unanimous(R3)
+- TONY KELLEY def. ALI ALQAISI via Decision - Unanimous(R3)
+- JOAQUIN BUCKLEY def. IMPA KASANGANAY via KO/TKO(R2)
+- TRACY CORTEZ def. STEPHANIE EGGER via Decision - Unanimous(R3)
+- CORY SANDHAGEN def. MARLON MORAES via KO/TKO(R2)
+- TAGIR ULANBEKOV def. BRUNO SILVA via Decision - Unanimous(R3)
+- EDSON BARBOZA def. MAKWAN AMIRKHANI via Decision - Unanimous(R3)
+- GIGA CHIKADZE def. OMAR MORALES via Decision - Unanimous(R3)
+- TOM ASPINALL def. ALAN BAUDOT via KO/TKO(R1)
+- TOM BREESE def. KB BHULLAR via KO/TKO(R1)

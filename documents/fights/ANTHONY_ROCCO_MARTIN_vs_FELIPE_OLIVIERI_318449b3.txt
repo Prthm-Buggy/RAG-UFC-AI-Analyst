@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs. Bader
+    Date: January 30, 2016
+    Location: Newark, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: ANTHONY ROCCO MARTIN defeated FELIPE OLIVIERI via Submission  
+  at 3:02 of round 3
+  Key stats:
+  - ANTHONY ROCCO MARTIN landed 60 significant strikes
+  - FELIPE OLIVIERI landed 87 significant strikes
+  - Knockdowns: ANTHONY ROCCO MARTIN 0,  FELIPE OLIVIERI 0
+  - Takedowns: ANTHONY ROCCO MARTIN 2,  FELIPE OLIVIERI 0

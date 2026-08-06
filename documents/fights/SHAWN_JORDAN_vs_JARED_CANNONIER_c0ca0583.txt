@@ -1,0 +1,14 @@
+Event: UFC 182: Jones vs Cormier
+    Date: January 03, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SHAWN JORDAN defeated JARED CANNONIER via KO/TKO  
+  at 2:57 of round 1
+  Key stats:
+  - SHAWN JORDAN landed 12 significant strikes
+  - JARED CANNONIER landed 10 significant strikes
+  - Knockdowns: SHAWN JORDAN 1,  JARED CANNONIER 0
+  - Takedowns: SHAWN JORDAN 0,  JARED CANNONIER 0
+  Bonus: perf

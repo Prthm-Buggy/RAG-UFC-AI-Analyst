@@ -1,0 +1,13 @@
+Event: UFC 320: Ankalaev vs. Pereira 2
+    Date: October 04, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ATEBA GAUTIER defeated TRE'STON VINES via KO/TKO  
+  at 1:41 of round 1
+  Key stats:
+  - ATEBA GAUTIER landed 6 significant strikes
+  - TRE'STON VINES landed 0 significant strikes
+  - Knockdowns: ATEBA GAUTIER 1,  TRE'STON VINES 0
+  - Takedowns: ATEBA GAUTIER 1,  TRE'STON VINES 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Nurmagomedov
+    Date: August 03, 2024
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: JAI HERBERT defeated ROLANDO BEDOYA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JAI HERBERT landed 82 significant strikes
+  - ROLANDO BEDOYA landed 67 significant strikes
+  - Knockdowns: JAI HERBERT 1,  ROLANDO BEDOYA 0
+  - Takedowns: JAI HERBERT 2,  ROLANDO BEDOYA 0

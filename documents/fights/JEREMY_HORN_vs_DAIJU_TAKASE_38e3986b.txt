@@ -1,0 +1,13 @@
+Event: UFC 21: Return of the Champions
+    Date: July 16, 1999
+    Location: Cedar Rapids, Iowa, USA
+    Weight Class: Middleweight
+    
+
+    Result: JEREMY HORN defeated DAIJU TAKASE via KO/TKO  
+  at 4:41 of round 1
+  Key stats:
+  - JEREMY HORN landed 35 significant strikes
+  - DAIJU TAKASE landed 0 significant strikes
+  - Knockdowns: JEREMY HORN 0,  DAIJU TAKASE 0
+  - Takedowns: JEREMY HORN 0,  DAIJU TAKASE 0

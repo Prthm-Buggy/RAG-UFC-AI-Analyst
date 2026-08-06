@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Strickland vs. Hernandez
+    Date: February 21, 2026
+    Location: Houston, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: SEAN STRICKLAND defeated ANTHONY HERNANDEZ via KO/TKO  
+  at 2:23 of round 3
+  Key stats:
+  - SEAN STRICKLAND landed 110 significant strikes
+  - ANTHONY HERNANDEZ landed 55 significant strikes
+  - Knockdowns: SEAN STRICKLAND 1,  ANTHONY HERNANDEZ 0
+  - Takedowns: SEAN STRICKLAND 0,  ANTHONY HERNANDEZ 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 135: Jones vs Rampage
+    Date: September 24, 2011
+    Location: Denver, Colorado, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TAKEYA MIZUGAKI defeated COLE ESCOVEDO via KO/TKO  
+  at 4:30 of round 2
+  Key stats:
+  - TAKEYA MIZUGAKI landed 70 significant strikes
+  - COLE ESCOVEDO landed 29 significant strikes
+  - Knockdowns: TAKEYA MIZUGAKI 2,  COLE ESCOVEDO 0
+  - Takedowns: TAKEYA MIZUGAKI 1,  COLE ESCOVEDO 0

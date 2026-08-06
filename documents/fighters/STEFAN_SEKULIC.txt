@@ -1,0 +1,11 @@
+Fighter: STEFAN SEKULIC
+  Date of Birth: 1992-02-12
+  Career record: 2
+  First fight: 2018-09-15
+  Last fight: 2021-04-24
+
+Career Statistics:
+- Significant Strikes Landed :55
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :1

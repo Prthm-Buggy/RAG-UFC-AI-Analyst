@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Maynard vs Diaz
+    Date: January 11, 2010
+    Location: Fairfax, Virginia, USA
+    Weight Class: Middleweight
+    
+
+    Result: GERALD HARRIS defeated JOHN SALTER via KO/TKO  
+  at 3:24 of round 3
+  Key stats:
+  - GERALD HARRIS landed 21 significant strikes
+  - JOHN SALTER landed 7 significant strikes
+  - Knockdowns: GERALD HARRIS 0,  JOHN SALTER 0
+  - Takedowns: GERALD HARRIS 1,  JOHN SALTER 1
+  Bonus: ko

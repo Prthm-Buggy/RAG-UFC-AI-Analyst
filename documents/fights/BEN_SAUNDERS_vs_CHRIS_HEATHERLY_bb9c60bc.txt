@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Henderson vs Dos Anjos
+    Date: August 23, 2014
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Welterweight
+    
+
+    Result: BEN SAUNDERS defeated CHRIS HEATHERLY via Submission  
+  at 2:18 of round 1
+  Key stats:
+  - BEN SAUNDERS landed 4 significant strikes
+  - CHRIS HEATHERLY landed 4 significant strikes
+  - Knockdowns: BEN SAUNDERS 0,  CHRIS HEATHERLY 0
+  - Takedowns: BEN SAUNDERS 0,  CHRIS HEATHERLY 1
+  Bonus: perf

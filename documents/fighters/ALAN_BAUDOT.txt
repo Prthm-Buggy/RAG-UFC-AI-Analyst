@@ -1,0 +1,11 @@
+Fighter: ALAN BAUDOT
+  Date of Birth: 1988-02-01
+  Career record: 3
+  First fight: 2020-10-10
+  Last fight: 2022-06-25
+
+Career Statistics:
+- Significant Strikes Landed :107
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

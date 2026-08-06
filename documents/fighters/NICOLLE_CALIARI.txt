@@ -1,0 +1,11 @@
+Fighter: NICOLLE CALIARI
+  Date of Birth: 1996-11-04
+  Career record: 3
+  First fight: 2025-01-11
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :119
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :0

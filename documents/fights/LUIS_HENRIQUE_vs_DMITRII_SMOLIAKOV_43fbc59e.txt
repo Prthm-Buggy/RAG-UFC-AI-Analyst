@@ -1,0 +1,13 @@
+Event: UFC on FOX: Holm vs. Shevchenko
+    Date: July 23, 2016
+    Location: Chicago, Illinois, USA
+    Weight Class: Heavyweight
+    
+
+    Result: LUIS HENRIQUE defeated DMITRII SMOLIAKOV via Submission  
+  at 3:58 of round 2
+  Key stats:
+  - LUIS HENRIQUE landed 20 significant strikes
+  - DMITRII SMOLIAKOV landed 14 significant strikes
+  - Knockdowns: LUIS HENRIQUE 0,  DMITRII SMOLIAKOV 0
+  - Takedowns: LUIS HENRIQUE 1,  DMITRII SMOLIAKOV 0

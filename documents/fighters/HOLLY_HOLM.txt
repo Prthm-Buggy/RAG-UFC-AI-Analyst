@@ -1,0 +1,11 @@
+Fighter: HOLLY HOLM
+  Date of Birth: 1981-10-17
+  Career record: 15
+  First fight: 2015-02-28
+  Last fight: 2024-04-13
+
+Career Statistics:
+- Significant Strikes Landed :778
+- Total takedowns landed :15
+- Knockdowns :2
+- Submission Attempts :1

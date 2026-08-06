@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yusuff vs. Barboza
+    Date: October 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: TAINARA LISBOA defeated RAVENA OLIVEIRA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TAINARA LISBOA landed 18 significant strikes
+  - RAVENA OLIVEIRA landed 15 significant strikes
+  - Knockdowns: TAINARA LISBOA 0,  RAVENA OLIVEIRA 0
+  - Takedowns: TAINARA LISBOA 3,  RAVENA OLIVEIRA 2

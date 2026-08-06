@@ -1,0 +1,11 @@
+Fighter: AARON PHILLIPS
+  Date of Birth: 1989-08-05
+  Career record: 4
+  First fight: 2014-05-24
+  Last fight: 2023-04-15
+
+Career Statistics:
+- Significant Strikes Landed :79
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :2

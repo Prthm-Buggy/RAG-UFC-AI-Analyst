@@ -1,0 +1,13 @@
+Event: UFC 198: Werdum vs Miocic
+    Date: May 14, 2016
+    Location: Curitiba, Parana, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: ROGERIO NOGUEIRA defeated PATRICK CUMMINS via KO/TKO  
+  at 4:52 of round 1
+  Key stats:
+  - ROGERIO NOGUEIRA landed 30 significant strikes
+  - PATRICK CUMMINS landed 12 significant strikes
+  - Knockdowns: ROGERIO NOGUEIRA 1,  PATRICK CUMMINS 0
+  - Takedowns: ROGERIO NOGUEIRA 0,  PATRICK CUMMINS 0

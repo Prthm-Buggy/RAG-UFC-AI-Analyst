@@ -1,0 +1,14 @@
+Event: UFC on FX: Belfort vs Bisping
+    Date: January 19, 2013
+    Location: Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: VITOR BELFORT defeated MICHAEL BISPING via KO/TKO  
+  at 1:27 of round 2
+  Key stats:
+  - VITOR BELFORT landed 18 significant strikes
+  - MICHAEL BISPING landed 14 significant strikes
+  - Knockdowns: VITOR BELFORT 1,  MICHAEL BISPING 0
+  - Takedowns: VITOR BELFORT 0,  MICHAEL BISPING 0
+  Bonus: ko

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holloway vs. Kattar
+    Date: January 16, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Featherweight
+    
+
+    Result: MAX HOLLOWAY defeated CALVIN KATTAR via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MAX HOLLOWAY landed 445 significant strikes
+  - CALVIN KATTAR landed 133 significant strikes
+  - Knockdowns: MAX HOLLOWAY 0,  CALVIN KATTAR 0
+  - Takedowns: MAX HOLLOWAY 0,  CALVIN KATTAR 0
+  Bonus: fight

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rothwell vs Dos Santos
+    Date: April 10, 2016
+    Location: Zagreb, Croatia
+    Weight Class: Heavyweight
+    
+
+    Result: JARED CANNONIER defeated CYRIL ASKER via KO/TKO  
+  at 2:44 of round 1
+  Key stats:
+  - JARED CANNONIER landed 27 significant strikes
+  - CYRIL ASKER landed 13 significant strikes
+  - Knockdowns: JARED CANNONIER 1,  CYRIL ASKER 0
+  - Takedowns: JARED CANNONIER 0,  CYRIL ASKER 0
+  Bonus: perf

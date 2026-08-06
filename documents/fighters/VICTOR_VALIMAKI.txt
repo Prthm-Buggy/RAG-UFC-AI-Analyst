@@ -1,0 +1,11 @@
+Fighter: VICTOR VALIMAKI
+  Date of Birth: 1981-12-17
+  Career record: 2
+  First fight: 2006-12-13
+  Last fight: 2007-04-21
+
+Career Statistics:
+- Significant Strikes Landed :66
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

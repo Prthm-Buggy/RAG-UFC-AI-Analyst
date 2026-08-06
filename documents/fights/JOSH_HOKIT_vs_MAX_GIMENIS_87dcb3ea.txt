@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bonfim vs. Brown
+    Date: November 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JOSH HOKIT defeated MAX GIMENIS via KO/TKO  
+  at 0:56 of round 1
+  Key stats:
+  - JOSH HOKIT landed 9 significant strikes
+  - MAX GIMENIS landed 3 significant strikes
+  - Knockdowns: JOSH HOKIT 2,  MAX GIMENIS 0
+  - Takedowns: JOSH HOKIT 0,  MAX GIMENIS 0
+  Bonus: perf

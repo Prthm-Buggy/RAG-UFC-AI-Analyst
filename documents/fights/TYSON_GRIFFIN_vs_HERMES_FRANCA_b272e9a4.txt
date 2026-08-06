@@ -1,0 +1,13 @@
+Event: UFC 103: Franklin vs Belfort
+    Date: September 19, 2009
+    Location: Dallas, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: TYSON GRIFFIN defeated HERMES FRANCA via KO/TKO  
+  at 3:26 of round 2
+  Key stats:
+  - TYSON GRIFFIN landed 67 significant strikes
+  - HERMES FRANCA landed 11 significant strikes
+  - Knockdowns: TYSON GRIFFIN 1,  HERMES FRANCA 0
+  - Takedowns: TYSON GRIFFIN 0,  HERMES FRANCA 0

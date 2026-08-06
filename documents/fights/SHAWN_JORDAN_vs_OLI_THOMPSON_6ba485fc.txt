@@ -1,0 +1,13 @@
+Event: UFC on FX: Alves vs Kampmann
+    Date: March 02, 2012
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: SHAWN JORDAN defeated OLI THOMPSON via KO/TKO  
+  at 3:53 of round 2
+  Key stats:
+  - SHAWN JORDAN landed 64 significant strikes
+  - OLI THOMPSON landed 29 significant strikes
+  - Knockdowns: SHAWN JORDAN 0,  OLI THOMPSON 0
+  - Takedowns: SHAWN JORDAN 0,  OLI THOMPSON 0

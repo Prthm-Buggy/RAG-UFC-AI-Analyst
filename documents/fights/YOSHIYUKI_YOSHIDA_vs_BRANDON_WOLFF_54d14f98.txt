@@ -1,0 +1,13 @@
+Event: UFC 98: Evans vs Machida
+    Date: May 23, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: YOSHIYUKI YOSHIDA defeated BRANDON WOLFF via Submission  
+  at 2:24 of round 1
+  Key stats:
+  - YOSHIYUKI YOSHIDA landed 4 significant strikes
+  - BRANDON WOLFF landed 2 significant strikes
+  - Knockdowns: YOSHIYUKI YOSHIDA 0,  BRANDON WOLFF 0
+  - Takedowns: YOSHIYUKI YOSHIDA 0,  BRANDON WOLFF 0

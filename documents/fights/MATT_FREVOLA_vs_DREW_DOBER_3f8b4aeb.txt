@@ -1,0 +1,14 @@
+Event: UFC 288: Sterling vs. Cejudo
+    Date: May 06, 2023
+    Location: Newark, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATT FREVOLA defeated DREW DOBER via KO/TKO  
+  at 4:08 of round 1
+  Key stats:
+  - MATT FREVOLA landed 35 significant strikes
+  - DREW DOBER landed 20 significant strikes
+  - Knockdowns: MATT FREVOLA 1,  DREW DOBER 0
+  - Takedowns: MATT FREVOLA 0,  DREW DOBER 0
+  Bonus: perf

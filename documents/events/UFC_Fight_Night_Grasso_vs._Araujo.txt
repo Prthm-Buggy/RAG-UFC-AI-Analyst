@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Grasso vs. Araujo
+    Date : October 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Middleweight, Featherweight, Light Heavyweight, Flyweight, Welterweight, Women's Strawweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - PETE RODRIGUEZ def. MIKE JACKSON via KO/TKO(R1)
+- TATSURO TAIRA def. CJ VERGARA via Submission(R2)
+- JACOB MALKOUN def. NICK MAXIMOV via Decision - Unanimous(R3)
+- RAPHAEL ASSUNCAO def. VICTOR HENRY via Decision - Unanimous(R3)
+- ALEXA GRASSO def. VIVIANE ARAUJO via Decision - Unanimous(R5)
+- DUSKO TODOROVIC def. JORDAN WRIGHT via KO/TKO(R2)
+- ALONZO MENIFIELD def. MISHA CIRKUNOV via KO/TKO(R1)
+- MANA MARTINEZ def. BRANDON DAVIS via Decision - Split(R3)
+- JONATHAN MARTINEZ def. CUB SWANSON via KO/TKO(R2)
+- JOANDERSON BRITO def. LUCAS ALEXANDER via Submission(R1)
+- PIERA RODRIGUEZ def. SAM HUGHES via Decision - Unanimous(R3)

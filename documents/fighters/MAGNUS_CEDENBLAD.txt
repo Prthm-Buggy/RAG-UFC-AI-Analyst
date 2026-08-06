@@ -1,0 +1,11 @@
+Fighter: MAGNUS CEDENBLAD
+  Date of Birth: 1982-04-10
+  Career record: 6
+  First fight: 2012-04-14
+  Last fight: 2016-11-19
+
+Career Statistics:
+- Significant Strikes Landed :112
+- Total takedowns landed :9
+- Knockdowns :1
+- Submission Attempts :3

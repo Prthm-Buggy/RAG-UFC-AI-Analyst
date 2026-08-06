@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ngannou vs. Velasquez
+    Date: February 17, 2019
+    Location: Phoenix, Arizona, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MANNY BERMUDEZ defeated BENITO LOPEZ via Submission  
+  at 3:09 of round 1
+  Key stats:
+  - MANNY BERMUDEZ landed 7 significant strikes
+  - BENITO LOPEZ landed 7 significant strikes
+  - Knockdowns: MANNY BERMUDEZ 0,  BENITO LOPEZ 0
+  - Takedowns: MANNY BERMUDEZ 1,  BENITO LOPEZ 0

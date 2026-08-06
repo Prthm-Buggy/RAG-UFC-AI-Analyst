@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs Miller
+    Date: July 16, 2014
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: YOSDENIS CEDENO defeated JERROD SANDERS via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - YOSDENIS CEDENO landed 13 significant strikes
+  - JERROD SANDERS landed 2 significant strikes
+  - Knockdowns: YOSDENIS CEDENO 1,  JERROD SANDERS 0
+  - Takedowns: YOSDENIS CEDENO 0,  JERROD SANDERS 0

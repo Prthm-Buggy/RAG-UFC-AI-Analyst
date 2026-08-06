@@ -1,0 +1,19 @@
+Event : UFC 255: Figueiredo vs. Perez
+    Date : November 21, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Welterweight, Middleweight, Flyweight, Light Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - DEIVESON FIGUEIREDO def. ALEX PEREZ via Submission(R1)
+- JOAQUIN BUCKLEY def. JORDAN WRIGHT via KO/TKO(R2)
+- VALENTINA SHEVCHENKO def. JENNIFER MAIA via Decision - Unanimous(R5)
+- NICOLAS DALBY def. DANIEL RODRIGUEZ via Decision - Unanimous(R3)
+- SASHA PALATNIKOV def. LOUIS COSCE via KO/TKO(R3)
+- BRANDON MORENO def. BRANDON ROYVAL via KO/TKO(R1)
+- KYLE DAUKAUS def. DUSTIN STOLTZFUS via Decision - Unanimous(R3)
+- KATLYN CERMINARA def. CYNTHIA CALVILLO via Decision - Unanimous(R3)
+- ALAN JOUBAN def. JARED GOODEN via Decision - Unanimous(R3)
+- PAUL CRAIG def. MAURICIO RUA via KO/TKO(R2)
+- TIM MEANS def. MIKE PERRY via Decision - Unanimous(R3)
+- ANTONINA SHEVCHENKO def. ARIANE DA SILVA via KO/TKO(R2)

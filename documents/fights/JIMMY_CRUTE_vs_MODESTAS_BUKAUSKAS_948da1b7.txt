@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ortega vs. The Korean Zombie
+    Date: October 17, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIMMY CRUTE defeated MODESTAS BUKAUSKAS via KO/TKO  
+  at 2:01 of round 1
+  Key stats:
+  - JIMMY CRUTE landed 17 significant strikes
+  - MODESTAS BUKAUSKAS landed 7 significant strikes
+  - Knockdowns: JIMMY CRUTE 2,  MODESTAS BUKAUSKAS 0
+  - Takedowns: JIMMY CRUTE 0,  MODESTAS BUKAUSKAS 0
+  Bonus: perf

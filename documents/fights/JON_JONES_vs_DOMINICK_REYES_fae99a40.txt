@@ -1,0 +1,14 @@
+Event: UFC 247: Jones vs. Reyes
+    Date: February 08, 2020
+    Location: Houston, Texas, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated DOMINICK REYES via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JON JONES landed 104 significant strikes
+  - DOMINICK REYES landed 116 significant strikes
+  - Knockdowns: JON JONES 0,  DOMINICK REYES 0
+  - Takedowns: JON JONES 2,  DOMINICK REYES 0
+  Bonus: belt

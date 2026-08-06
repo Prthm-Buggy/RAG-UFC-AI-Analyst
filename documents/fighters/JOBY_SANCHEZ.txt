@@ -1,0 +1,11 @@
+Fighter: JOBY SANCHEZ
+  Date of Birth: 1991-06-24
+  Career record: 5
+  First fight: 2014-08-23
+  Last fight: 2018-11-10
+
+Career Statistics:
+- Significant Strikes Landed :189
+- Total takedowns landed :2
+- Knockdowns :2
+- Submission Attempts :1

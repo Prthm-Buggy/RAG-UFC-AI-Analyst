@@ -1,0 +1,13 @@
+Event: UFC on FX: Browne vs Bigfoot
+    Date: October 05, 2012
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Flyweight
+    
+
+    Result: DARREN UYENOYAMA defeated PHIL HARRIS via Submission  
+  at 3:38 of round 2
+  Key stats:
+  - DARREN UYENOYAMA landed 7 significant strikes
+  - PHIL HARRIS landed 10 significant strikes
+  - Knockdowns: DARREN UYENOYAMA 0,  PHIL HARRIS 0
+  - Takedowns: DARREN UYENOYAMA 0,  PHIL HARRIS 2

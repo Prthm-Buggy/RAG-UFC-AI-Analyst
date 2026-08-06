@@ -1,0 +1,14 @@
+Event: UFC 212: Aldo vs. Holloway
+    Date: June 03, 2017
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Women's Strawweight
+    
+
+    Result: CLAUDIA GADELHA defeated KAROLINA KOWALKIEWICZ via Submission  
+  at 3:03 of round 1
+  Key stats:
+  - CLAUDIA GADELHA landed 8 significant strikes
+  - KAROLINA KOWALKIEWICZ landed 9 significant strikes
+  - Knockdowns: CLAUDIA GADELHA 0,  KAROLINA KOWALKIEWICZ 0
+  - Takedowns: CLAUDIA GADELHA 1,  KAROLINA KOWALKIEWICZ 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 226: Miocic vs. Cormier
+    Date: July 07, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: EMILY WHITMIRE defeated JAMIE MOYLE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - EMILY WHITMIRE landed 53 significant strikes
+  - JAMIE MOYLE landed 50 significant strikes
+  - Knockdowns: EMILY WHITMIRE 0,  JAMIE MOYLE 0
+  - Takedowns: EMILY WHITMIRE 1,  JAMIE MOYLE 0

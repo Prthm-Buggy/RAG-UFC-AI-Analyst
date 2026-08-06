@@ -1,0 +1,14 @@
+Event: UFC 220: Miocic vs. Ngannou
+    Date: January 20, 2018
+    Location: Boston, Massachusetts, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DANIEL CORMIER defeated VOLKAN OEZDEMIR via KO/TKO  
+  at 2:00 of round 2
+  Key stats:
+  - DANIEL CORMIER landed 32 significant strikes
+  - VOLKAN OEZDEMIR landed 38 significant strikes
+  - Knockdowns: DANIEL CORMIER 0,  VOLKAN OEZDEMIR 0
+  - Takedowns: DANIEL CORMIER 2,  VOLKAN OEZDEMIR 0
+  Bonus: belt

@@ -1,0 +1,14 @@
+Event: UFC 303: Pereira vs. Prochazka 2
+    Date: June 29, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: PAYTON TALBOTT defeated YANIS GHEMMOURI via KO/TKO  
+  at 0:19 of round 1
+  Key stats:
+  - PAYTON TALBOTT landed 13 significant strikes
+  - YANIS GHEMMOURI landed 1 significant strikes
+  - Knockdowns: PAYTON TALBOTT 1,  YANIS GHEMMOURI 0
+  - Takedowns: PAYTON TALBOTT 0,  YANIS GHEMMOURI 0
+  Bonus: perf

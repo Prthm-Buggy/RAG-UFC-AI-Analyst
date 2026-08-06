@@ -1,0 +1,18 @@
+Event : UFC 226: Miocic vs. Cormier
+    Date : July 07, 2018
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Heavyweight, Welterweight, Lightweight, Light Heavyweight, Middleweight, Women's Strawweight
+
+    Fight Results:
+  - DERRICK LEWIS def. FRANCIS NGANNOU via Decision - Unanimous(R3)
+- KHALIL ROUNTREE JR. def. GOKHAN SAKI via KO/TKO(R1)
+- EMILY WHITMIRE def. JAMIE MOYLE via Decision - Unanimous(R3)
+- DAN HOOKER def. GILBERT BURNS via KO/TKO(R1)
+- DRAKKAR KLOSE def. LANDO VANNATA via Decision - Unanimous(R3)
+- DANIEL CORMIER def. STIPE MIOCIC via KO/TKO(R1)
+- MIKE PERRY def. PAUL FELDER via Decision - Split(R3)
+- ANTHONY PETTIS def. MICHAEL CHIESA via Submission(R2)
+- PAULO COSTA def. URIAH HALL via KO/TKO(R2)
+- RAPHAEL ASSUNCAO def. ROB FONT via Decision - Unanimous(R3)
+- CURTIS MILLENDER def. MAX GRIFFIN via Decision - Unanimous(R3)

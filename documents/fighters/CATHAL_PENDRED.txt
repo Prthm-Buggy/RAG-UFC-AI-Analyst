@@ -1,0 +1,11 @@
+Fighter: CATHAL PENDRED
+  Date of Birth: 1987-09-02
+  Career record: 6
+  First fight: 2014-07-19
+  Last fight: 2015-10-24
+
+Career Statistics:
+- Significant Strikes Landed :182
+- Total takedowns landed :12
+- Knockdowns :0
+- Submission Attempts :2

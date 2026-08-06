@@ -1,0 +1,11 @@
+Fighter: TREVIN JONES
+  Date of Birth: 1990-08-04
+  Career record: 5
+  First fight: 2021-03-06
+  Last fight: 2023-03-04
+
+Career Statistics:
+- Significant Strikes Landed :128
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :1

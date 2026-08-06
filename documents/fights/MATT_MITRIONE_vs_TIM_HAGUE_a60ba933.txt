@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fight for the Troops 2
+    Date: January 22, 2011
+    Location: Killeen, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MATT MITRIONE defeated TIM HAGUE via KO/TKO  
+  at 2:59 of round 1
+  Key stats:
+  - MATT MITRIONE landed 16 significant strikes
+  - TIM HAGUE landed 3 significant strikes
+  - Knockdowns: MATT MITRIONE 2,  TIM HAGUE 0
+  - Takedowns: MATT MITRIONE 0,  TIM HAGUE 0

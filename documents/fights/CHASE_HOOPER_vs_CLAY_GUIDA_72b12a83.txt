@@ -1,0 +1,14 @@
+Event: UFC 310: Pantoja vs. Asakura
+    Date: December 07, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHASE HOOPER defeated CLAY GUIDA via Submission  
+  at 3:41 of round 1
+  Key stats:
+  - CHASE HOOPER landed 7 significant strikes
+  - CLAY GUIDA landed 5 significant strikes
+  - Knockdowns: CHASE HOOPER 0,  CLAY GUIDA 0
+  - Takedowns: CHASE HOOPER 3,  CLAY GUIDA 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bigfoot vs Arlovski
+    Date: September 13, 2014
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: GLEISON TIBAU defeated PIOTR HALLMANN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - GLEISON TIBAU landed 30 significant strikes
+  - PIOTR HALLMANN landed 52 significant strikes
+  - Knockdowns: GLEISON TIBAU 0,  PIOTR HALLMANN 0
+  - Takedowns: GLEISON TIBAU 5,  PIOTR HALLMANN 0
+  Bonus: fight

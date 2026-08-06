@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Dollaway
+    Date: December 20, 2014
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: LEANDRO ISSA defeated YUTA SASAKI via Submission  
+  at 4:13 of round 2
+  Key stats:
+  - LEANDRO ISSA landed 25 significant strikes
+  - YUTA SASAKI landed 8 significant strikes
+  - Knockdowns: LEANDRO ISSA 0,  YUTA SASAKI 0
+  - Takedowns: LEANDRO ISSA 2,  YUTA SASAKI 1

@@ -1,0 +1,13 @@
+Event: UFC 117: Silva vs Sonnen
+    Date: August 07, 2010
+    Location: Oakland, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: CLAY GUIDA defeated RAFAEL DOS ANJOS via Submission  
+  at 1:51 of round 3
+  Key stats:
+  - CLAY GUIDA landed 19 significant strikes
+  - RAFAEL DOS ANJOS landed 17 significant strikes
+  - Knockdowns: CLAY GUIDA 0,  RAFAEL DOS ANJOS 0
+  - Takedowns: CLAY GUIDA 2,  RAFAEL DOS ANJOS 1

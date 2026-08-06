@@ -1,0 +1,11 @@
+Fighter: ERICK MONTANO
+  Date of Birth: 1985-11-19
+  Career record: 3
+  First fight: 2015-11-21
+  Last fight: 2016-11-05
+
+Career Statistics:
+- Significant Strikes Landed :73
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

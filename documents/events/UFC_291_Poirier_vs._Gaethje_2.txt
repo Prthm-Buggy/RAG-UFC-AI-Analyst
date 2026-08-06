@@ -1,0 +1,18 @@
+Event : UFC 291: Poirier vs. Gaethje 2
+    Date : July 29, 2023
+    Location: Salt Lake City, Utah, USA
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Heavyweight, Welterweight, Flyweight, Middleweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - UROS MEDIC def. MATTHEW SEMELSBERGER via KO/TKO(R3)
+- ALEX PEREIRA def. JAN BLACHOWICZ via Decision - Split(R3)
+- ROMAN KOPYLOV def. CLAUDIO RIBEIRO via KO/TKO(R2)
+- KING GREEN def. TONY FERGUSON via Submission(R3)
+- KEVIN HOLLAND def. MICHAEL CHIESA via Submission(R1)
+- DERRICK LEWIS def. MARCOS ROGERIO DE LIMA via KO/TKO(R1)
+- GABRIEL BONFIM def. TREVIN GILES via Submission(R1)
+- JUSTIN GAETHJE def. DUSTIN POIRIER via KO/TKO(R2)
+- MIRANDA MAVERICK def. PRISCILA CACHOEIRA via Submission(R3)
+- JAKE MATTHEWS def. DARRIUS FLOWERS via Submission(R2)
+- CJ VERGARA def. VINICIUS SALVADOR via Decision - Unanimous(R3)

@@ -1,0 +1,11 @@
+Fighter: JOAO PIERINI
+  Date of Birth: 1971-12-11
+  Career record: 1
+  First fight: 2002-06-22
+  Last fight: 2002-06-22
+
+Career Statistics:
+- Significant Strikes Landed :1
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,19 @@
+Event : UFC 277: Pena vs. Nunes 2
+    Date : July 30, 2022
+    Location: Dallas, Texas, USA
+    Number of Fights: 12
+    Weight Classes: Welterweight, Light Heavyweight, Lightweight, Women's Bantamweight, Flyweight, Heavyweight
+
+    Fight Results:
+  - SERGEI PAVLOVICH def. DERRICK LEWIS via KO/TKO(R1)
+- JOSELYNE EDWARDS def. JI YEON KIM via Decision - Split(R3)
+- DREW DOBER def. RAFAEL ALVES via KO/TKO(R3)
+- ALEXANDRE PANTOJA def. ALEX PEREZ via Submission(R1)
+- DRAKKAR KLOSE def. RAFA GARCIA via Decision - Unanimous(R3)
+- AMANDA NUNES def. JULIANNA PENA via Decision - Unanimous(R5)
+- MAGOMED ANKALAEV def. ANTHONY SMITH via KO/TKO(R2)
+- BRANDON MORENO def. KAI KARA-FRANCE via KO/TKO(R3)
+- ALEX MORONO def. MATTHEW SEMELSBERGER via Decision - Unanimous(R3)
+- ORION COSCE def. BLOOD DIAMOND via Decision - Unanimous(R3)
+- MICHAEL MORALES def. ADAM FUGITT via KO/TKO(R3)
+- NICOLAE NEGUMEREANU def. IHOR POTIERIA via KO/TKO(R2)

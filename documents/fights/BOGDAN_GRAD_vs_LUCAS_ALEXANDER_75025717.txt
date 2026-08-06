@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Adesanya vs. Imavov
+    Date: February 01, 2025
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Weight Class: Featherweight
+    
+
+    Result: BOGDAN GRAD defeated LUCAS ALEXANDER via KO/TKO  
+  at 4:22 of round 2
+  Key stats:
+  - BOGDAN GRAD landed 46 significant strikes
+  - LUCAS ALEXANDER landed 34 significant strikes
+  - Knockdowns: BOGDAN GRAD 0,  LUCAS ALEXANDER 0
+  - Takedowns: BOGDAN GRAD 3,  LUCAS ALEXANDER 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC on FOX: Johnson vs Moraga
+    Date: July 27, 2013
+    Location: Seattle, Washington, USA
+    Weight Class: Flyweight
+    
+
+    Result: DEMETRIOUS JOHNSON defeated JOHN MORAGA via Submission  
+  at 3:43 of round 5
+  Key stats:
+  - DEMETRIOUS JOHNSON landed 67 significant strikes
+  - JOHN MORAGA landed 32 significant strikes
+  - Knockdowns: DEMETRIOUS JOHNSON 0,  JOHN MORAGA 0
+  - Takedowns: DEMETRIOUS JOHNSON 12,  JOHN MORAGA 1
+  Bonus: belt

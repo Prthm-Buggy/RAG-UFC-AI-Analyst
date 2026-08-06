@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Heavy Hitters Finale
+    Date: November 30, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUAN ESPINO defeated JUSTIN FRAZIER via Submission  
+  at 3:36 of round 1
+  Key stats:
+  - JUAN ESPINO landed 22 significant strikes
+  - JUSTIN FRAZIER landed 4 significant strikes
+  - Knockdowns: JUAN ESPINO 0,  JUSTIN FRAZIER 0
+  - Takedowns: JUAN ESPINO 2,  JUSTIN FRAZIER 0
+  Bonus: belt

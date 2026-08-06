@@ -1,0 +1,14 @@
+Event: UFC 46: Supernatural
+    Date: January 31, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: BJ PENN defeated MATT HUGHES via Submission  
+  at 4:39 of round 1
+  Key stats:
+  - BJ PENN landed 17 significant strikes
+  - MATT HUGHES landed 4 significant strikes
+  - Knockdowns: BJ PENN 0,  MATT HUGHES 0
+  - Takedowns: BJ PENN 0,  MATT HUGHES 0
+  Bonus: belt

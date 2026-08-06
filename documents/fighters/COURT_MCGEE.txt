@@ -1,0 +1,11 @@
+Fighter: COURT MCGEE
+  Date of Birth: 1984-12-12
+  Career record: 24
+  First fight: 2010-06-19
+  Last fight: 2025-06-14
+
+Career Statistics:
+- Significant Strikes Landed :1364
+- Total takedowns landed :36
+- Knockdowns :3
+- Submission Attempts :9

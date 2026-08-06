@@ -1,0 +1,13 @@
+Event: UFC 46: Supernatural
+    Date: January 31, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATT SERRA defeated JEFF CURRAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MATT SERRA landed 45 significant strikes
+  - JEFF CURRAN landed 9 significant strikes
+  - Knockdowns: MATT SERRA 0,  JEFF CURRAN 0
+  - Takedowns: MATT SERRA 6,  JEFF CURRAN 0

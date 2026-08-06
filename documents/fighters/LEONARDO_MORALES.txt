@@ -1,0 +1,11 @@
+Fighter: LEONARDO MORALES
+  Date of Birth: 1992-12-22
+  Career record: 2
+  First fight: 2014-11-15
+  Last fight: 2015-06-06
+
+Career Statistics:
+- Significant Strikes Landed :36
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

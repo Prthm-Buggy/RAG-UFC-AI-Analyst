@@ -1,0 +1,11 @@
+Fighter: YOSHIYUKI YOSHIDA
+  Date of Birth: 1974-05-10
+  Career record: 5
+  First fight: 2008-05-24
+  Last fight: 2010-05-08
+
+Career Statistics:
+- Significant Strikes Landed :18
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :4

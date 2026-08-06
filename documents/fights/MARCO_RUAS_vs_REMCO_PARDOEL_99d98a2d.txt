@@ -1,0 +1,13 @@
+Event: UFC 7: The Brawl in Buffalo
+    Date: September 08, 1995
+    Location: Buffalo, New York, USA
+    Weight Class: Open Weight
+    
+
+    Result: MARCO RUAS defeated REMCO PARDOEL via Submission  
+  at 12:27 of round 1
+  Key stats:
+  - MARCO RUAS landed 4 significant strikes
+  - REMCO PARDOEL landed 2 significant strikes
+  - Knockdowns: MARCO RUAS 0,  REMCO PARDOEL 0
+  - Takedowns: MARCO RUAS 0,  REMCO PARDOEL 1

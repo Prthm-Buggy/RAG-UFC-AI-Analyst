@@ -1,0 +1,11 @@
+Fighter: BRISTOL MARUNDE
+  Date of Birth: 1982-04-20
+  Career record: 2
+  First fight: 2013-04-13
+  Last fight: 2013-08-03
+
+Career Statistics:
+- Significant Strikes Landed :21
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: A New World Champion Finale
+    Date: December 01, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: NICCO MONTANO defeated ROXANNE MODAFFERI via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - NICCO MONTANO landed 186 significant strikes
+  - ROXANNE MODAFFERI landed 132 significant strikes
+  - Knockdowns: NICCO MONTANO 0,  ROXANNE MODAFFERI 0
+  - Takedowns: NICCO MONTANO 3,  ROXANNE MODAFFERI 2
+  Bonus: belt

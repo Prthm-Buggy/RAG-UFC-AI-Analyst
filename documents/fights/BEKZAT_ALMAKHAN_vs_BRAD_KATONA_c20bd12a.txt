@@ -1,0 +1,13 @@
+Event: UFC 315: Muhammad vs. Della Maddalena
+    Date: May 10, 2025
+    Location: Montreal, Quebec, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: BEKZAT ALMAKHAN defeated BRAD KATONA via KO/TKO  
+  at 1:04 of round 1
+  Key stats:
+  - BEKZAT ALMAKHAN landed 8 significant strikes
+  - BRAD KATONA landed 1 significant strikes
+  - Knockdowns: BEKZAT ALMAKHAN 1,  BRAD KATONA 0
+  - Takedowns: BEKZAT ALMAKHAN 0,  BRAD KATONA 0

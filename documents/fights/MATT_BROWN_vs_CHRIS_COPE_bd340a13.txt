@@ -1,0 +1,13 @@
+Event: UFC 143: Diaz vs Condit
+    Date: February 04, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT BROWN defeated CHRIS COPE via KO/TKO  
+  at 1:19 of round 2
+  Key stats:
+  - MATT BROWN landed 48 significant strikes
+  - CHRIS COPE landed 20 significant strikes
+  - Knockdowns: MATT BROWN 1,  CHRIS COPE 0
+  - Takedowns: MATT BROWN 1,  CHRIS COPE 0

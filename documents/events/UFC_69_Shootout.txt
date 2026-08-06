@@ -1,0 +1,16 @@
+Event : UFC 69: Shootout
+    Date : April 07, 2007
+    Location: Houston, Texas, USA
+    Number of Fights: 9
+    Weight Classes: Heavyweight, Welterweight, Lightweight, Middleweight
+
+    Fight Results:
+  - JOSH KOSCHECK def. DIEGO SANCHEZ via Decision - Unanimous(R3)
+- YUSHIN OKAMI def. MIKE SWICK via Decision - Unanimous(R3)
+- MARCUS DAVIS def. PETE SPRATT via Submission(R2)
+- MATT SERRA def. GEORGES ST-PIERRE via KO/TKO(R1)
+- THALES LEITES def. PETE SELL via Decision - Unanimous(R3)
+- KENDALL GROVE def. ALAN BELCHER via Submission(R2)
+- ROGER HUERTA def. LEONARD GARCIA via Decision - Unanimous(R3)
+- HEATH HERRING def. BRAD IMES via Decision - Unanimous(R3)
+- LUKE CUMMO def. JOSH HAYNES via KO/TKO(R2)

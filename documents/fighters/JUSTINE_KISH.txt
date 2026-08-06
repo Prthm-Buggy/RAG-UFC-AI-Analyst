@@ -1,0 +1,11 @@
+Fighter: JUSTINE KISH
+  Date of Birth: 1988-04-13
+  Career record: 7
+  First fight: 2016-01-02
+  Last fight: 2021-04-17
+
+Career Statistics:
+- Significant Strikes Landed :469
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :1

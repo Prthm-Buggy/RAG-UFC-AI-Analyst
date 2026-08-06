@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs Arlovski
+    Date: May 08, 2016
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Heavyweight
+    
+
+    Result: STEFAN STRUVE defeated ANTONIO SILVA via KO/TKO  
+  at 0:16 of round 1
+  Key stats:
+  - STEFAN STRUVE landed 13 significant strikes
+  - ANTONIO SILVA landed 0 significant strikes
+  - Knockdowns: STEFAN STRUVE 1,  ANTONIO SILVA 0
+  - Takedowns: STEFAN STRUVE 0,  ANTONIO SILVA 0
+  Bonus: perf

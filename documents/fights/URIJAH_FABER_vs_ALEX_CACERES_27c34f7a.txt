@@ -1,0 +1,13 @@
+Event: UFC 175: Weidman vs Machida
+    Date: July 05, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: URIJAH FABER defeated ALEX CACERES via Submission  
+  at 1:09 of round 3
+  Key stats:
+  - URIJAH FABER landed 20 significant strikes
+  - ALEX CACERES landed 20 significant strikes
+  - Knockdowns: URIJAH FABER 0,  ALEX CACERES 0
+  - Takedowns: URIJAH FABER 5,  ALEX CACERES 0

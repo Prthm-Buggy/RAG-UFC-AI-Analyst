@@ -1,0 +1,13 @@
+Event: UFC 183: Silva vs Diaz
+    Date: January 31, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DEREK BRUNSON defeated ED HERMAN via KO/TKO  
+  at 0:36 of round 1
+  Key stats:
+  - DEREK BRUNSON landed 11 significant strikes
+  - ED HERMAN landed 0 significant strikes
+  - Knockdowns: DEREK BRUNSON 1,  ED HERMAN 0
+  - Takedowns: DEREK BRUNSON 0,  ED HERMAN 0

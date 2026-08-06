@@ -1,0 +1,13 @@
+Event: UFC 29: Defense of the Belts
+    Date: December 16, 2000
+    Location: Tokyo, Japan
+    Weight Class: Middleweight
+    
+
+    Result: EVAN TANNER defeated LANCE GIBSON via KO/TKO  
+  at 4:58 of round 1
+  Key stats:
+  - EVAN TANNER landed 32 significant strikes
+  - LANCE GIBSON landed 6 significant strikes
+  - Knockdowns: EVAN TANNER 0,  LANCE GIBSON 0
+  - Takedowns: EVAN TANNER 1,  LANCE GIBSON 0

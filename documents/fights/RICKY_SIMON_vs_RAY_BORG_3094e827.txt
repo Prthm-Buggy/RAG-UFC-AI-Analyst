@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Teixeira
+    Date: May 13, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RICKY SIMON defeated RAY BORG via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - RICKY SIMON landed 67 significant strikes
+  - RAY BORG landed 47 significant strikes
+  - Knockdowns: RICKY SIMON 0,  RAY BORG 0
+  - Takedowns: RICKY SIMON 7,  RAY BORG 0

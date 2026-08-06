@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Allen vs. Craig
+    Date : November 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Heavyweight, Middleweight, Featherweight, Flyweight, Lightweight, Welterweight, Women's Strawweight, Women's Bantamweight
+
+    Fight Results:
+  - JOANDERSON BRITO def. JONATHAN PEARCE via Submission(R2)
+- MYKTYBEK OROLBAI def. UROS MEDIC via Submission(R2)
+- CHRISTIAN LEROY DUNCAN def. DENIS TIULIULIN via KO/TKO(R2)
+- CHASE HOOPER def. JORDAN LEAVITT via Submission(R1)
+- JOSE JOHNSON def. CHAD ANHELIGER via Submission(R3)
+- AILIN PEREZ def. LUCIE PUDILOVA via Decision - Unanimous(R3)
+- MICK PARKIN def. CAIO MACHADO via Decision - Unanimous(R3)
+- AMANDA RIBAS def. LUANA PINHEIRO via KO/TKO(R3)
+- RAFAEL ESTEVAM def. CHARLES JOHNSON via Decision - Unanimous(R3)
+- MICHAEL MORALES def. JAKE MATTHEWS via Decision - Unanimous(R3)
+- BRENDAN ALLEN def. PAUL CRAIG via Submission(R3)
+- PAYTON TALBOTT def. NICK AGUIRRE via Submission(R3)
+- JEKA SARAGIH def. LUCAS ALEXANDER via KO/TKO(R1)

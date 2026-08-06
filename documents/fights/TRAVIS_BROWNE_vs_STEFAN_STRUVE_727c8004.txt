@@ -1,0 +1,14 @@
+Event: UFC 130: Rampage vs Hamill
+    Date: May 28, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TRAVIS BROWNE defeated STEFAN STRUVE via KO/TKO  
+  at 4:11 of round 1
+  Key stats:
+  - TRAVIS BROWNE landed 17 significant strikes
+  - STEFAN STRUVE landed 10 significant strikes
+  - Knockdowns: TRAVIS BROWNE 1,  STEFAN STRUVE 0
+  - Takedowns: TRAVIS BROWNE 1,  STEFAN STRUVE 0
+  Bonus: ko

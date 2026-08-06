@@ -1,0 +1,11 @@
+Fighter: IWO BARANIEWSKI
+  Date of Birth: 1998-11-20
+  Career record: 3
+  First fight: 2025-12-06
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :38
+- Total takedowns landed :0
+- Knockdowns :4
+- Submission Attempts :0

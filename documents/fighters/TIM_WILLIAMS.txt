@@ -1,0 +1,11 @@
+Fighter: TIM WILLIAMS
+  Date of Birth: 1986-07-03
+  Career record: 2
+  First fight: 2018-02-18
+  Last fight: 2018-08-25
+
+Career Statistics:
+- Significant Strikes Landed :51
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

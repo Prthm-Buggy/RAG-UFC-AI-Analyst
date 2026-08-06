@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Magny vs. Prates
+    Date : November 09, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Middleweight, Welterweight, Women's Bantamweight, Women's Strawweight, Bantamweight
+
+    Fight Results:
+  - CARLOS PRATES def. NEIL MAGNY via KO/TKO(R1)
+- GILLIAN ROBERTSON def. LUANA PINHEIRO via Decision - Unanimous(R3)
+- MELISSA MULLINS def. KLAUDIA SYGULA via KO/TKO(R2)
+- GASTON BOLANOS def. CORTAVIOUS ROMIOUS via Decision - Unanimous(R3)
+- DA'MON BLACKSHEAR def. CODY STAMANN via Submission(R1)
+- CHARLES RADTKE def. MATTHEW SEMELSBERGER via KO/TKO(R1)
+- MANSUR ABDUL-MALIK def. DUSKO TODOROVIC via KO/TKO(R1)
+- DENISE GOMES def. KAROLINA KOWALKIEWICZ via Decision - Unanimous(R3)
+- REINIER DE RIDDER def. GERALD MEERSCHAERT via Submission(R3)
+- ELIZEU ZALESKI DOS SANTOS def. ZACHARY SCROGGIN via KO/TKO(R1)
+- TRESEAN GORE def. ANTONIO TROCOLI via Submission(R1)

@@ -1,0 +1,13 @@
+Event: UFC 202: Diaz vs. McGregor 2
+    Date: August 20, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: TIM MEANS defeated SABAH HOMASI via KO/TKO  
+  at 2:56 of round 2
+  Key stats:
+  - TIM MEANS landed 71 significant strikes
+  - SABAH HOMASI landed 33 significant strikes
+  - Knockdowns: TIM MEANS 0,  SABAH HOMASI 0
+  - Takedowns: TIM MEANS 0,  SABAH HOMASI 2

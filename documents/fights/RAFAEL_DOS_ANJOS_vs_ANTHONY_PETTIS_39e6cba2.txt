@@ -1,0 +1,14 @@
+Event: UFC 185: Pettis vs Dos Anjos
+    Date: March 14, 2015
+    Location: Dallas, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: RAFAEL DOS ANJOS defeated ANTHONY PETTIS via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - RAFAEL DOS ANJOS landed 90 significant strikes
+  - ANTHONY PETTIS landed 54 significant strikes
+  - Knockdowns: RAFAEL DOS ANJOS 0,  ANTHONY PETTIS 0
+  - Takedowns: RAFAEL DOS ANJOS 9,  ANTHONY PETTIS 0
+  Bonus: belt

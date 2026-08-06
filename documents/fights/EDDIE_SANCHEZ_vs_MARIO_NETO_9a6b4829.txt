@@ -1,0 +1,13 @@
+Event: UFC 63: Hughes vs Penn
+    Date: September 23, 2006
+    Location: Anaheim, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: EDDIE SANCHEZ defeated MARIO NETO via KO/TKO  
+  at 0:17 of round 2
+  Key stats:
+  - EDDIE SANCHEZ landed 10 significant strikes
+  - MARIO NETO landed 10 significant strikes
+  - Knockdowns: EDDIE SANCHEZ 1,  MARIO NETO 0
+  - Takedowns: EDDIE SANCHEZ 0,  MARIO NETO 1

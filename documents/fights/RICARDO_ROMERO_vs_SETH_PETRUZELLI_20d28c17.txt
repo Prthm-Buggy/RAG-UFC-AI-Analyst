@@ -1,0 +1,13 @@
+Event: UFC 116: Lesnar vs Carwin
+    Date: July 03, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RICARDO ROMERO defeated SETH PETRUZELLI via Submission  
+  at 3:05 of round 2
+  Key stats:
+  - RICARDO ROMERO landed 19 significant strikes
+  - SETH PETRUZELLI landed 30 significant strikes
+  - Knockdowns: RICARDO ROMERO 0,  SETH PETRUZELLI 1
+  - Takedowns: RICARDO ROMERO 1,  SETH PETRUZELLI 0

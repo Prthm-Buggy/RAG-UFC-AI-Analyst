@@ -1,0 +1,11 @@
+Fighter: KEVIN VALLEJOS
+  Date of Birth: 2001-12-08
+  Career record: 4
+  First fight: 2025-03-15
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :160
+- Total takedowns landed :2
+- Knockdowns :4
+- Submission Attempts :0

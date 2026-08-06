@@ -1,0 +1,11 @@
+Fighter: JIMMIE RIVERA
+  Date of Birth: 1989-06-29
+  Career record: 11
+  First fight: 2015-07-18
+  Last fight: 2021-02-27
+
+Career Statistics:
+- Significant Strikes Landed :552
+- Total takedowns landed :8
+- Knockdowns :3
+- Submission Attempts :1

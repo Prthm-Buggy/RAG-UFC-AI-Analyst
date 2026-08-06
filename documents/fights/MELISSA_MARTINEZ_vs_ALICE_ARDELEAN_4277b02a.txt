@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hernandez vs. Pereira
+    Date: October 19, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MELISSA MARTINEZ defeated ALICE ARDELEAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MELISSA MARTINEZ landed 72 significant strikes
+  - ALICE ARDELEAN landed 92 significant strikes
+  - Knockdowns: MELISSA MARTINEZ 0,  ALICE ARDELEAN 0
+  - Takedowns: MELISSA MARTINEZ 0,  ALICE ARDELEAN 0

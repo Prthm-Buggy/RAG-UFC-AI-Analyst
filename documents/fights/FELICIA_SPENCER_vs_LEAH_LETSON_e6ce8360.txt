@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Rodriguez
+    Date: November 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: FELICIA SPENCER defeated LEAH LETSON via KO/TKO  
+  at 4:25 of round 3
+  Key stats:
+  - FELICIA SPENCER landed 56 significant strikes
+  - LEAH LETSON landed 17 significant strikes
+  - Knockdowns: FELICIA SPENCER 0,  LEAH LETSON 0
+  - Takedowns: FELICIA SPENCER 4,  LEAH LETSON 1

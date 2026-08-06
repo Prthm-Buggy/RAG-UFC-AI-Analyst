@@ -1,0 +1,7 @@
+vectorstore/
+*.sqlite3
+
+.env
+
+
+.gradio/

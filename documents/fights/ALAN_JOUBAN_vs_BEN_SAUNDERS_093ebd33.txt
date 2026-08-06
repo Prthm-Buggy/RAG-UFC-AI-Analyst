@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Emmett vs. Stephens
+    Date: February 24, 2018
+    Location: Orlando, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALAN JOUBAN defeated BEN SAUNDERS via KO/TKO  
+  at 2:38 of round 2
+  Key stats:
+  - ALAN JOUBAN landed 78 significant strikes
+  - BEN SAUNDERS landed 33 significant strikes
+  - Knockdowns: ALAN JOUBAN 2,  BEN SAUNDERS 0
+  - Takedowns: ALAN JOUBAN 0,  BEN SAUNDERS 0
+  Bonus: fight

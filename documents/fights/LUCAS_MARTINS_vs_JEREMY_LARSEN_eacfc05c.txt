@@ -1,0 +1,14 @@
+Event: UFC on FX: Belfort vs. Rockhold
+    Date: May 18, 2013
+    Location: Jaragua do Sul, Santa Catarina, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: LUCAS MARTINS defeated JEREMY LARSEN via KO/TKO  
+  at 0:13 of round 3
+  Key stats:
+  - LUCAS MARTINS landed 39 significant strikes
+  - JEREMY LARSEN landed 52 significant strikes
+  - Knockdowns: LUCAS MARTINS 1,  JEREMY LARSEN 1
+  - Takedowns: LUCAS MARTINS 0,  JEREMY LARSEN 2
+  Bonus: fight

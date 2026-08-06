@@ -1,0 +1,11 @@
+Fighter: DON'TALE MAYES
+  Date of Birth: 1992-01-16
+  Career record: 11
+  First fight: 2019-10-26
+  Last fight: 2025-05-03
+
+Career Statistics:
+- Significant Strikes Landed :374
+- Total takedowns landed :7
+- Knockdowns :2
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC 220: Miocic vs. Ngannou
+    Date: January 20, 2018
+    Location: Boston, Massachusetts, USA
+    Weight Class: Featherweight
+    
+
+    Result: JULIO ARCE defeated DAN IGE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JULIO ARCE landed 72 significant strikes
+  - DAN IGE landed 35 significant strikes
+  - Knockdowns: JULIO ARCE 0,  DAN IGE 0
+  - Takedowns: JULIO ARCE 0,  DAN IGE 1

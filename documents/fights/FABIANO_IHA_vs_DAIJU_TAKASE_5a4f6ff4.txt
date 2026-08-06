@@ -1,0 +1,13 @@
+Event: UFC 29: Defense of the Belts
+    Date: December 16, 2000
+    Location: Tokyo, Japan
+    Weight Class: Welterweight
+    
+
+    Result: FABIANO IHA defeated DAIJU TAKASE via KO/TKO  
+  at 2:24 of round 1
+  Key stats:
+  - FABIANO IHA landed 8 significant strikes
+  - DAIJU TAKASE landed 0 significant strikes
+  - Knockdowns: FABIANO IHA 0,  DAIJU TAKASE 0
+  - Takedowns: FABIANO IHA 1,  DAIJU TAKASE 0

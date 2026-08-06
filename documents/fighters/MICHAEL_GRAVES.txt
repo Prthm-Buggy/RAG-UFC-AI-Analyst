@@ -1,0 +1,11 @@
+Fighter: MICHAEL GRAVES
+  Date of Birth: 1991-01-08
+  Career record: 2
+  First fight: 2015-07-12
+  Last fight: 2016-04-16
+
+Career Statistics:
+- Significant Strikes Landed :38
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :1

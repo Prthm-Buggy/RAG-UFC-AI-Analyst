@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Assuncao vs. Moraes 2
+    Date: February 02, 2019
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: JOHNNY WALKER defeated JUSTIN LEDET via KO/TKO  
+  at 0:15 of round 1
+  Key stats:
+  - JOHNNY WALKER landed 7 significant strikes
+  - JUSTIN LEDET landed 0 significant strikes
+  - Knockdowns: JOHNNY WALKER 1,  JUSTIN LEDET 0
+  - Takedowns: JOHNNY WALKER 0,  JUSTIN LEDET 0
+  Bonus: perf

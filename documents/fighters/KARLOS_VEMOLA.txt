@@ -1,0 +1,11 @@
+Fighter: KARLOS VEMOLA
+  Date of Birth: 1985-07-03
+  Career record: 6
+  First fight: 2010-07-03
+  Last fight: 2013-06-08
+
+Career Statistics:
+- Significant Strikes Landed :91
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :6

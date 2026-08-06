@@ -1,0 +1,14 @@
+Event: UFC 59: Reality Check
+    Date: April 15, 2006
+    Location: Anaheim, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TIM SYLVIA defeated ANDREI ARLOVSKI via KO/TKO  
+  at 2:43 of round 1
+  Key stats:
+  - TIM SYLVIA landed 13 significant strikes
+  - ANDREI ARLOVSKI landed 11 significant strikes
+  - Knockdowns: TIM SYLVIA 1,  ANDREI ARLOVSKI 1
+  - Takedowns: TIM SYLVIA 0,  ANDREI ARLOVSKI 0
+  Bonus: belt

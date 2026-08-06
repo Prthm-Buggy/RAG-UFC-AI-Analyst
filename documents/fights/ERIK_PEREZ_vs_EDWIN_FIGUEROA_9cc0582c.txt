@@ -1,0 +1,13 @@
+Event: UFC 167: St-Pierre vs Hendricks
+    Date: November 16, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ERIK PEREZ defeated EDWIN FIGUEROA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ERIK PEREZ landed 50 significant strikes
+  - EDWIN FIGUEROA landed 18 significant strikes
+  - Knockdowns: ERIK PEREZ 1,  EDWIN FIGUEROA 0
+  - Takedowns: ERIK PEREZ 7,  EDWIN FIGUEROA 0

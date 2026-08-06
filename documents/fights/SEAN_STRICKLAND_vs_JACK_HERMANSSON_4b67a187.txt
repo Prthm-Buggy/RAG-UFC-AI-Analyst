@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Strickland
+    Date: February 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: SEAN STRICKLAND defeated JACK HERMANSSON via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - SEAN STRICKLAND landed 153 significant strikes
+  - JACK HERMANSSON landed 137 significant strikes
+  - Knockdowns: SEAN STRICKLAND 0,  JACK HERMANSSON 0
+  - Takedowns: SEAN STRICKLAND 0,  JACK HERMANSSON 0

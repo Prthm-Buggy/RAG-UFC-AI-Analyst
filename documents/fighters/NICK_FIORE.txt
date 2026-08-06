@@ -1,0 +1,11 @@
+Fighter: NICK FIORE
+  Date of Birth: 1997-12-10
+  Career record: 2
+  First fight: 2023-01-14
+  Last fight: 2023-05-20
+
+Career Statistics:
+- Significant Strikes Landed :85
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

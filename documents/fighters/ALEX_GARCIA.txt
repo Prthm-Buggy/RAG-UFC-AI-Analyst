@@ -1,0 +1,11 @@
+Fighter: ALEX GARCIA
+  Date of Birth: 1987-07-14
+  Career record: 10
+  First fight: 2013-12-06
+  Last fight: 2018-10-27
+
+Career Statistics:
+- Significant Strikes Landed :212
+- Total takedowns landed :29
+- Knockdowns :3
+- Submission Attempts :1

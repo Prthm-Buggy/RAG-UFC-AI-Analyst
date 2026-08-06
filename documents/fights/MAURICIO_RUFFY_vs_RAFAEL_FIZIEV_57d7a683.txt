@@ -1,0 +1,14 @@
+Event: UFC 325: Volkanovski vs. Lopes 2
+    Date: January 31, 2026
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Lightweight
+    
+
+    Result: MAURICIO RUFFY defeated RAFAEL FIZIEV via KO/TKO  
+  at 4:30 of round 2
+  Key stats:
+  - MAURICIO RUFFY landed 55 significant strikes
+  - RAFAEL FIZIEV landed 36 significant strikes
+  - Knockdowns: MAURICIO RUFFY 1,  RAFAEL FIZIEV 0
+  - Takedowns: MAURICIO RUFFY 0,  RAFAEL FIZIEV 0
+  Bonus: perf

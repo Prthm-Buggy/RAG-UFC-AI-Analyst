@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hall vs. Strickland
+    Date: July 31, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: CHEYANNE VLISMAS defeated GLORIA DE PAULA via KO/TKO  
+  at 1:00 of round 1
+  Key stats:
+  - CHEYANNE VLISMAS landed 11 significant strikes
+  - GLORIA DE PAULA landed 5 significant strikes
+  - Knockdowns: CHEYANNE VLISMAS 1,  GLORIA DE PAULA 0
+  - Takedowns: CHEYANNE VLISMAS 1,  GLORIA DE PAULA 0
+  Bonus: perf

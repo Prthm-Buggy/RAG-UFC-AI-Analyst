@@ -1,0 +1,13 @@
+Event: UFC Fight Night 1
+    Date: August 06, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DREW FICKETT defeated JOSH NEER via Submission  
+  at 1:35 of round 1
+  Key stats:
+  - DREW FICKETT landed 1 significant strikes
+  - JOSH NEER landed 0 significant strikes
+  - Knockdowns: DREW FICKETT 0,  JOSH NEER 0
+  - Takedowns: DREW FICKETT 2,  JOSH NEER 0

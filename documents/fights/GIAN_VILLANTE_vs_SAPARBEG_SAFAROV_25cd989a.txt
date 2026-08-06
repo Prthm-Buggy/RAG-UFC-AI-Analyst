@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Abdurakhimov
+    Date: December 09, 2016
+    Location: Albany, New York, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: GIAN VILLANTE defeated SAPARBEG SAFAROV via KO/TKO  
+  at 2:54 of round 2
+  Key stats:
+  - GIAN VILLANTE landed 60 significant strikes
+  - SAPARBEG SAFAROV landed 37 significant strikes
+  - Knockdowns: GIAN VILLANTE 1,  SAPARBEG SAFAROV 0
+  - Takedowns: GIAN VILLANTE 0,  SAPARBEG SAFAROV 0
+  Bonus: fight

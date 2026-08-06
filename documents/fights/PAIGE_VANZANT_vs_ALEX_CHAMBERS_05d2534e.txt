@@ -1,0 +1,13 @@
+Event: UFC 191: Johnson vs Dodson 2
+    Date: September 05, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: PAIGE VANZANT defeated ALEX CHAMBERS via Submission  
+  at 1:01 of round 3
+  Key stats:
+  - PAIGE VANZANT landed 73 significant strikes
+  - ALEX CHAMBERS landed 30 significant strikes
+  - Knockdowns: PAIGE VANZANT 0,  ALEX CHAMBERS 0
+  - Takedowns: PAIGE VANZANT 3,  ALEX CHAMBERS 0

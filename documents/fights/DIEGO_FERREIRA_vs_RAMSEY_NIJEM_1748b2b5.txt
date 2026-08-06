@@ -1,0 +1,14 @@
+Event: UFC 177: Dillashaw vs Soto
+    Date: August 30, 2014
+    Location: Sacramento, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: DIEGO FERREIRA defeated RAMSEY NIJEM via KO/TKO  
+  at 1:53 of round 2
+  Key stats:
+  - DIEGO FERREIRA landed 25 significant strikes
+  - RAMSEY NIJEM landed 18 significant strikes
+  - Knockdowns: DIEGO FERREIRA 1,  RAMSEY NIJEM 0
+  - Takedowns: DIEGO FERREIRA 0,  RAMSEY NIJEM 2
+  Bonus: fight

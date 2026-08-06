@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Edgar vs Faber
+    Date : May 16, 2015
+    Location: Manila, Philippines
+    Number of Fights: 12
+    Weight Classes: Featherweight, Flyweight, Welterweight, Lightweight, Middleweight, Bantamweight
+
+    Fight Results:
+  - GUANGYOU NING def. ROYSTON WEE via KO/TKO(R2)
+- NEIL MAGNY def. HYUN GYU LIM via KO/TKO(R2)
+- JON DELOS REYES def. ROLDAN SANGCHA'AN via Submission(R2)
+- LEVAN MAKASHVILI def. MARK EDDIVA via Decision - Split(R3)
+- GEGARD MOUSASI def. CONSTANTINOS PHILIPPOU via Decision - Unanimous(R3)
+- YAO ZHIKUI def. NOLAN TICMAN via Decision - Split(R3)
+- KAJAN JOHNSON def. ZHANG LIPENG via Decision - Unanimous(R3)
+- JON TUCK def. TAE HYUN BANG via Submission(R1)
+- PHILLIPE NOVER def. YUI CHUL NAM via Decision - Split(R3)
+- MARK MUNOZ def. LUKE BARNATT via Decision - Unanimous(R3)
+- LI JINGLIANG def. DHIEGO LIMA via KO/TKO(R1)
+- FRANKIE EDGAR def. URIJAH FABER via Decision - Unanimous(R5)

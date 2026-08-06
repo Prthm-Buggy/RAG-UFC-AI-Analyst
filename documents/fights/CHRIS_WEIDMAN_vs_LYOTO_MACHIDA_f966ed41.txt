@@ -1,0 +1,14 @@
+Event: UFC 175: Weidman vs Machida
+    Date: July 05, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS WEIDMAN defeated LYOTO MACHIDA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CHRIS WEIDMAN landed 65 significant strikes
+  - LYOTO MACHIDA landed 58 significant strikes
+  - Knockdowns: CHRIS WEIDMAN 0,  LYOTO MACHIDA 0
+  - Takedowns: CHRIS WEIDMAN 5,  LYOTO MACHIDA 0
+  Bonus: belt

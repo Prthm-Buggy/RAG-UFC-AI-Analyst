@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Song
+    Date: September 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOE PYFER defeated ALEN AMEDOVSKI via KO/TKO  
+  at 3:55 of round 1
+  Key stats:
+  - JOE PYFER landed 14 significant strikes
+  - ALEN AMEDOVSKI landed 11 significant strikes
+  - Knockdowns: JOE PYFER 1,  ALEN AMEDOVSKI 0
+  - Takedowns: JOE PYFER 0,  ALEN AMEDOVSKI 0
+  Bonus: perf

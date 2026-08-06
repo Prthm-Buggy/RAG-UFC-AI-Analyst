@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Gustafsson vs Silva
+    Date: April 14, 2012
+    Location: Stockholm, Sweden
+    Weight Class: Lightweight
+    
+
+    Result: REZA MADADI defeated YOISLANDY IZQUIERDO via Submission  
+  at 1:28 of round 2
+  Key stats:
+  - REZA MADADI landed 1 significant strikes
+  - YOISLANDY IZQUIERDO landed 36 significant strikes
+  - Knockdowns: REZA MADADI 0,  YOISLANDY IZQUIERDO 0
+  - Takedowns: REZA MADADI 3,  YOISLANDY IZQUIERDO 0

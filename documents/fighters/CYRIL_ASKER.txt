@@ -1,0 +1,11 @@
+Fighter: CYRIL ASKER
+  Date of Birth: 1985-12-24
+  Career record: 5
+  First fight: 2016-04-10
+  Last fight: 2018-02-10
+
+Career Statistics:
+- Significant Strikes Landed :57
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Grasso vs. Araujo
+    Date: October 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JONATHAN MARTINEZ defeated CUB SWANSON via KO/TKO  
+  at 4:19 of round 2
+  Key stats:
+  - JONATHAN MARTINEZ landed 62 significant strikes
+  - CUB SWANSON landed 51 significant strikes
+  - Knockdowns: JONATHAN MARTINEZ 2,  CUB SWANSON 0
+  - Takedowns: JONATHAN MARTINEZ 0,  CUB SWANSON 1
+  Bonus: perf

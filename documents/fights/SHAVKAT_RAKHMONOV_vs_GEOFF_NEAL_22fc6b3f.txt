@@ -1,0 +1,14 @@
+Event: UFC 285: Jones vs. Gane
+    Date: March 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SHAVKAT RAKHMONOV defeated GEOFF NEAL via Submission  
+  at 4:17 of round 3
+  Key stats:
+  - SHAVKAT RAKHMONOV landed 113 significant strikes
+  - GEOFF NEAL landed 69 significant strikes
+  - Knockdowns: SHAVKAT RAKHMONOV 0,  GEOFF NEAL 0
+  - Takedowns: SHAVKAT RAKHMONOV 0,  GEOFF NEAL 0
+  Bonus: fight

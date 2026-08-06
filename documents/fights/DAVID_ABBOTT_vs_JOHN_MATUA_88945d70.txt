@@ -1,0 +1,13 @@
+Event: UFC 6: Clash of the Titans
+    Date: July 14, 1995
+    Location: Casper, Wyoming, USA
+    Weight Class: Open Weight
+    
+
+    Result: DAVID ABBOTT defeated JOHN MATUA via KO/TKO  
+  at 0:20 of round 1
+  Key stats:
+  - DAVID ABBOTT landed 7 significant strikes
+  - JOHN MATUA landed 0 significant strikes
+  - Knockdowns: DAVID ABBOTT 2,  JOHN MATUA 0
+  - Takedowns: DAVID ABBOTT 0,  JOHN MATUA 0

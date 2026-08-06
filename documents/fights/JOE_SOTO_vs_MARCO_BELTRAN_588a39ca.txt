@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Ferguson
+    Date: November 05, 2016
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Catch Weight
+    
+
+    Result: JOE SOTO defeated MARCO BELTRAN via Submission  
+  at 1:37 of round 1
+  Key stats:
+  - JOE SOTO landed 2 significant strikes
+  - MARCO BELTRAN landed 3 significant strikes
+  - Knockdowns: JOE SOTO 0,  MARCO BELTRAN 0
+  - Takedowns: JOE SOTO 1,  MARCO BELTRAN 0

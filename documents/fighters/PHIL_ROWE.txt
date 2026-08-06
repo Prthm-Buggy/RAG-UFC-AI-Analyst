@@ -1,0 +1,11 @@
+Fighter: PHIL ROWE
+  Date of Birth: 1990-07-18
+  Career record: 9
+  First fight: 2021-02-13
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :370
+- Total takedowns landed :4
+- Knockdowns :3
+- Submission Attempts :2

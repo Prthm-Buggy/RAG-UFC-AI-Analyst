@@ -1,0 +1,13 @@
+Event: UFC 21: Return of the Champions
+    Date: July 16, 1999
+    Location: Cedar Rapids, Iowa, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TSUYOSHI KOHSAKA defeated TIM LAJCIK via KO/TKO  
+  at 5:00 of round 2
+  Key stats:
+  - TSUYOSHI KOHSAKA landed 11 significant strikes
+  - TIM LAJCIK landed 12 significant strikes
+  - Knockdowns: TSUYOSHI KOHSAKA 0,  TIM LAJCIK 0
+  - Takedowns: TSUYOSHI KOHSAKA 0,  TIM LAJCIK 0

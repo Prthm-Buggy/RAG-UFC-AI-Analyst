@@ -1,0 +1,14 @@
+Event: UFC 161: Evans vs Henderson
+    Date: June 15, 2013
+    Location: Winnipeg, Manitoba, Canada
+    Weight Class: Lightweight
+    
+
+    Result: JAMES KRAUSE defeated SAM STOUT via Submission  
+  at 4:47 of round 3
+  Key stats:
+  - JAMES KRAUSE landed 96 significant strikes
+  - SAM STOUT landed 73 significant strikes
+  - Knockdowns: JAMES KRAUSE 0,  SAM STOUT 0
+  - Takedowns: JAMES KRAUSE 1,  SAM STOUT 2
+  Bonus: fight

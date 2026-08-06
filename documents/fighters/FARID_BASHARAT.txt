@@ -1,0 +1,11 @@
+Fighter: FARID BASHARAT
+  Date of Birth: 1997-08-02
+  Career record: 6
+  First fight: 2023-03-04
+  Last fight: 2026-02-07
+
+Career Statistics:
+- Significant Strikes Landed :285
+- Total takedowns landed :18
+- Knockdowns :0
+- Submission Attempts :2

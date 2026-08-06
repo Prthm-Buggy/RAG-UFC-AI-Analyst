@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thomas vs Florian
+    Date: September 19, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: GRAY MAYNARD defeated JOE VERES via KO/TKO  
+  at 0:09 of round 1
+  Key stats:
+  - GRAY MAYNARD landed 3 significant strikes
+  - JOE VERES landed 0 significant strikes
+  - Knockdowns: GRAY MAYNARD 1,  JOE VERES 0
+  - Takedowns: GRAY MAYNARD 0,  JOE VERES 0

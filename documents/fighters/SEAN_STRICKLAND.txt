@@ -1,0 +1,11 @@
+Fighter: SEAN STRICKLAND
+  Date of Birth: 1991-02-27
+  Career record: 25
+  First fight: 2014-03-15
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :2430
+- Total takedowns landed :18
+- Knockdowns :7
+- Submission Attempts :4

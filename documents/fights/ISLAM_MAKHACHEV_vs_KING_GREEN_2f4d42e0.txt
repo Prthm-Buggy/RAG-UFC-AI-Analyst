@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Makhachev vs. Green
+    Date: February 26, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: ISLAM MAKHACHEV defeated KING GREEN via KO/TKO  
+  at 3:23 of round 1
+  Key stats:
+  - ISLAM MAKHACHEV landed 14 significant strikes
+  - KING GREEN landed 9 significant strikes
+  - Knockdowns: ISLAM MAKHACHEV 0,  KING GREEN 0
+  - Takedowns: ISLAM MAKHACHEV 1,  KING GREEN 0

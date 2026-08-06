@@ -1,0 +1,11 @@
+Fighter: STEVE NELMARK
+  Date of Birth: Unknown
+  Career record: 2
+  First fight: 1996-05-17
+  Last fight: 1996-12-07
+
+Career Statistics:
+- Significant Strikes Landed :15
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

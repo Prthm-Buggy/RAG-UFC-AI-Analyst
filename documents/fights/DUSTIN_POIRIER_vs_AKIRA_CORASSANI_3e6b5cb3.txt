@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bisping vs Kennedy
+    Date: April 16, 2014
+    Location: Quebec City, Quebec, Canada
+    Weight Class: Featherweight
+    
+
+    Result: DUSTIN POIRIER defeated AKIRA CORASSANI via KO/TKO  
+  at 0:42 of round 2
+  Key stats:
+  - DUSTIN POIRIER landed 45 significant strikes
+  - AKIRA CORASSANI landed 24 significant strikes
+  - Knockdowns: DUSTIN POIRIER 1,  AKIRA CORASSANI 0
+  - Takedowns: DUSTIN POIRIER 0,  AKIRA CORASSANI 0
+  Bonus: fight

@@ -1,0 +1,13 @@
+Event: UFC 281: Adesanya vs. Pereira
+    Date: November 12, 2022
+    Location: New York City, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: DAN HOOKER defeated CLAUDIO PUELLES via KO/TKO  
+  at 4:06 of round 2
+  Key stats:
+  - DAN HOOKER landed 29 significant strikes
+  - CLAUDIO PUELLES landed 5 significant strikes
+  - Knockdowns: DAN HOOKER 1,  CLAUDIO PUELLES 0
+  - Takedowns: DAN HOOKER 0,  CLAUDIO PUELLES 0

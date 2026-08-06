@@ -1,0 +1,14 @@
+Event: UFC 191: Johnson vs Dodson 2
+    Date: September 05, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY JOHNSON defeated JIMI MANUWA via KO/TKO  
+  at 0:28 of round 2
+  Key stats:
+  - ANTHONY JOHNSON landed 25 significant strikes
+  - JIMI MANUWA landed 8 significant strikes
+  - Knockdowns: ANTHONY JOHNSON 1,  JIMI MANUWA 0
+  - Takedowns: ANTHONY JOHNSON 2,  JIMI MANUWA 0
+  Bonus: perf

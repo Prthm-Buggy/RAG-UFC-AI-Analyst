@@ -1,0 +1,13 @@
+Event: UFC 173: Barao vs Dillashaw
+    Date: May 24, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ROBBIE LAWLER defeated JAKE ELLENBERGER via KO/TKO  
+  at 3:06 of round 3
+  Key stats:
+  - ROBBIE LAWLER landed 68 significant strikes
+  - JAKE ELLENBERGER landed 29 significant strikes
+  - Knockdowns: ROBBIE LAWLER 1,  JAKE ELLENBERGER 0
+  - Takedowns: ROBBIE LAWLER 0,  JAKE ELLENBERGER 2

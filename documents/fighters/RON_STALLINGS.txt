@@ -1,0 +1,11 @@
+Fighter: RON STALLINGS
+  Date of Birth: 1983-01-25
+  Career record: 3
+  First fight: 2015-01-18
+  Last fight: 2015-09-05
+
+Career Statistics:
+- Significant Strikes Landed :84
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

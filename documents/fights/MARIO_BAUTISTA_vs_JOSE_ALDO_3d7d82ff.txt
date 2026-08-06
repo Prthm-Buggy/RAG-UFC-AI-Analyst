@@ -1,0 +1,13 @@
+Event: UFC 307: Pereira vs. Rountree Jr.
+    Date: October 05, 2024
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARIO BAUTISTA defeated JOSE ALDO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MARIO BAUTISTA landed 49 significant strikes
+  - JOSE ALDO landed 51 significant strikes
+  - Knockdowns: MARIO BAUTISTA 0,  JOSE ALDO 0
+  - Takedowns: MARIO BAUTISTA 0,  JOSE ALDO 0

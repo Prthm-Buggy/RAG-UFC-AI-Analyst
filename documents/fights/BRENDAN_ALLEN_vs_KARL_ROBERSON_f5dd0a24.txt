@@ -1,0 +1,13 @@
+Event: UFC 261: Usman vs. Masvidal 2
+    Date: April 24, 2021
+    Location: Jacksonville, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRENDAN ALLEN defeated KARL ROBERSON via Submission  
+  at 4:55 of round 1
+  Key stats:
+  - BRENDAN ALLEN landed 9 significant strikes
+  - KARL ROBERSON landed 6 significant strikes
+  - Knockdowns: BRENDAN ALLEN 0,  KARL ROBERSON 0
+  - Takedowns: BRENDAN ALLEN 2,  KARL ROBERSON 0

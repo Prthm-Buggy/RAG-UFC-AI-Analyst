@@ -1,0 +1,11 @@
+Fighter: JOSHUA WEEMS
+  Date of Birth: 1994-05-05
+  Career record: 1
+  First fight: 2022-10-29
+  Last fight: 2022-10-29
+
+Career Statistics:
+- Significant Strikes Landed :18
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

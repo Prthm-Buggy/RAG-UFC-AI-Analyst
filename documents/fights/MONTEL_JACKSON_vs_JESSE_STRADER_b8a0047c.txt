@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brunson vs. Holland
+    Date: March 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MONTEL JACKSON defeated JESSE STRADER via KO/TKO  
+  at 1:58 of round 1
+  Key stats:
+  - MONTEL JACKSON landed 15 significant strikes
+  - JESSE STRADER landed 14 significant strikes
+  - Knockdowns: MONTEL JACKSON 2,  JESSE STRADER 0
+  - Takedowns: MONTEL JACKSON 0,  JESSE STRADER 0

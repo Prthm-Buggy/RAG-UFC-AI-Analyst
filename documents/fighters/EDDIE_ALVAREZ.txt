@@ -1,0 +1,11 @@
+Fighter: EDDIE ALVAREZ
+  Date of Birth: 1984-01-11
+  Career record: 7
+  First fight: 2014-09-27
+  Last fight: 2018-07-28
+
+Career Statistics:
+- Significant Strikes Landed :356
+- Total takedowns landed :11
+- Knockdowns :1
+- Submission Attempts :1

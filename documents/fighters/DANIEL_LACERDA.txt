@@ -1,0 +1,11 @@
+Fighter: DANIEL LACERDA
+  Date of Birth: 1996-06-05
+  Career record: 5
+  First fight: 2021-10-23
+  Last fight: 2024-02-24
+
+Career Statistics:
+- Significant Strikes Landed :98
+- Total takedowns landed :3
+- Knockdowns :3
+- Submission Attempts :2

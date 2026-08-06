@@ -1,0 +1,14 @@
+Event: UFC 216: Ferguson vs. Lee
+    Date: October 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: None
+    
+
+    Result: JOHN MORAGA defeated MAGOMED BIBULATOV via KO/TKO  
+  at 1:38 of round 1
+  Key stats:
+  - JOHN MORAGA landed 8 significant strikes
+  - MAGOMED BIBULATOV landed 5 significant strikes
+  - Knockdowns: JOHN MORAGA 1,  MAGOMED BIBULATOV 0
+  - Takedowns: JOHN MORAGA 0,  MAGOMED BIBULATOV 0
+  Bonus: perf

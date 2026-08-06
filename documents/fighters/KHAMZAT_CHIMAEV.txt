@@ -1,0 +1,11 @@
+Fighter: KHAMZAT CHIMAEV
+  Date of Birth: 1994-05-01
+  Career record: 10
+  First fight: 2020-07-15
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :396
+- Total takedowns landed :35
+- Knockdowns :2
+- Submission Attempts :9

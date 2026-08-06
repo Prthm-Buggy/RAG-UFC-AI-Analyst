@@ -1,0 +1,14 @@
+Event: UFC on FOX: Dos Santos vs Miocic
+    Date: December 13, 2014
+    Location: Phoenix, Arizona, USA
+    Weight Class: Bantamweight
+    
+
+    Result: IAN ENTWISTLE defeated ANTHONY BIRCHAK via Submission  
+  at 1:04 of round 1
+  Key stats:
+  - IAN ENTWISTLE landed 0 significant strikes
+  - ANTHONY BIRCHAK landed 4 significant strikes
+  - Knockdowns: IAN ENTWISTLE 0,  ANTHONY BIRCHAK 0
+  - Takedowns: IAN ENTWISTLE 0,  ANTHONY BIRCHAK 1
+  Bonus: perf

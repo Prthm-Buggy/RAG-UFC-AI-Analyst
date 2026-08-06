@@ -1,0 +1,11 @@
+Fighter: ZHANG TIEQUAN
+  Date of Birth: 1978-07-25
+  Career record: 4
+  First fight: 2011-02-26
+  Last fight: 2012-11-10
+
+Career Statistics:
+- Significant Strikes Landed :52
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :5

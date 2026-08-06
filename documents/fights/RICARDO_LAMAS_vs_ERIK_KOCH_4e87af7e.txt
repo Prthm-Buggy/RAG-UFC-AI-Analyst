@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs Dodson
+    Date: January 26, 2013
+    Location: Chicago, Illinois, USA
+    Weight Class: Featherweight
+    
+
+    Result: RICARDO LAMAS defeated ERIK KOCH via KO/TKO  
+  at 2:32 of round 2
+  Key stats:
+  - RICARDO LAMAS landed 32 significant strikes
+  - ERIK KOCH landed 14 significant strikes
+  - Knockdowns: RICARDO LAMAS 0,  ERIK KOCH 0
+  - Takedowns: RICARDO LAMAS 2,  ERIK KOCH 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Holland
+    Date: April 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JARJIS DANHO defeated YORGAN DE CASTRO via KO/TKO  
+  at 3:02 of round 1
+  Key stats:
+  - JARJIS DANHO landed 10 significant strikes
+  - YORGAN DE CASTRO landed 2 significant strikes
+  - Knockdowns: JARJIS DANHO 1,  YORGAN DE CASTRO 0
+  - Takedowns: JARJIS DANHO 0,  YORGAN DE CASTRO 0

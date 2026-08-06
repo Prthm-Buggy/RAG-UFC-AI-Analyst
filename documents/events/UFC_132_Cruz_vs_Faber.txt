@@ -1,0 +1,18 @@
+Event : UFC 132: Cruz vs Faber
+    Date : July 02, 2011
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Lightweight, Middleweight, Welterweight, Light Heavyweight
+
+    Fight Results:
+  - RAFAEL DOS ANJOS def. GEORGE SOTIROPOULOS via KO/TKO(R1)
+- DOMINICK CRUZ def. URIJAH FABER via Decision - Unanimous(R5)
+- MELVIN GUILLARD def. SHANE ROLLER via KO/TKO(R1)
+- CARLOS CONDIT def. DONG HYUN KIM via KO/TKO(R1)
+- ANTHONY NJOKUANI def. ANDRE WINNER via Decision - Unanimous(R3)
+- CHRIS LEBEN def. WANDERLEI SILVA via KO/TKO(R1)
+- TITO ORTIZ def. RYAN BADER via Submission(R1)
+- DENNIS SIVER def. MATT WIMAN via Decision - Unanimous(R3)
+- BRIAN BOWLES def. TAKEYA MIZUGAKI via Decision - Unanimous(R3)
+- AARON SIMPSON def. BRAD TAVARES via Decision - Unanimous(R3)
+- JEFF HOUGLAND def. DONNY WALKER via Decision - Unanimous(R3)

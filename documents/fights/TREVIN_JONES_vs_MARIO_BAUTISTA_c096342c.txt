@@ -1,0 +1,13 @@
+Event: UFC 259: Blachowicz vs. Adesanya
+    Date: March 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TREVIN JONES defeated MARIO BAUTISTA via KO/TKO  
+  at 0:47 of round 2
+  Key stats:
+  - TREVIN JONES landed 23 significant strikes
+  - MARIO BAUTISTA landed 21 significant strikes
+  - Knockdowns: TREVIN JONES 1,  MARIO BAUTISTA 0
+  - Takedowns: TREVIN JONES 0,  MARIO BAUTISTA 0

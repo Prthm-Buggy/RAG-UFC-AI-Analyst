@@ -1,0 +1,11 @@
+Fighter: TJ O'BRIEN
+  Date of Birth: 1987-01-01
+  Career record: 2
+  First fight: 2010-11-20
+  Last fight: 2011-08-14
+
+Career Statistics:
+- Significant Strikes Landed :60
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

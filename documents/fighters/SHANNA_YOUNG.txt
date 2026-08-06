@@ -1,0 +1,11 @@
+Fighter: SHANNA YOUNG
+  Date of Birth: 1991-02-20
+  Career record: 4
+  First fight: 2020-02-15
+  Last fight: 2022-11-05
+
+Career Statistics:
+- Significant Strikes Landed :140
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :2

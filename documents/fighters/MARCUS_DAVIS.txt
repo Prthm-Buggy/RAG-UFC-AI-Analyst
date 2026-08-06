@@ -1,0 +1,11 @@
+Fighter: MARCUS DAVIS
+  Date of Birth: 1973-08-24
+  Career record: 15
+  First fight: 2005-11-05
+  Last fight: 2011-01-01
+
+Career Statistics:
+- Significant Strikes Landed :356
+- Total takedowns landed :14
+- Knockdowns :6
+- Submission Attempts :12

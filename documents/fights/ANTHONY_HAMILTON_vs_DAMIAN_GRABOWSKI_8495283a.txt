@@ -1,0 +1,13 @@
+Event: UFC 201: Lawler vs. Woodley
+    Date: July 30, 2016
+    Location: Atlanta, Georgia, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANTHONY HAMILTON defeated DAMIAN GRABOWSKI via KO/TKO  
+  at 0:14 of round 1
+  Key stats:
+  - ANTHONY HAMILTON landed 9 significant strikes
+  - DAMIAN GRABOWSKI landed 1 significant strikes
+  - Knockdowns: ANTHONY HAMILTON 1,  DAMIAN GRABOWSKI 0
+  - Takedowns: ANTHONY HAMILTON 0,  DAMIAN GRABOWSKI 0

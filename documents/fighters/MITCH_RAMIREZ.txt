@@ -1,0 +1,11 @@
+Fighter: MITCH RAMIREZ
+  Date of Birth: 1992-11-03
+  Career record: 2
+  First fight: 2024-03-16
+  Last fight: 2025-07-12
+
+Career Statistics:
+- Significant Strikes Landed :67
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Font
+    Date: August 05, 2023
+    Location: Nashville, Tennessee, USA
+    Weight Class: Catch Weight
+    
+
+    Result: CORY SANDHAGEN defeated ROB FONT via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CORY SANDHAGEN landed 34 significant strikes
+  - ROB FONT landed 9 significant strikes
+  - Knockdowns: CORY SANDHAGEN 0,  ROB FONT 0
+  - Takedowns: CORY SANDHAGEN 7,  ROB FONT 1

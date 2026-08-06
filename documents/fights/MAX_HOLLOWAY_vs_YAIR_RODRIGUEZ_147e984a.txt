@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holloway vs. Rodriguez
+    Date: November 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: MAX HOLLOWAY defeated YAIR RODRIGUEZ via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MAX HOLLOWAY landed 230 significant strikes
+  - YAIR RODRIGUEZ landed 159 significant strikes
+  - Knockdowns: MAX HOLLOWAY 0,  YAIR RODRIGUEZ 0
+  - Takedowns: MAX HOLLOWAY 3,  YAIR RODRIGUEZ 1
+  Bonus: fight

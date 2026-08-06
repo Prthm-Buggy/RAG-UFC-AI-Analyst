@@ -1,0 +1,13 @@
+Event: UFC Fight Night: MacDonald vs Thompson
+    Date: June 18, 2016
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Women's Flyweight
+    
+
+    Result: JOANNE WOOD defeated VALERIE LETOURNEAU via KO/TKO  
+  at 2:44 of round 3
+  Key stats:
+  - JOANNE WOOD landed 115 significant strikes
+  - VALERIE LETOURNEAU landed 80 significant strikes
+  - Knockdowns: JOANNE WOOD 2,  VALERIE LETOURNEAU 0
+  - Takedowns: JOANNE WOOD 3,  VALERIE LETOURNEAU 0

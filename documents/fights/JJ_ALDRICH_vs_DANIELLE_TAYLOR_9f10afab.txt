@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Stephens vs. Choi
+    Date: January 14, 2018
+    Location: St. Louis, Missouri, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JJ ALDRICH defeated DANIELLE TAYLOR via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JJ ALDRICH landed 54 significant strikes
+  - DANIELLE TAYLOR landed 38 significant strikes
+  - Knockdowns: JJ ALDRICH 0,  DANIELLE TAYLOR 0
+  - Takedowns: JJ ALDRICH 1,  DANIELLE TAYLOR 0

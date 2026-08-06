@@ -1,0 +1,11 @@
+Fighter: BRIAN BOWLES
+  Date of Birth: 1980-06-22
+  Career record: 4
+  First fight: 2011-03-03
+  Last fight: 2013-05-25
+
+Career Statistics:
+- Significant Strikes Landed :85
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :2

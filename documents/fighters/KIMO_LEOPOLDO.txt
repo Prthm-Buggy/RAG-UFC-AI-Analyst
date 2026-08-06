@@ -1,0 +1,11 @@
+Fighter: KIMO LEOPOLDO
+  Date of Birth: 1968-01-05
+  Career record: 6
+  First fight: 1994-09-09
+  Last fight: 2004-06-19
+
+Career Statistics:
+- Significant Strikes Landed :37
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :3

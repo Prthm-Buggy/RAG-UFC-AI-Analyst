@@ -1,0 +1,11 @@
+Fighter: DERRICK NOBLE
+  Date of Birth: 1978-08-14
+  Career record: 1
+  First fight: 2006-04-15
+  Last fight: 2006-04-15
+
+Career Statistics:
+- Significant Strikes Landed :18
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

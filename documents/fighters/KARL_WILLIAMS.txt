@@ -1,0 +1,11 @@
+Fighter: KARL WILLIAMS
+  Date of Birth: 1990-01-06
+  Career record: 4
+  First fight: 2023-03-11
+  Last fight: 2024-08-10
+
+Career Statistics:
+- Significant Strikes Landed :177
+- Total takedowns landed :18
+- Knockdowns :1
+- Submission Attempts :1

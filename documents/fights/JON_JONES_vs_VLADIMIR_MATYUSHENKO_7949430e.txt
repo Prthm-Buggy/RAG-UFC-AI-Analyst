@@ -1,0 +1,13 @@
+Event: UFC Live: Jones vs Matyushenko
+    Date: August 01, 2010
+    Location: San Diego, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated VLADIMIR MATYUSHENKO via KO/TKO  
+  at 1:52 of round 1
+  Key stats:
+  - JON JONES landed 15 significant strikes
+  - VLADIMIR MATYUSHENKO landed 0 significant strikes
+  - Knockdowns: JON JONES 0,  VLADIMIR MATYUSHENKO 0
+  - Takedowns: JON JONES 1,  VLADIMIR MATYUSHENKO 0

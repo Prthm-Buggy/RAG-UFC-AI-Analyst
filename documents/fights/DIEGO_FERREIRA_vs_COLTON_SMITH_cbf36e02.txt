@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Swanson vs Stephens
+    Date: June 28, 2014
+    Location: San Antonio, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: DIEGO FERREIRA defeated COLTON SMITH via Submission  
+  at 0:38 of round 1
+  Key stats:
+  - DIEGO FERREIRA landed 7 significant strikes
+  - COLTON SMITH landed 2 significant strikes
+  - Knockdowns: DIEGO FERREIRA 0,  COLTON SMITH 0
+  - Takedowns: DIEGO FERREIRA 1,  COLTON SMITH 0
+  Bonus: perf

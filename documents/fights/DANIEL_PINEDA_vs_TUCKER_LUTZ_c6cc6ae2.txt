@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vera vs. Sandhagen
+    Date: March 25, 2023
+    Location: San Antonio, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: DANIEL PINEDA defeated TUCKER LUTZ via Submission  
+  at 2:50 of round 2
+  Key stats:
+  - DANIEL PINEDA landed 24 significant strikes
+  - TUCKER LUTZ landed 28 significant strikes
+  - Knockdowns: DANIEL PINEDA 1,  TUCKER LUTZ 0
+  - Takedowns: DANIEL PINEDA 1,  TUCKER LUTZ 0
+  Bonus: perf

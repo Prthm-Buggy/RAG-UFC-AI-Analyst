@@ -1,0 +1,14 @@
+Event: UFC 84: Ill Will
+    Date: May 24, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: GORAN RELJIC defeated WILSON GOUVEIA via KO/TKO  
+  at 3:15 of round 2
+  Key stats:
+  - GORAN RELJIC landed 33 significant strikes
+  - WILSON GOUVEIA landed 33 significant strikes
+  - Knockdowns: GORAN RELJIC 1,  WILSON GOUVEIA 1
+  - Takedowns: GORAN RELJIC 0,  WILSON GOUVEIA 0
+  Bonus: fight

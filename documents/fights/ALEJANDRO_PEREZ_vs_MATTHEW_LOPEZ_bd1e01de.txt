@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Gaethje
+    Date: April 14, 2018
+    Location: Glendale, Arizona, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALEJANDRO PEREZ defeated MATTHEW LOPEZ via KO/TKO  
+  at 3:42 of round 2
+  Key stats:
+  - ALEJANDRO PEREZ landed 44 significant strikes
+  - MATTHEW LOPEZ landed 22 significant strikes
+  - Knockdowns: ALEJANDRO PEREZ 0,  MATTHEW LOPEZ 0
+  - Takedowns: ALEJANDRO PEREZ 0,  MATTHEW LOPEZ 3

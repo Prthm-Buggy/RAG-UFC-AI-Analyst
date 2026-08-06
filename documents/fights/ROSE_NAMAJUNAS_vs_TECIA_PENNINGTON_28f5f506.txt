@@ -1,0 +1,13 @@
+Event: UFC on FOX: Teixeira vs Evans
+    Date: April 16, 2016
+    Location: Tampa, Florida, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ROSE NAMAJUNAS defeated TECIA PENNINGTON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ROSE NAMAJUNAS landed 46 significant strikes
+  - TECIA PENNINGTON landed 61 significant strikes
+  - Knockdowns: ROSE NAMAJUNAS 0,  TECIA PENNINGTON 0
+  - Takedowns: ROSE NAMAJUNAS 2,  TECIA PENNINGTON 0

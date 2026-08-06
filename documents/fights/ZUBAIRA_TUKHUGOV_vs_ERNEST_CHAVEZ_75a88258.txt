@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nelson vs Story
+    Date: October 04, 2014
+    Location: Stockholm, Sweden
+    Weight Class: Featherweight
+    
+
+    Result: ZUBAIRA TUKHUGOV defeated ERNEST CHAVEZ via KO/TKO  
+  at 4:21 of round 1
+  Key stats:
+  - ZUBAIRA TUKHUGOV landed 40 significant strikes
+  - ERNEST CHAVEZ landed 12 significant strikes
+  - Knockdowns: ZUBAIRA TUKHUGOV 0,  ERNEST CHAVEZ 0
+  - Takedowns: ZUBAIRA TUKHUGOV 0,  ERNEST CHAVEZ 0

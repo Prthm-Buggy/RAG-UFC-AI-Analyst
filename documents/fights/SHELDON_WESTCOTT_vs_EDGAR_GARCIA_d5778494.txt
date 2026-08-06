@@ -1,0 +1,13 @@
+Event: UFC 195: Lawler vs Condit
+    Date: January 02, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SHELDON WESTCOTT defeated EDGAR GARCIA via KO/TKO  
+  at 3:12 of round 1
+  Key stats:
+  - SHELDON WESTCOTT landed 33 significant strikes
+  - EDGAR GARCIA landed 1 significant strikes
+  - Knockdowns: SHELDON WESTCOTT 0,  EDGAR GARCIA 0
+  - Takedowns: SHELDON WESTCOTT 1,  EDGAR GARCIA 0

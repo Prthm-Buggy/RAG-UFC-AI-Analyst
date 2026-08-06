@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Ferguson
+    Date: November 05, 2016
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Welterweight
+    
+
+    Result: MAX GRIFFIN defeated ERICK MONTANO via KO/TKO  
+  at 0:54 of round 1
+  Key stats:
+  - MAX GRIFFIN landed 15 significant strikes
+  - ERICK MONTANO landed 3 significant strikes
+  - Knockdowns: MAX GRIFFIN 0,  ERICK MONTANO 0
+  - Takedowns: MAX GRIFFIN 0,  ERICK MONTANO 0

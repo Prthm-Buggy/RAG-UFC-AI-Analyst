@@ -1,0 +1,13 @@
+Event: UFC 43: Meltdown
+    Date: June 06, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: FALANIKO VITALE defeated MATT LINDLAND via KO/TKO  
+  at 1:56 of round 1
+  Key stats:
+  - FALANIKO VITALE landed 2 significant strikes
+  - MATT LINDLAND landed 2 significant strikes
+  - Knockdowns: FALANIKO VITALE 0,  MATT LINDLAND 0
+  - Takedowns: FALANIKO VITALE 0,  MATT LINDLAND 0

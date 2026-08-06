@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Anjos vs. Fiziev
+    Date: July 09, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHASE SHERMAN defeated JARED VANDERAA via KO/TKO  
+  at 3:10 of round 3
+  Key stats:
+  - CHASE SHERMAN landed 137 significant strikes
+  - JARED VANDERAA landed 109 significant strikes
+  - Knockdowns: CHASE SHERMAN 1,  JARED VANDERAA 0
+  - Takedowns: CHASE SHERMAN 0,  JARED VANDERAA 0
+  Bonus: perf

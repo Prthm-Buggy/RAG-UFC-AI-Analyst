@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vera vs. Sandhagen
+    Date: March 25, 2023
+    Location: San Antonio, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALBERT DURAEV defeated CHIDI NJOKUANI via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ALBERT DURAEV landed 45 significant strikes
+  - CHIDI NJOKUANI landed 40 significant strikes
+  - Knockdowns: ALBERT DURAEV 0,  CHIDI NJOKUANI 0
+  - Takedowns: ALBERT DURAEV 2,  CHIDI NJOKUANI 0

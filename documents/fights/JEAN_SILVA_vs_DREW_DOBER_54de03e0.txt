@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Namajunas vs. Cortez
+    Date: July 13, 2024
+    Location: Denver, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: JEAN SILVA defeated DREW DOBER via TKO - Doctor's Stoppage  
+  at 1:28 of round 3
+  Key stats:
+  - JEAN SILVA landed 53 significant strikes
+  - DREW DOBER landed 59 significant strikes
+  - Knockdowns: JEAN SILVA 0,  DREW DOBER 0
+  - Takedowns: JEAN SILVA 0,  DREW DOBER 0
+  Bonus: fight

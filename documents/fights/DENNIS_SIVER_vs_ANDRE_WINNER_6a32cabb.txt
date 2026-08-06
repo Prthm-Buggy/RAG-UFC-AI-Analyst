@@ -1,0 +1,14 @@
+Event: UFC 122: Marquardt vs Okami
+    Date: November 13, 2010
+    Location: Oberhausen, North Rhine-Westphalia, Germany
+    Weight Class: Lightweight
+    
+
+    Result: DENNIS SIVER defeated ANDRE WINNER via Submission  
+  at 3:37 of round 1
+  Key stats:
+  - DENNIS SIVER landed 30 significant strikes
+  - ANDRE WINNER landed 13 significant strikes
+  - Knockdowns: DENNIS SIVER 1,  ANDRE WINNER 0
+  - Takedowns: DENNIS SIVER 0,  ANDRE WINNER 0
+  Bonus: sub

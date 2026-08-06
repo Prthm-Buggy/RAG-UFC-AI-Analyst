@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moreno vs. Albazi
+    Date: November 02, 2024
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Middleweight
+    
+
+    Result: DUSTIN STOLTZFUS defeated MARC-ANDRE BARRIAULT via KO/TKO  
+  at 4:28 of round 1
+  Key stats:
+  - DUSTIN STOLTZFUS landed 13 significant strikes
+  - MARC-ANDRE BARRIAULT landed 7 significant strikes
+  - Knockdowns: DUSTIN STOLTZFUS 1,  MARC-ANDRE BARRIAULT 0
+  - Takedowns: DUSTIN STOLTZFUS 0,  MARC-ANDRE BARRIAULT 0
+  Bonus: perf

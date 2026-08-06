@@ -1,0 +1,11 @@
+Fighter: JULIA POLASTRI
+  Date of Birth: 1998-03-05
+  Career record: 5
+  First fight: 2024-06-15
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :454
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

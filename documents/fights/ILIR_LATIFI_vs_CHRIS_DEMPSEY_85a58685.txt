@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McGregor vs Brandao
+    Date: July 19, 2014
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Light Heavyweight
+    
+
+    Result: ILIR LATIFI defeated CHRIS DEMPSEY via KO/TKO  
+  at 2:07 of round 1
+  Key stats:
+  - ILIR LATIFI landed 16 significant strikes
+  - CHRIS DEMPSEY landed 1 significant strikes
+  - Knockdowns: ILIR LATIFI 0,  CHRIS DEMPSEY 0
+  - Takedowns: ILIR LATIFI 1,  CHRIS DEMPSEY 0

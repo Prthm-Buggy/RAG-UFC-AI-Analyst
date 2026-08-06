@@ -1,0 +1,13 @@
+Event: UFC 322: Della Maddalena vs. Makhachev
+    Date: November 15, 2025
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: KYLE DAUKAUS defeated GERALD MEERSCHAERT via Submission  
+  at 0:50 of round 1
+  Key stats:
+  - KYLE DAUKAUS landed 8 significant strikes
+  - GERALD MEERSCHAERT landed 0 significant strikes
+  - Knockdowns: KYLE DAUKAUS 1,  GERALD MEERSCHAERT 0
+  - Takedowns: KYLE DAUKAUS 0,  GERALD MEERSCHAERT 0

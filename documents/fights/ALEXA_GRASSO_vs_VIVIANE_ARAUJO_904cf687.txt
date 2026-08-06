@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Grasso vs. Araujo
+    Date: October 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ALEXA GRASSO defeated VIVIANE ARAUJO via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ALEXA GRASSO landed 153 significant strikes
+  - VIVIANE ARAUJO landed 126 significant strikes
+  - Knockdowns: ALEXA GRASSO 0,  VIVIANE ARAUJO 0
+  - Takedowns: ALEXA GRASSO 0,  VIVIANE ARAUJO 2

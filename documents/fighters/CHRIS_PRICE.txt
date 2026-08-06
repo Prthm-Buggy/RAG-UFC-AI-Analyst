@@ -1,0 +1,11 @@
+Fighter: CHRIS PRICE
+  Date of Birth: 1982-11-09
+  Career record: 2
+  First fight: 2006-10-10
+  Last fight: 2007-01-25
+
+Career Statistics:
+- Significant Strikes Landed :10
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

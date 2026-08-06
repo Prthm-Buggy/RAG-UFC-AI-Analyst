@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Caceres
+    Date: August 06, 2016
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Lightweight
+    
+
+    Result: DAVID TEYMUR defeated JASON NOVELLI via KO/TKO  
+  at 1:25 of round 2
+  Key stats:
+  - DAVID TEYMUR landed 26 significant strikes
+  - JASON NOVELLI landed 8 significant strikes
+  - Knockdowns: DAVID TEYMUR 1,  JASON NOVELLI 0
+  - Takedowns: DAVID TEYMUR 0,  JASON NOVELLI 0

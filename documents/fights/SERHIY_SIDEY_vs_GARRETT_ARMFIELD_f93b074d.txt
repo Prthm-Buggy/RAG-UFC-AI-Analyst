@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Albazi
+    Date: November 02, 2024
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: SERHIY SIDEY defeated GARRETT ARMFIELD via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - SERHIY SIDEY landed 68 significant strikes
+  - GARRETT ARMFIELD landed 71 significant strikes
+  - Knockdowns: SERHIY SIDEY 0,  GARRETT ARMFIELD 0
+  - Takedowns: SERHIY SIDEY 0,  GARRETT ARMFIELD 4

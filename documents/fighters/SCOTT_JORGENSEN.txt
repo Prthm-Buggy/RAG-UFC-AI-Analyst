@@ -1,0 +1,11 @@
+Fighter: SCOTT JORGENSEN
+  Date of Birth: 1982-09-17
+  Career record: 12
+  First fight: 2011-06-04
+  Last fight: 2015-11-21
+
+Career Statistics:
+- Significant Strikes Landed :393
+- Total takedowns landed :21
+- Knockdowns :1
+- Submission Attempts :2

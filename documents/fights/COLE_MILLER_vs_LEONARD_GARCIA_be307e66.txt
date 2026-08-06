@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thomas vs Florian
+    Date: September 19, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: COLE MILLER defeated LEONARD GARCIA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - COLE MILLER landed 21 significant strikes
+  - LEONARD GARCIA landed 16 significant strikes
+  - Knockdowns: COLE MILLER 0,  LEONARD GARCIA 0
+  - Takedowns: COLE MILLER 1,  LEONARD GARCIA 0

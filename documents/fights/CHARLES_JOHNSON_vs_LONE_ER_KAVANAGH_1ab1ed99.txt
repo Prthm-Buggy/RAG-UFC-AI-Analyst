@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Walker vs. Zhang
+    Date: August 23, 2025
+    Location: Shanghai, Hebei, China
+    Weight Class: Flyweight
+    
+
+    Result: CHARLES JOHNSON defeated LONE'ER KAVANAGH via KO/TKO  
+  at 4:35 of round 2
+  Key stats:
+  - CHARLES JOHNSON landed 44 significant strikes
+  - LONE'ER KAVANAGH landed 59 significant strikes
+  - Knockdowns: CHARLES JOHNSON 1,  LONE'ER KAVANAGH 0
+  - Takedowns: CHARLES JOHNSON 1,  LONE'ER KAVANAGH 1
+  Bonus: perf

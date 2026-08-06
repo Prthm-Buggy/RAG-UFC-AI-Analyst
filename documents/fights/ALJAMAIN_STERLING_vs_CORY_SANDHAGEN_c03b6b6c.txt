@@ -1,0 +1,14 @@
+Event: UFC 250: Nunes vs. Spencer
+    Date: June 06, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALJAMAIN STERLING defeated CORY SANDHAGEN via Submission  
+  at 1:28 of round 1
+  Key stats:
+  - ALJAMAIN STERLING landed 2 significant strikes
+  - CORY SANDHAGEN landed 1 significant strikes
+  - Knockdowns: ALJAMAIN STERLING 0,  CORY SANDHAGEN 0
+  - Takedowns: ALJAMAIN STERLING 0,  CORY SANDHAGEN 0
+  Bonus: perf

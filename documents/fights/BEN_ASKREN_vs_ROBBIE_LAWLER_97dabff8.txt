@@ -1,0 +1,13 @@
+Event: UFC 235: Jones vs. Smith
+    Date: March 02, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: BEN ASKREN defeated ROBBIE LAWLER via Submission  
+  at 3:20 of round 1
+  Key stats:
+  - BEN ASKREN landed 0 significant strikes
+  - ROBBIE LAWLER landed 26 significant strikes
+  - Knockdowns: BEN ASKREN 0,  ROBBIE LAWLER 0
+  - Takedowns: BEN ASKREN 1,  ROBBIE LAWLER 1

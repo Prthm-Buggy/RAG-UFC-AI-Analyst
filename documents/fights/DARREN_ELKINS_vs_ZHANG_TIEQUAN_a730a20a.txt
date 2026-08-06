@@ -1,0 +1,13 @@
+Event: UFC 136: Edgar vs Maynard 3
+    Date: October 08, 2011
+    Location: Houston, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: DARREN ELKINS defeated ZHANG TIEQUAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DARREN ELKINS landed 27 significant strikes
+  - ZHANG TIEQUAN landed 2 significant strikes
+  - Knockdowns: DARREN ELKINS 0,  ZHANG TIEQUAN 0
+  - Takedowns: DARREN ELKINS 1,  ZHANG TIEQUAN 0

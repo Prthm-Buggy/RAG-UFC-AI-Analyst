@@ -1,0 +1,13 @@
+Event: UFC Fight Night 4
+    Date: April 06, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JON FITCH defeated JOSHUA BURKMAN via Submission  
+  at 4:57 of round 2
+  Key stats:
+  - JON FITCH landed 25 significant strikes
+  - JOSHUA BURKMAN landed 20 significant strikes
+  - Knockdowns: JON FITCH 1,  JOSHUA BURKMAN 0
+  - Takedowns: JON FITCH 3,  JOSHUA BURKMAN 1

@@ -1,0 +1,11 @@
+Fighter: TOM DUQUESNOY
+  Date of Birth: 1993-06-21
+  Career record: 3
+  First fight: 2017-04-15
+  Last fight: 2018-03-17
+
+Career Statistics:
+- Significant Strikes Landed :136
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC 144: Edgar vs Henderson
+    Date: February 25, 2012
+    Location: Saitama, Japan
+    Weight Class: Lightweight
+    
+
+    Result: TAKANORI GOMI defeated EIJI MITSUOKA via KO/TKO  
+  at 2:21 of round 2
+  Key stats:
+  - TAKANORI GOMI landed 48 significant strikes
+  - EIJI MITSUOKA landed 32 significant strikes
+  - Knockdowns: TAKANORI GOMI 0,  EIJI MITSUOKA 1
+  - Takedowns: TAKANORI GOMI 0,  EIJI MITSUOKA 1

@@ -1,0 +1,11 @@
+Fighter: GABRIELLA FERNANDES
+  Date of Birth: 1993-08-13
+  Career record: 6
+  First fight: 2023-02-25
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :253
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :1

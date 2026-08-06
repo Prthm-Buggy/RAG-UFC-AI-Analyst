@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Albazi
+    Date: November 02, 2024
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Flyweight
+    
+
+    Result: BRANDON MORENO defeated AMIR ALBAZI via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - BRANDON MORENO landed 132 significant strikes
+  - AMIR ALBAZI landed 63 significant strikes
+  - Knockdowns: BRANDON MORENO 0,  AMIR ALBAZI 0
+  - Takedowns: BRANDON MORENO 0,  AMIR ALBAZI 1

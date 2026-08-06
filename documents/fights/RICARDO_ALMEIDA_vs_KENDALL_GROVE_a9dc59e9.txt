@@ -1,0 +1,13 @@
+Event: UFC 101: Declaration
+    Date: August 08, 2009
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Middleweight
+    
+
+    Result: RICARDO ALMEIDA defeated KENDALL GROVE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RICARDO ALMEIDA landed 38 significant strikes
+  - KENDALL GROVE landed 25 significant strikes
+  - Knockdowns: RICARDO ALMEIDA 0,  KENDALL GROVE 0
+  - Takedowns: RICARDO ALMEIDA 6,  KENDALL GROVE 0

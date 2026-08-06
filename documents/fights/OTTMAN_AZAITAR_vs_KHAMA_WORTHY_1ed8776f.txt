@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Waterson vs. Hill
+    Date: September 12, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: OTTMAN AZAITAR defeated KHAMA WORTHY via KO/TKO  
+  at 1:33 of round 1
+  Key stats:
+  - OTTMAN AZAITAR landed 16 significant strikes
+  - KHAMA WORTHY landed 1 significant strikes
+  - Knockdowns: OTTMAN AZAITAR 0,  KHAMA WORTHY 0
+  - Takedowns: OTTMAN AZAITAR 0,  KHAMA WORTHY 0
+  Bonus: perf

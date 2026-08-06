@@ -1,0 +1,14 @@
+Event: UFC 246: McGregor vs. Cowboy
+    Date: January 18, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: BRIAN KELLEHER defeated ODE OSBOURNE via Submission  
+  at 2:49 of round 1
+  Key stats:
+  - BRIAN KELLEHER landed 7 significant strikes
+  - ODE OSBOURNE landed 9 significant strikes
+  - Knockdowns: BRIAN KELLEHER 0,  ODE OSBOURNE 0
+  - Takedowns: BRIAN KELLEHER 1,  ODE OSBOURNE 0
+  Bonus: perf

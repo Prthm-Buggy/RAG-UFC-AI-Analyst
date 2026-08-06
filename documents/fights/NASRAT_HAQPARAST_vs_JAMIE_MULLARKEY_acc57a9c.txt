@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Song vs. Gutierrez
+    Date: December 09, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NASRAT HAQPARAST defeated JAMIE MULLARKEY via KO/TKO  
+  at 1:44 of round 1
+  Key stats:
+  - NASRAT HAQPARAST landed 16 significant strikes
+  - JAMIE MULLARKEY landed 8 significant strikes
+  - Knockdowns: NASRAT HAQPARAST 2,  JAMIE MULLARKEY 0
+  - Takedowns: NASRAT HAQPARAST 0,  JAMIE MULLARKEY 0
+  Bonus: perf

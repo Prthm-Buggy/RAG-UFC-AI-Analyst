@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Assuncao vs. Moraes 2
+    Date: February 02, 2019
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: MARLON MORAES defeated RAPHAEL ASSUNCAO via Submission  
+  at 3:17 of round 1
+  Key stats:
+  - MARLON MORAES landed 10 significant strikes
+  - RAPHAEL ASSUNCAO landed 2 significant strikes
+  - Knockdowns: MARLON MORAES 1,  RAPHAEL ASSUNCAO 0
+  - Takedowns: MARLON MORAES 0,  RAPHAEL ASSUNCAO 0
+  Bonus: perf

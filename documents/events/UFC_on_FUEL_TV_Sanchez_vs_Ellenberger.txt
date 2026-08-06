@@ -1,0 +1,16 @@
+Event : UFC on FUEL TV: Sanchez vs Ellenberger
+    Date : February 15, 2012
+    Location: Omaha, Nebraska, USA
+    Number of Fights: 9
+    Weight Classes: Welterweight, Middleweight, Lightweight, Featherweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - STEFAN STRUVE def. DAVE HERMAN via KO/TKO(R2)
+- TJ DILLASHAW def. WALEL WATSON via Decision - Unanimous(R3)
+- STIPE MIOCIC def. PHILIP DE FRIES via KO/TKO(R1)
+- JUSTIN SALAS def. ANTON KUIVANEN via Decision - Unanimous(R3)
+- JONATHAN BROOKINS def. VAGNER ROCHA via KO/TKO(R1)
+- RONNY MARKES def. AARON SIMPSON via Decision - Split(R3)
+- IVAN MENJIVAR def. JOHN ALBERT via Submission(R1)
+- JAKE ELLENBERGER def. DIEGO SANCHEZ via Decision - Unanimous(R3)
+- TIM MEANS def. BERNARDO MAGALHAES via Decision - Unanimous(R3)

@@ -1,0 +1,17 @@
+Event : UFC 172: Jones vs Teixeira
+    Date : April 26, 2014
+    Location: Baltimore, Maryland, USA
+    Number of Fights: 10
+    Weight Classes: Light Heavyweight, Women's Bantamweight, Flyweight, Lightweight, Featherweight, Middleweight, Bantamweight
+
+    Fight Results:
+  - ANTHONY JOHNSON def. PHIL DAVIS via Decision - Unanimous(R3)
+- JON JONES def. GLOVER TEIXEIRA via Decision - Unanimous(R5)
+- JIM MILLER def. YANCY MEDEIROS via Submission(R1)
+- BETHE CORREIA def. JESSAMYN DUKE via Decision - Unanimous(R3)
+- TAKANORI GOMI def. ISAAC VALLIE-FLAGG via Decision - Unanimous(R3)
+- MAX HOLLOWAY def. ANDRE FILI via Submission(R3)
+- LUKE ROCKHOLD def. TIM BOETSCH via Submission(R1)
+- JOSEPH BENAVIDEZ def. TIM ELLIOTT via Submission(R1)
+- CHRIS BEAL def. PATRICK WILLIAMS via KO/TKO(R2)
+- DANNY CASTILLO def. CHARLIE BRENNEMAN via KO/TKO(R2)

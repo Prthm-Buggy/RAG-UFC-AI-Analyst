@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Henderson vs Thatch
+    Date: February 14, 2015
+    Location: Broomfield, Colorado, USA
+    Weight Class: Welterweight
+    
+
+    Result: BENSON HENDERSON defeated BRANDON THATCH via Submission  
+  at 3:58 of round 4
+  Key stats:
+  - BENSON HENDERSON landed 57 significant strikes
+  - BRANDON THATCH landed 44 significant strikes
+  - Knockdowns: BENSON HENDERSON 0,  BRANDON THATCH 0
+  - Takedowns: BENSON HENDERSON 3,  BRANDON THATCH 2
+  Bonus: fight

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Ige
+    Date: July 15, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: MODESTAS BUKAUSKAS defeated ANDREAS MICHAILIDIS via KO/TKO  
+  at 5:00 of round 1
+  Key stats:
+  - MODESTAS BUKAUSKAS landed 18 significant strikes
+  - ANDREAS MICHAILIDIS landed 23 significant strikes
+  - Knockdowns: MODESTAS BUKAUSKAS 0,  ANDREAS MICHAILIDIS 0
+  - Takedowns: MODESTAS BUKAUSKAS 0,  ANDREAS MICHAILIDIS 0
+  Bonus: perf

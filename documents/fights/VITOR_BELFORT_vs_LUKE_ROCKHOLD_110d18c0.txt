@@ -1,0 +1,14 @@
+Event: UFC on FX: Belfort vs. Rockhold
+    Date: May 18, 2013
+    Location: Jaragua do Sul, Santa Catarina, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: VITOR BELFORT defeated LUKE ROCKHOLD via KO/TKO  
+  at 2:32 of round 1
+  Key stats:
+  - VITOR BELFORT landed 9 significant strikes
+  - LUKE ROCKHOLD landed 6 significant strikes
+  - Knockdowns: VITOR BELFORT 1,  LUKE ROCKHOLD 0
+  - Takedowns: VITOR BELFORT 0,  LUKE ROCKHOLD 0
+  Bonus: ko

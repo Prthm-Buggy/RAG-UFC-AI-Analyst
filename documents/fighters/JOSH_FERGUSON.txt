@@ -1,0 +1,11 @@
+Fighter: JOSH FERGUSON
+  Date of Birth: 1988-05-13
+  Career record: 2
+  First fight: 2011-12-03
+  Last fight: 2012-07-11
+
+Career Statistics:
+- Significant Strikes Landed :54
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

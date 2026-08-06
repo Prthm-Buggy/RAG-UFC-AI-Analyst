@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs Nelson
+    Date: September 20, 2014
+    Location: Saitama, Japan
+    Weight Class: Featherweight
+    
+
+    Result: KATSUNORI KIKUNO defeated SAM SICILIA via Submission  
+  at 1:38 of round 2
+  Key stats:
+  - KATSUNORI KIKUNO landed 32 significant strikes
+  - SAM SICILIA landed 36 significant strikes
+  - Knockdowns: KATSUNORI KIKUNO 0,  SAM SICILIA 0
+  - Takedowns: KATSUNORI KIKUNO 1,  SAM SICILIA 0

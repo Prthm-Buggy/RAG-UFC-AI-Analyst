@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Aspinall
+    Date: March 19, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Women's Flyweight
+    
+
+    Result: MOLLY MCCANN defeated LUANA CAROLINA via KO/TKO  
+  at 1:52 of round 3
+  Key stats:
+  - MOLLY MCCANN landed 85 significant strikes
+  - LUANA CAROLINA landed 64 significant strikes
+  - Knockdowns: MOLLY MCCANN 1,  LUANA CAROLINA 0
+  - Takedowns: MOLLY MCCANN 2,  LUANA CAROLINA 0
+  Bonus: perf

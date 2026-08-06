@@ -1,0 +1,11 @@
+Fighter: MASON JONES
+  Date of Birth: 1995-04-26
+  Career record: 6
+  First fight: 2021-01-20
+  Last fight: 2026-03-21
+
+Career Statistics:
+- Significant Strikes Landed :495
+- Total takedowns landed :19
+- Knockdowns :1
+- Submission Attempts :1

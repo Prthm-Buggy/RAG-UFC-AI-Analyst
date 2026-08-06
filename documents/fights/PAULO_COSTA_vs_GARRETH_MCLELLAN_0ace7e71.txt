@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Belfort vs. Gastelum
+    Date: March 11, 2017
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: PAULO COSTA defeated GARRETH MCLELLAN via KO/TKO  
+  at 1:17 of round 1
+  Key stats:
+  - PAULO COSTA landed 22 significant strikes
+  - GARRETH MCLELLAN landed 6 significant strikes
+  - Knockdowns: PAULO COSTA 1,  GARRETH MCLELLAN 0
+  - Takedowns: PAULO COSTA 0,  GARRETH MCLELLAN 0
+  Bonus: perf

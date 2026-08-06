@@ -1,0 +1,11 @@
+Fighter: MAURICE GREENE
+  Date of Birth: 1986-07-05
+  Career record: 8
+  First fight: 2018-11-30
+  Last fight: 2021-05-08
+
+Career Statistics:
+- Significant Strikes Landed :222
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :2

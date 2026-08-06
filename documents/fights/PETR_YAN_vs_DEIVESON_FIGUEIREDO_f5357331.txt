@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yan vs. Figueiredo
+    Date: November 23, 2024
+    Location: Macau, China
+    Weight Class: Bantamweight
+    
+
+    Result: PETR YAN defeated DEIVESON FIGUEIREDO via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - PETR YAN landed 121 significant strikes
+  - DEIVESON FIGUEIREDO landed 53 significant strikes
+  - Knockdowns: PETR YAN 0,  DEIVESON FIGUEIREDO 0
+  - Takedowns: PETR YAN 1,  DEIVESON FIGUEIREDO 2

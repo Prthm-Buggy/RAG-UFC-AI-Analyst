@@ -1,0 +1,13 @@
+Event: UFC 43: Meltdown
+    Date: June 06, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANK MIR defeated WES SIMS via DQ  
+  at 2:55 of round 1
+  Key stats:
+  - FRANK MIR landed 4 significant strikes
+  - WES SIMS landed 1 significant strikes
+  - Knockdowns: FRANK MIR 0,  WES SIMS 0
+  - Takedowns: FRANK MIR 1,  WES SIMS 0

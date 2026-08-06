@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vettori vs. Holland
+    Date: April 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JULIAN MARQUEZ defeated SAM ALVEY via Submission  
+  at 2:07 of round 2
+  Key stats:
+  - JULIAN MARQUEZ landed 61 significant strikes
+  - SAM ALVEY landed 29 significant strikes
+  - Knockdowns: JULIAN MARQUEZ 1,  SAM ALVEY 0
+  - Takedowns: JULIAN MARQUEZ 0,  SAM ALVEY 0
+  Bonus: fight

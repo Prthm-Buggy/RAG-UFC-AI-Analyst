@@ -1,0 +1,14 @@
+Event: UFC 294: Makhachev vs. Volkanovski 2
+    Date: October 21, 2023
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: IKRAM ALISKEROV defeated WARLLEY ALVES via KO/TKO  
+  at 2:07 of round 1
+  Key stats:
+  - IKRAM ALISKEROV landed 26 significant strikes
+  - WARLLEY ALVES landed 12 significant strikes
+  - Knockdowns: IKRAM ALISKEROV 1,  WARLLEY ALVES 0
+  - Takedowns: IKRAM ALISKEROV 0,  WARLLEY ALVES 0
+  Bonus: perf

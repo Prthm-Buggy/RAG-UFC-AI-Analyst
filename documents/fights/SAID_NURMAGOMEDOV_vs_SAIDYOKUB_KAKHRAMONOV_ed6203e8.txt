@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cannonier vs. Strickland
+    Date: December 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SAID NURMAGOMEDOV defeated SAIDYOKUB KAKHRAMONOV via Submission  
+  at 3:50 of round 2
+  Key stats:
+  - SAID NURMAGOMEDOV landed 7 significant strikes
+  - SAIDYOKUB KAKHRAMONOV landed 11 significant strikes
+  - Knockdowns: SAID NURMAGOMEDOV 0,  SAIDYOKUB KAKHRAMONOV 0
+  - Takedowns: SAID NURMAGOMEDOV 0,  SAIDYOKUB KAKHRAMONOV 5

@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Nogueira vs. Werdum
+    Date: June 08, 2013
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: LEONARDO SANTOS defeated WILLIAM MACARIO via Submission  
+  at 4:43 of round 2
+  Key stats:
+  - LEONARDO SANTOS landed 22 significant strikes
+  - WILLIAM MACARIO landed 35 significant strikes
+  - Knockdowns: LEONARDO SANTOS 0,  WILLIAM MACARIO 0
+  - Takedowns: LEONARDO SANTOS 1,  WILLIAM MACARIO 2
+  Bonus: belt

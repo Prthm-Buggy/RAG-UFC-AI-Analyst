@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Oezdemir vs. Smith
+    Date: October 27, 2018
+    Location: Moncton, New Brunswick, Canada
+    Weight Class: Lightweight
+    
+
+    Result: DON MADGE defeated TE EDWARDS via KO/TKO  
+  at 0:14 of round 2
+  Key stats:
+  - DON MADGE landed 21 significant strikes
+  - TE EDWARDS landed 5 significant strikes
+  - Knockdowns: DON MADGE 2,  TE EDWARDS 0
+  - Takedowns: DON MADGE 0,  TE EDWARDS 1
+  Bonus: perf

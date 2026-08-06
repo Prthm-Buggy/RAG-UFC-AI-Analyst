@@ -1,0 +1,11 @@
+Fighter: LUANA PINHEIRO
+  Date of Birth: 1992-11-18
+  Career record: 7
+  First fight: 2021-05-01
+  Last fight: 2025-05-17
+
+Career Statistics:
+- Significant Strikes Landed :287
+- Total takedowns landed :14
+- Knockdowns :1
+- Submission Attempts :1

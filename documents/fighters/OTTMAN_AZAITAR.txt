@@ -1,0 +1,11 @@
+Fighter: OTTMAN AZAITAR
+  Date of Birth: 1990-02-20
+  Career record: 5
+  First fight: 2019-09-07
+  Last fight: 2024-12-14
+
+Career Statistics:
+- Significant Strikes Landed :83
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

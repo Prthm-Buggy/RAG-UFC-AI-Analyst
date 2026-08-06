@@ -1,0 +1,13 @@
+Event: UFC 163: Aldo vs Jung
+    Date: August 03, 2013
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: VISCARDI ANDRADE defeated BRISTOL MARUNDE via KO/TKO  
+  at 1:36 of round 1
+  Key stats:
+  - VISCARDI ANDRADE landed 12 significant strikes
+  - BRISTOL MARUNDE landed 0 significant strikes
+  - Knockdowns: VISCARDI ANDRADE 1,  BRISTOL MARUNDE 0
+  - Takedowns: VISCARDI ANDRADE 0,  BRISTOL MARUNDE 0

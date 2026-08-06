@@ -1,0 +1,14 @@
+Event: UFC 138: Leben vs Munoz
+    Date: November 05, 2011
+    Location: Birmingham, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: CHE MILLS defeated CHRIS COPE via KO/TKO  
+  at 0:40 of round 1
+  Key stats:
+  - CHE MILLS landed 11 significant strikes
+  - CHRIS COPE landed 1 significant strikes
+  - Knockdowns: CHE MILLS 2,  CHRIS COPE 0
+  - Takedowns: CHE MILLS 0,  CHRIS COPE 0
+  Bonus: ko

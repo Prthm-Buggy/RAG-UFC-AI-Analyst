@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Gustafsson vs. Teixeira
+    Date : May 28, 2017
+    Location: Stockholm, Sweden
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Light Heavyweight, Welterweight, Middleweight, Lightweight
+
+    Fight Results:
+  - JOAQUIM SILVA def. REZA MADADI via Decision - Split(R3)
+- VOLKAN OEZDEMIR def. MISHA CIRKUNOV via KO/TKO(R1)
+- DARREN TILL def. JESSIN AYARI via Decision - Unanimous(R3)
+- DAMIR HADZOVIC def. MARCIN HELD via KO/TKO(R3)
+- PEDRO MUNHOZ def. DAMIAN STASIAK via Decision - Unanimous(R3)
+- NORDINE TALEB def. OLIVER ENKAMP via Decision - Unanimous(R3)
+- BOJAN VELICKOVIC def. NICHOLAS MUSOKE via KO/TKO(R3)
+- OMARI AKHMEDOV def. ABDUL RAZAK ALHASSAN via Decision - Split(R3)
+- ALEXANDER GUSTAFSSON def. GLOVER TEIXEIRA via KO/TKO(R5)
+- PETER SOBOTTA def. BEN SAUNDERS via KO/TKO(R2)
+- TREVOR SMITH def. CHRIS CAMOZZI via Decision - Unanimous(R3)
+- JACK HERMANSSON def. ALEX NICHOLSON via KO/TKO(R1)

@@ -1,0 +1,14 @@
+Event: UFC 88: Breakthrough
+    Date: September 06, 2008
+    Location: Atlanta, Georgia, USA
+    Weight Class: Lightweight
+    
+
+    Result: KURT PELLEGRINO defeated THIAGO TAVARES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KURT PELLEGRINO landed 61 significant strikes
+  - THIAGO TAVARES landed 18 significant strikes
+  - Knockdowns: KURT PELLEGRINO 2,  THIAGO TAVARES 0
+  - Takedowns: KURT PELLEGRINO 1,  THIAGO TAVARES 1
+  Bonus: fight

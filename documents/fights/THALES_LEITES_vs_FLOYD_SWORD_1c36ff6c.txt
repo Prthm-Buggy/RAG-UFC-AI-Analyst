@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Pulver vs. Team Penn Finale
+    Date: June 23, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: THALES LEITES defeated FLOYD SWORD via Submission  
+  at 3:50 of round 1
+  Key stats:
+  - THALES LEITES landed 6 significant strikes
+  - FLOYD SWORD landed 3 significant strikes
+  - Knockdowns: THALES LEITES 0,  FLOYD SWORD 0
+  - Takedowns: THALES LEITES 2,  FLOYD SWORD 0

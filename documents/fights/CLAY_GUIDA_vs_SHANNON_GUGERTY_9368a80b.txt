@@ -1,0 +1,14 @@
+Event: UFC Live: Vera vs Jones
+    Date: March 21, 2010
+    Location: Broomfield, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: CLAY GUIDA defeated SHANNON GUGERTY via Submission  
+  at 3:40 of round 2
+  Key stats:
+  - CLAY GUIDA landed 14 significant strikes
+  - SHANNON GUGERTY landed 1 significant strikes
+  - Knockdowns: CLAY GUIDA 0,  SHANNON GUGERTY 0
+  - Takedowns: CLAY GUIDA 2,  SHANNON GUGERTY 0
+  Bonus: sub

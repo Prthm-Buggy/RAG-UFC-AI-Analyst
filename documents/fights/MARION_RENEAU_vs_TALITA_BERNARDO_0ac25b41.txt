@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Volkov vs. Struve
+    Date: September 02, 2017
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MARION RENEAU defeated TALITA BERNARDO via KO/TKO  
+  at 4:54 of round 3
+  Key stats:
+  - MARION RENEAU landed 57 significant strikes
+  - TALITA BERNARDO landed 22 significant strikes
+  - Knockdowns: MARION RENEAU 0,  TALITA BERNARDO 0
+  - Takedowns: MARION RENEAU 0,  TALITA BERNARDO 3

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Dillashaw
+    Date: July 24, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: SIJARA EUBANKS defeated ELISE REED via KO/TKO  
+  at 3:49 of round 1
+  Key stats:
+  - SIJARA EUBANKS landed 22 significant strikes
+  - ELISE REED landed 1 significant strikes
+  - Knockdowns: SIJARA EUBANKS 0,  ELISE REED 0
+  - Takedowns: SIJARA EUBANKS 1,  ELISE REED 0

@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Diaz vs Guillard
+    Date : September 16, 2009
+    Location: Oklahoma City, Oklahoma, USA
+    Number of Fights: 10
+    Weight Classes: Welterweight, Lightweight, Middleweight, Light Heavyweight
+
+    Fight Results:
+  - GRAY MAYNARD def. ROGER HUERTA via Decision - Split(R3)
+- JEREMY STEPHENS def. JUSTIN BUCHHOLZ via TKO - Doctor's Stoppage(R1)
+- MIKE PYLE def. CHRIS WILSON via Submission(R3)
+- BRIAN STANN def. STEVE CANTWELL via Decision - Unanimous(R3)
+- MIKE PIERCE def. BROCK LARSON via Decision - Unanimous(R3)
+- NATE QUARRY def. TIM CREDEUR via Decision - Unanimous(R3)
+- CARLOS CONDIT def. JAKE ELLENBERGER via Decision - Split(R3)
+- NATE DIAZ def. MELVIN GUILLARD via Submission(R2)
+- CB DOLLAWAY def. JAY SILVA via Decision - Unanimous(R3)
+- RYAN JENSEN def. STEVE STEINBEISS via Submission(R1)

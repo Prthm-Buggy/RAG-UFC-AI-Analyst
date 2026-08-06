@@ -1,0 +1,13 @@
+Event: UFC 87: Seek And Destroy
+    Date: August 09, 2008
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHEICK KONGO defeated DAN EVENSEN via KO/TKO  
+  at 4:55 of round 1
+  Key stats:
+  - CHEICK KONGO landed 23 significant strikes
+  - DAN EVENSEN landed 2 significant strikes
+  - Knockdowns: CHEICK KONGO 1,  DAN EVENSEN 0
+  - Takedowns: CHEICK KONGO 2,  DAN EVENSEN 0

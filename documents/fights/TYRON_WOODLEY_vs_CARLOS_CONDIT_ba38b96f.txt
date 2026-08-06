@@ -1,0 +1,13 @@
+Event: UFC 171: Hendricks vs Lawler
+    Date: March 15, 2014
+    Location: Dallas, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: TYRON WOODLEY defeated CARLOS CONDIT via KO/TKO  
+  at 2:00 of round 2
+  Key stats:
+  - TYRON WOODLEY landed 14 significant strikes
+  - CARLOS CONDIT landed 13 significant strikes
+  - Knockdowns: TYRON WOODLEY 1,  CARLOS CONDIT 0
+  - Takedowns: TYRON WOODLEY 3,  CARLOS CONDIT 0

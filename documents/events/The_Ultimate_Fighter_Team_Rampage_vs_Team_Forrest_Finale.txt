@@ -1,0 +1,17 @@
+Event : The Ultimate Fighter: Team Rampage vs Team Forrest Finale
+    Date : June 21, 2008
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Middleweight, Welterweight, Lightweight
+
+    Fight Results:
+  - DIEGO SANCHEZ def. LUIGI FIORAVANTI via KO/TKO(R3)
+- MATT BROWN def. MATT ARROYO via KO/TKO(R2)
+- AMIR SADOLLAH def. CB DOLLAWAY via Submission(R1)
+- DREW MCFEDRIES def. MARVIN EASTMAN via KO/TKO(R1)
+- KENDALL GROVE def. EVAN TANNER via Decision - Split(R3)
+- DEAN LISTER def. JEREMY HORN via Submission(R1)
+- DUSTIN HAZELETT def. JOSHUA BURKMAN via Submission(R2)
+- SPENCER FISHER def. JEREMY STEPHENS via Decision - Unanimous(R3)
+- MATTHEW RIDDLE def. DANTE RIVERA via Decision - Unanimous(R3)
+- ROB KIMMONS def. ROB YUNDT via Submission(R1)

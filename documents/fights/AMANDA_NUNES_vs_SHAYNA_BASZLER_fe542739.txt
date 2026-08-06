@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs LaFlare
+    Date: March 21, 2015
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AMANDA NUNES defeated SHAYNA BASZLER via KO/TKO  
+  at 1:56 of round 1
+  Key stats:
+  - AMANDA NUNES landed 15 significant strikes
+  - SHAYNA BASZLER landed 1 significant strikes
+  - Knockdowns: AMANDA NUNES 1,  SHAYNA BASZLER 0
+  - Takedowns: AMANDA NUNES 0,  SHAYNA BASZLER 0

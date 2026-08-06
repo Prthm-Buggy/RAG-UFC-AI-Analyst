@@ -1,0 +1,13 @@
+Event: UFC 228: Woodley vs. Till
+    Date: September 08, 2018
+    Location: Dallas, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: ZABIT MAGOMEDSHARIPOV defeated BRANDON DAVIS via Submission  
+  at 3:46 of round 2
+  Key stats:
+  - ZABIT MAGOMEDSHARIPOV landed 38 significant strikes
+  - BRANDON DAVIS landed 27 significant strikes
+  - Knockdowns: ZABIT MAGOMEDSHARIPOV 0,  BRANDON DAVIS 0
+  - Takedowns: ZABIT MAGOMEDSHARIPOV 6,  BRANDON DAVIS 0

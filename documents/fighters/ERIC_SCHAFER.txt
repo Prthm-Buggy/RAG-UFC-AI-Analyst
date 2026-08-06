@@ -1,0 +1,11 @@
+Fighter: ERIC SCHAFER
+  Date of Birth: 1977-09-20
+  Career record: 9
+  First fight: 2006-08-26
+  Last fight: 2012-01-20
+
+Career Statistics:
+- Significant Strikes Landed :141
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :9

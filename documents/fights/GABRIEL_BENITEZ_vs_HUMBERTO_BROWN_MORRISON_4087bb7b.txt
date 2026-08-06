@@ -1,0 +1,13 @@
+Event: UFC 180: Werdum vs Hunt
+    Date: November 15, 2014
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Featherweight
+    
+
+    Result: GABRIEL BENITEZ defeated HUMBERTO BROWN MORRISON via Submission  
+  at 0:30 of round 3
+  Key stats:
+  - GABRIEL BENITEZ landed 23 significant strikes
+  - HUMBERTO BROWN MORRISON landed 18 significant strikes
+  - Knockdowns: GABRIEL BENITEZ 0,  HUMBERTO BROWN MORRISON 0
+  - Takedowns: GABRIEL BENITEZ 0,  HUMBERTO BROWN MORRISON 1

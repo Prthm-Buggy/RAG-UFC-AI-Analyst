@@ -1,0 +1,13 @@
+Event: UFC 82: Pride of a Champion
+    Date: March 01, 2008
+    Location: Columbus, Ohio, USA
+    Weight Class: Middleweight
+    
+
+    Result: YUSHIN OKAMI defeated EVAN TANNER via KO/TKO  
+  at 3:00 of round 2
+  Key stats:
+  - YUSHIN OKAMI landed 26 significant strikes
+  - EVAN TANNER landed 19 significant strikes
+  - Knockdowns: YUSHIN OKAMI 2,  EVAN TANNER 0
+  - Takedowns: YUSHIN OKAMI 0,  EVAN TANNER 1

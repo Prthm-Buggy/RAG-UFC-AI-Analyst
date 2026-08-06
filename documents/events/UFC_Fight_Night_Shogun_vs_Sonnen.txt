@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Shogun vs Sonnen
+    Date : August 17, 2013
+    Location: Boston, Massachusetts, USA
+    Number of Fights: 13
+    Weight Classes: Featherweight, Middleweight, Lightweight, Light Heavyweight, Welterweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - OVINCE SAINT PREUX def. CODY DONOVAN via KO/TKO(R1)
+- MICHAEL JOHNSON def. JOE LAUZON via Decision - Unanimous(R3)
+- CONOR MCGREGOR def. MAX HOLLOWAY via Decision - Unanimous(R3)
+- STEVEN SILER def. MIKE BROWN via KO/TKO(R1)
+- URIJAH FABER def. IURI ALCANTARA via Decision - Unanimous(R3)
+- DIEGO BRANDAO def. DANIEL PINEDA via Decision - Unanimous(R3)
+- MATT BROWN def. MIKE PYLE via KO/TKO(R1)
+- JAMES VICK def. RAMSEY NIJEM via Submission(R1)
+- MICHAEL MCDONALD def. BRAD PICKETT via Submission(R2)
+- JOHN HOWARD def. URIAH HALL via Decision - Split(R3)
+- MANVEL GAMBURYAN def. COLE MILLER via Decision - Unanimous(R3)
+- TRAVIS BROWNE def. ALISTAIR OVEREEM via KO/TKO(R1)
+- CHAEL SONNEN def. MAURICIO RUA via Submission(R1)

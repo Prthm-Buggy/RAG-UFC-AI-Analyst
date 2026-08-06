@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hermansson vs. Vettori
+    Date: December 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JORDAN LEAVITT defeated MATT WIMAN via KO/TKO  
+  at 0:22 of round 1
+  Key stats:
+  - JORDAN LEAVITT landed 1 significant strikes
+  - MATT WIMAN landed 0 significant strikes
+  - Knockdowns: JORDAN LEAVITT 0,  MATT WIMAN 0
+  - Takedowns: JORDAN LEAVITT 1,  MATT WIMAN 0
+  Bonus: perf

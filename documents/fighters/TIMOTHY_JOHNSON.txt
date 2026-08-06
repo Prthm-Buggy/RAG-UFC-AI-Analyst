@@ -1,0 +1,11 @@
+Fighter: TIMOTHY JOHNSON
+  Date of Birth: 1985-03-13
+  Career record: 7
+  First fight: 2015-04-04
+  Last fight: 2018-02-03
+
+Career Statistics:
+- Significant Strikes Landed :284
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :0

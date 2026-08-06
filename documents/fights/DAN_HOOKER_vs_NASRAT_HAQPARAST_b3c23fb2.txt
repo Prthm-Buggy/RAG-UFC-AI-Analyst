@@ -1,0 +1,13 @@
+Event: UFC 266: Volkanovski vs. Ortega
+    Date: September 25, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DAN HOOKER defeated NASRAT HAQPARAST via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DAN HOOKER landed 73 significant strikes
+  - NASRAT HAQPARAST landed 27 significant strikes
+  - Knockdowns: DAN HOOKER 0,  NASRAT HAQPARAST 0
+  - Takedowns: DAN HOOKER 3,  NASRAT HAQPARAST 0

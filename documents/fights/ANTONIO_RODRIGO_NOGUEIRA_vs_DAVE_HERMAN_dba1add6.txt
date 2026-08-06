@@ -1,0 +1,14 @@
+Event: UFC 153: Silva vs Bonnar
+    Date: October 13, 2012
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: ANTONIO RODRIGO NOGUEIRA defeated DAVE HERMAN via Submission  
+  at 4:31 of round 2
+  Key stats:
+  - ANTONIO RODRIGO NOGUEIRA landed 20 significant strikes
+  - DAVE HERMAN landed 13 significant strikes
+  - Knockdowns: ANTONIO RODRIGO NOGUEIRA 1,  DAVE HERMAN 0
+  - Takedowns: ANTONIO RODRIGO NOGUEIRA 1,  DAVE HERMAN 2
+  Bonus: sub

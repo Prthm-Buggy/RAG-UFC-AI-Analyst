@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blachowicz vs. Rakic
+    Date: May 14, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDRE PETROSKI defeated NICK MAXIMOV via Submission  
+  at 1:16 of round 1
+  Key stats:
+  - ANDRE PETROSKI landed 1 significant strikes
+  - NICK MAXIMOV landed 4 significant strikes
+  - Knockdowns: ANDRE PETROSKI 0,  NICK MAXIMOV 0
+  - Takedowns: ANDRE PETROSKI 0,  NICK MAXIMOV 0

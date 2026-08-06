@@ -1,0 +1,11 @@
+Fighter: DUSTIN JACOBY
+  Date of Birth: 1988-04-04
+  Career record: 16
+  First fight: 2011-10-29
+  Last fight: 2026-02-07
+
+Career Statistics:
+- Significant Strikes Landed :817
+- Total takedowns landed :2
+- Knockdowns :7
+- Submission Attempts :0

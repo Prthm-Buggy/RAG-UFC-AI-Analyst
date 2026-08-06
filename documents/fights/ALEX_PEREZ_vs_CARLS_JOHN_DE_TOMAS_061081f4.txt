@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swanson vs. Ortega
+    Date: December 09, 2017
+    Location: Fresno, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALEX PEREZ defeated CARLS JOHN DE TOMAS via Submission  
+  at 1:54 of round 2
+  Key stats:
+  - ALEX PEREZ landed 24 significant strikes
+  - CARLS JOHN DE TOMAS landed 8 significant strikes
+  - Knockdowns: ALEX PEREZ 0,  CARLS JOHN DE TOMAS 0
+  - Takedowns: ALEX PEREZ 2,  CARLS JOHN DE TOMAS 0

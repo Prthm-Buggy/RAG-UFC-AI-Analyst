@@ -1,0 +1,13 @@
+Event: UFC 85: Bedlam
+    Date: June 07, 2008
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: LUIZ CANE defeated JASON LAMBERT via KO/TKO  
+  at 2:07 of round 1
+  Key stats:
+  - LUIZ CANE landed 15 significant strikes
+  - JASON LAMBERT landed 8 significant strikes
+  - Knockdowns: LUIZ CANE 3,  JASON LAMBERT 0
+  - Takedowns: LUIZ CANE 0,  JASON LAMBERT 0

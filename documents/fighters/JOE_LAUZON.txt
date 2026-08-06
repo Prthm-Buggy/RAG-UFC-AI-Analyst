@@ -1,0 +1,11 @@
+Fighter: JOE LAUZON
+  Date of Birth: 1984-05-22
+  Career record: 27
+  First fight: 2006-09-23
+  Last fight: 2019-10-18
+
+Career Statistics:
+- Significant Strikes Landed :605
+- Total takedowns landed :34
+- Knockdowns :3
+- Submission Attempts :29

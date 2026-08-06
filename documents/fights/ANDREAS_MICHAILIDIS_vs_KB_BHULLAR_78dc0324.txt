@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Reyes vs. Prochazka
+    Date: May 01, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDREAS MICHAILIDIS defeated KB BHULLAR via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ANDREAS MICHAILIDIS landed 73 significant strikes
+  - KB BHULLAR landed 70 significant strikes
+  - Knockdowns: ANDREAS MICHAILIDIS 0,  KB BHULLAR 0
+  - Takedowns: ANDREAS MICHAILIDIS 1,  KB BHULLAR 0

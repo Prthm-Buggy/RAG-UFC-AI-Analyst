@@ -1,0 +1,13 @@
+Event: UFC 18: The Road to the Heavyweight Title
+    Date: January 08, 1999
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: EVAN TANNER defeated DARREL GHOLAR via Submission  
+  at 7:57 of round 1
+  Key stats:
+  - EVAN TANNER landed 24 significant strikes
+  - DARREL GHOLAR landed 4 significant strikes
+  - Knockdowns: EVAN TANNER 0,  DARREL GHOLAR 0
+  - Takedowns: EVAN TANNER 1,  DARREL GHOLAR 1

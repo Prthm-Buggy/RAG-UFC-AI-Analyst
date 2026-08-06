@@ -1,0 +1,11 @@
+Fighter: JAN BLACHOWICZ
+  Date of Birth: 1983-02-24
+  Career record: 20
+  First fight: 2014-10-04
+  Last fight: 2025-03-22
+
+Career Statistics:
+- Significant Strikes Landed :898
+- Total takedowns landed :19
+- Knockdowns :6
+- Submission Attempts :6

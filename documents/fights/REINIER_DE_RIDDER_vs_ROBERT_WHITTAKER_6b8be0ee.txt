@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Whittaker vs. De Ridder
+    Date: July 26, 2025
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: REINIER DE RIDDER defeated ROBERT WHITTAKER via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - REINIER DE RIDDER landed 67 significant strikes
+  - ROBERT WHITTAKER landed 66 significant strikes
+  - Knockdowns: REINIER DE RIDDER 0,  ROBERT WHITTAKER 1
+  - Takedowns: REINIER DE RIDDER 2,  ROBERT WHITTAKER 0

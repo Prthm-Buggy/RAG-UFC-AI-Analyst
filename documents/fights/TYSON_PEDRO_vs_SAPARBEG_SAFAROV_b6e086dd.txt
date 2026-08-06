@@ -1,0 +1,13 @@
+Event: UFC 221: Romero vs. Rockhold
+    Date: February 10, 2018
+    Location: Perth, Western Australia, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: TYSON PEDRO defeated SAPARBEG SAFAROV via Submission  
+  at 3:54 of round 1
+  Key stats:
+  - TYSON PEDRO landed 12 significant strikes
+  - SAPARBEG SAFAROV landed 8 significant strikes
+  - Knockdowns: TYSON PEDRO 0,  SAPARBEG SAFAROV 0
+  - Takedowns: TYSON PEDRO 0,  SAPARBEG SAFAROV 2

@@ -1,0 +1,11 @@
+Fighter: TJ GRANT
+  Date of Birth: 1984-02-26
+  Career record: 11
+  First fight: 2009-04-18
+  Last fight: 2013-05-25
+
+Career Statistics:
+- Significant Strikes Landed :510
+- Total takedowns landed :14
+- Knockdowns :5
+- Submission Attempts :5

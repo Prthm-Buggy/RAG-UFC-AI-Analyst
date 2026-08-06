@@ -1,0 +1,13 @@
+Event: UFC Fight Night: MacDonald vs Thompson
+    Date: June 18, 2016
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: MISHA CIRKUNOV defeated ION CUTELABA via Submission  
+  at 1:22 of round 3
+  Key stats:
+  - MISHA CIRKUNOV landed 44 significant strikes
+  - ION CUTELABA landed 24 significant strikes
+  - Knockdowns: MISHA CIRKUNOV 0,  ION CUTELABA 0
+  - Takedowns: MISHA CIRKUNOV 1,  ION CUTELABA 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bonfim vs. Brown
+    Date: November 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: DENISE GOMES defeated TECIA PENNINGTON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DENISE GOMES landed 53 significant strikes
+  - TECIA PENNINGTON landed 58 significant strikes
+  - Knockdowns: DENISE GOMES 0,  TECIA PENNINGTON 0
+  - Takedowns: DENISE GOMES 3,  TECIA PENNINGTON 1

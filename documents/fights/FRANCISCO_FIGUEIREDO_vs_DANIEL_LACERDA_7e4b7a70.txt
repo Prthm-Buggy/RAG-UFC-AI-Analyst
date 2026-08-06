@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Font vs. Vera
+    Date: April 30, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: FRANCISCO FIGUEIREDO defeated DANIEL LACERDA via Submission  
+  at 1:18 of round 1
+  Key stats:
+  - FRANCISCO FIGUEIREDO landed 5 significant strikes
+  - DANIEL LACERDA landed 4 significant strikes
+  - Knockdowns: FRANCISCO FIGUEIREDO 0,  DANIEL LACERDA 0
+  - Takedowns: FRANCISCO FIGUEIREDO 0,  DANIEL LACERDA 1
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC 147: Silva vs Franklin 2
+    Date: June 23, 2012
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: RODRIGO DAMM defeated ANISTAVIO MEDEIROS via Submission  
+  at 2:12 of round 1
+  Key stats:
+  - RODRIGO DAMM landed 11 significant strikes
+  - ANISTAVIO MEDEIROS landed 8 significant strikes
+  - Knockdowns: RODRIGO DAMM 0,  ANISTAVIO MEDEIROS 0
+  - Takedowns: RODRIGO DAMM 0,  ANISTAVIO MEDEIROS 0
+  Bonus: sub

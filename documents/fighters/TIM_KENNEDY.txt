@@ -1,0 +1,11 @@
+Fighter: TIM KENNEDY
+  Date of Birth: 1979-09-01
+  Career record: 5
+  First fight: 2013-07-06
+  Last fight: 2016-12-10
+
+Career Statistics:
+- Significant Strikes Landed :193
+- Total takedowns landed :10
+- Knockdowns :1
+- Submission Attempts :1

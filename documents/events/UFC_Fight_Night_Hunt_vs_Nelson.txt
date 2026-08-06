@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Hunt vs Nelson
+    Date : September 20, 2014
+    Location: Saitama, Japan
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Featherweight, Flyweight, Welterweight, Women's Bantamweight, Lightweight
+
+    Fight Results:
+  - MASANORI KANEHARA def. ALEX CACERES via Decision - Unanimous(R3)
+- JOHNNY CASE def. KAZUKI TOKUDOME via Submission(R2)
+- KYUNG HO KANG def. MICHINORI TANAKA via Decision - Split(R3)
+- YOSHIHIRO AKIYAMA def. AMIR SADOLLAH via Decision - Unanimous(R3)
+- KIICHI KUNIMOTO def. RICHARD WALSH via Decision - Split(R3)
+- MYLES JURY def. TAKANORI GOMI via KO/TKO(R1)
+- KATSUNORI KIKUNO def. SAM SICILIA via Submission(R2)
+- MARK HUNT def. ROY NELSON via KO/TKO(R2)
+- MAXIMO BLANCO def. DAN HOOKER via Decision - Unanimous(R3)
+- KYOJI HORIGUCHI def. JON DELOS REYES via KO/TKO(R1)
+- MIESHA TATE def. RIN NAKAI via Decision - Unanimous(R3)
+- HYUN GYU LIM def. TAKENORI SATO via KO/TKO(R1)

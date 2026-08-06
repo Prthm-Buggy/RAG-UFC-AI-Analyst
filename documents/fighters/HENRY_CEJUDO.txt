@@ -1,0 +1,11 @@
+Fighter: HENRY CEJUDO
+  Date of Birth: 1987-02-09
+  Career record: 16
+  First fight: 2014-12-13
+  Last fight: 2025-12-06
+
+Career Statistics:
+- Significant Strikes Landed :838
+- Total takedowns landed :26
+- Knockdowns :5
+- Submission Attempts :2

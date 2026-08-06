@@ -1,0 +1,17 @@
+Event : UFC 96: Jackson vs Jardine
+    Date : March 07, 2009
+    Location: Columbus, Ohio, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Light Heavyweight, Welterweight, Middleweight, Lightweight
+
+    Fight Results:
+  - MATT BROWN def. PETE SELL via KO/TKO(R1)
+- KENDALL GROVE def. JASON DAY via KO/TKO(R1)
+- QUINTON JACKSON def. KEITH JARDINE via Decision - Unanimous(R3)
+- MATT HAMILL def. MARK MUNOZ via KO/TKO(R1)
+- SHANE NELSON def. AARON RILEY via KO/TKO(R1)
+- SHANE CARWIN def. GABRIEL GONZAGA via KO/TKO(R1)
+- GRAY MAYNARD def. JIM MILLER via Decision - Unanimous(R3)
+- JASON BRILZ def. TIM BOETSCH via Decision - Unanimous(R3)
+- TAMDAN MCCRORY def. RYAN MADIGAN via KO/TKO(R1)
+- BRANDON VERA def. MICHAEL PATT via KO/TKO(R2)

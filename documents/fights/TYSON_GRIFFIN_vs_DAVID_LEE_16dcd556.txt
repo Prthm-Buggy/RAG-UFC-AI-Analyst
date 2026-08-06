@@ -1,0 +1,14 @@
+Event: UFC 63: Hughes vs Penn
+    Date: September 23, 2006
+    Location: Anaheim, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: TYSON GRIFFIN defeated DAVID LEE via Submission  
+  at 1:50 of round 1
+  Key stats:
+  - TYSON GRIFFIN landed 0 significant strikes
+  - DAVID LEE landed 1 significant strikes
+  - Knockdowns: TYSON GRIFFIN 0,  DAVID LEE 0
+  - Takedowns: TYSON GRIFFIN 1,  DAVID LEE 0
+  Bonus: sub

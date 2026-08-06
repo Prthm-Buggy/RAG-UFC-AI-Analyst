@@ -1,0 +1,13 @@
+Event: UFC 269: Oliveira vs. Poirier
+    Date: December 11, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TONY KELLEY defeated RANDY COSTA via KO/TKO  
+  at 4:15 of round 2
+  Key stats:
+  - TONY KELLEY landed 82 significant strikes
+  - RANDY COSTA landed 31 significant strikes
+  - Knockdowns: TONY KELLEY 0,  RANDY COSTA 0
+  - Takedowns: TONY KELLEY 0,  RANDY COSTA 0

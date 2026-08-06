@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gaethje vs. Vick
+    Date: August 25, 2018
+    Location: Lincoln, Nebraska, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RANI YAHYA defeated LUKE SANDERS via Submission  
+  at 1:31 of round 1
+  Key stats:
+  - RANI YAHYA landed 4 significant strikes
+  - LUKE SANDERS landed 2 significant strikes
+  - Knockdowns: RANI YAHYA 0,  LUKE SANDERS 0
+  - Takedowns: RANI YAHYA 0,  LUKE SANDERS 0

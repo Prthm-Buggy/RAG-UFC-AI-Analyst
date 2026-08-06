@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs. Reis
+    Date: April 15, 2017
+    Location: Kansas City, Missouri, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TOM DUQUESNOY defeated PATRICK WILLIAMS via KO/TKO  
+  at 0:28 of round 2
+  Key stats:
+  - TOM DUQUESNOY landed 36 significant strikes
+  - PATRICK WILLIAMS landed 37 significant strikes
+  - Knockdowns: TOM DUQUESNOY 2,  PATRICK WILLIAMS 0
+  - Takedowns: TOM DUQUESNOY 0,  PATRICK WILLIAMS 2

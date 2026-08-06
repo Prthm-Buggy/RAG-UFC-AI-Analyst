@@ -1,0 +1,11 @@
+Fighter: RENATO SOBRAL
+  Date of Birth: 1975-09-07
+  Career record: 10
+  First fight: 2000-11-17
+  Last fight: 2007-08-25
+
+Career Statistics:
+- Significant Strikes Landed :162
+- Total takedowns landed :16
+- Knockdowns :0
+- Submission Attempts :17

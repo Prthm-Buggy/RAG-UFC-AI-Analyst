@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Spivac
+    Date: February 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SERGHEI SPIVAC defeated DERRICK LEWIS via Submission  
+  at 3:05 of round 1
+  Key stats:
+  - SERGHEI SPIVAC landed 12 significant strikes
+  - DERRICK LEWIS landed 0 significant strikes
+  - Knockdowns: SERGHEI SPIVAC 0,  DERRICK LEWIS 0
+  - Takedowns: SERGHEI SPIVAC 6,  DERRICK LEWIS 0
+  Bonus: perf

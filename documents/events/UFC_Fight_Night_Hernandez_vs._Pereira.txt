@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Hernandez vs. Pereira
+    Date : October 19, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Middleweight, Flyweight, Women's Bantamweight, Women's Strawweight, Featherweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - CHARLES JOHNSON def. SUMUDAERJI via Decision - Unanimous(R3)
+- ROB FONT def. KYLER PHILLIPS via Decision - Unanimous(R3)
+- ASU ALMABAYEV def. MATHEUS NICOLAU via Decision - Unanimous(R3)
+- ANTHONY HERNANDEZ def. MICHEL PEREIRA via KO/TKO(R5)
+- JOSELYNE EDWARDS def. TAMIRES VIDAL via Submission(R3)
+- AUSTEN LANE def. ROBELIS DESPAIGNE via Decision - Unanimous(R3)
+- MELISSA MARTINEZ def. ALICE ARDELEAN via Decision - Unanimous(R3)
+- JEAN MATSUMOTO def. BRAD KATONA via Decision - Unanimous(R3)
+- CAMERON SMOTHERMAN def. JAKE HADLEY via Decision - Unanimous(R3)
+- ELISE REED def. JESSICA PENNE via Decision - Unanimous(R3)
+- DARREN ELKINS def. DANIEL PINEDA via Decision - Unanimous(R3)

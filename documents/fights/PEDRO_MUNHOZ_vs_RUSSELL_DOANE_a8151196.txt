@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Anjos vs. Alvarez
+    Date: July 07, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: PEDRO MUNHOZ defeated RUSSELL DOANE via Submission  
+  at 2:08 of round 1
+  Key stats:
+  - PEDRO MUNHOZ landed 14 significant strikes
+  - RUSSELL DOANE landed 18 significant strikes
+  - Knockdowns: PEDRO MUNHOZ 0,  RUSSELL DOANE 0
+  - Takedowns: PEDRO MUNHOZ 1,  RUSSELL DOANE 0
+  Bonus: perf

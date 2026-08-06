@@ -1,0 +1,11 @@
+Fighter: EVAN TANNER
+  Date of Birth: 1971-02-11
+  Career record: 17
+  First fight: 1999-01-08
+  Last fight: 2008-06-21
+
+Career Statistics:
+- Significant Strikes Landed :388
+- Total takedowns landed :21
+- Knockdowns :1
+- Submission Attempts :15

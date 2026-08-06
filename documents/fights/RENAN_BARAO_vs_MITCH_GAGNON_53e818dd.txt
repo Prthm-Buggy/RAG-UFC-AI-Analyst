@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs Dollaway
+    Date: December 20, 2014
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: RENAN BARAO defeated MITCH GAGNON via Submission  
+  at 3:53 of round 3
+  Key stats:
+  - RENAN BARAO landed 59 significant strikes
+  - MITCH GAGNON landed 58 significant strikes
+  - Knockdowns: RENAN BARAO 1,  MITCH GAGNON 0
+  - Takedowns: RENAN BARAO 2,  MITCH GAGNON 0
+  Bonus: perf

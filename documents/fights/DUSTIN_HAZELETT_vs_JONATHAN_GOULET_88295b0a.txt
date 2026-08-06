@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Thomas vs Florian
+    Date: September 19, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DUSTIN HAZELETT defeated JONATHAN GOULET via Submission  
+  at 1:14 of round 1
+  Key stats:
+  - DUSTIN HAZELETT landed 3 significant strikes
+  - JONATHAN GOULET landed 0 significant strikes
+  - Knockdowns: DUSTIN HAZELETT 0,  JONATHAN GOULET 0
+  - Takedowns: DUSTIN HAZELETT 0,  JONATHAN GOULET 1
+  Bonus: sub

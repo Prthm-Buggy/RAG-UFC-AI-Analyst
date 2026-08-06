@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blachowicz vs. Rakic
+    Date: May 14, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: KATLYN CERMINARA defeated AMANDA RIBAS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - KATLYN CERMINARA landed 63 significant strikes
+  - AMANDA RIBAS landed 55 significant strikes
+  - Knockdowns: KATLYN CERMINARA 0,  AMANDA RIBAS 0
+  - Takedowns: KATLYN CERMINARA 0,  AMANDA RIBAS 3
+  Bonus: fight

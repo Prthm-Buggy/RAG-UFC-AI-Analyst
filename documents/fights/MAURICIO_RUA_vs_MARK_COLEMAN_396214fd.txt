@@ -1,0 +1,14 @@
+Event: UFC 93: Franklin vs Henderson
+    Date: January 17, 2009
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAURICIO RUA defeated MARK COLEMAN via KO/TKO  
+  at 4:36 of round 3
+  Key stats:
+  - MAURICIO RUA landed 62 significant strikes
+  - MARK COLEMAN landed 31 significant strikes
+  - Knockdowns: MAURICIO RUA 2,  MARK COLEMAN 0
+  - Takedowns: MAURICIO RUA 1,  MARK COLEMAN 7
+  Bonus: fight

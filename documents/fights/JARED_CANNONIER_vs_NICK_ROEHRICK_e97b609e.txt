@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Redemption Finale
+    Date: July 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JARED CANNONIER defeated NICK ROEHRICK via KO/TKO  
+  at 2:08 of round 3
+  Key stats:
+  - JARED CANNONIER landed 84 significant strikes
+  - NICK ROEHRICK landed 28 significant strikes
+  - Knockdowns: JARED CANNONIER 0,  NICK ROEHRICK 0
+  - Takedowns: JARED CANNONIER 1,  NICK ROEHRICK 0

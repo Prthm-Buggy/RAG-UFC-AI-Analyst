@@ -1,0 +1,13 @@
+Event: UFC 26: Ultimate Field Of Dreams
+    Date: June 09, 2000
+    Location: Cedar Rapids, Iowa, USA
+    Weight Class: Middleweight
+    
+
+    Result: TYRONE ROBERTS defeated DAVID DODD via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TYRONE ROBERTS landed 16 significant strikes
+  - DAVID DODD landed 10 significant strikes
+  - Knockdowns: TYRONE ROBERTS 0,  DAVID DODD 0
+  - Takedowns: TYRONE ROBERTS 1,  DAVID DODD 0

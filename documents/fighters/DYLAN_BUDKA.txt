@@ -1,0 +1,11 @@
+Fighter: DYLAN BUDKA
+  Date of Birth: 2000-01-14
+  Career record: 3
+  First fight: 2024-04-06
+  Last fight: 2025-02-15
+
+Career Statistics:
+- Significant Strikes Landed :19
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

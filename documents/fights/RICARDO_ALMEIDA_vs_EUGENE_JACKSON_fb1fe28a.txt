@@ -1,0 +1,13 @@
+Event: UFC 33: Victory in Vegas
+    Date: September 28, 2001
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: RICARDO ALMEIDA defeated EUGENE JACKSON via Submission  
+  at 4:06 of round 1
+  Key stats:
+  - RICARDO ALMEIDA landed 4 significant strikes
+  - EUGENE JACKSON landed 1 significant strikes
+  - Knockdowns: RICARDO ALMEIDA 0,  EUGENE JACKSON 0
+  - Takedowns: RICARDO ALMEIDA 1,  EUGENE JACKSON 2

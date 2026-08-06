@@ -1,0 +1,11 @@
+Fighter: SHELDON WESTCOTT
+  Date of Birth: 1984-08-20
+  Career record: 3
+  First fight: 2014-04-16
+  Last fight: 2016-01-02
+
+Career Statistics:
+- Significant Strikes Landed :63
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :0

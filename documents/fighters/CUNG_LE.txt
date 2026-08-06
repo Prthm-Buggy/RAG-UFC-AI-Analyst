@@ -1,0 +1,11 @@
+Fighter: CUNG LE
+  Date of Birth: 1972-05-25
+  Career record: 4
+  First fight: 2011-11-19
+  Last fight: 2014-08-23
+
+Career Statistics:
+- Significant Strikes Landed :133
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :0

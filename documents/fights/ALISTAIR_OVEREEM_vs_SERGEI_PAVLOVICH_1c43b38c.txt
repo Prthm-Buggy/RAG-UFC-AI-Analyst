@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Ngannou 2
+    Date: November 24, 2018
+    Location: Beijing, China
+    Weight Class: Heavyweight
+    
+
+    Result: ALISTAIR OVEREEM defeated SERGEI PAVLOVICH via KO/TKO  
+  at 4:21 of round 1
+  Key stats:
+  - ALISTAIR OVEREEM landed 22 significant strikes
+  - SERGEI PAVLOVICH landed 13 significant strikes
+  - Knockdowns: ALISTAIR OVEREEM 0,  SERGEI PAVLOVICH 0
+  - Takedowns: ALISTAIR OVEREEM 1,  SERGEI PAVLOVICH 0

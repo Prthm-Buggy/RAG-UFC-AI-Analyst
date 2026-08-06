@@ -1,0 +1,14 @@
+Event: UFC 297: Strickland vs. Du Plessis
+    Date: January 20, 2024
+    Location: Toronto, Ontario, Canada
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JASMINE JASUDAVICIUS defeated PRISCILA CACHOEIRA via Submission  
+  at 4:21 of round 3
+  Key stats:
+  - JASMINE JASUDAVICIUS landed 93 significant strikes
+  - PRISCILA CACHOEIRA landed 24 significant strikes
+  - Knockdowns: JASMINE JASUDAVICIUS 1,  PRISCILA CACHOEIRA 0
+  - Takedowns: JASMINE JASUDAVICIUS 2,  PRISCILA CACHOEIRA 0
+  Bonus: perf

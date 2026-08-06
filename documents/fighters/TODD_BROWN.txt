@@ -1,0 +1,11 @@
+Fighter: TODD BROWN
+  Date of Birth: 1976-12-13
+  Career record: 2
+  First fight: 2010-08-07
+  Last fight: 2011-03-03
+
+Career Statistics:
+- Significant Strikes Landed :43
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

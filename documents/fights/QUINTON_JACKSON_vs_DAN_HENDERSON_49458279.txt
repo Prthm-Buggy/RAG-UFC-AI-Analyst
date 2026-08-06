@@ -1,0 +1,14 @@
+Event: UFC 75: Champion vs Champion
+    Date: September 08, 2007
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: QUINTON JACKSON defeated DAN HENDERSON via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - QUINTON JACKSON landed 74 significant strikes
+  - DAN HENDERSON landed 60 significant strikes
+  - Knockdowns: QUINTON JACKSON 1,  DAN HENDERSON 0
+  - Takedowns: QUINTON JACKSON 2,  DAN HENDERSON 3
+  Bonus: belt

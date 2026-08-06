@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bisping vs Kennedy
+    Date: April 16, 2014
+    Location: Quebec City, Quebec, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: RYAN JIMMO defeated SEAN O'CONNELL via KO/TKO  
+  at 4:27 of round 1
+  Key stats:
+  - RYAN JIMMO landed 20 significant strikes
+  - SEAN O'CONNELL landed 15 significant strikes
+  - Knockdowns: RYAN JIMMO 1,  SEAN O'CONNELL 0
+  - Takedowns: RYAN JIMMO 1,  SEAN O'CONNELL 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 163: Aldo vs Jung
+    Date: August 03, 2013
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: RANI YAHYA defeated JOSH CLOPTON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RANI YAHYA landed 14 significant strikes
+  - JOSH CLOPTON landed 5 significant strikes
+  - Knockdowns: RANI YAHYA 0,  JOSH CLOPTON 0
+  - Takedowns: RANI YAHYA 2,  JOSH CLOPTON 0

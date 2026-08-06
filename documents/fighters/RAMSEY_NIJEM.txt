@@ -1,0 +1,11 @@
+Fighter: RAMSEY NIJEM
+  Date of Birth: 1988-04-01
+  Career record: 10
+  First fight: 2011-06-04
+  Last fight: 2015-07-25
+
+Career Statistics:
+- Significant Strikes Landed :258
+- Total takedowns landed :30
+- Knockdowns :3
+- Submission Attempts :6

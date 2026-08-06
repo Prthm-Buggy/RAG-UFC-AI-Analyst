@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Rousey vs. Team Tate Finale
+    Date: November 30, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: TOM NIINIMAKI defeated RANI YAHYA via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - TOM NIINIMAKI landed 17 significant strikes
+  - RANI YAHYA landed 15 significant strikes
+  - Knockdowns: TOM NIINIMAKI 0,  RANI YAHYA 0
+  - Takedowns: TOM NIINIMAKI 4,  RANI YAHYA 2

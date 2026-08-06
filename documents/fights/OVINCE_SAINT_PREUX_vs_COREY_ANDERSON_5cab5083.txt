@@ -1,0 +1,14 @@
+Event: UFC 217: Bisping vs. St-Pierre
+    Date: November 04, 2017
+    Location: New York City, New York, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: OVINCE SAINT PREUX defeated COREY ANDERSON via KO/TKO  
+  at 1:25 of round 3
+  Key stats:
+  - OVINCE SAINT PREUX landed 23 significant strikes
+  - COREY ANDERSON landed 30 significant strikes
+  - Knockdowns: OVINCE SAINT PREUX 1,  COREY ANDERSON 0
+  - Takedowns: OVINCE SAINT PREUX 0,  COREY ANDERSON 4
+  Bonus: perf

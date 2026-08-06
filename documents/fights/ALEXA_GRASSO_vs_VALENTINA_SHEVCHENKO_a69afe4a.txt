@@ -1,0 +1,14 @@
+Event: UFC 285: Jones vs. Gane
+    Date: March 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ALEXA GRASSO defeated VALENTINA SHEVCHENKO via Submission  
+  at 4:34 of round 4
+  Key stats:
+  - ALEXA GRASSO landed 59 significant strikes
+  - VALENTINA SHEVCHENKO landed 87 significant strikes
+  - Knockdowns: ALEXA GRASSO 0,  VALENTINA SHEVCHENKO 0
+  - Takedowns: ALEXA GRASSO 0,  VALENTINA SHEVCHENKO 4
+  Bonus: belt

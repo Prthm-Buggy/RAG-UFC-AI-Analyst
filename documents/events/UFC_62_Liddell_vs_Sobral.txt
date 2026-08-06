@@ -1,0 +1,16 @@
+Event : UFC 62: Liddell vs Sobral
+    Date : August 26, 2006
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Light Heavyweight, Lightweight, Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - YUSHIN OKAMI def. ALAN BELCHER via Decision - Unanimous(R3)
+- CHEICK KONGO def. CHRISTIAN WELLISCH via KO/TKO(R1)
+- CHUCK LIDDELL def. RENATO SOBRAL via KO/TKO(R1)
+- ERIC SCHAFER def. ROB MACDONALD via Submission(R1)
+- FORREST GRIFFIN def. STEPHAN BONNAR via Decision - Unanimous(R3)
+- HERMES FRANCA def. JAMIE VARNER via Submission(R3)
+- NICK DIAZ def. JOSH NEER via Submission(R3)
+- WILSON GOUVEIA def. WES COMBS via Submission(R1)
+- DAVID HEATH def. CORY WALMSLEY via Submission(R1)

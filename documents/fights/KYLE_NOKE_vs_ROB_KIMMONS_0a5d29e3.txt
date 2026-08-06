@@ -1,0 +1,13 @@
+Event: UFC 122: Marquardt vs Okami
+    Date: November 13, 2010
+    Location: Oberhausen, North Rhine-Westphalia, Germany
+    Weight Class: Middleweight
+    
+
+    Result: KYLE NOKE defeated ROB KIMMONS via Submission  
+  at 1:33 of round 2
+  Key stats:
+  - KYLE NOKE landed 25 significant strikes
+  - ROB KIMMONS landed 16 significant strikes
+  - Knockdowns: KYLE NOKE 0,  ROB KIMMONS 0
+  - Takedowns: KYLE NOKE 3,  ROB KIMMONS 0

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Vieira vs. Tate
+    Date : November 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Women's Flyweight, Featherweight, Women's Strawweight, Women's Bantamweight, Flyweight, Lightweight, Welterweight
+
+    Fight Results:
+  - TAILA SANTOS def. JOANNE WOOD via Submission(R1)
+- LOOPY GODINEZ def. LOMA LOOKBOONMEE via Decision - Unanimous(R3)
+- CODY DURDEN def. AORIQILENG via Decision - Unanimous(R3)
+- RAFA GARCIA def. NATAN LEVY via Decision - Unanimous(R3)
+- PAT SABATINI def. TUCKER LUTZ via Decision - Unanimous(R3)
+- SEAN BRADY def. MICHAEL CHIESA via Decision - Unanimous(R3)
+- SHAYILAN NUERDANBIEKE def. SEAN SORIANO via Decision - Unanimous(R3)
+- ADRIAN YANEZ def. DAVEY GRANT via Decision - Split(R3)
+- KETLEN VIEIRA def. MIESHA TATE via Decision - Unanimous(R5)
+- RANI YAHYA def. KYUNG HO KANG via Decision - Unanimous(R3)
+- LUANA PINHEIRO def. SAM HUGHES via Decision - Unanimous(R3)

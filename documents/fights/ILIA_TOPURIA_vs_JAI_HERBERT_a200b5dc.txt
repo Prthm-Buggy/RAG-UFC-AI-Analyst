@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Aspinall
+    Date: March 19, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: ILIA TOPURIA defeated JAI HERBERT via KO/TKO  
+  at 1:07 of round 2
+  Key stats:
+  - ILIA TOPURIA landed 20 significant strikes
+  - JAI HERBERT landed 22 significant strikes
+  - Knockdowns: ILIA TOPURIA 1,  JAI HERBERT 1
+  - Takedowns: ILIA TOPURIA 1,  JAI HERBERT 0
+  Bonus: perf

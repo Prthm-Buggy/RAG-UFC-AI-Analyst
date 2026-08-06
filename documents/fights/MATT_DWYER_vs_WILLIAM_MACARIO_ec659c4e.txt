@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bigfoot vs Mir
+    Date: February 22, 2015
+    Location: Porto Alegre, Rio Grande do Sul, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: MATT DWYER defeated WILLIAM MACARIO via KO/TKO  
+  at 3:14 of round 1
+  Key stats:
+  - MATT DWYER landed 13 significant strikes
+  - WILLIAM MACARIO landed 8 significant strikes
+  - Knockdowns: MATT DWYER 1,  WILLIAM MACARIO 0
+  - Takedowns: MATT DWYER 0,  WILLIAM MACARIO 0
+  Bonus: perf

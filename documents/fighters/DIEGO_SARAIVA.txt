@@ -1,0 +1,11 @@
+Fighter: DIEGO SARAIVA
+  Date of Birth: 1982-04-23
+  Career record: 3
+  First fight: 2007-02-03
+  Last fight: 2007-09-22
+
+Career Statistics:
+- Significant Strikes Landed :74
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :2

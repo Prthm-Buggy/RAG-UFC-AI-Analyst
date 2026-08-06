@@ -1,0 +1,15 @@
+Event : UFC 7: The Brawl in Buffalo
+    Date : September 08, 1995
+    Location: Buffalo, New York, USA
+    Number of Fights: 8
+    Weight Classes: Open Weight
+
+    Fight Results:
+  - MARK HALL def. HAROLD HOWARD via KO/TKO(R1)
+- MARCO RUAS def. LARRY CURETON via Submission(R1)
+- SCOTT BESSAC def. DAVID HOOD via Submission(R1)
+- PAUL VARELANS def. GERRY HARRIS via KO/TKO(R1)
+- REMCO PARDOEL def. RYAN PARKER via Submission(R1)
+- MARCO RUAS def. REMCO PARDOEL via Submission(R1)
+- MARCO RUAS def. PAUL VARELANS via KO/TKO(R1)
+- PAUL VARELANS def. MARK HALL via Submission(R1)

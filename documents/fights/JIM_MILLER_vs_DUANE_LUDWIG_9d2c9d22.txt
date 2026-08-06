@@ -1,0 +1,13 @@
+Event: UFC 108: Evans vs Silva
+    Date: January 02, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated DUANE LUDWIG via Submission  
+  at 2:31 of round 1
+  Key stats:
+  - JIM MILLER landed 6 significant strikes
+  - DUANE LUDWIG landed 2 significant strikes
+  - Knockdowns: JIM MILLER 1,  DUANE LUDWIG 0
+  - Takedowns: JIM MILLER 0,  DUANE LUDWIG 0

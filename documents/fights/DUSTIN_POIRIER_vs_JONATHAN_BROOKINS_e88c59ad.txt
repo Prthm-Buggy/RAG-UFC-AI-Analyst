@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Carwin vs. Team Nelson Finale
+    Date: December 15, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DUSTIN POIRIER defeated JONATHAN BROOKINS via Submission  
+  at 4:15 of round 1
+  Key stats:
+  - DUSTIN POIRIER landed 35 significant strikes
+  - JONATHAN BROOKINS landed 26 significant strikes
+  - Knockdowns: DUSTIN POIRIER 0,  JONATHAN BROOKINS 0
+  - Takedowns: DUSTIN POIRIER 0,  JONATHAN BROOKINS 0

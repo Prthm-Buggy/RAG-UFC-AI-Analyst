@@ -1,0 +1,14 @@
+Event: UFC 169: Barao vs Faber 2
+    Date: February 01, 2014
+    Location: Newark, New Jersey, USA
+    Weight Class: Featherweight
+    
+
+    Result: JOSE ALDO defeated RICARDO LAMAS via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JOSE ALDO landed 62 significant strikes
+  - RICARDO LAMAS landed 41 significant strikes
+  - Knockdowns: JOSE ALDO 0,  RICARDO LAMAS 0
+  - Takedowns: JOSE ALDO 2,  RICARDO LAMAS 1
+  Bonus: belt

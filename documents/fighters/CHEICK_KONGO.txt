@@ -1,0 +1,11 @@
+Fighter: CHEICK KONGO
+  Date of Birth: 1975-05-17
+  Career record: 17
+  First fight: 2006-07-08
+  Last fight: 2013-04-27
+
+Career Statistics:
+- Significant Strikes Landed :516
+- Total takedowns landed :24
+- Knockdowns :4
+- Submission Attempts :3

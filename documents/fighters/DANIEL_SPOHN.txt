@@ -1,0 +1,11 @@
+Fighter: DANIEL SPOHN
+  Date of Birth: 1984-10-12
+  Career record: 1
+  First fight: 2014-07-06
+  Last fight: 2014-07-06
+
+Career Statistics:
+- Significant Strikes Landed :24
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :2

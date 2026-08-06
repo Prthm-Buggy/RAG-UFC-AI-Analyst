@@ -1,0 +1,13 @@
+Event: UFC 220: Miocic vs. Ngannou
+    Date: January 20, 2018
+    Location: Boston, Massachusetts, USA
+    Weight Class: Featherweight
+    
+
+    Result: KYLE BOCHNIAK defeated BRANDON DAVIS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KYLE BOCHNIAK landed 33 significant strikes
+  - BRANDON DAVIS landed 38 significant strikes
+  - Knockdowns: KYLE BOCHNIAK 0,  BRANDON DAVIS 0
+  - Takedowns: KYLE BOCHNIAK 3,  BRANDON DAVIS 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shogun vs. Smith
+    Date: July 22, 2018
+    Location: Hamburg, Hamburg, Germany
+    Weight Class: Bantamweight
+    
+
+    Result: PINGYUAN LIU defeated DAMIAN STASIAK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PINGYUAN LIU landed 32 significant strikes
+  - DAMIAN STASIAK landed 24 significant strikes
+  - Knockdowns: PINGYUAN LIU 0,  DAMIAN STASIAK 0
+  - Takedowns: PINGYUAN LIU 1,  DAMIAN STASIAK 3

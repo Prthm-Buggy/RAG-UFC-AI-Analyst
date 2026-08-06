@@ -1,0 +1,13 @@
+Event: UFC 126: Silva vs Belfort
+    Date: February 05, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PIERCE defeated KENNY ROBERTSON via KO/TKO  
+  at 0:29 of round 2
+  Key stats:
+  - MIKE PIERCE landed 19 significant strikes
+  - KENNY ROBERTSON landed 12 significant strikes
+  - Knockdowns: MIKE PIERCE 1,  KENNY ROBERTSON 0
+  - Takedowns: MIKE PIERCE 2,  KENNY ROBERTSON 0

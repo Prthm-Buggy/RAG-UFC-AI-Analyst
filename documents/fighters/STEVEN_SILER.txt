@@ -1,0 +1,11 @@
+Fighter: STEVEN SILER
+  Date of Birth: 1987-02-15
+  Career record: 9
+  First fight: 2011-12-03
+  Last fight: 2014-07-26
+
+Career Statistics:
+- Significant Strikes Landed :305
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :10

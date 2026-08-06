@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tsarukyan vs. Gamrot
+    Date: June 25, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS CURTIS defeated RODOLFO VIEIRA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHRIS CURTIS landed 109 significant strikes
+  - RODOLFO VIEIRA landed 86 significant strikes
+  - Knockdowns: CHRIS CURTIS 0,  RODOLFO VIEIRA 0
+  - Takedowns: CHRIS CURTIS 0,  RODOLFO VIEIRA 0

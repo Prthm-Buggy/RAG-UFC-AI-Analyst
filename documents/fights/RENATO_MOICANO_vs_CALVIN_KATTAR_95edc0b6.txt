@@ -1,0 +1,13 @@
+Event: UFC 223: Khabib vs. Iaquinta
+    Date: April 07, 2018
+    Location: Brooklyn, New York, USA
+    Weight Class: Featherweight
+    
+
+    Result: RENATO MOICANO defeated CALVIN KATTAR via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RENATO MOICANO landed 116 significant strikes
+  - CALVIN KATTAR landed 41 significant strikes
+  - Knockdowns: RENATO MOICANO 0,  CALVIN KATTAR 0
+  - Takedowns: RENATO MOICANO 0,  CALVIN KATTAR 0

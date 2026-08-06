@@ -1,0 +1,11 @@
+Fighter: ALBERT TUMENOV
+  Date of Birth: 1991-12-26
+  Career record: 8
+  First fight: 2014-02-15
+  Last fight: 2016-10-08
+
+Career Statistics:
+- Significant Strikes Landed :279
+- Total takedowns landed :1
+- Knockdowns :5
+- Submission Attempts :0

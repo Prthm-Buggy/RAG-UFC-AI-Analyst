@@ -1,0 +1,19 @@
+Event : UFC on FOX: Shevchenko vs. Pena
+    Date : January 28, 2017
+    Location: Denver, Colorado, USA
+    Number of Fights: 12
+    Weight Classes: Women's Bantamweight, Welterweight, Middleweight, Featherweight, Light Heavyweight, Lightweight, Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - RAPHAEL ASSUNCAO def. ALJAMAIN STERLING via Decision - Split(R3)
+- LI JINGLIANG def. BOBBY NASH via KO/TKO(R2)
+- ALEXANDRE PANTOJA def. ERIC SHELTON via Decision - Split(R3)
+- FRANCIS NGANNOU def. ANDREI ARLOVSKI via KO/TKO(R1)
+- VALENTINA SHEVCHENKO def. JULIANNA PENA via Submission(R2)
+- MARCOS ROGERIO DE LIMA def. JEREMY KIMBALL via KO/TKO(R1)
+- JORDAN JOHNSON def. HENRIQUE DA SILVA via Decision - Unanimous(R3)
+- SAM ALVEY def. NATE MARQUARDT via Decision - Unanimous(R3)
+- JASON KNIGHT def. ALEX CACERES via Submission(R2)
+- ERIC SPICELY def. ALESSIO DI CHIRICO via Submission(R1)
+- JORGE MASVIDAL def. DONALD CERRONE via KO/TKO(R2)
+- JASON GONZALEZ def. JC COTTRELL via Submission(R1)

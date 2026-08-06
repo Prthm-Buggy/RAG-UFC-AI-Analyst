@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs Oliveira
+    Date: August 23, 2015
+    Location: Saskatoon, Saskatchewan, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: NIKITA KRYLOV defeated MARCOS ROGERIO DE LIMA via Submission  
+  at 2:29 of round 1
+  Key stats:
+  - NIKITA KRYLOV landed 21 significant strikes
+  - MARCOS ROGERIO DE LIMA landed 5 significant strikes
+  - Knockdowns: NIKITA KRYLOV 0,  MARCOS ROGERIO DE LIMA 0
+  - Takedowns: NIKITA KRYLOV 0,  MARCOS ROGERIO DE LIMA 0

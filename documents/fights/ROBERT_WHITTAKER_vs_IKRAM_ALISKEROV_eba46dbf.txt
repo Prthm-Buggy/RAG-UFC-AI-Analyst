@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. Aliskerov
+    Date: June 22, 2024
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Weight Class: Middleweight
+    
+
+    Result: ROBERT WHITTAKER defeated IKRAM ALISKEROV via KO/TKO  
+  at 1:49 of round 1
+  Key stats:
+  - ROBERT WHITTAKER landed 14 significant strikes
+  - IKRAM ALISKEROV landed 5 significant strikes
+  - Knockdowns: ROBERT WHITTAKER 1,  IKRAM ALISKEROV 0
+  - Takedowns: ROBERT WHITTAKER 0,  IKRAM ALISKEROV 0
+  Bonus: perf

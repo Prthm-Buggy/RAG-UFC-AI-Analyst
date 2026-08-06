@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Overeem vs Arlovski
+    Date : May 08, 2016
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Welterweight, Flyweight, Lightweight, Middleweight, Women's Bantamweight, Light Heavyweight, Women's Strawweight
+
+    Fight Results:
+  - JOSH EMMETT def. JON TUCK via Decision - Split(R3)
+- GERMAINE DE RANDAMIE def. ANNA ELMOSE via KO/TKO(R1)
+- NIKITA KRYLOV def. FRANCIMAR BARROSO via Submission(R2)
+- RUSTAM KHABILOV def. CHRIS WADE via Decision - Unanimous(R3)
+- GUNNAR NELSON def. ALBERT TUMENOV via Submission(R2)
+- REZA MADADI def. YAN CABRAL via KO/TKO(R3)
+- KYOJI HORIGUCHI def. NEIL SEERY via Decision - Unanimous(R3)
+- STEFAN STRUVE def. ANTONIO SILVA via KO/TKO(R1)
+- MAGNUS CEDENBLAD def. GARRETH MCLELLAN via KO/TKO(R2)
+- ALISTAIR OVEREEM def. ANDREI ARLOVSKI via KO/TKO(R2)
+- LEON EDWARDS def. DOMINIC WATERS via Decision - Unanimous(R3)
+- KAROLINA KOWALKIEWICZ def. HEATHER CLARK via Decision - Unanimous(R3)
+- YUTA SASAKI def. WILLIE GATES via Submission(R2)

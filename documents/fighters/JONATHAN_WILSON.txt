@@ -1,0 +1,11 @@
+Fighter: JONATHAN WILSON
+  Date of Birth: 1987-07-17
+  Career record: 4
+  First fight: 2015-08-08
+  Last fight: 2017-10-21
+
+Career Statistics:
+- Significant Strikes Landed :117
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :0

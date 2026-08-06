@@ -1,0 +1,14 @@
+Event: UFC 138: Leben vs Munoz
+    Date: November 05, 2011
+    Location: Birmingham, England, United Kingdom
+    Weight Class: Bantamweight
+    
+
+    Result: RENAN BARAO defeated BRAD PICKETT via Submission  
+  at 4:09 of round 1
+  Key stats:
+  - RENAN BARAO landed 37 significant strikes
+  - BRAD PICKETT landed 10 significant strikes
+  - Knockdowns: RENAN BARAO 1,  BRAD PICKETT 0
+  - Takedowns: RENAN BARAO 0,  BRAD PICKETT 0
+  Bonus: fight

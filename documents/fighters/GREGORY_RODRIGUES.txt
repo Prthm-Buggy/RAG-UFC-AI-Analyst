@@ -1,0 +1,11 @@
+Fighter: GREGORY RODRIGUES
+  Date of Birth: 1992-02-17
+  Career record: 13
+  First fight: 2021-06-05
+  Last fight: 2026-03-07
+
+Career Statistics:
+- Significant Strikes Landed :642
+- Total takedowns landed :15
+- Knockdowns :8
+- Submission Attempts :3

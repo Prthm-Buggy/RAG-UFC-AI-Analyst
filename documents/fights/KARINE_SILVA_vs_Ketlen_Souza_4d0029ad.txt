@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kara-France vs. Albazi
+    Date: June 03, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: KARINE SILVA defeated Ketlen Souza via Submission  
+  at 1:45 of round 1
+  Key stats:
+  - KARINE SILVA landed 3 significant strikes
+  - Ketlen Souza landed 0 significant strikes
+  - Knockdowns: KARINE SILVA 0,  Ketlen Souza 0
+  - Takedowns: KARINE SILVA 1,  Ketlen Souza 0

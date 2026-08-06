@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs. Bader
+    Date: January 30, 2016
+    Location: Newark, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRYAN BARBERENA defeated SAGE NORTHCUTT via Submission  
+  at 3:06 of round 2
+  Key stats:
+  - BRYAN BARBERENA landed 26 significant strikes
+  - SAGE NORTHCUTT landed 18 significant strikes
+  - Knockdowns: BRYAN BARBERENA 0,  SAGE NORTHCUTT 0
+  - Takedowns: BRYAN BARBERENA 1,  SAGE NORTHCUTT 1

@@ -1,0 +1,13 @@
+Event: UFC 293: Adesanya vs. Strickland
+    Date: September 09, 2023
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Welterweight
+    
+
+    Result: CHARLES RADTKE defeated BLOOD DIAMOND via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHARLES RADTKE landed 35 significant strikes
+  - BLOOD DIAMOND landed 44 significant strikes
+  - Knockdowns: CHARLES RADTKE 0,  BLOOD DIAMOND 0
+  - Takedowns: CHARLES RADTKE 1,  BLOOD DIAMOND 0

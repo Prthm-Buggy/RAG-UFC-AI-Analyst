@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Heavy Hitters Finale
+    Date: November 30, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: PEDRO MUNHOZ defeated BRYAN CARAWAY via KO/TKO  
+  at 2:39 of round 1
+  Key stats:
+  - PEDRO MUNHOZ landed 35 significant strikes
+  - BRYAN CARAWAY landed 20 significant strikes
+  - Knockdowns: PEDRO MUNHOZ 1,  BRYAN CARAWAY 0
+  - Takedowns: PEDRO MUNHOZ 0,  BRYAN CARAWAY 0

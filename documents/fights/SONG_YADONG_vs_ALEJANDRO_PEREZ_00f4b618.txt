@@ -1,0 +1,14 @@
+Event: UFC 239: Jones vs. Santos
+    Date: July 06, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SONG YADONG defeated ALEJANDRO PEREZ via KO/TKO  
+  at 2:04 of round 1
+  Key stats:
+  - SONG YADONG landed 8 significant strikes
+  - ALEJANDRO PEREZ landed 1 significant strikes
+  - Knockdowns: SONG YADONG 1,  ALEJANDRO PEREZ 0
+  - Takedowns: SONG YADONG 0,  ALEJANDRO PEREZ 0
+  Bonus: perf

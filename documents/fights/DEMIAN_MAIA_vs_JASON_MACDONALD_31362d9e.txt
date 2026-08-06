@@ -1,0 +1,14 @@
+Event: UFC 87: Seek And Destroy
+    Date: August 09, 2008
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Middleweight
+    
+
+    Result: DEMIAN MAIA defeated JASON MACDONALD via Submission  
+  at 2:44 of round 3
+  Key stats:
+  - DEMIAN MAIA landed 30 significant strikes
+  - JASON MACDONALD landed 7 significant strikes
+  - Knockdowns: DEMIAN MAIA 0,  JASON MACDONALD 0
+  - Takedowns: DEMIAN MAIA 2,  JASON MACDONALD 0
+  Bonus: sub

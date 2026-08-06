@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tybura vs. Spivac 2
+    Date: August 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: YOUSSEF ZALAL defeated JARNO ERRENS via Submission  
+  at 3:52 of round 1
+  Key stats:
+  - YOUSSEF ZALAL landed 10 significant strikes
+  - JARNO ERRENS landed 6 significant strikes
+  - Knockdowns: YOUSSEF ZALAL 0,  JARNO ERRENS 0
+  - Takedowns: YOUSSEF ZALAL 1,  JARNO ERRENS 0
+  Bonus: perf

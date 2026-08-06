@@ -1,0 +1,20 @@
+Event : UFC 303: Pereira vs. Prochazka 2
+    Date : June 29, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Bantamweight, Light Heavyweight, Catch Weight, Middleweight, Women's Bantamweight, Featherweight, Women's Strawweight, Welterweight, Flyweight
+
+    Fight Results:
+  - IAN MACHADO GARRY def. MICHAEL PAGE via Decision - Unanimous(R3)
+- ALEX PEREIRA def. JIRI PROCHAZKA via KO/TKO(R2)
+- DIEGO LOPES def. DAN IGE via Decision - Unanimous(R3)
+- VINICIUS OLIVEIRA def. RICKY SIMON via Decision - Unanimous(R3)
+- JEAN SILVA def. CHARLES JOURDAIN via KO/TKO(R2)
+- REI TSURUYA def. CARLOS HERNANDEZ via Decision - Unanimous(R3)
+- JOE PYFER def. MARC-ANDRE BARRIAULT via KO/TKO(R1)
+- ROMAN DOLIDZE def. ANTHONY SMITH via Decision - Unanimous(R3)
+- GILLIAN ROBERTSON def. MICHELLE WATERSON-GOMEZ via Decision - Unanimous(R3)
+- MACY CHIASSON def. MAYRA BUENO SILVA via TKO - Doctor's Stoppage(R2)
+- ANDRE FILI def. CUB SWANSON via Decision - Split(R3)
+- MARTIN BUDAY def. ANDREI ARLOVSKI via Decision - Split(R3)
+- PAYTON TALBOTT def. YANIS GHEMMOURI via KO/TKO(R1)

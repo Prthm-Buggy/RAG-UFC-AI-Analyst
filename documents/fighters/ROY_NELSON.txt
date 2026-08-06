@@ -1,0 +1,11 @@
+Fighter: ROY NELSON
+  Date of Birth: 1976-06-20
+  Career record: 19
+  First fight: 2009-12-05
+  Last fight: 2017-04-15
+
+Career Statistics:
+- Significant Strikes Landed :439
+- Total takedowns landed :16
+- Knockdowns :9
+- Submission Attempts :1

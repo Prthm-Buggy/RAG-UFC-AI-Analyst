@@ -1,0 +1,13 @@
+Event: UFC 116: Lesnar vs Carwin
+    Date: July 03, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BRENDAN SCHAUB defeated CHRIS TUCHSCHERER via KO/TKO  
+  at 1:07 of round 1
+  Key stats:
+  - BRENDAN SCHAUB landed 10 significant strikes
+  - CHRIS TUCHSCHERER landed 1 significant strikes
+  - Knockdowns: BRENDAN SCHAUB 1,  CHRIS TUCHSCHERER 0
+  - Takedowns: BRENDAN SCHAUB 0,  CHRIS TUCHSCHERER 0

@@ -1,0 +1,13 @@
+Event: UFC 205: Alvarez vs McGregor
+    Date: November 12, 2016
+    Location: New York City, New York, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: LIZ CARMOUCHE defeated KATLYN CERMINARA via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - LIZ CARMOUCHE landed 27 significant strikes
+  - KATLYN CERMINARA landed 22 significant strikes
+  - Knockdowns: LIZ CARMOUCHE 0,  KATLYN CERMINARA 1
+  - Takedowns: LIZ CARMOUCHE 4,  KATLYN CERMINARA 0

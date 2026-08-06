@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Dos Santos
+    Date: March 09, 2019
+    Location: Wichita, Kansas, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MATT SCHNELL defeated LOUIS SMOLKA via Submission  
+  at 3:18 of round 1
+  Key stats:
+  - MATT SCHNELL landed 14 significant strikes
+  - LOUIS SMOLKA landed 13 significant strikes
+  - Knockdowns: MATT SCHNELL 0,  LOUIS SMOLKA 0
+  - Takedowns: MATT SCHNELL 1,  LOUIS SMOLKA 0

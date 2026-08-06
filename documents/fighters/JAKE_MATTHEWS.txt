@@ -1,0 +1,11 @@
+Fighter: JAKE MATTHEWS
+  Date of Birth: 1994-08-19
+  Career record: 24
+  First fight: 2014-06-28
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :925
+- Total takedowns landed :25
+- Knockdowns :6
+- Submission Attempts :13

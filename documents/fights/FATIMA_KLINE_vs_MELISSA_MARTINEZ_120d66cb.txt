@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Teixeira
+    Date: July 12, 2025
+    Location: Nashville, Tennessee, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: FATIMA KLINE defeated MELISSA MARTINEZ via KO/TKO  
+  at 2:36 of round 3
+  Key stats:
+  - FATIMA KLINE landed 92 significant strikes
+  - MELISSA MARTINEZ landed 44 significant strikes
+  - Knockdowns: FATIMA KLINE 1,  MELISSA MARTINEZ 0
+  - Takedowns: FATIMA KLINE 0,  MELISSA MARTINEZ 0
+  Bonus: perf

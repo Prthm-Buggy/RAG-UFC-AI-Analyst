@@ -1,0 +1,17 @@
+Event : UFC 243: Whittaker vs. Adesanya
+    Date : October 05, 2019
+    Location: Melbourne, Victoria, Australia
+    Number of Fights: 10
+    Weight Classes: Welterweight, Women's Featherweight, Lightweight, Middleweight, Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - ISRAEL ADESANYA def. ROBERT WHITTAKER via KO/TKO(R2)
+- DHIEGO LIMA def. LUKE JUMEAU via Decision - Split(R3)
+- SERGHEI SPIVAC def. TAI TUIVASA via Submission(R2)
+- JAKE MATTHEWS def. ROSTEM AKMAN via Decision - Unanimous(R3)
+- JI YEON KIM def. NADIA KASSEM via KO/TKO(R2)
+- DAN HOOKER def. AL IAQUINTA via Decision - Unanimous(R3)
+- MEGAN ANDERSON def. ZARAH FAIRN via Submission(R1)
+- CALLAN POTTER def. MAKI PITOLO via Decision - Unanimous(R3)
+- BRAD RIDDELL def. JAMIE MULLARKEY via Decision - Unanimous(R3)
+- YORGAN DE CASTRO def. JUSTIN TAFA via KO/TKO(R1)

@@ -1,0 +1,11 @@
+Fighter: ANTONIO TROCOLI
+  Date of Birth: 1990-12-06
+  Career record: 4
+  First fight: 2024-06-22
+  Last fight: 2026-03-21
+
+Career Statistics:
+- Significant Strikes Landed :38
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

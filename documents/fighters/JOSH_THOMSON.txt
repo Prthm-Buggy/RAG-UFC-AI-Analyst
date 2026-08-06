@@ -1,0 +1,11 @@
+Fighter: JOSH THOMSON
+  Date of Birth: 1978-09-21
+  Career record: 7
+  First fight: 2003-09-26
+  Last fight: 2015-07-15
+
+Career Statistics:
+- Significant Strikes Landed :197
+- Total takedowns landed :11
+- Knockdowns :2
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Walker vs. Zhang
+    Date: August 23, 2025
+    Location: Shanghai, Hebei, China
+    Weight Class: Welterweight
+    
+
+    Result: TAIYILAKE NUERAJI defeated KIEFER CROSBIE via KO/TKO  
+  at 3:33 of round 1
+  Key stats:
+  - TAIYILAKE NUERAJI landed 27 significant strikes
+  - KIEFER CROSBIE landed 2 significant strikes
+  - Knockdowns: TAIYILAKE NUERAJI 0,  KIEFER CROSBIE 0
+  - Takedowns: TAIYILAKE NUERAJI 1,  KIEFER CROSBIE 0

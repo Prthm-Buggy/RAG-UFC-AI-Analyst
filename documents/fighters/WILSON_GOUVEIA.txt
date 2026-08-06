@@ -1,0 +1,11 @@
+Fighter: WILSON GOUVEIA
+  Date of Birth: 1978-10-03
+  Career record: 10
+  First fight: 2006-06-24
+  Last fight: 2009-12-12
+
+Career Statistics:
+- Significant Strikes Landed :201
+- Total takedowns landed :4
+- Knockdowns :4
+- Submission Attempts :10

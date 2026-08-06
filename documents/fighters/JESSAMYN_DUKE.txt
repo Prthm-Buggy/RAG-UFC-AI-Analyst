@@ -1,0 +1,11 @@
+Fighter: JESSAMYN DUKE
+  Date of Birth: 1986-06-24
+  Career record: 4
+  First fight: 2013-11-30
+  Last fight: 2015-07-25
+
+Career Statistics:
+- Significant Strikes Landed :229
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :6

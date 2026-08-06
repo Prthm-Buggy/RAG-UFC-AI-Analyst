@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cannonier vs. Strickland
+    Date: December 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: AMIR ALBAZI defeated ALESSANDRO COSTA via KO/TKO  
+  at 2:13 of round 3
+  Key stats:
+  - AMIR ALBAZI landed 37 significant strikes
+  - ALESSANDRO COSTA landed 17 significant strikes
+  - Knockdowns: AMIR ALBAZI 2,  ALESSANDRO COSTA 0
+  - Takedowns: AMIR ALBAZI 1,  ALESSANDRO COSTA 0

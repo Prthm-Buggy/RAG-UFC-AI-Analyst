@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Jedrzejczyk vs Penne
+    Date: June 20, 2015
+    Location: Berlin, Berlin, Germany
+    Weight Class: Women's Strawweight
+    
+
+    Result: JOANNA JEDRZEJCZYK defeated JESSICA PENNE via KO/TKO  
+  at 4:22 of round 3
+  Key stats:
+  - JOANNA JEDRZEJCZYK landed 126 significant strikes
+  - JESSICA PENNE landed 25 significant strikes
+  - Knockdowns: JOANNA JEDRZEJCZYK 0,  JESSICA PENNE 0
+  - Takedowns: JOANNA JEDRZEJCZYK 0,  JESSICA PENNE 0
+  Bonus: belt

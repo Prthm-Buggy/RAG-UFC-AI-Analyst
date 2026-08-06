@@ -1,0 +1,13 @@
+Event: UFC 70: Nations Collide
+    Date: April 21, 2007
+    Location: Manchester, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: JUNIOR ASSUNCAO defeated DAVID LEE via Submission  
+  at 1:55 of round 2
+  Key stats:
+  - JUNIOR ASSUNCAO landed 29 significant strikes
+  - DAVID LEE landed 12 significant strikes
+  - Knockdowns: JUNIOR ASSUNCAO 1,  DAVID LEE 0
+  - Takedowns: JUNIOR ASSUNCAO 0,  DAVID LEE 0

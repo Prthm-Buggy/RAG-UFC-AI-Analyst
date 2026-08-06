@@ -1,0 +1,11 @@
+Fighter: CAMERON SAAIMAN
+  Date of Birth: 2000-12-20
+  Career record: 6
+  First fight: 2022-12-10
+  Last fight: 2025-04-26
+
+Career Statistics:
+- Significant Strikes Landed :301
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :2

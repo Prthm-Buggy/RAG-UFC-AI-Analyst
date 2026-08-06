@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Till vs. Masvidal
+    Date: March 16, 2019
+    Location: London, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: DAN IGE defeated DANNY HENRY via Submission  
+  at 1:17 of round 1
+  Key stats:
+  - DAN IGE landed 10 significant strikes
+  - DANNY HENRY landed 4 significant strikes
+  - Knockdowns: DAN IGE 1,  DANNY HENRY 0
+  - Takedowns: DAN IGE 1,  DANNY HENRY 0
+  Bonus: perf

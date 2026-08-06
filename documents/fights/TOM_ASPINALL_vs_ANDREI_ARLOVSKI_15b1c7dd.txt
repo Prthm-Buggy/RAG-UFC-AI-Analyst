@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blaydes vs. Lewis
+    Date: February 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TOM ASPINALL defeated ANDREI ARLOVSKI via Submission  
+  at 1:09 of round 2
+  Key stats:
+  - TOM ASPINALL landed 37 significant strikes
+  - ANDREI ARLOVSKI landed 20 significant strikes
+  - Knockdowns: TOM ASPINALL 0,  ANDREI ARLOVSKI 0
+  - Takedowns: TOM ASPINALL 1,  ANDREI ARLOVSKI 0
+  Bonus: perf

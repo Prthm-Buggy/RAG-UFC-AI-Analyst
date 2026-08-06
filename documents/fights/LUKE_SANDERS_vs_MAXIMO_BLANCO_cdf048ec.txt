@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dillashaw vs Cruz
+    Date: January 17, 2016
+    Location: Boston, Massachusetts, USA
+    Weight Class: Featherweight
+    
+
+    Result: LUKE SANDERS defeated MAXIMO BLANCO via Submission  
+  at 3:38 of round 1
+  Key stats:
+  - LUKE SANDERS landed 26 significant strikes
+  - MAXIMO BLANCO landed 16 significant strikes
+  - Knockdowns: LUKE SANDERS 1,  MAXIMO BLANCO 0
+  - Takedowns: LUKE SANDERS 0,  MAXIMO BLANCO 1
+  Bonus: perf

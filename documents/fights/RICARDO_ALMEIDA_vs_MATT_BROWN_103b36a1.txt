@@ -1,0 +1,13 @@
+Event: UFC 111: St-Pierre vs Hardy
+    Date: March 27, 2010
+    Location: Newark, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: RICARDO ALMEIDA defeated MATT BROWN via Submission  
+  at 3:30 of round 2
+  Key stats:
+  - RICARDO ALMEIDA landed 15 significant strikes
+  - MATT BROWN landed 6 significant strikes
+  - Knockdowns: RICARDO ALMEIDA 0,  MATT BROWN 0
+  - Takedowns: RICARDO ALMEIDA 5,  MATT BROWN 0

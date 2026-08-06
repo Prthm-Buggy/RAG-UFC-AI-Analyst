@@ -1,0 +1,18 @@
+Event : UFC 105: Couture vs Vera
+    Date : November 14, 2009
+    Location: Manchester, England, United Kingdom
+    Number of Fights: 11
+    Weight Classes: Lightweight, Light Heavyweight, Middleweight, Welterweight
+
+    Fight Results:
+  - MICHAEL BISPING def. DENIS KANG via KO/TKO(R2)
+- MATT BROWN def. JAMES WILKS via KO/TKO(R3)
+- ALEXANDER GUSTAFSSON def. JARED HAMMAN via KO/TKO(R1)
+- JOHN HATHAWAY def. PAUL TAYLOR via Decision - Unanimous(R3)
+- DENNIS SIVER def. PAUL KELLY via KO/TKO(R2)
+- ANDRE WINNER def. ROLANDO DELGADO via KO/TKO(R1)
+- NICK OSIPCZAK def. MATTHEW RIDDLE via KO/TKO(R3)
+- TERRY ETIM def. SHANNON GUGERTY via Submission(R2)
+- ROSS PEARSON def. AARON RILEY via TKO - Doctor's Stoppage(R2)
+- DAN HARDY def. MIKE SWICK via Decision - Unanimous(R3)
+- RANDY COUTURE def. BRANDON VERA via Decision - Unanimous(R3)

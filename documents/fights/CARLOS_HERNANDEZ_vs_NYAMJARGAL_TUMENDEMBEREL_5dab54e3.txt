@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yan vs. Figueiredo
+    Date: November 23, 2024
+    Location: Macau, China
+    Weight Class: Flyweight
+    
+
+    Result: CARLOS HERNANDEZ defeated NYAMJARGAL TUMENDEMBEREL via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CARLOS HERNANDEZ landed 44 significant strikes
+  - NYAMJARGAL TUMENDEMBEREL landed 26 significant strikes
+  - Knockdowns: CARLOS HERNANDEZ 0,  NYAMJARGAL TUMENDEMBEREL 1
+  - Takedowns: CARLOS HERNANDEZ 4,  NYAMJARGAL TUMENDEMBEREL 0

@@ -1,0 +1,14 @@
+Event: UFC 281: Adesanya vs. Pereira
+    Date: November 12, 2022
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALEX PEREIRA defeated ISRAEL ADESANYA via KO/TKO  
+  at 2:01 of round 5
+  Key stats:
+  - ALEX PEREIRA landed 91 significant strikes
+  - ISRAEL ADESANYA landed 86 significant strikes
+  - Knockdowns: ALEX PEREIRA 0,  ISRAEL ADESANYA 0
+  - Takedowns: ALEX PEREIRA 1,  ISRAEL ADESANYA 1
+  Bonus: belt

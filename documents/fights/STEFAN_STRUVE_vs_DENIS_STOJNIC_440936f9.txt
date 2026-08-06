@@ -1,0 +1,13 @@
+Event: UFC 99: The Comeback
+    Date: June 13, 2009
+    Location: Cologne, North Rhine-Westphalia, Germany
+    Weight Class: Heavyweight
+    
+
+    Result: STEFAN STRUVE defeated DENIS STOJNIC via Submission  
+  at 2:37 of round 2
+  Key stats:
+  - STEFAN STRUVE landed 4 significant strikes
+  - DENIS STOJNIC landed 16 significant strikes
+  - Knockdowns: STEFAN STRUVE 0,  DENIS STOJNIC 0
+  - Takedowns: STEFAN STRUVE 0,  DENIS STOJNIC 0

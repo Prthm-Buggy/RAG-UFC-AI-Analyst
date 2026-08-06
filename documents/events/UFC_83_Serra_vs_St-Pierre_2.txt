@@ -1,0 +1,18 @@
+Event : UFC 83: Serra vs St-Pierre 2
+    Date : April 19, 2008
+    Location: Montreal, Quebec, Canada
+    Number of Fights: 11
+    Weight Classes: Lightweight, Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - GEORGES ST-PIERRE def. MATT SERRA via KO/TKO(R2)
+- MICHAEL BISPING def. CHARLES MCCARTHY via KO/TKO(R1)
+- DEMIAN MAIA def. ED HERMAN via Submission(R2)
+- RICH FRANKLIN def. TRAVIS LUTTER via KO/TKO(R2)
+- NATE QUARRY def. KALIB STARNES via Decision - Unanimous(R3)
+- JONATHAN GOULET def. KUNIYOSHI HIRONAKA via KO/TKO(R2)
+- JASON MACDONALD def. JOE DOERKSEN via KO/TKO(R2)
+- MAC DANZIG def. MARK BOCEK via Submission(R3)
+- JASON DAY def. ALAN BELCHER via KO/TKO(R1)
+- RICH CLEMENTI def. SAM STOUT via Decision - Split(R3)
+- CAIN VELASQUEZ def. BRAD MORRIS via KO/TKO(R1)

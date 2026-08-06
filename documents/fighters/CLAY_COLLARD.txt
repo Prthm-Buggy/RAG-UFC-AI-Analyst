@@ -1,0 +1,11 @@
+Fighter: CLAY COLLARD
+  Date of Birth: 1993-03-10
+  Career record: 4
+  First fight: 2014-08-23
+  Last fight: 2015-09-05
+
+Career Statistics:
+- Significant Strikes Landed :248
+- Total takedowns landed :11
+- Knockdowns :2
+- Submission Attempts :2

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bisping vs Leites
+    Date: July 18, 2015
+    Location: Glasgow, Scotland, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: STEVIE RAY defeated LEONARDO MAFRA via KO/TKO  
+  at 2:30 of round 1
+  Key stats:
+  - STEVIE RAY landed 19 significant strikes
+  - LEONARDO MAFRA landed 23 significant strikes
+  - Knockdowns: STEVIE RAY 1,  LEONARDO MAFRA 0
+  - Takedowns: STEVIE RAY 0,  LEONARDO MAFRA 0
+  Bonus: perf

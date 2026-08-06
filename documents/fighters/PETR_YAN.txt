@@ -1,0 +1,11 @@
+Fighter: PETR YAN
+  Date of Birth: 1993-02-11
+  Career record: 16
+  First fight: 2018-06-23
+  Last fight: 2025-12-06
+
+Career Statistics:
+- Significant Strikes Landed :1456
+- Total takedowns landed :32
+- Knockdowns :10
+- Submission Attempts :2

@@ -1,0 +1,13 @@
+Event: UFC 107: Penn vs Sanchez
+    Date: December 12, 2009
+    Location: Memphis, Tennessee, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROUSIMAR PALHARES defeated LUCIO LINHARES via Submission  
+  at 3:21 of round 2
+  Key stats:
+  - ROUSIMAR PALHARES landed 6 significant strikes
+  - LUCIO LINHARES landed 8 significant strikes
+  - Knockdowns: ROUSIMAR PALHARES 0,  LUCIO LINHARES 0
+  - Takedowns: ROUSIMAR PALHARES 1,  LUCIO LINHARES 2

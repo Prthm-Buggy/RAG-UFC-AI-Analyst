@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs. Sakai
+    Date: September 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICHEL PEREIRA defeated ZELIM IMADAEV via Submission  
+  at 4:39 of round 3
+  Key stats:
+  - MICHEL PEREIRA landed 88 significant strikes
+  - ZELIM IMADAEV landed 23 significant strikes
+  - Knockdowns: MICHEL PEREIRA 0,  ZELIM IMADAEV 0
+  - Takedowns: MICHEL PEREIRA 1,  ZELIM IMADAEV 0
+  Bonus: perf

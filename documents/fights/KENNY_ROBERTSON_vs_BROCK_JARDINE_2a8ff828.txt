@@ -1,0 +1,14 @@
+Event: UFC 157: Rousey vs Carmouche
+    Date: February 23, 2013
+    Location: Anaheim, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: KENNY ROBERTSON defeated BROCK JARDINE via Submission  
+  at 2:57 of round 1
+  Key stats:
+  - KENNY ROBERTSON landed 9 significant strikes
+  - BROCK JARDINE landed 1 significant strikes
+  - Knockdowns: KENNY ROBERTSON 0,  BROCK JARDINE 0
+  - Takedowns: KENNY ROBERTSON 1,  BROCK JARDINE 0
+  Bonus: sub

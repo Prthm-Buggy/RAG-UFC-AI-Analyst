@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. The Korean Zombie
+    Date: August 26, 2023
+    Location: Kallang, Singapore
+    Weight Class: Women's Flyweight
+    
+
+    Result: JJ ALDRICH defeated LIANG NA via KO/TKO  
+  at 4:49 of round 2
+  Key stats:
+  - JJ ALDRICH landed 47 significant strikes
+  - LIANG NA landed 11 significant strikes
+  - Knockdowns: JJ ALDRICH 0,  LIANG NA 0
+  - Takedowns: JJ ALDRICH 0,  LIANG NA 3

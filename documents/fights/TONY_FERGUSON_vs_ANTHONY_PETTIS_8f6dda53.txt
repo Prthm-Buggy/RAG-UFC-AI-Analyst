@@ -1,0 +1,14 @@
+Event: UFC 229: Khabib vs. McGregor
+    Date: October 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TONY FERGUSON defeated ANTHONY PETTIS via KO/TKO  
+  at 5:00 of round 2
+  Key stats:
+  - TONY FERGUSON landed 114 significant strikes
+  - ANTHONY PETTIS landed 45 significant strikes
+  - Knockdowns: TONY FERGUSON 0,  ANTHONY PETTIS 1
+  - Takedowns: TONY FERGUSON 0,  ANTHONY PETTIS 0
+  Bonus: fight

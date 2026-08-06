@@ -1,0 +1,11 @@
+Fighter: STEPHEN BASS
+  Date of Birth: 1982-11-14
+  Career record: 1
+  First fight: 2011-12-03
+  Last fight: 2011-12-03
+
+Career Statistics:
+- Significant Strikes Landed :73
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

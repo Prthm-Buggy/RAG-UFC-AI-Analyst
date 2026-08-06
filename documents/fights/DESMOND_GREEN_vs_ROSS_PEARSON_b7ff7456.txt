@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Gaethje
+    Date: March 30, 2019
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Lightweight
+    
+
+    Result: DESMOND GREEN defeated ROSS PEARSON via KO/TKO  
+  at 2:52 of round 1
+  Key stats:
+  - DESMOND GREEN landed 25 significant strikes
+  - ROSS PEARSON landed 12 significant strikes
+  - Knockdowns: DESMOND GREEN 1,  ROSS PEARSON 0
+  - Takedowns: DESMOND GREEN 1,  ROSS PEARSON 0

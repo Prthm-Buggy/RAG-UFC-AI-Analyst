@@ -1,0 +1,11 @@
+Fighter: CEZAR FERREIRA
+  Date of Birth: 1985-02-15
+  Career record: 15
+  First fight: 2012-06-23
+  Last fight: 2019-07-13
+
+Career Statistics:
+- Significant Strikes Landed :297
+- Total takedowns landed :28
+- Knockdowns :2
+- Submission Attempts :5

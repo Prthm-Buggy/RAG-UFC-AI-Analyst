@@ -1,0 +1,11 @@
+Fighter: BRUNO SILVA
+  Date of Birth: 1990-03-16
+  Career record: 22
+  First fight: 2020-03-14
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :845
+- Total takedowns landed :19
+- Knockdowns :9
+- Submission Attempts :2

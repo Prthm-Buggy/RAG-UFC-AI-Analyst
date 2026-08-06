@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. Till
+    Date: July 25, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Heavyweight
+    
+
+    Result: TOM ASPINALL defeated JAKE COLLIER via KO/TKO  
+  at 0:45 of round 1
+  Key stats:
+  - TOM ASPINALL landed 10 significant strikes
+  - JAKE COLLIER landed 3 significant strikes
+  - Knockdowns: TOM ASPINALL 1,  JAKE COLLIER 0
+  - Takedowns: TOM ASPINALL 0,  JAKE COLLIER 0
+  Bonus: perf

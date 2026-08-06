@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Zabit vs. Kattar
+    Date : November 09, 2019
+    Location: Moscow, Moscow, Russia
+    Number of Fights: 13
+    Weight Classes: Welterweight, Middleweight, Lightweight, Light Heavyweight, Featherweight, Women's Bantamweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - PANNIE KIANZAD def. JESSICA-ROSE CLARK via Decision - Unanimous(R3)
+- ALEXANDER VOLKOV def. GREG HARDY via Decision - Unanimous(R3)
+- MAGOMED ANKALAEV def. DALCHA LUNGIAMBULA via KO/TKO(R3)
+- DAVEY GRANT def. GRIGORY POPOV via Decision - Split(R3)
+- DAVID ZAWADA def. ABUBAKAR NURMAGOMEDOV via Submission(R1)
+- ANTHONY ROCCO MARTIN def. RAMAZAN EMEEV via Decision - Unanimous(R3)
+- DANNY ROBERTS def. ZELIM IMADAEV via KO/TKO(R2)
+- KARL ROBERSON def. ROMAN KOPYLOV via Submission(R3)
+- ED HERMAN def. KHADIS IBRAGIMOV via Decision - Unanimous(R3)
+- ROOSEVELT ROBERTS def. ALEXANDER YAKOVLEV via Decision - Unanimous(R3)
+- ZABIT MAGOMEDSHARIPOV def. CALVIN KATTAR via Decision - Unanimous(R3)
+- RUSTAM KHABILOV def. SERGEY KHANDOZHKO via Decision - Unanimous(R3)
+- SHAMIL GAMZATOV def. KLIDSON ABREU via Decision - Split(R3)

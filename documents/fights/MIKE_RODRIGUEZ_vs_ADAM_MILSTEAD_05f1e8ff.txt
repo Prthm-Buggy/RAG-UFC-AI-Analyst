@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lee vs. Iaquinta
+    Date: December 15, 2018
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MIKE RODRIGUEZ defeated ADAM MILSTEAD via KO/TKO  
+  at 2:59 of round 1
+  Key stats:
+  - MIKE RODRIGUEZ landed 35 significant strikes
+  - ADAM MILSTEAD landed 10 significant strikes
+  - Knockdowns: MIKE RODRIGUEZ 2,  ADAM MILSTEAD 0
+  - Takedowns: MIKE RODRIGUEZ 0,  ADAM MILSTEAD 0

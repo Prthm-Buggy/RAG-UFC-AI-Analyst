@@ -1,0 +1,13 @@
+Event: UFC 132: Cruz vs Faber
+    Date: July 02, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS LEBEN defeated WANDERLEI SILVA via KO/TKO  
+  at 0:27 of round 1
+  Key stats:
+  - CHRIS LEBEN landed 9 significant strikes
+  - WANDERLEI SILVA landed 3 significant strikes
+  - Knockdowns: CHRIS LEBEN 1,  WANDERLEI SILVA 0
+  - Takedowns: CHRIS LEBEN 0,  WANDERLEI SILVA 0

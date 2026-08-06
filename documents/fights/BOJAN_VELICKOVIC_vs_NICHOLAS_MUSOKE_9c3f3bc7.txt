@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gustafsson vs. Teixeira
+    Date: May 28, 2017
+    Location: Stockholm, Sweden
+    Weight Class: Welterweight
+    
+
+    Result: BOJAN VELICKOVIC defeated NICHOLAS MUSOKE via KO/TKO  
+  at 4:37 of round 3
+  Key stats:
+  - BOJAN VELICKOVIC landed 53 significant strikes
+  - NICHOLAS MUSOKE landed 49 significant strikes
+  - Knockdowns: BOJAN VELICKOVIC 1,  NICHOLAS MUSOKE 0
+  - Takedowns: BOJAN VELICKOVIC 1,  NICHOLAS MUSOKE 1
+  Bonus: perf

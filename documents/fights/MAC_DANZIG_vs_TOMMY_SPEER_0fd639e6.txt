@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Hughes vs. Team Serra Finale
+    Date: December 08, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MAC DANZIG defeated TOMMY SPEER via Submission  
+  at 2:01 of round 1
+  Key stats:
+  - MAC DANZIG landed 10 significant strikes
+  - TOMMY SPEER landed 4 significant strikes
+  - Knockdowns: MAC DANZIG 0,  TOMMY SPEER 0
+  - Takedowns: MAC DANZIG 1,  TOMMY SPEER 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs Bigfoot
+    Date: December 06, 2013
+    Location: Brisbane, Queensland, Australia
+    Weight Class: Middleweight
+    
+
+    Result: CLINT HESTER defeated DYLAN ANDREWS via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - CLINT HESTER landed 27 significant strikes
+  - DYLAN ANDREWS landed 13 significant strikes
+  - Knockdowns: CLINT HESTER 0,  DYLAN ANDREWS 0
+  - Takedowns: CLINT HESTER 1,  DYLAN ANDREWS 2

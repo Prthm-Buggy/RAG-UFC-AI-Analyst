@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Anjos vs. Alvarez
+    Date: July 07, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: EDDIE ALVAREZ defeated RAFAEL DOS ANJOS via KO/TKO  
+  at 3:49 of round 1
+  Key stats:
+  - EDDIE ALVAREZ landed 45 significant strikes
+  - RAFAEL DOS ANJOS landed 12 significant strikes
+  - Knockdowns: EDDIE ALVAREZ 0,  RAFAEL DOS ANJOS 0
+  - Takedowns: EDDIE ALVAREZ 1,  RAFAEL DOS ANJOS 0
+  Bonus: belt

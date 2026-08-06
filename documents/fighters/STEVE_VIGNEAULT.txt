@@ -1,0 +1,11 @@
+Fighter: STEVE VIGNEAULT
+  Date of Birth: 1978-02-14
+  Career record: 1
+  First fight: 2006-03-04
+  Last fight: 2006-03-04
+
+Career Statistics:
+- Significant Strikes Landed :6
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

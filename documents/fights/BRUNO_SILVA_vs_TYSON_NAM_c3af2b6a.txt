@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Yan vs. Dvalishvili
+    Date: March 11, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: BRUNO SILVA defeated TYSON NAM via Submission  
+  at 1:23 of round 2
+  Key stats:
+  - BRUNO SILVA landed 23 significant strikes
+  - TYSON NAM landed 12 significant strikes
+  - Knockdowns: BRUNO SILVA 1,  TYSON NAM 0
+  - Takedowns: BRUNO SILVA 0,  TYSON NAM 0
+  Bonus: perf

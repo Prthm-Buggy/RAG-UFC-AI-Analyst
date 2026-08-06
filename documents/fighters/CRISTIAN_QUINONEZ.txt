@@ -1,0 +1,11 @@
+Fighter: CRISTIAN QUINONEZ
+  Date of Birth: 1996-04-26
+  Career record: 4
+  First fight: 2022-09-03
+  Last fight: 2026-02-28
+
+Career Statistics:
+- Significant Strikes Landed :99
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :2

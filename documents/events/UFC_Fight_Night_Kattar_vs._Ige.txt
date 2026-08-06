@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Kattar vs. Ige
+    Date : July 15, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Bantamweight, Featherweight, Flyweight, Middleweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - TAILA SANTOS def. MOLLY MCCANN via Decision - Unanimous(R3)
+- JACK SHORE def. AARON PHILLIPS via Submission(R2)
+- LERONE MURPHY def. RICARDO RAMOS via KO/TKO(R1)
+- KHAMZAT CHIMAEV def. JOHN PHILLIPS via Submission(R2)
+- MODESTAS BUKAUSKAS def. ANDREAS MICHAILIDIS via KO/TKO(R1)
+- TIM ELLIOTT def. RYAN BENOIT via Decision - Unanimous(R3)
+- LIANA JOJUA def. DIANA BELBITA via Submission(R1)
+- MOUNIR LAZZEZ def. ABDUL RAZAK ALHASSAN via Decision - Unanimous(R3)
+- JIMMIE RIVERA def. CODY STAMANN via Decision - Unanimous(R3)
+- CALVIN KATTAR def. DAN IGE via Decision - Unanimous(R5)
+- JARED GORDON def. CHRIS FISHGOLD via Decision - Unanimous(R3)

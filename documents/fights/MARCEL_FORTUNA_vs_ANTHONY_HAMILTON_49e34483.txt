@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bermudez vs. The Korean Zombie
+    Date: February 04, 2017
+    Location: Houston, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARCEL FORTUNA defeated ANTHONY HAMILTON via KO/TKO  
+  at 3:10 of round 1
+  Key stats:
+  - MARCEL FORTUNA landed 15 significant strikes
+  - ANTHONY HAMILTON landed 14 significant strikes
+  - Knockdowns: MARCEL FORTUNA 1,  ANTHONY HAMILTON 0
+  - Takedowns: MARCEL FORTUNA 0,  ANTHONY HAMILTON 0
+  Bonus: perf

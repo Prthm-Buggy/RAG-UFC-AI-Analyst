@@ -1,0 +1,13 @@
+Event: UFC 32: Showdown in the Meadowlands
+    Date: June 29, 2001
+    Location: East Rutherford, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RICCO RODRIGUEZ defeated ANDREI ARLOVSKI via KO/TKO  
+  at 1:23 of round 3
+  Key stats:
+  - RICCO RODRIGUEZ landed 30 significant strikes
+  - ANDREI ARLOVSKI landed 11 significant strikes
+  - Knockdowns: RICCO RODRIGUEZ 0,  ANDREI ARLOVSKI 0
+  - Takedowns: RICCO RODRIGUEZ 2,  ANDREI ARLOVSKI 0

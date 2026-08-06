@@ -1,0 +1,14 @@
+Event: UFC 159: Jones vs Sonnen
+    Date: April 27, 2013
+    Location: Newark, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ROY NELSON defeated CHEICK KONGO via KO/TKO  
+  at 2:03 of round 1
+  Key stats:
+  - ROY NELSON landed 2 significant strikes
+  - CHEICK KONGO landed 4 significant strikes
+  - Knockdowns: ROY NELSON 1,  CHEICK KONGO 0
+  - Takedowns: ROY NELSON 0,  CHEICK KONGO 0
+  Bonus: ko

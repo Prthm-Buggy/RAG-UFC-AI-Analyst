@@ -1,0 +1,13 @@
+Event: UFC 10: The Tournament
+    Date: July 12, 1996
+    Location: Birmingham, Alabama, USA
+    Weight Class: Open Weight
+    
+
+    Result: MARK COLEMAN defeated GARY GOODRIDGE via Submission  
+  at 7:00 of round 1
+  Key stats:
+  - MARK COLEMAN landed 33 significant strikes
+  - GARY GOODRIDGE landed 3 significant strikes
+  - Knockdowns: MARK COLEMAN 0,  GARY GOODRIDGE 0
+  - Takedowns: MARK COLEMAN 2,  GARY GOODRIDGE 0

@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Heavyweights Finale
+    Date: December 05, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOHN HOWARD defeated DENNIS HALLMAN via KO/TKO  
+  at 4:55 of round 3
+  Key stats:
+  - JOHN HOWARD landed 14 significant strikes
+  - DENNIS HALLMAN landed 8 significant strikes
+  - Knockdowns: JOHN HOWARD 1,  DENNIS HALLMAN 0
+  - Takedowns: JOHN HOWARD 2,  DENNIS HALLMAN 2

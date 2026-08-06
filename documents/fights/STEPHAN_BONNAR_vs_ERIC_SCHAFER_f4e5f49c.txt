@@ -1,0 +1,13 @@
+Event: UFC 77: Hostile Territory
+    Date: October 20, 2007
+    Location: Cincinnati, Ohio, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: STEPHAN BONNAR defeated ERIC SCHAFER via KO/TKO  
+  at 2:47 of round 2
+  Key stats:
+  - STEPHAN BONNAR landed 30 significant strikes
+  - ERIC SCHAFER landed 13 significant strikes
+  - Knockdowns: STEPHAN BONNAR 0,  ERIC SCHAFER 0
+  - Takedowns: STEPHAN BONNAR 0,  ERIC SCHAFER 1

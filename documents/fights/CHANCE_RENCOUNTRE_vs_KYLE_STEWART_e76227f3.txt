@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cejudo vs. Dillashaw
+    Date: January 19, 2019
+    Location: Brooklyn, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHANCE RENCOUNTRE defeated KYLE STEWART via Submission  
+  at 2:25 of round 1
+  Key stats:
+  - CHANCE RENCOUNTRE landed 6 significant strikes
+  - KYLE STEWART landed 2 significant strikes
+  - Knockdowns: CHANCE RENCOUNTRE 0,  KYLE STEWART 0
+  - Takedowns: CHANCE RENCOUNTRE 2,  KYLE STEWART 0

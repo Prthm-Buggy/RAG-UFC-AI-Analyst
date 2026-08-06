@@ -1,0 +1,13 @@
+Event: UFC 217: Bisping vs. St-Pierre
+    Date: November 04, 2017
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: PAULO COSTA defeated JOHNY HENDRICKS via KO/TKO  
+  at 1:23 of round 2
+  Key stats:
+  - PAULO COSTA landed 49 significant strikes
+  - JOHNY HENDRICKS landed 27 significant strikes
+  - Knockdowns: PAULO COSTA 1,  JOHNY HENDRICKS 0
+  - Takedowns: PAULO COSTA 0,  JOHNY HENDRICKS 0

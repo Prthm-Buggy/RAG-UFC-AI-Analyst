@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machado Garry vs. Prates
+    Date: April 26, 2025
+    Location: Kansas City, Missouri, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JAQUELINE AMORIM defeated POLYANA VIANA via Submission  
+  at 1:49 of round 2
+  Key stats:
+  - JAQUELINE AMORIM landed 6 significant strikes
+  - POLYANA VIANA landed 0 significant strikes
+  - Knockdowns: JAQUELINE AMORIM 0,  POLYANA VIANA 0
+  - Takedowns: JAQUELINE AMORIM 2,  POLYANA VIANA 0

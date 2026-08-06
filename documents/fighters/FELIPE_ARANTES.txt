@@ -1,0 +1,11 @@
+Fighter: FELIPE ARANTES
+  Date of Birth: 1988-02-09
+  Career record: 11
+  First fight: 2011-08-27
+  Last fight: 2018-06-23
+
+Career Statistics:
+- Significant Strikes Landed :304
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :7

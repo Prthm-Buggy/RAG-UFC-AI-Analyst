@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Anderson vs. Blachowicz
+    Date: February 15, 2020
+    Location: Rio Rancho, New Mexico, USA
+    Weight Class: Lightweight
+    
+
+    Result: SCOTT HOLTZMAN defeated JIM MILLER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SCOTT HOLTZMAN landed 88 significant strikes
+  - JIM MILLER landed 58 significant strikes
+  - Knockdowns: SCOTT HOLTZMAN 0,  JIM MILLER 0
+  - Takedowns: SCOTT HOLTZMAN 1,  JIM MILLER 0
+  Bonus: fight

@@ -1,0 +1,11 @@
+Fighter: BETHE CORREIA
+  Date of Birth: 1983-06-22
+  Career record: 11
+  First fight: 2013-12-06
+  Last fight: 2021-10-02
+
+Career Statistics:
+- Significant Strikes Landed :621
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

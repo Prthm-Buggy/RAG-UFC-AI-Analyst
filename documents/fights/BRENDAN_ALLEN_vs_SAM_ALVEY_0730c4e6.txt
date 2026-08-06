@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Strickland
+    Date: February 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: BRENDAN ALLEN defeated SAM ALVEY via Submission  
+  at 2:10 of round 2
+  Key stats:
+  - BRENDAN ALLEN landed 36 significant strikes
+  - SAM ALVEY landed 24 significant strikes
+  - Knockdowns: BRENDAN ALLEN 1,  SAM ALVEY 0
+  - Takedowns: BRENDAN ALLEN 0,  SAM ALVEY 0

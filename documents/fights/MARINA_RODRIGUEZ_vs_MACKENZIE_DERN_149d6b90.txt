@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dern vs. Rodriguez
+    Date: October 09, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MARINA RODRIGUEZ defeated MACKENZIE DERN via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MARINA RODRIGUEZ landed 144 significant strikes
+  - MACKENZIE DERN landed 49 significant strikes
+  - Knockdowns: MARINA RODRIGUEZ 0,  MACKENZIE DERN 0
+  - Takedowns: MARINA RODRIGUEZ 0,  MACKENZIE DERN 1
+  Bonus: fight

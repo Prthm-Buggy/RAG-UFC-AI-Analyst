@@ -1,0 +1,13 @@
+Event: UFC 245: Usman vs. Covington
+    Date: December 14, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHASE HOOPER defeated DANIEL TEYMUR via KO/TKO  
+  at 4:34 of round 1
+  Key stats:
+  - CHASE HOOPER landed 20 significant strikes
+  - DANIEL TEYMUR landed 2 significant strikes
+  - Knockdowns: CHASE HOOPER 0,  DANIEL TEYMUR 0
+  - Takedowns: CHASE HOOPER 1,  DANIEL TEYMUR 0

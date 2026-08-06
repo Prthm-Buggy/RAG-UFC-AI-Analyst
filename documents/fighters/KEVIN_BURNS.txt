@@ -1,0 +1,11 @@
+Fighter: KEVIN BURNS
+  Date of Birth: 1980-03-03
+  Career record: 5
+  First fight: 2008-06-07
+  Last fight: 2009-12-12
+
+Career Statistics:
+- Significant Strikes Landed :145
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :3

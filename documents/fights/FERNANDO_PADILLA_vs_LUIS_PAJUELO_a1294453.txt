@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ribas vs. Namajunas
+    Date: March 23, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: FERNANDO PADILLA defeated LUIS PAJUELO via Submission  
+  at 2:45 of round 1
+  Key stats:
+  - FERNANDO PADILLA landed 34 significant strikes
+  - LUIS PAJUELO landed 5 significant strikes
+  - Knockdowns: FERNANDO PADILLA 1,  LUIS PAJUELO 0
+  - Takedowns: FERNANDO PADILLA 0,  LUIS PAJUELO 0
+  Bonus: perf

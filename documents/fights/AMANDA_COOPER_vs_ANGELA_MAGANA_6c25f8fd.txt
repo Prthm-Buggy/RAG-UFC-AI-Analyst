@@ -1,0 +1,13 @@
+Event: UFC 218: Holloway vs. Aldo 2
+    Date: December 02, 2017
+    Location: Detroit, Michigan, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: AMANDA COOPER defeated ANGELA MAGANA via KO/TKO  
+  at 4:34 of round 2
+  Key stats:
+  - AMANDA COOPER landed 40 significant strikes
+  - ANGELA MAGANA landed 12 significant strikes
+  - Knockdowns: AMANDA COOPER 0,  ANGELA MAGANA 0
+  - Takedowns: AMANDA COOPER 1,  ANGELA MAGANA 0

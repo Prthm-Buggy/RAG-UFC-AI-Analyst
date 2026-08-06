@@ -1,0 +1,11 @@
+Fighter: ANDRE MUNIZ
+  Date of Birth: 1990-02-17
+  Career record: 10
+  First fight: 2019-11-16
+  Last fight: 2025-10-04
+
+Career Statistics:
+- Significant Strikes Landed :170
+- Total takedowns landed :25
+- Knockdowns :0
+- Submission Attempts :7

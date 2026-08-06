@@ -1,0 +1,13 @@
+Event: UFC 215: Nunes vs Shevchenko 2
+    Date: September 09, 2017
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Women's Bantamweight
+    
+
+    Result: KETLEN VIEIRA defeated SARA MCMANN via Submission  
+  at 4:16 of round 2
+  Key stats:
+  - KETLEN VIEIRA landed 17 significant strikes
+  - SARA MCMANN landed 29 significant strikes
+  - Knockdowns: KETLEN VIEIRA 0,  SARA MCMANN 0
+  - Takedowns: KETLEN VIEIRA 1,  SARA MCMANN 1

@@ -1,0 +1,11 @@
+Fighter: RICK STORY
+  Date of Birth: 1984-08-28
+  Career record: 19
+  First fight: 2009-06-13
+  Last fight: 2016-08-20
+
+Career Statistics:
+- Significant Strikes Landed :901
+- Total takedowns landed :40
+- Knockdowns :6
+- Submission Attempts :14

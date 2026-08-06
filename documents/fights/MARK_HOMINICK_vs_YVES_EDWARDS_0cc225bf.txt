@@ -1,0 +1,13 @@
+Event: UFC 58: USA vs Canada
+    Date: March 04, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MARK HOMINICK defeated YVES EDWARDS via Submission  
+  at 1:52 of round 2
+  Key stats:
+  - MARK HOMINICK landed 22 significant strikes
+  - YVES EDWARDS landed 20 significant strikes
+  - Knockdowns: MARK HOMINICK 0,  YVES EDWARDS 0
+  - Takedowns: MARK HOMINICK 0,  YVES EDWARDS 1

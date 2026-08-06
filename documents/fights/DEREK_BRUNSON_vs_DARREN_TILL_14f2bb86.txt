@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brunson vs. Till
+    Date: September 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DEREK BRUNSON defeated DARREN TILL via Submission  
+  at 2:13 of round 3
+  Key stats:
+  - DEREK BRUNSON landed 41 significant strikes
+  - DARREN TILL landed 26 significant strikes
+  - Knockdowns: DEREK BRUNSON 0,  DARREN TILL 0
+  - Takedowns: DEREK BRUNSON 3,  DARREN TILL 0

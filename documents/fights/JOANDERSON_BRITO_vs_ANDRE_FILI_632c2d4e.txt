@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Font vs. Vera
+    Date: April 30, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JOANDERSON BRITO defeated ANDRE FILI via KO/TKO  
+  at 0:41 of round 1
+  Key stats:
+  - JOANDERSON BRITO landed 14 significant strikes
+  - ANDRE FILI landed 6 significant strikes
+  - Knockdowns: JOANDERSON BRITO 1,  ANDRE FILI 0
+  - Takedowns: JOANDERSON BRITO 0,  ANDRE FILI 0
+  Bonus: perf

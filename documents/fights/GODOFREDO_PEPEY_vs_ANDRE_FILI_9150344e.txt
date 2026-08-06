@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Maia vs LaFlare
+    Date: March 21, 2015
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: GODOFREDO PEPEY defeated ANDRE FILI via Submission  
+  at 3:14 of round 1
+  Key stats:
+  - GODOFREDO PEPEY landed 1 significant strikes
+  - ANDRE FILI landed 1 significant strikes
+  - Knockdowns: GODOFREDO PEPEY 0,  ANDRE FILI 0
+  - Takedowns: GODOFREDO PEPEY 0,  ANDRE FILI 0
+  Bonus: perf

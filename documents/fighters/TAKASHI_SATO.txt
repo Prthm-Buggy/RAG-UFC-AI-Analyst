@@ -1,0 +1,11 @@
+Fighter: TAKASHI SATO
+  Date of Birth: 1990-06-09
+  Career record: 7
+  First fight: 2019-04-27
+  Last fight: 2023-05-20
+
+Career Statistics:
+- Significant Strikes Landed :131
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :0

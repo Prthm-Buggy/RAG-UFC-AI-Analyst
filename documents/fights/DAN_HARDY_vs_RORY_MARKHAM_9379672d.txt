@@ -1,0 +1,13 @@
+Event: UFC 95: Sanchez vs Stevenson
+    Date: February 21, 2009
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: DAN HARDY defeated RORY MARKHAM via KO/TKO  
+  at 1:09 of round 1
+  Key stats:
+  - DAN HARDY landed 5 significant strikes
+  - RORY MARKHAM landed 2 significant strikes
+  - Knockdowns: DAN HARDY 1,  RORY MARKHAM 0
+  - Takedowns: DAN HARDY 0,  RORY MARKHAM 0

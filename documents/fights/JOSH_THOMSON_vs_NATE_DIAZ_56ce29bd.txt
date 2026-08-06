@@ -1,0 +1,14 @@
+Event: UFC on FOX: Henderson vs Melendez
+    Date: April 20, 2013
+    Location: San Jose, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOSH THOMSON defeated NATE DIAZ via KO/TKO  
+  at 3:44 of round 2
+  Key stats:
+  - JOSH THOMSON landed 36 significant strikes
+  - NATE DIAZ landed 21 significant strikes
+  - Knockdowns: JOSH THOMSON 1,  NATE DIAZ 0
+  - Takedowns: JOSH THOMSON 1,  NATE DIAZ 1
+  Bonus: ko

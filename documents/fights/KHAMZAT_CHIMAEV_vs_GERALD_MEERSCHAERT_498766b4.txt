@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Covington vs. Woodley
+    Date: September 19, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: KHAMZAT CHIMAEV defeated GERALD MEERSCHAERT via KO/TKO  
+  at 0:17 of round 1
+  Key stats:
+  - KHAMZAT CHIMAEV landed 4 significant strikes
+  - GERALD MEERSCHAERT landed 0 significant strikes
+  - Knockdowns: KHAMZAT CHIMAEV 1,  GERALD MEERSCHAERT 0
+  - Takedowns: KHAMZAT CHIMAEV 0,  GERALD MEERSCHAERT 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: GUIDO CANNETTI
+  Date of Birth: 1979-12-19
+  Career record: 10
+  First fight: 2014-11-15
+  Last fight: 2023-03-11
+
+Career Statistics:
+- Significant Strikes Landed :250
+- Total takedowns landed :11
+- Knockdowns :0
+- Submission Attempts :2

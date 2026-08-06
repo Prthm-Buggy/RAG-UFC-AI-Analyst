@@ -1,0 +1,11 @@
+Fighter: KIEFER CROSBIE
+  Date of Birth: 1990-04-05
+  Career record: 3
+  First fight: 2023-09-09
+  Last fight: 2025-08-23
+
+Career Statistics:
+- Significant Strikes Landed :50
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

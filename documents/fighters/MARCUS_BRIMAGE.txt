@@ -1,0 +1,11 @@
+Fighter: MARCUS BRIMAGE
+  Date of Birth: 1985-04-06
+  Career record: 8
+  First fight: 2011-12-03
+  Last fight: 2015-07-18
+
+Career Statistics:
+- Significant Strikes Landed :319
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :0

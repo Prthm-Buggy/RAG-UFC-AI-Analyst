@@ -1,0 +1,11 @@
+Fighter: WILLIAM GOMIS
+  Date of Birth: 1997-06-13
+  Career record: 7
+  First fight: 2022-09-03
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :327
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :2

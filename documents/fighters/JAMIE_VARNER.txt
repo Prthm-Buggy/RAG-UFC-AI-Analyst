@@ -1,0 +1,11 @@
+Fighter: JAMIE VARNER
+  Date of Birth: 1984-10-12
+  Career record: 9
+  First fight: 2006-08-26
+  Last fight: 2014-12-13
+
+Career Statistics:
+- Significant Strikes Landed :243
+- Total takedowns landed :23
+- Knockdowns :2
+- Submission Attempts :6

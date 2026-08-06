@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gustafsson vs Manuwa
+    Date: March 08, 2014
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: ILIR LATIFI defeated CYRILLE DIABATE via Submission  
+  at 3:02 of round 1
+  Key stats:
+  - ILIR LATIFI landed 0 significant strikes
+  - CYRILLE DIABATE landed 0 significant strikes
+  - Knockdowns: ILIR LATIFI 0,  CYRILLE DIABATE 0
+  - Takedowns: ILIR LATIFI 1,  CYRILLE DIABATE 0

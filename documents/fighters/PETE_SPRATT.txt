@@ -1,0 +1,11 @@
+Fighter: PETE SPRATT
+  Date of Birth: 1971-01-09
+  Career record: 7
+  First fight: 2002-06-22
+  Last fight: 2007-06-12
+
+Career Statistics:
+- Significant Strikes Landed :61
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

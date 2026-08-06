@@ -1,0 +1,13 @@
+Event: UFC Fight Night: MacDonald vs Thompson
+    Date: June 18, 2016
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Flyweight
+    
+
+    Result: ALI BAGAUTINOV defeated GEANE HERRERA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALI BAGAUTINOV landed 90 significant strikes
+  - GEANE HERRERA landed 13 significant strikes
+  - Knockdowns: ALI BAGAUTINOV 0,  GEANE HERRERA 0
+  - Takedowns: ALI BAGAUTINOV 5,  GEANE HERRERA 1

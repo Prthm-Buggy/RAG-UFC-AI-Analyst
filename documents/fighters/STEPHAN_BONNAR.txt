@@ -1,0 +1,11 @@
+Fighter: STEPHAN BONNAR
+  Date of Birth: 1977-04-04
+  Career record: 15
+  First fight: 2005-04-09
+  Last fight: 2012-10-13
+
+Career Statistics:
+- Significant Strikes Landed :459
+- Total takedowns landed :17
+- Knockdowns :2
+- Submission Attempts :13

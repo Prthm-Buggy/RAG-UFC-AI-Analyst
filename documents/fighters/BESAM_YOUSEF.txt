@@ -1,0 +1,11 @@
+Fighter: BESAM YOUSEF
+  Date of Birth: 1985-03-25
+  Career record: 2
+  First fight: 2012-04-14
+  Last fight: 2013-04-06
+
+Career Statistics:
+- Significant Strikes Landed :71
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

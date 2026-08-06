@@ -1,0 +1,13 @@
+Event: UFC 7: The Brawl in Buffalo
+    Date: September 08, 1995
+    Location: Buffalo, New York, USA
+    Weight Class: Open Weight
+    
+
+    Result: MARK HALL defeated HAROLD HOWARD via KO/TKO  
+  at 1:41 of round 1
+  Key stats:
+  - MARK HALL landed 1 significant strikes
+  - HAROLD HOWARD landed 4 significant strikes
+  - Knockdowns: MARK HALL 0,  HAROLD HOWARD 0
+  - Takedowns: MARK HALL 0,  HAROLD HOWARD 1

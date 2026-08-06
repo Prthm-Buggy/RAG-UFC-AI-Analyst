@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Holloway vs. The Korean Zombie
+    Date : August 26, 2023
+    Location: Kallang, Singapore
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Heavyweight, Women's Flyweight, Light Heavyweight, Featherweight, Welterweight, Middleweight
+
+    Fight Results:
+  - GARRETT ARMFIELD def. TOSHIOMI KAZAMA via KO/TKO(R1)
+- JJ ALDRICH def. LIANG NA via KO/TKO(R2)
+- BILLY RAY GOFF def. YUSAKU KINOSHITA via KO/TKO(R1)
+- RINYA NAKAMURA def. FERNIE GARCIA via Decision - Unanimous(R3)
+- JUNIOR TAFA def. PARKER PORTER via KO/TKO(R1)
+- MICHAL OLEKSIEJCZUK def. CHIDI NJOKUANI via KO/TKO(R1)
+- SEUNGWOO CHOI def. JARNO ERRENS via Decision - Unanimous(R3)
+- MAX HOLLOWAY def. CHAN SUNG JUNG via KO/TKO(R3)
+- ANTHONY SMITH def. RYAN SPANN via Decision - Split(R3)
+- GIGA CHIKADZE def. ALEX CACERES via Decision - Unanimous(R3)
+- WALDO CORTES ACOSTA def. LUKASZ BRZESKI via KO/TKO(R1)
+- ERIN BLANCHFIELD def. TAILA SANTOS via Decision - Unanimous(R3)
+- SONG KENAN def. ROLANDO BEDOYA via Decision - Unanimous(R3)

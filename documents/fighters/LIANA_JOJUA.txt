@@ -1,0 +1,11 @@
+Fighter: LIANA JOJUA
+  Date of Birth: 1995-03-22
+  Career record: 4
+  First fight: 2019-09-07
+  Last fight: 2021-11-13
+
+Career Statistics:
+- Significant Strikes Landed :85
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :3

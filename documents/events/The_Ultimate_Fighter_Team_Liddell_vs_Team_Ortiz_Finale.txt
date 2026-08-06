@@ -1,0 +1,17 @@
+Event : The Ultimate Fighter: Team Liddell vs Team Ortiz Finale
+    Date : June 19, 2010
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Middleweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - TRAVIS BROWNE def. JAMES MCSWEENEY via KO/TKO(R1)
+- KYLE NOKE def. JOSH BRYANT via KO/TKO(R2)
+- RICH ATTONITO def. JAMIE YAGER via KO/TKO(R2)
+- COURT MCGEE def. KRIS MCCRAY via Submission(R2)
+- BRAD TAVARES def. SETH BACZYNSKI via Decision - Unanimous(R3)
+- CHRIS LEBEN def. AARON SIMPSON via KO/TKO(R2)
+- DENNIS SIVER def. SPENCER FISHER via Decision - Unanimous(R3)
+- MATT HAMILL def. KEITH JARDINE via Decision - Majority(R3)
+- CHRIS CAMOZZI def. JAMES HAMMORTREE via Decision - Unanimous(R3)
+- JOHN GUNDERSON def. MARK HOLST via Decision - Unanimous(R3)

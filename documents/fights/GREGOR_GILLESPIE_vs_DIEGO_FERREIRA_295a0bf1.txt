@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Waterson
+    Date: May 08, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: GREGOR GILLESPIE defeated DIEGO FERREIRA via KO/TKO  
+  at 4:51 of round 2
+  Key stats:
+  - GREGOR GILLESPIE landed 45 significant strikes
+  - DIEGO FERREIRA landed 31 significant strikes
+  - Knockdowns: GREGOR GILLESPIE 0,  DIEGO FERREIRA 0
+  - Takedowns: GREGOR GILLESPIE 4,  DIEGO FERREIRA 0
+  Bonus: fight

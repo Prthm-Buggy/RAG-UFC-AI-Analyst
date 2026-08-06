@@ -1,0 +1,13 @@
+Event: UFC 250: Nunes vs. Spencer
+    Date: June 06, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: IAN HEINISCH defeated GERALD MEERSCHAERT via KO/TKO  
+  at 1:14 of round 1
+  Key stats:
+  - IAN HEINISCH landed 20 significant strikes
+  - GERALD MEERSCHAERT landed 3 significant strikes
+  - Knockdowns: IAN HEINISCH 1,  GERALD MEERSCHAERT 0
+  - Takedowns: IAN HEINISCH 0,  GERALD MEERSCHAERT 0

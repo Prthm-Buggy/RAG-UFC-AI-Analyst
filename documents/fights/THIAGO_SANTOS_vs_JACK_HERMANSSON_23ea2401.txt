@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brunson vs. Machida
+    Date: October 28, 2017
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: THIAGO SANTOS defeated JACK HERMANSSON via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - THIAGO SANTOS landed 28 significant strikes
+  - JACK HERMANSSON landed 5 significant strikes
+  - Knockdowns: THIAGO SANTOS 1,  JACK HERMANSSON 0
+  - Takedowns: THIAGO SANTOS 0,  JACK HERMANSSON 0

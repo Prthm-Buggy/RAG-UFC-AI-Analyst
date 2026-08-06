@@ -1,0 +1,18 @@
+Event : UFC 113: Machida vs Shogun 2
+    Date : May 08, 2010
+    Location: Montreal, Quebec, Canada
+    Number of Fights: 11
+    Weight Classes: Welterweight, Light Heavyweight, Lightweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - JEREMY STEPHENS def. SAM STOUT via Decision - Split(R3)
+- JOHN SALTER def. JASON MACDONALD via KO/TKO(R1)
+- JOHNY HENDRICKS def. TJ GRANT via Decision - Majority(R3)
+- JOSH KOSCHECK def. PAUL DALEY via Decision - Unanimous(R3)
+- MATT MITRIONE def. KEVIN FERGUSON via KO/TKO(R2)
+- MAURICIO RUA def. LYOTO MACHIDA via KO/TKO(R1)
+- MIKE GUYMON def. YOSHIYUKI YOSHIDA via Decision - Unanimous(R3)
+- JOEY BELTRAN def. TIM HAGUE via Decision - Unanimous(R3)
+- MARCUS DAVIS def. JONATHAN GOULET via KO/TKO(R2)
+- JOE DOERKSEN def. TOM LAWLOR via Submission(R2)
+- ALAN BELCHER def. PATRICK COTE via Submission(R2)

@@ -1,0 +1,14 @@
+Event: UFC 190: Rousey vs Correia
+    Date: August 01, 2015
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: GLAICO FRANCA MOREIRA defeated FERNANDO BRUNO via Submission  
+  at 4:46 of round 3
+  Key stats:
+  - GLAICO FRANCA MOREIRA landed 23 significant strikes
+  - FERNANDO BRUNO landed 20 significant strikes
+  - Knockdowns: GLAICO FRANCA MOREIRA 0,  FERNANDO BRUNO 0
+  - Takedowns: GLAICO FRANCA MOREIRA 4,  FERNANDO BRUNO 2
+  Bonus: belt

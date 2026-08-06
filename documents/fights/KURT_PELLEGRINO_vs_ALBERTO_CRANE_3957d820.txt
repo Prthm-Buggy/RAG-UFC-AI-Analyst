@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Swick vs Burkman
+    Date: January 23, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: KURT PELLEGRINO defeated ALBERTO CRANE via KO/TKO  
+  at 1:55 of round 2
+  Key stats:
+  - KURT PELLEGRINO landed 23 significant strikes
+  - ALBERTO CRANE landed 4 significant strikes
+  - Knockdowns: KURT PELLEGRINO 0,  ALBERTO CRANE 1
+  - Takedowns: KURT PELLEGRINO 1,  ALBERTO CRANE 0
+  Bonus: fight

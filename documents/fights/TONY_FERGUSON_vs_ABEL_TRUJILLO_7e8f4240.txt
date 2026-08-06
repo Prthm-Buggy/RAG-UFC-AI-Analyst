@@ -1,0 +1,13 @@
+Event: UFC 181: Hendricks vs Lawler II
+    Date: December 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TONY FERGUSON defeated ABEL TRUJILLO via Submission  
+  at 4:19 of round 2
+  Key stats:
+  - TONY FERGUSON landed 20 significant strikes
+  - ABEL TRUJILLO landed 15 significant strikes
+  - Knockdowns: TONY FERGUSON 0,  ABEL TRUJILLO 1
+  - Takedowns: TONY FERGUSON 1,  ABEL TRUJILLO 2

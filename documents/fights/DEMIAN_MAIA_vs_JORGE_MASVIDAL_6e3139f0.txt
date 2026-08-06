@@ -1,0 +1,13 @@
+Event: UFC 211: Miocic vs. Dos Santos
+    Date: May 13, 2017
+    Location: Dallas, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: DEMIAN MAIA defeated JORGE MASVIDAL via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - DEMIAN MAIA landed 23 significant strikes
+  - JORGE MASVIDAL landed 39 significant strikes
+  - Knockdowns: DEMIAN MAIA 0,  JORGE MASVIDAL 0
+  - Takedowns: DEMIAN MAIA 4,  JORGE MASVIDAL 0

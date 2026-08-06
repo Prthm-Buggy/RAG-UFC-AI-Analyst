@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Marreta vs. Anders
+    Date: September 22, 2018
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated CHRISTOS GIAGOS via Submission  
+  at 3:22 of round 2
+  Key stats:
+  - CHARLES OLIVEIRA landed 28 significant strikes
+  - CHRISTOS GIAGOS landed 18 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  CHRISTOS GIAGOS 0
+  - Takedowns: CHARLES OLIVEIRA 2,  CHRISTOS GIAGOS 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cowboy vs Miller
+    Date: July 16, 2014
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: DONALD CERRONE defeated JIM MILLER via KO/TKO  
+  at 3:31 of round 2
+  Key stats:
+  - DONALD CERRONE landed 37 significant strikes
+  - JIM MILLER landed 30 significant strikes
+  - Knockdowns: DONALD CERRONE 1,  JIM MILLER 0
+  - Takedowns: DONALD CERRONE 0,  JIM MILLER 1
+  Bonus: perf

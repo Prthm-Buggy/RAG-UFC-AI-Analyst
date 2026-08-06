@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Edwards
+    Date: July 20, 2019
+    Location: San Antonio, Texas, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KLIDSON ABREU defeated SAM ALVEY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KLIDSON ABREU landed 36 significant strikes
+  - SAM ALVEY landed 28 significant strikes
+  - Knockdowns: KLIDSON ABREU 0,  SAM ALVEY 0
+  - Takedowns: KLIDSON ABREU 1,  SAM ALVEY 0

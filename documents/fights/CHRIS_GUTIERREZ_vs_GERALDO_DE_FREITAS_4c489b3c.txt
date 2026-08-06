@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shevchenko vs. Carmouche 2
+    Date: August 10, 2019
+    Location: Montevideo, Uruguay
+    Weight Class: Bantamweight
+    
+
+    Result: CHRIS GUTIERREZ defeated GERALDO DE FREITAS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CHRIS GUTIERREZ landed 48 significant strikes
+  - GERALDO DE FREITAS landed 40 significant strikes
+  - Knockdowns: CHRIS GUTIERREZ 0,  GERALDO DE FREITAS 0
+  - Takedowns: CHRIS GUTIERREZ 1,  GERALDO DE FREITAS 2

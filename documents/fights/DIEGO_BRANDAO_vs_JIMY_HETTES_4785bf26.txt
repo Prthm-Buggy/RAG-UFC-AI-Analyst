@@ -1,0 +1,13 @@
+Event: UFC on FOX: Machida vs Rockhold
+    Date: April 18, 2015
+    Location: Newark, New Jersey, USA
+    Weight Class: Featherweight
+    
+
+    Result: DIEGO BRANDAO defeated JIMY HETTES via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - DIEGO BRANDAO landed 12 significant strikes
+  - JIMY HETTES landed 11 significant strikes
+  - Knockdowns: DIEGO BRANDAO 0,  JIMY HETTES 0
+  - Takedowns: DIEGO BRANDAO 2,  JIMY HETTES 1

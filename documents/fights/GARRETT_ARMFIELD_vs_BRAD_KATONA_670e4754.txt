@@ -1,0 +1,13 @@
+Event: UFC 297: Strickland vs. Du Plessis
+    Date: January 20, 2024
+    Location: Toronto, Ontario, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: GARRETT ARMFIELD defeated BRAD KATONA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - GARRETT ARMFIELD landed 105 significant strikes
+  - BRAD KATONA landed 64 significant strikes
+  - Knockdowns: GARRETT ARMFIELD 0,  BRAD KATONA 0
+  - Takedowns: GARRETT ARMFIELD 0,  BRAD KATONA 4

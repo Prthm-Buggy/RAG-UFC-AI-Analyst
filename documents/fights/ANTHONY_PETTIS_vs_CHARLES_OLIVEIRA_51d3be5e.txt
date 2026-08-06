@@ -1,0 +1,13 @@
+Event: UFC on FOX: Maia vs. Condit
+    Date: August 27, 2016
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Featherweight
+    
+
+    Result: ANTHONY PETTIS defeated CHARLES OLIVEIRA via Submission  
+  at 1:49 of round 3
+  Key stats:
+  - ANTHONY PETTIS landed 53 significant strikes
+  - CHARLES OLIVEIRA landed 41 significant strikes
+  - Knockdowns: ANTHONY PETTIS 0,  CHARLES OLIVEIRA 0
+  - Takedowns: ANTHONY PETTIS 0,  CHARLES OLIVEIRA 4

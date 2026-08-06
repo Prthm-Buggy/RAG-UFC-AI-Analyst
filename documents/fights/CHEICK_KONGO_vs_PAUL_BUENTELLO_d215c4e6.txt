@@ -1,0 +1,13 @@
+Event: UFC Live: Vera vs Jones
+    Date: March 21, 2010
+    Location: Broomfield, Colorado, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHEICK KONGO defeated PAUL BUENTELLO via KO/TKO  
+  at 1:16 of round 3
+  Key stats:
+  - CHEICK KONGO landed 53 significant strikes
+  - PAUL BUENTELLO landed 3 significant strikes
+  - Knockdowns: CHEICK KONGO 0,  PAUL BUENTELLO 0
+  - Takedowns: CHEICK KONGO 9,  PAUL BUENTELLO 0

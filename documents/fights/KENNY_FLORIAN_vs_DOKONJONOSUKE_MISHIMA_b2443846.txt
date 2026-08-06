@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Stevenson vs Guillard
+    Date: April 05, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: KENNY FLORIAN defeated DOKONJONOSUKE MISHIMA via Submission  
+  at 3:57 of round 3
+  Key stats:
+  - KENNY FLORIAN landed 38 significant strikes
+  - DOKONJONOSUKE MISHIMA landed 6 significant strikes
+  - Knockdowns: KENNY FLORIAN 0,  DOKONJONOSUKE MISHIMA 0
+  - Takedowns: KENNY FLORIAN 1,  DOKONJONOSUKE MISHIMA 1
+  Bonus: fight

@@ -1,0 +1,11 @@
+Fighter: MARCELO GUIMARAES
+  Date of Birth: 1983-06-25
+  Career record: 4
+  First fight: 2012-07-11
+  Last fight: 2016-03-05
+
+Career Statistics:
+- Significant Strikes Landed :211
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :0

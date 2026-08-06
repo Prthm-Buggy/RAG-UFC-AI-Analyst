@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Fiziev vs. Gamrot
+    Date: September 23, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHARLES JOURDAIN defeated RICARDO RAMOS via Submission  
+  at 3:12 of round 1
+  Key stats:
+  - CHARLES JOURDAIN landed 8 significant strikes
+  - RICARDO RAMOS landed 0 significant strikes
+  - Knockdowns: CHARLES JOURDAIN 0,  RICARDO RAMOS 0
+  - Takedowns: CHARLES JOURDAIN 0,  RICARDO RAMOS 2
+  Bonus: perf

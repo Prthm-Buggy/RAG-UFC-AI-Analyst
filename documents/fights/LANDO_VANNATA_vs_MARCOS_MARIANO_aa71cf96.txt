@@ -1,0 +1,13 @@
+Event: UFC 234: Adesanya vs. Silva
+    Date: February 09, 2019
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Lightweight
+    
+
+    Result: LANDO VANNATA defeated MARCOS MARIANO via Submission  
+  at 4:55 of round 1
+  Key stats:
+  - LANDO VANNATA landed 20 significant strikes
+  - MARCOS MARIANO landed 3 significant strikes
+  - Knockdowns: LANDO VANNATA 0,  MARCOS MARIANO 0
+  - Takedowns: LANDO VANNATA 1,  MARCOS MARIANO 0

@@ -1,0 +1,9 @@
+Event : UFC - Road to UFC 4.6
+    Date : August 22, 2025
+    Location: Shanghai, Hebei, China
+    Number of Fights: 2
+    Weight Classes: None
+
+    Fight Results:
+  - BRUNA BRASIL def. SHI MING via Decision - Unanimous(R3)
+- NYAMJARGAL TUMENDEMBEREL def. TERRANCE SAETEURN via Submission(R1)

@@ -1,0 +1,14 @@
+Event: UFC 293: Adesanya vs. Strickland
+    Date: September 09, 2023
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: JUSTIN TAFA defeated AUSTEN LANE via KO/TKO  
+  at 1:22 of round 1
+  Key stats:
+  - JUSTIN TAFA landed 11 significant strikes
+  - AUSTEN LANE landed 7 significant strikes
+  - Knockdowns: JUSTIN TAFA 1,  AUSTEN LANE 0
+  - Takedowns: JUSTIN TAFA 0,  AUSTEN LANE 0
+  Bonus: perf

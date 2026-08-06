@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Ribas 2
+    Date: January 11, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ERNESTA KARECKAITE defeated NICOLLE CALIARI via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ERNESTA KARECKAITE landed 95 significant strikes
+  - NICOLLE CALIARI landed 67 significant strikes
+  - Knockdowns: ERNESTA KARECKAITE 0,  NICOLLE CALIARI 0
+  - Takedowns: ERNESTA KARECKAITE 0,  NICOLLE CALIARI 3

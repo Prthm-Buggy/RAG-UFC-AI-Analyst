@@ -1,0 +1,14 @@
+Event: UFC 150: Henderson vs Edgar II
+    Date: August 11, 2012
+    Location: Denver, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: DONALD CERRONE defeated MELVIN GUILLARD via KO/TKO  
+  at 1:16 of round 1
+  Key stats:
+  - DONALD CERRONE landed 4 significant strikes
+  - MELVIN GUILLARD landed 10 significant strikes
+  - Knockdowns: DONALD CERRONE 1,  MELVIN GUILLARD 1
+  - Takedowns: DONALD CERRONE 0,  MELVIN GUILLARD 0
+  Bonus: fight

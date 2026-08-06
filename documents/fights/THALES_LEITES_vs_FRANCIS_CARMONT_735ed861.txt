@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Henderson vs Dos Anjos
+    Date: August 23, 2014
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Middleweight
+    
+
+    Result: THALES LEITES defeated FRANCIS CARMONT via KO/TKO  
+  at 0:20 of round 2
+  Key stats:
+  - THALES LEITES landed 18 significant strikes
+  - FRANCIS CARMONT landed 18 significant strikes
+  - Knockdowns: THALES LEITES 1,  FRANCIS CARMONT 0
+  - Takedowns: THALES LEITES 0,  FRANCIS CARMONT 0
+  Bonus: perf

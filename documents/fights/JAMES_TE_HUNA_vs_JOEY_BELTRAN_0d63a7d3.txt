@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Munoz vs Weidman
+    Date: July 11, 2012
+    Location: San Jose, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAMES TE HUNA defeated JOEY BELTRAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JAMES TE HUNA landed 122 significant strikes
+  - JOEY BELTRAN landed 73 significant strikes
+  - Knockdowns: JAMES TE HUNA 1,  JOEY BELTRAN 0
+  - Takedowns: JAMES TE HUNA 3,  JOEY BELTRAN 1
+  Bonus: fight

@@ -1,0 +1,14 @@
+Event: UFC 133: Evans vs Ortiz 2
+    Date: August 06, 2011
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RASHAD EVANS defeated TITO ORTIZ via KO/TKO  
+  at 4:48 of round 2
+  Key stats:
+  - RASHAD EVANS landed 48 significant strikes
+  - TITO ORTIZ landed 5 significant strikes
+  - Knockdowns: RASHAD EVANS 0,  TITO ORTIZ 0
+  - Takedowns: RASHAD EVANS 1,  TITO ORTIZ 1
+  Bonus: fight

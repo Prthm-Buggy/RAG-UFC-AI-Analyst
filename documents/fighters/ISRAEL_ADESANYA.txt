@@ -1,0 +1,11 @@
+Fighter: ISRAEL ADESANYA
+  Date of Birth: 1989-07-22
+  Career record: 19
+  First fight: 2018-02-10
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :1313
+- Total takedowns landed :1
+- Knockdowns :13
+- Submission Attempts :3

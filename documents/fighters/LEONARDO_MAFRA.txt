@@ -1,0 +1,11 @@
+Fighter: LEONARDO MAFRA
+  Date of Birth: 1989-04-25
+  Career record: 4
+  First fight: 2012-06-23
+  Last fight: 2015-07-18
+
+Career Statistics:
+- Significant Strikes Landed :161
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: UFC 51: Super Saturday
+    Date: February 05, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAVID LOISEAU defeated GIDEON RAY via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - DAVID LOISEAU landed 17 significant strikes
+  - GIDEON RAY landed 11 significant strikes
+  - Knockdowns: DAVID LOISEAU 2,  GIDEON RAY 0
+  - Takedowns: DAVID LOISEAU 0,  GIDEON RAY 1

@@ -1,0 +1,13 @@
+Event: UFC 46: Supernatural
+    Date: January 31, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANK MIR defeated WES SIMS via KO/TKO  
+  at 4:21 of round 2
+  Key stats:
+  - FRANK MIR landed 28 significant strikes
+  - WES SIMS landed 18 significant strikes
+  - Knockdowns: FRANK MIR 1,  WES SIMS 0
+  - Takedowns: FRANK MIR 4,  WES SIMS 0

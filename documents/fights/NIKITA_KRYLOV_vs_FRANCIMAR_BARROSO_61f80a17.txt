@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs Arlovski
+    Date: May 08, 2016
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Light Heavyweight
+    
+
+    Result: NIKITA KRYLOV defeated FRANCIMAR BARROSO via Submission  
+  at 3:11 of round 2
+  Key stats:
+  - NIKITA KRYLOV landed 58 significant strikes
+  - FRANCIMAR BARROSO landed 22 significant strikes
+  - Knockdowns: NIKITA KRYLOV 0,  FRANCIMAR BARROSO 0
+  - Takedowns: NIKITA KRYLOV 0,  FRANCIMAR BARROSO 2

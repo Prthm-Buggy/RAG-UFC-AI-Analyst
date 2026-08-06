@@ -1,0 +1,17 @@
+Event : UFC on FX: Browne vs Bigfoot
+    Date : October 05, 2012
+    Location: Minneapolis, Minnesota, USA
+    Number of Fights: 10
+    Weight Classes: Welterweight, Lightweight, Flyweight, Featherweight, Heavyweight
+
+    Fight Results:
+  - MIKE PIERCE def. AARON SIMPSON via KO/TKO(R2)
+- MICHAEL JOHNSON def. DANNY CASTILLO via KO/TKO(R2)
+- JOHN DODSON def. JUSSIER FORMIGA via KO/TKO(R2)
+- DIEGO NUNES def. BART PALASZEWSKI via Decision - Unanimous(R3)
+- DARREN UYENOYAMA def. PHIL HARRIS via Submission(R2)
+- JACOB VOLKMANN def. SHANE ROLLER via Submission(R1)
+- ANTONIO SILVA def. TRAVIS BROWNE via KO/TKO(R1)
+- JUSTIN EDWARDS def. JOSH NEER via Submission(R1)
+- MARCUS LEVESSEUR def. CARLO PRATER via Decision - Split(R3)
+- JAKE ELLENBERGER def. JAY HIERON via Decision - Unanimous(R3)

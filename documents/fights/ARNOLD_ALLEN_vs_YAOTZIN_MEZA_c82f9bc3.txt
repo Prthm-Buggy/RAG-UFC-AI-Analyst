@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Silva vs Bisping
+    Date: February 27, 2016
+    Location: London, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: ARNOLD ALLEN defeated YAOTZIN MEZA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ARNOLD ALLEN landed 31 significant strikes
+  - YAOTZIN MEZA landed 25 significant strikes
+  - Knockdowns: ARNOLD ALLEN 1,  YAOTZIN MEZA 0
+  - Takedowns: ARNOLD ALLEN 4,  YAOTZIN MEZA 0

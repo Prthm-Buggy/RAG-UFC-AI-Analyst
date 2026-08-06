@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Gaethje
+    Date: April 14, 2018
+    Location: Glendale, Arizona, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANTONIO CARLOS JUNIOR defeated TIM BOETSCH via Submission  
+  at 4:28 of round 1
+  Key stats:
+  - ANTONIO CARLOS JUNIOR landed 31 significant strikes
+  - TIM BOETSCH landed 7 significant strikes
+  - Knockdowns: ANTONIO CARLOS JUNIOR 0,  TIM BOETSCH 0
+  - Takedowns: ANTONIO CARLOS JUNIOR 1,  TIM BOETSCH 0

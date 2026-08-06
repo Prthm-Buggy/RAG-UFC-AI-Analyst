@@ -1,0 +1,13 @@
+Event: UFC 83: Serra vs St-Pierre 2
+    Date: April 19, 2008
+    Location: Montreal, Quebec, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: CAIN VELASQUEZ defeated BRAD MORRIS via KO/TKO  
+  at 2:10 of round 1
+  Key stats:
+  - CAIN VELASQUEZ landed 36 significant strikes
+  - BRAD MORRIS landed 1 significant strikes
+  - Knockdowns: CAIN VELASQUEZ 3,  BRAD MORRIS 0
+  - Takedowns: CAIN VELASQUEZ 0,  BRAD MORRIS 0

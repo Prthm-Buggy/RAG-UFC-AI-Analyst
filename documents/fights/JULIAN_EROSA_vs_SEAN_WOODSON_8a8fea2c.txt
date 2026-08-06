@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Poirier vs. Hooker
+    Date: June 27, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: JULIAN EROSA defeated SEAN WOODSON via Submission  
+  at 2:44 of round 3
+  Key stats:
+  - JULIAN EROSA landed 103 significant strikes
+  - SEAN WOODSON landed 106 significant strikes
+  - Knockdowns: JULIAN EROSA 0,  SEAN WOODSON 1
+  - Takedowns: JULIAN EROSA 3,  SEAN WOODSON 0
+  Bonus: perf

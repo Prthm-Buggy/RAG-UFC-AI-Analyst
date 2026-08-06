@@ -1,0 +1,11 @@
+Fighter: JOSH QUINLAN
+  Date of Birth: 1993-02-06
+  Career record: 4
+  First fight: 2022-08-13
+  Last fight: 2024-06-15
+
+Career Statistics:
+- Significant Strikes Landed :145
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

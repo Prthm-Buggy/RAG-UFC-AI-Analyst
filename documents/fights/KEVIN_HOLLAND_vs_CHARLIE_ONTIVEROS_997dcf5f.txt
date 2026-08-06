@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hall vs. Silva
+    Date: October 31, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: KEVIN HOLLAND defeated CHARLIE ONTIVEROS via Submission  
+  at 2:39 of round 1
+  Key stats:
+  - KEVIN HOLLAND landed 11 significant strikes
+  - CHARLIE ONTIVEROS landed 2 significant strikes
+  - Knockdowns: KEVIN HOLLAND 0,  CHARLIE ONTIVEROS 0
+  - Takedowns: KEVIN HOLLAND 2,  CHARLIE ONTIVEROS 0
+  Bonus: perf

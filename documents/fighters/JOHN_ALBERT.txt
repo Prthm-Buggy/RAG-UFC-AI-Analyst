@@ -1,0 +1,11 @@
+Fighter: JOHN ALBERT
+  Date of Birth: 1986-10-13
+  Career record: 5
+  First fight: 2011-12-03
+  Last fight: 2013-07-27
+
+Career Statistics:
+- Significant Strikes Landed :67
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :9

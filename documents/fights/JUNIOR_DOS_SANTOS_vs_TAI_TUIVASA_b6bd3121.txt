@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Santos vs. Tuivasa
+    Date: December 01, 2018
+    Location: Adelaide, South Australia, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR DOS SANTOS defeated TAI TUIVASA via KO/TKO  
+  at 2:30 of round 2
+  Key stats:
+  - JUNIOR DOS SANTOS landed 26 significant strikes
+  - TAI TUIVASA landed 16 significant strikes
+  - Knockdowns: JUNIOR DOS SANTOS 1,  TAI TUIVASA 0
+  - Takedowns: JUNIOR DOS SANTOS 0,  TAI TUIVASA 0

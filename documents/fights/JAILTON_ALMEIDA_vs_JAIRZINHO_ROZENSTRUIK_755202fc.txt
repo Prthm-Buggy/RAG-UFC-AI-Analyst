@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rozenstruik vs. Almeida
+    Date: May 13, 2023
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAILTON ALMEIDA defeated JAIRZINHO ROZENSTRUIK via Submission  
+  at 3:43 of round 1
+  Key stats:
+  - JAILTON ALMEIDA landed 4 significant strikes
+  - JAIRZINHO ROZENSTRUIK landed 0 significant strikes
+  - Knockdowns: JAILTON ALMEIDA 0,  JAIRZINHO ROZENSTRUIK 0
+  - Takedowns: JAILTON ALMEIDA 1,  JAIRZINHO ROZENSTRUIK 0
+  Bonus: perf

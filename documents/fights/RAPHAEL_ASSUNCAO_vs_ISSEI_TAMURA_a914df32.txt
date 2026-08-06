@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Munoz vs Weidman
+    Date: July 11, 2012
+    Location: San Jose, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RAPHAEL ASSUNCAO defeated ISSEI TAMURA via KO/TKO  
+  at 0:25 of round 2
+  Key stats:
+  - RAPHAEL ASSUNCAO landed 39 significant strikes
+  - ISSEI TAMURA landed 5 significant strikes
+  - Knockdowns: RAPHAEL ASSUNCAO 1,  ISSEI TAMURA 0
+  - Takedowns: RAPHAEL ASSUNCAO 0,  ISSEI TAMURA 0

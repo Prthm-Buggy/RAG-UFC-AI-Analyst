@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Joanna vs. Waterson
+    Date : October 12, 2019
+    Location: Tampa, Florida, USA
+    Number of Fights: 14
+    Weight Classes: Bantamweight, Women's Flyweight, Middleweight, Featherweight, Women's Strawweight, Flyweight, Lightweight, Welterweight, Light Heavyweight
+
+    Fight Results:
+  - DEIVESON FIGUEIREDO def. TIM ELLIOTT via Submission(R1)
+- AMANDA RIBAS def. MACKENZIE DERN via Decision - Unanimous(R3)
+- MATT FREVOLA def. LUIS PENA via Decision - Split(R3)
+- ALEX MORONO def. MAX GRIFFIN via Decision - Unanimous(R3)
+- JJ ALDRICH def. LAUREN MUELLER via Decision - Unanimous(R3)
+- CUB SWANSON def. KRON GRACIE via Decision - Unanimous(R3)
+- RYAN SPANN def. DEVIN CLARK via Submission(R2)
+- MARLON VERA def. ANDRE EWELL via KO/TKO(R3)
+- NIKO PRICE def. JAMES VICK via KO/TKO(R1)
+- MARVIN VETTORI def. ANDREW SANCHEZ via Decision - Unanimous(R3)
+- ERYK ANDERS def. GERALD MEERSCHAERT via Decision - Split(R3)
+- JOANNA JEDRZEJCZYK def. MICHELLE WATERSON-GOMEZ via Decision - Unanimous(R5)
+- MIKE DAVIS def. THOMAS GIFFORD via KO/TKO(R3)
+- MIGUEL BAEZA def. HECTOR ALDANA via KO/TKO(R2)

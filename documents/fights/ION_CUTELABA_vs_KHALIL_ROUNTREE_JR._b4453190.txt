@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Cannonier
+    Date: September 28, 2019
+    Location: Copenhagen, Denmark
+    Weight Class: Light Heavyweight
+    
+
+    Result: ION CUTELABA defeated KHALIL ROUNTREE JR. via KO/TKO  
+  at 2:35 of round 1
+  Key stats:
+  - ION CUTELABA landed 15 significant strikes
+  - KHALIL ROUNTREE JR. landed 5 significant strikes
+  - Knockdowns: ION CUTELABA 0,  KHALIL ROUNTREE JR. 0
+  - Takedowns: ION CUTELABA 4,  KHALIL ROUNTREE JR. 0

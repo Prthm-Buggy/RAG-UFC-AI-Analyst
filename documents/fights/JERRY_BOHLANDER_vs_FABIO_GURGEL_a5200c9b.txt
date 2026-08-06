@@ -1,0 +1,13 @@
+Event: UFC 11: The Proving Ground
+    Date: September 20, 1996
+    Location: Augusta, Georgia, USA
+    Weight Class: Open Weight
+    
+
+    Result: JERRY BOHLANDER defeated FABIO GURGEL via Decision - Unanimous  
+  at 15:00 of round 1
+  Key stats:
+  - JERRY BOHLANDER landed 18 significant strikes
+  - FABIO GURGEL landed 2 significant strikes
+  - Knockdowns: JERRY BOHLANDER 0,  FABIO GURGEL 0
+  - Takedowns: JERRY BOHLANDER 1,  FABIO GURGEL 1

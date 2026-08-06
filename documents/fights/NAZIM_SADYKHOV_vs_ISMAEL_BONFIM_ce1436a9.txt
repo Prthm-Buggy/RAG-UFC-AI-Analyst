@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cannonier vs. Rodrigues
+    Date: February 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NAZIM SADYKHOV defeated ISMAEL BONFIM via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - NAZIM SADYKHOV landed 13 significant strikes
+  - ISMAEL BONFIM landed 26 significant strikes
+  - Knockdowns: NAZIM SADYKHOV 0,  ISMAEL BONFIM 0
+  - Takedowns: NAZIM SADYKHOV 0,  ISMAEL BONFIM 0

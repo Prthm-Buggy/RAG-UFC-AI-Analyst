@@ -1,0 +1,11 @@
+Fighter: JAIRZINHO ROZENSTRUIK
+  Date of Birth: 1988-03-17
+  Career record: 15
+  First fight: 2019-02-02
+  Last fight: 2025-02-01
+
+Career Statistics:
+- Significant Strikes Landed :493
+- Total takedowns landed :0
+- Knockdowns :7
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Brunson vs. Machida
+    Date: October 28, 2017
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: DEREK BRUNSON defeated LYOTO MACHIDA via KO/TKO  
+  at 2:30 of round 1
+  Key stats:
+  - DEREK BRUNSON landed 10 significant strikes
+  - LYOTO MACHIDA landed 3 significant strikes
+  - Knockdowns: DEREK BRUNSON 1,  LYOTO MACHIDA 0
+  - Takedowns: DEREK BRUNSON 0,  LYOTO MACHIDA 0
+  Bonus: perf

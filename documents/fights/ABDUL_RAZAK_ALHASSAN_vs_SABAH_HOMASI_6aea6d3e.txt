@@ -1,0 +1,13 @@
+Event: UFC 218: Holloway vs. Aldo 2
+    Date: December 02, 2017
+    Location: Detroit, Michigan, USA
+    Weight Class: Welterweight
+    
+
+    Result: ABDUL RAZAK ALHASSAN defeated SABAH HOMASI via KO/TKO  
+  at 4:21 of round 1
+  Key stats:
+  - ABDUL RAZAK ALHASSAN landed 27 significant strikes
+  - SABAH HOMASI landed 39 significant strikes
+  - Knockdowns: ABDUL RAZAK ALHASSAN 1,  SABAH HOMASI 0
+  - Takedowns: ABDUL RAZAK ALHASSAN 1,  SABAH HOMASI 0

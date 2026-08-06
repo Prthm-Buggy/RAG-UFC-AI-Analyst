@@ -1,0 +1,14 @@
+Event: UFC 115: Liddell vs Franklin
+    Date: June 12, 2010
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: RICH FRANKLIN defeated CHUCK LIDDELL via KO/TKO  
+  at 4:55 of round 1
+  Key stats:
+  - RICH FRANKLIN landed 24 significant strikes
+  - CHUCK LIDDELL landed 17 significant strikes
+  - Knockdowns: RICH FRANKLIN 1,  CHUCK LIDDELL 0
+  - Takedowns: RICH FRANKLIN 0,  CHUCK LIDDELL 1
+  Bonus: ko

@@ -1,0 +1,11 @@
+Fighter: CHRIS CARIASO
+  Date of Birth: 1981-05-27
+  Career record: 13
+  First fight: 2011-01-22
+  Last fight: 2015-10-03
+
+Career Statistics:
+- Significant Strikes Landed :591
+- Total takedowns landed :10
+- Knockdowns :0
+- Submission Attempts :7

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Dos Santos
+    Date: January 25, 2020
+    Location: Raleigh, North Carolina, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICHAEL CHIESA defeated RAFAEL DOS ANJOS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MICHAEL CHIESA landed 9 significant strikes
+  - RAFAEL DOS ANJOS landed 14 significant strikes
+  - Knockdowns: MICHAEL CHIESA 0,  RAFAEL DOS ANJOS 0
+  - Takedowns: MICHAEL CHIESA 6,  RAFAEL DOS ANJOS 0

@@ -1,0 +1,11 @@
+Fighter: DAMIAN GRABOWSKI
+  Date of Birth: 1980-05-12
+  Career record: 3
+  First fight: 2016-02-06
+  Last fight: 2017-07-22
+
+Career Statistics:
+- Significant Strikes Landed :70
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

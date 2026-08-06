@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Andrade vs. Blanchfield
+    Date: February 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MAYRA BUENO SILVA defeated LINA LANSBERG via Submission  
+  at 4:45 of round 2
+  Key stats:
+  - MAYRA BUENO SILVA landed 39 significant strikes
+  - LINA LANSBERG landed 25 significant strikes
+  - Knockdowns: MAYRA BUENO SILVA 0,  LINA LANSBERG 0
+  - Takedowns: MAYRA BUENO SILVA 2,  LINA LANSBERG 0
+  Bonus: perf

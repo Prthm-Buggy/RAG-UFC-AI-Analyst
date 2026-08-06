@@ -1,0 +1,13 @@
+Event: UFC 174: Johnson vs Bagautinov
+    Date: June 14, 2014
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Lightweight
+    
+
+    Result: JASON SAGGO defeated JOSH SHOCKLEY via KO/TKO  
+  at 4:57 of round 1
+  Key stats:
+  - JASON SAGGO landed 10 significant strikes
+  - JOSH SHOCKLEY landed 6 significant strikes
+  - Knockdowns: JASON SAGGO 0,  JOSH SHOCKLEY 0
+  - Takedowns: JASON SAGGO 2,  JOSH SHOCKLEY 0

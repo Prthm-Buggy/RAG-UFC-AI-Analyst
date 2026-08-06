@@ -1,0 +1,14 @@
+Event: UFC on FOX: Maia vs. Condit
+    Date: August 27, 2016
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Women's Strawweight
+    
+
+    Result: PAIGE VANZANT defeated BEC RAWLINGS via KO/TKO  
+  at 0:17 of round 2
+  Key stats:
+  - PAIGE VANZANT landed 25 significant strikes
+  - BEC RAWLINGS landed 21 significant strikes
+  - Knockdowns: PAIGE VANZANT 1,  BEC RAWLINGS 0
+  - Takedowns: PAIGE VANZANT 0,  BEC RAWLINGS 0
+  Bonus: perf

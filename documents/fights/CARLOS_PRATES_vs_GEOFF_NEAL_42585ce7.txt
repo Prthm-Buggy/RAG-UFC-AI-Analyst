@@ -1,0 +1,14 @@
+Event: UFC 319: Du Plessis vs. Chimaev
+    Date: August 16, 2025
+    Location: Chicago, Illinois, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS PRATES defeated GEOFF NEAL via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - CARLOS PRATES landed 32 significant strikes
+  - GEOFF NEAL landed 25 significant strikes
+  - Knockdowns: CARLOS PRATES 1,  GEOFF NEAL 0
+  - Takedowns: CARLOS PRATES 0,  GEOFF NEAL 0
+  Bonus: perf

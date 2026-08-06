@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Magny vs Gastelum
+    Date: November 21, 2015
+    Location: Monterrey, Nuevo Leon, Mexico
+    Weight Class: Featherweight
+    
+
+    Result: ANDRE FILI defeated GABRIEL BENITEZ via KO/TKO  
+  at 3:13 of round 1
+  Key stats:
+  - ANDRE FILI landed 16 significant strikes
+  - GABRIEL BENITEZ landed 11 significant strikes
+  - Knockdowns: ANDRE FILI 1,  GABRIEL BENITEZ 0
+  - Takedowns: ANDRE FILI 1,  GABRIEL BENITEZ 0
+  Bonus: perf

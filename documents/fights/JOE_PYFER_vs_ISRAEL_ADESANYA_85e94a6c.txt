@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Adesanya vs. Pyfer
+    Date: March 28, 2026
+    Location: Seattle, Washington, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOE PYFER defeated ISRAEL ADESANYA via KO/TKO  
+  at 4:18 of round 2
+  Key stats:
+  - JOE PYFER landed 36 significant strikes
+  - ISRAEL ADESANYA landed 42 significant strikes
+  - Knockdowns: JOE PYFER 0,  ISRAEL ADESANYA 0
+  - Takedowns: JOE PYFER 2,  ISRAEL ADESANYA 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 185: Pettis vs Dos Anjos
+    Date: March 14, 2015
+    Location: Dallas, Texas, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: GERMAINE DE RANDAMIE defeated LARISSA PACHECO via KO/TKO  
+  at 2:02 of round 2
+  Key stats:
+  - GERMAINE DE RANDAMIE landed 29 significant strikes
+  - LARISSA PACHECO landed 8 significant strikes
+  - Knockdowns: GERMAINE DE RANDAMIE 0,  LARISSA PACHECO 0
+  - Takedowns: GERMAINE DE RANDAMIE 0,  LARISSA PACHECO 0

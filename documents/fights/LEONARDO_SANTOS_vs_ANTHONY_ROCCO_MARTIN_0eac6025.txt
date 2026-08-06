@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs LaFlare
+    Date: March 21, 2015
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: LEONARDO SANTOS defeated ANTHONY ROCCO MARTIN via Submission  
+  at 2:29 of round 2
+  Key stats:
+  - LEONARDO SANTOS landed 12 significant strikes
+  - ANTHONY ROCCO MARTIN landed 14 significant strikes
+  - Knockdowns: LEONARDO SANTOS 0,  ANTHONY ROCCO MARTIN 0
+  - Takedowns: LEONARDO SANTOS 1,  ANTHONY ROCCO MARTIN 0

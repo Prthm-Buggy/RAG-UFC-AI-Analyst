@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Condit vs Alves
+    Date: May 30, 2015
+    Location: Goiania, Goias, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: TOM BREESE defeated LUIZ DUTRA via KO/TKO  
+  at 4:58 of round 1
+  Key stats:
+  - TOM BREESE landed 26 significant strikes
+  - LUIZ DUTRA landed 21 significant strikes
+  - Knockdowns: TOM BREESE 1,  LUIZ DUTRA 0
+  - Takedowns: TOM BREESE 0,  LUIZ DUTRA 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Felder vs. Dos Anjos
+    Date: November 14, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: CORY MCKENNA defeated KAY HANSEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CORY MCKENNA landed 57 significant strikes
+  - KAY HANSEN landed 67 significant strikes
+  - Knockdowns: CORY MCKENNA 0,  KAY HANSEN 0
+  - Takedowns: CORY MCKENNA 0,  KAY HANSEN 2

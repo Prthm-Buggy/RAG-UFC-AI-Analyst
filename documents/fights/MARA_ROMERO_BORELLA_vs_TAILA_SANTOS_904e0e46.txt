@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Assuncao vs. Moraes 2
+    Date: February 02, 2019
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Women's Flyweight
+    
+
+    Result: MARA ROMERO BORELLA defeated TAILA SANTOS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MARA ROMERO BORELLA landed 29 significant strikes
+  - TAILA SANTOS landed 36 significant strikes
+  - Knockdowns: MARA ROMERO BORELLA 0,  TAILA SANTOS 0
+  - Takedowns: MARA ROMERO BORELLA 2,  TAILA SANTOS 1

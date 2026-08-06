@@ -1,0 +1,13 @@
+Event: UFC 321: Aspinall vs. Gane
+    Date: October 25, 2025
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: AZAMAT MURZAKANOV defeated ALEKSANDAR RAKIC via KO/TKO  
+  at 3:11 of round 1
+  Key stats:
+  - AZAMAT MURZAKANOV landed 3 significant strikes
+  - ALEKSANDAR RAKIC landed 9 significant strikes
+  - Knockdowns: AZAMAT MURZAKANOV 1,  ALEKSANDAR RAKIC 0
+  - Takedowns: AZAMAT MURZAKANOV 0,  ALEKSANDAR RAKIC 0

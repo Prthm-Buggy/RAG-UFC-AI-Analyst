@@ -1,0 +1,11 @@
+Fighter: RICKY TURCIOS
+  Date of Birth: 1993-06-05
+  Career record: 6
+  First fight: 2021-08-28
+  Last fight: 2026-03-07
+
+Career Statistics:
+- Significant Strikes Landed :302
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :2

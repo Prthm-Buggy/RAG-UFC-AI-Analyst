@@ -1,0 +1,14 @@
+Event: UFC 253: Adesanya vs. Costa
+    Date: September 26, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAN BLACHOWICZ defeated DOMINICK REYES via KO/TKO  
+  at 4:36 of round 2
+  Key stats:
+  - JAN BLACHOWICZ landed 41 significant strikes
+  - DOMINICK REYES landed 21 significant strikes
+  - Knockdowns: JAN BLACHOWICZ 1,  DOMINICK REYES 0
+  - Takedowns: JAN BLACHOWICZ 0,  DOMINICK REYES 0
+  Bonus: belt

@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Edgar vs. Team Penn Finale
+    Date: July 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: LEANDRO ISSA defeated JUMABIEKE TUERXUN via Submission  
+  at 3:49 of round 3
+  Key stats:
+  - LEANDRO ISSA landed 44 significant strikes
+  - JUMABIEKE TUERXUN landed 33 significant strikes
+  - Knockdowns: LEANDRO ISSA 0,  JUMABIEKE TUERXUN 0
+  - Takedowns: LEANDRO ISSA 2,  JUMABIEKE TUERXUN 0
+  Bonus: fight

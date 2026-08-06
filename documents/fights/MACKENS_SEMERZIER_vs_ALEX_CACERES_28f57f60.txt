@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nogueira vs Davis
+    Date: March 26, 2011
+    Location: Seattle, Washington, USA
+    Weight Class: Featherweight
+    
+
+    Result: MACKENS SEMERZIER defeated ALEX CACERES via Submission  
+  at 3:18 of round 1
+  Key stats:
+  - MACKENS SEMERZIER landed 9 significant strikes
+  - ALEX CACERES landed 2 significant strikes
+  - Knockdowns: MACKENS SEMERZIER 0,  ALEX CACERES 0
+  - Takedowns: MACKENS SEMERZIER 3,  ALEX CACERES 0

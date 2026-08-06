@@ -1,0 +1,13 @@
+Event: UFC 65: Bad Intentions
+    Date: November 18, 2006
+    Location: Sacramento, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DREW MCFEDRIES defeated ALESSIO SAKARA via KO/TKO  
+  at 4:07 of round 1
+  Key stats:
+  - DREW MCFEDRIES landed 30 significant strikes
+  - ALESSIO SAKARA landed 32 significant strikes
+  - Knockdowns: DREW MCFEDRIES 1,  ALESSIO SAKARA 0
+  - Takedowns: DREW MCFEDRIES 1,  ALESSIO SAKARA 0

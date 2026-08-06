@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. Gastelum
+    Date: April 17, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GERALD MEERSCHAERT defeated BARTOSZ FABINSKI via Submission  
+  at 2:00 of round 1
+  Key stats:
+  - GERALD MEERSCHAERT landed 8 significant strikes
+  - BARTOSZ FABINSKI landed 6 significant strikes
+  - Knockdowns: GERALD MEERSCHAERT 0,  BARTOSZ FABINSKI 0
+  - Takedowns: GERALD MEERSCHAERT 0,  BARTOSZ FABINSKI 1
+  Bonus: perf

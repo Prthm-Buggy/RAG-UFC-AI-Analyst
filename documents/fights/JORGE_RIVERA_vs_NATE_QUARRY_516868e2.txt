@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Gomi
+    Date: March 31, 2010
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Middleweight
+    
+
+    Result: JORGE RIVERA defeated NATE QUARRY via KO/TKO  
+  at 0:29 of round 2
+  Key stats:
+  - JORGE RIVERA landed 29 significant strikes
+  - NATE QUARRY landed 19 significant strikes
+  - Knockdowns: JORGE RIVERA 3,  NATE QUARRY 0
+  - Takedowns: JORGE RIVERA 0,  NATE QUARRY 0

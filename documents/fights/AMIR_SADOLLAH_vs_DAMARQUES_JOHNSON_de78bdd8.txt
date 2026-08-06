@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nogueira vs Davis
+    Date: March 26, 2011
+    Location: Seattle, Washington, USA
+    Weight Class: Welterweight
+    
+
+    Result: AMIR SADOLLAH defeated DAMARQUES JOHNSON via KO/TKO  
+  at 3:27 of round 2
+  Key stats:
+  - AMIR SADOLLAH landed 62 significant strikes
+  - DAMARQUES JOHNSON landed 27 significant strikes
+  - Knockdowns: AMIR SADOLLAH 0,  DAMARQUES JOHNSON 0
+  - Takedowns: AMIR SADOLLAH 2,  DAMARQUES JOHNSON 2

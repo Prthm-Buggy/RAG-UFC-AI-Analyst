@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Almeida vs. Lewis
+    Date: November 04, 2023
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: VITOR PETRINO defeated MODESTAS BUKAUSKAS via KO/TKO  
+  at 1:03 of round 2
+  Key stats:
+  - VITOR PETRINO landed 8 significant strikes
+  - MODESTAS BUKAUSKAS landed 9 significant strikes
+  - Knockdowns: VITOR PETRINO 1,  MODESTAS BUKAUSKAS 0
+  - Takedowns: VITOR PETRINO 1,  MODESTAS BUKAUSKAS 0
+  Bonus: perf

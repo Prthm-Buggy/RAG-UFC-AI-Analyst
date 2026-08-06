@@ -1,0 +1,13 @@
+Event: UFC 44: Undisputed
+    Date: September 26, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: NICK DIAZ defeated JEREMY JACKSON via Submission  
+  at 2:04 of round 3
+  Key stats:
+  - NICK DIAZ landed 17 significant strikes
+  - JEREMY JACKSON landed 9 significant strikes
+  - Knockdowns: NICK DIAZ 0,  JEREMY JACKSON 0
+  - Takedowns: NICK DIAZ 6,  JEREMY JACKSON 0

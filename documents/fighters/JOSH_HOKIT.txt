@@ -1,0 +1,11 @@
+Fighter: JOSH HOKIT
+  Date of Birth: 1997-11-12
+  Career record: 4
+  First fight: 2025-11-08
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :309
+- Total takedowns landed :3
+- Knockdowns :3
+- Submission Attempts :0

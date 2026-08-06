@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cejudo vs. Dillashaw
+    Date: January 19, 2019
+    Location: Brooklyn, New York, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: PAIGE VANZANT defeated RACHAEL OSTOVICH via Submission  
+  at 1:50 of round 2
+  Key stats:
+  - PAIGE VANZANT landed 17 significant strikes
+  - RACHAEL OSTOVICH landed 10 significant strikes
+  - Knockdowns: PAIGE VANZANT 0,  RACHAEL OSTOVICH 0
+  - Takedowns: PAIGE VANZANT 0,  RACHAEL OSTOVICH 4

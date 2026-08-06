@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barboza vs. Murphy
+    Date: May 18, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: KHAOS WILLIAMS defeated CARLSTON HARRIS via KO/TKO  
+  at 1:30 of round 1
+  Key stats:
+  - KHAOS WILLIAMS landed 12 significant strikes
+  - CARLSTON HARRIS landed 14 significant strikes
+  - Knockdowns: KHAOS WILLIAMS 1,  CARLSTON HARRIS 0
+  - Takedowns: KHAOS WILLIAMS 0,  CARLSTON HARRIS 0
+  Bonus: perf

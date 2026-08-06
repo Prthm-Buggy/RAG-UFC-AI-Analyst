@@ -1,0 +1,13 @@
+Event: UFC 37.5: As Real As It Gets
+    Date: June 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: YVES EDWARDS defeated JOAO PIERINI via KO/TKO  
+  at 1:19 of round 1
+  Key stats:
+  - YVES EDWARDS landed 6 significant strikes
+  - JOAO PIERINI landed 1 significant strikes
+  - Knockdowns: YVES EDWARDS 0,  JOAO PIERINI 0
+  - Takedowns: YVES EDWARDS 0,  JOAO PIERINI 0

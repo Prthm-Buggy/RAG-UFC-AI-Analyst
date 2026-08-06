@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Miocic vs Hunt
+    Date: May 09, 2015
+    Location: Adelaide, South Australia, Australia
+    Weight Class: Women's Strawweight
+    
+
+    Result: BEC RAWLINGS defeated LISA ELLIS via Submission  
+  at 4:09 of round 1
+  Key stats:
+  - BEC RAWLINGS landed 21 significant strikes
+  - LISA ELLIS landed 7 significant strikes
+  - Knockdowns: BEC RAWLINGS 0,  LISA ELLIS 0
+  - Takedowns: BEC RAWLINGS 0,  LISA ELLIS 1

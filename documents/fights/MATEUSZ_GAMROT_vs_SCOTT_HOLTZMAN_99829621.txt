@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vettori vs. Holland
+    Date: April 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATEUSZ GAMROT defeated SCOTT HOLTZMAN via KO/TKO  
+  at 1:22 of round 2
+  Key stats:
+  - MATEUSZ GAMROT landed 39 significant strikes
+  - SCOTT HOLTZMAN landed 10 significant strikes
+  - Knockdowns: MATEUSZ GAMROT 1,  SCOTT HOLTZMAN 0
+  - Takedowns: MATEUSZ GAMROT 2,  SCOTT HOLTZMAN 0
+  Bonus: perf

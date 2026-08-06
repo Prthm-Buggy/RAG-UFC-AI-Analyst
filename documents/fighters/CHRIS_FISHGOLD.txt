@@ -1,0 +1,11 @@
+Fighter: CHRIS FISHGOLD
+  Date of Birth: 1992-06-06
+  Career record: 4
+  First fight: 2018-10-27
+  Last fight: 2020-07-15
+
+Career Statistics:
+- Significant Strikes Landed :70
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :3

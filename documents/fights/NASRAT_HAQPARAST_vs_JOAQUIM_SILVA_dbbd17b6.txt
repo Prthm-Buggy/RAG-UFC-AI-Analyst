@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Covington vs. Lawler
+    Date: August 03, 2019
+    Location: Newark, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: NASRAT HAQPARAST defeated JOAQUIM SILVA via KO/TKO  
+  at 0:36 of round 2
+  Key stats:
+  - NASRAT HAQPARAST landed 21 significant strikes
+  - JOAQUIM SILVA landed 15 significant strikes
+  - Knockdowns: NASRAT HAQPARAST 1,  JOAQUIM SILVA 0
+  - Takedowns: NASRAT HAQPARAST 0,  JOAQUIM SILVA 0
+  Bonus: perf

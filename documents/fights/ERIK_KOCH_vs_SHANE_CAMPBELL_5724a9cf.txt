@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Almeida vs Garbrandt
+    Date: May 29, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ERIK KOCH defeated SHANE CAMPBELL via Submission  
+  at 3:02 of round 2
+  Key stats:
+  - ERIK KOCH landed 14 significant strikes
+  - SHANE CAMPBELL landed 16 significant strikes
+  - Knockdowns: ERIK KOCH 0,  SHANE CAMPBELL 0
+  - Takedowns: ERIK KOCH 2,  SHANE CAMPBELL 0

@@ -1,0 +1,11 @@
+Fighter: RORY MACDONALD
+  Date of Birth: 1989-07-22
+  Career record: 13
+  First fight: 2010-01-11
+  Last fight: 2016-06-18
+
+Career Statistics:
+- Significant Strikes Landed :667
+- Total takedowns landed :21
+- Knockdowns :1
+- Submission Attempts :5

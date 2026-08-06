@@ -1,0 +1,11 @@
+Fighter: JAMALL EMMERS
+  Date of Birth: 1989-07-24
+  Career record: 9
+  First fight: 2020-03-07
+  Last fight: 2025-11-08
+
+Career Statistics:
+- Significant Strikes Landed :422
+- Total takedowns landed :16
+- Knockdowns :3
+- Submission Attempts :2

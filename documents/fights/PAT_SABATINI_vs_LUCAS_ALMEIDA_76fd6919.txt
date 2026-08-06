@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Cannonier
+    Date: June 17, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: PAT SABATINI defeated LUCAS ALMEIDA via Submission  
+  at 1:48 of round 2
+  Key stats:
+  - PAT SABATINI landed 27 significant strikes
+  - LUCAS ALMEIDA landed 2 significant strikes
+  - Knockdowns: PAT SABATINI 0,  LUCAS ALMEIDA 0
+  - Takedowns: PAT SABATINI 2,  LUCAS ALMEIDA 0

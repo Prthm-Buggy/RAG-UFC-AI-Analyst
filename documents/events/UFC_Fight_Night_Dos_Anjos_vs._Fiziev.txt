@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Dos Anjos vs. Fiziev
+    Date : July 09, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Women's Flyweight, Heavyweight, Lightweight, Middleweight, Featherweight, Light Heavyweight
+
+    Fight Results:
+  - CAIO BORRALHO def. ARMEN PETROSYAN via Decision - Unanimous(R3)
+- SAIDYOKUB KAKHRAMONOV def. RONNIE LAWRENCE via Decision - Unanimous(R3)
+- CODY BRUNDAGE def. TRESEAN GORE via KO/TKO(R1)
+- AIEMANN ZAHABI def. RICKY TURCIOS via Decision - Unanimous(R3)
+- KENNEDY NZECHUKWU def. KARL ROBERSON via KO/TKO(R3)
+- CHASE SHERMAN def. JARED VANDERAA via KO/TKO(R3)
+- SAID NURMAGOMEDOV def. DOUGLAS SILVA DE ANDRADE via Decision - Unanimous(R3)
+- ANTONINA SHEVCHENKO def. CORTNEY CASEY via Decision - Split(R3)
+- JAMIE MULLARKEY def. MICHAEL JOHNSON via Decision - Split(R3)
+- RAFAEL FIZIEV def. RAFAEL DOS ANJOS via KO/TKO(R5)
+- DAVID ONAMA def. GARRETT ARMFIELD via Submission(R2)

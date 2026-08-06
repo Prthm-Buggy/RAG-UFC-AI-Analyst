@@ -1,0 +1,15 @@
+Event : UFC 48: Payback
+    Date : June 19, 2004
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Welterweight, Lightweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - MATT HUGHES def. RENATO VERISSIMO via Decision - Unanimous(R3)
+- FRANK MIR def. TIM SYLVIA via Submission(R1)
+- MATT SERRA def. IVAN MENJIVAR via Decision - Unanimous(R3)
+- KEN SHAMROCK def. KIMO LEOPOLDO via KO/TKO(R1)
+- FRANK TRIGG def. DENNIS HALLMAN via KO/TKO(R1)
+- EVAN TANNER def. PHIL BARONI via Decision - Unanimous(R3)
+- GEORGES ST-PIERRE def. JAY HIERON via KO/TKO(R1)
+- TREVOR PRANGLEY def. CURTIS STOUT via Submission(R2)

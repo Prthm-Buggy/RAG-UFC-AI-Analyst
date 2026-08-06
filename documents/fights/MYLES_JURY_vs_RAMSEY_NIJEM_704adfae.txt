@@ -1,0 +1,13 @@
+Event: UFC on FOX: Henderson vs Melendez
+    Date: April 20, 2013
+    Location: San Jose, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: MYLES JURY defeated RAMSEY NIJEM via KO/TKO  
+  at 1:02 of round 2
+  Key stats:
+  - MYLES JURY landed 5 significant strikes
+  - RAMSEY NIJEM landed 6 significant strikes
+  - Knockdowns: MYLES JURY 1,  RAMSEY NIJEM 0
+  - Takedowns: MYLES JURY 2,  RAMSEY NIJEM 1

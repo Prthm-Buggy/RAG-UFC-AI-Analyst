@@ -1,0 +1,11 @@
+Fighter: LUKE CAUDILLO
+  Date of Birth: 1980-11-30
+  Career record: 2
+  First fight: 2007-06-12
+  Last fight: 2007-11-17
+
+Career Statistics:
+- Significant Strikes Landed :34
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

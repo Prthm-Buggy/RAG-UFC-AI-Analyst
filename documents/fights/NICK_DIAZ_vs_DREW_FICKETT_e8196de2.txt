@@ -1,0 +1,13 @@
+Event: UFC 51: Super Saturday
+    Date: February 05, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: NICK DIAZ defeated DREW FICKETT via KO/TKO  
+  at 4:40 of round 1
+  Key stats:
+  - NICK DIAZ landed 13 significant strikes
+  - DREW FICKETT landed 3 significant strikes
+  - Knockdowns: NICK DIAZ 0,  DREW FICKETT 0
+  - Takedowns: NICK DIAZ 0,  DREW FICKETT 0

@@ -1,0 +1,13 @@
+Event: UFC 302: Makhachev vs. Poirier
+    Date: June 01, 2024
+    Location: Newark, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: SEAN STRICKLAND defeated PAULO COSTA via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - SEAN STRICKLAND landed 182 significant strikes
+  - PAULO COSTA landed 158 significant strikes
+  - Knockdowns: SEAN STRICKLAND 0,  PAULO COSTA 0
+  - Takedowns: SEAN STRICKLAND 0,  PAULO COSTA 0

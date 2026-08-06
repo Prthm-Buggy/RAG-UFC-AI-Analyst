@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Adesanya vs. Imavov
+    Date: February 01, 2025
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Weight Class: Middleweight
+    
+
+    Result: NASSOURDINE IMAVOV defeated ISRAEL ADESANYA via KO/TKO  
+  at 0:30 of round 2
+  Key stats:
+  - NASSOURDINE IMAVOV landed 15 significant strikes
+  - ISRAEL ADESANYA landed 26 significant strikes
+  - Knockdowns: NASSOURDINE IMAVOV 1,  ISRAEL ADESANYA 0
+  - Takedowns: NASSOURDINE IMAVOV 0,  ISRAEL ADESANYA 0
+  Bonus: perf

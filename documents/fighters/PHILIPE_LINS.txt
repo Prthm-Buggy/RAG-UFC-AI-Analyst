@@ -1,0 +1,11 @@
+Fighter: PHILIPE LINS
+  Date of Birth: 1985-08-17
+  Career record: 6
+  First fight: 2020-05-13
+  Last fight: 2024-03-09
+
+Career Statistics:
+- Significant Strikes Landed :241
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :0

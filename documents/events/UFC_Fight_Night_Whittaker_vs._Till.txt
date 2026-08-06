@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Whittaker vs. Till
+    Date : July 25, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 14
+    Weight Classes: Lightweight, Featherweight, Women's Bantamweight, Light Heavyweight, Middleweight, Welterweight, Women's Strawweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - TOM ASPINALL def. JAKE COLLIER via KO/TKO(R1)
+- MOVSAR EVLOEV def. MIKE GRUNDY via Decision - Unanimous(R3)
+- KHAMZAT CHIMAEV def. RHYS MCKEE via KO/TKO(R1)
+- ROBERT WHITTAKER def. DARREN TILL via Decision - Unanimous(R5)
+- TANNER BOSER def. RAPHAEL PESSOA via KO/TKO(R2)
+- NATHANIEL WOOD def. JOHN CASTANEDA via Decision - Unanimous(R3)
+- CARLA ESPARZA def. MARINA RODRIGUEZ via Decision - Split(R3)
+- RAMAZAN EMEEV def. NIKLAS STOLZE via Decision - Unanimous(R3)
+- ALEX OLIVEIRA def. PETER SOBOTTA via Decision - Unanimous(R3)
+- PAUL CRAIG def. GADZHIMURAD ANTIGULOV via Submission(R1)
+- FRANCISCO TRINALDO def. JAI HERBERT via KO/TKO(R3)
+- PANNIE KIANZAD def. BETHE CORREIA via Decision - Unanimous(R3)
+- MAURICIO RUA def. ROGERIO NOGUEIRA via Decision - Split(R3)
+- FABRICIO WERDUM def. ALEXANDER GUSTAFSSON via Submission(R1)

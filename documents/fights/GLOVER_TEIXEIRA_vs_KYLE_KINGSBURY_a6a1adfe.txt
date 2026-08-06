@@ -1,0 +1,13 @@
+Event: UFC 146: Dos Santos vs Mir
+    Date: May 26, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: GLOVER TEIXEIRA defeated KYLE KINGSBURY via Submission  
+  at 1:53 of round 1
+  Key stats:
+  - GLOVER TEIXEIRA landed 15 significant strikes
+  - KYLE KINGSBURY landed 5 significant strikes
+  - Knockdowns: GLOVER TEIXEIRA 0,  KYLE KINGSBURY 0
+  - Takedowns: GLOVER TEIXEIRA 0,  KYLE KINGSBURY 0

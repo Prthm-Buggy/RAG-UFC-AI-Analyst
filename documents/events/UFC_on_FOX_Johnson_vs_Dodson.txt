@@ -1,0 +1,18 @@
+Event : UFC on FOX: Johnson vs Dodson
+    Date : January 26, 2013
+    Location: Chicago, Illinois, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Lightweight, Flyweight, Light Heavyweight, Welterweight, Featherweight, Middleweight
+
+    Fight Results:
+  - DAVID MITCHELL def. SIMEON THORESEN via Decision - Unanimous(R3)
+- DEMETRIOUS JOHNSON def. JOHN DODSON via Decision - Unanimous(R5)
+- RAFAEL NATAL def. SEAN SPENCER via Submission(R3)
+- GLOVER TEIXEIRA def. QUINTON JACKSON via Decision - Unanimous(R3)
+- SHAWN JORDAN def. MIKE RUSSOW via KO/TKO(R2)
+- ANTHONY PETTIS def. DONALD CERRONE via KO/TKO(R1)
+- PASCAL KRAUSS def. MIKE STUMPF via Decision - Unanimous(R3)
+- RYAN BADER def. VLADIMIR MATYUSHENKO via Submission(R1)
+- RICARDO LAMAS def. ERIK KOCH via KO/TKO(R2)
+- CLAY GUIDA def. HATSU HIOKI via Decision - Split(R3)
+- TJ GRANT def. MATT WIMAN via KO/TKO(R1)

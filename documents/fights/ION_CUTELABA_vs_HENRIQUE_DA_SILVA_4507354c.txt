@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Hunt
+    Date: June 10, 2017
+    Location: Auckland, New Zealand
+    Weight Class: Light Heavyweight
+    
+
+    Result: ION CUTELABA defeated HENRIQUE DA SILVA via KO/TKO  
+  at 0:22 of round 1
+  Key stats:
+  - ION CUTELABA landed 15 significant strikes
+  - HENRIQUE DA SILVA landed 1 significant strikes
+  - Knockdowns: ION CUTELABA 1,  HENRIQUE DA SILVA 0
+  - Takedowns: ION CUTELABA 0,  HENRIQUE DA SILVA 0

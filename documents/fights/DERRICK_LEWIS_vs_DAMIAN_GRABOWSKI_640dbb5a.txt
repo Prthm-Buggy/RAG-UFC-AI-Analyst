@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hendricks vs Thompson
+    Date: February 06, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated DAMIAN GRABOWSKI via KO/TKO  
+  at 2:17 of round 1
+  Key stats:
+  - DERRICK LEWIS landed 14 significant strikes
+  - DAMIAN GRABOWSKI landed 1 significant strikes
+  - Knockdowns: DERRICK LEWIS 0,  DAMIAN GRABOWSKI 0
+  - Takedowns: DERRICK LEWIS 1,  DAMIAN GRABOWSKI 0

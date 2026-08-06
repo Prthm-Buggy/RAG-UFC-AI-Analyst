@@ -1,0 +1,14 @@
+Event: UFC 156: Aldo vs Edgar
+    Date: February 02, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: KING GREEN defeated JACOB VOLKMANN via Submission  
+  at 4:25 of round 3
+  Key stats:
+  - KING GREEN landed 54 significant strikes
+  - JACOB VOLKMANN landed 6 significant strikes
+  - Knockdowns: KING GREEN 0,  JACOB VOLKMANN 0
+  - Takedowns: KING GREEN 1,  JACOB VOLKMANN 4
+  Bonus: sub

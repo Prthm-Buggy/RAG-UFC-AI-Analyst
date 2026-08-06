@@ -1,0 +1,13 @@
+Event: UFC 209: Woodley vs. Thompson 2
+    Date: March 04, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARCIN TYBURA defeated LUIS HENRIQUE via KO/TKO  
+  at 3:46 of round 3
+  Key stats:
+  - MARCIN TYBURA landed 50 significant strikes
+  - LUIS HENRIQUE landed 14 significant strikes
+  - Knockdowns: MARCIN TYBURA 0,  LUIS HENRIQUE 0
+  - Takedowns: MARCIN TYBURA 1,  LUIS HENRIQUE 3

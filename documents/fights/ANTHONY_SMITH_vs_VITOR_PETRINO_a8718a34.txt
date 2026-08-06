@@ -1,0 +1,13 @@
+Event: UFC 301: Pantoja vs. Erceg
+    Date: May 04, 2024
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY SMITH defeated VITOR PETRINO via Submission  
+  at 2:00 of round 1
+  Key stats:
+  - ANTHONY SMITH landed 11 significant strikes
+  - VITOR PETRINO landed 10 significant strikes
+  - Knockdowns: ANTHONY SMITH 0,  VITOR PETRINO 0
+  - Takedowns: ANTHONY SMITH 0,  VITOR PETRINO 1

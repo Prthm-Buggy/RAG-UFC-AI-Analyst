@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lemos vs. Jandiroba
+    Date: July 20, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: STEVE GARCIA defeated SEUNGWOO CHOI via KO/TKO  
+  at 1:36 of round 1
+  Key stats:
+  - STEVE GARCIA landed 15 significant strikes
+  - SEUNGWOO CHOI landed 9 significant strikes
+  - Knockdowns: STEVE GARCIA 1,  SEUNGWOO CHOI 0
+  - Takedowns: STEVE GARCIA 0,  SEUNGWOO CHOI 0
+  Bonus: perf

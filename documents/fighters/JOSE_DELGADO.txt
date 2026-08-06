@@ -1,0 +1,11 @@
+Fighter: JOSE DELGADO
+  Date of Birth: 1998-04-21
+  Career record: 4
+  First fight: 2025-02-15
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :258
+- Total takedowns landed :1
+- Knockdowns :3
+- Submission Attempts :0

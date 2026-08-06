@@ -1,0 +1,13 @@
+Event: UFC 96: Jackson vs Jardine
+    Date: March 07, 2009
+    Location: Columbus, Ohio, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SHANE CARWIN defeated GABRIEL GONZAGA via KO/TKO  
+  at 1:09 of round 1
+  Key stats:
+  - SHANE CARWIN landed 4 significant strikes
+  - GABRIEL GONZAGA landed 5 significant strikes
+  - Knockdowns: SHANE CARWIN 1,  GABRIEL GONZAGA 0
+  - Takedowns: SHANE CARWIN 0,  GABRIEL GONZAGA 1

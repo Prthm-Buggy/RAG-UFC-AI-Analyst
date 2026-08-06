@@ -1,0 +1,15 @@
+Event : UFC Fight Night: Rozenstruik vs. Gane
+    Date : February 27, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Women's Bantamweight, Light Heavyweight, Featherweight, Lightweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - CIRYL GANE def. JAIRZINHO ROZENSTRUIK via Decision - Unanimous(R5)
+- MAGOMED ANKALAEV def. NIKITA KRYLOV via Decision - Unanimous(R3)
+- THIAGO MOISES def. ALEXANDER HERNANDEZ via Decision - Unanimous(R3)
+- RONNIE LAWRENCE def. VINCE CACHERO via KO/TKO(R3)
+- ALEXIS DAVIS def. SABINA MAZO via Decision - Unanimous(R3)
+- PEDRO MUNHOZ def. JIMMIE RIVERA via Decision - Unanimous(R3)
+- ALEX CACERES def. KEVIN CROOM via Decision - Unanimous(R3)
+- DUSTIN JACOBY def. MAXIM GRISHIN via Decision - Unanimous(R3)

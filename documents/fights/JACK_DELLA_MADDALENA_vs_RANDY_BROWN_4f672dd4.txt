@@ -1,0 +1,14 @@
+Event: UFC 284: Makhachev vs. Volkanovski
+    Date: February 11, 2023
+    Location: Perth, Western Australia, Australia
+    Weight Class: Welterweight
+    
+
+    Result: JACK DELLA MADDALENA defeated RANDY BROWN via Submission  
+  at 2:13 of round 1
+  Key stats:
+  - JACK DELLA MADDALENA landed 14 significant strikes
+  - RANDY BROWN landed 11 significant strikes
+  - Knockdowns: JACK DELLA MADDALENA 1,  RANDY BROWN 0
+  - Takedowns: JACK DELLA MADDALENA 0,  RANDY BROWN 0
+  Bonus: perf

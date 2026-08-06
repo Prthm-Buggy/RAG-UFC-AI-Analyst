@@ -1,0 +1,13 @@
+Event: UFC on FOX: Henderson vs Diaz
+    Date: December 08, 2012
+    Location: Seattle, Washington, USA
+    Weight Class: Lightweight
+    
+
+    Result: DARON CRUICKSHANK defeated HENRY MARTINEZ via KO/TKO  
+  at 2:57 of round 2
+  Key stats:
+  - DARON CRUICKSHANK landed 52 significant strikes
+  - HENRY MARTINEZ landed 21 significant strikes
+  - Knockdowns: DARON CRUICKSHANK 1,  HENRY MARTINEZ 0
+  - Takedowns: DARON CRUICKSHANK 0,  HENRY MARTINEZ 0

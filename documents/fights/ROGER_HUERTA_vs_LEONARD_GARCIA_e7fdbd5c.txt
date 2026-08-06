@@ -1,0 +1,14 @@
+Event: UFC 69: Shootout
+    Date: April 07, 2007
+    Location: Houston, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: ROGER HUERTA defeated LEONARD GARCIA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ROGER HUERTA landed 85 significant strikes
+  - LEONARD GARCIA landed 29 significant strikes
+  - Knockdowns: ROGER HUERTA 0,  LEONARD GARCIA 0
+  - Takedowns: ROGER HUERTA 6,  LEONARD GARCIA 0
+  Bonus: fight

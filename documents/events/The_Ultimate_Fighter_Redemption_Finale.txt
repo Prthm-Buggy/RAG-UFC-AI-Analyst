@@ -1,0 +1,18 @@
+Event : The Ultimate Fighter: Redemption Finale
+    Date : July 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Welterweight, Lightweight, Light Heavyweight, Women's Strawweight, Middleweight, Featherweight
+
+    Fight Results:
+  - JESSE TAYLOR def. DHIEGO LIMA via Submission(R2)
+- ANGELA HILL def. ASHLEY YODER via Decision - Unanimous(R3)
+- JUSTIN GAETHJE def. MICHAEL JOHNSON via KO/TKO(R2)
+- BRAD TAVARES def. ELIAS THEODOROU via Decision - Unanimous(R3)
+- TECIA PENNINGTON def. JULIANA LIMA via Submission(R2)
+- DRAKKAR KLOSE def. MARC DIAKIESE via Decision - Split(R3)
+- GRAY MAYNARD def. TERUTO ISHIHARA via Decision - Unanimous(R3)
+- CB DOLLAWAY def. ED HERMAN via Decision - Unanimous(R3)
+- JORDAN JOHNSON def. MARCEL FORTUNA via Decision - Unanimous(R3)
+- JAMES KRAUSE def. TOM GALLICCHIO via Decision - Unanimous(R3)
+- JARED CANNONIER def. NICK ROEHRICK via KO/TKO(R3)

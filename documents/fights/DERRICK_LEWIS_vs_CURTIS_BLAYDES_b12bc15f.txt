@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blaydes vs. Lewis
+    Date: February 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated CURTIS BLAYDES via KO/TKO  
+  at 1:26 of round 2
+  Key stats:
+  - DERRICK LEWIS landed 7 significant strikes
+  - CURTIS BLAYDES landed 28 significant strikes
+  - Knockdowns: DERRICK LEWIS 1,  CURTIS BLAYDES 0
+  - Takedowns: DERRICK LEWIS 0,  CURTIS BLAYDES 0
+  Bonus: perf

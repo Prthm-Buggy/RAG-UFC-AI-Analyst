@@ -1,0 +1,13 @@
+Event: UFC 242: Khabib vs. Poirier
+    Date: September 07, 2019
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: DON MADGE defeated FARES ZIAM via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DON MADGE landed 21 significant strikes
+  - FARES ZIAM landed 10 significant strikes
+  - Knockdowns: DON MADGE 0,  FARES ZIAM 0
+  - Takedowns: DON MADGE 3,  FARES ZIAM 0

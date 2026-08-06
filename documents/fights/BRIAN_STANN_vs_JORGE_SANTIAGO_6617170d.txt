@@ -1,0 +1,14 @@
+Event: UFC 130: Rampage vs Hamill
+    Date: May 28, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRIAN STANN defeated JORGE SANTIAGO via KO/TKO  
+  at 4:29 of round 2
+  Key stats:
+  - BRIAN STANN landed 47 significant strikes
+  - JORGE SANTIAGO landed 14 significant strikes
+  - Knockdowns: BRIAN STANN 2,  JORGE SANTIAGO 0
+  - Takedowns: BRIAN STANN 0,  JORGE SANTIAGO 0
+  Bonus: fight

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: De Ridder vs. Allen
+    Date: October 18, 2025
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Middleweight
+    
+
+    Result: BRENDAN ALLEN defeated REINIER DE RIDDER via KO/TKO  
+  at 5:00 of round 4
+  Key stats:
+  - BRENDAN ALLEN landed 22 significant strikes
+  - REINIER DE RIDDER landed 9 significant strikes
+  - Knockdowns: BRENDAN ALLEN 0,  REINIER DE RIDDER 0
+  - Takedowns: BRENDAN ALLEN 1,  REINIER DE RIDDER 3

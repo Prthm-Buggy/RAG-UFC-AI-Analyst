@@ -1,0 +1,11 @@
+Fighter: BRIAN GERAGHTY
+  Date of Birth: 1980-11-04
+  Career record: 1
+  First fight: 2007-06-23
+  Last fight: 2007-06-23
+
+Career Statistics:
+- Significant Strikes Landed :1
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

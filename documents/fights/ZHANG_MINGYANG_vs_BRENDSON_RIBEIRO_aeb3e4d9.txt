@@ -1,0 +1,14 @@
+Event: UFC 298: Volkanovski vs. Topuria
+    Date: February 17, 2024
+    Location: Anaheim, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ZHANG MINGYANG defeated BRENDSON RIBEIRO via KO/TKO  
+  at 1:41 of round 1
+  Key stats:
+  - ZHANG MINGYANG landed 17 significant strikes
+  - BRENDSON RIBEIRO landed 14 significant strikes
+  - Knockdowns: ZHANG MINGYANG 1,  BRENDSON RIBEIRO 0
+  - Takedowns: ZHANG MINGYANG 0,  BRENDSON RIBEIRO 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC on FOX: Evans vs Davis
+    Date: January 28, 2012
+    Location: Chicago, Illinois, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHAEL SONNEN defeated MICHAEL BISPING via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHAEL SONNEN landed 40 significant strikes
+  - MICHAEL BISPING landed 30 significant strikes
+  - Knockdowns: CHAEL SONNEN 0,  MICHAEL BISPING 0
+  - Takedowns: CHAEL SONNEN 4,  MICHAEL BISPING 1

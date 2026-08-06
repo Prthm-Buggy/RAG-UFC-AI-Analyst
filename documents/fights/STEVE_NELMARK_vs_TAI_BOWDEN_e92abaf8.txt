@@ -1,0 +1,13 @@
+Event: UFC 9: Motor City Madness
+    Date: May 17, 1996
+    Location: Detroit, Michigan, USA
+    Weight Class: Open Weight
+    
+
+    Result: STEVE NELMARK defeated TAI BOWDEN via TKO - Doctor's Stoppage  
+  at 7:25 of round 1
+  Key stats:
+  - STEVE NELMARK landed 13 significant strikes
+  - TAI BOWDEN landed 4 significant strikes
+  - Knockdowns: STEVE NELMARK 0,  TAI BOWDEN 0
+  - Takedowns: STEVE NELMARK 2,  TAI BOWDEN 0

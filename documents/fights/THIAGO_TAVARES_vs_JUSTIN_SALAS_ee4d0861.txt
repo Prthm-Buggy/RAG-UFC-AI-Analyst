@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs Henderson 2
+    Date: November 09, 2013
+    Location: Goiania, Goias, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: THIAGO TAVARES defeated JUSTIN SALAS via Submission  
+  at 2:38 of round 1
+  Key stats:
+  - THIAGO TAVARES landed 7 significant strikes
+  - JUSTIN SALAS landed 4 significant strikes
+  - Knockdowns: THIAGO TAVARES 0,  JUSTIN SALAS 0
+  - Takedowns: THIAGO TAVARES 1,  JUSTIN SALAS 0

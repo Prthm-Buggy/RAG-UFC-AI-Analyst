@@ -1,0 +1,11 @@
+Fighter: FERNANDO PADILLA
+  Date of Birth: 1996-12-15
+  Career record: 4
+  First fight: 2023-04-29
+  Last fight: 2024-12-14
+
+Career Statistics:
+- Significant Strikes Landed :148
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :1

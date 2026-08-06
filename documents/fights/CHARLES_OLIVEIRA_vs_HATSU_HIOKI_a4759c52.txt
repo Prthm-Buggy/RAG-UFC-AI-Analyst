@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Te Huna vs Marquardt
+    Date: June 28, 2014
+    Location: Auckland, New Zealand
+    Weight Class: Featherweight
+    
+
+    Result: CHARLES OLIVEIRA defeated HATSU HIOKI via Submission  
+  at 4:32 of round 2
+  Key stats:
+  - CHARLES OLIVEIRA landed 24 significant strikes
+  - HATSU HIOKI landed 11 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  HATSU HIOKI 0
+  - Takedowns: CHARLES OLIVEIRA 3,  HATSU HIOKI 3
+  Bonus: perf

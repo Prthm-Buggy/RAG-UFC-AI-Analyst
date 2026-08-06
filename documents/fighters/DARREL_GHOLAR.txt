@@ -1,0 +1,11 @@
+Fighter: DARREL GHOLAR
+  Date of Birth: 1962-11-07
+  Career record: 1
+  First fight: 1999-01-08
+  Last fight: 1999-01-08
+
+Career Statistics:
+- Significant Strikes Landed :4
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

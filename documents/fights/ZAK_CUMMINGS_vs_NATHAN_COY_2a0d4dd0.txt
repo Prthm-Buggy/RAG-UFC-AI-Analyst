@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs. Reis
+    Date: April 15, 2017
+    Location: Kansas City, Missouri, USA
+    Weight Class: Welterweight
+    
+
+    Result: ZAK CUMMINGS defeated NATHAN COY via Submission  
+  at 4:21 of round 1
+  Key stats:
+  - ZAK CUMMINGS landed 25 significant strikes
+  - NATHAN COY landed 23 significant strikes
+  - Knockdowns: ZAK CUMMINGS 0,  NATHAN COY 0
+  - Takedowns: ZAK CUMMINGS 0,  NATHAN COY 1

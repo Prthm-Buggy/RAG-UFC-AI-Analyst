@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Yan vs. Figueiredo
+    Date: November 23, 2024
+    Location: Macau, China
+    Weight Class: Flyweight
+    
+
+    Result: DONGHUN CHOI defeated KIRU SAHOTA via KO/TKO  
+  at 2:36 of round 1
+  Key stats:
+  - DONGHUN CHOI landed 12 significant strikes
+  - KIRU SAHOTA landed 2 significant strikes
+  - Knockdowns: DONGHUN CHOI 1,  KIRU SAHOTA 0
+  - Takedowns: DONGHUN CHOI 0,  KIRU SAHOTA 0
+  Bonus: belt

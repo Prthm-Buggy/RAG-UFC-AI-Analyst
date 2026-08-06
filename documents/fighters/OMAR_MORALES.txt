@@ -1,0 +1,11 @@
+Fighter: OMAR MORALES
+  Date of Birth: 1985-10-17
+  Career record: 7
+  First fight: 2019-12-21
+  Last fight: 2023-03-18
+
+Career Statistics:
+- Significant Strikes Landed :290
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

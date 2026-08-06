@@ -1,0 +1,11 @@
+Fighter: TONY KELLEY
+  Date of Birth: 1987-01-21
+  Career record: 4
+  First fight: 2020-08-15
+  Last fight: 2022-06-18
+
+Career Statistics:
+- Significant Strikes Landed :239
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :4

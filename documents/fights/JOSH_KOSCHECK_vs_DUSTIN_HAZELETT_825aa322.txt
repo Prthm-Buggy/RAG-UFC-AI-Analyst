@@ -1,0 +1,13 @@
+Event: UFC 82: Pride of a Champion
+    Date: March 01, 2008
+    Location: Columbus, Ohio, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSH KOSCHECK defeated DUSTIN HAZELETT via KO/TKO  
+  at 1:24 of round 2
+  Key stats:
+  - JOSH KOSCHECK landed 24 significant strikes
+  - DUSTIN HAZELETT landed 20 significant strikes
+  - Knockdowns: JOSH KOSCHECK 1,  DUSTIN HAZELETT 0
+  - Takedowns: JOSH KOSCHECK 1,  DUSTIN HAZELETT 0

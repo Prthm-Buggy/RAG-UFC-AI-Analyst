@@ -1,0 +1,11 @@
+Fighter: DELSON HELENO
+  Date of Birth: 1977-11-16
+  Career record: 1
+  First fight: 2012-06-23
+  Last fight: 2012-06-23
+
+Career Statistics:
+- Significant Strikes Landed :3
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

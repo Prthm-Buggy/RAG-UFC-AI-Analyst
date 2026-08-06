@@ -1,0 +1,11 @@
+Fighter: ANDRE WINNER
+  Date of Birth: 1981-11-09
+  Career record: 6
+  First fight: 2009-06-20
+  Last fight: 2011-07-02
+
+Career Statistics:
+- Significant Strikes Landed :169
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

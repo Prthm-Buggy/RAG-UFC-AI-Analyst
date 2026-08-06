@@ -1,0 +1,11 @@
+Fighter: NIKO PRICE
+  Date of Birth: 1989-09-29
+  Career record: 19
+  First fight: 2016-12-30
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :697
+- Total takedowns landed :12
+- Knockdowns :4
+- Submission Attempts :7

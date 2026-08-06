@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Gustafsson vs Silva
+    Date: April 14, 2012
+    Location: Stockholm, Sweden
+    Weight Class: Welterweight
+    
+
+    Result: JAMES HEAD defeated PAPY ABEDI via Submission  
+  at 4:33 of round 1
+  Key stats:
+  - JAMES HEAD landed 21 significant strikes
+  - PAPY ABEDI landed 11 significant strikes
+  - Knockdowns: JAMES HEAD 0,  PAPY ABEDI 0
+  - Takedowns: JAMES HEAD 0,  PAPY ABEDI 1

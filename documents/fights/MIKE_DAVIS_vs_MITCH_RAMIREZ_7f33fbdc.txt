@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Teixeira
+    Date: July 12, 2025
+    Location: Nashville, Tennessee, USA
+    Weight Class: Lightweight
+    
+
+    Result: MIKE DAVIS defeated MITCH RAMIREZ via KO/TKO  
+  at 4:08 of round 2
+  Key stats:
+  - MIKE DAVIS landed 47 significant strikes
+  - MITCH RAMIREZ landed 51 significant strikes
+  - Knockdowns: MIKE DAVIS 1,  MITCH RAMIREZ 0
+  - Takedowns: MIKE DAVIS 1,  MITCH RAMIREZ 0

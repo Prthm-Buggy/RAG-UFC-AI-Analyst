@@ -1,0 +1,13 @@
+Event: UFC 138: Leben vs Munoz
+    Date: November 05, 2011
+    Location: Birmingham, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: THIAGO ALVES defeated PAPY ABEDI via Submission  
+  at 3:32 of round 1
+  Key stats:
+  - THIAGO ALVES landed 25 significant strikes
+  - PAPY ABEDI landed 14 significant strikes
+  - Knockdowns: THIAGO ALVES 1,  PAPY ABEDI 0
+  - Takedowns: THIAGO ALVES 0,  PAPY ABEDI 0

@@ -1,0 +1,14 @@
+Event: UFC 268: Usman vs. Covington 2
+    Date: November 06, 2021
+    Location: New York City, New York, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ROSE NAMAJUNAS defeated ZHANG WEILI via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - ROSE NAMAJUNAS landed 86 significant strikes
+  - ZHANG WEILI landed 83 significant strikes
+  - Knockdowns: ROSE NAMAJUNAS 0,  ZHANG WEILI 0
+  - Takedowns: ROSE NAMAJUNAS 2,  ZHANG WEILI 5
+  Bonus: belt

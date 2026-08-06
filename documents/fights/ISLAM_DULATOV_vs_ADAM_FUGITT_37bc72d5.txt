@@ -1,0 +1,14 @@
+Event: UFC 318: Holloway vs. Poirier 3
+    Date: July 19, 2025
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: ISLAM DULATOV defeated ADAM FUGITT via KO/TKO  
+  at 4:06 of round 1
+  Key stats:
+  - ISLAM DULATOV landed 21 significant strikes
+  - ADAM FUGITT landed 14 significant strikes
+  - Knockdowns: ISLAM DULATOV 1,  ADAM FUGITT 0
+  - Takedowns: ISLAM DULATOV 0,  ADAM FUGITT 0
+  Bonus: perf

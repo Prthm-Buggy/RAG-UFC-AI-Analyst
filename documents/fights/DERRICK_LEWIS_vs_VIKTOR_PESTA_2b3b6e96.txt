@@ -1,0 +1,13 @@
+Event: UFC 192: Cormier vs Gustafsson
+    Date: October 03, 2015
+    Location: Houston, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated VIKTOR PESTA via KO/TKO  
+  at 1:15 of round 3
+  Key stats:
+  - DERRICK LEWIS landed 41 significant strikes
+  - VIKTOR PESTA landed 8 significant strikes
+  - Knockdowns: DERRICK LEWIS 0,  VIKTOR PESTA 0
+  - Takedowns: DERRICK LEWIS 0,  VIKTOR PESTA 5

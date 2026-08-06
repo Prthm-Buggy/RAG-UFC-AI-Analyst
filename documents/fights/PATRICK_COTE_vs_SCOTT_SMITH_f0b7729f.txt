@@ -1,0 +1,13 @@
+Event: UFC 67: All or Nothing
+    Date: February 03, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: PATRICK COTE defeated SCOTT SMITH via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PATRICK COTE landed 50 significant strikes
+  - SCOTT SMITH landed 34 significant strikes
+  - Knockdowns: PATRICK COTE 0,  SCOTT SMITH 0
+  - Takedowns: PATRICK COTE 1,  SCOTT SMITH 0

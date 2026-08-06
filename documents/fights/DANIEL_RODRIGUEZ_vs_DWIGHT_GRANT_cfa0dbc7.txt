@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Munhoz vs. Edgar
+    Date: August 22, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DANIEL RODRIGUEZ defeated DWIGHT GRANT via KO/TKO  
+  at 2:24 of round 1
+  Key stats:
+  - DANIEL RODRIGUEZ landed 15 significant strikes
+  - DWIGHT GRANT landed 30 significant strikes
+  - Knockdowns: DANIEL RODRIGUEZ 3,  DWIGHT GRANT 1
+  - Takedowns: DANIEL RODRIGUEZ 0,  DWIGHT GRANT 0

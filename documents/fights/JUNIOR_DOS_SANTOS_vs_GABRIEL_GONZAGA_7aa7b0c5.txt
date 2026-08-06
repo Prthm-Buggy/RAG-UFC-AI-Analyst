@@ -1,0 +1,14 @@
+Event: UFC Live: Vera vs Jones
+    Date: March 21, 2010
+    Location: Broomfield, Colorado, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR DOS SANTOS defeated GABRIEL GONZAGA via KO/TKO  
+  at 3:53 of round 1
+  Key stats:
+  - JUNIOR DOS SANTOS landed 20 significant strikes
+  - GABRIEL GONZAGA landed 9 significant strikes
+  - Knockdowns: JUNIOR DOS SANTOS 1,  GABRIEL GONZAGA 0
+  - Takedowns: JUNIOR DOS SANTOS 0,  GABRIEL GONZAGA 1
+  Bonus: ko

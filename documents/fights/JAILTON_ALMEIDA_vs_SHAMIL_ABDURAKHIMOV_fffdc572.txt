@@ -1,0 +1,14 @@
+Event: UFC 283: Teixeira vs. Hill
+    Date: January 21, 2023
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: JAILTON ALMEIDA defeated SHAMIL ABDURAKHIMOV via KO/TKO  
+  at 2:56 of round 2
+  Key stats:
+  - JAILTON ALMEIDA landed 45 significant strikes
+  - SHAMIL ABDURAKHIMOV landed 1 significant strikes
+  - Knockdowns: JAILTON ALMEIDA 0,  SHAMIL ABDURAKHIMOV 0
+  - Takedowns: JAILTON ALMEIDA 3,  SHAMIL ABDURAKHIMOV 0
+  Bonus: perf

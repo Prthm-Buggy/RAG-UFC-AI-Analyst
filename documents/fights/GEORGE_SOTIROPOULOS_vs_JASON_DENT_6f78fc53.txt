@@ -1,0 +1,13 @@
+Event: UFC 106: Ortiz vs Griffin 2
+    Date: November 21, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: GEORGE SOTIROPOULOS defeated JASON DENT via Submission  
+  at 4:36 of round 2
+  Key stats:
+  - GEORGE SOTIROPOULOS landed 33 significant strikes
+  - JASON DENT landed 25 significant strikes
+  - Knockdowns: GEORGE SOTIROPOULOS 0,  JASON DENT 0
+  - Takedowns: GEORGE SOTIROPOULOS 3,  JASON DENT 0

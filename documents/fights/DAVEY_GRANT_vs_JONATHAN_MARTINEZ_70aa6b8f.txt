@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edwards vs. Muhammad
+    Date: March 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DAVEY GRANT defeated JONATHAN MARTINEZ via KO/TKO  
+  at 3:03 of round 2
+  Key stats:
+  - DAVEY GRANT landed 48 significant strikes
+  - JONATHAN MARTINEZ landed 29 significant strikes
+  - Knockdowns: DAVEY GRANT 1,  JONATHAN MARTINEZ 1
+  - Takedowns: DAVEY GRANT 0,  JONATHAN MARTINEZ 0
+  Bonus: perf

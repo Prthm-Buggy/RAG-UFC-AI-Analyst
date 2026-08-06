@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Ribas 2
+    Date: January 11, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: FELIPE BUNES defeated JOSE JOHNSON via Submission  
+  at 2:04 of round 1
+  Key stats:
+  - FELIPE BUNES landed 2 significant strikes
+  - JOSE JOHNSON landed 8 significant strikes
+  - Knockdowns: FELIPE BUNES 0,  JOSE JOHNSON 0
+  - Takedowns: FELIPE BUNES 0,  JOSE JOHNSON 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machado Garry vs. Prates
+    Date: April 26, 2025
+    Location: Kansas City, Missouri, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ZHANG MINGYANG defeated ANTHONY SMITH via KO/TKO  
+  at 4:03 of round 1
+  Key stats:
+  - ZHANG MINGYANG landed 63 significant strikes
+  - ANTHONY SMITH landed 10 significant strikes
+  - Knockdowns: ZHANG MINGYANG 0,  ANTHONY SMITH 0
+  - Takedowns: ZHANG MINGYANG 0,  ANTHONY SMITH 0
+  Bonus: perf

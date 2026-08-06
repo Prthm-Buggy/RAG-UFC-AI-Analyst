@@ -1,0 +1,11 @@
+Fighter: JENEL LAUSA
+  Date of Birth: 1988-08-01
+  Career record: 4
+  First fight: 2016-11-26
+  Last fight: 2018-06-23
+
+Career Statistics:
+- Significant Strikes Landed :78
+- Total takedowns landed :2
+- Knockdowns :2
+- Submission Attempts :3

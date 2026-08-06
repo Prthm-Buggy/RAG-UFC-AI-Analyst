@@ -1,0 +1,14 @@
+Event: UFC 55: Fury
+    Date: October 07, 2005
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated PAUL BUENTELLO via KO/TKO  
+  at 0:15 of round 1
+  Key stats:
+  - ANDREI ARLOVSKI landed 2 significant strikes
+  - PAUL BUENTELLO landed 1 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 1,  PAUL BUENTELLO 0
+  - Takedowns: ANDREI ARLOVSKI 0,  PAUL BUENTELLO 0
+  Bonus: belt

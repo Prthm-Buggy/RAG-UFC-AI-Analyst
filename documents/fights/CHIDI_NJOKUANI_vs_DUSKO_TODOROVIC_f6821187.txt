@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holm vs. Vieira
+    Date: May 21, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHIDI NJOKUANI defeated DUSKO TODOROVIC via KO/TKO  
+  at 4:48 of round 1
+  Key stats:
+  - CHIDI NJOKUANI landed 14 significant strikes
+  - DUSKO TODOROVIC landed 5 significant strikes
+  - Knockdowns: CHIDI NJOKUANI 1,  DUSKO TODOROVIC 0
+  - Takedowns: CHIDI NJOKUANI 0,  DUSKO TODOROVIC 2
+  Bonus: perf

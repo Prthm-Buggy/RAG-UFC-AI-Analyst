@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Silva vs. Stann
+    Date: March 02, 2013
+    Location: Saitama, Japan
+    Weight Class: Heavyweight
+    
+
+    Result: MARK HUNT defeated STEFAN STRUVE via KO/TKO  
+  at 1:44 of round 3
+  Key stats:
+  - MARK HUNT landed 47 significant strikes
+  - STEFAN STRUVE landed 24 significant strikes
+  - Knockdowns: MARK HUNT 1,  STEFAN STRUVE 0
+  - Takedowns: MARK HUNT 1,  STEFAN STRUVE 0
+  Bonus: ko

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ribas vs. Namajunas
+    Date: March 23, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: PAYTON TALBOTT defeated CAMERON SAAIMAN via KO/TKO  
+  at 0:21 of round 2
+  Key stats:
+  - PAYTON TALBOTT landed 79 significant strikes
+  - CAMERON SAAIMAN landed 31 significant strikes
+  - Knockdowns: PAYTON TALBOTT 1,  CAMERON SAAIMAN 0
+  - Takedowns: PAYTON TALBOTT 0,  CAMERON SAAIMAN 0
+  Bonus: perf

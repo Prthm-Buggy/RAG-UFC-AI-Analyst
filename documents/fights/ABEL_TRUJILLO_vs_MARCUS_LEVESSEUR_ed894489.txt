@@ -1,0 +1,13 @@
+Event: UFC on FOX: Henderson vs Diaz
+    Date: December 08, 2012
+    Location: Seattle, Washington, USA
+    Weight Class: Lightweight
+    
+
+    Result: ABEL TRUJILLO defeated MARCUS LEVESSEUR via KO/TKO  
+  at 3:56 of round 2
+  Key stats:
+  - ABEL TRUJILLO landed 57 significant strikes
+  - MARCUS LEVESSEUR landed 9 significant strikes
+  - Knockdowns: ABEL TRUJILLO 1,  MARCUS LEVESSEUR 0
+  - Takedowns: ABEL TRUJILLO 1,  MARCUS LEVESSEUR 2

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Nurmagomedov
+    Date: August 03, 2024
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: AZAMAT MURZAKANOV defeated ALONZO MENIFIELD via KO/TKO  
+  at 3:18 of round 2
+  Key stats:
+  - AZAMAT MURZAKANOV landed 45 significant strikes
+  - ALONZO MENIFIELD landed 15 significant strikes
+  - Knockdowns: AZAMAT MURZAKANOV 1,  ALONZO MENIFIELD 0
+  - Takedowns: AZAMAT MURZAKANOV 0,  ALONZO MENIFIELD 0
+  Bonus: perf

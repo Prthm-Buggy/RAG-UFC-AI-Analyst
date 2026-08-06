@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Poirier vs. Pettis
+    Date: November 11, 2017
+    Location: Norfolk, Virginia, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RAPHAEL ASSUNCAO defeated MATTHEW LOPEZ via KO/TKO  
+  at 1:50 of round 3
+  Key stats:
+  - RAPHAEL ASSUNCAO landed 46 significant strikes
+  - MATTHEW LOPEZ landed 34 significant strikes
+  - Knockdowns: RAPHAEL ASSUNCAO 1,  MATTHEW LOPEZ 0
+  - Takedowns: RAPHAEL ASSUNCAO 0,  MATTHEW LOPEZ 1
+  Bonus: perf

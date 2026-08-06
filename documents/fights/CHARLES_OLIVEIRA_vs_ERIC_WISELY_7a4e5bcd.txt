@@ -1,0 +1,14 @@
+Event: UFC on FOX: Evans vs Davis
+    Date: January 28, 2012
+    Location: Chicago, Illinois, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHARLES OLIVEIRA defeated ERIC WISELY via Submission  
+  at 1:43 of round 1
+  Key stats:
+  - CHARLES OLIVEIRA landed 6 significant strikes
+  - ERIC WISELY landed 2 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  ERIC WISELY 0
+  - Takedowns: CHARLES OLIVEIRA 1,  ERIC WISELY 0
+  Bonus: sub

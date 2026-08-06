@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Assuncao vs. Moraes 2
+    Date: February 02, 2019
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated DAVID TEYMUR via Submission  
+  at 0:55 of round 2
+  Key stats:
+  - CHARLES OLIVEIRA landed 28 significant strikes
+  - DAVID TEYMUR landed 26 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  DAVID TEYMUR 1
+  - Takedowns: CHARLES OLIVEIRA 1,  DAVID TEYMUR 0
+  Bonus: perf

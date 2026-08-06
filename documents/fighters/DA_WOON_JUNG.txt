@@ -1,0 +1,11 @@
+Fighter: DA WOON JUNG
+  Date of Birth: 1993-12-07
+  Career record: 8
+  First fight: 2019-08-31
+  Last fight: 2024-09-28
+
+Career Statistics:
+- Significant Strikes Landed :249
+- Total takedowns landed :10
+- Knockdowns :2
+- Submission Attempts :1

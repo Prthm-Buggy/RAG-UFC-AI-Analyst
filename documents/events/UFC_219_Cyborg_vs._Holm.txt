@@ -1,0 +1,15 @@
+Event : UFC 219: Cyborg vs. Holm
+    Date : December 30, 2017
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Bantamweight, Women's Featherweight, Lightweight, Women's Strawweight, Featherweight, Welterweight, Flyweight
+
+    Fight Results:
+  - NEIL MAGNY def. CARLOS CONDIT via Decision - Unanimous(R3)
+- CARLA ESPARZA def. CYNTHIA CALVILLO via Decision - Unanimous(R3)
+- TIM ELLIOTT def. MARK DE LA ROSA via Submission(R2)
+- DAN HOOKER def. MARC DIAKIESE via Submission(R3)
+- MATHEUS NICOLAU def. LOUIS SMOLKA via Decision - Unanimous(R3)
+- MYLES JURY def. RICKY GLENN via Decision - Unanimous(R3)
+- KHABIB NURMAGOMEDOV def. EDSON BARBOZA via Decision - Unanimous(R3)
+- CRISTIANE JUSTINO def. HOLLY HOLM via Decision - Unanimous(R5)

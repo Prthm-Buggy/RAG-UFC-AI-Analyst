@@ -1,0 +1,11 @@
+Fighter: PATRICK SMITH
+  Date of Birth: 1963-08-28
+  Career record: 5
+  First fight: 1994-03-11
+  Last fight: 1995-07-14
+
+Career Statistics:
+- Significant Strikes Landed :26
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :3

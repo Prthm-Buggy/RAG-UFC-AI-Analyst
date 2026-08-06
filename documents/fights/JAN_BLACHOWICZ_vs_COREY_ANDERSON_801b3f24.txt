@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Anderson vs. Blachowicz
+    Date: February 15, 2020
+    Location: Rio Rancho, New Mexico, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAN BLACHOWICZ defeated COREY ANDERSON via KO/TKO  
+  at 3:08 of round 1
+  Key stats:
+  - JAN BLACHOWICZ landed 13 significant strikes
+  - COREY ANDERSON landed 11 significant strikes
+  - Knockdowns: JAN BLACHOWICZ 1,  COREY ANDERSON 0
+  - Takedowns: JAN BLACHOWICZ 0,  COREY ANDERSON 0
+  Bonus: perf

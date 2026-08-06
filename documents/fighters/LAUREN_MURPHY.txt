@@ -1,0 +1,11 @@
+Fighter: LAUREN MURPHY
+  Date of Birth: 1983-07-27
+  Career record: 15
+  First fight: 2014-08-16
+  Last fight: 2025-07-12
+
+Career Statistics:
+- Significant Strikes Landed :864
+- Total takedowns landed :16
+- Knockdowns :1
+- Submission Attempts :3

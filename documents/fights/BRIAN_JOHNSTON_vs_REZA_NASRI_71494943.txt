@@ -1,0 +1,13 @@
+Event: UFC 11: The Proving Ground
+    Date: September 20, 1996
+    Location: Augusta, Georgia, USA
+    Weight Class: Open Weight
+    
+
+    Result: BRIAN JOHNSTON defeated REZA NASRI via KO/TKO  
+  at 0:28 of round 1
+  Key stats:
+  - BRIAN JOHNSTON landed 6 significant strikes
+  - REZA NASRI landed 0 significant strikes
+  - Knockdowns: BRIAN JOHNSTON 0,  REZA NASRI 0
+  - Takedowns: BRIAN JOHNSTON 1,  REZA NASRI 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Ribas 2
+    Date: January 11, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARCO TULIO defeated IHOR POTIERIA via KO/TKO  
+  at 3:04 of round 1
+  Key stats:
+  - MARCO TULIO landed 29 significant strikes
+  - IHOR POTIERIA landed 6 significant strikes
+  - Knockdowns: MARCO TULIO 1,  IHOR POTIERIA 0
+  - Takedowns: MARCO TULIO 0,  IHOR POTIERIA 0

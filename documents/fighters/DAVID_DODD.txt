@@ -1,0 +1,11 @@
+Fighter: DAVID DODD
+  Date of Birth: 1973-09-22
+  Career record: 2
+  First fight: 1999-07-16
+  Last fight: 2000-06-09
+
+Career Statistics:
+- Significant Strikes Landed :10
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

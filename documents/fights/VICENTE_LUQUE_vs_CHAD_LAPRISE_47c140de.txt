@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs. Usman
+    Date: May 19, 2018
+    Location: Santiago, Chile
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated CHAD LAPRISE via KO/TKO  
+  at 4:16 of round 1
+  Key stats:
+  - VICENTE LUQUE landed 14 significant strikes
+  - CHAD LAPRISE landed 13 significant strikes
+  - Knockdowns: VICENTE LUQUE 1,  CHAD LAPRISE 0
+  - Takedowns: VICENTE LUQUE 0,  CHAD LAPRISE 0

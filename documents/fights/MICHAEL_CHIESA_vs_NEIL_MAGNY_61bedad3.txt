@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Chiesa vs. Magny
+    Date: January 20, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Welterweight
+    
+
+    Result: MICHAEL CHIESA defeated NEIL MAGNY via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MICHAEL CHIESA landed 24 significant strikes
+  - NEIL MAGNY landed 12 significant strikes
+  - Knockdowns: MICHAEL CHIESA 0,  NEIL MAGNY 0
+  - Takedowns: MICHAEL CHIESA 4,  NEIL MAGNY 1

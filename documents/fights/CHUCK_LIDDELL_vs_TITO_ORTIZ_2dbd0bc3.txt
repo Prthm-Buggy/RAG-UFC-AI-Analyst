@@ -1,0 +1,13 @@
+Event: UFC 47: It's On!
+    Date: April 02, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CHUCK LIDDELL defeated TITO ORTIZ via KO/TKO  
+  at 0:38 of round 2
+  Key stats:
+  - CHUCK LIDDELL landed 23 significant strikes
+  - TITO ORTIZ landed 13 significant strikes
+  - Knockdowns: CHUCK LIDDELL 1,  TITO ORTIZ 0
+  - Takedowns: CHUCK LIDDELL 0,  TITO ORTIZ 0

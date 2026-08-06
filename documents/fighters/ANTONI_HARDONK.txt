@@ -1,0 +1,11 @@
+Fighter: ANTONI HARDONK
+  Date of Birth: 1976-02-05
+  Career record: 8
+  First fight: 2006-11-18
+  Last fight: 2009-10-24
+
+Career Statistics:
+- Significant Strikes Landed :174
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :3

@@ -1,0 +1,11 @@
+Fighter: TJ DILLASHAW
+  Date of Birth: 1986-02-07
+  Career record: 18
+  First fight: 2011-12-03
+  Last fight: 2022-10-22
+
+Career Statistics:
+- Significant Strikes Landed :1123
+- Total takedowns landed :23
+- Knockdowns :9
+- Submission Attempts :12

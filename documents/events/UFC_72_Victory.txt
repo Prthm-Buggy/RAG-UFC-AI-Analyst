@@ -1,0 +1,15 @@
+Event : UFC 72: Victory
+    Date : June 16, 2007
+    Location: Belfast, Northern Ireland, United Kingdom
+    Number of Fights: 8
+    Weight Classes: Welterweight, Middleweight, Lightweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - ED HERMAN def. SCOTT SMITH via Submission(R2)
+- JASON MACDONALD def. RORY SINGER via KO/TKO(R2)
+- RICH FRANKLIN def. YUSHIN OKAMI via Decision - Unanimous(R3)
+- TYSON GRIFFIN def. CLAY GUIDA via Decision - Split(R3)
+- FORREST GRIFFIN def. HECTOR RAMIREZ via Decision - Unanimous(R3)
+- DUSTIN HAZELETT def. STEVIE LYNCH via Submission(R1)
+- EDDIE SANCHEZ def. COLIN ROBINSON via KO/TKO(R2)
+- MARCUS DAVIS def. JASON TAN via KO/TKO(R1)

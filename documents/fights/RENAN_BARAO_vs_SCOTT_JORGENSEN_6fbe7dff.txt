@@ -1,0 +1,13 @@
+Event: UFC 143: Diaz vs Condit
+    Date: February 04, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RENAN BARAO defeated SCOTT JORGENSEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RENAN BARAO landed 104 significant strikes
+  - SCOTT JORGENSEN landed 73 significant strikes
+  - Knockdowns: RENAN BARAO 0,  SCOTT JORGENSEN 0
+  - Takedowns: RENAN BARAO 0,  SCOTT JORGENSEN 0

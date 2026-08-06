@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Burns vs. Brady
+    Date: September 07, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: YANAL ASHMOUZ defeated TREVOR PEEK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - YANAL ASHMOUZ landed 42 significant strikes
+  - TREVOR PEEK landed 55 significant strikes
+  - Knockdowns: YANAL ASHMOUZ 0,  TREVOR PEEK 0
+  - Takedowns: YANAL ASHMOUZ 9,  TREVOR PEEK 0

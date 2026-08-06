@@ -1,0 +1,13 @@
+Event: UFC 145: Jones vs Evans
+    Date: April 21, 2012
+    Location: Atlanta, Georgia, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHRIS CLEMENTS defeated KEITH WISNIEWSKI via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CHRIS CLEMENTS landed 68 significant strikes
+  - KEITH WISNIEWSKI landed 28 significant strikes
+  - Knockdowns: CHRIS CLEMENTS 2,  KEITH WISNIEWSKI 0
+  - Takedowns: CHRIS CLEMENTS 0,  KEITH WISNIEWSKI 3

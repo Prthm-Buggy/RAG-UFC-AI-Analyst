@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Pulver vs. Team Penn Finale
+    Date: June 23, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE LAUZON defeated BRANDON MELENDEZ via Submission  
+  at 2:09 of round 2
+  Key stats:
+  - JOE LAUZON landed 4 significant strikes
+  - BRANDON MELENDEZ landed 6 significant strikes
+  - Knockdowns: JOE LAUZON 0,  BRANDON MELENDEZ 0
+  - Takedowns: JOE LAUZON 3,  BRANDON MELENDEZ 0
+  Bonus: sub

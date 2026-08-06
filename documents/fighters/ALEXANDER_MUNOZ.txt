@@ -1,0 +1,11 @@
+Fighter: ALEXANDER MUNOZ
+  Date of Birth: 1990-02-27
+  Career record: 3
+  First fight: 2020-08-08
+  Last fight: 2023-07-15
+
+Career Statistics:
+- Significant Strikes Landed :161
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :0

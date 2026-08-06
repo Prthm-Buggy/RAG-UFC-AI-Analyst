@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Blaydes vs. Lewis
+    Date : February 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Women's Flyweight, Bantamweight, Middleweight, Women's Bantamweight, Featherweight
+
+    Fight Results:
+  - CASEY O'NEILL def. SHANA DOBSON via KO/TKO(R2)
+- JULIAN EROSA def. NATE LANDWEHR via KO/TKO(R1)
+- YANA SANTOS def. KETLEN VIEIRA via Decision - Unanimous(R3)
+- PHIL HAWES def. NASSOURDINE IMAVOV via Decision - Majority(R3)
+- SERGHEI SPIVAC def. JARED VANDERAA via KO/TKO(R2)
+- DERRICK LEWIS def. CURTIS BLAYDES via KO/TKO(R2)
+- JOHN CASTANEDA def. EDDIE WINELAND via KO/TKO(R1)
+- CHRIS DAUKAUS def. ALEKSEI OLEINIK via KO/TKO(R1)
+- TOM ASPINALL def. ANDREI ARLOVSKI via Submission(R2)
+- DARRICK MINNER def. CHARLES ROSA via Decision - Unanimous(R3)
+- JARED GORDON def. DANNY CHAVEZ via Decision - Unanimous(R3)
+- AIEMANN ZAHABI def. DRAKO RODRIGUEZ via KO/TKO(R1)

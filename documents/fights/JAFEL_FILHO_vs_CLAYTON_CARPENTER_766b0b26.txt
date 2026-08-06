@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Oliveira vs. Gamrot
+    Date: October 11, 2025
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: JAFEL FILHO defeated CLAYTON CARPENTER via Submission  
+  at 4:42 of round 1
+  Key stats:
+  - JAFEL FILHO landed 5 significant strikes
+  - CLAYTON CARPENTER landed 7 significant strikes
+  - Knockdowns: JAFEL FILHO 0,  CLAYTON CARPENTER 0
+  - Takedowns: JAFEL FILHO 1,  CLAYTON CARPENTER 0

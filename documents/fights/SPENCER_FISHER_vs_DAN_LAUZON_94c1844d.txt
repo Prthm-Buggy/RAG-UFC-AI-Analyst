@@ -1,0 +1,13 @@
+Event: UFC 64: Unstoppable
+    Date: October 14, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: SPENCER FISHER defeated DAN LAUZON via KO/TKO  
+  at 4:38 of round 1
+  Key stats:
+  - SPENCER FISHER landed 13 significant strikes
+  - DAN LAUZON landed 8 significant strikes
+  - Knockdowns: SPENCER FISHER 1,  DAN LAUZON 0
+  - Takedowns: SPENCER FISHER 0,  DAN LAUZON 2

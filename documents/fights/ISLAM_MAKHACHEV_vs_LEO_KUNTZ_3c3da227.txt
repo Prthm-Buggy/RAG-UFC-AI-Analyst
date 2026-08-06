@@ -1,0 +1,13 @@
+Event: UFC 187: Johnson vs Cormier
+    Date: May 23, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ISLAM MAKHACHEV defeated LEO KUNTZ via Submission  
+  at 2:38 of round 2
+  Key stats:
+  - ISLAM MAKHACHEV landed 32 significant strikes
+  - LEO KUNTZ landed 7 significant strikes
+  - Knockdowns: ISLAM MAKHACHEV 0,  LEO KUNTZ 0
+  - Takedowns: ISLAM MAKHACHEV 3,  LEO KUNTZ 0

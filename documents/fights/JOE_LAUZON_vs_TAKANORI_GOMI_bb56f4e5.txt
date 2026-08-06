@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dillashaw vs. Barao II
+    Date: July 25, 2015
+    Location: Chicago, Illinois, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE LAUZON defeated TAKANORI GOMI via KO/TKO  
+  at 2:37 of round 1
+  Key stats:
+  - JOE LAUZON landed 15 significant strikes
+  - TAKANORI GOMI landed 7 significant strikes
+  - Knockdowns: JOE LAUZON 0,  TAKANORI GOMI 0
+  - Takedowns: JOE LAUZON 1,  TAKANORI GOMI 0

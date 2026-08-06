@@ -1,0 +1,14 @@
+Event: UFC 257: Poirier vs. McGregor
+    Date: January 23, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: MICHAEL CHANDLER defeated DAN HOOKER via KO/TKO  
+  at 2:30 of round 1
+  Key stats:
+  - MICHAEL CHANDLER landed 17 significant strikes
+  - DAN HOOKER landed 8 significant strikes
+  - Knockdowns: MICHAEL CHANDLER 1,  DAN HOOKER 0
+  - Takedowns: MICHAEL CHANDLER 0,  DAN HOOKER 0
+  Bonus: perf

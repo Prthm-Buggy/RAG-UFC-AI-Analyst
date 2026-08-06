@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Rousey vs. Team Tate Finale
+    Date: November 30, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SEAN SPENCER defeated DREW DOBER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SEAN SPENCER landed 105 significant strikes
+  - DREW DOBER landed 61 significant strikes
+  - Knockdowns: SEAN SPENCER 0,  DREW DOBER 0
+  - Takedowns: SEAN SPENCER 0,  DREW DOBER 0

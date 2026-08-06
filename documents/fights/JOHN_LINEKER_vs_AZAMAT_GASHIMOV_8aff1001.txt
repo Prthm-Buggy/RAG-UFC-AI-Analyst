@@ -1,0 +1,13 @@
+Event: UFC on FX: Belfort vs. Rockhold
+    Date: May 18, 2013
+    Location: Jaragua do Sul, Santa Catarina, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: JOHN LINEKER defeated AZAMAT GASHIMOV via KO/TKO  
+  at 1:07 of round 2
+  Key stats:
+  - JOHN LINEKER landed 36 significant strikes
+  - AZAMAT GASHIMOV landed 7 significant strikes
+  - Knockdowns: JOHN LINEKER 3,  AZAMAT GASHIMOV 0
+  - Takedowns: JOHN LINEKER 0,  AZAMAT GASHIMOV 0

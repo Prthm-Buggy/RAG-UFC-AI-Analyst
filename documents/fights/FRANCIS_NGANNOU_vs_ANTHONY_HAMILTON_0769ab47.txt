@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Abdurakhimov
+    Date: December 09, 2016
+    Location: Albany, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANCIS NGANNOU defeated ANTHONY HAMILTON via Submission  
+  at 1:57 of round 1
+  Key stats:
+  - FRANCIS NGANNOU landed 1 significant strikes
+  - ANTHONY HAMILTON landed 0 significant strikes
+  - Knockdowns: FRANCIS NGANNOU 0,  ANTHONY HAMILTON 0
+  - Takedowns: FRANCIS NGANNOU 0,  ANTHONY HAMILTON 1
+  Bonus: perf

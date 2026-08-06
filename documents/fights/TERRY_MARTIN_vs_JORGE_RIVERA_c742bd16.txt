@@ -1,0 +1,14 @@
+Event: UFC 67: All or Nothing
+    Date: February 03, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: TERRY MARTIN defeated JORGE RIVERA via KO/TKO  
+  at 0:14 of round 1
+  Key stats:
+  - TERRY MARTIN landed 4 significant strikes
+  - JORGE RIVERA landed 1 significant strikes
+  - Knockdowns: TERRY MARTIN 1,  JORGE RIVERA 0
+  - Takedowns: TERRY MARTIN 0,  JORGE RIVERA 0
+  Bonus: ko

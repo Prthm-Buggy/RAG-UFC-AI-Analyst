@@ -1,0 +1,14 @@
+Event: UFC 232: Jones vs. Gustafsson 2
+    Date: December 29, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: ALEXANDER VOLKANOVSKI defeated CHAD MENDES via KO/TKO  
+  at 4:14 of round 2
+  Key stats:
+  - ALEXANDER VOLKANOVSKI landed 54 significant strikes
+  - CHAD MENDES landed 28 significant strikes
+  - Knockdowns: ALEXANDER VOLKANOVSKI 1,  CHAD MENDES 1
+  - Takedowns: ALEXANDER VOLKANOVSKI 0,  CHAD MENDES 3
+  Bonus: fight

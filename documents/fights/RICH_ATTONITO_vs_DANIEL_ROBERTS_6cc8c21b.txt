@@ -1,0 +1,13 @@
+Event: UFC Live: Kongo vs Barry
+    Date: June 26, 2011
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Welterweight
+    
+
+    Result: RICH ATTONITO defeated DANIEL ROBERTS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RICH ATTONITO landed 66 significant strikes
+  - DANIEL ROBERTS landed 23 significant strikes
+  - Knockdowns: RICH ATTONITO 1,  DANIEL ROBERTS 0
+  - Takedowns: RICH ATTONITO 1,  DANIEL ROBERTS 1

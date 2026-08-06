@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swanson vs. Ortega
+    Date: December 09, 2017
+    Location: Fresno, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: SCOTT HOLTZMAN defeated DARRELL HORCHER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SCOTT HOLTZMAN landed 49 significant strikes
+  - DARRELL HORCHER landed 36 significant strikes
+  - Knockdowns: SCOTT HOLTZMAN 0,  DARRELL HORCHER 0
+  - Takedowns: SCOTT HOLTZMAN 7,  DARRELL HORCHER 1

@@ -1,0 +1,11 @@
+Fighter: JIMY HETTES
+  Date of Birth: 1987-06-09
+  Career record: 6
+  First fight: 2011-08-14
+  Last fight: 2015-04-18
+
+Career Statistics:
+- Significant Strikes Landed :220
+- Total takedowns landed :22
+- Knockdowns :0
+- Submission Attempts :6

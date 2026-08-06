@@ -1,0 +1,11 @@
+Fighter: BRENDAN O'REILLY
+  Date of Birth: 1987-06-24
+  Career record: 4
+  First fight: 2014-08-23
+  Last fight: 2016-12-03
+
+Career Statistics:
+- Significant Strikes Landed :90
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :2

@@ -1,0 +1,11 @@
+Fighter: DENNIS HALLMAN
+  Date of Birth: 1975-12-02
+  Career record: 9
+  First fight: 2000-12-16
+  Last fight: 2011-12-10
+
+Career Statistics:
+- Significant Strikes Landed :94
+- Total takedowns landed :10
+- Knockdowns :1
+- Submission Attempts :12

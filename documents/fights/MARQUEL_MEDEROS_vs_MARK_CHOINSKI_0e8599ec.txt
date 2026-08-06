@@ -1,0 +1,13 @@
+Event: UFC 316: Dvalishvili vs. O'Malley 2
+    Date: June 07, 2025
+    Location: Newark, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: MARQUEL MEDEROS defeated MARK CHOINSKI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARQUEL MEDEROS landed 110 significant strikes
+  - MARK CHOINSKI landed 58 significant strikes
+  - Knockdowns: MARQUEL MEDEROS 1,  MARK CHOINSKI 0
+  - Takedowns: MARQUEL MEDEROS 0,  MARK CHOINSKI 2

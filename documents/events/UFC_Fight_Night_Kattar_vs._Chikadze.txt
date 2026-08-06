@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Kattar vs. Chikadze
+    Date : January 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Featherweight, Flyweight, Lightweight, Welterweight, Middleweight, Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - BRANDON ROYVAL def. ROGERIO BONTORIN via Decision - Split(R3)
+- VIACHESLAV BORSHCHEV def. DAKOTA BUSH via KO/TKO(R1)
+- BILL ALGEO def. JOANDERSON BRITO via Decision - Unanimous(R3)
+- CALVIN KATTAR def. GIGA CHIKADZE via Decision - Unanimous(R5)
+- COURT MCGEE def. RAMIZ BRAHIMAJ via Decision - Unanimous(R3)
+- JAMIE PICKETT def. JOSEPH HOLMES via Decision - Unanimous(R3)
+- KATLYN CERMINARA def. JENNIFER MAIA via Decision - Unanimous(R3)
+- TJ BROWN def. CHARLES ROSA via Decision - Unanimous(R3)
+- JAKE COLLIER def. CHASE SHERMAN via Submission(R1)
+- BRIAN KELLEHER def. KEVIN CROOM via Decision - Unanimous(R3)

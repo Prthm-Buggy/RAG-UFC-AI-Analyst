@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Carwin vs. Team Nelson Finale
+    Date: December 15, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PYLE defeated JAMES HEAD via KO/TKO  
+  at 1:55 of round 1
+  Key stats:
+  - MIKE PYLE landed 9 significant strikes
+  - JAMES HEAD landed 13 significant strikes
+  - Knockdowns: MIKE PYLE 1,  JAMES HEAD 0
+  - Takedowns: MIKE PYLE 0,  JAMES HEAD 0

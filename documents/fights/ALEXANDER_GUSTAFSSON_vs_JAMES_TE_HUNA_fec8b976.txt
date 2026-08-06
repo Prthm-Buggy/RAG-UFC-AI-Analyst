@@ -1,0 +1,13 @@
+Event: UFC 127: Penn vs Fitch
+    Date: February 26, 2011
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEXANDER GUSTAFSSON defeated JAMES TE HUNA via Submission  
+  at 4:27 of round 1
+  Key stats:
+  - ALEXANDER GUSTAFSSON landed 4 significant strikes
+  - JAMES TE HUNA landed 6 significant strikes
+  - Knockdowns: ALEXANDER GUSTAFSSON 0,  JAMES TE HUNA 0
+  - Takedowns: ALEXANDER GUSTAFSSON 1,  JAMES TE HUNA 1

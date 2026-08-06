@@ -1,0 +1,14 @@
+Event: UFC 244: Masvidal vs. Diaz
+    Date: November 02, 2019
+    Location: New York City, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: KEVIN LEE defeated GREGOR GILLESPIE via KO/TKO  
+  at 2:47 of round 1
+  Key stats:
+  - KEVIN LEE landed 21 significant strikes
+  - GREGOR GILLESPIE landed 9 significant strikes
+  - Knockdowns: KEVIN LEE 1,  GREGOR GILLESPIE 0
+  - Takedowns: KEVIN LEE 0,  GREGOR GILLESPIE 0
+  Bonus: perf

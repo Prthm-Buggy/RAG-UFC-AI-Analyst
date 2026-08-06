@@ -1,0 +1,14 @@
+Event: UFC 276: Adesanya vs. Cannonier
+    Date: July 02, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALEX PEREIRA defeated SEAN STRICKLAND via KO/TKO  
+  at 2:36 of round 1
+  Key stats:
+  - ALEX PEREIRA landed 25 significant strikes
+  - SEAN STRICKLAND landed 15 significant strikes
+  - Knockdowns: ALEX PEREIRA 1,  SEAN STRICKLAND 0
+  - Takedowns: ALEX PEREIRA 0,  SEAN STRICKLAND 0
+  Bonus: perf

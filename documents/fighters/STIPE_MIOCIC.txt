@@ -1,0 +1,11 @@
+Fighter: STIPE MIOCIC
+  Date of Birth: 1982-08-19
+  Career record: 19
+  First fight: 2011-10-08
+  Last fight: 2024-11-16
+
+Career Statistics:
+- Significant Strikes Landed :1007
+- Total takedowns landed :25
+- Knockdowns :7
+- Submission Attempts :0

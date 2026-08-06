@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Rozenstruik vs. Sakai
+    Date : June 05, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Welterweight, Featherweight, Middleweight, Lightweight, Women's Flyweight, Heavyweight
+
+    Fight Results:
+  - JAIRZINHO ROZENSTRUIK def. AUGUSTO SAKAI via KO/TKO(R1)
+- ROMAN DOLIDZE def. LAUREANO STAROPOLI via Decision - Unanimous(R3)
+- GREGORY RODRIGUES def. DUSKO TODOROVIC via Decision - Unanimous(R3)
+- MANON FIOROT def. TABATHA RICCI via KO/TKO(R2)
+- SEAN WOODSON def. YOUSSEF ZALAL via Decision - Split(R3)
+- MARCIN TYBURA def. WALT HARRIS via KO/TKO(R1)
+- SANTIAGO PONZINIBBIO def. MIGUEL BAEZA via Decision - Unanimous(R3)
+- CLAUDIO PUELLES def. JORDAN LEAVITT via Decision - Unanimous(R3)
+- MUSLIM SALIKHOV def. FRANCISCO TRINALDO via Decision - Unanimous(R3)
+- ILIR LATIFI def. TANNER BOSER via Decision - Split(R3)
+- KAMUELA KIRK def. MAKWAN AMIRKHANI via Decision - Unanimous(R3)
+- MONTANA DE LA ROSA def. ARIANE DA SILVA via KO/TKO(R2)

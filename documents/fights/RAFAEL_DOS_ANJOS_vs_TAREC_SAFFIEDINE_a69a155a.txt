@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Correia
+    Date: June 17, 2017
+    Location: Kallang, Singapore
+    Weight Class: Welterweight
+    
+
+    Result: RAFAEL DOS ANJOS defeated TAREC SAFFIEDINE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAFAEL DOS ANJOS landed 81 significant strikes
+  - TAREC SAFFIEDINE landed 60 significant strikes
+  - Knockdowns: RAFAEL DOS ANJOS 0,  TAREC SAFFIEDINE 0
+  - Takedowns: RAFAEL DOS ANJOS 1,  TAREC SAFFIEDINE 1

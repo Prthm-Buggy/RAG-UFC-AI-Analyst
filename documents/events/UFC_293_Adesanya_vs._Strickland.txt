@@ -1,0 +1,19 @@
+Event : UFC 293: Adesanya vs. Strickland
+    Date : September 09, 2023
+    Location: Sydney, New South Wales, Australia
+    Number of Fights: 12
+    Weight Classes: Light Heavyweight, Flyweight, Middleweight, Welterweight, Lightweight, Featherweight, Heavyweight
+
+    Fight Results:
+  - CARLOS ULBERG def. DA WOON JUNG via Submission(R3)
+- CHEPE MARISCAL def. JACK JENKINS via KO/TKO(R2)
+- CHARLES RADTKE def. BLOOD DIAMOND via Decision - Unanimous(R3)
+- NASRAT HAQPARAST def. LANDON QUINONES via Decision - Unanimous(R3)
+- MANEL KAPE def. FELIPE DOS SANTOS via Decision - Unanimous(R3)
+- SEAN STRICKLAND def. ISRAEL ADESANYA via Decision - Unanimous(R5)
+- GABRIEL MIRANDA def. SHANE YOUNG via Submission(R1)
+- ALEXANDER VOLKOV def. TAI TUIVASA via Submission(R2)
+- JUSTIN TAFA def. AUSTEN LANE via KO/TKO(R1)
+- JAMIE MULLARKEY def. JOHN MAKDESSI via Decision - Unanimous(R3)
+- KEVIN JOUSSET def. KIEFER CROSBIE via Submission(R1)
+- TYSON PEDRO def. ANTON TURKALJ via KO/TKO(R1)

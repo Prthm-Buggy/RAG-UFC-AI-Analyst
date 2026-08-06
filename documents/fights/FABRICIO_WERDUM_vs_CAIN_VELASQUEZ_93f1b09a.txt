@@ -1,0 +1,14 @@
+Event: UFC 188: Velasquez vs Werdum
+    Date: June 13, 2015
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Heavyweight
+    
+
+    Result: FABRICIO WERDUM defeated CAIN VELASQUEZ via Submission  
+  at 2:13 of round 3
+  Key stats:
+  - FABRICIO WERDUM landed 96 significant strikes
+  - CAIN VELASQUEZ landed 88 significant strikes
+  - Knockdowns: FABRICIO WERDUM 0,  CAIN VELASQUEZ 0
+  - Takedowns: FABRICIO WERDUM 1,  CAIN VELASQUEZ 4
+  Bonus: belt

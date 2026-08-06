@@ -1,0 +1,13 @@
+Event: UFC Live: Sanchez vs Kampmann
+    Date: March 03, 2011
+    Location: Louisville, Kentucky, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS WEIDMAN defeated ALESSIO SAKARA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHRIS WEIDMAN landed 45 significant strikes
+  - ALESSIO SAKARA landed 27 significant strikes
+  - Knockdowns: CHRIS WEIDMAN 0,  ALESSIO SAKARA 0
+  - Takedowns: CHRIS WEIDMAN 5,  ALESSIO SAKARA 0

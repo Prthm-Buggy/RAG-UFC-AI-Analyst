@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Magny vs Gastelum
+    Date: November 21, 2015
+    Location: Monterrey, Nuevo Leon, Mexico
+    Weight Class: Welterweight
+    
+
+    Result: ERICK MONTANO defeated ENRIQUE MARIN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ERICK MONTANO landed 49 significant strikes
+  - ENRIQUE MARIN landed 27 significant strikes
+  - Knockdowns: ERICK MONTANO 0,  ENRIQUE MARIN 0
+  - Takedowns: ERICK MONTANO 2,  ENRIQUE MARIN 1
+  Bonus: belt

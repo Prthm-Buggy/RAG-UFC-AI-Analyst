@@ -1,0 +1,11 @@
+Fighter: CUB SWANSON
+  Date of Birth: 1983-11-02
+  Career record: 26
+  First fight: 2011-11-12
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :1645
+- Total takedowns landed :14
+- Knockdowns :12
+- Submission Attempts :2

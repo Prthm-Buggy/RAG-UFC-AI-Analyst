@@ -1,0 +1,11 @@
+Fighter: DEQUAN TOWNSEND
+  Date of Birth: 1986-05-11
+  Career record: 4
+  First fight: 2019-06-29
+  Last fight: 2020-10-03
+
+Career Statistics:
+- Significant Strikes Landed :60
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

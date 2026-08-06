@@ -1,0 +1,13 @@
+Event: UFC 83: Serra vs St-Pierre 2
+    Date: April 19, 2008
+    Location: Montreal, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: JASON DAY defeated ALAN BELCHER via KO/TKO  
+  at 3:58 of round 1
+  Key stats:
+  - JASON DAY landed 29 significant strikes
+  - ALAN BELCHER landed 3 significant strikes
+  - Knockdowns: JASON DAY 0,  ALAN BELCHER 0
+  - Takedowns: JASON DAY 0,  ALAN BELCHER 1

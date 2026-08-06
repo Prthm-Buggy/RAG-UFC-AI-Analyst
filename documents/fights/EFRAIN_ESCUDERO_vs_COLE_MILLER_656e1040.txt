@@ -1,0 +1,13 @@
+Event: UFC 103: Franklin vs Belfort
+    Date: September 19, 2009
+    Location: Dallas, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: EFRAIN ESCUDERO defeated COLE MILLER via KO/TKO  
+  at 3:36 of round 1
+  Key stats:
+  - EFRAIN ESCUDERO landed 10 significant strikes
+  - COLE MILLER landed 6 significant strikes
+  - Knockdowns: EFRAIN ESCUDERO 1,  COLE MILLER 0
+  - Takedowns: EFRAIN ESCUDERO 1,  COLE MILLER 0

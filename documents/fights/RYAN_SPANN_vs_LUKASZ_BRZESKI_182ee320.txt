@@ -1,0 +1,13 @@
+Event: UFC 318: Holloway vs. Poirier 3
+    Date: July 19, 2025
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RYAN SPANN defeated LUKASZ BRZESKI via Submission  
+  at 2:47 of round 1
+  Key stats:
+  - RYAN SPANN landed 8 significant strikes
+  - LUKASZ BRZESKI landed 5 significant strikes
+  - Knockdowns: RYAN SPANN 0,  LUKASZ BRZESKI 0
+  - Takedowns: RYAN SPANN 1,  LUKASZ BRZESKI 0

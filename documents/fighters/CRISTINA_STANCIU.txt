@@ -1,0 +1,11 @@
+Fighter: CRISTINA STANCIU
+  Date of Birth: 1994-03-29
+  Career record: 2
+  First fight: 2016-04-10
+  Last fight: 2016-07-13
+
+Career Statistics:
+- Significant Strikes Landed :44
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :2

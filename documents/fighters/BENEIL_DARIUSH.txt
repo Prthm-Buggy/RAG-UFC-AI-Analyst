@@ -1,0 +1,11 @@
+Fighter: BENEIL DARIUSH
+  Date of Birth: 1989-05-06
+  Career record: 25
+  First fight: 2014-01-15
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :755
+- Total takedowns landed :33
+- Knockdowns :6
+- Submission Attempts :12

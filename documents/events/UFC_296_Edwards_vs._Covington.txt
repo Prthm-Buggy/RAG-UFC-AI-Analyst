@@ -1,0 +1,19 @@
+Event : UFC 296: Edwards vs. Covington
+    Date : December 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Bantamweight, Women's Flyweight, Welterweight, Flyweight, Lightweight, Featherweight, Light Heavyweight, Women's Bantamweight
+
+    Fight Results:
+  - SHAMIL GAZIEV def. MARTIN BUDAY via KO/TKO(R2)
+- ARIANE DA SILVA def. CASEY O'NEILL via Submission(R2)
+- JOSH EMMETT def. BRYCE MITCHELL via KO/TKO(R1)
+- IRENE ALDANA def. KAROL ROSA via Decision - Unanimous(R3)
+- ALEXANDRE PANTOJA def. BRANDON ROYVAL via Decision - Unanimous(R5)
+- ANDRE FILI def. LUCAS ALMEIDA via KO/TKO(R1)
+- TAGIR ULANBEKOV def. CODY DURDEN via Submission(R2)
+- ALONZO MENIFIELD def. DUSTIN JACOBY via Decision - Unanimous(R3)
+- LEON EDWARDS def. COLBY COVINGTON via Decision - Unanimous(R5)
+- PADDY PIMBLETT def. TONY FERGUSON via Decision - Unanimous(R3)
+- SHAVKAT RAKHMONOV def. STEPHEN THOMPSON via Submission(R2)
+- CODY GARBRANDT def. BRIAN KELLEHER via KO/TKO(R1)

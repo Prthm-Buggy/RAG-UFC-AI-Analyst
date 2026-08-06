@@ -1,0 +1,13 @@
+Event: UFC 62: Liddell vs Sobral
+    Date: August 26, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: WILSON GOUVEIA defeated WES COMBS via Submission  
+  at 3:23 of round 1
+  Key stats:
+  - WILSON GOUVEIA landed 9 significant strikes
+  - WES COMBS landed 10 significant strikes
+  - Knockdowns: WILSON GOUVEIA 0,  WES COMBS 0
+  - Takedowns: WILSON GOUVEIA 1,  WES COMBS 0

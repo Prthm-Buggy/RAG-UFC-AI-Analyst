@@ -1,0 +1,18 @@
+Event : UFC 189: Mendes vs McGregor
+    Date : July 11, 2015
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Welterweight, Featherweight, Flyweight, Lightweight, Bantamweight
+
+    Fight Results:
+  - CODY PFISTER def. YOSDENIS CEDENO via Decision - Unanimous(R3)
+- CODY GARBRANDT def. HENRY BRIONES via Decision - Unanimous(R3)
+- JOHN HOWARD def. CATHAL PENDRED via Decision - Split(R3)
+- LOUIS SMOLKA def. NEIL SEERY via Decision - Unanimous(R3)
+- GUNNAR NELSON def. BRANDON THATCH via Submission(R1)
+- ALEX GARCIA def. MIKE SWICK via Decision - Unanimous(R3)
+- ROBBIE LAWLER def. RORY MACDONALD via KO/TKO(R5)
+- CONOR MCGREGOR def. CHAD MENDES via KO/TKO(R2)
+- THOMAS ALMEIDA def. BRAD PICKETT via KO/TKO(R2)
+- JEREMY STEPHENS def. DENNIS BERMUDEZ via KO/TKO(R3)
+- MATT BROWN def. TIM MEANS via Submission(R1)

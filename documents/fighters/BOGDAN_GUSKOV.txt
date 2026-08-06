@@ -1,0 +1,11 @@
+Fighter: BOGDAN GUSKOV
+  Date of Birth: 1992-09-12
+  Career record: 5
+  First fight: 2023-09-02
+  Last fight: 2025-07-26
+
+Career Statistics:
+- Significant Strikes Landed :119
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :2

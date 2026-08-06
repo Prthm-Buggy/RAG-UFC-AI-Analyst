@@ -1,0 +1,11 @@
+Fighter: CURTIS STOUT
+  Date of Birth: 1973-11-07
+  Career record: 2
+  First fight: 2001-02-23
+  Last fight: 2004-06-19
+
+Career Statistics:
+- Significant Strikes Landed :7
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

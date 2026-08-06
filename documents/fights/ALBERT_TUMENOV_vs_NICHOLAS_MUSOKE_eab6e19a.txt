@@ -1,0 +1,13 @@
+Event: UFC on FOX: Gustafsson vs Johnson
+    Date: January 24, 2015
+    Location: Stockholm, Sweden
+    Weight Class: Welterweight
+    
+
+    Result: ALBERT TUMENOV defeated NICHOLAS MUSOKE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALBERT TUMENOV landed 87 significant strikes
+  - NICHOLAS MUSOKE landed 65 significant strikes
+  - Knockdowns: ALBERT TUMENOV 0,  NICHOLAS MUSOKE 0
+  - Takedowns: ALBERT TUMENOV 0,  NICHOLAS MUSOKE 0

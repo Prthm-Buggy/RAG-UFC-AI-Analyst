@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hall vs. Silva
+    Date: October 31, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DUSTIN JACOBY defeated JUSTIN LEDET via KO/TKO  
+  at 2:38 of round 1
+  Key stats:
+  - DUSTIN JACOBY landed 22 significant strikes
+  - JUSTIN LEDET landed 10 significant strikes
+  - Knockdowns: DUSTIN JACOBY 2,  JUSTIN LEDET 0
+  - Takedowns: DUSTIN JACOBY 0,  JUSTIN LEDET 0

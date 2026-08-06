@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Jedrzejczyk vs Penne
+    Date: June 20, 2015
+    Location: Berlin, Berlin, Germany
+    Weight Class: Featherweight
+    
+
+    Result: ARNOLD ALLEN defeated ALAN OMER via Submission  
+  at 1:41 of round 3
+  Key stats:
+  - ARNOLD ALLEN landed 23 significant strikes
+  - ALAN OMER landed 35 significant strikes
+  - Knockdowns: ARNOLD ALLEN 0,  ALAN OMER 0
+  - Takedowns: ARNOLD ALLEN 1,  ALAN OMER 2
+  Bonus: perf

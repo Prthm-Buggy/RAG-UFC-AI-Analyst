@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Bader vs. Nogueira
+    Date : November 19, 2016
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Bantamweight, Women's Strawweight, Light Heavyweight, Middleweight, Welterweight
+
+    Fight Results:
+  - PEDRO MUNHOZ def. JUSTIN SCOGGINS via Submission(R2)
+- KAMARU USMAN def. WARLLEY ALVES via Decision - Unanimous(R3)
+- SERGIO MORAES def. ZAK OTTOW via Decision - Split(R3)
+- KRZYSZTOF JOTKO def. THALES LEITES via Decision - Unanimous(R3)
+- CLAUDIA GADELHA def. CORTNEY CASEY via Decision - Unanimous(R3)
+- THOMAS ALMEIDA def. ALBERT MORALES via KO/TKO(R2)
+- GADZHIMURAD ANTIGULOV def. MARCOS ROGERIO DE LIMA via Submission(R1)
+- JOHNNY EDUARDO def. MANVEL GAMBURYAN via KO/TKO(R2)
+- RYAN BADER def. ROGERIO NOGUEIRA via KO/TKO(R3)
+- CEZAR FERREIRA def. JACK HERMANSSON via Submission(R2)
+- LUIS HENRIQUE def. CHRISTIAN COLOMBO via Submission(R3)

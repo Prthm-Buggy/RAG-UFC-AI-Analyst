@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Magny vs. Prates
+    Date: November 09, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MANSUR ABDUL-MALIK defeated DUSKO TODOROVIC via KO/TKO  
+  at 2:44 of round 1
+  Key stats:
+  - MANSUR ABDUL-MALIK landed 29 significant strikes
+  - DUSKO TODOROVIC landed 3 significant strikes
+  - Knockdowns: MANSUR ABDUL-MALIK 1,  DUSKO TODOROVIC 0
+  - Takedowns: MANSUR ABDUL-MALIK 0,  DUSKO TODOROVIC 0
+  Bonus: perf

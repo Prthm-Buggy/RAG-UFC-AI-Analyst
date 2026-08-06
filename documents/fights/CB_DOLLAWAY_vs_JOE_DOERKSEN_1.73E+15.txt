@@ -1,0 +1,14 @@
+Event: UFC 119: Mir vs Cro Cop
+    Date: September 25, 2010
+    Location: Indianapolis, Indiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: CB DOLLAWAY defeated JOE DOERKSEN via Submission  
+  at 2:13 of round 1
+  Key stats:
+  - CB DOLLAWAY landed 1 significant strikes
+  - JOE DOERKSEN landed 1 significant strikes
+  - Knockdowns: CB DOLLAWAY 0,  JOE DOERKSEN 0
+  - Takedowns: CB DOLLAWAY 0,  JOE DOERKSEN 0
+  Bonus: sub

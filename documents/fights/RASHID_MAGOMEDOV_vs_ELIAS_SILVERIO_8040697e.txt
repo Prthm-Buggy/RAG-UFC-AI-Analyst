@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Dollaway
+    Date: December 20, 2014
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: RASHID MAGOMEDOV defeated ELIAS SILVERIO via KO/TKO  
+  at 4:57 of round 3
+  Key stats:
+  - RASHID MAGOMEDOV landed 91 significant strikes
+  - ELIAS SILVERIO landed 56 significant strikes
+  - Knockdowns: RASHID MAGOMEDOV 2,  ELIAS SILVERIO 0
+  - Takedowns: RASHID MAGOMEDOV 1,  ELIAS SILVERIO 0

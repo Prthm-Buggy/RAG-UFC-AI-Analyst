@@ -1,0 +1,14 @@
+Event: UFC 223: Khabib vs. Iaquinta
+    Date: April 07, 2018
+    Location: Brooklyn, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: OLIVIER AUBIN-MERCIER defeated EVAN DUNHAM via KO/TKO  
+  at 0:53 of round 1
+  Key stats:
+  - OLIVIER AUBIN-MERCIER landed 13 significant strikes
+  - EVAN DUNHAM landed 4 significant strikes
+  - Knockdowns: OLIVIER AUBIN-MERCIER 1,  EVAN DUNHAM 0
+  - Takedowns: OLIVIER AUBIN-MERCIER 0,  EVAN DUNHAM 0
+  Bonus: perf

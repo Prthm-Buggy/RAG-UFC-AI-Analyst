@@ -1,0 +1,11 @@
+Fighter: CRAFTON WALLACE
+  Date of Birth: 1975-11-10
+  Career record: 2
+  First fight: 2006-08-17
+  Last fight: 2006-10-10
+
+Career Statistics:
+- Significant Strikes Landed :5
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

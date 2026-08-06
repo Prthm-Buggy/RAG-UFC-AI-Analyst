@@ -1,0 +1,14 @@
+Event: UFC 258: Usman vs. Burns
+    Date: February 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JULIAN MARQUEZ defeated MAKI PITOLO via Submission  
+  at 4:17 of round 3
+  Key stats:
+  - JULIAN MARQUEZ landed 41 significant strikes
+  - MAKI PITOLO landed 32 significant strikes
+  - Knockdowns: JULIAN MARQUEZ 0,  MAKI PITOLO 0
+  - Takedowns: JULIAN MARQUEZ 0,  MAKI PITOLO 5
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 264: Poirier vs. McGregor 3
+    Date: July 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DUSTIN POIRIER defeated CONOR MCGREGOR via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - DUSTIN POIRIER landed 36 significant strikes
+  - CONOR MCGREGOR landed 27 significant strikes
+  - Knockdowns: DUSTIN POIRIER 0,  CONOR MCGREGOR 0
+  - Takedowns: DUSTIN POIRIER 1,  CONOR MCGREGOR 0

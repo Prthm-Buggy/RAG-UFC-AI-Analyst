@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dern vs. Yan
+    Date: October 01, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: DANIEL SANTOS defeated JOHN CASTANEDA via KO/TKO  
+  at 4:28 of round 2
+  Key stats:
+  - DANIEL SANTOS landed 69 significant strikes
+  - JOHN CASTANEDA landed 57 significant strikes
+  - Knockdowns: DANIEL SANTOS 1,  JOHN CASTANEDA 1
+  - Takedowns: DANIEL SANTOS 2,  JOHN CASTANEDA 3
+  Bonus: fight

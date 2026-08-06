@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tuivasa vs. Tybura
+    Date: March 16, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CHAD ANHELIGER defeated CHARALAMPOS GRIGORIOU via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHAD ANHELIGER landed 85 significant strikes
+  - CHARALAMPOS GRIGORIOU landed 21 significant strikes
+  - Knockdowns: CHAD ANHELIGER 0,  CHARALAMPOS GRIGORIOU 0
+  - Takedowns: CHAD ANHELIGER 0,  CHARALAMPOS GRIGORIOU 4

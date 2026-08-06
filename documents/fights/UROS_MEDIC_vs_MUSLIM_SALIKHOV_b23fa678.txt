@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bonfim vs. Brown
+    Date: November 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: UROS MEDIC defeated MUSLIM SALIKHOV via KO/TKO  
+  at 1:03 of round 1
+  Key stats:
+  - UROS MEDIC landed 8 significant strikes
+  - MUSLIM SALIKHOV landed 2 significant strikes
+  - Knockdowns: UROS MEDIC 1,  MUSLIM SALIKHOV 0
+  - Takedowns: UROS MEDIC 0,  MUSLIM SALIKHOV 0

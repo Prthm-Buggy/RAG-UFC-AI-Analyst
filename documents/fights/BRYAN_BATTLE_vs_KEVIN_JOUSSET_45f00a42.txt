@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moicano vs. Saint Denis
+    Date: September 28, 2024
+    Location: Paris, Ile-de-France, France
+    Weight Class: Welterweight
+    
+
+    Result: BRYAN BATTLE defeated KEVIN JOUSSET via KO/TKO  
+  at 3:47 of round 2
+  Key stats:
+  - BRYAN BATTLE landed 97 significant strikes
+  - KEVIN JOUSSET landed 58 significant strikes
+  - Knockdowns: BRYAN BATTLE 0,  KEVIN JOUSSET 0
+  - Takedowns: BRYAN BATTLE 0,  KEVIN JOUSSET 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 201: Lawler vs. Woodley
+    Date: July 30, 2016
+    Location: Atlanta, Georgia, USA
+    Weight Class: Lightweight
+    
+
+    Result: DAMIEN BROWN defeated CESAR ARZAMENDIA via KO/TKO  
+  at 2:27 of round 1
+  Key stats:
+  - DAMIEN BROWN landed 22 significant strikes
+  - CESAR ARZAMENDIA landed 17 significant strikes
+  - Knockdowns: DAMIEN BROWN 2,  CESAR ARZAMENDIA 0
+  - Takedowns: DAMIEN BROWN 0,  CESAR ARZAMENDIA 0

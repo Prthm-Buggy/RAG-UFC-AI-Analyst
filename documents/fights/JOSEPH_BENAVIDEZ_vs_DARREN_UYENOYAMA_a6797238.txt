@@ -1,0 +1,13 @@
+Event: UFC on FOX: Henderson vs Melendez
+    Date: April 20, 2013
+    Location: San Jose, California, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOSEPH BENAVIDEZ defeated DARREN UYENOYAMA via KO/TKO  
+  at 4:50 of round 2
+  Key stats:
+  - JOSEPH BENAVIDEZ landed 57 significant strikes
+  - DARREN UYENOYAMA landed 11 significant strikes
+  - Knockdowns: JOSEPH BENAVIDEZ 2,  DARREN UYENOYAMA 0
+  - Takedowns: JOSEPH BENAVIDEZ 2,  DARREN UYENOYAMA 0

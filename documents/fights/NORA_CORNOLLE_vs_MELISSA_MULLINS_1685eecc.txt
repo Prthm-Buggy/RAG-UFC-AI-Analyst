@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Allen vs. Curtis 2
+    Date: April 06, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: NORA CORNOLLE defeated MELISSA MULLINS via KO/TKO  
+  at 3:06 of round 2
+  Key stats:
+  - NORA CORNOLLE landed 36 significant strikes
+  - MELISSA MULLINS landed 11 significant strikes
+  - Knockdowns: NORA CORNOLLE 1,  MELISSA MULLINS 0
+  - Takedowns: NORA CORNOLLE 0,  MELISSA MULLINS 1

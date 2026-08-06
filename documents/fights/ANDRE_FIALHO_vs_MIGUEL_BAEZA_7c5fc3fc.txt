@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Luque vs. Muhammad
+    Date: April 16, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ANDRE FIALHO defeated MIGUEL BAEZA via KO/TKO  
+  at 4:39 of round 1
+  Key stats:
+  - ANDRE FIALHO landed 32 significant strikes
+  - MIGUEL BAEZA landed 24 significant strikes
+  - Knockdowns: ANDRE FIALHO 1,  MIGUEL BAEZA 0
+  - Takedowns: ANDRE FIALHO 0,  MIGUEL BAEZA 0
+  Bonus: perf

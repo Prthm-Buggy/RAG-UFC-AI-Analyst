@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Mousasi vs. Hall 2
+    Date: November 19, 2016
+    Location: Belfast, Northern Ireland, United Kingdom
+    Weight Class: Bantamweight
+    
+
+    Result: BRETT JOHNS defeated KWAN HO KWAK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BRETT JOHNS landed 49 significant strikes
+  - KWAN HO KWAK landed 53 significant strikes
+  - Knockdowns: BRETT JOHNS 0,  KWAN HO KWAK 0
+  - Takedowns: BRETT JOHNS 11,  KWAN HO KWAK 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Royval 2
+    Date: February 24, 2024
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Bantamweight
+    
+
+    Result: RAONI BARCELOS defeated CRISTIAN QUINONEZ via Submission  
+  at 2:04 of round 3
+  Key stats:
+  - RAONI BARCELOS landed 43 significant strikes
+  - CRISTIAN QUINONEZ landed 29 significant strikes
+  - Knockdowns: RAONI BARCELOS 0,  CRISTIAN QUINONEZ 0
+  - Takedowns: RAONI BARCELOS 2,  CRISTIAN QUINONEZ 2

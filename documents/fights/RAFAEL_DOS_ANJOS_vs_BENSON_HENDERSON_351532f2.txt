@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Henderson vs Dos Anjos
+    Date: August 23, 2014
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Lightweight
+    
+
+    Result: RAFAEL DOS ANJOS defeated BENSON HENDERSON via KO/TKO  
+  at 2:31 of round 1
+  Key stats:
+  - RAFAEL DOS ANJOS landed 18 significant strikes
+  - BENSON HENDERSON landed 10 significant strikes
+  - Knockdowns: RAFAEL DOS ANJOS 1,  BENSON HENDERSON 0
+  - Takedowns: RAFAEL DOS ANJOS 0,  BENSON HENDERSON 0
+  Bonus: perf

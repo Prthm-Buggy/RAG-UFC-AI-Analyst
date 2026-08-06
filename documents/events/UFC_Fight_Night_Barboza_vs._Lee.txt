@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Barboza vs. Lee
+    Date : April 21, 2018
+    Location: Atlantic City, New Jersey, USA
+    Number of Fights: 11
+    Weight Classes: Featherweight, Middleweight, Welterweight, Light Heavyweight, Lightweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - ALJAMAIN STERLING def. BRETT JOHNS via Decision - Unanimous(R3)
+- SIYAR BAHADURZADA def. LUAN CHAGAS via KO/TKO(R2)
+- RICKY SIMON def. MERAB DVALISHVILI via Submission(R3)
+- ANTHONY ROCCO MARTIN def. KEITA NAKAMURA via Decision - Unanimous(R3)
+- COREY ANDERSON def. PATRICK CUMMINS via Decision - Unanimous(R3)
+- RYAN LAFLARE def. ALEX GARCIA via Decision - Unanimous(R3)
+- DAN HOOKER def. JIM MILLER via KO/TKO(R1)
+- KEVIN LEE def. EDSON BARBOZA via TKO - Doctor's Stoppage(R5)
+- FRANKIE EDGAR def. CUB SWANSON via Decision - Unanimous(R3)
+- DAVID BRANCH def. THIAGO SANTOS via KO/TKO(R1)
+- JUSTIN WILLIS def. CHASE SHERMAN via Decision - Unanimous(R3)

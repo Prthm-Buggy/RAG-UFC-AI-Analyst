@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Henderson vs Thatch
+    Date: February 14, 2015
+    Location: Broomfield, Colorado, USA
+    Weight Class: Flyweight
+    
+
+    Result: RAY BORG defeated CHRIS KELADES via Submission  
+  at 2:56 of round 3
+  Key stats:
+  - RAY BORG landed 19 significant strikes
+  - CHRIS KELADES landed 4 significant strikes
+  - Knockdowns: RAY BORG 0,  CHRIS KELADES 0
+  - Takedowns: RAY BORG 5,  CHRIS KELADES 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dolidze vs. Imavov
+    Date: February 03, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: NASSOURDINE IMAVOV defeated ROMAN DOLIDZE via Decision - Majority  
+  at 5:00 of round 5
+  Key stats:
+  - NASSOURDINE IMAVOV landed 112 significant strikes
+  - ROMAN DOLIDZE landed 34 significant strikes
+  - Knockdowns: NASSOURDINE IMAVOV 1,  ROMAN DOLIDZE 0
+  - Takedowns: NASSOURDINE IMAVOV 0,  ROMAN DOLIDZE 0

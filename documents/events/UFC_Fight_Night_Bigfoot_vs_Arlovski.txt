@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Bigfoot vs Arlovski
+    Date : September 13, 2014
+    Location: Brasilia, Distrito Federal, Brazil
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Bantamweight, Women's Bantamweight, Welterweight, Lightweight, Featherweight
+
+    Fight Results:
+  - RANI YAHYA def. JOHNNY BEDFORD via Submission(R2)
+- ANDREI ARLOVSKI def. ANTONIO SILVA via KO/TKO(R1)
+- FRANCISCO TRINALDO def. LEANDRO SILVA via Decision - Unanimous(R3)
+- JESSICA ANDRADE def. LARISSA PACHECO via Submission(R1)
+- SANTIAGO PONZINIBBIO def. WENDELL OLIVEIRA MARQUES via KO/TKO(R1)
+- GEORGE SULLIVAN def. IGOR ARAUJO via KO/TKO(R2)
+- IURI ALCANTARA def. RUSSELL DOANE via Decision - Unanimous(R3)
+- LEONARDO SANTOS def. EFRAIN ESCUDERO via Decision - Unanimous(R3)
+- GLEISON TIBAU def. PIOTR HALLMANN via Decision - Split(R3)
+- SEAN SPENCER def. PAULO THIAGO via Decision - Unanimous(R3)
+- GODOFREDO PEPEY def. DASHON JOHNSON via Submission(R1)

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cyborg vs. Lansberg
+    Date: September 24, 2016
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: ROY NELSON defeated ANTONIO SILVA via KO/TKO  
+  at 4:10 of round 2
+  Key stats:
+  - ROY NELSON landed 36 significant strikes
+  - ANTONIO SILVA landed 27 significant strikes
+  - Knockdowns: ROY NELSON 1,  ANTONIO SILVA 0
+  - Takedowns: ROY NELSON 0,  ANTONIO SILVA 0

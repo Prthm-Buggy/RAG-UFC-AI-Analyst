@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale
+    Date: June 24, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: RORY SINGER defeated ROSS POINTON via Submission  
+  at 0:44 of round 1
+  Key stats:
+  - RORY SINGER landed 2 significant strikes
+  - ROSS POINTON landed 4 significant strikes
+  - Knockdowns: RORY SINGER 0,  ROSS POINTON 1
+  - Takedowns: RORY SINGER 0,  ROSS POINTON 0
+  Bonus: sub

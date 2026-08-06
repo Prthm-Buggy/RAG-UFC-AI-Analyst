@@ -1,0 +1,13 @@
+Event: UFC 272: Covington vs. Masvidal
+    Date: March 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: UMAR NURMAGOMEDOV defeated BRIAN KELLEHER via Submission  
+  at 3:15 of round 1
+  Key stats:
+  - UMAR NURMAGOMEDOV landed 18 significant strikes
+  - BRIAN KELLEHER landed 1 significant strikes
+  - Knockdowns: UMAR NURMAGOMEDOV 0,  BRIAN KELLEHER 0
+  - Takedowns: UMAR NURMAGOMEDOV 1,  BRIAN KELLEHER 0

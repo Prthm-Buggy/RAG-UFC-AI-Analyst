@@ -1,0 +1,11 @@
+Fighter: PAUL VARELANS
+  Date of Birth: 1969-09-17
+  Career record: 8
+  First fight: 1995-07-14
+  Last fight: 1996-12-07
+
+Career Statistics:
+- Significant Strikes Landed :56
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :3

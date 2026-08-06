@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Maia vs Shields
+    Date : October 09, 2013
+    Location: Barueri, Sao Paulo, Brazil
+    Number of Fights: 10
+    Weight Classes: Lightweight, Welterweight, Light Heavyweight, Flyweight, Bantamweight
+
+    Fight Results:
+  - IGOR ARAUJO def. ILDEMAR ALCANTARA via Decision - Unanimous(R3)
+- RAPHAEL ASSUNCAO def. TJ DILLASHAW via Decision - Split(R3)
+- CHRIS CARIASO def. ILIARDE SANTOS via KO/TKO(R2)
+- ROUSIMAR PALHARES def. MIKE PIERCE via Submission(R1)
+- FABIO MALDONADO def. JOEY BELTRAN via Decision - Split(R3)
+- DONG HYUN KIM def. ERICK SILVA via KO/TKO(R2)
+- THIAGO SILVA def. MATT HAMILL via Decision - Unanimous(R3)
+- JAKE SHIELDS def. DEMIAN MAIA via Decision - Split(R5)
+- YAN CABRAL def. DAVID MITCHELL via Decision - Unanimous(R3)
+- ALAN PATRICK def. GARETT WHITELEY via KO/TKO(R1)

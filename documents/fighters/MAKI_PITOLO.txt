@@ -1,0 +1,11 @@
+Fighter: MAKI PITOLO
+  Date of Birth: 1990-11-24
+  Career record: 6
+  First fight: 2019-10-05
+  Last fight: 2021-12-04
+
+Career Statistics:
+- Significant Strikes Landed :217
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :3

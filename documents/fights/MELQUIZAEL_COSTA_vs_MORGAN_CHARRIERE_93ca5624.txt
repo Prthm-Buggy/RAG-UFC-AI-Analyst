@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Royval vs. Kape
+    Date: December 13, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: MELQUIZAEL COSTA defeated MORGAN CHARRIERE via KO/TKO  
+  at 1:14 of round 1
+  Key stats:
+  - MELQUIZAEL COSTA landed 4 significant strikes
+  - MORGAN CHARRIERE landed 2 significant strikes
+  - Knockdowns: MELQUIZAEL COSTA 1,  MORGAN CHARRIERE 0
+  - Takedowns: MELQUIZAEL COSTA 0,  MORGAN CHARRIERE 0

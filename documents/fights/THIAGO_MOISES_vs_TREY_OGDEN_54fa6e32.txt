@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Ribas 2
+    Date: January 11, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: THIAGO MOISES defeated TREY OGDEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - THIAGO MOISES landed 55 significant strikes
+  - TREY OGDEN landed 59 significant strikes
+  - Knockdowns: THIAGO MOISES 0,  TREY OGDEN 0
+  - Takedowns: THIAGO MOISES 0,  TREY OGDEN 1

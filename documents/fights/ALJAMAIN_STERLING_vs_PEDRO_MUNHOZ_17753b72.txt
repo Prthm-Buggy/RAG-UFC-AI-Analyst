@@ -1,0 +1,13 @@
+Event: UFC 238: Cejudo vs. Moraes
+    Date: June 08, 2019
+    Location: Chicago, Illinois, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALJAMAIN STERLING defeated PEDRO MUNHOZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALJAMAIN STERLING landed 174 significant strikes
+  - PEDRO MUNHOZ landed 105 significant strikes
+  - Knockdowns: ALJAMAIN STERLING 0,  PEDRO MUNHOZ 0
+  - Takedowns: ALJAMAIN STERLING 0,  PEDRO MUNHOZ 0

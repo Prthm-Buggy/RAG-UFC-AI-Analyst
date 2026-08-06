@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Chikadze
+    Date: August 28, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: JJ ALDRICH defeated VANESSA DEMOPOULOS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JJ ALDRICH landed 93 significant strikes
+  - VANESSA DEMOPOULOS landed 70 significant strikes
+  - Knockdowns: JJ ALDRICH 0,  VANESSA DEMOPOULOS 0
+  - Takedowns: JJ ALDRICH 1,  VANESSA DEMOPOULOS 0

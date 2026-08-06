@@ -1,0 +1,14 @@
+Event: UFC 269: Oliveira vs. Poirier
+    Date: December 11, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRUNO SILVA defeated JORDAN WRIGHT via KO/TKO  
+  at 1:28 of round 1
+  Key stats:
+  - BRUNO SILVA landed 19 significant strikes
+  - JORDAN WRIGHT landed 20 significant strikes
+  - Knockdowns: BRUNO SILVA 1,  JORDAN WRIGHT 0
+  - Takedowns: BRUNO SILVA 0,  JORDAN WRIGHT 0
+  Bonus: perf

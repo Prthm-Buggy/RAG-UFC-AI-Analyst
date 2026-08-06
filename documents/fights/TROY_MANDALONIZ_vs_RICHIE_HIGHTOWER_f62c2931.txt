@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Hughes vs. Team Serra Finale
+    Date: December 08, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: TROY MANDALONIZ defeated RICHIE HIGHTOWER via KO/TKO  
+  at 4:20 of round 1
+  Key stats:
+  - TROY MANDALONIZ landed 30 significant strikes
+  - RICHIE HIGHTOWER landed 20 significant strikes
+  - Knockdowns: TROY MANDALONIZ 1,  RICHIE HIGHTOWER 0
+  - Takedowns: TROY MANDALONIZ 0,  RICHIE HIGHTOWER 1

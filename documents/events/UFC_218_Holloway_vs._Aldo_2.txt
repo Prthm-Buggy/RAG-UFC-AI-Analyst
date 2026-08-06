@@ -1,0 +1,20 @@
+Event : UFC 218: Holloway vs. Aldo 2
+    Date : December 02, 2017
+    Location: Detroit, Michigan, USA
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Featherweight, Women's Strawweight, Lightweight, Flyweight, Welterweight, Light Heavyweight
+
+    Fight Results:
+  - DOMINICK REYES def. JEREMY KIMBALL via Submission(R1)
+- ABDUL RAZAK ALHASSAN def. SABAH HOMASI via KO/TKO(R1)
+- TECIA PENNINGTON def. MICHELLE WATERSON-GOMEZ via Decision - Unanimous(R3)
+- JUSTIN WILLIS def. ALLEN CROWDER via KO/TKO(R1)
+- MAX HOLLOWAY def. JOSE ALDO via KO/TKO(R3)
+- FRANCIS NGANNOU def. ALISTAIR OVEREEM via KO/TKO(R1)
+- HENRY CEJUDO def. SERGIO PETTIS via Decision - Unanimous(R3)
+- AMANDA COOPER def. ANGELA MAGANA via KO/TKO(R2)
+- DAVID TEYMUR def. DRAKKAR KLOSE via Decision - Unanimous(R3)
+- EDDIE ALVAREZ def. JUSTIN GAETHJE via KO/TKO(R3)
+- PAUL FELDER def. CHARLES OLIVEIRA via KO/TKO(R2)
+- FELICE HERRIG def. CORTNEY CASEY via Decision - Split(R3)
+- YANCY MEDEIROS def. ALEX OLIVEIRA via KO/TKO(R3)

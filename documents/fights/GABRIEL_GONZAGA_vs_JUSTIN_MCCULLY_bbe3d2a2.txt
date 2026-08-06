@@ -1,0 +1,13 @@
+Event: UFC 86: Jackson vs Griffin
+    Date: July 05, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: GABRIEL GONZAGA defeated JUSTIN MCCULLY via Submission  
+  at 1:57 of round 1
+  Key stats:
+  - GABRIEL GONZAGA landed 6 significant strikes
+  - JUSTIN MCCULLY landed 2 significant strikes
+  - Knockdowns: GABRIEL GONZAGA 0,  JUSTIN MCCULLY 0
+  - Takedowns: GABRIEL GONZAGA 1,  JUSTIN MCCULLY 0

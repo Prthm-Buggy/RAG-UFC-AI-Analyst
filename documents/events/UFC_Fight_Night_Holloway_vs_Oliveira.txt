@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Holloway vs Oliveira
+    Date : August 23, 2015
+    Location: Saskatoon, Saskatchewan, Canada
+    Number of Fights: 12
+    Weight Classes: Lightweight, Featherweight, Welterweight, Light Heavyweight, Flyweight, Women's Strawweight, Bantamweight
+
+    Fight Results:
+  - NIKITA KRYLOV def. MARCOS ROGERIO DE LIMA via Submission(R1)
+- NEIL MAGNY def. ERICK SILVA via Decision - Split(R3)
+- FRANCISCO TRINALDO def. CHAD LAPRISE via KO/TKO(R1)
+- SHANE CAMPBELL def. ELIAS SILVERIO via Decision - Unanimous(R3)
+- MISHA CIRKUNOV def. DANIEL JOLLY via KO/TKO(R1)
+- MAX HOLLOWAY def. CHARLES OLIVEIRA via KO/TKO(R1)
+- CHRIS KELADES def. CHRIS BEAL via Decision - Split(R3)
+- FELIPE ARANTES def. YVES JABOUIN via Submission(R1)
+- VALERIE LETOURNEAU def. MARYNA MOROZ via Decision - Unanimous(R3)
+- PATRICK COTE def. JOSHUA BURKMAN via KO/TKO(R3)
+- FRANKIE PEREZ def. SAM STOUT via KO/TKO(R1)
+- OLIVIER AUBIN-MERCIER def. TONY SIMS via Decision - Unanimous(R3)

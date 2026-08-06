@@ -1,0 +1,11 @@
+Fighter: JUSTIN JONES
+  Date of Birth: 1987-09-06
+  Career record: 2
+  First fight: 2014-12-06
+  Last fight: 2015-04-04
+
+Career Statistics:
+- Significant Strikes Landed :51
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

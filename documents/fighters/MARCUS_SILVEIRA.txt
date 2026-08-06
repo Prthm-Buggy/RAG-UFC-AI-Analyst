@@ -1,0 +1,11 @@
+Fighter: MARCUS SILVEIRA
+  Date of Birth: 1964-12-09
+  Career record: 1
+  First fight: 1997-12-21
+  Last fight: 1997-12-21
+
+Career Statistics:
+- Significant Strikes Landed :1
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

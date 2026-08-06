@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Lemos
+    Date: November 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARIO BAUTISTA defeated BENITO LOPEZ via Submission  
+  at 4:54 of round 1
+  Key stats:
+  - MARIO BAUTISTA landed 44 significant strikes
+  - BENITO LOPEZ landed 17 significant strikes
+  - Knockdowns: MARIO BAUTISTA 0,  BENITO LOPEZ 0
+  - Takedowns: MARIO BAUTISTA 1,  BENITO LOPEZ 0
+  Bonus: perf

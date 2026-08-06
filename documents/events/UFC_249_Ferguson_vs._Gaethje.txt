@@ -1,0 +1,18 @@
+Event : UFC 249: Ferguson vs. Gaethje
+    Date : May 09, 2020
+    Location: Jacksonville, Florida, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Bantamweight, Lightweight, Welterweight, Featherweight, Light Heavyweight, Women's Strawweight
+
+    Fight Results:
+  - HENRY CEJUDO def. DOMINICK CRUZ via KO/TKO(R2)
+- JUSTIN GAETHJE def. TONY FERGUSON via KO/TKO(R5)
+- VICENTE LUQUE def. NIKO PRICE via TKO - Doctor's Stoppage(R3)
+- GREG HARDY def. YORGAN DE CASTRO via Decision - Unanimous(R3)
+- BRYCE MITCHELL def. CHARLES ROSA via Decision - Unanimous(R3)
+- RYAN SPANN def. SAM ALVEY via Decision - Split(R3)
+- FRANCIS NGANNOU def. JAIRZINHO ROZENSTRUIK via KO/TKO(R1)
+- ALEKSEI OLEINIK def. FABRICIO WERDUM via Decision - Split(R3)
+- CARLA ESPARZA def. MICHELLE WATERSON-GOMEZ via Decision - Split(R3)
+- ANTHONY PETTIS def. DONALD CERRONE via Decision - Unanimous(R3)
+- CALVIN KATTAR def. JEREMY STEPHENS via KO/TKO(R2)

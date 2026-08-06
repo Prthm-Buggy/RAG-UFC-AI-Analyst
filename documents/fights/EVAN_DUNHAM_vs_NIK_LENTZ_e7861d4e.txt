@@ -1,0 +1,14 @@
+Event: UFC on FOX: Evans vs Davis
+    Date: January 28, 2012
+    Location: Chicago, Illinois, USA
+    Weight Class: Lightweight
+    
+
+    Result: EVAN DUNHAM defeated NIK LENTZ via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - EVAN DUNHAM landed 68 significant strikes
+  - NIK LENTZ landed 39 significant strikes
+  - Knockdowns: EVAN DUNHAM 0,  NIK LENTZ 0
+  - Takedowns: EVAN DUNHAM 2,  NIK LENTZ 2
+  Bonus: fight

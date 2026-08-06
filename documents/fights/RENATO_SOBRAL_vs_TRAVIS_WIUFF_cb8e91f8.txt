@@ -1,0 +1,13 @@
+Event: UFC 52: Couture vs Liddell 2
+    Date: April 16, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RENATO SOBRAL defeated TRAVIS WIUFF via Submission  
+  at 0:24 of round 2
+  Key stats:
+  - RENATO SOBRAL landed 15 significant strikes
+  - TRAVIS WIUFF landed 3 significant strikes
+  - Knockdowns: RENATO SOBRAL 0,  TRAVIS WIUFF 0
+  - Takedowns: RENATO SOBRAL 2,  TRAVIS WIUFF 2

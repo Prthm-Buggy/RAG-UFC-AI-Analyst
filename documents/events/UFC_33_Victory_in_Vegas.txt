@@ -1,0 +1,15 @@
+Event : UFC 33: Victory in Vegas
+    Date : September 28, 2001
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Light Heavyweight, Lightweight, Welterweight, Middleweight
+
+    Fight Results:
+  - RICARDO ALMEIDA def. EUGENE JACKSON via Submission(R1)
+- CHUCK LIDDELL def. MURILO BUSTAMANTE via Decision - Unanimous(R3)
+- DIN THOMAS def. FABIANO IHA via Decision - Unanimous(R3)
+- DAVE MENNE def. GIL CASTILLO via Decision - Unanimous(R5)
+- JUTARO NAKAO def. TONY DESOUZA via KO/TKO(R2)
+- MATT SERRA def. YVES EDWARDS via Decision - Majority(R3)
+- TITO ORTIZ def. VLADIMIR MATYUSHENKO via Decision - Unanimous(R5)
+- JENS PULVER def. DENNIS HALLMAN via Decision - Unanimous(R5)

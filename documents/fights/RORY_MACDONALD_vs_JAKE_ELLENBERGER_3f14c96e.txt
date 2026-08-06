@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs Moraga
+    Date: July 27, 2013
+    Location: Seattle, Washington, USA
+    Weight Class: Welterweight
+    
+
+    Result: RORY MACDONALD defeated JAKE ELLENBERGER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RORY MACDONALD landed 46 significant strikes
+  - JAKE ELLENBERGER landed 19 significant strikes
+  - Knockdowns: RORY MACDONALD 0,  JAKE ELLENBERGER 0
+  - Takedowns: RORY MACDONALD 0,  JAKE ELLENBERGER 1

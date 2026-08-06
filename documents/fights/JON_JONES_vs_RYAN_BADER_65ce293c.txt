@@ -1,0 +1,14 @@
+Event: UFC 126: Silva vs Belfort
+    Date: February 05, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated RYAN BADER via Submission  
+  at 4:20 of round 2
+  Key stats:
+  - JON JONES landed 20 significant strikes
+  - RYAN BADER landed 5 significant strikes
+  - Knockdowns: JON JONES 0,  RYAN BADER 0
+  - Takedowns: JON JONES 2,  RYAN BADER 0
+  Bonus: sub

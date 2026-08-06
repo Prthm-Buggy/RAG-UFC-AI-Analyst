@@ -1,0 +1,11 @@
+Fighter: ROMAN KOPYLOV
+  Date of Birth: 1992-05-04
+  Career record: 12
+  First fight: 2019-11-09
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :668
+- Total takedowns landed :11
+- Knockdowns :9
+- Submission Attempts :0

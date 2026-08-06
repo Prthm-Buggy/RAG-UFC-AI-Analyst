@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Aspinall
+    Date: March 19, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: TOM ASPINALL defeated ALEXANDER VOLKOV via Submission  
+  at 3:45 of round 1
+  Key stats:
+  - TOM ASPINALL landed 29 significant strikes
+  - ALEXANDER VOLKOV landed 13 significant strikes
+  - Knockdowns: TOM ASPINALL 0,  ALEXANDER VOLKOV 0
+  - Takedowns: TOM ASPINALL 2,  ALEXANDER VOLKOV 0
+  Bonus: perf

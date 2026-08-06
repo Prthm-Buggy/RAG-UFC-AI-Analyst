@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Shields vs Ellenberger
+    Date : September 17, 2011
+    Location: New Orleans, Louisiana, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Lightweight, Middleweight, Featherweight, Welterweight
+
+    Fight Results:
+  - LANCE BENOIST def. MATTHEW RIDDLE via Decision - Unanimous(R3)
+- JAKE ELLENBERGER def. JAKE SHIELDS via KO/TKO(R1)
+- SETH BACZYNSKI def. CLAY HARVISON via Submission(R2)
+- TJ WALDBURGER def. MIKE STUMPF via Submission(R1)
+- ROBERT PERALTA def. MIKE LULLO via Decision - Unanimous(R3)
+- COURT MCGEE def. DONGI YANG via Decision - Unanimous(R3)
+- ERIK KOCH def. JONATHAN BROOKINS via Decision - Unanimous(R3)
+- VAGNER ROCHA def. CODY MCKENZIE via Submission(R2)
+- ALAN BELCHER def. JASON MACDONALD via KO/TKO(R1)
+- EVAN DUNHAM def. SHAMAR BAILEY via Decision - Unanimous(R3)
+- KEN STONE def. DONNY WALKER via Submission(R1)
+- JUSTIN EDWARDS def. JORGE LOPEZ via Decision - Unanimous(R3)

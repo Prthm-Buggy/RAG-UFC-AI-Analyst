@@ -1,0 +1,14 @@
+Event: UFC 253: Adesanya vs. Costa
+    Date: September 26, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Flyweight
+    
+
+    Result: BRANDON ROYVAL defeated KAI KARA-FRANCE via Submission  
+  at 0:48 of round 2
+  Key stats:
+  - BRANDON ROYVAL landed 39 significant strikes
+  - KAI KARA-FRANCE landed 22 significant strikes
+  - Knockdowns: BRANDON ROYVAL 2,  KAI KARA-FRANCE 1
+  - Takedowns: BRANDON ROYVAL 0,  KAI KARA-FRANCE 0
+  Bonus: fight

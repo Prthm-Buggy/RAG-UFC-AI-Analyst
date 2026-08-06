@@ -1,0 +1,14 @@
+Event: UFC 198: Werdum vs Miocic
+    Date: May 14, 2016
+    Location: Curitiba, Parana, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: STIPE MIOCIC defeated FABRICIO WERDUM via KO/TKO  
+  at 2:47 of round 1
+  Key stats:
+  - STIPE MIOCIC landed 20 significant strikes
+  - FABRICIO WERDUM landed 15 significant strikes
+  - Knockdowns: STIPE MIOCIC 1,  FABRICIO WERDUM 0
+  - Takedowns: STIPE MIOCIC 0,  FABRICIO WERDUM 0
+  Bonus: belt

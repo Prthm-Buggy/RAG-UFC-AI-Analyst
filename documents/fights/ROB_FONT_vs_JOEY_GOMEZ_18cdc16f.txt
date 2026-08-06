@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dillashaw vs Cruz
+    Date: January 17, 2016
+    Location: Boston, Massachusetts, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ROB FONT defeated JOEY GOMEZ via KO/TKO  
+  at 4:13 of round 2
+  Key stats:
+  - ROB FONT landed 52 significant strikes
+  - JOEY GOMEZ landed 15 significant strikes
+  - Knockdowns: ROB FONT 1,  JOEY GOMEZ 0
+  - Takedowns: ROB FONT 1,  JOEY GOMEZ 1

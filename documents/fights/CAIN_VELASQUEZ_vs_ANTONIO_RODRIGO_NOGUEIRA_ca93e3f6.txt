@@ -1,0 +1,14 @@
+Event: UFC 110: Nogueira vs Velasquez
+    Date: February 20, 2010
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: CAIN VELASQUEZ defeated ANTONIO RODRIGO NOGUEIRA via KO/TKO  
+  at 2:20 of round 1
+  Key stats:
+  - CAIN VELASQUEZ landed 23 significant strikes
+  - ANTONIO RODRIGO NOGUEIRA landed 3 significant strikes
+  - Knockdowns: CAIN VELASQUEZ 1,  ANTONIO RODRIGO NOGUEIRA 0
+  - Takedowns: CAIN VELASQUEZ 0,  ANTONIO RODRIGO NOGUEIRA 0
+  Bonus: ko

@@ -1,0 +1,11 @@
+Fighter: CARLOS CONDIT
+  Date of Birth: 1984-04-26
+  Career record: 19
+  First fight: 2009-04-01
+  Last fight: 2021-07-10
+
+Career Statistics:
+- Significant Strikes Landed :1006
+- Total takedowns landed :9
+- Knockdowns :6
+- Submission Attempts :11

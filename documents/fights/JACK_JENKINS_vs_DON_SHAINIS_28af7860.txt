@@ -1,0 +1,13 @@
+Event: UFC 284: Makhachev vs. Volkanovski
+    Date: February 11, 2023
+    Location: Perth, Western Australia, Australia
+    Weight Class: Featherweight
+    
+
+    Result: JACK JENKINS defeated DON SHAINIS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JACK JENKINS landed 82 significant strikes
+  - DON SHAINIS landed 50 significant strikes
+  - Knockdowns: JACK JENKINS 0,  DON SHAINIS 0
+  - Takedowns: JACK JENKINS 4,  DON SHAINIS 1

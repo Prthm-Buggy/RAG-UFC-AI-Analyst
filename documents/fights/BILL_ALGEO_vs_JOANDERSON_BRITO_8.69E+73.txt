@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kattar vs. Chikadze
+    Date: January 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: BILL ALGEO defeated JOANDERSON BRITO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BILL ALGEO landed 59 significant strikes
+  - JOANDERSON BRITO landed 40 significant strikes
+  - Knockdowns: BILL ALGEO 0,  JOANDERSON BRITO 0
+  - Takedowns: BILL ALGEO 2,  JOANDERSON BRITO 2

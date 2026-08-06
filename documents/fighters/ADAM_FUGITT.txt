@@ -1,0 +1,11 @@
+Fighter: ADAM FUGITT
+  Date of Birth: 1989-01-12
+  Career record: 6
+  First fight: 2022-07-30
+  Last fight: 2026-01-24
+
+Career Statistics:
+- Significant Strikes Landed :224
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

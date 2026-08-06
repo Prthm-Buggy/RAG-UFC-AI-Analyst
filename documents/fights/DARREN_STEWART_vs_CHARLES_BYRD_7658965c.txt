@@ -1,0 +1,13 @@
+Event: UFC 228: Woodley vs. Till
+    Date: September 08, 2018
+    Location: Dallas, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: DARREN STEWART defeated CHARLES BYRD via KO/TKO  
+  at 2:17 of round 2
+  Key stats:
+  - DARREN STEWART landed 24 significant strikes
+  - CHARLES BYRD landed 38 significant strikes
+  - Knockdowns: DARREN STEWART 1,  CHARLES BYRD 0
+  - Takedowns: DARREN STEWART 0,  CHARLES BYRD 0

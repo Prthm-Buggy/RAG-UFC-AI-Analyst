@@ -1,0 +1,11 @@
+Fighter: MICHAEL PAGE
+  Date of Birth: 1987-04-07
+  Career record: 5
+  First fight: 2024-03-09
+  Last fight: 2026-03-21
+
+Career Statistics:
+- Significant Strikes Landed :161
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

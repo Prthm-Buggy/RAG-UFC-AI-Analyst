@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Alvarez vs. Poirier 2
+    Date: July 28, 2018
+    Location: Calgary, Alberta, Canada
+    Weight Class: Lightweight
+    
+
+    Result: ALEXANDER HERNANDEZ defeated OLIVIER AUBIN-MERCIER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALEXANDER HERNANDEZ landed 39 significant strikes
+  - OLIVIER AUBIN-MERCIER landed 19 significant strikes
+  - Knockdowns: ALEXANDER HERNANDEZ 0,  OLIVIER AUBIN-MERCIER 0
+  - Takedowns: ALEXANDER HERNANDEZ 4,  OLIVIER AUBIN-MERCIER 2

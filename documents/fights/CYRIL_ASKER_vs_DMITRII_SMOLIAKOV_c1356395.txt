@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Penn
+    Date: January 15, 2017
+    Location: Phoenix, Arizona, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CYRIL ASKER defeated DMITRII SMOLIAKOV via KO/TKO  
+  at 2:41 of round 1
+  Key stats:
+  - CYRIL ASKER landed 19 significant strikes
+  - DMITRII SMOLIAKOV landed 5 significant strikes
+  - Knockdowns: CYRIL ASKER 0,  DMITRII SMOLIAKOV 0
+  - Takedowns: CYRIL ASKER 1,  DMITRII SMOLIAKOV 0

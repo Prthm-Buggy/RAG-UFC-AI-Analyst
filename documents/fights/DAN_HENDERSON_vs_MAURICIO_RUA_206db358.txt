@@ -1,0 +1,14 @@
+Event: UFC 139: Shogun vs Henderson
+    Date: November 19, 2011
+    Location: San Jose, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DAN HENDERSON defeated MAURICIO RUA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - DAN HENDERSON landed 77 significant strikes
+  - MAURICIO RUA landed 96 significant strikes
+  - Knockdowns: DAN HENDERSON 1,  MAURICIO RUA 0
+  - Takedowns: DAN HENDERSON 1,  MAURICIO RUA 5
+  Bonus: fight

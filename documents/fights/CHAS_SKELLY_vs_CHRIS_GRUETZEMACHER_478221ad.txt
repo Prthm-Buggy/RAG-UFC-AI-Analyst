@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bermudez vs. The Korean Zombie
+    Date: February 04, 2017
+    Location: Houston, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHAS SKELLY defeated CHRIS GRUETZEMACHER via Submission  
+  at 2:01 of round 2
+  Key stats:
+  - CHAS SKELLY landed 21 significant strikes
+  - CHRIS GRUETZEMACHER landed 28 significant strikes
+  - Knockdowns: CHAS SKELLY 0,  CHRIS GRUETZEMACHER 0
+  - Takedowns: CHAS SKELLY 2,  CHRIS GRUETZEMACHER 0

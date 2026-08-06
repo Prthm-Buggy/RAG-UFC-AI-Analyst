@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Allen
+    Date: October 29, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CHRISTIAN RODRIGUEZ defeated JOSHUA WEEMS via Submission  
+  at 4:07 of round 1
+  Key stats:
+  - CHRISTIAN RODRIGUEZ landed 9 significant strikes
+  - JOSHUA WEEMS landed 18 significant strikes
+  - Knockdowns: CHRISTIAN RODRIGUEZ 0,  JOSHUA WEEMS 0
+  - Takedowns: CHRISTIAN RODRIGUEZ 0,  JOSHUA WEEMS 2
+  Bonus: perf

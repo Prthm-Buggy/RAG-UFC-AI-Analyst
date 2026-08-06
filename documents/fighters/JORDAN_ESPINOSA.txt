@@ -1,0 +1,11 @@
+Fighter: JORDAN ESPINOSA
+  Date of Birth: 1989-11-08
+  Career record: 6
+  First fight: 2019-03-23
+  Last fight: 2021-03-06
+
+Career Statistics:
+- Significant Strikes Landed :243
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

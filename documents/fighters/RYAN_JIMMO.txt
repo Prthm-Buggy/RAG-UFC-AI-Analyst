@@ -1,0 +1,11 @@
+Fighter: RYAN JIMMO
+  Date of Birth: 1981-11-27
+  Career record: 7
+  First fight: 2012-07-21
+  Last fight: 2015-05-30
+
+Career Statistics:
+- Significant Strikes Landed :207
+- Total takedowns landed :2
+- Knockdowns :4
+- Submission Attempts :0

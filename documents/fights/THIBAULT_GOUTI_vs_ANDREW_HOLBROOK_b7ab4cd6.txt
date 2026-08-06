@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Volkov vs. Struve
+    Date: September 02, 2017
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Lightweight
+    
+
+    Result: THIBAULT GOUTI defeated ANDREW HOLBROOK via KO/TKO  
+  at 4:28 of round 1
+  Key stats:
+  - THIBAULT GOUTI landed 41 significant strikes
+  - ANDREW HOLBROOK landed 22 significant strikes
+  - Knockdowns: THIBAULT GOUTI 1,  ANDREW HOLBROOK 0
+  - Takedowns: THIBAULT GOUTI 0,  ANDREW HOLBROOK 0

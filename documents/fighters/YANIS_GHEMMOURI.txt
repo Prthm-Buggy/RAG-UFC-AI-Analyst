@@ -1,0 +1,11 @@
+Fighter: YANIS GHEMMOURI
+  Date of Birth: 1995-01-24
+  Career record: 2
+  First fight: 2023-09-02
+  Last fight: 2024-06-29
+
+Career Statistics:
+- Significant Strikes Landed :29
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

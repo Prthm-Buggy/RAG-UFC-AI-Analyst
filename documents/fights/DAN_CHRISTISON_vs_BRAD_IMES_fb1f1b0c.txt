@@ -1,0 +1,14 @@
+Event: UFC Fight Night 4
+    Date: April 06, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DAN CHRISTISON defeated BRAD IMES via Submission  
+  at 3:37 of round 3
+  Key stats:
+  - DAN CHRISTISON landed 73 significant strikes
+  - BRAD IMES landed 58 significant strikes
+  - Knockdowns: DAN CHRISTISON 0,  BRAD IMES 0
+  - Takedowns: DAN CHRISTISON 0,  BRAD IMES 2
+  Bonus: fight

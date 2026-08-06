@@ -1,0 +1,18 @@
+Event : UFC 85: Bedlam
+    Date : June 07, 2008
+    Location: London, England, United Kingdom
+    Number of Fights: 11
+    Weight Classes: Welterweight, Middleweight, Lightweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - MICHAEL BISPING def. JASON DAY via KO/TKO(R1)
+- FABRICIO WERDUM def. BRANDON VERA via KO/TKO(R1)
+- LUIZ CANE def. JASON LAMBERT via KO/TKO(R1)
+- ANTONI HARDONK def. EDDIE SANCHEZ via KO/TKO(R2)
+- PAUL TAYLOR def. JESS LIAUDIN via Decision - Split(R3)
+- THIAGO ALVES def. MATT HUGHES via KO/TKO(R2)
+- THALES LEITES def. NATE MARQUARDT via Decision - Split(R3)
+- MATT WIMAN def. THIAGO TAVARES via KO/TKO(R2)
+- MARTIN KAMPMANN def. JORGE RIVERA via Submission(R1)
+- KEVIN BURNS def. ROAN CARNEIRO via Submission(R2)
+- MIKE SWICK def. MARCUS DAVIS via Decision - Unanimous(R3)

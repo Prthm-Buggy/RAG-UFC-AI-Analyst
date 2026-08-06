@@ -1,0 +1,14 @@
+Event: UFC 228: Woodley vs. Till
+    Date: September 08, 2018
+    Location: Dallas, Texas, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JESSICA ANDRADE defeated KAROLINA KOWALKIEWICZ via KO/TKO  
+  at 1:58 of round 1
+  Key stats:
+  - JESSICA ANDRADE landed 38 significant strikes
+  - KAROLINA KOWALKIEWICZ landed 24 significant strikes
+  - Knockdowns: JESSICA ANDRADE 1,  KAROLINA KOWALKIEWICZ 0
+  - Takedowns: JESSICA ANDRADE 0,  KAROLINA KOWALKIEWICZ 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC on FOX: Johnson vs Moraga
+    Date: July 27, 2013
+    Location: Seattle, Washington, USA
+    Weight Class: Lightweight
+    
+
+    Result: MELVIN GUILLARD defeated MAC DANZIG via KO/TKO  
+  at 2:47 of round 2
+  Key stats:
+  - MELVIN GUILLARD landed 39 significant strikes
+  - MAC DANZIG landed 23 significant strikes
+  - Knockdowns: MELVIN GUILLARD 1,  MAC DANZIG 0
+  - Takedowns: MELVIN GUILLARD 0,  MAC DANZIG 0
+  Bonus: ko

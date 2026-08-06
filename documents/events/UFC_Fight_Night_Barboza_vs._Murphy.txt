@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Barboza vs. Murphy
+    Date : May 18, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Middleweight, Women's Strawweight, Women's Bantamweight, Featherweight, Welterweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - MELISSA GATTO def. TAMIRES VIDAL via KO/TKO(R3)
+- TOM NOLAN def. VICTOR MARTINEZ via KO/TKO(R1)
+- ANGELA HILL def. LUANA PINHEIRO via Submission(R2)
+- THEMBA GORIMBO def. RAMIZ BRAHIMAJ via Decision - Unanimous(R3)
+- ARIANE CARNELOSSI def. PIERA RODRIGUEZ via DQ(R2)
+- KHAOS WILLIAMS def. CARLSTON HARRIS via KO/TKO(R1)
+- OUMAR SY def. Tuco Tokkos via Submission(R1)
+- ALATENGHEILI def. KLEYDSON RODRIGUES via Decision - Unanimous(R3)
+- VANESSA DEMOPOULOS def. EMILY DUCOTE via Decision - Split(R3)
+- LERONE MURPHY def. EDSON BARBOZA via Decision - Unanimous(R5)
+- ABUS MAGOMEDOV def. WARLLEY ALVES via Decision - Unanimous(R3)
+- ADRIAN YANEZ def. VINICIUS SALVADOR via KO/TKO(R1)

@@ -1,0 +1,11 @@
+Fighter: RICARDO ROMERO
+  Date of Birth: 1978-04-15
+  Career record: 3
+  First fight: 2010-07-03
+  Last fight: 2011-09-24
+
+Career Statistics:
+- Significant Strikes Landed :20
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :2

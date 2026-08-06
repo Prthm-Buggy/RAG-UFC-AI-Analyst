@@ -1,0 +1,11 @@
+Fighter: ARMEN PETROSYAN
+  Date of Birth: 1990-11-03
+  Career record: 7
+  First fight: 2022-02-26
+  Last fight: 2025-03-08
+
+Career Statistics:
+- Significant Strikes Landed :497
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night 56: Shogun vs Saint Preux
+    Date: November 08, 2014
+    Location: Uberlandia, Minas Gerais, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: LEANDRO SILVA defeated CHARLIE BRENNEMAN via Submission  
+  at 4:15 of round 1
+  Key stats:
+  - LEANDRO SILVA landed 4 significant strikes
+  - CHARLIE BRENNEMAN landed 4 significant strikes
+  - Knockdowns: LEANDRO SILVA 0,  CHARLIE BRENNEMAN 0
+  - Takedowns: LEANDRO SILVA 1,  CHARLIE BRENNEMAN 3
+  Bonus: perf

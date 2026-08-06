@@ -1,0 +1,14 @@
+Event: UFC 282: Blachowicz vs. Ankalaev
+    Date: December 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS CURTIS defeated JOAQUIN BUCKLEY via KO/TKO  
+  at 2:49 of round 2
+  Key stats:
+  - CHRIS CURTIS landed 36 significant strikes
+  - JOAQUIN BUCKLEY landed 50 significant strikes
+  - Knockdowns: CHRIS CURTIS 1,  JOAQUIN BUCKLEY 0
+  - Takedowns: CHRIS CURTIS 0,  JOAQUIN BUCKLEY 0
+  Bonus: perf

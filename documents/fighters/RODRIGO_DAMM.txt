@@ -1,0 +1,11 @@
+Fighter: RODRIGO DAMM
+  Date of Birth: 1980-02-03
+  Career record: 7
+  First fight: 2012-06-23
+  Last fight: 2015-01-03
+
+Career Statistics:
+- Significant Strikes Landed :346
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :2

@@ -1,0 +1,11 @@
+Fighter: DIEGO RIVAS
+  Date of Birth: 1991-11-11
+  Career record: 4
+  First fight: 2014-11-08
+  Last fight: 2018-05-19
+
+Career Statistics:
+- Significant Strikes Landed :69
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :3

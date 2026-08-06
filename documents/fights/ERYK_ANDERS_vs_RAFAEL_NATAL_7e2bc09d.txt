@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Weidman vs. Gastelum
+    Date: July 22, 2017
+    Location: Uniondale, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: ERYK ANDERS defeated RAFAEL NATAL via KO/TKO  
+  at 2:54 of round 1
+  Key stats:
+  - ERYK ANDERS landed 23 significant strikes
+  - RAFAEL NATAL landed 14 significant strikes
+  - Knockdowns: ERYK ANDERS 1,  RAFAEL NATAL 0
+  - Takedowns: ERYK ANDERS 1,  RAFAEL NATAL 0

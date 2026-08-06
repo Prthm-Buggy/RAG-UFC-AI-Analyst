@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hendricks vs Thompson
+    Date: February 06, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICKEY GALL defeated MIKE JACKSON via Submission  
+  at 0:45 of round 1
+  Key stats:
+  - MICKEY GALL landed 2 significant strikes
+  - MIKE JACKSON landed 3 significant strikes
+  - Knockdowns: MICKEY GALL 1,  MIKE JACKSON 0
+  - Takedowns: MICKEY GALL 0,  MIKE JACKSON 0

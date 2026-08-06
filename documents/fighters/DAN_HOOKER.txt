@@ -1,0 +1,11 @@
+Fighter: DAN HOOKER
+  Date of Birth: 1990-02-13
+  Career record: 24
+  First fight: 2014-06-28
+  Last fight: 2026-01-31
+
+Career Statistics:
+- Significant Strikes Landed :1171
+- Total takedowns landed :11
+- Knockdowns :9
+- Submission Attempts :9

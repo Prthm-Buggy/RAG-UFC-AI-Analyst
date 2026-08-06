@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Rodriguez
+    Date: November 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: SEAN WOODSON defeated COLLIN ANGLIN via KO/TKO  
+  at 4:30 of round 1
+  Key stats:
+  - SEAN WOODSON landed 50 significant strikes
+  - COLLIN ANGLIN landed 8 significant strikes
+  - Knockdowns: SEAN WOODSON 1,  COLLIN ANGLIN 0
+  - Takedowns: SEAN WOODSON 0,  COLLIN ANGLIN 0

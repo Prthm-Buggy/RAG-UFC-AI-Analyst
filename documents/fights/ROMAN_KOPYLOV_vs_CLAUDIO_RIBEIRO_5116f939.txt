@@ -1,0 +1,13 @@
+Event: UFC 291: Poirier vs. Gaethje 2
+    Date: July 29, 2023
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROMAN KOPYLOV defeated CLAUDIO RIBEIRO via KO/TKO  
+  at 0:33 of round 2
+  Key stats:
+  - ROMAN KOPYLOV landed 32 significant strikes
+  - CLAUDIO RIBEIRO landed 32 significant strikes
+  - Knockdowns: ROMAN KOPYLOV 1,  CLAUDIO RIBEIRO 0
+  - Takedowns: ROMAN KOPYLOV 0,  CLAUDIO RIBEIRO 0

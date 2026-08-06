@@ -1,0 +1,16 @@
+Event : UFC 67: All or Nothing
+    Date : February 03, 2007
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Middleweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - ANDERSON SILVA def. TRAVIS LUTTER via Submission(R2)
+- LYOTO MACHIDA def. SAM HOGER via Decision - Unanimous(R3)
+- MIRKO FILIPOVIC def. EDDIE SANCHEZ via KO/TKO(R1)
+- FRANKIE EDGAR def. TYSON GRIFFIN via Decision - Unanimous(R3)
+- PATRICK COTE def. SCOTT SMITH via Decision - Unanimous(R3)
+- QUINTON JACKSON def. MARVIN EASTMAN via KO/TKO(R2)
+- TERRY MARTIN def. JORGE RIVERA via KO/TKO(R1)
+- ROGER HUERTA def. JOHN HALVERSON via KO/TKO(R1)
+- DUSTIN HAZELETT def. DIEGO SARAIVA via Decision - Unanimous(R3)

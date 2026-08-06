@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cyborg vs. Lansberg
+    Date: September 24, 2016
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: FRANCISCO TRINALDO defeated PAUL FELDER via TKO - Doctor's Stoppage  
+  at 2:25 of round 3
+  Key stats:
+  - FRANCISCO TRINALDO landed 32 significant strikes
+  - PAUL FELDER landed 33 significant strikes
+  - Knockdowns: FRANCISCO TRINALDO 0,  PAUL FELDER 0
+  - Takedowns: FRANCISCO TRINALDO 1,  PAUL FELDER 0

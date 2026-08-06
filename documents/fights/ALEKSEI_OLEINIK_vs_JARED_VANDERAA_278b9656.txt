@@ -1,0 +1,14 @@
+Event: UFC 273: Volkanovski vs. The Korean Zombie
+    Date: April 09, 2022
+    Location: Jacksonville, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEKSEI OLEINIK defeated JARED VANDERAA via Submission  
+  at 3:39 of round 1
+  Key stats:
+  - ALEKSEI OLEINIK landed 8 significant strikes
+  - JARED VANDERAA landed 15 significant strikes
+  - Knockdowns: ALEKSEI OLEINIK 0,  JARED VANDERAA 0
+  - Takedowns: ALEKSEI OLEINIK 0,  JARED VANDERAA 0
+  Bonus: perf

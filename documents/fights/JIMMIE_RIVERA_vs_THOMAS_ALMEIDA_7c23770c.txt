@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Weidman vs. Gastelum
+    Date: July 22, 2017
+    Location: Uniondale, New York, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JIMMIE RIVERA defeated THOMAS ALMEIDA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JIMMIE RIVERA landed 70 significant strikes
+  - THOMAS ALMEIDA landed 72 significant strikes
+  - Knockdowns: JIMMIE RIVERA 2,  THOMAS ALMEIDA 0
+  - Takedowns: JIMMIE RIVERA 2,  THOMAS ALMEIDA 0

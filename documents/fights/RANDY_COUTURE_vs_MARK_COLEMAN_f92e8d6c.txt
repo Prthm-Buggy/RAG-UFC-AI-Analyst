@@ -1,0 +1,13 @@
+Event: UFC 109: Relentless
+    Date: February 06, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RANDY COUTURE defeated MARK COLEMAN via Submission  
+  at 1:09 of round 2
+  Key stats:
+  - RANDY COUTURE landed 44 significant strikes
+  - MARK COLEMAN landed 10 significant strikes
+  - Knockdowns: RANDY COUTURE 0,  MARK COLEMAN 0
+  - Takedowns: RANDY COUTURE 1,  MARK COLEMAN 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lemos vs. Andrade
+    Date: April 23, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SERGEY KHANDOZHKO defeated DWIGHT GRANT via KO/TKO  
+  at 4:15 of round 2
+  Key stats:
+  - SERGEY KHANDOZHKO landed 49 significant strikes
+  - DWIGHT GRANT landed 42 significant strikes
+  - Knockdowns: SERGEY KHANDOZHKO 2,  DWIGHT GRANT 1
+  - Takedowns: SERGEY KHANDOZHKO 1,  DWIGHT GRANT 1
+  Bonus: fight

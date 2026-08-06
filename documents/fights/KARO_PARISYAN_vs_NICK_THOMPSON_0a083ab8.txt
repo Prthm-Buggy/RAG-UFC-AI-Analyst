@@ -1,0 +1,13 @@
+Event: UFC 59: Reality Check
+    Date: April 15, 2006
+    Location: Anaheim, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: KARO PARISYAN defeated NICK THOMPSON via KO/TKO  
+  at 4:44 of round 1
+  Key stats:
+  - KARO PARISYAN landed 18 significant strikes
+  - NICK THOMPSON landed 2 significant strikes
+  - Knockdowns: KARO PARISYAN 0,  NICK THOMPSON 0
+  - Takedowns: KARO PARISYAN 2,  NICK THOMPSON 1

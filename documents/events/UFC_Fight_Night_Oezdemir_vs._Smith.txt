@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Oezdemir vs. Smith
+    Date : October 27, 2018
+    Location: Moncton, New Brunswick, Canada
+    Number of Fights: 13
+    Weight Classes: Welterweight, Light Heavyweight, Women's Bantamweight, Lightweight, Featherweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - SEAN STRICKLAND def. NORDINE TALEB via KO/TKO(R2)
+- ANTHONY SMITH def. VOLKAN OEZDEMIR via Submission(R3)
+- NASRAT HAQPARAST def. THIBAULT GOUTI via Decision - Unanimous(R3)
+- DON MADGE def. TE EDWARDS via KO/TKO(R2)
+- STEVIE RAY def. JESSIN AYARI via Decision - Unanimous(R3)
+- ARJAN BHULLAR def. MARCELO GOLM via Decision - Unanimous(R3)
+- MICHAEL JOHNSON def. ARTEM LOBOV via Decision - Unanimous(R3)
+- COURT MCGEE def. ALEX GARCIA via Decision - Unanimous(R3)
+- ANDRE SOUKHAMTHATH def. JONATHAN MARTINEZ via Decision - Unanimous(R3)
+- MISHA CIRKUNOV def. PATRICK CUMMINS via Submission(R1)
+- TALITA BERNARDO def. SARAH MORAS via Decision - Unanimous(R3)
+- GIAN VILLANTE def. ED HERMAN via Decision - Split(R3)
+- CALVIN KATTAR def. CHRIS FISHGOLD via KO/TKO(R1)

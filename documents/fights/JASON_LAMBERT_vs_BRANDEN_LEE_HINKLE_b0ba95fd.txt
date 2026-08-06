@@ -1,0 +1,13 @@
+Event: UFC Fight Night 5
+    Date: June 28, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JASON LAMBERT defeated BRANDEN LEE HINKLE via KO/TKO  
+  at 5:00 of round 1
+  Key stats:
+  - JASON LAMBERT landed 44 significant strikes
+  - BRANDEN LEE HINKLE landed 4 significant strikes
+  - Knockdowns: JASON LAMBERT 0,  BRANDEN LEE HINKLE 0
+  - Takedowns: JASON LAMBERT 0,  BRANDEN LEE HINKLE 3

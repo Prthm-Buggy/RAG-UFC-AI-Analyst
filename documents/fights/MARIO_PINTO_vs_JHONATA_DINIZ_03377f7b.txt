@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Oliveira vs. Gamrot
+    Date: October 11, 2025
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: MARIO PINTO defeated JHONATA DINIZ via KO/TKO  
+  at 4:10 of round 2
+  Key stats:
+  - MARIO PINTO landed 29 significant strikes
+  - JHONATA DINIZ landed 1 significant strikes
+  - Knockdowns: MARIO PINTO 0,  JHONATA DINIZ 0
+  - Takedowns: MARIO PINTO 3,  JHONATA DINIZ 0

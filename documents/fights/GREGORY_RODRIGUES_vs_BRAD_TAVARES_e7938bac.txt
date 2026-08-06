@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Pyfer
+    Date: February 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GREGORY RODRIGUES defeated BRAD TAVARES via KO/TKO  
+  at 0:55 of round 3
+  Key stats:
+  - GREGORY RODRIGUES landed 71 significant strikes
+  - BRAD TAVARES landed 37 significant strikes
+  - Knockdowns: GREGORY RODRIGUES 0,  BRAD TAVARES 0
+  - Takedowns: GREGORY RODRIGUES 2,  BRAD TAVARES 0

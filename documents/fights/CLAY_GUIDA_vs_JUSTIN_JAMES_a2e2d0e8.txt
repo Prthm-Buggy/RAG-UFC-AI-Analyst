@@ -1,0 +1,14 @@
+Event: UFC 64: Unstoppable
+    Date: October 14, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CLAY GUIDA defeated JUSTIN JAMES via Submission  
+  at 4:42 of round 2
+  Key stats:
+  - CLAY GUIDA landed 26 significant strikes
+  - JUSTIN JAMES landed 13 significant strikes
+  - Knockdowns: CLAY GUIDA 0,  JUSTIN JAMES 0
+  - Takedowns: CLAY GUIDA 2,  JUSTIN JAMES 0
+  Bonus: sub

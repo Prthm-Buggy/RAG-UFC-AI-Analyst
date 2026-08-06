@@ -1,0 +1,14 @@
+Event: UFC 304: Edwards vs. Muhammad 2
+    Date: July 27, 2024
+    Location: Manchester, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: MICK PARKIN defeated LUKASZ BRZESKI via KO/TKO  
+  at 3:23 of round 1
+  Key stats:
+  - MICK PARKIN landed 34 significant strikes
+  - LUKASZ BRZESKI landed 24 significant strikes
+  - Knockdowns: MICK PARKIN 1,  LUKASZ BRZESKI 0
+  - Takedowns: MICK PARKIN 0,  LUKASZ BRZESKI 0
+  Bonus: perf

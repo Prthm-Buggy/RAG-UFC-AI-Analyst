@@ -1,0 +1,19 @@
+Event : UFC 297: Strickland vs. Du Plessis
+    Date : January 20, 2024
+    Location: Toronto, Ontario, Canada
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Flyweight, Women's Bantamweight, Featherweight, Women's Strawweight, Welterweight, Middleweight
+
+    Fight Results:
+  - GARRETT ARMFIELD def. BRAD KATONA via Decision - Unanimous(R3)
+- NEIL MAGNY def. MIKE MALOTT via KO/TKO(R3)
+- RAMON TAVERAS def. SERHIY SIDEY via Decision - Split(R3)
+- MOVSAR EVLOEV def. ARNOLD ALLEN via Decision - Unanimous(R3)
+- SAM PATTERSON def. YOHAN LAINESSE via Submission(R1)
+- GILLIAN ROBERTSON def. POLYANA VIANA via KO/TKO(R2)
+- DRICUS DU PLESSIS def. SEAN STRICKLAND via Decision - Split(R5)
+- JASMINE JASUDAVICIUS def. PRISCILA CACHOEIRA via Submission(R3)
+- JIMMY FLICK def. MALCOLM GORDON via Submission(R2)
+- SEAN WOODSON def. CHARLES JOURDAIN via Decision - Split(R3)
+- RAQUEL PENNINGTON def. MAYRA BUENO SILVA via Decision - Unanimous(R5)
+- CHRIS CURTIS def. MARC-ANDRE BARRIAULT via Decision - Split(R3)

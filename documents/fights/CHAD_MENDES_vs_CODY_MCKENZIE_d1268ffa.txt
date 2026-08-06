@@ -1,0 +1,13 @@
+Event: UFC 148: Silva vs Sonnen 2
+    Date: July 07, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHAD MENDES defeated CODY MCKENZIE via KO/TKO  
+  at 0:31 of round 1
+  Key stats:
+  - CHAD MENDES landed 8 significant strikes
+  - CODY MCKENZIE landed 1 significant strikes
+  - Knockdowns: CHAD MENDES 1,  CODY MCKENZIE 0
+  - Takedowns: CHAD MENDES 0,  CODY MCKENZIE 0

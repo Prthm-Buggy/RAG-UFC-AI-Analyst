@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Assuncao vs. Moraes 2
+    Date: February 02, 2019
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: JAIRZINHO ROZENSTRUIK defeated JUNIOR ALBINI via KO/TKO  
+  at 0:54 of round 2
+  Key stats:
+  - JAIRZINHO ROZENSTRUIK landed 19 significant strikes
+  - JUNIOR ALBINI landed 18 significant strikes
+  - Knockdowns: JAIRZINHO ROZENSTRUIK 1,  JUNIOR ALBINI 0
+  - Takedowns: JAIRZINHO ROZENSTRUIK 0,  JUNIOR ALBINI 2

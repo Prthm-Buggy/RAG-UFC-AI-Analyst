@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vera vs. Sandhagen
+    Date: March 25, 2023
+    Location: San Antonio, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: NATE LANDWEHR defeated AUSTIN LINGO via Submission  
+  at 4:11 of round 2
+  Key stats:
+  - NATE LANDWEHR landed 64 significant strikes
+  - AUSTIN LINGO landed 48 significant strikes
+  - Knockdowns: NATE LANDWEHR 0,  AUSTIN LINGO 0
+  - Takedowns: NATE LANDWEHR 1,  AUSTIN LINGO 0
+  Bonus: perf

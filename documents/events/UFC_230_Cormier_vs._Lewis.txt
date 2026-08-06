@@ -1,0 +1,18 @@
+Event : UFC 230: Cormier vs. Lewis
+    Date : November 03, 2018
+    Location: New York City, New York, USA
+    Number of Fights: 11
+    Weight Classes: Middleweight, Featherweight, Welterweight, Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - JARED CANNONIER def. DAVID BRANCH via KO/TKO(R2)
+- ISRAEL ADESANYA def. DEREK BRUNSON via KO/TKO(R1)
+- SHEYMON MORAES def. JULIO ARCE via Decision - Split(R3)
+- MARCOS ROGERIO DE LIMA def. ADAM WIECZOREK via Decision - Unanimous(R3)
+- SHANE BURGOS def. KURT HOLOBAUGH via Submission(R1)
+- KARL ROBERSON def. JACK MARSHMAN via Decision - Unanimous(R3)
+- JORDAN RINALDI def. JASON KNIGHT via Decision - Unanimous(R3)
+- LYMAN GOOD def. BEN SAUNDERS via KO/TKO(R1)
+- SIJARA EUBANKS def. ROXANNE MODAFFERI via Decision - Unanimous(R3)
+- JACARE SOUZA def. CHRIS WEIDMAN via KO/TKO(R3)
+- DANIEL CORMIER def. DERRICK LEWIS via Submission(R2)

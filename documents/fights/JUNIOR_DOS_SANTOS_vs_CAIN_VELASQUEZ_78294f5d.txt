@@ -1,0 +1,14 @@
+Event: UFC on FOX: Velasquez vs Dos Santos
+    Date: November 12, 2011
+    Location: Anaheim, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR DOS SANTOS defeated CAIN VELASQUEZ via KO/TKO  
+  at 1:04 of round 1
+  Key stats:
+  - JUNIOR DOS SANTOS landed 8 significant strikes
+  - CAIN VELASQUEZ landed 7 significant strikes
+  - Knockdowns: JUNIOR DOS SANTOS 1,  CAIN VELASQUEZ 0
+  - Takedowns: JUNIOR DOS SANTOS 0,  CAIN VELASQUEZ 0
+  Bonus: belt

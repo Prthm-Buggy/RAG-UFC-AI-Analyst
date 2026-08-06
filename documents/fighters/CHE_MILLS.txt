@@ -1,0 +1,11 @@
+Fighter: CHE MILLS
+  Date of Birth: 1982-09-29
+  Career record: 3
+  First fight: 2011-11-05
+  Last fight: 2012-09-29
+
+Career Statistics:
+- Significant Strikes Landed :25
+- Total takedowns landed :2
+- Knockdowns :2
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: SEOKHYEON KO
+  Date of Birth: 1993-09-24
+  Career record: 2
+  First fight: 2025-06-21
+  Last fight: 2025-11-01
+
+Career Statistics:
+- Significant Strikes Landed :69
+- Total takedowns landed :10
+- Knockdowns :0
+- Submission Attempts :1

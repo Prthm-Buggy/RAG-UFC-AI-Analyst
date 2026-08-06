@@ -1,0 +1,11 @@
+Fighter: ABDUL-KAREEM AL-SELWADY
+  Date of Birth: 1995-04-10
+  Career record: 2
+  First fight: 2024-03-02
+  Last fight: 2026-03-21
+
+Career Statistics:
+- Significant Strikes Landed :119
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

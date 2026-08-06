@@ -1,0 +1,11 @@
+Fighter: ROYCE ALGER
+  Date of Birth: 1965-03-06
+  Career record: 2
+  First fight: 1997-05-30
+  Last fight: 1999-07-16
+
+Career Statistics:
+- Significant Strikes Landed :14
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

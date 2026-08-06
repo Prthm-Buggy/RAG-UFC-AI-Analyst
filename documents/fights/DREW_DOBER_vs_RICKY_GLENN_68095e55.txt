@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dawson vs. Green
+    Date: October 07, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DREW DOBER defeated RICKY GLENN via KO/TKO  
+  at 2:36 of round 1
+  Key stats:
+  - DREW DOBER landed 30 significant strikes
+  - RICKY GLENN landed 5 significant strikes
+  - Knockdowns: DREW DOBER 1,  RICKY GLENN 0
+  - Takedowns: DREW DOBER 0,  RICKY GLENN 0
+  Bonus: perf

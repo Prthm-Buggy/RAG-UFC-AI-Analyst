@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Anderson vs. Blachowicz
+    Date: February 15, 2020
+    Location: Rio Rancho, New Mexico, USA
+    Weight Class: Lightweight
+    
+
+    Result: BROK WEAVER defeated KAZULA VARGAS via DQ  
+  at 4:02 of round 1
+  Key stats:
+  - BROK WEAVER landed 5 significant strikes
+  - KAZULA VARGAS landed 15 significant strikes
+  - Knockdowns: BROK WEAVER 0,  KAZULA VARGAS 0
+  - Takedowns: BROK WEAVER 0,  KAZULA VARGAS 1

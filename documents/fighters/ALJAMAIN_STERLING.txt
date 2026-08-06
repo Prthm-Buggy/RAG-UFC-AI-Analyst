@@ -1,0 +1,11 @@
+Fighter: ALJAMAIN STERLING
+  Date of Birth: 1989-07-31
+  Career record: 23
+  First fight: 2014-02-22
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :1407
+- Total takedowns landed :56
+- Knockdowns :0
+- Submission Attempts :13

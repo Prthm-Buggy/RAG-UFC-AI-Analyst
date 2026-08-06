@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs Gastelum
+    Date: November 21, 2015
+    Location: Monterrey, Nuevo Leon, Mexico
+    Weight Class: Lightweight
+    
+
+    Result: MICHEL PRAZERES defeated VALMIR LAZARO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MICHEL PRAZERES landed 20 significant strikes
+  - VALMIR LAZARO landed 41 significant strikes
+  - Knockdowns: MICHEL PRAZERES 0,  VALMIR LAZARO 0
+  - Takedowns: MICHEL PRAZERES 1,  VALMIR LAZARO 0

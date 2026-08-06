@@ -1,0 +1,11 @@
+Fighter: BRUNO KOREA
+  Date of Birth: 1991-06-28
+  Career record: 1
+  First fight: 2015-11-07
+  Last fight: 2015-11-07
+
+Career Statistics:
+- Significant Strikes Landed :27
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

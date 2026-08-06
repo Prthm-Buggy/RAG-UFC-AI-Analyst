@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Felder vs. Dos Anjos
+    Date: November 14, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: SEAN STRICKLAND defeated BRENDAN ALLEN via KO/TKO  
+  at 1:32 of round 2
+  Key stats:
+  - SEAN STRICKLAND landed 94 significant strikes
+  - BRENDAN ALLEN landed 51 significant strikes
+  - Knockdowns: SEAN STRICKLAND 1,  BRENDAN ALLEN 0
+  - Takedowns: SEAN STRICKLAND 1,  BRENDAN ALLEN 0
+  Bonus: perf

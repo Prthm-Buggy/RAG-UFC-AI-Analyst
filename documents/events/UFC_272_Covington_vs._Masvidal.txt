@@ -1,0 +1,20 @@
+Event : UFC 272: Covington vs. Masvidal
+    Date : March 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Women's Flyweight, Heavyweight, Flyweight, Featherweight, Light Heavyweight, Welterweight, Catch Weight, Lightweight, Women's Strawweight
+
+    Fight Results:
+  - LUDOVIT KLEIN def. DEVONTE SMITH via Decision - Split(R3)
+- MARINA RODRIGUEZ def. YAN XIAONAN via Decision - Split(R3)
+- DUSTIN JACOBY def. MICHAL OLEKSIEJCZUK via Decision - Unanimous(R3)
+- TIM ELLIOTT def. TAGIR ULANBEKOV via Decision - Unanimous(R3)
+- SERGHEI SPIVAC def. GREG HARDY via KO/TKO(R1)
+- UMAR NURMAGOMEDOV def. BRIAN KELLEHER via Submission(R1)
+- NICOLAE NEGUMEREANU def. KENNEDY NZECHUKWU via Decision - Split(R3)
+- MARYNA MOROZ def. MARIYA AGAPOVA via Submission(R2)
+- KEVIN HOLLAND def. ALEX OLIVEIRA via KO/TKO(R2)
+- JALIN TURNER def. JAMIE MULLARKEY via KO/TKO(R2)
+- RAFAEL DOS ANJOS def. RENATO MOICANO via Decision - Unanimous(R5)
+- BRYCE MITCHELL def. EDSON BARBOZA via Decision - Unanimous(R3)
+- COLBY COVINGTON def. JORGE MASVIDAL via Decision - Unanimous(R5)

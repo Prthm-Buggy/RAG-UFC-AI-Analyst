@@ -1,0 +1,11 @@
+Fighter: BRENDSON RIBEIRO
+  Date of Birth: 1996-09-08
+  Career record: 7
+  First fight: 2024-02-17
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :129
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :2

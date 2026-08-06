@@ -1,0 +1,14 @@
+Event: UFC 266: Volkanovski vs. Ortega
+    Date: September 25, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MERAB DVALISHVILI defeated MARLON MORAES via KO/TKO  
+  at 4:25 of round 2
+  Key stats:
+  - MERAB DVALISHVILI landed 69 significant strikes
+  - MARLON MORAES landed 29 significant strikes
+  - Knockdowns: MERAB DVALISHVILI 0,  MARLON MORAES 1
+  - Takedowns: MERAB DVALISHVILI 4,  MARLON MORAES 0
+  Bonus: perf

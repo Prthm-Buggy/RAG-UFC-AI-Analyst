@@ -1,0 +1,11 @@
+Fighter: VERNON RAMOS HO
+  Date of Birth: 1992-06-03
+  Career record: 1
+  First fight: 2015-11-21
+  Last fight: 2015-11-21
+
+Career Statistics:
+- Significant Strikes Landed :2
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

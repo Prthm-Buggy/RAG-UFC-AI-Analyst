@@ -1,0 +1,11 @@
+Fighter: JONNY PARSONS
+  Date of Birth: 1991-09-06
+  Career record: 1
+  First fight: 2023-07-22
+  Last fight: 2023-07-22
+
+Career Statistics:
+- Significant Strikes Landed :63
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

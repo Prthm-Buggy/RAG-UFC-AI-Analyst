@@ -1,0 +1,11 @@
+Fighter: RYAN GANDRA
+  Date of Birth: 1995-05-08
+  Career record: 1
+  First fight: 2026-02-28
+  Last fight: 2026-02-28
+
+Career Statistics:
+- Significant Strikes Landed :14
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

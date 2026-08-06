@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Stout vs Fisher
+    Date: June 12, 2007
+    Location: Hollywood, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: THIAGO TAVARES defeated JASON BLACK via Submission  
+  at 2:49 of round 2
+  Key stats:
+  - THIAGO TAVARES landed 11 significant strikes
+  - JASON BLACK landed 0 significant strikes
+  - Knockdowns: THIAGO TAVARES 0,  JASON BLACK 0
+  - Takedowns: THIAGO TAVARES 2,  JASON BLACK 0
+  Bonus: sub

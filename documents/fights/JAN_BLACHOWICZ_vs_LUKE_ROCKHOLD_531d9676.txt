@@ -1,0 +1,14 @@
+Event: UFC 239: Jones vs. Santos
+    Date: July 06, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAN BLACHOWICZ defeated LUKE ROCKHOLD via KO/TKO  
+  at 1:39 of round 2
+  Key stats:
+  - JAN BLACHOWICZ landed 30 significant strikes
+  - LUKE ROCKHOLD landed 14 significant strikes
+  - Knockdowns: JAN BLACHOWICZ 1,  LUKE ROCKHOLD 0
+  - Takedowns: JAN BLACHOWICZ 0,  LUKE ROCKHOLD 0
+  Bonus: perf

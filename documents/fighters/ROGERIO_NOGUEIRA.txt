@@ -1,0 +1,11 @@
+Fighter: ROGERIO NOGUEIRA
+  Date of Birth: 1976-06-02
+  Career record: 13
+  First fight: 2009-11-21
+  Last fight: 2020-07-25
+
+Career Statistics:
+- Significant Strikes Landed :341
+- Total takedowns landed :1
+- Knockdowns :4
+- Submission Attempts :2

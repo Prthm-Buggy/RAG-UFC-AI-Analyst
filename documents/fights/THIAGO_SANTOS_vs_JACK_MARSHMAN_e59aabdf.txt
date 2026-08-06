@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Browne
+    Date: February 19, 2017
+    Location: Halifax, Nova Scotia, Canada
+    Weight Class: Middleweight
+    
+
+    Result: THIAGO SANTOS defeated JACK MARSHMAN via KO/TKO  
+  at 2:21 of round 2
+  Key stats:
+  - THIAGO SANTOS landed 27 significant strikes
+  - JACK MARSHMAN landed 6 significant strikes
+  - Knockdowns: THIAGO SANTOS 1,  JACK MARSHMAN 1
+  - Takedowns: THIAGO SANTOS 1,  JACK MARSHMAN 0
+  Bonus: perf

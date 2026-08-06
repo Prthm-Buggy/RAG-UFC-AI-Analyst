@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Spann
+    Date: September 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: NATE MANESS defeated TONY GRAVELY via KO/TKO  
+  at 2:10 of round 2
+  Key stats:
+  - NATE MANESS landed 31 significant strikes
+  - TONY GRAVELY landed 36 significant strikes
+  - Knockdowns: NATE MANESS 1,  TONY GRAVELY 1
+  - Takedowns: NATE MANESS 1,  TONY GRAVELY 1
+  Bonus: perf

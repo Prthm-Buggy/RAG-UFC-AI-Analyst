@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Woodley vs. Burns
+    Date: May 30, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ROOSEVELT ROBERTS defeated BROK WEAVER via Submission  
+  at 3:26 of round 2
+  Key stats:
+  - ROOSEVELT ROBERTS landed 40 significant strikes
+  - BROK WEAVER landed 14 significant strikes
+  - Knockdowns: ROOSEVELT ROBERTS 0,  BROK WEAVER 0
+  - Takedowns: ROOSEVELT ROBERTS 1,  BROK WEAVER 0

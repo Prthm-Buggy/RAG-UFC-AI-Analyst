@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Walker
+    Date: October 02, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: THIAGO SANTOS defeated JOHNNY WALKER via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - THIAGO SANTOS landed 44 significant strikes
+  - JOHNNY WALKER landed 48 significant strikes
+  - Knockdowns: THIAGO SANTOS 0,  JOHNNY WALKER 0
+  - Takedowns: THIAGO SANTOS 0,  JOHNNY WALKER 0

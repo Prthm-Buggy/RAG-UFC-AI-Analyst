@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McDonald vs. Lineker
+    Date: July 13, 2016
+    Location: Sioux Falls, South Dakota, USA
+    Weight Class: Welterweight
+    
+
+    Result: KEITA NAKAMURA defeated KYLE NOKE via Submission  
+  at 4:59 of round 2
+  Key stats:
+  - KEITA NAKAMURA landed 41 significant strikes
+  - KYLE NOKE landed 44 significant strikes
+  - Knockdowns: KEITA NAKAMURA 1,  KYLE NOKE 0
+  - Takedowns: KEITA NAKAMURA 0,  KYLE NOKE 2

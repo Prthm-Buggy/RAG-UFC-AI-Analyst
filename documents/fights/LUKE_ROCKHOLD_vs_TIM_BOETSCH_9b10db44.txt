@@ -1,0 +1,13 @@
+Event: UFC 172: Jones vs Teixeira
+    Date: April 26, 2014
+    Location: Baltimore, Maryland, USA
+    Weight Class: Middleweight
+    
+
+    Result: LUKE ROCKHOLD defeated TIM BOETSCH via Submission  
+  at 2:08 of round 1
+  Key stats:
+  - LUKE ROCKHOLD landed 4 significant strikes
+  - TIM BOETSCH landed 1 significant strikes
+  - Knockdowns: LUKE ROCKHOLD 0,  TIM BOETSCH 0
+  - Takedowns: LUKE ROCKHOLD 0,  TIM BOETSCH 0

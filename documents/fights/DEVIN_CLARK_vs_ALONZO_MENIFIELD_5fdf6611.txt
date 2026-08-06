@@ -1,0 +1,13 @@
+Event: UFC 250: Nunes vs. Spencer
+    Date: June 06, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DEVIN CLARK defeated ALONZO MENIFIELD via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DEVIN CLARK landed 79 significant strikes
+  - ALONZO MENIFIELD landed 39 significant strikes
+  - Knockdowns: DEVIN CLARK 0,  ALONZO MENIFIELD 0
+  - Takedowns: DEVIN CLARK 1,  ALONZO MENIFIELD 0

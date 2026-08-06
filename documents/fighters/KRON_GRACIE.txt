@@ -1,0 +1,11 @@
+Fighter: KRON GRACIE
+  Date of Birth: 1988-07-11
+  Career record: 4
+  First fight: 2019-02-17
+  Last fight: 2024-12-07
+
+Career Statistics:
+- Significant Strikes Landed :126
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :2

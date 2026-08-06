@@ -1,0 +1,18 @@
+Event : The Ultimate Fighter: Team Carwin vs. Team Nelson Finale
+    Date : December 15, 2012
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Featherweight, Welterweight, Lightweight, Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - TIM ELLIOTT def. JARED PAPAZIAN via Decision - Unanimous(R3)
+- RUSTAM KHABILOV def. VINC PICHEL via KO/TKO(R1)
+- MIKE PYLE def. JAMES HEAD via KO/TKO(R1)
+- ROY NELSON def. MATT MITRIONE via KO/TKO(R1)
+- DUSTIN POIRIER def. JONATHAN BROOKINS via Submission(R1)
+- JOHNNY BEDFORD def. MARCOS VINICIUS via KO/TKO(R2)
+- COLTON SMITH def. MIKE RICCI via Decision - Unanimous(R3)
+- TJ WALDBURGER def. NICK CATONE via Submission(R2)
+- HUGO VIANA def. REUBEN DURAN via KO/TKO(R1)
+- MIKE RIO def. JOHN COFER via Submission(R3)
+- PAT BARRY def. SHANE DEL ROSARIO via KO/TKO(R2)

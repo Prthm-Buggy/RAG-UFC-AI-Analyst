@@ -1,0 +1,13 @@
+Event: UFC 325: Volkanovski vs. Lopes 2
+    Date: January 31, 2026
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Lightweight
+    
+
+    Result: BENOIT SAINT DENIS defeated DAN HOOKER via KO/TKO  
+  at 4:45 of round 2
+  Key stats:
+  - BENOIT SAINT DENIS landed 97 significant strikes
+  - DAN HOOKER landed 30 significant strikes
+  - Knockdowns: BENOIT SAINT DENIS 0,  DAN HOOKER 0
+  - Takedowns: BENOIT SAINT DENIS 2,  DAN HOOKER 0

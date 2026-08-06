@@ -1,0 +1,11 @@
+Fighter: XIAO LONG
+  Date of Birth: 1998-04-13
+  Career record: 4
+  First fight: 2024-06-22
+  Last fight: 2026-03-07
+
+Career Statistics:
+- Significant Strikes Landed :282
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

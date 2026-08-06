@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lineker vs. Dodson
+    Date: October 01, 2016
+    Location: Portland, Oregon, USA
+    Weight Class: Middleweight
+    
+
+    Result: NATE MARQUARDT defeated TAMDAN MCCRORY via KO/TKO  
+  at 4:44 of round 2
+  Key stats:
+  - NATE MARQUARDT landed 24 significant strikes
+  - TAMDAN MCCRORY landed 16 significant strikes
+  - Knockdowns: NATE MARQUARDT 1,  TAMDAN MCCRORY 0
+  - Takedowns: NATE MARQUARDT 2,  TAMDAN MCCRORY 0
+  Bonus: perf

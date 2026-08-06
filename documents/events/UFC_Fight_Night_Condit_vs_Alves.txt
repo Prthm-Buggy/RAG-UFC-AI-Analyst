@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Condit vs Alves
+    Date : May 30, 2015
+    Location: Goiania, Goias, Brazil
+    Number of Fights: 11
+    Weight Classes: Welterweight, Featherweight, Light Heavyweight, Lightweight, Flyweight, Women's Strawweight
+
+    Fight Results:
+  - CHARLES OLIVEIRA def. NIK LENTZ via Submission(R3)
+- FRANCISCO TRINALDO def. NORMAN PARKE via Decision - Unanimous(R3)
+- TOM BREESE def. LUIZ DUTRA via KO/TKO(R1)
+- NICOLAS DALBY def. ELIZEU ZALESKI DOS SANTOS via Decision - Split(R3)
+- ALEX OLIVEIRA def. KJ NOONS via Submission(R1)
+- DARREN TILL def. WENDELL OLIVEIRA MARQUES via KO/TKO(R2)
+- MIRSAD BEKTIC def. LUCAS MARTINS via KO/TKO(R2)
+- FRANCIMAR BARROSO def. RYAN JIMMO via Decision - Unanimous(R3)
+- JUSSIER FORMIGA def. WILSON REIS via Decision - Unanimous(R3)
+- CARLOS CONDIT def. THIAGO ALVES via TKO - Doctor's Stoppage(R2)
+- JULIANA LIMA def. ERICKA ALMEIDA via Decision - Unanimous(R3)

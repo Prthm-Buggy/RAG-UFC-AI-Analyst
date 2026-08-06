@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gonzaga vs Cro Cop 2
+    Date: April 11, 2015
+    Location: Krakow, Poland
+    Weight Class: Heavyweight
+    
+
+    Result: MIRKO FILIPOVIC defeated GABRIEL GONZAGA via KO/TKO  
+  at 3:30 of round 3
+  Key stats:
+  - MIRKO FILIPOVIC landed 21 significant strikes
+  - GABRIEL GONZAGA landed 19 significant strikes
+  - Knockdowns: MIRKO FILIPOVIC 0,  GABRIEL GONZAGA 0
+  - Takedowns: MIRKO FILIPOVIC 0,  GABRIEL GONZAGA 2
+  Bonus: fight

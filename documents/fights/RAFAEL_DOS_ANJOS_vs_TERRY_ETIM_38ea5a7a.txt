@@ -1,0 +1,14 @@
+Event: UFC 112: Invincible
+    Date: April 10, 2010
+    Location: Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: RAFAEL DOS ANJOS defeated TERRY ETIM via Submission  
+  at 4:30 of round 2
+  Key stats:
+  - RAFAEL DOS ANJOS landed 25 significant strikes
+  - TERRY ETIM landed 7 significant strikes
+  - Knockdowns: RAFAEL DOS ANJOS 0,  TERRY ETIM 0
+  - Takedowns: RAFAEL DOS ANJOS 2,  TERRY ETIM 0
+  Bonus: sub

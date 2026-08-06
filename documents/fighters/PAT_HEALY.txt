@@ -1,0 +1,11 @@
+Fighter: PAT HEALY
+  Date of Birth: 1983-07-20
+  Career record: 5
+  First fight: 2006-08-17
+  Last fight: 2014-07-16
+
+Career Statistics:
+- Significant Strikes Landed :202
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

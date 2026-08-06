@@ -1,0 +1,13 @@
+Event: UFC 201: Lawler vs. Woodley
+    Date: July 30, 2016
+    Location: Atlanta, Georgia, USA
+    Weight Class: Flyweight
+    
+
+    Result: RYAN BENOIT defeated FREDY SERRANO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - RYAN BENOIT landed 31 significant strikes
+  - FREDY SERRANO landed 22 significant strikes
+  - Knockdowns: RYAN BENOIT 1,  FREDY SERRANO 0
+  - Takedowns: RYAN BENOIT 0,  FREDY SERRANO 5

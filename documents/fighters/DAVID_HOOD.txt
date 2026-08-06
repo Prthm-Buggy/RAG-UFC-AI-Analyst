@@ -1,0 +1,11 @@
+Fighter: DAVID HOOD
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 1995-09-08
+  Last fight: 1995-09-08
+
+Career Statistics:
+- Significant Strikes Landed :2
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

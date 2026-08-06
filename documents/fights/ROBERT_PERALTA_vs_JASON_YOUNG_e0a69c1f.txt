@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Struve vs Miocic
+    Date: September 29, 2012
+    Location: Nottingham, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: ROBERT PERALTA defeated JASON YOUNG via KO/TKO  
+  at 0:23 of round 1
+  Key stats:
+  - ROBERT PERALTA landed 7 significant strikes
+  - JASON YOUNG landed 2 significant strikes
+  - Knockdowns: ROBERT PERALTA 1,  JASON YOUNG 0
+  - Takedowns: ROBERT PERALTA 0,  JASON YOUNG 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs. Ponzinibbio
+    Date: November 17, 2018
+    Location: Buenos Aires, Buenos Aires, Argentina
+    Weight Class: Bantamweight
+    
+
+    Result: MARLON VERA defeated GUIDO CANNETTI via Submission  
+  at 1:31 of round 2
+  Key stats:
+  - MARLON VERA landed 24 significant strikes
+  - GUIDO CANNETTI landed 24 significant strikes
+  - Knockdowns: MARLON VERA 1,  GUIDO CANNETTI 0
+  - Takedowns: MARLON VERA 2,  GUIDO CANNETTI 2

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Munhoz vs. Edgar
+    Date: August 22, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE SOLECKI defeated AUSTIN HUBBARD via Submission  
+  at 3:51 of round 1
+  Key stats:
+  - JOE SOLECKI landed 13 significant strikes
+  - AUSTIN HUBBARD landed 9 significant strikes
+  - Knockdowns: JOE SOLECKI 0,  AUSTIN HUBBARD 0
+  - Takedowns: JOE SOLECKI 0,  AUSTIN HUBBARD 0

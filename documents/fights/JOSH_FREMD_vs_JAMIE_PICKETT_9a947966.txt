@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Luque vs. Dos Anjos
+    Date: August 12, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOSH FREMD defeated JAMIE PICKETT via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOSH FREMD landed 31 significant strikes
+  - JAMIE PICKETT landed 14 significant strikes
+  - Knockdowns: JOSH FREMD 0,  JAMIE PICKETT 0
+  - Takedowns: JOSH FREMD 0,  JAMIE PICKETT 2

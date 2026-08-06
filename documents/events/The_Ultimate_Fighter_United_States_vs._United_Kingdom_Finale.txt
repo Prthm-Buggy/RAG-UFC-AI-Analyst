@@ -1,0 +1,17 @@
+Event : The Ultimate Fighter: United States vs. United Kingdom Finale
+    Date : June 20, 2009
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Lightweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - TOMASZ DRWAL def. MIKE CIESNOLEVICZ via KO/TKO(R1)
+- ROSS PEARSON def. ANDRE WINNER via Decision - Unanimous(R3)
+- DIEGO SANCHEZ def. CLAY GUIDA via Decision - Split(R3)
+- CHRIS LYTLE def. KEVIN BURNS via Decision - Unanimous(R3)
+- JAMES WILKS def. DAMARQUES JOHNSON via Submission(R1)
+- BRAD BLACKBURN def. EDGAR GARCIA via Decision - Split(R3)
+- MELVIN GUILLARD def. GLEISON TIBAU via Decision - Split(R3)
+- JOE STEVENSON def. NATE DIAZ via Decision - Unanimous(R3)
+- JASON DENT def. CAMERON DOLLAR via Submission(R1)
+- NICK OSIPCZAK def. FRANK LESTER via Submission(R1)

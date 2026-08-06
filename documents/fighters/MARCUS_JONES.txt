@@ -1,0 +1,11 @@
+Fighter: MARCUS JONES
+  Date of Birth: 1973-08-15
+  Career record: 1
+  First fight: 2009-12-05
+  Last fight: 2009-12-05
+
+Career Statistics:
+- Significant Strikes Landed :10
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

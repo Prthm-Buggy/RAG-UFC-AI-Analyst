@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Grasso vs. Araujo
+    Date: October 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: PETE RODRIGUEZ defeated MIKE JACKSON via KO/TKO  
+  at 1:33 of round 1
+  Key stats:
+  - PETE RODRIGUEZ landed 22 significant strikes
+  - MIKE JACKSON landed 10 significant strikes
+  - Knockdowns: PETE RODRIGUEZ 1,  MIKE JACKSON 0
+  - Takedowns: PETE RODRIGUEZ 0,  MIKE JACKSON 0

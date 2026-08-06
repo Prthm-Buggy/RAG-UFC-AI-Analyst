@@ -1,0 +1,13 @@
+Event: UFC 24: First Defense
+    Date: March 10, 2000
+    Location: Lake Charles, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: LANCE GIBSON defeated JERMAINE ANDRE via KO/TKO  
+  at 3:35 of round 3
+  Key stats:
+  - LANCE GIBSON landed 33 significant strikes
+  - JERMAINE ANDRE landed 27 significant strikes
+  - Knockdowns: LANCE GIBSON 1,  JERMAINE ANDRE 1
+  - Takedowns: LANCE GIBSON 2,  JERMAINE ANDRE 0

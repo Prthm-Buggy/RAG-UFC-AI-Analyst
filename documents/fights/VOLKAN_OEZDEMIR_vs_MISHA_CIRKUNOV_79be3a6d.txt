@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gustafsson vs. Teixeira
+    Date: May 28, 2017
+    Location: Stockholm, Sweden
+    Weight Class: Light Heavyweight
+    
+
+    Result: VOLKAN OEZDEMIR defeated MISHA CIRKUNOV via KO/TKO  
+  at 0:28 of round 1
+  Key stats:
+  - VOLKAN OEZDEMIR landed 5 significant strikes
+  - MISHA CIRKUNOV landed 9 significant strikes
+  - Knockdowns: VOLKAN OEZDEMIR 1,  MISHA CIRKUNOV 0
+  - Takedowns: VOLKAN OEZDEMIR 0,  MISHA CIRKUNOV 0

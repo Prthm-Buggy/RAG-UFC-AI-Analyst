@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Holm vs. Vieira
+    Date : May 21, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Women's Bantamweight, Welterweight, Middleweight, Women's Strawweight, Lightweight, Featherweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - JAILTON ALMEIDA def. PARKER PORTER via Submission(R1)
+- SAM HUGHES def. ELISE REED via KO/TKO(R3)
+- MICHEL PEREIRA def. SANTIAGO PONZINIBBIO via Decision - Split(R3)
+- JUNYONG PARK def. ERYK ANDERS via Decision - Split(R3)
+- TABATHA RICCI def. POLYANA VIANA via Decision - Unanimous(R3)
+- UROS MEDIC def. OMAR MORALES via KO/TKO(R2)
+- JOSEPH HOLMES def. ALEN AMEDOVSKI via Submission(R1)
+- JONATHAN MARTINEZ def. VINCE MORALES via Decision - Unanimous(R3)
+- CHIDI NJOKUANI def. DUSKO TODOROVIC via KO/TKO(R1)
+- KETLEN VIEIRA def. HOLLY HOLM via Decision - Split(R5)
+- CHASE HOOPER def. FELIPE COLARES via KO/TKO(R3)

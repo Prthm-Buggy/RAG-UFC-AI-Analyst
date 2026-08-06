@@ -1,0 +1,14 @@
+Event: UFC 263: Adesanya vs. Vettori 2
+    Date: June 12, 2021
+    Location: Glendale, Arizona, USA
+    Weight Class: Middleweight
+    
+
+    Result: ISRAEL ADESANYA defeated MARVIN VETTORI via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ISRAEL ADESANYA landed 96 significant strikes
+  - MARVIN VETTORI landed 58 significant strikes
+  - Knockdowns: ISRAEL ADESANYA 0,  MARVIN VETTORI 0
+  - Takedowns: ISRAEL ADESANYA 0,  MARVIN VETTORI 4
+  Bonus: belt

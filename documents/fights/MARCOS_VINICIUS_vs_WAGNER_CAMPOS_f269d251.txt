@@ -1,0 +1,14 @@
+Event: UFC 147: Silva vs Franklin 2
+    Date: June 23, 2012
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: MARCOS VINICIUS defeated WAGNER CAMPOS via KO/TKO  
+  at 1:04 of round 3
+  Key stats:
+  - MARCOS VINICIUS landed 28 significant strikes
+  - WAGNER CAMPOS landed 17 significant strikes
+  - Knockdowns: MARCOS VINICIUS 0,  WAGNER CAMPOS 0
+  - Takedowns: MARCOS VINICIUS 0,  WAGNER CAMPOS 2
+  Bonus: ko

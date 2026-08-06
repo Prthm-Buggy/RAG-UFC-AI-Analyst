@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Lauzon
+    Date: April 02, 2008
+    Location: Broomfield, Colorado, USA
+    Weight Class: Welterweight
+    
+
+    Result: THIAGO ALVES defeated KARO PARISYAN via KO/TKO  
+  at 0:24 of round 2
+  Key stats:
+  - THIAGO ALVES landed 17 significant strikes
+  - KARO PARISYAN landed 10 significant strikes
+  - Knockdowns: THIAGO ALVES 1,  KARO PARISYAN 0
+  - Takedowns: THIAGO ALVES 0,  KARO PARISYAN 1

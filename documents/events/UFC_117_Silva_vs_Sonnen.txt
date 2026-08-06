@@ -1,0 +1,18 @@
+Event : UFC 117: Silva vs Sonnen
+    Date : August 07, 2010
+    Location: Oakland, California, USA
+    Number of Fights: 11
+    Weight Classes: Welterweight, Middleweight, Light Heavyweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - RICK STORY def. DUSTIN HAZELETT via KO/TKO(R2)
+- PHIL DAVIS def. RODNEY WALLACE via Decision - Unanimous(R3)
+- TIM BOETSCH def. TODD BROWN via Decision - Unanimous(R3)
+- STEFAN STRUVE def. CHRISTIAN MORECRAFT via KO/TKO(R2)
+- CLAY GUIDA def. RAFAEL DOS ANJOS via Submission(R3)
+- JOHNY HENDRICKS def. CHARLIE BRENNEMAN via KO/TKO(R2)
+- ANDERSON SILVA def. CHAEL SONNEN via Submission(R5)
+- DENNIS HALLMAN def. BEN SAUNDERS via Decision - Unanimous(R3)
+- MATT HUGHES def. RICARDO ALMEIDA via Submission(R1)
+- JUNIOR DOS SANTOS def. ROY NELSON via Decision - Unanimous(R3)
+- JON FITCH def. THIAGO ALVES via Decision - Unanimous(R3)

@@ -1,0 +1,14 @@
+Event: UFC 188: Velasquez vs Werdum
+    Date: June 13, 2015
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Bantamweight
+    
+
+    Result: PATRICK WILLIAMS defeated ALEJANDRO PEREZ via Submission  
+  at 0:23 of round 1
+  Key stats:
+  - PATRICK WILLIAMS landed 2 significant strikes
+  - ALEJANDRO PEREZ landed 0 significant strikes
+  - Knockdowns: PATRICK WILLIAMS 1,  ALEJANDRO PEREZ 0
+  - Takedowns: PATRICK WILLIAMS 0,  ALEJANDRO PEREZ 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: TATEKI MATSUDA
+  Date of Birth: 1986-02-27
+  Career record: 2
+  First fight: 2014-09-05
+  Last fight: 2015-01-18
+
+Career Statistics:
+- Significant Strikes Landed :96
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

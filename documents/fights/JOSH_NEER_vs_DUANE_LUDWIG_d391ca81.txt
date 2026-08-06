@@ -1,0 +1,13 @@
+Event: UFC on FX: Guillard vs Miller
+    Date: January 20, 2012
+    Location: Nashville, Tennessee, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSH NEER defeated DUANE LUDWIG via Submission  
+  at 3:04 of round 1
+  Key stats:
+  - JOSH NEER landed 5 significant strikes
+  - DUANE LUDWIG landed 24 significant strikes
+  - Knockdowns: JOSH NEER 0,  DUANE LUDWIG 0
+  - Takedowns: JOSH NEER 1,  DUANE LUDWIG 0

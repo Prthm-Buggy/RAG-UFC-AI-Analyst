@@ -1,0 +1,11 @@
+Fighter: RONDA ROUSEY
+  Date of Birth: 1987-02-01
+  Career record: 8
+  First fight: 2013-02-23
+  Last fight: 2016-12-30
+
+Career Statistics:
+- Significant Strikes Landed :118
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :5

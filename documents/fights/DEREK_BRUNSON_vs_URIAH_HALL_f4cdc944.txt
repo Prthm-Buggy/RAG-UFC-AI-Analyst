@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Johnson
+    Date: September 17, 2016
+    Location: Hidalgo, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: DEREK BRUNSON defeated URIAH HALL via KO/TKO  
+  at 1:41 of round 1
+  Key stats:
+  - DEREK BRUNSON landed 4 significant strikes
+  - URIAH HALL landed 1 significant strikes
+  - Knockdowns: DEREK BRUNSON 1,  URIAH HALL 0
+  - Takedowns: DEREK BRUNSON 0,  URIAH HALL 0

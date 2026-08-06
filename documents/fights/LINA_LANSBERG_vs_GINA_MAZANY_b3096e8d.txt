@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thompson vs. Till
+    Date: May 27, 2018
+    Location: Liverpool, England, United Kingdom
+    Weight Class: Women's Bantamweight
+    
+
+    Result: LINA LANSBERG defeated GINA MAZANY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LINA LANSBERG landed 40 significant strikes
+  - GINA MAZANY landed 38 significant strikes
+  - Knockdowns: LINA LANSBERG 0,  GINA MAZANY 0
+  - Takedowns: LINA LANSBERG 1,  GINA MAZANY 2

@@ -1,0 +1,11 @@
+Fighter: RAFAEL CERQUEIRA
+  Date of Birth: 1990-03-15
+  Career record: 4
+  First fight: 2024-10-26
+  Last fight: 2025-11-22
+
+Career Statistics:
+- Significant Strikes Landed :29
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

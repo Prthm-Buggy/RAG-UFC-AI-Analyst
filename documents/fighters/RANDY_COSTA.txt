@@ -1,0 +1,11 @@
+Fighter: RANDY COSTA
+  Date of Birth: 1994-07-06
+  Career record: 6
+  First fight: 2019-04-13
+  Last fight: 2022-10-01
+
+Career Statistics:
+- Significant Strikes Landed :174
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :0

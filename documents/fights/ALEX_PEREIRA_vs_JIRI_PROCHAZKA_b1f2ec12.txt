@@ -1,0 +1,14 @@
+Event: UFC 295: Prochazka vs. Pereira
+    Date: November 11, 2023
+    Location: New York City, New York, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEX PEREIRA defeated JIRI PROCHAZKA via KO/TKO  
+  at 4:08 of round 2
+  Key stats:
+  - ALEX PEREIRA landed 38 significant strikes
+  - JIRI PROCHAZKA landed 30 significant strikes
+  - Knockdowns: ALEX PEREIRA 1,  JIRI PROCHAZKA 0
+  - Takedowns: ALEX PEREIRA 0,  JIRI PROCHAZKA 1
+  Bonus: belt

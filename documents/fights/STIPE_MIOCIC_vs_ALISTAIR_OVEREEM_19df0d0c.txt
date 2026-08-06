@@ -1,0 +1,14 @@
+Event: UFC 203: Miocic vs. Overeem
+    Date: September 10, 2016
+    Location: Cleveland, Ohio, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STIPE MIOCIC defeated ALISTAIR OVEREEM via KO/TKO  
+  at 4:27 of round 1
+  Key stats:
+  - STIPE MIOCIC landed 34 significant strikes
+  - ALISTAIR OVEREEM landed 9 significant strikes
+  - Knockdowns: STIPE MIOCIC 0,  ALISTAIR OVEREEM 1
+  - Takedowns: STIPE MIOCIC 1,  ALISTAIR OVEREEM 0
+  Bonus: belt

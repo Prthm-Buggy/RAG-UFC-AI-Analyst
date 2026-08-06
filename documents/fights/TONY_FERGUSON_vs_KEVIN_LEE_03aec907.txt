@@ -1,0 +1,14 @@
+Event: UFC 216: Ferguson vs. Lee
+    Date: October 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TONY FERGUSON defeated KEVIN LEE via Submission  
+  at 4:02 of round 3
+  Key stats:
+  - TONY FERGUSON landed 54 significant strikes
+  - KEVIN LEE landed 55 significant strikes
+  - Knockdowns: TONY FERGUSON 0,  KEVIN LEE 0
+  - Takedowns: TONY FERGUSON 0,  KEVIN LEE 3
+  Bonus: belt

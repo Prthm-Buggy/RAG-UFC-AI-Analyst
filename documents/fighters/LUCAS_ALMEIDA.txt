@@ -1,0 +1,11 @@
+Fighter: LUCAS ALMEIDA
+  Date of Birth: 1991-01-31
+  Career record: 6
+  First fight: 2022-06-04
+  Last fight: 2025-10-11
+
+Career Statistics:
+- Significant Strikes Landed :240
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :0

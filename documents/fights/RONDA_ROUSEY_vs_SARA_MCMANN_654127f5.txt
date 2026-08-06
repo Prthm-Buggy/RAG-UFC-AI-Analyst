@@ -1,0 +1,14 @@
+Event: UFC 170: Rousey vs McMann
+    Date: February 22, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: RONDA ROUSEY defeated SARA MCMANN via KO/TKO  
+  at 1:06 of round 1
+  Key stats:
+  - RONDA ROUSEY landed 14 significant strikes
+  - SARA MCMANN landed 13 significant strikes
+  - Knockdowns: RONDA ROUSEY 1,  SARA MCMANN 0
+  - Takedowns: RONDA ROUSEY 0,  SARA MCMANN 0
+  Bonus: belt

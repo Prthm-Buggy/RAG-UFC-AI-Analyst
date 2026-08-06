@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Hughes vs. Team Serra Finale
+    Date: December 08, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ROGER HUERTA defeated CLAY GUIDA via Submission  
+  at 0:51 of round 3
+  Key stats:
+  - ROGER HUERTA landed 31 significant strikes
+  - CLAY GUIDA landed 47 significant strikes
+  - Knockdowns: ROGER HUERTA 0,  CLAY GUIDA 1
+  - Takedowns: ROGER HUERTA 0,  CLAY GUIDA 6
+  Bonus: fight

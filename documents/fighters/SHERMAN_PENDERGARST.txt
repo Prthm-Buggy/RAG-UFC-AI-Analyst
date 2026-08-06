@@ -1,0 +1,11 @@
+Fighter: SHERMAN PENDERGARST
+  Date of Birth: 1967-08-01
+  Career record: 1
+  First fight: 2006-11-18
+  Last fight: 2006-11-18
+
+Career Statistics:
+- Significant Strikes Landed :4
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

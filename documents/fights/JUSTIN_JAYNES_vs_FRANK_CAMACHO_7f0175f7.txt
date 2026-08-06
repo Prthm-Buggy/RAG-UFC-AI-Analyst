@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blaydes vs. Volkov
+    Date: June 20, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JUSTIN JAYNES defeated FRANK CAMACHO via KO/TKO  
+  at 0:41 of round 1
+  Key stats:
+  - JUSTIN JAYNES landed 16 significant strikes
+  - FRANK CAMACHO landed 4 significant strikes
+  - Knockdowns: JUSTIN JAYNES 1,  FRANK CAMACHO 0
+  - Takedowns: JUSTIN JAYNES 0,  FRANK CAMACHO 0
+  Bonus: perf

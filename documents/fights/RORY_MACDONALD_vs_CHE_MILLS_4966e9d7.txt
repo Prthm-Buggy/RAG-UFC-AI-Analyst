@@ -1,0 +1,13 @@
+Event: UFC 145: Jones vs Evans
+    Date: April 21, 2012
+    Location: Atlanta, Georgia, USA
+    Weight Class: Welterweight
+    
+
+    Result: RORY MACDONALD defeated CHE MILLS via KO/TKO  
+  at 2:20 of round 2
+  Key stats:
+  - RORY MACDONALD landed 47 significant strikes
+  - CHE MILLS landed 6 significant strikes
+  - Knockdowns: RORY MACDONALD 0,  CHE MILLS 0
+  - Takedowns: RORY MACDONALD 2,  CHE MILLS 0

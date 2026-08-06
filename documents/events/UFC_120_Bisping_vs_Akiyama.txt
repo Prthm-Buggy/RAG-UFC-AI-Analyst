@@ -1,0 +1,16 @@
+Event : UFC 120: Bisping vs Akiyama
+    Date : October 16, 2010
+    Location: London, England, United Kingdom
+    Number of Fights: 9
+    Weight Classes: Heavyweight, Middleweight, Welterweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - MIKE PYLE def. JOHN HATHAWAY via Decision - Unanimous(R3)
+- MICHAEL BISPING def. YOSHIHIRO AKIYAMA via Decision - Unanimous(R3)
+- CARLOS CONDIT def. DAN HARDY via KO/TKO(R1)
+- CLAUDE PATRICK def. JAMES WILKS via Decision - Unanimous(R3)
+- FABIO MALDONADO def. JAMES MCSWEENEY via KO/TKO(R3)
+- ALEXANDER GUSTAFSSON def. CYRILLE DIABATE via Submission(R2)
+- PAUL SASS def. MARK HOLST via Submission(R1)
+- ROB BROUGHTON def. VINICIUS QUEIROZ via Submission(R3)
+- SPENCER FISHER def. CURT WARBURTON via Decision - Unanimous(R3)

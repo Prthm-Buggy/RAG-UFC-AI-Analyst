@@ -1,0 +1,11 @@
+Fighter: TAKEYA MIZUGAKI
+  Date of Birth: 1983-12-16
+  Career record: 14
+  First fight: 2011-03-03
+  Last fight: 2016-12-17
+
+Career Statistics:
+- Significant Strikes Landed :613
+- Total takedowns landed :16
+- Knockdowns :3
+- Submission Attempts :1

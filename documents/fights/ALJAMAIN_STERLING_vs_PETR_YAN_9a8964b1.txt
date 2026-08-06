@@ -1,0 +1,14 @@
+Event: UFC 273: Volkanovski vs. The Korean Zombie
+    Date: April 09, 2022
+    Location: Jacksonville, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALJAMAIN STERLING defeated PETR YAN via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - ALJAMAIN STERLING landed 62 significant strikes
+  - PETR YAN landed 63 significant strikes
+  - Knockdowns: ALJAMAIN STERLING 0,  PETR YAN 0
+  - Takedowns: ALJAMAIN STERLING 2,  PETR YAN 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Nurmagomedov
+    Date: August 03, 2024
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Welterweight
+    
+
+    Result: MICHAEL CHIESA defeated TONY FERGUSON via Submission  
+  at 3:44 of round 1
+  Key stats:
+  - MICHAEL CHIESA landed 4 significant strikes
+  - TONY FERGUSON landed 10 significant strikes
+  - Knockdowns: MICHAEL CHIESA 0,  TONY FERGUSON 0
+  - Takedowns: MICHAEL CHIESA 1,  TONY FERGUSON 0

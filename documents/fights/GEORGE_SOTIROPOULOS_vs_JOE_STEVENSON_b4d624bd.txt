@@ -1,0 +1,14 @@
+Event: UFC 110: Nogueira vs Velasquez
+    Date: February 20, 2010
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Lightweight
+    
+
+    Result: GEORGE SOTIROPOULOS defeated JOE STEVENSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - GEORGE SOTIROPOULOS landed 20 significant strikes
+  - JOE STEVENSON landed 7 significant strikes
+  - Knockdowns: GEORGE SOTIROPOULOS 0,  JOE STEVENSON 0
+  - Takedowns: GEORGE SOTIROPOULOS 2,  JOE STEVENSON 3
+  Bonus: fight

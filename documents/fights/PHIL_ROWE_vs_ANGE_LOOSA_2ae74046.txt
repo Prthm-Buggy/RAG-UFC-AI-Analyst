@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Usman vs. Buckley
+    Date: June 14, 2025
+    Location: Atlanta, Georgia, USA
+    Weight Class: Welterweight
+    
+
+    Result: PHIL ROWE defeated ANGE LOOSA via KO/TKO  
+  at 4:03 of round 3
+  Key stats:
+  - PHIL ROWE landed 85 significant strikes
+  - ANGE LOOSA landed 65 significant strikes
+  - Knockdowns: PHIL ROWE 1,  ANGE LOOSA 1
+  - Takedowns: PHIL ROWE 0,  ANGE LOOSA 3

@@ -1,0 +1,11 @@
+Fighter: BRANDON ROYVAL
+  Date of Birth: 1992-08-16
+  Career record: 12
+  First fight: 2020-05-30
+  Last fight: 2025-12-13
+
+Career Statistics:
+- Significant Strikes Landed :768
+- Total takedowns landed :6
+- Knockdowns :3
+- Submission Attempts :10

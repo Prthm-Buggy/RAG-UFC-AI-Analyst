@@ -1,0 +1,14 @@
+Event: UFC 121: Lesnar vs Velasquez
+    Date: October 23, 2010
+    Location: Anaheim, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: DANIEL ROBERTS defeated MIKE GUYMON via Submission  
+  at 1:13 of round 1
+  Key stats:
+  - DANIEL ROBERTS landed 2 significant strikes
+  - MIKE GUYMON landed 0 significant strikes
+  - Knockdowns: DANIEL ROBERTS 0,  MIKE GUYMON 0
+  - Takedowns: DANIEL ROBERTS 1,  MIKE GUYMON 0
+  Bonus: sub

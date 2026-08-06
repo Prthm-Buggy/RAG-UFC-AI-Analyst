@@ -1,0 +1,14 @@
+Event: UFC 242: Khabib vs. Poirier
+    Date: September 07, 2019
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: KHABIB NURMAGOMEDOV defeated DUSTIN POIRIER via Submission  
+  at 2:06 of round 3
+  Key stats:
+  - KHABIB NURMAGOMEDOV landed 22 significant strikes
+  - DUSTIN POIRIER landed 12 significant strikes
+  - Knockdowns: KHABIB NURMAGOMEDOV 0,  DUSTIN POIRIER 0
+  - Takedowns: KHABIB NURMAGOMEDOV 7,  DUSTIN POIRIER 0
+  Bonus: belt

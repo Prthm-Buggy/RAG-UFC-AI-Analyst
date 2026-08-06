@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moreno vs. Albazi
+    Date: November 02, 2024
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Featherweight
+    
+
+    Result: YOUSSEF ZALAL defeated JACK SHORE via Submission  
+  at 0:59 of round 2
+  Key stats:
+  - YOUSSEF ZALAL landed 13 significant strikes
+  - JACK SHORE landed 8 significant strikes
+  - Knockdowns: YOUSSEF ZALAL 1,  JACK SHORE 0
+  - Takedowns: YOUSSEF ZALAL 1,  JACK SHORE 2
+  Bonus: perf

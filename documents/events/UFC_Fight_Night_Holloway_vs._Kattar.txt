@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Holloway vs. Kattar
+    Date : January 16, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Featherweight, Welterweight, Middleweight, Women's Bantamweight
+
+    Fight Results:
+  - JOSELYNE EDWARDS def. WU YANAN via Decision - Unanimous(R3)
+- MAX HOLLOWAY def. CALVIN KATTAR via Decision - Unanimous(R5)
+- CARLOS FELIPE def. JUSTIN TAFA via Decision - Split(R3)
+- AUSTIN LINGO def. JACOB KILBURN via Decision - Unanimous(R3)
+- PUNAHELE SORIANO def. DUSKO TODOROVIC via KO/TKO(R1)
+- ALESSIO DI CHIRICO def. JOAQUIN BUCKLEY via KO/TKO(R1)
+- RAMAZAN EMEEV def. DAVID ZAWADA via Decision - Split(R3)
+- VANESSA MELO def. SARAH MORAS via Decision - Unanimous(R3)
+- LI JINGLIANG def. SANTIAGO PONZINIBBIO via KO/TKO(R1)
+- CARLOS CONDIT def. MATT BROWN via Decision - Unanimous(R3)

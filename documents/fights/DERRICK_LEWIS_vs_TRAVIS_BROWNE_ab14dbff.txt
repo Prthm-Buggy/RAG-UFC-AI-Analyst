@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Browne
+    Date: February 19, 2017
+    Location: Halifax, Nova Scotia, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated TRAVIS BROWNE via KO/TKO  
+  at 3:12 of round 2
+  Key stats:
+  - DERRICK LEWIS landed 39 significant strikes
+  - TRAVIS BROWNE landed 21 significant strikes
+  - Knockdowns: DERRICK LEWIS 1,  TRAVIS BROWNE 0
+  - Takedowns: DERRICK LEWIS 0,  TRAVIS BROWNE 0
+  Bonus: fight

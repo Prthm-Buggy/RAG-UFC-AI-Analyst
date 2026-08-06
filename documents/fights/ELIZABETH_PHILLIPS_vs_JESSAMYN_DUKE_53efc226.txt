@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dillashaw vs. Barao II
+    Date: July 25, 2015
+    Location: Chicago, Illinois, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: ELIZABETH PHILLIPS defeated JESSAMYN DUKE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ELIZABETH PHILLIPS landed 49 significant strikes
+  - JESSAMYN DUKE landed 36 significant strikes
+  - Knockdowns: ELIZABETH PHILLIPS 0,  JESSAMYN DUKE 0
+  - Takedowns: ELIZABETH PHILLIPS 2,  JESSAMYN DUKE 2

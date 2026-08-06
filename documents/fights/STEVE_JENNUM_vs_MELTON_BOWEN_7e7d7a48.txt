@@ -1,0 +1,13 @@
+Event: UFC 4: Revenge of the Warriors
+    Date: December 16, 1994
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Open Weight
+    
+
+    Result: STEVE JENNUM defeated MELTON BOWEN via Submission  
+  at 4:47 of round 1
+  Key stats:
+  - STEVE JENNUM landed 13 significant strikes
+  - MELTON BOWEN landed 1 significant strikes
+  - Knockdowns: STEVE JENNUM 0,  MELTON BOWEN 0
+  - Takedowns: STEVE JENNUM 2,  MELTON BOWEN 0

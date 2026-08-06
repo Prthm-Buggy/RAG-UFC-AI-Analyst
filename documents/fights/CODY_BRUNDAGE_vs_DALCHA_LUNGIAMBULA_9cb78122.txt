@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Santos vs. Ankalaev
+    Date: March 12, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CODY BRUNDAGE defeated DALCHA LUNGIAMBULA via Submission  
+  at 3:41 of round 1
+  Key stats:
+  - CODY BRUNDAGE landed 4 significant strikes
+  - DALCHA LUNGIAMBULA landed 29 significant strikes
+  - Knockdowns: CODY BRUNDAGE 0,  DALCHA LUNGIAMBULA 0
+  - Takedowns: CODY BRUNDAGE 1,  DALCHA LUNGIAMBULA 1
+  Bonus: perf

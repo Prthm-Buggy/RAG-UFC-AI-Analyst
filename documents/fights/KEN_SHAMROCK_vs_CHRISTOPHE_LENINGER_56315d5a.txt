@@ -1,0 +1,13 @@
+Event: UFC 3: The American Dream
+    Date: September 09, 1994
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Open Weight
+    
+
+    Result: KEN SHAMROCK defeated CHRISTOPHE LENINGER via KO/TKO  
+  at 4:49 of round 1
+  Key stats:
+  - KEN SHAMROCK landed 8 significant strikes
+  - CHRISTOPHE LENINGER landed 1 significant strikes
+  - Knockdowns: KEN SHAMROCK 0,  CHRISTOPHE LENINGER 0
+  - Takedowns: KEN SHAMROCK 1,  CHRISTOPHE LENINGER 0

@@ -1,0 +1,14 @@
+Event: UFC 57: Liddell vs Couture 3
+    Date: February 04, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CHUCK LIDDELL defeated RANDY COUTURE via KO/TKO  
+  at 1:28 of round 2
+  Key stats:
+  - CHUCK LIDDELL landed 19 significant strikes
+  - RANDY COUTURE landed 7 significant strikes
+  - Knockdowns: CHUCK LIDDELL 1,  RANDY COUTURE 0
+  - Takedowns: CHUCK LIDDELL 0,  RANDY COUTURE 1
+  Bonus: belt

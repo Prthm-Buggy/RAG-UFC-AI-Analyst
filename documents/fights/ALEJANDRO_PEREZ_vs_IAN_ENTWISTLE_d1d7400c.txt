@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rothwell vs Dos Santos
+    Date: April 10, 2016
+    Location: Zagreb, Croatia
+    Weight Class: Bantamweight
+    
+
+    Result: ALEJANDRO PEREZ defeated IAN ENTWISTLE via KO/TKO  
+  at 4:04 of round 1
+  Key stats:
+  - ALEJANDRO PEREZ landed 48 significant strikes
+  - IAN ENTWISTLE landed 0 significant strikes
+  - Knockdowns: ALEJANDRO PEREZ 0,  IAN ENTWISTLE 0
+  - Takedowns: ALEJANDRO PEREZ 0,  IAN ENTWISTLE 0
+  Bonus: perf

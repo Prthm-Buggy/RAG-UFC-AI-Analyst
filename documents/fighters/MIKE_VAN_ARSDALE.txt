@@ -1,0 +1,11 @@
+Fighter: MIKE VAN ARSDALE
+  Date of Birth: 1965-06-20
+  Career record: 4
+  First fight: 1998-05-15
+  Last fight: 2006-02-04
+
+Career Statistics:
+- Significant Strikes Landed :70
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

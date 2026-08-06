@@ -1,0 +1,13 @@
+Event: UFC on FX: Belfort vs Bisping
+    Date: January 19, 2013
+    Location: Sao Paulo, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: EDSON BARBOZA defeated LUCAS MARTINS via KO/TKO  
+  at 2:38 of round 1
+  Key stats:
+  - EDSON BARBOZA landed 26 significant strikes
+  - LUCAS MARTINS landed 12 significant strikes
+  - Knockdowns: EDSON BARBOZA 1,  LUCAS MARTINS 0
+  - Takedowns: EDSON BARBOZA 0,  LUCAS MARTINS 0

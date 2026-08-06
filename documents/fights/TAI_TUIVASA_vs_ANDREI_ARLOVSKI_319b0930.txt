@@ -1,0 +1,13 @@
+Event: UFC 225: Whittaker vs. Romero 2
+    Date: June 09, 2018
+    Location: Chicago, Illinois, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TAI TUIVASA defeated ANDREI ARLOVSKI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TAI TUIVASA landed 54 significant strikes
+  - ANDREI ARLOVSKI landed 51 significant strikes
+  - Knockdowns: TAI TUIVASA 1,  ANDREI ARLOVSKI 0
+  - Takedowns: TAI TUIVASA 0,  ANDREI ARLOVSKI 0

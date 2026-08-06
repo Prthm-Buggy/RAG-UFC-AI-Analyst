@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Whittaker vs. Aliskerov
+    Date: June 22, 2024
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Weight Class: Heavyweight
+    
+
+    Result: ALEXANDER VOLKOV defeated SERGEI PAVLOVICH via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALEXANDER VOLKOV landed 83 significant strikes
+  - SERGEI PAVLOVICH landed 46 significant strikes
+  - Knockdowns: ALEXANDER VOLKOV 0,  SERGEI PAVLOVICH 0
+  - Takedowns: ALEXANDER VOLKOV 0,  SERGEI PAVLOVICH 0

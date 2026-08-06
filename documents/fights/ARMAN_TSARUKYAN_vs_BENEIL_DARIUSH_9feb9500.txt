@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dariush vs. Tsarukyan
+    Date: December 02, 2023
+    Location: Austin, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: ARMAN TSARUKYAN defeated BENEIL DARIUSH via KO/TKO  
+  at 1:04 of round 1
+  Key stats:
+  - ARMAN TSARUKYAN landed 8 significant strikes
+  - BENEIL DARIUSH landed 2 significant strikes
+  - Knockdowns: ARMAN TSARUKYAN 1,  BENEIL DARIUSH 0
+  - Takedowns: ARMAN TSARUKYAN 0,  BENEIL DARIUSH 0
+  Bonus: perf

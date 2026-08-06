@@ -1,0 +1,14 @@
+Event: UFC 144: Edgar vs Henderson
+    Date: February 25, 2012
+    Location: Saitama, Japan
+    Weight Class: Lightweight
+    
+
+    Result: ANTHONY PETTIS defeated JOE LAUZON via KO/TKO  
+  at 1:21 of round 1
+  Key stats:
+  - ANTHONY PETTIS landed 9 significant strikes
+  - JOE LAUZON landed 0 significant strikes
+  - Knockdowns: ANTHONY PETTIS 1,  JOE LAUZON 0
+  - Takedowns: ANTHONY PETTIS 0,  JOE LAUZON 0
+  Bonus: ko

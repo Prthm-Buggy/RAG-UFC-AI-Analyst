@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blanchfield vs. Fiorot
+    Date: March 30, 2024
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHIDI NJOKUANI defeated RHYS MCKEE via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CHIDI NJOKUANI landed 64 significant strikes
+  - RHYS MCKEE landed 30 significant strikes
+  - Knockdowns: CHIDI NJOKUANI 0,  RHYS MCKEE 0
+  - Takedowns: CHIDI NJOKUANI 0,  RHYS MCKEE 0

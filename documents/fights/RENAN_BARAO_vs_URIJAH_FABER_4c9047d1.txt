@@ -1,0 +1,14 @@
+Event: UFC 169: Barao vs Faber 2
+    Date: February 01, 2014
+    Location: Newark, New Jersey, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RENAN BARAO defeated URIJAH FABER via KO/TKO  
+  at 3:42 of round 1
+  Key stats:
+  - RENAN BARAO landed 17 significant strikes
+  - URIJAH FABER landed 8 significant strikes
+  - Knockdowns: RENAN BARAO 1,  URIJAH FABER 0
+  - Takedowns: RENAN BARAO 0,  URIJAH FABER 0
+  Bonus: belt

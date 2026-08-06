@@ -1,0 +1,13 @@
+Event: UFC 31: Locked and Loaded
+    Date: May 04, 2001
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SEMMY SCHILT defeated PETE WILLIAMS via KO/TKO  
+  at 1:28 of round 2
+  Key stats:
+  - SEMMY SCHILT landed 15 significant strikes
+  - PETE WILLIAMS landed 6 significant strikes
+  - Knockdowns: SEMMY SCHILT 2,  PETE WILLIAMS 0
+  - Takedowns: SEMMY SCHILT 0,  PETE WILLIAMS 1

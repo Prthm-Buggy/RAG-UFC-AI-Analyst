@@ -1,0 +1,11 @@
+Fighter: BRAD GUMM
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 2000-03-10
+  Last fight: 2000-03-10
+
+Career Statistics:
+- Significant Strikes Landed :12
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: UFC 82: Pride of a Champion
+    Date: March 01, 2008
+    Location: Columbus, Ohio, USA
+    Weight Class: Welterweight
+    
+
+    Result: LUIGI FIORAVANTI defeated LUKE CUMMO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LUIGI FIORAVANTI landed 32 significant strikes
+  - LUKE CUMMO landed 16 significant strikes
+  - Knockdowns: LUIGI FIORAVANTI 0,  LUKE CUMMO 0
+  - Takedowns: LUIGI FIORAVANTI 13,  LUKE CUMMO 0

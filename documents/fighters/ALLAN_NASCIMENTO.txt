@@ -1,0 +1,11 @@
+Fighter: ALLAN NASCIMENTO
+  Date of Birth: 1991-09-11
+  Career record: 6
+  First fight: 2021-10-30
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :172
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :5

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs. Anders
+    Date: February 03, 2018
+    Location: Belem, Para, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: LYOTO MACHIDA defeated ERYK ANDERS via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - LYOTO MACHIDA landed 62 significant strikes
+  - ERYK ANDERS landed 32 significant strikes
+  - Knockdowns: LYOTO MACHIDA 0,  ERYK ANDERS 0
+  - Takedowns: LYOTO MACHIDA 0,  ERYK ANDERS 3

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Gastelum
+    Date: August 21, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: ALEXANDRE PANTOJA defeated BRANDON ROYVAL via Submission  
+  at 1:46 of round 2
+  Key stats:
+  - ALEXANDRE PANTOJA landed 22 significant strikes
+  - BRANDON ROYVAL landed 17 significant strikes
+  - Knockdowns: ALEXANDRE PANTOJA 0,  BRANDON ROYVAL 0
+  - Takedowns: ALEXANDRE PANTOJA 3,  BRANDON ROYVAL 1
+  Bonus: perf

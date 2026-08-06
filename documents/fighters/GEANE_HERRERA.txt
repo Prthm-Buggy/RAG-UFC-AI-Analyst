@@ -1,0 +1,11 @@
+Fighter: GEANE HERRERA
+  Date of Birth: 1990-05-27
+  Career record: 4
+  First fight: 2015-08-08
+  Last fight: 2016-11-26
+
+Career Statistics:
+- Significant Strikes Landed :82
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :2

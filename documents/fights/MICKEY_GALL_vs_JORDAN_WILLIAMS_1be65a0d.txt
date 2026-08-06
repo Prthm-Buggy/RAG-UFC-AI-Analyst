@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Dillashaw
+    Date: July 24, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICKEY GALL defeated JORDAN WILLIAMS via Submission  
+  at 2:57 of round 1
+  Key stats:
+  - MICKEY GALL landed 11 significant strikes
+  - JORDAN WILLIAMS landed 13 significant strikes
+  - Knockdowns: MICKEY GALL 0,  JORDAN WILLIAMS 0
+  - Takedowns: MICKEY GALL 1,  JORDAN WILLIAMS 1

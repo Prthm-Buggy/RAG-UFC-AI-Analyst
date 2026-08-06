@@ -1,0 +1,13 @@
+Event: UFC 40: Vendetta
+    Date: November 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated IAN FREEMAN via KO/TKO  
+  at 1:18 of round 1
+  Key stats:
+  - ANDREI ARLOVSKI landed 14 significant strikes
+  - IAN FREEMAN landed 1 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 1,  IAN FREEMAN 0
+  - Takedowns: ANDREI ARLOVSKI 0,  IAN FREEMAN 0

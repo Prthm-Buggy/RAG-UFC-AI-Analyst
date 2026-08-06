@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs Philippou
+    Date: January 15, 2014
+    Location: Duluth, Georgia, USA
+    Weight Class: Lightweight
+    
+
+    Result: VINC PICHEL defeated GARETT WHITELEY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - VINC PICHEL landed 44 significant strikes
+  - GARETT WHITELEY landed 44 significant strikes
+  - Knockdowns: VINC PICHEL 0,  GARETT WHITELEY 0
+  - Takedowns: VINC PICHEL 8,  GARETT WHITELEY 0

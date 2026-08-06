@@ -1,0 +1,11 @@
+Fighter: ASHKAN MOKHTARIAN
+  Date of Birth: 1985-09-15
+  Career record: 2
+  First fight: 2017-06-10
+  Last fight: 2017-11-18
+
+Career Statistics:
+- Significant Strikes Landed :54
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Stevenson vs Guillard
+    Date: April 05, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: KURT PELLEGRINO defeated NATE MOHR via Submission  
+  at 2:58 of round 1
+  Key stats:
+  - KURT PELLEGRINO landed 4 significant strikes
+  - NATE MOHR landed 6 significant strikes
+  - Knockdowns: KURT PELLEGRINO 0,  NATE MOHR 0
+  - Takedowns: KURT PELLEGRINO 1,  NATE MOHR 0
+  Bonus: sub

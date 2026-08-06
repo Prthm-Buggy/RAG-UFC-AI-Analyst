@@ -1,0 +1,13 @@
+Event: UFC 253: Adesanya vs. Costa
+    Date: September 26, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Heavyweight
+    
+
+    Result: JUAN ESPINO defeated JEFF HUGHES via Submission  
+  at 3:48 of round 1
+  Key stats:
+  - JUAN ESPINO landed 10 significant strikes
+  - JEFF HUGHES landed 0 significant strikes
+  - Knockdowns: JUAN ESPINO 0,  JEFF HUGHES 0
+  - Takedowns: JUAN ESPINO 5,  JEFF HUGHES 0

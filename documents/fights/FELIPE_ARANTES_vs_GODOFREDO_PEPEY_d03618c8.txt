@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Nogueira vs. Werdum
+    Date: June 08, 2013
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: FELIPE ARANTES defeated GODOFREDO PEPEY via KO/TKO  
+  at 3:32 of round 1
+  Key stats:
+  - FELIPE ARANTES landed 27 significant strikes
+  - GODOFREDO PEPEY landed 4 significant strikes
+  - Knockdowns: FELIPE ARANTES 0,  GODOFREDO PEPEY 0
+  - Takedowns: FELIPE ARANTES 0,  GODOFREDO PEPEY 1

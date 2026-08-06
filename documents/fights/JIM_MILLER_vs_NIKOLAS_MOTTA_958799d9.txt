@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Walker vs. Hill
+    Date: February 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated NIKOLAS MOTTA via KO/TKO  
+  at 1:58 of round 2
+  Key stats:
+  - JIM MILLER landed 48 significant strikes
+  - NIKOLAS MOTTA landed 21 significant strikes
+  - Knockdowns: JIM MILLER 1,  NIKOLAS MOTTA 0
+  - Takedowns: JIM MILLER 0,  NIKOLAS MOTTA 0

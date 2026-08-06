@@ -1,0 +1,14 @@
+Event: UFC 232: Jones vs. Gustafsson 2
+    Date: December 29, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: RYAN HALL defeated BJ PENN via Submission  
+  at 2:46 of round 1
+  Key stats:
+  - RYAN HALL landed 6 significant strikes
+  - BJ PENN landed 3 significant strikes
+  - Knockdowns: RYAN HALL 0,  BJ PENN 0
+  - Takedowns: RYAN HALL 0,  BJ PENN 0
+  Bonus: perf

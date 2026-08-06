@@ -1,0 +1,11 @@
+Fighter: MATEUSZ GAMROT
+  Date of Birth: 1990-12-11
+  Career record: 13
+  First fight: 2020-10-17
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :498
+- Total takedowns landed :54
+- Knockdowns :1
+- Submission Attempts :1

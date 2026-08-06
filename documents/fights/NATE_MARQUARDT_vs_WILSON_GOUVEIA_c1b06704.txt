@@ -1,0 +1,13 @@
+Event: UFC 95: Sanchez vs Stevenson
+    Date: February 21, 2009
+    Location: London, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: NATE MARQUARDT defeated WILSON GOUVEIA via KO/TKO  
+  at 3:10 of round 3
+  Key stats:
+  - NATE MARQUARDT landed 67 significant strikes
+  - WILSON GOUVEIA landed 16 significant strikes
+  - Knockdowns: NATE MARQUARDT 1,  WILSON GOUVEIA 0
+  - Takedowns: NATE MARQUARDT 2,  WILSON GOUVEIA 0

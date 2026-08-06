@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Poirier vs. Johnson
+    Date : September 17, 2016
+    Location: Hidalgo, Texas, USA
+    Number of Fights: 11
+    Weight Classes: Welterweight, Featherweight, Middleweight, Lightweight, Bantamweight
+
+    Fight Results:
+  - GABRIEL BENITEZ def. SAM SICILIA via Submission(R2)
+- ISLAM MAKHACHEV def. CHRIS WADE via Decision - Unanimous(R3)
+- CHAS SKELLY def. MAXIMO BLANCO via Submission(R1)
+- BELAL MUHAMMAD def. AUGUSTO MONTANO via KO/TKO(R3)
+- RANDY BROWN def. ERICK MONTANO via Submission(R3)
+- MICHAEL JOHNSON def. DUSTIN POIRIER via KO/TKO(R1)
+- DEREK BRUNSON def. URIAH HALL via KO/TKO(R1)
+- ROAN CARNEIRO def. KENNY ROBERTSON via Decision - Split(R3)
+- EVAN DUNHAM def. RICKY GLENN via Decision - Unanimous(R3)
+- JOSE QUINONEZ def. JOEY GOMEZ via Decision - Unanimous(R3)
+- ANTONIO CARLOS JUNIOR def. LEONARDO GUIMARAES via Submission(R3)

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Swick vs Burkman
+    Date: January 23, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: PATRICK COTE defeated DREW MCFEDRIES via KO/TKO  
+  at 1:44 of round 1
+  Key stats:
+  - PATRICK COTE landed 14 significant strikes
+  - DREW MCFEDRIES landed 8 significant strikes
+  - Knockdowns: PATRICK COTE 1,  DREW MCFEDRIES 0
+  - Takedowns: PATRICK COTE 0,  DREW MCFEDRIES 0
+  Bonus: ko

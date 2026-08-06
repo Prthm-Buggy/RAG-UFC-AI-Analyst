@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Silva vs. Stann
+    Date: March 02, 2013
+    Location: Saitama, Japan
+    Weight Class: Light Heavyweight
+    
+
+    Result: WANDERLEI SILVA defeated BRIAN STANN via KO/TKO  
+  at 4:08 of round 2
+  Key stats:
+  - WANDERLEI SILVA landed 43 significant strikes
+  - BRIAN STANN landed 43 significant strikes
+  - Knockdowns: WANDERLEI SILVA 2,  BRIAN STANN 1
+  - Takedowns: WANDERLEI SILVA 0,  BRIAN STANN 0
+  Bonus: fight

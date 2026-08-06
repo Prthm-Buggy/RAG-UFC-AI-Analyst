@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lawler vs. Dos Anjos
+    Date: December 16, 2017
+    Location: Winnipeg, Manitoba, Canada
+    Weight Class: Welterweight
+    
+
+    Result: CHAD LAPRISE defeated GALORE BOFANDO via KO/TKO  
+  at 4:10 of round 1
+  Key stats:
+  - CHAD LAPRISE landed 20 significant strikes
+  - GALORE BOFANDO landed 13 significant strikes
+  - Knockdowns: CHAD LAPRISE 0,  GALORE BOFANDO 1
+  - Takedowns: CHAD LAPRISE 1,  GALORE BOFANDO 0

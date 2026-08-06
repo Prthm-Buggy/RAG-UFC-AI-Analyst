@@ -1,0 +1,13 @@
+Event: UFC 266: Volkanovski vs. Ortega
+    Date: September 25, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: NICK MAXIMOV defeated CODY BRUNDAGE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NICK MAXIMOV landed 14 significant strikes
+  - CODY BRUNDAGE landed 28 significant strikes
+  - Knockdowns: NICK MAXIMOV 0,  CODY BRUNDAGE 0
+  - Takedowns: NICK MAXIMOV 4,  CODY BRUNDAGE 0

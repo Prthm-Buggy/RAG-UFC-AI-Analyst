@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Dos Santos
+    Date: January 25, 2020
+    Location: Raleigh, North Carolina, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ANGELA HILL defeated HANNAH CIFERS via KO/TKO  
+  at 4:26 of round 2
+  Key stats:
+  - ANGELA HILL landed 70 significant strikes
+  - HANNAH CIFERS landed 46 significant strikes
+  - Knockdowns: ANGELA HILL 0,  HANNAH CIFERS 0
+  - Takedowns: ANGELA HILL 1,  HANNAH CIFERS 0

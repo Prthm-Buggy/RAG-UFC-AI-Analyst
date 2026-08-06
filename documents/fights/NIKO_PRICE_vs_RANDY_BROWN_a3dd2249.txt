@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Santos vs. Ivanov
+    Date: July 14, 2018
+    Location: Boise, Idaho, USA
+    Weight Class: Welterweight
+    
+
+    Result: NIKO PRICE defeated RANDY BROWN via KO/TKO  
+  at 1:09 of round 2
+  Key stats:
+  - NIKO PRICE landed 12 significant strikes
+  - RANDY BROWN landed 13 significant strikes
+  - Knockdowns: NIKO PRICE 0,  RANDY BROWN 0
+  - Takedowns: NIKO PRICE 1,  RANDY BROWN 1
+  Bonus: perf

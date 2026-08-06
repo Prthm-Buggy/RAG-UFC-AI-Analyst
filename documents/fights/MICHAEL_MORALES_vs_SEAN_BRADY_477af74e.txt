@@ -1,0 +1,14 @@
+Event: UFC 322: Della Maddalena vs. Makhachev
+    Date: November 15, 2025
+    Location: New York City, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICHAEL MORALES defeated SEAN BRADY via KO/TKO  
+  at 3:27 of round 1
+  Key stats:
+  - MICHAEL MORALES landed 24 significant strikes
+  - SEAN BRADY landed 8 significant strikes
+  - Knockdowns: MICHAEL MORALES 1,  SEAN BRADY 0
+  - Takedowns: MICHAEL MORALES 0,  SEAN BRADY 0
+  Bonus: perf

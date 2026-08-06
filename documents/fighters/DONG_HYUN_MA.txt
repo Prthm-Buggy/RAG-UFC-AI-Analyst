@@ -1,0 +1,11 @@
+Fighter: DONG HYUN MA
+  Date of Birth: 1988-09-09
+  Career record: 8
+  First fight: 2015-11-28
+  Last fight: 2019-12-21
+
+Career Statistics:
+- Significant Strikes Landed :235
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :0

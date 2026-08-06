@@ -1,0 +1,11 @@
+Fighter: AMAR SULOEV
+  Date of Birth: 1976-07-01
+  Career record: 2
+  First fight: 2002-01-11
+  Last fight: 2002-05-10
+
+Career Statistics:
+- Significant Strikes Landed :35
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

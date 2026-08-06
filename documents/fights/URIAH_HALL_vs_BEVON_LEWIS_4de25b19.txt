@@ -1,0 +1,13 @@
+Event: UFC 232: Jones vs. Gustafsson 2
+    Date: December 29, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: URIAH HALL defeated BEVON LEWIS via KO/TKO  
+  at 1:32 of round 3
+  Key stats:
+  - URIAH HALL landed 39 significant strikes
+  - BEVON LEWIS landed 68 significant strikes
+  - Knockdowns: URIAH HALL 1,  BEVON LEWIS 0
+  - Takedowns: URIAH HALL 0,  BEVON LEWIS 0

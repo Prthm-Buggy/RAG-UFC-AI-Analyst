@@ -1,0 +1,14 @@
+Event: UFC: Silva vs Irvin
+    Date: July 19, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CB DOLLAWAY defeated JESSE TAYLOR via Submission  
+  at 3:58 of round 1
+  Key stats:
+  - CB DOLLAWAY landed 4 significant strikes
+  - JESSE TAYLOR landed 4 significant strikes
+  - Knockdowns: CB DOLLAWAY 0,  JESSE TAYLOR 0
+  - Takedowns: CB DOLLAWAY 0,  JESSE TAYLOR 1
+  Bonus: sub

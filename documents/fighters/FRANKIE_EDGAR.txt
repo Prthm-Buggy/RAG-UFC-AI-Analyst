@@ -1,0 +1,11 @@
+Fighter: FRANKIE EDGAR
+  Date of Birth: 1981-10-16
+  Career record: 29
+  First fight: 2007-02-03
+  Last fight: 2022-11-12
+
+Career Statistics:
+- Significant Strikes Landed :1706
+- Total takedowns landed :70
+- Knockdowns :3
+- Submission Attempts :8

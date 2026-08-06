@@ -1,0 +1,11 @@
+Fighter: JACK MARSHMAN
+  Date of Birth: 1989-12-19
+  Career record: 8
+  First fight: 2016-11-19
+  Last fight: 2020-10-31
+
+Career Statistics:
+- Significant Strikes Landed :224
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :0

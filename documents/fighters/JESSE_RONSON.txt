@@ -1,0 +1,11 @@
+Fighter: JESSE RONSON
+  Date of Birth: 1985-12-24
+  Career record: 5
+  First fight: 2013-09-21
+  Last fight: 2022-10-01
+
+Career Statistics:
+- Significant Strikes Landed :203
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

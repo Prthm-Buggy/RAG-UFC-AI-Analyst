@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Makhachev vs. Moises
+    Date: July 17, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATEUSZ GAMROT defeated JEREMY STEPHENS via Submission  
+  at 1:05 of round 1
+  Key stats:
+  - MATEUSZ GAMROT landed 1 significant strikes
+  - JEREMY STEPHENS landed 0 significant strikes
+  - Knockdowns: MATEUSZ GAMROT 0,  JEREMY STEPHENS 0
+  - Takedowns: MATEUSZ GAMROT 1,  JEREMY STEPHENS 0
+  Bonus: perf

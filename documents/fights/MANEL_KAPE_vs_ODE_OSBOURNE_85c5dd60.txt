@@ -1,0 +1,13 @@
+Event: UFC 265: Lewis vs. Gane
+    Date: August 07, 2021
+    Location: Houston, Texas, USA
+    Weight Class: Flyweight
+    
+
+    Result: MANEL KAPE defeated ODE OSBOURNE via KO/TKO  
+  at 4:44 of round 1
+  Key stats:
+  - MANEL KAPE landed 19 significant strikes
+  - ODE OSBOURNE landed 18 significant strikes
+  - Knockdowns: MANEL KAPE 1,  ODE OSBOURNE 0
+  - Takedowns: MANEL KAPE 0,  ODE OSBOURNE 0

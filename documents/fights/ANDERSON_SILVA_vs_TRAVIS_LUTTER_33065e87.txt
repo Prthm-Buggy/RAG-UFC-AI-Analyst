@@ -1,0 +1,13 @@
+Event: UFC 67: All or Nothing
+    Date: February 03, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDERSON SILVA defeated TRAVIS LUTTER via Submission  
+  at 2:11 of round 2
+  Key stats:
+  - ANDERSON SILVA landed 9 significant strikes
+  - TRAVIS LUTTER landed 8 significant strikes
+  - Knockdowns: ANDERSON SILVA 0,  TRAVIS LUTTER 0
+  - Takedowns: ANDERSON SILVA 0,  TRAVIS LUTTER 3

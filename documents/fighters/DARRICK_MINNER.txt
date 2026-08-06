@@ -1,0 +1,11 @@
+Fighter: DARRICK MINNER
+  Date of Birth: 1990-04-28
+  Career record: 6
+  First fight: 2020-02-29
+  Last fight: 2022-11-05
+
+Career Statistics:
+- Significant Strikes Landed :114
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :9

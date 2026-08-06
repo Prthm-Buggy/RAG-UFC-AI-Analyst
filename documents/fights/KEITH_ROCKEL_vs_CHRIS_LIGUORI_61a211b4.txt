@@ -1,0 +1,13 @@
+Event: UFC 45: Revolution
+    Date: November 21, 2003
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Middleweight
+    
+
+    Result: KEITH ROCKEL defeated CHRIS LIGUORI via Submission  
+  at 3:29 of round 1
+  Key stats:
+  - KEITH ROCKEL landed 5 significant strikes
+  - CHRIS LIGUORI landed 1 significant strikes
+  - Knockdowns: KEITH ROCKEL 0,  CHRIS LIGUORI 0
+  - Takedowns: KEITH ROCKEL 1,  CHRIS LIGUORI 0

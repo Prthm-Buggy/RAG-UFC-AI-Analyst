@@ -1,0 +1,11 @@
+Fighter: LOUIS SMOLKA
+  Date of Birth: 1991-07-16
+  Career record: 17
+  First fight: 2014-01-15
+  Last fight: 2022-05-14
+
+Career Statistics:
+- Significant Strikes Landed :747
+- Total takedowns landed :18
+- Knockdowns :2
+- Submission Attempts :19

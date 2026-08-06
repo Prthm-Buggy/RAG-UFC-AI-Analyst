@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Blaydes vs. Daukaus
+    Date : March 26, 2022
+    Location: Columbus, Ohio, USA
+    Number of Fights: 12
+    Weight Classes: Women's Flyweight, Heavyweight, Bantamweight, Flyweight, Welterweight, Lightweight, Women's Bantamweight, Middleweight, Featherweight
+
+    Fight Results:
+  - CHRIS GUTIERREZ def. BATGEREL DANAA via KO/TKO(R2)
+- CURTIS BLAYDES def. CHRIS DAUKAUS via KO/TKO(R2)
+- KAI KARA-FRANCE def. ASKAR ASKAROV via Decision - Unanimous(R3)
+- MATHEUS NICOLAU def. DAVID DVORAK via Decision - Unanimous(R3)
+- MANON FIOROT def. JENNIFER MAIA via Decision - Unanimous(R3)
+- NEIL MAGNY def. MAX GRIFFIN via Decision - Split(R3)
+- SARA MCMANN def. KAROL ROSA via Decision - Unanimous(R3)
+- MARC DIAKIESE def. VIACHESLAV BORSHCHEV via Decision - Unanimous(R3)
+- ALIASKHAB KHIZRIEV def. DENIS TIULIULIN via Submission(R2)
+- ALEXA GRASSO def. JOANNE WOOD via Submission(R1)
+- BRYAN BARBERENA def. MATT BROWN via Decision - Split(R3)
+- LUIS SALDANA def. BRUNO SOUZA via Decision - Unanimous(R3)

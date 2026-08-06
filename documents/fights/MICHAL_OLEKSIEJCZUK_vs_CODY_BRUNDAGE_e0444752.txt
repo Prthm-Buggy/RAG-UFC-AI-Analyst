@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Strickland
+    Date: December 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MICHAL OLEKSIEJCZUK defeated CODY BRUNDAGE via KO/TKO  
+  at 3:16 of round 1
+  Key stats:
+  - MICHAL OLEKSIEJCZUK landed 15 significant strikes
+  - CODY BRUNDAGE landed 0 significant strikes
+  - Knockdowns: MICHAL OLEKSIEJCZUK 0,  CODY BRUNDAGE 0
+  - Takedowns: MICHAL OLEKSIEJCZUK 0,  CODY BRUNDAGE 3
+  Bonus: perf

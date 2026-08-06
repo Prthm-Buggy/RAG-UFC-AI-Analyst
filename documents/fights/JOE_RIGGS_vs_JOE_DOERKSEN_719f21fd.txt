@@ -1,0 +1,13 @@
+Event: UFC 49: Unfinished Business
+    Date: August 21, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOE RIGGS defeated JOE DOERKSEN via KO/TKO  
+  at 3:39 of round 2
+  Key stats:
+  - JOE RIGGS landed 29 significant strikes
+  - JOE DOERKSEN landed 6 significant strikes
+  - Knockdowns: JOE RIGGS 0,  JOE DOERKSEN 0
+  - Takedowns: JOE RIGGS 2,  JOE DOERKSEN 2

@@ -1,0 +1,13 @@
+Event: UFC 290: Volkanovski vs. Rodriguez
+    Date: July 08, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: VITOR PETRINO defeated MARCIN PRACHNIO via Submission  
+  at 3:42 of round 3
+  Key stats:
+  - VITOR PETRINO landed 44 significant strikes
+  - MARCIN PRACHNIO landed 55 significant strikes
+  - Knockdowns: VITOR PETRINO 0,  MARCIN PRACHNIO 0
+  - Takedowns: VITOR PETRINO 4,  MARCIN PRACHNIO 0

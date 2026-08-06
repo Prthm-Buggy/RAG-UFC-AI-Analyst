@@ -1,0 +1,14 @@
+Event: UFC 226: Miocic vs. Cormier
+    Date: July 07, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DANIEL CORMIER defeated STIPE MIOCIC via KO/TKO  
+  at 4:33 of round 1
+  Key stats:
+  - DANIEL CORMIER landed 25 significant strikes
+  - STIPE MIOCIC landed 24 significant strikes
+  - Knockdowns: DANIEL CORMIER 1,  STIPE MIOCIC 0
+  - Takedowns: DANIEL CORMIER 0,  STIPE MIOCIC 1
+  Bonus: belt

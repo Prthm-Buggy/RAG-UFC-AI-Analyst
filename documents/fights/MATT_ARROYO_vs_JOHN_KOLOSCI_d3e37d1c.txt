@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Hughes vs. Team Serra Finale
+    Date: December 08, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT ARROYO defeated JOHN KOLOSCI via Submission  
+  at 4:42 of round 1
+  Key stats:
+  - MATT ARROYO landed 4 significant strikes
+  - JOHN KOLOSCI landed 1 significant strikes
+  - Knockdowns: MATT ARROYO 0,  JOHN KOLOSCI 0
+  - Takedowns: MATT ARROYO 0,  JOHN KOLOSCI 0
+  Bonus: sub

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Allen vs. Craig
+    Date: November 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRENDAN ALLEN defeated PAUL CRAIG via Submission  
+  at 0:38 of round 3
+  Key stats:
+  - BRENDAN ALLEN landed 32 significant strikes
+  - PAUL CRAIG landed 6 significant strikes
+  - Knockdowns: BRENDAN ALLEN 0,  PAUL CRAIG 0
+  - Takedowns: BRENDAN ALLEN 2,  PAUL CRAIG 0
+  Bonus: perf

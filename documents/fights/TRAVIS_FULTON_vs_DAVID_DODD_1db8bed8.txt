@@ -1,0 +1,13 @@
+Event: UFC 21: Return of the Champions
+    Date: July 16, 1999
+    Location: Cedar Rapids, Iowa, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TRAVIS FULTON defeated DAVID DODD via Decision - Unanimous  
+  at 5:00 of round 2
+  Key stats:
+  - TRAVIS FULTON landed 25 significant strikes
+  - DAVID DODD landed 0 significant strikes
+  - Knockdowns: TRAVIS FULTON 1,  DAVID DODD 0
+  - Takedowns: TRAVIS FULTON 1,  DAVID DODD 0

@@ -1,0 +1,11 @@
+Fighter: MARCIN TYBURA
+  Date of Birth: 1985-11-09
+  Career record: 24
+  First fight: 2016-04-10
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :942
+- Total takedowns landed :23
+- Knockdowns :1
+- Submission Attempts :2

@@ -1,0 +1,11 @@
+Fighter: JOSIANE NUNES
+  Date of Birth: 1993-12-23
+  Career record: 6
+  First fight: 2021-08-21
+  Last fight: 2025-03-15
+
+Career Statistics:
+- Significant Strikes Landed :382
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :0

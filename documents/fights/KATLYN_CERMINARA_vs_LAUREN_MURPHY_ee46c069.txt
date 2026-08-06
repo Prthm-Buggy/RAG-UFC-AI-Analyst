@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McDonald vs. Lineker
+    Date: July 13, 2016
+    Location: Sioux Falls, South Dakota, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: KATLYN CERMINARA defeated LAUREN MURPHY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KATLYN CERMINARA landed 45 significant strikes
+  - LAUREN MURPHY landed 38 significant strikes
+  - Knockdowns: KATLYN CERMINARA 0,  LAUREN MURPHY 0
+  - Takedowns: KATLYN CERMINARA 0,  LAUREN MURPHY 1

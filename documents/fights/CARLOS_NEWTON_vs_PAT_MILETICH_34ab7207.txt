@@ -1,0 +1,14 @@
+Event: UFC 31: Locked and Loaded
+    Date: May 04, 2001
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS NEWTON defeated PAT MILETICH via Submission  
+  at 2:50 of round 3
+  Key stats:
+  - CARLOS NEWTON landed 14 significant strikes
+  - PAT MILETICH landed 28 significant strikes
+  - Knockdowns: CARLOS NEWTON 0,  PAT MILETICH 0
+  - Takedowns: CARLOS NEWTON 4,  PAT MILETICH 0
+  Bonus: belt

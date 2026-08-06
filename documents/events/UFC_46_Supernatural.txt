@@ -1,0 +1,15 @@
+Event : UFC 46: Supernatural
+    Date : January 31, 2004
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Lightweight, Welterweight, Middleweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - VITOR BELFORT def. RANDY COUTURE via TKO - Doctor's Stoppage(R1)
+- GEORGES ST-PIERRE def. KARO PARISYAN via Decision - Unanimous(R3)
+- MATT SERRA def. JEFF CURRAN via Decision - Unanimous(R3)
+- RENATO VERISSIMO def. CARLOS NEWTON via Decision - Unanimous(R3)
+- BJ PENN def. MATT HUGHES via Submission(R1)
+- JOSH THOMSON def. HERMES FRANCA via Decision - Majority(R3)
+- LEE MURRAY def. JORGE RIVERA via Submission(R1)
+- FRANK MIR def. WES SIMS via KO/TKO(R2)

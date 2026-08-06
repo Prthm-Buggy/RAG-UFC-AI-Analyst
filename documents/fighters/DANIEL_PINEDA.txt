@@ -1,0 +1,11 @@
+Fighter: DANIEL PINEDA
+  Date of Birth: 1985-08-06
+  Career record: 13
+  First fight: 2012-01-20
+  Last fight: 2024-10-19
+
+Career Statistics:
+- Significant Strikes Landed :346
+- Total takedowns landed :12
+- Knockdowns :2
+- Submission Attempts :13

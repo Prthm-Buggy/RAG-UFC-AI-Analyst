@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Almeida vs Garbrandt
+    Date: May 29, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CODY GARBRANDT defeated THOMAS ALMEIDA via KO/TKO  
+  at 2:53 of round 1
+  Key stats:
+  - CODY GARBRANDT landed 21 significant strikes
+  - THOMAS ALMEIDA landed 10 significant strikes
+  - Knockdowns: CODY GARBRANDT 1,  THOMAS ALMEIDA 0
+  - Takedowns: CODY GARBRANDT 0,  THOMAS ALMEIDA 0
+  Bonus: perf

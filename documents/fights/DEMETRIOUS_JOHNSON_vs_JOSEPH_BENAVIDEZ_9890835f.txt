@@ -1,0 +1,14 @@
+Event: UFC 152: Jones vs Belfort
+    Date: September 22, 2012
+    Location: Toronto, Ontario, Canada
+    Weight Class: Flyweight
+    
+
+    Result: DEMETRIOUS JOHNSON defeated JOSEPH BENAVIDEZ via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - DEMETRIOUS JOHNSON landed 77 significant strikes
+  - JOSEPH BENAVIDEZ landed 44 significant strikes
+  - Knockdowns: DEMETRIOUS JOHNSON 0,  JOSEPH BENAVIDEZ 0
+  - Takedowns: DEMETRIOUS JOHNSON 5,  JOSEPH BENAVIDEZ 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Taira vs. Park
+    Date: August 02, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDREY PULYAEV defeated NICK KLEIN via KO/TKO  
+  at 1:31 of round 2
+  Key stats:
+  - ANDREY PULYAEV landed 23 significant strikes
+  - NICK KLEIN landed 10 significant strikes
+  - Knockdowns: ANDREY PULYAEV 1,  NICK KLEIN 0
+  - Takedowns: ANDREY PULYAEV 0,  NICK KLEIN 4

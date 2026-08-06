@@ -1,0 +1,13 @@
+Event: UFC 161: Evans vs Henderson
+    Date: June 15, 2013
+    Location: Winnipeg, Manitoba, Canada
+    Weight Class: Welterweight
+    
+
+    Result: SEAN PIERSON defeated KENNY ROBERTSON via Decision - Majority  
+  at 5:00 of round 3
+  Key stats:
+  - SEAN PIERSON landed 36 significant strikes
+  - KENNY ROBERTSON landed 65 significant strikes
+  - Knockdowns: SEAN PIERSON 0,  KENNY ROBERTSON 0
+  - Takedowns: SEAN PIERSON 0,  KENNY ROBERTSON 1

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Weidman vs. Gastelum
+    Date: July 22, 2017
+    Location: Uniondale, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR ALBINI defeated TIMOTHY JOHNSON via KO/TKO  
+  at 2:51 of round 1
+  Key stats:
+  - JUNIOR ALBINI landed 21 significant strikes
+  - TIMOTHY JOHNSON landed 19 significant strikes
+  - Knockdowns: JUNIOR ALBINI 1,  TIMOTHY JOHNSON 0
+  - Takedowns: JUNIOR ALBINI 0,  TIMOTHY JOHNSON 0
+  Bonus: perf

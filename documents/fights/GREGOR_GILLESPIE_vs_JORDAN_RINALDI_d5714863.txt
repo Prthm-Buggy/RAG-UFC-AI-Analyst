@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs. Brunson 2
+    Date: January 27, 2018
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Lightweight
+    
+
+    Result: GREGOR GILLESPIE defeated JORDAN RINALDI via KO/TKO  
+  at 4:46 of round 1
+  Key stats:
+  - GREGOR GILLESPIE landed 34 significant strikes
+  - JORDAN RINALDI landed 7 significant strikes
+  - Knockdowns: GREGOR GILLESPIE 0,  JORDAN RINALDI 0
+  - Takedowns: GREGOR GILLESPIE 1,  JORDAN RINALDI 0

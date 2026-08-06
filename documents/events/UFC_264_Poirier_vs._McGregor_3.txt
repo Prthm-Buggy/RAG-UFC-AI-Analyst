@@ -1,0 +1,19 @@
+Event : UFC 264: Poirier vs. McGregor 3
+    Date : July 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Women's Flyweight, Welterweight, Featherweight, Middleweight, Women's Bantamweight, Flyweight, Lightweight
+
+    Fight Results:
+  - ILIA TOPURIA def. RYAN HALL via KO/TKO(R1)
+- SEAN O'MALLEY def. KRIS MOUTINHO via KO/TKO(R3)
+- DRICUS DU PLESSIS def. TREVIN GILES via KO/TKO(R2)
+- MICHEL PEREIRA def. NIKO PRICE via Decision - Unanimous(R3)
+- IRENE ALDANA def. YANA SANTOS via KO/TKO(R1)
+- GILBERT BURNS def. STEPHEN THOMPSON via Decision - Unanimous(R3)
+- DUSTIN POIRIER def. CONOR MCGREGOR via TKO - Doctor's Stoppage(R1)
+- BRAD TAVARES def. OMARI AKHMEDOV via Decision - Split(R3)
+- TAI TUIVASA def. GREG HARDY via KO/TKO(R1)
+- JENNIFER MAIA def. JESSICA EYE via Decision - Unanimous(R3)
+- MAX GRIFFIN def. CARLOS CONDIT via Decision - Unanimous(R3)
+- ZHALGAS ZHUMAGULOV def. JEROME RIVERA via Submission(R1)

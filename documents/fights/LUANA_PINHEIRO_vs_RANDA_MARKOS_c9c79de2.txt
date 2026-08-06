@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Reyes vs. Prochazka
+    Date: May 01, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: LUANA PINHEIRO defeated RANDA MARKOS via DQ  
+  at 4:16 of round 1
+  Key stats:
+  - LUANA PINHEIRO landed 29 significant strikes
+  - RANDA MARKOS landed 18 significant strikes
+  - Knockdowns: LUANA PINHEIRO 0,  RANDA MARKOS 0
+  - Takedowns: LUANA PINHEIRO 5,  RANDA MARKOS 0

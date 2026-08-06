@@ -1,0 +1,18 @@
+Event : UFC 109: Relentless
+    Date : February 06, 2010
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Middleweight, Welterweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - DEMIAN MAIA def. DAN MILLER via Decision - Unanimous(R3)
+- PHIL DAVIS def. BRIAN STANN via Decision - Unanimous(R3)
+- MAC DANZIG def. JUSTIN BUCHHOLZ via Decision - Unanimous(R3)
+- PAULO THIAGO def. MIKE SWICK via Submission(R2)
+- CHRIS TUCHSCHERER def. TIM HAGUE via Decision - Majority(R3)
+- RANDY COUTURE def. MARK COLEMAN via Submission(R2)
+- MATT SERRA def. FRANK TRIGG via KO/TKO(R1)
+- ROB EMERSON def. PHILLIPE NOVER via Decision - Unanimous(R3)
+- CHAEL SONNEN def. NATE MARQUARDT via Decision - Unanimous(R3)
+- MELVIN GUILLARD def. RONYS TORRES via Decision - Unanimous(R3)
+- JOEY BELTRAN def. ROLLES GRACIE via KO/TKO(R2)

@@ -1,0 +1,13 @@
+Event: UFC 291: Poirier vs. Gaethje 2
+    Date: July 29, 2023
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Welterweight
+    
+
+    Result: GABRIEL BONFIM defeated TREVIN GILES via Submission  
+  at 1:13 of round 1
+  Key stats:
+  - GABRIEL BONFIM landed 3 significant strikes
+  - TREVIN GILES landed 1 significant strikes
+  - Knockdowns: GABRIEL BONFIM 0,  TREVIN GILES 0
+  - Takedowns: GABRIEL BONFIM 1,  TREVIN GILES 0

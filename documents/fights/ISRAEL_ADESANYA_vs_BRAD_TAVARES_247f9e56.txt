@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Undefeated Finale
+    Date: July 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ISRAEL ADESANYA defeated BRAD TAVARES via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ISRAEL ADESANYA landed 119 significant strikes
+  - BRAD TAVARES landed 40 significant strikes
+  - Knockdowns: ISRAEL ADESANYA 0,  BRAD TAVARES 0
+  - Takedowns: ISRAEL ADESANYA 0,  BRAD TAVARES 1
+  Bonus: perf

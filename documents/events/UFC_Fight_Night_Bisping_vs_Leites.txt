@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Bisping vs Leites
+    Date : July 18, 2015
+    Location: Glasgow, Scotland, United Kingdom
+    Number of Fights: 12
+    Weight Classes: Light Heavyweight, Lightweight, Welterweight, Middleweight, Featherweight, Flyweight, Women's Strawweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - JOE DUFFY def. IVAN JORGE via Submission(R1)
+- STEVIE RAY def. LEONARDO MAFRA via KO/TKO(R1)
+- LEON EDWARDS def. PAWEL PAWLAK via Decision - Unanimous(R3)
+- DANIEL OMIELANCZUK def. CHRIS DE LA ROCHA via KO/TKO(R1)
+- JOANNE WOOD def. CORTNEY CASEY via Decision - Unanimous(R3)
+- JIMMIE RIVERA def. MARCUS BRIMAGE via KO/TKO(R1)
+- MICKAEL LEBOUT def. TEEMU PACKALEN via Decision - Unanimous(R3)
+- PADDY HOLOHAN def. VAUGHAN LEE via Decision - Unanimous(R3)
+- MICHAEL BISPING def. THALES LEITES via Decision - Split(R5)
+- EVAN DUNHAM def. ROSS PEARSON via Decision - Unanimous(R3)
+- ILIR LATIFI def. HANS STRINGER via KO/TKO(R1)
+- ROBERT WHITEFORD def. PAUL REDMOND via KO/TKO(R1)

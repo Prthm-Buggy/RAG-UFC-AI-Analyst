@@ -1,0 +1,20 @@
+Event : UFC on FOX: Johnson vs. Reis
+    Date : April 15, 2017
+    Location: Kansas City, Missouri, USA
+    Number of Fights: 13
+    Weight Classes: Women's Bantamweight, Women's Strawweight, Featherweight, Middleweight, Lightweight, Flyweight, Light Heavyweight, Welterweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - ROBERT WHITTAKER def. JACARE SOUZA via KO/TKO(R2)
+- RASHID MAGOMEDOV def. KING GREEN via Decision - Split(R3)
+- ROSE NAMAJUNAS def. MICHELLE WATERSON-GOMEZ via Submission(R2)
+- ALEXANDER VOLKOV def. ROY NELSON via Decision - Unanimous(R3)
+- DEVIN CLARK def. JAKE COLLIER via Decision - Unanimous(R3)
+- ANTHONY SMITH def. ANDREW SANCHEZ via KO/TKO(R3)
+- TIM ELLIOTT def. LOUIS SMOLKA via Decision - Unanimous(R3)
+- TOM DUQUESNOY def. PATRICK WILLIAMS via KO/TKO(R2)
+- KETLEN VIEIRA def. ASHLEE EVANS-SMITH via Decision - Unanimous(R3)
+- DEMETRIOUS JOHNSON def. WILSON REIS via Submission(R3)
+- RENATO MOICANO def. JEREMY STEPHENS via Decision - Split(R3)
+- ALJAMAIN STERLING def. AUGUSTO MENDES via Decision - Unanimous(R3)
+- ZAK CUMMINGS def. NATHAN COY via Submission(R1)

@@ -1,0 +1,14 @@
+Event: UFC 132: Cruz vs Faber
+    Date: July 02, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TITO ORTIZ defeated RYAN BADER via Submission  
+  at 1:56 of round 1
+  Key stats:
+  - TITO ORTIZ landed 6 significant strikes
+  - RYAN BADER landed 4 significant strikes
+  - Knockdowns: TITO ORTIZ 1,  RYAN BADER 0
+  - Takedowns: TITO ORTIZ 0,  RYAN BADER 0
+  Bonus: sub

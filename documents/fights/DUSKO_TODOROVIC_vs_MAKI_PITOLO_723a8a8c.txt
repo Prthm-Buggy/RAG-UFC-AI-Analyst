@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Aldo
+    Date: December 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DUSKO TODOROVIC defeated MAKI PITOLO via KO/TKO  
+  at 4:34 of round 1
+  Key stats:
+  - DUSKO TODOROVIC landed 30 significant strikes
+  - MAKI PITOLO landed 13 significant strikes
+  - Knockdowns: DUSKO TODOROVIC 0,  MAKI PITOLO 0
+  - Takedowns: DUSKO TODOROVIC 1,  MAKI PITOLO 0

@@ -1,0 +1,18 @@
+Event : UFC 270: Ngannou vs. Gane
+    Date : January 22, 2022
+    Location: Anaheim, California, USA
+    Number of Fights: 11
+    Weight Classes: Flyweight, Welterweight, Lightweight, Women's Strawweight, Heavyweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - JASMINE JASUDAVICIUS def. KAY HANSEN via Decision - Unanimous(R3)
+- DEIVESON FIGUEIREDO def. BRANDON MORENO via Decision - Unanimous(R5)
+- VICTOR HENRY def. RAONI BARCELOS via Decision - Unanimous(R3)
+- FRANCIS NGANNOU def. CIRYL GANE via Decision - Unanimous(R5)
+- VANESSA DEMOPOULOS def. SILVANA GOMEZ JUAREZ via Submission(R1)
+- MICHEL PEREIRA def. ANDRE FIALHO via Decision - Unanimous(R3)
+- SAID NURMAGOMEDOV def. CODY STAMANN via Submission(R1)
+- TONY GRAVELY def. SAIMON OLIVEIRA via Decision - Unanimous(R3)
+- MICHAEL MORALES def. TREVIN GILES via KO/TKO(R1)
+- JACK DELLA MADDALENA def. PETE RODRIGUEZ via KO/TKO(R1)
+- MATT FREVOLA def. GENARO VALDEZ via KO/TKO(R1)

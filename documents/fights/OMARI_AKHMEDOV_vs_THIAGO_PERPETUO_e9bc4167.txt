@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Belfort vs Henderson 2
+    Date: November 09, 2013
+    Location: Goiania, Goias, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: OMARI AKHMEDOV defeated THIAGO PERPETUO via KO/TKO  
+  at 3:31 of round 1
+  Key stats:
+  - OMARI AKHMEDOV landed 14 significant strikes
+  - THIAGO PERPETUO landed 18 significant strikes
+  - Knockdowns: OMARI AKHMEDOV 1,  THIAGO PERPETUO 1
+  - Takedowns: OMARI AKHMEDOV 1,  THIAGO PERPETUO 1
+  Bonus: fight

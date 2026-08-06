@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Emmett vs. Vallejos
+    Date: March 14, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: MARWAN RAHIKI defeated HARRY HARDWICK via KO/TKO  
+  at 5:00 of round 2
+  Key stats:
+  - MARWAN RAHIKI landed 90 significant strikes
+  - HARRY HARDWICK landed 65 significant strikes
+  - Knockdowns: MARWAN RAHIKI 0,  HARRY HARDWICK 0
+  - Takedowns: MARWAN RAHIKI 0,  HARRY HARDWICK 0
+  Bonus: fight

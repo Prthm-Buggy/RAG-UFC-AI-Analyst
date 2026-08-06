@@ -1,0 +1,19 @@
+Event : UFC 302: Makhachev vs. Poirier
+    Date : June 01, 2024
+    Location: Newark, New Jersey, USA
+    Number of Fights: 12
+    Weight Classes: Welterweight, Flyweight, Women's Bantamweight, Lightweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - Andre Lima def. MITCH RAPOSO via Decision - Split(R3)
+- AILIN PEREZ def. JOSELYNE EDWARDS via Decision - Unanimous(R3)
+- ROMAN KOPYLOV def. CESAR ALMEIDA via Decision - Split(R3)
+- SEAN STRICKLAND def. PAULO COSTA via Decision - Split(R5)
+- GRANT DAWSON def. JOE SOLECKI via Decision - Unanimous(R3)
+- JAILTON ALMEIDA def. ALEXANDR ROMANOV via Submission(R1)
+- RANDY BROWN def. ELIZEU ZALESKI DOS SANTOS via Decision - Unanimous(R3)
+- JAKE MATTHEWS def. PHIL ROWE via Decision - Unanimous(R3)
+- BASSIL HAFEZ def. MICKEY GALL via Decision - Unanimous(R3)
+- ISLAM MAKHACHEV def. DUSTIN POIRIER via Submission(R5)
+- KEVIN HOLLAND def. MICHAL OLEKSIEJCZUK via Submission(R1)
+- NIKO PRICE def. ALEX MORONO via Decision - Unanimous(R3)

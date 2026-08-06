@@ -1,0 +1,13 @@
+Event: UFC 121: Lesnar vs Velasquez
+    Date: October 23, 2010
+    Location: Anaheim, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: COURT MCGEE defeated RYAN JENSEN via Submission  
+  at 1:21 of round 3
+  Key stats:
+  - COURT MCGEE landed 60 significant strikes
+  - RYAN JENSEN landed 36 significant strikes
+  - Knockdowns: COURT MCGEE 0,  RYAN JENSEN 1
+  - Takedowns: COURT MCGEE 2,  RYAN JENSEN 1

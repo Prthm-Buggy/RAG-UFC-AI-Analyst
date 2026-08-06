@@ -1,0 +1,11 @@
+Fighter: DAVE HERMAN
+  Date of Birth: 1984-10-03
+  Career record: 5
+  First fight: 2011-06-11
+  Last fight: 2013-07-06
+
+Career Statistics:
+- Significant Strikes Landed :125
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

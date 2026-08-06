@@ -1,0 +1,13 @@
+Event: UFC 154: St-Pierre vs Condit
+    Date: November 17, 2012
+    Location: Montreal, Quebec, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: CYRILLE DIABATE defeated CHAD GRIGGS via Submission  
+  at 2:24 of round 1
+  Key stats:
+  - CYRILLE DIABATE landed 6 significant strikes
+  - CHAD GRIGGS landed 2 significant strikes
+  - Knockdowns: CYRILLE DIABATE 1,  CHAD GRIGGS 0
+  - Takedowns: CYRILLE DIABATE 2,  CHAD GRIGGS 1

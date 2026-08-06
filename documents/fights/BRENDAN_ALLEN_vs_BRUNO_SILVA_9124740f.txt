@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Topuria
+    Date: June 24, 2023
+    Location: Jacksonville, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRENDAN ALLEN defeated BRUNO SILVA via Submission  
+  at 4:39 of round 1
+  Key stats:
+  - BRENDAN ALLEN landed 30 significant strikes
+  - BRUNO SILVA landed 20 significant strikes
+  - Knockdowns: BRENDAN ALLEN 1,  BRUNO SILVA 0
+  - Takedowns: BRENDAN ALLEN 0,  BRUNO SILVA 0

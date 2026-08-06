@@ -1,0 +1,13 @@
+Event: UFC 102: Couture vs Nogueira
+    Date: August 29, 2009
+    Location: Portland, Oregon, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARK MUNOZ defeated NICK CATONE via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MARK MUNOZ landed 53 significant strikes
+  - NICK CATONE landed 38 significant strikes
+  - Knockdowns: MARK MUNOZ 0,  NICK CATONE 0
+  - Takedowns: MARK MUNOZ 2,  NICK CATONE 3

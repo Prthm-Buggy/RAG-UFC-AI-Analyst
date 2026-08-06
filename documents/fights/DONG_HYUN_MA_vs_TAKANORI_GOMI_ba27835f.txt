@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Saint Preux vs. Okami
+    Date: September 22, 2017
+    Location: Saitama, Saitama, Japan
+    Weight Class: Lightweight
+    
+
+    Result: DONG HYUN MA defeated TAKANORI GOMI via KO/TKO  
+  at 1:30 of round 1
+  Key stats:
+  - DONG HYUN MA landed 13 significant strikes
+  - TAKANORI GOMI landed 2 significant strikes
+  - Knockdowns: DONG HYUN MA 1,  TAKANORI GOMI 0
+  - Takedowns: DONG HYUN MA 0,  TAKANORI GOMI 0

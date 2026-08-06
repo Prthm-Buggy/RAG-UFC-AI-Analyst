@@ -1,0 +1,13 @@
+Event: UFC 79: Nemesis
+    Date: December 29, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ROAN CARNEIRO defeated TONY DESOUZA via KO/TKO  
+  at 3:33 of round 2
+  Key stats:
+  - ROAN CARNEIRO landed 24 significant strikes
+  - TONY DESOUZA landed 9 significant strikes
+  - Knockdowns: ROAN CARNEIRO 0,  TONY DESOUZA 0
+  - Takedowns: ROAN CARNEIRO 3,  TONY DESOUZA 0

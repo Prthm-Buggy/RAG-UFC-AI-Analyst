@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Dos Anjos
+    Date: August 23, 2014
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Catch Weight
+    
+
+    Result: MAX HOLLOWAY defeated CLAY COLLARD via KO/TKO  
+  at 3:47 of round 3
+  Key stats:
+  - MAX HOLLOWAY landed 124 significant strikes
+  - CLAY COLLARD landed 70 significant strikes
+  - Knockdowns: MAX HOLLOWAY 0,  CLAY COLLARD 0
+  - Takedowns: MAX HOLLOWAY 0,  CLAY COLLARD 1

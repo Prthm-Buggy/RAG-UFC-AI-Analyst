@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Stout vs Fisher
+    Date: June 12, 2007
+    Location: Hollywood, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: JON FITCH defeated ROAN CARNEIRO via Submission  
+  at 1:07 of round 2
+  Key stats:
+  - JON FITCH landed 18 significant strikes
+  - ROAN CARNEIRO landed 4 significant strikes
+  - Knockdowns: JON FITCH 0,  ROAN CARNEIRO 0
+  - Takedowns: JON FITCH 0,  ROAN CARNEIRO 2

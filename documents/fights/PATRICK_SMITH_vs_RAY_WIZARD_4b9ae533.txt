@@ -1,0 +1,13 @@
+Event: UFC 2: No Way Out
+    Date: March 11, 1994
+    Location: Denver, Colorado, USA
+    Weight Class: Open Weight
+    
+
+    Result: PATRICK SMITH defeated RAY WIZARD via Submission  
+  at 0:58 of round 1
+  Key stats:
+  - PATRICK SMITH landed 1 significant strikes
+  - RAY WIZARD landed 1 significant strikes
+  - Knockdowns: PATRICK SMITH 0,  RAY WIZARD 0
+  - Takedowns: PATRICK SMITH 0,  RAY WIZARD 0

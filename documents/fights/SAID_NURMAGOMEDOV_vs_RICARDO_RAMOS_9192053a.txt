@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Assuncao vs. Moraes 2
+    Date: February 02, 2019
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: SAID NURMAGOMEDOV defeated RICARDO RAMOS via KO/TKO  
+  at 2:28 of round 1
+  Key stats:
+  - SAID NURMAGOMEDOV landed 17 significant strikes
+  - RICARDO RAMOS landed 2 significant strikes
+  - Knockdowns: SAID NURMAGOMEDOV 1,  RICARDO RAMOS 0
+  - Takedowns: SAID NURMAGOMEDOV 0,  RICARDO RAMOS 0

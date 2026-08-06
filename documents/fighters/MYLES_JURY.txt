@@ -1,0 +1,11 @@
+Fighter: MYLES JURY
+  Date of Birth: 1988-10-31
+  Career record: 12
+  First fight: 2012-06-01
+  Last fight: 2019-02-17
+
+Career Statistics:
+- Significant Strikes Landed :327
+- Total takedowns landed :16
+- Knockdowns :3
+- Submission Attempts :2

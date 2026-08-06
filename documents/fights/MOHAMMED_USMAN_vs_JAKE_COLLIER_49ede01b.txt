@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fiziev vs. Gamrot
+    Date: September 23, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MOHAMMED USMAN defeated JAKE COLLIER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MOHAMMED USMAN landed 85 significant strikes
+  - JAKE COLLIER landed 87 significant strikes
+  - Knockdowns: MOHAMMED USMAN 0,  JAKE COLLIER 0
+  - Takedowns: MOHAMMED USMAN 1,  JAKE COLLIER 0

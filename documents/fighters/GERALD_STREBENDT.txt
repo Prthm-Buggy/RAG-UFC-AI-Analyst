@@ -1,0 +1,11 @@
+Fighter: GERALD STREBENDT
+  Date of Birth: 1979-03-01
+  Career record: 1
+  First fight: 2003-09-26
+  Last fight: 2003-09-26
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :3

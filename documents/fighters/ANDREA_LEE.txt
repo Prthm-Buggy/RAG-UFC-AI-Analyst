@@ -1,0 +1,11 @@
+Fighter: ANDREA LEE
+  Date of Birth: 1989-02-11
+  Career record: 14
+  First fight: 2018-05-19
+  Last fight: 2025-03-01
+
+Career Statistics:
+- Significant Strikes Landed :924
+- Total takedowns landed :22
+- Knockdowns :1
+- Submission Attempts :8

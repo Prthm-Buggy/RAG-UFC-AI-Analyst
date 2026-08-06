@@ -1,0 +1,11 @@
+Fighter: LUANA CAROLINA
+  Date of Birth: 1993-06-11
+  Career record: 10
+  First fight: 2019-05-11
+  Last fight: 2025-09-27
+
+Career Statistics:
+- Significant Strikes Landed :604
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :5

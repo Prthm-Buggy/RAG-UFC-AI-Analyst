@@ -1,0 +1,13 @@
+Event: UFC 316: Dvalishvili vs. O'Malley 2
+    Date: June 07, 2025
+    Location: Newark, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: WALDO CORTES ACOSTA defeated SERGHEI SPIVAC via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - WALDO CORTES ACOSTA landed 110 significant strikes
+  - SERGHEI SPIVAC landed 48 significant strikes
+  - Knockdowns: WALDO CORTES ACOSTA 0,  SERGHEI SPIVAC 0
+  - Takedowns: WALDO CORTES ACOSTA 0,  SERGHEI SPIVAC 2

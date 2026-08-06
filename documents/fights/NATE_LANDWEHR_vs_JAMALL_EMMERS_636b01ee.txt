@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blanchfield vs. Fiorot
+    Date: March 30, 2024
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Featherweight
+    
+
+    Result: NATE LANDWEHR defeated JAMALL EMMERS via KO/TKO  
+  at 4:43 of round 1
+  Key stats:
+  - NATE LANDWEHR landed 37 significant strikes
+  - JAMALL EMMERS landed 39 significant strikes
+  - Knockdowns: NATE LANDWEHR 1,  JAMALL EMMERS 0
+  - Takedowns: NATE LANDWEHR 0,  JAMALL EMMERS 0
+  Bonus: perf

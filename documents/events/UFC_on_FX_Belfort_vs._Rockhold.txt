@@ -1,0 +1,20 @@
+Event : UFC on FX: Belfort vs. Rockhold
+    Date : May 18, 2013
+    Location: Jaragua do Sul, Santa Catarina, Brazil
+    Number of Fights: 13
+    Weight Classes: Lightweight, Middleweight, Flyweight, Light Heavyweight, Featherweight, Welterweight, Bantamweight
+
+    Fight Results:
+  - JACARE SOUZA def. CHRIS CAMOZZI via Submission(R1)
+- FRANCISCO TRINALDO def. MIKE RIO via Submission(R1)
+- RAFAEL NATAL def. JOAO ZEFERINO via Decision - Unanimous(R3)
+- IURI ALCANTARA def. ILIARDE SANTOS via KO/TKO(R1)
+- RAFAEL DOS ANJOS def. EVAN DUNHAM via Decision - Unanimous(R3)
+- JUSSIER FORMIGA def. CHRIS CARIASO via Decision - Unanimous(R3)
+- LUCAS MARTINS def. JEREMY LARSEN via KO/TKO(R3)
+- VITOR BELFORT def. LUKE ROCKHOLD via KO/TKO(R1)
+- PAULO THIAGO def. MICHEL PRAZERES via Decision - Unanimous(R3)
+- NIK LENTZ def. HACRAN DIAS via Decision - Unanimous(R3)
+- GLEISON TIBAU def. JOHN CHOLISH via Submission(R2)
+- FABIO MALDONADO def. ROGER HOLLETT via Decision - Unanimous(R3)
+- JOHN LINEKER def. AZAMAT GASHIMOV via KO/TKO(R2)

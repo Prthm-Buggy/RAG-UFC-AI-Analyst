@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Luque vs. Muhammad
+    Date: April 16, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: SAM HUGHES defeated ISTELA NUNES via Decision - Majority  
+  at 5:00 of round 3
+  Key stats:
+  - SAM HUGHES landed 76 significant strikes
+  - ISTELA NUNES landed 89 significant strikes
+  - Knockdowns: SAM HUGHES 0,  ISTELA NUNES 0
+  - Takedowns: SAM HUGHES 2,  ISTELA NUNES 0

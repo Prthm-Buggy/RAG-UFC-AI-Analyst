@@ -1,0 +1,11 @@
+Fighter: Mark Vologdin
+  Date of Birth: 2000-04-18
+  Career record: 1
+  First fight: 2026-04-04
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :91
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

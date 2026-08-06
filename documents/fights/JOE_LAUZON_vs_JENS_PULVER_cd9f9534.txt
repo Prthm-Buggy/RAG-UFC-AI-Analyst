@@ -1,0 +1,14 @@
+Event: UFC 63: Hughes vs Penn
+    Date: September 23, 2006
+    Location: Anaheim, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE LAUZON defeated JENS PULVER via KO/TKO  
+  at 0:48 of round 1
+  Key stats:
+  - JOE LAUZON landed 9 significant strikes
+  - JENS PULVER landed 0 significant strikes
+  - Knockdowns: JOE LAUZON 1,  JENS PULVER 0
+  - Takedowns: JOE LAUZON 1,  JENS PULVER 0
+  Bonus: ko

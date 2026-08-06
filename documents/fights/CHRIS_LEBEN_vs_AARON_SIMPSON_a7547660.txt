@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Liddell vs Team Ortiz Finale
+    Date: June 19, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS LEBEN defeated AARON SIMPSON via KO/TKO  
+  at 4:17 of round 2
+  Key stats:
+  - CHRIS LEBEN landed 42 significant strikes
+  - AARON SIMPSON landed 43 significant strikes
+  - Knockdowns: CHRIS LEBEN 0,  AARON SIMPSON 0
+  - Takedowns: CHRIS LEBEN 0,  AARON SIMPSON 2
+  Bonus: ko

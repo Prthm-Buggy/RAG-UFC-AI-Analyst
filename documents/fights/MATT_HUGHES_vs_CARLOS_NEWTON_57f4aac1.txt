@@ -1,0 +1,14 @@
+Event: UFC 34: High Voltage
+    Date: November 02, 2001
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT HUGHES defeated CARLOS NEWTON via KO/TKO  
+  at 1:27 of round 2
+  Key stats:
+  - MATT HUGHES landed 8 significant strikes
+  - CARLOS NEWTON landed 2 significant strikes
+  - Knockdowns: MATT HUGHES 0,  CARLOS NEWTON 0
+  - Takedowns: MATT HUGHES 4,  CARLOS NEWTON 0
+  Bonus: belt

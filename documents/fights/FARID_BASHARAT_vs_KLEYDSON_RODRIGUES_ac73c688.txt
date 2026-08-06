@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gane vs. Spivac
+    Date: September 02, 2023
+    Location: Paris, Ile-de-France, France
+    Weight Class: Bantamweight
+    
+
+    Result: FARID BASHARAT defeated KLEYDSON RODRIGUES via Submission  
+  at 4:15 of round 1
+  Key stats:
+  - FARID BASHARAT landed 4 significant strikes
+  - KLEYDSON RODRIGUES landed 7 significant strikes
+  - Knockdowns: FARID BASHARAT 0,  KLEYDSON RODRIGUES 0
+  - Takedowns: FARID BASHARAT 2,  KLEYDSON RODRIGUES 0

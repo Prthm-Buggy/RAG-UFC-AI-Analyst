@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Heavyweights Finale
+    Date: December 05, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAMES MCSWEENEY defeated DARRILL SCHOONOVER via KO/TKO  
+  at 3:20 of round 3
+  Key stats:
+  - JAMES MCSWEENEY landed 58 significant strikes
+  - DARRILL SCHOONOVER landed 16 significant strikes
+  - Knockdowns: JAMES MCSWEENEY 0,  DARRILL SCHOONOVER 0
+  - Takedowns: JAMES MCSWEENEY 1,  DARRILL SCHOONOVER 0

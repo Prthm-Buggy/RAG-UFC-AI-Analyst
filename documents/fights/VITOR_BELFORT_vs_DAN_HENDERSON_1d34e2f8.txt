@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Belfort vs Henderson 2
+    Date: November 09, 2013
+    Location: Goiania, Goias, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: VITOR BELFORT defeated DAN HENDERSON via KO/TKO  
+  at 1:17 of round 1
+  Key stats:
+  - VITOR BELFORT landed 12 significant strikes
+  - DAN HENDERSON landed 1 significant strikes
+  - Knockdowns: VITOR BELFORT 2,  DAN HENDERSON 0
+  - Takedowns: VITOR BELFORT 0,  DAN HENDERSON 0
+  Bonus: ko

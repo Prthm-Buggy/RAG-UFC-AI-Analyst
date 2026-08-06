@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Dollaway
+    Date: December 20, 2014
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: HACRAN DIAS defeated DARREN ELKINS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - HACRAN DIAS landed 30 significant strikes
+  - DARREN ELKINS landed 37 significant strikes
+  - Knockdowns: HACRAN DIAS 0,  DARREN ELKINS 0
+  - Takedowns: HACRAN DIAS 5,  DARREN ELKINS 1

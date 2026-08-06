@@ -1,0 +1,14 @@
+Event: UFC 299: O'Malley vs. Vera 2
+    Date: March 09, 2024
+    Location: Miami, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SEAN O'MALLEY defeated MARLON VERA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - SEAN O'MALLEY landed 230 significant strikes
+  - MARLON VERA landed 89 significant strikes
+  - Knockdowns: SEAN O'MALLEY 0,  MARLON VERA 0
+  - Takedowns: SEAN O'MALLEY 0,  MARLON VERA 0
+  Bonus: belt

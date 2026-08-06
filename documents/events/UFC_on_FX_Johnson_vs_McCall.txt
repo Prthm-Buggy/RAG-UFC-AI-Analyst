@@ -1,0 +1,19 @@
+Event : UFC on FX: Johnson vs McCall
+    Date : June 08, 2012
+    Location: Sunrise, Florida, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Flyweight, Welterweight, Middleweight, Lightweight, Featherweight
+
+    Fight Results:
+  - SEAN PIERSON def. JAKE HECHT via Decision - Unanimous(R3)
+- DEMETRIOUS JOHNSON def. IAN MCCALL via Decision - Unanimous(R3)
+- TIM MEANS def. JUSTIN SALAS via KO/TKO(R1)
+- DUSTIN PAGUE def. JARED PAPAZIAN via Submission(R1)
+- BUDDY ROBERTS def. CAIO MAGALHAES via Decision - Unanimous(R3)
+- MIKE PYLE def. JOSH NEER via KO/TKO(R1)
+- ERICK SILVA def. CHARLIE BRENNEMAN via Submission(R1)
+- EDDIE WINELAND def. SCOTT JORGENSEN via KO/TKO(R2)
+- MATT GRICE def. LEONARD GARCIA via Decision - Unanimous(R3)
+- SETH BACZYNSKI def. LANCE BENOIST via Decision - Split(R3)
+- MIKE PIERCE def. CARLOS EDUARDO ROCHA via Decision - Unanimous(R3)
+- HENRY MARTINEZ def. BERNARDO MAGALHAES via Decision - Split(R3)

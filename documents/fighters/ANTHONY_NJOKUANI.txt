@@ -1,0 +1,11 @@
+Fighter: ANTHONY NJOKUANI
+  Date of Birth: 1980-03-01
+  Career record: 8
+  First fight: 2011-03-19
+  Last fight: 2014-10-04
+
+Career Statistics:
+- Significant Strikes Landed :427
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :1

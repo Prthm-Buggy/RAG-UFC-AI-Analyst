@@ -1,0 +1,13 @@
+Event: UFC 236: Holloway vs. Poirier 2
+    Date: April 13, 2019
+    Location: Atlanta, Georgia, USA
+    Weight Class: Bantamweight
+    
+
+    Result: KHALID TAHA defeated BOSTON SALMON via KO/TKO  
+  at 0:25 of round 1
+  Key stats:
+  - KHALID TAHA landed 5 significant strikes
+  - BOSTON SALMON landed 0 significant strikes
+  - Knockdowns: KHALID TAHA 1,  BOSTON SALMON 0
+  - Takedowns: KHALID TAHA 0,  BOSTON SALMON 0

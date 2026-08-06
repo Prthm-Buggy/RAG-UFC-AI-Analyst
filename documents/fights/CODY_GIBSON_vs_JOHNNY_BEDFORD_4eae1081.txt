@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swanson vs Stephens
+    Date: June 28, 2014
+    Location: San Antonio, Texas, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CODY GIBSON defeated JOHNNY BEDFORD via KO/TKO  
+  at 0:38 of round 1
+  Key stats:
+  - CODY GIBSON landed 3 significant strikes
+  - JOHNNY BEDFORD landed 7 significant strikes
+  - Knockdowns: CODY GIBSON 1,  JOHNNY BEDFORD 0
+  - Takedowns: CODY GIBSON 0,  JOHNNY BEDFORD 0

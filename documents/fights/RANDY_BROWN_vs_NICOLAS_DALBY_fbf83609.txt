@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machado Garry vs. Prates
+    Date: April 26, 2025
+    Location: Kansas City, Missouri, USA
+    Weight Class: Welterweight
+    
+
+    Result: RANDY BROWN defeated NICOLAS DALBY via KO/TKO  
+  at 1:39 of round 2
+  Key stats:
+  - RANDY BROWN landed 54 significant strikes
+  - NICOLAS DALBY landed 26 significant strikes
+  - Knockdowns: RANDY BROWN 1,  NICOLAS DALBY 1
+  - Takedowns: RANDY BROWN 0,  NICOLAS DALBY 0
+  Bonus: fight

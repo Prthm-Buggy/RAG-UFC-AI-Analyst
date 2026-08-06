@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Diaz vs Guillard
+    Date: September 16, 2009
+    Location: Oklahoma City, Oklahoma, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PIERCE defeated BROCK LARSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MIKE PIERCE landed 27 significant strikes
+  - BROCK LARSON landed 11 significant strikes
+  - Knockdowns: MIKE PIERCE 0,  BROCK LARSON 0
+  - Takedowns: MIKE PIERCE 6,  BROCK LARSON 0

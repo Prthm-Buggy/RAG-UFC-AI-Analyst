@@ -1,0 +1,11 @@
+Fighter: GODOFREDO PEPEY
+  Date of Birth: 1987-07-02
+  Career record: 11
+  First fight: 2012-06-23
+  Last fight: 2018-01-27
+
+Career Statistics:
+- Significant Strikes Landed :189
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :8

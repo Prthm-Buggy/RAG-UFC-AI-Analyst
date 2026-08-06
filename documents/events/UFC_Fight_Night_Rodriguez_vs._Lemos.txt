@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Rodriguez vs. Lemos
+    Date : November 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Flyweight, Women's Strawweight, Featherweight, Welterweight, Lightweight, Women's Bantamweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - MARIO BAUTISTA def. BENITO LOPEZ via Submission(R1)
+- GRANT DAWSON def. MARK MADSEN via Submission(R3)
+- AMANDA LEMOS def. MARINA RODRIGUEZ via KO/TKO(R3)
+- TAGIR ULANBEKOV def. NATE MANESS via Submission(R1)
+- JAKE HADLEY def. CARLOS CANDELARIO via Submission(R2)
+- JOHNNY MUNOZ def. LIUDVIK SHOLINIAN via Decision - Unanimous(R3)
+- NEIL MAGNY def. DANIEL RODRIGUEZ via Submission(R3)
+- SHAYILAN NUERDANBIEKE def. DARRICK MINNER via KO/TKO(R1)
+- TAMIRES VIDAL def. RAMONA PASCUAL via KO/TKO(R1)
+- POLYANA VIANA def. JINH YU FREY via KO/TKO(R1)
+- MIRANDA MAVERICK def. SHANNA YOUNG via Decision - Unanimous(R3)

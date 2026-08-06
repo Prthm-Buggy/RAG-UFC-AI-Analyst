@@ -1,0 +1,11 @@
+Fighter: ALI BAGAUTINOV
+  Date of Birth: 1985-06-10
+  Career record: 7
+  First fight: 2013-09-04
+  Last fight: 2016-11-19
+
+Career Statistics:
+- Significant Strikes Landed :323
+- Total takedowns landed :19
+- Knockdowns :2
+- Submission Attempts :2

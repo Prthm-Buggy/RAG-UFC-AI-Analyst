@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edgar vs Faber
+    Date: May 16, 2015
+    Location: Manila, Philippines
+    Weight Class: Flyweight
+    
+
+    Result: JON DELOS REYES defeated ROLDAN SANGCHA'AN via Submission  
+  at 3:13 of round 2
+  Key stats:
+  - JON DELOS REYES landed 23 significant strikes
+  - ROLDAN SANGCHA'AN landed 27 significant strikes
+  - Knockdowns: JON DELOS REYES 1,  ROLDAN SANGCHA'AN 0
+  - Takedowns: JON DELOS REYES 1,  ROLDAN SANGCHA'AN 2
+  Bonus: fight

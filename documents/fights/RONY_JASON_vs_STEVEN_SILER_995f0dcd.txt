@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shogun vs Henderson 2
+    Date: March 23, 2014
+    Location: Natal, Rio Grande do Norte, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: RONY JASON defeated STEVEN SILER via KO/TKO  
+  at 1:17 of round 1
+  Key stats:
+  - RONY JASON landed 3 significant strikes
+  - STEVEN SILER landed 11 significant strikes
+  - Knockdowns: RONY JASON 1,  STEVEN SILER 0
+  - Takedowns: RONY JASON 0,  STEVEN SILER 0

@@ -1,0 +1,11 @@
+Fighter: PETE SELL
+  Date of Birth: 1982-08-05
+  Career record: 7
+  First fight: 2005-02-05
+  Last fight: 2009-03-07
+
+Career Statistics:
+- Significant Strikes Landed :171
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :4

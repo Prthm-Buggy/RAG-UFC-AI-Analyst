@@ -1,0 +1,11 @@
+Fighter: KRIS MCCRAY
+  Date of Birth: 1981-09-24
+  Career record: 3
+  First fight: 2010-06-19
+  Last fight: 2011-03-26
+
+Career Statistics:
+- Significant Strikes Landed :70
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

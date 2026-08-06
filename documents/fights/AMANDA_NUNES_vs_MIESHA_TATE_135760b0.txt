@@ -1,0 +1,14 @@
+Event: UFC 200: Tate vs Nunes
+    Date: July 09, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AMANDA NUNES defeated MIESHA TATE via Submission  
+  at 3:16 of round 1
+  Key stats:
+  - AMANDA NUNES landed 40 significant strikes
+  - MIESHA TATE landed 3 significant strikes
+  - Knockdowns: AMANDA NUNES 0,  MIESHA TATE 0
+  - Takedowns: AMANDA NUNES 0,  MIESHA TATE 0
+  Bonus: belt

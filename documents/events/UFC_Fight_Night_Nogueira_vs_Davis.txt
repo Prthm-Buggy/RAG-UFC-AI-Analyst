@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Nogueira vs Davis
+    Date : March 26, 2011
+    Location: Seattle, Washington, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Bantamweight, Welterweight, Middleweight, Light Heavyweight, Featherweight, Lightweight
+
+    Fight Results:
+  - ANTHONY JOHNSON def. DAN HARDY via Decision - Unanimous(R3)
+- MIKE RUSSOW def. JON MADSEN via TKO - Doctor's Stoppage(R2)
+- NIK LENTZ def. WAYLON LOWE via Submission(R3)
+- MICHAEL MCDONALD def. EDWIN FIGUEROA via Decision - Unanimous(R3)
+- JOHNY HENDRICKS def. TJ WALDBURGER via KO/TKO(R1)
+- CHRISTIAN MORECRAFT def. SEAN MCCORKLE via Submission(R2)
+- AARON SIMPSON def. MARIO MIRANDA via Decision - Unanimous(R3)
+- CHAN SUNG JUNG def. LEONARD GARCIA via Submission(R2)
+- PHIL DAVIS def. ROGERIO NOGUEIRA via Decision - Unanimous(R3)
+- JOHN HATHAWAY def. KRIS MCCRAY via Decision - Split(R3)
+- AMIR SADOLLAH def. DAMARQUES JOHNSON via KO/TKO(R2)
+- MACKENS SEMERZIER def. ALEX CACERES via Submission(R1)

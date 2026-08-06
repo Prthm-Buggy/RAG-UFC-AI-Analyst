@@ -1,0 +1,11 @@
+Fighter: LUAN LACERDA
+  Date of Birth: 1993-01-07
+  Career record: 4
+  First fight: 2023-01-21
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :194
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :2

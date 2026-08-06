@@ -1,0 +1,14 @@
+Event: UFC 206: Holloway vs. Pettis
+    Date: December 10, 2016
+    Location: Toronto, Ontario, Canada
+    Weight Class: Featherweight
+    
+
+    Result: CUB SWANSON defeated DOOHO CHOI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CUB SWANSON landed 111 significant strikes
+  - DOOHO CHOI landed 77 significant strikes
+  - Knockdowns: CUB SWANSON 0,  DOOHO CHOI 0
+  - Takedowns: CUB SWANSON 2,  DOOHO CHOI 1
+  Bonus: fight

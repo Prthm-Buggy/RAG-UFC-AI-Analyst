@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Holloway vs. Rodriguez
+    Date : November 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Lightweight, Featherweight, Welterweight, Women's Featherweight, Light Heavyweight, Women's Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - MAX HOLLOWAY def. YAIR RODRIGUEZ via Decision - Unanimous(R5)
+- SEAN WOODSON def. COLLIN ANGLIN via KO/TKO(R1)
+- SONG YADONG def. JULIO ARCE via KO/TKO(R2)
+- CORTNEY CASEY def. LIANA JOJUA via Decision - Unanimous(R3)
+- KHAOS WILLIAMS def. MIGUEL BAEZA via KO/TKO(R3)
+- JOEL ALVAREZ def. THIAGO MOISES via KO/TKO(R1)
+- MARCOS ROGERIO DE LIMA def. BEN ROTHWELL via KO/TKO(R1)
+- DA WOON JUNG def. KENNEDY NZECHUKWU via KO/TKO(R1)
+- ANDREA LEE def. CYNTHIA CALVILLO via KO/TKO(R2)
+- RAFAEL ALVES def. MARC DIAKIESE via Submission(R1)
+- FELICIA SPENCER def. LEAH LETSON via KO/TKO(R3)

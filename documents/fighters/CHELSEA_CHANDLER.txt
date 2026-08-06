@@ -1,0 +1,11 @@
+Fighter: CHELSEA CHANDLER
+  Date of Birth: 1990-11-23
+  Career record: 6
+  First fight: 2022-10-01
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :195
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

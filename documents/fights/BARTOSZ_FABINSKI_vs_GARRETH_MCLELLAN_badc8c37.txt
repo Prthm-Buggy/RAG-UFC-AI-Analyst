@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gonzaga vs Cro Cop 2
+    Date: April 11, 2015
+    Location: Krakow, Poland
+    Weight Class: Middleweight
+    
+
+    Result: BARTOSZ FABINSKI defeated GARRETH MCLELLAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BARTOSZ FABINSKI landed 41 significant strikes
+  - GARRETH MCLELLAN landed 13 significant strikes
+  - Knockdowns: BARTOSZ FABINSKI 0,  GARRETH MCLELLAN 0
+  - Takedowns: BARTOSZ FABINSKI 10,  GARRETH MCLELLAN 0

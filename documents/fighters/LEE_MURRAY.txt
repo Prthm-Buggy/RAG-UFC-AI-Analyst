@@ -1,0 +1,11 @@
+Fighter: LEE MURRAY
+  Date of Birth: 1977-09-12
+  Career record: 1
+  First fight: 2004-01-31
+  Last fight: 2004-01-31
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :2

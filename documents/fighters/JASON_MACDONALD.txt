@@ -1,0 +1,11 @@
+Fighter: JASON MACDONALD
+  Date of Birth: 1975-06-03
+  Career record: 14
+  First fight: 2006-10-10
+  Last fight: 2012-05-15
+
+Career Statistics:
+- Significant Strikes Landed :130
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :11

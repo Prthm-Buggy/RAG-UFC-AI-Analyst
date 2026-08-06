@@ -1,0 +1,11 @@
+Fighter: MARCUS LEVESSEUR
+  Date of Birth: 1982-07-17
+  Career record: 3
+  First fight: 2012-05-15
+  Last fight: 2012-12-08
+
+Career Statistics:
+- Significant Strikes Landed :69
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :1

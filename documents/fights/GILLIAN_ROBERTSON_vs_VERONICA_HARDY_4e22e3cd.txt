@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blachowicz vs. Santos
+    Date: February 23, 2019
+    Location: Prague, Czech Republic
+    Weight Class: Women's Flyweight
+    
+
+    Result: GILLIAN ROBERTSON defeated VERONICA HARDY via Submission  
+  at 3:27 of round 2
+  Key stats:
+  - GILLIAN ROBERTSON landed 5 significant strikes
+  - VERONICA HARDY landed 23 significant strikes
+  - Knockdowns: GILLIAN ROBERTSON 0,  VERONICA HARDY 0
+  - Takedowns: GILLIAN ROBERTSON 2,  VERONICA HARDY 1

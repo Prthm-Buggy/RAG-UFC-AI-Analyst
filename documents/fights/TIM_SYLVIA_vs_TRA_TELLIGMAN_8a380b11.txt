@@ -1,0 +1,13 @@
+Event: UFC 54: Boiling Point
+    Date: August 20, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TIM SYLVIA defeated TRA TELLIGMAN via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - TIM SYLVIA landed 31 significant strikes
+  - TRA TELLIGMAN landed 13 significant strikes
+  - Knockdowns: TIM SYLVIA 1,  TRA TELLIGMAN 0
+  - Takedowns: TIM SYLVIA 0,  TRA TELLIGMAN 0

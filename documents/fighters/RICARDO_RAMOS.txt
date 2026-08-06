@@ -1,0 +1,11 @@
+Fighter: RICARDO RAMOS
+  Date of Birth: 1995-08-01
+  Career record: 15
+  First fight: 2017-02-04
+  Last fight: 2025-10-11
+
+Career Statistics:
+- Significant Strikes Landed :400
+- Total takedowns landed :23
+- Knockdowns :3
+- Submission Attempts :9

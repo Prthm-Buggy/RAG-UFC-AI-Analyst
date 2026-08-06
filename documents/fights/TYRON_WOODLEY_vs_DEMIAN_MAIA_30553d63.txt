@@ -1,0 +1,14 @@
+Event: UFC 214: Cormier vs. Jones 2
+    Date: July 29, 2017
+    Location: Anaheim, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: TYRON WOODLEY defeated DEMIAN MAIA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - TYRON WOODLEY landed 57 significant strikes
+  - DEMIAN MAIA landed 28 significant strikes
+  - Knockdowns: TYRON WOODLEY 1,  DEMIAN MAIA 0
+  - Takedowns: TYRON WOODLEY 0,  DEMIAN MAIA 0
+  Bonus: belt

@@ -1,0 +1,14 @@
+Event: UFC 185: Pettis vs Dos Anjos
+    Date: March 14, 2015
+    Location: Dallas, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: ROSS PEARSON defeated SAM STOUT via KO/TKO  
+  at 1:33 of round 2
+  Key stats:
+  - ROSS PEARSON landed 25 significant strikes
+  - SAM STOUT landed 23 significant strikes
+  - Knockdowns: ROSS PEARSON 1,  SAM STOUT 0
+  - Takedowns: ROSS PEARSON 0,  SAM STOUT 0
+  Bonus: perf

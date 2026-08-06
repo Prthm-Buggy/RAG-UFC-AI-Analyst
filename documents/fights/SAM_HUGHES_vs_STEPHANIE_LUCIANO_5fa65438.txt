@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Dolidze 2
+    Date: March 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: SAM HUGHES defeated STEPHANIE LUCIANO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - SAM HUGHES landed 76 significant strikes
+  - STEPHANIE LUCIANO landed 82 significant strikes
+  - Knockdowns: SAM HUGHES 0,  STEPHANIE LUCIANO 0
+  - Takedowns: SAM HUGHES 3,  STEPHANIE LUCIANO 1

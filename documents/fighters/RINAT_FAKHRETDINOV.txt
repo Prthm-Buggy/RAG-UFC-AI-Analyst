@@ -1,0 +1,11 @@
+Fighter: RINAT FAKHRETDINOV
+  Date of Birth: 1991-09-28
+  Career record: 6
+  First fight: 2022-06-04
+  Last fight: 2025-09-06
+
+Career Statistics:
+- Significant Strikes Landed :299
+- Total takedowns landed :19
+- Knockdowns :2
+- Submission Attempts :1

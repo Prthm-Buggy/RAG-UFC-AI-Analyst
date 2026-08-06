@@ -1,0 +1,14 @@
+Event: UFC 312: Du Plessis vs. Strickland 2
+    Date: February 08, 2025
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Women's Strawweight
+    
+
+    Result: ZHANG WEILI defeated TATIANA SUAREZ via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ZHANG WEILI landed 53 significant strikes
+  - TATIANA SUAREZ landed 12 significant strikes
+  - Knockdowns: ZHANG WEILI 0,  TATIANA SUAREZ 0
+  - Takedowns: ZHANG WEILI 1,  TATIANA SUAREZ 1
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Minotauro vs Nelson
+    Date: April 11, 2014
+    Location: Abu Dhabi, United Arab Emirates
+    Weight Class: Welterweight
+    
+
+    Result: RYAN LAFLARE defeated JOHN HOWARD via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RYAN LAFLARE landed 64 significant strikes
+  - JOHN HOWARD landed 35 significant strikes
+  - Knockdowns: RYAN LAFLARE 0,  JOHN HOWARD 1
+  - Takedowns: RYAN LAFLARE 4,  JOHN HOWARD 1

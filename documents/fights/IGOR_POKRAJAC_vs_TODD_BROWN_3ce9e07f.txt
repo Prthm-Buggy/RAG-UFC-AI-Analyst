@@ -1,0 +1,13 @@
+Event: UFC Live: Sanchez vs Kampmann
+    Date: March 03, 2011
+    Location: Louisville, Kentucky, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: IGOR POKRAJAC defeated TODD BROWN via KO/TKO  
+  at 5:00 of round 1
+  Key stats:
+  - IGOR POKRAJAC landed 17 significant strikes
+  - TODD BROWN landed 15 significant strikes
+  - Knockdowns: IGOR POKRAJAC 1,  TODD BROWN 0
+  - Takedowns: IGOR POKRAJAC 0,  TODD BROWN 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Korean Zombie vs. Rodriguez
+    Date: November 10, 2018
+    Location: Denver, Colorado, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ASHLEY YODER defeated AMANDA COOPER via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ASHLEY YODER landed 38 significant strikes
+  - AMANDA COOPER landed 51 significant strikes
+  - Knockdowns: ASHLEY YODER 0,  AMANDA COOPER 0
+  - Takedowns: ASHLEY YODER 1,  AMANDA COOPER 2

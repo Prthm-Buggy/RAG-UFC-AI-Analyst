@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Costa vs. Vettori
+    Date: October 23, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JAI HERBERT defeated KHAMA WORTHY via KO/TKO  
+  at 2:47 of round 1
+  Key stats:
+  - JAI HERBERT landed 24 significant strikes
+  - KHAMA WORTHY landed 11 significant strikes
+  - Knockdowns: JAI HERBERT 1,  KHAMA WORTHY 0
+  - Takedowns: JAI HERBERT 0,  KHAMA WORTHY 0

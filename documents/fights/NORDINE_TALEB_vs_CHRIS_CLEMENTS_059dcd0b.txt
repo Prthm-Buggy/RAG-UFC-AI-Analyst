@@ -1,0 +1,13 @@
+Event: UFC 186: Johnson vs Horiguchi
+    Date: April 25, 2015
+    Location: Montreal, Quebec, Canada
+    Weight Class: Welterweight
+    
+
+    Result: NORDINE TALEB defeated CHRIS CLEMENTS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NORDINE TALEB landed 36 significant strikes
+  - CHRIS CLEMENTS landed 17 significant strikes
+  - Knockdowns: NORDINE TALEB 0,  CHRIS CLEMENTS 0
+  - Takedowns: NORDINE TALEB 6,  CHRIS CLEMENTS 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Aspinall vs. Tybura
+    Date: July 22, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: JONNY PARSONS defeated DANNY ROBERTS via KO/TKO  
+  at 4:57 of round 2
+  Key stats:
+  - JONNY PARSONS landed 63 significant strikes
+  - DANNY ROBERTS landed 44 significant strikes
+  - Knockdowns: JONNY PARSONS 2,  DANNY ROBERTS 0
+  - Takedowns: JONNY PARSONS 0,  DANNY ROBERTS 0
+  Bonus: fight

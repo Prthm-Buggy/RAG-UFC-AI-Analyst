@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lauzon vs Stephens
+    Date: February 07, 2009
+    Location: Tampa, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAN MILLER defeated JAKE ROSHOLT via Submission  
+  at 1:03 of round 1
+  Key stats:
+  - DAN MILLER landed 2 significant strikes
+  - JAKE ROSHOLT landed 2 significant strikes
+  - Knockdowns: DAN MILLER 0,  JAKE ROSHOLT 0
+  - Takedowns: DAN MILLER 0,  JAKE ROSHOLT 1

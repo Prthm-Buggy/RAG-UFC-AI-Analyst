@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Teixeira vs Bader
+    Date: September 04, 2013
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: PIOTR HALLMANN defeated FRANCISCO TRINALDO via Submission  
+  at 3:50 of round 2
+  Key stats:
+  - PIOTR HALLMANN landed 42 significant strikes
+  - FRANCISCO TRINALDO landed 22 significant strikes
+  - Knockdowns: PIOTR HALLMANN 0,  FRANCISCO TRINALDO 1
+  - Takedowns: PIOTR HALLMANN 2,  FRANCISCO TRINALDO 1
+  Bonus: sub

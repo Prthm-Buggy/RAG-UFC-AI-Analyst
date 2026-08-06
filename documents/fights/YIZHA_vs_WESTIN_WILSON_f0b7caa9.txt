@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Walker vs. Zhang
+    Date: August 23, 2025
+    Location: Shanghai, Hebei, China
+    Weight Class: Featherweight
+    
+
+    Result: YIZHA defeated WESTIN WILSON via KO/TKO  
+  at 0:37 of round 1
+  Key stats:
+  - YIZHA landed 13 significant strikes
+  - WESTIN WILSON landed 0 significant strikes
+  - Knockdowns: YIZHA 2,  WESTIN WILSON 0
+  - Takedowns: YIZHA 0,  WESTIN WILSON 0

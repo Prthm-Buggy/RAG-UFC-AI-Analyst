@@ -1,0 +1,13 @@
+Event: UFC on FOX: Evans vs Davis
+    Date: January 28, 2012
+    Location: Chicago, Illinois, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MIKE RUSSOW defeated JON OLAV EINEMO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MIKE RUSSOW landed 21 significant strikes
+  - JON OLAV EINEMO landed 31 significant strikes
+  - Knockdowns: MIKE RUSSOW 0,  JON OLAV EINEMO 0
+  - Takedowns: MIKE RUSSOW 6,  JON OLAV EINEMO 0

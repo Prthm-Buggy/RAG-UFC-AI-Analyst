@@ -1,0 +1,11 @@
+Fighter: JEFF HUGHES
+  Date of Birth: 1988-05-17
+  Career record: 3
+  First fight: 2019-03-09
+  Last fight: 2020-09-26
+
+Career Statistics:
+- Significant Strikes Landed :100
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

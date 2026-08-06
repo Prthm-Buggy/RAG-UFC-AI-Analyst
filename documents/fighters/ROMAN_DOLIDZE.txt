@@ -1,0 +1,11 @@
+Fighter: ROMAN DOLIDZE
+  Date of Birth: 1988-07-15
+  Career record: 14
+  First fight: 2020-07-18
+  Last fight: 2026-03-21
+
+Career Statistics:
+- Significant Strikes Landed :578
+- Total takedowns landed :14
+- Knockdowns :4
+- Submission Attempts :9

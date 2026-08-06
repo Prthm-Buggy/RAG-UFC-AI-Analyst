@@ -1,0 +1,11 @@
+Fighter: DOMINIQUE STEELE
+  Date of Birth: 1988-01-27
+  Career record: 5
+  First fight: 2015-07-25
+  Last fight: 2017-06-10
+
+Career Statistics:
+- Significant Strikes Landed :139
+- Total takedowns landed :11
+- Knockdowns :2
+- Submission Attempts :0

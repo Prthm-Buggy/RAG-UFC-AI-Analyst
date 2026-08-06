@@ -1,0 +1,13 @@
+Event: UFC Live: Hardy vs Lytle
+    Date: August 14, 2011
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Middleweight
+    
+
+    Result: ED HERMAN defeated KYLE NOKE via Submission  
+  at 4:15 of round 1
+  Key stats:
+  - ED HERMAN landed 2 significant strikes
+  - KYLE NOKE landed 12 significant strikes
+  - Knockdowns: ED HERMAN 0,  KYLE NOKE 0
+  - Takedowns: ED HERMAN 1,  KYLE NOKE 1

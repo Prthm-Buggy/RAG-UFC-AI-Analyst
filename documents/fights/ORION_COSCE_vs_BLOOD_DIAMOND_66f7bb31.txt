@@ -1,0 +1,13 @@
+Event: UFC 277: Pena vs. Nunes 2
+    Date: July 30, 2022
+    Location: Dallas, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: ORION COSCE defeated BLOOD DIAMOND via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ORION COSCE landed 25 significant strikes
+  - BLOOD DIAMOND landed 63 significant strikes
+  - Knockdowns: ORION COSCE 0,  BLOOD DIAMOND 0
+  - Takedowns: ORION COSCE 3,  BLOOD DIAMOND 0

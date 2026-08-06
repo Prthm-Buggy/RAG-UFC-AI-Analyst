@@ -1,0 +1,11 @@
+Fighter: DEIVESON FIGUEIREDO
+  Date of Birth: 1987-12-18
+  Career record: 21
+  First fight: 2017-06-03
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :581
+- Total takedowns landed :28
+- Knockdowns :12
+- Submission Attempts :22

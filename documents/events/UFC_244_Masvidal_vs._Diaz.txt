@@ -1,0 +1,19 @@
+Event : UFC 244: Masvidal vs. Diaz
+    Date : November 02, 2019
+    Location: New York City, New York, USA
+    Number of Fights: 12
+    Weight Classes: Women's Flyweight, Heavyweight, Featherweight, Welterweight, Lightweight, Middleweight, Light Heavyweight
+
+    Fight Results:
+  - KEVIN LEE def. GREGOR GILLESPIE via KO/TKO(R1)
+- DERRICK LEWIS def. BLAGOY IVANOV via Decision - Split(R3)
+- KATLYN CERMINARA def. JENNIFER MAIA via Decision - Unanimous(R3)
+- JAIRZINHO ROZENSTRUIK def. ANDREI ARLOVSKI via KO/TKO(R1)
+- EDMEN SHAHBAZYAN def. BRAD TAVARES via KO/TKO(R1)
+- SHANE BURGOS def. MAKWAN AMIRKHANI via KO/TKO(R3)
+- STEPHEN THOMPSON def. VICENTE LUQUE via Decision - Unanimous(R3)
+- HAKEEM DAWODU def. JULIO ARCE via Decision - Split(R3)
+- COREY ANDERSON def. JOHNNY WALKER via KO/TKO(R1)
+- JORGE MASVIDAL def. NATE DIAZ via TKO - Doctor's Stoppage(R3)
+- DARREN TILL def. KELVIN GASTELUM via Decision - Split(R3)
+- LYMAN GOOD def. CHANCE RENCOUNTRE via KO/TKO(R3)

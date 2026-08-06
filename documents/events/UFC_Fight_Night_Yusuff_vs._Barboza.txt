@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Yusuff vs. Barboza
+    Date : October 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Women's Flyweight, Women's Bantamweight, Featherweight, Middleweight, Lightweight, Women's Strawweight
+
+    Fight Results:
+  - CHRIS GUTIERREZ def. ALATENGHEILI via Decision - Unanimous(R3)
+- MICHEL PEREIRA def. ANDRE PETROSKI via KO/TKO(R1)
+- CHRISTIAN RODRIGUEZ def. CAMERON SAAIMAN via Decision - Unanimous(R3)
+- JONATHAN MARTINEZ def. ADRIAN YANEZ via KO/TKO(R2)
+- MELISSA MULLINS def. IRINA ALEKSEEVA via Decision - Unanimous(R3)
+- EDSON BARBOZA def. SODIQ YUSUFF via Decision - Unanimous(R5)
+- DARREN ELKINS def. TJ BROWN via Submission(R3)
+- VIVIANE ARAUJO def. JENNIFER MAIA via Decision - Unanimous(R3)
+- EMILY DUCOTE def. ASHLEY YODER via Decision - Unanimous(R3)
+- TERRANCE MCKINNEY def. BRENDON MAROTTE via KO/TKO(R1)
+- TAINARA LISBOA def. RAVENA OLIVEIRA via Decision - Unanimous(R3)

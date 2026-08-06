@@ -1,0 +1,13 @@
+Event: UFC 125: Resolution
+    Date: January 01, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRAD TAVARES defeated PHIL BARONI via KO/TKO  
+  at 4:20 of round 1
+  Key stats:
+  - BRAD TAVARES landed 22 significant strikes
+  - PHIL BARONI landed 11 significant strikes
+  - Knockdowns: BRAD TAVARES 1,  PHIL BARONI 1
+  - Takedowns: BRAD TAVARES 0,  PHIL BARONI 0

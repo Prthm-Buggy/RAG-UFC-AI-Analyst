@@ -1,0 +1,14 @@
+Event: UFC 79: Nemesis
+    Date: December 29, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: EDDIE SANCHEZ defeated SOA PALELEI via KO/TKO  
+  at 3:24 of round 3
+  Key stats:
+  - EDDIE SANCHEZ landed 52 significant strikes
+  - SOA PALELEI landed 21 significant strikes
+  - Knockdowns: EDDIE SANCHEZ 0,  SOA PALELEI 0
+  - Takedowns: EDDIE SANCHEZ 1,  SOA PALELEI 1
+  Bonus: ko

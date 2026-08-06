@@ -1,0 +1,11 @@
+Fighter: FELICIA SPENCER
+  Date of Birth: 1990-11-29
+  Career record: 6
+  First fight: 2019-05-18
+  Last fight: 2021-11-13
+
+Career Statistics:
+- Significant Strikes Landed :245
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

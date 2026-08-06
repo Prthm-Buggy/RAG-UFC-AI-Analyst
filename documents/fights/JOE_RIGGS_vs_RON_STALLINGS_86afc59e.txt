@@ -1,0 +1,13 @@
+Event: UFC 191: Johnson vs Dodson 2
+    Date: September 05, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOE RIGGS defeated RON STALLINGS via DQ  
+  at 2:28 of round 2
+  Key stats:
+  - JOE RIGGS landed 35 significant strikes
+  - RON STALLINGS landed 24 significant strikes
+  - Knockdowns: JOE RIGGS 1,  RON STALLINGS 0
+  - Takedowns: JOE RIGGS 2,  RON STALLINGS 0

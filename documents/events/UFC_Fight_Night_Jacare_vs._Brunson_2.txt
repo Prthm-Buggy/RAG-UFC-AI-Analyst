@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Jacare vs. Brunson 2
+    Date : January 27, 2018
+    Location: Charlotte, North Carolina, USA
+    Number of Fights: 12
+    Weight Classes: Women's Flyweight, Middleweight, Featherweight, Welterweight, Lightweight, Women's Strawweight
+
+    Fight Results:
+  - ANDRE FILI def. DENNIS BERMUDEZ via Decision - Split(R3)
+- KATLYN CERMINARA def. MARA ROMERO BORELLA via Decision - Unanimous(R3)
+- CORY SANDHAGEN def. AUSTIN ARNETT via KO/TKO(R2)
+- KING GREEN def. ERIK KOCH via Decision - Unanimous(R3)
+- NIKO PRICE def. GEORGE SULLIVAN via Submission(R2)
+- JI YEON KIM def. JUSTINE KISH via Decision - Split(R3)
+- GREGOR GILLESPIE def. JORDAN RINALDI via KO/TKO(R1)
+- DREW DOBER def. FRANK CAMACHO via Decision - Unanimous(R3)
+- VINC PICHEL def. JOAQUIM SILVA via Decision - Unanimous(R3)
+- RANDA MARKOS def. JULIANA LIMA via Decision - Unanimous(R3)
+- MIRSAD BEKTIC def. GODOFREDO PEPEY via KO/TKO(R1)
+- JACARE SOUZA def. DEREK BRUNSON via KO/TKO(R1)

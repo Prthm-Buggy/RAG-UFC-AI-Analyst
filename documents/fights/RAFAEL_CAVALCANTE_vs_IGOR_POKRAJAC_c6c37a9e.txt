@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs Henderson 2
+    Date: November 09, 2013
+    Location: Goiania, Goias, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: RAFAEL CAVALCANTE defeated IGOR POKRAJAC via KO/TKO  
+  at 1:18 of round 1
+  Key stats:
+  - RAFAEL CAVALCANTE landed 16 significant strikes
+  - IGOR POKRAJAC landed 9 significant strikes
+  - Knockdowns: RAFAEL CAVALCANTE 1,  IGOR POKRAJAC 0
+  - Takedowns: RAFAEL CAVALCANTE 0,  IGOR POKRAJAC 0

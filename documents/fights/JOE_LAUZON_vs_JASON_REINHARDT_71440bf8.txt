@@ -1,0 +1,13 @@
+Event: UFC 78: Validation
+    Date: November 17, 2007
+    Location: Newark, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE LAUZON defeated JASON REINHARDT via Submission  
+  at 1:14 of round 1
+  Key stats:
+  - JOE LAUZON landed 5 significant strikes
+  - JASON REINHARDT landed 1 significant strikes
+  - Knockdowns: JOE LAUZON 0,  JASON REINHARDT 0
+  - Takedowns: JOE LAUZON 1,  JASON REINHARDT 0

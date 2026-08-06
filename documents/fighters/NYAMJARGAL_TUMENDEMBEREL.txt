@@ -1,0 +1,11 @@
+Fighter: NYAMJARGAL TUMENDEMBEREL
+  Date of Birth: 1998-03-22
+  Career record: 3
+  First fight: 2024-11-23
+  Last fight: 2026-03-07
+
+Career Statistics:
+- Significant Strikes Landed :62
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :3

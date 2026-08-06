@@ -1,0 +1,11 @@
+Fighter: JAMES TE HUNA
+  Date of Birth: 1981-09-29
+  Career record: 10
+  First fight: 2010-02-20
+  Last fight: 2016-03-19
+
+Career Statistics:
+- Significant Strikes Landed :242
+- Total takedowns landed :11
+- Knockdowns :2
+- Submission Attempts :1

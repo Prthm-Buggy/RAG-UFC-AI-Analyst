@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sanchez vs Riggs
+    Date: December 13, 2006
+    Location: San Diego, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSH KOSCHECK defeated JEFF JOSLIN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOSH KOSCHECK landed 14 significant strikes
+  - JEFF JOSLIN landed 18 significant strikes
+  - Knockdowns: JOSH KOSCHECK 0,  JEFF JOSLIN 0
+  - Takedowns: JOSH KOSCHECK 6,  JEFF JOSLIN 0

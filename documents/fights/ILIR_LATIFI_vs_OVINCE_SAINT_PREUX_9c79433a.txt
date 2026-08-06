@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Emmett vs. Stephens
+    Date: February 24, 2018
+    Location: Orlando, Florida, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ILIR LATIFI defeated OVINCE SAINT PREUX via Submission  
+  at 3:48 of round 1
+  Key stats:
+  - ILIR LATIFI landed 25 significant strikes
+  - OVINCE SAINT PREUX landed 7 significant strikes
+  - Knockdowns: ILIR LATIFI 1,  OVINCE SAINT PREUX 0
+  - Takedowns: ILIR LATIFI 0,  OVINCE SAINT PREUX 0
+  Bonus: perf

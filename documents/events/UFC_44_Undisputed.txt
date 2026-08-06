@@ -1,0 +1,16 @@
+Event : UFC 44: Undisputed
+    Date : September 26, 2003
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Heavyweight, Lightweight, Welterweight, Light Heavyweight, Middleweight
+
+    Fight Results:
+  - ANDREI ARLOVSKI def. VLADIMIR MATYUSHENKO via KO/TKO(R1)
+- TIM SYLVIA def. GAN MCGEE via KO/TKO(R1)
+- KARO PARISYAN def. DAVE STRASSER via Submission(R1)
+- JORGE RIVERA def. DAVID LOISEAU via Decision - Unanimous(R3)
+- RANDY COUTURE def. TITO ORTIZ via Decision - Unanimous(R5)
+- HERMES FRANCA def. CAOL UNO via KO/TKO(R2)
+- JOSH THOMSON def. GERALD STREBENDT via KO/TKO(R1)
+- NICK DIAZ def. JEREMY JACKSON via Submission(R3)
+- RICH FRANKLIN def. EDWIN DEWEES via KO/TKO(R1)

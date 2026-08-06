@@ -1,0 +1,13 @@
+Event: UFC 142: Aldo vs Mendes
+    Date: January 14, 2012
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: IURI ALCANTARA defeated MICHIHIRO OMIGAWA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - IURI ALCANTARA landed 60 significant strikes
+  - MICHIHIRO OMIGAWA landed 24 significant strikes
+  - Knockdowns: IURI ALCANTARA 0,  MICHIHIRO OMIGAWA 0
+  - Takedowns: IURI ALCANTARA 0,  MICHIHIRO OMIGAWA 1

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holm vs. Correia
+    Date: June 17, 2017
+    Location: Kallang, Singapore
+    Weight Class: Flyweight
+    
+
+    Result: YUTA SASAKI defeated JUSTIN SCOGGINS via Submission  
+  at 3:19 of round 2
+  Key stats:
+  - YUTA SASAKI landed 21 significant strikes
+  - JUSTIN SCOGGINS landed 37 significant strikes
+  - Knockdowns: YUTA SASAKI 0,  JUSTIN SCOGGINS 1
+  - Takedowns: YUTA SASAKI 2,  JUSTIN SCOGGINS 1
+  Bonus: perf

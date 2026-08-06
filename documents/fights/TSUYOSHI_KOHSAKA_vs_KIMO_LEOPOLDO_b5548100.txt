@@ -1,0 +1,13 @@
+Event: UFC 16: Battle in the Bayou
+    Date: March 13, 1998
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TSUYOSHI KOHSAKA defeated KIMO LEOPOLDO via Decision - Unanimous  
+  at 3:00 of round 2
+  Key stats:
+  - TSUYOSHI KOHSAKA landed 45 significant strikes
+  - KIMO LEOPOLDO landed 13 significant strikes
+  - Knockdowns: TSUYOSHI KOHSAKA 0,  KIMO LEOPOLDO 0
+  - Takedowns: TSUYOSHI KOHSAKA 0,  KIMO LEOPOLDO 2

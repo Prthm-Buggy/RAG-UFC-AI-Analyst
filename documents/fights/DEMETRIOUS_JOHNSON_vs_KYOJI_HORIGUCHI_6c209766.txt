@@ -1,0 +1,14 @@
+Event: UFC 186: Johnson vs Horiguchi
+    Date: April 25, 2015
+    Location: Montreal, Quebec, Canada
+    Weight Class: Flyweight
+    
+
+    Result: DEMETRIOUS JOHNSON defeated KYOJI HORIGUCHI via Submission  
+  at 4:59 of round 5
+  Key stats:
+  - DEMETRIOUS JOHNSON landed 66 significant strikes
+  - KYOJI HORIGUCHI landed 31 significant strikes
+  - Knockdowns: DEMETRIOUS JOHNSON 0,  KYOJI HORIGUCHI 0
+  - Takedowns: DEMETRIOUS JOHNSON 14,  KYOJI HORIGUCHI 1
+  Bonus: belt

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Grasso vs. Shevchenko 2
+    Date: September 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: LOOPY GODINEZ defeated ELISE REED via Submission  
+  at 3:38 of round 2
+  Key stats:
+  - LOOPY GODINEZ landed 21 significant strikes
+  - ELISE REED landed 3 significant strikes
+  - Knockdowns: LOOPY GODINEZ 1,  ELISE REED 0
+  - Takedowns: LOOPY GODINEZ 5,  ELISE REED 0
+  Bonus: perf

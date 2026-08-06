@@ -1,0 +1,11 @@
+Fighter: ANTHONY SMITH
+  Date of Birth: 1988-07-26
+  Career record: 25
+  First fight: 2013-06-08
+  Last fight: 2025-04-26
+
+Career Statistics:
+- Significant Strikes Landed :840
+- Total takedowns landed :8
+- Knockdowns :7
+- Submission Attempts :8

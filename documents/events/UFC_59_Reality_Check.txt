@@ -1,0 +1,16 @@
+Event : UFC 59: Reality Check
+    Date : April 15, 2006
+    Location: Anaheim, California, USA
+    Number of Fights: 9
+    Weight Classes: Heavyweight, Middleweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - KARO PARISYAN def. NICK THOMPSON via KO/TKO(R1)
+- JEFF MONSON def. MARCIO CRUZ via Decision - Split(R3)
+- DAVID TERRELL def. SCOTT SMITH via Submission(R1)
+- JASON LAMBERT def. TERRY MARTIN via KO/TKO(R2)
+- SEAN SHERK def. NICK DIAZ via Decision - Unanimous(R3)
+- TITO ORTIZ def. FORREST GRIFFIN via Decision - Split(R3)
+- TIM SYLVIA def. ANDREI ARLOVSKI via KO/TKO(R1)
+- THIAGO ALVES def. DERRICK NOBLE via KO/TKO(R1)
+- EVAN TANNER def. JUSTIN LEVENS via Submission(R1)

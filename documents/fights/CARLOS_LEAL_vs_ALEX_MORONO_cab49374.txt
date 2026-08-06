@@ -1,0 +1,13 @@
+Event: UFC 313: Pereira vs. Ankalaev
+    Date: March 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS LEAL defeated ALEX MORONO via KO/TKO  
+  at 4:16 of round 1
+  Key stats:
+  - CARLOS LEAL landed 79 significant strikes
+  - ALEX MORONO landed 40 significant strikes
+  - Knockdowns: CARLOS LEAL 0,  ALEX MORONO 0
+  - Takedowns: CARLOS LEAL 0,  ALEX MORONO 0

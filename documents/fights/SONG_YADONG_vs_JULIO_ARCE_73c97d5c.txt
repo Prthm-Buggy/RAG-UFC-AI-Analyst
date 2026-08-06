@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Rodriguez
+    Date: November 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SONG YADONG defeated JULIO ARCE via KO/TKO  
+  at 1:35 of round 2
+  Key stats:
+  - SONG YADONG landed 30 significant strikes
+  - JULIO ARCE landed 13 significant strikes
+  - Knockdowns: SONG YADONG 1,  JULIO ARCE 0
+  - Takedowns: SONG YADONG 0,  JULIO ARCE 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tsarukyan vs. Gamrot
+    Date: June 25, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CARLOS ULBERG defeated TAFON NCHUKWI via KO/TKO  
+  at 1:15 of round 1
+  Key stats:
+  - CARLOS ULBERG landed 15 significant strikes
+  - TAFON NCHUKWI landed 3 significant strikes
+  - Knockdowns: CARLOS ULBERG 1,  TAFON NCHUKWI 0
+  - Takedowns: CARLOS ULBERG 0,  TAFON NCHUKWI 0

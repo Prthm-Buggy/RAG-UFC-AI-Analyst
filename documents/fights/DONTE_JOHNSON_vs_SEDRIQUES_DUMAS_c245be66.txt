@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Garcia vs. Onama
+    Date: November 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DONTE JOHNSON defeated SEDRIQUES DUMAS via Submission  
+  at 1:25 of round 2
+  Key stats:
+  - DONTE JOHNSON landed 10 significant strikes
+  - SEDRIQUES DUMAS landed 5 significant strikes
+  - Knockdowns: DONTE JOHNSON 0,  SEDRIQUES DUMAS 0
+  - Takedowns: DONTE JOHNSON 3,  SEDRIQUES DUMAS 1
+  Bonus: perf

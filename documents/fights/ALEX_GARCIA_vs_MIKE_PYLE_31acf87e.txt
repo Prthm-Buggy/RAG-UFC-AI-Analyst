@@ -1,0 +1,14 @@
+Event: UFC 207: Nunes vs. Rousey
+    Date: December 30, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALEX GARCIA defeated MIKE PYLE via KO/TKO  
+  at 3:34 of round 1
+  Key stats:
+  - ALEX GARCIA landed 14 significant strikes
+  - MIKE PYLE landed 5 significant strikes
+  - Knockdowns: ALEX GARCIA 1,  MIKE PYLE 0
+  - Takedowns: ALEX GARCIA 1,  MIKE PYLE 0
+  Bonus: perf

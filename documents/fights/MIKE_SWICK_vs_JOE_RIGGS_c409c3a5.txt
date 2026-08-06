@@ -1,0 +1,13 @@
+Event: UFC 60: Hughes vs Gracie
+    Date: May 27, 2006
+    Location: Los Angeles, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: MIKE SWICK defeated JOE RIGGS via Submission  
+  at 2:19 of round 1
+  Key stats:
+  - MIKE SWICK landed 5 significant strikes
+  - JOE RIGGS landed 1 significant strikes
+  - Knockdowns: MIKE SWICK 0,  JOE RIGGS 0
+  - Takedowns: MIKE SWICK 0,  JOE RIGGS 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs Mir
+    Date: March 19, 2016
+    Location: Brisbane, Queensland, Australia
+    Weight Class: Middleweight
+    
+
+    Result: DANIEL KELLY defeated ANTONIO CARLOS JUNIOR via KO/TKO  
+  at 1:36 of round 3
+  Key stats:
+  - DANIEL KELLY landed 37 significant strikes
+  - ANTONIO CARLOS JUNIOR landed 33 significant strikes
+  - Knockdowns: DANIEL KELLY 0,  ANTONIO CARLOS JUNIOR 0
+  - Takedowns: DANIEL KELLY 0,  ANTONIO CARLOS JUNIOR 2

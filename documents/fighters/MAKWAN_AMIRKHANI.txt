@@ -1,0 +1,11 @@
+Fighter: MAKWAN AMIRKHANI
+  Date of Birth: 1988-11-08
+  Career record: 14
+  First fight: 2015-01-24
+  Last fight: 2023-03-18
+
+Career Statistics:
+- Significant Strikes Landed :171
+- Total takedowns landed :34
+- Knockdowns :1
+- Submission Attempts :9

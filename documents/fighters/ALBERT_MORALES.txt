@@ -1,0 +1,11 @@
+Fighter: ALBERT MORALES
+  Date of Birth: 1991-05-25
+  Career record: 5
+  First fight: 2016-11-19
+  Last fight: 2018-02-24
+
+Career Statistics:
+- Significant Strikes Landed :199
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

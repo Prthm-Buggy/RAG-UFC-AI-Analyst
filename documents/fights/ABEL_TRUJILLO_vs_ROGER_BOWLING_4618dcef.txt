@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs. Benavidez 2
+    Date: December 14, 2013
+    Location: Sacramento, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: ABEL TRUJILLO defeated ROGER BOWLING via KO/TKO  
+  at 1:35 of round 2
+  Key stats:
+  - ABEL TRUJILLO landed 43 significant strikes
+  - ROGER BOWLING landed 9 significant strikes
+  - Knockdowns: ABEL TRUJILLO 0,  ROGER BOWLING 0
+  - Takedowns: ABEL TRUJILLO 5,  ROGER BOWLING 0

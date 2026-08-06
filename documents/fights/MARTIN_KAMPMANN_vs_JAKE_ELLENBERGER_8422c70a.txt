@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Live Finale
+    Date: June 01, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MARTIN KAMPMANN defeated JAKE ELLENBERGER via KO/TKO  
+  at 1:40 of round 2
+  Key stats:
+  - MARTIN KAMPMANN landed 13 significant strikes
+  - JAKE ELLENBERGER landed 19 significant strikes
+  - Knockdowns: MARTIN KAMPMANN 1,  JAKE ELLENBERGER 1
+  - Takedowns: MARTIN KAMPMANN 0,  JAKE ELLENBERGER 0
+  Bonus: ko

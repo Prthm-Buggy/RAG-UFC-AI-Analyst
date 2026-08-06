@@ -1,0 +1,13 @@
+Event: UFC 264: Poirier vs. McGregor 3
+    Date: July 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: ZHALGAS ZHUMAGULOV defeated JEROME RIVERA via Submission  
+  at 2:02 of round 1
+  Key stats:
+  - ZHALGAS ZHUMAGULOV landed 10 significant strikes
+  - JEROME RIVERA landed 11 significant strikes
+  - Knockdowns: ZHALGAS ZHUMAGULOV 0,  JEROME RIVERA 0
+  - Takedowns: ZHALGAS ZHUMAGULOV 0,  JEROME RIVERA 0

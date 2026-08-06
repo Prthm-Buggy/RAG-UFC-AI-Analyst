@@ -1,0 +1,13 @@
+Event: UFC - Road to UFC 4.6
+    Date: August 22, 2025
+    Location: Shanghai, Hebei, China
+    Weight Class: None
+    
+
+    Result: NYAMJARGAL TUMENDEMBEREL defeated TERRANCE SAETEURN via Submission  
+  at 2:53 of round 1
+  Key stats:
+  - NYAMJARGAL TUMENDEMBEREL landed 11 significant strikes
+  - TERRANCE SAETEURN landed 11 significant strikes
+  - Knockdowns: NYAMJARGAL TUMENDEMBEREL 0,  TERRANCE SAETEURN 0
+  - Takedowns: NYAMJARGAL TUMENDEMBEREL 2,  TERRANCE SAETEURN 0

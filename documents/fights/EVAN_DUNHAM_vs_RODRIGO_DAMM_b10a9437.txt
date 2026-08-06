@@ -1,0 +1,13 @@
+Event: UFC 182: Jones vs Cormier
+    Date: January 03, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: EVAN DUNHAM defeated RODRIGO DAMM via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - EVAN DUNHAM landed 152 significant strikes
+  - RODRIGO DAMM landed 47 significant strikes
+  - Knockdowns: EVAN DUNHAM 0,  RODRIGO DAMM 0
+  - Takedowns: EVAN DUNHAM 1,  RODRIGO DAMM 0

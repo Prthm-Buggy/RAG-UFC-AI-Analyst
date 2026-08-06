@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Muniz vs. Allen
+    Date: February 25, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE SOLECKI defeated CARL DEATON via Submission  
+  at 4:55 of round 2
+  Key stats:
+  - JOE SOLECKI landed 2 significant strikes
+  - CARL DEATON landed 1 significant strikes
+  - Knockdowns: JOE SOLECKI 0,  CARL DEATON 0
+  - Takedowns: JOE SOLECKI 2,  CARL DEATON 0
+  Bonus: perf

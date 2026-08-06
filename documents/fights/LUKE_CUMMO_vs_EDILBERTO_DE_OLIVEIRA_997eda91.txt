@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thomas vs Florian
+    Date: September 19, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: LUKE CUMMO defeated EDILBERTO DE OLIVEIRA via KO/TKO  
+  at 1:45 of round 1
+  Key stats:
+  - LUKE CUMMO landed 6 significant strikes
+  - EDILBERTO DE OLIVEIRA landed 5 significant strikes
+  - Knockdowns: LUKE CUMMO 1,  EDILBERTO DE OLIVEIRA 0
+  - Takedowns: LUKE CUMMO 0,  EDILBERTO DE OLIVEIRA 0

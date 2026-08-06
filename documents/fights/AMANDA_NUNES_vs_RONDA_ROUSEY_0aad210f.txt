@@ -1,0 +1,14 @@
+Event: UFC 207: Nunes vs. Rousey
+    Date: December 30, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AMANDA NUNES defeated RONDA ROUSEY via KO/TKO  
+  at 0:48 of round 1
+  Key stats:
+  - AMANDA NUNES landed 27 significant strikes
+  - RONDA ROUSEY landed 7 significant strikes
+  - Knockdowns: AMANDA NUNES 0,  RONDA ROUSEY 0
+  - Takedowns: AMANDA NUNES 0,  RONDA ROUSEY 0
+  Bonus: belt

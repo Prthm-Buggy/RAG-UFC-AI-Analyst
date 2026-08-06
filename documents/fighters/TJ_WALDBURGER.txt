@@ -1,0 +1,11 @@
+Fighter: TJ WALDBURGER
+  Date of Birth: 1988-04-25
+  Career record: 8
+  First fight: 2010-09-15
+  Last fight: 2014-02-22
+
+Career Statistics:
+- Significant Strikes Landed :120
+- Total takedowns landed :12
+- Knockdowns :2
+- Submission Attempts :19

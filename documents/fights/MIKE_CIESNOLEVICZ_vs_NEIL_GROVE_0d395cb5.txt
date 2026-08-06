@@ -1,0 +1,13 @@
+Event: UFC 95: Sanchez vs Stevenson
+    Date: February 21, 2009
+    Location: London, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: MIKE CIESNOLEVICZ defeated NEIL GROVE via Submission  
+  at 1:03 of round 1
+  Key stats:
+  - MIKE CIESNOLEVICZ landed 0 significant strikes
+  - NEIL GROVE landed 0 significant strikes
+  - Knockdowns: MIKE CIESNOLEVICZ 0,  NEIL GROVE 0
+  - Takedowns: MIKE CIESNOLEVICZ 0,  NEIL GROVE 0

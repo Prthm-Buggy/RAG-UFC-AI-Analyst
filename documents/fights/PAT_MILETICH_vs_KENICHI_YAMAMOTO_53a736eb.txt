@@ -1,0 +1,14 @@
+Event: UFC 29: Defense of the Belts
+    Date: December 16, 2000
+    Location: Tokyo, Japan
+    Weight Class: Welterweight
+    
+
+    Result: PAT MILETICH defeated KENICHI YAMAMOTO via Submission  
+  at 1:58 of round 2
+  Key stats:
+  - PAT MILETICH landed 16 significant strikes
+  - KENICHI YAMAMOTO landed 3 significant strikes
+  - Knockdowns: PAT MILETICH 0,  KENICHI YAMAMOTO 0
+  - Takedowns: PAT MILETICH 3,  KENICHI YAMAMOTO 0
+  Bonus: belt

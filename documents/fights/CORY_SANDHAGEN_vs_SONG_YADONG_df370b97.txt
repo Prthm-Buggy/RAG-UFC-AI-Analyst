@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Song
+    Date: September 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CORY SANDHAGEN defeated SONG YADONG via TKO - Doctor's Stoppage  
+  at 5:00 of round 4
+  Key stats:
+  - CORY SANDHAGEN landed 94 significant strikes
+  - SONG YADONG landed 54 significant strikes
+  - Knockdowns: CORY SANDHAGEN 0,  SONG YADONG 0
+  - Takedowns: CORY SANDHAGEN 1,  SONG YADONG 2

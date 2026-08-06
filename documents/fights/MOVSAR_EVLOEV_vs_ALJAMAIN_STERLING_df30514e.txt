@@ -1,0 +1,13 @@
+Event: UFC 310: Pantoja vs. Asakura
+    Date: December 07, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: MOVSAR EVLOEV defeated ALJAMAIN STERLING via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MOVSAR EVLOEV landed 8 significant strikes
+  - ALJAMAIN STERLING landed 12 significant strikes
+  - Knockdowns: MOVSAR EVLOEV 0,  ALJAMAIN STERLING 0
+  - Takedowns: MOVSAR EVLOEV 4,  ALJAMAIN STERLING 6

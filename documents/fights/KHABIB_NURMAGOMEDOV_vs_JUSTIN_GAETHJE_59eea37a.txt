@@ -1,0 +1,14 @@
+Event: UFC 254: Khabib vs. Gaethje
+    Date: October 24, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: KHABIB NURMAGOMEDOV defeated JUSTIN GAETHJE via Submission  
+  at 1:34 of round 2
+  Key stats:
+  - KHABIB NURMAGOMEDOV landed 26 significant strikes
+  - JUSTIN GAETHJE landed 29 significant strikes
+  - Knockdowns: KHABIB NURMAGOMEDOV 0,  JUSTIN GAETHJE 0
+  - Takedowns: KHABIB NURMAGOMEDOV 2,  JUSTIN GAETHJE 0
+  Bonus: belt

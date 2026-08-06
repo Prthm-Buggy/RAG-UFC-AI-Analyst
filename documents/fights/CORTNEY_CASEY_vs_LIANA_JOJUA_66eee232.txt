@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Rodriguez
+    Date: November 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: CORTNEY CASEY defeated LIANA JOJUA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CORTNEY CASEY landed 89 significant strikes
+  - LIANA JOJUA landed 34 significant strikes
+  - Knockdowns: CORTNEY CASEY 0,  LIANA JOJUA 0
+  - Takedowns: CORTNEY CASEY 0,  LIANA JOJUA 2

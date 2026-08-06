@@ -1,0 +1,13 @@
+Event: UFC 147: Silva vs Franklin 2
+    Date: June 23, 2012
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: FABRICIO WERDUM defeated MIKE RUSSOW via KO/TKO  
+  at 2:28 of round 1
+  Key stats:
+  - FABRICIO WERDUM landed 31 significant strikes
+  - MIKE RUSSOW landed 3 significant strikes
+  - Knockdowns: FABRICIO WERDUM 1,  MIKE RUSSOW 0
+  - Takedowns: FABRICIO WERDUM 0,  MIKE RUSSOW 0

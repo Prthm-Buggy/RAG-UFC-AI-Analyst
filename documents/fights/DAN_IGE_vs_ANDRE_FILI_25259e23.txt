@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hermansson vs. Pyfer
+    Date: February 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DAN IGE defeated ANDRE FILI via KO/TKO  
+  at 2:43 of round 1
+  Key stats:
+  - DAN IGE landed 11 significant strikes
+  - ANDRE FILI landed 8 significant strikes
+  - Knockdowns: DAN IGE 1,  ANDRE FILI 0
+  - Takedowns: DAN IGE 0,  ANDRE FILI 0
+  Bonus: perf

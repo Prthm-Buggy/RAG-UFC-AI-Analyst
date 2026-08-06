@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Werdum vs. Tybura
+    Date: November 18, 2017
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Lightweight
+    
+
+    Result: NIK LENTZ defeated WILL BROOKS via Submission  
+  at 2:05 of round 2
+  Key stats:
+  - NIK LENTZ landed 34 significant strikes
+  - WILL BROOKS landed 49 significant strikes
+  - Knockdowns: NIK LENTZ 0,  WILL BROOKS 0
+  - Takedowns: NIK LENTZ 0,  WILL BROOKS 2
+  Bonus: perf

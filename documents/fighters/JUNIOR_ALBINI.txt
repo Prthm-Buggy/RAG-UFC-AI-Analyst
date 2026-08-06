@@ -1,0 +1,11 @@
+Fighter: JUNIOR ALBINI
+  Date of Birth: 1991-03-15
+  Career record: 5
+  First fight: 2017-07-22
+  Last fight: 2019-06-29
+
+Career Statistics:
+- Significant Strikes Landed :116
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

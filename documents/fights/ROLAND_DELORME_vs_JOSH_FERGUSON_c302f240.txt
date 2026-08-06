@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Bisping vs Team Miller Finale
+    Date: December 03, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ROLAND DELORME defeated JOSH FERGUSON via Submission  
+  at 0:22 of round 3
+  Key stats:
+  - ROLAND DELORME landed 36 significant strikes
+  - JOSH FERGUSON landed 34 significant strikes
+  - Knockdowns: ROLAND DELORME 1,  JOSH FERGUSON 0
+  - Takedowns: ROLAND DELORME 2,  JOSH FERGUSON 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Yan
+    Date: October 01, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MIKE DAVIS defeated VIACHESLAV BORSHCHEV via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MIKE DAVIS landed 65 significant strikes
+  - VIACHESLAV BORSHCHEV landed 63 significant strikes
+  - Knockdowns: MIKE DAVIS 0,  VIACHESLAV BORSHCHEV 0
+  - Takedowns: MIKE DAVIS 9,  VIACHESLAV BORSHCHEV 0

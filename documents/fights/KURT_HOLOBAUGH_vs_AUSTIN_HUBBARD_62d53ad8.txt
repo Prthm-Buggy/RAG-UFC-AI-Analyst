@@ -1,0 +1,13 @@
+Event: UFC 292: Sterling vs. O'Malley
+    Date: August 19, 2023
+    Location: Boston, Massachusetts, USA
+    Weight Class: Lightweight
+    
+
+    Result: KURT HOLOBAUGH defeated AUSTIN HUBBARD via Submission  
+  at 2:39 of round 2
+  Key stats:
+  - KURT HOLOBAUGH landed 61 significant strikes
+  - AUSTIN HUBBARD landed 44 significant strikes
+  - Knockdowns: KURT HOLOBAUGH 0,  AUSTIN HUBBARD 0
+  - Takedowns: KURT HOLOBAUGH 0,  AUSTIN HUBBARD 2

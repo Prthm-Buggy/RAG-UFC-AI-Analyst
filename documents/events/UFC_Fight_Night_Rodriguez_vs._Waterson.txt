@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Rodriguez vs. Waterson
+    Date : May 08, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Women's Flyweight, Heavyweight, Middleweight, Welterweight, Featherweight, Lightweight
+
+    Fight Results:
+  - NEIL MAGNY def. GEOFF NEAL via Decision - Unanimous(R3)
+- MARCOS ROGERIO DE LIMA def. MAURICE GREENE via Decision - Unanimous(R3)
+- JUNYONG PARK def. TAFON NCHUKWI via Decision - Majority(R3)
+- CARLSTON HARRIS def. CHRISTIAN AGUILERA via Submission(R1)
+- MICHAEL TRIZANO def. LUDOVIT KLEIN via Decision - Unanimous(R3)
+- MARINA RODRIGUEZ def. MICHELLE WATERSON-GOMEZ via Decision - Unanimous(R5)
+- PHIL HAWES def. KYLE DAUKAUS via Decision - Unanimous(R3)
+- ALEX MORONO def. DONALD CERRONE via KO/TKO(R1)
+- GREGOR GILLESPIE def. DIEGO FERREIRA via KO/TKO(R2)

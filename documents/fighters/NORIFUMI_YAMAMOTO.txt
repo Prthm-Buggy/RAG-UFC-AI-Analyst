@@ -1,0 +1,11 @@
+Fighter: NORIFUMI YAMAMOTO
+  Date of Birth: 1977-03-15
+  Career record: 3
+  First fight: 2011-02-05
+  Last fight: 2012-02-25
+
+Career Statistics:
+- Significant Strikes Landed :52
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

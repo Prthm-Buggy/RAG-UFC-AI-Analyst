@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edgar vs. The Korean Zombie
+    Date: December 21, 2019
+    Location: Busan, South Korea
+    Weight Class: Bantamweight
+    
+
+    Result: ALATENGHEILI defeated RYAN BENOIT via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ALATENGHEILI landed 47 significant strikes
+  - RYAN BENOIT landed 68 significant strikes
+  - Knockdowns: ALATENGHEILI 0,  RYAN BENOIT 0
+  - Takedowns: ALATENGHEILI 4,  RYAN BENOIT 0

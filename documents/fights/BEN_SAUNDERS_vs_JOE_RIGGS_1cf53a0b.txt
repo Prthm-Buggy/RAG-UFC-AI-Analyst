@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dos Santos vs Miocic
+    Date: December 13, 2014
+    Location: Phoenix, Arizona, USA
+    Weight Class: Welterweight
+    
+
+    Result: BEN SAUNDERS defeated JOE RIGGS via Submission  
+  at 0:57 of round 1
+  Key stats:
+  - BEN SAUNDERS landed 4 significant strikes
+  - JOE RIGGS landed 2 significant strikes
+  - Knockdowns: BEN SAUNDERS 0,  JOE RIGGS 0
+  - Takedowns: BEN SAUNDERS 0,  JOE RIGGS 1

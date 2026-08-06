@@ -1,0 +1,11 @@
+Fighter: GEGARD MOUSASI
+  Date of Birth: 1985-08-01
+  Career record: 12
+  First fight: 2013-04-06
+  Last fight: 2017-04-08
+
+Career Statistics:
+- Significant Strikes Landed :465
+- Total takedowns landed :9
+- Knockdowns :2
+- Submission Attempts :3

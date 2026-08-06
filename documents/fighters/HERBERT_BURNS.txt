@@ -1,0 +1,11 @@
+Fighter: HERBERT BURNS
+  Date of Birth: 1988-02-02
+  Career record: 6
+  First fight: 2020-01-25
+  Last fight: 2024-08-17
+
+Career Statistics:
+- Significant Strikes Landed :71
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :4

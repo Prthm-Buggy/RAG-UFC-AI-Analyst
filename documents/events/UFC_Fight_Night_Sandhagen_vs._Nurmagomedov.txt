@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Sandhagen vs. Nurmagomedov
+    Date : August 03, 2024
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 13
+    Weight Classes: Women's Strawweight, Light Heavyweight, Lightweight, Middleweight, Welterweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - SAM HUGHES def. VIKTORIIA DUDAKOVA via Decision - Split(R3)
+- AZAMAT MURZAKANOV def. ALONZO MENIFIELD via KO/TKO(R2)
+- KAUE FERNANDES def. MOHAMMAD YAHYA via KO/TKO(R1)
+- JOEL ALVAREZ def. ELVES BRENER via KO/TKO(R3)
+- GURAM KUTATELADZE def. JORDAN VUCENIC via Decision - Unanimous(R3)
+- UMAR NURMAGOMEDOV def. CORY SANDHAGEN via Decision - Unanimous(R5)
+- SHAMIL GAZIEV def. DON'TALE MAYES via Decision - Unanimous(R3)
+- MACKENZIE DERN def. LOOPY GODINEZ via Decision - Unanimous(R3)
+- SEDRIQUES DUMAS def. DENIS TIULIULIN via Decision - Unanimous(R3)
+- MICHAEL CHIESA def. TONY FERGUSON via Submission(R1)
+- SHARA MAGOMEDOV def. MICHAL OLEKSIEJCZUK via Decision - Unanimous(R3)
+- DEIVESON FIGUEIREDO def. MARLON VERA via Decision - Unanimous(R3)
+- JAI HERBERT def. ROLANDO BEDOYA via Decision - Unanimous(R3)

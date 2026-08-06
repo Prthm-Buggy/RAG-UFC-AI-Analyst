@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Struve
+    Date: September 02, 2017
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Heavyweight
+    
+
+    Result: ALEXANDER VOLKOV defeated STEFAN STRUVE via KO/TKO  
+  at 3:30 of round 3
+  Key stats:
+  - ALEXANDER VOLKOV landed 135 significant strikes
+  - STEFAN STRUVE landed 41 significant strikes
+  - Knockdowns: ALEXANDER VOLKOV 1,  STEFAN STRUVE 0
+  - Takedowns: ALEXANDER VOLKOV 2,  STEFAN STRUVE 0
+  Bonus: fight

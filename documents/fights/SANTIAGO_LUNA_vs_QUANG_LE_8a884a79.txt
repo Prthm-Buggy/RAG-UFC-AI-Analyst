@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lopes vs. Silva
+    Date: September 13, 2025
+    Location: San Antonio, Texas, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SANTIAGO LUNA defeated QUANG LE via KO/TKO  
+  at 2:48 of round 1
+  Key stats:
+  - SANTIAGO LUNA landed 15 significant strikes
+  - QUANG LE landed 12 significant strikes
+  - Knockdowns: SANTIAGO LUNA 2,  QUANG LE 0
+  - Takedowns: SANTIAGO LUNA 0,  QUANG LE 0
+  Bonus: perf

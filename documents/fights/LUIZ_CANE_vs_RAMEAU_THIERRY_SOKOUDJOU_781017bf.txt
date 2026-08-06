@@ -1,0 +1,14 @@
+Event: UFC 89: Bisping vs Leben
+    Date: October 18, 2008
+    Location: Birmingham, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: LUIZ CANE defeated RAMEAU THIERRY SOKOUDJOU via KO/TKO  
+  at 4:15 of round 2
+  Key stats:
+  - LUIZ CANE landed 41 significant strikes
+  - RAMEAU THIERRY SOKOUDJOU landed 28 significant strikes
+  - Knockdowns: LUIZ CANE 1,  RAMEAU THIERRY SOKOUDJOU 0
+  - Takedowns: LUIZ CANE 0,  RAMEAU THIERRY SOKOUDJOU 0
+  Bonus: ko

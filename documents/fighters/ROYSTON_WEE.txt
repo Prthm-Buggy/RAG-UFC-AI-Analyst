@@ -1,0 +1,11 @@
+Fighter: ROYSTON WEE
+  Date of Birth: 1986-11-15
+  Career record: 3
+  First fight: 2014-01-04
+  Last fight: 2015-05-16
+
+Career Statistics:
+- Significant Strikes Landed :44
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :0

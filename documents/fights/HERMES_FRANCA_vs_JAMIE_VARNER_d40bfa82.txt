@@ -1,0 +1,14 @@
+Event: UFC 62: Liddell vs Sobral
+    Date: August 26, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: HERMES FRANCA defeated JAMIE VARNER via Submission  
+  at 3:31 of round 3
+  Key stats:
+  - HERMES FRANCA landed 22 significant strikes
+  - JAMIE VARNER landed 18 significant strikes
+  - Knockdowns: HERMES FRANCA 0,  JAMIE VARNER 0
+  - Takedowns: HERMES FRANCA 1,  JAMIE VARNER 9
+  Bonus: fight

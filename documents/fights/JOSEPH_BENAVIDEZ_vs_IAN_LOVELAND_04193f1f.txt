@@ -1,0 +1,13 @@
+Event: UFC 128: Shogun vs Jones
+    Date: March 19, 2011
+    Location: Newark, New Jersey, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOSEPH BENAVIDEZ defeated IAN LOVELAND via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOSEPH BENAVIDEZ landed 48 significant strikes
+  - IAN LOVELAND landed 45 significant strikes
+  - Knockdowns: JOSEPH BENAVIDEZ 0,  IAN LOVELAND 0
+  - Takedowns: JOSEPH BENAVIDEZ 5,  IAN LOVELAND 0

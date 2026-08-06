@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moraes vs. Sandhagen
+    Date: October 10, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: JOAQUIN BUCKLEY defeated IMPA KASANGANAY via KO/TKO  
+  at 2:03 of round 2
+  Key stats:
+  - JOAQUIN BUCKLEY landed 29 significant strikes
+  - IMPA KASANGANAY landed 28 significant strikes
+  - Knockdowns: JOAQUIN BUCKLEY 1,  IMPA KASANGANAY 0
+  - Takedowns: JOAQUIN BUCKLEY 1,  IMPA KASANGANAY 0
+  Bonus: perf

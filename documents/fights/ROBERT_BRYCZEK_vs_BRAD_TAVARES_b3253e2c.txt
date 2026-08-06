@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Imavov vs. Borralho
+    Date: September 06, 2025
+    Location: Paris, Ile-de-France, France
+    Weight Class: Middleweight
+    
+
+    Result: ROBERT BRYCZEK defeated BRAD TAVARES via KO/TKO  
+  at 1:43 of round 3
+  Key stats:
+  - ROBERT BRYCZEK landed 68 significant strikes
+  - BRAD TAVARES landed 42 significant strikes
+  - Knockdowns: ROBERT BRYCZEK 1,  BRAD TAVARES 0
+  - Takedowns: ROBERT BRYCZEK 1,  BRAD TAVARES 1

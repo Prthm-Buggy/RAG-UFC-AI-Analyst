@@ -1,0 +1,14 @@
+Event: UFC 101: Declaration
+    Date: August 08, 2009
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANDERSON SILVA defeated FORREST GRIFFIN via KO/TKO  
+  at 3:23 of round 1
+  Key stats:
+  - ANDERSON SILVA landed 13 significant strikes
+  - FORREST GRIFFIN landed 3 significant strikes
+  - Knockdowns: ANDERSON SILVA 3,  FORREST GRIFFIN 0
+  - Takedowns: ANDERSON SILVA 0,  FORREST GRIFFIN 0
+  Bonus: fight

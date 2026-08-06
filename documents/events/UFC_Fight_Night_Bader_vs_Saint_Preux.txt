@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Bader vs Saint Preux
+    Date : August 16, 2014
+    Location: Bangor, Maine, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Bantamweight, Lightweight, Welterweight, Middleweight, Light Heavyweight, Women's Bantamweight, Flyweight, Featherweight
+
+    Fight Results:
+  - JUSSIER FORMIGA def. ZACH MAKOVSKY via Decision - Unanimous(R3)
+- FRANKIE SAENZ def. NOLAN TICMAN via Decision - Unanimous(R3)
+- ROSS PEARSON def. GRAY MAYNARD via KO/TKO(R2)
+- SARA MCMANN def. LAUREN MURPHY via Decision - Split(R3)
+- THIAGO TAVARES def. ROBERT PERALTA via Submission(R1)
+- ALAN JOUBAN def. SETH BACZYNSKI via KO/TKO(R1)
+- TIM BOETSCH def. BRAD TAVARES via KO/TKO(R2)
+- RYAN BADER def. OVINCE SAINT PREUX via Decision - Unanimous(R5)
+- TOM WATSON def. SAM ALVEY via Decision - Unanimous(R3)
+- SHAWN JORDAN def. JACK MAY via KO/TKO(R3)

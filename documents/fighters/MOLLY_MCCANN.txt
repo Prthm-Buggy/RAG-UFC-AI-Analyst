@@ -1,0 +1,11 @@
+Fighter: MOLLY MCCANN
+  Date of Birth: 1990-05-04
+  Career record: 14
+  First fight: 2018-05-27
+  Last fight: 2025-03-22
+
+Career Statistics:
+- Significant Strikes Landed :755
+- Total takedowns landed :17
+- Knockdowns :2
+- Submission Attempts :5

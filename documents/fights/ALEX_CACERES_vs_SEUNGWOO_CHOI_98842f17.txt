@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Costa vs. Vettori
+    Date: October 23, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ALEX CACERES defeated SEUNGWOO CHOI via Submission  
+  at 3:31 of round 2
+  Key stats:
+  - ALEX CACERES landed 46 significant strikes
+  - SEUNGWOO CHOI landed 33 significant strikes
+  - Knockdowns: ALEX CACERES 0,  SEUNGWOO CHOI 1
+  - Takedowns: ALEX CACERES 0,  SEUNGWOO CHOI 0
+  Bonus: perf

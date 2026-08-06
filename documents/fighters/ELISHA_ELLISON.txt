@@ -1,0 +1,11 @@
+Fighter: ELISHA ELLISON
+  Date of Birth: 1997-03-05
+  Career record: 1
+  First fight: 2025-09-27
+  Last fight: 2025-09-27
+
+Career Statistics:
+- Significant Strikes Landed :3
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

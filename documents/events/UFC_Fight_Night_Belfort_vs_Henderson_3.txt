@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Belfort vs Henderson 3
+    Date : November 07, 2015
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Number of Fights: 13
+    Weight Classes: Middleweight, Lightweight, Featherweight, Light Heavyweight, Welterweight, Bantamweight
+
+    Fight Results:
+  - CHAS SKELLY def. EDIMILSON SOUZA via Submission(R2)
+- RASHID MAGOMEDOV def. GILBERT BURNS via Decision - Unanimous(R3)
+- ALEX OLIVEIRA def. PIOTR HALLMANN via KO/TKO(R3)
+- MATHEUS NICOLAU def. BRUNO KOREA via Submission(R3)
+- JOHNNY CASE def. YAN CABRAL via Decision - Unanimous(R3)
+- GLOVER TEIXEIRA def. PATRICK CUMMINS via KO/TKO(R2)
+- THOMAS ALMEIDA def. ANTHONY BIRCHAK via KO/TKO(R1)
+- COREY ANDERSON def. FABIO MALDONADO via Decision - Unanimous(R3)
+- JIMMIE RIVERA def. PEDRO MUNHOZ via Decision - Split(R3)
+- VITOR BELFORT def. DAN HENDERSON via KO/TKO(R1)
+- ABEL TRUJILLO def. GLEISON TIBAU via DQ(R1)
+- THIAGO TAVARES def. CLAY GUIDA via Submission(R1)
+- VISCARDI ANDRADE def. GASAN UMALATOV via Decision - Unanimous(R3)

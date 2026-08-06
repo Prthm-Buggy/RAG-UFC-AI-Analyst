@@ -1,0 +1,13 @@
+Event: UFC 254: Khabib vs. Gaethje
+    Date: October 24, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: JOEL ALVAREZ defeated ALEXANDER YAKOVLEV via Submission  
+  at 3:00 of round 1
+  Key stats:
+  - JOEL ALVAREZ landed 4 significant strikes
+  - ALEXANDER YAKOVLEV landed 1 significant strikes
+  - Knockdowns: JOEL ALVAREZ 0,  ALEXANDER YAKOVLEV 0
+  - Takedowns: JOEL ALVAREZ 0,  ALEXANDER YAKOVLEV 1

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dillashaw vs Cruz
+    Date: January 17, 2016
+    Location: Boston, Massachusetts, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DOMINICK CRUZ defeated TJ DILLASHAW via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - DOMINICK CRUZ landed 112 significant strikes
+  - TJ DILLASHAW landed 109 significant strikes
+  - Knockdowns: DOMINICK CRUZ 0,  TJ DILLASHAW 0
+  - Takedowns: DOMINICK CRUZ 4,  TJ DILLASHAW 1
+  Bonus: belt

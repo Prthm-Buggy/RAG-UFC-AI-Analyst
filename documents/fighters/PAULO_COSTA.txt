@@ -1,0 +1,11 @@
+Fighter: PAULO COSTA
+  Date of Birth: 1991-04-21
+  Career record: 12
+  First fight: 2017-03-11
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :934
+- Total takedowns landed :3
+- Knockdowns :6
+- Submission Attempts :0

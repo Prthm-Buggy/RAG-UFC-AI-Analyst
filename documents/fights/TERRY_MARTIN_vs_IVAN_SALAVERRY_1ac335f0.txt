@@ -1,0 +1,13 @@
+Event: UFC 71: Liddell vs Jackson
+    Date: May 26, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: TERRY MARTIN defeated IVAN SALAVERRY via KO/TKO  
+  at 2:04 of round 1
+  Key stats:
+  - TERRY MARTIN landed 7 significant strikes
+  - IVAN SALAVERRY landed 5 significant strikes
+  - Knockdowns: TERRY MARTIN 0,  IVAN SALAVERRY 0
+  - Takedowns: TERRY MARTIN 1,  IVAN SALAVERRY 0

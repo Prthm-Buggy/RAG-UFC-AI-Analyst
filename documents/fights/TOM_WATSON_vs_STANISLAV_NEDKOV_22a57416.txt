@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Barao vs McDonald
+    Date: February 16, 2013
+    Location: London, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: TOM WATSON defeated STANISLAV NEDKOV via KO/TKO  
+  at 4:42 of round 2
+  Key stats:
+  - TOM WATSON landed 56 significant strikes
+  - STANISLAV NEDKOV landed 39 significant strikes
+  - Knockdowns: TOM WATSON 1,  STANISLAV NEDKOV 0
+  - Takedowns: TOM WATSON 0,  STANISLAV NEDKOV 5
+  Bonus: fight

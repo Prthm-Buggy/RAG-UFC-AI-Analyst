@@ -1,0 +1,13 @@
+Event: UFC 230: Cormier vs. Lewis
+    Date: November 03, 2018
+    Location: New York City, New York, USA
+    Weight Class: Featherweight
+    
+
+    Result: SHANE BURGOS defeated KURT HOLOBAUGH via Submission  
+  at 2:11 of round 1
+  Key stats:
+  - SHANE BURGOS landed 17 significant strikes
+  - KURT HOLOBAUGH landed 21 significant strikes
+  - Knockdowns: SHANE BURGOS 0,  KURT HOLOBAUGH 1
+  - Takedowns: SHANE BURGOS 0,  KURT HOLOBAUGH 0

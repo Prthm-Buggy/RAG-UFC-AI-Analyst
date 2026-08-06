@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dos Santos vs Miocic
+    Date: December 13, 2014
+    Location: Phoenix, Arizona, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOHN MORAGA defeated WILLIE GATES via Submission  
+  at 4:06 of round 3
+  Key stats:
+  - JOHN MORAGA landed 56 significant strikes
+  - WILLIE GATES landed 22 significant strikes
+  - Knockdowns: JOHN MORAGA 0,  WILLIE GATES 1
+  - Takedowns: JOHN MORAGA 1,  WILLIE GATES 0

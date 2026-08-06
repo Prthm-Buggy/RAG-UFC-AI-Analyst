@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Boetsch vs Henderson
+    Date : June 06, 2015
+    Location: New Orleans, Louisiana, USA
+    Number of Fights: 12
+    Weight Classes: Middleweight, Lightweight, Welterweight, Featherweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - BEN ROTHWELL def. MATT MITRIONE via Submission(R1)
+- OMARI AKHMEDOV def. BRIAN EBERSOLE via KO/TKO(R1)
+- JAKE COLLIER def. RICARDO ABREU via Decision - Split(R3)
+- BRIAN ORTEGA def. THIAGO TAVARES via KO/TKO(R3)
+- DUSTIN POIRIER def. YANCY MEDEIROS via KO/TKO(R1)
+- ANTHONY BIRCHAK def. JOE SOTO via KO/TKO(R1)
+- JOE PROCTOR def. JUSTIN EDWARDS via Submission(R3)
+- CHRIS WADE def. CHRISTOS GIAGOS via Decision - Unanimous(R3)
+- SHAWN JORDAN def. DERRICK LEWIS via KO/TKO(R2)
+- DAN HENDERSON def. TIM BOETSCH via KO/TKO(R1)
+- FRANCISCO RIVERA def. ALEX CACERES via KO/TKO(R1)
+- JOSE QUINONEZ def. LEONARDO MORALES via Submission(R1)

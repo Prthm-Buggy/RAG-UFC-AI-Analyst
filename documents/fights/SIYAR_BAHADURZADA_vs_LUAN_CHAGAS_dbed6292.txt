@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barboza vs. Lee
+    Date: April 21, 2018
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: SIYAR BAHADURZADA defeated LUAN CHAGAS via KO/TKO  
+  at 2:40 of round 2
+  Key stats:
+  - SIYAR BAHADURZADA landed 33 significant strikes
+  - LUAN CHAGAS landed 11 significant strikes
+  - Knockdowns: SIYAR BAHADURZADA 1,  LUAN CHAGAS 0
+  - Takedowns: SIYAR BAHADURZADA 1,  LUAN CHAGAS 0
+  Bonus: perf

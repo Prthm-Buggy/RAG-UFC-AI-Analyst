@@ -1,0 +1,11 @@
+Fighter: AUSTIN ARNETT
+  Date of Birth: 1991-10-22
+  Career record: 4
+  First fight: 2018-01-27
+  Last fight: 2019-02-09
+
+Career Statistics:
+- Significant Strikes Landed :206
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

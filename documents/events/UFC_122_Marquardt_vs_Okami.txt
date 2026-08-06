@@ -1,0 +1,17 @@
+Event : UFC 122: Marquardt vs Okami
+    Date : November 13, 2010
+    Location: Oberhausen, North Rhine-Westphalia, Germany
+    Number of Fights: 10
+    Weight Classes: Middleweight, Light Heavyweight, Welterweight, Lightweight
+
+    Fight Results:
+  - CARLOS EDUARDO ROCHA def. KRIS MCCRAY via Submission(R1)
+- KRZYSZTOF SOSZYNSKI def. GORAN RELJIC via Decision - Unanimous(R3)
+- KYLE NOKE def. ROB KIMMONS via Submission(R2)
+- AMIR SADOLLAH def. PETER SOBOTTA via Decision - Unanimous(R3)
+- DUANE LUDWIG def. NICK OSIPCZAK via Decision - Split(R3)
+- DENNIS SIVER def. ANDRE WINNER via Submission(R1)
+- KARLOS VEMOLA def. SETH PETRUZELLI via KO/TKO(R1)
+- YUSHIN OKAMI def. NATE MARQUARDT via Decision - Unanimous(R3)
+- VLADIMIR MATYUSHENKO def. ALEXANDRE FERREIRA via KO/TKO(R1)
+- PASCAL KRAUSS def. MARK SCANLON via Decision - Unanimous(R3)

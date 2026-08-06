@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Imavov
+    Date: June 08, 2024
+    Location: Louisville, Kentucky, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS PRATES defeated CHARLES RADTKE via KO/TKO  
+  at 4:47 of round 1
+  Key stats:
+  - CARLOS PRATES landed 15 significant strikes
+  - CHARLES RADTKE landed 14 significant strikes
+  - Knockdowns: CARLOS PRATES 1,  CHARLES RADTKE 0
+  - Takedowns: CARLOS PRATES 0,  CHARLES RADTKE 0
+  Bonus: perf

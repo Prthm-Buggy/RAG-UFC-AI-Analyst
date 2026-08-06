@@ -1,0 +1,11 @@
+Fighter: ALEXANDER YAKOVLEV
+  Date of Birth: 1984-07-18
+  Career record: 9
+  First fight: 2014-05-31
+  Last fight: 2020-10-24
+
+Career Statistics:
+- Significant Strikes Landed :173
+- Total takedowns landed :11
+- Knockdowns :2
+- Submission Attempts :1

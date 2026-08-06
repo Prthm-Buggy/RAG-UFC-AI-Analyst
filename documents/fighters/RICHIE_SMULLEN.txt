@@ -1,0 +1,11 @@
+Fighter: RICHIE SMULLEN
+  Date of Birth: 1991-08-17
+  Career record: 1
+  First fight: 2018-07-06
+  Last fight: 2018-07-06
+
+Career Statistics:
+- Significant Strikes Landed :7
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

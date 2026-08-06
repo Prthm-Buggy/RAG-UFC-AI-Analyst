@@ -1,0 +1,13 @@
+Event: UFC on FX: Alves vs Kampmann
+    Date: March 02, 2012
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Welterweight
+    
+
+    Result: TJ WALDBURGER defeated JAKE HECHT via Submission  
+  at 0:55 of round 1
+  Key stats:
+  - TJ WALDBURGER landed 3 significant strikes
+  - JAKE HECHT landed 2 significant strikes
+  - Knockdowns: TJ WALDBURGER 0,  JAKE HECHT 0
+  - Takedowns: TJ WALDBURGER 1,  JAKE HECHT 0

@@ -1,0 +1,11 @@
+Fighter: PAUL REDMOND
+  Date of Birth: 1986-10-20
+  Career record: 2
+  First fight: 2015-01-24
+  Last fight: 2015-07-18
+
+Career Statistics:
+- Significant Strikes Landed :13
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

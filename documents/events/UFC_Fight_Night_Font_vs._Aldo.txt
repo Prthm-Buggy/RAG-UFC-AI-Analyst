@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Font vs. Aldo
+    Date : December 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Women's Strawweight, Middleweight, Lightweight, Light Heavyweight, Flyweight, Welterweight
+
+    Fight Results:
+  - JAMAHAL HILL def. JIMMY CRUTE via KO/TKO(R1)
+- DUSKO TODOROVIC def. MAKI PITOLO via KO/TKO(R1)
+- RAFAEL FIZIEV def. BRAD RIDDELL via KO/TKO(R3)
+- CHRIS CURTIS def. BRENDAN ALLEN via KO/TKO(R2)
+- BRYAN BARBERENA def. DARIAN WEEKS via Decision - Unanimous(R3)
+- CLAY GUIDA def. LEONARDO SANTOS via Submission(R2)
+- ALEX MORONO def. MICKEY GALL via Decision - Unanimous(R3)
+- CHEYANNE VLISMAS def. MALLORY MARTIN via Decision - Unanimous(R3)
+- MANEL KAPE def. ZHALGAS ZHUMAGULOV via KO/TKO(R1)
+- CLAUDIO PUELLES def. CHRIS GRUETZEMACHER via Submission(R3)
+- WILLIAM KNIGHT def. ALONZO MENIFIELD via Decision - Unanimous(R3)
+- JOSE ALDO def. ROB FONT via Decision - Unanimous(R5)
+- VINCE MORALES def. LOUIS SMOLKA via KO/TKO(R1)

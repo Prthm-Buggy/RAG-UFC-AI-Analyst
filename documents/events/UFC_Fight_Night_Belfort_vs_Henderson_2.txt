@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Belfort vs Henderson 2
+    Date : November 09, 2013
+    Location: Goiania, Goias, Brazil
+    Number of Fights: 11
+    Weight Classes: Flyweight, Welterweight, Lightweight, Middleweight, Featherweight, Light Heavyweight
+
+    Fight Results:
+  - OMARI AKHMEDOV def. THIAGO PERPETUO via KO/TKO(R1)
+- JEREMY STEPHENS def. RONY JASON via KO/TKO(R1)
+- CEZAR FERREIRA def. DANIEL SARAFIAN via Decision - Split(R3)
+- RYAN LAFLARE def. SANTIAGO PONZINIBBIO via Decision - Unanimous(R3)
+- DUSTIN ORTIZ def. JOSE MARIA via KO/TKO(R3)
+- THIAGO TAVARES def. JUSTIN SALAS via Submission(R1)
+- SAM SICILIA def. GODOFREDO PEPEY via KO/TKO(R1)
+- VITOR BELFORT def. DAN HENDERSON via KO/TKO(R1)
+- ADRIANO MARTINS def. DARON CRUICKSHANK via Submission(R2)
+- BRANDON THATCH def. PAULO THIAGO via KO/TKO(R1)
+- RAFAEL CAVALCANTE def. IGOR POKRAJAC via KO/TKO(R1)

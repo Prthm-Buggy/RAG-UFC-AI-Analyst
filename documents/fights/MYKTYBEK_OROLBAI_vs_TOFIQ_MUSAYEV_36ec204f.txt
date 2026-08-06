@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hill vs. Rountree Jr.
+    Date: June 21, 2025
+    Location: Baku, Azerbaijan
+    Weight Class: Catch Weight
+    
+
+    Result: MYKTYBEK OROLBAI defeated TOFIQ MUSAYEV via Submission  
+  at 4:35 of round 1
+  Key stats:
+  - MYKTYBEK OROLBAI landed 2 significant strikes
+  - TOFIQ MUSAYEV landed 2 significant strikes
+  - Knockdowns: MYKTYBEK OROLBAI 0,  TOFIQ MUSAYEV 0
+  - Takedowns: MYKTYBEK OROLBAI 3,  TOFIQ MUSAYEV 0

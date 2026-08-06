@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dos Santos vs Miocic
+    Date: December 13, 2014
+    Location: Phoenix, Arizona, USA
+    Weight Class: Lightweight
+    
+
+    Result: BRYAN BARBERENA defeated JOE ELLENBERGER via KO/TKO  
+  at 3:24 of round 3
+  Key stats:
+  - BRYAN BARBERENA landed 63 significant strikes
+  - JOE ELLENBERGER landed 24 significant strikes
+  - Knockdowns: BRYAN BARBERENA 1,  JOE ELLENBERGER 0
+  - Takedowns: BRYAN BARBERENA 0,  JOE ELLENBERGER 3

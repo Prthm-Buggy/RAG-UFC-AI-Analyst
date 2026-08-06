@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Santos vs. Ivanov
+    Date: July 14, 2018
+    Location: Boise, Idaho, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: LIZ CARMOUCHE defeated JENNIFER MAIA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LIZ CARMOUCHE landed 53 significant strikes
+  - JENNIFER MAIA landed 42 significant strikes
+  - Knockdowns: LIZ CARMOUCHE 0,  JENNIFER MAIA 0
+  - Takedowns: LIZ CARMOUCHE 3,  JENNIFER MAIA 0

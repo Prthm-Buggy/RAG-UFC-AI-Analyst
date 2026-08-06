@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Munhoz vs. Edgar
+    Date: August 22, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MIKE RODRIGUEZ defeated MARCIN PRACHNIO via KO/TKO  
+  at 2:17 of round 1
+  Key stats:
+  - MIKE RODRIGUEZ landed 21 significant strikes
+  - MARCIN PRACHNIO landed 14 significant strikes
+  - Knockdowns: MIKE RODRIGUEZ 1,  MARCIN PRACHNIO 0
+  - Takedowns: MIKE RODRIGUEZ 0,  MARCIN PRACHNIO 0

@@ -1,0 +1,18 @@
+Event : UFC 211: Miocic vs. Dos Santos
+    Date : May 13, 2017
+    Location: Dallas, Texas, USA
+    Number of Fights: 11
+    Weight Classes: Women's Strawweight, Light Heavyweight, Featherweight, Middleweight, Welterweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - GADZHIMURAD ANTIGULOV def. JOACHIM CHRISTENSEN via Submission(R1)
+- CHASE SHERMAN def. RASHAD COULTER via KO/TKO(R2)
+- JASON KNIGHT def. CHAS SKELLY via KO/TKO(R3)
+- FRANKIE EDGAR def. YAIR RODRIGUEZ via TKO - Doctor's Stoppage(R2)
+- JAMES VICK def. MARCO POLO REYES via KO/TKO(R1)
+- DEMIAN MAIA def. JORGE MASVIDAL via Decision - Split(R3)
+- ENRIQUE BARZOLA def. GABRIEL BENITEZ via Decision - Unanimous(R3)
+- CORTNEY CASEY def. JESSICA AGUILAR via Decision - Unanimous(R3)
+- STIPE MIOCIC def. JUNIOR DOS SANTOS via KO/TKO(R1)
+- DAVID BRANCH def. KRZYSZTOF JOTKO via Decision - Split(R3)
+- JOANNA JEDRZEJCZYK def. JESSICA ANDRADE via Decision - Unanimous(R5)

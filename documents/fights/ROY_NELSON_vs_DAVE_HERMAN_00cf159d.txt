@@ -1,0 +1,14 @@
+Event: UFC 146: Dos Santos vs Mir
+    Date: May 26, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ROY NELSON defeated DAVE HERMAN via KO/TKO  
+  at 0:51 of round 1
+  Key stats:
+  - ROY NELSON landed 2 significant strikes
+  - DAVE HERMAN landed 3 significant strikes
+  - Knockdowns: ROY NELSON 1,  DAVE HERMAN 0
+  - Takedowns: ROY NELSON 0,  DAVE HERMAN 0
+  Bonus: ko

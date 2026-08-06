@@ -1,0 +1,11 @@
+Fighter: JOSH SHOCKLEY
+  Date of Birth: 1989-11-15
+  Career record: 2
+  First fight: 2014-06-14
+  Last fight: 2015-02-22
+
+Career Statistics:
+- Significant Strikes Landed :28
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

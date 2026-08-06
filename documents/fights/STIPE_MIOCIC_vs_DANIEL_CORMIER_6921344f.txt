@@ -1,0 +1,14 @@
+Event: UFC 241: Cormier vs. Miocic 2
+    Date: August 17, 2019
+    Location: Anaheim, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STIPE MIOCIC defeated DANIEL CORMIER via KO/TKO  
+  at 4:09 of round 4
+  Key stats:
+  - STIPE MIOCIC landed 123 significant strikes
+  - DANIEL CORMIER landed 181 significant strikes
+  - Knockdowns: STIPE MIOCIC 1,  DANIEL CORMIER 0
+  - Takedowns: STIPE MIOCIC 1,  DANIEL CORMIER 1
+  Bonus: belt

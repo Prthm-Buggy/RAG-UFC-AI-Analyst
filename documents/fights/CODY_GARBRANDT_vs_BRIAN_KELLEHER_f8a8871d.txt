@@ -1,0 +1,13 @@
+Event: UFC 296: Edwards vs. Covington
+    Date: December 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CODY GARBRANDT defeated BRIAN KELLEHER via KO/TKO  
+  at 3:42 of round 1
+  Key stats:
+  - CODY GARBRANDT landed 20 significant strikes
+  - BRIAN KELLEHER landed 17 significant strikes
+  - Knockdowns: CODY GARBRANDT 1,  BRIAN KELLEHER 0
+  - Takedowns: CODY GARBRANDT 0,  BRIAN KELLEHER 0

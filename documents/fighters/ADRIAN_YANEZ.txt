@@ -1,0 +1,11 @@
+Fighter: ADRIAN YANEZ
+  Date of Birth: 1993-11-29
+  Career record: 9
+  First fight: 2020-10-31
+  Last fight: 2024-12-14
+
+Career Statistics:
+- Significant Strikes Landed :417
+- Total takedowns landed :0
+- Knockdowns :6
+- Submission Attempts :0

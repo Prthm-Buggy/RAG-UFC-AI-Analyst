@@ -1,0 +1,11 @@
+Fighter: EDMEN SHAHBAZYAN
+  Date of Birth: 1997-11-20
+  Career record: 15
+  First fight: 2018-11-30
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :493
+- Total takedowns landed :12
+- Knockdowns :7
+- Submission Attempts :3

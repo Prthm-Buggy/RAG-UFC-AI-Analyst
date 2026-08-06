@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Burns vs. Morales
+    Date: May 17, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: DENISE GOMES defeated ELISE REED via KO/TKO  
+  at 0:30 of round 2
+  Key stats:
+  - DENISE GOMES landed 28 significant strikes
+  - ELISE REED landed 11 significant strikes
+  - Knockdowns: DENISE GOMES 1,  ELISE REED 0
+  - Takedowns: DENISE GOMES 3,  ELISE REED 0
+  Bonus: perf

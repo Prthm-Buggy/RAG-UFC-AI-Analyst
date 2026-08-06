@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Lewis vs. Dos Santos
+    Date : March 09, 2019
+    Location: Wichita, Kansas, USA
+    Number of Fights: 13
+    Weight Classes: Welterweight, Women's Bantamweight, Lightweight, Featherweight, Middleweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - ALEX MORONO def. ZAK OTTOW via KO/TKO(R1)
+- GRANT DAWSON def. JULIAN EROSA via Decision - Unanimous(R3)
+- YANA SANTOS def. MARION RENEAU via Decision - Unanimous(R3)
+- BENEIL DARIUSH def. DREW DOBER via Submission(R2)
+- ELIZEU ZALESKI DOS SANTOS def. CURTIS MILLENDER via Submission(R1)
+- OMARI AKHMEDOV def. TIM BOETSCH via Decision - Unanimous(R3)
+- MATT SCHNELL def. LOUIS SMOLKA via Submission(R1)
+- ANTHONY ROCCO MARTIN def. SERGIO MORAES via Decision - Unanimous(R3)
+- BLAGOY IVANOV def. BEN ROTHWELL via Decision - Unanimous(R3)
+- NIKO PRICE def. TIM MEANS via KO/TKO(R1)
+- JUNIOR DOS SANTOS def. DERRICK LEWIS via KO/TKO(R2)
+- MAURICE GREENE def. JEFF HUGHES via Decision - Split(R3)
+- ALEX WHITE def. DAN MORET via Decision - Unanimous(R3)

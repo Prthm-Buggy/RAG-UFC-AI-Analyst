@@ -1,0 +1,13 @@
+Event: UFC 59: Reality Check
+    Date: April 15, 2006
+    Location: Anaheim, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: EVAN TANNER defeated JUSTIN LEVENS via Submission  
+  at 3:14 of round 1
+  Key stats:
+  - EVAN TANNER landed 10 significant strikes
+  - JUSTIN LEVENS landed 2 significant strikes
+  - Knockdowns: EVAN TANNER 0,  JUSTIN LEVENS 0
+  - Takedowns: EVAN TANNER 1,  JUSTIN LEVENS 0

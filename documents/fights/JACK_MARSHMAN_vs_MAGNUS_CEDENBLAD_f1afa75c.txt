@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Mousasi vs. Hall 2
+    Date: November 19, 2016
+    Location: Belfast, Northern Ireland, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: JACK MARSHMAN defeated MAGNUS CEDENBLAD via KO/TKO  
+  at 3:40 of round 2
+  Key stats:
+  - JACK MARSHMAN landed 42 significant strikes
+  - MAGNUS CEDENBLAD landed 36 significant strikes
+  - Knockdowns: JACK MARSHMAN 2,  MAGNUS CEDENBLAD 0
+  - Takedowns: JACK MARSHMAN 0,  MAGNUS CEDENBLAD 3
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: ANTHONY PEROSH
+  Date of Birth: 1972-10-05
+  Career record: 12
+  First fight: 2006-07-08
+  Last fight: 2015-11-14
+
+Career Statistics:
+- Significant Strikes Landed :151
+- Total takedowns landed :9
+- Knockdowns :2
+- Submission Attempts :5

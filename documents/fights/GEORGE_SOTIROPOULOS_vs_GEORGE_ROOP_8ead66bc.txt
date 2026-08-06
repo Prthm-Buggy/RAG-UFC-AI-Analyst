@@ -1,0 +1,13 @@
+Event: UFC 101: Declaration
+    Date: August 08, 2009
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Lightweight
+    
+
+    Result: GEORGE SOTIROPOULOS defeated GEORGE ROOP via Submission  
+  at 1:59 of round 2
+  Key stats:
+  - GEORGE SOTIROPOULOS landed 14 significant strikes
+  - GEORGE ROOP landed 5 significant strikes
+  - Knockdowns: GEORGE SOTIROPOULOS 0,  GEORGE ROOP 0
+  - Takedowns: GEORGE SOTIROPOULOS 3,  GEORGE ROOP 0

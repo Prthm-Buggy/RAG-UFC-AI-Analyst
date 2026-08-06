@@ -1,0 +1,14 @@
+Event: UFC 290: Volkanovski vs. Rodriguez
+    Date: July 08, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ALEXANDER VOLKANOVSKI defeated YAIR RODRIGUEZ via KO/TKO  
+  at 4:19 of round 3
+  Key stats:
+  - ALEXANDER VOLKANOVSKI landed 66 significant strikes
+  - YAIR RODRIGUEZ landed 40 significant strikes
+  - Knockdowns: ALEXANDER VOLKANOVSKI 0,  YAIR RODRIGUEZ 0
+  - Takedowns: ALEXANDER VOLKANOVSKI 7,  YAIR RODRIGUEZ 0
+  Bonus: belt

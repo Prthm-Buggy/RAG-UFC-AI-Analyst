@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs Dodson
+    Date: January 26, 2013
+    Location: Chicago, Illinois, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SHAWN JORDAN defeated MIKE RUSSOW via KO/TKO  
+  at 3:48 of round 2
+  Key stats:
+  - SHAWN JORDAN landed 42 significant strikes
+  - MIKE RUSSOW landed 25 significant strikes
+  - Knockdowns: SHAWN JORDAN 0,  MIKE RUSSOW 0
+  - Takedowns: SHAWN JORDAN 2,  MIKE RUSSOW 1

@@ -1,0 +1,13 @@
+Event: UFC 42: Sudden Impact
+    Date: April 25, 2003
+    Location: Miami, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: WESLEY CORREIRA defeated SEAN ALVAREZ via KO/TKO  
+  at 1:46 of round 2
+  Key stats:
+  - WESLEY CORREIRA landed 22 significant strikes
+  - SEAN ALVAREZ landed 6 significant strikes
+  - Knockdowns: WESLEY CORREIRA 0,  SEAN ALVAREZ 0
+  - Takedowns: WESLEY CORREIRA 0,  SEAN ALVAREZ 0

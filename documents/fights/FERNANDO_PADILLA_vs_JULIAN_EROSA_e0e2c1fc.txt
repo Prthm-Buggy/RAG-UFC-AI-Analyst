@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Song vs. Simon
+    Date: April 29, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: FERNANDO PADILLA defeated JULIAN EROSA via KO/TKO  
+  at 1:41 of round 1
+  Key stats:
+  - FERNANDO PADILLA landed 20 significant strikes
+  - JULIAN EROSA landed 15 significant strikes
+  - Knockdowns: FERNANDO PADILLA 1,  JULIAN EROSA 0
+  - Takedowns: FERNANDO PADILLA 0,  JULIAN EROSA 0

@@ -1,0 +1,11 @@
+Fighter: ROSS POINTON
+  Date of Birth: 1980-02-18
+  Career record: 2
+  First fight: 2006-06-24
+  Last fight: 2007-01-25
+
+Career Statistics:
+- Significant Strikes Landed :27
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

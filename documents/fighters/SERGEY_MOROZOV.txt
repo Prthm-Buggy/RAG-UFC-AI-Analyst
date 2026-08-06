@@ -1,0 +1,11 @@
+Fighter: SERGEY MOROZOV
+  Date of Birth: 1989-06-14
+  Career record: 5
+  First fight: 2021-01-20
+  Last fight: 2022-12-17
+
+Career Statistics:
+- Significant Strikes Landed :187
+- Total takedowns landed :15
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC 129: St-Pierre vs Shields
+    Date: April 30, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Featherweight
+    
+
+    Result: PABLO GARZA defeated YVES JABOUIN via Submission  
+  at 4:31 of round 1
+  Key stats:
+  - PABLO GARZA landed 26 significant strikes
+  - YVES JABOUIN landed 16 significant strikes
+  - Knockdowns: PABLO GARZA 0,  YVES JABOUIN 0
+  - Takedowns: PABLO GARZA 0,  YVES JABOUIN 0
+  Bonus: sub

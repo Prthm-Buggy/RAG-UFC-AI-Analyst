@@ -1,0 +1,11 @@
+Fighter: RAMAZAN EMEEV
+  Date of Birth: 1987-05-23
+  Career record: 8
+  First fight: 2017-10-21
+  Last fight: 2022-06-11
+
+Career Statistics:
+- Significant Strikes Landed :272
+- Total takedowns landed :17
+- Knockdowns :1
+- Submission Attempts :5

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Luque vs. Dos Anjos
+    Date: August 12, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARTIN BUDAY defeated JOSH PARISIAN via Submission  
+  at 4:11 of round 1
+  Key stats:
+  - MARTIN BUDAY landed 42 significant strikes
+  - JOSH PARISIAN landed 26 significant strikes
+  - Knockdowns: MARTIN BUDAY 0,  JOSH PARISIAN 0
+  - Takedowns: MARTIN BUDAY 1,  JOSH PARISIAN 0

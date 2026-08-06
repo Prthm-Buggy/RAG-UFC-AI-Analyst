@@ -1,0 +1,11 @@
+Fighter: MARK KERR
+  Date of Birth: 1968-12-21
+  Career record: 4
+  First fight: 1997-07-27
+  Last fight: 1997-10-17
+
+Career Statistics:
+- Significant Strikes Landed :23
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :1

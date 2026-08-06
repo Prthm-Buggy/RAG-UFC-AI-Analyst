@@ -1,0 +1,19 @@
+Event : UFC 139: Shogun vs Henderson
+    Date : November 19, 2011
+    Location: San Jose, California, USA
+    Number of Fights: 12
+    Weight Classes: Welterweight, Lightweight, Light Heavyweight, Middleweight, Bantamweight
+
+    Fight Results:
+  - RYAN BADER def. JASON BRILZ via KO/TKO(R1)
+- CHRIS WEIDMAN def. TOM LAWLOR via Submission(R1)
+- URIJAH FABER def. BRIAN BOWLES via Submission(R2)
+- MICHAEL MCDONALD def. ALEX SOTO via KO/TKO(R1)
+- WANDERLEI SILVA def. CUNG LE via KO/TKO(R2)
+- SETH BACZYNSKI def. MATT BROWN via Submission(R2)
+- GLEISON TIBAU def. RAFAEL DOS ANJOS via Decision - Split(R3)
+- STEPHAN BONNAR def. KYLE KINGSBURY via Decision - Unanimous(R3)
+- MARTIN KAMPMANN def. RICK STORY via Decision - Split(R3)
+- DAN HENDERSON def. MAURICIO RUA via Decision - Unanimous(R5)
+- MIGUEL TORRES def. NICK PACE via Decision - Unanimous(R3)
+- DANNY CASTILLO def. SHAMAR BAILEY via KO/TKO(R1)

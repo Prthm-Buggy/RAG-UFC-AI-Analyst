@@ -1,0 +1,11 @@
+Fighter: GAVIN TUCKER
+  Date of Birth: 1986-06-17
+  Career record: 7
+  First fight: 2017-02-19
+  Last fight: 2023-08-05
+
+Career Statistics:
+- Significant Strikes Landed :309
+- Total takedowns landed :15
+- Knockdowns :0
+- Submission Attempts :7

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Lee
+    Date: May 18, 2019
+    Location: Rochester, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: ZAK CUMMINGS defeated TREVIN GILES via Submission  
+  at 4:01 of round 3
+  Key stats:
+  - ZAK CUMMINGS landed 34 significant strikes
+  - TREVIN GILES landed 31 significant strikes
+  - Knockdowns: ZAK CUMMINGS 1,  TREVIN GILES 0
+  - Takedowns: ZAK CUMMINGS 0,  TREVIN GILES 0

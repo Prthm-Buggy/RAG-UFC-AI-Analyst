@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Yan vs. Figueiredo
+    Date: November 23, 2024
+    Location: Macau, China
+    Weight Class: Women's Flyweight
+    
+
+    Result: GABRIELLA FERNANDES defeated WANG CONG via Submission  
+  at 3:49 of round 2
+  Key stats:
+  - GABRIELLA FERNANDES landed 18 significant strikes
+  - WANG CONG landed 46 significant strikes
+  - Knockdowns: GABRIELLA FERNANDES 1,  WANG CONG 0
+  - Takedowns: GABRIELLA FERNANDES 0,  WANG CONG 0
+  Bonus: perf

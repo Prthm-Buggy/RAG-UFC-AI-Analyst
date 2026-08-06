@@ -1,0 +1,11 @@
+Fighter: JACK HERMANSSON
+  Date of Birth: 1988-06-10
+  Career record: 19
+  First fight: 2016-09-03
+  Last fight: 2025-11-22
+
+Career Statistics:
+- Significant Strikes Landed :1048
+- Total takedowns landed :20
+- Knockdowns :0
+- Submission Attempts :5

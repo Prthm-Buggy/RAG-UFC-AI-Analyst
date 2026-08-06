@@ -1,0 +1,18 @@
+Event : UFC on FOX: Henderson vs Diaz
+    Date : December 08, 2012
+    Location: Seattle, Washington, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Lightweight, Light Heavyweight, Welterweight, Featherweight
+
+    Fight Results:
+  - RAPHAEL ASSUNCAO def. MIKE EASTON via Decision - Unanimous(R3)
+- DARON CRUICKSHANK def. HENRY MARTINEZ via KO/TKO(R2)
+- ABEL TRUJILLO def. MARCUS LEVESSEUR via KO/TKO(R2)
+- MATT BROWN def. MIKE SWICK via KO/TKO(R2)
+- DENNIS SIVER def. NAM PHAN via Decision - Unanimous(R3)
+- RAMSEY NIJEM def. JOE PROCTOR via Decision - Unanimous(R3)
+- SCOTT JORGENSEN def. JOHN ALBERT via Submission(R1)
+- BENSON HENDERSON def. NATE DIAZ via Decision - Unanimous(R5)
+- RORY MACDONALD def. BJ PENN via Decision - Unanimous(R3)
+- ALEXANDER GUSTAFSSON def. MAURICIO RUA via Decision - Unanimous(R3)
+- YVES EDWARDS def. JEREMY STEPHENS via KO/TKO(R1)

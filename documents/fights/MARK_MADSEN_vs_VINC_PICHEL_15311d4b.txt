@@ -1,0 +1,13 @@
+Event: UFC 273: Volkanovski vs. The Korean Zombie
+    Date: April 09, 2022
+    Location: Jacksonville, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: MARK MADSEN defeated VINC PICHEL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARK MADSEN landed 39 significant strikes
+  - VINC PICHEL landed 68 significant strikes
+  - Knockdowns: MARK MADSEN 0,  VINC PICHEL 0
+  - Takedowns: MARK MADSEN 3,  VINC PICHEL 1

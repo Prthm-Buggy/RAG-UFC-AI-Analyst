@@ -1,0 +1,13 @@
+Event: UFC 260: Miocic vs. Ngannou
+    Date: March 27, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARC-ANDRE BARRIAULT defeated ABU AZAITAR via KO/TKO  
+  at 4:56 of round 3
+  Key stats:
+  - MARC-ANDRE BARRIAULT landed 141 significant strikes
+  - ABU AZAITAR landed 108 significant strikes
+  - Knockdowns: MARC-ANDRE BARRIAULT 1,  ABU AZAITAR 0
+  - Takedowns: MARC-ANDRE BARRIAULT 0,  ABU AZAITAR 0

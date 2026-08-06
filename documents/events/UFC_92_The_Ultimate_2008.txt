@@ -1,0 +1,17 @@
+Event : UFC 92: The Ultimate 2008
+    Date : December 27, 2008
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Welterweight, Light Heavyweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - CB DOLLAWAY def. MIKE MASSENZIO via KO/TKO(R1)
+- YUSHIN OKAMI def. DEAN LISTER via Decision - Unanimous(R3)
+- BRAD BLACKBURN def. RYO CHONAN via Decision - Unanimous(R3)
+- QUINTON JACKSON def. WANDERLEI SILVA via KO/TKO(R1)
+- RASHAD EVANS def. FORREST GRIFFIN via KO/TKO(R3)
+- FRANK MIR def. ANTONIO RODRIGO NOGUEIRA via KO/TKO(R2)
+- MATT HAMILL def. REESE ANDY via KO/TKO(R2)
+- CHEICK KONGO def. MOSTAPHA AL-TURK via KO/TKO(R1)
+- ANTONI HARDONK def. MIKE WESSEL via KO/TKO(R2)
+- PAT BARRY def. DAN EVENSEN via KO/TKO(R1)

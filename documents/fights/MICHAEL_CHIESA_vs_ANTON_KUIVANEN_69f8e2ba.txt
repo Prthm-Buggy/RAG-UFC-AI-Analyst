@@ -1,0 +1,13 @@
+Event: UFC 157: Rousey vs Carmouche
+    Date: February 23, 2013
+    Location: Anaheim, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: MICHAEL CHIESA defeated ANTON KUIVANEN via Submission  
+  at 2:29 of round 2
+  Key stats:
+  - MICHAEL CHIESA landed 5 significant strikes
+  - ANTON KUIVANEN landed 18 significant strikes
+  - Knockdowns: MICHAEL CHIESA 0,  ANTON KUIVANEN 0
+  - Takedowns: MICHAEL CHIESA 1,  ANTON KUIVANEN 0

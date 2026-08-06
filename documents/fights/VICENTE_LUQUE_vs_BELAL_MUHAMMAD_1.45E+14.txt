@@ -1,0 +1,13 @@
+Event: UFC 205: Alvarez vs McGregor
+    Date: November 12, 2016
+    Location: New York City, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated BELAL MUHAMMAD via KO/TKO  
+  at 1:19 of round 1
+  Key stats:
+  - VICENTE LUQUE landed 9 significant strikes
+  - BELAL MUHAMMAD landed 3 significant strikes
+  - Knockdowns: VICENTE LUQUE 1,  BELAL MUHAMMAD 0
+  - Takedowns: VICENTE LUQUE 0,  BELAL MUHAMMAD 0

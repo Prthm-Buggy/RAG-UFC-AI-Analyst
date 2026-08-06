@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cerrone vs. Medeiros
+    Date: February 18, 2018
+    Location: Austin, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: GEOFF NEAL defeated BRIAN CAMOZZI via Submission  
+  at 2:48 of round 1
+  Key stats:
+  - GEOFF NEAL landed 14 significant strikes
+  - BRIAN CAMOZZI landed 7 significant strikes
+  - Knockdowns: GEOFF NEAL 0,  BRIAN CAMOZZI 0
+  - Takedowns: GEOFF NEAL 0,  BRIAN CAMOZZI 0

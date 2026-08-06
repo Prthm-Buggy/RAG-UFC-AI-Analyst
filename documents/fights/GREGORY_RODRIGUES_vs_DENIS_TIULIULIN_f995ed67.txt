@@ -1,0 +1,13 @@
+Event: UFC 292: Sterling vs. O'Malley
+    Date: August 19, 2023
+    Location: Boston, Massachusetts, USA
+    Weight Class: Middleweight
+    
+
+    Result: GREGORY RODRIGUES defeated DENIS TIULIULIN via KO/TKO  
+  at 1:43 of round 1
+  Key stats:
+  - GREGORY RODRIGUES landed 5 significant strikes
+  - DENIS TIULIULIN landed 2 significant strikes
+  - Knockdowns: GREGORY RODRIGUES 0,  DENIS TIULIULIN 0
+  - Takedowns: GREGORY RODRIGUES 1,  DENIS TIULIULIN 0

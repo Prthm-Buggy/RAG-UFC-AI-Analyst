@@ -1,0 +1,11 @@
+Fighter: PEDRO RIZZO
+  Date of Birth: 1974-05-03
+  Career record: 14
+  First fight: 1998-10-16
+  Last fight: 2003-11-21
+
+Career Statistics:
+- Significant Strikes Landed :286
+- Total takedowns landed :2
+- Knockdowns :8
+- Submission Attempts :0

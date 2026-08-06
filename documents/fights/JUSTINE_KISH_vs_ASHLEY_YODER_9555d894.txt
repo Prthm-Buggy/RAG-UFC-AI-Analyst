@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Abdurakhimov
+    Date: December 09, 2016
+    Location: Albany, New York, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JUSTINE KISH defeated ASHLEY YODER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JUSTINE KISH landed 51 significant strikes
+  - ASHLEY YODER landed 44 significant strikes
+  - Knockdowns: JUSTINE KISH 0,  ASHLEY YODER 0
+  - Takedowns: JUSTINE KISH 1,  ASHLEY YODER 1

@@ -1,0 +1,11 @@
+Fighter: SULTAN ALIEV
+  Date of Birth: 1984-09-17
+  Career record: 4
+  First fight: 2015-01-24
+  Last fight: 2019-04-20
+
+Career Statistics:
+- Significant Strikes Landed :60
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

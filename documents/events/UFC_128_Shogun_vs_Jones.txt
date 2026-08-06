@@ -1,0 +1,19 @@
+Event : UFC 128: Shogun vs Jones
+    Date : March 19, 2011
+    Location: Newark, New Jersey, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Light Heavyweight, Lightweight, Middleweight, Welterweight, Featherweight, Catch Weight
+
+    Fight Results:
+  - JOSEPH BENAVIDEZ def. IAN LOVELAND via Decision - Unanimous(R3)
+- EDSON BARBOZA def. ANTHONY NJOKUANI via Decision - Unanimous(R3)
+- JIM MILLER def. KAMAL SHALORUS via KO/TKO(R3)
+- MIKE PYLE def. RICARDO ALMEIDA via Decision - Unanimous(R3)
+- GLEISON TIBAU def. KURT PELLEGRINO via Decision - Split(R3)
+- LUIZ CANE def. ELIOT MARSHALL via KO/TKO(R1)
+- JON JONES def. MAURICIO RUA via KO/TKO(R3)
+- URIJAH FABER def. EDDIE WINELAND via Decision - Unanimous(R3)
+- NICK CATONE def. CONSTANTINOS PHILIPPOU via Decision - Unanimous(R3)
+- ERIK KOCH def. RAPHAEL ASSUNCAO via KO/TKO(R1)
+- NATE MARQUARDT def. DAN MILLER via Decision - Unanimous(R3)
+- BRENDAN SCHAUB def. MIRKO FILIPOVIC via KO/TKO(R3)

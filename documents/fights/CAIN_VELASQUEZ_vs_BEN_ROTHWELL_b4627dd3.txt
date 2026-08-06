@@ -1,0 +1,13 @@
+Event: UFC 104: Machida vs Shogun
+    Date: October 24, 2009
+    Location: Los Angeles, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CAIN VELASQUEZ defeated BEN ROTHWELL via KO/TKO  
+  at 0:58 of round 2
+  Key stats:
+  - CAIN VELASQUEZ landed 62 significant strikes
+  - BEN ROTHWELL landed 3 significant strikes
+  - Knockdowns: CAIN VELASQUEZ 0,  BEN ROTHWELL 0
+  - Takedowns: CAIN VELASQUEZ 5,  BEN ROTHWELL 0

@@ -1,0 +1,13 @@
+Event: UFC 152: Jones vs Belfort
+    Date: September 22, 2012
+    Location: Toronto, Ontario, Canada
+    Weight Class: Welterweight
+    
+
+    Result: KYLE NOKE defeated CHARLIE BRENNEMAN via KO/TKO  
+  at 0:45 of round 1
+  Key stats:
+  - KYLE NOKE landed 7 significant strikes
+  - CHARLIE BRENNEMAN landed 0 significant strikes
+  - Knockdowns: KYLE NOKE 1,  CHARLIE BRENNEMAN 0
+  - Takedowns: KYLE NOKE 0,  CHARLIE BRENNEMAN 0

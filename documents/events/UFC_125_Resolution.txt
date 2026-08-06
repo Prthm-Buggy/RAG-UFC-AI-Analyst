@@ -1,0 +1,16 @@
+Event : UFC 125: Resolution
+    Date : January 01, 2011
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Middleweight, Lightweight, Welterweight, Featherweight
+
+    Fight Results:
+  - BRAD TAVARES def. PHIL BARONI via KO/TKO(R1)
+- DUSTIN POIRIER def. JOSH GRISPI via Decision - Unanimous(R3)
+- JEREMY STEPHENS def. MARCUS DAVIS via KO/TKO(R3)
+- DIEGO NUNES def. MIKE BROWN via Decision - Split(R3)
+- CLAY GUIDA def. TAKANORI GOMI via Submission(R2)
+- DONG HYUN KIM def. NATE DIAZ via Decision - Unanimous(R3)
+- BRIAN STANN def. CHRIS LEBEN via KO/TKO(R1)
+- JACOB VOLKMANN def. ANTONIO MCKEE via Decision - Split(R3)
+- DANIEL ROBERTS def. GREG SOTO via Submission(R1)

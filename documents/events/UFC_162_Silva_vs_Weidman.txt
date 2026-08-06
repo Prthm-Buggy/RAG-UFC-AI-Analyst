@@ -1,0 +1,18 @@
+Event : UFC 162: Silva vs Weidman
+    Date : July 06, 2013
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Lightweight, Welterweight, Featherweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - BRIAN MELANCON def. SETH BACZYNSKI via KO/TKO(R1)
+- CUB SWANSON def. DENNIS SIVER via KO/TKO(R3)
+- EDSON BARBOZA def. RAFAELLO OLIVEIRA via KO/TKO(R2)
+- NORMAN PARKE def. KAZUKI TOKUDOME via Decision - Unanimous(R3)
+- CHRIS WEIDMAN def. ANDERSON SILVA via KO/TKO(R2)
+- GABRIEL GONZAGA def. DAVE HERMAN via KO/TKO(R1)
+- FRANKIE EDGAR def. CHARLES OLIVEIRA via Decision - Unanimous(R3)
+- ANDREW CRAIG def. CHRIS LEBEN via Decision - Split(R3)
+- MARK MUNOZ def. TIM BOETSCH via Decision - Unanimous(R3)
+- TIM KENNEDY def. ROGER GRACIE via Decision - Unanimous(R3)
+- MIKE PIERCE def. DAVID MITCHELL via KO/TKO(R2)

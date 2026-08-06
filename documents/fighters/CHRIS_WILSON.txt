@@ -1,0 +1,11 @@
+Fighter: CHRIS WILSON
+  Date of Birth: 1977-06-07
+  Career record: 4
+  First fight: 2008-03-01
+  Last fight: 2009-09-16
+
+Career Statistics:
+- Significant Strikes Landed :133
+- Total takedowns landed :5
+- Knockdowns :3
+- Submission Attempts :6

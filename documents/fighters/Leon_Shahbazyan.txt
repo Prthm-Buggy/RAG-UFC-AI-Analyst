@@ -1,0 +1,11 @@
+Fighter: Leon Shahbazyan
+  Date of Birth: 1995-11-18
+  Career record: 1
+  First fight: 2026-04-04
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Rousey vs. Team Tate Finale
+    Date: November 30, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CHRIS HOLDSWORTH defeated DAVEY GRANT via Submission  
+  at 2:10 of round 2
+  Key stats:
+  - CHRIS HOLDSWORTH landed 15 significant strikes
+  - DAVEY GRANT landed 18 significant strikes
+  - Knockdowns: CHRIS HOLDSWORTH 0,  DAVEY GRANT 0
+  - Takedowns: CHRIS HOLDSWORTH 1,  DAVEY GRANT 0
+  Bonus: belt

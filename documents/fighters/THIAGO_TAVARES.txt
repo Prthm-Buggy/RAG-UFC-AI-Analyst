@@ -1,0 +1,11 @@
+Fighter: THIAGO TAVARES
+  Date of Birth: 1984-11-08
+  Career record: 17
+  First fight: 2007-04-05
+  Last fight: 2016-07-08
+
+Career Statistics:
+- Significant Strikes Landed :274
+- Total takedowns landed :41
+- Knockdowns :0
+- Submission Attempts :15

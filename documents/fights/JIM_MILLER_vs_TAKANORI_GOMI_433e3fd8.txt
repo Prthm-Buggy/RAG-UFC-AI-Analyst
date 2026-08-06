@@ -1,0 +1,13 @@
+Event: UFC 200: Tate vs Nunes
+    Date: July 09, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated TAKANORI GOMI via KO/TKO  
+  at 2:18 of round 1
+  Key stats:
+  - JIM MILLER landed 8 significant strikes
+  - TAKANORI GOMI landed 1 significant strikes
+  - Knockdowns: JIM MILLER 0,  TAKANORI GOMI 0
+  - Takedowns: JIM MILLER 1,  TAKANORI GOMI 0

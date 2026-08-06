@@ -1,0 +1,13 @@
+Event: UFC 50: The War Of '04
+    Date: October 22, 2004
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: EVAN TANNER defeated ROBBIE LAWLER via Submission  
+  at 2:22 of round 1
+  Key stats:
+  - EVAN TANNER landed 6 significant strikes
+  - ROBBIE LAWLER landed 3 significant strikes
+  - Knockdowns: EVAN TANNER 0,  ROBBIE LAWLER 0
+  - Takedowns: EVAN TANNER 0,  ROBBIE LAWLER 1

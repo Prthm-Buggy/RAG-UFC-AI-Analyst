@@ -1,0 +1,13 @@
+Event: UFC 314: Volkanovski vs. Lopes
+    Date: April 12, 2025
+    Location: Miami, Florida, USA
+    Weight Class: Featherweight
+    
+
+    Result: JULIAN EROSA defeated DARREN ELKINS via KO/TKO  
+  at 4:15 of round 1
+  Key stats:
+  - JULIAN EROSA landed 54 significant strikes
+  - DARREN ELKINS landed 13 significant strikes
+  - Knockdowns: JULIAN EROSA 0,  DARREN ELKINS 0
+  - Takedowns: JULIAN EROSA 0,  DARREN ELKINS 1

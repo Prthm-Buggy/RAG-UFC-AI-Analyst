@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Nzechukwu vs. Cutelaba
+    Date: November 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: NATALIA SILVA defeated TEREZA BLEDA via KO/TKO  
+  at 1:27 of round 3
+  Key stats:
+  - NATALIA SILVA landed 45 significant strikes
+  - TEREZA BLEDA landed 18 significant strikes
+  - Knockdowns: NATALIA SILVA 1,  TEREZA BLEDA 0
+  - Takedowns: NATALIA SILVA 0,  TEREZA BLEDA 1
+  Bonus: perf

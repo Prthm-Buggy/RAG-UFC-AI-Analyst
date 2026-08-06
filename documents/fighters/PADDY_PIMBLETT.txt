@@ -1,0 +1,11 @@
+Fighter: PADDY PIMBLETT
+  Date of Birth: 1995-01-03
+  Career record: 8
+  First fight: 2021-09-04
+  Last fight: 2026-01-24
+
+Career Statistics:
+- Significant Strikes Landed :480
+- Total takedowns landed :4
+- Knockdowns :2
+- Submission Attempts :7

@@ -1,0 +1,14 @@
+Event: UFC 155: Dos Santos vs Velasquez II
+    Date: December 29, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOHN MORAGA defeated CHRIS CARIASO via Submission  
+  at 1:11 of round 3
+  Key stats:
+  - JOHN MORAGA landed 26 significant strikes
+  - CHRIS CARIASO landed 39 significant strikes
+  - Knockdowns: JOHN MORAGA 0,  CHRIS CARIASO 0
+  - Takedowns: JOHN MORAGA 2,  CHRIS CARIASO 1
+  Bonus: sub

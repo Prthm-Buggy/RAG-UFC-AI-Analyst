@@ -1,0 +1,14 @@
+Event: UFC 143: Diaz vs Condit
+    Date: February 04, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS CONDIT defeated NICK DIAZ via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CARLOS CONDIT landed 151 significant strikes
+  - NICK DIAZ landed 105 significant strikes
+  - Knockdowns: CARLOS CONDIT 0,  NICK DIAZ 0
+  - Takedowns: CARLOS CONDIT 0,  NICK DIAZ 1
+  Bonus: belt

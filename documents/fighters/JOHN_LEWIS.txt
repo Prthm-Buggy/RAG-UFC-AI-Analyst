@@ -1,0 +1,11 @@
+Fighter: JOHN LEWIS
+  Date of Birth: Unknown
+  Career record: 2
+  First fight: 1999-09-24
+  Last fight: 2000-11-17
+
+Career Statistics:
+- Significant Strikes Landed :20
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

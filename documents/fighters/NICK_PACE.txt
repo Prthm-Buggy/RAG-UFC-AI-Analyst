@@ -1,0 +1,11 @@
+Fighter: NICK PACE
+  Date of Birth: 1987-04-17
+  Career record: 3
+  First fight: 2010-12-04
+  Last fight: 2011-11-19
+
+Career Statistics:
+- Significant Strikes Landed :80
+- Total takedowns landed :10
+- Knockdowns :0
+- Submission Attempts :2

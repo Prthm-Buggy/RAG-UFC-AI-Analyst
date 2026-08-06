@@ -1,0 +1,14 @@
+Event: UFC Fight Night: McGregor vs Brandao
+    Date: July 19, 2014
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Featherweight
+    
+
+    Result: CONOR MCGREGOR defeated DIEGO BRANDAO via KO/TKO  
+  at 4:05 of round 1
+  Key stats:
+  - CONOR MCGREGOR landed 18 significant strikes
+  - DIEGO BRANDAO landed 9 significant strikes
+  - Knockdowns: CONOR MCGREGOR 1,  DIEGO BRANDAO 0
+  - Takedowns: CONOR MCGREGOR 1,  DIEGO BRANDAO 0
+  Bonus: perf

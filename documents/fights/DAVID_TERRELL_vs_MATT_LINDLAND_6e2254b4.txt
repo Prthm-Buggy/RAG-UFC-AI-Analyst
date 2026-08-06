@@ -1,0 +1,13 @@
+Event: UFC 49: Unfinished Business
+    Date: August 21, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAVID TERRELL defeated MATT LINDLAND via KO/TKO  
+  at 0:24 of round 1
+  Key stats:
+  - DAVID TERRELL landed 5 significant strikes
+  - MATT LINDLAND landed 0 significant strikes
+  - Knockdowns: DAVID TERRELL 1,  MATT LINDLAND 0
+  - Takedowns: DAVID TERRELL 0,  MATT LINDLAND 0

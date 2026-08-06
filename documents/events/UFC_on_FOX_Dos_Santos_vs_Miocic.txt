@@ -1,0 +1,19 @@
+Event : UFC on FOX: Dos Santos vs Miocic
+    Date : December 13, 2014
+    Location: Phoenix, Arizona, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Women's Strawweight, Flyweight, Welterweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - DREW DOBER def. JAMIE VARNER via Submission(R1)
+- HENRY CEJUDO def. DUSTIN KIMURA via Decision - Unanimous(R3)
+- BRYAN BARBERENA def. JOE ELLENBERGER via KO/TKO(R3)
+- RAFAEL DOS ANJOS def. NATE DIAZ via Decision - Unanimous(R3)
+- JUNIOR DOS SANTOS def. STIPE MIOCIC via Decision - Unanimous(R5)
+- JOANNA JEDRZEJCZYK def. CLAUDIA GADELHA via Decision - Split(R3)
+- BEN SAUNDERS def. JOE RIGGS via Submission(R1)
+- ALISTAIR OVEREEM def. STEFAN STRUVE via KO/TKO(R1)
+- IAN ENTWISTLE def. ANTHONY BIRCHAK via Submission(R1)
+- MATT MITRIONE def. GABRIEL GONZAGA via KO/TKO(R1)
+- JOHN MORAGA def. WILLIE GATES via Submission(R3)
+- DAVID MICHAUD def. GARETT WHITELEY via Decision - Unanimous(R3)

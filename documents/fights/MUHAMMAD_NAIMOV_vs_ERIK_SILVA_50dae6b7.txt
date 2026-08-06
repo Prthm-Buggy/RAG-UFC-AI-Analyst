@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Royval 2
+    Date: February 24, 2024
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Featherweight
+    
+
+    Result: MUHAMMAD NAIMOV defeated ERIK SILVA via KO/TKO  
+  at 0:44 of round 1
+  Key stats:
+  - MUHAMMAD NAIMOV landed 1 significant strikes
+  - ERIK SILVA landed 0 significant strikes
+  - Knockdowns: MUHAMMAD NAIMOV 0,  ERIK SILVA 0
+  - Takedowns: MUHAMMAD NAIMOV 1,  ERIK SILVA 0

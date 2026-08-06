@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs. Harris
+    Date: May 16, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIGUEL BAEZA defeated MATT BROWN via KO/TKO  
+  at 0:18 of round 2
+  Key stats:
+  - MIGUEL BAEZA landed 37 significant strikes
+  - MATT BROWN landed 33 significant strikes
+  - Knockdowns: MIGUEL BAEZA 2,  MATT BROWN 0
+  - Takedowns: MIGUEL BAEZA 0,  MATT BROWN 0
+  Bonus: perf

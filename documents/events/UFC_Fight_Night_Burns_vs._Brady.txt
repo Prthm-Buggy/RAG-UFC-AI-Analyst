@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Burns vs. Brady
+    Date : September 07, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Women's Flyweight, Bantamweight, Lightweight, Welterweight, Featherweight, Middleweight, Flyweight, Women's Strawweight
+
+    Fight Results:
+  - GABRIEL SANTOS def. YIZHA via Decision - Unanimous(R3)
+- NATHAN FLETCHER def. ZYGIMANTAS RAMASKA via Submission(R2)
+- CHRIS PADILLA def. RONGZHU via TKO - Doctor's Stoppage(R2)
+- Andre Lima def. FELIPE DOS SANTOS via Decision - Unanimous(R3)
+- STEVE GARCIA def. KYLE NELSON via KO/TKO(R1)
+- YANAL ASHMOUZ def. TREVOR PEEK via Decision - Unanimous(R3)
+- ANDRE PETROSKI def. DYLAN BUDKA via Decision - Unanimous(R3)
+- JAQUELINE AMORIM def. VANESSA DEMOPOULOS via Submission(R1)
+- CODY DURDEN def. MATT SCHNELL via Submission(R2)
+- NATALIA SILVA def. JESSICA ANDRADE via Decision - Unanimous(R3)
+- SEAN BRADY def. GILBERT BURNS via Decision - Unanimous(R5)
+- ISAAC DULGARIAN def. BRENDON MAROTTE via Submission(R2)

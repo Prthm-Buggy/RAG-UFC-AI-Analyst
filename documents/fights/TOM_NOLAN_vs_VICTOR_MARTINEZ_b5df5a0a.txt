@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Murphy
+    Date: May 18, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TOM NOLAN defeated VICTOR MARTINEZ via KO/TKO  
+  at 3:50 of round 1
+  Key stats:
+  - TOM NOLAN landed 33 significant strikes
+  - VICTOR MARTINEZ landed 18 significant strikes
+  - Knockdowns: TOM NOLAN 0,  VICTOR MARTINEZ 1
+  - Takedowns: TOM NOLAN 0,  VICTOR MARTINEZ 0

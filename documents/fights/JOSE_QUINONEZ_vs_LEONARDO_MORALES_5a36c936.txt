@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Boetsch vs Henderson
+    Date: June 06, 2015
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOSE QUINONEZ defeated LEONARDO MORALES via Submission  
+  at 2:34 of round 1
+  Key stats:
+  - JOSE QUINONEZ landed 2 significant strikes
+  - LEONARDO MORALES landed 3 significant strikes
+  - Knockdowns: JOSE QUINONEZ 0,  LEONARDO MORALES 0
+  - Takedowns: JOSE QUINONEZ 1,  LEONARDO MORALES 0

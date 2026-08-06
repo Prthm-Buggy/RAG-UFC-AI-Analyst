@@ -1,0 +1,13 @@
+Event: UFC 197: Jones vs Saint Preux
+    Date: April 23, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: WALT HARRIS defeated CODY EAST via KO/TKO  
+  at 4:18 of round 1
+  Key stats:
+  - WALT HARRIS landed 31 significant strikes
+  - CODY EAST landed 26 significant strikes
+  - Knockdowns: WALT HARRIS 1,  CODY EAST 0
+  - Takedowns: WALT HARRIS 0,  CODY EAST 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Munhoz vs. Edgar
+    Date: August 22, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JORDAN WRIGHT defeated IKE VILLANUEVA via TKO - Doctor's Stoppage  
+  at 1:31 of round 1
+  Key stats:
+  - JORDAN WRIGHT landed 15 significant strikes
+  - IKE VILLANUEVA landed 7 significant strikes
+  - Knockdowns: JORDAN WRIGHT 1,  IKE VILLANUEVA 0
+  - Takedowns: JORDAN WRIGHT 0,  IKE VILLANUEVA 0

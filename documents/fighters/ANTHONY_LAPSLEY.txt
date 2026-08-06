@@ -1,0 +1,11 @@
+Fighter: ANTHONY LAPSLEY
+  Date of Birth: 1980-02-13
+  Career record: 2
+  First fight: 2013-11-16
+  Last fight: 2014-05-10
+
+Career Statistics:
+- Significant Strikes Landed :10
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

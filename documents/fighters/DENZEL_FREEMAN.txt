@@ -1,0 +1,11 @@
+Fighter: DENZEL FREEMAN
+  Date of Birth: 1991-11-10
+  Career record: 2
+  First fight: 2025-11-22
+  Last fight: 2026-01-24
+
+Career Statistics:
+- Significant Strikes Landed :49
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

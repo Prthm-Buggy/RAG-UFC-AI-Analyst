@@ -1,0 +1,13 @@
+Event: UFC 140: Jones vs Machida
+    Date: December 10, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: ROGERIO NOGUEIRA defeated TITO ORTIZ via KO/TKO  
+  at 3:15 of round 1
+  Key stats:
+  - ROGERIO NOGUEIRA landed 54 significant strikes
+  - TITO ORTIZ landed 9 significant strikes
+  - Knockdowns: ROGERIO NOGUEIRA 1,  TITO ORTIZ 0
+  - Takedowns: ROGERIO NOGUEIRA 0,  TITO ORTIZ 0

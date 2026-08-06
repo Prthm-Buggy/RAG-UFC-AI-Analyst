@@ -1,0 +1,11 @@
+Fighter: BOLAJI OKI
+  Date of Birth: 1995-11-15
+  Career record: 5
+  First fight: 2024-02-10
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :346
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :0

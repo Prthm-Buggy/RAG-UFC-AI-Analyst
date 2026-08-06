@@ -1,0 +1,11 @@
+Fighter: DALCHA LUNGIAMBULA
+  Date of Birth: 1987-07-31
+  Career record: 7
+  First fight: 2019-06-29
+  Last fight: 2022-12-10
+
+Career Statistics:
+- Significant Strikes Landed :215
+- Total takedowns landed :10
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: JON JONES
+  Date of Birth: 1987-07-19
+  Career record: 23
+  First fight: 2008-08-09
+  Last fight: 2024-11-16
+
+Career Statistics:
+- Significant Strikes Landed :1469
+- Total takedowns landed :45
+- Knockdowns :5
+- Submission Attempts :11

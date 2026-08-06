@@ -1,0 +1,19 @@
+Event : UFC 186: Johnson vs Horiguchi
+    Date : April 25, 2015
+    Location: Montreal, Quebec, Canada
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Welterweight, Lightweight, Women's Strawweight, Women's Bantamweight, Flyweight, Catch Weight, Middleweight
+
+    Fight Results:
+  - DEMETRIOUS JOHNSON def. KYOJI HORIGUCHI via Submission(R5)
+- RANDA MARKOS def. AISLING DALY via Decision - Unanimous(R3)
+- THOMAS ALMEIDA def. YVES JABOUIN via KO/TKO(R1)
+- NORDINE TALEB def. CHRIS CLEMENTS via Decision - Unanimous(R3)
+- ALEXIS DAVIS def. SARAH KAUFMAN via Submission(R2)
+- OLIVIER AUBIN-MERCIER def. DAVID MICHAUD via Submission(R3)
+- VALERIE LETOURNEAU def. JESSICA RAKOCZY via Decision - Unanimous(R3)
+- JOHN MAKDESSI def. SHANE CAMPBELL via KO/TKO(R1)
+- PATRICK COTE def. JOE RIGGS via Decision - Unanimous(R3)
+- MICHAEL BISPING def. CB DOLLAWAY via Decision - Unanimous(R3)
+- CHAD LAPRISE def. BRYAN BARBERENA via Decision - Unanimous(R3)
+- QUINTON JACKSON def. FABIO MALDONADO via Decision - Unanimous(R3)

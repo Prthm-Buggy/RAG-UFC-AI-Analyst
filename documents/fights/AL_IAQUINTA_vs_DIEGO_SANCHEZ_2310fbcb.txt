@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swanson vs. Lobov
+    Date: April 22, 2017
+    Location: Nashville, Tennessee, USA
+    Weight Class: Lightweight
+    
+
+    Result: AL IAQUINTA defeated DIEGO SANCHEZ via KO/TKO  
+  at 1:38 of round 1
+  Key stats:
+  - AL IAQUINTA landed 12 significant strikes
+  - DIEGO SANCHEZ landed 4 significant strikes
+  - Knockdowns: AL IAQUINTA 2,  DIEGO SANCHEZ 0
+  - Takedowns: AL IAQUINTA 0,  DIEGO SANCHEZ 0

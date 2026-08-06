@@ -1,0 +1,13 @@
+Event: UFC 133: Evans vs Ortiz 2
+    Date: August 06, 2011
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRIAN EBERSOLE defeated DENNIS HALLMAN via KO/TKO  
+  at 4:28 of round 1
+  Key stats:
+  - BRIAN EBERSOLE landed 19 significant strikes
+  - DENNIS HALLMAN landed 0 significant strikes
+  - Knockdowns: BRIAN EBERSOLE 0,  DENNIS HALLMAN 0
+  - Takedowns: BRIAN EBERSOLE 0,  DENNIS HALLMAN 1

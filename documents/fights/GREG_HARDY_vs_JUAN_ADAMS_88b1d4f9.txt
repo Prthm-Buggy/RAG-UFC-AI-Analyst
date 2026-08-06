@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Edwards
+    Date: July 20, 2019
+    Location: San Antonio, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: GREG HARDY defeated JUAN ADAMS via KO/TKO  
+  at 0:45 of round 1
+  Key stats:
+  - GREG HARDY landed 36 significant strikes
+  - JUAN ADAMS landed 3 significant strikes
+  - Knockdowns: GREG HARDY 0,  JUAN ADAMS 0
+  - Takedowns: GREG HARDY 0,  JUAN ADAMS 0

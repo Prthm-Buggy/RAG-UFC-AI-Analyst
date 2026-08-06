@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Saffiedine vs Lim
+    Date: January 04, 2014
+    Location: Singapore, Singapore
+    Weight Class: Bantamweight
+    
+
+    Result: DUSTIN KIMURA defeated JON DELOS REYES via Submission  
+  at 2:13 of round 1
+  Key stats:
+  - DUSTIN KIMURA landed 1 significant strikes
+  - JON DELOS REYES landed 9 significant strikes
+  - Knockdowns: DUSTIN KIMURA 0,  JON DELOS REYES 1
+  - Takedowns: DUSTIN KIMURA 0,  JON DELOS REYES 1

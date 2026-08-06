@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Allen vs. Craig
+    Date: November 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHASE HOOPER defeated JORDAN LEAVITT via Submission  
+  at 2:58 of round 1
+  Key stats:
+  - CHASE HOOPER landed 1 significant strikes
+  - JORDAN LEAVITT landed 3 significant strikes
+  - Knockdowns: CHASE HOOPER 0,  JORDAN LEAVITT 0
+  - Takedowns: CHASE HOOPER 0,  JORDAN LEAVITT 0

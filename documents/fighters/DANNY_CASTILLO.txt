@@ -1,0 +1,11 @@
+Fighter: DANNY CASTILLO
+  Date of Birth: 1979-08-25
+  Career record: 14
+  First fight: 2011-03-03
+  Last fight: 2015-12-19
+
+Career Statistics:
+- Significant Strikes Landed :471
+- Total takedowns landed :31
+- Knockdowns :2
+- Submission Attempts :3

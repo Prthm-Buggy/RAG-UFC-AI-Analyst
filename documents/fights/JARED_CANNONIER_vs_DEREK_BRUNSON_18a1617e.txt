@@ -1,0 +1,14 @@
+Event: UFC 271: Adesanya vs. Whittaker 2
+    Date: February 12, 2022
+    Location: Houston, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: JARED CANNONIER defeated DEREK BRUNSON via KO/TKO  
+  at 4:29 of round 2
+  Key stats:
+  - JARED CANNONIER landed 55 significant strikes
+  - DEREK BRUNSON landed 43 significant strikes
+  - Knockdowns: JARED CANNONIER 0,  DEREK BRUNSON 1
+  - Takedowns: JARED CANNONIER 1,  DEREK BRUNSON 3
+  Bonus: perf

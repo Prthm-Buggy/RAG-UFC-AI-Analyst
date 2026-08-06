@@ -1,0 +1,11 @@
+Fighter: HECTOR URBINA
+  Date of Birth: 1987-09-17
+  Career record: 3
+  First fight: 2014-11-15
+  Last fight: 2016-09-24
+
+Career Statistics:
+- Significant Strikes Landed :19
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :5

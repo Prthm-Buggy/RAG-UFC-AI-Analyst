@@ -1,0 +1,11 @@
+Fighter: JAKE COLLIER
+  Date of Birth: 1988-10-25
+  Career record: 14
+  First fight: 2014-12-20
+  Last fight: 2023-09-23
+
+Career Statistics:
+- Significant Strikes Landed :862
+- Total takedowns landed :7
+- Knockdowns :3
+- Submission Attempts :6

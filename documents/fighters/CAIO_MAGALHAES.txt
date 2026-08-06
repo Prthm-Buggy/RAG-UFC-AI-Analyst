@@ -1,0 +1,11 @@
+Fighter: CAIO MAGALHAES
+  Date of Birth: 1987-12-14
+  Career record: 7
+  First fight: 2012-06-08
+  Last fight: 2016-09-10
+
+Career Statistics:
+- Significant Strikes Landed :129
+- Total takedowns landed :4
+- Knockdowns :2
+- Submission Attempts :6

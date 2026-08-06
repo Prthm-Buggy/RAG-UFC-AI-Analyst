@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs Nelson
+    Date: September 20, 2014
+    Location: Saitama, Japan
+    Weight Class: Flyweight
+    
+
+    Result: KYOJI HORIGUCHI defeated JON DELOS REYES via KO/TKO  
+  at 3:48 of round 1
+  Key stats:
+  - KYOJI HORIGUCHI landed 31 significant strikes
+  - JON DELOS REYES landed 13 significant strikes
+  - Knockdowns: KYOJI HORIGUCHI 0,  JON DELOS REYES 0
+  - Takedowns: KYOJI HORIGUCHI 0,  JON DELOS REYES 0

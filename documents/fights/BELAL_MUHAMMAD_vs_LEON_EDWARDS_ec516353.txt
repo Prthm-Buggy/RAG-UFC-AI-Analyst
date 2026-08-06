@@ -1,0 +1,14 @@
+Event: UFC 304: Edwards vs. Muhammad 2
+    Date: July 27, 2024
+    Location: Manchester, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: BELAL MUHAMMAD defeated LEON EDWARDS via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - BELAL MUHAMMAD landed 68 significant strikes
+  - LEON EDWARDS landed 47 significant strikes
+  - Knockdowns: BELAL MUHAMMAD 0,  LEON EDWARDS 0
+  - Takedowns: BELAL MUHAMMAD 9,  LEON EDWARDS 2
+  Bonus: belt

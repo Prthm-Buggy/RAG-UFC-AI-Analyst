@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hall vs. Silva
+    Date: October 31, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ADRIAN YANEZ defeated VICTOR RODRIGUEZ via KO/TKO  
+  at 2:46 of round 1
+  Key stats:
+  - ADRIAN YANEZ landed 17 significant strikes
+  - VICTOR RODRIGUEZ landed 6 significant strikes
+  - Knockdowns: ADRIAN YANEZ 1,  VICTOR RODRIGUEZ 0
+  - Takedowns: ADRIAN YANEZ 0,  VICTOR RODRIGUEZ 0
+  Bonus: perf

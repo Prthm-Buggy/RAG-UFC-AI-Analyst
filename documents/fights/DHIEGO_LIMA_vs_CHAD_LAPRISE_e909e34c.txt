@@ -1,0 +1,13 @@
+Event: UFC 231: Holloway vs. Ortega
+    Date: December 08, 2018
+    Location: Toronto, Ontario, Canada
+    Weight Class: Welterweight
+    
+
+    Result: DHIEGO LIMA defeated CHAD LAPRISE via KO/TKO  
+  at 1:37 of round 1
+  Key stats:
+  - DHIEGO LIMA landed 5 significant strikes
+  - CHAD LAPRISE landed 8 significant strikes
+  - Knockdowns: DHIEGO LIMA 1,  CHAD LAPRISE 0
+  - Takedowns: DHIEGO LIMA 0,  CHAD LAPRISE 0

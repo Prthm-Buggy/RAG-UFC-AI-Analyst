@@ -1,0 +1,11 @@
+Fighter: ADRIANO SANTOS
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 1998-10-16
+  Last fight: 1998-10-16
+
+Career Statistics:
+- Significant Strikes Landed :11
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

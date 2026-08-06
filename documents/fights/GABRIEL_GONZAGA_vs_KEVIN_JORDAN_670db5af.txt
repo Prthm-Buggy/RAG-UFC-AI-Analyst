@@ -1,0 +1,13 @@
+Event: UFC 56: Full Force
+    Date: November 19, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: GABRIEL GONZAGA defeated KEVIN JORDAN via KO/TKO  
+  at 4:39 of round 3
+  Key stats:
+  - GABRIEL GONZAGA landed 23 significant strikes
+  - KEVIN JORDAN landed 18 significant strikes
+  - Knockdowns: GABRIEL GONZAGA 1,  KEVIN JORDAN 0
+  - Takedowns: GABRIEL GONZAGA 2,  KEVIN JORDAN 0

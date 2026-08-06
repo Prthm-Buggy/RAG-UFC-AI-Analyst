@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Miocic vs Maldonado
+    Date: May 31, 2014
+    Location: Sao Paulo, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: PEDRO MUNHOZ defeated MATT HOBAR via KO/TKO  
+  at 2:47 of round 1
+  Key stats:
+  - PEDRO MUNHOZ landed 24 significant strikes
+  - MATT HOBAR landed 7 significant strikes
+  - Knockdowns: PEDRO MUNHOZ 0,  MATT HOBAR 0
+  - Takedowns: PEDRO MUNHOZ 2,  MATT HOBAR 0

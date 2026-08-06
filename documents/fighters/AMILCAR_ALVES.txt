@@ -1,0 +1,11 @@
+Fighter: AMILCAR ALVES
+  Date of Birth: 1988-08-08
+  Career record: 2
+  First fight: 2010-08-28
+  Last fight: 2011-01-22
+
+Career Statistics:
+- Significant Strikes Landed :14
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

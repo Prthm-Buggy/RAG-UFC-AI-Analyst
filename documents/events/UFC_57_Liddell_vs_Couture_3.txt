@@ -1,0 +1,16 @@
+Event : UFC 57: Liddell vs Couture 3
+    Date : February 04, 2006
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Light Heavyweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - JEFF MONSON def. BRANDEN LEE HINKLE via Submission(R1)
+- RENATO SOBRAL def. MIKE VAN ARSDALE via Submission(R1)
+- BRANDON VERA def. JUSTIN EILERS via KO/TKO(R1)
+- CHUCK LIDDELL def. RANDY COUTURE via KO/TKO(R2)
+- ALESSIO SAKARA def. ELVIS SINOSIC via Decision - Unanimous(R3)
+- JOE RIGGS def. NICK DIAZ via Decision - Unanimous(R3)
+- MARCIO CRUZ def. FRANK MIR via KO/TKO(R1)
+- KEITH JARDINE def. MIKE WHITEHEAD via Decision - Unanimous(R3)
+- PAUL BUENTELLO def. GILBERT ALDANA via KO/TKO(R2)

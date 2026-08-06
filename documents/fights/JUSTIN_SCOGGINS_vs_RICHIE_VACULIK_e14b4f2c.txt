@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs Bigfoot
+    Date: December 06, 2013
+    Location: Brisbane, Queensland, Australia
+    Weight Class: Flyweight
+    
+
+    Result: JUSTIN SCOGGINS defeated RICHIE VACULIK via KO/TKO  
+  at 4:43 of round 1
+  Key stats:
+  - JUSTIN SCOGGINS landed 27 significant strikes
+  - RICHIE VACULIK landed 2 significant strikes
+  - Knockdowns: JUSTIN SCOGGINS 0,  RICHIE VACULIK 0
+  - Takedowns: JUSTIN SCOGGINS 2,  RICHIE VACULIK 0

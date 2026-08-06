@@ -1,0 +1,11 @@
+Fighter: ANGELA HILL
+  Date of Birth: 1985-01-12
+  Career record: 30
+  First fight: 2014-12-12
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :2364
+- Total takedowns landed :22
+- Knockdowns :3
+- Submission Attempts :4

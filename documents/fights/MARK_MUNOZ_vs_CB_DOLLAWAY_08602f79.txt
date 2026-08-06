@@ -1,0 +1,13 @@
+Event: UFC Live: Sanchez vs Kampmann
+    Date: March 03, 2011
+    Location: Louisville, Kentucky, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARK MUNOZ defeated CB DOLLAWAY via KO/TKO  
+  at 0:54 of round 1
+  Key stats:
+  - MARK MUNOZ landed 4 significant strikes
+  - CB DOLLAWAY landed 2 significant strikes
+  - Knockdowns: MARK MUNOZ 1,  CB DOLLAWAY 0
+  - Takedowns: MARK MUNOZ 0,  CB DOLLAWAY 1

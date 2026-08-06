@@ -1,0 +1,13 @@
+Event: UFC 139: Shogun vs Henderson
+    Date: November 19, 2011
+    Location: San Jose, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: GLEISON TIBAU defeated RAFAEL DOS ANJOS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - GLEISON TIBAU landed 56 significant strikes
+  - RAFAEL DOS ANJOS landed 25 significant strikes
+  - Knockdowns: GLEISON TIBAU 0,  RAFAEL DOS ANJOS 0
+  - Takedowns: GLEISON TIBAU 2,  RAFAEL DOS ANJOS 0

@@ -1,0 +1,11 @@
+Fighter: ERIC NOLAN
+  Date of Birth: 1997-09-13
+  Career record: 2
+  First fight: 2025-08-16
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :37
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

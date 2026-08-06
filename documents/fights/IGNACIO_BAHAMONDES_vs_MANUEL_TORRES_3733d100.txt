@@ -1,0 +1,14 @@
+Event: UFC 306: Riyadh Season Noche UFC
+    Date: September 14, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: IGNACIO BAHAMONDES defeated MANUEL TORRES via KO/TKO  
+  at 4:02 of round 1
+  Key stats:
+  - IGNACIO BAHAMONDES landed 31 significant strikes
+  - MANUEL TORRES landed 20 significant strikes
+  - Knockdowns: IGNACIO BAHAMONDES 2,  MANUEL TORRES 0
+  - Takedowns: IGNACIO BAHAMONDES 0,  MANUEL TORRES 0
+  Bonus: perf

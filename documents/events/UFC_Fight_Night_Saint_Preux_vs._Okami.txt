@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Saint Preux vs. Okami
+    Date : September 22, 2017
+    Location: Saitama, Saitama, Japan
+    Number of Fights: 10
+    Weight Classes: Flyweight, Featherweight, Light Heavyweight, Welterweight, Women's Strawweight, Lightweight
+
+    Fight Results:
+  - JESSICA ANDRADE def. CLAUDIA GADELHA via Decision - Unanimous(R3)
+- SHINSHO ANZAI def. LUKE JUMEAU via Decision - Unanimous(R3)
+- OVINCE SAINT PREUX def. YUSHIN OKAMI via Submission(R1)
+- JUSSIER FORMIGA def. YUTA SASAKI via Submission(R1)
+- TERUTO ISHIHARA def. ROLANDO DY via Decision - Unanimous(R3)
+- DAICHI ABE def. HYUN GYU LIM via Decision - Unanimous(R3)
+- GOKHAN SAKI def. HENRIQUE DA SILVA via KO/TKO(R1)
+- KEITA NAKAMURA def. ALEX MORONO via Decision - Split(R3)
+- DONG HYUN MA def. TAKANORI GOMI via KO/TKO(R1)
+- SYURI KONDO def. CHAN-MI JEON via Decision - Split(R3)

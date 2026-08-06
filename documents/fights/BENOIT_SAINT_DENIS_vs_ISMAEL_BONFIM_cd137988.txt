@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Strickland vs. Magomedov
+    Date: July 01, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENOIT SAINT DENIS defeated ISMAEL BONFIM via Submission  
+  at 4:48 of round 1
+  Key stats:
+  - BENOIT SAINT DENIS landed 13 significant strikes
+  - ISMAEL BONFIM landed 14 significant strikes
+  - Knockdowns: BENOIT SAINT DENIS 0,  ISMAEL BONFIM 0
+  - Takedowns: BENOIT SAINT DENIS 2,  ISMAEL BONFIM 0

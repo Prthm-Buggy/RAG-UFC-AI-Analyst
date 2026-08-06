@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thompson vs. Till
+    Date: May 27, 2018
+    Location: Liverpool, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: DARREN TILL defeated STEPHEN THOMPSON via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - DARREN TILL landed 38 significant strikes
+  - STEPHEN THOMPSON landed 30 significant strikes
+  - Knockdowns: DARREN TILL 1,  STEPHEN THOMPSON 0
+  - Takedowns: DARREN TILL 0,  STEPHEN THOMPSON 0

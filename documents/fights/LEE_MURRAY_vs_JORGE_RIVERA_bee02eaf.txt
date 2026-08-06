@@ -1,0 +1,13 @@
+Event: UFC 46: Supernatural
+    Date: January 31, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: LEE MURRAY defeated JORGE RIVERA via Submission  
+  at 1:45 of round 1
+  Key stats:
+  - LEE MURRAY landed 0 significant strikes
+  - JORGE RIVERA landed 2 significant strikes
+  - Knockdowns: LEE MURRAY 0,  JORGE RIVERA 0
+  - Takedowns: LEE MURRAY 0,  JORGE RIVERA 1

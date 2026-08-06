@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Reyes vs. Prochazka
+    Date: May 01, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: None
+    
+
+    Result: TJ BROWN defeated KAI KAMAKA III via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - TJ BROWN landed 82 significant strikes
+  - KAI KAMAKA III landed 61 significant strikes
+  - Knockdowns: TJ BROWN 0,  KAI KAMAKA III 1
+  - Takedowns: TJ BROWN 2,  KAI KAMAKA III 1

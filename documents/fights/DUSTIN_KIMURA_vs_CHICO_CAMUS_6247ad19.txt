@@ -1,0 +1,13 @@
+Event: UFC 156: Aldo vs Edgar
+    Date: February 02, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DUSTIN KIMURA defeated CHICO CAMUS via Submission  
+  at 1:50 of round 3
+  Key stats:
+  - DUSTIN KIMURA landed 16 significant strikes
+  - CHICO CAMUS landed 23 significant strikes
+  - Knockdowns: DUSTIN KIMURA 0,  CHICO CAMUS 0
+  - Takedowns: DUSTIN KIMURA 0,  CHICO CAMUS 1

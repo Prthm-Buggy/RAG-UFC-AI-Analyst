@@ -1,0 +1,14 @@
+Event: UFC 17: Redemption
+    Date: May 15, 1998
+    Location: Mobile, Alabama, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAN HENDERSON defeated CARLOS NEWTON via Decision - Split  
+  at 3:00 of round 2
+  Key stats:
+  - DAN HENDERSON landed 28 significant strikes
+  - CARLOS NEWTON landed 20 significant strikes
+  - Knockdowns: DAN HENDERSON 0,  CARLOS NEWTON 2
+  - Takedowns: DAN HENDERSON 3,  CARLOS NEWTON 2
+  Bonus: belt

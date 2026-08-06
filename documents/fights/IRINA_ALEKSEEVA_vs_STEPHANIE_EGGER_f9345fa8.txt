@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Song vs. Simon
+    Date: April 29, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: IRINA ALEKSEEVA defeated STEPHANIE EGGER via Submission  
+  at 2:11 of round 1
+  Key stats:
+  - IRINA ALEKSEEVA landed 18 significant strikes
+  - STEPHANIE EGGER landed 9 significant strikes
+  - Knockdowns: IRINA ALEKSEEVA 0,  STEPHANIE EGGER 0
+  - Takedowns: IRINA ALEKSEEVA 0,  STEPHANIE EGGER 0

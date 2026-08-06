@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blaydes vs. Daukaus
+    Date: March 26, 2022
+    Location: Columbus, Ohio, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CHRIS GUTIERREZ defeated BATGEREL DANAA via KO/TKO  
+  at 2:34 of round 2
+  Key stats:
+  - CHRIS GUTIERREZ landed 41 significant strikes
+  - BATGEREL DANAA landed 30 significant strikes
+  - Knockdowns: CHRIS GUTIERREZ 1,  BATGEREL DANAA 0
+  - Takedowns: CHRIS GUTIERREZ 0,  BATGEREL DANAA 1
+  Bonus: perf

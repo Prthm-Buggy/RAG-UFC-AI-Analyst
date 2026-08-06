@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cejudo vs. Dillashaw
+    Date: January 19, 2019
+    Location: Brooklyn, New York, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALONZO MENIFIELD defeated VINICIUS MOREIRA via KO/TKO  
+  at 3:56 of round 1
+  Key stats:
+  - ALONZO MENIFIELD landed 33 significant strikes
+  - VINICIUS MOREIRA landed 11 significant strikes
+  - Knockdowns: ALONZO MENIFIELD 1,  VINICIUS MOREIRA 0
+  - Takedowns: ALONZO MENIFIELD 0,  VINICIUS MOREIRA 0

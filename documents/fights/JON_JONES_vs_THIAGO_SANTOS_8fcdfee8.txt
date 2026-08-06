@@ -1,0 +1,14 @@
+Event: UFC 239: Jones vs. Santos
+    Date: July 06, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated THIAGO SANTOS via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - JON JONES landed 59 significant strikes
+  - THIAGO SANTOS landed 43 significant strikes
+  - Knockdowns: JON JONES 0,  THIAGO SANTOS 0
+  - Takedowns: JON JONES 0,  THIAGO SANTOS 0
+  Bonus: belt

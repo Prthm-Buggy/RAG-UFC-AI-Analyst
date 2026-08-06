@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Chiesa vs. Lee
+    Date : June 25, 2017
+    Location: Oklahoma City, Oklahoma, USA
+    Number of Fights: 13
+    Weight Classes: Welterweight, Lightweight, Women's Strawweight, Light Heavyweight, Featherweight, Middleweight
+
+    Fight Results:
+  - MARVIN VETTORI def. VITOR MIRANDA via Decision - Unanimous(R3)
+- DOMINICK REYES def. JOACHIM CHRISTENSEN via KO/TKO(R1)
+- ANTHONY ROCCO MARTIN def. JOHNNY CASE via Decision - Unanimous(R3)
+- CARLA ESPARZA def. MARYNA MOROZ via Decision - Unanimous(R3)
+- JEREMY KIMBALL def. JOSH STANSBURY via KO/TKO(R1)
+- DARRELL HORCHER def. DEVIN POWELL via Decision - Split(R3)
+- FELICE HERRIG def. JUSTINE KISH via Decision - Unanimous(R3)
+- TIM MEANS def. ALEX GARCIA via Decision - Unanimous(R3)
+- CLAY GUIDA def. ERIK KOCH via Decision - Unanimous(R3)
+- KEVIN LEE def. MICHAEL CHIESA via Submission(R1)
+- TIM BOETSCH def. JOHNY HENDRICKS via KO/TKO(R2)
+- DENNIS SIVER def. BJ PENN via Decision - Majority(R3)
+- JARED GORDON def. MICHEL QUINONES via KO/TKO(R2)

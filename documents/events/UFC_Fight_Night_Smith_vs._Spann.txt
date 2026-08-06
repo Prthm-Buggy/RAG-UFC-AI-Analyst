@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Smith vs. Spann
+    Date : September 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Women's Flyweight, Bantamweight, Lightweight, Light Heavyweight, Women's Bantamweight, Welterweight, Middleweight
+
+    Fight Results:
+  - HANNAH GOLDY def. EMILY WHITMIRE via Submission(R1)
+- JOAQUIN BUCKLEY def. ANTONIO ARROYO via KO/TKO(R3)
+- ARIANE DA SILVA def. MANDY BOHM via Decision - Unanimous(R3)
+- RAQUEL PENNINGTON def. PANNIE KIANZAD via Decision - Unanimous(R3)
+- CARLSTON HARRIS def. IMPA KASANGANAY via KO/TKO(R1)
+- ARMAN TSARUKYAN def. CHRISTOS GIAGOS via KO/TKO(R1)
+- NATE MANESS def. TONY GRAVELY via KO/TKO(R2)
+- MONTEL JACKSON def. JP BUYS via Decision - Unanimous(R3)
+- ANTHONY SMITH def. RYAN SPANN via Submission(R1)
+- TAFON NCHUKWI def. MIKE RODRIGUEZ via Decision - Unanimous(R3)
+- ION CUTELABA def. DEVIN CLARK via Decision - Unanimous(R3)
+- ERIN BLANCHFIELD def. SARAH ALPAR via Decision - Unanimous(R3)
+- RONGZHU def. BRANDON JENKINS via KO/TKO(R3)

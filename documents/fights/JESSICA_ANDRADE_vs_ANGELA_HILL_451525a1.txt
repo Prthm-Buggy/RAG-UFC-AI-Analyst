@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bermudez vs. The Korean Zombie
+    Date: February 04, 2017
+    Location: Houston, Texas, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JESSICA ANDRADE defeated ANGELA HILL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JESSICA ANDRADE landed 131 significant strikes
+  - ANGELA HILL landed 89 significant strikes
+  - Knockdowns: JESSICA ANDRADE 0,  ANGELA HILL 1
+  - Takedowns: JESSICA ANDRADE 2,  ANGELA HILL 0
+  Bonus: fight

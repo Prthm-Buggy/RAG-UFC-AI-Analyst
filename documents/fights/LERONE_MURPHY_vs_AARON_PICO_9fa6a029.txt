@@ -1,0 +1,14 @@
+Event: UFC 319: Du Plessis vs. Chimaev
+    Date: August 16, 2025
+    Location: Chicago, Illinois, USA
+    Weight Class: Featherweight
+    
+
+    Result: LERONE MURPHY defeated AARON PICO via KO/TKO  
+  at 3:21 of round 1
+  Key stats:
+  - LERONE MURPHY landed 8 significant strikes
+  - AARON PICO landed 13 significant strikes
+  - Knockdowns: LERONE MURPHY 1,  AARON PICO 0
+  - Takedowns: LERONE MURPHY 0,  AARON PICO 2
+  Bonus: perf

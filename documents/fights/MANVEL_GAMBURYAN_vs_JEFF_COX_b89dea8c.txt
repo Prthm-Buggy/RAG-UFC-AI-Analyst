@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Lauzon
+    Date: April 02, 2008
+    Location: Broomfield, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: MANVEL GAMBURYAN defeated JEFF COX via Submission  
+  at 1:41 of round 1
+  Key stats:
+  - MANVEL GAMBURYAN landed 3 significant strikes
+  - JEFF COX landed 2 significant strikes
+  - Knockdowns: MANVEL GAMBURYAN 0,  JEFF COX 0
+  - Takedowns: MANVEL GAMBURYAN 1,  JEFF COX 0

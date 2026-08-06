@@ -1,0 +1,11 @@
+Fighter: RICH ATTONITO
+  Date of Birth: 1977-06-16
+  Career record: 5
+  First fight: 2010-06-19
+  Last fight: 2011-12-10
+
+Career Statistics:
+- Significant Strikes Landed :138
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :0

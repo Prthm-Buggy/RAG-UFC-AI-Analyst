@@ -1,0 +1,14 @@
+Event: UFC on FOX: Gustafsson vs Johnson
+    Date: January 24, 2015
+    Location: Stockholm, Sweden
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY JOHNSON defeated ALEXANDER GUSTAFSSON via KO/TKO  
+  at 2:15 of round 1
+  Key stats:
+  - ANTHONY JOHNSON landed 30 significant strikes
+  - ALEXANDER GUSTAFSSON landed 10 significant strikes
+  - Knockdowns: ANTHONY JOHNSON 1,  ALEXANDER GUSTAFSSON 0
+  - Takedowns: ANTHONY JOHNSON 0,  ALEXANDER GUSTAFSSON 0
+  Bonus: perf

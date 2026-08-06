@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Nicolau vs. Perez
+    Date: April 27, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: ALEX PEREZ defeated MATHEUS NICOLAU via KO/TKO  
+  at 2:16 of round 2
+  Key stats:
+  - ALEX PEREZ landed 28 significant strikes
+  - MATHEUS NICOLAU landed 22 significant strikes
+  - Knockdowns: ALEX PEREZ 1,  MATHEUS NICOLAU 0
+  - Takedowns: ALEX PEREZ 0,  MATHEUS NICOLAU 0
+  Bonus: perf

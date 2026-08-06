@@ -1,0 +1,13 @@
+Event: UFC 174: Johnson vs Bagautinov
+    Date: June 14, 2014
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: OVINCE SAINT PREUX defeated RYAN JIMMO via KO/TKO  
+  at 2:10 of round 2
+  Key stats:
+  - OVINCE SAINT PREUX landed 14 significant strikes
+  - RYAN JIMMO landed 15 significant strikes
+  - Knockdowns: OVINCE SAINT PREUX 0,  RYAN JIMMO 0
+  - Takedowns: OVINCE SAINT PREUX 2,  RYAN JIMMO 0

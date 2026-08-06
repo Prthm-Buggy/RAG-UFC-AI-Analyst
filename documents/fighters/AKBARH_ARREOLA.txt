@@ -1,0 +1,11 @@
+Fighter: AKBARH ARREOLA
+  Date of Birth: 1983-01-14
+  Career record: 4
+  First fight: 2014-07-26
+  Last fight: 2015-11-14
+
+Career Statistics:
+- Significant Strikes Landed :97
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :1

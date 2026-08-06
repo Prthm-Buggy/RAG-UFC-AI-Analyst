@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs Nelson
+    Date: September 20, 2014
+    Location: Saitama, Japan
+    Weight Class: Welterweight
+    
+
+    Result: KIICHI KUNIMOTO defeated RICHARD WALSH via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - KIICHI KUNIMOTO landed 36 significant strikes
+  - RICHARD WALSH landed 59 significant strikes
+  - Knockdowns: KIICHI KUNIMOTO 0,  RICHARD WALSH 2
+  - Takedowns: KIICHI KUNIMOTO 1,  RICHARD WALSH 0

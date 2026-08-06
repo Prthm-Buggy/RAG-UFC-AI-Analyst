@@ -1,0 +1,11 @@
+Fighter: ANTON ZAFIR
+  Date of Birth: 1987-05-10
+  Career record: 2
+  First fight: 2015-11-14
+  Last fight: 2016-07-08
+
+Career Statistics:
+- Significant Strikes Landed :22
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

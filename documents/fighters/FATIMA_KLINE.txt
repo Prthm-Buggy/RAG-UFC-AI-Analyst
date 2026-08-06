@@ -1,0 +1,11 @@
+Fighter: FATIMA KLINE
+  Date of Birth: 2000-07-12
+  Career record: 4
+  First fight: 2024-07-13
+  Last fight: 2025-11-15
+
+Career Statistics:
+- Significant Strikes Landed :261
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :0

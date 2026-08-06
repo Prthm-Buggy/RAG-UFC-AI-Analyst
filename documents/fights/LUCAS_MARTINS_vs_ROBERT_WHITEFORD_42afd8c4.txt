@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rothwell vs Dos Santos
+    Date: April 10, 2016
+    Location: Zagreb, Croatia
+    Weight Class: Featherweight
+    
+
+    Result: LUCAS MARTINS defeated ROBERT WHITEFORD via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - LUCAS MARTINS landed 30 significant strikes
+  - ROBERT WHITEFORD landed 45 significant strikes
+  - Knockdowns: LUCAS MARTINS 0,  ROBERT WHITEFORD 0
+  - Takedowns: LUCAS MARTINS 0,  ROBERT WHITEFORD 1

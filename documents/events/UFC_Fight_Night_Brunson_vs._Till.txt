@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Brunson vs. Till
+    Date : September 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Bantamweight, Heavyweight, Women's Flyweight, Middleweight, Catch Weight, Lightweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - PADDY PIMBLETT def. LUIGI VENDRAMINI via KO/TKO(R1)
+- ALEX MORONO def. DAVID ZAWADA via Decision - Unanimous(R3)
+- JACK SHORE def. LIUDVIK SHOLINIAN via Decision - Unanimous(R3)
+- KHALIL ROUNTREE JR. def. MODESTAS BUKAUSKAS via KO/TKO(R2)
+- TOM ASPINALL def. SERGHEI SPIVAC via KO/TKO(R1)
+- JULIAN EROSA def. CHARLES JOURDAIN via Submission(R3)
+- DEREK BRUNSON def. DARREN TILL via Submission(R3)
+- MOLLY MCCANN def. JI YEON KIM via Decision - Unanimous(R3)
+- MARC-ANDRE BARRIAULT def. DALCHA LUNGIAMBULA via Decision - Unanimous(R3)

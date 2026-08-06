@@ -1,0 +1,13 @@
+Event: UFC 108: Evans vs Silva
+    Date: January 02, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MARTIN KAMPMANN defeated JACOB VOLKMANN via Submission  
+  at 4:03 of round 1
+  Key stats:
+  - MARTIN KAMPMANN landed 14 significant strikes
+  - JACOB VOLKMANN landed 13 significant strikes
+  - Knockdowns: MARTIN KAMPMANN 1,  JACOB VOLKMANN 0
+  - Takedowns: MARTIN KAMPMANN 0,  JACOB VOLKMANN 0

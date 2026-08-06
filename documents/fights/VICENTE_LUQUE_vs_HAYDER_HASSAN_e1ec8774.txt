@@ -1,0 +1,14 @@
+Event: UFC on FOX: Dos Anjos vs. Cowboy 2
+    Date: December 19, 2015
+    Location: Orlando, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated HAYDER HASSAN via Submission  
+  at 2:13 of round 1
+  Key stats:
+  - VICENTE LUQUE landed 12 significant strikes
+  - HAYDER HASSAN landed 15 significant strikes
+  - Knockdowns: VICENTE LUQUE 0,  HAYDER HASSAN 0
+  - Takedowns: VICENTE LUQUE 0,  HAYDER HASSAN 0
+  Bonus: perf

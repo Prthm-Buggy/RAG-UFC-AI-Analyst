@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Dollaway
+    Date: December 20, 2014
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: MARCOS ROGERIO DE LIMA defeated IGOR POKRAJAC via KO/TKO  
+  at 1:59 of round 1
+  Key stats:
+  - MARCOS ROGERIO DE LIMA landed 18 significant strikes
+  - IGOR POKRAJAC landed 3 significant strikes
+  - Knockdowns: MARCOS ROGERIO DE LIMA 1,  IGOR POKRAJAC 0
+  - Takedowns: MARCOS ROGERIO DE LIMA 0,  IGOR POKRAJAC 0

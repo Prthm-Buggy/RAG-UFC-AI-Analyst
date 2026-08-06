@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Lauzon
+    Date: April 02, 2008
+    Location: Broomfield, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: MARCUS AURELIO defeated RYAN ROBERTS via Submission  
+  at 0:16 of round 1
+  Key stats:
+  - MARCUS AURELIO landed 6 significant strikes
+  - RYAN ROBERTS landed 0 significant strikes
+  - Knockdowns: MARCUS AURELIO 1,  RYAN ROBERTS 0
+  - Takedowns: MARCUS AURELIO 0,  RYAN ROBERTS 0

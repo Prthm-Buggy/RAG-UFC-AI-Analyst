@@ -1,0 +1,14 @@
+Event: UFC 309: Jones vs. Miocic
+    Date: November 16, 2024
+    Location: New York City, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated MICHAEL CHANDLER via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CHARLES OLIVEIRA landed 88 significant strikes
+  - MICHAEL CHANDLER landed 84 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  MICHAEL CHANDLER 0
+  - Takedowns: CHARLES OLIVEIRA 5,  MICHAEL CHANDLER 0
+  Bonus: fight

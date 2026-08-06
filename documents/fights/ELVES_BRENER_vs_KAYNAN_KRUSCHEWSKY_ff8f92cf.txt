@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Almeida vs. Lewis
+    Date: November 04, 2023
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Catch Weight
+    
+
+    Result: ELVES BRENER defeated KAYNAN KRUSCHEWSKY via KO/TKO  
+  at 4:01 of round 1
+  Key stats:
+  - ELVES BRENER landed 16 significant strikes
+  - KAYNAN KRUSCHEWSKY landed 8 significant strikes
+  - Knockdowns: ELVES BRENER 1,  KAYNAN KRUSCHEWSKY 0
+  - Takedowns: ELVES BRENER 0,  KAYNAN KRUSCHEWSKY 0
+  Bonus: perf

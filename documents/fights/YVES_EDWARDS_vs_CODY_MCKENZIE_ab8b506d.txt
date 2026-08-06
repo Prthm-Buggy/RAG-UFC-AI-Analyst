@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Fight for the Troops 2
+    Date: January 22, 2011
+    Location: Killeen, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: YVES EDWARDS defeated CODY MCKENZIE via Submission  
+  at 4:33 of round 2
+  Key stats:
+  - YVES EDWARDS landed 33 significant strikes
+  - CODY MCKENZIE landed 16 significant strikes
+  - Knockdowns: YVES EDWARDS 0,  CODY MCKENZIE 0
+  - Takedowns: YVES EDWARDS 0,  CODY MCKENZIE 2
+  Bonus: fight

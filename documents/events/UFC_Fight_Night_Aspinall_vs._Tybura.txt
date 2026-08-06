@@ -1,0 +1,22 @@
+Event : UFC Fight Night: Aspinall vs. Tybura
+    Date : July 22, 2023
+    Location: London, England, United Kingdom
+    Number of Fights: 15
+    Weight Classes: Middleweight, Featherweight, Lightweight, Welterweight, Women's Bantamweight, Flyweight, Women's Strawweight, Heavyweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - JONNY PARSONS def. DANNY ROBERTS via KO/TKO(R2)
+- DANIEL MARCOS def. DAVEY GRANT via Decision - Split(R3)
+- JAFEL FILHO def. DANIEL BAREZ via Submission(R1)
+- LERONE MURPHY def. JOSH CULIBAO via Decision - Unanimous(R3)
+- BRUNA BRASIL def. SHAUNA BANNON via Decision - Unanimous(R3)
+- FARES ZIAM def. JAI HERBERT via Decision - Unanimous(R3)
+- KETLEN VIEIRA def. PANNIE KIANZAD via Decision - Unanimous(R3)
+- PAUL CRAIG def. ANDRE MUNIZ via KO/TKO(R2)
+- TOM ASPINALL def. MARCIN TYBURA via KO/TKO(R1)
+- JOEL ALVAREZ def. MARC DIAKIESE via Submission(R2)
+- JULIJA STOLIARENKO def. MOLLY MCCANN via Submission(R1)
+- MAKHMUD MURADOV def. BRYAN BARBERENA via Decision - Unanimous(R3)
+- NATHANIEL WOOD def. ANDRE FILI via Decision - Unanimous(R3)
+- MICK PARKIN def. JAMAL POGUES via Decision - Unanimous(R3)
+- CHRIS DUNCAN def. YANAL ASHMOUZ via Decision - Unanimous(R3)

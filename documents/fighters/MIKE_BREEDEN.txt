@@ -1,0 +1,11 @@
+Fighter: MIKE BREEDEN
+  Date of Birth: 1989-04-21
+  Career record: 4
+  First fight: 2021-10-02
+  Last fight: 2023-10-21
+
+Career Statistics:
+- Significant Strikes Landed :203
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

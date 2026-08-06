@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Volkov vs. Aspinall
+    Date : March 19, 2022
+    Location: London, England, United Kingdom
+    Number of Fights: 12
+    Weight Classes: Lightweight, Featherweight, Light Heavyweight, Flyweight, Women's Strawweight, Welterweight, Heavyweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - JACK SHORE def. TIMUR VALIEV via Decision - Unanimous(R3)
+- ILIA TOPURIA def. JAI HERBERT via KO/TKO(R2)
+- ELISE REED def. CORY MCKENNA via Decision - Split(R3)
+- MOLLY MCCANN def. LUANA CAROLINA via KO/TKO(R3)
+- PADDY PIMBLETT def. KAZULA VARGAS via Submission(R1)
+- MUHAMMAD MOKAEV def. CODY DURDEN via Submission(R1)
+- SERGEI PAVLOVICH def. SHAMIL ABDURAKHIMOV via KO/TKO(R1)
+- MAKWAN AMIRKHANI def. MIKE GRUNDY via Submission(R1)
+- TOM ASPINALL def. ALEXANDER VOLKOV via Submission(R1)
+- GUNNAR NELSON def. TAKASHI SATO via Decision - Unanimous(R3)
+- ARNOLD ALLEN def. DAN HOOKER via KO/TKO(R1)
+- PAUL CRAIG def. NIKITA KRYLOV via Submission(R1)

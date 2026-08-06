@@ -1,0 +1,11 @@
+Fighter: ALEXANDRE DANTAS
+  Date of Birth: 1979-03-01
+  Career record: 2
+  First fight: 2000-09-22
+  Last fight: 2003-02-28
+
+Career Statistics:
+- Significant Strikes Landed :15
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

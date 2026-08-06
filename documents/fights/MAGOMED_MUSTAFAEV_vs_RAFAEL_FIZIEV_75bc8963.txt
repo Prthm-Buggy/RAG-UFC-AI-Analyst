@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs. Oleinik
+    Date: April 20, 2019
+    Location: Saint Petersburg, Saint Petersburg, Russia
+    Weight Class: Lightweight
+    
+
+    Result: MAGOMED MUSTAFAEV defeated RAFAEL FIZIEV via KO/TKO  
+  at 1:26 of round 1
+  Key stats:
+  - MAGOMED MUSTAFAEV landed 10 significant strikes
+  - RAFAEL FIZIEV landed 1 significant strikes
+  - Knockdowns: MAGOMED MUSTAFAEV 1,  RAFAEL FIZIEV 0
+  - Takedowns: MAGOMED MUSTAFAEV 0,  RAFAEL FIZIEV 0
+  Bonus: perf

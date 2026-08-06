@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blaydes vs. Dos Santos
+    Date: January 25, 2020
+    Location: Raleigh, North Carolina, USA
+    Weight Class: Flyweight
+    
+
+    Result: ALEX PEREZ defeated JORDAN ESPINOSA via Submission  
+  at 2:33 of round 1
+  Key stats:
+  - ALEX PEREZ landed 2 significant strikes
+  - JORDAN ESPINOSA landed 2 significant strikes
+  - Knockdowns: ALEX PEREZ 0,  JORDAN ESPINOSA 0
+  - Takedowns: ALEX PEREZ 1,  JORDAN ESPINOSA 0
+  Bonus: perf

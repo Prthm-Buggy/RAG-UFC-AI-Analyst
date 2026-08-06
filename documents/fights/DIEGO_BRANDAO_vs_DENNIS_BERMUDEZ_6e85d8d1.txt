@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Bisping vs Team Miller Finale
+    Date: December 03, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DIEGO BRANDAO defeated DENNIS BERMUDEZ via Submission  
+  at 4:51 of round 1
+  Key stats:
+  - DIEGO BRANDAO landed 19 significant strikes
+  - DENNIS BERMUDEZ landed 25 significant strikes
+  - Knockdowns: DIEGO BRANDAO 1,  DENNIS BERMUDEZ 1
+  - Takedowns: DIEGO BRANDAO 1,  DENNIS BERMUDEZ 1
+  Bonus: belt

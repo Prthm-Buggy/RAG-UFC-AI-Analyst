@@ -1,0 +1,14 @@
+Event: UFC 53: Heavy Hitters
+    Date: June 04, 2005
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: RICH FRANKLIN defeated EVAN TANNER via TKO - Doctor's Stoppage  
+  at 3:25 of round 4
+  Key stats:
+  - RICH FRANKLIN landed 97 significant strikes
+  - EVAN TANNER landed 25 significant strikes
+  - Knockdowns: RICH FRANKLIN 0,  EVAN TANNER 1
+  - Takedowns: RICH FRANKLIN 0,  EVAN TANNER 1
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gonzaga vs Cro Cop 2
+    Date: April 11, 2015
+    Location: Krakow, Poland
+    Weight Class: Women's Strawweight
+    
+
+    Result: ALEKSANDRA ALBU defeated IZABELA BADUREK via Submission  
+  at 3:34 of round 2
+  Key stats:
+  - ALEKSANDRA ALBU landed 42 significant strikes
+  - IZABELA BADUREK landed 32 significant strikes
+  - Knockdowns: ALEKSANDRA ALBU 0,  IZABELA BADUREK 0
+  - Takedowns: ALEKSANDRA ALBU 0,  IZABELA BADUREK 1

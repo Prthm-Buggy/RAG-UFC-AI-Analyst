@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs Bisping
+    Date: November 07, 2014
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Lightweight
+    
+
+    Result: JAKE MATTHEWS defeated VAGNER ROCHA via Submission  
+  at 1:52 of round 2
+  Key stats:
+  - JAKE MATTHEWS landed 26 significant strikes
+  - VAGNER ROCHA landed 14 significant strikes
+  - Knockdowns: JAKE MATTHEWS 0,  VAGNER ROCHA 0
+  - Takedowns: JAKE MATTHEWS 1,  VAGNER ROCHA 0

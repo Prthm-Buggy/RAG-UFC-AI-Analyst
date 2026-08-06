@@ -1,0 +1,11 @@
+Fighter: SAID NURMAGOMEDOV
+  Date of Birth: 1992-04-05
+  Career record: 11
+  First fight: 2018-07-14
+  Last fight: 2025-07-26
+
+Career Statistics:
+- Significant Strikes Landed :321
+- Total takedowns landed :6
+- Knockdowns :2
+- Submission Attempts :8

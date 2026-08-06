@@ -1,0 +1,14 @@
+Event : UFC 50: The War Of '04
+    Date : October 22, 2004
+    Location: Atlantic City, New Jersey, USA
+    Number of Fights: 7
+    Weight Classes: Middleweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - IVAN SALAVERRY def. TONY FRYKLUND via Submission(R1)
+- RICH FRANKLIN def. JORGE RIVERA via Submission(R3)
+- MATT HUGHES def. GEORGES ST-PIERRE via Submission(R1)
+- FRANK TRIGG def. RENATO VERISSIMO via KO/TKO(R2)
+- TRAVIS LUTTER def. MARVIN EASTMAN via KO/TKO(R2)
+- TITO ORTIZ def. PATRICK COTE via Decision - Unanimous(R3)
+- EVAN TANNER def. ROBBIE LAWLER via Submission(R1)

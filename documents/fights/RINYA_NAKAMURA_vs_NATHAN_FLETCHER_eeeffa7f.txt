@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Taira vs. Park
+    Date: August 02, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RINYA NAKAMURA defeated NATHAN FLETCHER via KO/TKO  
+  at 1:02 of round 1
+  Key stats:
+  - RINYA NAKAMURA landed 12 significant strikes
+  - NATHAN FLETCHER landed 3 significant strikes
+  - Knockdowns: RINYA NAKAMURA 1,  NATHAN FLETCHER 0
+  - Takedowns: RINYA NAKAMURA 0,  NATHAN FLETCHER 0

@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Hughes vs. Team Serra Finale
+    Date: December 08, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JONATHAN GOULET defeated PAUL GEORGIEFF via Submission  
+  at 4:42 of round 1
+  Key stats:
+  - JONATHAN GOULET landed 11 significant strikes
+  - PAUL GEORGIEFF landed 12 significant strikes
+  - Knockdowns: JONATHAN GOULET 0,  PAUL GEORGIEFF 0
+  - Takedowns: JONATHAN GOULET 3,  PAUL GEORGIEFF 0

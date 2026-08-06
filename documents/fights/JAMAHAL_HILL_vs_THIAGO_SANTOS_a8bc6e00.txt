@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Santos vs. Hill
+    Date: August 06, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAMAHAL HILL defeated THIAGO SANTOS via KO/TKO  
+  at 2:31 of round 4
+  Key stats:
+  - JAMAHAL HILL landed 89 significant strikes
+  - THIAGO SANTOS landed 53 significant strikes
+  - Knockdowns: JAMAHAL HILL 0,  THIAGO SANTOS 0
+  - Takedowns: JAMAHAL HILL 0,  THIAGO SANTOS 6
+  Bonus: fight

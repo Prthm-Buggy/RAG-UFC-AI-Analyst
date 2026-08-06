@@ -1,0 +1,13 @@
+Event: UFC 214: Cormier vs. Jones 2
+    Date: July 29, 2017
+    Location: Anaheim, California, USA
+    Weight Class: Catch Weight
+    
+
+    Result: ALJAMAIN STERLING defeated RENAN BARAO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALJAMAIN STERLING landed 71 significant strikes
+  - RENAN BARAO landed 19 significant strikes
+  - Knockdowns: ALJAMAIN STERLING 0,  RENAN BARAO 0
+  - Takedowns: ALJAMAIN STERLING 1,  RENAN BARAO 2

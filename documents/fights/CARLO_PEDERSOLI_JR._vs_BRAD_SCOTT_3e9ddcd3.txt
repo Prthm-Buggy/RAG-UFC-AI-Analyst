@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thompson vs. Till
+    Date: May 27, 2018
+    Location: Liverpool, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: CARLO PEDERSOLI JR. defeated BRAD SCOTT via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CARLO PEDERSOLI JR. landed 67 significant strikes
+  - BRAD SCOTT landed 58 significant strikes
+  - Knockdowns: CARLO PEDERSOLI JR. 0,  BRAD SCOTT 1
+  - Takedowns: CARLO PEDERSOLI JR. 3,  BRAD SCOTT 0

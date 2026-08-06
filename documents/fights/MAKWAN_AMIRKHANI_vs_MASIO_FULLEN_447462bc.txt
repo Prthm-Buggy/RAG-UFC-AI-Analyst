@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jedrzejczyk vs Penne
+    Date: June 20, 2015
+    Location: Berlin, Berlin, Germany
+    Weight Class: Featherweight
+    
+
+    Result: MAKWAN AMIRKHANI defeated MASIO FULLEN via Submission  
+  at 1:41 of round 1
+  Key stats:
+  - MAKWAN AMIRKHANI landed 0 significant strikes
+  - MASIO FULLEN landed 1 significant strikes
+  - Knockdowns: MAKWAN AMIRKHANI 0,  MASIO FULLEN 0
+  - Takedowns: MAKWAN AMIRKHANI 1,  MASIO FULLEN 0

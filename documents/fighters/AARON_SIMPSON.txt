@@ -1,0 +1,11 @@
+Fighter: AARON SIMPSON
+  Date of Birth: 1974-07-20
+  Career record: 11
+  First fight: 2009-04-01
+  Last fight: 2012-10-05
+
+Career Statistics:
+- Significant Strikes Landed :454
+- Total takedowns landed :32
+- Knockdowns :6
+- Submission Attempts :4

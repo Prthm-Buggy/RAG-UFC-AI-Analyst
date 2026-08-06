@@ -1,0 +1,14 @@
+Event: UFC 90: Silva vs Cote
+    Date: October 25, 2008
+    Location: Rosemont, Illinois, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDERSON SILVA defeated PATRICK COTE via KO/TKO  
+  at 0:39 of round 3
+  Key stats:
+  - ANDERSON SILVA landed 29 significant strikes
+  - PATRICK COTE landed 16 significant strikes
+  - Knockdowns: ANDERSON SILVA 0,  PATRICK COTE 0
+  - Takedowns: ANDERSON SILVA 1,  PATRICK COTE 0
+  Bonus: belt

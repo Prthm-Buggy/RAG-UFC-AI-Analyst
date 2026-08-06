@@ -1,0 +1,13 @@
+Event: UFC 67: All or Nothing
+    Date: February 03, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: QUINTON JACKSON defeated MARVIN EASTMAN via KO/TKO  
+  at 3:49 of round 2
+  Key stats:
+  - QUINTON JACKSON landed 45 significant strikes
+  - MARVIN EASTMAN landed 15 significant strikes
+  - Knockdowns: QUINTON JACKSON 1,  MARVIN EASTMAN 0
+  - Takedowns: QUINTON JACKSON 0,  MARVIN EASTMAN 0

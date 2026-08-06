@@ -1,0 +1,11 @@
+Fighter: ANDREW HOLBROOK
+  Date of Birth: 1986-02-06
+  Career record: 5
+  First fight: 2015-07-25
+  Last fight: 2017-09-02
+
+Career Statistics:
+- Significant Strikes Landed :78
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :5

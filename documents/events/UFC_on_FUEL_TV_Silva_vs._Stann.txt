@@ -1,0 +1,17 @@
+Event : UFC on FUEL TV: Silva vs. Stann
+    Date : March 02, 2013
+    Location: Saitama, Japan
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Heavyweight, Lightweight, Middleweight, Featherweight, Welterweight, Light Heavyweight
+
+    Fight Results:
+  - BRAD TAVARES def. RIKI FUKUDA via Decision - Unanimous(R3)
+- HYUN GYU LIM def. MARCELO GUIMARAES via KO/TKO(R2)
+- DONG HYUN KIM def. SIYAR BAHADURZADA via Decision - Unanimous(R3)
+- RANI YAHYA def. MIZUTO HIROTA via Decision - Unanimous(R3)
+- TAKEYA MIZUGAKI def. BRYAN CARAWAY via Decision - Split(R3)
+- KAZUKI TOKUDOME def. CRISTIANO MARCELLO via Decision - Unanimous(R3)
+- DIEGO SANCHEZ def. TAKANORI GOMI via Decision - Split(R3)
+- YUSHIN OKAMI def. HECTOR LOMBARD via Decision - Split(R3)
+- WANDERLEI SILVA def. BRIAN STANN via KO/TKO(R2)
+- MARK HUNT def. STEFAN STRUVE via KO/TKO(R3)

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Stephens
+    Date: September 21, 2019
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Featherweight
+    
+
+    Result: STEVEN PETERSON defeated MARTIN BRAVO via KO/TKO  
+  at 1:31 of round 2
+  Key stats:
+  - STEVEN PETERSON landed 49 significant strikes
+  - MARTIN BRAVO landed 86 significant strikes
+  - Knockdowns: STEVEN PETERSON 1,  MARTIN BRAVO 0
+  - Takedowns: STEVEN PETERSON 0,  MARTIN BRAVO 2
+  Bonus: perf

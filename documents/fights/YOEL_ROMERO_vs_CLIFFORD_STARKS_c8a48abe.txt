@@ -1,0 +1,14 @@
+Event: UFC on FOX: Henderson vs Melendez
+    Date: April 20, 2013
+    Location: San Jose, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: YOEL ROMERO defeated CLIFFORD STARKS via KO/TKO  
+  at 1:32 of round 1
+  Key stats:
+  - YOEL ROMERO landed 12 significant strikes
+  - CLIFFORD STARKS landed 3 significant strikes
+  - Knockdowns: YOEL ROMERO 1,  CLIFFORD STARKS 0
+  - Takedowns: YOEL ROMERO 0,  CLIFFORD STARKS 0
+  Bonus: ko

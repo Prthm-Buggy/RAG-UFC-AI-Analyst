@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Allen
+    Date: April 15, 2023
+    Location: Kansas City, Missouri, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: DENISE GOMES defeated BRUNA BRASIL via KO/TKO  
+  at 2:42 of round 2
+  Key stats:
+  - DENISE GOMES landed 54 significant strikes
+  - BRUNA BRASIL landed 15 significant strikes
+  - Knockdowns: DENISE GOMES 1,  BRUNA BRASIL 0
+  - Takedowns: DENISE GOMES 3,  BRUNA BRASIL 0

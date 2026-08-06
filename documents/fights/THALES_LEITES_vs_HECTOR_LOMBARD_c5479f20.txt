@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Marreta vs. Anders
+    Date: September 22, 2018
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: THALES LEITES defeated HECTOR LOMBARD via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - THALES LEITES landed 54 significant strikes
+  - HECTOR LOMBARD landed 46 significant strikes
+  - Knockdowns: THALES LEITES 0,  HECTOR LOMBARD 0
+  - Takedowns: THALES LEITES 2,  HECTOR LOMBARD 0

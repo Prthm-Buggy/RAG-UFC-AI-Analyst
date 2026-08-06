@@ -1,0 +1,14 @@
+Event: UFC 125: Resolution
+    Date: January 01, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JEREMY STEPHENS defeated MARCUS DAVIS via KO/TKO  
+  at 2:33 of round 3
+  Key stats:
+  - JEREMY STEPHENS landed 25 significant strikes
+  - MARCUS DAVIS landed 17 significant strikes
+  - Knockdowns: JEREMY STEPHENS 1,  MARCUS DAVIS 0
+  - Takedowns: JEREMY STEPHENS 0,  MARCUS DAVIS 2
+  Bonus: ko

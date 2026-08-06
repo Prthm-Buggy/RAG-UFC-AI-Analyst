@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs Arlovski
+    Date: May 08, 2016
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Lightweight
+    
+
+    Result: REZA MADADI defeated YAN CABRAL via KO/TKO  
+  at 1:56 of round 3
+  Key stats:
+  - REZA MADADI landed 27 significant strikes
+  - YAN CABRAL landed 32 significant strikes
+  - Knockdowns: REZA MADADI 0,  YAN CABRAL 0
+  - Takedowns: REZA MADADI 1,  YAN CABRAL 1

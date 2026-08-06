@@ -1,0 +1,11 @@
+Fighter: ROB FONT
+  Date of Birth: 1987-06-25
+  Career record: 21
+  First fight: 2014-07-05
+  Last fight: 2026-03-07
+
+Career Statistics:
+- Significant Strikes Landed :1421
+- Total takedowns landed :13
+- Knockdowns :7
+- Submission Attempts :6

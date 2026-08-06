@@ -1,0 +1,11 @@
+Fighter: JOE MOREIRA
+  Date of Birth: 1961-07-03
+  Career record: 2
+  First fight: 1996-02-16
+  Last fight: 1997-07-27
+
+Career Statistics:
+- Significant Strikes Landed :19
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

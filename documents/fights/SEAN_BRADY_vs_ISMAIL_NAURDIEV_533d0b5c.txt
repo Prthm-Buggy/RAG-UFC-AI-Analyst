@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Benavidez vs. Figueiredo
+    Date: February 29, 2020
+    Location: Norfolk, Virginia, USA
+    Weight Class: Welterweight
+    
+
+    Result: SEAN BRADY defeated ISMAIL NAURDIEV via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SEAN BRADY landed 47 significant strikes
+  - ISMAIL NAURDIEV landed 37 significant strikes
+  - Knockdowns: SEAN BRADY 0,  ISMAIL NAURDIEV 0
+  - Takedowns: SEAN BRADY 4,  ISMAIL NAURDIEV 0

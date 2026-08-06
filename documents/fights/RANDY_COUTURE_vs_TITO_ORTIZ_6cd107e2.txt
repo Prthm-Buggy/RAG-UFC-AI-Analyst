@@ -1,0 +1,14 @@
+Event: UFC 44: Undisputed
+    Date: September 26, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RANDY COUTURE defeated TITO ORTIZ via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - RANDY COUTURE landed 88 significant strikes
+  - TITO ORTIZ landed 16 significant strikes
+  - Knockdowns: RANDY COUTURE 0,  TITO ORTIZ 0
+  - Takedowns: RANDY COUTURE 8,  TITO ORTIZ 2
+  Bonus: belt

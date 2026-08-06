@@ -1,0 +1,14 @@
+Event: UFC 285: Jones vs. Gane
+    Date: March 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JON JONES defeated CIRYL GANE via Submission  
+  at 2:04 of round 1
+  Key stats:
+  - JON JONES landed 5 significant strikes
+  - CIRYL GANE landed 6 significant strikes
+  - Knockdowns: JON JONES 0,  CIRYL GANE 0
+  - Takedowns: JON JONES 2,  CIRYL GANE 0
+  Bonus: belt

@@ -1,0 +1,14 @@
+Event: UFC 248: Adesanya vs. Romero
+    Date: March 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ZHANG WEILI defeated JOANNA JEDRZEJCZYK via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - ZHANG WEILI landed 165 significant strikes
+  - JOANNA JEDRZEJCZYK landed 186 significant strikes
+  - Knockdowns: ZHANG WEILI 0,  JOANNA JEDRZEJCZYK 0
+  - Takedowns: ZHANG WEILI 1,  JOANNA JEDRZEJCZYK 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Adesanya vs. Imavov
+    Date: February 01, 2025
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Weight Class: Heavyweight
+    
+
+    Result: SHAMIL GAZIEV defeated THOMAS PETERSEN via KO/TKO  
+  at 3:12 of round 1
+  Key stats:
+  - SHAMIL GAZIEV landed 14 significant strikes
+  - THOMAS PETERSEN landed 19 significant strikes
+  - Knockdowns: SHAMIL GAZIEV 1,  THOMAS PETERSEN 0
+  - Takedowns: SHAMIL GAZIEV 0,  THOMAS PETERSEN 1

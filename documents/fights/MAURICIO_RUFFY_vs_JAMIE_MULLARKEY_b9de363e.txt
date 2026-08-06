@@ -1,0 +1,14 @@
+Event: UFC 301: Pantoja vs. Erceg
+    Date: May 04, 2024
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: MAURICIO RUFFY defeated JAMIE MULLARKEY via KO/TKO  
+  at 4:42 of round 1
+  Key stats:
+  - MAURICIO RUFFY landed 25 significant strikes
+  - JAMIE MULLARKEY landed 14 significant strikes
+  - Knockdowns: MAURICIO RUFFY 1,  JAMIE MULLARKEY 0
+  - Takedowns: MAURICIO RUFFY 0,  JAMIE MULLARKEY 0
+  Bonus: perf

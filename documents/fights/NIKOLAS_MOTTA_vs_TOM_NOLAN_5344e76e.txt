@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ankalaev vs. Walker 2
+    Date: January 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NIKOLAS MOTTA defeated TOM NOLAN via KO/TKO  
+  at 1:03 of round 1
+  Key stats:
+  - NIKOLAS MOTTA landed 21 significant strikes
+  - TOM NOLAN landed 12 significant strikes
+  - Knockdowns: NIKOLAS MOTTA 1,  TOM NOLAN 0
+  - Takedowns: NIKOLAS MOTTA 0,  TOM NOLAN 0

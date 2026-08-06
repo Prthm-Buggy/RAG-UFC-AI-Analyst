@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Lewis vs. Teixeira
+    Date : July 12, 2025
+    Location: Nashville, Tennessee, USA
+    Number of Fights: 12
+    Weight Classes: Featherweight, Welterweight, Light Heavyweight, Women's Strawweight, Lightweight, Women's Flyweight, Heavyweight
+
+    Fight Results:
+  - FATIMA KLINE def. MELISSA MARTINEZ via KO/TKO(R3)
+- MIKE DAVIS def. MITCH RAMIREZ via KO/TKO(R2)
+- STEVE GARCIA def. CALVIN KATTAR via Decision - Unanimous(R3)
+- VALTER WALKER def. KENNEDY NZECHUKWU via Submission(R1)
+- Tuco Tokkos def. JUNIOR TAFA via Submission(R2)
+- VITOR PETRINO def. AUSTEN LANE via Submission(R1)
+- MORGAN CHARRIERE def. NATE LANDWEHR via KO/TKO(R3)
+- JAKE MATTHEWS def. CHIDI NJOKUANI via Submission(R1)
+- GABRIEL BONFIM def. STEPHEN THOMPSON via Decision - Split(R3)
+- EDUARDA MOURA def. LAUREN MURPHY via Decision - Unanimous(R3)
+- CHRIS CURTIS def. MAX GRIFFIN via Decision - Split(R3)
+- DERRICK LEWIS def. TALLISON TEIXEIRA via KO/TKO(R1)

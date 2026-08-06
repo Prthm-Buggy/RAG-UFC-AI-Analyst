@@ -1,0 +1,13 @@
+Event: UFC 12: Judgement Day
+    Date: February 07, 1997
+    Location: Dothan, Alabama, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SCOTT FERROZZO defeated JIM MULLEN via KO/TKO  
+  at 8:02 of round 1
+  Key stats:
+  - SCOTT FERROZZO landed 30 significant strikes
+  - JIM MULLEN landed 3 significant strikes
+  - Knockdowns: SCOTT FERROZZO 0,  JIM MULLEN 0
+  - Takedowns: SCOTT FERROZZO 2,  JIM MULLEN 0

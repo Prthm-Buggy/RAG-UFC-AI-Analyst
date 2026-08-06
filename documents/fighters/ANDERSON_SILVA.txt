@@ -1,0 +1,11 @@
+Fighter: ANDERSON SILVA
+  Date of Birth: 1975-04-14
+  Career record: 24
+  First fight: 2006-06-28
+  Last fight: 2020-10-31
+
+Career Statistics:
+- Significant Strikes Landed :724
+- Total takedowns landed :3
+- Knockdowns :18
+- Submission Attempts :6

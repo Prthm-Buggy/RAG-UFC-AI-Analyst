@@ -1,0 +1,11 @@
+Fighter: DANIEL OMIELANCZUK
+  Date of Birth: 1982-08-31
+  Career record: 9
+  First fight: 2013-09-21
+  Last fight: 2017-07-08
+
+Career Statistics:
+- Significant Strikes Landed :332
+- Total takedowns landed :4
+- Knockdowns :2
+- Submission Attempts :1

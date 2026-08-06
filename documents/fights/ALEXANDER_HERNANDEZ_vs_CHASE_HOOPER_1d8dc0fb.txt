@@ -1,0 +1,13 @@
+Event: UFC 319: Du Plessis vs. Chimaev
+    Date: August 16, 2025
+    Location: Chicago, Illinois, USA
+    Weight Class: Lightweight
+    
+
+    Result: ALEXANDER HERNANDEZ defeated CHASE HOOPER via KO/TKO  
+  at 4:58 of round 1
+  Key stats:
+  - ALEXANDER HERNANDEZ landed 17 significant strikes
+  - CHASE HOOPER landed 20 significant strikes
+  - Knockdowns: ALEXANDER HERNANDEZ 1,  CHASE HOOPER 0
+  - Takedowns: ALEXANDER HERNANDEZ 0,  CHASE HOOPER 0

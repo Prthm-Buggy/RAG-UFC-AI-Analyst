@@ -1,0 +1,13 @@
+Event: UFC 324: Gaethje vs. Pimblett
+    Date: January 24, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: WALDO CORTES ACOSTA defeated DERRICK LEWIS via KO/TKO  
+  at 3:14 of round 2
+  Key stats:
+  - WALDO CORTES ACOSTA landed 44 significant strikes
+  - DERRICK LEWIS landed 8 significant strikes
+  - Knockdowns: WALDO CORTES ACOSTA 1,  DERRICK LEWIS 0
+  - Takedowns: WALDO CORTES ACOSTA 1,  DERRICK LEWIS 0

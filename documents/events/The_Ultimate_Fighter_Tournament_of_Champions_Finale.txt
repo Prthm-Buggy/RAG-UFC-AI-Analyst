@@ -1,0 +1,19 @@
+Event : The Ultimate Fighter: Tournament of Champions Finale
+    Date : December 03, 2016
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Flyweight, Light Heavyweight, Women's Bantamweight, Welterweight, Middleweight, Featherweight, Lightweight, Women's Strawweight, Bantamweight
+
+    Fight Results:
+  - JARED CANNONIER def. ION CUTELABA via Decision - Unanimous(R3)
+- ANTHONY SMITH def. ELVIS MUTAPCIC via KO/TKO(R2)
+- DEVIN CLARK def. JOSH STANSBURY via Decision - Unanimous(R3)
+- ROB FONT def. MATT SCHNELL via KO/TKO(R1)
+- DONG HYUN MA def. BRENDAN O'REILLY via Decision - Unanimous(R3)
+- BRANDON MORENO def. RYAN BENOIT via Decision - Split(R3)
+- JOSEPH BENAVIDEZ def. HENRY CEJUDO via Decision - Split(R3)
+- RYAN HALL def. GRAY MAYNARD via Decision - Unanimous(R3)
+- SARA MCMANN def. ALEXIS DAVIS via Submission(R2)
+- JAMIE MOYLE def. KAILIN CURRAN via Decision - Unanimous(R3)
+- JORGE MASVIDAL def. JAKE ELLENBERGER via KO/TKO(R1)
+- DEMETRIOUS JOHNSON def. TIM ELLIOTT via Decision - Unanimous(R5)

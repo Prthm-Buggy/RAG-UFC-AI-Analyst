@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs. Prates
+    Date: November 09, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: REINIER DE RIDDER defeated GERALD MEERSCHAERT via Submission  
+  at 1:44 of round 3
+  Key stats:
+  - REINIER DE RIDDER landed 38 significant strikes
+  - GERALD MEERSCHAERT landed 30 significant strikes
+  - Knockdowns: REINIER DE RIDDER 1,  GERALD MEERSCHAERT 0
+  - Takedowns: REINIER DE RIDDER 5,  GERALD MEERSCHAERT 0

@@ -1,0 +1,11 @@
+Fighter: KHABIB NURMAGOMEDOV
+  Date of Birth: 1988-09-20
+  Career record: 13
+  First fight: 2012-01-20
+  Last fight: 2020-10-24
+
+Career Statistics:
+- Significant Strikes Landed :705
+- Total takedowns landed :61
+- Knockdowns :2
+- Submission Attempts :9

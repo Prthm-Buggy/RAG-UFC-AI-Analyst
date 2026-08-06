@@ -1,0 +1,11 @@
+Fighter: WAGNER SILVA
+  Date of Birth: 1987-02-07
+  Career record: 2
+  First fight: 2014-05-31
+  Last fight: 2014-11-08
+
+Career Statistics:
+- Significant Strikes Landed :33
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Song vs. Gutierrez
+    Date: December 09, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: LUANA SANTOS defeated STEPHANIE EGGER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LUANA SANTOS landed 53 significant strikes
+  - STEPHANIE EGGER landed 44 significant strikes
+  - Knockdowns: LUANA SANTOS 0,  STEPHANIE EGGER 0
+  - Takedowns: LUANA SANTOS 2,  STEPHANIE EGGER 1

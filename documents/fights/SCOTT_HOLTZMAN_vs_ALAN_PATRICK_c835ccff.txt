@@ -1,0 +1,13 @@
+Event: UFC 229: Khabib vs. McGregor
+    Date: October 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: SCOTT HOLTZMAN defeated ALAN PATRICK via KO/TKO  
+  at 3:42 of round 3
+  Key stats:
+  - SCOTT HOLTZMAN landed 73 significant strikes
+  - ALAN PATRICK landed 25 significant strikes
+  - Knockdowns: SCOTT HOLTZMAN 1,  ALAN PATRICK 0
+  - Takedowns: SCOTT HOLTZMAN 1,  ALAN PATRICK 0

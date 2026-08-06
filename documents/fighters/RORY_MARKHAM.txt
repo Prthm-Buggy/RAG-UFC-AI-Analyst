@@ -1,0 +1,11 @@
+Fighter: RORY MARKHAM
+  Date of Birth: 1982-03-25
+  Career record: 3
+  First fight: 2008-07-19
+  Last fight: 2010-03-27
+
+Career Statistics:
+- Significant Strikes Landed :11
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

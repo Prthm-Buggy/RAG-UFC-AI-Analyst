@@ -1,0 +1,11 @@
+Fighter: ROBERT PERALTA
+  Date of Birth: 1986-03-14
+  Career record: 7
+  First fight: 2011-09-17
+  Last fight: 2015-04-04
+
+Career Statistics:
+- Significant Strikes Landed :263
+- Total takedowns landed :4
+- Knockdowns :2
+- Submission Attempts :0

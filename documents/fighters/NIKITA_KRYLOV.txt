@@ -1,0 +1,11 @@
+Fighter: NIKITA KRYLOV
+  Date of Birth: 1992-03-07
+  Career record: 21
+  First fight: 2013-08-31
+  Last fight: 2026-01-24
+
+Career Statistics:
+- Significant Strikes Landed :638
+- Total takedowns landed :20
+- Knockdowns :6
+- Submission Attempts :12

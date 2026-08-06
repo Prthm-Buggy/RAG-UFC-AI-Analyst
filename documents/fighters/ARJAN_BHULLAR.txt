@@ -1,0 +1,11 @@
+Fighter: ARJAN BHULLAR
+  Date of Birth: 1986-05-13
+  Career record: 4
+  First fight: 2017-09-09
+  Last fight: 2019-05-04
+
+Career Statistics:
+- Significant Strikes Landed :121
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Brunson vs. Holland
+    Date: March 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: BRUNO SILVA defeated JP BUYS via KO/TKO  
+  at 2:56 of round 2
+  Key stats:
+  - BRUNO SILVA landed 37 significant strikes
+  - JP BUYS landed 17 significant strikes
+  - Knockdowns: BRUNO SILVA 3,  JP BUYS 0
+  - Takedowns: BRUNO SILVA 1,  JP BUYS 0
+  Bonus: perf

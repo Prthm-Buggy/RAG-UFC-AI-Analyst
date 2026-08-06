@@ -1,0 +1,11 @@
+Fighter: JUSSIER FORMIGA
+  Date of Birth: 1985-04-14
+  Career record: 16
+  First fight: 2012-10-05
+  Last fight: 2020-06-06
+
+Career Statistics:
+- Significant Strikes Landed :257
+- Total takedowns landed :22
+- Knockdowns :2
+- Submission Attempts :7

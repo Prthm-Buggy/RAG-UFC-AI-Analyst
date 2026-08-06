@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Sanchez vs Ellenberger
+    Date: February 15, 2012
+    Location: Omaha, Nebraska, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TJ DILLASHAW defeated WALEL WATSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TJ DILLASHAW landed 85 significant strikes
+  - WALEL WATSON landed 11 significant strikes
+  - Knockdowns: TJ DILLASHAW 0,  WALEL WATSON 0
+  - Takedowns: TJ DILLASHAW 3,  WALEL WATSON 0

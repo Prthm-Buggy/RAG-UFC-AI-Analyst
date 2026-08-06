@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Ortega vs. Rodriguez
+    Date : July 16, 2022
+    Location: Elmont, New York, USA
+    Number of Fights: 12
+    Weight Classes: Women's Strawweight, Featherweight, Flyweight, Welterweight, Middleweight, Light Heavyweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - BILL ALGEO def. HERBERT BURNS via KO/TKO(R2)
+- DUSTIN JACOBY def. DA WOON JUNG via KO/TKO(R1)
+- RICKY SIMON def. JACK SHORE via Submission(R2)
+- YAIR RODRIGUEZ def. BRIAN ORTEGA via KO/TKO(R1)
+- AMANDA LEMOS def. MICHELLE WATERSON-GOMEZ via Submission(R2)
+- MATT SCHNELL def. SUMUDAERJI via Submission(R2)
+- DUSTIN STOLTZFUS def. DWIGHT GRANT via Decision - Unanimous(R3)
+- PUNAHELE SORIANO def. DALCHA LUNGIAMBULA via KO/TKO(R2)
+- EMILY DUCOTE def. JESSICA PENNE via Decision - Unanimous(R3)
+- LI JINGLIANG def. MUSLIM SALIKHOV via KO/TKO(R2)
+- LAUREN MURPHY def. MIESHA TATE via Decision - Unanimous(R3)
+- SHANE BURGOS def. CHARLES JOURDAIN via Decision - Majority(R3)

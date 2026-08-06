@@ -1,0 +1,14 @@
+Event: UFC 271: Adesanya vs. Whittaker 2
+    Date: February 12, 2022
+    Location: Houston, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TAI TUIVASA defeated DERRICK LEWIS via KO/TKO  
+  at 1:40 of round 2
+  Key stats:
+  - TAI TUIVASA landed 24 significant strikes
+  - DERRICK LEWIS landed 27 significant strikes
+  - Knockdowns: TAI TUIVASA 1,  DERRICK LEWIS 0
+  - Takedowns: TAI TUIVASA 0,  DERRICK LEWIS 2
+  Bonus: perf

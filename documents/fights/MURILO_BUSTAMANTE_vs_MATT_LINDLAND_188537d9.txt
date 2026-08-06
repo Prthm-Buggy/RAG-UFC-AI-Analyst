@@ -1,0 +1,14 @@
+Event: UFC 37: High Impact
+    Date: May 10, 2002
+    Location: Bossier City, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: MURILO BUSTAMANTE defeated MATT LINDLAND via Submission  
+  at 1:33 of round 3
+  Key stats:
+  - MURILO BUSTAMANTE landed 17 significant strikes
+  - MATT LINDLAND landed 35 significant strikes
+  - Knockdowns: MURILO BUSTAMANTE 1,  MATT LINDLAND 0
+  - Takedowns: MURILO BUSTAMANTE 2,  MATT LINDLAND 0
+  Bonus: belt

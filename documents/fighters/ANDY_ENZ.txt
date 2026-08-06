@@ -1,0 +1,11 @@
+Fighter: ANDY ENZ
+  Date of Birth: 1991-08-15
+  Career record: 3
+  First fight: 2014-02-01
+  Last fight: 2015-01-31
+
+Career Statistics:
+- Significant Strikes Landed :112
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

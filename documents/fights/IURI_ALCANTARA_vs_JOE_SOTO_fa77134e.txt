@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs. Anders
+    Date: February 03, 2018
+    Location: Belem, Para, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: IURI ALCANTARA defeated JOE SOTO via KO/TKO  
+  at 1:06 of round 1
+  Key stats:
+  - IURI ALCANTARA landed 17 significant strikes
+  - JOE SOTO landed 1 significant strikes
+  - Knockdowns: IURI ALCANTARA 1,  JOE SOTO 0
+  - Takedowns: IURI ALCANTARA 0,  JOE SOTO 0
+  Bonus: perf

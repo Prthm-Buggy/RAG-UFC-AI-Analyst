@@ -1,0 +1,13 @@
+Event: UFC 31: Locked and Loaded
+    Date: May 04, 2001
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: BJ PENN defeated JOEY GILBERT via KO/TKO  
+  at 4:57 of round 1
+  Key stats:
+  - BJ PENN landed 22 significant strikes
+  - JOEY GILBERT landed 3 significant strikes
+  - Knockdowns: BJ PENN 0,  JOEY GILBERT 0
+  - Takedowns: BJ PENN 2,  JOEY GILBERT 0

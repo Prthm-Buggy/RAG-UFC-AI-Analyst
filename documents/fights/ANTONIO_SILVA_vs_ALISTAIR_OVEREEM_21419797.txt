@@ -1,0 +1,14 @@
+Event: UFC 156: Aldo vs Edgar
+    Date: February 02, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANTONIO SILVA defeated ALISTAIR OVEREEM via KO/TKO  
+  at 0:25 of round 3
+  Key stats:
+  - ANTONIO SILVA landed 21 significant strikes
+  - ALISTAIR OVEREEM landed 51 significant strikes
+  - Knockdowns: ANTONIO SILVA 1,  ALISTAIR OVEREEM 0
+  - Takedowns: ANTONIO SILVA 0,  ALISTAIR OVEREEM 1
+  Bonus: ko

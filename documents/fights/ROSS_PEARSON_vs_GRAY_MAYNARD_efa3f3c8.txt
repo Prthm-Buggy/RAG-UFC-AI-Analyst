@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bader vs Saint Preux
+    Date: August 16, 2014
+    Location: Bangor, Maine, USA
+    Weight Class: Lightweight
+    
+
+    Result: ROSS PEARSON defeated GRAY MAYNARD via KO/TKO  
+  at 1:35 of round 2
+  Key stats:
+  - ROSS PEARSON landed 26 significant strikes
+  - GRAY MAYNARD landed 15 significant strikes
+  - Knockdowns: ROSS PEARSON 1,  GRAY MAYNARD 0
+  - Takedowns: ROSS PEARSON 0,  GRAY MAYNARD 2

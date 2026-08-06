@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. VanZant
+    Date: December 10, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: KAILIN CURRAN defeated EMILY KAGAN via Submission  
+  at 4:13 of round 2
+  Key stats:
+  - KAILIN CURRAN landed 21 significant strikes
+  - EMILY KAGAN landed 22 significant strikes
+  - Knockdowns: KAILIN CURRAN 0,  EMILY KAGAN 0
+  - Takedowns: KAILIN CURRAN 1,  EMILY KAGAN 1

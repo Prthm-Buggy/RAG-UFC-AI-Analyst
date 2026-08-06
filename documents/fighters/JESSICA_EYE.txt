@@ -1,0 +1,11 @@
+Fighter: JESSICA EYE
+  Date of Birth: 1986-07-27
+  Career record: 15
+  First fight: 2014-02-22
+  Last fight: 2022-07-02
+
+Career Statistics:
+- Significant Strikes Landed :830
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :7

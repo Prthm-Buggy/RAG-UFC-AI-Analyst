@@ -1,0 +1,11 @@
+Fighter: FERNIE GARCIA
+  Date of Birth: 1992-04-12
+  Career record: 4
+  First fight: 2022-05-07
+  Last fight: 2024-02-10
+
+Career Statistics:
+- Significant Strikes Landed :99
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :2

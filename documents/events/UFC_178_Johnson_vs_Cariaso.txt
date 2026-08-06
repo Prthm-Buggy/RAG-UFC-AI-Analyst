@@ -1,0 +1,18 @@
+Event : UFC 178: Johnson vs Cariaso
+    Date : September 27, 2014
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Flyweight, Lightweight, Welterweight, Middleweight, Women's Bantamweight, Featherweight, Bantamweight
+
+    Fight Results:
+  - CAT ZINGANO def. AMANDA NUNES via KO/TKO(R3)
+- DONALD CERRONE def. EDDIE ALVAREZ via Decision - Unanimous(R3)
+- YOEL ROMERO def. TIM KENNEDY via KO/TKO(R3)
+- JORGE MASVIDAL def. JAMES KRAUSE via Decision - Unanimous(R3)
+- STEPHEN THOMPSON def. PATRICK COTE via Decision - Unanimous(R3)
+- CONOR MCGREGOR def. DUSTIN POIRIER via KO/TKO(R1)
+- KEVIN LEE def. JON TUCK via Decision - Unanimous(R3)
+- DOMINICK CRUZ def. TAKEYA MIZUGAKI via KO/TKO(R1)
+- DEMETRIOUS JOHNSON def. CHRIS CARIASO via Submission(R2)
+- MANVEL GAMBURYAN def. CODY GIBSON via Submission(R2)
+- BRIAN EBERSOLE def. JOHN HOWARD via Decision - Split(R3)

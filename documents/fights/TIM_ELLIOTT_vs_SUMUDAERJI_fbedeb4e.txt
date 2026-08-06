@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Song vs. Gutierrez
+    Date: December 09, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TIM ELLIOTT defeated SUMUDAERJI via Submission  
+  at 4:02 of round 1
+  Key stats:
+  - TIM ELLIOTT landed 10 significant strikes
+  - SUMUDAERJI landed 10 significant strikes
+  - Knockdowns: TIM ELLIOTT 0,  SUMUDAERJI 0
+  - Takedowns: TIM ELLIOTT 1,  SUMUDAERJI 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tsarukyan vs. Hooker
+    Date: November 22, 2025
+    Location: Doha, Qatar
+    Weight Class: Lightweight
+    
+
+    Result: ARMAN TSARUKYAN defeated DAN HOOKER via Submission  
+  at 3:34 of round 2
+  Key stats:
+  - ARMAN TSARUKYAN landed 42 significant strikes
+  - DAN HOOKER landed 10 significant strikes
+  - Knockdowns: ARMAN TSARUKYAN 0,  DAN HOOKER 0
+  - Takedowns: ARMAN TSARUKYAN 2,  DAN HOOKER 0
+  Bonus: perf

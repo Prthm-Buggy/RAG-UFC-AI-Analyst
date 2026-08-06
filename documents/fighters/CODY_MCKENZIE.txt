@@ -1,0 +1,11 @@
+Fighter: CODY MCKENZIE
+  Date of Birth: 1987-12-16
+  Career record: 7
+  First fight: 2010-12-04
+  Last fight: 2013-12-14
+
+Career Statistics:
+- Significant Strikes Landed :94
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :9

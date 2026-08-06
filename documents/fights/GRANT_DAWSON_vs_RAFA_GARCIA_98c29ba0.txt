@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Royval vs. Taira
+    Date: October 12, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: GRANT DAWSON defeated RAFA GARCIA via KO/TKO  
+  at 1:42 of round 2
+  Key stats:
+  - GRANT DAWSON landed 44 significant strikes
+  - RAFA GARCIA landed 5 significant strikes
+  - Knockdowns: GRANT DAWSON 0,  RAFA GARCIA 0
+  - Takedowns: GRANT DAWSON 2,  RAFA GARCIA 0

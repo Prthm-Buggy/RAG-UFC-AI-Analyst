@@ -1,0 +1,13 @@
+Event: UFC 222: Cyborg vs. Kunitskaya
+    Date: March 03, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: KETLEN VIEIRA defeated CAT ZINGANO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - KETLEN VIEIRA landed 41 significant strikes
+  - CAT ZINGANO landed 59 significant strikes
+  - Knockdowns: KETLEN VIEIRA 0,  CAT ZINGANO 0
+  - Takedowns: KETLEN VIEIRA 2,  CAT ZINGANO 0

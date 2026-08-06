@@ -1,0 +1,11 @@
+Fighter: WAR MACHINE
+  Date of Birth: 1981-11-30
+  Career record: 2
+  First fight: 2007-12-08
+  Last fight: 2008-05-24
+
+Career Statistics:
+- Significant Strikes Landed :30
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

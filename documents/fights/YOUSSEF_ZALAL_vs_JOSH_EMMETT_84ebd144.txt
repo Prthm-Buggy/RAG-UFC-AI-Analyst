@@ -1,0 +1,13 @@
+Event: UFC 320: Ankalaev vs. Pereira 2
+    Date: October 04, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: YOUSSEF ZALAL defeated JOSH EMMETT via Submission  
+  at 1:38 of round 1
+  Key stats:
+  - YOUSSEF ZALAL landed 0 significant strikes
+  - JOSH EMMETT landed 0 significant strikes
+  - Knockdowns: YOUSSEF ZALAL 0,  JOSH EMMETT 0
+  - Takedowns: YOUSSEF ZALAL 1,  JOSH EMMETT 0

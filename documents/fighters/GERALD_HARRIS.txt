@@ -1,0 +1,11 @@
+Fighter: GERALD HARRIS
+  Date of Birth: 1979-11-19
+  Career record: 4
+  First fight: 2010-01-11
+  Last fight: 2010-11-20
+
+Career Statistics:
+- Significant Strikes Landed :56
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :0

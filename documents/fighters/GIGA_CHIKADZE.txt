@@ -1,0 +1,11 @@
+Fighter: GIGA CHIKADZE
+  Date of Birth: 1988-08-25
+  Career record: 12
+  First fight: 2019-09-28
+  Last fight: 2025-12-13
+
+Career Statistics:
+- Significant Strikes Landed :589
+- Total takedowns landed :2
+- Knockdowns :6
+- Submission Attempts :2

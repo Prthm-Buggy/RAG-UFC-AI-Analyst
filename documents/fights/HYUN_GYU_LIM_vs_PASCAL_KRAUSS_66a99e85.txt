@@ -1,0 +1,14 @@
+Event: UFC 164: Henderson vs Pettis 2
+    Date: August 31, 2013
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Welterweight
+    
+
+    Result: HYUN GYU LIM defeated PASCAL KRAUSS via KO/TKO  
+  at 3:58 of round 1
+  Key stats:
+  - HYUN GYU LIM landed 26 significant strikes
+  - PASCAL KRAUSS landed 21 significant strikes
+  - Knockdowns: HYUN GYU LIM 2,  PASCAL KRAUSS 0
+  - Takedowns: HYUN GYU LIM 1,  PASCAL KRAUSS 0
+  Bonus: fight

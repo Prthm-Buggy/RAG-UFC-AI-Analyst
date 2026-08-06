@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lemos vs. Jandiroba
+    Date: July 20, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: KURT HOLOBAUGH defeated KAYNAN KRUSCHEWSKY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KURT HOLOBAUGH landed 92 significant strikes
+  - KAYNAN KRUSCHEWSKY landed 89 significant strikes
+  - Knockdowns: KURT HOLOBAUGH 0,  KAYNAN KRUSCHEWSKY 0
+  - Takedowns: KURT HOLOBAUGH 1,  KAYNAN KRUSCHEWSKY 3

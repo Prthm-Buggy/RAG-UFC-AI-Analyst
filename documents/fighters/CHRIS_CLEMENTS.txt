@@ -1,0 +1,11 @@
+Fighter: CHRIS CLEMENTS
+  Date of Birth: 1976-02-09
+  Career record: 4
+  First fight: 2012-04-21
+  Last fight: 2015-04-25
+
+Career Statistics:
+- Significant Strikes Landed :127
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :1

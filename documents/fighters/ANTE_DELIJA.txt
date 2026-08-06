@@ -1,0 +1,11 @@
+Fighter: ANTE DELIJA
+  Date of Birth: 1990-08-07
+  Career record: 3
+  First fight: 2025-09-06
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :90
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC 189: Mendes vs McGregor
+    Date: July 11, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GUNNAR NELSON defeated BRANDON THATCH via Submission  
+  at 2:54 of round 1
+  Key stats:
+  - GUNNAR NELSON landed 6 significant strikes
+  - BRANDON THATCH landed 8 significant strikes
+  - Knockdowns: GUNNAR NELSON 1,  BRANDON THATCH 0
+  - Takedowns: GUNNAR NELSON 0,  BRANDON THATCH 0

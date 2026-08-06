@@ -1,0 +1,11 @@
+Fighter: HAROLD HOWARD
+  Date of Birth: Unknown
+  Career record: 3
+  First fight: 1994-09-09
+  Last fight: 1995-09-08
+
+Career Statistics:
+- Significant Strikes Landed :15
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :1

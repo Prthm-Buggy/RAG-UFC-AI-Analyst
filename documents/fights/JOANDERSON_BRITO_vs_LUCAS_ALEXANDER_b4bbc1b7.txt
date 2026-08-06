@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Grasso vs. Araujo
+    Date: October 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JOANDERSON BRITO defeated LUCAS ALEXANDER via Submission  
+  at 2:02 of round 1
+  Key stats:
+  - JOANDERSON BRITO landed 4 significant strikes
+  - LUCAS ALEXANDER landed 1 significant strikes
+  - Knockdowns: JOANDERSON BRITO 0,  LUCAS ALEXANDER 0
+  - Takedowns: JOANDERSON BRITO 2,  LUCAS ALEXANDER 0

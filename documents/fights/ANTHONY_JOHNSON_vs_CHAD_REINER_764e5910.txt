@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Stout vs Fisher
+    Date: June 12, 2007
+    Location: Hollywood, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: ANTHONY JOHNSON defeated CHAD REINER via KO/TKO  
+  at 0:13 of round 1
+  Key stats:
+  - ANTHONY JOHNSON landed 3 significant strikes
+  - CHAD REINER landed 2 significant strikes
+  - Knockdowns: ANTHONY JOHNSON 1,  CHAD REINER 0
+  - Takedowns: ANTHONY JOHNSON 0,  CHAD REINER 0

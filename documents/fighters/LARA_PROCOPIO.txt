@@ -1,0 +1,11 @@
+Fighter: LARA PROCOPIO
+  Date of Birth: 1995-11-14
+  Career record: 3
+  First fight: 2019-08-31
+  Last fight: 2021-06-19
+
+Career Statistics:
+- Significant Strikes Landed :242
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,18 @@
+Event : UFC 98: Evans vs Machida
+    Date : May 23, 2009
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Lightweight, Middleweight, Welterweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - FRANKIE EDGAR def. SEAN SHERK via Decision - Unanimous(R3)
+- LYOTO MACHIDA def. RASHAD EVANS via KO/TKO(R2)
+- CHAEL SONNEN def. DAN MILLER via Decision - Unanimous(R3)
+- MATT HUGHES def. MATT SERRA via Decision - Unanimous(R3)
+- KYLE BRADLEY def. PHILLIPE NOVER via KO/TKO(R1)
+- TIM HAGUE def. PAT BARRY via Submission(R1)
+- BROCK LARSON def. MIKE PYLE via Submission(R1)
+- GEORGE ROOP def. DAVID KAPLAN via Decision - Split(R3)
+- KRZYSZTOF SOSZYNSKI def. ANDRE GUSMAO via KO/TKO(R1)
+- YOSHIYUKI YOSHIDA def. BRANDON WOLFF via Submission(R1)
+- DREW MCFEDRIES def. XAVIER FOUPA-POKAM via KO/TKO(R1)

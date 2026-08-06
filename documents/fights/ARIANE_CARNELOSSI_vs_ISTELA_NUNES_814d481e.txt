@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ladd vs. Dumont
+    Date: October 16, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ARIANE CARNELOSSI defeated ISTELA NUNES via Submission  
+  at 2:57 of round 3
+  Key stats:
+  - ARIANE CARNELOSSI landed 36 significant strikes
+  - ISTELA NUNES landed 62 significant strikes
+  - Knockdowns: ARIANE CARNELOSSI 0,  ISTELA NUNES 0
+  - Takedowns: ARIANE CARNELOSSI 5,  ISTELA NUNES 0

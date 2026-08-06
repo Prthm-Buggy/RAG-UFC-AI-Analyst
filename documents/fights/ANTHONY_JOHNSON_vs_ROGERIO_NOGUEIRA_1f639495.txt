@@ -1,0 +1,14 @@
+Event: UFC on FOX: Lawler vs Brown
+    Date: July 26, 2014
+    Location: San Jose, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY JOHNSON defeated ROGERIO NOGUEIRA via KO/TKO  
+  at 0:44 of round 1
+  Key stats:
+  - ANTHONY JOHNSON landed 8 significant strikes
+  - ROGERIO NOGUEIRA landed 0 significant strikes
+  - Knockdowns: ANTHONY JOHNSON 1,  ROGERIO NOGUEIRA 0
+  - Takedowns: ANTHONY JOHNSON 0,  ROGERIO NOGUEIRA 0
+  Bonus: perf

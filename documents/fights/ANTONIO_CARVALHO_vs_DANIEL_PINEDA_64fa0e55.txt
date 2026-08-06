@@ -1,0 +1,13 @@
+Event: UFC 149: Faber vs Barao
+    Date: July 21, 2012
+    Location: Calgary, Alberta, Canada
+    Weight Class: Featherweight
+    
+
+    Result: ANTONIO CARVALHO defeated DANIEL PINEDA via KO/TKO  
+  at 1:11 of round 1
+  Key stats:
+  - ANTONIO CARVALHO landed 10 significant strikes
+  - DANIEL PINEDA landed 7 significant strikes
+  - Knockdowns: ANTONIO CARVALHO 1,  DANIEL PINEDA 0
+  - Takedowns: ANTONIO CARVALHO 0,  DANIEL PINEDA 0

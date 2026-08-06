@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blaydes vs. Lewis
+    Date: February 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: AIEMANN ZAHABI defeated DRAKO RODRIGUEZ via KO/TKO  
+  at 3:05 of round 1
+  Key stats:
+  - AIEMANN ZAHABI landed 9 significant strikes
+  - DRAKO RODRIGUEZ landed 11 significant strikes
+  - Knockdowns: AIEMANN ZAHABI 1,  DRAKO RODRIGUEZ 0
+  - Takedowns: AIEMANN ZAHABI 0,  DRAKO RODRIGUEZ 0
+  Bonus: perf

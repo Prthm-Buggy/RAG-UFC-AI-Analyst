@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Daukaus
+    Date: December 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATEUSZ GAMROT defeated DIEGO FERREIRA via KO/TKO  
+  at 3:26 of round 2
+  Key stats:
+  - MATEUSZ GAMROT landed 25 significant strikes
+  - DIEGO FERREIRA landed 36 significant strikes
+  - Knockdowns: MATEUSZ GAMROT 0,  DIEGO FERREIRA 0
+  - Takedowns: MATEUSZ GAMROT 4,  DIEGO FERREIRA 0

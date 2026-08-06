@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hunt vs Nelson
+    Date: September 20, 2014
+    Location: Saitama, Japan
+    Weight Class: Lightweight
+    
+
+    Result: JOHNNY CASE defeated KAZUKI TOKUDOME via Submission  
+  at 2:34 of round 2
+  Key stats:
+  - JOHNNY CASE landed 13 significant strikes
+  - KAZUKI TOKUDOME landed 12 significant strikes
+  - Knockdowns: JOHNNY CASE 1,  KAZUKI TOKUDOME 0
+  - Takedowns: JOHNNY CASE 0,  KAZUKI TOKUDOME 1
+  Bonus: perf

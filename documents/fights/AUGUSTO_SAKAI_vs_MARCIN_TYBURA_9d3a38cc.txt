@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs. Gaethje
+    Date: September 14, 2019
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: AUGUSTO SAKAI defeated MARCIN TYBURA via KO/TKO  
+  at 0:59 of round 1
+  Key stats:
+  - AUGUSTO SAKAI landed 15 significant strikes
+  - MARCIN TYBURA landed 6 significant strikes
+  - Knockdowns: AUGUSTO SAKAI 1,  MARCIN TYBURA 0
+  - Takedowns: AUGUSTO SAKAI 0,  MARCIN TYBURA 0

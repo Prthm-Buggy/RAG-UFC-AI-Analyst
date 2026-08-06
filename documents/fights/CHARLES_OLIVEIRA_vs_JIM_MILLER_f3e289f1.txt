@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lee vs. Iaquinta
+    Date: December 15, 2018
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated JIM MILLER via Submission  
+  at 1:15 of round 1
+  Key stats:
+  - CHARLES OLIVEIRA landed 0 significant strikes
+  - JIM MILLER landed 1 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  JIM MILLER 0
+  - Takedowns: CHARLES OLIVEIRA 1,  JIM MILLER 0
+  Bonus: perf

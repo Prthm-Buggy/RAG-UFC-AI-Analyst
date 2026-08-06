@@ -1,0 +1,11 @@
+Fighter: MIRANDA GRANGER
+  Date of Birth: 1992-04-13
+  Career record: 4
+  First fight: 2019-08-03
+  Last fight: 2022-08-06
+
+Career Statistics:
+- Significant Strikes Landed :111
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Mousasi vs Latifi
+    Date: April 06, 2013
+    Location: Stockholm, Sweden
+    Weight Class: Featherweight
+    
+
+    Result: CONOR MCGREGOR defeated MARCUS BRIMAGE via KO/TKO  
+  at 1:07 of round 1
+  Key stats:
+  - CONOR MCGREGOR landed 21 significant strikes
+  - MARCUS BRIMAGE landed 12 significant strikes
+  - Knockdowns: CONOR MCGREGOR 1,  MARCUS BRIMAGE 0
+  - Takedowns: CONOR MCGREGOR 0,  MARCUS BRIMAGE 0
+  Bonus: ko

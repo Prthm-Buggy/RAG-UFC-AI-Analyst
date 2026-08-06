@@ -1,0 +1,11 @@
+Fighter: ROLANDO BEDOYA
+  Date of Birth: 1997-01-13
+  Career record: 4
+  First fight: 2023-05-06
+  Last fight: 2025-09-27
+
+Career Statistics:
+- Significant Strikes Landed :374
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

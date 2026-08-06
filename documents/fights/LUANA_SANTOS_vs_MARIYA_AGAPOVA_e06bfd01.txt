@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. Cortez
+    Date: July 13, 2024
+    Location: Denver, Colorado, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: LUANA SANTOS defeated MARIYA AGAPOVA via Submission  
+  at 3:27 of round 1
+  Key stats:
+  - LUANA SANTOS landed 2 significant strikes
+  - MARIYA AGAPOVA landed 3 significant strikes
+  - Knockdowns: LUANA SANTOS 0,  MARIYA AGAPOVA 0
+  - Takedowns: LUANA SANTOS 1,  MARIYA AGAPOVA 0

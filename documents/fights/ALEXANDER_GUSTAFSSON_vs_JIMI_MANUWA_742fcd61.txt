@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gustafsson vs Manuwa
+    Date: March 08, 2014
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEXANDER GUSTAFSSON defeated JIMI MANUWA via KO/TKO  
+  at 1:18 of round 2
+  Key stats:
+  - ALEXANDER GUSTAFSSON landed 21 significant strikes
+  - JIMI MANUWA landed 13 significant strikes
+  - Knockdowns: ALEXANDER GUSTAFSSON 1,  JIMI MANUWA 0
+  - Takedowns: ALEXANDER GUSTAFSSON 1,  JIMI MANUWA 0
+  Bonus: fight

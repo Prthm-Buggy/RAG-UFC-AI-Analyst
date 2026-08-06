@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Jones vs. Team Sonnen Finale
+    Date: April 13, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CLINT HESTER defeated BRISTOL MARUNDE via KO/TKO  
+  at 3:53 of round 3
+  Key stats:
+  - CLINT HESTER landed 66 significant strikes
+  - BRISTOL MARUNDE landed 21 significant strikes
+  - Knockdowns: CLINT HESTER 2,  BRISTOL MARUNDE 0
+  - Takedowns: CLINT HESTER 0,  BRISTOL MARUNDE 3

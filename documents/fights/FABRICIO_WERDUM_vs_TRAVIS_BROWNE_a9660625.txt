@@ -1,0 +1,13 @@
+Event: UFC on FOX: Werdum vs Browne
+    Date: April 19, 2014
+    Location: Orlando, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FABRICIO WERDUM defeated TRAVIS BROWNE via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - FABRICIO WERDUM landed 121 significant strikes
+  - TRAVIS BROWNE landed 60 significant strikes
+  - Knockdowns: FABRICIO WERDUM 0,  TRAVIS BROWNE 0
+  - Takedowns: FABRICIO WERDUM 2,  TRAVIS BROWNE 0

@@ -1,0 +1,20 @@
+Event : UFC 308: Topuria vs. Holloway
+    Date : October 26, 2024
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 13
+    Weight Classes: Middleweight, Featherweight, Welterweight, Catch Weight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - KENNEDY NZECHUKWU def. CHRIS BARNETT via KO/TKO(R1)
+- ABUS MAGOMEDOV def. BRUNNO FERREIRA via Submission(R3)
+- SHARA MAGOMEDOV def. ARMEN PETROSYAN via KO/TKO(R2)
+- MAGOMED ANKALAEV def. ALEKSANDAR RAKIC via Decision - Unanimous(R3)
+- LERONE MURPHY def. DAN IGE via Decision - Unanimous(R3)
+- KHAMZAT CHIMAEV def. ROBERT WHITTAKER via Submission(R1)
+- ILIA TOPURIA def. MAX HOLLOWAY via KO/TKO(R3)
+- ISMAIL NAURDIEV def. BRUNO SILVA via Decision - Unanimous(R3)
+- GEOFF NEAL def. RAFAEL DOS ANJOS via KO/TKO(R1)
+- MATEUSZ REBECKI def. MYKTYBEK OROLBAI via Decision - Split(R3)
+- FARID BASHARAT def. VICTOR HUGO via Decision - Unanimous(R3)
+- RINAT FAKHRETDINOV def. CARLOS LEAL via Decision - Unanimous(R3)
+- IBO ASLAN def. RAFAEL CERQUEIRA via KO/TKO(R1)

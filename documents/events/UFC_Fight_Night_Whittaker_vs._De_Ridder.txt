@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Whittaker vs. De Ridder
+    Date : July 26, 2025
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Bantamweight, Light Heavyweight, Flyweight, Middleweight, Welterweight, Women's Strawweight, Featherweight
+
+    Fight Results:
+  - STEVEN NGUYEN def. MOHAMMAD YAHYA via KO/TKO(R2)
+- PETR YAN def. MARCUS MCGHEE via Decision - Unanimous(R3)
+- BILLY ELEKANA def. IBO ASLAN via Decision - Unanimous(R3)
+- MARTIN BUDAY def. Marcus Buchecha via Decision - Unanimous(R3)
+- BRYCE MITCHELL def. SAID NURMAGOMEDOV via Decision - Unanimous(R3)
+- DAVEY GRANT def. DA'MON BLACKSHEAR via Decision - Unanimous(R3)
+- TABATHA RICCI def. AMANDA RIBAS via KO/TKO(R2)
+- REINIER DE RIDDER def. ROBERT WHITTAKER via Decision - Split(R5)
+- BOGDAN GUSKOV def. NIKITA KRYLOV via KO/TKO(R1)
+- SHARA MAGOMEDOV def. MARC-ANDRE BARRIAULT via Decision - Unanimous(R3)
+- MUSLIM SALIKHOV def. CARLOS LEAL via KO/TKO(R1)
+- ASU ALMABAYEV def. JOSE OCHOA via Decision - Unanimous(R3)

@@ -1,0 +1,13 @@
+Event: UFC 244: Masvidal vs. Diaz
+    Date: November 02, 2019
+    Location: New York City, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated BLAGOY IVANOV via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - DERRICK LEWIS landed 31 significant strikes
+  - BLAGOY IVANOV landed 20 significant strikes
+  - Knockdowns: DERRICK LEWIS 0,  BLAGOY IVANOV 0
+  - Takedowns: DERRICK LEWIS 1,  BLAGOY IVANOV 3

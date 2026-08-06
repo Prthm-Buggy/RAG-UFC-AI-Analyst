@@ -1,0 +1,11 @@
+Fighter: MISHA CIRKUNOV
+  Date of Birth: 1987-02-27
+  Career record: 13
+  First fight: 2015-08-23
+  Last fight: 2022-10-15
+
+Career Statistics:
+- Significant Strikes Landed :237
+- Total takedowns landed :17
+- Knockdowns :0
+- Submission Attempts :7

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Lee vs. Oliveira
+    Date : March 14, 2020
+    Location: Brasilia, Distrito Federal, Brazil
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Welterweight, Lightweight, Light Heavyweight, Flyweight, Women's Bantamweight, Women's Strawweight
+
+    Fight Results:
+  - CHARLES OLIVEIRA def. KEVIN LEE via Submission(R3)
+- NIKITA KRYLOV def. JOHNNY WALKER via Decision - Unanimous(R3)
+- RENATO MOICANO def. DAMIR HADZOVIC via Submission(R1)
+- ELIZEU ZALESKI DOS SANTOS def. ALEKSEI KUNCHENKO via Decision - Unanimous(R3)
+- BRANDON MORENO def. JUSSIER FORMIGA via Decision - Unanimous(R3)
+- MARYNA MOROZ def. MAYRA BUENO SILVA via Decision - Unanimous(R3)
+- AMANDA RIBAS def. RANDA MARKOS via Decision - Unanimous(R3)
+- BEA MALECKI def. VERONICA HARDY via Decision - Unanimous(R3)
+- FRANCISCO TRINALDO def. JOHN MAKDESSI via Decision - Unanimous(R3)
+- DAVID DVORAK def. BRUNO SILVA via Decision - Unanimous(R3)
+- GILBERT BURNS def. DEMIAN MAIA via KO/TKO(R1)

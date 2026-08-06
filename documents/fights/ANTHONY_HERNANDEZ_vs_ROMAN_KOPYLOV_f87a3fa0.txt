@@ -1,0 +1,14 @@
+Event: UFC 298: Volkanovski vs. Topuria
+    Date: February 17, 2024
+    Location: Anaheim, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANTHONY HERNANDEZ defeated ROMAN KOPYLOV via Submission  
+  at 3:23 of round 2
+  Key stats:
+  - ANTHONY HERNANDEZ landed 34 significant strikes
+  - ROMAN KOPYLOV landed 35 significant strikes
+  - Knockdowns: ANTHONY HERNANDEZ 0,  ROMAN KOPYLOV 0
+  - Takedowns: ANTHONY HERNANDEZ 3,  ROMAN KOPYLOV 0
+  Bonus: perf

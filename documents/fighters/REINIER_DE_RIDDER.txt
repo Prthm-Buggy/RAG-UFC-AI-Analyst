@@ -1,0 +1,11 @@
+Fighter: REINIER DE RIDDER
+  Date of Birth: 1990-09-07
+  Career record: 6
+  First fight: 2024-11-09
+  Last fight: 2026-03-07
+
+Career Statistics:
+- Significant Strikes Landed :203
+- Total takedowns landed :14
+- Knockdowns :2
+- Submission Attempts :3

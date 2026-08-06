@@ -1,0 +1,14 @@
+Event: UFC 100
+    Date: July 11, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: TOM LAWLOR defeated CB DOLLAWAY via Submission  
+  at 0:55 of round 1
+  Key stats:
+  - TOM LAWLOR landed 0 significant strikes
+  - CB DOLLAWAY landed 1 significant strikes
+  - Knockdowns: TOM LAWLOR 0,  CB DOLLAWAY 0
+  - Takedowns: TOM LAWLOR 0,  CB DOLLAWAY 0
+  Bonus: sub

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: De Randamie vs. Ladd
+    Date: July 13, 2019
+    Location: Sacramento, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: JOSH EMMETT defeated MIRSAD BEKTIC via KO/TKO  
+  at 4:25 of round 1
+  Key stats:
+  - JOSH EMMETT landed 27 significant strikes
+  - MIRSAD BEKTIC landed 10 significant strikes
+  - Knockdowns: JOSH EMMETT 1,  MIRSAD BEKTIC 0
+  - Takedowns: JOSH EMMETT 0,  MIRSAD BEKTIC 0
+  Bonus: perf

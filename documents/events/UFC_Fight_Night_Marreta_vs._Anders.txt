@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Marreta vs. Anders
+    Date : September 22, 2018
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Number of Fights: 13
+    Weight Classes: Welterweight, Light Heavyweight, Lightweight, Middleweight, Women's Strawweight, Bantamweight, Women's Flyweight, Heavyweight
+
+    Fight Results:
+  - LIVINHA SOUZA def. ALEX CHAMBERS via Submission(R1)
+- AUGUSTO SAKAI def. CHASE SHERMAN via KO/TKO(R3)
+- CHARLES OLIVEIRA def. CHRISTOS GIAGOS via Submission(R2)
+- RYAN SPANN def. LUIS HENRIQUE via Decision - Unanimous(R3)
+- THIAGO SANTOS def. ERYK ANDERS via KO/TKO(R3)
+- ELIZEU ZALESKI DOS SANTOS def. LUIGI VENDRAMINI via KO/TKO(R2)
+- FRANCISCO TRINALDO def. EVAN DUNHAM via KO/TKO(R2)
+- MAYRA BUENO SILVA def. GILLIAN ROBERTSON via Submission(R1)
+- ANDRE EWELL def. RENAN BARAO via Decision - Split(R3)
+- THALES LEITES def. HECTOR LOMBARD via Decision - Unanimous(R3)
+- SERGIO MORAES def. BEN SAUNDERS via Submission(R2)
+- ROGERIO NOGUEIRA def. SAM ALVEY via KO/TKO(R2)
+- ALEX OLIVEIRA def. CARLO PEDERSOLI JR. via KO/TKO(R1)

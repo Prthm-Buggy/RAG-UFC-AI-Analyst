@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kara-France vs. Albazi
+    Date: June 03, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DANIEL SANTOS defeated JOHNNY MUNOZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DANIEL SANTOS landed 50 significant strikes
+  - JOHNNY MUNOZ landed 18 significant strikes
+  - Knockdowns: DANIEL SANTOS 0,  JOHNNY MUNOZ 0
+  - Takedowns: DANIEL SANTOS 3,  JOHNNY MUNOZ 1

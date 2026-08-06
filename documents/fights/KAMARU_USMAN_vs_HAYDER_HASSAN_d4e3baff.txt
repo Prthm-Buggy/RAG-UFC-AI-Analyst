@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: American Top Team vs. Blackzilians Finale
+    Date: July 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: KAMARU USMAN defeated HAYDER HASSAN via Submission  
+  at 1:19 of round 2
+  Key stats:
+  - KAMARU USMAN landed 15 significant strikes
+  - HAYDER HASSAN landed 3 significant strikes
+  - Knockdowns: KAMARU USMAN 0,  HAYDER HASSAN 0
+  - Takedowns: KAMARU USMAN 6,  HAYDER HASSAN 0
+  Bonus: belt

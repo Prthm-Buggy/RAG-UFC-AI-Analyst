@@ -1,0 +1,11 @@
+Fighter: CARLOS PRATES
+  Date of Birth: 1993-08-17
+  Career record: 8
+  First fight: 2024-02-10
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :339
+- Total takedowns landed :1
+- Knockdowns :12
+- Submission Attempts :0

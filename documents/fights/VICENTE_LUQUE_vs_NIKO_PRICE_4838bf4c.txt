@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brunson vs. Machida
+    Date: October 28, 2017
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated NIKO PRICE via Submission  
+  at 4:08 of round 2
+  Key stats:
+  - VICENTE LUQUE landed 61 significant strikes
+  - NIKO PRICE landed 25 significant strikes
+  - Knockdowns: VICENTE LUQUE 1,  NIKO PRICE 0
+  - Takedowns: VICENTE LUQUE 0,  NIKO PRICE 0

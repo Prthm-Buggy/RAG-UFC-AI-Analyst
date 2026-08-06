@@ -1,0 +1,11 @@
+Fighter: BEN ASKREN
+  Date of Birth: 1984-07-18
+  Career record: 3
+  First fight: 2019-03-02
+  Last fight: 2019-10-26
+
+Career Statistics:
+- Significant Strikes Landed :63
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :1

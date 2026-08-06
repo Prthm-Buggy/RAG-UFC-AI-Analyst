@@ -1,0 +1,17 @@
+Event : UFC 108: Evans vs Silva
+    Date : January 02, 2010
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Lightweight, Welterweight, Middleweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - JIM MILLER def. DUANE LUDWIG via Submission(R1)
+- RASHAD EVANS def. THIAGO SILVA via Decision - Unanimous(R3)
+- JAKE ELLENBERGER def. MIKE PYLE via KO/TKO(R2)
+- MARTIN KAMPMANN def. JACOB VOLKMANN via Submission(R1)
+- RAFAELLO OLIVEIRA def. JOHN GUNDERSON via Decision - Unanimous(R3)
+- PAUL DALEY def. DUSTIN HAZELETT via KO/TKO(R1)
+- MARK MUNOZ def. RYAN JENSEN via KO/TKO(R1)
+- SAM STOUT def. JOE LAUZON via Decision - Unanimous(R3)
+- COLE MILLER def. DAN LAUZON via Submission(R1)
+- JUNIOR DOS SANTOS def. GILBERT YVEL via KO/TKO(R1)

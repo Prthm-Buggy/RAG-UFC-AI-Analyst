@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs Nelson
+    Date: September 20, 2014
+    Location: Saitama, Japan
+    Weight Class: Welterweight
+    
+
+    Result: HYUN GYU LIM defeated TAKENORI SATO via KO/TKO  
+  at 1:18 of round 1
+  Key stats:
+  - HYUN GYU LIM landed 10 significant strikes
+  - TAKENORI SATO landed 1 significant strikes
+  - Knockdowns: HYUN GYU LIM 1,  TAKENORI SATO 0
+  - Takedowns: HYUN GYU LIM 0,  TAKENORI SATO 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs Henderson 2
+    Date: November 09, 2013
+    Location: Goiania, Goias, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: DUSTIN ORTIZ defeated JOSE MARIA via KO/TKO  
+  at 3:19 of round 3
+  Key stats:
+  - DUSTIN ORTIZ landed 55 significant strikes
+  - JOSE MARIA landed 43 significant strikes
+  - Knockdowns: DUSTIN ORTIZ 0,  JOSE MARIA 0
+  - Takedowns: DUSTIN ORTIZ 4,  JOSE MARIA 2

@@ -1,0 +1,13 @@
+Event: UFC 105: Couture vs Vera
+    Date: November 14, 2009
+    Location: Manchester, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: ANDRE WINNER defeated ROLANDO DELGADO via KO/TKO  
+  at 3:22 of round 1
+  Key stats:
+  - ANDRE WINNER landed 14 significant strikes
+  - ROLANDO DELGADO landed 11 significant strikes
+  - Knockdowns: ANDRE WINNER 2,  ROLANDO DELGADO 0
+  - Takedowns: ANDRE WINNER 0,  ROLANDO DELGADO 0

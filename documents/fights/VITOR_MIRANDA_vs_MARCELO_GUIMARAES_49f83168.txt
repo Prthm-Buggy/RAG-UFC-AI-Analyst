@@ -1,0 +1,13 @@
+Event: UFC 196: McGregor vs Diaz
+    Date: March 05, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: VITOR MIRANDA defeated MARCELO GUIMARAES via KO/TKO  
+  at 1:09 of round 2
+  Key stats:
+  - VITOR MIRANDA landed 46 significant strikes
+  - MARCELO GUIMARAES landed 23 significant strikes
+  - Knockdowns: VITOR MIRANDA 0,  MARCELO GUIMARAES 0
+  - Takedowns: VITOR MIRANDA 0,  MARCELO GUIMARAES 1

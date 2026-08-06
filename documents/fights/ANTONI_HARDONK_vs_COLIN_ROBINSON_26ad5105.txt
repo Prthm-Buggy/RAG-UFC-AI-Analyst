@@ -1,0 +1,13 @@
+Event: UFC 80: Rapid Fire
+    Date: January 19, 2008
+    Location: Newcastle, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: ANTONI HARDONK defeated COLIN ROBINSON via KO/TKO  
+  at 0:17 of round 1
+  Key stats:
+  - ANTONI HARDONK landed 5 significant strikes
+  - COLIN ROBINSON landed 0 significant strikes
+  - Knockdowns: ANTONI HARDONK 1,  COLIN ROBINSON 0
+  - Takedowns: ANTONI HARDONK 0,  COLIN ROBINSON 0

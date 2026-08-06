@@ -1,0 +1,14 @@
+Event: UFC 238: Cejudo vs. Moraes
+    Date: June 08, 2019
+    Location: Chicago, Illinois, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: VALENTINA SHEVCHENKO defeated JESSICA EYE via KO/TKO  
+  at 0:26 of round 2
+  Key stats:
+  - VALENTINA SHEVCHENKO landed 8 significant strikes
+  - JESSICA EYE landed 2 significant strikes
+  - Knockdowns: VALENTINA SHEVCHENKO 1,  JESSICA EYE 0
+  - Takedowns: VALENTINA SHEVCHENKO 2,  JESSICA EYE 0
+  Bonus: belt

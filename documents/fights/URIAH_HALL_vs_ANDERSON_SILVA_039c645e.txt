@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hall vs. Silva
+    Date: October 31, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: URIAH HALL defeated ANDERSON SILVA via KO/TKO  
+  at 1:24 of round 4
+  Key stats:
+  - URIAH HALL landed 60 significant strikes
+  - ANDERSON SILVA landed 53 significant strikes
+  - Knockdowns: URIAH HALL 2,  ANDERSON SILVA 0
+  - Takedowns: URIAH HALL 0,  ANDERSON SILVA 0

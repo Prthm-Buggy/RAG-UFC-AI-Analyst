@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hendricks vs Thompson
+    Date: February 06, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PYLE defeated SEAN SPENCER via KO/TKO  
+  at 4:25 of round 3
+  Key stats:
+  - MIKE PYLE landed 75 significant strikes
+  - SEAN SPENCER landed 50 significant strikes
+  - Knockdowns: MIKE PYLE 0,  SEAN SPENCER 1
+  - Takedowns: MIKE PYLE 1,  SEAN SPENCER 0
+  Bonus: fight

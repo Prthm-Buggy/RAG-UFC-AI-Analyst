@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Kape vs. Almabayev
+    Date : March 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Women's Flyweight, Flyweight, Featherweight, Welterweight, Middleweight, Lightweight
+
+    Fight Results:
+  - CHEPE MARISCAL def. RICARDO RAMOS via Decision - Unanimous(R3)
+- HYDER AMIL def. WILLIAM GOMIS via Decision - Split(R3)
+- RAMAZAN TEMIROV def. CHARLES JOHNSON via Decision - Unanimous(R3)
+- MARIO PINTO def. AUSTEN LANE via KO/TKO(R2)
+- MANEL KAPE def. ASU ALMABAYEV via KO/TKO(R3)
+- SAM PATTERSON def. DANNY BARLOW via KO/TKO(R1)
+- NASRAT HAQPARAST def. ESTEBAN RIBOVICS via Decision - Split(R3)
+- DANNY SILVA def. LUCAS ALMEIDA via Decision - Split(R3)
+- CODY BRUNDAGE def. JULIAN MARQUEZ via KO/TKO(R1)
+- JJ ALDRICH def. ANDREA LEE via Decision - Unanimous(R3)

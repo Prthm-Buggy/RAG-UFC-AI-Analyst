@@ -1,0 +1,11 @@
+Fighter: NICK DIAZ
+  Date of Birth: 1983-08-02
+  Career record: 14
+  First fight: 2003-09-26
+  Last fight: 2021-09-25
+
+Career Statistics:
+- Significant Strikes Landed :795
+- Total takedowns landed :14
+- Knockdowns :3
+- Submission Attempts :13

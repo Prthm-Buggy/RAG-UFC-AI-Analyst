@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs. Benavidez 2
+    Date: December 14, 2013
+    Location: Sacramento, California, USA
+    Weight Class: Flyweight
+    
+
+    Result: ALPTEKIN OZKILIC defeated DARREN UYENOYAMA via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ALPTEKIN OZKILIC landed 27 significant strikes
+  - DARREN UYENOYAMA landed 33 significant strikes
+  - Knockdowns: ALPTEKIN OZKILIC 0,  DARREN UYENOYAMA 0
+  - Takedowns: ALPTEKIN OZKILIC 3,  DARREN UYENOYAMA 2

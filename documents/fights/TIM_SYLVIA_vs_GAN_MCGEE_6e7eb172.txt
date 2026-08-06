@@ -1,0 +1,14 @@
+Event: UFC 44: Undisputed
+    Date: September 26, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TIM SYLVIA defeated GAN MCGEE via KO/TKO  
+  at 1:54 of round 1
+  Key stats:
+  - TIM SYLVIA landed 10 significant strikes
+  - GAN MCGEE landed 7 significant strikes
+  - Knockdowns: TIM SYLVIA 1,  GAN MCGEE 0
+  - Takedowns: TIM SYLVIA 0,  GAN MCGEE 0
+  Bonus: belt

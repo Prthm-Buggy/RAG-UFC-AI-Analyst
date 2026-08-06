@@ -1,0 +1,11 @@
+Fighter: SODIQ YUSUFF
+  Date of Birth: 1993-05-19
+  Career record: 10
+  First fight: 2018-12-01
+  Last fight: 2025-05-17
+
+Career Statistics:
+- Significant Strikes Landed :539
+- Total takedowns landed :3
+- Knockdowns :3
+- Submission Attempts :3

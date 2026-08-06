@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edgar vs. The Korean Zombie
+    Date: December 21, 2019
+    Location: Busan, South Korea
+    Weight Class: Featherweight
+    
+
+    Result: CHAN SUNG JUNG defeated FRANKIE EDGAR via KO/TKO  
+  at 3:18 of round 1
+  Key stats:
+  - CHAN SUNG JUNG landed 46 significant strikes
+  - FRANKIE EDGAR landed 9 significant strikes
+  - Knockdowns: CHAN SUNG JUNG 1,  FRANKIE EDGAR 0
+  - Takedowns: CHAN SUNG JUNG 0,  FRANKIE EDGAR 0
+  Bonus: perf

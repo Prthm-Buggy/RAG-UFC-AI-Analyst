@@ -1,0 +1,13 @@
+Event: UFC 286: Edwards vs. Usman 3
+    Date: March 18, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: YANAL ASHMOUZ defeated SAM PATTERSON via KO/TKO  
+  at 1:15 of round 1
+  Key stats:
+  - YANAL ASHMOUZ landed 15 significant strikes
+  - SAM PATTERSON landed 2 significant strikes
+  - Knockdowns: YANAL ASHMOUZ 0,  SAM PATTERSON 0
+  - Takedowns: YANAL ASHMOUZ 1,  SAM PATTERSON 0

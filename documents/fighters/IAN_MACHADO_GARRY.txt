@@ -1,0 +1,11 @@
+Fighter: IAN MACHADO GARRY
+  Date of Birth: 1997-11-17
+  Career record: 11
+  First fight: 2021-11-06
+  Last fight: 2025-11-22
+
+Career Statistics:
+- Significant Strikes Landed :775
+- Total takedowns landed :10
+- Knockdowns :4
+- Submission Attempts :4

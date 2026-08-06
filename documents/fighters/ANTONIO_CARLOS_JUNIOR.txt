@@ -1,0 +1,11 @@
+Fighter: ANTONIO CARLOS JUNIOR
+  Date of Birth: 1990-03-16
+  Career record: 12
+  First fight: 2014-05-31
+  Last fight: 2021-01-23
+
+Career Statistics:
+- Significant Strikes Landed :289
+- Total takedowns landed :34
+- Knockdowns :0
+- Submission Attempts :8

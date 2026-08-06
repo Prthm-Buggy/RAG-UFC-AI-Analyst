@@ -1,0 +1,13 @@
+Event: UFC 139: Shogun vs Henderson
+    Date: November 19, 2011
+    Location: San Jose, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: SETH BACZYNSKI defeated MATT BROWN via Submission  
+  at 0:42 of round 2
+  Key stats:
+  - SETH BACZYNSKI landed 17 significant strikes
+  - MATT BROWN landed 19 significant strikes
+  - Knockdowns: SETH BACZYNSKI 0,  MATT BROWN 0
+  - Takedowns: SETH BACZYNSKI 1,  MATT BROWN 1

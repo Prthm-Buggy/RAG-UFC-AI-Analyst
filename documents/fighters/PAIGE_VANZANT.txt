@@ -1,0 +1,11 @@
+Fighter: PAIGE VANZANT
+  Date of Birth: 1994-03-26
+  Career record: 9
+  First fight: 2014-11-22
+  Last fight: 2020-07-11
+
+Career Statistics:
+- Significant Strikes Landed :315
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :6

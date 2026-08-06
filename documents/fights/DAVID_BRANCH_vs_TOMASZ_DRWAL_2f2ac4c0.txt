@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Marquardt vs Palhares
+    Date: September 15, 2010
+    Location: Austin, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAVID BRANCH defeated TOMASZ DRWAL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DAVID BRANCH landed 15 significant strikes
+  - TOMASZ DRWAL landed 10 significant strikes
+  - Knockdowns: DAVID BRANCH 0,  TOMASZ DRWAL 0
+  - Takedowns: DAVID BRANCH 3,  TOMASZ DRWAL 0

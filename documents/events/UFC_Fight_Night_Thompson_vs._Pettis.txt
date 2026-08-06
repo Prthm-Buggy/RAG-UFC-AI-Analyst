@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Thompson vs. Pettis
+    Date : March 23, 2019
+    Location: Nashville, Tennessee, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Women's Flyweight, Bantamweight, Lightweight, Welterweight, Flyweight, Featherweight, Women's Strawweight
+
+    Fight Results:
+  - MAYCEE BARBER def. JJ ALDRICH via KO/TKO(R2)
+- CURTIS BLAYDES def. JUSTIN WILLIS via Decision - Unanimous(R3)
+- CHRIS GUTIERREZ def. RYAN MACDONALD via Decision - Unanimous(R3)
+- JENNIFER MAIA def. ALEXIS DAVIS via Decision - Unanimous(R3)
+- MARLON VERA def. FRANKIE SAENZ via KO/TKO(R1)
+- JORDAN ESPINOSA def. ERIC SHELTON via Decision - Unanimous(R3)
+- LUIS PENA def. STEVEN PETERSON via Decision - Unanimous(R3)
+- ANTHONY PETTIS def. STEPHEN THOMPSON via KO/TKO(R2)
+- JUSSIER FORMIGA def. DEIVESON FIGUEIREDO via Decision - Unanimous(R3)
+- RANDA MARKOS def. ANGELA HILL via Submission(R1)
+- JOHN MAKDESSI def. JESUS PINEDO via Decision - Unanimous(R3)
+- BRYCE MITCHELL def. BOBBY MOFFETT via Decision - Unanimous(R3)

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ortega vs. The Korean Zombie
+    Date: October 17, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Featherweight
+    
+
+    Result: BRIAN ORTEGA defeated CHAN SUNG JUNG via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - BRIAN ORTEGA landed 127 significant strikes
+  - CHAN SUNG JUNG landed 62 significant strikes
+  - Knockdowns: BRIAN ORTEGA 2,  CHAN SUNG JUNG 0
+  - Takedowns: BRIAN ORTEGA 3,  CHAN SUNG JUNG 0

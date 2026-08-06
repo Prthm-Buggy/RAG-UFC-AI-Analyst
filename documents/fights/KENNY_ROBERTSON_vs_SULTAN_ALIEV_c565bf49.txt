@@ -1,0 +1,14 @@
+Event: UFC on FOX: Gustafsson vs Johnson
+    Date: January 24, 2015
+    Location: Stockholm, Sweden
+    Weight Class: Welterweight
+    
+
+    Result: KENNY ROBERTSON defeated SULTAN ALIEV via KO/TKO  
+  at 2:42 of round 1
+  Key stats:
+  - KENNY ROBERTSON landed 14 significant strikes
+  - SULTAN ALIEV landed 8 significant strikes
+  - Knockdowns: KENNY ROBERTSON 1,  SULTAN ALIEV 0
+  - Takedowns: KENNY ROBERTSON 0,  SULTAN ALIEV 0
+  Bonus: perf

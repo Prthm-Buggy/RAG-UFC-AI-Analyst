@@ -1,0 +1,13 @@
+Event: UFC 141: Lesnar vs Overeem
+    Date: December 30, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEXANDER GUSTAFSSON defeated VLADIMIR MATYUSHENKO via KO/TKO  
+  at 2:13 of round 1
+  Key stats:
+  - ALEXANDER GUSTAFSSON landed 10 significant strikes
+  - VLADIMIR MATYUSHENKO landed 5 significant strikes
+  - Knockdowns: ALEXANDER GUSTAFSSON 1,  VLADIMIR MATYUSHENKO 0
+  - Takedowns: ALEXANDER GUSTAFSSON 0,  VLADIMIR MATYUSHENKO 0

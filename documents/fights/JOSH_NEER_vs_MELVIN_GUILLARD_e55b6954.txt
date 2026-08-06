@@ -1,0 +1,14 @@
+Event: UFC Fight Night 3
+    Date: January 16, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSH NEER defeated MELVIN GUILLARD via Submission  
+  at 4:20 of round 1
+  Key stats:
+  - JOSH NEER landed 3 significant strikes
+  - MELVIN GUILLARD landed 11 significant strikes
+  - Knockdowns: JOSH NEER 0,  MELVIN GUILLARD 0
+  - Takedowns: JOSH NEER 1,  MELVIN GUILLARD 2
+  Bonus: fight

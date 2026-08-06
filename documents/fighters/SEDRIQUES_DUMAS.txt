@@ -1,0 +1,11 @@
+Fighter: SEDRIQUES DUMAS
+  Date of Birth: 1995-08-06
+  Career record: 8
+  First fight: 2023-03-11
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :132
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Bonfim vs. Brown
+    Date : November 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Welterweight, Flyweight, Featherweight, Women's Bantamweight, Middleweight, Women's Strawweight, Catch Weight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - CHRISTIAN LEROY DUNCAN def. MARCO TULIO via KO/TKO(R2)
+- DANIEL MARCOS def. MILES JOHNS via Submission(R2)
+- JAMALL EMMERS def. HYDER AMIL via Decision - Unanimous(R3)
+- ZACH REESE def. Jackson McVey via Submission(R2)
+- UROS MEDIC def. MUSLIM SALIKHOV via KO/TKO(R1)
+- CHRIS PADILLA def. ISMAEL BONFIM via KO/TKO(R2)
+- JACQUELINE CAVALCANTI def. MAYRA BUENO SILVA via Decision - Unanimous(R3)
+- GABRIEL BONFIM def. RANDY BROWN via KO/TKO(R2)
+- RAONI BARCELOS def. RICKY SIMON via Decision - Unanimous(R3)
+- JOSEPH MORALES def. MATT SCHNELL via Submission(R1)
+- DENISE GOMES def. TECIA PENNINGTON via Decision - Unanimous(R3)
+- JOSH HOKIT def. MAX GIMENIS via KO/TKO(R1)

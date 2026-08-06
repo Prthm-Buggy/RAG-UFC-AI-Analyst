@@ -1,0 +1,11 @@
+Fighter: SHINSHO ANZAI
+  Date of Birth: 1985-12-01
+  Career record: 4
+  First fight: 2014-08-23
+  Last fight: 2018-06-23
+
+Career Statistics:
+- Significant Strikes Landed :106
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

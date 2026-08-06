@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Johnson
+    Date: September 17, 2016
+    Location: Hidalgo, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANTONIO CARLOS JUNIOR defeated LEONARDO GUIMARAES via Submission  
+  at 4:46 of round 3
+  Key stats:
+  - ANTONIO CARLOS JUNIOR landed 32 significant strikes
+  - LEONARDO GUIMARAES landed 6 significant strikes
+  - Knockdowns: ANTONIO CARLOS JUNIOR 0,  LEONARDO GUIMARAES 0
+  - Takedowns: ANTONIO CARLOS JUNIOR 7,  LEONARDO GUIMARAES 0

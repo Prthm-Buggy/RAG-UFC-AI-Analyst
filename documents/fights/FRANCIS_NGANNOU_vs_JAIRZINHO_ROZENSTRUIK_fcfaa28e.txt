@@ -1,0 +1,14 @@
+Event: UFC 249: Ferguson vs. Gaethje
+    Date: May 09, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANCIS NGANNOU defeated JAIRZINHO ROZENSTRUIK via KO/TKO  
+  at 0:20 of round 1
+  Key stats:
+  - FRANCIS NGANNOU landed 6 significant strikes
+  - JAIRZINHO ROZENSTRUIK landed 5 significant strikes
+  - Knockdowns: FRANCIS NGANNOU 1,  JAIRZINHO ROZENSTRUIK 0
+  - Takedowns: FRANCIS NGANNOU 0,  JAIRZINHO ROZENSTRUIK 0
+  Bonus: perf

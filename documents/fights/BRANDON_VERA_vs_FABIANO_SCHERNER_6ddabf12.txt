@@ -1,0 +1,13 @@
+Event: UFC Fight Night 2
+    Date: October 03, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BRANDON VERA defeated FABIANO SCHERNER via KO/TKO  
+  at 3:22 of round 2
+  Key stats:
+  - BRANDON VERA landed 28 significant strikes
+  - FABIANO SCHERNER landed 10 significant strikes
+  - Knockdowns: BRANDON VERA 2,  FABIANO SCHERNER 0
+  - Takedowns: BRANDON VERA 0,  FABIANO SCHERNER 1

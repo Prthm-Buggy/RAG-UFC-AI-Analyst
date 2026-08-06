@@ -1,0 +1,13 @@
+Event: UFC 55: Fury
+    Date: October 07, 2005
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARCIO CRUZ defeated KEIGO KUNIHARA via Submission  
+  at 1:02 of round 2
+  Key stats:
+  - MARCIO CRUZ landed 12 significant strikes
+  - KEIGO KUNIHARA landed 1 significant strikes
+  - Knockdowns: MARCIO CRUZ 0,  KEIGO KUNIHARA 0
+  - Takedowns: MARCIO CRUZ 0,  KEIGO KUNIHARA 2

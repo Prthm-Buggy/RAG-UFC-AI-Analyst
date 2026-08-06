@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vera vs. Cruz
+    Date: August 13, 2022
+    Location: San Diego, California, USA
+    Weight Class: Catch Weight
+    
+
+    Result: JOSH QUINLAN defeated JASON WITT via KO/TKO  
+  at 2:09 of round 1
+  Key stats:
+  - JOSH QUINLAN landed 3 significant strikes
+  - JASON WITT landed 1 significant strikes
+  - Knockdowns: JOSH QUINLAN 1,  JASON WITT 0
+  - Takedowns: JOSH QUINLAN 0,  JASON WITT 1

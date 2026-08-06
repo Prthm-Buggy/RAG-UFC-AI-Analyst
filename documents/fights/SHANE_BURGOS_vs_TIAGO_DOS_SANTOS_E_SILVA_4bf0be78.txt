@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Abdurakhimov
+    Date: December 09, 2016
+    Location: Albany, New York, USA
+    Weight Class: Featherweight
+    
+
+    Result: SHANE BURGOS defeated TIAGO DOS SANTOS E SILVA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SHANE BURGOS landed 73 significant strikes
+  - TIAGO DOS SANTOS E SILVA landed 56 significant strikes
+  - Knockdowns: SHANE BURGOS 1,  TIAGO DOS SANTOS E SILVA 0
+  - Takedowns: SHANE BURGOS 1,  TIAGO DOS SANTOS E SILVA 1

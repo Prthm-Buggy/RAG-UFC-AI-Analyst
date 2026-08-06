@@ -1,0 +1,13 @@
+Event: UFC on FOX: Machida vs Rockhold
+    Date: April 18, 2015
+    Location: Newark, New Jersey, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALJAMAIN STERLING defeated TAKEYA MIZUGAKI via Submission  
+  at 2:11 of round 3
+  Key stats:
+  - ALJAMAIN STERLING landed 32 significant strikes
+  - TAKEYA MIZUGAKI landed 13 significant strikes
+  - Knockdowns: ALJAMAIN STERLING 0,  TAKEYA MIZUGAKI 0
+  - Takedowns: ALJAMAIN STERLING 3,  TAKEYA MIZUGAKI 0

@@ -1,0 +1,11 @@
+Fighter: DAMIAN PINAS
+  Date of Birth: 2002-03-12
+  Career record: 1
+  First fight: 2026-02-28
+  Last fight: 2026-02-28
+
+Career Statistics:
+- Significant Strikes Landed :15
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

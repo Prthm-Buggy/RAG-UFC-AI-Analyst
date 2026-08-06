@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. Till
+    Date: July 25, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: PAUL CRAIG defeated GADZHIMURAD ANTIGULOV via Submission  
+  at 2:06 of round 1
+  Key stats:
+  - PAUL CRAIG landed 2 significant strikes
+  - GADZHIMURAD ANTIGULOV landed 11 significant strikes
+  - Knockdowns: PAUL CRAIG 0,  GADZHIMURAD ANTIGULOV 0
+  - Takedowns: PAUL CRAIG 0,  GADZHIMURAD ANTIGULOV 1
+  Bonus: perf

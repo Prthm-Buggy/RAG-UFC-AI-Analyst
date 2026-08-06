@@ -1,0 +1,11 @@
+Fighter: CHASE GORMLEY
+  Date of Birth: 1983-08-11
+  Career record: 2
+  First fight: 2009-10-24
+  Last fight: 2010-03-21
+
+Career Statistics:
+- Significant Strikes Landed :10
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: UFC 283: Teixeira vs. Hill
+    Date: January 21, 2023
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: GILBERT BURNS defeated NEIL MAGNY via Submission  
+  at 4:15 of round 1
+  Key stats:
+  - GILBERT BURNS landed 5 significant strikes
+  - NEIL MAGNY landed 4 significant strikes
+  - Knockdowns: GILBERT BURNS 0,  NEIL MAGNY 0
+  - Takedowns: GILBERT BURNS 1,  NEIL MAGNY 0

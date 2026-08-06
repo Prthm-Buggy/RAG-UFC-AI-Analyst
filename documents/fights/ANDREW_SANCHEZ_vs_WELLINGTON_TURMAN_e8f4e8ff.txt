@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Oleinik
+    Date: August 08, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDREW SANCHEZ defeated WELLINGTON TURMAN via KO/TKO  
+  at 4:14 of round 1
+  Key stats:
+  - ANDREW SANCHEZ landed 28 significant strikes
+  - WELLINGTON TURMAN landed 21 significant strikes
+  - Knockdowns: ANDREW SANCHEZ 1,  WELLINGTON TURMAN 0
+  - Takedowns: ANDREW SANCHEZ 0,  WELLINGTON TURMAN 0
+  Bonus: perf

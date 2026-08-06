@@ -1,0 +1,18 @@
+Event : UFC 123: Rampage vs Machida
+    Date : November 20, 2010
+    Location: Auburn Hills, Michigan, USA
+    Number of Fights: 11
+    Weight Classes: Lightweight, Welterweight, Middleweight, Light Heavyweight
+
+    Fight Results:
+  - MARK MUNOZ def. AARON SIMPSON via Decision - Unanimous(R3)
+- MAIQUEL FALCAO def. GERALD HARRIS via Decision - Unanimous(R3)
+- EDSON BARBOZA def. MIKE LULLO via KO/TKO(R3)
+- NIK LENTZ def. TYSON GRIFFIN via Decision - Split(R3)
+- PHIL DAVIS def. TIM BOETSCH via Submission(R2)
+- DENNIS HALLMAN def. KARO PARISYAN via KO/TKO(R1)
+- BJ PENN def. MATT HUGHES via KO/TKO(R1)
+- QUINTON JACKSON def. LYOTO MACHIDA via Decision - Split(R3)
+- GEORGE SOTIROPOULOS def. JOE LAUZON via Submission(R2)
+- BRIAN FOSTER def. MATT BROWN via Submission(R2)
+- PAUL KELLY def. TJ O'BRIEN via KO/TKO(R2)

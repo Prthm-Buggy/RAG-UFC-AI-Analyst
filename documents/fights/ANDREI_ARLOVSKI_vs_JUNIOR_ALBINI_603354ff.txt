@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Pettis
+    Date: November 11, 2017
+    Location: Norfolk, Virginia, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated JUNIOR ALBINI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ANDREI ARLOVSKI landed 92 significant strikes
+  - JUNIOR ALBINI landed 48 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 0,  JUNIOR ALBINI 0
+  - Takedowns: ANDREI ARLOVSKI 0,  JUNIOR ALBINI 0

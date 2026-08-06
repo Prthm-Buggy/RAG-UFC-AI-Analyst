@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Henderson vs Thatch
+    Date: February 14, 2015
+    Location: Broomfield, Colorado, USA
+    Weight Class: Welterweight
+    
+
+    Result: NEIL MAGNY defeated KIICHI KUNIMOTO via Submission  
+  at 1:22 of round 3
+  Key stats:
+  - NEIL MAGNY landed 76 significant strikes
+  - KIICHI KUNIMOTO landed 10 significant strikes
+  - Knockdowns: NEIL MAGNY 0,  KIICHI KUNIMOTO 0
+  - Takedowns: NEIL MAGNY 3,  KIICHI KUNIMOTO 1
+  Bonus: perf

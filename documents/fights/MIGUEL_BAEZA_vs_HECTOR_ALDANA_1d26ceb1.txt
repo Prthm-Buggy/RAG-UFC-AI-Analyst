@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Joanna vs. Waterson
+    Date: October 12, 2019
+    Location: Tampa, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIGUEL BAEZA defeated HECTOR ALDANA via KO/TKO  
+  at 2:32 of round 2
+  Key stats:
+  - MIGUEL BAEZA landed 35 significant strikes
+  - HECTOR ALDANA landed 8 significant strikes
+  - Knockdowns: MIGUEL BAEZA 1,  HECTOR ALDANA 0
+  - Takedowns: MIGUEL BAEZA 1,  HECTOR ALDANA 0

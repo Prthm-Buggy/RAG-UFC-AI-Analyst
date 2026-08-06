@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs Bisping
+    Date: November 07, 2014
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Welterweight
+    
+
+    Result: CHRIS CLEMENTS defeated VIK GRUJIC via KO/TKO  
+  at 3:06 of round 1
+  Key stats:
+  - CHRIS CLEMENTS landed 25 significant strikes
+  - VIK GRUJIC landed 7 significant strikes
+  - Knockdowns: CHRIS CLEMENTS 0,  VIK GRUJIC 0
+  - Takedowns: CHRIS CLEMENTS 0,  VIK GRUJIC 1

@@ -1,0 +1,13 @@
+Event: UFC 93: Franklin vs Henderson
+    Date: January 17, 2009
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Light Heavyweight
+    
+
+    Result: TOMASZ DRWAL defeated IVAN SERATI via KO/TKO  
+  at 2:02 of round 1
+  Key stats:
+  - TOMASZ DRWAL landed 14 significant strikes
+  - IVAN SERATI landed 3 significant strikes
+  - Knockdowns: TOMASZ DRWAL 0,  IVAN SERATI 0
+  - Takedowns: TOMASZ DRWAL 1,  IVAN SERATI 0

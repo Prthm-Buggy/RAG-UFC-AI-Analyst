@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Jones vs. Team Sonnen Finale
+    Date: April 13, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: KELVIN GASTELUM defeated URIAH HALL via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - KELVIN GASTELUM landed 31 significant strikes
+  - URIAH HALL landed 44 significant strikes
+  - Knockdowns: KELVIN GASTELUM 0,  URIAH HALL 0
+  - Takedowns: KELVIN GASTELUM 3,  URIAH HALL 2
+  Bonus: belt

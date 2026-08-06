@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Henderson vs Masvidal
+    Date : November 28, 2015
+    Location: Seoul, South Korea
+    Number of Fights: 11
+    Weight Classes: Welterweight, Featherweight, Lightweight, Women's Strawweight, Flyweight, Middleweight, Bantamweight
+
+    Fight Results:
+  - FREDY SERRANO def. YAO ZHIKUI via KO/TKO(R1)
+- MIKE DE LA TORRE def. YUI CHUL NAM via Decision - Split(R3)
+- MARCO BELTRAN def. GUANGYOU NING via Decision - Split(R3)
+- DOOHO CHOI def. SAM SICILIA via KO/TKO(R1)
+- ALBERTO MINA def. YOSHIHIRO AKIYAMA via Decision - Split(R3)
+- DOMINIQUE STEELE def. DONG HYUN MA via KO/TKO(R3)
+- DONGI YANG def. JAKE COLLIER via KO/TKO(R2)
+- SEO HEE HAM def. CORTNEY CASEY via Decision - Unanimous(R3)
+- BENSON HENDERSON def. JORGE MASVIDAL via Decision - Split(R5)
+- TAE HYUN BANG def. LEO KUNTZ via Decision - Split(R3)
+- DONG HYUN KIM def. DOMINIC WATERS via KO/TKO(R1)

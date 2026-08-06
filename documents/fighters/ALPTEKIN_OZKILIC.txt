@@ -1,0 +1,11 @@
+Fighter: ALPTEKIN OZKILIC
+  Date of Birth: 1986-03-27
+  Career record: 4
+  First fight: 2013-12-14
+  Last fight: 2015-05-09
+
+Career Statistics:
+- Significant Strikes Landed :190
+- Total takedowns landed :14
+- Knockdowns :0
+- Submission Attempts :0

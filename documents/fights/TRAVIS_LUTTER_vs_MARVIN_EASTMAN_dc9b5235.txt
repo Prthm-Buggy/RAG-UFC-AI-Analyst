@@ -1,0 +1,13 @@
+Event: UFC 50: The War Of '04
+    Date: October 22, 2004
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TRAVIS LUTTER defeated MARVIN EASTMAN via KO/TKO  
+  at 0:33 of round 2
+  Key stats:
+  - TRAVIS LUTTER landed 1 significant strikes
+  - MARVIN EASTMAN landed 10 significant strikes
+  - Knockdowns: TRAVIS LUTTER 1,  MARVIN EASTMAN 0
+  - Takedowns: TRAVIS LUTTER 0,  MARVIN EASTMAN 0

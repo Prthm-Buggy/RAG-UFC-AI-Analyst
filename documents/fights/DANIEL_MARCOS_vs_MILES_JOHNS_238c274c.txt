@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bonfim vs. Brown
+    Date: November 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DANIEL MARCOS defeated MILES JOHNS via Submission  
+  at 4:23 of round 2
+  Key stats:
+  - DANIEL MARCOS landed 27 significant strikes
+  - MILES JOHNS landed 28 significant strikes
+  - Knockdowns: DANIEL MARCOS 0,  MILES JOHNS 0
+  - Takedowns: DANIEL MARCOS 3,  MILES JOHNS 0

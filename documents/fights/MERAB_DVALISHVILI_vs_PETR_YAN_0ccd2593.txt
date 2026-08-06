@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yan vs. Dvalishvili
+    Date: March 11, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MERAB DVALISHVILI defeated PETR YAN via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MERAB DVALISHVILI landed 147 significant strikes
+  - PETR YAN landed 75 significant strikes
+  - Knockdowns: MERAB DVALISHVILI 0,  PETR YAN 0
+  - Takedowns: MERAB DVALISHVILI 11,  PETR YAN 1

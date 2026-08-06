@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yan vs. Figueiredo
+    Date: November 23, 2024
+    Location: Macau, China
+    Weight Class: Lightweight
+    
+
+    Result: NIKOLAS MOTTA defeated MAHESHATE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NIKOLAS MOTTA landed 78 significant strikes
+  - MAHESHATE landed 56 significant strikes
+  - Knockdowns: NIKOLAS MOTTA 2,  MAHESHATE 0
+  - Takedowns: NIKOLAS MOTTA 0,  MAHESHATE 0

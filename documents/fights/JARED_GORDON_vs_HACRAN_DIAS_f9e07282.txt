@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brunson vs. Machida
+    Date: October 28, 2017
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: JARED GORDON defeated HACRAN DIAS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JARED GORDON landed 101 significant strikes
+  - HACRAN DIAS landed 32 significant strikes
+  - Knockdowns: JARED GORDON 0,  HACRAN DIAS 0
+  - Takedowns: JARED GORDON 2,  HACRAN DIAS 0

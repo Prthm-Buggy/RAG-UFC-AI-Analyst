@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs Gastelum
+    Date: November 21, 2015
+    Location: Monterrey, Nuevo Leon, Mexico
+    Weight Class: Bantamweight
+    
+
+    Result: ERIK PEREZ defeated TAYLOR LAPILUS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ERIK PEREZ landed 31 significant strikes
+  - TAYLOR LAPILUS landed 20 significant strikes
+  - Knockdowns: ERIK PEREZ 0,  TAYLOR LAPILUS 1
+  - Takedowns: ERIK PEREZ 1,  TAYLOR LAPILUS 0

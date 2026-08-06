@@ -1,0 +1,14 @@
+Event: UFC on FOX: Henderson vs Melendez
+    Date: April 20, 2013
+    Location: San Jose, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENSON HENDERSON defeated GILBERT MELENDEZ via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - BENSON HENDERSON landed 68 significant strikes
+  - GILBERT MELENDEZ landed 43 significant strikes
+  - Knockdowns: BENSON HENDERSON 0,  GILBERT MELENDEZ 0
+  - Takedowns: BENSON HENDERSON 0,  GILBERT MELENDEZ 1
+  Bonus: belt

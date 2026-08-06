@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gane vs. Tuivasa
+    Date: September 03, 2022
+    Location: Paris, Ile-de-France, France
+    Weight Class: Bantamweight
+    
+
+    Result: CRISTIAN QUINONEZ defeated KHALID TAHA via KO/TKO  
+  at 3:15 of round 1
+  Key stats:
+  - CRISTIAN QUINONEZ landed 19 significant strikes
+  - KHALID TAHA landed 6 significant strikes
+  - Knockdowns: CRISTIAN QUINONEZ 0,  KHALID TAHA 0
+  - Takedowns: CRISTIAN QUINONEZ 0,  KHALID TAHA 0

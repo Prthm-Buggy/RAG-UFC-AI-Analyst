@@ -1,0 +1,11 @@
+Fighter: STEVE GARCIA
+  Date of Birth: 1992-05-22
+  Career record: 11
+  First fight: 2020-02-29
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :339
+- Total takedowns landed :4
+- Knockdowns :8
+- Submission Attempts :2

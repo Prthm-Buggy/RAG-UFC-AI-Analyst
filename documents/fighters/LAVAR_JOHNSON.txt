@@ -1,0 +1,11 @@
+Fighter: LAVAR JOHNSON
+  Date of Birth: 1977-06-11
+  Career record: 4
+  First fight: 2012-01-28
+  Last fight: 2013-02-23
+
+Career Statistics:
+- Significant Strikes Landed :144
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :0

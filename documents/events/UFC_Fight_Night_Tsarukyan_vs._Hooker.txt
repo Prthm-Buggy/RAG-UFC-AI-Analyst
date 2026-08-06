@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Tsarukyan vs. Hooker
+    Date : November 22, 2025
+    Location: Doha, Qatar
+    Number of Fights: 14
+    Weight Classes: Lightweight, Welterweight, Middleweight, Light Heavyweight, Flyweight, Featherweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - MYKTYBEK OROLBAI def. JACK HERMANSSON via KO/TKO(R1)
+- WALDO CORTES ACOSTA def. SHAMIL GAZIEV via KO/TKO(R1)
+- LUKE RILEY def. BOGDAN GRAD via KO/TKO(R2)
+- DENZEL FREEMAN def. MAREK BUJLO via Decision - Unanimous(R3)
+- ALEKSANDRE TOPURIA def. BEKZAT ALMAKHAN via Decision - Unanimous(R3)
+- NURULLO ALIEV def. SHEM ROCK via Decision - Unanimous(R3)
+- KYOJI HORIGUCHI def. TAGIR ULANBEKOV via Submission(R3)
+- ISMAIL NAURDIEV def. RYAN LODER via KO/TKO(R1)
+- IAN MACHADO GARRY def. BELAL MUHAMMAD via Decision - Unanimous(R3)
+- ASU ALMABAYEV def. ALEX PEREZ via Submission(R3)
+- VOLKAN OEZDEMIR def. ALONZO MENIFIELD via KO/TKO(R1)
+- ARMAN TSARUKYAN def. DAN HOOKER via Submission(R2)
+- NICOLAS DALBY def. SAYGID IZAGAKHMAEV via Decision - Split(R3)
+- ABDUL RAKHMAN YAKHYAEV def. RAFAEL CERQUEIRA via Submission(R1)

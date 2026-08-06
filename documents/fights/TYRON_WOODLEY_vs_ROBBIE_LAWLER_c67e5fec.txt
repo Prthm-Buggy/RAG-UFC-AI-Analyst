@@ -1,0 +1,14 @@
+Event: UFC 201: Lawler vs. Woodley
+    Date: July 30, 2016
+    Location: Atlanta, Georgia, USA
+    Weight Class: Welterweight
+    
+
+    Result: TYRON WOODLEY defeated ROBBIE LAWLER via KO/TKO  
+  at 2:12 of round 1
+  Key stats:
+  - TYRON WOODLEY landed 8 significant strikes
+  - ROBBIE LAWLER landed 3 significant strikes
+  - Knockdowns: TYRON WOODLEY 1,  ROBBIE LAWLER 0
+  - Takedowns: TYRON WOODLEY 0,  ROBBIE LAWLER 0
+  Bonus: belt

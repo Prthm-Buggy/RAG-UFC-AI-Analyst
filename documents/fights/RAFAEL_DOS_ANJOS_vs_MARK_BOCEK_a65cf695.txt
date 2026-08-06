@@ -1,0 +1,13 @@
+Event: UFC 154: St-Pierre vs Condit
+    Date: November 17, 2012
+    Location: Montreal, Quebec, Canada
+    Weight Class: Lightweight
+    
+
+    Result: RAFAEL DOS ANJOS defeated MARK BOCEK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAFAEL DOS ANJOS landed 54 significant strikes
+  - MARK BOCEK landed 19 significant strikes
+  - Knockdowns: RAFAEL DOS ANJOS 0,  MARK BOCEK 0
+  - Takedowns: RAFAEL DOS ANJOS 4,  MARK BOCEK 0

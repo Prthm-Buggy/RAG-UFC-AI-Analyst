@@ -1,0 +1,14 @@
+Event: UFC 130: Rampage vs Hamill
+    Date: May 28, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: GLEISON TIBAU defeated RAFAELLO OLIVEIRA via Submission  
+  at 3:28 of round 2
+  Key stats:
+  - GLEISON TIBAU landed 19 significant strikes
+  - RAFAELLO OLIVEIRA landed 12 significant strikes
+  - Knockdowns: GLEISON TIBAU 1,  RAFAELLO OLIVEIRA 0
+  - Takedowns: GLEISON TIBAU 3,  RAFAELLO OLIVEIRA 0
+  Bonus: sub

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Lauzon
+    Date: April 02, 2008
+    Location: Broomfield, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: CLAY GUIDA defeated SAMY SCHIAVO via KO/TKO  
+  at 4:15 of round 1
+  Key stats:
+  - CLAY GUIDA landed 11 significant strikes
+  - SAMY SCHIAVO landed 4 significant strikes
+  - Knockdowns: CLAY GUIDA 0,  SAMY SCHIAVO 0
+  - Takedowns: CLAY GUIDA 1,  SAMY SCHIAVO 0

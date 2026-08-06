@@ -1,0 +1,13 @@
+Event: UFC 38: Brawl at the Hall
+    Date: July 13, 2002
+    Location: London, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: MARK WEIR defeated EUGENE JACKSON via KO/TKO  
+  at 0:10 of round 1
+  Key stats:
+  - MARK WEIR landed 4 significant strikes
+  - EUGENE JACKSON landed 0 significant strikes
+  - Knockdowns: MARK WEIR 1,  EUGENE JACKSON 0
+  - Takedowns: MARK WEIR 0,  EUGENE JACKSON 0

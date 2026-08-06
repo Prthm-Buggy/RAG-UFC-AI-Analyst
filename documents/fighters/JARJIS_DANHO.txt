@@ -1,0 +1,11 @@
+Fighter: JARJIS DANHO
+  Date of Birth: 1983-10-15
+  Career record: 2
+  First fight: 2016-02-27
+  Last fight: 2021-04-10
+
+Career Statistics:
+- Significant Strikes Landed :48
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

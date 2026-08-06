@@ -1,0 +1,17 @@
+Event : UFC 183: Silva vs Diaz
+    Date : January 31, 2015
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Middleweight, Flyweight, Women's Bantamweight, Welterweight, Lightweight
+
+    Fight Results:
+  - DEREK BRUNSON def. ED HERMAN via KO/TKO(R1)
+- ILDEMAR ALCANTARA def. RICHARDSON MOREIRA via Decision - Split(R3)
+- RAFAEL NATAL def. TOM WATSON via Decision - Unanimous(R3)
+- MIESHA TATE def. SARA MCMANN via Decision - Majority(R3)
+- JOHN LINEKER def. IAN MCCALL via Decision - Unanimous(R3)
+- THIAGO ALVES def. JORDAN MEIN via KO/TKO(R2)
+- TYRON WOODLEY def. KELVIN GASTELUM via Decision - Split(R3)
+- THALES LEITES def. TIM BOETSCH via Submission(R2)
+- AL IAQUINTA def. JOE LAUZON via KO/TKO(R2)
+- THIAGO SANTOS def. ANDY ENZ via KO/TKO(R1)

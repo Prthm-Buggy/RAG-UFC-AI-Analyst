@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Nelson vs Story
+    Date: October 04, 2014
+    Location: Stockholm, Sweden
+    Weight Class: Featherweight
+    
+
+    Result: MIKE WILKINSON defeated NIKLAS BACKSTROM via KO/TKO  
+  at 1:19 of round 1
+  Key stats:
+  - MIKE WILKINSON landed 6 significant strikes
+  - NIKLAS BACKSTROM landed 7 significant strikes
+  - Knockdowns: MIKE WILKINSON 1,  NIKLAS BACKSTROM 0
+  - Takedowns: MIKE WILKINSON 0,  NIKLAS BACKSTROM 0
+  Bonus: perf

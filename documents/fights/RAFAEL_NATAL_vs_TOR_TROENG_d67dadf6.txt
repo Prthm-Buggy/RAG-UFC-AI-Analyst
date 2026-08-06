@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Teixeira vs Bader
+    Date: September 04, 2013
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: RAFAEL NATAL defeated TOR TROENG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAFAEL NATAL landed 39 significant strikes
+  - TOR TROENG landed 9 significant strikes
+  - Knockdowns: RAFAEL NATAL 2,  TOR TROENG 0
+  - Takedowns: RAFAEL NATAL 0,  TOR TROENG 0
+  Bonus: fight

@@ -1,0 +1,11 @@
+Fighter: JOSH CULIBAO
+  Date of Birth: 1994-05-24
+  Career record: 7
+  First fight: 2020-02-22
+  Last fight: 2024-08-17
+
+Career Statistics:
+- Significant Strikes Landed :312
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :2

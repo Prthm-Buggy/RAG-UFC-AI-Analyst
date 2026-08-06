@@ -1,0 +1,11 @@
+Fighter: JIRI PROCHAZKA
+  Date of Birth: 1992-10-14
+  Career record: 9
+  First fight: 2020-07-11
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :518
+- Total takedowns landed :3
+- Knockdowns :5
+- Submission Attempts :1

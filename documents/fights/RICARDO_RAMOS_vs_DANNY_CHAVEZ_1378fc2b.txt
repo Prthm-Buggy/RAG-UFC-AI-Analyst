@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Emmett
+    Date: June 18, 2022
+    Location: Austin, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: RICARDO RAMOS defeated DANNY CHAVEZ via KO/TKO  
+  at 1:12 of round 1
+  Key stats:
+  - RICARDO RAMOS landed 4 significant strikes
+  - DANNY CHAVEZ landed 3 significant strikes
+  - Knockdowns: RICARDO RAMOS 1,  DANNY CHAVEZ 0
+  - Takedowns: RICARDO RAMOS 0,  DANNY CHAVEZ 0
+  Bonus: perf

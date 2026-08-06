@@ -1,0 +1,11 @@
+Fighter: LOGAN CLARK
+  Date of Birth: 1985-02-16
+  Career record: 1
+  First fight: 2006-12-13
+  Last fight: 2006-12-13
+
+Career Statistics:
+- Significant Strikes Landed :40
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :2

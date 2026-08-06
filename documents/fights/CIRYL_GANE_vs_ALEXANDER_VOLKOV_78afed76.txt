@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gane vs. Volkov
+    Date: June 26, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CIRYL GANE defeated ALEXANDER VOLKOV via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CIRYL GANE landed 135 significant strikes
+  - ALEXANDER VOLKOV landed 115 significant strikes
+  - Knockdowns: CIRYL GANE 0,  ALEXANDER VOLKOV 0
+  - Takedowns: CIRYL GANE 0,  ALEXANDER VOLKOV 0

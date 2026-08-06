@@ -1,0 +1,13 @@
+Event: UFC 131: Dos Santos vs Carwin
+    Date: June 11, 2011
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Middleweight
+    
+
+    Result: MARK MUNOZ defeated DEMIAN MAIA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARK MUNOZ landed 44 significant strikes
+  - DEMIAN MAIA landed 32 significant strikes
+  - Knockdowns: MARK MUNOZ 0,  DEMIAN MAIA 0
+  - Takedowns: MARK MUNOZ 3,  DEMIAN MAIA 0

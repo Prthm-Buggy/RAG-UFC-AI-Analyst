@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs. Oleinik
+    Date: September 15, 2018
+    Location: Moscow, Moscow, Russia
+    Weight Class: Middleweight
+    
+
+    Result: KHALID MURTAZALIEV defeated CB DOLLAWAY via KO/TKO  
+  at 5:00 of round 2
+  Key stats:
+  - KHALID MURTAZALIEV landed 48 significant strikes
+  - CB DOLLAWAY landed 4 significant strikes
+  - Knockdowns: KHALID MURTAZALIEV 0,  CB DOLLAWAY 0
+  - Takedowns: KHALID MURTAZALIEV 5,  CB DOLLAWAY 2

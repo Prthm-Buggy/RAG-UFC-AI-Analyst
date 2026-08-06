@@ -1,0 +1,11 @@
+Fighter: JOHN MAGUIRE
+  Date of Birth: 1983-05-19
+  Career record: 5
+  First fight: 2011-11-05
+  Last fight: 2013-06-15
+
+Career Statistics:
+- Significant Strikes Landed :98
+- Total takedowns landed :13
+- Knockdowns :0
+- Submission Attempts :5

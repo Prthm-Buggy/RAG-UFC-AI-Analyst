@@ -1,0 +1,14 @@
+Event: UFC on FOX: Johnson vs. Reis
+    Date: April 15, 2017
+    Location: Kansas City, Missouri, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROBERT WHITTAKER defeated JACARE SOUZA via KO/TKO  
+  at 3:28 of round 2
+  Key stats:
+  - ROBERT WHITTAKER landed 55 significant strikes
+  - JACARE SOUZA landed 9 significant strikes
+  - Knockdowns: ROBERT WHITTAKER 1,  JACARE SOUZA 0
+  - Takedowns: ROBERT WHITTAKER 0,  JACARE SOUZA 1
+  Bonus: perf

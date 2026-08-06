@@ -1,0 +1,14 @@
+Event: UFC 134: Silva vs Okami
+    Date: August 27, 2011
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: ANTONIO RODRIGO NOGUEIRA defeated BRENDAN SCHAUB via KO/TKO  
+  at 3:09 of round 1
+  Key stats:
+  - ANTONIO RODRIGO NOGUEIRA landed 15 significant strikes
+  - BRENDAN SCHAUB landed 11 significant strikes
+  - Knockdowns: ANTONIO RODRIGO NOGUEIRA 1,  BRENDAN SCHAUB 0
+  - Takedowns: ANTONIO RODRIGO NOGUEIRA 0,  BRENDAN SCHAUB 0
+  Bonus: ko

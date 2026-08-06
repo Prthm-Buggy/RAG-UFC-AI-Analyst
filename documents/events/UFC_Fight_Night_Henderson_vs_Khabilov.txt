@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Henderson vs Khabilov
+    Date : June 07, 2014
+    Location: Albuquerque, New Mexico, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Flyweight, Lightweight, Welterweight, Light Heavyweight
+
+    Fight Results:
+  - RAFAEL DOS ANJOS def. JASON HIGH via KO/TKO(R2)
+- LANCE BENOIST def. BOBBY VOELKER via Decision - Unanimous(R3)
+- BRYAN CARAWAY def. ERIK PEREZ via Submission(R2)
+- BENSON HENDERSON def. RUSTAM KHABILOV via Submission(R4)
+- SERGIO PETTIS def. YAOTZIN MEZA via Decision - Unanimous(R3)
+- JON TUCK def. JAKE LINDSEY via KO/TKO(R3)
+- SCOTT JORGENSEN def. DANNY MARTINEZ via Decision - Unanimous(R3)
+- JOHN DODSON def. JOHN MORAGA via TKO - Doctor's Stoppage(R2)
+- DIEGO SANCHEZ def. ROSS PEARSON via Decision - Split(R3)
+- PIOTR HALLMANN def. YVES EDWARDS via Submission(R3)
+- PATRICK CUMMINS def. ROGER NARVAEZ via KO/TKO(R2)

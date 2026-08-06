@@ -1,0 +1,17 @@
+Event : UFC Live: Cruz vs Johnson
+    Date : October 01, 2011
+    Location: Washington, DC, USA
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Heavyweight, Lightweight, Welterweight
+
+    Fight Results:
+  - DOMINICK CRUZ def. DEMETRIOUS JOHNSON via Decision - Unanimous(R5)
+- STEFAN STRUVE def. PAT BARRY via Submission(R2)
+- TJ GRANT def. SHANE ROLLER via Submission(R3)
+- WALEL WATSON def. JOSEPH SANDOVAL via KO/TKO(R1)
+- ANTHONY JOHNSON def. CHARLIE BRENNEMAN via KO/TKO(R1)
+- JOSH NEER def. KEITH WISNIEWSKI via TKO - Doctor's Stoppage(R2)
+- MATT WIMAN def. MAC DANZIG via Decision - Unanimous(R3)
+- YVES EDWARDS def. RAFAELLO OLIVEIRA via KO/TKO(R2)
+- PAUL SASS def. MICHAEL JOHNSON via Submission(R1)
+- MIKE EASTON def. BYRON BLOODWORTH via KO/TKO(R2)

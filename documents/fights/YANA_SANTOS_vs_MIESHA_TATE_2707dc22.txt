@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Figueiredo
+    Date: May 03, 2025
+    Location: Des Moines, Iowa, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: YANA SANTOS defeated MIESHA TATE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - YANA SANTOS landed 66 significant strikes
+  - MIESHA TATE landed 40 significant strikes
+  - Knockdowns: YANA SANTOS 0,  MIESHA TATE 0
+  - Takedowns: YANA SANTOS 0,  MIESHA TATE 1

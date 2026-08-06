@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gustafsson vs. Teixeira
+    Date: May 28, 2017
+    Location: Stockholm, Sweden
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEXANDER GUSTAFSSON defeated GLOVER TEIXEIRA via KO/TKO  
+  at 1:07 of round 5
+  Key stats:
+  - ALEXANDER GUSTAFSSON landed 97 significant strikes
+  - GLOVER TEIXEIRA landed 42 significant strikes
+  - Knockdowns: ALEXANDER GUSTAFSSON 2,  GLOVER TEIXEIRA 0
+  - Takedowns: ALEXANDER GUSTAFSSON 1,  GLOVER TEIXEIRA 1
+  Bonus: fight

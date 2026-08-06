@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edgar vs. The Korean Zombie
+    Date: December 21, 2019
+    Location: Busan, South Korea
+    Weight Class: Lightweight
+    
+
+    Result: OMAR MORALES defeated DONG HYUN MA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - OMAR MORALES landed 32 significant strikes
+  - DONG HYUN MA landed 15 significant strikes
+  - Knockdowns: OMAR MORALES 1,  DONG HYUN MA 0
+  - Takedowns: OMAR MORALES 1,  DONG HYUN MA 0

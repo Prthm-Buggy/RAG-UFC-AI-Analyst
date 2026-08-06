@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nogueira vs Davis
+    Date: March 26, 2011
+    Location: Seattle, Washington, USA
+    Weight Class: Lightweight
+    
+
+    Result: NIK LENTZ defeated WAYLON LOWE via Submission  
+  at 2:24 of round 3
+  Key stats:
+  - NIK LENTZ landed 51 significant strikes
+  - WAYLON LOWE landed 46 significant strikes
+  - Knockdowns: NIK LENTZ 0,  WAYLON LOWE 0
+  - Takedowns: NIK LENTZ 0,  WAYLON LOWE 4

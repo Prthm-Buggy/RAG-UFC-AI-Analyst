@@ -1,0 +1,13 @@
+Event: UFC 224: Nunes vs. Pennington
+    Date: May 12, 2018
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: ELIZEU ZALESKI DOS SANTOS defeated SEAN STRICKLAND via KO/TKO  
+  at 3:40 of round 1
+  Key stats:
+  - ELIZEU ZALESKI DOS SANTOS landed 15 significant strikes
+  - SEAN STRICKLAND landed 14 significant strikes
+  - Knockdowns: ELIZEU ZALESKI DOS SANTOS 1,  SEAN STRICKLAND 0
+  - Takedowns: ELIZEU ZALESKI DOS SANTOS 0,  SEAN STRICKLAND 0

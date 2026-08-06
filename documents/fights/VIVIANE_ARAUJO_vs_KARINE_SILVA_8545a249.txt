@@ -1,0 +1,13 @@
+Event: UFC 309: Jones vs. Miocic
+    Date: November 16, 2024
+    Location: New York City, New York, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: VIVIANE ARAUJO defeated KARINE SILVA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - VIVIANE ARAUJO landed 48 significant strikes
+  - KARINE SILVA landed 58 significant strikes
+  - Knockdowns: VIVIANE ARAUJO 0,  KARINE SILVA 0
+  - Takedowns: VIVIANE ARAUJO 3,  KARINE SILVA 1

@@ -1,0 +1,20 @@
+Event : UFC 261: Usman vs. Masvidal 2
+    Date : April 24, 2021
+    Location: Jacksonville, Florida, USA
+    Number of Fights: 13
+    Weight Classes: Lightweight, Middleweight, Welterweight, Women's Strawweight, Flyweight, Light Heavyweight, Featherweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - BRENDAN ALLEN def. KARL ROBERSON via Submission(R1)
+- ROSE NAMAJUNAS def. ZHANG WEILI via KO/TKO(R1)
+- ARIANE CARNELOSSI def. LIANG NA via KO/TKO(R2)
+- RANDY BROWN def. ALEX OLIVEIRA via Submission(R1)
+- VALENTINA SHEVCHENKO def. JESSICA ANDRADE via KO/TKO(R2)
+- ANTHONY SMITH def. JIMMY CRUTE via TKO - Doctor's Stoppage(R1)
+- KAZULA VARGAS def. RONGZHU via Decision - Unanimous(R3)
+- JEFF MOLINA def. AORIQILENG via Decision - Unanimous(R3)
+- KAMARU USMAN def. JORGE MASVIDAL via KO/TKO(R2)
+- URIAH HALL def. CHRIS WEIDMAN via KO/TKO(R1)
+- PAT SABATINI def. TRISTAN CONNELLY via Decision - Unanimous(R3)
+- DWIGHT GRANT def. STEFAN SEKULIC via Decision - Split(R3)
+- BATGEREL DANAA def. KEVIN NATIVIDAD via KO/TKO(R1)

@@ -1,0 +1,11 @@
+Fighter: CAL WORSHAM
+  Date of Birth: 1963-06-11
+  Career record: 3
+  First fight: 1995-07-14
+  Last fight: 1996-12-07
+
+Career Statistics:
+- Significant Strikes Landed :23
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

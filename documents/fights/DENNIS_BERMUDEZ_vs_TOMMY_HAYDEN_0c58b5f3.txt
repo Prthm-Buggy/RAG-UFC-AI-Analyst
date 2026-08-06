@@ -1,0 +1,14 @@
+Event: UFC 150: Henderson vs Edgar II
+    Date: August 11, 2012
+    Location: Denver, Colorado, USA
+    Weight Class: Featherweight
+    
+
+    Result: DENNIS BERMUDEZ defeated TOMMY HAYDEN via Submission  
+  at 4:43 of round 1
+  Key stats:
+  - DENNIS BERMUDEZ landed 12 significant strikes
+  - TOMMY HAYDEN landed 6 significant strikes
+  - Knockdowns: DENNIS BERMUDEZ 0,  TOMMY HAYDEN 1
+  - Takedowns: DENNIS BERMUDEZ 1,  TOMMY HAYDEN 0
+  Bonus: sub

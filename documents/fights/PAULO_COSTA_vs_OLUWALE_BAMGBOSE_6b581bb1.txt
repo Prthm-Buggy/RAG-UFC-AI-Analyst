@@ -1,0 +1,13 @@
+Event: UFC 212: Aldo vs. Holloway
+    Date: June 03, 2017
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: PAULO COSTA defeated OLUWALE BAMGBOSE via KO/TKO  
+  at 1:06 of round 2
+  Key stats:
+  - PAULO COSTA landed 43 significant strikes
+  - OLUWALE BAMGBOSE landed 33 significant strikes
+  - Knockdowns: PAULO COSTA 0,  OLUWALE BAMGBOSE 0
+  - Takedowns: PAULO COSTA 0,  OLUWALE BAMGBOSE 2

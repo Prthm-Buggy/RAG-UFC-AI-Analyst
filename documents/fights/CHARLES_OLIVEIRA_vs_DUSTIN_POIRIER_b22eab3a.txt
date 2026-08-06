@@ -1,0 +1,14 @@
+Event: UFC 269: Oliveira vs. Poirier
+    Date: December 11, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated DUSTIN POIRIER via Submission  
+  at 1:02 of round 3
+  Key stats:
+  - CHARLES OLIVEIRA landed 73 significant strikes
+  - DUSTIN POIRIER landed 58 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  DUSTIN POIRIER 1
+  - Takedowns: CHARLES OLIVEIRA 0,  DUSTIN POIRIER 0
+  Bonus: belt

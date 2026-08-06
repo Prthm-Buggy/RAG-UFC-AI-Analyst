@@ -1,0 +1,11 @@
+Fighter: RACHAEL OSTOVICH
+  Date of Birth: 1991-02-25
+  Career record: 4
+  First fight: 2017-12-01
+  Last fight: 2020-11-28
+
+Career Statistics:
+- Significant Strikes Landed :94
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :2

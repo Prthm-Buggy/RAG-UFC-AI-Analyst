@@ -1,0 +1,11 @@
+Fighter: JOHN YANNIS
+  Date of Birth: 1994-07-07
+  Career record: 3
+  First fight: 2025-08-02
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :76
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

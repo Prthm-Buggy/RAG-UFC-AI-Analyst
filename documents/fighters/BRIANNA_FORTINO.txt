@@ -1,0 +1,11 @@
+Fighter: BRIANNA FORTINO
+  Date of Birth: 1993-08-04
+  Career record: 2
+  First fight: 2019-07-13
+  Last fight: 2020-06-20
+
+Career Statistics:
+- Significant Strikes Landed :106
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

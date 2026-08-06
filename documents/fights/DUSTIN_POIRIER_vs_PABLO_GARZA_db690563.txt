@@ -1,0 +1,13 @@
+Event: UFC on FOX: Velasquez vs Dos Santos
+    Date: November 12, 2011
+    Location: Anaheim, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: DUSTIN POIRIER defeated PABLO GARZA via Submission  
+  at 1:32 of round 2
+  Key stats:
+  - DUSTIN POIRIER landed 17 significant strikes
+  - PABLO GARZA landed 14 significant strikes
+  - Knockdowns: DUSTIN POIRIER 0,  PABLO GARZA 0
+  - Takedowns: DUSTIN POIRIER 1,  PABLO GARZA 0

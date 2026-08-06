@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Luque vs. Muhammad
+    Date: April 16, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DRAKKAR KLOSE defeated BRANDON JENKINS via KO/TKO  
+  at 0:33 of round 2
+  Key stats:
+  - DRAKKAR KLOSE landed 76 significant strikes
+  - BRANDON JENKINS landed 18 significant strikes
+  - Knockdowns: DRAKKAR KLOSE 2,  BRANDON JENKINS 0
+  - Takedowns: DRAKKAR KLOSE 2,  BRANDON JENKINS 0
+  Bonus: perf

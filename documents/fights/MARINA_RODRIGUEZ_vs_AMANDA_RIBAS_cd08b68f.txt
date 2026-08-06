@@ -1,0 +1,14 @@
+Event: UFC 257: Poirier vs. McGregor
+    Date: January 23, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Strawweight
+    
+
+    Result: MARINA RODRIGUEZ defeated AMANDA RIBAS via KO/TKO  
+  at 0:54 of round 2
+  Key stats:
+  - MARINA RODRIGUEZ landed 15 significant strikes
+  - AMANDA RIBAS landed 7 significant strikes
+  - Knockdowns: MARINA RODRIGUEZ 1,  AMANDA RIBAS 0
+  - Takedowns: MARINA RODRIGUEZ 0,  AMANDA RIBAS 1
+  Bonus: perf

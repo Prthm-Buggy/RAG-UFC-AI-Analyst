@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs Gastelum
+    Date: November 21, 2015
+    Location: Monterrey, Nuevo Leon, Mexico
+    Weight Class: Welterweight
+    
+
+    Result: ALVARO HERRERA MENDOZA defeated VERNON RAMOS HO via KO/TKO  
+  at 0:30 of round 1
+  Key stats:
+  - ALVARO HERRERA MENDOZA landed 4 significant strikes
+  - VERNON RAMOS HO landed 2 significant strikes
+  - Knockdowns: ALVARO HERRERA MENDOZA 1,  VERNON RAMOS HO 0
+  - Takedowns: ALVARO HERRERA MENDOZA 0,  VERNON RAMOS HO 0

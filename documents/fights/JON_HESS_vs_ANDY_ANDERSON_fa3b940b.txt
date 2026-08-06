@@ -1,0 +1,13 @@
+Event: UFC 5: The Return of the Beast
+    Date: April 07, 1995
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Open Weight
+    
+
+    Result: JON HESS defeated ANDY ANDERSON via KO/TKO  
+  at 1:23 of round 1
+  Key stats:
+  - JON HESS landed 17 significant strikes
+  - ANDY ANDERSON landed 2 significant strikes
+  - Knockdowns: JON HESS 0,  ANDY ANDERSON 0
+  - Takedowns: JON HESS 0,  ANDY ANDERSON 0

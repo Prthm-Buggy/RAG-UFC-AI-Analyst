@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Gaethje
+    Date: April 14, 2018
+    Location: Glendale, Arizona, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRAD TAVARES defeated KRZYSZTOF JOTKO via KO/TKO  
+  at 2:16 of round 3
+  Key stats:
+  - BRAD TAVARES landed 46 significant strikes
+  - KRZYSZTOF JOTKO landed 24 significant strikes
+  - Knockdowns: BRAD TAVARES 1,  KRZYSZTOF JOTKO 0
+  - Takedowns: BRAD TAVARES 0,  KRZYSZTOF JOTKO 0

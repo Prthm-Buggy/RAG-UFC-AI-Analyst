@@ -1,0 +1,13 @@
+Event: UFC 244: Masvidal vs. Diaz
+    Date: November 02, 2019
+    Location: New York City, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAIRZINHO ROZENSTRUIK defeated ANDREI ARLOVSKI via KO/TKO  
+  at 0:29 of round 1
+  Key stats:
+  - JAIRZINHO ROZENSTRUIK landed 5 significant strikes
+  - ANDREI ARLOVSKI landed 4 significant strikes
+  - Knockdowns: JAIRZINHO ROZENSTRUIK 1,  ANDREI ARLOVSKI 0
+  - Takedowns: JAIRZINHO ROZENSTRUIK 0,  ANDREI ARLOVSKI 0

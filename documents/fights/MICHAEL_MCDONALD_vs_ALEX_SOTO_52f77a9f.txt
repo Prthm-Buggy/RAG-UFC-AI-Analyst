@@ -1,0 +1,14 @@
+Event: UFC 139: Shogun vs Henderson
+    Date: November 19, 2011
+    Location: San Jose, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MICHAEL MCDONALD defeated ALEX SOTO via KO/TKO  
+  at 0:56 of round 1
+  Key stats:
+  - MICHAEL MCDONALD landed 12 significant strikes
+  - ALEX SOTO landed 6 significant strikes
+  - Knockdowns: MICHAEL MCDONALD 2,  ALEX SOTO 0
+  - Takedowns: MICHAEL MCDONALD 0,  ALEX SOTO 0
+  Bonus: ko

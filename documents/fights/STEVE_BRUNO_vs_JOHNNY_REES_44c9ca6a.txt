@@ -1,0 +1,13 @@
+Event: UFC Fight Night - Fight for the Troops
+    Date: December 10, 2008
+    Location: Fayetteville, North Carolina, USA
+    Weight Class: Welterweight
+    
+
+    Result: STEVE BRUNO defeated JOHNNY REES via Submission  
+  at 3:44 of round 2
+  Key stats:
+  - STEVE BRUNO landed 10 significant strikes
+  - JOHNNY REES landed 36 significant strikes
+  - Knockdowns: STEVE BRUNO 0,  JOHNNY REES 0
+  - Takedowns: STEVE BRUNO 3,  JOHNNY REES 1

@@ -1,0 +1,14 @@
+Event: UFC 261: Usman vs. Masvidal 2
+    Date: April 24, 2021
+    Location: Jacksonville, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: KAMARU USMAN defeated JORGE MASVIDAL via KO/TKO  
+  at 1:02 of round 2
+  Key stats:
+  - KAMARU USMAN landed 21 significant strikes
+  - JORGE MASVIDAL landed 31 significant strikes
+  - Knockdowns: KAMARU USMAN 1,  JORGE MASVIDAL 0
+  - Takedowns: KAMARU USMAN 2,  JORGE MASVIDAL 0
+  Bonus: belt

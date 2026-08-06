@@ -1,0 +1,11 @@
+Fighter: CORY SANDHAGEN
+  Date of Birth: 1992-04-20
+  Career record: 16
+  First fight: 2018-01-27
+  Last fight: 2025-10-04
+
+Career Statistics:
+- Significant Strikes Landed :1144
+- Total takedowns landed :18
+- Knockdowns :4
+- Submission Attempts :4

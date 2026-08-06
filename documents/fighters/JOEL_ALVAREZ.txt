@@ -1,0 +1,11 @@
+Fighter: JOEL ALVAREZ
+  Date of Birth: 1993-03-02
+  Career record: 11
+  First fight: 2019-02-23
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :384
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :6

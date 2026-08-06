@@ -1,0 +1,11 @@
+Fighter: DERON WINN
+  Date of Birth: 1989-06-13
+  Career record: 5
+  First fight: 2019-06-22
+  Last fight: 2022-06-18
+
+Career Statistics:
+- Significant Strikes Landed :303
+- Total takedowns landed :19
+- Knockdowns :0
+- Submission Attempts :0

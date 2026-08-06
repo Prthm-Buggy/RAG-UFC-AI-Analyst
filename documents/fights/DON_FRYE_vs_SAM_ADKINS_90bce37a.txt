@@ -1,0 +1,13 @@
+Event: UFC 8: David vs Goliath
+    Date: February 16, 1996
+    Location: San Juan, Puerto Rico
+    Weight Class: Open Weight
+    
+
+    Result: DON FRYE defeated SAM ADKINS via TKO - Doctor's Stoppage  
+  at 0:48 of round 1
+  Key stats:
+  - DON FRYE landed 5 significant strikes
+  - SAM ADKINS landed 0 significant strikes
+  - Knockdowns: DON FRYE 0,  SAM ADKINS 0
+  - Takedowns: DON FRYE 1,  SAM ADKINS 0

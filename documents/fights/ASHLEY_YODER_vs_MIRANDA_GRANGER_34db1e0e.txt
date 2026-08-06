@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Felder vs. Dos Anjos
+    Date: November 14, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ASHLEY YODER defeated MIRANDA GRANGER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ASHLEY YODER landed 26 significant strikes
+  - MIRANDA GRANGER landed 33 significant strikes
+  - Knockdowns: ASHLEY YODER 0,  MIRANDA GRANGER 0
+  - Takedowns: ASHLEY YODER 2,  MIRANDA GRANGER 0

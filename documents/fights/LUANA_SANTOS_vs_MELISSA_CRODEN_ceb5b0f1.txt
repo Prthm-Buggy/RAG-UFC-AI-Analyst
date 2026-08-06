@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Royval vs. Kape
+    Date: December 13, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: LUANA SANTOS defeated MELISSA CRODEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LUANA SANTOS landed 12 significant strikes
+  - MELISSA CRODEN landed 22 significant strikes
+  - Knockdowns: LUANA SANTOS 0,  MELISSA CRODEN 0
+  - Takedowns: LUANA SANTOS 3,  MELISSA CRODEN 0

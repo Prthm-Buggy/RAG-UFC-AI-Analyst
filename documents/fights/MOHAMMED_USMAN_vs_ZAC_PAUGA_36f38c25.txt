@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Santos vs. Hill
+    Date: August 06, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MOHAMMED USMAN defeated ZAC PAUGA via KO/TKO  
+  at 0:36 of round 2
+  Key stats:
+  - MOHAMMED USMAN landed 12 significant strikes
+  - ZAC PAUGA landed 32 significant strikes
+  - Knockdowns: MOHAMMED USMAN 1,  ZAC PAUGA 0
+  - Takedowns: MOHAMMED USMAN 0,  ZAC PAUGA 0
+  Bonus: perf

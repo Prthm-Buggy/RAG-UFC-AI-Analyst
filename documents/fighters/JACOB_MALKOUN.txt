@@ -1,0 +1,11 @@
+Fighter: JACOB MALKOUN
+  Date of Birth: 1995-08-26
+  Career record: 9
+  First fight: 2020-10-24
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :424
+- Total takedowns landed :36
+- Knockdowns :1
+- Submission Attempts :5

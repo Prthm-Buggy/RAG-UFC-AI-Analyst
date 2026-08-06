@@ -1,0 +1,14 @@
+Event: UFC 152: Jones vs Belfort
+    Date: September 22, 2012
+    Location: Toronto, Ontario, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated VITOR BELFORT via Submission  
+  at 0:54 of round 4
+  Key stats:
+  - JON JONES landed 65 significant strikes
+  - VITOR BELFORT landed 16 significant strikes
+  - Knockdowns: JON JONES 1,  VITOR BELFORT 0
+  - Takedowns: JON JONES 1,  VITOR BELFORT 0
+  Bonus: belt

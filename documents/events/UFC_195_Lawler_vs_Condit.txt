@@ -1,0 +1,19 @@
+Event : UFC 195: Lawler vs Condit
+    Date : January 02, 2016
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Women's Strawweight, Welterweight, Featherweight, Lightweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - ALEX MORONO def. KYLE NOKE via Decision - Split(R3)
+- DUSTIN POIRIER def. JOE DUFFY via Decision - Unanimous(R3)
+- DREW DOBER def. SCOTT HOLTZMAN via Decision - Unanimous(R3)
+- SHELDON WESTCOTT def. EDGAR GARCIA via KO/TKO(R1)
+- JUSTINE KISH def. NINA NUNES via Decision - Unanimous(R3)
+- BRIAN ORTEGA def. DIEGO BRANDAO via Submission(R3)
+- ALBERT TUMENOV def. LORENZ LARKIN via Decision - Split(R3)
+- MICHINORI TANAKA def. JOE SOTO via Decision - Split(R3)
+- STIPE MIOCIC def. ANDREI ARLOVSKI via KO/TKO(R1)
+- ROBBIE LAWLER def. CARLOS CONDIT via Decision - Split(R5)
+- MICHAEL MCDONALD def. MASANORI KANEHARA via Submission(R2)
+- ABEL TRUJILLO def. TONY SIMS via Submission(R1)

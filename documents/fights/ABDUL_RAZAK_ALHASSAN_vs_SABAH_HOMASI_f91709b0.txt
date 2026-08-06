@@ -1,0 +1,14 @@
+Event: UFC 220: Miocic vs. Ngannou
+    Date: January 20, 2018
+    Location: Boston, Massachusetts, USA
+    Weight Class: Welterweight
+    
+
+    Result: ABDUL RAZAK ALHASSAN defeated SABAH HOMASI via KO/TKO  
+  at 3:47 of round 1
+  Key stats:
+  - ABDUL RAZAK ALHASSAN landed 13 significant strikes
+  - SABAH HOMASI landed 8 significant strikes
+  - Knockdowns: ABDUL RAZAK ALHASSAN 1,  SABAH HOMASI 0
+  - Takedowns: ABDUL RAZAK ALHASSAN 0,  SABAH HOMASI 1
+  Bonus: perf

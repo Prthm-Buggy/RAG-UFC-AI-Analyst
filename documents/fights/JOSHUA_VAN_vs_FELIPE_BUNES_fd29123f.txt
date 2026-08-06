@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ankalaev vs. Walker 2
+    Date: January 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOSHUA VAN defeated FELIPE BUNES via KO/TKO  
+  at 4:31 of round 2
+  Key stats:
+  - JOSHUA VAN landed 83 significant strikes
+  - FELIPE BUNES landed 50 significant strikes
+  - Knockdowns: JOSHUA VAN 1,  FELIPE BUNES 0
+  - Takedowns: JOSHUA VAN 1,  FELIPE BUNES 2

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Anjos vs. Edwards
+    Date: July 20, 2019
+    Location: San Antonio, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: DAN HOOKER defeated JAMES VICK via KO/TKO  
+  at 2:33 of round 1
+  Key stats:
+  - DAN HOOKER landed 22 significant strikes
+  - JAMES VICK landed 7 significant strikes
+  - Knockdowns: DAN HOOKER 1,  JAMES VICK 0
+  - Takedowns: DAN HOOKER 0,  JAMES VICK 0
+  Bonus: perf

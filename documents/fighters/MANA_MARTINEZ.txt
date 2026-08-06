@@ -1,0 +1,11 @@
+Fighter: MANA MARTINEZ
+  Date of Birth: 1996-03-25
+  Career record: 4
+  First fight: 2021-08-28
+  Last fight: 2023-03-04
+
+Career Statistics:
+- Significant Strikes Landed :265
+- Total takedowns landed :3
+- Knockdowns :4
+- Submission Attempts :1

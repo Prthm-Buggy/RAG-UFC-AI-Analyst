@@ -1,0 +1,14 @@
+Event: UFC 212: Aldo vs. Holloway
+    Date: June 03, 2017
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: MAX HOLLOWAY defeated JOSE ALDO via KO/TKO  
+  at 4:13 of round 3
+  Key stats:
+  - MAX HOLLOWAY landed 104 significant strikes
+  - JOSE ALDO landed 55 significant strikes
+  - Knockdowns: MAX HOLLOWAY 1,  JOSE ALDO 0
+  - Takedowns: MAX HOLLOWAY 0,  JOSE ALDO 0
+  Bonus: belt

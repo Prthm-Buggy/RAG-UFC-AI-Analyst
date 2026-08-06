@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Yan vs. Figueiredo
+    Date: November 23, 2024
+    Location: Macau, China
+    Weight Class: Light Heavyweight
+    
+
+    Result: ZHANG MINGYANG defeated OZZY DIAZ via KO/TKO  
+  at 2:25 of round 1
+  Key stats:
+  - ZHANG MINGYANG landed 17 significant strikes
+  - OZZY DIAZ landed 9 significant strikes
+  - Knockdowns: ZHANG MINGYANG 1,  OZZY DIAZ 0
+  - Takedowns: ZHANG MINGYANG 0,  OZZY DIAZ 0
+  Bonus: perf

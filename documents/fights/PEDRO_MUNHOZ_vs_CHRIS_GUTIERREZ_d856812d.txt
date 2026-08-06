@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Allen
+    Date: April 15, 2023
+    Location: Kansas City, Missouri, USA
+    Weight Class: Bantamweight
+    
+
+    Result: PEDRO MUNHOZ defeated CHRIS GUTIERREZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PEDRO MUNHOZ landed 60 significant strikes
+  - CHRIS GUTIERREZ landed 77 significant strikes
+  - Knockdowns: PEDRO MUNHOZ 1,  CHRIS GUTIERREZ 0
+  - Takedowns: PEDRO MUNHOZ 0,  CHRIS GUTIERREZ 0

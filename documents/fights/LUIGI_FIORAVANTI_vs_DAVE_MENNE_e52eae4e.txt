@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sanchez vs Riggs
+    Date: December 13, 2006
+    Location: San Diego, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: LUIGI FIORAVANTI defeated DAVE MENNE via KO/TKO  
+  at 4:44 of round 1
+  Key stats:
+  - LUIGI FIORAVANTI landed 23 significant strikes
+  - DAVE MENNE landed 8 significant strikes
+  - Knockdowns: LUIGI FIORAVANTI 1,  DAVE MENNE 0
+  - Takedowns: LUIGI FIORAVANTI 1,  DAVE MENNE 0

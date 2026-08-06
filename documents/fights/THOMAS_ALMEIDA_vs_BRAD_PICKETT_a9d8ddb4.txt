@@ -1,0 +1,14 @@
+Event: UFC 189: Mendes vs McGregor
+    Date: July 11, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: THOMAS ALMEIDA defeated BRAD PICKETT via KO/TKO  
+  at 0:29 of round 2
+  Key stats:
+  - THOMAS ALMEIDA landed 24 significant strikes
+  - BRAD PICKETT landed 20 significant strikes
+  - Knockdowns: THOMAS ALMEIDA 1,  BRAD PICKETT 1
+  - Takedowns: THOMAS ALMEIDA 0,  BRAD PICKETT 0
+  Bonus: perf

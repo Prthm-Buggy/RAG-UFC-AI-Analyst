@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Volkov vs. Rozenstruik
+    Date: June 04, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEXANDER VOLKOV defeated JAIRZINHO ROZENSTRUIK via KO/TKO  
+  at 2:12 of round 1
+  Key stats:
+  - ALEXANDER VOLKOV landed 21 significant strikes
+  - JAIRZINHO ROZENSTRUIK landed 6 significant strikes
+  - Knockdowns: ALEXANDER VOLKOV 0,  JAIRZINHO ROZENSTRUIK 0
+  - Takedowns: ALEXANDER VOLKOV 0,  JAIRZINHO ROZENSTRUIK 0

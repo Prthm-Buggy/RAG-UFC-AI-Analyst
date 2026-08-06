@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Holohan vs Smolka
+    Date : October 24, 2015
+    Location: Dublin, Leinster, Ireland
+    Number of Fights: 9
+    Weight Classes: Featherweight, Lightweight, Flyweight, Middleweight, Women's Strawweight, Welterweight
+
+    Fight Results:
+  - TOM BREESE def. CATHAL PENDRED via KO/TKO(R1)
+- LOUIS SMOLKA def. PADDY HOLOHAN via Submission(R2)
+- DARREN ELKINS def. ROBERT WHITEFORD via Decision - Unanimous(R3)
+- GARRETH MCLELLAN def. BUBBA BUSH via KO/TKO(R3)
+- KRZYSZTOF JOTKO def. SCOTT ASKHAM via Decision - Split(R3)
+- STEVIE RAY def. MICKAEL LEBOUT via Decision - Unanimous(R3)
+- NORMAN PARKE def. REZA MADADI via Decision - Unanimous(R3)
+- NEIL SEERY def. JON DELOS REYES via Submission(R2)
+- AISLING DALY def. ERICKA ALMEIDA via Decision - Unanimous(R3)

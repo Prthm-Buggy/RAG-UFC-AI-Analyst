@@ -1,0 +1,11 @@
+Fighter: ROB WILKINSON
+  Date of Birth: 1992-02-22
+  Career record: 2
+  First fight: 2017-09-02
+  Last fight: 2018-02-10
+
+Career Statistics:
+- Significant Strikes Landed :46
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

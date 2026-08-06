@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Oliveira vs. Gamrot
+    Date : October 11, 2025
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Number of Fights: 12
+    Weight Classes: Featherweight, Lightweight, Welterweight, Women's Bantamweight, Flyweight, Women's Strawweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - MARIO PINTO def. JHONATA DINIZ via KO/TKO(R2)
+- MICHAEL ASWELL JR. def. LUCAS ALMEIDA via KO/TKO(R1)
+- DEIVESON FIGUEIREDO def. MONTEL JACKSON via Decision - Split(R3)
+- JAFEL FILHO def. CLAYTON CARPENTER via Submission(R1)
+- BIA MESQUITA def. IRINA ALEKSEEVA via Submission(R2)
+- VITOR PETRINO def. THOMAS PETERSEN via KO/TKO(R3)
+- LUCAS ROCHA def. STEWART NICOLL via Decision - Unanimous(R3)
+- CHARLES OLIVEIRA def. MATEUSZ GAMROT via Submission(R2)
+- LUAN LACERDA def. SAIMON OLIVEIRA via Submission(R2)
+- KAAN OFLI def. RICARDO RAMOS via Submission(R1)
+- JOEL ALVAREZ def. VICENTE LUQUE via Decision - Unanimous(R3)
+- JULIA POLASTRI def. KAROLINA KOWALKIEWICZ via KO/TKO(R3)

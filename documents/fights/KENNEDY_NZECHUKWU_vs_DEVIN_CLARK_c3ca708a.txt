@@ -1,0 +1,13 @@
+Event: UFC 288: Sterling vs. Cejudo
+    Date: May 06, 2023
+    Location: Newark, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KENNEDY NZECHUKWU defeated DEVIN CLARK via Submission  
+  at 2:28 of round 2
+  Key stats:
+  - KENNEDY NZECHUKWU landed 62 significant strikes
+  - DEVIN CLARK landed 36 significant strikes
+  - Knockdowns: KENNEDY NZECHUKWU 0,  DEVIN CLARK 0
+  - Takedowns: KENNEDY NZECHUKWU 0,  DEVIN CLARK 1

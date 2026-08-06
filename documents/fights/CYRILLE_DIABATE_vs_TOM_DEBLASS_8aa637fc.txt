@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Gustafsson vs Silva
+    Date: April 14, 2012
+    Location: Stockholm, Sweden
+    Weight Class: Light Heavyweight
+    
+
+    Result: CYRILLE DIABATE defeated TOM DEBLASS via Decision - Majority  
+  at 5:00 of round 3
+  Key stats:
+  - CYRILLE DIABATE landed 48 significant strikes
+  - TOM DEBLASS landed 1 significant strikes
+  - Knockdowns: CYRILLE DIABATE 0,  TOM DEBLASS 0
+  - Takedowns: CYRILLE DIABATE 2,  TOM DEBLASS 2

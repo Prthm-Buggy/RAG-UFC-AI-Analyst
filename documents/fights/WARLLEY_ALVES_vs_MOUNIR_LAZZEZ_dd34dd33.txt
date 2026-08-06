@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Chiesa vs. Magny
+    Date: January 20, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Welterweight
+    
+
+    Result: WARLLEY ALVES defeated MOUNIR LAZZEZ via KO/TKO  
+  at 2:35 of round 1
+  Key stats:
+  - WARLLEY ALVES landed 17 significant strikes
+  - MOUNIR LAZZEZ landed 2 significant strikes
+  - Knockdowns: WARLLEY ALVES 1,  MOUNIR LAZZEZ 0
+  - Takedowns: WARLLEY ALVES 1,  MOUNIR LAZZEZ 0
+  Bonus: perf

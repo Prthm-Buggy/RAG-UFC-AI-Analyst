@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Saint Preux vs. Okami
+    Date: September 22, 2017
+    Location: Saitama, Saitama, Japan
+    Weight Class: Flyweight
+    
+
+    Result: JUSSIER FORMIGA defeated YUTA SASAKI via Submission  
+  at 4:30 of round 1
+  Key stats:
+  - JUSSIER FORMIGA landed 9 significant strikes
+  - YUTA SASAKI landed 16 significant strikes
+  - Knockdowns: JUSSIER FORMIGA 0,  YUTA SASAKI 0
+  - Takedowns: JUSSIER FORMIGA 1,  YUTA SASAKI 0

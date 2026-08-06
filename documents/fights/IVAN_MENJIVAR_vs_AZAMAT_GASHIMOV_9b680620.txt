@@ -1,0 +1,14 @@
+Event: UFC 154: St-Pierre vs Condit
+    Date: November 17, 2012
+    Location: Montreal, Quebec, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: IVAN MENJIVAR defeated AZAMAT GASHIMOV via Submission  
+  at 2:44 of round 1
+  Key stats:
+  - IVAN MENJIVAR landed 6 significant strikes
+  - AZAMAT GASHIMOV landed 4 significant strikes
+  - Knockdowns: IVAN MENJIVAR 0,  AZAMAT GASHIMOV 0
+  - Takedowns: IVAN MENJIVAR 0,  AZAMAT GASHIMOV 1
+  Bonus: sub

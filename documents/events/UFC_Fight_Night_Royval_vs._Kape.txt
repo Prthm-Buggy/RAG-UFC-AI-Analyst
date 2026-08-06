@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Royval vs. Kape
+    Date : December 13, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Featherweight, Middleweight, Catch Weight, Flyweight, Women's Bantamweight, Welterweight, Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - KEVIN VALLEJOS def. GIGA CHIKADZE via KO/TKO(R2)
+- CEZARY OLEKSIEJCZUK def. CESAR ALMEIDA via Decision - Unanimous(R3)
+- LUANA SANTOS def. MELISSA CRODEN via Decision - Unanimous(R3)
+- STEVEN ASPLUND def. SEAN SHARAF via KO/TKO(R2)
+- Guilherme Pat def. ALLEN FRYE JR. via Decision - Unanimous(R3)
+- YAROSLAV AMOSOV def. NEIL MAGNY via Submission(R1)
+- JAMEY-LYN HORTH def. TEREZA BLEDA via KO/TKO(R1)
+- MELQUIZAEL COSTA def. MORGAN CHARRIERE via KO/TKO(R1)
+- MANEL KAPE def. BRANDON ROYVAL via KO/TKO(R1)
+- KING GREEN def. LANCE GIBSON JR. via Decision - Split(R3)
+- JOANDERSON BRITO def. ISAAC THOMSON via Decision - Unanimous(R3)

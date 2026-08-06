@@ -1,0 +1,13 @@
+Event: UFC 277: Pena vs. Nunes 2
+    Date: July 30, 2022
+    Location: Dallas, Texas, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAGOMED ANKALAEV defeated ANTHONY SMITH via KO/TKO  
+  at 3:09 of round 2
+  Key stats:
+  - MAGOMED ANKALAEV landed 46 significant strikes
+  - ANTHONY SMITH landed 18 significant strikes
+  - Knockdowns: MAGOMED ANKALAEV 0,  ANTHONY SMITH 0
+  - Takedowns: MAGOMED ANKALAEV 0,  ANTHONY SMITH 0

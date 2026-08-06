@@ -1,0 +1,13 @@
+Event: UFC 44: Undisputed
+    Date: September 26, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: HERMES FRANCA defeated CAOL UNO via KO/TKO  
+  at 2:46 of round 2
+  Key stats:
+  - HERMES FRANCA landed 13 significant strikes
+  - CAOL UNO landed 32 significant strikes
+  - Knockdowns: HERMES FRANCA 1,  CAOL UNO 0
+  - Takedowns: HERMES FRANCA 2,  CAOL UNO 1

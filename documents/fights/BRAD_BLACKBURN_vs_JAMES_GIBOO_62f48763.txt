@@ -1,0 +1,13 @@
+Event: UFC: Silva vs Irvin
+    Date: July 19, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRAD BLACKBURN defeated JAMES GIBOO via KO/TKO  
+  at 2:29 of round 2
+  Key stats:
+  - BRAD BLACKBURN landed 53 significant strikes
+  - JAMES GIBOO landed 9 significant strikes
+  - Knockdowns: BRAD BLACKBURN 4,  JAMES GIBOO 0
+  - Takedowns: BRAD BLACKBURN 0,  JAMES GIBOO 0

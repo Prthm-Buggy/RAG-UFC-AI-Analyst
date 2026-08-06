@@ -1,0 +1,11 @@
+Fighter: ISSEI TAMURA
+  Date of Birth: 1984-03-12
+  Career record: 3
+  First fight: 2012-02-25
+  Last fight: 2013-03-16
+
+Career Statistics:
+- Significant Strikes Landed :31
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :0

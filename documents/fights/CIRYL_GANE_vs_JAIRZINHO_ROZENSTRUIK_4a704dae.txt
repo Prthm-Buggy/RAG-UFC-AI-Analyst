@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rozenstruik vs. Gane
+    Date: February 27, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CIRYL GANE defeated JAIRZINHO ROZENSTRUIK via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CIRYL GANE landed 102 significant strikes
+  - JAIRZINHO ROZENSTRUIK landed 42 significant strikes
+  - Knockdowns: CIRYL GANE 0,  JAIRZINHO ROZENSTRUIK 0
+  - Takedowns: CIRYL GANE 2,  JAIRZINHO ROZENSTRUIK 0

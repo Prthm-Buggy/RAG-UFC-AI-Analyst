@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Ngannou vs. Velasquez
+    Date : February 17, 2019
+    Location: Phoenix, Arizona, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Bantamweight, Women's Flyweight, Welterweight, Women's Strawweight, Lightweight, Featherweight
+
+    Fight Results:
+  - ALJAMAIN STERLING def. JIMMIE RIVERA via Decision - Unanimous(R3)
+- FRANCIS NGANNOU def. CAIN VELASQUEZ via KO/TKO(R1)
+- VICENTE LUQUE def. BRYAN BARBERENA via KO/TKO(R3)
+- EMILY WHITMIRE def. ALEKSANDRA ALBU via Submission(R1)
+- MANNY BERMUDEZ def. BENITO LOPEZ via Submission(R1)
+- ANDRE FILI def. MYLES JURY via Decision - Unanimous(R3)
+- PAUL FELDER def. JAMES VICK via Decision - Unanimous(R3)
+- NIK LENTZ def. SCOTT HOLTZMAN via Decision - Unanimous(R3)
+- ANDREA LEE def. ASHLEE EVANS-SMITH via Decision - Unanimous(R3)
+- CYNTHIA CALVILLO def. CORTNEY CASEY via Decision - Unanimous(R3)
+- KRON GRACIE def. ALEX CACERES via Submission(R1)
+- LUKE SANDERS def. RENAN BARAO via KO/TKO(R2)

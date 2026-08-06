@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Miocic vs Maldonado
+    Date: May 31, 2014
+    Location: Sao Paulo, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: EDIMILSON SOUZA defeated MARK EDDIVA via KO/TKO  
+  at 4:52 of round 2
+  Key stats:
+  - EDIMILSON SOUZA landed 79 significant strikes
+  - MARK EDDIVA landed 54 significant strikes
+  - Knockdowns: EDIMILSON SOUZA 0,  MARK EDDIVA 0
+  - Takedowns: EDIMILSON SOUZA 0,  MARK EDDIVA 0
+  Bonus: fight

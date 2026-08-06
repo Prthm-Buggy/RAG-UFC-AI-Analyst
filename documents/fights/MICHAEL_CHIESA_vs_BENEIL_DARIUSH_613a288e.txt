@@ -1,0 +1,14 @@
+Event: UFC on FOX: Teixeira vs Evans
+    Date: April 16, 2016
+    Location: Tampa, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: MICHAEL CHIESA defeated BENEIL DARIUSH via Submission  
+  at 1:20 of round 2
+  Key stats:
+  - MICHAEL CHIESA landed 11 significant strikes
+  - BENEIL DARIUSH landed 27 significant strikes
+  - Knockdowns: MICHAEL CHIESA 0,  BENEIL DARIUSH 0
+  - Takedowns: MICHAEL CHIESA 1,  BENEIL DARIUSH 1
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: FABRICIO CAMOES
+  Date of Birth: 1978-12-23
+  Career record: 5
+  First fight: 2010-03-27
+  Last fight: 2014-10-25
+
+Career Statistics:
+- Significant Strikes Landed :44
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :3

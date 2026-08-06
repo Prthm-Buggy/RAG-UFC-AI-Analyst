@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Woodley vs. Burns
+    Date: May 30, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GILBERT BURNS defeated TYRON WOODLEY via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - GILBERT BURNS landed 83 significant strikes
+  - TYRON WOODLEY landed 28 significant strikes
+  - Knockdowns: GILBERT BURNS 0,  TYRON WOODLEY 0
+  - Takedowns: GILBERT BURNS 2,  TYRON WOODLEY 0
+  Bonus: perf

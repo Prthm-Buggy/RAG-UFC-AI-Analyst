@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Nelson vs. Ponzinibbio
+    Date: July 16, 2017
+    Location: Glasgow, Scotland, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: SANTIAGO PONZINIBBIO defeated GUNNAR NELSON via KO/TKO  
+  at 1:22 of round 1
+  Key stats:
+  - SANTIAGO PONZINIBBIO landed 7 significant strikes
+  - GUNNAR NELSON landed 5 significant strikes
+  - Knockdowns: SANTIAGO PONZINIBBIO 1,  GUNNAR NELSON 0
+  - Takedowns: SANTIAGO PONZINIBBIO 0,  GUNNAR NELSON 0
+  Bonus: perf

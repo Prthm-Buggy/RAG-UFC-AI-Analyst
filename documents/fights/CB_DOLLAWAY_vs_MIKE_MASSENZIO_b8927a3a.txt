@@ -1,0 +1,13 @@
+Event: UFC 92: The Ultimate 2008
+    Date: December 27, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CB DOLLAWAY defeated MIKE MASSENZIO via KO/TKO  
+  at 3:01 of round 1
+  Key stats:
+  - CB DOLLAWAY landed 9 significant strikes
+  - MIKE MASSENZIO landed 3 significant strikes
+  - Knockdowns: CB DOLLAWAY 0,  MIKE MASSENZIO 1
+  - Takedowns: CB DOLLAWAY 1,  MIKE MASSENZIO 0

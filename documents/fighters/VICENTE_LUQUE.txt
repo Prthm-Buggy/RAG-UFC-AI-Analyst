@@ -1,0 +1,11 @@
+Fighter: VICENTE LUQUE
+  Date of Birth: 1991-11-27
+  Career record: 25
+  First fight: 2015-07-12
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :1135
+- Total takedowns landed :14
+- Knockdowns :11
+- Submission Attempts :10

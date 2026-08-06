@@ -1,0 +1,14 @@
+Event: UFC 214: Cormier vs. Jones 2
+    Date: July 29, 2017
+    Location: Anaheim, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: VOLKAN OEZDEMIR defeated JIMI MANUWA via KO/TKO  
+  at 0:42 of round 1
+  Key stats:
+  - VOLKAN OEZDEMIR landed 12 significant strikes
+  - JIMI MANUWA landed 2 significant strikes
+  - Knockdowns: VOLKAN OEZDEMIR 0,  JIMI MANUWA 0
+  - Takedowns: VOLKAN OEZDEMIR 0,  JIMI MANUWA 0
+  Bonus: perf

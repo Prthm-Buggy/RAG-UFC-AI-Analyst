@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Chikadze
+    Date: January 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CALVIN KATTAR defeated GIGA CHIKADZE via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CALVIN KATTAR landed 144 significant strikes
+  - GIGA CHIKADZE landed 128 significant strikes
+  - Knockdowns: CALVIN KATTAR 1,  GIGA CHIKADZE 0
+  - Takedowns: CALVIN KATTAR 2,  GIGA CHIKADZE 0
+  Bonus: fight

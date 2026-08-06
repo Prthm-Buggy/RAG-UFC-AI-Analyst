@@ -1,0 +1,13 @@
+Event: UFC on FX: Sotiropoulos vs Pearson
+    Date: December 14, 2012
+    Location: Gold Coast, Queensland, Australia
+    Weight Class: Middleweight
+    
+
+    Result: HECTOR LOMBARD defeated ROUSIMAR PALHARES via KO/TKO  
+  at 3:38 of round 1
+  Key stats:
+  - HECTOR LOMBARD landed 24 significant strikes
+  - ROUSIMAR PALHARES landed 6 significant strikes
+  - Knockdowns: HECTOR LOMBARD 2,  ROUSIMAR PALHARES 0
+  - Takedowns: HECTOR LOMBARD 0,  ROUSIMAR PALHARES 0

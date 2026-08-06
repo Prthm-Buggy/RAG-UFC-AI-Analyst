@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Liddell vs Team Ortiz Finale
+    Date: June 19, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: COURT MCGEE defeated KRIS MCCRAY via Submission  
+  at 3:41 of round 2
+  Key stats:
+  - COURT MCGEE landed 22 significant strikes
+  - KRIS MCCRAY landed 19 significant strikes
+  - Knockdowns: COURT MCGEE 0,  KRIS MCCRAY 0
+  - Takedowns: COURT MCGEE 5,  KRIS MCCRAY 0
+  Bonus: belt

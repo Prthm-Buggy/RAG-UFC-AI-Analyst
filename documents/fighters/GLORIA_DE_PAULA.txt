@@ -1,0 +1,11 @@
+Fighter: GLORIA DE PAULA
+  Date of Birth: 1995-06-10
+  Career record: 4
+  First fight: 2021-03-13
+  Last fight: 2022-06-18
+
+Career Statistics:
+- Significant Strikes Landed :229
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

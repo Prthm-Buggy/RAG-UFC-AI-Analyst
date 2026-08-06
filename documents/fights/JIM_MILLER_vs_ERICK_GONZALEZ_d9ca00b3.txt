@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ladd vs. Dumont
+    Date: October 16, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated ERICK GONZALEZ via KO/TKO  
+  at 0:14 of round 2
+  Key stats:
+  - JIM MILLER landed 32 significant strikes
+  - ERICK GONZALEZ landed 14 significant strikes
+  - Knockdowns: JIM MILLER 1,  ERICK GONZALEZ 0
+  - Takedowns: JIM MILLER 1,  ERICK GONZALEZ 1
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC 126: Silva vs Belfort
+    Date: February 05, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DONALD CERRONE defeated PAUL KELLY via Submission  
+  at 3:48 of round 2
+  Key stats:
+  - DONALD CERRONE landed 37 significant strikes
+  - PAUL KELLY landed 22 significant strikes
+  - Knockdowns: DONALD CERRONE 0,  PAUL KELLY 0
+  - Takedowns: DONALD CERRONE 3,  PAUL KELLY 0
+  Bonus: fight

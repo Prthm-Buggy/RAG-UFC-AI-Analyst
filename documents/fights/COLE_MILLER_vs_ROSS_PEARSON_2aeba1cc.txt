@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Marquardt vs Palhares
+    Date: September 15, 2010
+    Location: Austin, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: COLE MILLER defeated ROSS PEARSON via Submission  
+  at 1:49 of round 2
+  Key stats:
+  - COLE MILLER landed 24 significant strikes
+  - ROSS PEARSON landed 26 significant strikes
+  - Knockdowns: COLE MILLER 1,  ROSS PEARSON 0
+  - Takedowns: COLE MILLER 1,  ROSS PEARSON 0
+  Bonus: sub

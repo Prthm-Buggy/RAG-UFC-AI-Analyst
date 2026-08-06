@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Condit vs Kampmann 2
+    Date: August 28, 2013
+    Location: Indianapolis, Indiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: JASON HIGH defeated JAMES HEAD via Submission  
+  at 1:41 of round 1
+  Key stats:
+  - JASON HIGH landed 1 significant strikes
+  - JAMES HEAD landed 0 significant strikes
+  - Knockdowns: JASON HIGH 0,  JAMES HEAD 0
+  - Takedowns: JASON HIGH 1,  JAMES HEAD 0

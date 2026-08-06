@@ -1,0 +1,13 @@
+Event: UFC 195: Lawler vs Condit
+    Date: January 02, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MICHINORI TANAKA defeated JOE SOTO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MICHINORI TANAKA landed 57 significant strikes
+  - JOE SOTO landed 71 significant strikes
+  - Knockdowns: MICHINORI TANAKA 0,  JOE SOTO 0
+  - Takedowns: MICHINORI TANAKA 3,  JOE SOTO 1

@@ -1,0 +1,14 @@
+Event: UFC 65: Bad Intentions
+    Date: November 18, 2006
+    Location: Sacramento, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE STEVENSON defeated DOKONJONOSUKE MISHIMA via Submission  
+  at 2:07 of round 1
+  Key stats:
+  - JOE STEVENSON landed 1 significant strikes
+  - DOKONJONOSUKE MISHIMA landed 1 significant strikes
+  - Knockdowns: JOE STEVENSON 0,  DOKONJONOSUKE MISHIMA 0
+  - Takedowns: JOE STEVENSON 0,  DOKONJONOSUKE MISHIMA 1
+  Bonus: sub

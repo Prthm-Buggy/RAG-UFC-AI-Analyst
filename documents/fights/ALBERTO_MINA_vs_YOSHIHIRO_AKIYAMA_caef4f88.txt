@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Masvidal
+    Date: November 28, 2015
+    Location: Seoul, South Korea
+    Weight Class: Welterweight
+    
+
+    Result: ALBERTO MINA defeated YOSHIHIRO AKIYAMA via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ALBERTO MINA landed 69 significant strikes
+  - YOSHIHIRO AKIYAMA landed 78 significant strikes
+  - Knockdowns: ALBERTO MINA 1,  YOSHIHIRO AKIYAMA 0
+  - Takedowns: ALBERTO MINA 2,  YOSHIHIRO AKIYAMA 0

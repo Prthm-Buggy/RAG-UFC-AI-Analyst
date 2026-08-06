@@ -1,0 +1,14 @@
+Event: UFC 219: Cyborg vs. Holm
+    Date: December 30, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: CRISTIANE JUSTINO defeated HOLLY HOLM via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CRISTIANE JUSTINO landed 118 significant strikes
+  - HOLLY HOLM landed 44 significant strikes
+  - Knockdowns: CRISTIANE JUSTINO 0,  HOLLY HOLM 0
+  - Takedowns: CRISTIANE JUSTINO 0,  HOLLY HOLM 0
+  Bonus: belt

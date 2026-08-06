@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Chiesa vs. Lee
+    Date: June 25, 2017
+    Location: Oklahoma City, Oklahoma, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARVIN VETTORI defeated VITOR MIRANDA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARVIN VETTORI landed 69 significant strikes
+  - VITOR MIRANDA landed 51 significant strikes
+  - Knockdowns: MARVIN VETTORI 0,  VITOR MIRANDA 0
+  - Takedowns: MARVIN VETTORI 3,  VITOR MIRANDA 0

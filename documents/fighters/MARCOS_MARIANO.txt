@@ -1,0 +1,11 @@
+Fighter: MARCOS MARIANO
+  Date of Birth: 1986-10-12
+  Career record: 2
+  First fight: 2019-02-09
+  Last fight: 2019-09-21
+
+Career Statistics:
+- Significant Strikes Landed :5
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night 4
+    Date: April 06, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: LUKE CUMMO defeated JASON VON FLUE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LUKE CUMMO landed 43 significant strikes
+  - JASON VON FLUE landed 17 significant strikes
+  - Knockdowns: LUKE CUMMO 0,  JASON VON FLUE 0
+  - Takedowns: LUKE CUMMO 3,  JASON VON FLUE 2

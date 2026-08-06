@@ -1,0 +1,11 @@
+Fighter: YUTA SASAKI
+  Date of Birth: 1989-10-07
+  Career record: 9
+  First fight: 2014-08-23
+  Last fight: 2018-11-17
+
+Career Statistics:
+- Significant Strikes Landed :139
+- Total takedowns landed :13
+- Knockdowns :0
+- Submission Attempts :5

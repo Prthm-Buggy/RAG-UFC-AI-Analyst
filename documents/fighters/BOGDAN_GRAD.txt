@@ -1,0 +1,11 @@
+Fighter: BOGDAN GRAD
+  Date of Birth: 1995-09-28
+  Career record: 3
+  First fight: 2025-02-01
+  Last fight: 2025-11-22
+
+Career Statistics:
+- Significant Strikes Landed :84
+- Total takedowns landed :10
+- Knockdowns :0
+- Submission Attempts :0

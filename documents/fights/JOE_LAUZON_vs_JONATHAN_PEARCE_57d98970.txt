@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Reyes vs. Weidman
+    Date: October 18, 2019
+    Location: Boston, Massachusetts, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE LAUZON defeated JONATHAN PEARCE via KO/TKO  
+  at 1:33 of round 1
+  Key stats:
+  - JOE LAUZON landed 25 significant strikes
+  - JONATHAN PEARCE landed 8 significant strikes
+  - Knockdowns: JOE LAUZON 0,  JONATHAN PEARCE 0
+  - Takedowns: JOE LAUZON 1,  JONATHAN PEARCE 0

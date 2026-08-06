@@ -1,0 +1,13 @@
+Event: UFC 115: Liddell vs Franklin
+    Date: June 12, 2010
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Welterweight
+    
+
+    Result: JAMES WILKS defeated PETER SOBOTTA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JAMES WILKS landed 38 significant strikes
+  - PETER SOBOTTA landed 15 significant strikes
+  - Knockdowns: JAMES WILKS 0,  PETER SOBOTTA 0
+  - Takedowns: JAMES WILKS 1,  PETER SOBOTTA 1

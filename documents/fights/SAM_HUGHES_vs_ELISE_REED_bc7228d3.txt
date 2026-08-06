@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Vieira
+    Date: May 21, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: SAM HUGHES defeated ELISE REED via KO/TKO  
+  at 3:52 of round 3
+  Key stats:
+  - SAM HUGHES landed 43 significant strikes
+  - ELISE REED landed 17 significant strikes
+  - Knockdowns: SAM HUGHES 0,  ELISE REED 0
+  - Takedowns: SAM HUGHES 4,  ELISE REED 0

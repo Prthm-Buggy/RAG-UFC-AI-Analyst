@@ -1,0 +1,14 @@
+Event: UFC 156: Aldo vs Edgar
+    Date: February 02, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JOSE ALDO defeated FRANKIE EDGAR via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JOSE ALDO landed 76 significant strikes
+  - FRANKIE EDGAR landed 60 significant strikes
+  - Knockdowns: JOSE ALDO 0,  FRANKIE EDGAR 0
+  - Takedowns: JOSE ALDO 0,  FRANKIE EDGAR 2
+  Bonus: belt

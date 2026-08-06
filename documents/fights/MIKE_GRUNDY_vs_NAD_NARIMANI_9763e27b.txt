@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Till vs. Masvidal
+    Date: March 16, 2019
+    Location: London, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: MIKE GRUNDY defeated NAD NARIMANI via KO/TKO  
+  at 4:42 of round 2
+  Key stats:
+  - MIKE GRUNDY landed 33 significant strikes
+  - NAD NARIMANI landed 22 significant strikes
+  - Knockdowns: MIKE GRUNDY 1,  NAD NARIMANI 0
+  - Takedowns: MIKE GRUNDY 1,  NAD NARIMANI 0

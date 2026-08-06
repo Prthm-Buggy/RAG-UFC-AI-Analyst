@@ -1,0 +1,14 @@
+Event: UFC 237: Namajunas vs. Andrade
+    Date: May 11, 2019
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Women's Strawweight
+    
+
+    Result: JESSICA ANDRADE defeated ROSE NAMAJUNAS via KO/TKO  
+  at 2:58 of round 2
+  Key stats:
+  - JESSICA ANDRADE landed 47 significant strikes
+  - ROSE NAMAJUNAS landed 55 significant strikes
+  - Knockdowns: JESSICA ANDRADE 0,  ROSE NAMAJUNAS 1
+  - Takedowns: JESSICA ANDRADE 2,  ROSE NAMAJUNAS 0
+  Bonus: belt

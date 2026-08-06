@@ -1,0 +1,13 @@
+Event: UFC 7: The Brawl in Buffalo
+    Date: September 08, 1995
+    Location: Buffalo, New York, USA
+    Weight Class: Open Weight
+    
+
+    Result: SCOTT BESSAC defeated DAVID HOOD via Submission  
+  at 0:31 of round 1
+  Key stats:
+  - SCOTT BESSAC landed 1 significant strikes
+  - DAVID HOOD landed 2 significant strikes
+  - Knockdowns: SCOTT BESSAC 0,  DAVID HOOD 0
+  - Takedowns: SCOTT BESSAC 0,  DAVID HOOD 0

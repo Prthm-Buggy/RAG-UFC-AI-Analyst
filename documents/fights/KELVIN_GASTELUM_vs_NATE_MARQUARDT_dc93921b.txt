@@ -1,0 +1,13 @@
+Event: UFC 188: Velasquez vs Werdum
+    Date: June 13, 2015
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Middleweight
+    
+
+    Result: KELVIN GASTELUM defeated NATE MARQUARDT via KO/TKO  
+  at 5:00 of round 2
+  Key stats:
+  - KELVIN GASTELUM landed 59 significant strikes
+  - NATE MARQUARDT landed 18 significant strikes
+  - Knockdowns: KELVIN GASTELUM 0,  NATE MARQUARDT 0
+  - Takedowns: KELVIN GASTELUM 1,  NATE MARQUARDT 0

@@ -1,0 +1,11 @@
+Fighter: JOSE ALDO
+  Date of Birth: 1986-09-09
+  Career record: 23
+  First fight: 2011-04-30
+  Last fight: 2025-05-10
+
+Career Statistics:
+- Significant Strikes Landed :1354
+- Total takedowns landed :13
+- Knockdowns :7
+- Submission Attempts :4

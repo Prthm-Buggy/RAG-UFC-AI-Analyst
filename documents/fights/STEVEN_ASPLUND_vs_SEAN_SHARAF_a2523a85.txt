@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Royval vs. Kape
+    Date: December 13, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STEVEN ASPLUND defeated SEAN SHARAF via KO/TKO  
+  at 3:49 of round 2
+  Key stats:
+  - STEVEN ASPLUND landed 170 significant strikes
+  - SEAN SHARAF landed 66 significant strikes
+  - Knockdowns: STEVEN ASPLUND 0,  SEAN SHARAF 0
+  - Takedowns: STEVEN ASPLUND 0,  SEAN SHARAF 0
+  Bonus: fight

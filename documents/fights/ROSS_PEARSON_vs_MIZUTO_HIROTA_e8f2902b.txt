@@ -1,0 +1,13 @@
+Event: UFC 221: Romero vs. Rockhold
+    Date: February 10, 2018
+    Location: Perth, Western Australia, Australia
+    Weight Class: Lightweight
+    
+
+    Result: ROSS PEARSON defeated MIZUTO HIROTA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ROSS PEARSON landed 58 significant strikes
+  - MIZUTO HIROTA landed 77 significant strikes
+  - Knockdowns: ROSS PEARSON 0,  MIZUTO HIROTA 0
+  - Takedowns: ROSS PEARSON 0,  MIZUTO HIROTA 0

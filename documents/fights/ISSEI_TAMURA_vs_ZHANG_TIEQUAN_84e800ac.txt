@@ -1,0 +1,13 @@
+Event: UFC 144: Edgar vs Henderson
+    Date: February 25, 2012
+    Location: Saitama, Japan
+    Weight Class: Featherweight
+    
+
+    Result: ISSEI TAMURA defeated ZHANG TIEQUAN via KO/TKO  
+  at 0:32 of round 2
+  Key stats:
+  - ISSEI TAMURA landed 15 significant strikes
+  - ZHANG TIEQUAN landed 6 significant strikes
+  - Knockdowns: ISSEI TAMURA 2,  ZHANG TIEQUAN 0
+  - Takedowns: ISSEI TAMURA 1,  ZHANG TIEQUAN 0

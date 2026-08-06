@@ -1,0 +1,14 @@
+Event: UFC 285: Jones vs. Gane
+    Date: March 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BO NICKAL defeated JAMIE PICKETT via Submission  
+  at 2:54 of round 1
+  Key stats:
+  - BO NICKAL landed 1 significant strikes
+  - JAMIE PICKETT landed 1 significant strikes
+  - Knockdowns: BO NICKAL 0,  JAMIE PICKETT 0
+  - Takedowns: BO NICKAL 1,  JAMIE PICKETT 0
+  Bonus: perf

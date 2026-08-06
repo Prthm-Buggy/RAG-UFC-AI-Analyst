@@ -1,0 +1,13 @@
+Event: UFC 120: Bisping vs Akiyama
+    Date: October 16, 2010
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PYLE defeated JOHN HATHAWAY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MIKE PYLE landed 46 significant strikes
+  - JOHN HATHAWAY landed 18 significant strikes
+  - Knockdowns: MIKE PYLE 0,  JOHN HATHAWAY 0
+  - Takedowns: MIKE PYLE 5,  JOHN HATHAWAY 0

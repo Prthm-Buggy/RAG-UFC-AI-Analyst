@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Tsarukyan vs. Gamrot
+    Date : June 25, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Bantamweight, Lightweight, Welterweight, Middleweight, Featherweight, Flyweight, Women's Strawweight, Light Heavyweight
+
+    Fight Results:
+  - CARLOS ULBERG def. TAFON NCHUKWI via KO/TKO(R1)
+- UMAR NURMAGOMEDOV def. NATE MANESS via Decision - Unanimous(R3)
+- CHRIS CURTIS def. RODOLFO VIEIRA via Decision - Unanimous(R3)
+- MATEUSZ GAMROT def. ARMAN TSARUKYAN via Decision - Unanimous(R5)
+- VANESSA DEMOPOULOS def. JINH YU FREY via Decision - Split(R3)
+- CODY DURDEN def. JP BUYS via KO/TKO(R1)
+- MARIO BAUTISTA def. BRIAN KELLEHER via Submission(R1)
+- SERGEY MOROZOV def. RAULIAN PAIVA via Decision - Unanimous(R3)
+- SHAYILAN NUERDANBIEKE def. TJ BROWN via Decision - Unanimous(R3)
+- THIAGO MOISES def. CHRISTOS GIAGOS via Submission(R1)
+- SHAVKAT RAKHMONOV def. NEIL MAGNY via Submission(R2)
+- JOSH PARISIAN def. ALAN BAUDOT via KO/TKO(R2)

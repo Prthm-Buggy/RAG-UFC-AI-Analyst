@@ -1,0 +1,13 @@
+Event: UFC 283: Teixeira vs. Hill
+    Date: January 21, 2023
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: IHOR POTIERIA defeated MAURICIO RUA via KO/TKO  
+  at 4:05 of round 1
+  Key stats:
+  - IHOR POTIERIA landed 21 significant strikes
+  - MAURICIO RUA landed 17 significant strikes
+  - Knockdowns: IHOR POTIERIA 1,  MAURICIO RUA 0
+  - Takedowns: IHOR POTIERIA 0,  MAURICIO RUA 0

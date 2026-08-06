@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Emmett vs. Topuria
+    Date: June 24, 2023
+    Location: Jacksonville, Florida, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MAYCEE BARBER defeated AMANDA RIBAS via KO/TKO  
+  at 3:42 of round 2
+  Key stats:
+  - MAYCEE BARBER landed 81 significant strikes
+  - AMANDA RIBAS landed 35 significant strikes
+  - Knockdowns: MAYCEE BARBER 0,  AMANDA RIBAS 0
+  - Takedowns: MAYCEE BARBER 0,  AMANDA RIBAS 2
+  Bonus: perf

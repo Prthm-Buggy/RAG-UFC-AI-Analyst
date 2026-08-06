@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs Bigfoot
+    Date: December 06, 2013
+    Location: Brisbane, Queensland, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: SOA PALELEI defeated PAT BARRY via KO/TKO  
+  at 2:09 of round 1
+  Key stats:
+  - SOA PALELEI landed 12 significant strikes
+  - PAT BARRY landed 1 significant strikes
+  - Knockdowns: SOA PALELEI 0,  PAT BARRY 0
+  - Takedowns: SOA PALELEI 1,  PAT BARRY 0

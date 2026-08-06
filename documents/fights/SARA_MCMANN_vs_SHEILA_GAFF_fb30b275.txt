@@ -1,0 +1,13 @@
+Event: UFC 159: Jones vs Sonnen
+    Date: April 27, 2013
+    Location: Newark, New Jersey, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: SARA MCMANN defeated SHEILA GAFF via KO/TKO  
+  at 4:06 of round 1
+  Key stats:
+  - SARA MCMANN landed 8 significant strikes
+  - SHEILA GAFF landed 7 significant strikes
+  - Knockdowns: SARA MCMANN 0,  SHEILA GAFF 0
+  - Takedowns: SARA MCMANN 2,  SHEILA GAFF 0

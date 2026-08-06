@@ -1,0 +1,16 @@
+Event : UFC 88: Breakthrough
+    Date : September 06, 2008
+    Location: Atlanta, Georgia, USA
+    Number of Fights: 9
+    Weight Classes: Welterweight, Middleweight, Light Heavyweight, Lightweight
+
+    Fight Results:
+  - NATE MARQUARDT def. MARTIN KAMPMANN via KO/TKO(R1)
+- DAN HENDERSON def. ROUSIMAR PALHARES via Decision - Unanimous(R3)
+- DONG HYUN KIM def. MATT BROWN via Decision - Split(R3)
+- RASHAD EVANS def. CHUCK LIDDELL via KO/TKO(R2)
+- RICH FRANKLIN def. MATT HAMILL via KO/TKO(R3)
+- JASON MACDONALD def. JASON LAMBERT via Submission(R2)
+- RYO CHONAN def. ROAN CARNEIRO via Decision - Split(R3)
+- KURT PELLEGRINO def. THIAGO TAVARES via Decision - Unanimous(R3)
+- TIM BOETSCH def. MICHAEL PATT via KO/TKO(R1)

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Borralho
+    Date: August 24, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GERALD MEERSCHAERT defeated EDMEN SHAHBAZYAN via Submission  
+  at 4:12 of round 2
+  Key stats:
+  - GERALD MEERSCHAERT landed 21 significant strikes
+  - EDMEN SHAHBAZYAN landed 48 significant strikes
+  - Knockdowns: GERALD MEERSCHAERT 0,  EDMEN SHAHBAZYAN 0
+  - Takedowns: GERALD MEERSCHAERT 1,  EDMEN SHAHBAZYAN 0
+  Bonus: perf

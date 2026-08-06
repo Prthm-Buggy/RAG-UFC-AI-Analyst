@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Lemos vs. Jandiroba
+    Date : July 20, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Featherweight, Women's Strawweight, Lightweight, Flyweight, Heavyweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - THOMAS PETERSEN def. MOHAMMED USMAN via Decision - Unanimous(R3)
+- HYDER AMIL def. JEONGYEONG LEE via KO/TKO(R1)
+- MIRANDA MAVERICK def. DIONE BARBOSA via Decision - Unanimous(R3)
+- TREY OGDEN def. LOIK RADZHABOV via Decision - Unanimous(R3)
+- STEVE GARCIA def. SEUNGWOO CHOI via KO/TKO(R1)
+- VIRNA JANDIROBA def. AMANDA LEMOS via Submission(R2)
+- DOOHO CHOI def. BILL ALGEO via KO/TKO(R2)
+- BRUNO SILVA def. CODY DURDEN via KO/TKO(R2)
+- LUANA CAROLINA def. LUCIE PUDILOVA via Decision - Unanimous(R3)
+- CODY GIBSON def. BRIAN KELLEHER via Submission(R1)
+- KURT HOLOBAUGH def. KAYNAN KRUSCHEWSKY via Decision - Unanimous(R3)

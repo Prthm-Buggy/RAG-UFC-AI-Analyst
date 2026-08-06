@@ -1,0 +1,13 @@
+Event: UFC 188: Velasquez vs Werdum
+    Date: June 13, 2015
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Lightweight
+    
+
+    Result: EFRAIN ESCUDERO defeated DREW DOBER via Submission  
+  at 0:54 of round 1
+  Key stats:
+  - EFRAIN ESCUDERO landed 1 significant strikes
+  - DREW DOBER landed 0 significant strikes
+  - Knockdowns: EFRAIN ESCUDERO 0,  DREW DOBER 0
+  - Takedowns: EFRAIN ESCUDERO 0,  DREW DOBER 0

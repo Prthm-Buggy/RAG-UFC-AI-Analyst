@@ -1,0 +1,11 @@
+Fighter: SEAN SPENCER
+  Date of Birth: 1987-06-25
+  Career record: 8
+  First fight: 2013-01-26
+  Last fight: 2016-09-10
+
+Career Statistics:
+- Significant Strikes Landed :456
+- Total takedowns landed :1
+- Knockdowns :3
+- Submission Attempts :0

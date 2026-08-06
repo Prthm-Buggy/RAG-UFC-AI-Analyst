@@ -1,0 +1,11 @@
+Fighter: JAVID BASHARAT
+  Date of Birth: 1995-09-07
+  Career record: 6
+  First fight: 2022-03-12
+  Last fight: 2026-02-07
+
+Career Statistics:
+- Significant Strikes Landed :410
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :0

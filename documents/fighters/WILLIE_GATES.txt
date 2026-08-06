@@ -1,0 +1,11 @@
+Fighter: WILLIE GATES
+  Date of Birth: 1987-01-21
+  Career record: 4
+  First fight: 2014-12-13
+  Last fight: 2016-05-08
+
+Career Statistics:
+- Significant Strikes Landed :67
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :1

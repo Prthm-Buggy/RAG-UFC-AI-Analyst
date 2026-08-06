@@ -1,0 +1,13 @@
+Event: UFC - Ultimate Ultimate '95
+    Date: December 16, 1995
+    Location: Denver, Colorado, USA
+    Weight Class: Open Weight
+    
+
+    Result: OLEG TAKTAROV defeated DAVE BENETEAU via Submission  
+  at 1:15 of round 1
+  Key stats:
+  - OLEG TAKTAROV landed 0 significant strikes
+  - DAVE BENETEAU landed 2 significant strikes
+  - Knockdowns: OLEG TAKTAROV 0,  DAVE BENETEAU 0
+  - Takedowns: OLEG TAKTAROV 0,  DAVE BENETEAU 0

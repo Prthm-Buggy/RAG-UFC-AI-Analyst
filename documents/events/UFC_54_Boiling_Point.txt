@@ -1,0 +1,15 @@
+Event : UFC 54: Boiling Point
+    Date : August 20, 2005
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Light Heavyweight, Welterweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - RANDY COUTURE def. MIKE VAN ARSDALE via Submission(R3)
+- GEORGES ST-PIERRE def. FRANK TRIGG via Submission(R1)
+- JAMES IRVIN def. TERRY MARTIN via KO/TKO(R2)
+- TIM SYLVIA def. TRA TELLIGMAN via KO/TKO(R1)
+- CHUCK LIDDELL def. JEREMY HORN via KO/TKO(R4)
+- TREVOR PRANGLEY def. TRAVIS LUTTER via Decision - Unanimous(R3)
+- MATT LINDLAND def. JOE DOERKSEN via Decision - Unanimous(R3)
+- DIEGO SANCHEZ def. BRIAN GASSAWAY via KO/TKO(R2)

@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Vettori vs. Holland
+    Date : April 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Lightweight, Middleweight, Featherweight, Women's Strawweight, Welterweight, Light Heavyweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - DANIEL RODRIGUEZ def. MIKE PERRY via Decision - Unanimous(R3)
+- JACK SHORE def. HUNTER AZURE via Decision - Split(R3)
+- JARJIS DANHO def. YORGAN DE CASTRO via KO/TKO(R1)
+- MACKENZIE DERN def. NINA NUNES via Submission(R1)
+- ARNOLD ALLEN def. SODIQ YUSUFF via Decision - Unanimous(R3)
+- IMPA KASANGANAY def. SASHA PALATNIKOV via Submission(R2)
+- MATEUSZ GAMROT def. SCOTT HOLTZMAN via KO/TKO(R2)
+- LUIS SALDANA def. JORDAN GRIFFIN via Decision - Unanimous(R3)
+- DA WOON JUNG def. WILLIAM KNIGHT via Decision - Unanimous(R3)
+- JOHN MAKDESSI def. IGNACIO BAHAMONDES via Decision - Split(R3)
+- MARVIN VETTORI def. KEVIN HOLLAND via Decision - Unanimous(R5)
+- JULIAN MARQUEZ def. SAM ALVEY via Submission(R2)
+- JOE SOLECKI def. JIM MILLER via Decision - Unanimous(R3)

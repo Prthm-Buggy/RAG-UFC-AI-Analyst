@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs. Brunson 2
+    Date: January 27, 2018
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Lightweight
+    
+
+    Result: VINC PICHEL defeated JOAQUIM SILVA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - VINC PICHEL landed 60 significant strikes
+  - JOAQUIM SILVA landed 45 significant strikes
+  - Knockdowns: VINC PICHEL 0,  JOAQUIM SILVA 0
+  - Takedowns: VINC PICHEL 1,  JOAQUIM SILVA 0

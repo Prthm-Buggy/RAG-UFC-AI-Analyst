@@ -1,0 +1,14 @@
+Event: UFC 179: Aldo vs Mendes 2
+    Date: October 25, 2014
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: FABIO MALDONADO defeated HANS STRINGER via KO/TKO  
+  at 4:06 of round 2
+  Key stats:
+  - FABIO MALDONADO landed 28 significant strikes
+  - HANS STRINGER landed 33 significant strikes
+  - Knockdowns: FABIO MALDONADO 0,  HANS STRINGER 0
+  - Takedowns: FABIO MALDONADO 0,  HANS STRINGER 3
+  Bonus: perf

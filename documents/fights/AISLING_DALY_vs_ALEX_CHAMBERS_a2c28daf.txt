@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: A Champion Will Be Crowned Finale
+    Date: December 12, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: AISLING DALY defeated ALEX CHAMBERS via Submission  
+  at 4:53 of round 1
+  Key stats:
+  - AISLING DALY landed 16 significant strikes
+  - ALEX CHAMBERS landed 12 significant strikes
+  - Knockdowns: AISLING DALY 0,  ALEX CHAMBERS 0
+  - Takedowns: AISLING DALY 1,  ALEX CHAMBERS 1

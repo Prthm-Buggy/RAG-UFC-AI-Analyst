@@ -1,0 +1,11 @@
+Fighter: YOHAN LAINESSE
+  Date of Birth: 1992-08-14
+  Career record: 4
+  First fight: 2022-04-30
+  Last fight: 2024-01-20
+
+Career Statistics:
+- Significant Strikes Landed :66
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :1

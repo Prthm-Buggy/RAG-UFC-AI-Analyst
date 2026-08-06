@@ -1,0 +1,13 @@
+Event: UFC 56: Full Force
+    Date: November 19, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: SAM HOGER defeated JEFF NEWTON via Submission  
+  at 2:05 of round 2
+  Key stats:
+  - SAM HOGER landed 10 significant strikes
+  - JEFF NEWTON landed 2 significant strikes
+  - Knockdowns: SAM HOGER 0,  JEFF NEWTON 0
+  - Takedowns: SAM HOGER 3,  JEFF NEWTON 0

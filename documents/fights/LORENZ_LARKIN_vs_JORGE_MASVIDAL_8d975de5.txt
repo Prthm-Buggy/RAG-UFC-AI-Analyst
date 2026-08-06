@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Almeida vs Garbrandt
+    Date: May 29, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: LORENZ LARKIN defeated JORGE MASVIDAL via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - LORENZ LARKIN landed 44 significant strikes
+  - JORGE MASVIDAL landed 48 significant strikes
+  - Knockdowns: LORENZ LARKIN 0,  JORGE MASVIDAL 0
+  - Takedowns: LORENZ LARKIN 1,  JORGE MASVIDAL 1

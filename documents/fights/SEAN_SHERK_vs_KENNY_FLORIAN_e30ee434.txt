@@ -1,0 +1,14 @@
+Event: UFC 64: Unstoppable
+    Date: October 14, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: SEAN SHERK defeated KENNY FLORIAN via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - SEAN SHERK landed 60 significant strikes
+  - KENNY FLORIAN landed 23 significant strikes
+  - Knockdowns: SEAN SHERK 0,  KENNY FLORIAN 0
+  - Takedowns: SEAN SHERK 8,  KENNY FLORIAN 0
+  Bonus: belt

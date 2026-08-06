@@ -1,0 +1,14 @@
+Event: UFC 192: Cormier vs Gustafsson
+    Date: October 03, 2015
+    Location: Houston, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: ADRIANO MARTINS defeated ISLAM MAKHACHEV via KO/TKO  
+  at 1:46 of round 1
+  Key stats:
+  - ADRIANO MARTINS landed 3 significant strikes
+  - ISLAM MAKHACHEV landed 4 significant strikes
+  - Knockdowns: ADRIANO MARTINS 1,  ISLAM MAKHACHEV 0
+  - Takedowns: ADRIANO MARTINS 0,  ISLAM MAKHACHEV 0
+  Bonus: perf

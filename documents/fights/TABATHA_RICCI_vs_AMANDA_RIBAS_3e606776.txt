@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Whittaker vs. De Ridder
+    Date: July 26, 2025
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Strawweight
+    
+
+    Result: TABATHA RICCI defeated AMANDA RIBAS via KO/TKO  
+  at 2:59 of round 2
+  Key stats:
+  - TABATHA RICCI landed 34 significant strikes
+  - AMANDA RIBAS landed 30 significant strikes
+  - Knockdowns: TABATHA RICCI 0,  AMANDA RIBAS 0
+  - Takedowns: TABATHA RICCI 1,  AMANDA RIBAS 1

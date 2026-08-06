@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Song vs. Gutierrez
+    Date: December 09, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: STEVE GARCIA defeated MELQUIZAEL COSTA via KO/TKO  
+  at 1:01 of round 2
+  Key stats:
+  - STEVE GARCIA landed 29 significant strikes
+  - MELQUIZAEL COSTA landed 6 significant strikes
+  - Knockdowns: STEVE GARCIA 1,  MELQUIZAEL COSTA 0
+  - Takedowns: STEVE GARCIA 0,  MELQUIZAEL COSTA 2

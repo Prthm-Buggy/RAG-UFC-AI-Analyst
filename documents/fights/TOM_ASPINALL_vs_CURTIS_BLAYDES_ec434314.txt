@@ -1,0 +1,14 @@
+Event: UFC 304: Edwards vs. Muhammad 2
+    Date: July 27, 2024
+    Location: Manchester, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: TOM ASPINALL defeated CURTIS BLAYDES via KO/TKO  
+  at 1:00 of round 1
+  Key stats:
+  - TOM ASPINALL landed 14 significant strikes
+  - CURTIS BLAYDES landed 5 significant strikes
+  - Knockdowns: TOM ASPINALL 1,  CURTIS BLAYDES 0
+  - Takedowns: TOM ASPINALL 0,  CURTIS BLAYDES 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC 210: Cormier vs. Johnson 2
+    Date: April 08, 2017
+    Location: Buffalo, New York, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: KATLYN CERMINARA defeated IRENE ALDANA via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - KATLYN CERMINARA landed 105 significant strikes
+  - IRENE ALDANA landed 84 significant strikes
+  - Knockdowns: KATLYN CERMINARA 0,  IRENE ALDANA 0
+  - Takedowns: KATLYN CERMINARA 0,  IRENE ALDANA 0

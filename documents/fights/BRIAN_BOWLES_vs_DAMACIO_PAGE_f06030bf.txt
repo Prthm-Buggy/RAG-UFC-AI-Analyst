@@ -1,0 +1,14 @@
+Event: UFC Live: Sanchez vs Kampmann
+    Date: March 03, 2011
+    Location: Louisville, Kentucky, USA
+    Weight Class: Bantamweight
+    
+
+    Result: BRIAN BOWLES defeated DAMACIO PAGE via Submission  
+  at 3:30 of round 1
+  Key stats:
+  - BRIAN BOWLES landed 19 significant strikes
+  - DAMACIO PAGE landed 17 significant strikes
+  - Knockdowns: BRIAN BOWLES 0,  DAMACIO PAGE 0
+  - Takedowns: BRIAN BOWLES 1,  DAMACIO PAGE 0
+  Bonus: sub

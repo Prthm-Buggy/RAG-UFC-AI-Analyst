@@ -1,0 +1,14 @@
+Event: UFC 196: McGregor vs Diaz
+    Date: March 05, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: NATE DIAZ defeated CONOR MCGREGOR via Submission  
+  at 4:12 of round 2
+  Key stats:
+  - NATE DIAZ landed 77 significant strikes
+  - CONOR MCGREGOR landed 61 significant strikes
+  - Knockdowns: NATE DIAZ 0,  CONOR MCGREGOR 0
+  - Takedowns: NATE DIAZ 1,  CONOR MCGREGOR 0
+  Bonus: fight

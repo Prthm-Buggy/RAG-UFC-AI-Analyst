@@ -1,0 +1,11 @@
+Fighter: SIRWAN KAKAI
+  Date of Birth: 1989-10-03
+  Career record: 2
+  First fight: 2015-06-27
+  Last fight: 2015-08-08
+
+Career Statistics:
+- Significant Strikes Landed :107
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :0

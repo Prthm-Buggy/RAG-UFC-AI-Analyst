@@ -1,0 +1,11 @@
+Fighter: RHYS MCKEE
+  Date of Birth: 1995-09-10
+  Career record: 6
+  First fight: 2020-07-25
+  Last fight: 2025-09-06
+
+Career Statistics:
+- Significant Strikes Landed :307
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :0

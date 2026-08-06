@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hall vs. Silva
+    Date: October 31, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MILES JOHNS defeated KEVIN NATIVIDAD via KO/TKO  
+  at 2:51 of round 3
+  Key stats:
+  - MILES JOHNS landed 48 significant strikes
+  - KEVIN NATIVIDAD landed 33 significant strikes
+  - Knockdowns: MILES JOHNS 1,  KEVIN NATIVIDAD 0
+  - Takedowns: MILES JOHNS 0,  KEVIN NATIVIDAD 0
+  Bonus: perf

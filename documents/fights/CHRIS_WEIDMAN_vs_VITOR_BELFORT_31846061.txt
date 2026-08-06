@@ -1,0 +1,14 @@
+Event: UFC 187: Johnson vs Cormier
+    Date: May 23, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS WEIDMAN defeated VITOR BELFORT via KO/TKO  
+  at 2:53 of round 1
+  Key stats:
+  - CHRIS WEIDMAN landed 46 significant strikes
+  - VITOR BELFORT landed 18 significant strikes
+  - Knockdowns: CHRIS WEIDMAN 0,  VITOR BELFORT 0
+  - Takedowns: CHRIS WEIDMAN 1,  VITOR BELFORT 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC 234: Adesanya vs. Silva
+    Date: February 09, 2019
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Bantamweight
+    
+
+    Result: KYUNG HO KANG defeated TERUTO ISHIHARA via Submission  
+  at 3:59 of round 1
+  Key stats:
+  - KYUNG HO KANG landed 26 significant strikes
+  - TERUTO ISHIHARA landed 17 significant strikes
+  - Knockdowns: KYUNG HO KANG 1,  TERUTO ISHIHARA 1
+  - Takedowns: KYUNG HO KANG 1,  TERUTO ISHIHARA 0

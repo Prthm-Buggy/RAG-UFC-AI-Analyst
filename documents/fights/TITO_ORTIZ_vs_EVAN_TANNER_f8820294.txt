@@ -1,0 +1,14 @@
+Event: UFC 30: Battle on the Boardwalk
+    Date: February 23, 2001
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: TITO ORTIZ defeated EVAN TANNER via KO/TKO  
+  at 0:32 of round 1
+  Key stats:
+  - TITO ORTIZ landed 7 significant strikes
+  - EVAN TANNER landed 0 significant strikes
+  - Knockdowns: TITO ORTIZ 0,  EVAN TANNER 0
+  - Takedowns: TITO ORTIZ 1,  EVAN TANNER 0
+  Bonus: belt

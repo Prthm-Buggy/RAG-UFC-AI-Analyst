@@ -1,0 +1,13 @@
+Event: UFC 8: David vs Goliath
+    Date: February 16, 1996
+    Location: San Juan, Puerto Rico
+    Weight Class: Open Weight
+    
+
+    Result: PAUL VARELANS defeated JOE MOREIRA via Decision - Unanimous  
+  at 10:00 of round 1
+  Key stats:
+  - PAUL VARELANS landed 9 significant strikes
+  - JOE MOREIRA landed 12 significant strikes
+  - Knockdowns: PAUL VARELANS 0,  JOE MOREIRA 0
+  - Takedowns: PAUL VARELANS 0,  JOE MOREIRA 0

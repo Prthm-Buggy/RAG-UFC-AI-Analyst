@@ -1,0 +1,13 @@
+Event: UFC 190: Rousey vs Correia
+    Date: August 01, 2015
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: VITOR MIRANDA defeated CLINT HESTER via KO/TKO  
+  at 2:38 of round 2
+  Key stats:
+  - VITOR MIRANDA landed 57 significant strikes
+  - CLINT HESTER landed 15 significant strikes
+  - Knockdowns: VITOR MIRANDA 0,  CLINT HESTER 0
+  - Takedowns: VITOR MIRANDA 1,  CLINT HESTER 1

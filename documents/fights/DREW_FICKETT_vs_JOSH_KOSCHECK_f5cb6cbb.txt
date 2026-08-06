@@ -1,0 +1,13 @@
+Event: UFC Fight Night 2
+    Date: October 03, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DREW FICKETT defeated JOSH KOSCHECK via Submission  
+  at 4:28 of round 3
+  Key stats:
+  - DREW FICKETT landed 5 significant strikes
+  - JOSH KOSCHECK landed 8 significant strikes
+  - Knockdowns: DREW FICKETT 1,  JOSH KOSCHECK 0
+  - Takedowns: DREW FICKETT 0,  JOSH KOSCHECK 6

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Munoz vs Mousasi
+    Date: May 31, 2014
+    Location: Berlin, Germany
+    Weight Class: Middleweight
+    
+
+    Result: MAGNUS CEDENBLAD defeated KRZYSZTOF JOTKO via Submission  
+  at 4:59 of round 2
+  Key stats:
+  - MAGNUS CEDENBLAD landed 17 significant strikes
+  - KRZYSZTOF JOTKO landed 15 significant strikes
+  - Knockdowns: MAGNUS CEDENBLAD 0,  KRZYSZTOF JOTKO 0
+  - Takedowns: MAGNUS CEDENBLAD 3,  KRZYSZTOF JOTKO 0
+  Bonus: perf

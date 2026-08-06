@@ -1,0 +1,11 @@
+Fighter: JORDAN JOHNSON
+  Date of Birth: 1988-11-18
+  Career record: 4
+  First fight: 2017-01-28
+  Last fight: 2018-09-15
+
+Career Statistics:
+- Significant Strikes Landed :175
+- Total takedowns landed :11
+- Knockdowns :0
+- Submission Attempts :4

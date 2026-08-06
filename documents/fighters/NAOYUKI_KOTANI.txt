@@ -1,0 +1,11 @@
+Fighter: NAOYUKI KOTANI
+  Date of Birth: 1981-12-08
+  Career record: 5
+  First fight: 2007-04-05
+  Last fight: 2015-09-26
+
+Career Statistics:
+- Significant Strikes Landed :55
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :3

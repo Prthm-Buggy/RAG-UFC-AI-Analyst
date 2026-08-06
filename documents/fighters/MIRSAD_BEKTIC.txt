@@ -1,0 +1,11 @@
+Fighter: MIRSAD BEKTIC
+  Date of Birth: 1991-02-16
+  Career record: 10
+  First fight: 2014-04-19
+  Last fight: 2020-09-19
+
+Career Statistics:
+- Significant Strikes Landed :247
+- Total takedowns landed :27
+- Knockdowns :2
+- Submission Attempts :3

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Aspinall vs. Tybura
+    Date: July 22, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Women's Flyweight
+    
+
+    Result: JULIJA STOLIARENKO defeated MOLLY MCCANN via Submission  
+  at 1:55 of round 1
+  Key stats:
+  - JULIJA STOLIARENKO landed 9 significant strikes
+  - MOLLY MCCANN landed 6 significant strikes
+  - Knockdowns: JULIJA STOLIARENKO 0,  MOLLY MCCANN 0
+  - Takedowns: JULIJA STOLIARENKO 1,  MOLLY MCCANN 0

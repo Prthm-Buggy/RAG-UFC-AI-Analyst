@@ -1,0 +1,14 @@
+Event: UFC 306: Riyadh Season Noche UFC
+    Date: September 14, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: Ketlen Souza defeated YAZMIN JAUREGUI via Submission  
+  at 3:02 of round 1
+  Key stats:
+  - Ketlen Souza landed 21 significant strikes
+  - YAZMIN JAUREGUI landed 35 significant strikes
+  - Knockdowns: Ketlen Souza 1,  YAZMIN JAUREGUI 0
+  - Takedowns: Ketlen Souza 0,  YAZMIN JAUREGUI 0
+  Bonus: perf

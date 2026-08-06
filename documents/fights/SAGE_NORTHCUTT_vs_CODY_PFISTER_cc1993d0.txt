@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. VanZant
+    Date: December 10, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: SAGE NORTHCUTT defeated CODY PFISTER via Submission  
+  at 0:41 of round 2
+  Key stats:
+  - SAGE NORTHCUTT landed 8 significant strikes
+  - CODY PFISTER landed 5 significant strikes
+  - Knockdowns: SAGE NORTHCUTT 0,  CODY PFISTER 0
+  - Takedowns: SAGE NORTHCUTT 2,  CODY PFISTER 2

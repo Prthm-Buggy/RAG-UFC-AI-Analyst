@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thomas vs Florian
+    Date: September 19, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NATE DIAZ defeated JUNIOR ASSUNCAO via Submission  
+  at 4:10 of round 1
+  Key stats:
+  - NATE DIAZ landed 10 significant strikes
+  - JUNIOR ASSUNCAO landed 7 significant strikes
+  - Knockdowns: NATE DIAZ 1,  JUNIOR ASSUNCAO 0
+  - Takedowns: NATE DIAZ 1,  JUNIOR ASSUNCAO 1

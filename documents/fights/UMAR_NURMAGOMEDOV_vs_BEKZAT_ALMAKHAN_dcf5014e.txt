@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rozenstruik vs. Gaziev
+    Date: March 02, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: UMAR NURMAGOMEDOV defeated BEKZAT ALMAKHAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - UMAR NURMAGOMEDOV landed 68 significant strikes
+  - BEKZAT ALMAKHAN landed 3 significant strikes
+  - Knockdowns: UMAR NURMAGOMEDOV 0,  BEKZAT ALMAKHAN 1
+  - Takedowns: UMAR NURMAGOMEDOV 5,  BEKZAT ALMAKHAN 0

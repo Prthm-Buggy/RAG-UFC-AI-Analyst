@@ -1,0 +1,20 @@
+Event : UFC 103: Franklin vs Belfort
+    Date : September 19, 2009
+    Location: Dallas, Texas, USA
+    Number of Fights: 13
+    Weight Classes: Light Heavyweight, Lightweight, Welterweight, Middleweight, Catch Weight, Heavyweight
+
+    Fight Results:
+  - JUNIOR DOS SANTOS def. MIRKO FILIPOVIC via KO/TKO(R3)
+- RAFAEL DOS ANJOS def. ROB EMERSON via Decision - Unanimous(R3)
+- RICK STORY def. BRIAN FOSTER via Submission(R2)
+- NIK LENTZ def. RAFAELLO OLIVEIRA via Decision - Unanimous(R3)
+- JIM MILLER def. STEVE LOPEZ via KO/TKO(R2)
+- VITOR BELFORT def. RICH FRANKLIN via KO/TKO(R1)
+- ELIOT MARSHALL def. JASON BRILZ via Decision - Split(R3)
+- TYSON GRIFFIN def. HERMES FRANCA via KO/TKO(R2)
+- JOSH KOSCHECK def. FRANK TRIGG via KO/TKO(R1)
+- VLADIMIR MATYUSHENKO def. IGOR POKRAJAC via Decision - Unanimous(R3)
+- TOMASZ DRWAL def. DREW MCFEDRIES via Submission(R2)
+- EFRAIN ESCUDERO def. COLE MILLER via KO/TKO(R1)
+- PAUL DALEY def. MARTIN KAMPMANN via KO/TKO(R1)

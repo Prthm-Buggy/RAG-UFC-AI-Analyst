@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yan vs. Dvalishvili
+    Date: March 11, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEXANDER VOLKOV defeated ALEXANDR ROMANOV via KO/TKO  
+  at 2:16 of round 1
+  Key stats:
+  - ALEXANDER VOLKOV landed 12 significant strikes
+  - ALEXANDR ROMANOV landed 0 significant strikes
+  - Knockdowns: ALEXANDER VOLKOV 0,  ALEXANDR ROMANOV 0
+  - Takedowns: ALEXANDER VOLKOV 0,  ALEXANDR ROMANOV 0

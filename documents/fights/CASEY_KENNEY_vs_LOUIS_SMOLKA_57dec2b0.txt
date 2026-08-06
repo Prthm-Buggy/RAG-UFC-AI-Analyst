@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Woodley vs. Burns
+    Date: May 30, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CASEY KENNEY defeated LOUIS SMOLKA via Submission  
+  at 3:03 of round 1
+  Key stats:
+  - CASEY KENNEY landed 32 significant strikes
+  - LOUIS SMOLKA landed 18 significant strikes
+  - Knockdowns: CASEY KENNEY 0,  LOUIS SMOLKA 0
+  - Takedowns: CASEY KENNEY 0,  LOUIS SMOLKA 0

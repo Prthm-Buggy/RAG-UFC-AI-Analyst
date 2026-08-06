@@ -1,0 +1,13 @@
+Event: UFC 204: Bisping vs. Henderson
+    Date: October 08, 2016
+    Location: Manchester, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PERRY defeated DANNY ROBERTS via KO/TKO  
+  at 4:40 of round 3
+  Key stats:
+  - MIKE PERRY landed 90 significant strikes
+  - DANNY ROBERTS landed 81 significant strikes
+  - Knockdowns: MIKE PERRY 1,  DANNY ROBERTS 0
+  - Takedowns: MIKE PERRY 0,  DANNY ROBERTS 0

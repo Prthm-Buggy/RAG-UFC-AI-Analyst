@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shogun vs. Smith
+    Date: July 22, 2018
+    Location: Hamburg, Hamburg, Germany
+    Weight Class: Light Heavyweight
+    
+
+    Result: DARKO STOSIC defeated JEREMY KIMBALL via KO/TKO  
+  at 3:13 of round 1
+  Key stats:
+  - DARKO STOSIC landed 9 significant strikes
+  - JEREMY KIMBALL landed 4 significant strikes
+  - Knockdowns: DARKO STOSIC 0,  JEREMY KIMBALL 0
+  - Takedowns: DARKO STOSIC 0,  JEREMY KIMBALL 0

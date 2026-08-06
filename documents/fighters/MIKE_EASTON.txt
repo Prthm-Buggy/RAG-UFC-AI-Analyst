@@ -1,0 +1,11 @@
+Fighter: MIKE EASTON
+  Date of Birth: 1984-01-25
+  Career record: 7
+  First fight: 2011-10-01
+  Last fight: 2014-06-14
+
+Career Statistics:
+- Significant Strikes Landed :351
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :0

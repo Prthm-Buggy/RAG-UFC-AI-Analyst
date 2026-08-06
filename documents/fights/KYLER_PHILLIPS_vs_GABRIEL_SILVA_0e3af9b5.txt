@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Benavidez vs. Figueiredo
+    Date: February 29, 2020
+    Location: Norfolk, Virginia, USA
+    Weight Class: Bantamweight
+    
+
+    Result: KYLER PHILLIPS defeated GABRIEL SILVA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KYLER PHILLIPS landed 89 significant strikes
+  - GABRIEL SILVA landed 31 significant strikes
+  - Knockdowns: KYLER PHILLIPS 0,  GABRIEL SILVA 0
+  - Takedowns: KYLER PHILLIPS 2,  GABRIEL SILVA 2
+  Bonus: fight

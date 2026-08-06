@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Shogun vs Sonnen
+    Date: August 17, 2013
+    Location: Boston, Massachusetts, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MICHAEL MCDONALD defeated BRAD PICKETT via Submission  
+  at 3:43 of round 2
+  Key stats:
+  - MICHAEL MCDONALD landed 51 significant strikes
+  - BRAD PICKETT landed 17 significant strikes
+  - Knockdowns: MICHAEL MCDONALD 2,  BRAD PICKETT 0
+  - Takedowns: MICHAEL MCDONALD 0,  BRAD PICKETT 1
+  Bonus: fight

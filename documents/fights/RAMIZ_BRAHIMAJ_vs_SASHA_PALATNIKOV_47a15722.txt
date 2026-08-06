@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cannonier vs. Gastelum
+    Date: August 21, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: RAMIZ BRAHIMAJ defeated SASHA PALATNIKOV via Submission  
+  at 2:33 of round 1
+  Key stats:
+  - RAMIZ BRAHIMAJ landed 1 significant strikes
+  - SASHA PALATNIKOV landed 1 significant strikes
+  - Knockdowns: RAMIZ BRAHIMAJ 0,  SASHA PALATNIKOV 0
+  - Takedowns: RAMIZ BRAHIMAJ 2,  SASHA PALATNIKOV 0

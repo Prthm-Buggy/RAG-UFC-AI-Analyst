@@ -1,0 +1,13 @@
+Event: UFC 50: The War Of '04
+    Date: October 22, 2004
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: RICH FRANKLIN defeated JORGE RIVERA via Submission  
+  at 4:28 of round 3
+  Key stats:
+  - RICH FRANKLIN landed 41 significant strikes
+  - JORGE RIVERA landed 22 significant strikes
+  - Knockdowns: RICH FRANKLIN 1,  JORGE RIVERA 0
+  - Takedowns: RICH FRANKLIN 3,  JORGE RIVERA 0

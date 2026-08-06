@@ -1,0 +1,11 @@
+Fighter: HARRY HARDWICK
+  Date of Birth: 1994-09-29
+  Career record: 2
+  First fight: 2025-09-06
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :73
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

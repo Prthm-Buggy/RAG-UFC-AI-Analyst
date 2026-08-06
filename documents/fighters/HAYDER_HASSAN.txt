@@ -1,0 +1,11 @@
+Fighter: HAYDER HASSAN
+  Date of Birth: 1982-10-20
+  Career record: 2
+  First fight: 2015-07-12
+  Last fight: 2015-12-19
+
+Career Statistics:
+- Significant Strikes Landed :18
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

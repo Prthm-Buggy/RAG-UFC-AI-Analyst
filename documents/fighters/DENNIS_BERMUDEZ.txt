@@ -1,0 +1,11 @@
+Fighter: DENNIS BERMUDEZ
+  Date of Birth: 1986-12-13
+  Career record: 17
+  First fight: 2011-12-03
+  Last fight: 2019-01-19
+
+Career Statistics:
+- Significant Strikes Landed :870
+- Total takedowns landed :51
+- Knockdowns :5
+- Submission Attempts :14

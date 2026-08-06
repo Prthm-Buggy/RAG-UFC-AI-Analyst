@@ -1,0 +1,14 @@
+Event: UFC 115: Liddell vs Franklin
+    Date: June 12, 2010
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS CONDIT defeated RORY MACDONALD via KO/TKO  
+  at 4:53 of round 3
+  Key stats:
+  - CARLOS CONDIT landed 72 significant strikes
+  - RORY MACDONALD landed 29 significant strikes
+  - Knockdowns: CARLOS CONDIT 0,  RORY MACDONALD 0
+  - Takedowns: CARLOS CONDIT 0,  RORY MACDONALD 3
+  Bonus: fight

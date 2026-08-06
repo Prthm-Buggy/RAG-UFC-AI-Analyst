@@ -1,0 +1,11 @@
+Fighter: LODUNE SINCAID
+  Date of Birth: 1973-05-07
+  Career record: 1
+  First fight: 2005-04-09
+  Last fight: 2005-04-09
+
+Career Statistics:
+- Significant Strikes Landed :10
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

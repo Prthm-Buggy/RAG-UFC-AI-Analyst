@@ -1,0 +1,13 @@
+Event: UFC 87: Seek And Destroy
+    Date: August 09, 2008
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Welterweight
+    
+
+    Result: TAMDAN MCCRORY defeated LUKE CUMMO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TAMDAN MCCRORY landed 26 significant strikes
+  - LUKE CUMMO landed 11 significant strikes
+  - Knockdowns: TAMDAN MCCRORY 0,  LUKE CUMMO 0
+  - Takedowns: TAMDAN MCCRORY 4,  LUKE CUMMO 1

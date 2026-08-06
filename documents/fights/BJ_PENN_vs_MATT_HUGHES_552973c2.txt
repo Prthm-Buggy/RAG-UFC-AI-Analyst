@@ -1,0 +1,14 @@
+Event: UFC 123: Rampage vs Machida
+    Date: November 20, 2010
+    Location: Auburn Hills, Michigan, USA
+    Weight Class: Welterweight
+    
+
+    Result: BJ PENN defeated MATT HUGHES via KO/TKO  
+  at 0:21 of round 1
+  Key stats:
+  - BJ PENN landed 7 significant strikes
+  - MATT HUGHES landed 3 significant strikes
+  - Knockdowns: BJ PENN 1,  MATT HUGHES 0
+  - Takedowns: BJ PENN 0,  MATT HUGHES 0
+  Bonus: ko

@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dos Santos vs Miocic
+    Date: December 13, 2014
+    Location: Phoenix, Arizona, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALISTAIR OVEREEM defeated STEFAN STRUVE via KO/TKO  
+  at 4:13 of round 1
+  Key stats:
+  - ALISTAIR OVEREEM landed 17 significant strikes
+  - STEFAN STRUVE landed 2 significant strikes
+  - Knockdowns: ALISTAIR OVEREEM 0,  STEFAN STRUVE 0
+  - Takedowns: ALISTAIR OVEREEM 1,  STEFAN STRUVE 0

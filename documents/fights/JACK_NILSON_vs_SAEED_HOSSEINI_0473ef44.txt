@@ -1,0 +1,13 @@
+Event: UFC 13: The Ultimate Force
+    Date: May 30, 1997
+    Location: Augusta, Georgia, USA
+    Weight Class: Lightweight
+    
+
+    Result: JACK NILSON defeated SAEED HOSSEINI via KO/TKO  
+  at 1:23 of round 1
+  Key stats:
+  - JACK NILSON landed 11 significant strikes
+  - SAEED HOSSEINI landed 1 significant strikes
+  - Knockdowns: JACK NILSON 0,  SAEED HOSSEINI 0
+  - Takedowns: JACK NILSON 0,  SAEED HOSSEINI 0

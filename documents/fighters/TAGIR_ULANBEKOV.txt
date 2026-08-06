@@ -1,0 +1,11 @@
+Fighter: TAGIR ULANBEKOV
+  Date of Birth: 1991-08-07
+  Career record: 8
+  First fight: 2020-10-10
+  Last fight: 2025-11-22
+
+Career Statistics:
+- Significant Strikes Landed :298
+- Total takedowns landed :18
+- Knockdowns :1
+- Submission Attempts :10

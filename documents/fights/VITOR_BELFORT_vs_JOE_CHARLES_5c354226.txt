@@ -1,0 +1,13 @@
+Event: UFC - Ultimate Japan
+    Date: December 21, 1997
+    Location: Yokohama, Kanagawa, Japan
+    Weight Class: Heavyweight
+    
+
+    Result: VITOR BELFORT defeated JOE CHARLES via Submission  
+  at 4:03 of round 1
+  Key stats:
+  - VITOR BELFORT landed 0 significant strikes
+  - JOE CHARLES landed 1 significant strikes
+  - Knockdowns: VITOR BELFORT 0,  JOE CHARLES 0
+  - Takedowns: VITOR BELFORT 2,  JOE CHARLES 0

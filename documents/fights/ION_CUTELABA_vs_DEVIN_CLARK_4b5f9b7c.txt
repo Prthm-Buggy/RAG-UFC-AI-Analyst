@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Spann
+    Date: September 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ION CUTELABA defeated DEVIN CLARK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ION CUTELABA landed 64 significant strikes
+  - DEVIN CLARK landed 23 significant strikes
+  - Knockdowns: ION CUTELABA 1,  DEVIN CLARK 0
+  - Takedowns: ION CUTELABA 8,  DEVIN CLARK 1

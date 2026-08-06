@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs Cowboy
+    Date: February 21, 2016
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANTHONY SMITH defeated LEONARDO GUIMARAES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ANTHONY SMITH landed 57 significant strikes
+  - LEONARDO GUIMARAES landed 64 significant strikes
+  - Knockdowns: ANTHONY SMITH 0,  LEONARDO GUIMARAES 0
+  - Takedowns: ANTHONY SMITH 2,  LEONARDO GUIMARAES 0

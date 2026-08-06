@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Burns vs. Brady
+    Date: September 07, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ISAAC DULGARIAN defeated BRENDON MAROTTE via Submission  
+  at 4:19 of round 2
+  Key stats:
+  - ISAAC DULGARIAN landed 41 significant strikes
+  - BRENDON MAROTTE landed 3 significant strikes
+  - Knockdowns: ISAAC DULGARIAN 0,  BRENDON MAROTTE 0
+  - Takedowns: ISAAC DULGARIAN 2,  BRENDON MAROTTE 0

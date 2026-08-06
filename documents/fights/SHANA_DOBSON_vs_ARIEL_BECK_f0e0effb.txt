@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: A New World Champion Finale
+    Date: December 01, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: SHANA DOBSON defeated ARIEL BECK via KO/TKO  
+  at 2:53 of round 2
+  Key stats:
+  - SHANA DOBSON landed 34 significant strikes
+  - ARIEL BECK landed 35 significant strikes
+  - Knockdowns: SHANA DOBSON 1,  ARIEL BECK 0
+  - Takedowns: SHANA DOBSON 0,  ARIEL BECK 0

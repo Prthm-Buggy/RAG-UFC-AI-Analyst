@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Penn
+    Date: January 15, 2017
+    Location: Phoenix, Arizona, USA
+    Weight Class: Flyweight
+    
+
+    Result: SERGIO PETTIS defeated JOHN MORAGA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SERGIO PETTIS landed 48 significant strikes
+  - JOHN MORAGA landed 33 significant strikes
+  - Knockdowns: SERGIO PETTIS 0,  JOHN MORAGA 0
+  - Takedowns: SERGIO PETTIS 2,  JOHN MORAGA 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Till vs. Masvidal
+    Date: March 16, 2019
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: CLAUDIO SILVA defeated DANNY ROBERTS via Submission  
+  at 2:37 of round 3
+  Key stats:
+  - CLAUDIO SILVA landed 19 significant strikes
+  - DANNY ROBERTS landed 26 significant strikes
+  - Knockdowns: CLAUDIO SILVA 0,  DANNY ROBERTS 0
+  - Takedowns: CLAUDIO SILVA 3,  DANNY ROBERTS 0

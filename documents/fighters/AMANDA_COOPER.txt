@@ -1,0 +1,11 @@
+Fighter: AMANDA COOPER
+  Date of Birth: 1991-10-22
+  Career record: 6
+  First fight: 2016-07-08
+  Last fight: 2018-11-10
+
+Career Statistics:
+- Significant Strikes Landed :174
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :6

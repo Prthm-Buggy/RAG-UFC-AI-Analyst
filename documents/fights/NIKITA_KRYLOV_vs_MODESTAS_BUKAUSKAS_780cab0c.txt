@@ -1,0 +1,13 @@
+Event: UFC 324: Gaethje vs. Pimblett
+    Date: January 24, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: NIKITA KRYLOV defeated MODESTAS BUKAUSKAS via KO/TKO  
+  at 4:57 of round 3
+  Key stats:
+  - NIKITA KRYLOV landed 72 significant strikes
+  - MODESTAS BUKAUSKAS landed 40 significant strikes
+  - Knockdowns: NIKITA KRYLOV 1,  MODESTAS BUKAUSKAS 0
+  - Takedowns: NIKITA KRYLOV 1,  MODESTAS BUKAUSKAS 0

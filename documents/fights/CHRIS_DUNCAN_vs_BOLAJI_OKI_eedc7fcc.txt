@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moicano vs. Saint Denis
+    Date: September 28, 2024
+    Location: Paris, Ile-de-France, France
+    Weight Class: Lightweight
+    
+
+    Result: CHRIS DUNCAN defeated BOLAJI OKI via Submission  
+  at 3:34 of round 1
+  Key stats:
+  - CHRIS DUNCAN landed 10 significant strikes
+  - BOLAJI OKI landed 28 significant strikes
+  - Knockdowns: CHRIS DUNCAN 0,  BOLAJI OKI 0
+  - Takedowns: CHRIS DUNCAN 0,  BOLAJI OKI 2
+  Bonus: perf

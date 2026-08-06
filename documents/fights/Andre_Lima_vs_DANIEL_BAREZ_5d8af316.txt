@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vettori vs. Dolidze 2
+    Date: March 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: Andre Lima defeated DANIEL BAREZ via Submission  
+  at 3:05 of round 3
+  Key stats:
+  - Andre Lima landed 108 significant strikes
+  - DANIEL BAREZ landed 33 significant strikes
+  - Knockdowns: Andre Lima 0,  DANIEL BAREZ 0
+  - Takedowns: Andre Lima 2,  DANIEL BAREZ 1
+  Bonus: perf

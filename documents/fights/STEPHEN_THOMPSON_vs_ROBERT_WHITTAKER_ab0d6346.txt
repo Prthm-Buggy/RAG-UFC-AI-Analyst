@@ -1,0 +1,14 @@
+Event: UFC 170: Rousey vs McMann
+    Date: February 22, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: STEPHEN THOMPSON defeated ROBERT WHITTAKER via KO/TKO  
+  at 3:43 of round 1
+  Key stats:
+  - STEPHEN THOMPSON landed 38 significant strikes
+  - ROBERT WHITTAKER landed 19 significant strikes
+  - Knockdowns: STEPHEN THOMPSON 1,  ROBERT WHITTAKER 0
+  - Takedowns: STEPHEN THOMPSON 0,  ROBERT WHITTAKER 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Iaquinta vs. Cowboy
+    Date: May 04, 2019
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Featherweight
+    
+
+    Result: SHANE BURGOS defeated CUB SWANSON via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - SHANE BURGOS landed 134 significant strikes
+  - CUB SWANSON landed 129 significant strikes
+  - Knockdowns: SHANE BURGOS 0,  CUB SWANSON 0
+  - Takedowns: SHANE BURGOS 0,  CUB SWANSON 0

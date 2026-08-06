@@ -1,0 +1,13 @@
+Event: UFC 91: Couture vs Lesnar
+    Date: November 15, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MARK BOCEK defeated ALVIN ROBINSON via Submission  
+  at 3:16 of round 3
+  Key stats:
+  - MARK BOCEK landed 21 significant strikes
+  - ALVIN ROBINSON landed 5 significant strikes
+  - Knockdowns: MARK BOCEK 0,  ALVIN ROBINSON 0
+  - Takedowns: MARK BOCEK 1,  ALVIN ROBINSON 0

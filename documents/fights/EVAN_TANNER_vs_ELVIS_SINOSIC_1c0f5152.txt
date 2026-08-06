@@ -1,0 +1,13 @@
+Event: UFC 36: Worlds Collide
+    Date: March 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: EVAN TANNER defeated ELVIS SINOSIC via TKO - Doctor's Stoppage  
+  at 2:06 of round 1
+  Key stats:
+  - EVAN TANNER landed 7 significant strikes
+  - ELVIS SINOSIC landed 4 significant strikes
+  - Knockdowns: EVAN TANNER 0,  ELVIS SINOSIC 0
+  - Takedowns: EVAN TANNER 0,  ELVIS SINOSIC 0

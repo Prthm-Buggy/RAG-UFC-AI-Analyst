@@ -1,0 +1,15 @@
+Event : UFC 49: Unfinished Business
+    Date : August 21, 2004
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Lightweight, Middleweight, Welterweight, Light Heavyweight
+
+    Fight Results:
+  - DAVID TERRELL def. MATT LINDLAND via KO/TKO(R1)
+- JUSTIN EILERS def. MIKE KYLE via KO/TKO(R1)
+- KARO PARISYAN def. NICK DIAZ via Decision - Split(R3)
+- YVES EDWARDS def. JOSH THOMSON via KO/TKO(R1)
+- RANDY COUTURE def. VITOR BELFORT via TKO - Doctor's Stoppage(R3)
+- JOE RIGGS def. JOE DOERKSEN via KO/TKO(R2)
+- CHRIS LYTLE def. RONALD JHUN via Submission(R2)
+- CHUCK LIDDELL def. VERNON WHITE via KO/TKO(R1)

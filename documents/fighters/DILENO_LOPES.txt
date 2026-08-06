@@ -1,0 +1,11 @@
+Fighter: DILENO LOPES
+  Date of Birth: 1984-09-26
+  Career record: 2
+  First fight: 2015-08-01
+  Last fight: 2016-07-07
+
+Career Statistics:
+- Significant Strikes Landed :71
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :3

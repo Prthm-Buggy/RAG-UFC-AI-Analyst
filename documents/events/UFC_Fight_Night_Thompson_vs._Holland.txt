@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Thompson vs. Holland
+    Date : December 03, 2022
+    Location: Orlando, Florida, USA
+    Number of Fights: 14
+    Weight Classes: Heavyweight, Flyweight, Middleweight, Women's Strawweight, Welterweight, Lightweight, Featherweight
+
+    Fight Results:
+  - FRANCIS MARSHALL def. MARCELO ROJO via KO/TKO(R2)
+- ANGELA HILL def. EMILY DUCOTE via Decision - Unanimous(R3)
+- SERGEI PAVLOVICH def. TAI TUIVASA via KO/TKO(R1)
+- ERYK ANDERS def. KYLE DAUKAUS via KO/TKO(R2)
+- YAZMIN JAUREGUI def. ISTELA NUNES via KO/TKO(R2)
+- ROMAN DOLIDZE def. JACK HERMANSSON via KO/TKO(R2)
+- MATHEUS NICOLAU def. MATT SCHNELL via KO/TKO(R2)
+- CLAY GUIDA def. SCOTT HOLTZMAN via Decision - Split(R3)
+- MICHAEL JOHNSON def. MARC DIAKIESE via Decision - Unanimous(R3)
+- PHIL ROWE def. NIKO PRICE via KO/TKO(R3)
+- JONATHAN PEARCE def. DARREN ELKINS via Decision - Unanimous(R3)
+- RAFAEL DOS ANJOS def. BRYAN BARBERENA via Submission(R2)
+- STEPHEN THOMPSON def. KEVIN HOLLAND via KO/TKO(R4)
+- NATAN LEVY def. GENARO VALDEZ via Decision - Unanimous(R3)

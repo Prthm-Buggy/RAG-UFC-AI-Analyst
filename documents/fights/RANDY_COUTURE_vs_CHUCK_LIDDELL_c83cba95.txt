@@ -1,0 +1,14 @@
+Event: UFC 43: Meltdown
+    Date: June 06, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RANDY COUTURE defeated CHUCK LIDDELL via KO/TKO  
+  at 2:39 of round 3
+  Key stats:
+  - RANDY COUTURE landed 46 significant strikes
+  - CHUCK LIDDELL landed 22 significant strikes
+  - Knockdowns: RANDY COUTURE 0,  CHUCK LIDDELL 0
+  - Takedowns: RANDY COUTURE 4,  CHUCK LIDDELL 0
+  Bonus: belt

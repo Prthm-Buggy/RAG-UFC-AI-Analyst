@@ -1,0 +1,11 @@
+Fighter: ANTONIO BRAGA NETO
+  Date of Birth: 1987-10-29
+  Career record: 3
+  First fight: 2013-06-08
+  Last fight: 2017-12-09
+
+Career Statistics:
+- Significant Strikes Landed :40
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

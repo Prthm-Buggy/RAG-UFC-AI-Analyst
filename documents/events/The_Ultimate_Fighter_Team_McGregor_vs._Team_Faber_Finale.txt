@@ -1,0 +1,17 @@
+Event : The Ultimate Fighter: Team McGregor vs. Team Faber Finale
+    Date : December 11, 2015
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Lightweight, Featherweight, Welterweight, Flyweight, Heavyweight
+
+    Fight Results:
+  - GEANE HERRERA def. JOBY SANCHEZ via KO/TKO(R2)
+- RYAN LAFLARE def. MIKE PIERCE via Decision - Unanimous(R3)
+- RYAN HALL def. ARTEM LOBOV via Decision - Unanimous(R3)
+- FRANKIE EDGAR def. CHAD MENDES via KO/TKO(R1)
+- TONY FERGUSON def. EDSON BARBOZA via Submission(R2)
+- TATSUYA KAWAJIRI def. JASON KNIGHT via Decision - Unanimous(R3)
+- EVAN DUNHAM def. JOE LAUZON via Decision - Unanimous(R3)
+- JULIAN EROSA def. MARCIN WRZOSEK via Decision - Split(R3)
+- CHRIS GRUETZEMACHER def. ABNER LLOVERAS via Decision - Unanimous(R3)
+- GABRIEL GONZAGA def. KONSTANTIN EROKHIN via Decision - Unanimous(R3)

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. Cortez
+    Date: July 13, 2024
+    Location: Denver, Colorado, USA
+    Weight Class: Featherweight
+    
+
+    Result: JULIAN EROSA defeated CHRISTIAN RODRIGUEZ via Submission  
+  at 4:49 of round 1
+  Key stats:
+  - JULIAN EROSA landed 35 significant strikes
+  - CHRISTIAN RODRIGUEZ landed 33 significant strikes
+  - Knockdowns: JULIAN EROSA 0,  CHRISTIAN RODRIGUEZ 0
+  - Takedowns: JULIAN EROSA 1,  CHRISTIAN RODRIGUEZ 0

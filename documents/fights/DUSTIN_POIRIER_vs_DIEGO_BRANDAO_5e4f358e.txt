@@ -1,0 +1,13 @@
+Event: UFC 168: Weidman vs Silva 2
+    Date: December 28, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DUSTIN POIRIER defeated DIEGO BRANDAO via KO/TKO  
+  at 4:54 of round 1
+  Key stats:
+  - DUSTIN POIRIER landed 44 significant strikes
+  - DIEGO BRANDAO landed 16 significant strikes
+  - Knockdowns: DUSTIN POIRIER 1,  DIEGO BRANDAO 0
+  - Takedowns: DUSTIN POIRIER 0,  DIEGO BRANDAO 1

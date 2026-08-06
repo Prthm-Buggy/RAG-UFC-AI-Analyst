@@ -1,0 +1,14 @@
+Event: UFC on FOX: Diaz vs Miller
+    Date: May 05, 2012
+    Location: East Rutherford, New Jersey, USA
+    Weight Class: Flyweight
+    
+
+    Result: LOUIS GAUDINOT defeated JOHN LINEKER via Submission  
+  at 4:54 of round 2
+  Key stats:
+  - LOUIS GAUDINOT landed 65 significant strikes
+  - JOHN LINEKER landed 96 significant strikes
+  - Knockdowns: LOUIS GAUDINOT 0,  JOHN LINEKER 0
+  - Takedowns: LOUIS GAUDINOT 2,  JOHN LINEKER 0
+  Bonus: fight

@@ -1,0 +1,14 @@
+Event: UFC 286: Edwards vs. Usman 3
+    Date: March 18, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: GUNNAR NELSON defeated BRYAN BARBERENA via Submission  
+  at 4:51 of round 1
+  Key stats:
+  - GUNNAR NELSON landed 10 significant strikes
+  - BRYAN BARBERENA landed 7 significant strikes
+  - Knockdowns: GUNNAR NELSON 0,  BRYAN BARBERENA 0
+  - Takedowns: GUNNAR NELSON 1,  BRYAN BARBERENA 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 137: Penn vs Diaz
+    Date: October 29, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ROY NELSON defeated MIRKO FILIPOVIC via KO/TKO  
+  at 1:30 of round 3
+  Key stats:
+  - ROY NELSON landed 32 significant strikes
+  - MIRKO FILIPOVIC landed 30 significant strikes
+  - Knockdowns: ROY NELSON 0,  MIRKO FILIPOVIC 0
+  - Takedowns: ROY NELSON 2,  MIRKO FILIPOVIC 0

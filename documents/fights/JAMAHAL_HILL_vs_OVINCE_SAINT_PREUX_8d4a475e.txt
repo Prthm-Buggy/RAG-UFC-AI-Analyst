@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Vettori
+    Date: December 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAMAHAL HILL defeated OVINCE SAINT PREUX via KO/TKO  
+  at 3:37 of round 2
+  Key stats:
+  - JAMAHAL HILL landed 68 significant strikes
+  - OVINCE SAINT PREUX landed 36 significant strikes
+  - Knockdowns: JAMAHAL HILL 0,  OVINCE SAINT PREUX 0
+  - Takedowns: JAMAHAL HILL 0,  OVINCE SAINT PREUX 0

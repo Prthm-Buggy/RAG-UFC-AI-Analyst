@@ -1,0 +1,11 @@
+Fighter: JUAN MANUEL PUIG
+  Date of Birth: 1989-04-23
+  Career record: 2
+  First fight: 2014-07-06
+  Last fight: 2014-11-22
+
+Career Statistics:
+- Significant Strikes Landed :13
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

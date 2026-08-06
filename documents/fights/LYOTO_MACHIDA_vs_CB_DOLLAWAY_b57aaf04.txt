@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs Dollaway
+    Date: December 20, 2014
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: LYOTO MACHIDA defeated CB DOLLAWAY via KO/TKO  
+  at 1:02 of round 1
+  Key stats:
+  - LYOTO MACHIDA landed 12 significant strikes
+  - CB DOLLAWAY landed 0 significant strikes
+  - Knockdowns: LYOTO MACHIDA 1,  CB DOLLAWAY 0
+  - Takedowns: LYOTO MACHIDA 0,  CB DOLLAWAY 0
+  Bonus: perf

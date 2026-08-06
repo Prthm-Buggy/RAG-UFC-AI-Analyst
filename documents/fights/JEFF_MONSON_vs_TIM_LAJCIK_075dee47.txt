@@ -1,0 +1,13 @@
+Event: UFC 27: Ultimate Bad Boyz
+    Date: September 22, 2000
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JEFF MONSON defeated TIM LAJCIK via Decision - Unanimous  
+  at 5:00 of round 2
+  Key stats:
+  - JEFF MONSON landed 31 significant strikes
+  - TIM LAJCIK landed 5 significant strikes
+  - Knockdowns: JEFF MONSON 0,  TIM LAJCIK 0
+  - Takedowns: JEFF MONSON 1,  TIM LAJCIK 0

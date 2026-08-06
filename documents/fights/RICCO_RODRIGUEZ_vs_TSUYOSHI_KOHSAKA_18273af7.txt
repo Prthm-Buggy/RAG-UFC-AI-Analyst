@@ -1,0 +1,13 @@
+Event: UFC 37: High Impact
+    Date: May 10, 2002
+    Location: Bossier City, Louisiana, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RICCO RODRIGUEZ defeated TSUYOSHI KOHSAKA via KO/TKO  
+  at 3:25 of round 2
+  Key stats:
+  - RICCO RODRIGUEZ landed 19 significant strikes
+  - TSUYOSHI KOHSAKA landed 6 significant strikes
+  - Knockdowns: RICCO RODRIGUEZ 0,  TSUYOSHI KOHSAKA 0
+  - Takedowns: RICCO RODRIGUEZ 3,  TSUYOSHI KOHSAKA 1

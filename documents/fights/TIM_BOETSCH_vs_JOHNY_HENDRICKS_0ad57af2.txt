@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Chiesa vs. Lee
+    Date: June 25, 2017
+    Location: Oklahoma City, Oklahoma, USA
+    Weight Class: Middleweight
+    
+
+    Result: TIM BOETSCH defeated JOHNY HENDRICKS via KO/TKO  
+  at 0:46 of round 2
+  Key stats:
+  - TIM BOETSCH landed 41 significant strikes
+  - JOHNY HENDRICKS landed 10 significant strikes
+  - Knockdowns: TIM BOETSCH 0,  JOHNY HENDRICKS 0
+  - Takedowns: TIM BOETSCH 0,  JOHNY HENDRICKS 0
+  Bonus: perf

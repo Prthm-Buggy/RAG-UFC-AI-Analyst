@@ -1,0 +1,11 @@
+Fighter: CHARLIE ONTIVEROS
+  Date of Birth: 1991-07-04
+  Career record: 3
+  First fight: 2020-10-31
+  Last fight: 2022-08-13
+
+Career Statistics:
+- Significant Strikes Landed :31
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

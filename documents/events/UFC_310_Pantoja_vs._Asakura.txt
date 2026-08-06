@@ -1,0 +1,21 @@
+Event : UFC 310: Pantoja vs. Asakura
+    Date : December 07, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 14
+    Weight Classes: Featherweight, Catch Weight, Welterweight, Light Heavyweight, Flyweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - SHAVKAT RAKHMONOV def. IAN MACHADO GARRY via Decision - Unanimous(R5)
+- ALEXANDRE PANTOJA def. Kai Asakura via Submission(R2)
+- ERYK ANDERS def. CHRIS WEIDMAN via KO/TKO(R2)
+- JOSHUA VAN def. CODY DURDEN via Decision - Unanimous(R3)
+- BRYCE MITCHELL def. KRON GRACIE via KO/TKO(R3)
+- VICENTE LUQUE def. THEMBA GORIMBO via Submission(R1)
+- MOVSAR EVLOEV def. ALJAMAIN STERLING via Decision - Unanimous(R3)
+- CIRYL GANE def. ALEXANDER VOLKOV via Decision - Split(R3)
+- DOOHO CHOI def. NATE LANDWEHR via KO/TKO(R3)
+- BRYAN BATTLE def. RANDY BROWN via Decision - Split(R3)
+- MICHAEL CHIESA def. MAX GRIFFIN via Submission(R3)
+- DOMINICK REYES def. ANTHONY SMITH via KO/TKO(R2)
+- CHASE HOOPER def. CLAY GUIDA via Submission(R1)
+- KENNEDY NZECHUKWU def. LUKASZ BRZESKI via KO/TKO(R1)

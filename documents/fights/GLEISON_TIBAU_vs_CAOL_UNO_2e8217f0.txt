@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Gomi
+    Date: March 31, 2010
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Lightweight
+    
+
+    Result: GLEISON TIBAU defeated CAOL UNO via KO/TKO  
+  at 4:13 of round 1
+  Key stats:
+  - GLEISON TIBAU landed 22 significant strikes
+  - CAOL UNO landed 6 significant strikes
+  - Knockdowns: GLEISON TIBAU 1,  CAOL UNO 0
+  - Takedowns: GLEISON TIBAU 1,  CAOL UNO 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ulberg vs. Reyes
+    Date: September 27, 2025
+    Location: Perth, Western Australia, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: BRANDO PERICIC defeated ELISHA ELLISON via KO/TKO  
+  at 1:55 of round 1
+  Key stats:
+  - BRANDO PERICIC landed 29 significant strikes
+  - ELISHA ELLISON landed 3 significant strikes
+  - Knockdowns: BRANDO PERICIC 0,  ELISHA ELLISON 0
+  - Takedowns: BRANDO PERICIC 0,  ELISHA ELLISON 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: ALEXANDR ROMANOV
+  Date of Birth: 1990-12-11
+  Career record: 10
+  First fight: 2020-09-12
+  Last fight: 2024-11-02
+
+Career Statistics:
+- Significant Strikes Landed :328
+- Total takedowns landed :26
+- Knockdowns :0
+- Submission Attempts :5

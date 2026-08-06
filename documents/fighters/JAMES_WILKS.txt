@@ -1,0 +1,11 @@
+Fighter: JAMES WILKS
+  Date of Birth: 1978-05-04
+  Career record: 4
+  First fight: 2009-06-20
+  Last fight: 2010-10-16
+
+Career Statistics:
+- Significant Strikes Landed :86
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :12

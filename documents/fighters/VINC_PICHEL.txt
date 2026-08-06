@@ -1,0 +1,11 @@
+Fighter: VINC PICHEL
+  Date of Birth: 1982-11-23
+  Career record: 12
+  First fight: 2012-12-15
+  Last fight: 2025-03-29
+
+Career Statistics:
+- Significant Strikes Landed :567
+- Total takedowns landed :25
+- Knockdowns :1
+- Submission Attempts :2

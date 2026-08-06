@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale
+    Date: June 24, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MIKE NICKELS defeated WES COMBS via Submission  
+  at 3:10 of round 1
+  Key stats:
+  - MIKE NICKELS landed 22 significant strikes
+  - WES COMBS landed 4 significant strikes
+  - Knockdowns: MIKE NICKELS 0,  WES COMBS 0
+  - Takedowns: MIKE NICKELS 3,  WES COMBS 0

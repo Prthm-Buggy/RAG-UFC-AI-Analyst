@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Magny vs. Ponzinibbio
+    Date: November 17, 2018
+    Location: Buenos Aires, Buenos Aires, Argentina
+    Weight Class: Light Heavyweight
+    
+
+    Result: JOHNNY WALKER defeated KHALIL ROUNTREE JR. via KO/TKO  
+  at 1:57 of round 1
+  Key stats:
+  - JOHNNY WALKER landed 10 significant strikes
+  - KHALIL ROUNTREE JR. landed 4 significant strikes
+  - Knockdowns: JOHNNY WALKER 1,  KHALIL ROUNTREE JR. 0
+  - Takedowns: JOHNNY WALKER 0,  KHALIL ROUNTREE JR. 0
+  Bonus: perf

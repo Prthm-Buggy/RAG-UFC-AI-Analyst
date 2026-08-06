@@ -1,0 +1,13 @@
+Event: UFC 250: Nunes vs. Spencer
+    Date: June 06, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: HERBERT BURNS defeated EVAN DUNHAM via Submission  
+  at 1:20 of round 1
+  Key stats:
+  - HERBERT BURNS landed 5 significant strikes
+  - EVAN DUNHAM landed 3 significant strikes
+  - Knockdowns: HERBERT BURNS 0,  EVAN DUNHAM 0
+  - Takedowns: HERBERT BURNS 1,  EVAN DUNHAM 0

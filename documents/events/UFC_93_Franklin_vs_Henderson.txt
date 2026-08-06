@@ -1,0 +1,17 @@
+Event : UFC 93: Franklin vs Henderson
+    Date : January 17, 2009
+    Location: Dublin, Leinster, Ireland
+    Number of Fights: 10
+    Weight Classes: Light Heavyweight, Welterweight, Middleweight, Lightweight
+
+    Fight Results:
+  - MAURICIO RUA def. MARK COLEMAN via KO/TKO(R3)
+- DENNIS SIVER def. NATE MOHR via KO/TKO(R3)
+- ROUSIMAR PALHARES def. JEREMY HORN via Decision - Unanimous(R3)
+- ALAN BELCHER def. DENIS KANG via Submission(R2)
+- DAN HENDERSON def. RICH FRANKLIN via Decision - Split(R3)
+- MARCUS DAVIS def. CHRIS LYTLE via Decision - Split(R3)
+- JOHN HATHAWAY def. TOM EGAN via KO/TKO(R1)
+- MARTIN KAMPMANN def. ALEXANDRE BARROS via KO/TKO(R2)
+- TOMASZ DRWAL def. IVAN SERATI via KO/TKO(R1)
+- ERIC SCHAFER def. ANTONIO MENDES via KO/TKO(R1)

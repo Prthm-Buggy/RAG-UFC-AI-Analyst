@@ -1,0 +1,11 @@
+Fighter: JONATHAN MEUNIER
+  Date of Birth: 1987-08-04
+  Career record: 2
+  First fight: 2016-06-18
+  Last fight: 2016-11-26
+
+Career Statistics:
+- Significant Strikes Landed :90
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

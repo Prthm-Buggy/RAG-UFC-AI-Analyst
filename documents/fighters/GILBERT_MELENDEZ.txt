@@ -1,0 +1,11 @@
+Fighter: GILBERT MELENDEZ
+  Date of Birth: 1982-04-12
+  Career record: 7
+  First fight: 2013-04-20
+  Last fight: 2019-07-06
+
+Career Statistics:
+- Significant Strikes Landed :294
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

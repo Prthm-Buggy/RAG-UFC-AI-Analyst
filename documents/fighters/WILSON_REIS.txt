@@ -1,0 +1,11 @@
+Fighter: WILSON REIS
+  Date of Birth: 1985-01-06
+  Career record: 13
+  First fight: 2013-09-21
+  Last fight: 2019-04-13
+
+Career Statistics:
+- Significant Strikes Landed :271
+- Total takedowns landed :51
+- Knockdowns :0
+- Submission Attempts :6

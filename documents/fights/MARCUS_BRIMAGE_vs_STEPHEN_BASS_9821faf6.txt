@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Bisping vs Team Miller Finale
+    Date: December 03, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: MARCUS BRIMAGE defeated STEPHEN BASS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARCUS BRIMAGE landed 88 significant strikes
+  - STEPHEN BASS landed 73 significant strikes
+  - Knockdowns: MARCUS BRIMAGE 0,  STEPHEN BASS 0
+  - Takedowns: MARCUS BRIMAGE 1,  STEPHEN BASS 0

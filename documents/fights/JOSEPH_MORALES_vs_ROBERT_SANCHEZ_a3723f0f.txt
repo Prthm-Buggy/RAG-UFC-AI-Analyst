@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Pettis vs. Moreno
+    Date: August 05, 2017
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Flyweight
+    
+
+    Result: JOSEPH MORALES defeated ROBERT SANCHEZ via Submission  
+  at 3:56 of round 1
+  Key stats:
+  - JOSEPH MORALES landed 12 significant strikes
+  - ROBERT SANCHEZ landed 2 significant strikes
+  - Knockdowns: JOSEPH MORALES 1,  ROBERT SANCHEZ 0
+  - Takedowns: JOSEPH MORALES 0,  ROBERT SANCHEZ 1
+  Bonus: perf

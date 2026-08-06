@@ -1,0 +1,20 @@
+Event : UFC 165: Jones vs Gustafsson
+    Date : September 21, 2013
+    Location: Toronto, Ontario, Canada
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Heavyweight, Middleweight, Lightweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - JON JONES def. ALEXANDER GUSTAFSSON via Decision - Unanimous(R5)
+- ALEX CACERES def. ROLAND DELORME via Decision - Split(R3)
+- MYLES JURY def. MIKE RICCI via Decision - Split(R3)
+- STEPHEN THOMPSON def. CHRIS CLEMENTS via KO/TKO(R2)
+- DANIEL OMIELANCZUK def. NANDOR GUELMINO via KO/TKO(R3)
+- WILSON REIS def. IVAN MENJIVAR via Decision - Unanimous(R3)
+- MITCH GAGNON def. DUSTIN KIMURA via Submission(R1)
+- JOHN MAKDESSI def. RENEE FORTE via KO/TKO(R1)
+- KHABIB NURMAGOMEDOV def. PAT HEALY via Decision - Unanimous(R3)
+- MICHEL PRAZERES def. JESSE RONSON via Decision - Split(R3)
+- FRANCIS CARMONT def. CONSTANTINOS PHILIPPOU via Decision - Unanimous(R3)
+- BRENDAN SCHAUB def. MATT MITRIONE via Submission(R1)
+- RENAN BARAO def. EDDIE WINELAND via KO/TKO(R2)

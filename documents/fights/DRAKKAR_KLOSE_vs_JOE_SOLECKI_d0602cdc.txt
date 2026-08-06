@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dariush vs. Tsarukyan
+    Date: December 02, 2023
+    Location: Austin, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: DRAKKAR KLOSE defeated JOE SOLECKI via KO/TKO  
+  at 1:41 of round 1
+  Key stats:
+  - DRAKKAR KLOSE landed 2 significant strikes
+  - JOE SOLECKI landed 1 significant strikes
+  - Knockdowns: DRAKKAR KLOSE 0,  JOE SOLECKI 0
+  - Takedowns: DRAKKAR KLOSE 0,  JOE SOLECKI 1
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: RICHARD WALSH
+  Date of Birth: 1988-12-01
+  Career record: 6
+  First fight: 2014-04-16
+  Last fight: 2016-11-26
+
+Career Statistics:
+- Significant Strikes Landed :297
+- Total takedowns landed :8
+- Knockdowns :3
+- Submission Attempts :1

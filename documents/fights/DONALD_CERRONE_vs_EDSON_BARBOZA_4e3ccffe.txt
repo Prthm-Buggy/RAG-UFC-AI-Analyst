@@ -1,0 +1,14 @@
+Event: UFC on FOX: Werdum vs Browne
+    Date: April 19, 2014
+    Location: Orlando, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: DONALD CERRONE defeated EDSON BARBOZA via Submission  
+  at 3:15 of round 1
+  Key stats:
+  - DONALD CERRONE landed 11 significant strikes
+  - EDSON BARBOZA landed 28 significant strikes
+  - Knockdowns: DONALD CERRONE 1,  EDSON BARBOZA 0
+  - Takedowns: DONALD CERRONE 0,  EDSON BARBOZA 0
+  Bonus: perf

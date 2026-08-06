@@ -1,0 +1,14 @@
+Event: UFC 68: The Uprising
+    Date: March 03, 2007
+    Location: Columbus, Ohio, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARTIN KAMPMANN defeated DREW MCFEDRIES via Submission  
+  at 4:06 of round 1
+  Key stats:
+  - MARTIN KAMPMANN landed 15 significant strikes
+  - DREW MCFEDRIES landed 16 significant strikes
+  - Knockdowns: MARTIN KAMPMANN 0,  DREW MCFEDRIES 1
+  - Takedowns: MARTIN KAMPMANN 1,  DREW MCFEDRIES 0
+  Bonus: sub

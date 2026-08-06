@@ -1,0 +1,14 @@
+Event: UFC 146: Dos Santos vs Mir
+    Date: May 26, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: PAUL SASS defeated JACOB VOLKMANN via Submission  
+  at 1:54 of round 1
+  Key stats:
+  - PAUL SASS landed 1 significant strikes
+  - JACOB VOLKMANN landed 2 significant strikes
+  - Knockdowns: PAUL SASS 0,  JACOB VOLKMANN 0
+  - Takedowns: PAUL SASS 0,  JACOB VOLKMANN 0
+  Bonus: sub

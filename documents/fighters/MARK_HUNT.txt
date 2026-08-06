@@ -1,0 +1,11 @@
+Fighter: MARK HUNT
+  Date of Birth: 1974-03-23
+  Career record: 16
+  First fight: 2010-09-25
+  Last fight: 2018-12-01
+
+Career Statistics:
+- Significant Strikes Landed :363
+- Total takedowns landed :5
+- Knockdowns :8
+- Submission Attempts :1

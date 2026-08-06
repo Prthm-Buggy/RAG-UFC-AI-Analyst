@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Vallejos
+    Date: March 14, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: VITOR PETRINO defeated STEVEN ASPLUND via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - VITOR PETRINO landed 92 significant strikes
+  - STEVEN ASPLUND landed 61 significant strikes
+  - Knockdowns: VITOR PETRINO 0,  STEVEN ASPLUND 1
+  - Takedowns: VITOR PETRINO 0,  STEVEN ASPLUND 0

@@ -1,0 +1,19 @@
+Event : UFC 145: Jones vs Evans
+    Date : April 21, 2012
+    Location: Atlanta, Georgia, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Light Heavyweight, Featherweight, Welterweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - JON JONES def. RASHAD EVANS via Decision - Unanimous(R5)
+- EDDIE YAGIN def. MARK HOMINICK via Decision - Split(R3)
+- RORY MACDONALD def. CHE MILLS via KO/TKO(R2)
+- MATT BROWN def. STEPHEN THOMPSON via Decision - Unanimous(R3)
+- MICHAEL MCDONALD def. MIGUEL TORRES via KO/TKO(R1)
+- CHRIS CLEMENTS def. KEITH WISNIEWSKI via Decision - Split(R3)
+- BEN ROTHWELL def. BRENDAN SCHAUB via KO/TKO(R1)
+- MARK BOCEK def. JOHN ALESSIO via Decision - Unanimous(R3)
+- MARCUS BRIMAGE def. MAXIMO BLANCO via Decision - Split(R3)
+- MAC DANZIG def. EFRAIN ESCUDERO via Decision - Unanimous(R3)
+- ANTHONY NJOKUANI def. JOHN MAKDESSI via Decision - Unanimous(R3)
+- TRAVIS BROWNE def. CHAD GRIGGS via Submission(R1)

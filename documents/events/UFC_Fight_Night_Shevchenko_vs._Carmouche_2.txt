@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Shevchenko vs. Carmouche 2
+    Date : August 10, 2019
+    Location: Montevideo, Uruguay
+    Number of Fights: 13
+    Weight Classes: Women's Strawweight, Flyweight, Middleweight, Light Heavyweight, Welterweight, Featherweight, Lightweight, Women's Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - VALENTINA SHEVCHENKO def. LIZ CARMOUCHE via Decision - Unanimous(R5)
+- GILBERT BURNS def. ALEKSEI KUNCHENKO via Decision - Unanimous(R3)
+- CHRIS GUTIERREZ def. GERALDO DE FREITAS via Decision - Split(R3)
+- ALEX DA SILVA def. KAZULA VARGAS via Decision - Unanimous(R3)
+- CIRYL GANE def. RAPHAEL PESSOA via Submission(R1)
+- EDUARDO GARAGORRI def. HUMBERTO BANDENAY via Decision - Unanimous(R3)
+- VICENTE LUQUE def. MIKE PERRY via Decision - Split(R3)
+- RODOLFO VIEIRA def. OSKAR PIECHOTA via Submission(R2)
+- VERONICA HARDY def. POLYANA VIANA via Submission(R1)
+- VOLKAN OEZDEMIR def. ILIR LATIFI via KO/TKO(R2)
+- MARINA RODRIGUEZ def. TECIA PENNINGTON via Decision - Unanimous(R3)
+- ROGERIO BONTORIN def. RAULIAN PAIVA via TKO - Doctor's Stoppage(R1)
+- ENRIQUE BARZOLA def. BOBBY MOFFETT via Decision - Split(R3)

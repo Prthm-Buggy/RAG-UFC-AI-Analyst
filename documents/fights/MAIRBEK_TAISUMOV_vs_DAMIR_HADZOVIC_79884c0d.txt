@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rothwell vs Dos Santos
+    Date: April 10, 2016
+    Location: Zagreb, Croatia
+    Weight Class: Lightweight
+    
+
+    Result: MAIRBEK TAISUMOV defeated DAMIR HADZOVIC via KO/TKO  
+  at 3:44 of round 1
+  Key stats:
+  - MAIRBEK TAISUMOV landed 25 significant strikes
+  - DAMIR HADZOVIC landed 11 significant strikes
+  - Knockdowns: MAIRBEK TAISUMOV 1,  DAMIR HADZOVIC 0
+  - Takedowns: MAIRBEK TAISUMOV 0,  DAMIR HADZOVIC 0
+  Bonus: perf

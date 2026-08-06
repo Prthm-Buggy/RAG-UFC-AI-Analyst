@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Allen
+    Date: October 29, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: TRESEAN GORE defeated JOSH FREMD via Submission  
+  at 0:49 of round 2
+  Key stats:
+  - TRESEAN GORE landed 10 significant strikes
+  - JOSH FREMD landed 24 significant strikes
+  - Knockdowns: TRESEAN GORE 0,  JOSH FREMD 0
+  - Takedowns: TRESEAN GORE 3,  JOSH FREMD 0
+  Bonus: perf

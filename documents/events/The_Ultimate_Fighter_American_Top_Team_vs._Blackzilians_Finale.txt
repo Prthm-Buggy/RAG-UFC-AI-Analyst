@@ -1,0 +1,18 @@
+Event : The Ultimate Fighter: American Top Team vs. Blackzilians Finale
+    Date : July 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Welterweight, Flyweight, Middleweight, Women's Strawweight, Featherweight
+
+    Fight Results:
+  - WILLIE GATES def. DARRELL MONTAGUE via KO/TKO(R1)
+- JERROD SANDERS def. RUSSELL DOANE via Decision - Unanimous(R3)
+- JOSH SAMMAN def. CAIO MAGALHAES via Submission(R1)
+- MICHELLE WATERSON-GOMEZ def. ANGELA MAGANA via Submission(R3)
+- KAMARU USMAN def. HAYDER HASSAN via Submission(R2)
+- JORGE MASVIDAL def. CEZAR FERREIRA via KO/TKO(R1)
+- STEPHEN THOMPSON def. JAKE ELLENBERGER via KO/TKO(R1)
+- TREVOR SMITH def. DAN MILLER via Decision - Unanimous(R3)
+- MICHAEL GRAVES def. VICENTE LUQUE via Decision - Unanimous(R3)
+- MAXIMO BLANCO def. MIKE DE LA TORRE via KO/TKO(R1)
+- GEORGE SULLIVAN def. DOMINIC WATERS via Decision - Unanimous(R3)

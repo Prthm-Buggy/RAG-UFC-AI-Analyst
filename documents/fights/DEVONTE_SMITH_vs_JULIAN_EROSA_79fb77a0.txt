@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Korean Zombie vs. Rodriguez
+    Date: November 10, 2018
+    Location: Denver, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: DEVONTE SMITH defeated JULIAN EROSA via KO/TKO  
+  at 0:46 of round 1
+  Key stats:
+  - DEVONTE SMITH landed 13 significant strikes
+  - JULIAN EROSA landed 4 significant strikes
+  - Knockdowns: DEVONTE SMITH 1,  JULIAN EROSA 0
+  - Takedowns: DEVONTE SMITH 0,  JULIAN EROSA 0

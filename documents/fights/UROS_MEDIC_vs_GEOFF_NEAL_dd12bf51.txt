@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Strickland vs. Hernandez
+    Date: February 21, 2026
+    Location: Houston, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: UROS MEDIC defeated GEOFF NEAL via KO/TKO  
+  at 1:19 of round 1
+  Key stats:
+  - UROS MEDIC landed 10 significant strikes
+  - GEOFF NEAL landed 3 significant strikes
+  - Knockdowns: UROS MEDIC 1,  GEOFF NEAL 0
+  - Takedowns: UROS MEDIC 0,  GEOFF NEAL 0
+  Bonus: perf

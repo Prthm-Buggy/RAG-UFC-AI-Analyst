@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Clark
+    Date: November 28, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: None
+    
+
+    Result: JONATHAN PEARCE defeated KAI KAMAKA III via KO/TKO  
+  at 4:28 of round 2
+  Key stats:
+  - JONATHAN PEARCE landed 51 significant strikes
+  - KAI KAMAKA III landed 47 significant strikes
+  - Knockdowns: JONATHAN PEARCE 0,  KAI KAMAKA III 0
+  - Takedowns: JONATHAN PEARCE 5,  KAI KAMAKA III 1

@@ -1,0 +1,14 @@
+Event: UFC 66: Liddell vs Ortiz 2
+    Date: December 30, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JASON MACDONALD defeated CHRIS LEBEN via Submission  
+  at 4:03 of round 2
+  Key stats:
+  - JASON MACDONALD landed 9 significant strikes
+  - CHRIS LEBEN landed 15 significant strikes
+  - Knockdowns: JASON MACDONALD 0,  CHRIS LEBEN 0
+  - Takedowns: JASON MACDONALD 1,  CHRIS LEBEN 2
+  Bonus: sub

@@ -1,0 +1,13 @@
+Event: UFC 324: Gaethje vs. Pimblett
+    Date: January 24, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SEAN O'MALLEY defeated SONG YADONG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SEAN O'MALLEY landed 48 significant strikes
+  - SONG YADONG landed 36 significant strikes
+  - Knockdowns: SEAN O'MALLEY 0,  SONG YADONG 0
+  - Takedowns: SEAN O'MALLEY 0,  SONG YADONG 3

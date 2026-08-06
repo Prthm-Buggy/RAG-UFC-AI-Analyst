@@ -1,0 +1,11 @@
+Fighter: ZHANG LIPENG
+  Date of Birth: 1990-03-10
+  Career record: 4
+  First fight: 2014-03-01
+  Last fight: 2015-05-16
+
+Career Statistics:
+- Significant Strikes Landed :77
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :3

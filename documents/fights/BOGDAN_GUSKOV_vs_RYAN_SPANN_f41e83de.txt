@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Nicolau vs. Perez
+    Date: April 27, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: BOGDAN GUSKOV defeated RYAN SPANN via KO/TKO  
+  at 3:16 of round 2
+  Key stats:
+  - BOGDAN GUSKOV landed 31 significant strikes
+  - RYAN SPANN landed 15 significant strikes
+  - Knockdowns: BOGDAN GUSKOV 1,  RYAN SPANN 0
+  - Takedowns: BOGDAN GUSKOV 0,  RYAN SPANN 1
+  Bonus: perf

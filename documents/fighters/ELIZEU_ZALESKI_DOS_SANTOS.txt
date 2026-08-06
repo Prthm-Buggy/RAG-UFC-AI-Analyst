@@ -1,0 +1,11 @@
+Fighter: ELIZEU ZALESKI DOS SANTOS
+  Date of Birth: 1986-12-11
+  Career record: 17
+  First fight: 2015-05-30
+  Last fight: 2025-08-02
+
+Career Statistics:
+- Significant Strikes Landed :793
+- Total takedowns landed :11
+- Knockdowns :2
+- Submission Attempts :5

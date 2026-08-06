@@ -1,0 +1,13 @@
+Event: UFC 231: Holloway vs. Ortega
+    Date: December 08, 2018
+    Location: Toronto, Ontario, Canada
+    Weight Class: Lightweight
+    
+
+    Result: GILBERT BURNS defeated OLIVIER AUBIN-MERCIER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - GILBERT BURNS landed 76 significant strikes
+  - OLIVIER AUBIN-MERCIER landed 40 significant strikes
+  - Knockdowns: GILBERT BURNS 1,  OLIVIER AUBIN-MERCIER 0
+  - Takedowns: GILBERT BURNS 3,  OLIVIER AUBIN-MERCIER 0

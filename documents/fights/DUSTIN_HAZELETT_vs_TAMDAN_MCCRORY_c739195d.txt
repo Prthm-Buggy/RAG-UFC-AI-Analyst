@@ -1,0 +1,14 @@
+Event: UFC 91: Couture vs Lesnar
+    Date: November 15, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DUSTIN HAZELETT defeated TAMDAN MCCRORY via Submission  
+  at 3:59 of round 1
+  Key stats:
+  - DUSTIN HAZELETT landed 10 significant strikes
+  - TAMDAN MCCRORY landed 15 significant strikes
+  - Knockdowns: DUSTIN HAZELETT 0,  TAMDAN MCCRORY 0
+  - Takedowns: DUSTIN HAZELETT 0,  TAMDAN MCCRORY 0
+  Bonus: sub

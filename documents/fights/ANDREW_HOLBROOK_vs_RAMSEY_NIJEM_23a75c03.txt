@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dillashaw vs. Barao II
+    Date: July 25, 2015
+    Location: Chicago, Illinois, USA
+    Weight Class: Lightweight
+    
+
+    Result: ANDREW HOLBROOK defeated RAMSEY NIJEM via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ANDREW HOLBROOK landed 20 significant strikes
+  - RAMSEY NIJEM landed 29 significant strikes
+  - Knockdowns: ANDREW HOLBROOK 0,  RAMSEY NIJEM 0
+  - Takedowns: ANDREW HOLBROOK 0,  RAMSEY NIJEM 6

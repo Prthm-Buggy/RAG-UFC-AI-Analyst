@@ -1,0 +1,13 @@
+Event: UFC 304: Edwards vs. Muhammad 2
+    Date: July 27, 2024
+    Location: Manchester, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: OBAN ELLIOTT defeated PRESTON PARSONS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - OBAN ELLIOTT landed 44 significant strikes
+  - PRESTON PARSONS landed 36 significant strikes
+  - Knockdowns: OBAN ELLIOTT 0,  PRESTON PARSONS 0
+  - Takedowns: OBAN ELLIOTT 1,  PRESTON PARSONS 1

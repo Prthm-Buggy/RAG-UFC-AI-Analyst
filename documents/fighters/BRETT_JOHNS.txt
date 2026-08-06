@@ -1,0 +1,11 @@
+Fighter: BRETT JOHNS
+  Date of Birth: 1992-02-21
+  Career record: 7
+  First fight: 2016-11-19
+  Last fight: 2020-07-18
+
+Career Statistics:
+- Significant Strikes Landed :253
+- Total takedowns landed :29
+- Knockdowns :0
+- Submission Attempts :6

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bigfoot vs Arlovski
+    Date: September 13, 2014
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: RANI YAHYA defeated JOHNNY BEDFORD via Submission  
+  at 2:04 of round 2
+  Key stats:
+  - RANI YAHYA landed 13 significant strikes
+  - JOHNNY BEDFORD landed 9 significant strikes
+  - Knockdowns: RANI YAHYA 0,  JOHNNY BEDFORD 0
+  - Takedowns: RANI YAHYA 3,  JOHNNY BEDFORD 0

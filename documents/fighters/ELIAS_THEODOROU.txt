@@ -1,0 +1,11 @@
+Fighter: ELIAS THEODOROU
+  Date of Birth: 1988-05-31
+  Career record: 11
+  First fight: 2014-04-16
+  Last fight: 2019-05-04
+
+Career Statistics:
+- Significant Strikes Landed :644
+- Total takedowns landed :13
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC 291: Poirier vs. Gaethje 2
+    Date: July 29, 2023
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Lightweight
+    
+
+    Result: KING GREEN defeated TONY FERGUSON via Submission  
+  at 4:54 of round 3
+  Key stats:
+  - KING GREEN landed 137 significant strikes
+  - TONY FERGUSON landed 54 significant strikes
+  - Knockdowns: KING GREEN 0,  TONY FERGUSON 0
+  - Takedowns: KING GREEN 0,  TONY FERGUSON 0
+  Bonus: perf

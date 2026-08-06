@@ -1,0 +1,11 @@
+Fighter: ISAAC DULGARIAN
+  Date of Birth: 1996-07-04
+  Career record: 4
+  First fight: 2023-08-12
+  Last fight: 2025-11-01
+
+Career Statistics:
+- Significant Strikes Landed :98
+- Total takedowns landed :10
+- Knockdowns :0
+- Submission Attempts :4

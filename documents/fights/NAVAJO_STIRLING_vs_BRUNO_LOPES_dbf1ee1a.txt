@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Adesanya vs. Pyfer
+    Date: March 28, 2026
+    Location: Seattle, Washington, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: NAVAJO STIRLING defeated BRUNO LOPES via KO/TKO  
+  at 4:05 of round 2
+  Key stats:
+  - NAVAJO STIRLING landed 63 significant strikes
+  - BRUNO LOPES landed 28 significant strikes
+  - Knockdowns: NAVAJO STIRLING 1,  BRUNO LOPES 0
+  - Takedowns: NAVAJO STIRLING 0,  BRUNO LOPES 0

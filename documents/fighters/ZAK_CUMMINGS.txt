@@ -1,0 +1,11 @@
+Fighter: ZAK CUMMINGS
+  Date of Birth: 1984-08-02
+  Career record: 14
+  First fight: 2013-08-28
+  Last fight: 2023-04-15
+
+Career Statistics:
+- Significant Strikes Landed :494
+- Total takedowns landed :7
+- Knockdowns :8
+- Submission Attempts :7

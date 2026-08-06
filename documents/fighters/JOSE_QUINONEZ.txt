@@ -1,0 +1,11 @@
+Fighter: JOSE QUINONEZ
+  Date of Birth: 1990-07-28
+  Career record: 9
+  First fight: 2014-11-15
+  Last fight: 2020-12-05
+
+Career Statistics:
+- Significant Strikes Landed :341
+- Total takedowns landed :17
+- Knockdowns :3
+- Submission Attempts :4

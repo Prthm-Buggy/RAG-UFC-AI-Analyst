@@ -1,0 +1,11 @@
+Fighter: CALLAN POTTER
+  Date of Birth: 1984-06-09
+  Career record: 3
+  First fight: 2019-02-09
+  Last fight: 2020-02-22
+
+Career Statistics:
+- Significant Strikes Landed :58
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

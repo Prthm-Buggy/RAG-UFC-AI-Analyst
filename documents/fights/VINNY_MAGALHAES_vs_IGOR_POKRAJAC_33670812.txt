@@ -1,0 +1,13 @@
+Event: UFC 152: Jones vs Belfort
+    Date: September 22, 2012
+    Location: Toronto, Ontario, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: VINNY MAGALHAES defeated IGOR POKRAJAC via Submission  
+  at 1:14 of round 2
+  Key stats:
+  - VINNY MAGALHAES landed 15 significant strikes
+  - IGOR POKRAJAC landed 8 significant strikes
+  - Knockdowns: VINNY MAGALHAES 0,  IGOR POKRAJAC 0
+  - Takedowns: VINNY MAGALHAES 1,  IGOR POKRAJAC 1

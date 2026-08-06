@@ -1,0 +1,11 @@
+Fighter: ANDRE PEDERNEIRAS
+  Date of Birth: 1967-03-22
+  Career record: 1
+  First fight: 1999-07-16
+  Last fight: 1999-07-16
+
+Career Statistics:
+- Significant Strikes Landed :10
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: JOE PROCTOR
+  Date of Birth: 1985-08-10
+  Career record: 8
+  First fight: 2012-06-01
+  Last fight: 2017-04-22
+
+Career Statistics:
+- Significant Strikes Landed :222
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :8

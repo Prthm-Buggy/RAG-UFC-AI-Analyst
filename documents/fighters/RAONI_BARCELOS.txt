@@ -1,0 +1,11 @@
+Fighter: RAONI BARCELOS
+  Date of Birth: 1987-05-01
+  Career record: 15
+  First fight: 2018-07-14
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :918
+- Total takedowns landed :33
+- Knockdowns :5
+- Submission Attempts :7

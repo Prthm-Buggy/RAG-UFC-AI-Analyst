@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bader vs. Nogueira
+    Date: November 19, 2016
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: RYAN BADER defeated ROGERIO NOGUEIRA via KO/TKO  
+  at 3:51 of round 3
+  Key stats:
+  - RYAN BADER landed 86 significant strikes
+  - ROGERIO NOGUEIRA landed 3 significant strikes
+  - Knockdowns: RYAN BADER 0,  ROGERIO NOGUEIRA 0
+  - Takedowns: RYAN BADER 5,  ROGERIO NOGUEIRA 0

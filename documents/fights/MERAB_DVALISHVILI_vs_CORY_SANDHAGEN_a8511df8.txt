@@ -1,0 +1,14 @@
+Event: UFC 320: Ankalaev vs. Pereira 2
+    Date: October 04, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MERAB DVALISHVILI defeated CORY SANDHAGEN via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MERAB DVALISHVILI landed 114 significant strikes
+  - CORY SANDHAGEN landed 80 significant strikes
+  - Knockdowns: MERAB DVALISHVILI 0,  CORY SANDHAGEN 0
+  - Takedowns: MERAB DVALISHVILI 20,  CORY SANDHAGEN 0
+  Bonus: belt

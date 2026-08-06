@@ -1,0 +1,13 @@
+Event: UFC 283: Teixeira vs. Hill
+    Date: January 21, 2023
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: THIAGO MOISES defeated MELQUIZAEL COSTA via Submission  
+  at 4:05 of round 2
+  Key stats:
+  - THIAGO MOISES landed 22 significant strikes
+  - MELQUIZAEL COSTA landed 23 significant strikes
+  - Knockdowns: THIAGO MOISES 0,  MELQUIZAEL COSTA 0
+  - Takedowns: THIAGO MOISES 4,  MELQUIZAEL COSTA 0

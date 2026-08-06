@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Lewis vs. Hunt
+    Date : June 10, 2017
+    Location: Auckland, New Zealand
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Light Heavyweight, Featherweight, Flyweight, Middleweight, Lightweight, Welterweight, Women's Strawweight
+
+    Fight Results:
+  - ALEXANDER VOLKANOVSKI def. MIZUTO HIROTA via Decision - Unanimous(R3)
+- VINC PICHEL def. DAMIEN BROWN via KO/TKO(R1)
+- ZAK OTTOW def. KIICHI KUNIMOTO via Decision - Split(R3)
+- DEREK BRUNSON def. DANIEL KELLY via KO/TKO(R1)
+- ION CUTELABA def. HENRIQUE DA SILVA via KO/TKO(R1)
+- DAN HOOKER def. ROSS PEARSON via KO/TKO(R2)
+- LUKE JUMEAU def. DOMINIQUE STEELE via Decision - Unanimous(R3)
+- BEN NGUYEN def. TIM ELLIOTT via Submission(R1)
+- MARK HUNT def. DERRICK LEWIS via KO/TKO(R4)
+- JOHN MORAGA def. ASHKAN MOKHTARIAN via Decision - Unanimous(R3)
+- JJ ALDRICH def. CHAN-MI JEON via Decision - Unanimous(R3)

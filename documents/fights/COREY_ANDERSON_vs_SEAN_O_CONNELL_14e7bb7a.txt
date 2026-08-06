@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Abdurakhimov
+    Date: December 09, 2016
+    Location: Albany, New York, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: COREY ANDERSON defeated SEAN O'CONNELL via KO/TKO  
+  at 2:36 of round 2
+  Key stats:
+  - COREY ANDERSON landed 66 significant strikes
+  - SEAN O'CONNELL landed 9 significant strikes
+  - Knockdowns: COREY ANDERSON 0,  SEAN O'CONNELL 0
+  - Takedowns: COREY ANDERSON 5,  SEAN O'CONNELL 0

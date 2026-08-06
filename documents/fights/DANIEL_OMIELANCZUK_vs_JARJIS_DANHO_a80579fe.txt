@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Silva vs Bisping
+    Date: February 27, 2016
+    Location: London, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: DANIEL OMIELANCZUK defeated JARJIS DANHO via Decision - Majority  
+  at 1:31 of round 3
+  Key stats:
+  - DANIEL OMIELANCZUK landed 77 significant strikes
+  - JARJIS DANHO landed 38 significant strikes
+  - Knockdowns: DANIEL OMIELANCZUK 0,  JARJIS DANHO 0
+  - Takedowns: DANIEL OMIELANCZUK 0,  JARJIS DANHO 0

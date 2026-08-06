@@ -1,0 +1,13 @@
+Event: UFC 162: Silva vs Weidman
+    Date: July 06, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PIERCE defeated DAVID MITCHELL via KO/TKO  
+  at 2:55 of round 2
+  Key stats:
+  - MIKE PIERCE landed 17 significant strikes
+  - DAVID MITCHELL landed 17 significant strikes
+  - Knockdowns: MIKE PIERCE 1,  DAVID MITCHELL 0
+  - Takedowns: MIKE PIERCE 0,  DAVID MITCHELL 0

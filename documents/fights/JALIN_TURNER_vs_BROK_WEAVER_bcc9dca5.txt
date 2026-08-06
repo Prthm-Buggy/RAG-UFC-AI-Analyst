@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Waterson vs. Hill
+    Date: September 12, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: JALIN TURNER defeated BROK WEAVER via Submission  
+  at 4:20 of round 2
+  Key stats:
+  - JALIN TURNER landed 66 significant strikes
+  - BROK WEAVER landed 56 significant strikes
+  - Knockdowns: JALIN TURNER 2,  BROK WEAVER 0
+  - Takedowns: JALIN TURNER 1,  BROK WEAVER 1

@@ -1,0 +1,13 @@
+Event: UFC 113: Machida vs Shogun 2
+    Date: May 08, 2010
+    Location: Montreal, Quebec, Canada
+    Weight Class: Welterweight
+    
+
+    Result: MIKE GUYMON defeated YOSHIYUKI YOSHIDA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MIKE GUYMON landed 59 significant strikes
+  - YOSHIYUKI YOSHIDA landed 7 significant strikes
+  - Knockdowns: MIKE GUYMON 0,  YOSHIYUKI YOSHIDA 0
+  - Takedowns: MIKE GUYMON 3,  YOSHIYUKI YOSHIDA 1

@@ -1,0 +1,11 @@
+Fighter: KEITH ROCKEL
+  Date of Birth: 1965-08-28
+  Career record: 2
+  First fight: 2002-01-11
+  Last fight: 2003-11-21
+
+Career Statistics:
+- Significant Strikes Landed :11
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :3

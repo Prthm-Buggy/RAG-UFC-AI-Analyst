@@ -1,0 +1,13 @@
+Event: UFC 129: St-Pierre vs Shields
+    Date: April 30, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Middleweight
+    
+
+    Result: JASON MACDONALD defeated RYAN JENSEN via Submission  
+  at 1:37 of round 1
+  Key stats:
+  - JASON MACDONALD landed 0 significant strikes
+  - RYAN JENSEN landed 0 significant strikes
+  - Knockdowns: JASON MACDONALD 0,  RYAN JENSEN 0
+  - Takedowns: JASON MACDONALD 0,  RYAN JENSEN 0

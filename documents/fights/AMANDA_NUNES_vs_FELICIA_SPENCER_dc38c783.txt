@@ -1,0 +1,14 @@
+Event: UFC 250: Nunes vs. Spencer
+    Date: June 06, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: AMANDA NUNES defeated FELICIA SPENCER via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - AMANDA NUNES landed 124 significant strikes
+  - FELICIA SPENCER landed 42 significant strikes
+  - Knockdowns: AMANDA NUNES 0,  FELICIA SPENCER 0
+  - Takedowns: AMANDA NUNES 6,  FELICIA SPENCER 0
+  Bonus: belt

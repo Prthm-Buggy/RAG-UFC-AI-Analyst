@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blachowicz vs. Santos
+    Date: February 23, 2019
+    Location: Prague, Czech Republic
+    Weight Class: Lightweight
+    
+
+    Result: DAMIR HADZOVIC defeated MARCO POLO REYES via KO/TKO  
+  at 2:03 of round 2
+  Key stats:
+  - DAMIR HADZOVIC landed 58 significant strikes
+  - MARCO POLO REYES landed 24 significant strikes
+  - Knockdowns: DAMIR HADZOVIC 0,  MARCO POLO REYES 0
+  - Takedowns: DAMIR HADZOVIC 2,  MARCO POLO REYES 0

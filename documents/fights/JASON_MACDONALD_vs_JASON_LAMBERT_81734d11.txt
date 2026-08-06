@@ -1,0 +1,14 @@
+Event: UFC 88: Breakthrough
+    Date: September 06, 2008
+    Location: Atlanta, Georgia, USA
+    Weight Class: Middleweight
+    
+
+    Result: JASON MACDONALD defeated JASON LAMBERT via Submission  
+  at 1:20 of round 2
+  Key stats:
+  - JASON MACDONALD landed 10 significant strikes
+  - JASON LAMBERT landed 1 significant strikes
+  - Knockdowns: JASON MACDONALD 0,  JASON LAMBERT 0
+  - Takedowns: JASON MACDONALD 2,  JASON LAMBERT 0
+  Bonus: sub

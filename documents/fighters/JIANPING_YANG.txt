@@ -1,0 +1,11 @@
+Fighter: JIANPING YANG
+  Date of Birth: 1988-11-27
+  Career record: 1
+  First fight: 2014-08-23
+  Last fight: 2014-08-23
+
+Career Statistics:
+- Significant Strikes Landed :21
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

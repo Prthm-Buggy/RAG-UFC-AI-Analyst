@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tsarukyan vs. Gamrot
+    Date: June 25, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: VANESSA DEMOPOULOS defeated JINH YU FREY via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - VANESSA DEMOPOULOS landed 66 significant strikes
+  - JINH YU FREY landed 62 significant strikes
+  - Knockdowns: VANESSA DEMOPOULOS 0,  JINH YU FREY 0
+  - Takedowns: VANESSA DEMOPOULOS 1,  JINH YU FREY 0

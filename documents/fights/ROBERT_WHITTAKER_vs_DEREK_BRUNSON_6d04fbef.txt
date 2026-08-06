@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. Brunson
+    Date: November 26, 2016
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Middleweight
+    
+
+    Result: ROBERT WHITTAKER defeated DEREK BRUNSON via KO/TKO  
+  at 4:07 of round 1
+  Key stats:
+  - ROBERT WHITTAKER landed 33 significant strikes
+  - DEREK BRUNSON landed 19 significant strikes
+  - Knockdowns: ROBERT WHITTAKER 1,  DEREK BRUNSON 0
+  - Takedowns: ROBERT WHITTAKER 0,  DEREK BRUNSON 0
+  Bonus: fight

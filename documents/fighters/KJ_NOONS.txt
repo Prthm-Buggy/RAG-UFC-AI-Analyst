@@ -1,0 +1,11 @@
+Fighter: KJ NOONS
+  Date of Birth: 1982-12-07
+  Career record: 5
+  First fight: 2013-05-25
+  Last fight: 2016-02-06
+
+Career Statistics:
+- Significant Strikes Landed :145
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

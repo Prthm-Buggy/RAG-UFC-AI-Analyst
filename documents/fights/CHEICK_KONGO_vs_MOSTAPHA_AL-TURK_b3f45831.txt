@@ -1,0 +1,13 @@
+Event: UFC 92: The Ultimate 2008
+    Date: December 27, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHEICK KONGO defeated MOSTAPHA AL-TURK via KO/TKO  
+  at 4:37 of round 1
+  Key stats:
+  - CHEICK KONGO landed 34 significant strikes
+  - MOSTAPHA AL-TURK landed 4 significant strikes
+  - Knockdowns: CHEICK KONGO 1,  MOSTAPHA AL-TURK 0
+  - Takedowns: CHEICK KONGO 1,  MOSTAPHA AL-TURK 0

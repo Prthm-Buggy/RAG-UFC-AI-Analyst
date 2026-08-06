@@ -1,0 +1,13 @@
+Event: UFC 110: Nogueira vs Velasquez
+    Date: February 20, 2010
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: MIRKO FILIPOVIC defeated ANTHONY PEROSH via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - MIRKO FILIPOVIC landed 29 significant strikes
+  - ANTHONY PEROSH landed 9 significant strikes
+  - Knockdowns: MIRKO FILIPOVIC 0,  ANTHONY PEROSH 0
+  - Takedowns: MIRKO FILIPOVIC 0,  ANTHONY PEROSH 0

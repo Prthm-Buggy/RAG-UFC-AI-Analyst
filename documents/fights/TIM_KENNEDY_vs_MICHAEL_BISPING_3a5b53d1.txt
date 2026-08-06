@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bisping vs Kennedy
+    Date: April 16, 2014
+    Location: Quebec City, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: TIM KENNEDY defeated MICHAEL BISPING via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - TIM KENNEDY landed 51 significant strikes
+  - MICHAEL BISPING landed 40 significant strikes
+  - Knockdowns: TIM KENNEDY 0,  MICHAEL BISPING 0
+  - Takedowns: TIM KENNEDY 5,  MICHAEL BISPING 0

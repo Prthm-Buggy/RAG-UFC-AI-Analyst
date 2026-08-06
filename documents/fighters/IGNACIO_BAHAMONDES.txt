@@ -1,0 +1,11 @@
+Fighter: IGNACIO BAHAMONDES
+  Date of Birth: 1997-08-27
+  Career record: 10
+  First fight: 2021-04-10
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :648
+- Total takedowns landed :0
+- Knockdowns :5
+- Submission Attempts :5

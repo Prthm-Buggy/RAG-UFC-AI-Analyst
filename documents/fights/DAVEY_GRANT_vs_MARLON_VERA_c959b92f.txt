@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Silva vs Bisping
+    Date: February 27, 2016
+    Location: London, England, United Kingdom
+    Weight Class: Bantamweight
+    
+
+    Result: DAVEY GRANT defeated MARLON VERA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DAVEY GRANT landed 72 significant strikes
+  - MARLON VERA landed 23 significant strikes
+  - Knockdowns: DAVEY GRANT 0,  MARLON VERA 0
+  - Takedowns: DAVEY GRANT 1,  MARLON VERA 1

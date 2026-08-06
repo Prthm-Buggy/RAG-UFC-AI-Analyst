@@ -1,0 +1,13 @@
+Event: UFC 239: Jones vs. Santos
+    Date: July 06, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ARNOLD ALLEN defeated GILBERT MELENDEZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ARNOLD ALLEN landed 102 significant strikes
+  - GILBERT MELENDEZ landed 23 significant strikes
+  - Knockdowns: ARNOLD ALLEN 0,  GILBERT MELENDEZ 0
+  - Takedowns: ARNOLD ALLEN 1,  GILBERT MELENDEZ 0

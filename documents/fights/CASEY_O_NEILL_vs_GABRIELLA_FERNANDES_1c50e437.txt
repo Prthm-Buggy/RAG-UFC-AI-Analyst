@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Adesanya vs. Pyfer
+    Date: March 28, 2026
+    Location: Seattle, Washington, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: CASEY O'NEILL defeated GABRIELLA FERNANDES via KO/TKO  
+  at 3:11 of round 1
+  Key stats:
+  - CASEY O'NEILL landed 25 significant strikes
+  - GABRIELLA FERNANDES landed 8 significant strikes
+  - Knockdowns: CASEY O'NEILL 1,  GABRIELLA FERNANDES 0
+  - Takedowns: CASEY O'NEILL 0,  GABRIELLA FERNANDES 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. Aliskerov
+    Date: June 22, 2024
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Weight Class: Featherweight
+    
+
+    Result: FELIPE LIMA defeated MUHAMMAD NAIMOV via Submission  
+  at 1:15 of round 3
+  Key stats:
+  - FELIPE LIMA landed 37 significant strikes
+  - MUHAMMAD NAIMOV landed 30 significant strikes
+  - Knockdowns: FELIPE LIMA 0,  MUHAMMAD NAIMOV 0
+  - Takedowns: FELIPE LIMA 1,  MUHAMMAD NAIMOV 1
+  Bonus: perf

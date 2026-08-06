@@ -1,0 +1,11 @@
+Fighter: VIVIANE PEREIRA
+  Date of Birth: 1993-08-28
+  Career record: 4
+  First fight: 2016-12-10
+  Last fight: 2018-06-23
+
+Career Statistics:
+- Significant Strikes Landed :162
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

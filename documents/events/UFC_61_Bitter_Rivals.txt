@@ -1,0 +1,16 @@
+Event : UFC 61: Bitter Rivals
+    Date : July 08, 2006
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Welterweight, Light Heavyweight, Catch Weight, Lightweight, Heavyweight
+
+    Fight Results:
+  - FRANK MIR def. DAN CHRISTISON via Decision - Unanimous(R3)
+- JOE STEVENSON def. YVES EDWARDS via TKO - Doctor's Stoppage(R2)
+- TITO ORTIZ def. KEN SHAMROCK via KO/TKO(R1)
+- JOSHUA BURKMAN def. JOSH NEER via Decision - Unanimous(R3)
+- DREW FICKETT def. KURT PELLEGRINO via Submission(R3)
+- JEFF MONSON def. ANTHONY PEROSH via KO/TKO(R1)
+- TIM SYLVIA def. ANDREI ARLOVSKI via Decision - Unanimous(R5)
+- CHEICK KONGO def. GILBERT ALDANA via TKO - Doctor's Stoppage(R1)
+- HERMES FRANCA def. JOE JORDAN via Submission(R3)

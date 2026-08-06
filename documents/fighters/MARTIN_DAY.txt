@@ -1,0 +1,11 @@
+Fighter: MARTIN DAY
+  Date of Birth: 1988-11-10
+  Career record: 4
+  First fight: 2018-11-24
+  Last fight: 2021-02-06
+
+Career Statistics:
+- Significant Strikes Landed :179
+- Total takedowns landed :2
+- Knockdowns :2
+- Submission Attempts :2

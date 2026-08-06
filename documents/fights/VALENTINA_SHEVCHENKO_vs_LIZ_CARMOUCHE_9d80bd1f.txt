@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Shevchenko vs. Carmouche 2
+    Date: August 10, 2019
+    Location: Montevideo, Uruguay
+    Weight Class: Women's Flyweight
+    
+
+    Result: VALENTINA SHEVCHENKO defeated LIZ CARMOUCHE via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - VALENTINA SHEVCHENKO landed 42 significant strikes
+  - LIZ CARMOUCHE landed 18 significant strikes
+  - Knockdowns: VALENTINA SHEVCHENKO 0,  LIZ CARMOUCHE 0
+  - Takedowns: VALENTINA SHEVCHENKO 1,  LIZ CARMOUCHE 0
+  Bonus: belt

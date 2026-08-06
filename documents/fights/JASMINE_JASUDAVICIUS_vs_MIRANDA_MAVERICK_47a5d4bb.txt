@@ -1,0 +1,13 @@
+Event: UFC 289: Nunes vs. Aldana
+    Date: June 10, 2023
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Women's Flyweight
+    
+
+    Result: JASMINE JASUDAVICIUS defeated MIRANDA MAVERICK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JASMINE JASUDAVICIUS landed 67 significant strikes
+  - MIRANDA MAVERICK landed 63 significant strikes
+  - Knockdowns: JASMINE JASUDAVICIUS 0,  MIRANDA MAVERICK 0
+  - Takedowns: JASMINE JASUDAVICIUS 1,  MIRANDA MAVERICK 0

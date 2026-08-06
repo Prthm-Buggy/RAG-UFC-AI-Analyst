@@ -1,0 +1,11 @@
+Fighter: LUIGI FIORAVANTI
+  Date of Birth: 1981-01-22
+  Career record: 9
+  First fight: 2006-04-06
+  Last fight: 2009-02-07
+
+Career Statistics:
+- Significant Strikes Landed :214
+- Total takedowns landed :24
+- Knockdowns :2
+- Submission Attempts :6

@@ -1,0 +1,11 @@
+Fighter: DORIAN PRICE
+  Date of Birth: 1977-08-20
+  Career record: 1
+  First fight: 2007-12-08
+  Last fight: 2007-12-08
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC 297: Strickland vs. Du Plessis
+    Date: January 20, 2024
+    Location: Toronto, Ontario, Canada
+    Weight Class: Women's Bantamweight
+    
+
+    Result: RAQUEL PENNINGTON defeated MAYRA BUENO SILVA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - RAQUEL PENNINGTON landed 134 significant strikes
+  - MAYRA BUENO SILVA landed 69 significant strikes
+  - Knockdowns: RAQUEL PENNINGTON 0,  MAYRA BUENO SILVA 0
+  - Takedowns: RAQUEL PENNINGTON 1,  MAYRA BUENO SILVA 3
+  Bonus: belt

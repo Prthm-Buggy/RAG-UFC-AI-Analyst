@@ -1,0 +1,18 @@
+Event : UFC on FOX: Teixeira vs Evans
+    Date : April 16, 2016
+    Location: Tampa, Florida, USA
+    Number of Fights: 11
+    Weight Classes: Welterweight, Catch Weight, Lightweight, Women's Bantamweight, Middleweight, Women's Strawweight, Featherweight, Light Heavyweight, Bantamweight
+
+    Fight Results:
+  - RAQUEL PENNINGTON def. BETHE CORREIA via Decision - Split(R3)
+- ROSE NAMAJUNAS def. TECIA PENNINGTON via Decision - Unanimous(R3)
+- ELIZEU ZALESKI DOS SANTOS def. OMARI AKHMEDOV via KO/TKO(R3)
+- SANTIAGO PONZINIBBIO def. COURT MCGEE via KO/TKO(R1)
+- CUB SWANSON def. HACRAN DIAS via Decision - Unanimous(R3)
+- MICHAEL CHIESA def. BENEIL DARIUSH via Submission(R2)
+- CEZAR FERREIRA def. OLUWALE BAMGBOSE via Decision - Unanimous(R3)
+- GLOVER TEIXEIRA def. RASHAD EVANS via KO/TKO(R1)
+- JOHN DODSON def. MANVEL GAMBURYAN via KO/TKO(R1)
+- MICHAEL GRAVES def. RANDY BROWN via Submission(R2)
+- KHABIB NURMAGOMEDOV def. DARRELL HORCHER via KO/TKO(R2)

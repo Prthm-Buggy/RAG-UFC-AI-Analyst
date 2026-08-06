@@ -1,0 +1,11 @@
+Fighter: ABUBAKAR NURMAGOMEDOV
+  Date of Birth: 1989-11-13
+  Career record: 4
+  First fight: 2019-11-09
+  Last fight: 2023-06-03
+
+Career Statistics:
+- Significant Strikes Landed :133
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

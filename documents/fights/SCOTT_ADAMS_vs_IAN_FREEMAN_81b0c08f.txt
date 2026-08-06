@@ -1,0 +1,13 @@
+Event: UFC 24: First Defense
+    Date: March 10, 2000
+    Location: Lake Charles, Louisiana, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SCOTT ADAMS defeated IAN FREEMAN via Submission  
+  at 3:09 of round 1
+  Key stats:
+  - SCOTT ADAMS landed 0 significant strikes
+  - IAN FREEMAN landed 0 significant strikes
+  - Knockdowns: SCOTT ADAMS 0,  IAN FREEMAN 0
+  - Takedowns: SCOTT ADAMS 1,  IAN FREEMAN 0

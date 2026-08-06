@@ -1,0 +1,11 @@
+Fighter: SERGIO PETTIS
+  Date of Birth: 1993-08-18
+  Career record: 14
+  First fight: 2013-11-16
+  Last fight: 2019-09-21
+
+Career Statistics:
+- Significant Strikes Landed :819
+- Total takedowns landed :12
+- Knockdowns :1
+- Submission Attempts :5

@@ -1,0 +1,11 @@
+Fighter: ERIC SHELTON
+  Date of Birth: 1991-02-02
+  Career record: 6
+  First fight: 2017-01-28
+  Last fight: 2019-03-23
+
+Career Statistics:
+- Significant Strikes Landed :231
+- Total takedowns landed :17
+- Knockdowns :0
+- Submission Attempts :1

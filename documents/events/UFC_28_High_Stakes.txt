@@ -1,0 +1,14 @@
+Event : UFC 28: High Stakes
+    Date : November 17, 2000
+    Location: Atlantic City, New Jersey, USA
+    Number of Fights: 7
+    Weight Classes: Super Heavyweight, Heavyweight, Welterweight, Lightweight, Middleweight
+
+    Fight Results:
+  - JENS PULVER def. JOHN LEWIS via KO/TKO(R1)
+- RENATO SOBRAL def. MAURICE SMITH via Decision - Majority(R3)
+- RANDY COUTURE def. KEVIN RANDLEMAN via KO/TKO(R3)
+- JOSH BARNETT def. GAN MCGEE via KO/TKO(R2)
+- BEN EARWOOD def. CHRIS LYTLE via Decision - Unanimous(R2)
+- MARK HUGHES def. ALEX STIEBLING via Decision - Unanimous(R2)
+- ANDREI ARLOVSKI def. AARON BRINK via Submission(R1)

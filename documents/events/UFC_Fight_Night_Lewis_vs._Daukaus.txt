@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Lewis vs. Daukaus
+    Date : December 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Welterweight, Women's Strawweight, Featherweight, Lightweight, Middleweight, Women's Featherweight, Bantamweight, Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - MELISSA GATTO def. SIJARA EUBANKS via KO/TKO(R3)
+- RAQUEL PENNINGTON def. MACY CHIASSON via Submission(R2)
+- BELAL MUHAMMAD def. STEPHEN THOMPSON via Decision - Unanimous(R3)
+- DERRICK LEWIS def. CHRIS DAUKAUS via KO/TKO(R1)
+- MATEUSZ GAMROT def. DIEGO FERREIRA via KO/TKO(R2)
+- JORDAN LEAVITT def. MATT SAYLES via Submission(R2)
+- RICKY SIMON def. RAPHAEL ASSUNCAO via KO/TKO(R2)
+- CHARLES JOURDAIN def. ANDRE EWELL via Decision - Unanimous(R3)
+- DON'TALE MAYES def. JOSH PARISIAN via KO/TKO(R3)
+- AMANDA LEMOS def. ANGELA HILL via Decision - Split(R3)
+- GERALD MEERSCHAERT def. DUSTIN STOLTZFUS via Submission(R3)
+- CUB SWANSON def. DARREN ELKINS via KO/TKO(R1)
+- JUSTIN TAFA def. HARRY HUNSUCKER via KO/TKO(R1)

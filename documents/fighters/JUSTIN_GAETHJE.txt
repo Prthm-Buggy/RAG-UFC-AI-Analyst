@@ -1,0 +1,11 @@
+Fighter: JUSTIN GAETHJE
+  Date of Birth: 1988-11-14
+  Career record: 16
+  First fight: 2017-07-07
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :1271
+- Total takedowns landed :4
+- Knockdowns :9
+- Submission Attempts :0

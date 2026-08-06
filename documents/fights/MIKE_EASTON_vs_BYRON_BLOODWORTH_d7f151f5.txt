@@ -1,0 +1,13 @@
+Event: UFC Live: Cruz vs Johnson
+    Date: October 01, 2011
+    Location: Washington, DC, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MIKE EASTON defeated BYRON BLOODWORTH via KO/TKO  
+  at 4:52 of round 2
+  Key stats:
+  - MIKE EASTON landed 31 significant strikes
+  - BYRON BLOODWORTH landed 17 significant strikes
+  - Knockdowns: MIKE EASTON 1,  BYRON BLOODWORTH 0
+  - Takedowns: MIKE EASTON 0,  BYRON BLOODWORTH 0

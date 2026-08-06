@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Brown vs Silva
+    Date: May 10, 2014
+    Location: Cincinnati, Ohio, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOHNNY EDUARDO defeated EDDIE WINELAND via KO/TKO  
+  at 4:37 of round 1
+  Key stats:
+  - JOHNNY EDUARDO landed 11 significant strikes
+  - EDDIE WINELAND landed 6 significant strikes
+  - Knockdowns: JOHNNY EDUARDO 1,  EDDIE WINELAND 0
+  - Takedowns: JOHNNY EDUARDO 0,  EDDIE WINELAND 0
+  Bonus: perf

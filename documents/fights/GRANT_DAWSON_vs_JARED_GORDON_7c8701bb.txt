@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Vera
+    Date: April 30, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: GRANT DAWSON defeated JARED GORDON via Submission  
+  at 4:11 of round 3
+  Key stats:
+  - GRANT DAWSON landed 54 significant strikes
+  - JARED GORDON landed 77 significant strikes
+  - Knockdowns: GRANT DAWSON 0,  JARED GORDON 0
+  - Takedowns: GRANT DAWSON 7,  JARED GORDON 0

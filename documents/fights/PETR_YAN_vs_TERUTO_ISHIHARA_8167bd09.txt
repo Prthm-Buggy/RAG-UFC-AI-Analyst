@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs. Edwards
+    Date: June 23, 2018
+    Location: Kallang, Singapore
+    Weight Class: Bantamweight
+    
+
+    Result: PETR YAN defeated TERUTO ISHIHARA via KO/TKO  
+  at 3:28 of round 1
+  Key stats:
+  - PETR YAN landed 25 significant strikes
+  - TERUTO ISHIHARA landed 11 significant strikes
+  - Knockdowns: PETR YAN 2,  TERUTO ISHIHARA 0
+  - Takedowns: PETR YAN 0,  TERUTO ISHIHARA 0

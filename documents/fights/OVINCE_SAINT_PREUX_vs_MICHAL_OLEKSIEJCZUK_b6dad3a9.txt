@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hermansson vs. Cannonier
+    Date: September 28, 2019
+    Location: Copenhagen, Denmark
+    Weight Class: Light Heavyweight
+    
+
+    Result: OVINCE SAINT PREUX defeated MICHAL OLEKSIEJCZUK via Submission  
+  at 2:46 of round 2
+  Key stats:
+  - OVINCE SAINT PREUX landed 14 significant strikes
+  - MICHAL OLEKSIEJCZUK landed 37 significant strikes
+  - Knockdowns: OVINCE SAINT PREUX 0,  MICHAL OLEKSIEJCZUK 0
+  - Takedowns: OVINCE SAINT PREUX 1,  MICHAL OLEKSIEJCZUK 0
+  Bonus: perf

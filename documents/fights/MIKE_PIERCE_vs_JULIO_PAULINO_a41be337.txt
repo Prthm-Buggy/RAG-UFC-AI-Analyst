@@ -1,0 +1,13 @@
+Event: UFC Live: Vera vs Jones
+    Date: March 21, 2010
+    Location: Broomfield, Colorado, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PIERCE defeated JULIO PAULINO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MIKE PIERCE landed 39 significant strikes
+  - JULIO PAULINO landed 17 significant strikes
+  - Knockdowns: MIKE PIERCE 0,  JULIO PAULINO 0
+  - Takedowns: MIKE PIERCE 6,  JULIO PAULINO 0

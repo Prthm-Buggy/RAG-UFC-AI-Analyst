@@ -1,0 +1,13 @@
+Event: UFC 236: Holloway vs. Poirier 2
+    Date: April 13, 2019
+    Location: Atlanta, Georgia, USA
+    Weight Class: Bantamweight
+    
+
+    Result: BRANDON DAVIS defeated RANDY COSTA via Submission  
+  at 1:12 of round 2
+  Key stats:
+  - BRANDON DAVIS landed 35 significant strikes
+  - RANDY COSTA landed 46 significant strikes
+  - Knockdowns: BRANDON DAVIS 0,  RANDY COSTA 0
+  - Takedowns: BRANDON DAVIS 0,  RANDY COSTA 0

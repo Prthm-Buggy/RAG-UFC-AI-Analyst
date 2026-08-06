@@ -1,0 +1,13 @@
+Event: UFC 77: Hostile Territory
+    Date: October 20, 2007
+    Location: Cincinnati, Ohio, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALAN BELCHER defeated KALIB STARNES via TKO - Doctor's Stoppage  
+  at 1:39 of round 2
+  Key stats:
+  - ALAN BELCHER landed 57 significant strikes
+  - KALIB STARNES landed 40 significant strikes
+  - Knockdowns: ALAN BELCHER 0,  KALIB STARNES 0
+  - Takedowns: ALAN BELCHER 0,  KALIB STARNES 1

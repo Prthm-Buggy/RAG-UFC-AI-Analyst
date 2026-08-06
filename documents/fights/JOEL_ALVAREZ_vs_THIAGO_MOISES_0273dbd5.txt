@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Rodriguez
+    Date: November 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOEL ALVAREZ defeated THIAGO MOISES via KO/TKO  
+  at 3:01 of round 1
+  Key stats:
+  - JOEL ALVAREZ landed 44 significant strikes
+  - THIAGO MOISES landed 11 significant strikes
+  - Knockdowns: JOEL ALVAREZ 0,  THIAGO MOISES 0
+  - Takedowns: JOEL ALVAREZ 0,  THIAGO MOISES 0

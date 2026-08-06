@@ -1,0 +1,11 @@
+Fighter: JAMES ZIKIC
+  Date of Birth: 1977-03-01
+  Career record: 1
+  First fight: 2002-07-13
+  Last fight: 2002-07-13
+
+Career Statistics:
+- Significant Strikes Landed :29
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

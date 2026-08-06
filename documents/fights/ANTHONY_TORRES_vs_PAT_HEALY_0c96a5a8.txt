@@ -1,0 +1,13 @@
+Event: UFC Fight Night 6
+    Date: August 17, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ANTHONY TORRES defeated PAT HEALY via Submission  
+  at 2:37 of round 1
+  Key stats:
+  - ANTHONY TORRES landed 11 significant strikes
+  - PAT HEALY landed 13 significant strikes
+  - Knockdowns: ANTHONY TORRES 0,  PAT HEALY 0
+  - Takedowns: ANTHONY TORRES 0,  PAT HEALY 0

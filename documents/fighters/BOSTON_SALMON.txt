@@ -1,0 +1,11 @@
+Fighter: BOSTON SALMON
+  Date of Birth: 1990-11-20
+  Career record: 2
+  First fight: 2019-04-13
+  Last fight: 2019-10-18
+
+Career Statistics:
+- Significant Strikes Landed :12
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: TONY FRYKLUND
+  Date of Birth: 1971-03-26
+  Career record: 4
+  First fight: 1997-07-27
+  Last fight: 2004-10-22
+
+Career Statistics:
+- Significant Strikes Landed :69
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :2

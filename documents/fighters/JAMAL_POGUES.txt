@@ -1,0 +1,11 @@
+Fighter: JAMAL POGUES
+  Date of Birth: 1995-12-01
+  Career record: 4
+  First fight: 2023-02-18
+  Last fight: 2025-02-01
+
+Career Statistics:
+- Significant Strikes Landed :203
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

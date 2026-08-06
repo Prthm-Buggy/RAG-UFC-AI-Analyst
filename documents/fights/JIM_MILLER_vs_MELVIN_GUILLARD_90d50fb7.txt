@@ -1,0 +1,14 @@
+Event: UFC on FX: Guillard vs Miller
+    Date: January 20, 2012
+    Location: Nashville, Tennessee, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated MELVIN GUILLARD via Submission  
+  at 3:04 of round 1
+  Key stats:
+  - JIM MILLER landed 4 significant strikes
+  - MELVIN GUILLARD landed 16 significant strikes
+  - Knockdowns: JIM MILLER 0,  MELVIN GUILLARD 0
+  - Takedowns: JIM MILLER 1,  MELVIN GUILLARD 0
+  Bonus: sub

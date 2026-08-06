@@ -1,0 +1,14 @@
+Event: UFC 246: McGregor vs. Cowboy
+    Date: January 18, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DIEGO FERREIRA defeated ANTHONY PETTIS via Submission  
+  at 1:46 of round 2
+  Key stats:
+  - DIEGO FERREIRA landed 25 significant strikes
+  - ANTHONY PETTIS landed 22 significant strikes
+  - Knockdowns: DIEGO FERREIRA 0,  ANTHONY PETTIS 0
+  - Takedowns: DIEGO FERREIRA 3,  ANTHONY PETTIS 0
+  Bonus: perf

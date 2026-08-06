@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Felder vs. Hooker
+    Date: February 22, 2020
+    Location: Auckland, New Zealand
+    Weight Class: Lightweight
+    
+
+    Result: JALIN TURNER defeated JOSH CULIBAO via KO/TKO  
+  at 3:01 of round 2
+  Key stats:
+  - JALIN TURNER landed 55 significant strikes
+  - JOSH CULIBAO landed 12 significant strikes
+  - Knockdowns: JALIN TURNER 0,  JOSH CULIBAO 0
+  - Takedowns: JALIN TURNER 0,  JOSH CULIBAO 0

@@ -1,0 +1,13 @@
+Event: UFC 2: No Way Out
+    Date: March 11, 1994
+    Location: Denver, Colorado, USA
+    Weight Class: Open Weight
+    
+
+    Result: ORLANDO WIET defeated ROBERT LUCARELLI via KO/TKO  
+  at 2:50 of round 1
+  Key stats:
+  - ORLANDO WIET landed 8 significant strikes
+  - ROBERT LUCARELLI landed 2 significant strikes
+  - Knockdowns: ORLANDO WIET 0,  ROBERT LUCARELLI 0
+  - Takedowns: ORLANDO WIET 0,  ROBERT LUCARELLI 1

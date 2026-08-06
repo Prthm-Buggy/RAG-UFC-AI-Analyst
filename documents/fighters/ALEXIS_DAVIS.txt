@@ -1,0 +1,11 @@
+Fighter: ALEXIS DAVIS
+  Date of Birth: 1984-10-04
+  Career record: 14
+  First fight: 2013-06-15
+  Last fight: 2022-02-05
+
+Career Statistics:
+- Significant Strikes Landed :754
+- Total takedowns landed :12
+- Knockdowns :0
+- Submission Attempts :9

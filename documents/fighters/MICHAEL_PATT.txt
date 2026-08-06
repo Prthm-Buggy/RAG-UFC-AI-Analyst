@@ -1,0 +1,11 @@
+Fighter: MICHAEL PATT
+  Date of Birth: Unknown
+  Career record: 2
+  First fight: 2008-09-06
+  Last fight: 2009-03-07
+
+Career Statistics:
+- Significant Strikes Landed :14
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC 108: Evans vs Silva
+    Date: January 02, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JAKE ELLENBERGER defeated MIKE PYLE via KO/TKO  
+  at 0:22 of round 2
+  Key stats:
+  - JAKE ELLENBERGER landed 15 significant strikes
+  - MIKE PYLE landed 5 significant strikes
+  - Knockdowns: JAKE ELLENBERGER 1,  MIKE PYLE 0
+  - Takedowns: JAKE ELLENBERGER 2,  MIKE PYLE 0

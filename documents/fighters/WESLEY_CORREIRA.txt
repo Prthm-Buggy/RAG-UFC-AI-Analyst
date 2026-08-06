@@ -1,0 +1,11 @@
+Fighter: WESLEY CORREIRA
+  Date of Birth: 1978-11-11
+  Career record: 4
+  First fight: 2002-09-27
+  Last fight: 2004-04-02
+
+Career Statistics:
+- Significant Strikes Landed :65
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nzechukwu vs. Cutelaba
+    Date: November 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: BRADY HIESTAND defeated FERNIE GARCIA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BRADY HIESTAND landed 19 significant strikes
+  - FERNIE GARCIA landed 21 significant strikes
+  - Knockdowns: BRADY HIESTAND 0,  FERNIE GARCIA 0
+  - Takedowns: BRADY HIESTAND 3,  FERNIE GARCIA 1

@@ -1,0 +1,19 @@
+Event : UFC 212: Aldo vs. Holloway
+    Date : June 03, 2017
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Number of Fights: 12
+    Weight Classes: Featherweight, Women's Strawweight, Welterweight, Middleweight, Flyweight, Bantamweight
+
+    Fight Results:
+  - MAX HOLLOWAY def. JOSE ALDO via KO/TKO(R3)
+- DEIVESON FIGUEIREDO def. MARCO BELTRAN via KO/TKO(R2)
+- BRIAN KELLEHER def. IURI ALCANTARA via Submission(R1)
+- PAULO COSTA def. OLUWALE BAMGBOSE via KO/TKO(R2)
+- VIVIANE PEREIRA def. JAMIE MOYLE via Decision - Unanimous(R3)
+- ANTONIO CARLOS JUNIOR def. ERIC SPICELY via Submission(R2)
+- MATTHEW LOPEZ def. JOHNNY EDUARDO via KO/TKO(R1)
+- CLAUDIA GADELHA def. KAROLINA KOWALKIEWICZ via Submission(R1)
+- RAPHAEL ASSUNCAO def. MARLON MORAES via Decision - Split(R3)
+- YANCY MEDEIROS def. ERICK SILVA via KO/TKO(R2)
+- VITOR BELFORT def. NATE MARQUARDT via Decision - Unanimous(R3)
+- LUAN CHAGAS def. JIM WALLHEAD via Submission(R2)

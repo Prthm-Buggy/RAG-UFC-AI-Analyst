@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Henderson vs Dos Anjos
+    Date : August 23, 2014
+    Location: Tulsa, Oklahoma, USA
+    Number of Fights: 11
+    Weight Classes: Welterweight, Flyweight, Lightweight, Featherweight, Middleweight, Catch Weight, Bantamweight
+
+    Fight Results:
+  - RAFAEL DOS ANJOS def. BENSON HENDERSON via KO/TKO(R1)
+- MATT HOBAR def. AARON PHILLIPS via Decision - Unanimous(R3)
+- MAX HOLLOWAY def. CLAY COLLARD via KO/TKO(R3)
+- JAMES VICK def. VALMIR LAZARO via Decision - Unanimous(R3)
+- NEIL MAGNY def. ALEX GARCIA via Decision - Unanimous(R3)
+- THALES LEITES def. FRANCIS CARMONT via KO/TKO(R2)
+- BENEIL DARIUSH def. ANTHONY ROCCO MARTIN via Submission(R2)
+- CHAS SKELLY def. TOM NIINIMAKI via Submission(R1)
+- WILSON REIS def. JOBY SANCHEZ via Decision - Unanimous(R3)
+- JORDAN MEIN def. MIKE PYLE via KO/TKO(R1)
+- BEN SAUNDERS def. CHRIS HEATHERLY via Submission(R1)

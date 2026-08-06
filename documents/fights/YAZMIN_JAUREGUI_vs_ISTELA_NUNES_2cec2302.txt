@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thompson vs. Holland
+    Date: December 03, 2022
+    Location: Orlando, Florida, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: YAZMIN JAUREGUI defeated ISTELA NUNES via KO/TKO  
+  at 4:06 of round 2
+  Key stats:
+  - YAZMIN JAUREGUI landed 67 significant strikes
+  - ISTELA NUNES landed 36 significant strikes
+  - Knockdowns: YAZMIN JAUREGUI 2,  ISTELA NUNES 1
+  - Takedowns: YAZMIN JAUREGUI 0,  ISTELA NUNES 0

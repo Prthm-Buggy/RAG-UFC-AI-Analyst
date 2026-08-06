@@ -1,0 +1,13 @@
+Event: UFC on FOX: VanZant vs. Waterson
+    Date: December 17, 2016
+    Location: Sacramento, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: SULTAN ALIEV defeated BOJAN VELICKOVIC via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - SULTAN ALIEV landed 15 significant strikes
+  - BOJAN VELICKOVIC landed 22 significant strikes
+  - Knockdowns: SULTAN ALIEV 0,  BOJAN VELICKOVIC 0
+  - Takedowns: SULTAN ALIEV 2,  BOJAN VELICKOVIC 0

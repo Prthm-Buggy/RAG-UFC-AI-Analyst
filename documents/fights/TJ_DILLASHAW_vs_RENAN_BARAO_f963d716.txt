@@ -1,0 +1,14 @@
+Event: UFC on FOX: Dillashaw vs. Barao II
+    Date: July 25, 2015
+    Location: Chicago, Illinois, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TJ DILLASHAW defeated RENAN BARAO via KO/TKO  
+  at 0:35 of round 4
+  Key stats:
+  - TJ DILLASHAW landed 117 significant strikes
+  - RENAN BARAO landed 62 significant strikes
+  - Knockdowns: TJ DILLASHAW 0,  RENAN BARAO 0
+  - Takedowns: TJ DILLASHAW 0,  RENAN BARAO 0
+  Bonus: belt

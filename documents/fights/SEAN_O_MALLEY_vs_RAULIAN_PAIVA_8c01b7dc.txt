@@ -1,0 +1,14 @@
+Event: UFC 269: Oliveira vs. Poirier
+    Date: December 11, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SEAN O'MALLEY defeated RAULIAN PAIVA via KO/TKO  
+  at 4:42 of round 1
+  Key stats:
+  - SEAN O'MALLEY landed 39 significant strikes
+  - RAULIAN PAIVA landed 11 significant strikes
+  - Knockdowns: SEAN O'MALLEY 1,  RAULIAN PAIVA 0
+  - Takedowns: SEAN O'MALLEY 0,  RAULIAN PAIVA 0
+  Bonus: perf

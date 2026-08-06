@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Felder vs. Hooker
+    Date: February 22, 2020
+    Location: Auckland, New Zealand
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIMMY CRUTE defeated MICHAL OLEKSIEJCZUK via Submission  
+  at 3:29 of round 1
+  Key stats:
+  - JIMMY CRUTE landed 2 significant strikes
+  - MICHAL OLEKSIEJCZUK landed 3 significant strikes
+  - Knockdowns: JIMMY CRUTE 0,  MICHAL OLEKSIEJCZUK 0
+  - Takedowns: JIMMY CRUTE 8,  MICHAL OLEKSIEJCZUK 0
+  Bonus: perf

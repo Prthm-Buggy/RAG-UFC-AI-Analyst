@@ -1,0 +1,14 @@
+Event: UFC 162: Silva vs Weidman
+    Date: July 06, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CUB SWANSON defeated DENNIS SIVER via KO/TKO  
+  at 2:24 of round 3
+  Key stats:
+  - CUB SWANSON landed 43 significant strikes
+  - DENNIS SIVER landed 26 significant strikes
+  - Knockdowns: CUB SWANSON 1,  DENNIS SIVER 0
+  - Takedowns: CUB SWANSON 1,  DENNIS SIVER 1
+  Bonus: fight

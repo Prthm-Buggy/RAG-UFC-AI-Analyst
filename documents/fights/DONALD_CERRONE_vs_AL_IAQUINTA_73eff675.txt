@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Iaquinta vs. Cowboy
+    Date: May 04, 2019
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Lightweight
+    
+
+    Result: DONALD CERRONE defeated AL IAQUINTA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - DONALD CERRONE landed 138 significant strikes
+  - AL IAQUINTA landed 90 significant strikes
+  - Knockdowns: DONALD CERRONE 2,  AL IAQUINTA 0
+  - Takedowns: DONALD CERRONE 0,  AL IAQUINTA 0
+  Bonus: fight

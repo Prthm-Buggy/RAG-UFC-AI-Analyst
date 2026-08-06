@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Hendricks vs Thompson
+    Date : February 06, 2016
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Welterweight, Light Heavyweight, Flyweight, Featherweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - OVINCE SAINT PREUX def. RAFAEL CAVALCANTE via Decision - Unanimous(R3)
+- DERRICK LEWIS def. DAMIAN GRABOWSKI via KO/TKO(R1)
+- ROY NELSON def. JARED ROSHOLT via Decision - Unanimous(R3)
+- DIEGO RIVAS def. NOAD LAHAT via KO/TKO(R2)
+- MICKEY GALL def. MIKE JACKSON via Submission(R1)
+- JOSEPH BENAVIDEZ def. ZACH MAKOVSKY via Decision - Unanimous(R3)
+- JOSHUA BURKMAN def. KJ NOONS via Decision - Unanimous(R3)
+- STEPHEN THOMPSON def. JOHNY HENDRICKS via KO/TKO(R1)
+- JUSTIN SCOGGINS def. RAY BORG via Decision - Unanimous(R3)
+- MIKE PYLE def. SEAN SPENCER via KO/TKO(R3)
+- ALEX WHITE def. ARTEM LOBOV via Decision - Unanimous(R3)
+- MISHA CIRKUNOV def. ALEX NICHOLSON via Submission(R2)

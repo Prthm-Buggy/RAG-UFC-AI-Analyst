@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blachowicz vs. Jacare
+    Date: November 16, 2019
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: DOUGLAS SILVA DE ANDRADE defeated RENAN BARAO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DOUGLAS SILVA DE ANDRADE landed 74 significant strikes
+  - RENAN BARAO landed 58 significant strikes
+  - Knockdowns: DOUGLAS SILVA DE ANDRADE 0,  RENAN BARAO 0
+  - Takedowns: DOUGLAS SILVA DE ANDRADE 0,  RENAN BARAO 2

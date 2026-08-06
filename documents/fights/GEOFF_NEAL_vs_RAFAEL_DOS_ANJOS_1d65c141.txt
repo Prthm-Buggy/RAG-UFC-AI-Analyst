@@ -1,0 +1,13 @@
+Event: UFC 308: Topuria vs. Holloway
+    Date: October 26, 2024
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Welterweight
+    
+
+    Result: GEOFF NEAL defeated RAFAEL DOS ANJOS via KO/TKO  
+  at 1:30 of round 1
+  Key stats:
+  - GEOFF NEAL landed 18 significant strikes
+  - RAFAEL DOS ANJOS landed 4 significant strikes
+  - Knockdowns: GEOFF NEAL 1,  RAFAEL DOS ANJOS 0
+  - Takedowns: GEOFF NEAL 1,  RAFAEL DOS ANJOS 0

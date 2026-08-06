@@ -1,0 +1,14 @@
+Event: UFC 199: Rockhold vs. Bisping 2
+    Date: June 04, 2016
+    Location: Los Angeles, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL BISPING defeated LUKE ROCKHOLD via KO/TKO  
+  at 3:36 of round 1
+  Key stats:
+  - MICHAEL BISPING landed 21 significant strikes
+  - LUKE ROCKHOLD landed 17 significant strikes
+  - Knockdowns: MICHAEL BISPING 2,  LUKE ROCKHOLD 0
+  - Takedowns: MICHAEL BISPING 0,  LUKE ROCKHOLD 0
+  Bonus: belt

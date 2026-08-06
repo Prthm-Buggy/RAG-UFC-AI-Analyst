@@ -1,0 +1,11 @@
+Fighter: ISTELA NUNES
+  Date of Birth: 1992-07-23
+  Career record: 5
+  First fight: 2021-10-16
+  Last fight: 2025-04-05
+
+Career Statistics:
+- Significant Strikes Landed :225
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

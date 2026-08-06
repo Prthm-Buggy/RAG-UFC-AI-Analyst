@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Volkov vs. Rozenstruik
+    Date: June 04, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ERIN BLANCHFIELD defeated JJ ALDRICH via Submission  
+  at 2:38 of round 2
+  Key stats:
+  - ERIN BLANCHFIELD landed 48 significant strikes
+  - JJ ALDRICH landed 32 significant strikes
+  - Knockdowns: ERIN BLANCHFIELD 0,  JJ ALDRICH 0
+  - Takedowns: ERIN BLANCHFIELD 0,  JJ ALDRICH 2

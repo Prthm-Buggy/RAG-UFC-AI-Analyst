@@ -1,0 +1,21 @@
+Event : UFC 320: Ankalaev vs. Pereira 2
+    Date : October 04, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 14
+    Weight Classes: Light Heavyweight, Women's Bantamweight, Featherweight, Welterweight, Middleweight, Catch Weight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - JAKUB WIKLACZ def. PATCHY MIX via Decision - Split(R3)
+- ALEX PEREIRA def. MAGOMED ANKALAEV via KO/TKO(R1)
+- FARID BASHARAT def. CHRIS GUTIERREZ via Decision - Unanimous(R3)
+- PUNAHELE SORIANO def. NIKOLAY VERETENNIKOV via Decision - Unanimous(R3)
+- EDMEN SHAHBAZYAN def. ANDRE MUNIZ via KO/TKO(R1)
+- VERONICA HARDY def. BROGAN WALKER via Decision - Unanimous(R3)
+- JOE PYFER def. ABUS MAGOMEDOV via Submission(R2)
+- MERAB DVALISHVILI def. CORY SANDHAGEN via Decision - Unanimous(R5)
+- YANA SANTOS def. MACY CHIASSON via Decision - Unanimous(R3)
+- YOUSSEF ZALAL def. JOSH EMMETT via Submission(R1)
+- JIRI PROCHAZKA def. KHALIL ROUNTREE JR. via KO/TKO(R3)
+- RAMIZ BRAHIMAJ def. AUSTIN VANDERFORD via Submission(R2)
+- DANIEL SANTOS def. JOOSANG YOO via KO/TKO(R2)
+- ATEBA GAUTIER def. TRE'STON VINES via KO/TKO(R1)

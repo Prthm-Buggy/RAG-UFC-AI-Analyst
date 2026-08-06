@@ -1,0 +1,18 @@
+Event : UFC: Silva vs Irvin
+    Date : July 19, 2008
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Light Heavyweight, Welterweight, Lightweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - FRANKIE EDGAR def. HERMES FRANCA via Decision - Unanimous(R3)
+- ANDERSON SILVA def. JAMES IRVIN via KO/TKO(R1)
+- SHANNON GUGERTY def. DALE HARTT via Submission(R1)
+- CAIN VELASQUEZ def. JAKE O'BRIEN via KO/TKO(R1)
+- KEVIN BURNS def. ANTHONY JOHNSON via KO/TKO(R3)
+- RORY MARKHAM def. BRODIE FARBER via KO/TKO(R1)
+- TIM CREDEUR def. CALE YARBROUGH via KO/TKO(R1)
+- CB DOLLAWAY def. JESSE TAYLOR via Submission(R1)
+- BRAD BLACKBURN def. JAMES GIBOO via KO/TKO(R2)
+- NATE LOUGHRAN def. JOHNNY REES via Submission(R1)
+- BRANDON VERA def. REESE ANDY via Decision - Unanimous(R3)

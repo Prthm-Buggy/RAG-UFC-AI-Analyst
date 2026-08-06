@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lemos vs. Andrade
+    Date: April 23, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHARLES JOURDAIN defeated LANDO VANNATA via Submission  
+  at 2:32 of round 1
+  Key stats:
+  - CHARLES JOURDAIN landed 4 significant strikes
+  - LANDO VANNATA landed 8 significant strikes
+  - Knockdowns: CHARLES JOURDAIN 0,  LANDO VANNATA 0
+  - Takedowns: CHARLES JOURDAIN 0,  LANDO VANNATA 1

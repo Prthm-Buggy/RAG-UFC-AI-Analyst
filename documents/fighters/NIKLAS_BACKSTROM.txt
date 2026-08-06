@@ -1,0 +1,11 @@
+Fighter: NIKLAS BACKSTROM
+  Date of Birth: 1989-08-22
+  Career record: 3
+  First fight: 2014-05-31
+  Last fight: 2015-06-20
+
+Career Statistics:
+- Significant Strikes Landed :23
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :3

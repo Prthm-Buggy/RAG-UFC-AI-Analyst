@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Whittaker vs. Brunson
+    Date: November 26, 2016
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Lightweight
+    
+
+    Result: DAMIEN BROWN defeated JON TUCK via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - DAMIEN BROWN landed 34 significant strikes
+  - JON TUCK landed 39 significant strikes
+  - Knockdowns: DAMIEN BROWN 0,  JON TUCK 1
+  - Takedowns: DAMIEN BROWN 0,  JON TUCK 0

@@ -1,0 +1,11 @@
+Fighter: JULIA AVILA
+  Date of Birth: 1988-05-11
+  Career record: 6
+  First fight: 2019-07-06
+  Last fight: 2025-02-15
+
+Career Statistics:
+- Significant Strikes Landed :199
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :1

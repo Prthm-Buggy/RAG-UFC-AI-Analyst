@@ -1,0 +1,14 @@
+Event: UFC 261: Usman vs. Masvidal 2
+    Date: April 24, 2021
+    Location: Jacksonville, Florida, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: VALENTINA SHEVCHENKO defeated JESSICA ANDRADE via KO/TKO  
+  at 3:19 of round 2
+  Key stats:
+  - VALENTINA SHEVCHENKO landed 32 significant strikes
+  - JESSICA ANDRADE landed 10 significant strikes
+  - Knockdowns: VALENTINA SHEVCHENKO 0,  JESSICA ANDRADE 0
+  - Takedowns: VALENTINA SHEVCHENKO 7,  JESSICA ANDRADE 0
+  Bonus: belt

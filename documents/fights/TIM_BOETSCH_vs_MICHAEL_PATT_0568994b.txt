@@ -1,0 +1,13 @@
+Event: UFC 88: Breakthrough
+    Date: September 06, 2008
+    Location: Atlanta, Georgia, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TIM BOETSCH defeated MICHAEL PATT via KO/TKO  
+  at 2:03 of round 1
+  Key stats:
+  - TIM BOETSCH landed 15 significant strikes
+  - MICHAEL PATT landed 9 significant strikes
+  - Knockdowns: TIM BOETSCH 1,  MICHAEL PATT 0
+  - Takedowns: TIM BOETSCH 0,  MICHAEL PATT 0

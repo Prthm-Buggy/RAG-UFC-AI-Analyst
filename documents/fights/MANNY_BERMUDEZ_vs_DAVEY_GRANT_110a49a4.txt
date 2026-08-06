@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Shogun vs. Smith
+    Date: July 22, 2018
+    Location: Hamburg, Hamburg, Germany
+    Weight Class: Bantamweight
+    
+
+    Result: MANNY BERMUDEZ defeated DAVEY GRANT via Submission  
+  at 0:59 of round 1
+  Key stats:
+  - MANNY BERMUDEZ landed 3 significant strikes
+  - DAVEY GRANT landed 4 significant strikes
+  - Knockdowns: MANNY BERMUDEZ 1,  DAVEY GRANT 0
+  - Takedowns: MANNY BERMUDEZ 0,  DAVEY GRANT 0
+  Bonus: perf

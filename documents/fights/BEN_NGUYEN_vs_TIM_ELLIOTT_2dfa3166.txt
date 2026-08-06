@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Hunt
+    Date: June 10, 2017
+    Location: Auckland, New Zealand
+    Weight Class: Flyweight
+    
+
+    Result: BEN NGUYEN defeated TIM ELLIOTT via Submission  
+  at 0:49 of round 1
+  Key stats:
+  - BEN NGUYEN landed 3 significant strikes
+  - TIM ELLIOTT landed 1 significant strikes
+  - Knockdowns: BEN NGUYEN 0,  TIM ELLIOTT 0
+  - Takedowns: BEN NGUYEN 1,  TIM ELLIOTT 0
+  Bonus: perf

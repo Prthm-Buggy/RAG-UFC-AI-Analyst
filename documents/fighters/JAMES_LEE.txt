@@ -1,0 +1,11 @@
+Fighter: JAMES LEE
+  Date of Birth: 1973-09-22
+  Career record: 1
+  First fight: 2008-01-19
+  Last fight: 2008-01-19
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

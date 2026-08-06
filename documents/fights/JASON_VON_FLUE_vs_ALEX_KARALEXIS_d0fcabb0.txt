@@ -1,0 +1,13 @@
+Event: UFC Fight Night 3
+    Date: January 16, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JASON VON FLUE defeated ALEX KARALEXIS via Submission  
+  at 1:17 of round 3
+  Key stats:
+  - JASON VON FLUE landed 28 significant strikes
+  - ALEX KARALEXIS landed 18 significant strikes
+  - Knockdowns: JASON VON FLUE 0,  ALEX KARALEXIS 0
+  - Takedowns: JASON VON FLUE 0,  ALEX KARALEXIS 1

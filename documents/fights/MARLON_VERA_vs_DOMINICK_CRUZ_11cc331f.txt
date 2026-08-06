@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vera vs. Cruz
+    Date: August 13, 2022
+    Location: San Diego, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARLON VERA defeated DOMINICK CRUZ via KO/TKO  
+  at 2:17 of round 4
+  Key stats:
+  - MARLON VERA landed 61 significant strikes
+  - DOMINICK CRUZ landed 92 significant strikes
+  - Knockdowns: MARLON VERA 3,  DOMINICK CRUZ 0
+  - Takedowns: MARLON VERA 0,  DOMINICK CRUZ 2
+  Bonus: perf

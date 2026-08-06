@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Zabit vs. Kattar
+    Date: November 09, 2019
+    Location: Moscow, Moscow, Russia
+    Weight Class: Women's Bantamweight
+    
+
+    Result: PANNIE KIANZAD defeated JESSICA-ROSE CLARK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PANNIE KIANZAD landed 98 significant strikes
+  - JESSICA-ROSE CLARK landed 65 significant strikes
+  - Knockdowns: PANNIE KIANZAD 0,  JESSICA-ROSE CLARK 0
+  - Takedowns: PANNIE KIANZAD 0,  JESSICA-ROSE CLARK 0

@@ -1,0 +1,11 @@
+Fighter: ILIA TOPURIA
+  Date of Birth: 1997-01-21
+  Career record: 10
+  First fight: 2020-10-10
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :502
+- Total takedowns landed :12
+- Knockdowns :8
+- Submission Attempts :6

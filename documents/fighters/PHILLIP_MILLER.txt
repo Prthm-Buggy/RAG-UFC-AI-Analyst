@@ -1,0 +1,11 @@
+Fighter: PHILLIP MILLER
+  Date of Birth: 1979-02-20
+  Career record: 2
+  First fight: 2002-07-13
+  Last fight: 2002-11-22
+
+Career Statistics:
+- Significant Strikes Landed :40
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,14 @@
+Event: UFC 323: Dvalishvili vs. Yan 2
+    Date: December 06, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MANUEL TORRES defeated GRANT DAWSON via KO/TKO  
+  at 2:25 of round 1
+  Key stats:
+  - MANUEL TORRES landed 9 significant strikes
+  - GRANT DAWSON landed 8 significant strikes
+  - Knockdowns: MANUEL TORRES 1,  GRANT DAWSON 0
+  - Takedowns: MANUEL TORRES 0,  GRANT DAWSON 0
+  Bonus: perf

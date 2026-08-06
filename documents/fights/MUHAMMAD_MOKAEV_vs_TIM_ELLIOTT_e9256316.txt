@@ -1,0 +1,14 @@
+Event: UFC 294: Makhachev vs. Volkanovski 2
+    Date: October 21, 2023
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Flyweight
+    
+
+    Result: MUHAMMAD MOKAEV defeated TIM ELLIOTT via Submission  
+  at 3:03 of round 3
+  Key stats:
+  - MUHAMMAD MOKAEV landed 14 significant strikes
+  - TIM ELLIOTT landed 30 significant strikes
+  - Knockdowns: MUHAMMAD MOKAEV 0,  TIM ELLIOTT 0
+  - Takedowns: MUHAMMAD MOKAEV 3,  TIM ELLIOTT 1
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 119: Mir vs Cro Cop
+    Date: September 25, 2010
+    Location: Indianapolis, Indiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: TJ GRANT defeated JULIO PAULINO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TJ GRANT landed 17 significant strikes
+  - JULIO PAULINO landed 12 significant strikes
+  - Knockdowns: TJ GRANT 0,  JULIO PAULINO 0
+  - Takedowns: TJ GRANT 4,  JULIO PAULINO 0

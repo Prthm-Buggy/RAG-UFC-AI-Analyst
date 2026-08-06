@@ -1,0 +1,13 @@
+Event: UFC 301: Pantoja vs. Erceg
+    Date: May 04, 2024
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: ISMAEL BONFIM defeated VINC PICHEL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ISMAEL BONFIM landed 111 significant strikes
+  - VINC PICHEL landed 61 significant strikes
+  - Knockdowns: ISMAEL BONFIM 0,  VINC PICHEL 0
+  - Takedowns: ISMAEL BONFIM 1,  VINC PICHEL 1

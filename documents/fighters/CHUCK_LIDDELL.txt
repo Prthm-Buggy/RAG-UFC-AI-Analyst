@@ -1,0 +1,11 @@
+Fighter: CHUCK LIDDELL
+  Date of Birth: 1969-12-17
+  Career record: 23
+  First fight: 1998-05-15
+  Last fight: 2010-06-12
+
+Career Statistics:
+- Significant Strikes Landed :611
+- Total takedowns landed :7
+- Knockdowns :14
+- Submission Attempts :0

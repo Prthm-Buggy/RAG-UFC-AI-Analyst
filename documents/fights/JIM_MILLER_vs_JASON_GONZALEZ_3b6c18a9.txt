@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Jacare vs. Hermansson
+    Date: April 27, 2019
+    Location: Sunrise, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated JASON GONZALEZ via Submission  
+  at 2:12 of round 1
+  Key stats:
+  - JIM MILLER landed 6 significant strikes
+  - JASON GONZALEZ landed 10 significant strikes
+  - Knockdowns: JIM MILLER 0,  JASON GONZALEZ 0
+  - Takedowns: JIM MILLER 2,  JASON GONZALEZ 0
+  Bonus: perf

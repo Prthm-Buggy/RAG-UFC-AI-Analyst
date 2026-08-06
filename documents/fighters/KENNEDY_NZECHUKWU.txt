@@ -1,0 +1,11 @@
+Fighter: KENNEDY NZECHUKWU
+  Date of Birth: 1992-06-13
+  Career record: 14
+  First fight: 2019-03-30
+  Last fight: 2025-07-12
+
+Career Statistics:
+- Significant Strikes Landed :600
+- Total takedowns landed :5
+- Knockdowns :3
+- Submission Attempts :2

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swanson vs Stephens
+    Date: June 28, 2014
+    Location: San Antonio, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: CLINT HESTER defeated ANTONIO BRAGA NETO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CLINT HESTER landed 40 significant strikes
+  - ANTONIO BRAGA NETO landed 16 significant strikes
+  - Knockdowns: CLINT HESTER 0,  ANTONIO BRAGA NETO 0
+  - Takedowns: CLINT HESTER 1,  ANTONIO BRAGA NETO 3

@@ -1,0 +1,18 @@
+Event : UFC on FUEL TV: Barao vs McDonald
+    Date : February 16, 2013
+    Location: London, England, United Kingdom
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Light Heavyweight, Lightweight, Welterweight, Featherweight, Middleweight, Flyweight
+
+    Fight Results:
+  - DANNY CASTILLO def. PAUL SASS via Decision - Unanimous(R3)
+- CUB SWANSON def. DUSTIN POIRIER via Decision - Unanimous(R3)
+- GUNNAR NELSON def. JORGE SANTIAGO via Decision - Unanimous(R3)
+- RENAN BARAO def. MICHAEL MCDONALD via Submission(R4)
+- JIMI MANUWA def. CYRILLE DIABATE via TKO - Doctor's Stoppage(R1)
+- RENEE FORTE def. TERRY ETIM via Decision - Unanimous(R3)
+- ANDY OGLE def. JOSH GRISPI via Decision - Unanimous(R3)
+- JAMES TE HUNA def. RYAN JIMMO via Decision - Unanimous(R3)
+- TOM WATSON def. STANISLAV NEDKOV via KO/TKO(R2)
+- PHIL HARRIS def. ULYSSES GOMEZ via Decision - Unanimous(R3)
+- VAUGHAN LEE def. MOTONOBU TEZUKA via Decision - Unanimous(R3)

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Blachowicz vs. Rakic
+    Date : May 14, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Bantamweight, Lightweight, Light Heavyweight, Flyweight, Middleweight, Women's Strawweight
+
+    Fight Results:
+  - ANDRE PETROSKI def. NICK MAXIMOV via Submission(R1)
+- TATSURO TAIRA def. CARLOS CANDELARIO via Decision - Unanimous(R3)
+- MICHAEL JOHNSON def. ALAN PATRICK via KO/TKO(R2)
+- ALLAN NASCIMENTO def. JAKE HADLEY via Decision - Unanimous(R3)
+- DAVEY GRANT def. LOUIS SMOLKA via KO/TKO(R3)
+- RYAN SPANN def. ION CUTELABA via Submission(R1)
+- JAN BLACHOWICZ def. ALEKSANDAR RAKIC via KO/TKO(R3)
+- VIRNA JANDIROBA def. ANGELA HILL via Decision - Unanimous(R3)
+- VIVIANE ARAUJO def. ANDREA LEE via Decision - Unanimous(R3)
+- MANUEL TORRES def. FRANK CAMACHO via KO/TKO(R1)
+- KATLYN CERMINARA def. AMANDA RIBAS via Decision - Split(R3)

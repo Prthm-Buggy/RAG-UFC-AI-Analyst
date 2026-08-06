@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Redemption Finale
+    Date: July 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JAMES KRAUSE defeated TOM GALLICCHIO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JAMES KRAUSE landed 106 significant strikes
+  - TOM GALLICCHIO landed 53 significant strikes
+  - Knockdowns: JAMES KRAUSE 0,  TOM GALLICCHIO 0
+  - Takedowns: JAMES KRAUSE 0,  TOM GALLICCHIO 1

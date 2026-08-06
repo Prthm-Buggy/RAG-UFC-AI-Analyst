@@ -1,0 +1,14 @@
+Event: UFC Live: Cruz vs Johnson
+    Date: October 01, 2011
+    Location: Washington, DC, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STEFAN STRUVE defeated PAT BARRY via Submission  
+  at 3:22 of round 2
+  Key stats:
+  - STEFAN STRUVE landed 31 significant strikes
+  - PAT BARRY landed 30 significant strikes
+  - Knockdowns: STEFAN STRUVE 0,  PAT BARRY 0
+  - Takedowns: STEFAN STRUVE 0,  PAT BARRY 0
+  Bonus: sub

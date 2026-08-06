@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Almeida vs. Lewis
+    Date: November 04, 2023
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Women's Strawweight
+    
+
+    Result: EDUARDA MOURA defeated MONTSERRAT CONEJO RUIZ via KO/TKO  
+  at 2:14 of round 2
+  Key stats:
+  - EDUARDA MOURA landed 57 significant strikes
+  - MONTSERRAT CONEJO RUIZ landed 5 significant strikes
+  - Knockdowns: EDUARDA MOURA 0,  MONTSERRAT CONEJO RUIZ 0
+  - Takedowns: EDUARDA MOURA 3,  MONTSERRAT CONEJO RUIZ 0

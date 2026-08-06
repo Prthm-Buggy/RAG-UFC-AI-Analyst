@@ -1,0 +1,14 @@
+Event: UFC 126: Silva vs Belfort
+    Date: February 05, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDERSON SILVA defeated VITOR BELFORT via KO/TKO  
+  at 3:25 of round 1
+  Key stats:
+  - ANDERSON SILVA landed 6 significant strikes
+  - VITOR BELFORT landed 6 significant strikes
+  - Knockdowns: ANDERSON SILVA 1,  VITOR BELFORT 0
+  - Takedowns: ANDERSON SILVA 0,  VITOR BELFORT 0
+  Bonus: belt

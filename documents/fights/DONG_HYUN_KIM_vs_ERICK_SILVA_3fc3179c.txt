@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Maia vs Shields
+    Date: October 09, 2013
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: DONG HYUN KIM defeated ERICK SILVA via KO/TKO  
+  at 3:01 of round 2
+  Key stats:
+  - DONG HYUN KIM landed 11 significant strikes
+  - ERICK SILVA landed 28 significant strikes
+  - Knockdowns: DONG HYUN KIM 1,  ERICK SILVA 0
+  - Takedowns: DONG HYUN KIM 1,  ERICK SILVA 0
+  Bonus: ko

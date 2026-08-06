@@ -1,0 +1,11 @@
+Fighter: ANDREW CRAIG
+  Date of Birth: 1986-01-15
+  Career record: 7
+  First fight: 2012-03-02
+  Last fight: 2015-07-15
+
+Career Statistics:
+- Significant Strikes Landed :205
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :0

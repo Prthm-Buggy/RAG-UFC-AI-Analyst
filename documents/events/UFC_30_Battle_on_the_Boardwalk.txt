@@ -1,0 +1,14 @@
+Event : UFC 30: Battle on the Boardwalk
+    Date : February 23, 2001
+    Location: Atlantic City, New Jersey, USA
+    Number of Fights: 7
+    Weight Classes: Heavyweight, Middleweight, Welterweight, Lightweight
+
+    Fight Results:
+  - PEDRO RIZZO def. JOSH BARNETT via KO/TKO(R2)
+- TITO ORTIZ def. EVAN TANNER via KO/TKO(R1)
+- JENS PULVER def. CAOL UNO via Decision - Unanimous(R5)
+- ELVIS SINOSIC def. JEREMY HORN via Submission(R1)
+- PHIL BARONI def. CURTIS STOUT via Decision - Unanimous(R2)
+- FABIANO IHA def. PHIL JOHNS via Submission(R1)
+- SEAN SHERK def. TIKI GHOSN via Submission(R2)

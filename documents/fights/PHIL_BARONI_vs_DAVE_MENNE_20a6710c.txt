@@ -1,0 +1,13 @@
+Event: UFC 39: The Warriors Return
+    Date: September 27, 2002
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Middleweight
+    
+
+    Result: PHIL BARONI defeated DAVE MENNE via KO/TKO  
+  at 0:18 of round 1
+  Key stats:
+  - PHIL BARONI landed 8 significant strikes
+  - DAVE MENNE landed 1 significant strikes
+  - Knockdowns: PHIL BARONI 1,  DAVE MENNE 0
+  - Takedowns: PHIL BARONI 0,  DAVE MENNE 0

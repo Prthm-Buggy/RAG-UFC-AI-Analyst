@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cejudo vs. Song
+    Date: February 22, 2025
+    Location: Seattle, Washington, USA
+    Weight Class: Middleweight
+    
+
+    Result: MANSUR ABDUL-MALIK defeated NICK KLEIN via KO/TKO  
+  at 3:24 of round 2
+  Key stats:
+  - MANSUR ABDUL-MALIK landed 29 significant strikes
+  - NICK KLEIN landed 28 significant strikes
+  - Knockdowns: MANSUR ABDUL-MALIK 0,  NICK KLEIN 0
+  - Takedowns: MANSUR ABDUL-MALIK 1,  NICK KLEIN 1

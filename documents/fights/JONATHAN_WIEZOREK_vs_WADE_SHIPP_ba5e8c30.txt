@@ -1,0 +1,13 @@
+Event: UFC 47: It's On!
+    Date: April 02, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JONATHAN WIEZOREK defeated WADE SHIPP via KO/TKO  
+  at 4:40 of round 1
+  Key stats:
+  - JONATHAN WIEZOREK landed 10 significant strikes
+  - WADE SHIPP landed 20 significant strikes
+  - Knockdowns: JONATHAN WIEZOREK 0,  WADE SHIPP 0
+  - Takedowns: JONATHAN WIEZOREK 1,  WADE SHIPP 0

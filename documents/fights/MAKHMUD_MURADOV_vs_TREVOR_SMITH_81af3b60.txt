@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs. Rozenstruik
+    Date: December 07, 2019
+    Location: Washington, DC, USA
+    Weight Class: Middleweight
+    
+
+    Result: MAKHMUD MURADOV defeated TREVOR SMITH via KO/TKO  
+  at 4:09 of round 3
+  Key stats:
+  - MAKHMUD MURADOV landed 91 significant strikes
+  - TREVOR SMITH landed 39 significant strikes
+  - Knockdowns: MAKHMUD MURADOV 1,  TREVOR SMITH 0
+  - Takedowns: MAKHMUD MURADOV 1,  TREVOR SMITH 0
+  Bonus: perf

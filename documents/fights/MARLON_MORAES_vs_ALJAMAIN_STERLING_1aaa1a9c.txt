@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Swanson vs. Ortega
+    Date: December 09, 2017
+    Location: Fresno, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARLON MORAES defeated ALJAMAIN STERLING via KO/TKO  
+  at 1:07 of round 1
+  Key stats:
+  - MARLON MORAES landed 7 significant strikes
+  - ALJAMAIN STERLING landed 3 significant strikes
+  - Knockdowns: MARLON MORAES 2,  ALJAMAIN STERLING 0
+  - Takedowns: MARLON MORAES 0,  ALJAMAIN STERLING 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 308: Topuria vs. Holloway
+    Date: October 26, 2024
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Heavyweight
+    
+
+    Result: KENNEDY NZECHUKWU defeated CHRIS BARNETT via KO/TKO  
+  at 4:27 of round 1
+  Key stats:
+  - KENNEDY NZECHUKWU landed 51 significant strikes
+  - CHRIS BARNETT landed 12 significant strikes
+  - Knockdowns: KENNEDY NZECHUKWU 0,  CHRIS BARNETT 0
+  - Takedowns: KENNEDY NZECHUKWU 0,  CHRIS BARNETT 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Luque vs. Muhammad
+    Date: April 16, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CAIO BORRALHO defeated GADZHI OMARGADZHIEV via Decision - Unanimous  
+  at 3:56 of round 3
+  Key stats:
+  - CAIO BORRALHO landed 31 significant strikes
+  - GADZHI OMARGADZHIEV landed 12 significant strikes
+  - Knockdowns: CAIO BORRALHO 0,  GADZHI OMARGADZHIEV 0
+  - Takedowns: CAIO BORRALHO 1,  GADZHI OMARGADZHIEV 1

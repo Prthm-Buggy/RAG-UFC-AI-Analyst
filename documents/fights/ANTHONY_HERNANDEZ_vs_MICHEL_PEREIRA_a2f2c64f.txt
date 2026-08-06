@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hernandez vs. Pereira
+    Date: October 19, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANTHONY HERNANDEZ defeated MICHEL PEREIRA via KO/TKO  
+  at 2:22 of round 5
+  Key stats:
+  - ANTHONY HERNANDEZ landed 152 significant strikes
+  - MICHEL PEREIRA landed 24 significant strikes
+  - Knockdowns: ANTHONY HERNANDEZ 0,  MICHEL PEREIRA 0
+  - Takedowns: ANTHONY HERNANDEZ 10,  MICHEL PEREIRA 0
+  Bonus: perf

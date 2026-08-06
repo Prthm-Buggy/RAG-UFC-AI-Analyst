@@ -1,0 +1,11 @@
+Fighter: NORA CORNOLLE
+  Date of Birth: 1989-12-06
+  Career record: 6
+  First fight: 2023-09-02
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :185
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :1

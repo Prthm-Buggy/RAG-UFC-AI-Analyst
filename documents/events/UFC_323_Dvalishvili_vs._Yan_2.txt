@@ -1,0 +1,20 @@
+Event : UFC 323: Dvalishvili vs. Yan 2
+    Date : December 06, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Lightweight, Featherweight, Light Heavyweight, Middleweight, Flyweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - FARES ZIAM def. NAZIM SADYKHOV via KO/TKO(R2)
+- MANUEL TORRES def. GRANT DAWSON via KO/TKO(R1)
+- MAYCEE BARBER def. KARINE SILVA via Decision - Unanimous(R3)
+- IWO BARANIEWSKI def. IBO ASLAN via KO/TKO(R1)
+- MAIRON SANTOS def. MUHAMMAD NAIMOV via KO/TKO(R3)
+- PETR YAN def. MERAB DVALISHVILI via Decision - Unanimous(R5)
+- JOSHUA VAN def. ALEXANDRE PANTOJA via KO/TKO(R1)
+- PAYTON TALBOTT def. HENRY CEJUDO via Decision - Unanimous(R3)
+- CHRIS DUNCAN def. TERRANCE MCKINNEY via Submission(R1)
+- TATSURO TAIRA def. BRANDON MORENO via KO/TKO(R2)
+- BRUNNO FERREIRA def. MARVIN VETTORI via Decision - Unanimous(R3)
+- JALIN TURNER def. EDSON BARBOZA via KO/TKO(R1)
+- MANSUR ABDUL-MALIK def. ANTONIO TROCOLI via Submission(R1)

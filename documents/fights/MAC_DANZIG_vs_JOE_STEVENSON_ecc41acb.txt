@@ -1,0 +1,14 @@
+Event: UFC 124: St-Pierre vs Koscheck 2
+    Date: December 11, 2010
+    Location: Montreal, Quebec, Canada
+    Weight Class: Lightweight
+    
+
+    Result: MAC DANZIG defeated JOE STEVENSON via KO/TKO  
+  at 1:54 of round 1
+  Key stats:
+  - MAC DANZIG landed 9 significant strikes
+  - JOE STEVENSON landed 6 significant strikes
+  - Knockdowns: MAC DANZIG 1,  JOE STEVENSON 0
+  - Takedowns: MAC DANZIG 0,  JOE STEVENSON 0
+  Bonus: ko

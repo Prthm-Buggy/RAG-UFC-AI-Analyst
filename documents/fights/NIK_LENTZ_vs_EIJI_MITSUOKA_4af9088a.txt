@@ -1,0 +1,13 @@
+Event: UFC 150: Henderson vs Edgar II
+    Date: August 11, 2012
+    Location: Denver, Colorado, USA
+    Weight Class: Featherweight
+    
+
+    Result: NIK LENTZ defeated EIJI MITSUOKA via KO/TKO  
+  at 3:45 of round 1
+  Key stats:
+  - NIK LENTZ landed 33 significant strikes
+  - EIJI MITSUOKA landed 5 significant strikes
+  - Knockdowns: NIK LENTZ 0,  EIJI MITSUOKA 0
+  - Takedowns: NIK LENTZ 4,  EIJI MITSUOKA 0

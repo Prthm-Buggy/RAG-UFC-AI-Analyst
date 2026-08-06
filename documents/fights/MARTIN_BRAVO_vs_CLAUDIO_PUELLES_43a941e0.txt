@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Anjos vs. Ferguson
+    Date: November 05, 2016
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Lightweight
+    
+
+    Result: MARTIN BRAVO defeated CLAUDIO PUELLES via KO/TKO  
+  at 1:55 of round 2
+  Key stats:
+  - MARTIN BRAVO landed 56 significant strikes
+  - CLAUDIO PUELLES landed 29 significant strikes
+  - Knockdowns: MARTIN BRAVO 1,  CLAUDIO PUELLES 0
+  - Takedowns: MARTIN BRAVO 0,  CLAUDIO PUELLES 1
+  Bonus: belt

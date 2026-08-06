@@ -1,0 +1,13 @@
+Event: UFC 229: Khabib vs. McGregor
+    Date: October 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NIK LENTZ defeated GRAY MAYNARD via KO/TKO  
+  at 1:19 of round 2
+  Key stats:
+  - NIK LENTZ landed 75 significant strikes
+  - GRAY MAYNARD landed 13 significant strikes
+  - Knockdowns: NIK LENTZ 1,  GRAY MAYNARD 0
+  - Takedowns: NIK LENTZ 2,  GRAY MAYNARD 0

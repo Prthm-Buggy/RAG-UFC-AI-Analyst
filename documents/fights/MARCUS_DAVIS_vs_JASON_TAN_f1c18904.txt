@@ -1,0 +1,14 @@
+Event: UFC 72: Victory
+    Date: June 16, 2007
+    Location: Belfast, Northern Ireland, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: MARCUS DAVIS defeated JASON TAN via KO/TKO  
+  at 1:15 of round 1
+  Key stats:
+  - MARCUS DAVIS landed 9 significant strikes
+  - JASON TAN landed 6 significant strikes
+  - Knockdowns: MARCUS DAVIS 1,  JASON TAN 0
+  - Takedowns: MARCUS DAVIS 0,  JASON TAN 0
+  Bonus: ko

@@ -1,0 +1,11 @@
+Fighter: EMILY KAGAN
+  Date of Birth: 1981-07-14
+  Career record: 2
+  First fight: 2014-12-12
+  Last fight: 2015-12-10
+
+Career Statistics:
+- Significant Strikes Landed :63
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

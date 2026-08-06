@@ -1,0 +1,13 @@
+Event: UFC 98: Evans vs Machida
+    Date: May 23, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KRZYSZTOF SOSZYNSKI defeated ANDRE GUSMAO via KO/TKO  
+  at 3:17 of round 1
+  Key stats:
+  - KRZYSZTOF SOSZYNSKI landed 18 significant strikes
+  - ANDRE GUSMAO landed 17 significant strikes
+  - Knockdowns: KRZYSZTOF SOSZYNSKI 1,  ANDRE GUSMAO 0
+  - Takedowns: KRZYSZTOF SOSZYNSKI 0,  ANDRE GUSMAO 0

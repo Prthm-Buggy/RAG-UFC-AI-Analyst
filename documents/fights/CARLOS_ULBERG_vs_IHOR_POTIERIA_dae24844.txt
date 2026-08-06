@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rozenstruik vs. Almeida
+    Date: May 13, 2023
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CARLOS ULBERG defeated IHOR POTIERIA via KO/TKO  
+  at 2:09 of round 1
+  Key stats:
+  - CARLOS ULBERG landed 13 significant strikes
+  - IHOR POTIERIA landed 5 significant strikes
+  - Knockdowns: CARLOS ULBERG 1,  IHOR POTIERIA 0
+  - Takedowns: CARLOS ULBERG 0,  IHOR POTIERIA 0
+  Bonus: perf

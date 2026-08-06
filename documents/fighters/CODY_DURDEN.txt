@@ -1,0 +1,11 @@
+Fighter: CODY DURDEN
+  Date of Birth: 1991-03-29
+  Career record: 15
+  First fight: 2020-12-19
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :488
+- Total takedowns landed :41
+- Knockdowns :1
+- Submission Attempts :5

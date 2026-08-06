@@ -1,0 +1,11 @@
+Fighter: KALIB STARNES
+  Date of Birth: 1975-01-06
+  Career record: 5
+  First fight: 2006-06-24
+  Last fight: 2008-04-19
+
+Career Statistics:
+- Significant Strikes Landed :139
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :2

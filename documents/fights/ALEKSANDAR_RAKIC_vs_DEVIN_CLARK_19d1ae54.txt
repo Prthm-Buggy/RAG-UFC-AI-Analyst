@@ -1,0 +1,13 @@
+Event: UFC 231: Holloway vs. Ortega
+    Date: December 08, 2018
+    Location: Toronto, Ontario, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEKSANDAR RAKIC defeated DEVIN CLARK via KO/TKO  
+  at 4:05 of round 1
+  Key stats:
+  - ALEKSANDAR RAKIC landed 31 significant strikes
+  - DEVIN CLARK landed 19 significant strikes
+  - Knockdowns: ALEKSANDAR RAKIC 1,  DEVIN CLARK 1
+  - Takedowns: ALEKSANDAR RAKIC 0,  DEVIN CLARK 0

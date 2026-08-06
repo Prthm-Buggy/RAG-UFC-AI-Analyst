@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Werdum vs. Volkov
+    Date: March 17, 2018
+    Location: London, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: DMITRY SOSNOVSKIY defeated MARK GODBEER via Submission  
+  at 4:29 of round 2
+  Key stats:
+  - DMITRY SOSNOVSKIY landed 28 significant strikes
+  - MARK GODBEER landed 24 significant strikes
+  - Knockdowns: DMITRY SOSNOVSKIY 0,  MARK GODBEER 0
+  - Takedowns: DMITRY SOSNOVSKIY 2,  MARK GODBEER 0

@@ -1,0 +1,14 @@
+Event: UFC 120: Bisping vs Akiyama
+    Date: October 16, 2010
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: PAUL SASS defeated MARK HOLST via Submission  
+  at 4:45 of round 1
+  Key stats:
+  - PAUL SASS landed 2 significant strikes
+  - MARK HOLST landed 3 significant strikes
+  - Knockdowns: PAUL SASS 0,  MARK HOLST 0
+  - Takedowns: PAUL SASS 0,  MARK HOLST 0
+  Bonus: sub

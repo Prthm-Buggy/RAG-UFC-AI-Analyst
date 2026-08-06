@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tybura vs. Spivac 2
+    Date: August 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: YANA SANTOS defeated CHELSEA CHANDLER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - YANA SANTOS landed 94 significant strikes
+  - CHELSEA CHANDLER landed 56 significant strikes
+  - Knockdowns: YANA SANTOS 1,  CHELSEA CHANDLER 0
+  - Takedowns: YANA SANTOS 0,  CHELSEA CHANDLER 0

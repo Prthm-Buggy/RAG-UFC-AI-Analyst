@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Volkov vs. Rozenstruik
+    Date: June 04, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DAMON JACKSON defeated DAN ARGUETA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DAMON JACKSON landed 32 significant strikes
+  - DAN ARGUETA landed 27 significant strikes
+  - Knockdowns: DAMON JACKSON 0,  DAN ARGUETA 0
+  - Takedowns: DAMON JACKSON 2,  DAN ARGUETA 1

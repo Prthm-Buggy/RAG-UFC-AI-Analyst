@@ -1,0 +1,11 @@
+Fighter: MATT HOBAR
+  Date of Birth: 1987-01-07
+  Career record: 3
+  First fight: 2014-05-31
+  Last fight: 2014-12-06
+
+Career Statistics:
+- Significant Strikes Landed :106
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC 299: O'Malley vs. Vera 2
+    Date: March 09, 2024
+    Location: Miami, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: JACK DELLA MADDALENA defeated GILBERT BURNS via KO/TKO  
+  at 3:43 of round 3
+  Key stats:
+  - JACK DELLA MADDALENA landed 67 significant strikes
+  - GILBERT BURNS landed 27 significant strikes
+  - Knockdowns: JACK DELLA MADDALENA 1,  GILBERT BURNS 0
+  - Takedowns: JACK DELLA MADDALENA 0,  GILBERT BURNS 7
+  Bonus: perf

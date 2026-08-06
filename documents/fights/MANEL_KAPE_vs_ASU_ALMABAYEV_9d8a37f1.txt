@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kape vs. Almabayev
+    Date: March 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: MANEL KAPE defeated ASU ALMABAYEV via KO/TKO  
+  at 2:16 of round 3
+  Key stats:
+  - MANEL KAPE landed 61 significant strikes
+  - ASU ALMABAYEV landed 40 significant strikes
+  - Knockdowns: MANEL KAPE 0,  ASU ALMABAYEV 0
+  - Takedowns: MANEL KAPE 0,  ASU ALMABAYEV 0
+  Bonus: perf

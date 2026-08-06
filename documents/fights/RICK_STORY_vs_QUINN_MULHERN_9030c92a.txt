@@ -1,0 +1,13 @@
+Event: UFC 158: St-Pierre vs Diaz
+    Date: March 16, 2013
+    Location: Montreal, Quebec, Canada
+    Weight Class: Welterweight
+    
+
+    Result: RICK STORY defeated QUINN MULHERN via KO/TKO  
+  at 3:05 of round 1
+  Key stats:
+  - RICK STORY landed 20 significant strikes
+  - QUINN MULHERN landed 9 significant strikes
+  - Knockdowns: RICK STORY 1,  QUINN MULHERN 0
+  - Takedowns: RICK STORY 1,  QUINN MULHERN 0

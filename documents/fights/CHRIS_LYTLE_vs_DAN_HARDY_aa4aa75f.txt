@@ -1,0 +1,14 @@
+Event: UFC Live: Hardy vs Lytle
+    Date: August 14, 2011
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHRIS LYTLE defeated DAN HARDY via Submission  
+  at 4:16 of round 3
+  Key stats:
+  - CHRIS LYTLE landed 127 significant strikes
+  - DAN HARDY landed 61 significant strikes
+  - Knockdowns: CHRIS LYTLE 0,  DAN HARDY 0
+  - Takedowns: CHRIS LYTLE 0,  DAN HARDY 1
+  Bonus: fight

@@ -1,0 +1,13 @@
+Event: UFC 302: Makhachev vs. Poirier
+    Date: June 01, 2024
+    Location: Newark, New Jersey, USA
+    Weight Class: Flyweight
+    
+
+    Result: Andre Lima defeated MITCH RAPOSO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - Andre Lima landed 51 significant strikes
+  - MITCH RAPOSO landed 32 significant strikes
+  - Knockdowns: Andre Lima 0,  MITCH RAPOSO 0
+  - Takedowns: Andre Lima 0,  MITCH RAPOSO 1

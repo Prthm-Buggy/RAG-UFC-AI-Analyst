@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Oleinik
+    Date: August 08, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DARREN STEWART defeated MAKI PITOLO via Submission  
+  at 3:41 of round 1
+  Key stats:
+  - DARREN STEWART landed 13 significant strikes
+  - MAKI PITOLO landed 12 significant strikes
+  - Knockdowns: DARREN STEWART 0,  MAKI PITOLO 0
+  - Takedowns: DARREN STEWART 0,  MAKI PITOLO 1
+  Bonus: perf

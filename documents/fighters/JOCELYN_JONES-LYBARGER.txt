@@ -1,0 +1,11 @@
+Fighter: JOCELYN JONES-LYBARGER
+  Date of Birth: 1985-10-04
+  Career record: 3
+  First fight: 2015-12-12
+  Last fight: 2017-01-15
+
+Career Statistics:
+- Significant Strikes Landed :129
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

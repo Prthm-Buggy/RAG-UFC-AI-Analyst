@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nelson vs. Ponzinibbio
+    Date: July 16, 2017
+    Location: Glasgow, Scotland, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: GALORE BOFANDO defeated CHARLIE WARD via KO/TKO  
+  at 2:10 of round 1
+  Key stats:
+  - GALORE BOFANDO landed 10 significant strikes
+  - CHARLIE WARD landed 3 significant strikes
+  - Knockdowns: GALORE BOFANDO 0,  CHARLIE WARD 0
+  - Takedowns: GALORE BOFANDO 1,  CHARLIE WARD 0

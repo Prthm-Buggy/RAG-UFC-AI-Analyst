@@ -1,0 +1,11 @@
+Fighter: DANIEL FRUNZA
+  Date of Birth: 1994-04-13
+  Career record: 2
+  First fight: 2025-04-05
+  Last fight: 2025-11-01
+
+Career Statistics:
+- Significant Strikes Landed :49
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

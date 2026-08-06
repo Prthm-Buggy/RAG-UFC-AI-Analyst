@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Sanchez vs Ellenberger
+    Date: February 15, 2012
+    Location: Omaha, Nebraska, USA
+    Weight Class: Featherweight
+    
+
+    Result: JONATHAN BROOKINS defeated VAGNER ROCHA via KO/TKO  
+  at 1:32 of round 1
+  Key stats:
+  - JONATHAN BROOKINS landed 18 significant strikes
+  - VAGNER ROCHA landed 7 significant strikes
+  - Knockdowns: JONATHAN BROOKINS 0,  VAGNER ROCHA 0
+  - Takedowns: JONATHAN BROOKINS 1,  VAGNER ROCHA 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Boetsch vs Henderson
+    Date: June 06, 2015
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Lightweight
+    
+
+    Result: DUSTIN POIRIER defeated YANCY MEDEIROS via KO/TKO  
+  at 2:38 of round 1
+  Key stats:
+  - DUSTIN POIRIER landed 27 significant strikes
+  - YANCY MEDEIROS landed 6 significant strikes
+  - Knockdowns: DUSTIN POIRIER 2,  YANCY MEDEIROS 0
+  - Takedowns: DUSTIN POIRIER 1,  YANCY MEDEIROS 0
+  Bonus: perf

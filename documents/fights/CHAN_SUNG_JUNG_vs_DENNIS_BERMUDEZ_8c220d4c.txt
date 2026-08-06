@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bermudez vs. The Korean Zombie
+    Date: February 04, 2017
+    Location: Houston, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHAN SUNG JUNG defeated DENNIS BERMUDEZ via KO/TKO  
+  at 2:29 of round 1
+  Key stats:
+  - CHAN SUNG JUNG landed 17 significant strikes
+  - DENNIS BERMUDEZ landed 20 significant strikes
+  - Knockdowns: CHAN SUNG JUNG 1,  DENNIS BERMUDEZ 0
+  - Takedowns: CHAN SUNG JUNG 0,  DENNIS BERMUDEZ 0
+  Bonus: perf

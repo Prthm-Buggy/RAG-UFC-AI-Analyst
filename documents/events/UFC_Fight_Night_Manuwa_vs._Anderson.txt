@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Manuwa vs. Anderson
+    Date : March 18, 2017
+    Location: London, England, United Kingdom
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Middleweight, Lightweight, Women's Bantamweight, Welterweight, Light Heavyweight, Featherweight, Catch Weight
+
+    Fight Results:
+  - MARLON VERA def. BRAD PICKETT via KO/TKO(R3)
+- ARNOLD ALLEN def. MAKWAN AMIRKHANI via Decision - Split(R3)
+- MARC DIAKIESE def. TEEMU PACKALEN via KO/TKO(R1)
+- LEON EDWARDS def. VICENTE LUQUE via Decision - Unanimous(R3)
+- JOE DUFFY def. REZA MADADI via Decision - Unanimous(R3)
+- GUNNAR NELSON def. ALAN JOUBAN via Submission(R2)
+- TIMOTHY JOHNSON def. DANIEL OMIELANCZUK via Decision - Split(R3)
+- BRAD SCOTT def. SCOTT ASKHAM via Decision - Split(R3)
+- LINA LANSBERG def. LUCIE PUDILOVA via Decision - Unanimous(R3)
+- JIMI MANUWA def. COREY ANDERSON via KO/TKO(R1)
+- FRANCIMAR BARROSO def. DARREN STEWART via Decision - Unanimous(R3)

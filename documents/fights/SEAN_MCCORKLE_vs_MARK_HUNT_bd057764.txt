@@ -1,0 +1,13 @@
+Event: UFC 119: Mir vs Cro Cop
+    Date: September 25, 2010
+    Location: Indianapolis, Indiana, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SEAN MCCORKLE defeated MARK HUNT via Submission  
+  at 1:03 of round 1
+  Key stats:
+  - SEAN MCCORKLE landed 0 significant strikes
+  - MARK HUNT landed 2 significant strikes
+  - Knockdowns: SEAN MCCORKLE 0,  MARK HUNT 0
+  - Takedowns: SEAN MCCORKLE 0,  MARK HUNT 1

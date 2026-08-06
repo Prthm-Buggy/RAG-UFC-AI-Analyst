@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Cannonier
+    Date: September 28, 2019
+    Location: Copenhagen, Denmark
+    Weight Class: Lightweight
+    
+
+    Result: MARK MADSEN defeated DANILO BELLUARDO via KO/TKO  
+  at 1:12 of round 1
+  Key stats:
+  - MARK MADSEN landed 22 significant strikes
+  - DANILO BELLUARDO landed 0 significant strikes
+  - Knockdowns: MARK MADSEN 0,  DANILO BELLUARDO 0
+  - Takedowns: MARK MADSEN 1,  DANILO BELLUARDO 0

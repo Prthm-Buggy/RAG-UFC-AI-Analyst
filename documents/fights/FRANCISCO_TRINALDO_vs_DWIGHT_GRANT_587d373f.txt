@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Costa vs. Vettori
+    Date: October 23, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: FRANCISCO TRINALDO defeated DWIGHT GRANT via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - FRANCISCO TRINALDO landed 36 significant strikes
+  - DWIGHT GRANT landed 31 significant strikes
+  - Knockdowns: FRANCISCO TRINALDO 0,  DWIGHT GRANT 0
+  - Takedowns: FRANCISCO TRINALDO 1,  DWIGHT GRANT 1

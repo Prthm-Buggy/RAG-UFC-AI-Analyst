@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Yusuff vs. Barboza
+    Date: October 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: EDSON BARBOZA defeated SODIQ YUSUFF via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - EDSON BARBOZA landed 164 significant strikes
+  - SODIQ YUSUFF landed 178 significant strikes
+  - Knockdowns: EDSON BARBOZA 1,  SODIQ YUSUFF 1
+  - Takedowns: EDSON BARBOZA 3,  SODIQ YUSUFF 1
+  Bonus: fight

@@ -1,0 +1,11 @@
+Fighter: DAMIR ISMAGULOV
+  Date of Birth: 1991-02-03
+  Career record: 7
+  First fight: 2018-12-01
+  Last fight: 2023-07-01
+
+Career Statistics:
+- Significant Strikes Landed :353
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :0

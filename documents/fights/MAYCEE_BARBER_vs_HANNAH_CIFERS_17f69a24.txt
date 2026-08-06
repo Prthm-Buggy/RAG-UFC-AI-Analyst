@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Korean Zombie vs. Rodriguez
+    Date: November 10, 2018
+    Location: Denver, Colorado, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MAYCEE BARBER defeated HANNAH CIFERS via KO/TKO  
+  at 2:01 of round 2
+  Key stats:
+  - MAYCEE BARBER landed 68 significant strikes
+  - HANNAH CIFERS landed 41 significant strikes
+  - Knockdowns: MAYCEE BARBER 0,  HANNAH CIFERS 0
+  - Takedowns: MAYCEE BARBER 1,  HANNAH CIFERS 0

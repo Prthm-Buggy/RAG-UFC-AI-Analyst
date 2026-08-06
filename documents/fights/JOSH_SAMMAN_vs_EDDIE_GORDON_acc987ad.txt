@@ -1,0 +1,14 @@
+Event: UFC 181: Hendricks vs Lawler II
+    Date: December 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOSH SAMMAN defeated EDDIE GORDON via KO/TKO  
+  at 3:08 of round 2
+  Key stats:
+  - JOSH SAMMAN landed 11 significant strikes
+  - EDDIE GORDON landed 8 significant strikes
+  - Knockdowns: JOSH SAMMAN 1,  EDDIE GORDON 0
+  - Takedowns: JOSH SAMMAN 1,  EDDIE GORDON 2
+  Bonus: perf

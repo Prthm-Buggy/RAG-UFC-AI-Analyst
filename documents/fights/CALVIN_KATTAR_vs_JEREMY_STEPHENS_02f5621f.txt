@@ -1,0 +1,13 @@
+Event: UFC 249: Ferguson vs. Gaethje
+    Date: May 09, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Featherweight
+    
+
+    Result: CALVIN KATTAR defeated JEREMY STEPHENS via KO/TKO  
+  at 2:49 of round 2
+  Key stats:
+  - CALVIN KATTAR landed 52 significant strikes
+  - JEREMY STEPHENS landed 57 significant strikes
+  - Knockdowns: CALVIN KATTAR 1,  JEREMY STEPHENS 0
+  - Takedowns: CALVIN KATTAR 0,  JEREMY STEPHENS 0

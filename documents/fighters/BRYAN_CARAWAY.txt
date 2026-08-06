@@ -1,0 +1,11 @@
+Fighter: BRYAN CARAWAY
+  Date of Birth: 1984-08-04
+  Career record: 10
+  First fight: 2011-12-03
+  Last fight: 2018-11-30
+
+Career Statistics:
+- Significant Strikes Landed :309
+- Total takedowns landed :19
+- Knockdowns :0
+- Submission Attempts :6

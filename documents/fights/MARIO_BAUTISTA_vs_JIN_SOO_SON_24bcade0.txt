@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Anjos vs. Edwards
+    Date: July 20, 2019
+    Location: San Antonio, Texas, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARIO BAUTISTA defeated JIN SOO SON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARIO BAUTISTA landed 129 significant strikes
+  - JIN SOO SON landed 95 significant strikes
+  - Knockdowns: MARIO BAUTISTA 0,  JIN SOO SON 0
+  - Takedowns: MARIO BAUTISTA 0,  JIN SOO SON 2
+  Bonus: fight

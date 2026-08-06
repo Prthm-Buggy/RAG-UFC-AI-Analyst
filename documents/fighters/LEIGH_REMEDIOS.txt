@@ -1,0 +1,11 @@
+Fighter: LEIGH REMEDIOS
+  Date of Birth: 1976-01-13
+  Career record: 1
+  First fight: 2002-07-13
+  Last fight: 2002-07-13
+
+Career Statistics:
+- Significant Strikes Landed :5
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

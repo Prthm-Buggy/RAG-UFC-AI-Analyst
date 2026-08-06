@@ -1,0 +1,14 @@
+Event: UFC 180: Werdum vs Hunt
+    Date: November 15, 2014
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Bantamweight
+    
+
+    Result: ALEJANDRO PEREZ defeated JOSE QUINONEZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALEJANDRO PEREZ landed 38 significant strikes
+  - JOSE QUINONEZ landed 38 significant strikes
+  - Knockdowns: ALEJANDRO PEREZ 0,  JOSE QUINONEZ 0
+  - Takedowns: ALEJANDRO PEREZ 1,  JOSE QUINONEZ 3
+  Bonus: belt

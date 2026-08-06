@@ -1,0 +1,14 @@
+Event: UFC 136: Edgar vs Maynard 3
+    Date: October 08, 2011
+    Location: Houston, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE LAUZON defeated MELVIN GUILLARD via Submission  
+  at 0:47 of round 1
+  Key stats:
+  - JOE LAUZON landed 2 significant strikes
+  - MELVIN GUILLARD landed 3 significant strikes
+  - Knockdowns: JOE LAUZON 0,  MELVIN GUILLARD 0
+  - Takedowns: JOE LAUZON 0,  MELVIN GUILLARD 0
+  Bonus: sub

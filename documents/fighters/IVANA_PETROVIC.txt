@@ -1,0 +1,11 @@
+Fighter: IVANA PETROVIC
+  Date of Birth: 1994-06-11
+  Career record: 4
+  First fight: 2023-07-01
+  Last fight: 2025-05-03
+
+Career Statistics:
+- Significant Strikes Landed :108
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :3

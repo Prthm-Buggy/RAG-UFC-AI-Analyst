@@ -1,0 +1,14 @@
+Event: UFC 251: Usman vs. Masvidal
+    Date: July 11, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Bantamweight
+    
+
+    Result: DAVEY GRANT defeated MARTIN DAY via KO/TKO  
+  at 2:38 of round 3
+  Key stats:
+  - DAVEY GRANT landed 74 significant strikes
+  - MARTIN DAY landed 62 significant strikes
+  - Knockdowns: DAVEY GRANT 1,  MARTIN DAY 1
+  - Takedowns: DAVEY GRANT 2,  MARTIN DAY 0
+  Bonus: perf

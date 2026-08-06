@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Abdurakhimov
+    Date: December 09, 2016
+    Location: Albany, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated SHAMIL ABDURAKHIMOV via KO/TKO  
+  at 3:42 of round 4
+  Key stats:
+  - DERRICK LEWIS landed 39 significant strikes
+  - SHAMIL ABDURAKHIMOV landed 15 significant strikes
+  - Knockdowns: DERRICK LEWIS 0,  SHAMIL ABDURAKHIMOV 0
+  - Takedowns: DERRICK LEWIS 1,  SHAMIL ABDURAKHIMOV 4

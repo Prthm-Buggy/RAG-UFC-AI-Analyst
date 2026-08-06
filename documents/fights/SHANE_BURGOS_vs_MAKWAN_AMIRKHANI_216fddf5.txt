@@ -1,0 +1,13 @@
+Event: UFC 244: Masvidal vs. Diaz
+    Date: November 02, 2019
+    Location: New York City, New York, USA
+    Weight Class: Featherweight
+    
+
+    Result: SHANE BURGOS defeated MAKWAN AMIRKHANI via KO/TKO  
+  at 4:32 of round 3
+  Key stats:
+  - SHANE BURGOS landed 105 significant strikes
+  - MAKWAN AMIRKHANI landed 22 significant strikes
+  - Knockdowns: SHANE BURGOS 1,  MAKWAN AMIRKHANI 0
+  - Takedowns: SHANE BURGOS 0,  MAKWAN AMIRKHANI 3

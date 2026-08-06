@@ -1,0 +1,13 @@
+Event: UFC 194: Aldo vs McGregor
+    Date: December 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DEMIAN MAIA defeated GUNNAR NELSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DEMIAN MAIA landed 47 significant strikes
+  - GUNNAR NELSON landed 2 significant strikes
+  - Knockdowns: DEMIAN MAIA 0,  GUNNAR NELSON 0
+  - Takedowns: DEMIAN MAIA 2,  GUNNAR NELSON 1

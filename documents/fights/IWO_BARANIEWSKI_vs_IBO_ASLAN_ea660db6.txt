@@ -1,0 +1,14 @@
+Event: UFC 323: Dvalishvili vs. Yan 2
+    Date: December 06, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: IWO BARANIEWSKI defeated IBO ASLAN via KO/TKO  
+  at 1:29 of round 1
+  Key stats:
+  - IWO BARANIEWSKI landed 22 significant strikes
+  - IBO ASLAN landed 30 significant strikes
+  - Knockdowns: IWO BARANIEWSKI 2,  IBO ASLAN 1
+  - Takedowns: IWO BARANIEWSKI 0,  IBO ASLAN 0
+  Bonus: perf

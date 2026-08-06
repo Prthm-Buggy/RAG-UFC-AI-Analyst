@@ -1,0 +1,17 @@
+Event : UFC 289: Nunes vs. Aldana
+    Date : June 10, 2023
+    Location: Vancouver, British Columbia, Canada
+    Number of Fights: 10
+    Weight Classes: Women's Flyweight, Bantamweight, Featherweight, Lightweight, Women's Bantamweight, Middleweight, Welterweight, Flyweight, Women's Strawweight
+
+    Fight Results:
+  - DAN IGE def. NATE LANDWEHR via Decision - Unanimous(R3)
+- AIEMANN ZAHABI def. AORIQILENG via KO/TKO(R1)
+- STEVE ERCEG def. DAVID DVORAK via Decision - Unanimous(R3)
+- JASMINE JASUDAVICIUS def. MIRANDA MAVERICK via Decision - Unanimous(R3)
+- DIANA BELBITA def. MARIA OLIVEIRA via Decision - Unanimous(R3)
+- CHARLES OLIVEIRA def. BENEIL DARIUSH via KO/TKO(R1)
+- MIKE MALOTT def. ADAM FUGITT via Submission(R2)
+- AMANDA NUNES def. IRENE ALDANA via Decision - Unanimous(R5)
+- MARC-ANDRE BARRIAULT def. ERYK ANDERS via Decision - Unanimous(R3)
+- KYLE NELSON def. BLAKE BILDER via Decision - Unanimous(R3)

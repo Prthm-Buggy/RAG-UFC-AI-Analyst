@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vera vs. Sandhagen
+    Date: March 25, 2023
+    Location: San Antonio, Texas, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CORY SANDHAGEN defeated MARLON VERA via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - CORY SANDHAGEN landed 128 significant strikes
+  - MARLON VERA landed 58 significant strikes
+  - Knockdowns: CORY SANDHAGEN 0,  MARLON VERA 0
+  - Takedowns: CORY SANDHAGEN 3,  MARLON VERA 0

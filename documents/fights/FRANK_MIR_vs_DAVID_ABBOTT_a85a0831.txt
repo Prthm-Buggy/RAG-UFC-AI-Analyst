@@ -1,0 +1,13 @@
+Event: UFC 41: Onslaught
+    Date: February 28, 2003
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANK MIR defeated DAVID ABBOTT via Submission  
+  at 0:46 of round 1
+  Key stats:
+  - FRANK MIR landed 0 significant strikes
+  - DAVID ABBOTT landed 1 significant strikes
+  - Knockdowns: FRANK MIR 0,  DAVID ABBOTT 0
+  - Takedowns: FRANK MIR 0,  DAVID ABBOTT 0

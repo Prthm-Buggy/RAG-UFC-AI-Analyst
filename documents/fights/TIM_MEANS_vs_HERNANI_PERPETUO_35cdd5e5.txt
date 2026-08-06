@@ -1,0 +1,13 @@
+Event: UFC on FOX: Lawler vs Brown
+    Date: July 26, 2014
+    Location: San Jose, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: TIM MEANS defeated HERNANI PERPETUO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TIM MEANS landed 85 significant strikes
+  - HERNANI PERPETUO landed 61 significant strikes
+  - Knockdowns: TIM MEANS 0,  HERNANI PERPETUO 0
+  - Takedowns: TIM MEANS 1,  HERNANI PERPETUO 0

@@ -1,0 +1,13 @@
+Event: UFC 127: Penn vs Fitch
+    Date: February 26, 2011
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL BISPING defeated JORGE RIVERA via KO/TKO  
+  at 1:54 of round 2
+  Key stats:
+  - MICHAEL BISPING landed 50 significant strikes
+  - JORGE RIVERA landed 8 significant strikes
+  - Knockdowns: MICHAEL BISPING 1,  JORGE RIVERA 0
+  - Takedowns: MICHAEL BISPING 3,  JORGE RIVERA 0

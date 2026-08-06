@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Manuwa vs. Anderson
+    Date: March 18, 2017
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: MARC DIAKIESE defeated TEEMU PACKALEN via KO/TKO  
+  at 0:30 of round 1
+  Key stats:
+  - MARC DIAKIESE landed 6 significant strikes
+  - TEEMU PACKALEN landed 1 significant strikes
+  - Knockdowns: MARC DIAKIESE 1,  TEEMU PACKALEN 0
+  - Takedowns: MARC DIAKIESE 0,  TEEMU PACKALEN 0
+  Bonus: perf

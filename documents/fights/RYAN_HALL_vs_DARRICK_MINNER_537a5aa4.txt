@@ -1,0 +1,13 @@
+Event: UFC 269: Oliveira vs. Poirier
+    Date: December 11, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: RYAN HALL defeated DARRICK MINNER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RYAN HALL landed 40 significant strikes
+  - DARRICK MINNER landed 26 significant strikes
+  - Knockdowns: RYAN HALL 0,  DARRICK MINNER 0
+  - Takedowns: RYAN HALL 0,  DARRICK MINNER 1

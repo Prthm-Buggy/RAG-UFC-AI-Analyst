@@ -1,0 +1,14 @@
+Event: UFC 113: Machida vs Shogun 2
+    Date: May 08, 2010
+    Location: Montreal, Quebec, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAURICIO RUA defeated LYOTO MACHIDA via KO/TKO  
+  at 3:35 of round 1
+  Key stats:
+  - MAURICIO RUA landed 17 significant strikes
+  - LYOTO MACHIDA landed 9 significant strikes
+  - Knockdowns: MAURICIO RUA 1,  LYOTO MACHIDA 0
+  - Takedowns: MAURICIO RUA 0,  LYOTO MACHIDA 2
+  Bonus: belt

@@ -1,0 +1,11 @@
+Fighter: JARED VANDERAA
+  Date of Birth: 1992-05-12
+  Career record: 7
+  First fight: 2021-02-20
+  Last fight: 2022-10-29
+
+Career Statistics:
+- Significant Strikes Landed :397
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

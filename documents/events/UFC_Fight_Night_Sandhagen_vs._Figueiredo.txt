@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Sandhagen vs. Figueiredo
+    Date : May 03, 2025
+    Location: Des Moines, Iowa, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Women's Flyweight, Heavyweight, Welterweight, Women's Strawweight, Women's Bantamweight, Lightweight, Middleweight
+
+    Fight Results:
+  - REINIER DE RIDDER def. BO NICKAL via KO/TKO(R2)
+- QUANG LE def. GASTON BOLANOS via Submission(R2)
+- AZAMAT BEKOEV def. RYAN LODER via KO/TKO(R1)
+- SERHIY SIDEY def. CAMERON SMOTHERMAN via Decision - Unanimous(R3)
+- JULIANA MILLER def. IVANA PETROVIC via Decision - Unanimous(R3)
+- CORY SANDHAGEN def. DEIVESON FIGUEIREDO via KO/TKO(R2)
+- GILLIAN ROBERTSON def. MARINA RODRIGUEZ via KO/TKO(R2)
+- THOMAS PETERSEN def. DON'TALE MAYES via Decision - Unanimous(R3)
+- YANA SANTOS def. MIESHA TATE via Decision - Unanimous(R3)
+- DANIEL RODRIGUEZ def. SANTIAGO PONZINIBBIO via KO/TKO(R3)
+- MASON JONES def. JEREMY STEPHENS via Decision - Unanimous(R3)
+- MONTEL JACKSON def. DANIEL MARCOS via Decision - Unanimous(R3)

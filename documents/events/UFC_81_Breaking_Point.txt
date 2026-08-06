@@ -1,0 +1,16 @@
+Event : UFC 81: Breaking Point
+    Date : February 02, 2008
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Middleweight, Light Heavyweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - NATE MARQUARDT def. JEREMY HORN via Submission(R2)
+- TIM BOETSCH def. DAVID HEATH via KO/TKO(R1)
+- FRANK MIR def. BROCK LESNAR via Submission(R1)
+- CHRIS LYTLE def. KYLE BRADLEY via KO/TKO(R1)
+- ANTONIO RODRIGO NOGUEIRA def. TIM SYLVIA via Submission(R3)
+- MARVIN EASTMAN def. TERRY MARTIN via Decision - Unanimous(R3)
+- ROB EMERSON def. KEITA NAKAMURA via Decision - Split(R3)
+- TYSON GRIFFIN def. GLEISON TIBAU via Decision - Unanimous(R3)
+- RICARDO ALMEIDA def. ROB YUNDT via Submission(R1)

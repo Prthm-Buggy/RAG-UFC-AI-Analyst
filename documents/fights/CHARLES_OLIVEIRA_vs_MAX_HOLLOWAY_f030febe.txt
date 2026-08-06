@@ -1,0 +1,13 @@
+Event: UFC 326: Holloway vs. Oliveira 2
+    Date: March 07, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated MAX HOLLOWAY via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CHARLES OLIVEIRA landed 50 significant strikes
+  - MAX HOLLOWAY landed 26 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  MAX HOLLOWAY 0
+  - Takedowns: CHARLES OLIVEIRA 5,  MAX HOLLOWAY 0

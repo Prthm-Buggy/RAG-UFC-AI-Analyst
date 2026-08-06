@@ -1,0 +1,13 @@
+Event: UFC Fight Night - Fight for the Troops
+    Date: December 10, 2008
+    Location: Fayetteville, North Carolina, USA
+    Weight Class: Welterweight
+    
+
+    Result: BEN SAUNDERS defeated BRANDON WOLFF via KO/TKO  
+  at 1:49 of round 1
+  Key stats:
+  - BEN SAUNDERS landed 42 significant strikes
+  - BRANDON WOLFF landed 0 significant strikes
+  - Knockdowns: BEN SAUNDERS 1,  BRANDON WOLFF 0
+  - Takedowns: BEN SAUNDERS 0,  BRANDON WOLFF 0

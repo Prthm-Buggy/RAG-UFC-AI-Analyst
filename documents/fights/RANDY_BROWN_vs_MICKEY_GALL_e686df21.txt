@@ -1,0 +1,13 @@
+Event: UFC 217: Bisping vs. St-Pierre
+    Date: November 04, 2017
+    Location: New York City, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: RANDY BROWN defeated MICKEY GALL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RANDY BROWN landed 41 significant strikes
+  - MICKEY GALL landed 7 significant strikes
+  - Knockdowns: RANDY BROWN 0,  MICKEY GALL 0
+  - Takedowns: RANDY BROWN 1,  MICKEY GALL 0

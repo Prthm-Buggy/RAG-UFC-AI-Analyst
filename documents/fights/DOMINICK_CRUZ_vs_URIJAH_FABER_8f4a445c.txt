@@ -1,0 +1,14 @@
+Event: UFC 132: Cruz vs Faber
+    Date: July 02, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DOMINICK CRUZ defeated URIJAH FABER via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - DOMINICK CRUZ landed 90 significant strikes
+  - URIJAH FABER landed 50 significant strikes
+  - Knockdowns: DOMINICK CRUZ 0,  URIJAH FABER 0
+  - Takedowns: DOMINICK CRUZ 4,  URIJAH FABER 1
+  Bonus: belt

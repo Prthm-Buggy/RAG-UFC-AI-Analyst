@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lopes vs. Silva
+    Date: September 13, 2025
+    Location: San Antonio, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: DUSKO TODOROVIC defeated JOSE DANIEL MEDINA via Submission  
+  at 4:21 of round 1
+  Key stats:
+  - DUSKO TODOROVIC landed 16 significant strikes
+  - JOSE DANIEL MEDINA landed 9 significant strikes
+  - Knockdowns: DUSKO TODOROVIC 0,  JOSE DANIEL MEDINA 0
+  - Takedowns: DUSKO TODOROVIC 2,  JOSE DANIEL MEDINA 0

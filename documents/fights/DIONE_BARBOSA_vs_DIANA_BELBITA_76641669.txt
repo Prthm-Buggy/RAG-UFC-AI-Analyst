@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Emmett vs. Murphy
+    Date: April 05, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: DIONE BARBOSA defeated DIANA BELBITA via Submission  
+  at 4:13 of round 1
+  Key stats:
+  - DIONE BARBOSA landed 27 significant strikes
+  - DIANA BELBITA landed 20 significant strikes
+  - Knockdowns: DIONE BARBOSA 0,  DIANA BELBITA 0
+  - Takedowns: DIONE BARBOSA 1,  DIANA BELBITA 0
+  Bonus: perf

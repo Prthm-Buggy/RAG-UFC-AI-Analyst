@@ -1,0 +1,14 @@
+Event: UFC 235: Jones vs. Smith
+    Date: March 02, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: PEDRO MUNHOZ defeated CODY GARBRANDT via KO/TKO  
+  at 4:52 of round 1
+  Key stats:
+  - PEDRO MUNHOZ landed 25 significant strikes
+  - CODY GARBRANDT landed 21 significant strikes
+  - Knockdowns: PEDRO MUNHOZ 1,  CODY GARBRANDT 0
+  - Takedowns: PEDRO MUNHOZ 0,  CODY GARBRANDT 0
+  Bonus: fight

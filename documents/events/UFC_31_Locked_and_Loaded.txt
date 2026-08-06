@@ -1,0 +1,15 @@
+Event : UFC 31: Locked and Loaded
+    Date : May 04, 2001
+    Location: Atlantic City, New Jersey, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Welterweight, Light Heavyweight, Lightweight
+
+    Fight Results:
+  - RANDY COUTURE def. PEDRO RIZZO via Decision - Unanimous(R5)
+- CHUCK LIDDELL def. KEVIN RANDLEMAN via KO/TKO(R1)
+- MATT LINDLAND def. RICARDO ALMEIDA via DQ(R3)
+- CARLOS NEWTON def. PAT MILETICH via Submission(R3)
+- SEMMY SCHILT def. PETE WILLIAMS via KO/TKO(R2)
+- SHONIE CARTER def. MATT SERRA via KO/TKO(R3)
+- BJ PENN def. JOEY GILBERT via KO/TKO(R1)
+- TONY DESOUZA def. STEVE BERGER via Decision - Unanimous(R3)

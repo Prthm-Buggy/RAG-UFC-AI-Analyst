@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Aspinall vs. Tybura
+    Date: July 22, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: TOM ASPINALL defeated MARCIN TYBURA via KO/TKO  
+  at 1:13 of round 1
+  Key stats:
+  - TOM ASPINALL landed 13 significant strikes
+  - MARCIN TYBURA landed 4 significant strikes
+  - Knockdowns: TOM ASPINALL 1,  MARCIN TYBURA 0
+  - Takedowns: TOM ASPINALL 0,  MARCIN TYBURA 0
+  Bonus: perf

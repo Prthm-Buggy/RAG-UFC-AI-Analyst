@@ -1,0 +1,11 @@
+Fighter: GABRIEL SILVA
+  Date of Birth: 1994-08-26
+  Career record: 2
+  First fight: 2019-07-20
+  Last fight: 2020-02-29
+
+Career Statistics:
+- Significant Strikes Landed :39
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Bueno Silva
+    Date: July 15, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AILIN PEREZ defeated ASHLEE EVANS-SMITH via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - AILIN PEREZ landed 60 significant strikes
+  - ASHLEE EVANS-SMITH landed 12 significant strikes
+  - Knockdowns: AILIN PEREZ 0,  ASHLEE EVANS-SMITH 0
+  - Takedowns: AILIN PEREZ 10,  ASHLEE EVANS-SMITH 0

@@ -1,0 +1,13 @@
+Event: UFC 93: Franklin vs Henderson
+    Date: January 17, 2009
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Middleweight
+    
+
+    Result: ROUSIMAR PALHARES defeated JEREMY HORN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ROUSIMAR PALHARES landed 18 significant strikes
+  - JEREMY HORN landed 7 significant strikes
+  - Knockdowns: ROUSIMAR PALHARES 0,  JEREMY HORN 0
+  - Takedowns: ROUSIMAR PALHARES 7,  JEREMY HORN 1

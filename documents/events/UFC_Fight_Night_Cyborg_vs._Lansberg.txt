@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Cyborg vs. Lansberg
+    Date : September 24, 2016
+    Location: Brasilia, Distrito Federal, Brazil
+    Number of Fights: 13
+    Weight Classes: Featherweight, Catch Weight, Lightweight, Welterweight, Flyweight, Middleweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - GREGOR GILLESPIE def. GLAICO FRANCA MOREIRA via Decision - Unanimous(R3)
+- VICENTE LUQUE def. HECTOR URBINA via KO/TKO(R1)
+- FRANCISCO TRINALDO def. PAUL FELDER via TKO - Doctor's Stoppage(R3)
+- CRISTIANE JUSTINO def. LINA LANSBERG via KO/TKO(R2)
+- ERICK SILVA def. LUAN CHAGAS via Submission(R3)
+- RANI YAHYA def. MICHINORI TANAKA via Decision - Unanimous(R3)
+- MICHEL PRAZERES def. GILBERT BURNS via Decision - Unanimous(R3)
+- ALAN PATRICK def. STEVIE RAY via Decision - Unanimous(R3)
+- JUSSIER FORMIGA def. DUSTIN ORTIZ via Decision - Unanimous(R3)
+- RENAN BARAO def. PHILLIPE NOVER via Decision - Unanimous(R3)
+- ROY NELSON def. ANTONIO SILVA via KO/TKO(R2)
+- ERIC SPICELY def. THIAGO SANTOS via Submission(R1)
+- GODOFREDO PEPEY def. MIKE DE LA TORRE via Submission(R1)

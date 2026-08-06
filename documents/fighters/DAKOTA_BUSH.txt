@@ -1,0 +1,11 @@
+Fighter: DAKOTA BUSH
+  Date of Birth: 1994-06-09
+  Career record: 2
+  First fight: 2021-04-17
+  Last fight: 2022-01-15
+
+Career Statistics:
+- Significant Strikes Landed :52
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

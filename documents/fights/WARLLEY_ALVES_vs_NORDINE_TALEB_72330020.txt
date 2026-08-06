@@ -1,0 +1,13 @@
+Event: UFC 190: Rousey vs Correia
+    Date: August 01, 2015
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: WARLLEY ALVES defeated NORDINE TALEB via Submission  
+  at 4:11 of round 2
+  Key stats:
+  - WARLLEY ALVES landed 17 significant strikes
+  - NORDINE TALEB landed 17 significant strikes
+  - Knockdowns: WARLLEY ALVES 0,  NORDINE TALEB 0
+  - Takedowns: WARLLEY ALVES 2,  NORDINE TALEB 0

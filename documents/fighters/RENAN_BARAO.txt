@@ -1,0 +1,11 @@
+Fighter: RENAN BARAO
+  Date of Birth: 1987-01-31
+  Career record: 17
+  First fight: 2011-05-28
+  Last fight: 2019-11-16
+
+Career Statistics:
+- Significant Strikes Landed :922
+- Total takedowns landed :24
+- Knockdowns :4
+- Submission Attempts :5

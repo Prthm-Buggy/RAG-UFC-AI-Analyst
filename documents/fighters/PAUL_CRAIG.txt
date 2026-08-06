@@ -1,0 +1,11 @@
+Fighter: PAUL CRAIG
+  Date of Birth: 1987-11-27
+  Career record: 19
+  First fight: 2016-12-17
+  Last fight: 2025-09-06
+
+Career Statistics:
+- Significant Strikes Landed :353
+- Total takedowns landed :15
+- Knockdowns :1
+- Submission Attempts :14

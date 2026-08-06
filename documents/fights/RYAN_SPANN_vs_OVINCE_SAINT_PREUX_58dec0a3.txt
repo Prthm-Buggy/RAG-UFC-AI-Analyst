@@ -1,0 +1,14 @@
+Event: UFC 307: Pereira vs. Rountree Jr.
+    Date: October 05, 2024
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RYAN SPANN defeated OVINCE SAINT PREUX via Submission  
+  at 1:35 of round 1
+  Key stats:
+  - RYAN SPANN landed 9 significant strikes
+  - OVINCE SAINT PREUX landed 7 significant strikes
+  - Knockdowns: RYAN SPANN 0,  OVINCE SAINT PREUX 0
+  - Takedowns: RYAN SPANN 0,  OVINCE SAINT PREUX 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: SAGE NORTHCUTT
+  Date of Birth: 1996-03-01
+  Career record: 8
+  First fight: 2015-10-03
+  Last fight: 2018-07-14
+
+Career Statistics:
+- Significant Strikes Landed :267
+- Total takedowns landed :9
+- Knockdowns :2
+- Submission Attempts :3

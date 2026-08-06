@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Diaz vs Neer
+    Date: September 17, 2008
+    Location: Omaha, Nebraska, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAN MILLER defeated ROB KIMMONS via Submission  
+  at 1:27 of round 1
+  Key stats:
+  - DAN MILLER landed 0 significant strikes
+  - ROB KIMMONS landed 0 significant strikes
+  - Knockdowns: DAN MILLER 0,  ROB KIMMONS 0
+  - Takedowns: DAN MILLER 0,  ROB KIMMONS 0

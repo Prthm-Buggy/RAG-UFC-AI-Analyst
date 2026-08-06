@@ -1,0 +1,13 @@
+Event: UFC 8: David vs Goliath
+    Date: February 16, 1996
+    Location: San Juan, Puerto Rico
+    Weight Class: Open Weight
+    
+
+    Result: DON FRYE defeated THOMAS RAMIREZ via KO/TKO  
+  at 0:08 of round 1
+  Key stats:
+  - DON FRYE landed 3 significant strikes
+  - THOMAS RAMIREZ landed 1 significant strikes
+  - Knockdowns: DON FRYE 1,  THOMAS RAMIREZ 0
+  - Takedowns: DON FRYE 0,  THOMAS RAMIREZ 0

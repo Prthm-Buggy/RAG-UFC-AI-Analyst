@@ -1,0 +1,11 @@
+Fighter: ROOSEVELT ROBERTS
+  Date of Birth: 1994-02-11
+  Career record: 9
+  First fight: 2018-11-30
+  Last fight: 2024-09-28
+
+Career Statistics:
+- Significant Strikes Landed :250
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :4

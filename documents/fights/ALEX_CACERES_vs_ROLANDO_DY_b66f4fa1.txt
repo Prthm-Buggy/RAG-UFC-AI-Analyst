@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Correia
+    Date: June 17, 2017
+    Location: Kallang, Singapore
+    Weight Class: Featherweight
+    
+
+    Result: ALEX CACERES defeated ROLANDO DY via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - ALEX CACERES landed 51 significant strikes
+  - ROLANDO DY landed 20 significant strikes
+  - Knockdowns: ALEX CACERES 1,  ROLANDO DY 0
+  - Takedowns: ALEX CACERES 0,  ROLANDO DY 1

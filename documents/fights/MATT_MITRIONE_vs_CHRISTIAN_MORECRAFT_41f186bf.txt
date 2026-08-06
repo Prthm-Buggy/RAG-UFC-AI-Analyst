@@ -1,0 +1,13 @@
+Event: UFC Live: Kongo vs Barry
+    Date: June 26, 2011
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MATT MITRIONE defeated CHRISTIAN MORECRAFT via KO/TKO  
+  at 4:28 of round 2
+  Key stats:
+  - MATT MITRIONE landed 37 significant strikes
+  - CHRISTIAN MORECRAFT landed 17 significant strikes
+  - Knockdowns: MATT MITRIONE 3,  CHRISTIAN MORECRAFT 0
+  - Takedowns: MATT MITRIONE 0,  CHRISTIAN MORECRAFT 2

@@ -1,0 +1,11 @@
+Fighter: IVAN MENJIVAR
+  Date of Birth: 1982-05-30
+  Career record: 9
+  First fight: 2004-06-19
+  Last fight: 2014-03-01
+
+Career Statistics:
+- Significant Strikes Landed :207
+- Total takedowns landed :2
+- Knockdowns :2
+- Submission Attempts :6

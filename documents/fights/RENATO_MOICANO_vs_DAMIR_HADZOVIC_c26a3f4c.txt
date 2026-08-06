@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lee vs. Oliveira
+    Date: March 14, 2020
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: RENATO MOICANO defeated DAMIR HADZOVIC via Submission  
+  at 0:44 of round 1
+  Key stats:
+  - RENATO MOICANO landed 1 significant strikes
+  - DAMIR HADZOVIC landed 1 significant strikes
+  - Knockdowns: RENATO MOICANO 0,  DAMIR HADZOVIC 0
+  - Takedowns: RENATO MOICANO 1,  DAMIR HADZOVIC 0

@@ -1,0 +1,16 @@
+Event : UFC 91: Couture vs Lesnar
+    Date : November 15, 2008
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - DEMIAN MAIA def. NATE QUARRY via Submission(R1)
+- JEREMY STEPHENS def. RAFAEL DOS ANJOS via KO/TKO(R3)
+- AARON RILEY def. JORGE GURGEL via Decision - Unanimous(R3)
+- MARK BOCEK def. ALVIN ROBINSON via Submission(R3)
+- DUSTIN HAZELETT def. TAMDAN MCCRORY via Submission(R1)
+- BROCK LESNAR def. RANDY COUTURE via KO/TKO(R2)
+- KENNY FLORIAN def. JOE STEVENSON via Submission(R1)
+- MATT BROWN def. RYAN THOMAS via Submission(R2)
+- GABRIEL GONZAGA def. JOSH HENDRICKS via KO/TKO(R1)

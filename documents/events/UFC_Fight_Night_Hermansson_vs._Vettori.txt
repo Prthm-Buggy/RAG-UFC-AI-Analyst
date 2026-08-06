@@ -1,0 +1,15 @@
+Event : UFC Fight Night: Hermansson vs. Vettori
+    Date : December 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Bantamweight, Lightweight, Light Heavyweight, Featherweight, Middleweight
+
+    Fight Results:
+  - ILIA TOPURIA def. DAMON JACKSON via KO/TKO(R1)
+- JORDAN LEAVITT def. MATT WIMAN via KO/TKO(R1)
+- LOUIS SMOLKA def. JOSE QUINONEZ via KO/TKO(R2)
+- JAKE COLLIER def. GIAN VILLANTE via Decision - Unanimous(R3)
+- JAMAHAL HILL def. OVINCE SAINT PREUX via KO/TKO(R2)
+- MARVIN VETTORI def. JACK HERMANSSON via Decision - Unanimous(R5)
+- ROMAN DOLIDZE def. JOHN ALLAN via Decision - Split(R3)
+- GABRIEL BENITEZ def. JUSTIN JAYNES via KO/TKO(R1)

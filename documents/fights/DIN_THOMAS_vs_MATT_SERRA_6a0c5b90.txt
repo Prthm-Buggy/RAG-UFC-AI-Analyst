@@ -1,0 +1,13 @@
+Event: UFC 41: Onslaught
+    Date: February 28, 2003
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: DIN THOMAS defeated MATT SERRA via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - DIN THOMAS landed 29 significant strikes
+  - MATT SERRA landed 26 significant strikes
+  - Knockdowns: DIN THOMAS 0,  MATT SERRA 0
+  - Takedowns: DIN THOMAS 0,  MATT SERRA 1

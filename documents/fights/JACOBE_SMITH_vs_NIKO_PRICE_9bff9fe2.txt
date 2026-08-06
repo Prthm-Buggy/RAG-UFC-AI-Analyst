@@ -1,0 +1,13 @@
+Event: UFC 317: Topuria vs. Oliveira
+    Date: June 28, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JACOBE SMITH defeated NIKO PRICE via Submission  
+  at 4:03 of round 2
+  Key stats:
+  - JACOBE SMITH landed 46 significant strikes
+  - NIKO PRICE landed 34 significant strikes
+  - Knockdowns: JACOBE SMITH 0,  NIKO PRICE 0
+  - Takedowns: JACOBE SMITH 2,  NIKO PRICE 0

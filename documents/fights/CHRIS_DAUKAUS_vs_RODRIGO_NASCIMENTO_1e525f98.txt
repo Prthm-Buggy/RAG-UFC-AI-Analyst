@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moraes vs. Sandhagen
+    Date: October 10, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Heavyweight
+    
+
+    Result: CHRIS DAUKAUS defeated RODRIGO NASCIMENTO via KO/TKO  
+  at 0:45 of round 1
+  Key stats:
+  - CHRIS DAUKAUS landed 13 significant strikes
+  - RODRIGO NASCIMENTO landed 1 significant strikes
+  - Knockdowns: CHRIS DAUKAUS 2,  RODRIGO NASCIMENTO 0
+  - Takedowns: CHRIS DAUKAUS 0,  RODRIGO NASCIMENTO 0
+  Bonus: perf

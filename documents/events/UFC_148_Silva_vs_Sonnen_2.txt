@@ -1,0 +1,18 @@
+Event : UFC 148: Silva vs Sonnen 2
+    Date : July 07, 2012
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Middleweight, Welterweight, Light Heavyweight, Lightweight, Featherweight
+
+    Fight Results:
+  - DEMIAN MAIA def. DONG HYUN KIM via KO/TKO(R1)
+- CHAD MENDES def. CODY MCKENZIE via KO/TKO(R1)
+- CONSTANTINOS PHILIPPOU def. RIKI FUKUDA via Decision - Unanimous(R3)
+- KHABIB NURMAGOMEDOV def. GLEISON TIBAU via Decision - Unanimous(R3)
+- MELVIN GUILLARD def. FABRICIO CAMOES via Decision - Unanimous(R3)
+- ANDERSON SILVA def. CHAEL SONNEN via KO/TKO(R2)
+- MIKE EASTON def. IVAN MENJIVAR via Decision - Unanimous(R3)
+- SHANE ROLLER def. JOHN ALESSIO via Decision - Unanimous(R3)
+- CUNG LE def. PATRICK COTE via Decision - Unanimous(R3)
+- FORREST GRIFFIN def. TITO ORTIZ via Decision - Unanimous(R3)
+- RAFAELLO OLIVEIRA def. YOISLANDY IZQUIERDO via Decision - Unanimous(R3)

@@ -1,0 +1,11 @@
+Fighter: NAZARENO MALEGARIE
+  Date of Birth: 1986-05-16
+  Career record: 1
+  First fight: 2015-09-05
+  Last fight: 2015-09-05
+
+Career Statistics:
+- Significant Strikes Landed :58
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

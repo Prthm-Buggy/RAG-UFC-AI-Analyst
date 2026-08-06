@@ -1,0 +1,13 @@
+Event: UFC Live: Hardy vs Lytle
+    Date: August 14, 2011
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Middleweight
+    
+
+    Result: JARED HAMMAN defeated CB DOLLAWAY via KO/TKO  
+  at 3:38 of round 2
+  Key stats:
+  - JARED HAMMAN landed 53 significant strikes
+  - CB DOLLAWAY landed 19 significant strikes
+  - Knockdowns: JARED HAMMAN 0,  CB DOLLAWAY 0
+  - Takedowns: JARED HAMMAN 0,  CB DOLLAWAY 3

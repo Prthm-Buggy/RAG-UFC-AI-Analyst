@@ -1,0 +1,13 @@
+Event: UFC 60: Hughes vs Gracie
+    Date: May 27, 2006
+    Location: Los Angeles, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: MELVIN GUILLARD defeated RICK DAVIS via KO/TKO  
+  at 1:37 of round 1
+  Key stats:
+  - MELVIN GUILLARD landed 10 significant strikes
+  - RICK DAVIS landed 5 significant strikes
+  - Knockdowns: MELVIN GUILLARD 1,  RICK DAVIS 0
+  - Takedowns: MELVIN GUILLARD 0,  RICK DAVIS 0

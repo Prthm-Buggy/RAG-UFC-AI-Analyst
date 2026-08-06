@@ -1,0 +1,19 @@
+Event : UFC 199: Rockhold vs. Bisping 2
+    Date : June 04, 2016
+    Location: Los Angeles, California, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Middleweight, Lightweight, Welterweight, Light Heavyweight, Women's Strawweight, Featherweight
+
+    Fight Results:
+  - MAX HOLLOWAY def. RICARDO LAMAS via Decision - Unanimous(R3)
+- BENEIL DARIUSH def. JAMES VICK via KO/TKO(R1)
+- JESSICA ANDRADE def. JESSICA PENNE via KO/TKO(R2)
+- DUSTIN POIRIER def. KING GREEN via KO/TKO(R1)
+- SEAN STRICKLAND def. TOM BREESE via Decision - Split(R3)
+- MARCO POLO REYES def. DONG HYUN MA via KO/TKO(R3)
+- ALEX CACERES def. COLE MILLER via Decision - Unanimous(R3)
+- HENRIQUE DA SILVA def. JONATHAN WILSON via KO/TKO(R2)
+- MICHAEL BISPING def. LUKE ROCKHOLD via KO/TKO(R1)
+- BRIAN ORTEGA def. CLAY GUIDA via KO/TKO(R3)
+- DOMINICK CRUZ def. URIJAH FABER via Decision - Unanimous(R5)
+- DAN HENDERSON def. HECTOR LOMBARD via KO/TKO(R2)

@@ -1,0 +1,14 @@
+Event: UFC 322: Della Maddalena vs. Makhachev
+    Date: November 15, 2025
+    Location: New York City, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: ISLAM MAKHACHEV defeated JACK DELLA MADDALENA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ISLAM MAKHACHEV landed 30 significant strikes
+  - JACK DELLA MADDALENA landed 18 significant strikes
+  - Knockdowns: ISLAM MAKHACHEV 0,  JACK DELLA MADDALENA 0
+  - Takedowns: ISLAM MAKHACHEV 4,  JACK DELLA MADDALENA 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Andrade vs. Blanchfield
+    Date: February 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: AJ FLETCHER defeated THEMBA GORIMBO via Submission  
+  at 1:37 of round 2
+  Key stats:
+  - AJ FLETCHER landed 7 significant strikes
+  - THEMBA GORIMBO landed 6 significant strikes
+  - Knockdowns: AJ FLETCHER 0,  THEMBA GORIMBO 0
+  - Takedowns: AJ FLETCHER 0,  THEMBA GORIMBO 2

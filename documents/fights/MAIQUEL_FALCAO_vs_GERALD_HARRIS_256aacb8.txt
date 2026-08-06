@@ -1,0 +1,13 @@
+Event: UFC 123: Rampage vs Machida
+    Date: November 20, 2010
+    Location: Auburn Hills, Michigan, USA
+    Weight Class: Middleweight
+    
+
+    Result: MAIQUEL FALCAO defeated GERALD HARRIS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MAIQUEL FALCAO landed 25 significant strikes
+  - GERALD HARRIS landed 8 significant strikes
+  - Knockdowns: MAIQUEL FALCAO 1,  GERALD HARRIS 0
+  - Takedowns: MAIQUEL FALCAO 1,  GERALD HARRIS 2

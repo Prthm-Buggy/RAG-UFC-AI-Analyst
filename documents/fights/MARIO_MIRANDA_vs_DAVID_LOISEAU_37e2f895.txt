@@ -1,0 +1,13 @@
+Event: UFC 115: Liddell vs Franklin
+    Date: June 12, 2010
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Middleweight
+    
+
+    Result: MARIO MIRANDA defeated DAVID LOISEAU via KO/TKO  
+  at 4:07 of round 2
+  Key stats:
+  - MARIO MIRANDA landed 42 significant strikes
+  - DAVID LOISEAU landed 2 significant strikes
+  - Knockdowns: MARIO MIRANDA 0,  DAVID LOISEAU 0
+  - Takedowns: MARIO MIRANDA 3,  DAVID LOISEAU 0

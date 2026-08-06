@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Tournament of Champions Finale
+    Date: December 03, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JORGE MASVIDAL defeated JAKE ELLENBERGER via KO/TKO  
+  at 4:05 of round 1
+  Key stats:
+  - JORGE MASVIDAL landed 44 significant strikes
+  - JAKE ELLENBERGER landed 11 significant strikes
+  - Knockdowns: JORGE MASVIDAL 0,  JAKE ELLENBERGER 0
+  - Takedowns: JORGE MASVIDAL 0,  JAKE ELLENBERGER 0

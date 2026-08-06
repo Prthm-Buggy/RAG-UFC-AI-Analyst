@@ -1,0 +1,16 @@
+Event : UFC on FOX: Velasquez vs Dos Santos
+    Date : November 12, 2011
+    Location: Anaheim, California, USA
+    Number of Fights: 9
+    Weight Classes: Heavyweight, Bantamweight, Lightweight, Featherweight, Welterweight, Light Heavyweight
+
+    Fight Results:
+  - JUNIOR DOS SANTOS def. CAIN VELASQUEZ via KO/TKO(R1)
+- ALEX CACERES def. COLE ESCOVEDO via Decision - Unanimous(R3)
+- DAMARQUES JOHNSON def. CLAY HARVISON via KO/TKO(R1)
+- RICARDO LAMAS def. CUB SWANSON via Submission(R2)
+- DARREN UYENOYAMA def. NORIFUMI YAMAMOTO via Decision - Unanimous(R3)
+- BENSON HENDERSON def. CLAY GUIDA via Decision - Unanimous(R3)
+- DUSTIN POIRIER def. PABLO GARZA via Submission(R2)
+- AARON ROSA def. MATT LUCAS via Decision - Majority(R3)
+- MIKE PIERCE def. PAUL BRADLEY via Decision - Split(R3)

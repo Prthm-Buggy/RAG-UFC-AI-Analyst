@@ -1,0 +1,11 @@
+Fighter: SEO HEE HAM
+  Date of Birth: 1987-03-08
+  Career record: 4
+  First fight: 2014-12-12
+  Last fight: 2016-11-26
+
+Career Statistics:
+- Significant Strikes Landed :252
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,11 @@
+Fighter: BOJAN VELICKOVIC
+  Date of Birth: 1988-12-18
+  Career record: 5
+  First fight: 2016-04-10
+  Last fight: 2017-11-18
+
+Career Statistics:
+- Significant Strikes Landed :178
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :3

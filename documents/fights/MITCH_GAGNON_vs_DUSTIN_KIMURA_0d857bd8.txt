@@ -1,0 +1,14 @@
+Event: UFC 165: Jones vs Gustafsson
+    Date: September 21, 2013
+    Location: Toronto, Ontario, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: MITCH GAGNON defeated DUSTIN KIMURA via Submission  
+  at 4:05 of round 1
+  Key stats:
+  - MITCH GAGNON landed 27 significant strikes
+  - DUSTIN KIMURA landed 15 significant strikes
+  - Knockdowns: MITCH GAGNON 0,  DUSTIN KIMURA 0
+  - Takedowns: MITCH GAGNON 1,  DUSTIN KIMURA 0
+  Bonus: sub

@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dos Santos vs Miocic
+    Date: December 13, 2014
+    Location: Phoenix, Arizona, USA
+    Weight Class: Lightweight
+    
+
+    Result: DREW DOBER defeated JAMIE VARNER via Submission  
+  at 1:52 of round 1
+  Key stats:
+  - DREW DOBER landed 5 significant strikes
+  - JAMIE VARNER landed 4 significant strikes
+  - Knockdowns: DREW DOBER 0,  JAMIE VARNER 0
+  - Takedowns: DREW DOBER 0,  JAMIE VARNER 0

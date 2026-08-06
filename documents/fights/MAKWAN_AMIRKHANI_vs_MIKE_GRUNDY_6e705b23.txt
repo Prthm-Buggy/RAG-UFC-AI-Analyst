@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Aspinall
+    Date: March 19, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: MAKWAN AMIRKHANI defeated MIKE GRUNDY via Submission  
+  at 0:57 of round 1
+  Key stats:
+  - MAKWAN AMIRKHANI landed 0 significant strikes
+  - MIKE GRUNDY landed 0 significant strikes
+  - Knockdowns: MAKWAN AMIRKHANI 0,  MIKE GRUNDY 0
+  - Takedowns: MAKWAN AMIRKHANI 0,  MIKE GRUNDY 1
+  Bonus: perf

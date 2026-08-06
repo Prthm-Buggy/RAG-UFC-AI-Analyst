@@ -1,0 +1,11 @@
+Fighter: MICHAEL KUIPER
+  Date of Birth: 1989-06-07
+  Career record: 4
+  First fight: 2012-02-04
+  Last fight: 2013-10-26
+
+Career Statistics:
+- Significant Strikes Landed :107
+- Total takedowns landed :5
+- Knockdowns :3
+- Submission Attempts :0

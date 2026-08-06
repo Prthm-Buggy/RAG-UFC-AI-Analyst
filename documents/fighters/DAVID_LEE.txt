@@ -1,0 +1,11 @@
+Fighter: DAVID LEE
+  Date of Birth: 1978-04-12
+  Career record: 2
+  First fight: 2006-09-23
+  Last fight: 2007-04-21
+
+Career Statistics:
+- Significant Strikes Landed :13
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

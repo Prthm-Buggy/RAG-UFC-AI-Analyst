@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Condit vs Kampmann
+    Date : April 01, 2009
+    Location: Nashville, Tennessee, USA
+    Number of Fights: 11
+    Weight Classes: Welterweight, Lightweight, Light Heavyweight, Middleweight
+
+    Fight Results:
+  - RYAN BADER def. CARMELO MARRERO via Decision - Unanimous(R3)
+- COLE MILLER def. JUNIE BROWNING via Submission(R1)
+- GLEISON TIBAU def. JEREMY STEPHENS via Decision - Unanimous(R3)
+- TIM CREDEUR def. NICK CATONE via Submission(R2)
+- MARTIN KAMPMANN def. CARLOS CONDIT via Decision - Split(R3)
+- TYSON GRIFFIN def. RAFAEL DOS ANJOS via Decision - Unanimous(R3)
+- JORGE RIVERA def. NISSEN OSTERNECK via Decision - Split(R3)
+- BROCK LARSON def. JESSE SANDERS via Submission(R1)
+- AARON SIMPSON def. TIM MCKENZIE via KO/TKO(R1)
+- ROB KIMMONS def. JOE VEDEPO via Submission(R1)
+- RICARDO ALMEIDA def. MATT HORWICH via Decision - Unanimous(R3)

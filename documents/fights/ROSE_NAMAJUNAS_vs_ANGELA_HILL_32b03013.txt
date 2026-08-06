@@ -1,0 +1,13 @@
+Event: UFC 192: Cormier vs Gustafsson
+    Date: October 03, 2015
+    Location: Houston, Texas, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ROSE NAMAJUNAS defeated ANGELA HILL via Submission  
+  at 2:47 of round 1
+  Key stats:
+  - ROSE NAMAJUNAS landed 13 significant strikes
+  - ANGELA HILL landed 12 significant strikes
+  - Knockdowns: ROSE NAMAJUNAS 0,  ANGELA HILL 0
+  - Takedowns: ROSE NAMAJUNAS 1,  ANGELA HILL 0

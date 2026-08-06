@@ -1,0 +1,11 @@
+Fighter: ODE OSBOURNE
+  Date of Birth: 1992-01-09
+  Career record: 12
+  First fight: 2020-01-18
+  Last fight: 2025-08-09
+
+Career Statistics:
+- Significant Strikes Landed :275
+- Total takedowns landed :6
+- Knockdowns :4
+- Submission Attempts :2

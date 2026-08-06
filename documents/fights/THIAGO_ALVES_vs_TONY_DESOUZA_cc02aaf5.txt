@@ -1,0 +1,13 @@
+Event: UFC 66: Liddell vs Ortiz 2
+    Date: December 30, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: THIAGO ALVES defeated TONY DESOUZA via KO/TKO  
+  at 1:10 of round 2
+  Key stats:
+  - THIAGO ALVES landed 26 significant strikes
+  - TONY DESOUZA landed 1 significant strikes
+  - Knockdowns: THIAGO ALVES 2,  TONY DESOUZA 0
+  - Takedowns: THIAGO ALVES 0,  TONY DESOUZA 0

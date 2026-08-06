@@ -1,0 +1,11 @@
+Fighter: CHARLIE BRENNEMAN
+  Date of Birth: 1981-02-09
+  Career record: 11
+  First fight: 2010-03-31
+  Last fight: 2014-11-08
+
+Career Statistics:
+- Significant Strikes Landed :129
+- Total takedowns landed :24
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC 177: Dillashaw vs Soto
+    Date: August 30, 2014
+    Location: Sacramento, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHRIS WADE defeated CAIN CARRIZOSA via Submission  
+  at 1:12 of round 1
+  Key stats:
+  - CHRIS WADE landed 0 significant strikes
+  - CAIN CARRIZOSA landed 0 significant strikes
+  - Knockdowns: CHRIS WADE 0,  CAIN CARRIZOSA 0
+  - Takedowns: CHRIS WADE 1,  CAIN CARRIZOSA 0

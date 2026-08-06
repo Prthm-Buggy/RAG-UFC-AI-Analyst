@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Grasso vs. Shevchenko 2
+    Date: September 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DANIEL ZELLHUBER defeated CHRISTOS GIAGOS via Submission  
+  at 3:26 of round 2
+  Key stats:
+  - DANIEL ZELLHUBER landed 36 significant strikes
+  - CHRISTOS GIAGOS landed 38 significant strikes
+  - Knockdowns: DANIEL ZELLHUBER 0,  CHRISTOS GIAGOS 0
+  - Takedowns: DANIEL ZELLHUBER 0,  CHRISTOS GIAGOS 0
+  Bonus: perf

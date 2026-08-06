@@ -1,0 +1,14 @@
+Event: UFC 12: Judgement Day
+    Date: February 07, 1997
+    Location: Dothan, Alabama, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARK COLEMAN defeated DAN SEVERN via Submission  
+  at 2:57 of round 1
+  Key stats:
+  - MARK COLEMAN landed 4 significant strikes
+  - DAN SEVERN landed 2 significant strikes
+  - Knockdowns: MARK COLEMAN 0,  DAN SEVERN 0
+  - Takedowns: MARK COLEMAN 0,  DAN SEVERN 0
+  Bonus: belt

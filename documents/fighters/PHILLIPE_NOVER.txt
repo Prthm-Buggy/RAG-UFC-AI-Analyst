@@ -1,0 +1,11 @@
+Fighter: PHILLIPE NOVER
+  Date of Birth: 1984-02-03
+  Career record: 7
+  First fight: 2008-12-13
+  Last fight: 2017-02-11
+
+Career Statistics:
+- Significant Strikes Landed :163
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :4

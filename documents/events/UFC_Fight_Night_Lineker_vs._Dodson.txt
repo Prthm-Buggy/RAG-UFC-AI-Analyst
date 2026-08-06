@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Lineker vs. Dodson
+    Date : October 01, 2016
+    Location: Portland, Oregon, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Bantamweight, Light Heavyweight, Middleweight, Welterweight, Featherweight, Flyweight, Lightweight, Women's Bantamweight
+
+    Fight Results:
+  - ANDRE FILI def. HACRAN DIAS via Decision - Unanimous(R3)
+- ELIZEU ZALESKI DOS SANTOS def. KEITA NAKAMURA via Decision - Unanimous(R3)
+- ION CUTELABA def. JONATHAN WILSON via Decision - Unanimous(R3)
+- BRANDON MORENO def. LOUIS SMOLKA via Submission(R1)
+- KETLEN VIEIRA def. KELLY FASZHOLZ via Decision - Split(R3)
+- CURTIS BLAYDES def. CODY EAST via KO/TKO(R2)
+- ALEX OLIVEIRA def. WILL BROOKS via KO/TKO(R3)
+- HENRIQUE DA SILVA def. JOACHIM CHRISTENSEN via Submission(R2)
+- NATE MARQUARDT def. TAMDAN MCCRORY via KO/TKO(R2)
+- SHAMIL ABDURAKHIMOV def. WALT HARRIS via Decision - Split(R3)
+- JOHN LINEKER def. JOHN DODSON via Decision - Split(R5)
+- ZAK OTTOW def. JOSHUA BURKMAN via Decision - Split(R3)

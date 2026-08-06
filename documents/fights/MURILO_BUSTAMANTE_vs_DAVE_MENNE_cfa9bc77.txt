@@ -1,0 +1,14 @@
+Event: UFC 35: Throwdown
+    Date: January 11, 2002
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Middleweight
+    
+
+    Result: MURILO BUSTAMANTE defeated DAVE MENNE via KO/TKO  
+  at 0:44 of round 2
+  Key stats:
+  - MURILO BUSTAMANTE landed 9 significant strikes
+  - DAVE MENNE landed 14 significant strikes
+  - Knockdowns: MURILO BUSTAMANTE 1,  DAVE MENNE 0
+  - Takedowns: MURILO BUSTAMANTE 2,  DAVE MENNE 0
+  Bonus: belt

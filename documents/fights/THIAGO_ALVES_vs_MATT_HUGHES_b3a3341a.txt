@@ -1,0 +1,14 @@
+Event: UFC 85: Bedlam
+    Date: June 07, 2008
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: THIAGO ALVES defeated MATT HUGHES via KO/TKO  
+  at 1:02 of round 2
+  Key stats:
+  - THIAGO ALVES landed 10 significant strikes
+  - MATT HUGHES landed 9 significant strikes
+  - Knockdowns: THIAGO ALVES 1,  MATT HUGHES 0
+  - Takedowns: THIAGO ALVES 1,  MATT HUGHES 1
+  Bonus: ko

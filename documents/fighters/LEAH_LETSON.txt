@@ -1,0 +1,11 @@
+Fighter: LEAH LETSON
+  Date of Birth: 1992-08-21
+  Career record: 2
+  First fight: 2018-11-30
+  Last fight: 2021-11-13
+
+Career Statistics:
+- Significant Strikes Landed :90
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

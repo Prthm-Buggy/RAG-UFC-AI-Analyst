@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team McGregor vs. Team Faber Finale
+    Date: December 11, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: GEANE HERRERA defeated JOBY SANCHEZ via KO/TKO  
+  at 4:28 of round 2
+  Key stats:
+  - GEANE HERRERA landed 40 significant strikes
+  - JOBY SANCHEZ landed 55 significant strikes
+  - Knockdowns: GEANE HERRERA 1,  JOBY SANCHEZ 0
+  - Takedowns: GEANE HERRERA 1,  JOBY SANCHEZ 0

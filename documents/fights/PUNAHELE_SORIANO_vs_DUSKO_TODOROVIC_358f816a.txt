@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Kattar
+    Date: January 16, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: PUNAHELE SORIANO defeated DUSKO TODOROVIC via KO/TKO  
+  at 4:48 of round 1
+  Key stats:
+  - PUNAHELE SORIANO landed 30 significant strikes
+  - DUSKO TODOROVIC landed 22 significant strikes
+  - Knockdowns: PUNAHELE SORIANO 2,  DUSKO TODOROVIC 0
+  - Takedowns: PUNAHELE SORIANO 0,  DUSKO TODOROVIC 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Hill
+    Date: August 06, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: JULIANA MILLER defeated BROGAN WALKER via KO/TKO  
+  at 3:57 of round 3
+  Key stats:
+  - JULIANA MILLER landed 54 significant strikes
+  - BROGAN WALKER landed 30 significant strikes
+  - Knockdowns: JULIANA MILLER 0,  BROGAN WALKER 0
+  - Takedowns: JULIANA MILLER 4,  BROGAN WALKER 0

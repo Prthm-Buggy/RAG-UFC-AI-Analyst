@@ -1,0 +1,14 @@
+Event : UFC 18: The Road to the Heavyweight Title
+    Date : January 08, 1999
+    Location: New Orleans, Louisiana, USA
+    Number of Fights: 7
+    Weight Classes: Lightweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - TITO ORTIZ def. JERRY BOHLANDER via TKO - Doctor's Stoppage(R2)
+- PAT MILETICH def. JORGE PATINO via Decision - Unanimous(R3)
+- PEDRO RIZZO def. MARK COLEMAN via Decision - Split(R2)
+- MIKEY BURNETT def. TOWNSEND SAUNDERS via Decision - Unanimous(R2)
+- BAS RUTTEN def. TSUYOSHI KOHSAKA via KO/TKO(R2)
+- EVAN TANNER def. DARREL GHOLAR via Submission(R1)
+- LAVERNE CLARK def. FRANK CARACCI via KO/TKO(R1)

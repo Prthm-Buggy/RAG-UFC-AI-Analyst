@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fight for the Troops 2
+    Date: January 22, 2011
+    Location: Killeen, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: RANI YAHYA defeated MIKE BROWN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RANI YAHYA landed 40 significant strikes
+  - MIKE BROWN landed 15 significant strikes
+  - Knockdowns: RANI YAHYA 0,  MIKE BROWN 0
+  - Takedowns: RANI YAHYA 3,  MIKE BROWN 1

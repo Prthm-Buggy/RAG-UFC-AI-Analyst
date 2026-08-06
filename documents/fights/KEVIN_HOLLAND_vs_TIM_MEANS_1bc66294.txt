@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Emmett
+    Date: June 18, 2022
+    Location: Austin, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: KEVIN HOLLAND defeated TIM MEANS via Submission  
+  at 1:28 of round 2
+  Key stats:
+  - KEVIN HOLLAND landed 36 significant strikes
+  - TIM MEANS landed 21 significant strikes
+  - Knockdowns: KEVIN HOLLAND 0,  TIM MEANS 0
+  - Takedowns: KEVIN HOLLAND 0,  TIM MEANS 2
+  Bonus: perf

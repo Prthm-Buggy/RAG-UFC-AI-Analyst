@@ -1,0 +1,14 @@
+Event: UFC 197: Jones vs Saint Preux
+    Date: April 23, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: YAIR RODRIGUEZ defeated ANDRE FILI via KO/TKO  
+  at 2:15 of round 2
+  Key stats:
+  - YAIR RODRIGUEZ landed 25 significant strikes
+  - ANDRE FILI landed 11 significant strikes
+  - Knockdowns: YAIR RODRIGUEZ 1,  ANDRE FILI 0
+  - Takedowns: YAIR RODRIGUEZ 2,  ANDRE FILI 1
+  Bonus: perf

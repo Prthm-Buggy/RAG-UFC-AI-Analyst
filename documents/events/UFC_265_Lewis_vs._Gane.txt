@@ -1,0 +1,20 @@
+Event : UFC 265: Lewis vs. Gane
+    Date : August 07, 2021
+    Location: Houston, Texas, USA
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Bantamweight, Women's Flyweight, Lightweight, Welterweight, Women's Strawweight, Light Heavyweight, Flyweight
+
+    Fight Results:
+  - MELISSA GATTO def. VICTORIA LEONARDO via TKO - Doctor's Stoppage(R2)
+- MANEL KAPE def. ODE OSBOURNE via KO/TKO(R1)
+- CIRYL GANE def. DERRICK LEWIS via KO/TKO(R3)
+- SONG YADONG def. CASEY KENNEY via Decision - Split(R3)
+- ALONZO MENIFIELD def. ED HERMAN via Decision - Unanimous(R3)
+- JOSE ALDO def. PEDRO MUNHOZ via Decision - Unanimous(R3)
+- VICENTE LUQUE def. MICHAEL CHIESA via Submission(R1)
+- RAFAEL FIZIEV def. KING GREEN via Decision - Unanimous(R3)
+- JESSICA PENNE def. KAROLINA KOWALKIEWICZ via Submission(R1)
+- TECIA PENNINGTON def. ANGELA HILL via Decision - Unanimous(R3)
+- MILES JOHNS def. ANDERSON DOS SANTOS via KO/TKO(R3)
+- JOHNNY MUNOZ def. JAMEY SIMMONS via Submission(R2)
+- VINCE MORALES def. DRAKO RODRIGUEZ via Decision - Unanimous(R3)

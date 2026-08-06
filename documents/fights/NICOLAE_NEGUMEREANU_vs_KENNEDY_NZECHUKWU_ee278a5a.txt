@@ -1,0 +1,13 @@
+Event: UFC 272: Covington vs. Masvidal
+    Date: March 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: NICOLAE NEGUMEREANU defeated KENNEDY NZECHUKWU via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - NICOLAE NEGUMEREANU landed 64 significant strikes
+  - KENNEDY NZECHUKWU landed 95 significant strikes
+  - Knockdowns: NICOLAE NEGUMEREANU 0,  KENNEDY NZECHUKWU 0
+  - Takedowns: NICOLAE NEGUMEREANU 1,  KENNEDY NZECHUKWU 0

@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Cejudo vs. Song
+    Date : February 22, 2025
+    Location: Seattle, Washington, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Light Heavyweight, Middleweight, Catch Weight, Featherweight
+
+    Fight Results:
+  - JEAN SILVA def. MELSIK BAGHDASARYAN via KO/TKO(R1)
+- AUSTIN VANDERFORD def. NIKOLAY VERETENNIKOV via KO/TKO(R2)
+- ALONZO MENIFIELD def. JULIUS WALKER via Decision - Split(R3)
+- RICKY SIMON def. JAVID BASHARAT via KO/TKO(R1)
+- MANSUR ABDUL-MALIK def. NICK KLEIN via KO/TKO(R2)
+- ROB FONT def. JEAN MATSUMOTO via Decision - Split(R3)
+- ION CUTELABA def. IBO ASLAN via Submission(R1)
+- ANTHONY HERNANDEZ def. BRENDAN ALLEN via Decision - Unanimous(R3)
+- SONG YADONG def. HENRY CEJUDO via Decision - Unanimous(R3)
+- MELQUIZAEL COSTA def. ANDRE FILI via Submission(R1)
+- MODESTAS BUKAUSKAS def. RAFAEL CERQUEIRA via KO/TKO(R1)
+- NURSULTON RUZIBOEV def. ERIC MCCONICO via KO/TKO(R2)

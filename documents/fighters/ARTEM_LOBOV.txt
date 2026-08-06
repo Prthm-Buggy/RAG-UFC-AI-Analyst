@@ -1,0 +1,11 @@
+Fighter: ARTEM LOBOV
+  Date of Birth: 1986-08-11
+  Career record: 7
+  First fight: 2015-12-11
+  Last fight: 2018-10-27
+
+Career Statistics:
+- Significant Strikes Landed :405
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

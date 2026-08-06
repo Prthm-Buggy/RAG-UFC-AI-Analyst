@@ -1,0 +1,14 @@
+Event: UFC 291: Poirier vs. Gaethje 2
+    Date: July 29, 2023
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Lightweight
+    
+
+    Result: JUSTIN GAETHJE defeated DUSTIN POIRIER via KO/TKO  
+  at 1:00 of round 2
+  Key stats:
+  - JUSTIN GAETHJE landed 41 significant strikes
+  - DUSTIN POIRIER landed 27 significant strikes
+  - Knockdowns: JUSTIN GAETHJE 1,  DUSTIN POIRIER 0
+  - Takedowns: JUSTIN GAETHJE 0,  DUSTIN POIRIER 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: QUINN MULHERN
+  Date of Birth: 1984-09-20
+  Career record: 2
+  First fight: 2013-03-16
+  Last fight: 2014-01-04
+
+Career Statistics:
+- Significant Strikes Landed :25
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

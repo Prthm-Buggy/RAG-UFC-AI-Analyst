@@ -1,0 +1,14 @@
+Event: UFC 128: Shogun vs Jones
+    Date: March 19, 2011
+    Location: Newark, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated MAURICIO RUA via KO/TKO  
+  at 2:37 of round 3
+  Key stats:
+  - JON JONES landed 75 significant strikes
+  - MAURICIO RUA landed 9 significant strikes
+  - Knockdowns: JON JONES 1,  MAURICIO RUA 0
+  - Takedowns: JON JONES 3,  MAURICIO RUA 0
+  Bonus: belt

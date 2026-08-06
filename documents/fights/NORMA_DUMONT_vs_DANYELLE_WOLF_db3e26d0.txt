@@ -1,0 +1,13 @@
+Event: UFC 279: Diaz vs. Ferguson
+    Date: September 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: NORMA DUMONT defeated DANYELLE WOLF via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NORMA DUMONT landed 52 significant strikes
+  - DANYELLE WOLF landed 20 significant strikes
+  - Knockdowns: NORMA DUMONT 1,  DANYELLE WOLF 0
+  - Takedowns: NORMA DUMONT 2,  DANYELLE WOLF 0

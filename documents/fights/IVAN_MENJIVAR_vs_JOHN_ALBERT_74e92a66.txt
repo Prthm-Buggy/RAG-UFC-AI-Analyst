@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Sanchez vs Ellenberger
+    Date: February 15, 2012
+    Location: Omaha, Nebraska, USA
+    Weight Class: Bantamweight
+    
+
+    Result: IVAN MENJIVAR defeated JOHN ALBERT via Submission  
+  at 3:45 of round 1
+  Key stats:
+  - IVAN MENJIVAR landed 25 significant strikes
+  - JOHN ALBERT landed 31 significant strikes
+  - Knockdowns: IVAN MENJIVAR 0,  JOHN ALBERT 0
+  - Takedowns: IVAN MENJIVAR 1,  JOHN ALBERT 0
+  Bonus: sub

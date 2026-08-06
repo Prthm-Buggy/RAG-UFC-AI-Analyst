@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Luque vs. Dos Anjos
+    Date: August 12, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TERRANCE MCKINNEY defeated MIKE BREEDEN via KO/TKO  
+  at 1:25 of round 1
+  Key stats:
+  - TERRANCE MCKINNEY landed 30 significant strikes
+  - MIKE BREEDEN landed 1 significant strikes
+  - Knockdowns: TERRANCE MCKINNEY 0,  MIKE BREEDEN 0
+  - Takedowns: TERRANCE MCKINNEY 0,  MIKE BREEDEN 0

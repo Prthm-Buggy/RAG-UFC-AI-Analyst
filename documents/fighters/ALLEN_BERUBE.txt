@@ -1,0 +1,11 @@
+Fighter: ALLEN BERUBE
+  Date of Birth: 1974-08-25
+  Career record: 1
+  First fight: 2007-06-23
+  Last fight: 2007-06-23
+
+Career Statistics:
+- Significant Strikes Landed :4
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

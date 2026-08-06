@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kara-France vs. Albazi
+    Date: June 03, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated JESSE BUTLER via KO/TKO  
+  at 0:23 of round 1
+  Key stats:
+  - JIM MILLER landed 3 significant strikes
+  - JESSE BUTLER landed 1 significant strikes
+  - Knockdowns: JIM MILLER 1,  JESSE BUTLER 0
+  - Takedowns: JIM MILLER 0,  JESSE BUTLER 0
+  Bonus: perf

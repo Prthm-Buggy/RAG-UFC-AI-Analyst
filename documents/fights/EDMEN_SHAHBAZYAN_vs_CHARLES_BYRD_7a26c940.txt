@@ -1,0 +1,13 @@
+Event: UFC 235: Jones vs. Smith
+    Date: March 02, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: EDMEN SHAHBAZYAN defeated CHARLES BYRD via KO/TKO  
+  at 0:38 of round 1
+  Key stats:
+  - EDMEN SHAHBAZYAN landed 13 significant strikes
+  - CHARLES BYRD landed 1 significant strikes
+  - Knockdowns: EDMEN SHAHBAZYAN 1,  CHARLES BYRD 0
+  - Takedowns: EDMEN SHAHBAZYAN 0,  CHARLES BYRD 0

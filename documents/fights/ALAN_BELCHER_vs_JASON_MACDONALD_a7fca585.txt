@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shields vs Ellenberger
+    Date: September 17, 2011
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALAN BELCHER defeated JASON MACDONALD via KO/TKO  
+  at 3:48 of round 1
+  Key stats:
+  - ALAN BELCHER landed 25 significant strikes
+  - JASON MACDONALD landed 2 significant strikes
+  - Knockdowns: ALAN BELCHER 0,  JASON MACDONALD 0
+  - Takedowns: ALAN BELCHER 0,  JASON MACDONALD 0

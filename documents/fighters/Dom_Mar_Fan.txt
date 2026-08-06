@@ -1,0 +1,11 @@
+Fighter: Dom Mar Fan
+  Date of Birth: 2000-03-19
+  Career record: 2
+  First fight: 2026-01-31
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :100
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

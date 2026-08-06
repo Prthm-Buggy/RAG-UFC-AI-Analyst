@@ -1,0 +1,11 @@
+Fighter: MICHAEL MCBRIDE
+  Date of Birth: 1986-03-09
+  Career record: 2
+  First fight: 2016-09-10
+  Last fight: 2017-04-22
+
+Career Statistics:
+- Significant Strikes Landed :99
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :2

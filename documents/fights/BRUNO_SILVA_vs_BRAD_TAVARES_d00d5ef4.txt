@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Pavlovich vs. Blaydes
+    Date: April 22, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRUNO SILVA defeated BRAD TAVARES via KO/TKO  
+  at 3:35 of round 1
+  Key stats:
+  - BRUNO SILVA landed 23 significant strikes
+  - BRAD TAVARES landed 15 significant strikes
+  - Knockdowns: BRUNO SILVA 1,  BRAD TAVARES 0
+  - Takedowns: BRUNO SILVA 0,  BRAD TAVARES 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 121: Lesnar vs Velasquez
+    Date: October 23, 2010
+    Location: Anaheim, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JON MADSEN defeated GILBERT YVEL via KO/TKO  
+  at 1:48 of round 1
+  Key stats:
+  - JON MADSEN landed 18 significant strikes
+  - GILBERT YVEL landed 0 significant strikes
+  - Knockdowns: JON MADSEN 0,  GILBERT YVEL 0
+  - Takedowns: JON MADSEN 1,  GILBERT YVEL 0

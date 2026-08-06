@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Lee
+    Date: May 18, 2019
+    Location: Rochester, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated DERRICK KRANTZ via KO/TKO  
+  at 3:52 of round 1
+  Key stats:
+  - VICENTE LUQUE landed 18 significant strikes
+  - DERRICK KRANTZ landed 6 significant strikes
+  - Knockdowns: VICENTE LUQUE 1,  DERRICK KRANTZ 0
+  - Takedowns: VICENTE LUQUE 0,  DERRICK KRANTZ 1

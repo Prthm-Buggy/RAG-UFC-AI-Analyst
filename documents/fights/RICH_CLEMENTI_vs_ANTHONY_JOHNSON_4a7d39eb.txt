@@ -1,0 +1,13 @@
+Event: UFC 76: Knockout
+    Date: September 22, 2007
+    Location: Anaheim, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: RICH CLEMENTI defeated ANTHONY JOHNSON via Submission  
+  at 3:05 of round 2
+  Key stats:
+  - RICH CLEMENTI landed 12 significant strikes
+  - ANTHONY JOHNSON landed 22 significant strikes
+  - Knockdowns: RICH CLEMENTI 0,  ANTHONY JOHNSON 1
+  - Takedowns: RICH CLEMENTI 1,  ANTHONY JOHNSON 1

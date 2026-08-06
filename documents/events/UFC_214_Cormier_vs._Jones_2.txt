@@ -1,0 +1,18 @@
+Event : UFC 214: Cormier vs. Jones 2
+    Date : July 29, 2017
+    Location: Anaheim, California, USA
+    Number of Fights: 11
+    Weight Classes: Featherweight, Catch Weight, Welterweight, Women's Featherweight, Women's Strawweight, Lightweight, Flyweight, Light Heavyweight
+
+    Fight Results:
+  - ALJAMAIN STERLING def. RENAN BARAO via Decision - Unanimous(R3)
+- CRISTIANE JUSTINO def. TONYA EVINGER via KO/TKO(R3)
+- DREW DOBER def. JOSHUA BURKMAN via KO/TKO(R1)
+- VOLKAN OEZDEMIR def. JIMI MANUWA via KO/TKO(R1)
+- BRIAN ORTEGA def. RENATO MOICANO via Submission(R3)
+- RICARDO LAMAS def. JASON KNIGHT via KO/TKO(R1)
+- ALEKSANDRA ALBU def. KAILIN CURRAN via Decision - Unanimous(R3)
+- CALVIN KATTAR def. ANDRE FILI via Decision - Unanimous(R3)
+- JARRED BROOKS def. ERIC SHELTON via Decision - Split(R3)
+- TYRON WOODLEY def. DEMIAN MAIA via Decision - Unanimous(R5)
+- ROBBIE LAWLER def. DONALD CERRONE via Decision - Unanimous(R3)

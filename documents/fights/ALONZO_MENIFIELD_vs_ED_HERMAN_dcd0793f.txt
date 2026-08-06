@@ -1,0 +1,13 @@
+Event: UFC 265: Lewis vs. Gane
+    Date: August 07, 2021
+    Location: Houston, Texas, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALONZO MENIFIELD defeated ED HERMAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALONZO MENIFIELD landed 93 significant strikes
+  - ED HERMAN landed 41 significant strikes
+  - Knockdowns: ALONZO MENIFIELD 0,  ED HERMAN 0
+  - Takedowns: ALONZO MENIFIELD 1,  ED HERMAN 0

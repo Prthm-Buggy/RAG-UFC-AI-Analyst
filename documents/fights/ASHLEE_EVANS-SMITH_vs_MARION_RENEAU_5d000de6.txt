@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs Cowboy
+    Date: February 21, 2016
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: ASHLEE EVANS-SMITH defeated MARION RENEAU via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ASHLEE EVANS-SMITH landed 55 significant strikes
+  - MARION RENEAU landed 53 significant strikes
+  - Knockdowns: ASHLEE EVANS-SMITH 0,  MARION RENEAU 0
+  - Takedowns: ASHLEE EVANS-SMITH 1,  MARION RENEAU 1

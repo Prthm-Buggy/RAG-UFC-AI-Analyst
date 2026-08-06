@@ -1,0 +1,11 @@
+Fighter: AKIHIRO GONO
+  Date of Birth: 1974-10-07
+  Career record: 3
+  First fight: 2007-11-17
+  Last fight: 2009-01-31
+
+Career Statistics:
+- Significant Strikes Landed :90
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :1

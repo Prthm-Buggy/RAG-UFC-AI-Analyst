@@ -1,0 +1,13 @@
+Event: UFC 96: Jackson vs Jardine
+    Date: March 07, 2009
+    Location: Columbus, Ohio, USA
+    Weight Class: Lightweight
+    
+
+    Result: SHANE NELSON defeated AARON RILEY via KO/TKO  
+  at 0:44 of round 1
+  Key stats:
+  - SHANE NELSON landed 5 significant strikes
+  - AARON RILEY landed 4 significant strikes
+  - Knockdowns: SHANE NELSON 1,  AARON RILEY 0
+  - Takedowns: SHANE NELSON 0,  AARON RILEY 0

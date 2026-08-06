@@ -1,0 +1,14 @@
+Event: UFC 258: Usman vs. Burns
+    Date: February 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANTHONY HERNANDEZ defeated RODOLFO VIEIRA via Submission  
+  at 1:53 of round 2
+  Key stats:
+  - ANTHONY HERNANDEZ landed 32 significant strikes
+  - RODOLFO VIEIRA landed 9 significant strikes
+  - Knockdowns: ANTHONY HERNANDEZ 0,  RODOLFO VIEIRA 0
+  - Takedowns: ANTHONY HERNANDEZ 0,  RODOLFO VIEIRA 4
+  Bonus: perf

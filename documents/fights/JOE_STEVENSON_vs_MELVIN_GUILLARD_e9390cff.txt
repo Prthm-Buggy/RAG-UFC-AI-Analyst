@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Stevenson vs Guillard
+    Date: April 05, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE STEVENSON defeated MELVIN GUILLARD via Submission  
+  at 0:27 of round 1
+  Key stats:
+  - JOE STEVENSON landed 2 significant strikes
+  - MELVIN GUILLARD landed 1 significant strikes
+  - Knockdowns: JOE STEVENSON 0,  MELVIN GUILLARD 0
+  - Takedowns: JOE STEVENSON 1,  MELVIN GUILLARD 0
+  Bonus: sub

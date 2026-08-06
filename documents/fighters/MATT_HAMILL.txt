@@ -1,0 +1,11 @@
+Fighter: MATT HAMILL
+  Date of Birth: 1976-10-05
+  Career record: 15
+  First fight: 2006-06-24
+  Last fight: 2013-10-09
+
+Career Statistics:
+- Significant Strikes Landed :571
+- Total takedowns landed :31
+- Knockdowns :1
+- Submission Attempts :0

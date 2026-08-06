@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rockhold vs Bisping
+    Date: November 07, 2014
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Middleweight
+    
+
+    Result: LUKE ROCKHOLD defeated MICHAEL BISPING via Submission  
+  at 0:57 of round 2
+  Key stats:
+  - LUKE ROCKHOLD landed 20 significant strikes
+  - MICHAEL BISPING landed 16 significant strikes
+  - Knockdowns: LUKE ROCKHOLD 1,  MICHAEL BISPING 0
+  - Takedowns: LUKE ROCKHOLD 0,  MICHAEL BISPING 0
+  Bonus: perf

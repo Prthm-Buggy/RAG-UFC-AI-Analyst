@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Gastelum
+    Date: August 21, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: WILLIAM KNIGHT defeated FABIO CHERANT via KO/TKO  
+  at 3:58 of round 1
+  Key stats:
+  - WILLIAM KNIGHT landed 14 significant strikes
+  - FABIO CHERANT landed 15 significant strikes
+  - Knockdowns: WILLIAM KNIGHT 1,  FABIO CHERANT 0
+  - Takedowns: WILLIAM KNIGHT 0,  FABIO CHERANT 0
+  Bonus: perf

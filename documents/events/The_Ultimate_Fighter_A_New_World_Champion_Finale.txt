@@ -1,0 +1,17 @@
+Event : The Ultimate Fighter: A New World Champion Finale
+    Date : December 01, 2017
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Women's Flyweight, Bantamweight, Middleweight
+
+    Fight Results:
+  - RYAN JANES def. ANDREW SANCHEZ via KO/TKO(R3)
+- GERALD MEERSCHAERT def. ERIC SPICELY via KO/TKO(R2)
+- LAUREN MURPHY def. BARB HONCHAK via Decision - Split(R3)
+- SHANA DOBSON def. ARIEL BECK via KO/TKO(R2)
+- RACHAEL OSTOVICH def. KARINE GEVORGYAN via Submission(R1)
+- MONTANA DE LA ROSA def. CHRISTINA MARKS via Submission(R1)
+- BRETT JOHNS def. JOE SOTO via Submission(R1)
+- GILLIAN ROBERTSON def. EMILY WHITMIRE via Submission(R1)
+- NICCO MONTANO def. ROXANNE MODAFFERI via Decision - Unanimous(R5)
+- SEAN O'MALLEY def. TERRION WARE via Decision - Unanimous(R3)

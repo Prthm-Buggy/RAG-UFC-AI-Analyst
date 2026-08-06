@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brown vs Silva
+    Date: May 10, 2014
+    Location: Cincinnati, Ohio, USA
+    Weight Class: Lightweight
+    
+
+    Result: DARON CRUICKSHANK defeated ERIK KOCH via KO/TKO  
+  at 3:21 of round 1
+  Key stats:
+  - DARON CRUICKSHANK landed 24 significant strikes
+  - ERIK KOCH landed 6 significant strikes
+  - Knockdowns: DARON CRUICKSHANK 1,  ERIK KOCH 0
+  - Takedowns: DARON CRUICKSHANK 0,  ERIK KOCH 0

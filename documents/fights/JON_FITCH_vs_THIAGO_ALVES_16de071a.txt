@@ -1,0 +1,13 @@
+Event: UFC Fight Night 5
+    Date: June 28, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JON FITCH defeated THIAGO ALVES via KO/TKO  
+  at 4:37 of round 2
+  Key stats:
+  - JON FITCH landed 51 significant strikes
+  - THIAGO ALVES landed 1 significant strikes
+  - Knockdowns: JON FITCH 1,  THIAGO ALVES 0
+  - Takedowns: JON FITCH 3,  THIAGO ALVES 1

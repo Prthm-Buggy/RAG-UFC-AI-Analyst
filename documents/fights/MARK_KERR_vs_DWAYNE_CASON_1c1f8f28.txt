@@ -1,0 +1,14 @@
+Event: UFC 15: Collision Course
+    Date: October 17, 1997
+    Location: Bay St. Louis, Mississippi, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARK KERR defeated DWAYNE CASON via Submission  
+  at 0:53 of round 1
+  Key stats:
+  - MARK KERR landed 5 significant strikes
+  - DWAYNE CASON landed 0 significant strikes
+  - Knockdowns: MARK KERR 0,  DWAYNE CASON 0
+  - Takedowns: MARK KERR 1,  DWAYNE CASON 0
+  Bonus: belt

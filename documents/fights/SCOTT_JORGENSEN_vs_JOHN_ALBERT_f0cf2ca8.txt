@@ -1,0 +1,14 @@
+Event: UFC on FOX: Henderson vs Diaz
+    Date: December 08, 2012
+    Location: Seattle, Washington, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SCOTT JORGENSEN defeated JOHN ALBERT via Submission  
+  at 4:59 of round 1
+  Key stats:
+  - SCOTT JORGENSEN landed 12 significant strikes
+  - JOHN ALBERT landed 5 significant strikes
+  - Knockdowns: SCOTT JORGENSEN 0,  JOHN ALBERT 0
+  - Takedowns: SCOTT JORGENSEN 0,  JOHN ALBERT 0
+  Bonus: fight

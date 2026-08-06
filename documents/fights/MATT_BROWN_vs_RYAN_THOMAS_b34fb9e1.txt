@@ -1,0 +1,13 @@
+Event: UFC 91: Couture vs Lesnar
+    Date: November 15, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT BROWN defeated RYAN THOMAS via Submission  
+  at 0:57 of round 2
+  Key stats:
+  - MATT BROWN landed 15 significant strikes
+  - RYAN THOMAS landed 15 significant strikes
+  - Knockdowns: MATT BROWN 0,  RYAN THOMAS 0
+  - Takedowns: MATT BROWN 1,  RYAN THOMAS 5

@@ -1,0 +1,13 @@
+Event: UFC 289: Nunes vs. Aldana
+    Date: June 10, 2023
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: AIEMANN ZAHABI defeated AORIQILENG via KO/TKO  
+  at 1:04 of round 1
+  Key stats:
+  - AIEMANN ZAHABI landed 5 significant strikes
+  - AORIQILENG landed 5 significant strikes
+  - Knockdowns: AIEMANN ZAHABI 1,  AORIQILENG 0
+  - Takedowns: AIEMANN ZAHABI 0,  AORIQILENG 0

@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Dillashaw vs Cruz
+    Date : January 17, 2016
+    Location: Boston, Massachusetts, USA
+    Number of Fights: 13
+    Weight Classes: Welterweight, Lightweight, Light Heavyweight, Featherweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - LUKE SANDERS def. MAXIMO BLANCO via Submission(R1)
+- FRANCIMAR BARROSO def. ELVIS MUTAPCIC via Decision - Unanimous(R3)
+- FRANCISCO TRINALDO def. ROSS PEARSON via Decision - Unanimous(R3)
+- TRAVIS BROWNE def. MATT MITRIONE via KO/TKO(R3)
+- DOMINICK CRUZ def. TJ DILLASHAW via Decision - Split(R5)
+- PAUL FELDER def. DARON CRUICKSHANK via Submission(R3)
+- CHARLES ROSA def. KYLE BOCHNIAK via Decision - Unanimous(R3)
+- ED HERMAN def. TIM BOETSCH via KO/TKO(R2)
+- EDDIE ALVAREZ def. ANTHONY PETTIS via Decision - Split(R3)
+- PATRICK COTE def. BEN SAUNDERS via KO/TKO(R2)
+- ILIR LATIFI def. SEAN O'CONNELL via KO/TKO(R1)
+- ROB FONT def. JOEY GOMEZ via KO/TKO(R2)
+- CHRIS WADE def. MEHDI BAGHDAD via Submission(R1)

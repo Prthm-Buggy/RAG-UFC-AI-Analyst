@@ -1,0 +1,19 @@
+Event : UFC 131: Dos Santos vs Carwin
+    Date : June 11, 2011
+    Location: Vancouver, British Columbia, Canada
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Featherweight, Middleweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - JUNIOR DOS SANTOS def. SHANE CARWIN via Decision - Unanimous(R3)
+- CHRIS WEIDMAN def. JESSE BONGFELDT via Submission(R1)
+- DONALD CERRONE def. VAGNER ROCHA via Decision - Unanimous(R3)
+- DARREN ELKINS def. MICHIHIRO OMIGAWA via Decision - Unanimous(R3)
+- DUSTIN POIRIER def. JASON YOUNG via Decision - Unanimous(R3)
+- JOEY BELTRAN def. AARON ROSA via KO/TKO(R3)
+- KENNY FLORIAN def. DIEGO NUNES via Decision - Unanimous(R3)
+- NICK RING def. JAMES HEAD via Submission(R3)
+- SAM STOUT def. YVES EDWARDS via KO/TKO(R1)
+- KRZYSZTOF SOSZYNSKI def. MIKE MASSENZIO via Decision - Unanimous(R3)
+- MARK MUNOZ def. DEMIAN MAIA via Decision - Unanimous(R3)
+- DAVE HERMAN def. JON OLAV EINEMO via KO/TKO(R2)

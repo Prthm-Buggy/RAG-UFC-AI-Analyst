@@ -1,0 +1,11 @@
+Fighter: MATT MITRIONE
+  Date of Birth: 1978-07-15
+  Career record: 14
+  First fight: 2009-12-05
+  Last fight: 2016-01-17
+
+Career Statistics:
+- Significant Strikes Landed :313
+- Total takedowns landed :0
+- Knockdowns :9
+- Submission Attempts :4

@@ -1,0 +1,11 @@
+Fighter: DANIEL BAREZ
+  Date of Birth: 1988-12-10
+  Career record: 4
+  First fight: 2023-07-22
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :231
+- Total takedowns landed :2
+- Knockdowns :2
+- Submission Attempts :0

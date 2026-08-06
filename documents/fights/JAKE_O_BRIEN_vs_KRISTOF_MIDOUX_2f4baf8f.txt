@@ -1,0 +1,13 @@
+Event: UFC Fight Night 6
+    Date: August 17, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAKE O'BRIEN defeated KRISTOF MIDOUX via KO/TKO  
+  at 0:52 of round 2
+  Key stats:
+  - JAKE O'BRIEN landed 25 significant strikes
+  - KRISTOF MIDOUX landed 2 significant strikes
+  - Knockdowns: JAKE O'BRIEN 0,  KRISTOF MIDOUX 0
+  - Takedowns: JAKE O'BRIEN 3,  KRISTOF MIDOUX 0

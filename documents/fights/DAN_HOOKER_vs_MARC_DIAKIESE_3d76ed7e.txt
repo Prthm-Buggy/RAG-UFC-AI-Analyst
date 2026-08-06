@@ -1,0 +1,13 @@
+Event: UFC 219: Cyborg vs. Holm
+    Date: December 30, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DAN HOOKER defeated MARC DIAKIESE via Submission  
+  at 0:42 of round 3
+  Key stats:
+  - DAN HOOKER landed 17 significant strikes
+  - MARC DIAKIESE landed 24 significant strikes
+  - Knockdowns: DAN HOOKER 0,  MARC DIAKIESE 0
+  - Takedowns: DAN HOOKER 2,  MARC DIAKIESE 0

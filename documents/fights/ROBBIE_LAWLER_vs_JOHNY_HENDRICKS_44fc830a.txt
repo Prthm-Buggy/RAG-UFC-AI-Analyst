@@ -1,0 +1,14 @@
+Event: UFC 181: Hendricks vs Lawler II
+    Date: December 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ROBBIE LAWLER defeated JOHNY HENDRICKS via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - ROBBIE LAWLER landed 116 significant strikes
+  - JOHNY HENDRICKS landed 111 significant strikes
+  - Knockdowns: ROBBIE LAWLER 0,  JOHNY HENDRICKS 0
+  - Takedowns: ROBBIE LAWLER 0,  JOHNY HENDRICKS 5
+  Bonus: belt

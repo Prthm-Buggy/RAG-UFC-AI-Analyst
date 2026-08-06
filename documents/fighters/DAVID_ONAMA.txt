@@ -1,0 +1,11 @@
+Fighter: DAVID ONAMA
+  Date of Birth: 1994-06-07
+  Career record: 9
+  First fight: 2021-10-23
+  Last fight: 2025-11-01
+
+Career Statistics:
+- Significant Strikes Landed :509
+- Total takedowns landed :7
+- Knockdowns :4
+- Submission Attempts :3

@@ -1,0 +1,14 @@
+Event: UFC Live: Cruz vs Johnson
+    Date: October 01, 2011
+    Location: Washington, DC, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DOMINICK CRUZ defeated DEMETRIOUS JOHNSON via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - DOMINICK CRUZ landed 60 significant strikes
+  - DEMETRIOUS JOHNSON landed 63 significant strikes
+  - Knockdowns: DOMINICK CRUZ 0,  DEMETRIOUS JOHNSON 0
+  - Takedowns: DOMINICK CRUZ 10,  DEMETRIOUS JOHNSON 1
+  Bonus: belt

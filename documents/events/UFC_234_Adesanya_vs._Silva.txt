@@ -1,0 +1,18 @@
+Event : UFC 234: Adesanya vs. Silva
+    Date : February 09, 2019
+    Location: Melbourne, Victoria, Australia
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Bantamweight, Middleweight, Lightweight, Flyweight, Featherweight, Light Heavyweight
+
+    Fight Results:
+  - ISRAEL ADESANYA def. ANDERSON SILVA via Decision - Unanimous(R3)
+- RICKY SIMON def. RANI YAHYA via Decision - Unanimous(R3)
+- JALIN TURNER def. CALLAN POTTER via KO/TKO(R1)
+- MONTANA DE LA ROSA def. NADIA KASSEM via Submission(R2)
+- KAI KARA-FRANCE def. RAULIAN PAIVA via Decision - Split(R3)
+- KYUNG HO KANG def. TERUTO ISHIHARA via Submission(R1)
+- JONATHAN MARTINEZ def. WULIJIBUREN via Decision - Unanimous(R3)
+- DEVONTE SMITH def. DONG HYUN MA via KO/TKO(R1)
+- SHANE YOUNG def. AUSTIN ARNETT via Decision - Unanimous(R3)
+- JIMMY CRUTE def. SAM ALVEY via KO/TKO(R1)
+- LANDO VANNATA def. MARCOS MARIANO via Submission(R1)

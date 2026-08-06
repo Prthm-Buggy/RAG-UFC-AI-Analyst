@@ -1,0 +1,13 @@
+Event: UFC 12: Judgement Day
+    Date: February 07, 1997
+    Location: Dothan, Alabama, USA
+    Weight Class: Heavyweight
+    
+
+    Result: VITOR BELFORT defeated TRA TELLIGMAN via KO/TKO  
+  at 1:17 of round 1
+  Key stats:
+  - VITOR BELFORT landed 17 significant strikes
+  - TRA TELLIGMAN landed 1 significant strikes
+  - Knockdowns: VITOR BELFORT 1,  TRA TELLIGMAN 0
+  - Takedowns: VITOR BELFORT 0,  TRA TELLIGMAN 0

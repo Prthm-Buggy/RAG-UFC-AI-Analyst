@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Swanson vs. Lobov
+    Date: April 22, 2017
+    Location: Nashville, Tennessee, USA
+    Weight Class: Featherweight
+    
+
+    Result: CUB SWANSON defeated ARTEM LOBOV via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CUB SWANSON landed 209 significant strikes
+  - ARTEM LOBOV landed 123 significant strikes
+  - Knockdowns: CUB SWANSON 0,  ARTEM LOBOV 0
+  - Takedowns: CUB SWANSON 2,  ARTEM LOBOV 2
+  Bonus: fight

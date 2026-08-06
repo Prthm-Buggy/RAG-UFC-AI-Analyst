@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Font vs. Aldo
+    Date: December 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS CURTIS defeated BRENDAN ALLEN via KO/TKO  
+  at 1:58 of round 2
+  Key stats:
+  - CHRIS CURTIS landed 61 significant strikes
+  - BRENDAN ALLEN landed 43 significant strikes
+  - Knockdowns: CHRIS CURTIS 1,  BRENDAN ALLEN 0
+  - Takedowns: CHRIS CURTIS 0,  BRENDAN ALLEN 0
+  Bonus: perf

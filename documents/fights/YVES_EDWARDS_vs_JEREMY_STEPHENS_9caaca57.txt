@@ -1,0 +1,14 @@
+Event: UFC on FOX: Henderson vs Diaz
+    Date: December 08, 2012
+    Location: Seattle, Washington, USA
+    Weight Class: Lightweight
+    
+
+    Result: YVES EDWARDS defeated JEREMY STEPHENS via KO/TKO  
+  at 1:55 of round 1
+  Key stats:
+  - YVES EDWARDS landed 8 significant strikes
+  - JEREMY STEPHENS landed 5 significant strikes
+  - Knockdowns: YVES EDWARDS 1,  JEREMY STEPHENS 0
+  - Takedowns: YVES EDWARDS 0,  JEREMY STEPHENS 0
+  Bonus: ko

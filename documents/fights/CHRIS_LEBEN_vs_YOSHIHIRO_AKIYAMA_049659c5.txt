@@ -1,0 +1,14 @@
+Event: UFC 116: Lesnar vs Carwin
+    Date: July 03, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS LEBEN defeated YOSHIHIRO AKIYAMA via Submission  
+  at 4:40 of round 3
+  Key stats:
+  - CHRIS LEBEN landed 46 significant strikes
+  - YOSHIHIRO AKIYAMA landed 27 significant strikes
+  - Knockdowns: CHRIS LEBEN 0,  YOSHIHIRO AKIYAMA 0
+  - Takedowns: CHRIS LEBEN 0,  YOSHIHIRO AKIYAMA 5
+  Bonus: fight

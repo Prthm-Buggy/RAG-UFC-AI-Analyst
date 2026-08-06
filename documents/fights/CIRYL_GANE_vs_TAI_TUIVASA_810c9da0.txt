@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gane vs. Tuivasa
+    Date: September 03, 2022
+    Location: Paris, Ile-de-France, France
+    Weight Class: Heavyweight
+    
+
+    Result: CIRYL GANE defeated TAI TUIVASA via KO/TKO  
+  at 4:23 of round 3
+  Key stats:
+  - CIRYL GANE landed 110 significant strikes
+  - TAI TUIVASA landed 29 significant strikes
+  - Knockdowns: CIRYL GANE 1,  TAI TUIVASA 1
+  - Takedowns: CIRYL GANE 0,  TAI TUIVASA 0
+  Bonus: fight

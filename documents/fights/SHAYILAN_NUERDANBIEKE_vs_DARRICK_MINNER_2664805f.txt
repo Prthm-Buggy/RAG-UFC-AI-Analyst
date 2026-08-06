@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Lemos
+    Date: November 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: SHAYILAN NUERDANBIEKE defeated DARRICK MINNER via KO/TKO  
+  at 1:07 of round 1
+  Key stats:
+  - SHAYILAN NUERDANBIEKE landed 19 significant strikes
+  - DARRICK MINNER landed 5 significant strikes
+  - Knockdowns: SHAYILAN NUERDANBIEKE 1,  DARRICK MINNER 0
+  - Takedowns: SHAYILAN NUERDANBIEKE 0,  DARRICK MINNER 0

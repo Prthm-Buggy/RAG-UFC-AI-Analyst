@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Daukaus
+    Date: December 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JORDAN LEAVITT defeated MATT SAYLES via Submission  
+  at 2:05 of round 2
+  Key stats:
+  - JORDAN LEAVITT landed 9 significant strikes
+  - MATT SAYLES landed 13 significant strikes
+  - Knockdowns: JORDAN LEAVITT 0,  MATT SAYLES 0
+  - Takedowns: JORDAN LEAVITT 1,  MATT SAYLES 1

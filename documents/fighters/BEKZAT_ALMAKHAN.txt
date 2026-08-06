@@ -1,0 +1,11 @@
+Fighter: BEKZAT ALMAKHAN
+  Date of Birth: 1997-10-08
+  Career record: 4
+  First fight: 2024-03-02
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :119
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :0

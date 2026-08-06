@@ -1,0 +1,11 @@
+Fighter: YUSHIN OKAMI
+  Date of Birth: 1981-07-21
+  Career record: 21
+  First fight: 2006-08-26
+  Last fight: 2018-12-01
+
+Career Statistics:
+- Significant Strikes Landed :513
+- Total takedowns landed :33
+- Knockdowns :4
+- Submission Attempts :9

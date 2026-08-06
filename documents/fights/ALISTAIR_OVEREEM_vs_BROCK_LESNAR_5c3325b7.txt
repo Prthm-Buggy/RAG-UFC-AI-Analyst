@@ -1,0 +1,13 @@
+Event: UFC 141: Lesnar vs Overeem
+    Date: December 30, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALISTAIR OVEREEM defeated BROCK LESNAR via KO/TKO  
+  at 2:26 of round 1
+  Key stats:
+  - ALISTAIR OVEREEM landed 19 significant strikes
+  - BROCK LESNAR landed 6 significant strikes
+  - Knockdowns: ALISTAIR OVEREEM 1,  BROCK LESNAR 0
+  - Takedowns: ALISTAIR OVEREEM 0,  BROCK LESNAR 0

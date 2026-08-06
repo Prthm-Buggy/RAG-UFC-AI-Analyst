@@ -1,0 +1,13 @@
+Event: UFC 158: St-Pierre vs Diaz
+    Date: March 16, 2013
+    Location: Montreal, Quebec, Canada
+    Weight Class: Featherweight
+    
+
+    Result: DARREN ELKINS defeated ANTONIO CARVALHO via KO/TKO  
+  at 3:06 of round 1
+  Key stats:
+  - DARREN ELKINS landed 14 significant strikes
+  - ANTONIO CARVALHO landed 9 significant strikes
+  - Knockdowns: DARREN ELKINS 1,  ANTONIO CARVALHO 0
+  - Takedowns: DARREN ELKINS 0,  ANTONIO CARVALHO 0

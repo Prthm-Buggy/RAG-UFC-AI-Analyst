@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Lauzon
+    Date: April 02, 2008
+    Location: Broomfield, Colorado, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MATT HAMILL defeated TIM BOETSCH via KO/TKO  
+  at 1:25 of round 2
+  Key stats:
+  - MATT HAMILL landed 31 significant strikes
+  - TIM BOETSCH landed 18 significant strikes
+  - Knockdowns: MATT HAMILL 0,  TIM BOETSCH 0
+  - Takedowns: MATT HAMILL 1,  TIM BOETSCH 0

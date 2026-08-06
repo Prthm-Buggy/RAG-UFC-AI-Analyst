@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holm vs. Correia
+    Date: June 17, 2017
+    Location: Kallang, Singapore
+    Weight Class: Welterweight
+    
+
+    Result: LI JINGLIANG defeated FRANK CAMACHO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LI JINGLIANG landed 94 significant strikes
+  - FRANK CAMACHO landed 35 significant strikes
+  - Knockdowns: LI JINGLIANG 0,  FRANK CAMACHO 0
+  - Takedowns: LI JINGLIANG 2,  FRANK CAMACHO 1
+  Bonus: fight

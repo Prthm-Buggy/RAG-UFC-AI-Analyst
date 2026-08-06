@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Stout vs Fisher
+    Date: June 12, 2007
+    Location: Hollywood, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: DREW MCFEDRIES defeated JORDAN RADEV via KO/TKO  
+  at 0:33 of round 1
+  Key stats:
+  - DREW MCFEDRIES landed 6 significant strikes
+  - JORDAN RADEV landed 1 significant strikes
+  - Knockdowns: DREW MCFEDRIES 1,  JORDAN RADEV 0
+  - Takedowns: DREW MCFEDRIES 0,  JORDAN RADEV 0
+  Bonus: ko

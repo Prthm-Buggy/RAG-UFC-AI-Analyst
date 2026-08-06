@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bader vs. Nogueira
+    Date: November 19, 2016
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: CEZAR FERREIRA defeated JACK HERMANSSON via Submission  
+  at 2:11 of round 2
+  Key stats:
+  - CEZAR FERREIRA landed 10 significant strikes
+  - JACK HERMANSSON landed 14 significant strikes
+  - Knockdowns: CEZAR FERREIRA 0,  JACK HERMANSSON 0
+  - Takedowns: CEZAR FERREIRA 1,  JACK HERMANSSON 0
+  Bonus: perf

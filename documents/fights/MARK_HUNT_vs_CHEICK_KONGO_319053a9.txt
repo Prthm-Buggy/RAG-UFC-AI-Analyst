@@ -1,0 +1,13 @@
+Event: UFC 144: Edgar vs Henderson
+    Date: February 25, 2012
+    Location: Saitama, Japan
+    Weight Class: Heavyweight
+    
+
+    Result: MARK HUNT defeated CHEICK KONGO via KO/TKO  
+  at 2:11 of round 1
+  Key stats:
+  - MARK HUNT landed 10 significant strikes
+  - CHEICK KONGO landed 5 significant strikes
+  - Knockdowns: MARK HUNT 1,  CHEICK KONGO 0
+  - Takedowns: MARK HUNT 0,  CHEICK KONGO 0

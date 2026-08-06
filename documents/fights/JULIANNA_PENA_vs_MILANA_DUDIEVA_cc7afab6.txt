@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Mendes vs Lamas
+    Date: April 04, 2015
+    Location: Fairfax, Virginia, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JULIANNA PENA defeated MILANA DUDIEVA via KO/TKO  
+  at 3:59 of round 1
+  Key stats:
+  - JULIANNA PENA landed 37 significant strikes
+  - MILANA DUDIEVA landed 0 significant strikes
+  - Knockdowns: JULIANNA PENA 0,  MILANA DUDIEVA 0
+  - Takedowns: JULIANNA PENA 1,  MILANA DUDIEVA 1
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC 170: Rousey vs McMann
+    Date: February 22, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: RORY MACDONALD defeated DEMIAN MAIA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RORY MACDONALD landed 75 significant strikes
+  - DEMIAN MAIA landed 51 significant strikes
+  - Knockdowns: RORY MACDONALD 0,  DEMIAN MAIA 0
+  - Takedowns: RORY MACDONALD 0,  DEMIAN MAIA 2
+  Bonus: fight

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tybura vs. Spivac 2
+    Date: August 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHEPE MARISCAL defeated DAMON JACKSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHEPE MARISCAL landed 73 significant strikes
+  - DAMON JACKSON landed 32 significant strikes
+  - Knockdowns: CHEPE MARISCAL 0,  DAMON JACKSON 0
+  - Takedowns: CHEPE MARISCAL 5,  DAMON JACKSON 1

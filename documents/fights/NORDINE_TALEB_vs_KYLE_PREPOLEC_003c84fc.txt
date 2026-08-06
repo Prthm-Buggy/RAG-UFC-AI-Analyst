@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Iaquinta vs. Cowboy
+    Date: May 04, 2019
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Welterweight
+    
+
+    Result: NORDINE TALEB defeated KYLE PREPOLEC via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NORDINE TALEB landed 90 significant strikes
+  - KYLE PREPOLEC landed 52 significant strikes
+  - Knockdowns: NORDINE TALEB 0,  KYLE PREPOLEC 0
+  - Takedowns: NORDINE TALEB 0,  KYLE PREPOLEC 0

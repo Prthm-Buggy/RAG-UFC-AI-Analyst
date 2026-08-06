@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Correia
+    Date: June 17, 2017
+    Location: Kallang, Singapore
+    Weight Class: Lightweight
+    
+
+    Result: JON TUCK defeated TAKANORI GOMI via Submission  
+  at 1:12 of round 1
+  Key stats:
+  - JON TUCK landed 7 significant strikes
+  - TAKANORI GOMI landed 0 significant strikes
+  - Knockdowns: JON TUCK 0,  TAKANORI GOMI 0
+  - Takedowns: JON TUCK 0,  TAKANORI GOMI 0

@@ -1,0 +1,14 @@
+Event: UFC 282: Blachowicz vs. Ankalaev
+    Date: December 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: EDMEN SHAHBAZYAN defeated DALCHA LUNGIAMBULA via KO/TKO  
+  at 4:41 of round 2
+  Key stats:
+  - EDMEN SHAHBAZYAN landed 54 significant strikes
+  - DALCHA LUNGIAMBULA landed 23 significant strikes
+  - Knockdowns: EDMEN SHAHBAZYAN 0,  DALCHA LUNGIAMBULA 0
+  - Takedowns: EDMEN SHAHBAZYAN 0,  DALCHA LUNGIAMBULA 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 175: Weidman vs Machida
+    Date: July 05, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RUSSELL DOANE defeated MARCUS BRIMAGE via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - RUSSELL DOANE landed 24 significant strikes
+  - MARCUS BRIMAGE landed 27 significant strikes
+  - Knockdowns: RUSSELL DOANE 0,  MARCUS BRIMAGE 0
+  - Takedowns: RUSSELL DOANE 3,  MARCUS BRIMAGE 2

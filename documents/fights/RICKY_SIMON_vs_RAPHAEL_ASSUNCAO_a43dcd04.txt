@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Daukaus
+    Date: December 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RICKY SIMON defeated RAPHAEL ASSUNCAO via KO/TKO  
+  at 2:14 of round 2
+  Key stats:
+  - RICKY SIMON landed 18 significant strikes
+  - RAPHAEL ASSUNCAO landed 7 significant strikes
+  - Knockdowns: RICKY SIMON 1,  RAPHAEL ASSUNCAO 0
+  - Takedowns: RICKY SIMON 2,  RAPHAEL ASSUNCAO 0

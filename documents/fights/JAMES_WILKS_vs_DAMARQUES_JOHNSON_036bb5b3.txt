@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: United States vs. United Kingdom Finale
+    Date: June 20, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JAMES WILKS defeated DAMARQUES JOHNSON via Submission  
+  at 4:54 of round 1
+  Key stats:
+  - JAMES WILKS landed 17 significant strikes
+  - DAMARQUES JOHNSON landed 13 significant strikes
+  - Knockdowns: JAMES WILKS 0,  DAMARQUES JOHNSON 0
+  - Takedowns: JAMES WILKS 2,  DAMARQUES JOHNSON 0
+  Bonus: belt

@@ -1,0 +1,11 @@
+Fighter: KAAN OFLI
+  Date of Birth: 1993-06-19
+  Career record: 5
+  First fight: 2024-08-24
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :109
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :1

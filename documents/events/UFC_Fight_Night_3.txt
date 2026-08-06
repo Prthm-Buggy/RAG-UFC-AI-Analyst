@@ -1,0 +1,15 @@
+Event : UFC Fight Night 3
+    Date : January 16, 2006
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Welterweight, Middleweight, Light Heavyweight
+
+    Fight Results:
+  - JOSHUA BURKMAN def. DREW FICKETT via Submission(R1)
+- JASON VON FLUE def. ALEX KARALEXIS via Submission(R3)
+- CHRIS LEBEN def. JORGE RIVERA via KO/TKO(R1)
+- STEPHAN BONNAR def. JAMES IRVIN via Submission(R1)
+- DUANE LUDWIG def. JONATHAN GOULET via KO/TKO(R1)
+- SPENCER FISHER def. AARON RILEY via TKO - Doctor's Stoppage(R1)
+- JOSH NEER def. MELVIN GUILLARD via Submission(R1)
+- TIM SYLVIA def. ASSUERIO SILVA via Decision - Unanimous(R3)

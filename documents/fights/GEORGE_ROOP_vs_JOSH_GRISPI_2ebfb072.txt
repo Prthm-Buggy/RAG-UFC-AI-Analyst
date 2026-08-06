@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Lesnar vs Team dos Santos Finale
+    Date: June 04, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: GEORGE ROOP defeated JOSH GRISPI via KO/TKO  
+  at 3:14 of round 3
+  Key stats:
+  - GEORGE ROOP landed 91 significant strikes
+  - JOSH GRISPI landed 11 significant strikes
+  - Knockdowns: GEORGE ROOP 1,  JOSH GRISPI 0
+  - Takedowns: GEORGE ROOP 0,  JOSH GRISPI 4

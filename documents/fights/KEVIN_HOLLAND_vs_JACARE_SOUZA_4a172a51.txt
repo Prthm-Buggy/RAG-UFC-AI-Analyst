@@ -1,0 +1,14 @@
+Event: UFC 256: Figueiredo vs. Moreno
+    Date: December 12, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: KEVIN HOLLAND defeated JACARE SOUZA via KO/TKO  
+  at 1:45 of round 1
+  Key stats:
+  - KEVIN HOLLAND landed 15 significant strikes
+  - JACARE SOUZA landed 2 significant strikes
+  - Knockdowns: KEVIN HOLLAND 0,  JACARE SOUZA 0
+  - Takedowns: KEVIN HOLLAND 0,  JACARE SOUZA 2
+  Bonus: perf

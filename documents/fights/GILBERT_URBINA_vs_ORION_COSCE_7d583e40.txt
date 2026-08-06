@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Hill
+    Date: May 20, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GILBERT URBINA defeated ORION COSCE via KO/TKO  
+  at 2:55 of round 2
+  Key stats:
+  - GILBERT URBINA landed 51 significant strikes
+  - ORION COSCE landed 16 significant strikes
+  - Knockdowns: GILBERT URBINA 1,  ORION COSCE 0
+  - Takedowns: GILBERT URBINA 2,  ORION COSCE 0

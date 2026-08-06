@@ -1,0 +1,14 @@
+Event: UFC 88: Breakthrough
+    Date: September 06, 2008
+    Location: Atlanta, Georgia, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RASHAD EVANS defeated CHUCK LIDDELL via KO/TKO  
+  at 1:51 of round 2
+  Key stats:
+  - RASHAD EVANS landed 13 significant strikes
+  - CHUCK LIDDELL landed 10 significant strikes
+  - Knockdowns: RASHAD EVANS 1,  CHUCK LIDDELL 0
+  - Takedowns: RASHAD EVANS 0,  CHUCK LIDDELL 0
+  Bonus: ko

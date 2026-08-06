@@ -1,0 +1,14 @@
+Event: UFC 234: Adesanya vs. Silva
+    Date: February 09, 2019
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Women's Flyweight
+    
+
+    Result: MONTANA DE LA ROSA defeated NADIA KASSEM via Submission  
+  at 2:37 of round 2
+  Key stats:
+  - MONTANA DE LA ROSA landed 21 significant strikes
+  - NADIA KASSEM landed 5 significant strikes
+  - Knockdowns: MONTANA DE LA ROSA 0,  NADIA KASSEM 0
+  - Takedowns: MONTANA DE LA ROSA 2,  NADIA KASSEM 0
+  Bonus: perf

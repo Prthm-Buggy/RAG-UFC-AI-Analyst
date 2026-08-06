@@ -1,0 +1,19 @@
+Event : UFC on FUEL TV: Korean Zombie vs Poirier
+    Date : May 15, 2012
+    Location: Fairfax, Virginia, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Welterweight, Middleweight, Featherweight, Light Heavyweight, Bantamweight
+
+    Fight Results:
+  - FRANCISCO RIVERA def. ALEX SOTO via Decision - Unanimous(R3)
+- BRAD TAVARES def. DONGI YANG via Decision - Unanimous(R3)
+- DONALD CERRONE def. JEREMY STEPHENS via Decision - Unanimous(R3)
+- YVES JABOUIN def. JEFF HOUGLAND via Decision - Unanimous(R3)
+- RAFAEL DOS ANJOS def. KAMAL SHALORUS via Submission(R1)
+- JOHNNY EDUARDO def. JEFF CURRAN via Decision - Unanimous(R3)
+- CODY MCKENZIE def. MARCUS LEVESSEUR via Submission(R1)
+- IGOR POKRAJAC def. FABIO MALDONADO via Decision - Unanimous(R3)
+- TOM LAWLOR def. JASON MACDONALD via KO/TKO(R1)
+- CHAN SUNG JUNG def. DUSTIN POIRIER via Submission(R4)
+- TJ GRANT def. CARLO PRATER via Decision - Unanimous(R3)
+- AMIR SADOLLAH def. JORGE LOPEZ via Decision - Split(R3)

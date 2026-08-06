@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lee vs. Iaquinta
+    Date: December 15, 2018
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Lightweight
+    
+
+    Result: EDSON BARBOZA defeated DAN HOOKER via KO/TKO  
+  at 2:19 of round 3
+  Key stats:
+  - EDSON BARBOZA landed 126 significant strikes
+  - DAN HOOKER landed 81 significant strikes
+  - Knockdowns: EDSON BARBOZA 1,  DAN HOOKER 0
+  - Takedowns: EDSON BARBOZA 0,  DAN HOOKER 0

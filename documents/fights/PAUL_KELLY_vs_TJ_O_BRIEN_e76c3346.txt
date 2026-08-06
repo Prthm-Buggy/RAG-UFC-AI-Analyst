@@ -1,0 +1,13 @@
+Event: UFC 123: Rampage vs Machida
+    Date: November 20, 2010
+    Location: Auburn Hills, Michigan, USA
+    Weight Class: Lightweight
+    
+
+    Result: PAUL KELLY defeated TJ O'BRIEN via KO/TKO  
+  at 3:16 of round 2
+  Key stats:
+  - PAUL KELLY landed 44 significant strikes
+  - TJ O'BRIEN landed 32 significant strikes
+  - Knockdowns: PAUL KELLY 1,  TJ O'BRIEN 0
+  - Takedowns: PAUL KELLY 1,  TJ O'BRIEN 1

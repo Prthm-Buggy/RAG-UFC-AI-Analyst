@@ -1,0 +1,14 @@
+Event: UFC 222: Cyborg vs. Kunitskaya
+    Date: March 03, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: BRIAN ORTEGA defeated FRANKIE EDGAR via KO/TKO  
+  at 4:44 of round 1
+  Key stats:
+  - BRIAN ORTEGA landed 25 significant strikes
+  - FRANKIE EDGAR landed 27 significant strikes
+  - Knockdowns: BRIAN ORTEGA 1,  FRANKIE EDGAR 0
+  - Takedowns: BRIAN ORTEGA 0,  FRANKIE EDGAR 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Lee
+    Date: May 18, 2019
+    Location: Rochester, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated NIK LENTZ via KO/TKO  
+  at 2:11 of round 2
+  Key stats:
+  - CHARLES OLIVEIRA landed 38 significant strikes
+  - NIK LENTZ landed 18 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 1,  NIK LENTZ 0
+  - Takedowns: CHARLES OLIVEIRA 0,  NIK LENTZ 2

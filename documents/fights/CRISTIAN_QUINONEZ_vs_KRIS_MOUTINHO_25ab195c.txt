@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Kavanagh
+    Date: February 28, 2026
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Bantamweight
+    
+
+    Result: CRISTIAN QUINONEZ defeated KRIS MOUTINHO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CRISTIAN QUINONEZ landed 38 significant strikes
+  - KRIS MOUTINHO landed 28 significant strikes
+  - Knockdowns: CRISTIAN QUINONEZ 0,  KRIS MOUTINHO 0
+  - Takedowns: CRISTIAN QUINONEZ 7,  KRIS MOUTINHO 0

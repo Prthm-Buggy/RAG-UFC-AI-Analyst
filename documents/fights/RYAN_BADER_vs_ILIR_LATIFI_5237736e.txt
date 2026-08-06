@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Arlovski vs. Barnett
+    Date: September 03, 2016
+    Location: Hamburg, Hamburg, Germany
+    Weight Class: Light Heavyweight
+    
+
+    Result: RYAN BADER defeated ILIR LATIFI via KO/TKO  
+  at 2:06 of round 2
+  Key stats:
+  - RYAN BADER landed 13 significant strikes
+  - ILIR LATIFI landed 9 significant strikes
+  - Knockdowns: RYAN BADER 1,  ILIR LATIFI 1
+  - Takedowns: RYAN BADER 0,  ILIR LATIFI 0
+  Bonus: perf

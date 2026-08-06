@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Minotauro vs Nelson
+    Date: April 11, 2014
+    Location: Abu Dhabi, United Arab Emirates
+    Weight Class: Heavyweight
+    
+
+    Result: ROY NELSON defeated ANTONIO RODRIGO NOGUEIRA via KO/TKO  
+  at 3:37 of round 1
+  Key stats:
+  - ROY NELSON landed 19 significant strikes
+  - ANTONIO RODRIGO NOGUEIRA landed 12 significant strikes
+  - Knockdowns: ROY NELSON 2,  ANTONIO RODRIGO NOGUEIRA 0
+  - Takedowns: ROY NELSON 0,  ANTONIO RODRIGO NOGUEIRA 0
+  Bonus: perf

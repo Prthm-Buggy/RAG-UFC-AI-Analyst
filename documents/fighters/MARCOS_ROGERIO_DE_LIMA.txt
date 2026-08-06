@@ -1,0 +1,11 @@
+Fighter: MARCOS ROGERIO DE LIMA
+  Date of Birth: 1985-06-25
+  Career record: 18
+  First fight: 2014-05-31
+  Last fight: 2024-02-17
+
+Career Statistics:
+- Significant Strikes Landed :375
+- Total takedowns landed :11
+- Knockdowns :7
+- Submission Attempts :4

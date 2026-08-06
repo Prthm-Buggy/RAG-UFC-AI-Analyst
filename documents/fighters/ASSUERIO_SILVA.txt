@@ -1,0 +1,11 @@
+Fighter: ASSUERIO SILVA
+  Date of Birth: 1974-06-18
+  Career record: 3
+  First fight: 2006-01-16
+  Last fight: 2007-04-21
+
+Career Statistics:
+- Significant Strikes Landed :58
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :0

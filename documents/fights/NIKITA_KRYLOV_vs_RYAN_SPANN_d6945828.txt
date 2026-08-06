@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yan vs. Dvalishvili
+    Date: March 11, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: NIKITA KRYLOV defeated RYAN SPANN via Submission  
+  at 3:38 of round 1
+  Key stats:
+  - NIKITA KRYLOV landed 7 significant strikes
+  - RYAN SPANN landed 5 significant strikes
+  - Knockdowns: NIKITA KRYLOV 0,  RYAN SPANN 0
+  - Takedowns: NIKITA KRYLOV 2,  RYAN SPANN 1

@@ -1,0 +1,11 @@
+Fighter: TROY MANDALONIZ
+  Date of Birth: 1980-02-01
+  Career record: 2
+  First fight: 2007-12-08
+  Last fight: 2009-02-21
+
+Career Statistics:
+- Significant Strikes Landed :68
+- Total takedowns landed :4
+- Knockdowns :2
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: CHRIS BEAL
+  Date of Birth: 1985-08-06
+  Career record: 5
+  First fight: 2014-04-26
+  Last fight: 2016-06-18
+
+Career Statistics:
+- Significant Strikes Landed :226
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :1

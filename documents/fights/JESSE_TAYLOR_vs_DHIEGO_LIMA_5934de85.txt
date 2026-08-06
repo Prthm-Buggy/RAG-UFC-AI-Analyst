@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Redemption Finale
+    Date: July 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JESSE TAYLOR defeated DHIEGO LIMA via Submission  
+  at 0:43 of round 2
+  Key stats:
+  - JESSE TAYLOR landed 21 significant strikes
+  - DHIEGO LIMA landed 4 significant strikes
+  - Knockdowns: JESSE TAYLOR 0,  DHIEGO LIMA 1
+  - Takedowns: JESSE TAYLOR 2,  DHIEGO LIMA 0
+  Bonus: belt

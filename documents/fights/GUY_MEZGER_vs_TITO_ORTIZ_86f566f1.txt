@@ -1,0 +1,14 @@
+Event: UFC 13: The Ultimate Force
+    Date: May 30, 1997
+    Location: Augusta, Georgia, USA
+    Weight Class: Lightweight
+    
+
+    Result: GUY MEZGER defeated TITO ORTIZ via Submission  
+  at 2:00 of round 1
+  Key stats:
+  - GUY MEZGER landed 0 significant strikes
+  - TITO ORTIZ landed 5 significant strikes
+  - Knockdowns: GUY MEZGER 0,  TITO ORTIZ 0
+  - Takedowns: GUY MEZGER 0,  TITO ORTIZ 1
+  Bonus: belt

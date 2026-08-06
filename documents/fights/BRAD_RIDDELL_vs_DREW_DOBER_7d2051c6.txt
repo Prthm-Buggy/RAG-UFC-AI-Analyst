@@ -1,0 +1,14 @@
+Event: UFC 263: Adesanya vs. Vettori 2
+    Date: June 12, 2021
+    Location: Glendale, Arizona, USA
+    Weight Class: Lightweight
+    
+
+    Result: BRAD RIDDELL defeated DREW DOBER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BRAD RIDDELL landed 89 significant strikes
+  - DREW DOBER landed 73 significant strikes
+  - Knockdowns: BRAD RIDDELL 0,  DREW DOBER 0
+  - Takedowns: BRAD RIDDELL 5,  DREW DOBER 1
+  Bonus: fight

@@ -1,0 +1,13 @@
+Event: UFC 57: Liddell vs Couture 3
+    Date: February 04, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RENATO SOBRAL defeated MIKE VAN ARSDALE via Submission  
+  at 2:21 of round 1
+  Key stats:
+  - RENATO SOBRAL landed 9 significant strikes
+  - MIKE VAN ARSDALE landed 1 significant strikes
+  - Knockdowns: RENATO SOBRAL 0,  MIKE VAN ARSDALE 0
+  - Takedowns: RENATO SOBRAL 0,  MIKE VAN ARSDALE 0

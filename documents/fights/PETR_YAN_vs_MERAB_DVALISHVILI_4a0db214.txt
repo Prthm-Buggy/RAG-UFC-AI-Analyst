@@ -1,0 +1,14 @@
+Event: UFC 323: Dvalishvili vs. Yan 2
+    Date: December 06, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: PETR YAN defeated MERAB DVALISHVILI via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - PETR YAN landed 139 significant strikes
+  - MERAB DVALISHVILI landed 134 significant strikes
+  - Knockdowns: PETR YAN 0,  MERAB DVALISHVILI 0
+  - Takedowns: PETR YAN 5,  MERAB DVALISHVILI 2
+  Bonus: belt

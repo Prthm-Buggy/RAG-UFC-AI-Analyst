@@ -1,0 +1,13 @@
+Event: UFC 89: Bisping vs Leben
+    Date: October 18, 2008
+    Location: Birmingham, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: MARCUS DAVIS defeated PAUL KELLY via Submission  
+  at 2:16 of round 2
+  Key stats:
+  - MARCUS DAVIS landed 25 significant strikes
+  - PAUL KELLY landed 3 significant strikes
+  - Knockdowns: MARCUS DAVIS 0,  PAUL KELLY 0
+  - Takedowns: MARCUS DAVIS 1,  PAUL KELLY 1

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cowboy vs. Edwards
+    Date: June 23, 2018
+    Location: Kallang, Singapore
+    Weight Class: Featherweight
+    
+
+    Result: SHANE YOUNG defeated ROLANDO DY via KO/TKO  
+  at 4:40 of round 2
+  Key stats:
+  - SHANE YOUNG landed 104 significant strikes
+  - ROLANDO DY landed 57 significant strikes
+  - Knockdowns: SHANE YOUNG 0,  ROLANDO DY 0
+  - Takedowns: SHANE YOUNG 1,  ROLANDO DY 0
+  Bonus: fight

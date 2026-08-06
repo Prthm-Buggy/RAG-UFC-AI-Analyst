@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Aldo
+    Date: December 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CLAUDIO PUELLES defeated CHRIS GRUETZEMACHER via Submission  
+  at 3:25 of round 3
+  Key stats:
+  - CLAUDIO PUELLES landed 43 significant strikes
+  - CHRIS GRUETZEMACHER landed 38 significant strikes
+  - Knockdowns: CLAUDIO PUELLES 0,  CHRIS GRUETZEMACHER 0
+  - Takedowns: CLAUDIO PUELLES 1,  CHRIS GRUETZEMACHER 1

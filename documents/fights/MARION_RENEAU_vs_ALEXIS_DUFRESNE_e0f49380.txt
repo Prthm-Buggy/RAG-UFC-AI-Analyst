@@ -1,0 +1,13 @@
+Event: UFC 182: Jones vs Cormier
+    Date: January 03, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MARION RENEAU defeated ALEXIS DUFRESNE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARION RENEAU landed 85 significant strikes
+  - ALEXIS DUFRESNE landed 28 significant strikes
+  - Knockdowns: MARION RENEAU 0,  ALEXIS DUFRESNE 0
+  - Takedowns: MARION RENEAU 0,  ALEXIS DUFRESNE 0

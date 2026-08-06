@@ -1,0 +1,13 @@
+Event: UFC 191: Johnson vs Dodson 2
+    Date: September 05, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ROSS PEARSON defeated PAUL FELDER via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ROSS PEARSON landed 62 significant strikes
+  - PAUL FELDER landed 60 significant strikes
+  - Knockdowns: ROSS PEARSON 0,  PAUL FELDER 0
+  - Takedowns: ROSS PEARSON 1,  PAUL FELDER 0

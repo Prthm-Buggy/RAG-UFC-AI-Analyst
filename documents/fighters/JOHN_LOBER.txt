@@ -1,0 +1,11 @@
+Fighter: JOHN LOBER
+  Date of Birth: 1968-02-26
+  Career record: 1
+  First fight: 1998-10-16
+  Last fight: 1998-10-16
+
+Career Statistics:
+- Significant Strikes Landed :4
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

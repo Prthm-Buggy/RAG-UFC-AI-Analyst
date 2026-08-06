@@ -1,0 +1,13 @@
+Event: UFC on FOX: Werdum vs Browne
+    Date: April 19, 2014
+    Location: Orlando, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: CAIO MAGALHAES defeated LUKE ZACHRICH via KO/TKO  
+  at 0:44 of round 1
+  Key stats:
+  - CAIO MAGALHAES landed 16 significant strikes
+  - LUKE ZACHRICH landed 3 significant strikes
+  - Knockdowns: CAIO MAGALHAES 1,  LUKE ZACHRICH 0
+  - Takedowns: CAIO MAGALHAES 0,  LUKE ZACHRICH 0

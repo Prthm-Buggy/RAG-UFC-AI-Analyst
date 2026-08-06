@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Figueiredo
+    Date: May 03, 2025
+    Location: Des Moines, Iowa, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MONTEL JACKSON defeated DANIEL MARCOS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MONTEL JACKSON landed 30 significant strikes
+  - DANIEL MARCOS landed 17 significant strikes
+  - Knockdowns: MONTEL JACKSON 0,  DANIEL MARCOS 0
+  - Takedowns: MONTEL JACKSON 2,  DANIEL MARCOS 3

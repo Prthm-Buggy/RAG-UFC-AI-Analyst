@@ -1,0 +1,14 @@
+Event: UFC 276: Adesanya vs. Cannonier
+    Date: July 02, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JALIN TURNER defeated BRAD RIDDELL via Submission  
+  at 0:45 of round 1
+  Key stats:
+  - JALIN TURNER landed 3 significant strikes
+  - BRAD RIDDELL landed 2 significant strikes
+  - Knockdowns: JALIN TURNER 0,  BRAD RIDDELL 0
+  - Takedowns: JALIN TURNER 0,  BRAD RIDDELL 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: ALESSANDRO COSTA
+  Date of Birth: 1996-01-28
+  Career record: 7
+  First fight: 2022-12-17
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :256
+- Total takedowns landed :4
+- Knockdowns :4
+- Submission Attempts :2

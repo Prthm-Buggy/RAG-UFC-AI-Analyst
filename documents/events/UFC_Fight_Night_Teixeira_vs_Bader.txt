@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Teixeira vs Bader
+    Date : September 04, 2013
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Light Heavyweight, Welterweight, Flyweight, Featherweight, Lightweight, Middleweight
+
+    Fight Results:
+  - JACARE SOUZA def. YUSHIN OKAMI via KO/TKO(R1)
+- IVAN JORGE def. KEITH WISNIEWSKI via Decision - Unanimous(R3)
+- ALI BAGAUTINOV def. MARCOS VINICIUS via KO/TKO(R3)
+- JOSEPH BENAVIDEZ def. JUSSIER FORMIGA via KO/TKO(R1)
+- SEAN SPENCER def. YURI VILLEFORT via Decision - Split(R3)
+- LUCAS MARTINS def. RAMIRO HERNANDEZ via Submission(R1)
+- GLOVER TEIXEIRA def. RYAN BADER via KO/TKO(R1)
+- RAFAEL NATAL def. TOR TROENG via Decision - Unanimous(R3)
+- ELIAS SILVERIO def. JOAO ZEFERINO via Decision - Unanimous(R3)
+- EDIMILSON SOUZA def. FELIPE ARANTES via Decision - Split(R3)
+- PIOTR HALLMANN def. FRANCISCO TRINALDO via Submission(R2)

@@ -1,0 +1,13 @@
+Event: UFC 65: Bad Intentions
+    Date: November 18, 2006
+    Location: Sacramento, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: NICK DIAZ defeated GLEISON TIBAU via KO/TKO  
+  at 2:27 of round 2
+  Key stats:
+  - NICK DIAZ landed 24 significant strikes
+  - GLEISON TIBAU landed 0 significant strikes
+  - Knockdowns: NICK DIAZ 0,  GLEISON TIBAU 0
+  - Takedowns: NICK DIAZ 0,  GLEISON TIBAU 0

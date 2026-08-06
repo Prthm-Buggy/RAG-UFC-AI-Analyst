@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bader vs. Nogueira
+    Date: November 19, 2016
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: LUIS HENRIQUE defeated CHRISTIAN COLOMBO via Submission  
+  at 2:12 of round 3
+  Key stats:
+  - LUIS HENRIQUE landed 31 significant strikes
+  - CHRISTIAN COLOMBO landed 3 significant strikes
+  - Knockdowns: LUIS HENRIQUE 0,  CHRISTIAN COLOMBO 0
+  - Takedowns: LUIS HENRIQUE 6,  CHRISTIAN COLOMBO 0

@@ -1,0 +1,13 @@
+Event: UFC 202: Diaz vs. McGregor 2
+    Date: August 20, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PERRY defeated HYUN GYU LIM via KO/TKO  
+  at 3:38 of round 1
+  Key stats:
+  - MIKE PERRY landed 31 significant strikes
+  - HYUN GYU LIM landed 8 significant strikes
+  - Knockdowns: MIKE PERRY 3,  HYUN GYU LIM 0
+  - Takedowns: MIKE PERRY 0,  HYUN GYU LIM 0

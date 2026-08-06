@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nicolau vs. Perez
+    Date: April 27, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: IVANA PETROVIC defeated LIANG NA via Submission  
+  at 1:29 of round 3
+  Key stats:
+  - IVANA PETROVIC landed 36 significant strikes
+  - LIANG NA landed 24 significant strikes
+  - Knockdowns: IVANA PETROVIC 0,  LIANG NA 0
+  - Takedowns: IVANA PETROVIC 3,  LIANG NA 1

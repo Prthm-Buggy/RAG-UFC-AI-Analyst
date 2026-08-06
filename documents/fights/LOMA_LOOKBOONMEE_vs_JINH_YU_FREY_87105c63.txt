@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Aldana
+    Date: October 03, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Strawweight
+    
+
+    Result: LOMA LOOKBOONMEE defeated JINH YU FREY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LOMA LOOKBOONMEE landed 80 significant strikes
+  - JINH YU FREY landed 26 significant strikes
+  - Knockdowns: LOMA LOOKBOONMEE 0,  JINH YU FREY 0
+  - Takedowns: LOMA LOOKBOONMEE 0,  JINH YU FREY 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night 2
+    Date: October 03, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAVID LOISEAU defeated EVAN TANNER via TKO - Doctor's Stoppage  
+  at 4:15 of round 2
+  Key stats:
+  - DAVID LOISEAU landed 13 significant strikes
+  - EVAN TANNER landed 15 significant strikes
+  - Knockdowns: DAVID LOISEAU 0,  EVAN TANNER 0
+  - Takedowns: DAVID LOISEAU 0,  EVAN TANNER 3

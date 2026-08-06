@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Florian vs Lauzon
+    Date: April 02, 2008
+    Location: Broomfield, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: NATE DIAZ defeated KURT PELLEGRINO via Submission  
+  at 3:06 of round 2
+  Key stats:
+  - NATE DIAZ landed 6 significant strikes
+  - KURT PELLEGRINO landed 20 significant strikes
+  - Knockdowns: NATE DIAZ 0,  KURT PELLEGRINO 0
+  - Takedowns: NATE DIAZ 1,  KURT PELLEGRINO 3
+  Bonus: sub

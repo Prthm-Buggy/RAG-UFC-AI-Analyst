@@ -1,0 +1,13 @@
+Event: UFC 55: Fury
+    Date: October 07, 2005
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BRANDEN LEE HINKLE defeated SEAN GANNON via KO/TKO  
+  at 4:14 of round 1
+  Key stats:
+  - BRANDEN LEE HINKLE landed 27 significant strikes
+  - SEAN GANNON landed 0 significant strikes
+  - Knockdowns: BRANDEN LEE HINKLE 0,  SEAN GANNON 0
+  - Takedowns: BRANDEN LEE HINKLE 1,  SEAN GANNON 0

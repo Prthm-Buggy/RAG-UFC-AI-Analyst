@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shogun vs Henderson 2
+    Date: March 23, 2014
+    Location: Natal, Rio Grande do Norte, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: THIAGO SANTOS defeated RONNY MARKES via KO/TKO  
+  at 0:53 of round 1
+  Key stats:
+  - THIAGO SANTOS landed 7 significant strikes
+  - RONNY MARKES landed 0 significant strikes
+  - Knockdowns: THIAGO SANTOS 1,  RONNY MARKES 0
+  - Takedowns: THIAGO SANTOS 0,  RONNY MARKES 0

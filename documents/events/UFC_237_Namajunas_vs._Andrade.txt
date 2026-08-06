@@ -1,0 +1,19 @@
+Event : UFC 237: Namajunas vs. Andrade
+    Date : May 11, 2019
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Number of Fights: 12
+    Weight Classes: Women's Bantamweight, Welterweight, Lightweight, Light Heavyweight, Featherweight, Women's Strawweight, Middleweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - JARED CANNONIER def. ANDERSON SILVA via KO/TKO(R1)
+- RYAN SPANN def. ROGERIO NOGUEIRA via KO/TKO(R1)
+- ALEXANDER VOLKANOVSKI def. JOSE ALDO via Decision - Unanimous(R3)
+- IRENE ALDANA def. BETHE CORREIA via Submission(R3)
+- VIVIANE ARAUJO def. TALITA BERNARDO via KO/TKO(R3)
+- THIAGO MOISES def. KURT HOLOBAUGH via Decision - Unanimous(R3)
+- JESSICA ANDRADE def. ROSE NAMAJUNAS via KO/TKO(R2)
+- WARLLEY ALVES def. SERGIO MORAES via KO/TKO(R3)
+- LUANA CAROLINA def. PRISCILA CACHOEIRA via Decision - Unanimous(R3)
+- CLAY GUIDA def. BJ PENN via Decision - Unanimous(R3)
+- LAUREANO STAROPOLI def. THIAGO ALVES via Decision - Unanimous(R3)
+- RAONI BARCELOS def. CARLOS HUACHIN via KO/TKO(R2)

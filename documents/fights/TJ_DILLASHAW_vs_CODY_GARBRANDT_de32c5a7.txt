@@ -1,0 +1,14 @@
+Event: UFC 227: Dillashaw vs. Garbrandt 2
+    Date: August 04, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TJ DILLASHAW defeated CODY GARBRANDT via KO/TKO  
+  at 4:10 of round 1
+  Key stats:
+  - TJ DILLASHAW landed 45 significant strikes
+  - CODY GARBRANDT landed 17 significant strikes
+  - Knockdowns: TJ DILLASHAW 2,  CODY GARBRANDT 0
+  - Takedowns: TJ DILLASHAW 0,  CODY GARBRANDT 0
+  Bonus: belt

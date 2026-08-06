@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holm vs. Aldana
+    Date: October 03, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Bantamweight
+    
+
+    Result: KYLER PHILLIPS defeated CAMERON ELSE via KO/TKO  
+  at 0:44 of round 2
+  Key stats:
+  - KYLER PHILLIPS landed 32 significant strikes
+  - CAMERON ELSE landed 11 significant strikes
+  - Knockdowns: KYLER PHILLIPS 0,  CAMERON ELSE 0
+  - Takedowns: KYLER PHILLIPS 2,  CAMERON ELSE 0
+  Bonus: perf

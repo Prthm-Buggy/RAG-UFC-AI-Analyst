@@ -1,0 +1,11 @@
+Fighter: DOKONJONOSUKE MISHIMA
+  Date of Birth: 1972-04-19
+  Career record: 2
+  First fight: 2006-11-18
+  Last fight: 2007-04-05
+
+Career Statistics:
+- Significant Strikes Landed :7
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :2

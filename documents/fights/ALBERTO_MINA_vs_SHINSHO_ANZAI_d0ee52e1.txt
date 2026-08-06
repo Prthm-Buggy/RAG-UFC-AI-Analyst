@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bisping vs Le
+    Date: August 23, 2014
+    Location: Macau, China
+    Weight Class: Welterweight
+    
+
+    Result: ALBERTO MINA defeated SHINSHO ANZAI via KO/TKO  
+  at 4:17 of round 1
+  Key stats:
+  - ALBERTO MINA landed 34 significant strikes
+  - SHINSHO ANZAI landed 31 significant strikes
+  - Knockdowns: ALBERTO MINA 1,  SHINSHO ANZAI 0
+  - Takedowns: ALBERTO MINA 0,  SHINSHO ANZAI 1
+  Bonus: perf

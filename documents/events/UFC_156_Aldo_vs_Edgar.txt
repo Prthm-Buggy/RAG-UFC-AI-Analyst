@@ -1,0 +1,18 @@
+Event : UFC 156: Aldo vs Edgar
+    Date : February 02, 2013
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Bantamweight, Featherweight, Flyweight, Light Heavyweight, Welterweight, Lightweight
+
+    Fight Results:
+  - DEMIAN MAIA def. JON FITCH via Decision - Unanimous(R3)
+- JOSE ALDO def. FRANKIE EDGAR via Decision - Unanimous(R5)
+- KING GREEN def. JACOB VOLKMANN via Submission(R3)
+- JOSEPH BENAVIDEZ def. IAN MCCALL via Decision - Unanimous(R3)
+- FRANCISCO RIVERA def. EDWIN FIGUEROA via KO/TKO(R2)
+- DUSTIN KIMURA def. CHICO CAMUS via Submission(R3)
+- ROGERIO NOGUEIRA def. RASHAD EVANS via Decision - Unanimous(R3)
+- EVAN DUNHAM def. GLEISON TIBAU via Decision - Split(R3)
+- ANTONIO SILVA def. ALISTAIR OVEREEM via KO/TKO(R3)
+- ISAAC VALLIE-FLAGG def. YVES EDWARDS via Decision - Split(R3)
+- TYRON WOODLEY def. JAY HIERON via KO/TKO(R1)

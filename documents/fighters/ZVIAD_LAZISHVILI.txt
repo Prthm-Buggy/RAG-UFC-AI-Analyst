@@ -1,0 +1,11 @@
+Fighter: ZVIAD LAZISHVILI
+  Date of Birth: 1991-10-25
+  Career record: 1
+  First fight: 2021-10-23
+  Last fight: 2021-10-23
+
+Career Statistics:
+- Significant Strikes Landed :63
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

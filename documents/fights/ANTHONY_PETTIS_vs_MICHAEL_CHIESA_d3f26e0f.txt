@@ -1,0 +1,14 @@
+Event: UFC 226: Miocic vs. Cormier
+    Date: July 07, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ANTHONY PETTIS defeated MICHAEL CHIESA via Submission  
+  at 0:52 of round 2
+  Key stats:
+  - ANTHONY PETTIS landed 9 significant strikes
+  - MICHAEL CHIESA landed 12 significant strikes
+  - Knockdowns: ANTHONY PETTIS 0,  MICHAEL CHIESA 0
+  - Takedowns: ANTHONY PETTIS 0,  MICHAEL CHIESA 2
+  Bonus: perf

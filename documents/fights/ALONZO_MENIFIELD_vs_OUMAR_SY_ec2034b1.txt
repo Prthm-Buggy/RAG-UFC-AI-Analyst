@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Usman vs. Buckley
+    Date: June 14, 2025
+    Location: Atlanta, Georgia, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALONZO MENIFIELD defeated OUMAR SY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALONZO MENIFIELD landed 29 significant strikes
+  - OUMAR SY landed 34 significant strikes
+  - Knockdowns: ALONZO MENIFIELD 0,  OUMAR SY 0
+  - Takedowns: ALONZO MENIFIELD 0,  OUMAR SY 1

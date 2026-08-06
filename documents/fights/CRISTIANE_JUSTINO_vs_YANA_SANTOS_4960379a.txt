@@ -1,0 +1,14 @@
+Event: UFC 222: Cyborg vs. Kunitskaya
+    Date: March 03, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: CRISTIANE JUSTINO defeated YANA SANTOS via KO/TKO  
+  at 3:25 of round 1
+  Key stats:
+  - CRISTIANE JUSTINO landed 33 significant strikes
+  - YANA SANTOS landed 5 significant strikes
+  - Knockdowns: CRISTIANE JUSTINO 0,  YANA SANTOS 0
+  - Takedowns: CRISTIANE JUSTINO 1,  YANA SANTOS 1
+  Bonus: belt

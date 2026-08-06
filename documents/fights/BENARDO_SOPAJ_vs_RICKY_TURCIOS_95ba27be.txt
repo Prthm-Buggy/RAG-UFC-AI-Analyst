@@ -1,0 +1,13 @@
+Event: UFC 311: Makhachev vs. Moicano
+    Date: January 18, 2025
+    Location: Inglewood, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: BENARDO SOPAJ defeated RICKY TURCIOS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BENARDO SOPAJ landed 81 significant strikes
+  - RICKY TURCIOS landed 78 significant strikes
+  - Knockdowns: BENARDO SOPAJ 1,  RICKY TURCIOS 0
+  - Takedowns: BENARDO SOPAJ 2,  RICKY TURCIOS 1

@@ -1,0 +1,14 @@
+Event: UFC 73: Stacked
+    Date: July 07, 2007
+    Location: Sacramento, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHRIS LYTLE defeated JASON GILLIAM via Submission  
+  at 2:15 of round 1
+  Key stats:
+  - CHRIS LYTLE landed 5 significant strikes
+  - JASON GILLIAM landed 3 significant strikes
+  - Knockdowns: CHRIS LYTLE 0,  JASON GILLIAM 0
+  - Takedowns: CHRIS LYTLE 1,  JASON GILLIAM 0
+  Bonus: sub

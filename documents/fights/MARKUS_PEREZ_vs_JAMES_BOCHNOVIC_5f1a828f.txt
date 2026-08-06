@@ -1,0 +1,13 @@
+Event: UFC 224: Nunes vs. Pennington
+    Date: May 12, 2018
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: MARKUS PEREZ defeated JAMES BOCHNOVIC via Submission  
+  at 4:28 of round 1
+  Key stats:
+  - MARKUS PEREZ landed 4 significant strikes
+  - JAMES BOCHNOVIC landed 3 significant strikes
+  - Knockdowns: MARKUS PEREZ 0,  JAMES BOCHNOVIC 0
+  - Takedowns: MARKUS PEREZ 1,  JAMES BOCHNOVIC 0

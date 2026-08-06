@@ -1,0 +1,11 @@
+Fighter: DANIEL CORMIER
+  Date of Birth: 1979-03-20
+  Career record: 14
+  First fight: 2013-04-20
+  Last fight: 2020-08-15
+
+Career Statistics:
+- Significant Strikes Landed :853
+- Total takedowns landed :23
+- Knockdowns :2
+- Submission Attempts :8

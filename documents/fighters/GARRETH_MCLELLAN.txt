@@ -1,0 +1,11 @@
+Fighter: GARRETH MCLELLAN
+  Date of Birth: 1982-09-01
+  Career record: 5
+  First fight: 2015-04-11
+  Last fight: 2017-03-11
+
+Career Statistics:
+- Significant Strikes Landed :185
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :3

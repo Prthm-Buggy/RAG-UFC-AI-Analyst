@@ -1,0 +1,13 @@
+Event: UFC 205: Alvarez vs McGregor
+    Date: November 12, 2016
+    Location: New York City, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: KHABIB NURMAGOMEDOV defeated MICHAEL JOHNSON via Submission  
+  at 2:31 of round 3
+  Key stats:
+  - KHABIB NURMAGOMEDOV landed 94 significant strikes
+  - MICHAEL JOHNSON landed 19 significant strikes
+  - Knockdowns: KHABIB NURMAGOMEDOV 0,  MICHAEL JOHNSON 0
+  - Takedowns: KHABIB NURMAGOMEDOV 2,  MICHAEL JOHNSON 0

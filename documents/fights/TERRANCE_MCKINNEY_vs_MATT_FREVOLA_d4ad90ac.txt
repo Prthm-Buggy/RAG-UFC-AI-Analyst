@@ -1,0 +1,13 @@
+Event: UFC 263: Adesanya vs. Vettori 2
+    Date: June 12, 2021
+    Location: Glendale, Arizona, USA
+    Weight Class: Lightweight
+    
+
+    Result: TERRANCE MCKINNEY defeated MATT FREVOLA via KO/TKO  
+  at 0:07 of round 1
+  Key stats:
+  - TERRANCE MCKINNEY landed 4 significant strikes
+  - MATT FREVOLA landed 0 significant strikes
+  - Knockdowns: TERRANCE MCKINNEY 1,  MATT FREVOLA 0
+  - Takedowns: TERRANCE MCKINNEY 0,  MATT FREVOLA 0

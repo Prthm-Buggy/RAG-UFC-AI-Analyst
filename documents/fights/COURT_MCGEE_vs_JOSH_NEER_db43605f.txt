@@ -1,0 +1,13 @@
+Event: UFC 157: Rousey vs Carmouche
+    Date: February 23, 2013
+    Location: Anaheim, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: COURT MCGEE defeated JOSH NEER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - COURT MCGEE landed 166 significant strikes
+  - JOSH NEER landed 63 significant strikes
+  - Knockdowns: COURT MCGEE 0,  JOSH NEER 0
+  - Takedowns: COURT MCGEE 2,  JOSH NEER 0

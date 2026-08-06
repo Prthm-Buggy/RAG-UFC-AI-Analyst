@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Magny vs. Prates
+    Date: November 09, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHARLES RADTKE defeated MATTHEW SEMELSBERGER via KO/TKO  
+  at 0:51 of round 1
+  Key stats:
+  - CHARLES RADTKE landed 7 significant strikes
+  - MATTHEW SEMELSBERGER landed 2 significant strikes
+  - Knockdowns: CHARLES RADTKE 0,  MATTHEW SEMELSBERGER 0
+  - Takedowns: CHARLES RADTKE 0,  MATTHEW SEMELSBERGER 0
+  Bonus: perf

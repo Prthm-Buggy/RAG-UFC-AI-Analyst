@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Ribas 2
+    Date: January 11, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: FATIMA KLINE defeated VIKTORIIA DUDAKOVA via KO/TKO  
+  at 4:27 of round 2
+  Key stats:
+  - FATIMA KLINE landed 15 significant strikes
+  - VIKTORIIA DUDAKOVA landed 1 significant strikes
+  - Knockdowns: FATIMA KLINE 0,  VIKTORIIA DUDAKOVA 0
+  - Takedowns: FATIMA KLINE 2,  VIKTORIIA DUDAKOVA 2

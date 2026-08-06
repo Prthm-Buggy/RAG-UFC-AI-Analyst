@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Whittaker vs. Till
+    Date: July 25, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Strawweight
+    
+
+    Result: CARLA ESPARZA defeated MARINA RODRIGUEZ via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CARLA ESPARZA landed 33 significant strikes
+  - MARINA RODRIGUEZ landed 40 significant strikes
+  - Knockdowns: CARLA ESPARZA 0,  MARINA RODRIGUEZ 0
+  - Takedowns: CARLA ESPARZA 5,  MARINA RODRIGUEZ 0

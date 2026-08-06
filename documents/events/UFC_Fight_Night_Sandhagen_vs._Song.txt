@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Sandhagen vs. Song
+    Date : September 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Featherweight, Middleweight, Welterweight, Lightweight, Women's Strawweight, Bantamweight, Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - JOE PYFER def. ALEN AMEDOVSKI via KO/TKO(R1)
+- GILLIAN ROBERTSON def. MARIYA AGAPOVA via Submission(R2)
+- TREVIN GILES def. LOUIS COSCE via Decision - Unanimous(R3)
+- ANDRE FILI def. BILL ALGEO via Decision - Split(R3)
+- LOMA LOOKBOONMEE def. DENISE GOMES via Decision - Unanimous(R3)
+- TREY OGDEN def. DANIEL ZELLHUBER via Decision - Unanimous(R3)
+- ANTHONY HERNANDEZ def. MARC-ANDRE BARRIAULT via Submission(R3)
+- JAVID BASHARAT def. TONY GRAVELY via Decision - Unanimous(R3)
+- DAMON JACKSON def. PAT SABATINI via KO/TKO(R1)
+- GREGORY RODRIGUES def. CHIDI NJOKUANI via KO/TKO(R2)
+- CORY SANDHAGEN def. SONG YADONG via TKO - Doctor's Stoppage(R4)
+- RODRIGO NASCIMENTO def. TANNER BOSER via Decision - Split(R3)
+- NIKOLAS MOTTA def. CAMERON VANCAMP via KO/TKO(R1)

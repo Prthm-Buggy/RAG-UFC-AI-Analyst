@@ -1,0 +1,11 @@
+Fighter: CALVIN KATTAR
+  Date of Birth: 1988-03-26
+  Career record: 15
+  First fight: 2017-07-29
+  Last fight: 2025-07-12
+
+Career Statistics:
+- Significant Strikes Landed :977
+- Total takedowns landed :5
+- Knockdowns :5
+- Submission Attempts :1

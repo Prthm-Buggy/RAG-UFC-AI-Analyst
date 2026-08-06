@@ -1,0 +1,11 @@
+Fighter: EFRAIN ESCUDERO
+  Date of Birth: 1986-01-15
+  Career record: 12
+  First fight: 2008-12-13
+  Last fight: 2016-04-23
+
+Career Statistics:
+- Significant Strikes Landed :435
+- Total takedowns landed :13
+- Knockdowns :5
+- Submission Attempts :8

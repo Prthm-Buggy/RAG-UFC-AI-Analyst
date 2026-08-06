@@ -1,0 +1,11 @@
+Fighter: DAVI RAMOS
+  Date of Birth: 1986-11-05
+  Career record: 7
+  First fight: 2017-03-11
+  Last fight: 2020-07-18
+
+Career Statistics:
+- Significant Strikes Landed :203
+- Total takedowns landed :10
+- Knockdowns :0
+- Submission Attempts :3

@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Nogueira vs. Team Mir Finale
+    Date: December 13, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ELIOT MARSHALL defeated JULES BRUCHEZ via Submission  
+  at 1:27 of round 1
+  Key stats:
+  - ELIOT MARSHALL landed 8 significant strikes
+  - JULES BRUCHEZ landed 1 significant strikes
+  - Knockdowns: ELIOT MARSHALL 0,  JULES BRUCHEZ 0
+  - Takedowns: ELIOT MARSHALL 1,  JULES BRUCHEZ 0

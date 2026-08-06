@@ -1,0 +1,11 @@
+Fighter: LUIZ CANE
+  Date of Birth: 1981-04-24
+  Career record: 9
+  First fight: 2007-12-29
+  Last fight: 2012-10-13
+
+Career Statistics:
+- Significant Strikes Landed :258
+- Total takedowns landed :2
+- Knockdowns :6
+- Submission Attempts :1

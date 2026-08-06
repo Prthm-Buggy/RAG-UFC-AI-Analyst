@@ -1,0 +1,13 @@
+Event: UFC 103: Franklin vs Belfort
+    Date: September 19, 2009
+    Location: Dallas, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: PAUL DALEY defeated MARTIN KAMPMANN via KO/TKO  
+  at 2:31 of round 1
+  Key stats:
+  - PAUL DALEY landed 27 significant strikes
+  - MARTIN KAMPMANN landed 12 significant strikes
+  - Knockdowns: PAUL DALEY 0,  MARTIN KAMPMANN 0
+  - Takedowns: PAUL DALEY 0,  MARTIN KAMPMANN 0

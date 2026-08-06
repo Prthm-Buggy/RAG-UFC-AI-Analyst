@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Font
+    Date: August 05, 2023
+    Location: Nashville, Tennessee, USA
+    Weight Class: Flyweight
+    
+
+    Result: ASU ALMABAYEV defeated ODE OSBOURNE via Submission  
+  at 3:11 of round 2
+  Key stats:
+  - ASU ALMABAYEV landed 26 significant strikes
+  - ODE OSBOURNE landed 4 significant strikes
+  - Knockdowns: ASU ALMABAYEV 0,  ODE OSBOURNE 0
+  - Takedowns: ASU ALMABAYEV 2,  ODE OSBOURNE 0
+  Bonus: perf

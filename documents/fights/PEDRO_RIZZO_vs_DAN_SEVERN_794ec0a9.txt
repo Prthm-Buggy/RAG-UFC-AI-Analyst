@@ -1,0 +1,13 @@
+Event: UFC 27: Ultimate Bad Boyz
+    Date: September 22, 2000
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PEDRO RIZZO defeated DAN SEVERN via KO/TKO  
+  at 1:33 of round 1
+  Key stats:
+  - PEDRO RIZZO landed 2 significant strikes
+  - DAN SEVERN landed 0 significant strikes
+  - Knockdowns: PEDRO RIZZO 1,  DAN SEVERN 0
+  - Takedowns: PEDRO RIZZO 0,  DAN SEVERN 0

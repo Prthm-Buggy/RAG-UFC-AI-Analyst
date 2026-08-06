@@ -1,0 +1,11 @@
+Fighter: Tuco Tokkos
+  Date of Birth: 1990-06-30
+  Career record: 4
+  First fight: 2024-05-18
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :100
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :1

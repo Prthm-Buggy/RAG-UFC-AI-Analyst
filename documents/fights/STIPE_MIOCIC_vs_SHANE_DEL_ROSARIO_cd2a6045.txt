@@ -1,0 +1,13 @@
+Event: UFC 146: Dos Santos vs Mir
+    Date: May 26, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STIPE MIOCIC defeated SHANE DEL ROSARIO via KO/TKO  
+  at 3:14 of round 2
+  Key stats:
+  - STIPE MIOCIC landed 32 significant strikes
+  - SHANE DEL ROSARIO landed 32 significant strikes
+  - Knockdowns: STIPE MIOCIC 0,  SHANE DEL ROSARIO 0
+  - Takedowns: STIPE MIOCIC 2,  SHANE DEL ROSARIO 0

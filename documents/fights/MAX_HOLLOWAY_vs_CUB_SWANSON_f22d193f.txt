@@ -1,0 +1,14 @@
+Event: UFC on FOX: Machida vs Rockhold
+    Date: April 18, 2015
+    Location: Newark, New Jersey, USA
+    Weight Class: Featherweight
+    
+
+    Result: MAX HOLLOWAY defeated CUB SWANSON via Submission  
+  at 3:58 of round 3
+  Key stats:
+  - MAX HOLLOWAY landed 82 significant strikes
+  - CUB SWANSON landed 56 significant strikes
+  - Knockdowns: MAX HOLLOWAY 0,  CUB SWANSON 0
+  - Takedowns: MAX HOLLOWAY 0,  CUB SWANSON 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Walker vs. Hill
+    Date: February 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: KYLE DAUKAUS defeated JAMIE PICKETT via Submission  
+  at 4:59 of round 1
+  Key stats:
+  - KYLE DAUKAUS landed 6 significant strikes
+  - JAMIE PICKETT landed 5 significant strikes
+  - Knockdowns: KYLE DAUKAUS 0,  JAMIE PICKETT 0
+  - Takedowns: KYLE DAUKAUS 3,  JAMIE PICKETT 0
+  Bonus: perf

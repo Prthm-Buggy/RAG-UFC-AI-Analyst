@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Evans vs Salmon
+    Date: January 25, 2007
+    Location: Hollywood, Florida, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RASHAD EVANS defeated SEAN SALMON via KO/TKO  
+  at 1:06 of round 2
+  Key stats:
+  - RASHAD EVANS landed 13 significant strikes
+  - SEAN SALMON landed 10 significant strikes
+  - Knockdowns: RASHAD EVANS 1,  SEAN SALMON 0
+  - Takedowns: RASHAD EVANS 0,  SEAN SALMON 2
+  Bonus: ko

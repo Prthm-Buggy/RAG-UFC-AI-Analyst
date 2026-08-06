@@ -1,0 +1,13 @@
+Event: UFC 293: Adesanya vs. Strickland
+    Date: September 09, 2023
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Featherweight
+    
+
+    Result: GABRIEL MIRANDA defeated SHANE YOUNG via Submission  
+  at 0:59 of round 1
+  Key stats:
+  - GABRIEL MIRANDA landed 2 significant strikes
+  - SHANE YOUNG landed 1 significant strikes
+  - Knockdowns: GABRIEL MIRANDA 0,  SHANE YOUNG 0
+  - Takedowns: GABRIEL MIRANDA 1,  SHANE YOUNG 0

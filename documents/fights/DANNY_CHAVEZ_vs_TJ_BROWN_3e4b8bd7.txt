@@ -1,0 +1,13 @@
+Event: UFC 252: Miocic vs. Cormier 3
+    Date: August 15, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DANNY CHAVEZ defeated TJ BROWN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DANNY CHAVEZ landed 49 significant strikes
+  - TJ BROWN landed 43 significant strikes
+  - Knockdowns: DANNY CHAVEZ 0,  TJ BROWN 0
+  - Takedowns: DANNY CHAVEZ 4,  TJ BROWN 0

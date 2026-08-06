@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ngannou vs. Dos Santos
+    Date: June 29, 2019
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Lightweight
+    
+
+    Result: DREW DOBER defeated MARCO POLO REYES via KO/TKO  
+  at 1:07 of round 1
+  Key stats:
+  - DREW DOBER landed 16 significant strikes
+  - MARCO POLO REYES landed 5 significant strikes
+  - Knockdowns: DREW DOBER 1,  MARCO POLO REYES 0
+  - Takedowns: DREW DOBER 0,  MARCO POLO REYES 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Spann
+    Date: September 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOAQUIN BUCKLEY defeated ANTONIO ARROYO via KO/TKO  
+  at 2:26 of round 3
+  Key stats:
+  - JOAQUIN BUCKLEY landed 41 significant strikes
+  - ANTONIO ARROYO landed 21 significant strikes
+  - Knockdowns: JOAQUIN BUCKLEY 1,  ANTONIO ARROYO 0
+  - Takedowns: JOAQUIN BUCKLEY 1,  ANTONIO ARROYO 0
+  Bonus: perf

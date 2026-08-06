@@ -1,0 +1,11 @@
+Fighter: CARLSTON HARRIS
+  Date of Birth: 1987-07-09
+  Career record: 8
+  First fight: 2021-05-08
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :221
+- Total takedowns landed :5
+- Knockdowns :2
+- Submission Attempts :2

@@ -1,0 +1,11 @@
+Fighter: CHAS SKELLY
+  Date of Birth: 1985-05-11
+  Career record: 11
+  First fight: 2014-04-19
+  Last fight: 2022-02-19
+
+Career Statistics:
+- Significant Strikes Landed :196
+- Total takedowns landed :12
+- Knockdowns :2
+- Submission Attempts :17

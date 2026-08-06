@@ -1,0 +1,11 @@
+Fighter: NICK OSIPCZAK
+  Date of Birth: 1984-12-30
+  Career record: 5
+  First fight: 2009-06-20
+  Last fight: 2010-11-13
+
+Career Statistics:
+- Significant Strikes Landed :177
+- Total takedowns landed :5
+- Knockdowns :2
+- Submission Attempts :4

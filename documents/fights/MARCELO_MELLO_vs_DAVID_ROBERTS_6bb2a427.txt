@@ -1,0 +1,13 @@
+Event: UFC 20: Battle for the Gold
+    Date: May 07, 1999
+    Location: Birmingham, Alabama, USA
+    Weight Class: Lightweight
+    
+
+    Result: MARCELO MELLO defeated DAVID ROBERTS via KO/TKO  
+  at 1:23 of round 1
+  Key stats:
+  - MARCELO MELLO landed 7 significant strikes
+  - DAVID ROBERTS landed 0 significant strikes
+  - Knockdowns: MARCELO MELLO 0,  DAVID ROBERTS 0
+  - Takedowns: MARCELO MELLO 1,  DAVID ROBERTS 0

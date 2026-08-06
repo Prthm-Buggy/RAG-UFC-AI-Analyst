@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Vallejos
+    Date: March 14, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: BIA MESQUITA defeated MONTSE RENDON via Submission  
+  at 2:07 of round 1
+  Key stats:
+  - BIA MESQUITA landed 18 significant strikes
+  - MONTSE RENDON landed 0 significant strikes
+  - Knockdowns: BIA MESQUITA 0,  MONTSE RENDON 0
+  - Takedowns: BIA MESQUITA 1,  MONTSE RENDON 0

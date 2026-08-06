@@ -1,0 +1,13 @@
+Event: UFC 273: Volkanovski vs. The Korean Zombie
+    Date: April 09, 2022
+    Location: Jacksonville, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE MALOTT defeated MICKEY GALL via KO/TKO  
+  at 3:41 of round 1
+  Key stats:
+  - MIKE MALOTT landed 28 significant strikes
+  - MICKEY GALL landed 13 significant strikes
+  - Knockdowns: MIKE MALOTT 1,  MICKEY GALL 0
+  - Takedowns: MIKE MALOTT 0,  MICKEY GALL 1

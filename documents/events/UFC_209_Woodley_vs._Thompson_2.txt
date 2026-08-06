@@ -1,0 +1,18 @@
+Event : UFC 209: Woodley vs. Thompson 2
+    Date : March 04, 2017
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Heavyweight, Lightweight, Middleweight, Welterweight, Light Heavyweight, Featherweight, Women's Strawweight
+
+    Fight Results:
+  - DARREN ELKINS def. MIRSAD BEKTIC via KO/TKO(R3)
+- MARCIN TYBURA def. LUIS HENRIQUE via KO/TKO(R3)
+- ALISTAIR OVEREEM def. MARK HUNT via KO/TKO(R3)
+- CYNTHIA CALVILLO def. AMANDA COOPER via Submission(R1)
+- MARK GODBEER def. DANIEL SPITZ via Decision - Unanimous(R3)
+- TYRON WOODLEY def. STEPHEN THOMPSON via Decision - Majority(R5)
+- TYSON PEDRO def. PAUL CRAIG via KO/TKO(R1)
+- IURI ALCANTARA def. LUKE SANDERS via Submission(R2)
+- ALBERT MORALES def. ANDRE SOUKHAMTHATH via Decision - Split(R3)
+- DAVID TEYMUR def. LANDO VANNATA via Decision - Unanimous(R3)
+- DANIEL KELLY def. RASHAD EVANS via Decision - Split(R3)

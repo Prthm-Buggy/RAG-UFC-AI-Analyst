@@ -1,0 +1,11 @@
+Fighter: NOAD LAHAT
+  Date of Birth: 1984-06-08
+  Career record: 4
+  First fight: 2014-03-23
+  Last fight: 2016-02-06
+
+Career Statistics:
+- Significant Strikes Landed :106
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :6

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Khabilov
+    Date: June 07, 2014
+    Location: Albuquerque, New Mexico, USA
+    Weight Class: Lightweight
+    
+
+    Result: JON TUCK defeated JAKE LINDSEY via KO/TKO  
+  at 2:47 of round 3
+  Key stats:
+  - JON TUCK landed 46 significant strikes
+  - JAKE LINDSEY landed 49 significant strikes
+  - Knockdowns: JON TUCK 0,  JAKE LINDSEY 0
+  - Takedowns: JON TUCK 3,  JAKE LINDSEY 0

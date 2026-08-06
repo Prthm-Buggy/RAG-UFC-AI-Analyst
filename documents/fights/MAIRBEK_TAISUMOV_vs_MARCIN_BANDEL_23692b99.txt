@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nelson vs Story
+    Date: October 04, 2014
+    Location: Stockholm, Sweden
+    Weight Class: Lightweight
+    
+
+    Result: MAIRBEK TAISUMOV defeated MARCIN BANDEL via KO/TKO  
+  at 1:01 of round 1
+  Key stats:
+  - MAIRBEK TAISUMOV landed 9 significant strikes
+  - MARCIN BANDEL landed 3 significant strikes
+  - Knockdowns: MAIRBEK TAISUMOV 1,  MARCIN BANDEL 0
+  - Takedowns: MAIRBEK TAISUMOV 0,  MARCIN BANDEL 0

@@ -1,0 +1,11 @@
+Fighter: TREY OGDEN
+  Date of Birth: 1989-11-14
+  Career record: 6
+  First fight: 2022-04-16
+  Last fight: 2025-01-11
+
+Career Statistics:
+- Significant Strikes Landed :272
+- Total takedowns landed :10
+- Knockdowns :0
+- Submission Attempts :4

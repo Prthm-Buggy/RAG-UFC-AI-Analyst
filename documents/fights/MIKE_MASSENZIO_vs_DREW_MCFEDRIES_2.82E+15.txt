@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Diaz vs Neer
+    Date: September 17, 2008
+    Location: Omaha, Nebraska, USA
+    Weight Class: Middleweight
+    
+
+    Result: MIKE MASSENZIO defeated DREW MCFEDRIES via Submission  
+  at 1:28 of round 1
+  Key stats:
+  - MIKE MASSENZIO landed 0 significant strikes
+  - DREW MCFEDRIES landed 3 significant strikes
+  - Knockdowns: MIKE MASSENZIO 0,  DREW MCFEDRIES 0
+  - Takedowns: MIKE MASSENZIO 1,  DREW MCFEDRIES 0

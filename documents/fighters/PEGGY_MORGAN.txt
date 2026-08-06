@@ -1,0 +1,11 @@
+Fighter: PEGGY MORGAN
+  Date of Birth: 1979-12-16
+  Career record: 1
+  First fight: 2013-11-30
+  Last fight: 2013-11-30
+
+Career Statistics:
+- Significant Strikes Landed :34
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

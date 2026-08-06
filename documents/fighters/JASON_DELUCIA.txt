@@ -1,0 +1,11 @@
+Fighter: JASON DELUCIA
+  Date of Birth: 1969-07-24
+  Career record: 3
+  First fight: 1994-03-11
+  Last fight: 1999-11-19
+
+Career Statistics:
+- Significant Strikes Landed :4
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :5

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hall vs. Strickland
+    Date: July 31, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: SEAN STRICKLAND defeated URIAH HALL via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - SEAN STRICKLAND landed 186 significant strikes
+  - URIAH HALL landed 107 significant strikes
+  - Knockdowns: SEAN STRICKLAND 0,  URIAH HALL 0
+  - Takedowns: SEAN STRICKLAND 4,  URIAH HALL 0

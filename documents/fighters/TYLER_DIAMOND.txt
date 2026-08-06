@@ -1,0 +1,11 @@
+Fighter: TYLER DIAMOND
+  Date of Birth: 1991-03-18
+  Career record: 1
+  First fight: 2018-07-06
+  Last fight: 2018-07-06
+
+Career Statistics:
+- Significant Strikes Landed :51
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC 173: Barao vs Dillashaw
+    Date: May 24, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JAMES KRAUSE defeated JAMIE VARNER via KO/TKO  
+  at 5:00 of round 1
+  Key stats:
+  - JAMES KRAUSE landed 22 significant strikes
+  - JAMIE VARNER landed 7 significant strikes
+  - Knockdowns: JAMES KRAUSE 0,  JAMIE VARNER 0
+  - Takedowns: JAMES KRAUSE 0,  JAMIE VARNER 1

@@ -1,0 +1,13 @@
+Event: UFC on FOX: VanZant vs. Waterson
+    Date: December 17, 2016
+    Location: Sacramento, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: EDDIE WINELAND defeated TAKEYA MIZUGAKI via KO/TKO  
+  at 3:04 of round 1
+  Key stats:
+  - EDDIE WINELAND landed 9 significant strikes
+  - TAKEYA MIZUGAKI landed 13 significant strikes
+  - Knockdowns: EDDIE WINELAND 2,  TAKEYA MIZUGAKI 0
+  - Takedowns: EDDIE WINELAND 0,  TAKEYA MIZUGAKI 0

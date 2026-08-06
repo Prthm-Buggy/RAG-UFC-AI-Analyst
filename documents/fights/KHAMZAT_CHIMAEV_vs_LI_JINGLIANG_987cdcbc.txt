@@ -1,0 +1,14 @@
+Event: UFC 267: Blachowicz vs. Teixeira
+    Date: October 30, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Welterweight
+    
+
+    Result: KHAMZAT CHIMAEV defeated LI JINGLIANG via Submission  
+  at 3:16 of round 1
+  Key stats:
+  - KHAMZAT CHIMAEV landed 25 significant strikes
+  - LI JINGLIANG landed 0 significant strikes
+  - Knockdowns: KHAMZAT CHIMAEV 0,  LI JINGLIANG 0
+  - Takedowns: KHAMZAT CHIMAEV 1,  LI JINGLIANG 0
+  Bonus: perf

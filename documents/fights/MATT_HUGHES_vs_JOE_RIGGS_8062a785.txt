@@ -1,0 +1,13 @@
+Event: UFC 56: Full Force
+    Date: November 19, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT HUGHES defeated JOE RIGGS via Submission  
+  at 3:28 of round 1
+  Key stats:
+  - MATT HUGHES landed 8 significant strikes
+  - JOE RIGGS landed 1 significant strikes
+  - Knockdowns: MATT HUGHES 0,  JOE RIGGS 0
+  - Takedowns: MATT HUGHES 1,  JOE RIGGS 0

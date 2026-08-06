@@ -1,0 +1,17 @@
+Event : UFC 141: Lesnar vs Overeem
+    Date : December 30, 2011
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Light Heavyweight, Lightweight, Featherweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - ALISTAIR OVEREEM def. BROCK LESNAR via KO/TKO(R1)
+- DONG HYUN KIM def. SEAN PIERSON via Decision - Unanimous(R3)
+- ROSS PEARSON def. JUNIOR ASSUNCAO via Decision - Unanimous(R3)
+- JOHNY HENDRICKS def. JON FITCH via KO/TKO(R1)
+- JIMY HETTES def. NAM PHAN via Decision - Unanimous(R3)
+- DANNY CASTILLO def. ANTHONY NJOKUANI via Decision - Split(R3)
+- ALEXANDER GUSTAFSSON def. VLADIMIR MATYUSHENKO via KO/TKO(R1)
+- DIEGO NUNES def. MANVEL GAMBURYAN via Decision - Unanimous(R3)
+- JACOB VOLKMANN def. EFRAIN ESCUDERO via Decision - Unanimous(R3)
+- NATE DIAZ def. DONALD CERRONE via Decision - Unanimous(R3)

@@ -1,0 +1,13 @@
+Event: UFC 224: Nunes vs. Pennington
+    Date: May 12, 2018
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Women's Strawweight
+    
+
+    Result: MACKENZIE DERN defeated AMANDA COOPER via Submission  
+  at 2:27 of round 1
+  Key stats:
+  - MACKENZIE DERN landed 15 significant strikes
+  - AMANDA COOPER landed 6 significant strikes
+  - Knockdowns: MACKENZIE DERN 1,  AMANDA COOPER 0
+  - Takedowns: MACKENZIE DERN 0,  AMANDA COOPER 0

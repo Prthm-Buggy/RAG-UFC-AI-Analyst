@@ -1,0 +1,11 @@
+Fighter: ALLEN FRYE JR.
+  Date of Birth: 1998-04-15
+  Career record: 1
+  First fight: 2025-12-13
+  Last fight: 2025-12-13
+
+Career Statistics:
+- Significant Strikes Landed :33
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

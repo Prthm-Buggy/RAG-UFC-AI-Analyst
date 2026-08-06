@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Rozenstruik
+    Date: December 07, 2019
+    Location: Washington, DC, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BEN ROTHWELL defeated STEFAN STRUVE via KO/TKO  
+  at 4:57 of round 2
+  Key stats:
+  - BEN ROTHWELL landed 58 significant strikes
+  - STEFAN STRUVE landed 53 significant strikes
+  - Knockdowns: BEN ROTHWELL 1,  STEFAN STRUVE 0
+  - Takedowns: BEN ROTHWELL 0,  STEFAN STRUVE 0

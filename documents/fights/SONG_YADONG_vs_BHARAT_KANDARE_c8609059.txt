@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bisping vs. Gastelum
+    Date: November 25, 2017
+    Location: Shanghai, Hebei, China
+    Weight Class: Featherweight
+    
+
+    Result: SONG YADONG defeated BHARAT KANDARE via Submission  
+  at 4:16 of round 1
+  Key stats:
+  - SONG YADONG landed 8 significant strikes
+  - BHARAT KANDARE landed 3 significant strikes
+  - Knockdowns: SONG YADONG 1,  BHARAT KANDARE 0
+  - Takedowns: SONG YADONG 0,  BHARAT KANDARE 0
+  Bonus: perf

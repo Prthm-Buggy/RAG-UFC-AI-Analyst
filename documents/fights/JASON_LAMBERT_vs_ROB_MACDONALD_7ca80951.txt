@@ -1,0 +1,13 @@
+Event: UFC 58: USA vs Canada
+    Date: March 04, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JASON LAMBERT defeated ROB MACDONALD via Submission  
+  at 1:54 of round 1
+  Key stats:
+  - JASON LAMBERT landed 7 significant strikes
+  - ROB MACDONALD landed 3 significant strikes
+  - Knockdowns: JASON LAMBERT 1,  ROB MACDONALD 0
+  - Takedowns: JASON LAMBERT 1,  ROB MACDONALD 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Song
+    Date: September 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NIKOLAS MOTTA defeated CAMERON VANCAMP via KO/TKO  
+  at 3:49 of round 1
+  Key stats:
+  - NIKOLAS MOTTA landed 24 significant strikes
+  - CAMERON VANCAMP landed 15 significant strikes
+  - Knockdowns: NIKOLAS MOTTA 1,  CAMERON VANCAMP 0
+  - Takedowns: NIKOLAS MOTTA 0,  CAMERON VANCAMP 0

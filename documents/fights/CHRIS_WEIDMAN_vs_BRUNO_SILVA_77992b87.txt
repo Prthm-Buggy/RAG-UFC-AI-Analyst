@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blanchfield vs. Fiorot
+    Date: March 30, 2024
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS WEIDMAN defeated BRUNO SILVA via Decision - Unanimous  
+  at 2:18 of round 3
+  Key stats:
+  - CHRIS WEIDMAN landed 75 significant strikes
+  - BRUNO SILVA landed 30 significant strikes
+  - Knockdowns: CHRIS WEIDMAN 1,  BRUNO SILVA 0
+  - Takedowns: CHRIS WEIDMAN 1,  BRUNO SILVA 0

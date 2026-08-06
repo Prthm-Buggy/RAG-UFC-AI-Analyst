@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blachowicz vs. Rakic
+    Date: May 14, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAN BLACHOWICZ defeated ALEKSANDAR RAKIC via KO/TKO  
+  at 1:11 of round 3
+  Key stats:
+  - JAN BLACHOWICZ landed 31 significant strikes
+  - ALEKSANDAR RAKIC landed 27 significant strikes
+  - Knockdowns: JAN BLACHOWICZ 0,  ALEKSANDAR RAKIC 0
+  - Takedowns: JAN BLACHOWICZ 0,  ALEKSANDAR RAKIC 1

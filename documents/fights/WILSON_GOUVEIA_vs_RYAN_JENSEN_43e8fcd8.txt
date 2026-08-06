@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Diaz vs Neer
+    Date: September 17, 2008
+    Location: Omaha, Nebraska, USA
+    Weight Class: Middleweight
+    
+
+    Result: WILSON GOUVEIA defeated RYAN JENSEN via Submission  
+  at 2:04 of round 2
+  Key stats:
+  - WILSON GOUVEIA landed 8 significant strikes
+  - RYAN JENSEN landed 30 significant strikes
+  - Knockdowns: WILSON GOUVEIA 0,  RYAN JENSEN 0
+  - Takedowns: WILSON GOUVEIA 1,  RYAN JENSEN 2
+  Bonus: sub

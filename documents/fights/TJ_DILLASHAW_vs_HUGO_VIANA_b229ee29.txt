@@ -1,0 +1,13 @@
+Event: UFC on FOX: Henderson vs Melendez
+    Date: April 20, 2013
+    Location: San Jose, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TJ DILLASHAW defeated HUGO VIANA via KO/TKO  
+  at 4:22 of round 1
+  Key stats:
+  - TJ DILLASHAW landed 21 significant strikes
+  - HUGO VIANA landed 11 significant strikes
+  - Knockdowns: TJ DILLASHAW 1,  HUGO VIANA 0
+  - Takedowns: TJ DILLASHAW 1,  HUGO VIANA 0

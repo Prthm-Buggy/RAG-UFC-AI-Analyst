@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hall vs. Strickland
+    Date: July 31, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: PHIL ROWE defeated ORION COSCE via KO/TKO  
+  at 4:21 of round 2
+  Key stats:
+  - PHIL ROWE landed 46 significant strikes
+  - ORION COSCE landed 22 significant strikes
+  - Knockdowns: PHIL ROWE 1,  ORION COSCE 0
+  - Takedowns: PHIL ROWE 0,  ORION COSCE 2

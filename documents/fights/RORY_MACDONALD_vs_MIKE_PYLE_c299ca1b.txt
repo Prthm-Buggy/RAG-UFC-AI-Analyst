@@ -1,0 +1,13 @@
+Event: UFC 133: Evans vs Ortiz 2
+    Date: August 06, 2011
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Welterweight
+    
+
+    Result: RORY MACDONALD defeated MIKE PYLE via KO/TKO  
+  at 3:54 of round 1
+  Key stats:
+  - RORY MACDONALD landed 24 significant strikes
+  - MIKE PYLE landed 3 significant strikes
+  - Knockdowns: RORY MACDONALD 0,  MIKE PYLE 0
+  - Takedowns: RORY MACDONALD 0,  MIKE PYLE 2

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Vettori vs. Cannonier
+    Date : June 17, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Light Heavyweight, Middleweight, Lightweight, Welterweight, Featherweight, Flyweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - MODESTAS BUKAUSKAS def. ZAC PAUGA via Decision - Unanimous(R3)
+- ARMAN TSARUKYAN def. JOAQUIM SILVA via KO/TKO(R3)
+- NICOLAS DALBY def. MUSLIM SALIKHOV via Decision - Unanimous(R3)
+- ALESSANDRO COSTA def. JIMMY FLICK via KO/TKO(R2)
+- MANUEL TORRES def. NIKOLAS MOTTA via KO/TKO(R1)
+- ARMEN PETROSYAN def. CHRISTIAN LEROY DUNCAN via Decision - Unanimous(R3)
+- KYUNG HO KANG def. CRISTIAN QUINONEZ via Submission(R1)
+- TEREZA BLEDA def. GABRIELLA FERNANDES via Decision - Unanimous(R3)
+- PAT SABATINI def. LUCAS ALMEIDA via Submission(R2)
+- JARED CANNONIER def. MARVIN VETTORI via Decision - Unanimous(R5)
+- CARLOS HERNANDEZ def. DENYS BONDAR via Decision - Unanimous(R3)

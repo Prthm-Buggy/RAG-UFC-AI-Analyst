@@ -1,0 +1,11 @@
+Fighter: DANIEL SPITZ
+  Date of Birth: 1990-07-31
+  Career record: 4
+  First fight: 2017-03-04
+  Last fight: 2019-10-18
+
+Career Statistics:
+- Significant Strikes Landed :105
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

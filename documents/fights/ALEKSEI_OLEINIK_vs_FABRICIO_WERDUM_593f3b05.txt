@@ -1,0 +1,13 @@
+Event: UFC 249: Ferguson vs. Gaethje
+    Date: May 09, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEKSEI OLEINIK defeated FABRICIO WERDUM via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ALEKSEI OLEINIK landed 94 significant strikes
+  - FABRICIO WERDUM landed 53 significant strikes
+  - Knockdowns: ALEKSEI OLEINIK 0,  FABRICIO WERDUM 0
+  - Takedowns: ALEKSEI OLEINIK 0,  FABRICIO WERDUM 3

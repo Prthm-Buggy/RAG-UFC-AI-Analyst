@@ -1,0 +1,11 @@
+Fighter: TONY SIMS
+  Date of Birth: 1985-10-14
+  Career record: 3
+  First fight: 2015-06-27
+  Last fight: 2016-01-02
+
+Career Statistics:
+- Significant Strikes Landed :38
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :1

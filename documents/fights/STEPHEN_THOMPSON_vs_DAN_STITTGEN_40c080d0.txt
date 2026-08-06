@@ -1,0 +1,14 @@
+Event: UFC 143: Diaz vs Condit
+    Date: February 04, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: STEPHEN THOMPSON defeated DAN STITTGEN via KO/TKO  
+  at 4:13 of round 1
+  Key stats:
+  - STEPHEN THOMPSON landed 22 significant strikes
+  - DAN STITTGEN landed 8 significant strikes
+  - Knockdowns: STEPHEN THOMPSON 1,  DAN STITTGEN 0
+  - Takedowns: STEPHEN THOMPSON 0,  DAN STITTGEN 0
+  Bonus: ko

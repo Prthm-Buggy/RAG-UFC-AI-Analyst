@@ -1,0 +1,11 @@
+Fighter: SONG KENAN
+  Date of Birth: 1990-03-10
+  Career record: 11
+  First fight: 2017-11-25
+  Last fight: 2024-11-23
+
+Career Statistics:
+- Significant Strikes Landed :484
+- Total takedowns landed :3
+- Knockdowns :5
+- Submission Attempts :0

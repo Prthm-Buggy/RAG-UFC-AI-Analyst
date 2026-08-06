@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Pettis vs. Moreno
+    Date : August 05, 2017
+    Location: Mexico City, Distrito Federal, Mexico
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Women's Strawweight, Middleweight, Featherweight, Lightweight, Flyweight, Welterweight
+
+    Fight Results:
+  - NIKO PRICE def. ALAN JOUBAN via KO/TKO(R1)
+- JOSEPH MORALES def. ROBERT SANCHEZ via Submission(R1)
+- JOSE QUINONEZ def. DIEGO RIVAS via Decision - Unanimous(R3)
+- DUSTIN ORTIZ def. HECTOR SANDOVAL via KO/TKO(R1)
+- JORDAN RINALDI def. ALVARO HERRERA MENDOZA via Submission(R1)
+- JACK HERMANSSON def. BRAD SCOTT via KO/TKO(R1)
+- RANI YAHYA def. HENRY BRIONES via Submission(R1)
+- ALEXA GRASSO def. RANDA MARKOS via Decision - Split(R3)
+- HUMBERTO BANDENAY def. MARTIN BRAVO via KO/TKO(R1)
+- SERGIO PETTIS def. BRANDON MORENO via Decision - Unanimous(R5)
+- ALEJANDRO PEREZ def. ANDRE SOUKHAMTHATH via Decision - Split(R3)
+- SAM ALVEY def. RASHAD EVANS via Decision - Split(R3)

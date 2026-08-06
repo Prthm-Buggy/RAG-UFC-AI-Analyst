@@ -1,0 +1,11 @@
+Fighter: CHARLES OLIVEIRA
+  Date of Birth: 1989-10-17
+  Career record: 36
+  First fight: 2010-08-01
+  Last fight: 2026-03-07
+
+Career Statistics:
+- Significant Strikes Landed :923
+- Total takedowns landed :44
+- Knockdowns :7
+- Submission Attempts :48

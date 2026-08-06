@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Figueiredo vs. Benavidez 2
+    Date: July 18, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Flyweight
+    
+
+    Result: DEIVESON FIGUEIREDO defeated JOSEPH BENAVIDEZ via Submission  
+  at 4:48 of round 1
+  Key stats:
+  - DEIVESON FIGUEIREDO landed 35 significant strikes
+  - JOSEPH BENAVIDEZ landed 18 significant strikes
+  - Knockdowns: DEIVESON FIGUEIREDO 2,  JOSEPH BENAVIDEZ 0
+  - Takedowns: DEIVESON FIGUEIREDO 0,  JOSEPH BENAVIDEZ 0
+  Bonus: belt

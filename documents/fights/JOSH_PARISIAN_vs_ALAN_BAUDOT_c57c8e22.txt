@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tsarukyan vs. Gamrot
+    Date: June 25, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JOSH PARISIAN defeated ALAN BAUDOT via KO/TKO  
+  at 3:04 of round 2
+  Key stats:
+  - JOSH PARISIAN landed 42 significant strikes
+  - ALAN BAUDOT landed 49 significant strikes
+  - Knockdowns: JOSH PARISIAN 0,  ALAN BAUDOT 1
+  - Takedowns: JOSH PARISIAN 3,  ALAN BAUDOT 0
+  Bonus: perf

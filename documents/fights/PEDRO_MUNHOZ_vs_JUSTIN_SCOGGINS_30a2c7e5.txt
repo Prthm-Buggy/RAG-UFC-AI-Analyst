@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bader vs. Nogueira
+    Date: November 19, 2016
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: PEDRO MUNHOZ defeated JUSTIN SCOGGINS via Submission  
+  at 1:55 of round 2
+  Key stats:
+  - PEDRO MUNHOZ landed 28 significant strikes
+  - JUSTIN SCOGGINS landed 44 significant strikes
+  - Knockdowns: PEDRO MUNHOZ 0,  JUSTIN SCOGGINS 0
+  - Takedowns: PEDRO MUNHOZ 0,  JUSTIN SCOGGINS 1
+  Bonus: perf

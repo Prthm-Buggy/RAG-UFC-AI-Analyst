@@ -1,0 +1,14 @@
+Event: UFC 181: Hendricks vs Lawler II
+    Date: December 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ANTHONY PETTIS defeated GILBERT MELENDEZ via Submission  
+  at 1:53 of round 2
+  Key stats:
+  - ANTHONY PETTIS landed 30 significant strikes
+  - GILBERT MELENDEZ landed 27 significant strikes
+  - Knockdowns: ANTHONY PETTIS 0,  GILBERT MELENDEZ 0
+  - Takedowns: ANTHONY PETTIS 0,  GILBERT MELENDEZ 1
+  Bonus: belt

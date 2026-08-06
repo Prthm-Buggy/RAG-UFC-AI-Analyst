@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Werdum vs. Volkov
+    Date: March 17, 2018
+    Location: London, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: DANNY HENRY defeated HAKEEM DAWODU via Submission  
+  at 0:39 of round 1
+  Key stats:
+  - DANNY HENRY landed 2 significant strikes
+  - HAKEEM DAWODU landed 3 significant strikes
+  - Knockdowns: DANNY HENRY 1,  HAKEEM DAWODU 0
+  - Takedowns: DANNY HENRY 0,  HAKEEM DAWODU 0

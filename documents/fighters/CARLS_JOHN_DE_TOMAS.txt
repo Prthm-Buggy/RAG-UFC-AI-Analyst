@@ -1,0 +1,11 @@
+Fighter: CARLS JOHN DE TOMAS
+  Date of Birth: 1996-08-28
+  Career record: 2
+  First fight: 2017-06-17
+  Last fight: 2017-12-09
+
+Career Statistics:
+- Significant Strikes Landed :38
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

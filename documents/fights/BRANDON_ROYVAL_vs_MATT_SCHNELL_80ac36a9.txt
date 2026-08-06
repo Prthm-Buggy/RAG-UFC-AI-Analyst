@@ -1,0 +1,14 @@
+Event: UFC 274: Oliveira vs. Gaethje
+    Date: May 07, 2022
+    Location: Phoenix, Arizona, USA
+    Weight Class: Flyweight
+    
+
+    Result: BRANDON ROYVAL defeated MATT SCHNELL via Submission  
+  at 2:14 of round 1
+  Key stats:
+  - BRANDON ROYVAL landed 14 significant strikes
+  - MATT SCHNELL landed 12 significant strikes
+  - Knockdowns: BRANDON ROYVAL 0,  MATT SCHNELL 1
+  - Takedowns: BRANDON ROYVAL 0,  MATT SCHNELL 0
+  Bonus: fight

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yan vs. Dvalishvili
+    Date: March 11, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ARIANE DA SILVA defeated JJ ALDRICH via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ARIANE DA SILVA landed 101 significant strikes
+  - JJ ALDRICH landed 49 significant strikes
+  - Knockdowns: ARIANE DA SILVA 0,  JJ ALDRICH 0
+  - Takedowns: ARIANE DA SILVA 2,  JJ ALDRICH 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Dolidze 2
+    Date: March 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: KEVIN VALLEJOS defeated SEUNGWOO CHOI via KO/TKO  
+  at 3:09 of round 1
+  Key stats:
+  - KEVIN VALLEJOS landed 14 significant strikes
+  - SEUNGWOO CHOI landed 16 significant strikes
+  - Knockdowns: KEVIN VALLEJOS 1,  SEUNGWOO CHOI 0
+  - Takedowns: KEVIN VALLEJOS 0,  SEUNGWOO CHOI 0

@@ -1,0 +1,11 @@
+Fighter: STEVE BERGER
+  Date of Birth: 1973-05-20
+  Career record: 2
+  First fight: 2001-05-04
+  Last fight: 2002-06-22
+
+Career Statistics:
+- Significant Strikes Landed :13
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :3

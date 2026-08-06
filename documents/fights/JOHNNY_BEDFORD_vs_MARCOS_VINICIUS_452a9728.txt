@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Carwin vs. Team Nelson Finale
+    Date: December 15, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOHNNY BEDFORD defeated MARCOS VINICIUS via KO/TKO  
+  at 1:00 of round 2
+  Key stats:
+  - JOHNNY BEDFORD landed 34 significant strikes
+  - MARCOS VINICIUS landed 4 significant strikes
+  - Knockdowns: JOHNNY BEDFORD 2,  MARCOS VINICIUS 0
+  - Takedowns: JOHNNY BEDFORD 1,  MARCOS VINICIUS 0

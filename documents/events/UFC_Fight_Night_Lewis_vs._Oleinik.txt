@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Lewis vs. Oleinik
+    Date : August 08, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Middleweight, Women's Bantamweight, Featherweight, Welterweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - KEVIN HOLLAND def. JOAQUIN BUCKLEY via KO/TKO(R3)
+- NASRAT HAQPARAST def. ALEXANDER MUNOZ via Decision - Unanimous(R3)
+- YANA SANTOS def. JULIJA STOLIARENKO via Decision - Unanimous(R3)
+- IRWIN RIVERA def. ALI ALQAISI via Decision - Split(R3)
+- DERRICK LEWIS def. ALEKSEI OLEINIK via KO/TKO(R2)
+- TIM MEANS def. LAUREANO STAROPOLI via Decision - Unanimous(R3)
+- BENEIL DARIUSH def. SCOTT HOLTZMAN via KO/TKO(R1)
+- CHRIS WEIDMAN def. OMARI AKHMEDOV via Decision - Unanimous(R3)
+- DARREN STEWART def. MAKI PITOLO via Submission(R1)
+- ANDREW SANCHEZ def. WELLINGTON TURMAN via KO/TKO(R1)
+- GAVIN TUCKER def. JUSTIN JAYNES via Submission(R3)
+- YOUSSEF ZALAL def. PETER BARRETT via Decision - Unanimous(R3)

@@ -1,0 +1,14 @@
+Event: UFC 171: Hendricks vs Lawler
+    Date: March 15, 2014
+    Location: Dallas, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: DENNIS BERMUDEZ defeated JIMY HETTES via KO/TKO  
+  at 2:57 of round 3
+  Key stats:
+  - DENNIS BERMUDEZ landed 55 significant strikes
+  - JIMY HETTES landed 34 significant strikes
+  - Knockdowns: DENNIS BERMUDEZ 3,  JIMY HETTES 0
+  - Takedowns: DENNIS BERMUDEZ 6,  JIMY HETTES 0
+  Bonus: perf

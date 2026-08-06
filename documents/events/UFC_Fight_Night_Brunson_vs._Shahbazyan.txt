@@ -1,0 +1,14 @@
+Event : UFC Fight Night: Brunson vs. Shahbazyan
+    Date : August 01, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 7
+    Weight Classes: Lightweight, Middleweight, Welterweight, Featherweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - KING GREEN def. LANDO VANNATA via Decision - Unanimous(R3)
+- NATE MANESS def. JOHNNY MUNOZ via Decision - Unanimous(R3)
+- JAMALL EMMERS def. VINCE CACHERO via Decision - Unanimous(R3)
+- JONATHAN MARTINEZ def. FRANKIE SAENZ via KO/TKO(R3)
+- VICENTE LUQUE def. RANDY BROWN via KO/TKO(R2)
+- DEREK BRUNSON def. EDMEN SHAHBAZYAN via KO/TKO(R3)
+- JENNIFER MAIA def. JOANNE WOOD via Submission(R1)

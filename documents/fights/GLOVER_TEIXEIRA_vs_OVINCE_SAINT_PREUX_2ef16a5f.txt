@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Teixeira vs Saint Preux
+    Date: August 08, 2015
+    Location: Nashville, Tennessee, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: GLOVER TEIXEIRA defeated OVINCE SAINT PREUX via Submission  
+  at 3:10 of round 3
+  Key stats:
+  - GLOVER TEIXEIRA landed 53 significant strikes
+  - OVINCE SAINT PREUX landed 30 significant strikes
+  - Knockdowns: GLOVER TEIXEIRA 0,  OVINCE SAINT PREUX 0
+  - Takedowns: GLOVER TEIXEIRA 5,  OVINCE SAINT PREUX 0
+  Bonus: fight

@@ -1,0 +1,11 @@
+Fighter: JORGE PATINO
+  Date of Birth: 1973-08-05
+  Career record: 1
+  First fight: 1999-01-08
+  Last fight: 1999-01-08
+
+Career Statistics:
+- Significant Strikes Landed :19
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

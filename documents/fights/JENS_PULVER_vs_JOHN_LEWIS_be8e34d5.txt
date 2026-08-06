@@ -1,0 +1,13 @@
+Event: UFC 28: High Stakes
+    Date: November 17, 2000
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: JENS PULVER defeated JOHN LEWIS via KO/TKO  
+  at 0:15 of round 1
+  Key stats:
+  - JENS PULVER landed 1 significant strikes
+  - JOHN LEWIS landed 0 significant strikes
+  - Knockdowns: JENS PULVER 1,  JOHN LEWIS 0
+  - Takedowns: JENS PULVER 0,  JOHN LEWIS 0

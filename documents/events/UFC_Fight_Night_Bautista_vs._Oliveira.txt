@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Bautista vs. Oliveira
+    Date : February 07, 2026
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Heavyweight, Flyweight, Light Heavyweight, Welterweight, Middleweight, Women's Strawweight, Catch Weight, Women's Bantamweight
+
+    Fight Results:
+  - RIZVAN KUNIEV def. JAILTON ALMEIDA via Decision - Unanimous(R3)
+- MARIO BAUTISTA def. VINICIUS OLIVEIRA via Submission(R2)
+- FARID BASHARAT def. JEAN MATSUMOTO via Decision - Split(R3)
+- JAKUB WIKLACZ def. MUIN GAFUROV via Submission(R3)
+- KYOJI HORIGUCHI def. AMIR ALBAZI via Decision - Unanimous(R3)
+- WANG CONG def. EDUARDA MOURA via Decision - Unanimous(R3)
+- DUSTIN JACOBY def. JULIUS WALKER via KO/TKO(R2)
+- Ketlen Souza def. BRUNA BRASIL via Decision - Unanimous(R3)
+- Daniil Donchenko def. ALEX MORONO via Decision - Unanimous(R3)
+- NIKOLAY VERETENNIKOV def. NIKO PRICE via KO/TKO(R1)
+- KLAUDIA SYGULA def. PRISCILA CACHOEIRA via Decision - Unanimous(R3)
+- MICHAL OLEKSIEJCZUK def. MARC-ANDRE BARRIAULT via Decision - Unanimous(R3)
+- JAVID BASHARAT def. GIANNI VAZQUEZ via Decision - Unanimous(R3)

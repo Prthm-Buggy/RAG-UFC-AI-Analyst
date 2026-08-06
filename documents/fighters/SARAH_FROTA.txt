@@ -1,0 +1,11 @@
+Fighter: SARAH FROTA
+  Date of Birth: 1987-04-14
+  Career record: 2
+  First fight: 2019-02-02
+  Last fight: 2019-07-27
+
+Career Statistics:
+- Significant Strikes Landed :41
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

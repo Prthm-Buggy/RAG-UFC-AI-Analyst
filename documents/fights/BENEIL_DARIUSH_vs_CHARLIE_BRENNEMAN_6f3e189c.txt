@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs Philippou
+    Date: January 15, 2014
+    Location: Duluth, Georgia, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENEIL DARIUSH defeated CHARLIE BRENNEMAN via Submission  
+  at 1:45 of round 1
+  Key stats:
+  - BENEIL DARIUSH landed 9 significant strikes
+  - CHARLIE BRENNEMAN landed 5 significant strikes
+  - Knockdowns: BENEIL DARIUSH 1,  CHARLIE BRENNEMAN 0
+  - Takedowns: BENEIL DARIUSH 0,  CHARLIE BRENNEMAN 0

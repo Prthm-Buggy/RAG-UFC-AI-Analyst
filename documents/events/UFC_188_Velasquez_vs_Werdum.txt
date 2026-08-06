@@ -1,0 +1,18 @@
+Event : UFC 188: Velasquez vs Werdum
+    Date : June 13, 2015
+    Location: Mexico City, Distrito Federal, Mexico
+    Number of Fights: 11
+    Weight Classes: Welterweight, Lightweight, Women's Strawweight, Featherweight, Middleweight, Flyweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - HENRY CEJUDO def. CHICO CAMUS via Decision - Unanimous(R3)
+- YAIR RODRIGUEZ def. CHARLES ROSA via Decision - Split(R3)
+- CATHAL PENDRED def. AUGUSTO MONTANO via Decision - Unanimous(R3)
+- JOHNNY CASE def. FRANCISCO TREVINO via Decision - Unanimous(R3)
+- GABRIEL BENITEZ def. CLAY COLLARD via Decision - Unanimous(R3)
+- FABRICIO WERDUM def. CAIN VELASQUEZ via Submission(R3)
+- TECIA PENNINGTON def. ANGELA HILL via Decision - Unanimous(R3)
+- KELVIN GASTELUM def. NATE MARQUARDT via KO/TKO(R2)
+- PATRICK WILLIAMS def. ALEJANDRO PEREZ via Submission(R1)
+- EDDIE ALVAREZ def. GILBERT MELENDEZ via Decision - Split(R3)
+- EFRAIN ESCUDERO def. DREW DOBER via Submission(R1)

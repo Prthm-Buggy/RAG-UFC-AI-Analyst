@@ -1,0 +1,11 @@
+Fighter: RIKI FUKUDA
+  Date of Birth: 1981-01-06
+  Career record: 5
+  First fight: 2011-02-26
+  Last fight: 2013-03-02
+
+Career Statistics:
+- Significant Strikes Landed :350
+- Total takedowns landed :13
+- Knockdowns :0
+- Submission Attempts :0

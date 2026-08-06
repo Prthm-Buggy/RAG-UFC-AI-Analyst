@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Blachowicz vs. Santos
+    Date : February 23, 2019
+    Location: Prague, Czech Republic
+    Number of Fights: 13
+    Weight Classes: Light Heavyweight, Welterweight, Lightweight, Featherweight, Bantamweight, Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - DIEGO FERREIRA def. RUSTAM KHABILOV via Decision - Unanimous(R3)
+- GILLIAN ROBERTSON def. VERONICA HARDY via Submission(R2)
+- CHRIS FISHGOLD def. DANIEL TEYMUR via Submission(R2)
+- MICHAL OLEKSIEJCZUK def. GIAN VILLANTE via KO/TKO(R1)
+- DAMIR ISMAGULOV def. JOEL ALVAREZ via Decision - Unanimous(R3)
+- PETR YAN def. JOHN DODSON via Decision - Unanimous(R3)
+- ISMAIL NAURDIEV def. MICHEL PRAZERES via Decision - Unanimous(R3)
+- DAMIR HADZOVIC def. MARCO POLO REYES via KO/TKO(R2)
+- THIAGO SANTOS def. JAN BLACHOWICZ via KO/TKO(R3)
+- STEFAN STRUVE def. MARCOS ROGERIO DE LIMA via Submission(R2)
+- LIZ CARMOUCHE def. LUCIE PUDILOVA via Decision - Unanimous(R3)
+- DWIGHT GRANT def. CARLO PEDERSOLI JR. via KO/TKO(R1)
+- MAGOMED ANKALAEV def. KLIDSON ABREU via Decision - Unanimous(R3)

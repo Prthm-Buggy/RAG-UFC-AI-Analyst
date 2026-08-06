@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vieira vs. Tate
+    Date: November 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: TAILA SANTOS defeated JOANNE WOOD via Submission  
+  at 4:49 of round 1
+  Key stats:
+  - TAILA SANTOS landed 30 significant strikes
+  - JOANNE WOOD landed 27 significant strikes
+  - Knockdowns: TAILA SANTOS 2,  JOANNE WOOD 0
+  - Takedowns: TAILA SANTOS 0,  JOANNE WOOD 0
+  Bonus: perf

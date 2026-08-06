@@ -1,0 +1,11 @@
+Fighter: GUSTAVO LOPEZ
+  Date of Birth: 1989-06-27
+  Career record: 3
+  First fight: 2020-06-13
+  Last fight: 2021-03-20
+
+Career Statistics:
+- Significant Strikes Landed :63
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

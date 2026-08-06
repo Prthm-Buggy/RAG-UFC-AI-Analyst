@@ -1,0 +1,11 @@
+Fighter: HAKEEM DAWODU
+  Date of Birth: 1991-07-02
+  Career record: 10
+  First fight: 2018-03-17
+  Last fight: 2023-08-12
+
+Career Statistics:
+- Significant Strikes Landed :734
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

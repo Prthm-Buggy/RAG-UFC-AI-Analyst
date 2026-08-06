@@ -1,0 +1,14 @@
+Event: UFC 225: Whittaker vs. Romero 2
+    Date: June 09, 2018
+    Location: Chicago, Illinois, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CURTIS BLAYDES defeated ALISTAIR OVEREEM via KO/TKO  
+  at 2:56 of round 3
+  Key stats:
+  - CURTIS BLAYDES landed 37 significant strikes
+  - ALISTAIR OVEREEM landed 7 significant strikes
+  - Knockdowns: CURTIS BLAYDES 0,  ALISTAIR OVEREEM 0
+  - Takedowns: CURTIS BLAYDES 4,  ALISTAIR OVEREEM 0
+  Bonus: perf

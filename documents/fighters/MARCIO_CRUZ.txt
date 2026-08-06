@@ -1,0 +1,11 @@
+Fighter: MARCIO CRUZ
+  Date of Birth: 1978-04-24
+  Career record: 4
+  First fight: 2005-10-07
+  Last fight: 2006-12-30
+
+Career Statistics:
+- Significant Strikes Landed :83
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :3

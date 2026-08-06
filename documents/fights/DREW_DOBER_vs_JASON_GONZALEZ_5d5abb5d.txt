@@ -1,0 +1,13 @@
+Event: UFC 203: Miocic vs. Overeem
+    Date: September 10, 2016
+    Location: Cleveland, Ohio, USA
+    Weight Class: Lightweight
+    
+
+    Result: DREW DOBER defeated JASON GONZALEZ via KO/TKO  
+  at 1:45 of round 1
+  Key stats:
+  - DREW DOBER landed 20 significant strikes
+  - JASON GONZALEZ landed 10 significant strikes
+  - Knockdowns: DREW DOBER 1,  JASON GONZALEZ 0
+  - Takedowns: DREW DOBER 0,  JASON GONZALEZ 0

@@ -1,0 +1,13 @@
+Event: UFC 136: Edgar vs Maynard 3
+    Date: October 08, 2011
+    Location: Houston, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STIPE MIOCIC defeated JOEY BELTRAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - STIPE MIOCIC landed 68 significant strikes
+  - JOEY BELTRAN landed 52 significant strikes
+  - Knockdowns: STIPE MIOCIC 0,  JOEY BELTRAN 0
+  - Takedowns: STIPE MIOCIC 4,  JOEY BELTRAN 1

@@ -1,0 +1,11 @@
+Fighter: JIMI MANUWA
+  Date of Birth: 1980-02-18
+  Career record: 12
+  First fight: 2012-09-29
+  Last fight: 2019-06-01
+
+Career Statistics:
+- Significant Strikes Landed :289
+- Total takedowns landed :3
+- Knockdowns :3
+- Submission Attempts :2

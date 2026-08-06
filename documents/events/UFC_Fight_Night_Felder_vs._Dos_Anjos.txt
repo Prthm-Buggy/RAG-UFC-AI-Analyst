@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Felder vs. Dos Anjos
+    Date : November 14, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Bantamweight, Heavyweight, Lightweight, Catch Weight, Women's Strawweight, Welterweight
+
+    Fight Results:
+  - SEAN STRICKLAND def. BRENDAN ALLEN via KO/TKO(R2)
+- TONY GRAVELY def. GERALDO DE FREITAS via Decision - Split(R3)
+- ALEX MORONO def. RHYS MCKEE via Decision - Unanimous(R3)
+- KHAOS WILLIAMS def. ABDUL RAZAK ALHASSAN via KO/TKO(R1)
+- ASHLEY YODER def. MIRANDA GRANGER via Decision - Unanimous(R3)
+- CORY MCKENNA def. KAY HANSEN via Decision - Unanimous(R3)
+- RAFAEL DOS ANJOS def. PAUL FELDER via Decision - Split(R5)
+- KANAKO MURATA def. RANDA MARKOS via Decision - Unanimous(R3)
+- DON'TALE MAYES def. ROQUE MARTINEZ via Decision - Unanimous(R3)

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hermansson vs. Cannonier
+    Date: September 28, 2019
+    Location: Copenhagen, Denmark
+    Weight Class: Middleweight
+    
+
+    Result: JOHN PHILLIPS defeated ALEN AMEDOVSKI via KO/TKO  
+  at 0:17 of round 1
+  Key stats:
+  - JOHN PHILLIPS landed 5 significant strikes
+  - ALEN AMEDOVSKI landed 2 significant strikes
+  - Knockdowns: JOHN PHILLIPS 1,  ALEN AMEDOVSKI 0
+  - Takedowns: JOHN PHILLIPS 0,  ALEN AMEDOVSKI 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Andrade vs. Zhang
+    Date: August 31, 2019
+    Location: Shenzhen, Guangdong, China
+    Weight Class: Light Heavyweight
+    
+
+    Result: DA WOON JUNG defeated KHADIS IBRAGIMOV via Submission  
+  at 1:59 of round 3
+  Key stats:
+  - DA WOON JUNG landed 81 significant strikes
+  - KHADIS IBRAGIMOV landed 88 significant strikes
+  - Knockdowns: DA WOON JUNG 0,  KHADIS IBRAGIMOV 0
+  - Takedowns: DA WOON JUNG 0,  KHADIS IBRAGIMOV 1

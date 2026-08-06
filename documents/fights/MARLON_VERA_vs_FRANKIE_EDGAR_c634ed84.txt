@@ -1,0 +1,14 @@
+Event: UFC 268: Usman vs. Covington 2
+    Date: November 06, 2021
+    Location: New York City, New York, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARLON VERA defeated FRANKIE EDGAR via KO/TKO  
+  at 3:50 of round 3
+  Key stats:
+  - MARLON VERA landed 88 significant strikes
+  - FRANKIE EDGAR landed 94 significant strikes
+  - Knockdowns: MARLON VERA 1,  FRANKIE EDGAR 0
+  - Takedowns: MARLON VERA 0,  FRANKIE EDGAR 3
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC 209: Woodley vs. Thompson 2
+    Date: March 04, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: TYRON WOODLEY defeated STEPHEN THOMPSON via Decision - Majority  
+  at 5:00 of round 5
+  Key stats:
+  - TYRON WOODLEY landed 54 significant strikes
+  - STEPHEN THOMPSON landed 53 significant strikes
+  - Knockdowns: TYRON WOODLEY 1,  STEPHEN THOMPSON 0
+  - Takedowns: TYRON WOODLEY 1,  STEPHEN THOMPSON 0
+  Bonus: belt

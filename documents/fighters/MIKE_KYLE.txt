@@ -1,0 +1,11 @@
+Fighter: MIKE KYLE
+  Date of Birth: 1980-03-31
+  Career record: 3
+  First fight: 2004-04-02
+  Last fight: 2005-02-05
+
+Career Statistics:
+- Significant Strikes Landed :30
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :1

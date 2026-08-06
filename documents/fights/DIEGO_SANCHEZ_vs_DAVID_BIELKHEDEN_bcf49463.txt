@@ -1,0 +1,13 @@
+Event: UFC 82: Pride of a Champion
+    Date: March 01, 2008
+    Location: Columbus, Ohio, USA
+    Weight Class: Welterweight
+    
+
+    Result: DIEGO SANCHEZ defeated DAVID BIELKHEDEN via KO/TKO  
+  at 4:43 of round 1
+  Key stats:
+  - DIEGO SANCHEZ landed 24 significant strikes
+  - DAVID BIELKHEDEN landed 1 significant strikes
+  - Knockdowns: DIEGO SANCHEZ 0,  DAVID BIELKHEDEN 0
+  - Takedowns: DIEGO SANCHEZ 1,  DAVID BIELKHEDEN 0

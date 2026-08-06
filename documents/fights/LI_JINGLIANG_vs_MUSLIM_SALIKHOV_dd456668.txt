@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ortega vs. Rodriguez
+    Date: July 16, 2022
+    Location: Elmont, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: LI JINGLIANG defeated MUSLIM SALIKHOV via KO/TKO  
+  at 4:38 of round 2
+  Key stats:
+  - LI JINGLIANG landed 38 significant strikes
+  - MUSLIM SALIKHOV landed 23 significant strikes
+  - Knockdowns: LI JINGLIANG 1,  MUSLIM SALIKHOV 0
+  - Takedowns: LI JINGLIANG 1,  MUSLIM SALIKHOV 1
+  Bonus: perf

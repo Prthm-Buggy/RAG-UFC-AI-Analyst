@@ -1,0 +1,13 @@
+Event: UFC 45: Revolution
+    Date: November 21, 2003
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Welterweight
+    
+
+    Result: ROBBIE LAWLER defeated CHRIS LYTLE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ROBBIE LAWLER landed 30 significant strikes
+  - CHRIS LYTLE landed 37 significant strikes
+  - Knockdowns: ROBBIE LAWLER 1,  CHRIS LYTLE 0
+  - Takedowns: ROBBIE LAWLER 3,  CHRIS LYTLE 1

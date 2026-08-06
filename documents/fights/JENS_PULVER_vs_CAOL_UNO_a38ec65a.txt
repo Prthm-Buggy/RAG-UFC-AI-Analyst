@@ -1,0 +1,14 @@
+Event: UFC 30: Battle on the Boardwalk
+    Date: February 23, 2001
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: JENS PULVER defeated CAOL UNO via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JENS PULVER landed 50 significant strikes
+  - CAOL UNO landed 50 significant strikes
+  - Knockdowns: JENS PULVER 0,  CAOL UNO 0
+  - Takedowns: JENS PULVER 0,  CAOL UNO 3
+  Bonus: belt

@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Garcia vs. Onama
+    Date : November 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Middleweight, Women's Bantamweight, Welterweight, Catch Weight, Light Heavyweight, Featherweight, Women's Strawweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - JEREMIAH WELLS def. THEMBA GORIMBO via Decision - Unanimous(R3)
+- YADIER DEL VALLE def. ISAAC DULGARIAN via Submission(R1)
+- TALITA ALENCAR def. ARIANE CARNELOSSI via Submission(R3)
+- STEVE GARCIA def. DAVID ONAMA via KO/TKO(R1)
+- DONTE JOHNSON def. SEDRIQUES DUMAS via Submission(R2)
+- NORMA DUMONT def. KETLEN VIEIRA via Decision - Split(R3)
+- SEOKHYEON KO def. PHIL ROWE via Decision - Unanimous(R3)
+- ALLAN NASCIMENTO def. CODY DURDEN via Submission(R2)
+- TIMMY CUAMBA def. CHANGHO LEE via Decision - Unanimous(R3)
+- WALDO CORTES ACOSTA def. ANTE DELIJA via KO/TKO(R1)
+- BILLY ELEKANA def. KEVIN CHRISTIAN via Submission(R1)
+- CHARLES RADTKE def. DANIEL FRUNZA via Submission(R3)
+- ALICE ARDELEAN def. MONTSERRAT CONEJO RUIZ via Decision - Unanimous(R3)

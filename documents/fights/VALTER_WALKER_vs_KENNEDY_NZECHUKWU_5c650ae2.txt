@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Teixeira
+    Date: July 12, 2025
+    Location: Nashville, Tennessee, USA
+    Weight Class: Heavyweight
+    
+
+    Result: VALTER WALKER defeated KENNEDY NZECHUKWU via Submission  
+  at 0:54 of round 1
+  Key stats:
+  - VALTER WALKER landed 4 significant strikes
+  - KENNEDY NZECHUKWU landed 0 significant strikes
+  - Knockdowns: VALTER WALKER 0,  KENNEDY NZECHUKWU 0
+  - Takedowns: VALTER WALKER 1,  KENNEDY NZECHUKWU 0
+  Bonus: perf

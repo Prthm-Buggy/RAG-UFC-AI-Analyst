@@ -1,0 +1,17 @@
+Event : UFC Live: Kongo vs Barry
+    Date : June 26, 2011
+    Location: Pittsburgh, Pennsylvania, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Welterweight, Featherweight, Lightweight
+
+    Fight Results:
+  - JAVIER VAZQUEZ def. JOE STEVENSON via Decision - Unanimous(R3)
+- RICARDO LAMAS def. MATT GRICE via KO/TKO(R1)
+- MATT BROWN def. JOHN HOWARD via Decision - Unanimous(R3)
+- MATT MITRIONE def. CHRISTIAN MORECRAFT via KO/TKO(R2)
+- RICH ATTONITO def. DANIEL ROBERTS via Decision - Unanimous(R3)
+- CHEICK KONGO def. PAT BARRY via KO/TKO(R1)
+- CHARLIE BRENNEMAN def. RICK STORY via Decision - Unanimous(R3)
+- TYSON GRIFFIN def. MANVEL GAMBURYAN via Decision - Unanimous(R3)
+- JOE LAUZON def. CURT WARBURTON via Submission(R1)
+- MICHAEL JOHNSON def. EDWARD FAALOLOTO via KO/TKO(R1)

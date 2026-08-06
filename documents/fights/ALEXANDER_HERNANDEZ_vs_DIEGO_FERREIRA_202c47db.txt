@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lopes vs. Silva
+    Date: September 13, 2025
+    Location: San Antonio, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: ALEXANDER HERNANDEZ defeated DIEGO FERREIRA via KO/TKO  
+  at 3:46 of round 2
+  Key stats:
+  - ALEXANDER HERNANDEZ landed 30 significant strikes
+  - DIEGO FERREIRA landed 23 significant strikes
+  - Knockdowns: ALEXANDER HERNANDEZ 1,  DIEGO FERREIRA 0
+  - Takedowns: ALEXANDER HERNANDEZ 0,  DIEGO FERREIRA 0

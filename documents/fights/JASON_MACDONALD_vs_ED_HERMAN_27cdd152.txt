@@ -1,0 +1,14 @@
+Event: Ortiz vs Shamrock 3: The Final Chapter
+    Date: October 10, 2006
+    Location: Hollywood, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: JASON MACDONALD defeated ED HERMAN via Submission  
+  at 2:43 of round 1
+  Key stats:
+  - JASON MACDONALD landed 5 significant strikes
+  - ED HERMAN landed 2 significant strikes
+  - Knockdowns: JASON MACDONALD 0,  ED HERMAN 0
+  - Takedowns: JASON MACDONALD 0,  ED HERMAN 1
+  Bonus: sub

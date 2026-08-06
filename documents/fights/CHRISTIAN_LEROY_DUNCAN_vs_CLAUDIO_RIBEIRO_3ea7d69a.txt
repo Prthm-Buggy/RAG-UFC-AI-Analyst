@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rozenstruik vs. Gaziev
+    Date: March 02, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRISTIAN LEROY DUNCAN defeated CLAUDIO RIBEIRO via KO/TKO  
+  at 1:57 of round 2
+  Key stats:
+  - CHRISTIAN LEROY DUNCAN landed 65 significant strikes
+  - CLAUDIO RIBEIRO landed 4 significant strikes
+  - Knockdowns: CHRISTIAN LEROY DUNCAN 0,  CLAUDIO RIBEIRO 0
+  - Takedowns: CHRISTIAN LEROY DUNCAN 1,  CLAUDIO RIBEIRO 0

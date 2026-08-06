@@ -1,0 +1,13 @@
+Event: UFC 209: Woodley vs. Thompson 2
+    Date: March 04, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARK GODBEER defeated DANIEL SPITZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARK GODBEER landed 92 significant strikes
+  - DANIEL SPITZ landed 51 significant strikes
+  - Knockdowns: MARK GODBEER 0,  DANIEL SPITZ 0
+  - Takedowns: MARK GODBEER 0,  DANIEL SPITZ 1

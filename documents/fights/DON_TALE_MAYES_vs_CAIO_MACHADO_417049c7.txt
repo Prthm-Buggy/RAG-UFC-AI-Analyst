@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nicolau vs. Perez
+    Date: April 27, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DON'TALE MAYES defeated CAIO MACHADO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DON'TALE MAYES landed 67 significant strikes
+  - CAIO MACHADO landed 76 significant strikes
+  - Knockdowns: DON'TALE MAYES 1,  CAIO MACHADO 0
+  - Takedowns: DON'TALE MAYES 0,  CAIO MACHADO 0

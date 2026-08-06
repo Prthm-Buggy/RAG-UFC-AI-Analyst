@@ -1,0 +1,11 @@
+Fighter: DONTE JOHNSON
+  Date of Birth: 1999-01-25
+  Career record: 2
+  First fight: 2025-11-01
+  Last fight: 2026-03-07
+
+Career Statistics:
+- Significant Strikes Landed :55
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

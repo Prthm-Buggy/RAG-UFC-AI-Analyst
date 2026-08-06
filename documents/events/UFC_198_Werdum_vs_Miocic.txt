@@ -1,0 +1,18 @@
+Event : UFC 198: Werdum vs Miocic
+    Date : May 14, 2016
+    Location: Curitiba, Parana, Brazil
+    Number of Fights: 11
+    Weight Classes: Middleweight, Featherweight, Lightweight, Light Heavyweight, Catch Weight, Welterweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - RENATO MOICANO def. ZUBAIRA TUKHUGOV via Decision - Split(R3)
+- CRISTIANE JUSTINO def. LESLIE SMITH via KO/TKO(R1)
+- THIAGO SANTOS def. NATE MARQUARDT via KO/TKO(R1)
+- JOHN LINEKER def. ROB FONT via Decision - Unanimous(R3)
+- DEMIAN MAIA def. MATT BROWN via Submission(R3)
+- BRYAN BARBERENA def. WARLLEY ALVES via Decision - Unanimous(R3)
+- STIPE MIOCIC def. FABRICIO WERDUM via KO/TKO(R1)
+- MAURICIO RUA def. COREY ANDERSON via Decision - Split(R3)
+- FRANCISCO TRINALDO def. YANCY MEDEIROS via Decision - Unanimous(R3)
+- ROGERIO NOGUEIRA def. PATRICK CUMMINS via KO/TKO(R1)
+- JACARE SOUZA def. VITOR BELFORT via KO/TKO(R1)

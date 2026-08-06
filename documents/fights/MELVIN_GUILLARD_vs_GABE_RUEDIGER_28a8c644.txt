@@ -1,0 +1,13 @@
+Event: UFC 63: Hughes vs Penn
+    Date: September 23, 2006
+    Location: Anaheim, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: MELVIN GUILLARD defeated GABE RUEDIGER via KO/TKO  
+  at 1:01 of round 2
+  Key stats:
+  - MELVIN GUILLARD landed 20 significant strikes
+  - GABE RUEDIGER landed 7 significant strikes
+  - Knockdowns: MELVIN GUILLARD 2,  GABE RUEDIGER 0
+  - Takedowns: MELVIN GUILLARD 3,  GABE RUEDIGER 2

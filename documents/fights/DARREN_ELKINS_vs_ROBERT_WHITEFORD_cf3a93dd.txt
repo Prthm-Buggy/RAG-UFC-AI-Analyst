@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holohan vs Smolka
+    Date: October 24, 2015
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Featherweight
+    
+
+    Result: DARREN ELKINS defeated ROBERT WHITEFORD via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DARREN ELKINS landed 40 significant strikes
+  - ROBERT WHITEFORD landed 23 significant strikes
+  - Knockdowns: DARREN ELKINS 0,  ROBERT WHITEFORD 0
+  - Takedowns: DARREN ELKINS 7,  ROBERT WHITEFORD 1

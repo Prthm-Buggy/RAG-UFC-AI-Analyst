@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lemos vs. Andrade
+    Date: April 23, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MAYCEE BARBER defeated MONTANA DE LA ROSA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MAYCEE BARBER landed 50 significant strikes
+  - MONTANA DE LA ROSA landed 14 significant strikes
+  - Knockdowns: MAYCEE BARBER 0,  MONTANA DE LA ROSA 0
+  - Takedowns: MAYCEE BARBER 1,  MONTANA DE LA ROSA 1

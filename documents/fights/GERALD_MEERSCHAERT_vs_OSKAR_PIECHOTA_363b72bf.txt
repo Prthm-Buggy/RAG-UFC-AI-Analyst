@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Undefeated Finale
+    Date: July 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GERALD MEERSCHAERT defeated OSKAR PIECHOTA via Submission  
+  at 4:55 of round 2
+  Key stats:
+  - GERALD MEERSCHAERT landed 51 significant strikes
+  - OSKAR PIECHOTA landed 23 significant strikes
+  - Knockdowns: GERALD MEERSCHAERT 0,  OSKAR PIECHOTA 1
+  - Takedowns: GERALD MEERSCHAERT 3,  OSKAR PIECHOTA 1

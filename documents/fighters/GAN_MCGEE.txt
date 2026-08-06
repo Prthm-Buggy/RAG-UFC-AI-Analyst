@@ -1,0 +1,11 @@
+Fighter: GAN MCGEE
+  Date of Birth: 1976-11-20
+  Career record: 4
+  First fight: 2000-11-17
+  Last fight: 2003-09-26
+
+Career Statistics:
+- Significant Strikes Landed :43
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

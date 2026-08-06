@@ -1,0 +1,11 @@
+Fighter: COREY ANDERSON
+  Date of Birth: 1989-09-22
+  Career record: 15
+  First fight: 2014-07-06
+  Last fight: 2020-02-15
+
+Career Statistics:
+- Significant Strikes Landed :721
+- Total takedowns landed :53
+- Knockdowns :1
+- Submission Attempts :0

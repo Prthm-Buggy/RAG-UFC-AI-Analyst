@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs Arlovski
+    Date: May 08, 2016
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Heavyweight
+    
+
+    Result: ALISTAIR OVEREEM defeated ANDREI ARLOVSKI via KO/TKO  
+  at 1:12 of round 2
+  Key stats:
+  - ALISTAIR OVEREEM landed 23 significant strikes
+  - ANDREI ARLOVSKI landed 16 significant strikes
+  - Knockdowns: ALISTAIR OVEREEM 1,  ANDREI ARLOVSKI 0
+  - Takedowns: ALISTAIR OVEREEM 1,  ANDREI ARLOVSKI 0
+  Bonus: perf

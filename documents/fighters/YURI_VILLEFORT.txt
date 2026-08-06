@@ -1,0 +1,11 @@
+Fighter: YURI VILLEFORT
+  Date of Birth: 1991-03-23
+  Career record: 2
+  First fight: 2013-02-23
+  Last fight: 2013-09-04
+
+Career Statistics:
+- Significant Strikes Landed :117
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :1

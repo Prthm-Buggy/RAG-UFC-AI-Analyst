@@ -1,0 +1,11 @@
+Fighter: JAMES IRVIN
+  Date of Birth: 1978-09-12
+  Career record: 10
+  First fight: 2005-02-05
+  Last fight: 2010-08-01
+
+Career Statistics:
+- Significant Strikes Landed :59
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :1

@@ -1,0 +1,11 @@
+Fighter: MIKEY BURNETT
+  Date of Birth: 1974-04-12
+  Career record: 3
+  First fight: 1998-03-13
+  Last fight: 1999-01-08
+
+Career Statistics:
+- Significant Strikes Landed :108
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :4

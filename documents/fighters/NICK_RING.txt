@@ -1,0 +1,11 @@
+Fighter: NICK RING
+  Date of Birth: 1979-02-10
+  Career record: 6
+  First fight: 2011-02-26
+  Last fight: 2013-12-06
+
+Career Statistics:
+- Significant Strikes Landed :312
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :2

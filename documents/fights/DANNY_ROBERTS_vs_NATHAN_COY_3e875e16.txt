@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. VanZant
+    Date: December 10, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DANNY ROBERTS defeated NATHAN COY via Submission  
+  at 2:46 of round 1
+  Key stats:
+  - DANNY ROBERTS landed 6 significant strikes
+  - NATHAN COY landed 11 significant strikes
+  - Knockdowns: DANNY ROBERTS 0,  NATHAN COY 0
+  - Takedowns: DANNY ROBERTS 0,  NATHAN COY 1

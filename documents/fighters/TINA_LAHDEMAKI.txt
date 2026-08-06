@@ -1,0 +1,11 @@
+Fighter: TINA LAHDEMAKI
+  Date of Birth: 1988-05-28
+  Career record: 1
+  First fight: 2014-07-16
+  Last fight: 2014-07-16
+
+Career Statistics:
+- Significant Strikes Landed :29
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

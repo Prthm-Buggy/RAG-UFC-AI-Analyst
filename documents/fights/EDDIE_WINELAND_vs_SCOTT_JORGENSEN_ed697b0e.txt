@@ -1,0 +1,14 @@
+Event: UFC on FX: Johnson vs McCall
+    Date: June 08, 2012
+    Location: Sunrise, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: EDDIE WINELAND defeated SCOTT JORGENSEN via KO/TKO  
+  at 4:10 of round 2
+  Key stats:
+  - EDDIE WINELAND landed 61 significant strikes
+  - SCOTT JORGENSEN landed 48 significant strikes
+  - Knockdowns: EDDIE WINELAND 1,  SCOTT JORGENSEN 0
+  - Takedowns: EDDIE WINELAND 1,  SCOTT JORGENSEN 0
+  Bonus: fight

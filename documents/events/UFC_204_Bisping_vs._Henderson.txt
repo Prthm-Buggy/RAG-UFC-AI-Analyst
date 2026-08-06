@@ -1,0 +1,18 @@
+Event : UFC 204: Bisping vs. Henderson
+    Date : October 08, 2016
+    Location: Manchester, England, United Kingdom
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Heavyweight, Lightweight, Welterweight, Middleweight, Featherweight, Light Heavyweight
+
+    Fight Results:
+  - LEON EDWARDS def. ALBERT TUMENOV via Submission(R3)
+- LEONARDO SANTOS def. ADRIANO MARTINS via Decision - Split(R3)
+- MARC DIAKIESE def. LUKASZ SAJEWSKI via KO/TKO(R2)
+- MIKE PERRY def. DANNY ROBERTS via KO/TKO(R3)
+- IURI ALCANTARA def. BRAD PICKETT via Submission(R1)
+- STEFAN STRUVE def. DANIEL OMIELANCZUK via Submission(R2)
+- MIRSAD BEKTIC def. RUSSELL DOANE via Submission(R1)
+- DAMIAN STASIAK def. DAVEY GRANT via Submission(R3)
+- GEGARD MOUSASI def. VITOR BELFORT via KO/TKO(R2)
+- MICHAEL BISPING def. DAN HENDERSON via Decision - Unanimous(R5)
+- JIMI MANUWA def. OVINCE SAINT PREUX via KO/TKO(R2)

@@ -1,0 +1,13 @@
+Event: UFC 158: St-Pierre vs Diaz
+    Date: March 16, 2013
+    Location: Montreal, Quebec, Canada
+    Weight Class: Lightweight
+    
+
+    Result: MIKE RICCI defeated COLIN FLETCHER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MIKE RICCI landed 47 significant strikes
+  - COLIN FLETCHER landed 37 significant strikes
+  - Knockdowns: MIKE RICCI 0,  COLIN FLETCHER 0
+  - Takedowns: MIKE RICCI 2,  COLIN FLETCHER 0

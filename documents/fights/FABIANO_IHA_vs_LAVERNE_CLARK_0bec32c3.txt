@@ -1,0 +1,13 @@
+Event: UFC 27: Ultimate Bad Boyz
+    Date: September 22, 2000
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: FABIANO IHA defeated LAVERNE CLARK via Submission  
+  at 1:10 of round 1
+  Key stats:
+  - FABIANO IHA landed 1 significant strikes
+  - LAVERNE CLARK landed 1 significant strikes
+  - Knockdowns: FABIANO IHA 0,  LAVERNE CLARK 0
+  - Takedowns: FABIANO IHA 1,  LAVERNE CLARK 0

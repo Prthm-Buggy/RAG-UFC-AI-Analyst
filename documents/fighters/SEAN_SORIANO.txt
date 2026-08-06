@@ -1,0 +1,11 @@
+Fighter: SEAN SORIANO
+  Date of Birth: 1989-10-06
+  Career record: 5
+  First fight: 2014-01-04
+  Last fight: 2021-11-20
+
+Career Statistics:
+- Significant Strikes Landed :180
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

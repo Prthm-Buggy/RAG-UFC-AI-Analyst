@@ -1,0 +1,13 @@
+Event: UFC 216: Ferguson vs. Lee
+    Date: October 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRAD TAVARES defeated THALES LEITES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BRAD TAVARES landed 70 significant strikes
+  - THALES LEITES landed 46 significant strikes
+  - Knockdowns: BRAD TAVARES 1,  THALES LEITES 0
+  - Takedowns: BRAD TAVARES 0,  THALES LEITES 0

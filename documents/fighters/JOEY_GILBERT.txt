@@ -1,0 +1,11 @@
+Fighter: JOEY GILBERT
+  Date of Birth: 1976-06-05
+  Career record: 1
+  First fight: 2001-05-04
+  Last fight: 2001-05-04
+
+Career Statistics:
+- Significant Strikes Landed :3
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

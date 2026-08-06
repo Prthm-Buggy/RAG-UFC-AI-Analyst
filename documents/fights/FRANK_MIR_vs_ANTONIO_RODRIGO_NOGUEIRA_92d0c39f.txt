@@ -1,0 +1,14 @@
+Event: UFC 140: Jones vs Machida
+    Date: December 10, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: FRANK MIR defeated ANTONIO RODRIGO NOGUEIRA via Submission  
+  at 3:38 of round 1
+  Key stats:
+  - FRANK MIR landed 6 significant strikes
+  - ANTONIO RODRIGO NOGUEIRA landed 21 significant strikes
+  - Knockdowns: FRANK MIR 0,  ANTONIO RODRIGO NOGUEIRA 0
+  - Takedowns: FRANK MIR 1,  ANTONIO RODRIGO NOGUEIRA 0
+  Bonus: sub

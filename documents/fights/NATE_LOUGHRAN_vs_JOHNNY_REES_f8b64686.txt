@@ -1,0 +1,13 @@
+Event: UFC: Silva vs Irvin
+    Date: July 19, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: NATE LOUGHRAN defeated JOHNNY REES via Submission  
+  at 4:21 of round 1
+  Key stats:
+  - NATE LOUGHRAN landed 1 significant strikes
+  - JOHNNY REES landed 7 significant strikes
+  - Knockdowns: NATE LOUGHRAN 0,  JOHNNY REES 0
+  - Takedowns: NATE LOUGHRAN 0,  JOHNNY REES 0

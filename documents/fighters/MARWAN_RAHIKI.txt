@@ -1,0 +1,11 @@
+Fighter: MARWAN RAHIKI
+  Date of Birth: 2002-05-10
+  Career record: 2
+  First fight: 2026-03-14
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :112
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

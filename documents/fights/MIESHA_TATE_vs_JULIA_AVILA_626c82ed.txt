@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dariush vs. Tsarukyan
+    Date: December 02, 2023
+    Location: Austin, Texas, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MIESHA TATE defeated JULIA AVILA via Submission  
+  at 1:15 of round 3
+  Key stats:
+  - MIESHA TATE landed 32 significant strikes
+  - JULIA AVILA landed 3 significant strikes
+  - Knockdowns: MIESHA TATE 0,  JULIA AVILA 0
+  - Takedowns: MIESHA TATE 4,  JULIA AVILA 0
+  Bonus: perf

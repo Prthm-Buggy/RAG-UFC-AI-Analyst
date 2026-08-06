@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Strickland
+    Date: December 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ALEX CACERES defeated JULIAN EROSA via KO/TKO  
+  at 3:04 of round 1
+  Key stats:
+  - ALEX CACERES landed 16 significant strikes
+  - JULIAN EROSA landed 10 significant strikes
+  - Knockdowns: ALEX CACERES 1,  JULIAN EROSA 0
+  - Takedowns: ALEX CACERES 0,  JULIAN EROSA 0
+  Bonus: perf

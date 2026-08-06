@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Bisping vs Le
+    Date : August 23, 2014
+    Location: Macau, China
+    Number of Fights: 10
+    Weight Classes: Middleweight, Women's Bantamweight, Welterweight, Lightweight, Featherweight, Bantamweight
+
+    Fight Results:
+  - MICHAEL BISPING def. CUNG LE via KO/TKO(R4)
+- MILANA DUDIEVA def. ELIZABETH PHILLIPS via Decision - Split(R3)
+- COLBY COVINGTON def. ANYING WANG via KO/TKO(R1)
+- YUTA SASAKI def. ROLAND DELORME via Submission(R1)
+- ALBERTO MINA def. SHINSHO ANZAI via KO/TKO(R1)
+- TYRON WOODLEY def. DONG HYUN KIM via KO/TKO(R1)
+- ROYSTON WEE def. YAO ZHIKUI via Decision - Split(R3)
+- ZHANG LIPENG def. BRENDAN O'REILLY via Decision - Unanimous(R3)
+- GUANGYOU NING def. JIANPING YANG via Decision - Unanimous(R3)
+- SAI WANG def. DANNY MITCHELL via Decision - Unanimous(R3)

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ankalaev vs. Walker 2
+    Date: January 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARIO BAUTISTA defeated RICKY SIMON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARIO BAUTISTA landed 112 significant strikes
+  - RICKY SIMON landed 45 significant strikes
+  - Knockdowns: MARIO BAUTISTA 0,  RICKY SIMON 0
+  - Takedowns: MARIO BAUTISTA 0,  RICKY SIMON 2

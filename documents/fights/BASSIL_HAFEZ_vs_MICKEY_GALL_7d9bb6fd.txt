@@ -1,0 +1,13 @@
+Event: UFC 302: Makhachev vs. Poirier
+    Date: June 01, 2024
+    Location: Newark, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: BASSIL HAFEZ defeated MICKEY GALL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BASSIL HAFEZ landed 95 significant strikes
+  - MICKEY GALL landed 83 significant strikes
+  - Knockdowns: BASSIL HAFEZ 0,  MICKEY GALL 0
+  - Takedowns: BASSIL HAFEZ 3,  MICKEY GALL 1

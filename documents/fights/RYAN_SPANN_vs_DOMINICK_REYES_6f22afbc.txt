@@ -1,0 +1,13 @@
+Event: UFC 281: Adesanya vs. Pereira
+    Date: November 12, 2022
+    Location: New York City, New York, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RYAN SPANN defeated DOMINICK REYES via KO/TKO  
+  at 1:20 of round 1
+  Key stats:
+  - RYAN SPANN landed 8 significant strikes
+  - DOMINICK REYES landed 5 significant strikes
+  - Knockdowns: RYAN SPANN 1,  DOMINICK REYES 0
+  - Takedowns: RYAN SPANN 0,  DOMINICK REYES 0

@@ -1,0 +1,11 @@
+Fighter: MAX ROHSKOPF
+  Date of Birth: 1994-09-27
+  Career record: 1
+  First fight: 2020-06-20
+  Last fight: 2020-06-20
+
+Career Statistics:
+- Significant Strikes Landed :17
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

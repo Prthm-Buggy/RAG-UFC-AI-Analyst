@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Overeem vs. Harris
+    Date : May 16, 2020
+    Location: Jacksonville, Florida, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Women's Flyweight, Women's Strawweight, Featherweight, Middleweight, Welterweight
+
+    Fight Results:
+  - KEVIN HOLLAND def. ANTHONY HERNANDEZ via KO/TKO(R1)
+- GIGA CHIKADZE def. IRWIN RIVERA via Decision - Unanimous(R3)
+- SONG YADONG def. MARLON VERA via Decision - Unanimous(R3)
+- RODRIGO NASCIMENTO def. DON'TALE MAYES via Submission(R2)
+- NATE LANDWEHR def. DARREN ELKINS via Decision - Unanimous(R3)
+- DAN IGE def. EDSON BARBOZA via Decision - Split(R3)
+- CORTNEY CASEY def. MARA ROMERO BORELLA via Submission(R1)
+- KRZYSZTOF JOTKO def. ERYK ANDERS via Decision - Unanimous(R3)
+- MIGUEL BAEZA def. MATT BROWN via KO/TKO(R2)
+- ALISTAIR OVEREEM def. WALT HARRIS via KO/TKO(R2)
+- CLAUDIA GADELHA def. ANGELA HILL via Decision - Split(R3)

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ulberg vs. Reyes
+    Date: September 27, 2025
+    Location: Perth, Western Australia, Australia
+    Weight Class: Lightweight
+    
+
+    Result: JAMIE MULLARKEY defeated ROLANDO BEDOYA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JAMIE MULLARKEY landed 43 significant strikes
+  - ROLANDO BEDOYA landed 46 significant strikes
+  - Knockdowns: JAMIE MULLARKEY 0,  ROLANDO BEDOYA 0
+  - Takedowns: JAMIE MULLARKEY 3,  ROLANDO BEDOYA 0

@@ -1,0 +1,21 @@
+Event : UFC 322: Della Maddalena vs. Makhachev
+    Date : November 15, 2025
+    Location: New York City, New York, USA
+    Number of Fights: 14
+    Weight Classes: Lightweight, Middleweight, Women's Strawweight, Featherweight, Welterweight, Women's Flyweight
+
+    Fight Results:
+  - CARLOS PRATES def. LEON EDWARDS via KO/TKO(R2)
+- ISLAM MAKHACHEV def. JACK DELLA MADDALENA via Decision - Unanimous(R5)
+- MATHEUS CAMILO def. VIACHESLAV BORSHCHEV via Decision - Unanimous(R3)
+- Ethyn Ewing def. MALCOLM WELLMAKER via Decision - Unanimous(R3)
+- GREGORY RODRIGUES def. ROMAN KOPYLOV via Decision - Unanimous(R3)
+- MICHAEL MORALES def. SEAN BRADY via KO/TKO(R1)
+- ERIN BLANCHFIELD def. TRACY CORTEZ via Submission(R2)
+- VALENTINA SHEVCHENKO def. ZHANG WEILI via Decision - Unanimous(R5)
+- BO NICKAL def. RODOLFO VIEIRA via KO/TKO(R3)
+- BENOIT SAINT DENIS def. BENEIL DARIUSH via KO/TKO(R1)
+- KYLE DAUKAUS def. GERALD MEERSCHAERT via Submission(R1)
+- FATIMA KLINE def. ANGELA HILL via Decision - Unanimous(R3)
+- PAT SABATINI def. CHEPE MARISCAL via Decision - Unanimous(R3)
+- BAISANGUR SUSURKAEV def. ERIC MCCONICO via KO/TKO(R3)

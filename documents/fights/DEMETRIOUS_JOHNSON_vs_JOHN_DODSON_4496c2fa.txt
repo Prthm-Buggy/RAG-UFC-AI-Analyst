@@ -1,0 +1,14 @@
+Event: UFC 191: Johnson vs Dodson 2
+    Date: September 05, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: DEMETRIOUS JOHNSON defeated JOHN DODSON via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - DEMETRIOUS JOHNSON landed 88 significant strikes
+  - JOHN DODSON landed 58 significant strikes
+  - Knockdowns: DEMETRIOUS JOHNSON 0,  JOHN DODSON 0
+  - Takedowns: DEMETRIOUS JOHNSON 4,  JOHN DODSON 1
+  Bonus: belt

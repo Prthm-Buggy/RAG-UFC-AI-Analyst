@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kattar vs. Allen
+    Date: October 29, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARCOS ROGERIO DE LIMA defeated ANDREI ARLOVSKI via Submission  
+  at 1:50 of round 1
+  Key stats:
+  - MARCOS ROGERIO DE LIMA landed 6 significant strikes
+  - ANDREI ARLOVSKI landed 2 significant strikes
+  - Knockdowns: MARCOS ROGERIO DE LIMA 1,  ANDREI ARLOVSKI 0
+  - Takedowns: MARCOS ROGERIO DE LIMA 0,  ANDREI ARLOVSKI 0

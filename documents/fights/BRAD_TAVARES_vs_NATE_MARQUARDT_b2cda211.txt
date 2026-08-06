@@ -1,0 +1,13 @@
+Event: UFC 182: Jones vs Cormier
+    Date: January 03, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRAD TAVARES defeated NATE MARQUARDT via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BRAD TAVARES landed 50 significant strikes
+  - NATE MARQUARDT landed 30 significant strikes
+  - Knockdowns: BRAD TAVARES 0,  NATE MARQUARDT 0
+  - Takedowns: BRAD TAVARES 1,  NATE MARQUARDT 0

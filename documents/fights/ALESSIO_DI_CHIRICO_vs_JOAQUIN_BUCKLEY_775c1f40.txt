@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holloway vs. Kattar
+    Date: January 16, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: ALESSIO DI CHIRICO defeated JOAQUIN BUCKLEY via KO/TKO  
+  at 2:12 of round 1
+  Key stats:
+  - ALESSIO DI CHIRICO landed 12 significant strikes
+  - JOAQUIN BUCKLEY landed 3 significant strikes
+  - Knockdowns: ALESSIO DI CHIRICO 1,  JOAQUIN BUCKLEY 0
+  - Takedowns: ALESSIO DI CHIRICO 0,  JOAQUIN BUCKLEY 0
+  Bonus: perf

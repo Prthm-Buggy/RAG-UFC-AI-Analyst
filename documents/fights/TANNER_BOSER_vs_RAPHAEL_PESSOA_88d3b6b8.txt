@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. Till
+    Date: July 25, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Heavyweight
+    
+
+    Result: TANNER BOSER defeated RAPHAEL PESSOA via KO/TKO  
+  at 2:36 of round 2
+  Key stats:
+  - TANNER BOSER landed 43 significant strikes
+  - RAPHAEL PESSOA landed 12 significant strikes
+  - Knockdowns: TANNER BOSER 0,  RAPHAEL PESSOA 0
+  - Takedowns: TANNER BOSER 0,  RAPHAEL PESSOA 0
+  Bonus: perf

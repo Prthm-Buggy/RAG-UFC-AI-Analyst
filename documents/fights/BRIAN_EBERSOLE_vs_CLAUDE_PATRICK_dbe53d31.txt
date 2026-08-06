@@ -1,0 +1,13 @@
+Event: UFC 140: Jones vs Machida
+    Date: December 10, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Welterweight
+    
+
+    Result: BRIAN EBERSOLE defeated CLAUDE PATRICK via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - BRIAN EBERSOLE landed 23 significant strikes
+  - CLAUDE PATRICK landed 28 significant strikes
+  - Knockdowns: BRIAN EBERSOLE 0,  CLAUDE PATRICK 0
+  - Takedowns: BRIAN EBERSOLE 2,  CLAUDE PATRICK 0

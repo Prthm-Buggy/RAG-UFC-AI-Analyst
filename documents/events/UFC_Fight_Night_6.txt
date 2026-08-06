@@ -1,0 +1,16 @@
+Event : UFC Fight Night 6
+    Date : August 17, 2006
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Heavyweight, Middleweight, Welterweight
+
+    Fight Results:
+  - JOSH KOSCHECK def. JONATHAN GOULET via KO/TKO(R1)
+- DIEGO SANCHEZ def. KARO PARISYAN via Decision - Unanimous(R3)
+- JOE RIGGS def. JASON VON FLUE via Submission(R1)
+- CHRIS LEBEN def. JORGE SANTIAGO via KO/TKO(R2)
+- ANTHONY TORRES def. PAT HEALY via Submission(R1)
+- MARTIN KAMPMANN def. CRAFTON WALLACE via Submission(R1)
+- DEAN LISTER def. YUKI SASAKI via Decision - Unanimous(R3)
+- JAKE O'BRIEN def. KRISTOF MIDOUX via KO/TKO(R2)
+- FORREST PETZ def. SAMMY MORGAN via Decision - Unanimous(R3)

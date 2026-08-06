@@ -1,0 +1,11 @@
+Fighter: NATHAN FLETCHER
+  Date of Birth: 1998-01-03
+  Career record: 3
+  First fight: 2024-09-07
+  Last fight: 2025-08-02
+
+Career Statistics:
+- Significant Strikes Landed :76
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :1

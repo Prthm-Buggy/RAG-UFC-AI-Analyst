@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Rakic
+    Date: August 29, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: RICARDO LAMAS defeated BILL ALGEO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RICARDO LAMAS landed 104 significant strikes
+  - BILL ALGEO landed 89 significant strikes
+  - Knockdowns: RICARDO LAMAS 0,  BILL ALGEO 0
+  - Takedowns: RICARDO LAMAS 5,  BILL ALGEO 1
+  Bonus: fight

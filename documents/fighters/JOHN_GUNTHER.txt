@@ -1,0 +1,11 @@
+Fighter: JOHN GUNTHER
+  Date of Birth: 1985-11-24
+  Career record: 2
+  First fight: 2018-07-06
+  Last fight: 2018-11-10
+
+Career Statistics:
+- Significant Strikes Landed :28
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :0

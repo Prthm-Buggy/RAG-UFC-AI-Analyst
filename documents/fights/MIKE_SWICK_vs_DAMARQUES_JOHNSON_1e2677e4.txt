@@ -1,0 +1,14 @@
+Event: UFC on FOX: Shogun vs Vera
+    Date: August 04, 2012
+    Location: Los Angeles, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE SWICK defeated DAMARQUES JOHNSON via KO/TKO  
+  at 1:20 of round 2
+  Key stats:
+  - MIKE SWICK landed 19 significant strikes
+  - DAMARQUES JOHNSON landed 17 significant strikes
+  - Knockdowns: MIKE SWICK 0,  DAMARQUES JOHNSON 0
+  - Takedowns: MIKE SWICK 1,  DAMARQUES JOHNSON 2
+  Bonus: ko

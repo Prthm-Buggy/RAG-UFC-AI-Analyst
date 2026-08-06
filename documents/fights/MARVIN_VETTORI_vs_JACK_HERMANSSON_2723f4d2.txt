@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hermansson vs. Vettori
+    Date: December 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARVIN VETTORI defeated JACK HERMANSSON via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MARVIN VETTORI landed 164 significant strikes
+  - JACK HERMANSSON landed 122 significant strikes
+  - Knockdowns: MARVIN VETTORI 1,  JACK HERMANSSON 0
+  - Takedowns: MARVIN VETTORI 0,  JACK HERMANSSON 2
+  Bonus: fight

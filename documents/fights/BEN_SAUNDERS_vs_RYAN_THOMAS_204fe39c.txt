@@ -1,0 +1,13 @@
+Event: UFC 87: Seek And Destroy
+    Date: August 09, 2008
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Welterweight
+    
+
+    Result: BEN SAUNDERS defeated RYAN THOMAS via Submission  
+  at 2:28 of round 2
+  Key stats:
+  - BEN SAUNDERS landed 41 significant strikes
+  - RYAN THOMAS landed 12 significant strikes
+  - Knockdowns: BEN SAUNDERS 1,  RYAN THOMAS 0
+  - Takedowns: BEN SAUNDERS 1,  RYAN THOMAS 0

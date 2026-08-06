@@ -1,0 +1,13 @@
+Event: UFC 209: Woodley vs. Thompson 2
+    Date: March 04, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TYSON PEDRO defeated PAUL CRAIG via KO/TKO  
+  at 4:10 of round 1
+  Key stats:
+  - TYSON PEDRO landed 23 significant strikes
+  - PAUL CRAIG landed 12 significant strikes
+  - Knockdowns: TYSON PEDRO 1,  PAUL CRAIG 0
+  - Takedowns: TYSON PEDRO 0,  PAUL CRAIG 0

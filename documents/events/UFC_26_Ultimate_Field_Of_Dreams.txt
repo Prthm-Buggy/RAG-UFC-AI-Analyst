@@ -1,0 +1,15 @@
+Event : UFC 26: Ultimate Field Of Dreams
+    Date : June 09, 2000
+    Location: Cedar Rapids, Iowa, USA
+    Number of Fights: 8
+    Weight Classes: Welterweight, Middleweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - PAT MILETICH def. JOHN ALESSIO via Submission(R2)
+- KEVIN RANDLEMAN def. PEDRO RIZZO via Decision - Unanimous(R5)
+- TYRONE ROBERTS def. DAVID DODD via Decision - Unanimous(R3)
+- MATT HUGHES def. MARCELO AGUIAR via TKO - Doctor's Stoppage(R1)
+- SHONIE CARTER def. ADRIAN SERRANO via Decision - Unanimous(R2)
+- IAN FREEMAN def. NATE SCHROEDER via KO/TKO(R2)
+- AMAURY BITETTI def. ALEX ANDRADE via DQ(R2)
+- JENS PULVER def. JOAO ROQUE via Decision - Unanimous(R3)

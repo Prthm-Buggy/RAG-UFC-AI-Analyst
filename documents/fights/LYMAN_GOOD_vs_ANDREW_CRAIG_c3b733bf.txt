@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Mir vs Duffee
+    Date: July 15, 2015
+    Location: San Diego, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: LYMAN GOOD defeated ANDREW CRAIG via KO/TKO  
+  at 3:37 of round 2
+  Key stats:
+  - LYMAN GOOD landed 55 significant strikes
+  - ANDREW CRAIG landed 20 significant strikes
+  - Knockdowns: LYMAN GOOD 1,  ANDREW CRAIG 0
+  - Takedowns: LYMAN GOOD 0,  ANDREW CRAIG 0

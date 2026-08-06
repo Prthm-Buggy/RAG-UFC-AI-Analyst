@@ -1,0 +1,13 @@
+Event: UFC 193: Rousey vs Holm
+    Date: November 14, 2015
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Middleweight
+    
+
+    Result: DANIEL KELLY defeated STEVE MONTGOMERY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DANIEL KELLY landed 63 significant strikes
+  - STEVE MONTGOMERY landed 77 significant strikes
+  - Knockdowns: DANIEL KELLY 0,  STEVE MONTGOMERY 0
+  - Takedowns: DANIEL KELLY 5,  STEVE MONTGOMERY 0

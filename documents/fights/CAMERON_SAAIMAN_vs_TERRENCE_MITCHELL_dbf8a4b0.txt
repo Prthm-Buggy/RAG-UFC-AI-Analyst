@@ -1,0 +1,13 @@
+Event: UFC 290: Volkanovski vs. Rodriguez
+    Date: July 08, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CAMERON SAAIMAN defeated TERRENCE MITCHELL via KO/TKO  
+  at 3:10 of round 1
+  Key stats:
+  - CAMERON SAAIMAN landed 18 significant strikes
+  - TERRENCE MITCHELL landed 3 significant strikes
+  - Knockdowns: CAMERON SAAIMAN 0,  TERRENCE MITCHELL 0
+  - Takedowns: CAMERON SAAIMAN 2,  TERRENCE MITCHELL 1

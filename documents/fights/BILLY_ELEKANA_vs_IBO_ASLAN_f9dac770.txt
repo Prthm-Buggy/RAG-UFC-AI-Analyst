@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Whittaker vs. De Ridder
+    Date: July 26, 2025
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: BILLY ELEKANA defeated IBO ASLAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BILLY ELEKANA landed 35 significant strikes
+  - IBO ASLAN landed 28 significant strikes
+  - Knockdowns: BILLY ELEKANA 0,  IBO ASLAN 0
+  - Takedowns: BILLY ELEKANA 0,  IBO ASLAN 0

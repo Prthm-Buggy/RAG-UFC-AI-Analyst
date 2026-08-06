@@ -1,0 +1,11 @@
+Fighter: RASHAD EVANS
+  Date of Birth: 1979-09-25
+  Career record: 22
+  First fight: 2005-11-05
+  Last fight: 2018-06-09
+
+Career Statistics:
+- Significant Strikes Landed :595
+- Total takedowns landed :51
+- Knockdowns :4
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Imavov vs. Borralho
+    Date: September 06, 2025
+    Location: Paris, Ile-de-France, France
+    Weight Class: Light Heavyweight
+    
+
+    Result: OUMAR SY defeated BRENDSON RIBEIRO via KO/TKO  
+  at 4:42 of round 1
+  Key stats:
+  - OUMAR SY landed 17 significant strikes
+  - BRENDSON RIBEIRO landed 5 significant strikes
+  - Knockdowns: OUMAR SY 0,  BRENDSON RIBEIRO 0
+  - Takedowns: OUMAR SY 2,  BRENDSON RIBEIRO 0

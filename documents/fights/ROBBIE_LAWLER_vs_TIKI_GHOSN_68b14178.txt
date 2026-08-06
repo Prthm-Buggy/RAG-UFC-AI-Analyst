@@ -1,0 +1,13 @@
+Event: UFC 40: Vendetta
+    Date: November 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ROBBIE LAWLER defeated TIKI GHOSN via KO/TKO  
+  at 1:29 of round 1
+  Key stats:
+  - ROBBIE LAWLER landed 5 significant strikes
+  - TIKI GHOSN landed 7 significant strikes
+  - Knockdowns: ROBBIE LAWLER 1,  TIKI GHOSN 0
+  - Takedowns: ROBBIE LAWLER 0,  TIKI GHOSN 0

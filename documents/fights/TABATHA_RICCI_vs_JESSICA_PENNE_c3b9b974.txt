@@ -1,0 +1,13 @@
+Event: UFC 285: Jones vs. Gane
+    Date: March 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: TABATHA RICCI defeated JESSICA PENNE via Submission  
+  at 2:14 of round 2
+  Key stats:
+  - TABATHA RICCI landed 36 significant strikes
+  - JESSICA PENNE landed 6 significant strikes
+  - Knockdowns: TABATHA RICCI 0,  JESSICA PENNE 0
+  - Takedowns: TABATHA RICCI 4,  JESSICA PENNE 0

@@ -1,0 +1,13 @@
+Event: UFC 62: Liddell vs Sobral
+    Date: August 26, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: FORREST GRIFFIN defeated STEPHAN BONNAR via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - FORREST GRIFFIN landed 83 significant strikes
+  - STEPHAN BONNAR landed 41 significant strikes
+  - Knockdowns: FORREST GRIFFIN 0,  STEPHAN BONNAR 0
+  - Takedowns: FORREST GRIFFIN 0,  STEPHAN BONNAR 0

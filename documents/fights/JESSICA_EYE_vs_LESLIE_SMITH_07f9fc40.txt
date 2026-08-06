@@ -1,0 +1,13 @@
+Event: UFC 180: Werdum vs Hunt
+    Date: November 15, 2014
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JESSICA EYE defeated LESLIE SMITH via TKO - Doctor's Stoppage  
+  at 1:30 of round 2
+  Key stats:
+  - JESSICA EYE landed 80 significant strikes
+  - LESLIE SMITH landed 28 significant strikes
+  - Knockdowns: JESSICA EYE 0,  LESLIE SMITH 0
+  - Takedowns: JESSICA EYE 0,  LESLIE SMITH 0

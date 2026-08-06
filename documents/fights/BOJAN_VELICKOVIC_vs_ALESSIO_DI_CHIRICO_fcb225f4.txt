@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rothwell vs Dos Santos
+    Date: April 10, 2016
+    Location: Zagreb, Croatia
+    Weight Class: Middleweight
+    
+
+    Result: BOJAN VELICKOVIC defeated ALESSIO DI CHIRICO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BOJAN VELICKOVIC landed 45 significant strikes
+  - ALESSIO DI CHIRICO landed 65 significant strikes
+  - Knockdowns: BOJAN VELICKOVIC 0,  ALESSIO DI CHIRICO 0
+  - Takedowns: BOJAN VELICKOVIC 1,  ALESSIO DI CHIRICO 2

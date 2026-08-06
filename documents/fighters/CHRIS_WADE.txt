@@ -1,0 +1,11 @@
+Fighter: CHRIS WADE
+  Date of Birth: 1987-09-30
+  Career record: 7
+  First fight: 2014-08-30
+  Last fight: 2017-07-22
+
+Career Statistics:
+- Significant Strikes Landed :137
+- Total takedowns landed :14
+- Knockdowns :1
+- Submission Attempts :6

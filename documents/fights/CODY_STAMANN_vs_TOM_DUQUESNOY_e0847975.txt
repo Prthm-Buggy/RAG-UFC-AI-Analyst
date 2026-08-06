@@ -1,0 +1,13 @@
+Event: UFC 216: Ferguson vs. Lee
+    Date: October 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CODY STAMANN defeated TOM DUQUESNOY via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CODY STAMANN landed 66 significant strikes
+  - TOM DUQUESNOY landed 33 significant strikes
+  - Knockdowns: CODY STAMANN 0,  TOM DUQUESNOY 0
+  - Takedowns: CODY STAMANN 4,  TOM DUQUESNOY 1

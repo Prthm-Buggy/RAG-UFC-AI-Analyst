@@ -1,0 +1,11 @@
+Fighter: BRANDO PERICIC
+  Date of Birth: 1994-08-03
+  Career record: 3
+  First fight: 2025-09-27
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :137
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

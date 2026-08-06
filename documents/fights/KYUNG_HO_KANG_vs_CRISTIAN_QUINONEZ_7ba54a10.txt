@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Cannonier
+    Date: June 17, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: KYUNG HO KANG defeated CRISTIAN QUINONEZ via Submission  
+  at 2:25 of round 1
+  Key stats:
+  - KYUNG HO KANG landed 22 significant strikes
+  - CRISTIAN QUINONEZ landed 13 significant strikes
+  - Knockdowns: KYUNG HO KANG 1,  CRISTIAN QUINONEZ 0
+  - Takedowns: KYUNG HO KANG 1,  CRISTIAN QUINONEZ 0

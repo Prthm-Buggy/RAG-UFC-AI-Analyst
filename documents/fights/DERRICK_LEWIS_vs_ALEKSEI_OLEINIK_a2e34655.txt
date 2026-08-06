@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Oleinik
+    Date: August 08, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated ALEKSEI OLEINIK via KO/TKO  
+  at 0:21 of round 2
+  Key stats:
+  - DERRICK LEWIS landed 35 significant strikes
+  - ALEKSEI OLEINIK landed 2 significant strikes
+  - Knockdowns: DERRICK LEWIS 1,  ALEKSEI OLEINIK 0
+  - Takedowns: DERRICK LEWIS 1,  ALEKSEI OLEINIK 1

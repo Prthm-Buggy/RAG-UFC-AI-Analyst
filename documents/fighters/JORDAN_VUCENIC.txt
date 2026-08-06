@@ -1,0 +1,11 @@
+Fighter: JORDAN VUCENIC
+  Date of Birth: 1996-03-02
+  Career record: 2
+  First fight: 2024-08-03
+  Last fight: 2025-03-22
+
+Career Statistics:
+- Significant Strikes Landed :50
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Dillashaw
+    Date: July 24, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DARREN ELKINS defeated DARRICK MINNER via KO/TKO  
+  at 3:48 of round 2
+  Key stats:
+  - DARREN ELKINS landed 20 significant strikes
+  - DARRICK MINNER landed 19 significant strikes
+  - Knockdowns: DARREN ELKINS 0,  DARRICK MINNER 0
+  - Takedowns: DARREN ELKINS 1,  DARRICK MINNER 2
+  Bonus: perf

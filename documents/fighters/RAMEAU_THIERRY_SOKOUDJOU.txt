@@ -1,0 +1,11 @@
+Fighter: RAMEAU THIERRY SOKOUDJOU
+  Date of Birth: 1984-04-18
+  Career record: 3
+  First fight: 2007-12-29
+  Last fight: 2008-10-18
+
+Career Statistics:
+- Significant Strikes Landed :60
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :2

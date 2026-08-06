@@ -1,0 +1,11 @@
+Fighter: CYRILLE DIABATE
+  Date of Birth: 1973-10-06
+  Career record: 8
+  First fight: 2010-05-29
+  Last fight: 2014-03-08
+
+Career Statistics:
+- Significant Strikes Landed :254
+- Total takedowns landed :5
+- Knockdowns :3
+- Submission Attempts :1

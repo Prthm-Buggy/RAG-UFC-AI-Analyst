@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Luque vs. Muhammad
+    Date: April 16, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALATENGHEILI defeated KEVIN CROOM via KO/TKO  
+  at 0:47 of round 1
+  Key stats:
+  - ALATENGHEILI landed 9 significant strikes
+  - KEVIN CROOM landed 2 significant strikes
+  - Knockdowns: ALATENGHEILI 1,  KEVIN CROOM 0
+  - Takedowns: ALATENGHEILI 0,  KEVIN CROOM 0

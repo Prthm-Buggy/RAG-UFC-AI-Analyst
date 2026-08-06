@@ -1,0 +1,13 @@
+Event : UFC - Ultimate Japan
+    Date : December 21, 1997
+    Location: Yokohama, Kanagawa, Japan
+    Number of Fights: 6
+    Weight Classes: Lightweight, Heavyweight
+
+    Fight Results:
+  - RANDY COUTURE def. MAURICE SMITH via Decision - Majority(R3)
+- FRANK SHAMROCK def. KEVIN JACKSON via Submission(R1)
+- TRA TELLIGMAN def. BRAD KOHLER via Submission(R1)
+- VITOR BELFORT def. JOE CHARLES via Submission(R1)
+- KAZUSHI SAKURABA def. MARCUS SILVEIRA via Overturned(R1)
+- DAVID ABBOTT def. YOJI ANJO via Decision - Unanimous(R2)

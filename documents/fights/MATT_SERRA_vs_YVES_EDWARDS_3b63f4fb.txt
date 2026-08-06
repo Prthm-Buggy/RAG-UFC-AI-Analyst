@@ -1,0 +1,13 @@
+Event: UFC 33: Victory in Vegas
+    Date: September 28, 2001
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT SERRA defeated YVES EDWARDS via Decision - Majority  
+  at 5:00 of round 3
+  Key stats:
+  - MATT SERRA landed 9 significant strikes
+  - YVES EDWARDS landed 9 significant strikes
+  - Knockdowns: MATT SERRA 0,  YVES EDWARDS 0
+  - Takedowns: MATT SERRA 3,  YVES EDWARDS 0

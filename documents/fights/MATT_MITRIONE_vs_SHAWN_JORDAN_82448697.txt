@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kim vs Hathaway
+    Date: March 01, 2014
+    Location: Macau, China
+    Weight Class: Heavyweight
+    
+
+    Result: MATT MITRIONE defeated SHAWN JORDAN via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - MATT MITRIONE landed 24 significant strikes
+  - SHAWN JORDAN landed 15 significant strikes
+  - Knockdowns: MATT MITRIONE 1,  SHAWN JORDAN 0
+  - Takedowns: MATT MITRIONE 0,  SHAWN JORDAN 0
+  Bonus: perf

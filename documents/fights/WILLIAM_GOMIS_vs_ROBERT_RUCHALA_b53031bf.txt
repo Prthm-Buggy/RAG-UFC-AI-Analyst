@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Imavov vs. Borralho
+    Date: September 06, 2025
+    Location: Paris, Ile-de-France, France
+    Weight Class: Featherweight
+    
+
+    Result: WILLIAM GOMIS defeated ROBERT RUCHALA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - WILLIAM GOMIS landed 49 significant strikes
+  - ROBERT RUCHALA landed 34 significant strikes
+  - Knockdowns: WILLIAM GOMIS 0,  ROBERT RUCHALA 0
+  - Takedowns: WILLIAM GOMIS 2,  ROBERT RUCHALA 2

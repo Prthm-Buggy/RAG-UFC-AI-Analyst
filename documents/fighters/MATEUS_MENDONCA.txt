@@ -1,0 +1,11 @@
+Fighter: MATEUS MENDONCA
+  Date of Birth: 1999-01-17
+  Career record: 3
+  First fight: 2023-01-14
+  Last fight: 2024-02-24
+
+Career Statistics:
+- Significant Strikes Landed :50
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: UFC 70: Nations Collide
+    Date: April 21, 2007
+    Location: Manchester, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: JESS LIAUDIN defeated DENNIS SIVER via Submission  
+  at 1:21 of round 1
+  Key stats:
+  - JESS LIAUDIN landed 1 significant strikes
+  - DENNIS SIVER landed 2 significant strikes
+  - Knockdowns: JESS LIAUDIN 0,  DENNIS SIVER 0
+  - Takedowns: JESS LIAUDIN 0,  DENNIS SIVER 1

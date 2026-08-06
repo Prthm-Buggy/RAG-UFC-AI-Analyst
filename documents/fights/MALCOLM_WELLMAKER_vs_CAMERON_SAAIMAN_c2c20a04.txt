@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machado Garry vs. Prates
+    Date: April 26, 2025
+    Location: Kansas City, Missouri, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MALCOLM WELLMAKER defeated CAMERON SAAIMAN via KO/TKO  
+  at 1:59 of round 1
+  Key stats:
+  - MALCOLM WELLMAKER landed 6 significant strikes
+  - CAMERON SAAIMAN landed 9 significant strikes
+  - Knockdowns: MALCOLM WELLMAKER 1,  CAMERON SAAIMAN 0
+  - Takedowns: MALCOLM WELLMAKER 0,  CAMERON SAAIMAN 0
+  Bonus: perf

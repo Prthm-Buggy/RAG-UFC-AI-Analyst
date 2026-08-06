@@ -1,0 +1,14 @@
+Event: UFC 113: Machida vs Shogun 2
+    Date: May 08, 2010
+    Location: Montreal, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: ALAN BELCHER defeated PATRICK COTE via Submission  
+  at 3:25 of round 2
+  Key stats:
+  - ALAN BELCHER landed 27 significant strikes
+  - PATRICK COTE landed 22 significant strikes
+  - Knockdowns: ALAN BELCHER 0,  PATRICK COTE 0
+  - Takedowns: ALAN BELCHER 1,  PATRICK COTE 2
+  Bonus: sub

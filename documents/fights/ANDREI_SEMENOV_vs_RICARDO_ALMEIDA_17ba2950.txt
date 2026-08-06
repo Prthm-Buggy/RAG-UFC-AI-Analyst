@@ -1,0 +1,13 @@
+Event: UFC 35: Throwdown
+    Date: January 11, 2002
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDREI SEMENOV defeated RICARDO ALMEIDA via KO/TKO  
+  at 2:01 of round 2
+  Key stats:
+  - ANDREI SEMENOV landed 5 significant strikes
+  - RICARDO ALMEIDA landed 12 significant strikes
+  - Knockdowns: ANDREI SEMENOV 1,  RICARDO ALMEIDA 0
+  - Takedowns: ANDREI SEMENOV 0,  RICARDO ALMEIDA 1

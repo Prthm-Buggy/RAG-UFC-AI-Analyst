@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Browne
+    Date: February 19, 2017
+    Location: Halifax, Nova Scotia, Canada
+    Weight Class: Welterweight
+    
+
+    Result: SANTIAGO PONZINIBBIO defeated NORDINE TALEB via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SANTIAGO PONZINIBBIO landed 53 significant strikes
+  - NORDINE TALEB landed 48 significant strikes
+  - Knockdowns: SANTIAGO PONZINIBBIO 1,  NORDINE TALEB 0
+  - Takedowns: SANTIAGO PONZINIBBIO 0,  NORDINE TALEB 0

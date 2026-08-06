@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Poirier vs. Gaethje
+    Date: April 14, 2018
+    Location: Glendale, Arizona, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALEX OLIVEIRA defeated CARLOS CONDIT via Submission  
+  at 3:17 of round 2
+  Key stats:
+  - ALEX OLIVEIRA landed 9 significant strikes
+  - CARLOS CONDIT landed 12 significant strikes
+  - Knockdowns: ALEX OLIVEIRA 0,  CARLOS CONDIT 0
+  - Takedowns: ALEX OLIVEIRA 3,  CARLOS CONDIT 1
+  Bonus: perf

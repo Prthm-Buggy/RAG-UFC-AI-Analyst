@@ -1,0 +1,14 @@
+Event: UFC 173: Barao vs Dillashaw
+    Date: May 24, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MITCH CLARKE defeated AL IAQUINTA via Submission  
+  at 0:57 of round 2
+  Key stats:
+  - MITCH CLARKE landed 8 significant strikes
+  - AL IAQUINTA landed 13 significant strikes
+  - Knockdowns: MITCH CLARKE 0,  AL IAQUINTA 0
+  - Takedowns: MITCH CLARKE 0,  AL IAQUINTA 1
+  Bonus: perf

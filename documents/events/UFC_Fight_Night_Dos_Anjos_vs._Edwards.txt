@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Dos Anjos vs. Edwards
+    Date : July 20, 2019
+    Location: San Antonio, Texas, USA
+    Number of Fights: 13
+    Weight Classes: Women's Bantamweight, Featherweight, Welterweight, Lightweight, Light Heavyweight, Heavyweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - KLIDSON ABREU def. SAM ALVEY via Decision - Unanimous(R3)
+- FELIPE COLARES def. DOMINGO PILARTE via Decision - Split(R3)
+- ALEXANDER HERNANDEZ def. FRANCISCO TRINALDO via Decision - Unanimous(R3)
+- ALEX CACERES def. STEVEN PETERSON via Decision - Unanimous(R3)
+- RAQUEL PENNINGTON def. IRENE ALDANA via Decision - Split(R3)
+- GREG HARDY def. JUAN ADAMS via KO/TKO(R1)
+- RAY BORG def. GABRIEL SILVA via Decision - Unanimous(R3)
+- JENNIFER MAIA def. ROXANNE MODAFFERI via Decision - Unanimous(R3)
+- DAN HOOKER def. JAMES VICK via KO/TKO(R1)
+- ANDREI ARLOVSKI def. BEN ROTHWELL via Decision - Unanimous(R3)
+- LEON EDWARDS def. RAFAEL DOS ANJOS via Decision - Unanimous(R5)
+- WALT HARRIS def. ALEKSEI OLEINIK via KO/TKO(R1)
+- MARIO BAUTISTA def. JIN SOO SON via Decision - Unanimous(R3)

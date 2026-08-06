@@ -1,0 +1,11 @@
+Fighter: MIKE STUMPF
+  Date of Birth: 1986-08-01
+  Career record: 2
+  First fight: 2011-09-17
+  Last fight: 2013-01-26
+
+Career Statistics:
+- Significant Strikes Landed :63
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

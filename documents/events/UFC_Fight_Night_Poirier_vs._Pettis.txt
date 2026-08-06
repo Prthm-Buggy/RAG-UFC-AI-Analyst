@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Poirier vs. Pettis
+    Date : November 11, 2017
+    Location: Norfolk, Virginia, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Heavyweight, Lightweight, Women's Strawweight, Welterweight, Light Heavyweight, Middleweight
+
+    Fight Results:
+  - SEAN STRICKLAND def. COURT MCGEE via Decision - Unanimous(R3)
+- TATIANA SUAREZ def. VIVIANE PEREIRA via Decision - Unanimous(R3)
+- ANDREI ARLOVSKI def. JUNIOR ALBINI via Decision - Unanimous(R3)
+- DUSTIN POIRIER def. ANTHONY PETTIS via KO/TKO(R3)
+- MARLON MORAES def. JOHN DODSON via Decision - Split(R3)
+- RAPHAEL ASSUNCAO def. MATTHEW LOPEZ via KO/TKO(R3)
+- KARL ROBERSON def. DARREN STEWART via Submission(R1)
+- CLAY GUIDA def. JOE LAUZON via KO/TKO(R1)
+- NINA NUNES def. ANGELA HILL via Decision - Unanimous(R3)
+- MATT BROWN def. DIEGO SANCHEZ via KO/TKO(R1)
+- CEZAR FERREIRA def. NATE MARQUARDT via Decision - Split(R3)
+- JAKE COLLIER def. MARCEL FORTUNA via Decision - Unanimous(R3)
+- SAGE NORTHCUTT def. MICHEL QUINONES via Decision - Unanimous(R3)

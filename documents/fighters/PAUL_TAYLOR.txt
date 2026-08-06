@@ -1,0 +1,11 @@
+Fighter: PAUL TAYLOR
+  Date of Birth: 1979-12-15
+  Career record: 9
+  First fight: 2007-04-21
+  Last fight: 2011-02-05
+
+Career Statistics:
+- Significant Strikes Landed :495
+- Total takedowns landed :2
+- Knockdowns :4
+- Submission Attempts :4

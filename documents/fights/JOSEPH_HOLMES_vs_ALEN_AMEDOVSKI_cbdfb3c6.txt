@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Vieira
+    Date: May 21, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOSEPH HOLMES defeated ALEN AMEDOVSKI via Submission  
+  at 1:04 of round 1
+  Key stats:
+  - JOSEPH HOLMES landed 16 significant strikes
+  - ALEN AMEDOVSKI landed 1 significant strikes
+  - Knockdowns: JOSEPH HOLMES 1,  ALEN AMEDOVSKI 0
+  - Takedowns: JOSEPH HOLMES 1,  ALEN AMEDOVSKI 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Pettis vs. Moreno
+    Date: August 05, 2017
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Flyweight
+    
+
+    Result: DUSTIN ORTIZ defeated HECTOR SANDOVAL via KO/TKO  
+  at 0:15 of round 1
+  Key stats:
+  - DUSTIN ORTIZ landed 8 significant strikes
+  - HECTOR SANDOVAL landed 1 significant strikes
+  - Knockdowns: DUSTIN ORTIZ 1,  HECTOR SANDOVAL 0
+  - Takedowns: DUSTIN ORTIZ 0,  HECTOR SANDOVAL 0
+  Bonus: perf

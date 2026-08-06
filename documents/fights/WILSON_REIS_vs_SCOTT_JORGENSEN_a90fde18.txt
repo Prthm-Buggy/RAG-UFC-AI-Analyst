@@ -1,0 +1,13 @@
+Event: UFC 179: Aldo vs Mendes 2
+    Date: October 25, 2014
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: WILSON REIS defeated SCOTT JORGENSEN via Submission  
+  at 3:28 of round 1
+  Key stats:
+  - WILSON REIS landed 13 significant strikes
+  - SCOTT JORGENSEN landed 6 significant strikes
+  - Knockdowns: WILSON REIS 0,  SCOTT JORGENSEN 1
+  - Takedowns: WILSON REIS 1,  SCOTT JORGENSEN 0

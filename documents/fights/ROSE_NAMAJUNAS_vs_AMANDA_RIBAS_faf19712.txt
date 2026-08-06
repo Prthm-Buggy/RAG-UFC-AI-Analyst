@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ribas vs. Namajunas
+    Date: March 23, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ROSE NAMAJUNAS defeated AMANDA RIBAS via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ROSE NAMAJUNAS landed 93 significant strikes
+  - AMANDA RIBAS landed 83 significant strikes
+  - Knockdowns: ROSE NAMAJUNAS 0,  AMANDA RIBAS 0
+  - Takedowns: ROSE NAMAJUNAS 1,  AMANDA RIBAS 4

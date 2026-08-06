@@ -1,0 +1,13 @@
+Event: UFC 219: Cyborg vs. Holm
+    Date: December 30, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: CARLA ESPARZA defeated CYNTHIA CALVILLO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CARLA ESPARZA landed 48 significant strikes
+  - CYNTHIA CALVILLO landed 38 significant strikes
+  - Knockdowns: CARLA ESPARZA 0,  CYNTHIA CALVILLO 0
+  - Takedowns: CARLA ESPARZA 2,  CYNTHIA CALVILLO 1

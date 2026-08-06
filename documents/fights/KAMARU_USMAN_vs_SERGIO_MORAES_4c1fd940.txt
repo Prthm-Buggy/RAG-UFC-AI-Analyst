@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs. Branch
+    Date: September 16, 2017
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Welterweight
+    
+
+    Result: KAMARU USMAN defeated SERGIO MORAES via KO/TKO  
+  at 2:48 of round 1
+  Key stats:
+  - KAMARU USMAN landed 16 significant strikes
+  - SERGIO MORAES landed 13 significant strikes
+  - Knockdowns: KAMARU USMAN 1,  SERGIO MORAES 0
+  - Takedowns: KAMARU USMAN 0,  SERGIO MORAES 0

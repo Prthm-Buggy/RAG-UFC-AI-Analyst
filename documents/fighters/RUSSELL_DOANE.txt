@@ -1,0 +1,11 @@
+Fighter: RUSSELL DOANE
+  Date of Birth: 1986-08-13
+  Career record: 8
+  First fight: 2014-01-04
+  Last fight: 2018-02-24
+
+Career Statistics:
+- Significant Strikes Landed :137
+- Total takedowns landed :11
+- Knockdowns :2
+- Submission Attempts :4

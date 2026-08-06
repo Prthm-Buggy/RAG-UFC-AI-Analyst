@@ -1,0 +1,13 @@
+Event: UFC 101: Declaration
+    Date: August 08, 2009
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Welterweight
+    
+
+    Result: JESSE LENNOX defeated DANILLO VILLEFORT via TKO - Doctor's Stoppage  
+  at 3:37 of round 3
+  Key stats:
+  - JESSE LENNOX landed 37 significant strikes
+  - DANILLO VILLEFORT landed 43 significant strikes
+  - Knockdowns: JESSE LENNOX 0,  DANILLO VILLEFORT 0
+  - Takedowns: JESSE LENNOX 1,  DANILLO VILLEFORT 1

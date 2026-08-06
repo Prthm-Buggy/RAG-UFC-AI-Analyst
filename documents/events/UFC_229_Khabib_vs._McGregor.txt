@@ -1,0 +1,19 @@
+Event : UFC 229: Khabib vs. McGregor
+    Date : October 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Welterweight, Flyweight, Women's Strawweight, Light Heavyweight, Women's Bantamweight, Heavyweight
+
+    Fight Results:
+  - YANA SANTOS def. LINA LANSBERG via Decision - Unanimous(R3)
+- DERRICK LEWIS def. ALEXANDER VOLKOV via KO/TKO(R3)
+- VICENTE LUQUE def. JALIN TURNER via KO/TKO(R1)
+- KHABIB NURMAGOMEDOV def. CONOR MCGREGOR via Submission(R4)
+- ASPEN LADD def. TONYA EVINGER via KO/TKO(R1)
+- ANTHONY ROCCO MARTIN def. RYAN LAFLARE via KO/TKO(R3)
+- SCOTT HOLTZMAN def. ALAN PATRICK via KO/TKO(R3)
+- DOMINICK REYES def. OVINCE SAINT PREUX via Decision - Unanimous(R3)
+- JUSSIER FORMIGA def. SERGIO PETTIS via Decision - Unanimous(R3)
+- MICHELLE WATERSON-GOMEZ def. FELICE HERRIG via Decision - Unanimous(R3)
+- NIK LENTZ def. GRAY MAYNARD via KO/TKO(R2)
+- TONY FERGUSON def. ANTHONY PETTIS via KO/TKO(R2)

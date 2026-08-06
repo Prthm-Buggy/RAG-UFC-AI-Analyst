@@ -1,0 +1,11 @@
+Fighter: GERMAINE DE RANDAMIE
+  Date of Birth: 1984-04-24
+  Career record: 10
+  First fight: 2013-07-27
+  Last fight: 2024-04-06
+
+Career Statistics:
+- Significant Strikes Landed :317
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :3

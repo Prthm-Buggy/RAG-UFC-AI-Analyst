@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Emmett vs. Murphy
+    Date: April 05, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CHANGHO LEE defeated CORTAVIOUS ROMIOUS via KO/TKO  
+  at 3:48 of round 2
+  Key stats:
+  - CHANGHO LEE landed 44 significant strikes
+  - CORTAVIOUS ROMIOUS landed 11 significant strikes
+  - Knockdowns: CHANGHO LEE 0,  CORTAVIOUS ROMIOUS 0
+  - Takedowns: CHANGHO LEE 2,  CORTAVIOUS ROMIOUS 2
+  Bonus: perf

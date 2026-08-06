@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Dolidze 2
+    Date: March 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DA'MON BLACKSHEAR defeated CODY GIBSON via Submission  
+  at 4:09 of round 2
+  Key stats:
+  - DA'MON BLACKSHEAR landed 13 significant strikes
+  - CODY GIBSON landed 45 significant strikes
+  - Knockdowns: DA'MON BLACKSHEAR 0,  CODY GIBSON 0
+  - Takedowns: DA'MON BLACKSHEAR 0,  CODY GIBSON 1

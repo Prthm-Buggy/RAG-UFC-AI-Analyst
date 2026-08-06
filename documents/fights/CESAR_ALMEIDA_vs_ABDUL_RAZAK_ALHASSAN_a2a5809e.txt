@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dern vs. Ribas 2
+    Date: January 11, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CESAR ALMEIDA defeated ABDUL RAZAK ALHASSAN via KO/TKO  
+  at 4:16 of round 1
+  Key stats:
+  - CESAR ALMEIDA landed 20 significant strikes
+  - ABDUL RAZAK ALHASSAN landed 17 significant strikes
+  - Knockdowns: CESAR ALMEIDA 1,  ABDUL RAZAK ALHASSAN 1
+  - Takedowns: CESAR ALMEIDA 0,  ABDUL RAZAK ALHASSAN 0
+  Bonus: perf

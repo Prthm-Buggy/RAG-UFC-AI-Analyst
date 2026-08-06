@@ -1,0 +1,13 @@
+Event: UFC 128: Shogun vs Jones
+    Date: March 19, 2011
+    Location: Newark, New Jersey, USA
+    Weight Class: Bantamweight
+    
+
+    Result: URIJAH FABER defeated EDDIE WINELAND via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - URIJAH FABER landed 49 significant strikes
+  - EDDIE WINELAND landed 11 significant strikes
+  - Knockdowns: URIJAH FABER 0,  EDDIE WINELAND 0
+  - Takedowns: URIJAH FABER 2,  EDDIE WINELAND 1

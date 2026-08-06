@@ -1,0 +1,11 @@
+Fighter: JOSE TORRES
+  Date of Birth: 1992-08-02
+  Career record: 2
+  First fight: 2018-06-01
+  Last fight: 2018-08-04
+
+Career Statistics:
+- Significant Strikes Landed :51
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

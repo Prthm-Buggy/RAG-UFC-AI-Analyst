@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Hooker
+    Date: June 27, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: KHAMA WORTHY defeated LUIS PENA via Submission  
+  at 2:53 of round 3
+  Key stats:
+  - KHAMA WORTHY landed 55 significant strikes
+  - LUIS PENA landed 38 significant strikes
+  - Knockdowns: KHAMA WORTHY 0,  LUIS PENA 0
+  - Takedowns: KHAMA WORTHY 0,  LUIS PENA 3

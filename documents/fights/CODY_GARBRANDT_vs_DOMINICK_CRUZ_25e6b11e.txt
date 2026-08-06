@@ -1,0 +1,14 @@
+Event: UFC 207: Nunes vs. Rousey
+    Date: December 30, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CODY GARBRANDT defeated DOMINICK CRUZ via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CODY GARBRANDT landed 68 significant strikes
+  - DOMINICK CRUZ landed 88 significant strikes
+  - Knockdowns: CODY GARBRANDT 2,  DOMINICK CRUZ 0
+  - Takedowns: CODY GARBRANDT 1,  DOMINICK CRUZ 0
+  Bonus: belt

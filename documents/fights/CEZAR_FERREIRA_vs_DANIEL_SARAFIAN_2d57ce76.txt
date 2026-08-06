@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs Henderson 2
+    Date: November 09, 2013
+    Location: Goiania, Goias, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: CEZAR FERREIRA defeated DANIEL SARAFIAN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CEZAR FERREIRA landed 15 significant strikes
+  - DANIEL SARAFIAN landed 21 significant strikes
+  - Knockdowns: CEZAR FERREIRA 0,  DANIEL SARAFIAN 0
+  - Takedowns: CEZAR FERREIRA 3,  DANIEL SARAFIAN 0

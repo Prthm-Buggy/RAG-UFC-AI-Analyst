@@ -1,0 +1,11 @@
+Fighter: SANTIAGO LUNA
+  Date of Birth: 2004-08-06
+  Career record: 3
+  First fight: 2025-09-13
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :155
+- Total takedowns landed :5
+- Knockdowns :2
+- Submission Attempts :1

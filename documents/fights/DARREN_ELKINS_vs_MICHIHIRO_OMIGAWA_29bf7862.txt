@@ -1,0 +1,13 @@
+Event: UFC 131: Dos Santos vs Carwin
+    Date: June 11, 2011
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Featherweight
+    
+
+    Result: DARREN ELKINS defeated MICHIHIRO OMIGAWA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DARREN ELKINS landed 78 significant strikes
+  - MICHIHIRO OMIGAWA landed 65 significant strikes
+  - Knockdowns: DARREN ELKINS 0,  MICHIHIRO OMIGAWA 0
+  - Takedowns: DARREN ELKINS 1,  MICHIHIRO OMIGAWA 1

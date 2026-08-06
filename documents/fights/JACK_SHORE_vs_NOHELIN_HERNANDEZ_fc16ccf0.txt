@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hermansson vs. Cannonier
+    Date: September 28, 2019
+    Location: Copenhagen, Denmark
+    Weight Class: Bantamweight
+    
+
+    Result: JACK SHORE defeated NOHELIN HERNANDEZ via Submission  
+  at 2:51 of round 3
+  Key stats:
+  - JACK SHORE landed 46 significant strikes
+  - NOHELIN HERNANDEZ landed 6 significant strikes
+  - Knockdowns: JACK SHORE 0,  NOHELIN HERNANDEZ 0
+  - Takedowns: JACK SHORE 4,  NOHELIN HERNANDEZ 0
+  Bonus: perf

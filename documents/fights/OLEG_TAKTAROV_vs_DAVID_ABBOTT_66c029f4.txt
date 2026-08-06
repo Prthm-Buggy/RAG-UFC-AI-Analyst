@@ -1,0 +1,14 @@
+Event: UFC 6: Clash of the Titans
+    Date: July 14, 1995
+    Location: Casper, Wyoming, USA
+    Weight Class: Open Weight
+    
+
+    Result: OLEG TAKTAROV defeated DAVID ABBOTT via Submission  
+  at 17:45 of round 1
+  Key stats:
+  - OLEG TAKTAROV landed 4 significant strikes
+  - DAVID ABBOTT landed 17 significant strikes
+  - Knockdowns: OLEG TAKTAROV 0,  DAVID ABBOTT 0
+  - Takedowns: OLEG TAKTAROV 0,  DAVID ABBOTT 2
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC 53: Heavy Hitters
+    Date: June 04, 2005
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: NICK DIAZ defeated KOJI OISHI via KO/TKO  
+  at 1:24 of round 1
+  Key stats:
+  - NICK DIAZ landed 25 significant strikes
+  - KOJI OISHI landed 2 significant strikes
+  - Knockdowns: NICK DIAZ 1,  KOJI OISHI 0
+  - Takedowns: NICK DIAZ 0,  KOJI OISHI 0

@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Shogun vs Henderson 2
+    Date : March 23, 2014
+    Location: Natal, Rio Grande do Norte, Brazil
+    Number of Fights: 10
+    Weight Classes: Welterweight, Light Heavyweight, Middleweight, Lightweight, Flyweight, Featherweight
+
+    Fight Results:
+  - JUSSIER FORMIGA def. SCOTT JORGENSEN via Submission(R1)
+- THIAGO SANTOS def. RONNY MARKES via KO/TKO(R1)
+- MICHEL PRAZERES def. MAIRBEK TAISUMOV via Decision - Unanimous(R3)
+- HANS STRINGER def. FRANCIMAR BARROSO via Decision - Split(R3)
+- GODOFREDO PEPEY def. NOAD LAHAT via KO/TKO(R1)
+- KENNY ROBERTSON def. THIAGO PERPETUO via Submission(R1)
+- RONY JASON def. STEVEN SILER via KO/TKO(R1)
+- CB DOLLAWAY def. CEZAR FERREIRA via KO/TKO(R1)
+- FABIO MALDONADO def. GIAN VILLANTE via Decision - Unanimous(R3)
+- DAN HENDERSON def. MAURICIO RUA via KO/TKO(R3)

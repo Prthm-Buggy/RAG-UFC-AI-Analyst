@@ -1,0 +1,11 @@
+Fighter: SIYAR BAHADURZADA
+  Date of Birth: 1984-04-17
+  Career record: 8
+  First fight: 2012-04-14
+  Last fight: 2019-09-28
+
+Career Statistics:
+- Significant Strikes Landed :264
+- Total takedowns landed :8
+- Knockdowns :5
+- Submission Attempts :2

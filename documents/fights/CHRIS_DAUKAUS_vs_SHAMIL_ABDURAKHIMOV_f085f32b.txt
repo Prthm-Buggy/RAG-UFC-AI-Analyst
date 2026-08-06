@@ -1,0 +1,14 @@
+Event: UFC 266: Volkanovski vs. Ortega
+    Date: September 25, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHRIS DAUKAUS defeated SHAMIL ABDURAKHIMOV via KO/TKO  
+  at 1:23 of round 2
+  Key stats:
+  - CHRIS DAUKAUS landed 38 significant strikes
+  - SHAMIL ABDURAKHIMOV landed 23 significant strikes
+  - Knockdowns: CHRIS DAUKAUS 2,  SHAMIL ABDURAKHIMOV 0
+  - Takedowns: CHRIS DAUKAUS 0,  SHAMIL ABDURAKHIMOV 0
+  Bonus: perf

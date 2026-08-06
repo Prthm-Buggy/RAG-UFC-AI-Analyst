@@ -1,0 +1,17 @@
+Event : UFC on FOX: Maia vs. Condit
+    Date : August 27, 2016
+    Location: Vancouver, British Columbia, Canada
+    Number of Fights: 10
+    Weight Classes: Featherweight, Lightweight, Welterweight, Middleweight, Women's Strawweight
+
+    Fight Results:
+  - SAM ALVEY def. KEVIN CASEY via KO/TKO(R2)
+- FELIPE SILVA def. SHANE CAMPBELL via KO/TKO(R1)
+- ALESSIO DI CHIRICO def. GARRETH MCLELLAN via Decision - Split(R3)
+- KYLE BOCHNIAK def. ENRIQUE BARZOLA via Decision - Split(R3)
+- JIM MILLER def. JOE LAUZON via Decision - Split(R3)
+- CHAD LAPRISE def. THIBAULT GOUTI via KO/TKO(R1)
+- PAIGE VANZANT def. BEC RAWLINGS via KO/TKO(R2)
+- DEMIAN MAIA def. CARLOS CONDIT via Submission(R1)
+- ANTHONY PETTIS def. CHARLES OLIVEIRA via Submission(R3)
+- JEREMY KENNEDY def. ALEX RICCI via Decision - Unanimous(R3)

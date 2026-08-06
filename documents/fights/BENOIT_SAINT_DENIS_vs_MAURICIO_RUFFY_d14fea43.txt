@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Imavov vs. Borralho
+    Date: September 06, 2025
+    Location: Paris, Ile-de-France, France
+    Weight Class: Lightweight
+    
+
+    Result: BENOIT SAINT DENIS defeated MAURICIO RUFFY via Submission  
+  at 2:56 of round 2
+  Key stats:
+  - BENOIT SAINT DENIS landed 17 significant strikes
+  - MAURICIO RUFFY landed 5 significant strikes
+  - Knockdowns: BENOIT SAINT DENIS 0,  MAURICIO RUFFY 0
+  - Takedowns: BENOIT SAINT DENIS 3,  MAURICIO RUFFY 0

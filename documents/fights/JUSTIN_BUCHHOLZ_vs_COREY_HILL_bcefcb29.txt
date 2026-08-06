@@ -1,0 +1,13 @@
+Event: UFC 86: Jackson vs Griffin
+    Date: July 05, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JUSTIN BUCHHOLZ defeated COREY HILL via Submission  
+  at 3:57 of round 2
+  Key stats:
+  - JUSTIN BUCHHOLZ landed 24 significant strikes
+  - COREY HILL landed 34 significant strikes
+  - Knockdowns: JUSTIN BUCHHOLZ 0,  COREY HILL 0
+  - Takedowns: JUSTIN BUCHHOLZ 0,  COREY HILL 2

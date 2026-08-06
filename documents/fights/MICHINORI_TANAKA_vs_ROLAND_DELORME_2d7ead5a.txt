@@ -1,0 +1,13 @@
+Event: UFC 174: Johnson vs Bagautinov
+    Date: June 14, 2014
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: MICHINORI TANAKA defeated ROLAND DELORME via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MICHINORI TANAKA landed 21 significant strikes
+  - ROLAND DELORME landed 2 significant strikes
+  - Knockdowns: MICHINORI TANAKA 0,  ROLAND DELORME 0
+  - Takedowns: MICHINORI TANAKA 3,  ROLAND DELORME 1

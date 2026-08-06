@@ -1,0 +1,15 @@
+Event : UFC 21: Return of the Champions
+    Date : July 16, 1999
+    Location: Cedar Rapids, Iowa, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Lightweight, Middleweight
+
+    Fight Results:
+  - MAURICE SMITH def. MARCO RUAS via KO/TKO(R1)
+- ANDRE ROBERTS def. RON WATERMAN via KO/TKO(R1)
+- EUGENE JACKSON def. ROYCE ALGER via KO/TKO(R2)
+- PAT MILETICH def. ANDRE PEDERNEIRAS via TKO - Doctor's Stoppage(R2)
+- PAUL JONES def. FLAVIO LUIZ MOURA via Submission(R1)
+- JEREMY HORN def. DAIJU TAKASE via KO/TKO(R1)
+- TSUYOSHI KOHSAKA def. TIM LAJCIK via KO/TKO(R2)
+- TRAVIS FULTON def. DAVID DODD via Decision - Unanimous(R2)

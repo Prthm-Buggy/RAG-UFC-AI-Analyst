@@ -1,0 +1,13 @@
+Event: UFC 239: Jones vs. Santos
+    Date: July 06, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: EDMEN SHAHBAZYAN defeated JACK MARSHMAN via Submission  
+  at 1:12 of round 1
+  Key stats:
+  - EDMEN SHAHBAZYAN landed 13 significant strikes
+  - JACK MARSHMAN landed 0 significant strikes
+  - Knockdowns: EDMEN SHAHBAZYAN 0,  JACK MARSHMAN 0
+  - Takedowns: EDMEN SHAHBAZYAN 1,  JACK MARSHMAN 0

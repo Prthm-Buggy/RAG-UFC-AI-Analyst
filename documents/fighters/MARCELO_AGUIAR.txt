@@ -1,0 +1,11 @@
+Fighter: MARCELO AGUIAR
+  Date of Birth: 1969-01-20
+  Career record: 1
+  First fight: 2000-06-09
+  Last fight: 2000-06-09
+
+Career Statistics:
+- Significant Strikes Landed :2
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

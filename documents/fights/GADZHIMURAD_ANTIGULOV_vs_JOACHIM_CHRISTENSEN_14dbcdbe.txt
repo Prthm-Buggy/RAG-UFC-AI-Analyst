@@ -1,0 +1,13 @@
+Event: UFC 211: Miocic vs. Dos Santos
+    Date: May 13, 2017
+    Location: Dallas, Texas, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: GADZHIMURAD ANTIGULOV defeated JOACHIM CHRISTENSEN via Submission  
+  at 2:21 of round 1
+  Key stats:
+  - GADZHIMURAD ANTIGULOV landed 2 significant strikes
+  - JOACHIM CHRISTENSEN landed 1 significant strikes
+  - Knockdowns: GADZHIMURAD ANTIGULOV 0,  JOACHIM CHRISTENSEN 0
+  - Takedowns: GADZHIMURAD ANTIGULOV 1,  JOACHIM CHRISTENSEN 0

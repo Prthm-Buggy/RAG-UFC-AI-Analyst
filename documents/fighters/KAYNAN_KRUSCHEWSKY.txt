@@ -1,0 +1,11 @@
+Fighter: KAYNAN KRUSCHEWSKY
+  Date of Birth: 1991-04-04
+  Career record: 2
+  First fight: 2023-11-04
+  Last fight: 2024-07-20
+
+Career Statistics:
+- Significant Strikes Landed :97
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :2

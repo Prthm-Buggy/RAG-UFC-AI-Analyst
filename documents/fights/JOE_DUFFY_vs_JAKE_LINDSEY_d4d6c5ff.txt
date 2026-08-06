@@ -1,0 +1,13 @@
+Event: UFC 185: Pettis vs Dos Anjos
+    Date: March 14, 2015
+    Location: Dallas, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE DUFFY defeated JAKE LINDSEY via KO/TKO  
+  at 1:47 of round 1
+  Key stats:
+  - JOE DUFFY landed 15 significant strikes
+  - JAKE LINDSEY landed 6 significant strikes
+  - Knockdowns: JOE DUFFY 1,  JAKE LINDSEY 0
+  - Takedowns: JOE DUFFY 0,  JAKE LINDSEY 0

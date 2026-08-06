@@ -1,0 +1,13 @@
+Event: UFC 152: Jones vs Belfort
+    Date: September 22, 2012
+    Location: Toronto, Ontario, Canada
+    Weight Class: Welterweight
+    
+
+    Result: SETH BACZYNSKI defeated SIMEON THORESEN via KO/TKO  
+  at 4:10 of round 1
+  Key stats:
+  - SETH BACZYNSKI landed 15 significant strikes
+  - SIMEON THORESEN landed 17 significant strikes
+  - Knockdowns: SETH BACZYNSKI 1,  SIMEON THORESEN 0
+  - Takedowns: SETH BACZYNSKI 0,  SIMEON THORESEN 0

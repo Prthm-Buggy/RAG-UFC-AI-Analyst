@@ -1,0 +1,11 @@
+Fighter: LESLIE SMITH
+  Date of Birth: 1982-08-17
+  Career record: 7
+  First fight: 2014-04-16
+  Last fight: 2017-07-16
+
+Career Statistics:
+- Significant Strikes Landed :477
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

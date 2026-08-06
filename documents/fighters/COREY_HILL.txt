@@ -1,0 +1,11 @@
+Fighter: COREY HILL
+  Date of Birth: 1978-10-03
+  Career record: 3
+  First fight: 2008-01-23
+  Last fight: 2008-12-10
+
+Career Statistics:
+- Significant Strikes Landed :71
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

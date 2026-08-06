@@ -1,0 +1,13 @@
+Event: UFC 112: Invincible
+    Date: April 10, 2010
+    Location: Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: PAUL KELLY defeated MATT VEACH via Submission  
+  at 3:41 of round 2
+  Key stats:
+  - PAUL KELLY landed 47 significant strikes
+  - MATT VEACH landed 4 significant strikes
+  - Knockdowns: PAUL KELLY 0,  MATT VEACH 0
+  - Takedowns: PAUL KELLY 0,  MATT VEACH 1

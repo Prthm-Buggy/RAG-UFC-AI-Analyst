@@ -1,0 +1,14 @@
+Event: UFC 321: Aspinall vs. Gane
+    Date: October 25, 2025
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Heavyweight
+    
+
+    Result: VALTER WALKER defeated LOUIE SUTHERLAND via Submission  
+  at 1:24 of round 1
+  Key stats:
+  - VALTER WALKER landed 5 significant strikes
+  - LOUIE SUTHERLAND landed 3 significant strikes
+  - Knockdowns: VALTER WALKER 0,  LOUIE SUTHERLAND 0
+  - Takedowns: VALTER WALKER 1,  LOUIE SUTHERLAND 0
+  Bonus: perf

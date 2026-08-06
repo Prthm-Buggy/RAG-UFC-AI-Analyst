@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dos Anjos vs. Cowboy 2
+    Date: December 19, 2015
+    Location: Orlando, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALISTAIR OVEREEM defeated JUNIOR DOS SANTOS via KO/TKO  
+  at 4:43 of round 2
+  Key stats:
+  - ALISTAIR OVEREEM landed 32 significant strikes
+  - JUNIOR DOS SANTOS landed 22 significant strikes
+  - Knockdowns: ALISTAIR OVEREEM 1,  JUNIOR DOS SANTOS 0
+  - Takedowns: ALISTAIR OVEREEM 0,  JUNIOR DOS SANTOS 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Daukaus
+    Date: March 26, 2022
+    Location: Columbus, Ohio, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALIASKHAB KHIZRIEV defeated DENIS TIULIULIN via Submission  
+  at 1:58 of round 2
+  Key stats:
+  - ALIASKHAB KHIZRIEV landed 42 significant strikes
+  - DENIS TIULIULIN landed 31 significant strikes
+  - Knockdowns: ALIASKHAB KHIZRIEV 0,  DENIS TIULIULIN 0
+  - Takedowns: ALIASKHAB KHIZRIEV 2,  DENIS TIULIULIN 0

@@ -1,0 +1,19 @@
+Event : UFC 326: Holloway vs. Oliveira 2
+    Date : March 07, 2026
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Light Heavyweight, Middleweight, Featherweight, Flyweight, Lightweight
+
+    Fight Results:
+  - ALBERTO MONTES def. RICKY TURCIOS via Submission(R2)
+- CAIO BORRALHO def. REINIER DE RIDDER via Decision - Unanimous(R3)
+- RODOLFO BELLATO def. LUKE FERNANDEZ via KO/TKO(R1)
+- DIYAR NURGOZHAY def. RAFAEL TOBIAS via Decision - Unanimous(R3)
+- GREGORY RODRIGUES def. BRUNNO FERREIRA via KO/TKO(R1)
+- SUMUDAERJI def. JESUS AGUILAR via Decision - Unanimous(R3)
+- CODY GARBRANDT def. XIAO LONG via Decision - Unanimous(R3)
+- DONTE JOHNSON def. CODY BRUNDAGE via Decision - Split(R3)
+- NYAMJARGAL TUMENDEMBEREL def. CODY DURDEN via Decision - Unanimous(R3)
+- CHARLES OLIVEIRA def. MAX HOLLOWAY via Decision - Unanimous(R5)
+- RAUL ROSAS JR. def. ROB FONT via Decision - Unanimous(R3)
+- DREW DOBER def. MICHAEL JOHNSON via KO/TKO(R2)

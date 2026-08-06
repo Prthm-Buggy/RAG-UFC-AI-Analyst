@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Jacare vs. Brunson 2
+    Date: January 27, 2018
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Middleweight
+    
+
+    Result: JACARE SOUZA defeated DEREK BRUNSON via KO/TKO  
+  at 3:50 of round 1
+  Key stats:
+  - JACARE SOUZA landed 9 significant strikes
+  - DEREK BRUNSON landed 8 significant strikes
+  - Knockdowns: JACARE SOUZA 1,  DEREK BRUNSON 0
+  - Takedowns: JACARE SOUZA 0,  DEREK BRUNSON 0
+  Bonus: perf

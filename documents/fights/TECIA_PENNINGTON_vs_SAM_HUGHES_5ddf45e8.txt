@@ -1,0 +1,13 @@
+Event: UFC 256: Figueiredo vs. Moreno
+    Date: December 12, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: TECIA PENNINGTON defeated SAM HUGHES via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - TECIA PENNINGTON landed 52 significant strikes
+  - SAM HUGHES landed 20 significant strikes
+  - Knockdowns: TECIA PENNINGTON 0,  SAM HUGHES 0
+  - Takedowns: TECIA PENNINGTON 1,  SAM HUGHES 0

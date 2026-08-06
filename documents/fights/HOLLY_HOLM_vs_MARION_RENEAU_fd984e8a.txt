@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Mir vs Duffee
+    Date: July 15, 2015
+    Location: San Diego, California, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: HOLLY HOLM defeated MARION RENEAU via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - HOLLY HOLM landed 65 significant strikes
+  - MARION RENEAU landed 26 significant strikes
+  - Knockdowns: HOLLY HOLM 0,  MARION RENEAU 0
+  - Takedowns: HOLLY HOLM 1,  MARION RENEAU 0

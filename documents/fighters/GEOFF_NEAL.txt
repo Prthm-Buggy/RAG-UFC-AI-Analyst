@@ -1,0 +1,11 @@
+Fighter: GEOFF NEAL
+  Date of Birth: 1990-08-28
+  Career record: 14
+  First fight: 2018-02-18
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :687
+- Total takedowns landed :5
+- Knockdowns :8
+- Submission Attempts :1

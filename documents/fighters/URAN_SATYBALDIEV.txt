@@ -1,0 +1,11 @@
+Fighter: URAN SATYBALDIEV
+  Date of Birth: 1994-08-10
+  Career record: 2
+  First fight: 2025-04-05
+  Last fight: 2025-08-23
+
+Career Statistics:
+- Significant Strikes Landed :38
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :2

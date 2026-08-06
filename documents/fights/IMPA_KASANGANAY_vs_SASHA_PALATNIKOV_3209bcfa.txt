@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Holland
+    Date: April 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: IMPA KASANGANAY defeated SASHA PALATNIKOV via Submission  
+  at 0:26 of round 2
+  Key stats:
+  - IMPA KASANGANAY landed 13 significant strikes
+  - SASHA PALATNIKOV landed 13 significant strikes
+  - Knockdowns: IMPA KASANGANAY 0,  SASHA PALATNIKOV 0
+  - Takedowns: IMPA KASANGANAY 2,  SASHA PALATNIKOV 0

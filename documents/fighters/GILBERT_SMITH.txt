@@ -1,0 +1,11 @@
+Fighter: GILBERT SMITH
+  Date of Birth: 1981-10-19
+  Career record: 1
+  First fight: 2013-04-13
+  Last fight: 2013-04-13
+
+Career Statistics:
+- Significant Strikes Landed :14
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

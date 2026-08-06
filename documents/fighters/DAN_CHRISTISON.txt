@@ -1,0 +1,11 @@
+Fighter: DAN CHRISTISON
+  Date of Birth: 1972-04-26
+  Career record: 2
+  First fight: 2006-04-06
+  Last fight: 2006-07-08
+
+Career Statistics:
+- Significant Strikes Landed :121
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :2

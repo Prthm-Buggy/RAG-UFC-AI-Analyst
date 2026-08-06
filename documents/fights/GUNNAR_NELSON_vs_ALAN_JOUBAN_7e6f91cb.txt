@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Manuwa vs. Anderson
+    Date: March 18, 2017
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: GUNNAR NELSON defeated ALAN JOUBAN via Submission  
+  at 0:46 of round 2
+  Key stats:
+  - GUNNAR NELSON landed 8 significant strikes
+  - ALAN JOUBAN landed 17 significant strikes
+  - Knockdowns: GUNNAR NELSON 0,  ALAN JOUBAN 0
+  - Takedowns: GUNNAR NELSON 1,  ALAN JOUBAN 0
+  Bonus: perf

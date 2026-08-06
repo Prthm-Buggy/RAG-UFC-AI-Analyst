@@ -1,0 +1,11 @@
+Fighter: BEN ROTHWELL
+  Date of Birth: 1981-10-17
+  Career record: 17
+  First fight: 2009-10-24
+  Last fight: 2021-11-13
+
+Career Statistics:
+- Significant Strikes Landed :681
+- Total takedowns landed :9
+- Knockdowns :4
+- Submission Attempts :6

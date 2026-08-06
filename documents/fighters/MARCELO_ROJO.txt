@@ -1,0 +1,11 @@
+Fighter: MARCELO ROJO
+  Date of Birth: 1988-07-02
+  Career record: 3
+  First fight: 2021-03-13
+  Last fight: 2022-12-03
+
+Career Statistics:
+- Significant Strikes Landed :160
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

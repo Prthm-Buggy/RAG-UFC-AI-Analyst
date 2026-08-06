@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bisping vs Le
+    Date: August 23, 2014
+    Location: Macau, China
+    Weight Class: Welterweight
+    
+
+    Result: COLBY COVINGTON defeated ANYING WANG via KO/TKO  
+  at 4:50 of round 1
+  Key stats:
+  - COLBY COVINGTON landed 11 significant strikes
+  - ANYING WANG landed 0 significant strikes
+  - Knockdowns: COLBY COVINGTON 0,  ANYING WANG 0
+  - Takedowns: COLBY COVINGTON 2,  ANYING WANG 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Oliveira vs. Gamrot
+    Date: October 11, 2025
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: LUAN LACERDA defeated SAIMON OLIVEIRA via Submission  
+  at 3:55 of round 2
+  Key stats:
+  - LUAN LACERDA landed 24 significant strikes
+  - SAIMON OLIVEIRA landed 21 significant strikes
+  - Knockdowns: LUAN LACERDA 0,  SAIMON OLIVEIRA 0
+  - Takedowns: LUAN LACERDA 3,  SAIMON OLIVEIRA 1

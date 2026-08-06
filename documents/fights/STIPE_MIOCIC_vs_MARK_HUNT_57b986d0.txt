@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Miocic vs Hunt
+    Date: May 09, 2015
+    Location: Adelaide, South Australia, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: STIPE MIOCIC defeated MARK HUNT via KO/TKO  
+  at 2:47 of round 5
+  Key stats:
+  - STIPE MIOCIC landed 113 significant strikes
+  - MARK HUNT landed 33 significant strikes
+  - Knockdowns: STIPE MIOCIC 0,  MARK HUNT 0
+  - Takedowns: STIPE MIOCIC 6,  MARK HUNT 0

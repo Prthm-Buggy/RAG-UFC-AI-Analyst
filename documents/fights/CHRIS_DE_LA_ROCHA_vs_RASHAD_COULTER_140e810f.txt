@@ -1,0 +1,13 @@
+Event: UFC 225: Whittaker vs. Romero 2
+    Date: June 09, 2018
+    Location: Chicago, Illinois, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHRIS DE LA ROCHA defeated RASHAD COULTER via KO/TKO  
+  at 3:53 of round 2
+  Key stats:
+  - CHRIS DE LA ROCHA landed 40 significant strikes
+  - RASHAD COULTER landed 30 significant strikes
+  - Knockdowns: CHRIS DE LA ROCHA 0,  RASHAD COULTER 0
+  - Takedowns: CHRIS DE LA ROCHA 3,  RASHAD COULTER 0

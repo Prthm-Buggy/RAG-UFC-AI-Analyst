@@ -1,0 +1,11 @@
+Fighter: SILVANA GOMEZ JUAREZ
+  Date of Birth: 1984-12-06
+  Career record: 4
+  First fight: 2021-10-09
+  Last fight: 2022-11-12
+
+Career Statistics:
+- Significant Strikes Landed :98
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

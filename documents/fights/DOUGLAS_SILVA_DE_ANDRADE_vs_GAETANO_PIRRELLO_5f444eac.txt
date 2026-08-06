@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Santos vs. Walker
+    Date: October 02, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DOUGLAS SILVA DE ANDRADE defeated GAETANO PIRRELLO via KO/TKO  
+  at 2:04 of round 1
+  Key stats:
+  - DOUGLAS SILVA DE ANDRADE landed 10 significant strikes
+  - GAETANO PIRRELLO landed 5 significant strikes
+  - Knockdowns: DOUGLAS SILVA DE ANDRADE 1,  GAETANO PIRRELLO 0
+  - Takedowns: DOUGLAS SILVA DE ANDRADE 0,  GAETANO PIRRELLO 0
+  Bonus: perf

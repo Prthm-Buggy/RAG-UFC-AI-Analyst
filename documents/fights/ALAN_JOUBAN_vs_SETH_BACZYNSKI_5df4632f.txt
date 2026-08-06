@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bader vs Saint Preux
+    Date: August 16, 2014
+    Location: Bangor, Maine, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALAN JOUBAN defeated SETH BACZYNSKI via KO/TKO  
+  at 4:23 of round 1
+  Key stats:
+  - ALAN JOUBAN landed 25 significant strikes
+  - SETH BACZYNSKI landed 25 significant strikes
+  - Knockdowns: ALAN JOUBAN 1,  SETH BACZYNSKI 0
+  - Takedowns: ALAN JOUBAN 0,  SETH BACZYNSKI 1
+  Bonus: fight

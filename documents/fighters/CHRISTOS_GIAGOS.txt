@@ -1,0 +1,11 @@
+Fighter: CHRISTOS GIAGOS
+  Date of Birth: 1990-01-23
+  Career record: 14
+  First fight: 2014-10-25
+  Last fight: 2024-04-06
+
+Career Statistics:
+- Significant Strikes Landed :353
+- Total takedowns landed :22
+- Knockdowns :1
+- Submission Attempts :3

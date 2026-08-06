@@ -1,0 +1,13 @@
+Event: UFC 207: Nunes vs. Rousey
+    Date: December 30, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: NIKO PRICE defeated BRANDON THATCH via Submission  
+  at 4:30 of round 1
+  Key stats:
+  - NIKO PRICE landed 6 significant strikes
+  - BRANDON THATCH landed 8 significant strikes
+  - Knockdowns: NIKO PRICE 0,  BRANDON THATCH 0
+  - Takedowns: NIKO PRICE 1,  BRANDON THATCH 0

@@ -1,0 +1,14 @@
+Event: UFC 300: Pereira vs. Hill
+    Date: April 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ZHANG WEILI defeated YAN XIAONAN via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ZHANG WEILI landed 106 significant strikes
+  - YAN XIAONAN landed 43 significant strikes
+  - Knockdowns: ZHANG WEILI 0,  YAN XIAONAN 1
+  - Takedowns: ZHANG WEILI 6,  YAN XIAONAN 3
+  Bonus: belt

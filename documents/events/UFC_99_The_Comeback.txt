@@ -1,0 +1,19 @@
+Event : UFC 99: The Comeback
+    Date : June 13, 2009
+    Location: Cologne, North Rhine-Westphalia, Germany
+    Number of Fights: 12
+    Weight Classes: Lightweight, Welterweight, Catch Weight, Heavyweight
+
+    Fight Results:
+  - CAIN VELASQUEZ def. CHEICK KONGO via Decision - Unanimous(R3)
+- DENNIS SIVER def. DALE HARTT via Submission(R1)
+- PAUL KELLY def. ROLANDO DELGADO via Decision - Unanimous(R3)
+- PAUL TAYLOR def. PETER SOBOTTA via Decision - Unanimous(R3)
+- RICH FRANKLIN def. WANDERLEI SILVA via Decision - Unanimous(R3)
+- TERRY ETIM def. JUSTIN BUCHHOLZ via Submission(R2)
+- JOHN HATHAWAY def. RICK STORY via Decision - Unanimous(R3)
+- SPENCER FISHER def. CAOL UNO via Decision - Unanimous(R3)
+- DAN HARDY def. MARCUS DAVIS via Decision - Split(R3)
+- MIKE SWICK def. BEN SAUNDERS via KO/TKO(R2)
+- STEFAN STRUVE def. DENIS STOJNIC via Submission(R2)
+- MIRKO FILIPOVIC def. MOSTAPHA AL-TURK via KO/TKO(R1)

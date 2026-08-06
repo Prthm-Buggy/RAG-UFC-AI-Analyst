@@ -1,0 +1,13 @@
+Event: UFC 22: Only One Can be Champion
+    Date: September 24, 1999
+    Location: Lake Charles, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOHN LEWIS defeated LOWELL ANDERSON via KO/TKO  
+  at 0:13 of round 3
+  Key stats:
+  - JOHN LEWIS landed 20 significant strikes
+  - LOWELL ANDERSON landed 9 significant strikes
+  - Knockdowns: JOHN LEWIS 0,  LOWELL ANDERSON 0
+  - Takedowns: JOHN LEWIS 1,  LOWELL ANDERSON 0

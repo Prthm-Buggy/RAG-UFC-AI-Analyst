@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Khabilov
+    Date: June 07, 2014
+    Location: Albuquerque, New Mexico, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: PATRICK CUMMINS defeated ROGER NARVAEZ via KO/TKO  
+  at 2:28 of round 2
+  Key stats:
+  - PATRICK CUMMINS landed 32 significant strikes
+  - ROGER NARVAEZ landed 3 significant strikes
+  - Knockdowns: PATRICK CUMMINS 0,  ROGER NARVAEZ 0
+  - Takedowns: PATRICK CUMMINS 3,  ROGER NARVAEZ 0

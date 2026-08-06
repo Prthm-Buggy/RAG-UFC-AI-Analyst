@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Joanna vs. Waterson
+    Date: October 12, 2019
+    Location: Tampa, Florida, USA
+    Weight Class: Flyweight
+    
+
+    Result: DEIVESON FIGUEIREDO defeated TIM ELLIOTT via Submission  
+  at 3:08 of round 1
+  Key stats:
+  - DEIVESON FIGUEIREDO landed 8 significant strikes
+  - TIM ELLIOTT landed 26 significant strikes
+  - Knockdowns: DEIVESON FIGUEIREDO 0,  TIM ELLIOTT 0
+  - Takedowns: DEIVESON FIGUEIREDO 0,  TIM ELLIOTT 1

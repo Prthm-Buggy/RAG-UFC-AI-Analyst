@@ -1,0 +1,17 @@
+Event : UFC 184: Rousey vs Zingano
+    Date : February 28, 2015
+    Location: Los Angeles, California, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Women's Bantamweight, Welterweight, Middleweight, Featherweight, Lightweight
+
+    Fight Results:
+  - DERRICK LEWIS def. RUAN POTTS via KO/TKO(R2)
+- HOLLY HOLM def. RAQUEL PENNINGTON via Decision - Split(R3)
+- ALAN JOUBAN def. RICHARD WALSH via KO/TKO(R1)
+- TIM MEANS def. DHIEGO LIMA via KO/TKO(R1)
+- RONDA ROUSEY def. CAT ZINGANO via Submission(R1)
+- VALMIR LAZARO def. JAMES KRAUSE via Decision - Split(R3)
+- TONY FERGUSON def. GLEISON TIBAU via Submission(R1)
+- ROAN CARNEIRO def. MARK MUNOZ via Submission(R1)
+- JAKE ELLENBERGER def. JOSH KOSCHECK via Submission(R2)
+- MASIO FULLEN def. ALEX TORRES via Decision - Split(R3)

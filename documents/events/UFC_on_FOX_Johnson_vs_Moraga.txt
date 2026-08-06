@@ -1,0 +1,19 @@
+Event : UFC on FOX: Johnson vs Moraga
+    Date : July 27, 2013
+    Location: Seattle, Washington, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Lightweight, Flyweight, Welterweight, Women's Bantamweight, Middleweight
+
+    Fight Results:
+  - JORGE MASVIDAL def. MICHAEL CHIESA via Submission(R2)
+- GERMAINE DE RANDAMIE def. JULIE KEDZIE via Decision - Split(R3)
+- YAOTZIN MEZA def. JOHN ALBERT via Submission(R2)
+- DEMETRIOUS JOHNSON def. JOHN MORAGA via Submission(R5)
+- ED HERMAN def. TREVOR SMITH via Decision - Split(R3)
+- ROBBIE LAWLER def. BOBBY VOELKER via KO/TKO(R2)
+- DARON CRUICKSHANK def. YVES EDWARDS via Decision - Split(R3)
+- JUSTIN SALAS def. AARON RILEY via Decision - Split(R3)
+- LIZ CARMOUCHE def. JESSICA ANDRADE via KO/TKO(R2)
+- MELVIN GUILLARD def. MAC DANZIG via KO/TKO(R2)
+- RORY MACDONALD def. JAKE ELLENBERGER via Decision - Unanimous(R3)
+- DANNY CASTILLO def. TIM MEANS via Decision - Unanimous(R3)

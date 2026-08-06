@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs. Hermansson
+    Date: April 27, 2019
+    Location: Sunrise, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: AUGUSTO SAKAI defeated ANDREI ARLOVSKI via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - AUGUSTO SAKAI landed 42 significant strikes
+  - ANDREI ARLOVSKI landed 75 significant strikes
+  - Knockdowns: AUGUSTO SAKAI 0,  ANDREI ARLOVSKI 0
+  - Takedowns: AUGUSTO SAKAI 0,  ANDREI ARLOVSKI 0

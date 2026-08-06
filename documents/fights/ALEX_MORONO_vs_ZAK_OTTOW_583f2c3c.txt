@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Dos Santos
+    Date: March 09, 2019
+    Location: Wichita, Kansas, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALEX MORONO defeated ZAK OTTOW via KO/TKO  
+  at 3:34 of round 1
+  Key stats:
+  - ALEX MORONO landed 25 significant strikes
+  - ZAK OTTOW landed 10 significant strikes
+  - Knockdowns: ALEX MORONO 0,  ZAK OTTOW 0
+  - Takedowns: ALEX MORONO 0,  ZAK OTTOW 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Adesanya vs. Imavov
+    Date: February 01, 2025
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Weight Class: Lightweight
+    
+
+    Result: FARES ZIAM defeated MIKE DAVIS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - FARES ZIAM landed 35 significant strikes
+  - MIKE DAVIS landed 20 significant strikes
+  - Knockdowns: FARES ZIAM 0,  MIKE DAVIS 0
+  - Takedowns: FARES ZIAM 4,  MIKE DAVIS 1

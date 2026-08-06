@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Evans vs Salmon
+    Date: January 25, 2007
+    Location: Hollywood, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: HERMES FRANCA defeated SPENCER FISHER via KO/TKO  
+  at 4:03 of round 2
+  Key stats:
+  - HERMES FRANCA landed 25 significant strikes
+  - SPENCER FISHER landed 24 significant strikes
+  - Knockdowns: HERMES FRANCA 0,  SPENCER FISHER 0
+  - Takedowns: HERMES FRANCA 2,  SPENCER FISHER 0
+  Bonus: fight

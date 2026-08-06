@@ -1,0 +1,11 @@
+Fighter: NOLAN TICMAN
+  Date of Birth: 1988-05-17
+  Career record: 2
+  First fight: 2014-08-16
+  Last fight: 2015-05-16
+
+Career Statistics:
+- Significant Strikes Landed :77
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

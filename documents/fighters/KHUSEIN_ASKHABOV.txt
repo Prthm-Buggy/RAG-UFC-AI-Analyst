@@ -1,0 +1,11 @@
+Fighter: KHUSEIN ASKHABOV
+  Date of Birth: 1995-02-13
+  Career record: 1
+  First fight: 2023-02-18
+  Last fight: 2023-02-18
+
+Career Statistics:
+- Significant Strikes Landed :30
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

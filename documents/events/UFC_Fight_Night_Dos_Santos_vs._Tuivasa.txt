@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Dos Santos vs. Tuivasa
+    Date : December 01, 2018
+    Location: Adelaide, South Australia, Australia
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Flyweight, Welterweight, Light Heavyweight, Featherweight, Lightweight
+
+    Fight Results:
+  - SODIQ YUSUFF def. SUMAN MOKHTARIAN via KO/TKO(R1)
+- KAI KARA-FRANCE def. ELIAS GARCIA via Decision - Unanimous(R3)
+- DAMIR ISMAGULOV def. ALEX GORGEES via Decision - Unanimous(R3)
+- CHRISTOS GIAGOS def. MIZUTO HIROTA via Decision - Unanimous(R3)
+- WILSON REIS def. BEN NGUYEN via Decision - Unanimous(R3)
+- KEITA NAKAMURA def. SALIM TOUAHRI via Decision - Split(R3)
+- JIMMY CRUTE def. PAUL CRAIG via Submission(R3)
+- MAURICIO RUA def. TYSON PEDRO via KO/TKO(R3)
+- ANTHONY ROCCO MARTIN def. JAKE MATTHEWS via Submission(R3)
+- ALEKSEI KUNCHENKO def. YUSHIN OKAMI via Decision - Unanimous(R3)
+- JUSTIN WILLIS def. MARK HUNT via Decision - Unanimous(R3)
+- JUNIOR DOS SANTOS def. TAI TUIVASA via KO/TKO(R2)

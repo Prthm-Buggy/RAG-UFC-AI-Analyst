@@ -1,0 +1,13 @@
+Event: UFC 134: Silva vs Okami
+    Date: August 27, 2011
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: STANISLAV NEDKOV defeated LUIZ CANE via KO/TKO  
+  at 4:13 of round 1
+  Key stats:
+  - STANISLAV NEDKOV landed 29 significant strikes
+  - LUIZ CANE landed 15 significant strikes
+  - Knockdowns: STANISLAV NEDKOV 1,  LUIZ CANE 0
+  - Takedowns: STANISLAV NEDKOV 0,  LUIZ CANE 0

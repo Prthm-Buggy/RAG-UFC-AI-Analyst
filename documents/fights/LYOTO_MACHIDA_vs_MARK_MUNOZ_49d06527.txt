@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs Munoz
+    Date: October 26, 2013
+    Location: Manchester, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: LYOTO MACHIDA defeated MARK MUNOZ via KO/TKO  
+  at 3:10 of round 1
+  Key stats:
+  - LYOTO MACHIDA landed 5 significant strikes
+  - MARK MUNOZ landed 0 significant strikes
+  - Knockdowns: LYOTO MACHIDA 1,  MARK MUNOZ 0
+  - Takedowns: LYOTO MACHIDA 0,  MARK MUNOZ 0
+  Bonus: ko

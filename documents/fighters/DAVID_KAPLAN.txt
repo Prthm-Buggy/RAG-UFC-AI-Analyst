@@ -1,0 +1,11 @@
+Fighter: DAVID KAPLAN
+  Date of Birth: 1979-11-16
+  Career record: 2
+  First fight: 2008-12-13
+  Last fight: 2009-05-23
+
+Career Statistics:
+- Significant Strikes Landed :62
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :1

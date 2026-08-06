@@ -1,0 +1,13 @@
+Event: UFC 167: St-Pierre vs Hendricks
+    Date: November 16, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RASHAD EVANS defeated CHAEL SONNEN via KO/TKO  
+  at 4:05 of round 1
+  Key stats:
+  - RASHAD EVANS landed 20 significant strikes
+  - CHAEL SONNEN landed 3 significant strikes
+  - Knockdowns: RASHAD EVANS 0,  CHAEL SONNEN 0
+  - Takedowns: RASHAD EVANS 1,  CHAEL SONNEN 0

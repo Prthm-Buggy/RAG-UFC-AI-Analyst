@@ -1,0 +1,13 @@
+Event: UFC 84: Ill Will
+    Date: May 24, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: YOSHIYUKI YOSHIDA defeated WAR MACHINE via Submission  
+  at 0:56 of round 1
+  Key stats:
+  - YOSHIYUKI YOSHIDA landed 1 significant strikes
+  - WAR MACHINE landed 1 significant strikes
+  - Knockdowns: YOSHIYUKI YOSHIDA 0,  WAR MACHINE 0
+  - Takedowns: YOSHIYUKI YOSHIDA 1,  WAR MACHINE 0

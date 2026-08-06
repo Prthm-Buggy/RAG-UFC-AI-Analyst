@@ -1,0 +1,11 @@
+Fighter: ARMAN TSARUKYAN
+  Date of Birth: 1996-10-11
+  Career record: 12
+  First fight: 2019-04-20
+  Last fight: 2025-11-22
+
+Career Statistics:
+- Significant Strikes Landed :567
+- Total takedowns landed :32
+- Knockdowns :3
+- Submission Attempts :1

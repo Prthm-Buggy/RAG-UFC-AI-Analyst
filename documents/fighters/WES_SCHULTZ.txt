@@ -1,0 +1,11 @@
+Fighter: WES SCHULTZ
+  Date of Birth: 1996-08-09
+  Career record: 2
+  First fight: 2026-02-28
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :15
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

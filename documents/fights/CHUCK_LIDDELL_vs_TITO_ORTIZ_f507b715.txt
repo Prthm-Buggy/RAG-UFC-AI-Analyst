@@ -1,0 +1,14 @@
+Event: UFC 66: Liddell vs Ortiz 2
+    Date: December 30, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CHUCK LIDDELL defeated TITO ORTIZ via KO/TKO  
+  at 3:59 of round 3
+  Key stats:
+  - CHUCK LIDDELL landed 49 significant strikes
+  - TITO ORTIZ landed 21 significant strikes
+  - Knockdowns: CHUCK LIDDELL 1,  TITO ORTIZ 0
+  - Takedowns: CHUCK LIDDELL 0,  TITO ORTIZ 1
+  Bonus: belt

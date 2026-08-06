@@ -1,0 +1,13 @@
+Event: UFC 228: Woodley vs. Till
+    Date: September 08, 2018
+    Location: Dallas, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: GEOFF NEAL defeated FRANK CAMACHO via KO/TKO  
+  at 1:23 of round 2
+  Key stats:
+  - GEOFF NEAL landed 59 significant strikes
+  - FRANK CAMACHO landed 25 significant strikes
+  - Knockdowns: GEOFF NEAL 2,  FRANK CAMACHO 0
+  - Takedowns: GEOFF NEAL 0,  FRANK CAMACHO 0

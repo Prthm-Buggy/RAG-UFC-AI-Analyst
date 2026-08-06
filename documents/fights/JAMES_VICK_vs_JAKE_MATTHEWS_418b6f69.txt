@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Miocic vs Hunt
+    Date: May 09, 2015
+    Location: Adelaide, South Australia, Australia
+    Weight Class: Lightweight
+    
+
+    Result: JAMES VICK defeated JAKE MATTHEWS via Submission  
+  at 4:53 of round 1
+  Key stats:
+  - JAMES VICK landed 10 significant strikes
+  - JAKE MATTHEWS landed 4 significant strikes
+  - Knockdowns: JAMES VICK 0,  JAKE MATTHEWS 0
+  - Takedowns: JAMES VICK 0,  JAKE MATTHEWS 1
+  Bonus: perf

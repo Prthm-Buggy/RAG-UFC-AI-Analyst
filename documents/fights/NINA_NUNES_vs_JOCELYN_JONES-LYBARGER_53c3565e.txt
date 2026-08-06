@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Penn
+    Date: January 15, 2017
+    Location: Phoenix, Arizona, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: NINA NUNES defeated JOCELYN JONES-LYBARGER via Submission  
+  at 3:39 of round 3
+  Key stats:
+  - NINA NUNES landed 48 significant strikes
+  - JOCELYN JONES-LYBARGER landed 21 significant strikes
+  - Knockdowns: NINA NUNES 0,  JOCELYN JONES-LYBARGER 0
+  - Takedowns: NINA NUNES 1,  JOCELYN JONES-LYBARGER 0

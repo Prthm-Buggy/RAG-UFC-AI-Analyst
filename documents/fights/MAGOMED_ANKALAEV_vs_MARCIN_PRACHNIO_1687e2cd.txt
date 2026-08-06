@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hunt vs. Oleinik
+    Date: September 15, 2018
+    Location: Moscow, Moscow, Russia
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAGOMED ANKALAEV defeated MARCIN PRACHNIO via KO/TKO  
+  at 3:09 of round 1
+  Key stats:
+  - MAGOMED ANKALAEV landed 12 significant strikes
+  - MARCIN PRACHNIO landed 3 significant strikes
+  - Knockdowns: MAGOMED ANKALAEV 1,  MARCIN PRACHNIO 0
+  - Takedowns: MAGOMED ANKALAEV 0,  MARCIN PRACHNIO 0
+  Bonus: perf

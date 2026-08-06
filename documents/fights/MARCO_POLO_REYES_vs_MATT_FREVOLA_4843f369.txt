@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Stephens vs. Choi
+    Date: January 14, 2018
+    Location: St. Louis, Missouri, USA
+    Weight Class: Lightweight
+    
+
+    Result: MARCO POLO REYES defeated MATT FREVOLA via KO/TKO  
+  at 1:00 of round 1
+  Key stats:
+  - MARCO POLO REYES landed 18 significant strikes
+  - MATT FREVOLA landed 9 significant strikes
+  - Knockdowns: MARCO POLO REYES 2,  MATT FREVOLA 0
+  - Takedowns: MARCO POLO REYES 0,  MATT FREVOLA 0
+  Bonus: perf

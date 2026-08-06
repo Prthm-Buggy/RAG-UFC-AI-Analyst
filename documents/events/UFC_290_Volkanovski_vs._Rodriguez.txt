@@ -1,0 +1,20 @@
+Event : UFC 290: Volkanovski vs. Rodriguez
+    Date : July 08, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Flyweight, Catch Weight, Women's Strawweight, Featherweight, Middleweight, Lightweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - DENISE GOMES def. YAZMIN JAUREGUI via KO/TKO(R1)
+- JESUS AGUILAR def. SHANNON ROSS via KO/TKO(R1)
+- ESTEBAN RIBOVICS def. KAMUELA KIRK via Decision - Unanimous(R3)
+- ALEXANDER VOLKANOVSKI def. YAIR RODRIGUEZ via KO/TKO(R3)
+- ALONZO MENIFIELD def. JIMMY CRUTE via Submission(R2)
+- VITOR PETRINO def. MARCIN PRACHNIO via Submission(R3)
+- TATSURO TAIRA def. EDGAR CHAIREZ via Decision - Unanimous(R3)
+- ALEXANDRE PANTOJA def. BRANDON MORENO via Decision - Split(R5)
+- DRICUS DU PLESSIS def. ROBERT WHITTAKER via KO/TKO(R2)
+- DAN HOOKER def. JALIN TURNER via Decision - Split(R3)
+- ROBBIE LAWLER def. NIKO PRICE via KO/TKO(R1)
+- BO NICKAL def. VAL WOODBURN via KO/TKO(R1)
+- CAMERON SAAIMAN def. TERRENCE MITCHELL via KO/TKO(R1)

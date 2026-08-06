@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ngannou vs. Dos Santos
+    Date: June 29, 2019
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: AMANDA RIBAS defeated EMILY WHITMIRE via Submission  
+  at 2:10 of round 2
+  Key stats:
+  - AMANDA RIBAS landed 21 significant strikes
+  - EMILY WHITMIRE landed 7 significant strikes
+  - Knockdowns: AMANDA RIBAS 0,  EMILY WHITMIRE 0
+  - Takedowns: AMANDA RIBAS 2,  EMILY WHITMIRE 0

@@ -1,0 +1,13 @@
+Event: UFC 17: Redemption
+    Date: May 15, 1998
+    Location: Mobile, Alabama, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MIKE VAN ARSDALE defeated JOE PARDO via Submission  
+  at 11:01 of round 1
+  Key stats:
+  - MIKE VAN ARSDALE landed 27 significant strikes
+  - JOE PARDO landed 4 significant strikes
+  - Knockdowns: MIKE VAN ARSDALE 0,  JOE PARDO 0
+  - Takedowns: MIKE VAN ARSDALE 1,  JOE PARDO 0

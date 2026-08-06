@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Liddell vs Team Ortiz Finale
+    Date: June 19, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: RICH ATTONITO defeated JAMIE YAGER via KO/TKO  
+  at 4:25 of round 2
+  Key stats:
+  - RICH ATTONITO landed 24 significant strikes
+  - JAMIE YAGER landed 29 significant strikes
+  - Knockdowns: RICH ATTONITO 0,  JAMIE YAGER 0
+  - Takedowns: RICH ATTONITO 1,  JAMIE YAGER 0

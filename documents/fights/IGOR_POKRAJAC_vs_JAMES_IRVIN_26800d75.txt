@@ -1,0 +1,13 @@
+Event: UFC Live: Jones vs Matyushenko
+    Date: August 01, 2010
+    Location: San Diego, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: IGOR POKRAJAC defeated JAMES IRVIN via Submission  
+  at 2:29 of round 1
+  Key stats:
+  - IGOR POKRAJAC landed 18 significant strikes
+  - JAMES IRVIN landed 11 significant strikes
+  - Knockdowns: IGOR POKRAJAC 0,  JAMES IRVIN 0
+  - Takedowns: IGOR POKRAJAC 2,  JAMES IRVIN 0

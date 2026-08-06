@@ -1,0 +1,11 @@
+Fighter: JAQUELINE AMORIM
+  Date of Birth: 1995-06-24
+  Career record: 7
+  First fight: 2023-04-08
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :135
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :14

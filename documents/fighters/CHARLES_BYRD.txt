@@ -1,0 +1,11 @@
+Fighter: CHARLES BYRD
+  Date of Birth: 1983-10-11
+  Career record: 4
+  First fight: 2018-03-17
+  Last fight: 2020-06-06
+
+Career Statistics:
+- Significant Strikes Landed :61
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

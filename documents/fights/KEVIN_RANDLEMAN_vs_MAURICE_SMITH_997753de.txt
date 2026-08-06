@@ -1,0 +1,13 @@
+Event: UFC 19: Ultimate Young Guns
+    Date: March 05, 1999
+    Location: Bay St. Louis, Mississippi, USA
+    Weight Class: Heavyweight
+    
+
+    Result: KEVIN RANDLEMAN defeated MAURICE SMITH via Decision - Unanimous  
+  at 3:00 of round 2
+  Key stats:
+  - KEVIN RANDLEMAN landed 17 significant strikes
+  - MAURICE SMITH landed 9 significant strikes
+  - Knockdowns: KEVIN RANDLEMAN 0,  MAURICE SMITH 0
+  - Takedowns: KEVIN RANDLEMAN 4,  MAURICE SMITH 0

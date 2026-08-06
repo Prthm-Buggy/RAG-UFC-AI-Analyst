@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Volkov vs. Rozenstruik
+    Date : June 04, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 14
+    Weight Classes: Heavyweight, Women's Flyweight, Bantamweight, Featherweight, Light Heavyweight, Women's Strawweight, Lightweight, Flyweight, Welterweight
+
+    Fight Results:
+  - BENOIT SAINT DENIS def. NIKLAS STOLZE via Submission(R2)
+- ERIN BLANCHFIELD def. JJ ALDRICH via Submission(R2)
+- MOVSAR EVLOEV def. DAN IGE via Decision - Unanimous(R3)
+- KARINE SILVA def. POLIANA BOTELHO via Submission(R1)
+- LUCAS ALMEIDA def. MICHAEL TRIZANO via KO/TKO(R3)
+- KAROLINA KOWALKIEWICZ def. FELICE HERRIG via Submission(R2)
+- ALEXANDER VOLKOV def. JAIRZINHO ROZENSTRUIK via KO/TKO(R1)
+- RINAT FAKHRETDINOV def. ANDREAS MICHAILIDIS via Decision - Unanimous(R3)
+- DAMON JACKSON def. DAN ARGUETA via Decision - Unanimous(R3)
+- TONY GRAVELY def. JOHNNY MUNOZ via KO/TKO(R1)
+- JEFF MOLINA def. ZHALGAS ZHUMAGULOV via Decision - Split(R3)
+- JOE SOLECKI def. ALEX DA SILVA via Decision - Majority(R3)
+- ALONZO MENIFIELD def. ASKAR MOZHAROV via KO/TKO(R1)
+- ODE OSBOURNE def. ZARRUKH ADASHEV via KO/TKO(R1)

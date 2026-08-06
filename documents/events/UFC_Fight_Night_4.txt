@@ -1,0 +1,16 @@
+Event : UFC Fight Night 4
+    Date : April 06, 2006
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Light Heavyweight, Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - CHAEL SONNEN def. TREVOR PRANGLEY via Decision - Unanimous(R3)
+- JON FITCH def. JOSHUA BURKMAN via Submission(R2)
+- LUKE CUMMO def. JASON VON FLUE via Decision - Unanimous(R3)
+- RASHAD EVANS def. SAM HOGER via Decision - Split(R3)
+- STEPHAN BONNAR def. KEITH JARDINE via Decision - Unanimous(R3)
+- JOSH NEER def. JOE STEVENSON via Decision - Unanimous(R3)
+- CHRIS LEBEN def. LUIGI FIORAVANTI via Decision - Unanimous(R3)
+- JOSH KOSCHECK def. ANSAR CHALANGOV via Submission(R1)
+- DAN CHRISTISON def. BRAD IMES via Submission(R3)

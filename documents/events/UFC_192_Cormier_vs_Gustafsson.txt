@@ -1,0 +1,19 @@
+Event : UFC 192: Cormier vs Gustafsson
+    Date : October 03, 2015
+    Location: Houston, Texas, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Light Heavyweight, Flyweight, Featherweight, Women's Strawweight, Lightweight, Welterweight, Women's Bantamweight
+
+    Fight Results:
+  - DERRICK LEWIS def. VIKTOR PESTA via KO/TKO(R3)
+- YAIR RODRIGUEZ def. DAN HOOKER via Decision - Unanimous(R3)
+- ADRIANO MARTINS def. ISLAM MAKHACHEV via KO/TKO(R1)
+- SAGE NORTHCUTT def. FRANCISCO TREVINO via KO/TKO(R1)
+- ROSE NAMAJUNAS def. ANGELA HILL via Submission(R1)
+- JULIANNA PENA def. JESSICA EYE via Decision - Unanimous(R3)
+- JOSEPH BENAVIDEZ def. ALI BAGAUTINOV via Decision - Unanimous(R3)
+- RUSLAN MAGOMEDOV def. SHAWN JORDAN via Decision - Unanimous(R3)
+- DANIEL CORMIER def. ALEXANDER GUSTAFSSON via Decision - Split(R5)
+- SERGIO PETTIS def. CHRIS CARIASO via Decision - Unanimous(R3)
+- ALBERT TUMENOV def. ALAN JOUBAN via KO/TKO(R1)
+- RYAN BADER def. RASHAD EVANS via Decision - Unanimous(R3)

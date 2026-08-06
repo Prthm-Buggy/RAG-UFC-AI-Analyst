@@ -1,0 +1,13 @@
+Event: UFC 101: Declaration
+    Date: August 08, 2009
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOHNY HENDRICKS defeated AMIR SADOLLAH via KO/TKO  
+  at 0:29 of round 1
+  Key stats:
+  - JOHNY HENDRICKS landed 7 significant strikes
+  - AMIR SADOLLAH landed 2 significant strikes
+  - Knockdowns: JOHNY HENDRICKS 1,  AMIR SADOLLAH 0
+  - Takedowns: JOHNY HENDRICKS 0,  AMIR SADOLLAH 0

@@ -1,0 +1,14 @@
+Event: UFC 262: Oliveira vs. Chandler
+    Date: May 15, 2021
+    Location: Houston, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHRISTOS GIAGOS defeated SEAN SORIANO via Submission  
+  at 0:59 of round 2
+  Key stats:
+  - CHRISTOS GIAGOS landed 22 significant strikes
+  - SEAN SORIANO landed 33 significant strikes
+  - Knockdowns: CHRISTOS GIAGOS 0,  SEAN SORIANO 0
+  - Takedowns: CHRISTOS GIAGOS 3,  SEAN SORIANO 0
+  Bonus: perf

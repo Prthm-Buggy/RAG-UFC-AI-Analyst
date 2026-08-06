@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bisping vs Le
+    Date: August 23, 2014
+    Location: Macau, China
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL BISPING defeated CUNG LE via KO/TKO  
+  at 0:57 of round 4
+  Key stats:
+  - MICHAEL BISPING landed 92 significant strikes
+  - CUNG LE landed 38 significant strikes
+  - Knockdowns: MICHAEL BISPING 1,  CUNG LE 0
+  - Takedowns: MICHAEL BISPING 0,  CUNG LE 0
+  Bonus: perf

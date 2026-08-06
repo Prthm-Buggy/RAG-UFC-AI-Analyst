@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Moreno vs. Erceg
+    Date : March 29, 2025
+    Location: Mexico City, Distrito Federal, Mexico
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Featherweight, Women's Strawweight, Flyweight, Lightweight, Middleweight
+
+    Fight Results:
+  - MELQUIZAEL COSTA def. CHRISTIAN RODRIGUEZ via Decision - Unanimous(R3)
+- KEVIN BORJAS def. RONALDO RODRIGUEZ via Decision - Unanimous(R3)
+- LOOPY GODINEZ def. JULIA POLASTRI via Decision - Unanimous(R3)
+- ATEBA GAUTIER def. JOSE DANIEL MEDINA via KO/TKO(R1)
+- DAVID MARTINEZ def. SAIMON OLIVEIRA via KO/TKO(R1)
+- RAFA GARCIA def. VINC PICHEL via Decision - Unanimous(R3)
+- BRANDON MORENO def. STEVE ERCEG via Decision - Unanimous(R5)
+- MARQUEL MEDEROS def. AUSTIN HUBBARD via Decision - Split(R3)
+- EDGAR CHAIREZ def. CJ VERGARA via Submission(R1)
+- RAUL ROSAS JR. def. VINCE MORALES via Decision - Unanimous(R3)
+- MANUEL TORRES def. DREW DOBER via KO/TKO(R1)
+- JAMALL EMMERS def. GABRIEL MIRANDA via KO/TKO(R1)

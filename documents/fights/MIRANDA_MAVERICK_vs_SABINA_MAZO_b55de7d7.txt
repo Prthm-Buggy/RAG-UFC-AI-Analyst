@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Ankalaev
+    Date: March 12, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MIRANDA MAVERICK defeated SABINA MAZO via Submission  
+  at 2:15 of round 2
+  Key stats:
+  - MIRANDA MAVERICK landed 19 significant strikes
+  - SABINA MAZO landed 15 significant strikes
+  - Knockdowns: MIRANDA MAVERICK 0,  SABINA MAZO 0
+  - Takedowns: MIRANDA MAVERICK 4,  SABINA MAZO 0

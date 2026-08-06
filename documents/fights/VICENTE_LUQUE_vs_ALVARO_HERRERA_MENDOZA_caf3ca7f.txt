@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Alvarez
+    Date: July 07, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated ALVARO HERRERA MENDOZA via Submission  
+  at 3:52 of round 2
+  Key stats:
+  - VICENTE LUQUE landed 25 significant strikes
+  - ALVARO HERRERA MENDOZA landed 12 significant strikes
+  - Knockdowns: VICENTE LUQUE 0,  ALVARO HERRERA MENDOZA 0
+  - Takedowns: VICENTE LUQUE 4,  ALVARO HERRERA MENDOZA 0

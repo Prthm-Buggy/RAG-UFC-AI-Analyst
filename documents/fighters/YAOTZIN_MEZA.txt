@@ -1,0 +1,11 @@
+Fighter: YAOTZIN MEZA
+  Date of Birth: 1981-02-04
+  Career record: 6
+  First fight: 2012-12-14
+  Last fight: 2016-02-27
+
+Career Statistics:
+- Significant Strikes Landed :109
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :8

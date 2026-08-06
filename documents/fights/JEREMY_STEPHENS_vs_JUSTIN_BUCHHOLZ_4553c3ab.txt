@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Diaz vs Guillard
+    Date: September 16, 2009
+    Location: Oklahoma City, Oklahoma, USA
+    Weight Class: Lightweight
+    
+
+    Result: JEREMY STEPHENS defeated JUSTIN BUCHHOLZ via TKO - Doctor's Stoppage  
+  at 3:23 of round 1
+  Key stats:
+  - JEREMY STEPHENS landed 28 significant strikes
+  - JUSTIN BUCHHOLZ landed 9 significant strikes
+  - Knockdowns: JEREMY STEPHENS 2,  JUSTIN BUCHHOLZ 0
+  - Takedowns: JEREMY STEPHENS 0,  JUSTIN BUCHHOLZ 0
+  Bonus: ko

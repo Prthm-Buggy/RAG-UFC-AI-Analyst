@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Imavov vs. Borralho
+    Date : September 06, 2025
+    Location: Paris, Ile-de-France, France
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Middleweight, Women's Strawweight, Featherweight, Welterweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - NASSOURDINE IMAVOV def. CAIO BORRALHO via Decision - Unanimous(R5)
+- SAM HUGHES def. SHAUNA BANNON via Submission(R2)
+- BENOIT SAINT DENIS def. MAURICIO RUFFY via Submission(R2)
+- RINAT FAKHRETDINOV def. ANDREAS GUSTAFSSON via KO/TKO(R1)
+- ANTE DELIJA def. MARCIN TYBURA via KO/TKO(R1)
+- KAUE FERNANDES def. HARRY HARDWICK via KO/TKO(R1)
+- MASON JONES def. BOLAJI OKI via KO/TKO(R2)
+- AXEL SOLA def. RHYS MCKEE via KO/TKO(R3)
+- MODESTAS BUKAUSKAS def. PAUL CRAIG via KO/TKO(R1)
+- ROBERT BRYCZEK def. BRAD TAVARES via KO/TKO(R3)
+- SAM PATTERSON def. TREY WATERS via KO/TKO(R1)
+- WILLIAM GOMIS def. ROBERT RUCHALA via Decision - Unanimous(R3)
+- OUMAR SY def. BRENDSON RIBEIRO via KO/TKO(R1)

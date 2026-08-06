@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Gustafsson vs Silva
+    Date: April 14, 2012
+    Location: Stockholm, Sweden
+    Weight Class: Featherweight
+    
+
+    Result: DENNIS SIVER defeated DIEGO NUNES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DENNIS SIVER landed 68 significant strikes
+  - DIEGO NUNES landed 49 significant strikes
+  - Knockdowns: DENNIS SIVER 0,  DIEGO NUNES 0
+  - Takedowns: DENNIS SIVER 0,  DIEGO NUNES 0

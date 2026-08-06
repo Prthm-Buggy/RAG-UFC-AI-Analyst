@@ -1,0 +1,14 @@
+Event: UFC 116: Lesnar vs Carwin
+    Date: July 03, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BROCK LESNAR defeated SHANE CARWIN via Submission  
+  at 2:19 of round 2
+  Key stats:
+  - BROCK LESNAR landed 8 significant strikes
+  - SHANE CARWIN landed 40 significant strikes
+  - Knockdowns: BROCK LESNAR 0,  SHANE CARWIN 1
+  - Takedowns: BROCK LESNAR 1,  SHANE CARWIN 0
+  Bonus: belt

@@ -1,0 +1,14 @@
+Event: UFC 172: Jones vs Teixeira
+    Date: April 26, 2014
+    Location: Baltimore, Maryland, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated GLOVER TEIXEIRA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JON JONES landed 138 significant strikes
+  - GLOVER TEIXEIRA landed 53 significant strikes
+  - Knockdowns: JON JONES 0,  GLOVER TEIXEIRA 0
+  - Takedowns: JON JONES 3,  GLOVER TEIXEIRA 0
+  Bonus: belt

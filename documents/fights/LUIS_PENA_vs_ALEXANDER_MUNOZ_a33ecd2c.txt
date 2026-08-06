@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Whittaker vs. Gastelum
+    Date: April 17, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: LUIS PENA defeated ALEXANDER MUNOZ via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - LUIS PENA landed 90 significant strikes
+  - ALEXANDER MUNOZ landed 80 significant strikes
+  - Knockdowns: LUIS PENA 0,  ALEXANDER MUNOZ 0
+  - Takedowns: LUIS PENA 0,  ALEXANDER MUNOZ 4

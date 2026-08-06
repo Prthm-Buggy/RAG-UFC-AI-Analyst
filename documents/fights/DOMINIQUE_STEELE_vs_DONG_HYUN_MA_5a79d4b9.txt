@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Henderson vs Masvidal
+    Date: November 28, 2015
+    Location: Seoul, South Korea
+    Weight Class: Welterweight
+    
+
+    Result: DOMINIQUE STEELE defeated DONG HYUN MA via KO/TKO  
+  at 0:27 of round 3
+  Key stats:
+  - DOMINIQUE STEELE landed 36 significant strikes
+  - DONG HYUN MA landed 19 significant strikes
+  - Knockdowns: DOMINIQUE STEELE 1,  DONG HYUN MA 0
+  - Takedowns: DOMINIQUE STEELE 4,  DONG HYUN MA 0
+  Bonus: perf

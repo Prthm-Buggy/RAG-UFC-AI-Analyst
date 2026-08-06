@@ -1,0 +1,14 @@
+Event: UFC on FOX: Diaz vs Miller
+    Date: May 05, 2012
+    Location: East Rutherford, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: LAVAR JOHNSON defeated PAT BARRY via KO/TKO  
+  at 4:38 of round 1
+  Key stats:
+  - LAVAR JOHNSON landed 39 significant strikes
+  - PAT BARRY landed 15 significant strikes
+  - Knockdowns: LAVAR JOHNSON 1,  PAT BARRY 0
+  - Takedowns: LAVAR JOHNSON 0,  PAT BARRY 0
+  Bonus: ko

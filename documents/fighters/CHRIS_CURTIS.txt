@@ -1,0 +1,11 @@
+Fighter: CHRIS CURTIS
+  Date of Birth: 1987-07-15
+  Career record: 11
+  First fight: 2021-11-06
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :822
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :0

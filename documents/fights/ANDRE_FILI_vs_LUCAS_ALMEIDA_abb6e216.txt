@@ -1,0 +1,13 @@
+Event: UFC 296: Edwards vs. Covington
+    Date: December 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ANDRE FILI defeated LUCAS ALMEIDA via KO/TKO  
+  at 3:32 of round 1
+  Key stats:
+  - ANDRE FILI landed 20 significant strikes
+  - LUCAS ALMEIDA landed 10 significant strikes
+  - Knockdowns: ANDRE FILI 1,  LUCAS ALMEIDA 0
+  - Takedowns: ANDRE FILI 0,  LUCAS ALMEIDA 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lauzon vs Stephens
+    Date: February 07, 2009
+    Location: Tampa, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOSH NEER defeated MAC DANZIG via Submission  
+  at 3:36 of round 2
+  Key stats:
+  - JOSH NEER landed 46 significant strikes
+  - MAC DANZIG landed 33 significant strikes
+  - Knockdowns: JOSH NEER 0,  MAC DANZIG 1
+  - Takedowns: JOSH NEER 0,  MAC DANZIG 0
+  Bonus: fight

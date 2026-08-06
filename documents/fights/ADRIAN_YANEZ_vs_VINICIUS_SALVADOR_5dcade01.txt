@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Murphy
+    Date: May 18, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ADRIAN YANEZ defeated VINICIUS SALVADOR via KO/TKO  
+  at 2:47 of round 1
+  Key stats:
+  - ADRIAN YANEZ landed 36 significant strikes
+  - VINICIUS SALVADOR landed 17 significant strikes
+  - Knockdowns: ADRIAN YANEZ 1,  VINICIUS SALVADOR 0
+  - Takedowns: ADRIAN YANEZ 0,  VINICIUS SALVADOR 0

@@ -1,0 +1,11 @@
+Fighter: YANA SANTOS
+  Date of Birth: 1989-11-11
+  Career record: 12
+  First fight: 2018-03-03
+  Last fight: 2025-10-04
+
+Career Statistics:
+- Significant Strikes Landed :677
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :1

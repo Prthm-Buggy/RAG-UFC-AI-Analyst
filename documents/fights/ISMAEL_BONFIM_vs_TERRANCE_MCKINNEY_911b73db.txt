@@ -1,0 +1,14 @@
+Event: UFC 283: Teixeira vs. Hill
+    Date: January 21, 2023
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: ISMAEL BONFIM defeated TERRANCE MCKINNEY via KO/TKO  
+  at 2:17 of round 2
+  Key stats:
+  - ISMAEL BONFIM landed 34 significant strikes
+  - TERRANCE MCKINNEY landed 14 significant strikes
+  - Knockdowns: ISMAEL BONFIM 1,  TERRANCE MCKINNEY 0
+  - Takedowns: ISMAEL BONFIM 1,  TERRANCE MCKINNEY 0
+  Bonus: perf

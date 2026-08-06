@@ -1,0 +1,18 @@
+Event : UFC 191: Johnson vs Dodson 2
+    Date : September 05, 2015
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Bantamweight, Flyweight, Light Heavyweight, Lightweight, Women's Bantamweight, Featherweight, Middleweight, Women's Strawweight
+
+    Fight Results:
+  - RAQUEL PENNINGTON def. JESSICA ANDRADE via Submission(R2)
+- JOHN LINEKER def. FRANCISCO RIVERA via Submission(R1)
+- COREY ANDERSON def. JAN BLACHOWICZ via Decision - Unanimous(R3)
+- JOE RIGGS def. RON STALLINGS via DQ(R2)
+- PAIGE VANZANT def. ALEX CHAMBERS via Submission(R3)
+- ANDREI ARLOVSKI def. FRANK MIR via Decision - Unanimous(R3)
+- TIAGO DOS SANTOS E SILVA def. CLAY COLLARD via Decision - Split(R3)
+- DEMETRIOUS JOHNSON def. JOHN DODSON via Decision - Unanimous(R5)
+- ANTHONY JOHNSON def. JIMI MANUWA via KO/TKO(R2)
+- ROSS PEARSON def. PAUL FELDER via Decision - Split(R3)
+- JOAQUIM SILVA def. NAZARENO MALEGARIE via Decision - Split(R3)

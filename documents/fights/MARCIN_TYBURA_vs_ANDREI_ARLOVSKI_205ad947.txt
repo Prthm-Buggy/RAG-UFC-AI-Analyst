@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Correia
+    Date: June 17, 2017
+    Location: Kallang, Singapore
+    Weight Class: Heavyweight
+    
+
+    Result: MARCIN TYBURA defeated ANDREI ARLOVSKI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARCIN TYBURA landed 51 significant strikes
+  - ANDREI ARLOVSKI landed 28 significant strikes
+  - Knockdowns: MARCIN TYBURA 0,  ANDREI ARLOVSKI 0
+  - Takedowns: MARCIN TYBURA 2,  ANDREI ARLOVSKI 0

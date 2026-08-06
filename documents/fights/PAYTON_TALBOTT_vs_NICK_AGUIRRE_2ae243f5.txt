@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Allen vs. Craig
+    Date: November 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: PAYTON TALBOTT defeated NICK AGUIRRE via Submission  
+  at 0:58 of round 3
+  Key stats:
+  - PAYTON TALBOTT landed 28 significant strikes
+  - NICK AGUIRRE landed 5 significant strikes
+  - Knockdowns: PAYTON TALBOTT 0,  NICK AGUIRRE 0
+  - Takedowns: PAYTON TALBOTT 0,  NICK AGUIRRE 2

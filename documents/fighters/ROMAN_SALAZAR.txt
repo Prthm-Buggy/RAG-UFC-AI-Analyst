@@ -1,0 +1,11 @@
+Fighter: ROMAN SALAZAR
+  Date of Birth: 1988-02-21
+  Career record: 2
+  First fight: 2014-10-04
+  Last fight: 2015-08-08
+
+Career Statistics:
+- Significant Strikes Landed :17
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

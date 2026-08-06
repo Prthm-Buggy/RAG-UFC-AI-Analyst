@@ -1,0 +1,11 @@
+Fighter: JOHN CHOLISH
+  Date of Birth: 1983-12-17
+  Career record: 3
+  First fight: 2011-12-10
+  Last fight: 2013-05-18
+
+Career Statistics:
+- Significant Strikes Landed :93
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

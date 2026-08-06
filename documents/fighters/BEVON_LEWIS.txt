@@ -1,0 +1,11 @@
+Fighter: BEVON LEWIS
+  Date of Birth: 1991-05-05
+  Career record: 4
+  First fight: 2018-12-29
+  Last fight: 2020-11-07
+
+Career Statistics:
+- Significant Strikes Landed :161
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: RAMIRO HERNANDEZ
+  Date of Birth: 1986-07-22
+  Career record: 2
+  First fight: 2013-09-04
+  Last fight: 2014-01-25
+
+Career Statistics:
+- Significant Strikes Landed :44
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

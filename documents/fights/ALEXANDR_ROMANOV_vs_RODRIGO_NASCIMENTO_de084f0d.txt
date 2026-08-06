@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Albazi
+    Date: November 02, 2024
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: ALEXANDR ROMANOV defeated RODRIGO NASCIMENTO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALEXANDR ROMANOV landed 45 significant strikes
+  - RODRIGO NASCIMENTO landed 31 significant strikes
+  - Knockdowns: ALEXANDR ROMANOV 0,  RODRIGO NASCIMENTO 0
+  - Takedowns: ALEXANDR ROMANOV 6,  RODRIGO NASCIMENTO 0

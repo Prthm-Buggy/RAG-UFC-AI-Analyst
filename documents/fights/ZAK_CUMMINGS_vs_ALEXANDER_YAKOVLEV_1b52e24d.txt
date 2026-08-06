@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Mousasi vs. Hall 2
+    Date: November 19, 2016
+    Location: Belfast, Northern Ireland, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: ZAK CUMMINGS defeated ALEXANDER YAKOVLEV via Submission  
+  at 4:02 of round 2
+  Key stats:
+  - ZAK CUMMINGS landed 24 significant strikes
+  - ALEXANDER YAKOVLEV landed 18 significant strikes
+  - Knockdowns: ZAK CUMMINGS 0,  ALEXANDER YAKOVLEV 0
+  - Takedowns: ZAK CUMMINGS 0,  ALEXANDER YAKOVLEV 1

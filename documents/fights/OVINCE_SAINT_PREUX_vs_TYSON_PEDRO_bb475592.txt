@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cowboy vs. Edwards
+    Date: June 23, 2018
+    Location: Kallang, Singapore
+    Weight Class: Light Heavyweight
+    
+
+    Result: OVINCE SAINT PREUX defeated TYSON PEDRO via Submission  
+  at 2:54 of round 1
+  Key stats:
+  - OVINCE SAINT PREUX landed 7 significant strikes
+  - TYSON PEDRO landed 9 significant strikes
+  - Knockdowns: OVINCE SAINT PREUX 0,  TYSON PEDRO 1
+  - Takedowns: OVINCE SAINT PREUX 0,  TYSON PEDRO 0
+  Bonus: perf

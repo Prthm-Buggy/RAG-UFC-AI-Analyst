@@ -1,0 +1,13 @@
+Event: UFC 256: Figueiredo vs. Moreno
+    Date: December 12, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CIRYL GANE defeated JUNIOR DOS SANTOS via KO/TKO  
+  at 2:34 of round 2
+  Key stats:
+  - CIRYL GANE landed 59 significant strikes
+  - JUNIOR DOS SANTOS landed 10 significant strikes
+  - Knockdowns: CIRYL GANE 1,  JUNIOR DOS SANTOS 0
+  - Takedowns: CIRYL GANE 0,  JUNIOR DOS SANTOS 0

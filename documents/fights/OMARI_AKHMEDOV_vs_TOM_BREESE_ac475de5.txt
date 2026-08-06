@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Chiesa vs. Magny
+    Date: January 20, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: OMARI AKHMEDOV defeated TOM BREESE via Submission  
+  at 1:41 of round 2
+  Key stats:
+  - OMARI AKHMEDOV landed 25 significant strikes
+  - TOM BREESE landed 1 significant strikes
+  - Knockdowns: OMARI AKHMEDOV 0,  TOM BREESE 0
+  - Takedowns: OMARI AKHMEDOV 2,  TOM BREESE 0

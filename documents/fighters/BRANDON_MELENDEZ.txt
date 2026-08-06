@@ -1,0 +1,11 @@
+Fighter: BRANDON MELENDEZ
+  Date of Birth: 1983-03-24
+  Career record: 1
+  First fight: 2007-06-23
+  Last fight: 2007-06-23
+
+Career Statistics:
+- Significant Strikes Landed :6
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

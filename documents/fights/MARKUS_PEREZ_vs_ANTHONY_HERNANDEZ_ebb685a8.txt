@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Assuncao vs. Moraes 2
+    Date: February 02, 2019
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: MARKUS PEREZ defeated ANTHONY HERNANDEZ via Submission  
+  at 1:07 of round 2
+  Key stats:
+  - MARKUS PEREZ landed 16 significant strikes
+  - ANTHONY HERNANDEZ landed 17 significant strikes
+  - Knockdowns: MARKUS PEREZ 0,  ANTHONY HERNANDEZ 0
+  - Takedowns: MARKUS PEREZ 1,  ANTHONY HERNANDEZ 0

@@ -1,0 +1,13 @@
+Event: UFC 48: Payback
+    Date: June 19, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: KEN SHAMROCK defeated KIMO LEOPOLDO via KO/TKO  
+  at 1:26 of round 1
+  Key stats:
+  - KEN SHAMROCK landed 12 significant strikes
+  - KIMO LEOPOLDO landed 4 significant strikes
+  - Knockdowns: KEN SHAMROCK 1,  KIMO LEOPOLDO 0
+  - Takedowns: KEN SHAMROCK 0,  KIMO LEOPOLDO 0

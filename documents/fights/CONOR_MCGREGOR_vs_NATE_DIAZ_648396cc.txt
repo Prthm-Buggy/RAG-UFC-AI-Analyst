@@ -1,0 +1,14 @@
+Event: UFC 202: Diaz vs. McGregor 2
+    Date: August 20, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CONOR MCGREGOR defeated NATE DIAZ via Decision - Majority  
+  at 5:00 of round 5
+  Key stats:
+  - CONOR MCGREGOR landed 164 significant strikes
+  - NATE DIAZ landed 166 significant strikes
+  - Knockdowns: CONOR MCGREGOR 3,  NATE DIAZ 0
+  - Takedowns: CONOR MCGREGOR 0,  NATE DIAZ 1
+  Bonus: fight

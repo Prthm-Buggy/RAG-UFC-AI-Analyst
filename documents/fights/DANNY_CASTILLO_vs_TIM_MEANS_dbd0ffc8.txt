@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs Moraga
+    Date: July 27, 2013
+    Location: Seattle, Washington, USA
+    Weight Class: Lightweight
+    
+
+    Result: DANNY CASTILLO defeated TIM MEANS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DANNY CASTILLO landed 25 significant strikes
+  - TIM MEANS landed 38 significant strikes
+  - Knockdowns: DANNY CASTILLO 0,  TIM MEANS 0
+  - Takedowns: DANNY CASTILLO 6,  TIM MEANS 0

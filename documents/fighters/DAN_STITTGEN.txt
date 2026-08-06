@@ -1,0 +1,11 @@
+Fighter: DAN STITTGEN
+  Date of Birth: 1980-11-17
+  Career record: 2
+  First fight: 2012-02-04
+  Last fight: 2012-07-11
+
+Career Statistics:
+- Significant Strikes Landed :57
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

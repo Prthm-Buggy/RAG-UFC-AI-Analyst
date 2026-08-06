@@ -1,0 +1,11 @@
+Fighter: CHRISTINA MARKS
+  Date of Birth: 1985-11-08
+  Career record: 1
+  First fight: 2017-12-01
+  Last fight: 2017-12-01
+
+Career Statistics:
+- Significant Strikes Landed :10
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

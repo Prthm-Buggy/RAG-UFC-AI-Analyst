@@ -1,0 +1,18 @@
+Event : UFC 200: Tate vs Nunes
+    Date : July 09, 2016
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Heavyweight, Women's Bantamweight, Lightweight, Welterweight, Featherweight, Light Heavyweight, Middleweight
+
+    Fight Results:
+  - JIM MILLER def. TAKANORI GOMI via KO/TKO(R1)
+- AMANDA NUNES def. MIESHA TATE via Submission(R1)
+- KELVIN GASTELUM def. JOHNY HENDRICKS via Decision - Unanimous(R3)
+- TJ DILLASHAW def. RAPHAEL ASSUNCAO via Decision - Unanimous(R3)
+- JULIANNA PENA def. CAT ZINGANO via Decision - Unanimous(R3)
+- GEGARD MOUSASI def. THIAGO SANTOS via KO/TKO(R1)
+- DANIEL CORMIER def. ANDERSON SILVA via Decision - Unanimous(R3)
+- JOSE ALDO def. FRANKIE EDGAR via Decision - Unanimous(R5)
+- CAIN VELASQUEZ def. TRAVIS BROWNE via KO/TKO(R1)
+- JOE LAUZON def. DIEGO SANCHEZ via KO/TKO(R1)
+- SAGE NORTHCUTT def. ENRIQUE MARIN via Decision - Unanimous(R3)

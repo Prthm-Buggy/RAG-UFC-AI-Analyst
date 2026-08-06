@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Couture vs. Team Liddell Finale
+    Date: April 09, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS LEBEN defeated JASON THACKER via KO/TKO  
+  at 1:35 of round 1
+  Key stats:
+  - CHRIS LEBEN landed 27 significant strikes
+  - JASON THACKER landed 1 significant strikes
+  - Knockdowns: CHRIS LEBEN 0,  JASON THACKER 0
+  - Takedowns: CHRIS LEBEN 1,  JASON THACKER 0

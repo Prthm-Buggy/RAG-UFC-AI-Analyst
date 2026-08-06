@@ -1,0 +1,14 @@
+Event : UFC 27: Ultimate Bad Boyz
+    Date : September 22, 2000
+    Location: New Orleans, Louisiana, USA
+    Number of Fights: 7
+    Weight Classes: Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - PEDRO RIZZO def. DAN SEVERN via KO/TKO(R1)
+- FABIANO IHA def. LAVERNE CLARK via Submission(R1)
+- IAN FREEMAN def. TEDD WILLIAMS via Decision - Unanimous(R3)
+- JEREMY HORN def. EUGENE JACKSON via Submission(R1)
+- JEFF MONSON def. TIM LAJCIK via Decision - Unanimous(R2)
+- YUKI KONDO def. ALEXANDRE DANTAS via KO/TKO(R3)
+- MAURICE SMITH def. BOBBY HOFFMAN via Decision - Split(R3)

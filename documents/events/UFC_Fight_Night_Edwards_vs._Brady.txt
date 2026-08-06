@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Edwards vs. Brady
+    Date : March 22, 2025
+    Location: London, England, United Kingdom
+    Number of Fights: 13
+    Weight Classes: Flyweight, Welterweight, Lightweight, Women's Strawweight, Middleweight, Featherweight, Light Heavyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - MARCIN TYBURA def. MICK PARKIN via Decision - Unanimous(R3)
+- CHRIS DUNCAN def. JORDAN VUCENIC via Submission(R2)
+- CAOLAN LOUGHRAN def. NATHAN FLETCHER via Decision - Split(R3)
+- KAUE FERNANDES def. GURAM KUTATELADZE via Decision - Unanimous(R3)
+- NATHANIEL WOOD def. MORGAN CHARRIERE via Decision - Unanimous(R3)
+- LONE'ER KAVANAGH def. FELIPE DOS SANTOS via Decision - Unanimous(R3)
+- SEAN BRADY def. LEON EDWARDS via Submission(R4)
+- CARLOS ULBERG def. JAN BLACHOWICZ via Decision - Unanimous(R3)
+- KEVIN HOLLAND def. GUNNAR NELSON via Decision - Unanimous(R3)
+- ALEXIA THAINARA def. MOLLY MCCANN via Submission(R1)
+- CHRIS PADILLA def. JAI HERBERT via Decision - Split(R3)
+- SHAUNA BANNON def. PUJA TOMAR via Submission(R2)
+- CHRISTIAN LEROY DUNCAN def. ANDREY PULYAEV via Decision - Unanimous(R3)

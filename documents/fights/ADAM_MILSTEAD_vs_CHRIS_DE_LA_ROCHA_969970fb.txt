@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Almeida vs Garbrandt
+    Date: May 29, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ADAM MILSTEAD defeated CHRIS DE LA ROCHA via KO/TKO  
+  at 4:01 of round 2
+  Key stats:
+  - ADAM MILSTEAD landed 58 significant strikes
+  - CHRIS DE LA ROCHA landed 39 significant strikes
+  - Knockdowns: ADAM MILSTEAD 0,  CHRIS DE LA ROCHA 0
+  - Takedowns: ADAM MILSTEAD 0,  CHRIS DE LA ROCHA 0

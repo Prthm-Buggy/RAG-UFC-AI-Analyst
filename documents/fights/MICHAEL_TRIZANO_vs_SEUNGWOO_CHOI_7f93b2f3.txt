@@ -1,0 +1,13 @@
+Event: UFC 281: Adesanya vs. Pereira
+    Date: November 12, 2022
+    Location: New York City, New York, USA
+    Weight Class: Featherweight
+    
+
+    Result: MICHAEL TRIZANO defeated SEUNGWOO CHOI via KO/TKO  
+  at 4:51 of round 1
+  Key stats:
+  - MICHAEL TRIZANO landed 32 significant strikes
+  - SEUNGWOO CHOI landed 26 significant strikes
+  - Knockdowns: MICHAEL TRIZANO 2,  SEUNGWOO CHOI 1
+  - Takedowns: MICHAEL TRIZANO 0,  SEUNGWOO CHOI 0

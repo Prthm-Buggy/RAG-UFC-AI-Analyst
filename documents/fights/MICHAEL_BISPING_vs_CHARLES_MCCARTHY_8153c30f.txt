@@ -1,0 +1,13 @@
+Event: UFC 83: Serra vs St-Pierre 2
+    Date: April 19, 2008
+    Location: Montreal, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL BISPING defeated CHARLES MCCARTHY via KO/TKO  
+  at 5:00 of round 1
+  Key stats:
+  - MICHAEL BISPING landed 39 significant strikes
+  - CHARLES MCCARTHY landed 1 significant strikes
+  - Knockdowns: MICHAEL BISPING 1,  CHARLES MCCARTHY 0
+  - Takedowns: MICHAEL BISPING 0,  CHARLES MCCARTHY 1

@@ -1,0 +1,14 @@
+Event: UFC 146: Dos Santos vs Mir
+    Date: May 26, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STEFAN STRUVE defeated LAVAR JOHNSON via Submission  
+  at 1:05 of round 1
+  Key stats:
+  - STEFAN STRUVE landed 0 significant strikes
+  - LAVAR JOHNSON landed 4 significant strikes
+  - Knockdowns: STEFAN STRUVE 0,  LAVAR JOHNSON 0
+  - Takedowns: STEFAN STRUVE 0,  LAVAR JOHNSON 0
+  Bonus: sub

@@ -1,0 +1,11 @@
+Fighter: BRIAN STANN
+  Date of Birth: 1980-09-24
+  Career record: 11
+  First fight: 2009-04-18
+  Last fight: 2013-03-02
+
+Career Statistics:
+- Significant Strikes Landed :333
+- Total takedowns landed :0
+- Knockdowns :7
+- Submission Attempts :3

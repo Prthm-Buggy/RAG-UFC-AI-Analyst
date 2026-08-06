@@ -1,0 +1,14 @@
+Event : UFC 29: Defense of the Belts
+    Date : December 16, 2000
+    Location: Tokyo, Japan
+    Number of Fights: 7
+    Weight Classes: Middleweight, Welterweight
+
+    Fight Results:
+  - PAT MILETICH def. KENICHI YAMAMOTO via Submission(R2)
+- EVAN TANNER def. LANCE GIBSON via KO/TKO(R1)
+- TITO ORTIZ def. YUKI KONDO via Submission(R1)
+- CHUCK LIDDELL def. JEFF MONSON via Decision - Unanimous(R3)
+- MATT LINDLAND def. YOJI ANJO via KO/TKO(R1)
+- DENNIS HALLMAN def. MATT HUGHES via Submission(R1)
+- FABIANO IHA def. DAIJU TAKASE via KO/TKO(R1)

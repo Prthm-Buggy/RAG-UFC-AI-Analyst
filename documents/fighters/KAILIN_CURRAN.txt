@@ -1,0 +1,11 @@
+Fighter: KAILIN CURRAN
+  Date of Birth: 1991-04-11
+  Career record: 7
+  First fight: 2014-11-22
+  Last fight: 2017-11-25
+
+Career Statistics:
+- Significant Strikes Landed :320
+- Total takedowns landed :11
+- Knockdowns :0
+- Submission Attempts :3

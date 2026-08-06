@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gane vs. Spivac
+    Date: September 02, 2023
+    Location: Paris, Ile-de-France, France
+    Weight Class: Featherweight
+    
+
+    Result: MORGAN CHARRIERE defeated MANOLO ZECCHINI via KO/TKO  
+  at 3:51 of round 1
+  Key stats:
+  - MORGAN CHARRIERE landed 26 significant strikes
+  - MANOLO ZECCHINI landed 9 significant strikes
+  - Knockdowns: MORGAN CHARRIERE 1,  MANOLO ZECCHINI 0
+  - Takedowns: MORGAN CHARRIERE 0,  MANOLO ZECCHINI 0
+  Bonus: perf

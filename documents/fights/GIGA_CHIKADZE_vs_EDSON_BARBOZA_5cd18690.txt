@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barboza vs. Chikadze
+    Date: August 28, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: GIGA CHIKADZE defeated EDSON BARBOZA via KO/TKO  
+  at 1:44 of round 3
+  Key stats:
+  - GIGA CHIKADZE landed 60 significant strikes
+  - EDSON BARBOZA landed 33 significant strikes
+  - Knockdowns: GIGA CHIKADZE 2,  EDSON BARBOZA 0
+  - Takedowns: GIGA CHIKADZE 0,  EDSON BARBOZA 0
+  Bonus: perf

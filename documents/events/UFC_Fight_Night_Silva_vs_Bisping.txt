@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Silva vs Bisping
+    Date : February 27, 2016
+    Location: London, England, United Kingdom
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Heavyweight, Lightweight, Middleweight, Featherweight, Welterweight
+
+    Fight Results:
+  - ARNOLD ALLEN def. YAOTZIN MEZA via Decision - Unanimous(R3)
+- DAVEY GRANT def. MARLON VERA via Decision - Unanimous(R3)
+- MAKWAN AMIRKHANI def. MIKE WILKINSON via Decision - Unanimous(R3)
+- RUSTAM KHABILOV def. NORMAN PARKE via Decision - Unanimous(R3)
+- SCOTT ASKHAM def. CHRIS DEMPSEY via KO/TKO(R1)
+- TOM BREESE def. KEITA NAKAMURA via Decision - Unanimous(R3)
+- KRZYSZTOF JOTKO def. BRAD SCOTT via Decision - Unanimous(R3)
+- BRAD PICKETT def. FRANCISCO RIVERA via Decision - Split(R3)
+- TEEMU PACKALEN def. THIBAULT GOUTI via Submission(R1)
+- MICHAEL BISPING def. ANDERSON SILVA via Decision - Unanimous(R5)
+- GEGARD MOUSASI def. THALES LEITES via Decision - Unanimous(R3)
+- DAVID TEYMUR def. MARTIN SVENSSON via KO/TKO(R2)
+- DANIEL OMIELANCZUK def. JARJIS DANHO via Decision - Majority(R3)

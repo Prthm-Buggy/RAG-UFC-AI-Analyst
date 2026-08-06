@@ -1,0 +1,13 @@
+Event: UFC Live: Hardy vs Lytle
+    Date: August 14, 2011
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Featherweight
+    
+
+    Result: JIMY HETTES defeated ALEX CACERES via Submission  
+  at 3:12 of round 2
+  Key stats:
+  - JIMY HETTES landed 2 significant strikes
+  - ALEX CACERES landed 13 significant strikes
+  - Knockdowns: JIMY HETTES 0,  ALEX CACERES 0
+  - Takedowns: JIMY HETTES 5,  ALEX CACERES 0

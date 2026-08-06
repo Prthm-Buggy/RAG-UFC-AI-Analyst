@@ -1,0 +1,11 @@
+Fighter: CRISTIANE JUSTINO
+  Date of Birth: 1985-07-09
+  Career record: 7
+  First fight: 2016-05-14
+  Last fight: 2019-07-27
+
+Career Statistics:
+- Significant Strikes Landed :460
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :0

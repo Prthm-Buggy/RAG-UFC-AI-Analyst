@@ -1,0 +1,11 @@
+Fighter: JOE GIANNETTI
+  Date of Birth: 1995-07-05
+  Career record: 1
+  First fight: 2018-07-06
+  Last fight: 2018-07-06
+
+Career Statistics:
+- Significant Strikes Landed :29
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

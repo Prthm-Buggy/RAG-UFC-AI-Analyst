@@ -1,0 +1,11 @@
+Fighter: LUIS PENA
+  Date of Birth: 1993-07-05
+  Career record: 8
+  First fight: 2018-07-06
+  Last fight: 2021-04-17
+
+Career Statistics:
+- Significant Strikes Landed :376
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :8

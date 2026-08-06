@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Evans vs Salmon
+    Date: January 25, 2007
+    Location: Hollywood, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: RICH CLEMENTI defeated ROSS POINTON via Submission  
+  at 4:53 of round 2
+  Key stats:
+  - RICH CLEMENTI landed 23 significant strikes
+  - ROSS POINTON landed 23 significant strikes
+  - Knockdowns: RICH CLEMENTI 0,  ROSS POINTON 0
+  - Takedowns: RICH CLEMENTI 1,  ROSS POINTON 0

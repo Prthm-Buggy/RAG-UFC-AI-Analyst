@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Imavov vs. Borralho
+    Date: September 06, 2025
+    Location: Paris, Ile-de-France, France
+    Weight Class: Heavyweight
+    
+
+    Result: ANTE DELIJA defeated MARCIN TYBURA via KO/TKO  
+  at 2:03 of round 1
+  Key stats:
+  - ANTE DELIJA landed 13 significant strikes
+  - MARCIN TYBURA landed 4 significant strikes
+  - Knockdowns: ANTE DELIJA 1,  MARCIN TYBURA 0
+  - Takedowns: ANTE DELIJA 0,  MARCIN TYBURA 0

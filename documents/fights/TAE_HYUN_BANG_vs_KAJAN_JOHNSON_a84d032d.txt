@@ -1,0 +1,14 @@
+Event: UFC 174: Johnson vs Bagautinov
+    Date: June 14, 2014
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Lightweight
+    
+
+    Result: TAE HYUN BANG defeated KAJAN JOHNSON via KO/TKO  
+  at 2:01 of round 3
+  Key stats:
+  - TAE HYUN BANG landed 34 significant strikes
+  - KAJAN JOHNSON landed 29 significant strikes
+  - Knockdowns: TAE HYUN BANG 2,  KAJAN JOHNSON 0
+  - Takedowns: TAE HYUN BANG 0,  KAJAN JOHNSON 4
+  Bonus: fight

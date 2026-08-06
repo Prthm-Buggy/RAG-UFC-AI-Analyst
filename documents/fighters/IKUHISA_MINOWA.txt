@@ -1,0 +1,11 @@
+Fighter: IKUHISA MINOWA
+  Date of Birth: 1976-01-12
+  Career record: 1
+  First fight: 2000-04-14
+  Last fight: 2000-04-14
+
+Career Statistics:
+- Significant Strikes Landed :3
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

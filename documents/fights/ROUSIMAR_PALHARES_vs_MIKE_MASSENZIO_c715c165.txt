@@ -1,0 +1,14 @@
+Event: UFC 142: Aldo vs Mendes
+    Date: January 14, 2012
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: ROUSIMAR PALHARES defeated MIKE MASSENZIO via Submission  
+  at 1:03 of round 1
+  Key stats:
+  - ROUSIMAR PALHARES landed 4 significant strikes
+  - MIKE MASSENZIO landed 0 significant strikes
+  - Knockdowns: ROUSIMAR PALHARES 0,  MIKE MASSENZIO 0
+  - Takedowns: ROUSIMAR PALHARES 0,  MIKE MASSENZIO 0
+  Bonus: sub

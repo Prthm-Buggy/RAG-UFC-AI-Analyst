@@ -1,0 +1,13 @@
+Event: UFC 319: Du Plessis vs. Chimaev
+    Date: August 16, 2025
+    Location: Chicago, Illinois, USA
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL PAGE defeated JARED CANNONIER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MICHAEL PAGE landed 29 significant strikes
+  - JARED CANNONIER landed 20 significant strikes
+  - Knockdowns: MICHAEL PAGE 0,  JARED CANNONIER 0
+  - Takedowns: MICHAEL PAGE 0,  JARED CANNONIER 2

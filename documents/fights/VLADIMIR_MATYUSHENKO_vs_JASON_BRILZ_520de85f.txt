@@ -1,0 +1,13 @@
+Event: UFC 129: St-Pierre vs Shields
+    Date: April 30, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: VLADIMIR MATYUSHENKO defeated JASON BRILZ via KO/TKO  
+  at 0:20 of round 1
+  Key stats:
+  - VLADIMIR MATYUSHENKO landed 8 significant strikes
+  - JASON BRILZ landed 1 significant strikes
+  - Knockdowns: VLADIMIR MATYUSHENKO 1,  JASON BRILZ 0
+  - Takedowns: VLADIMIR MATYUSHENKO 0,  JASON BRILZ 0

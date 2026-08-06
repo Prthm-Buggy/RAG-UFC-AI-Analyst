@@ -1,0 +1,14 @@
+Event: UFC 262: Oliveira vs. Chandler
+    Date: May 15, 2021
+    Location: Houston, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated MICHAEL CHANDLER via KO/TKO  
+  at 0:19 of round 2
+  Key stats:
+  - CHARLES OLIVEIRA landed 24 significant strikes
+  - MICHAEL CHANDLER landed 30 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 2,  MICHAEL CHANDLER 0
+  - Takedowns: CHARLES OLIVEIRA 1,  MICHAEL CHANDLER 0
+  Bonus: belt

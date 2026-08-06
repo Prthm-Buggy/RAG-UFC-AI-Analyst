@@ -1,0 +1,11 @@
+Fighter: MALLORY MARTIN
+  Date of Birth: 1994-01-29
+  Career record: 4
+  First fight: 2019-12-07
+  Last fight: 2021-12-04
+
+Career Statistics:
+- Significant Strikes Landed :116
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

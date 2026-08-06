@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bigfoot vs Arlovski
+    Date: September 13, 2014
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: GODOFREDO PEPEY defeated DASHON JOHNSON via Submission  
+  at 4:29 of round 1
+  Key stats:
+  - GODOFREDO PEPEY landed 8 significant strikes
+  - DASHON JOHNSON landed 7 significant strikes
+  - Knockdowns: GODOFREDO PEPEY 0,  DASHON JOHNSON 0
+  - Takedowns: GODOFREDO PEPEY 0,  DASHON JOHNSON 1
+  Bonus: perf

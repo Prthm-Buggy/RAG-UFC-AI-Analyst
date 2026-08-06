@@ -1,0 +1,14 @@
+Event: UFC 108: Evans vs Silva
+    Date: January 02, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: PAUL DALEY defeated DUSTIN HAZELETT via KO/TKO  
+  at 2:24 of round 1
+  Key stats:
+  - PAUL DALEY landed 8 significant strikes
+  - DUSTIN HAZELETT landed 4 significant strikes
+  - Knockdowns: PAUL DALEY 1,  DUSTIN HAZELETT 0
+  - Takedowns: PAUL DALEY 0,  DUSTIN HAZELETT 0
+  Bonus: ko

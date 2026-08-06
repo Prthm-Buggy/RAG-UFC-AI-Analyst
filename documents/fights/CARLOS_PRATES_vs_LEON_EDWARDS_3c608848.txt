@@ -1,0 +1,14 @@
+Event: UFC 322: Della Maddalena vs. Makhachev
+    Date: November 15, 2025
+    Location: New York City, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS PRATES defeated LEON EDWARDS via KO/TKO  
+  at 1:28 of round 2
+  Key stats:
+  - CARLOS PRATES landed 21 significant strikes
+  - LEON EDWARDS landed 12 significant strikes
+  - Knockdowns: CARLOS PRATES 1,  LEON EDWARDS 0
+  - Takedowns: CARLOS PRATES 0,  LEON EDWARDS 2
+  Bonus: perf

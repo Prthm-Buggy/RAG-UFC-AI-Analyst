@@ -1,0 +1,13 @@
+Event: UFC 167: St-Pierre vs Hendricks
+    Date: November 16, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SERGIO PETTIS defeated WILL CAMPUZANO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SERGIO PETTIS landed 81 significant strikes
+  - WILL CAMPUZANO landed 41 significant strikes
+  - Knockdowns: SERGIO PETTIS 0,  WILL CAMPUZANO 0
+  - Takedowns: SERGIO PETTIS 2,  WILL CAMPUZANO 4

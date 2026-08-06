@@ -1,0 +1,11 @@
+Fighter: CHARLES RADTKE
+  Date of Birth: 1990-07-09
+  Career record: 7
+  First fight: 2023-09-09
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :151
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :2

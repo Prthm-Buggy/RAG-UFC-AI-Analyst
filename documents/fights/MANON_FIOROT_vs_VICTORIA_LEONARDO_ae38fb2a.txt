@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Chiesa vs. Magny
+    Date: January 20, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Flyweight
+    
+
+    Result: MANON FIOROT defeated VICTORIA LEONARDO via KO/TKO  
+  at 4:08 of round 2
+  Key stats:
+  - MANON FIOROT landed 53 significant strikes
+  - VICTORIA LEONARDO landed 17 significant strikes
+  - Knockdowns: MANON FIOROT 0,  VICTORIA LEONARDO 0
+  - Takedowns: MANON FIOROT 1,  VICTORIA LEONARDO 0

@@ -1,0 +1,18 @@
+Event : UFC 248: Adesanya vs. Romero
+    Date : March 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Welterweight, Featherweight, Lightweight, Middleweight, Women's Strawweight
+
+    Fight Results:
+  - GERALD MEERSCHAERT def. DERON WINN via Submission(R3)
+- BENEIL DARIUSH def. DRAKKAR KLOSE via KO/TKO(R2)
+- SEAN O'MALLEY def. JOSE QUINONEZ via KO/TKO(R1)
+- GIGA CHIKADZE def. JAMALL EMMERS via Decision - Split(R3)
+- ISRAEL ADESANYA def. YOEL ROMERO via Decision - Unanimous(R5)
+- NEIL MAGNY def. LI JINGLIANG via Decision - Unanimous(R3)
+- MARK MADSEN def. AUSTIN HUBBARD via Decision - Unanimous(R3)
+- ZHANG WEILI def. JOANNA JEDRZEJCZYK via Decision - Split(R5)
+- BATGEREL DANAA def. GUIDO CANNETTI via KO/TKO(R1)
+- ALEX OLIVEIRA def. MAX GRIFFIN via Decision - Split(R3)
+- RODOLFO VIEIRA def. SAPARBEG SAFAROV via Submission(R1)

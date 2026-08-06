@@ -1,0 +1,13 @@
+Event: UFC on FOX: Henderson vs Thomson
+    Date: January 25, 2014
+    Location: Chicago, Illinois, USA
+    Weight Class: Lightweight
+    
+
+    Result: DARON CRUICKSHANK defeated MIKE RIO via KO/TKO  
+  at 4:56 of round 2
+  Key stats:
+  - DARON CRUICKSHANK landed 46 significant strikes
+  - MIKE RIO landed 10 significant strikes
+  - Knockdowns: DARON CRUICKSHANK 2,  MIKE RIO 0
+  - Takedowns: DARON CRUICKSHANK 1,  MIKE RIO 0

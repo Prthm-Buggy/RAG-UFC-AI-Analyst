@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Iaquinta vs. Cowboy
+    Date : May 04, 2019
+    Location: Ottawa, Ontario, Canada
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Women's Bantamweight, Welterweight, Middleweight, Featherweight, Lightweight
+
+    Fight Results:
+  - MACY CHIASSON def. SARAH MORAS via KO/TKO(R2)
+- VINCE MORALES def. AIEMANN ZAHABI via Decision - Unanimous(R3)
+- MERAB DVALISHVILI def. BRAD KATONA via Decision - Unanimous(R3)
+- DEREK BRUNSON def. ELIAS THEODOROU via Decision - Unanimous(R3)
+- ARJAN BHULLAR def. JUAN ADAMS via Decision - Unanimous(R3)
+- COLE SMITH def. MITCH GAGNON via Decision - Unanimous(R3)
+- NORDINE TALEB def. KYLE PREPOLEC via Decision - Unanimous(R3)
+- SHANE BURGOS def. CUB SWANSON via Decision - Split(R3)
+- WALT HARRIS def. SERGHEI SPIVAC via KO/TKO(R1)
+- DONALD CERRONE def. AL IAQUINTA via Decision - Unanimous(R5)
+- MATT SAYLES def. KYLE NELSON via Submission(R3)
+- ANDREW SANCHEZ def. MARC-ANDRE BARRIAULT via Decision - Unanimous(R3)

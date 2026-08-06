@@ -1,0 +1,19 @@
+Event : UFC 196: McGregor vs Diaz
+    Date : March 05, 2016
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Welterweight, Women's Bantamweight, Light Heavyweight, Lightweight, Middleweight, Featherweight
+
+    Fight Results:
+  - DARREN ELKINS def. CHAS SKELLY via Decision - Unanimous(R3)
+- AMANDA NUNES def. VALENTINA SHEVCHENKO via Decision - Unanimous(R3)
+- COREY ANDERSON def. TOM LAWLOR via Decision - Unanimous(R3)
+- VITOR MIRANDA def. MARCELO GUIMARAES via KO/TKO(R2)
+- ILIR LATIFI def. GIAN VILLANTE via Decision - Unanimous(R3)
+- JASON SAGGO def. JUSTIN SALAS via KO/TKO(R1)
+- SIYAR BAHADURZADA def. BRANDON THATCH via Submission(R3)
+- NATE DIAZ def. CONOR MCGREGOR via Submission(R2)
+- NORDINE TALEB def. ERICK SILVA via KO/TKO(R2)
+- TERUTO ISHIHARA def. JULIAN EROSA via KO/TKO(R2)
+- MIESHA TATE def. HOLLY HOLM via Submission(R5)
+- DIEGO SANCHEZ def. JIM MILLER via Decision - Unanimous(R3)

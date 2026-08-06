@@ -1,0 +1,13 @@
+Event: UFC 325: Volkanovski vs. Lopes 2
+    Date: January 31, 2026
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Welterweight
+    
+
+    Result: JONATHAN MICALLEF defeated OBAN ELLIOTT via Submission  
+  at 3:31 of round 2
+  Key stats:
+  - JONATHAN MICALLEF landed 19 significant strikes
+  - OBAN ELLIOTT landed 40 significant strikes
+  - Knockdowns: JONATHAN MICALLEF 0,  OBAN ELLIOTT 0
+  - Takedowns: JONATHAN MICALLEF 1,  OBAN ELLIOTT 0

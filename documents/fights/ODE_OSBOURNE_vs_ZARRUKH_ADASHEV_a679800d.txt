@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Rozenstruik
+    Date: June 04, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: ODE OSBOURNE defeated ZARRUKH ADASHEV via KO/TKO  
+  at 1:01 of round 1
+  Key stats:
+  - ODE OSBOURNE landed 7 significant strikes
+  - ZARRUKH ADASHEV landed 7 significant strikes
+  - Knockdowns: ODE OSBOURNE 1,  ZARRUKH ADASHEV 0
+  - Takedowns: ODE OSBOURNE 0,  ZARRUKH ADASHEV 0
+  Bonus: perf

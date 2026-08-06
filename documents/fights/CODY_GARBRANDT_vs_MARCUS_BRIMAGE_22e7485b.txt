@@ -1,0 +1,13 @@
+Event: UFC 182: Jones vs Cormier
+    Date: January 03, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CODY GARBRANDT defeated MARCUS BRIMAGE via KO/TKO  
+  at 4:50 of round 3
+  Key stats:
+  - CODY GARBRANDT landed 49 significant strikes
+  - MARCUS BRIMAGE landed 43 significant strikes
+  - Knockdowns: CODY GARBRANDT 2,  MARCUS BRIMAGE 0
+  - Takedowns: CODY GARBRANDT 1,  MARCUS BRIMAGE 0

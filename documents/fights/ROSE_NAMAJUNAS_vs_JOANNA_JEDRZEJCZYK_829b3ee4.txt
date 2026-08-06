@@ -1,0 +1,14 @@
+Event: UFC 223: Khabib vs. Iaquinta
+    Date: April 07, 2018
+    Location: Brooklyn, New York, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ROSE NAMAJUNAS defeated JOANNA JEDRZEJCZYK via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ROSE NAMAJUNAS landed 105 significant strikes
+  - JOANNA JEDRZEJCZYK landed 145 significant strikes
+  - Knockdowns: ROSE NAMAJUNAS 0,  JOANNA JEDRZEJCZYK 0
+  - Takedowns: ROSE NAMAJUNAS 1,  JOANNA JEDRZEJCZYK 0
+  Bonus: belt

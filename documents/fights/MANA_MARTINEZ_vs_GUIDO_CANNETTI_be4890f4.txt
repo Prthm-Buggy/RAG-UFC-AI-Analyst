@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Chikadze
+    Date: August 28, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MANA MARTINEZ defeated GUIDO CANNETTI via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MANA MARTINEZ landed 79 significant strikes
+  - GUIDO CANNETTI landed 66 significant strikes
+  - Knockdowns: MANA MARTINEZ 0,  GUIDO CANNETTI 0
+  - Takedowns: MANA MARTINEZ 2,  GUIDO CANNETTI 0

@@ -1,0 +1,13 @@
+Event: UFC 187: Johnson vs Cormier
+    Date: May 23, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOSEPH BENAVIDEZ defeated JOHN MORAGA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOSEPH BENAVIDEZ landed 63 significant strikes
+  - JOHN MORAGA landed 42 significant strikes
+  - Knockdowns: JOSEPH BENAVIDEZ 0,  JOHN MORAGA 0
+  - Takedowns: JOSEPH BENAVIDEZ 4,  JOHN MORAGA 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edgar vs Faber
+    Date: May 16, 2015
+    Location: Manila, Philippines
+    Weight Class: Welterweight
+    
+
+    Result: LI JINGLIANG defeated DHIEGO LIMA via KO/TKO  
+  at 1:25 of round 1
+  Key stats:
+  - LI JINGLIANG landed 13 significant strikes
+  - DHIEGO LIMA landed 6 significant strikes
+  - Knockdowns: LI JINGLIANG 1,  DHIEGO LIMA 0
+  - Takedowns: LI JINGLIANG 0,  DHIEGO LIMA 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Abdurakhimov
+    Date: December 09, 2016
+    Location: Albany, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: GERALD MEERSCHAERT defeated JOSEPH GIGLIOTTI via Submission  
+  at 4:12 of round 1
+  Key stats:
+  - GERALD MEERSCHAERT landed 14 significant strikes
+  - JOSEPH GIGLIOTTI landed 5 significant strikes
+  - Knockdowns: GERALD MEERSCHAERT 0,  JOSEPH GIGLIOTTI 0
+  - Takedowns: GERALD MEERSCHAERT 0,  JOSEPH GIGLIOTTI 1
+  Bonus: perf

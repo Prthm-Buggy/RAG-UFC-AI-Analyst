@@ -1,0 +1,14 @@
+Event: UFC 263: Adesanya vs. Vettori 2
+    Date: June 12, 2021
+    Location: Glendale, Arizona, USA
+    Weight Class: Flyweight
+    
+
+    Result: BRANDON MORENO defeated DEIVESON FIGUEIREDO via Submission  
+  at 2:26 of round 3
+  Key stats:
+  - BRANDON MORENO landed 47 significant strikes
+  - DEIVESON FIGUEIREDO landed 24 significant strikes
+  - Knockdowns: BRANDON MORENO 1,  DEIVESON FIGUEIREDO 0
+  - Takedowns: BRANDON MORENO 2,  DEIVESON FIGUEIREDO 1
+  Bonus: belt

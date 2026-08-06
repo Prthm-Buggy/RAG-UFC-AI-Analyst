@@ -1,0 +1,13 @@
+Event: UFC Live: Kongo vs Barry
+    Date: June 26, 2011
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Lightweight
+    
+
+    Result: MICHAEL JOHNSON defeated EDWARD FAALOLOTO via KO/TKO  
+  at 4:42 of round 1
+  Key stats:
+  - MICHAEL JOHNSON landed 27 significant strikes
+  - EDWARD FAALOLOTO landed 17 significant strikes
+  - Knockdowns: MICHAEL JOHNSON 1,  EDWARD FAALOLOTO 0
+  - Takedowns: MICHAEL JOHNSON 1,  EDWARD FAALOLOTO 0

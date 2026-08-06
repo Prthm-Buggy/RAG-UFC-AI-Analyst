@@ -1,0 +1,18 @@
+Event : UFC 126: Silva vs Belfort
+    Date : February 05, 2011
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Lightweight, Middleweight, Welterweight, Light Heavyweight, Featherweight, Bantamweight
+
+    Fight Results:
+  - DONALD CERRONE def. PAUL KELLY via Submission(R2)
+- JON JONES def. RYAN BADER via Submission(R2)
+- DEMETRIOUS JOHNSON def. NORIFUMI YAMAMOTO via Decision - Unanimous(R3)
+- MIKE PIERCE def. KENNY ROBERTSON via KO/TKO(R2)
+- CHAD MENDES def. MICHIHIRO OMIGAWA via Decision - Unanimous(R3)
+- ANDERSON SILVA def. VITOR BELFORT via KO/TKO(R1)
+- FORREST GRIFFIN def. RICH FRANKLIN via Decision - Unanimous(R3)
+- JAKE ELLENBERGER def. CARLOS EDUARDO ROCHA via Decision - Split(R3)
+- MIGUEL TORRES def. ANTONIO BANUELOS via Decision - Unanimous(R3)
+- KYLE KINGSBURY def. RICARDO ROMERO via KO/TKO(R1)
+- PAUL TAYLOR def. GABE RUEDIGER via KO/TKO(R2)

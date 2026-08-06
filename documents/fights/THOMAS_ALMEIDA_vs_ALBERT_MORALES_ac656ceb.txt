@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bader vs. Nogueira
+    Date: November 19, 2016
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: THOMAS ALMEIDA defeated ALBERT MORALES via KO/TKO  
+  at 1:37 of round 2
+  Key stats:
+  - THOMAS ALMEIDA landed 41 significant strikes
+  - ALBERT MORALES landed 18 significant strikes
+  - Knockdowns: THOMAS ALMEIDA 1,  ALBERT MORALES 0
+  - Takedowns: THOMAS ALMEIDA 0,  ALBERT MORALES 1
+  Bonus: perf

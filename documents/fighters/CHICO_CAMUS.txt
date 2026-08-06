@@ -1,0 +1,11 @@
+Fighter: CHICO CAMUS
+  Date of Birth: 1985-01-26
+  Career record: 7
+  First fight: 2012-08-11
+  Last fight: 2015-09-26
+
+Career Statistics:
+- Significant Strikes Landed :290
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :2

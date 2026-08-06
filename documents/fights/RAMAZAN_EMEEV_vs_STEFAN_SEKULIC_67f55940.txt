@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs. Oleinik
+    Date: September 15, 2018
+    Location: Moscow, Moscow, Russia
+    Weight Class: Welterweight
+    
+
+    Result: RAMAZAN EMEEV defeated STEFAN SEKULIC via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAMAZAN EMEEV landed 36 significant strikes
+  - STEFAN SEKULIC landed 22 significant strikes
+  - Knockdowns: RAMAZAN EMEEV 1,  STEFAN SEKULIC 0
+  - Takedowns: RAMAZAN EMEEV 2,  STEFAN SEKULIC 1

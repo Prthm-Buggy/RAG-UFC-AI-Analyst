@@ -1,0 +1,11 @@
+Fighter: JACOB KILBURN
+  Date of Birth: 1995-06-28
+  Career record: 2
+  First fight: 2019-12-07
+  Last fight: 2021-01-16
+
+Career Statistics:
+- Significant Strikes Landed :67
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

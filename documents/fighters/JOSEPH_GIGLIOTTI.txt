@@ -1,0 +1,11 @@
+Fighter: JOSEPH GIGLIOTTI
+  Date of Birth: 1993-08-13
+  Career record: 2
+  First fight: 2016-08-06
+  Last fight: 2016-12-09
+
+Career Statistics:
+- Significant Strikes Landed :20
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

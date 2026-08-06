@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Kavanagh
+    Date: February 28, 2026
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Middleweight
+    
+
+    Result: RYAN GANDRA defeated JOSE DANIEL MEDINA via KO/TKO  
+  at 0:41 of round 1
+  Key stats:
+  - RYAN GANDRA landed 14 significant strikes
+  - JOSE DANIEL MEDINA landed 0 significant strikes
+  - Knockdowns: RYAN GANDRA 1,  JOSE DANIEL MEDINA 0
+  - Takedowns: RYAN GANDRA 0,  JOSE DANIEL MEDINA 0

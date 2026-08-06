@@ -1,0 +1,14 @@
+Event: UFC 167: St-Pierre vs Hendricks
+    Date: November 16, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: TYRON WOODLEY defeated JOSH KOSCHECK via KO/TKO  
+  at 4:38 of round 1
+  Key stats:
+  - TYRON WOODLEY landed 22 significant strikes
+  - JOSH KOSCHECK landed 5 significant strikes
+  - Knockdowns: TYRON WOODLEY 2,  JOSH KOSCHECK 0
+  - Takedowns: TYRON WOODLEY 0,  JOSH KOSCHECK 0
+  Bonus: ko

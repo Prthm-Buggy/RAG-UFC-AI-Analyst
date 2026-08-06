@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Smith vs. Clark
+    Date : November 28, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Catch Weight, Welterweight, Featherweight, Women's Bantamweight, Flyweight, Light Heavyweight, Heavyweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - ANDERSON DOS SANTOS def. MARTIN DAY via Submission(R1)
+- JONATHAN PEARCE def. KAI KAMAKA III via KO/TKO(R2)
+- BILL ALGEO def. SPIKE CARLYLE via Decision - Unanimous(R3)
+- NORMA DUMONT def. ASHLEE EVANS-SMITH via Decision - Unanimous(R3)
+- NATE MANESS def. LUKE SANDERS via Submission(R2)
+- SUMUDAERJI def. MALCOLM GORDON via KO/TKO(R1)
+- PARKER PORTER def. JOSH PARISIAN via Decision - Unanimous(R3)
+- MIGUEL BAEZA def. TAKASHI SATO via Submission(R2)
+- ANTHONY SMITH def. DEVIN CLARK via Submission(R1)
+- GINA MAZANY def. RACHAEL OSTOVICH via KO/TKO(R3)

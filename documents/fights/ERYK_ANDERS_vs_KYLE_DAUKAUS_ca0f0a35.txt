@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thompson vs. Holland
+    Date: December 03, 2022
+    Location: Orlando, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: ERYK ANDERS defeated KYLE DAUKAUS via KO/TKO  
+  at 2:45 of round 2
+  Key stats:
+  - ERYK ANDERS landed 49 significant strikes
+  - KYLE DAUKAUS landed 37 significant strikes
+  - Knockdowns: ERYK ANDERS 1,  KYLE DAUKAUS 0
+  - Takedowns: ERYK ANDERS 1,  KYLE DAUKAUS 0

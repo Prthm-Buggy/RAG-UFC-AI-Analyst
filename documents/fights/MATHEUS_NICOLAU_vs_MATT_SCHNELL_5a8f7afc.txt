@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thompson vs. Holland
+    Date: December 03, 2022
+    Location: Orlando, Florida, USA
+    Weight Class: Flyweight
+    
+
+    Result: MATHEUS NICOLAU defeated MATT SCHNELL via KO/TKO  
+  at 1:44 of round 2
+  Key stats:
+  - MATHEUS NICOLAU landed 32 significant strikes
+  - MATT SCHNELL landed 20 significant strikes
+  - Knockdowns: MATHEUS NICOLAU 2,  MATT SCHNELL 0
+  - Takedowns: MATHEUS NICOLAU 1,  MATT SCHNELL 0

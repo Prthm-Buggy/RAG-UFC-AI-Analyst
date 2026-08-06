@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Mendes vs Lamas
+    Date: April 04, 2015
+    Location: Fairfax, Virginia, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHAD MENDES defeated RICARDO LAMAS via KO/TKO  
+  at 2:45 of round 1
+  Key stats:
+  - CHAD MENDES landed 27 significant strikes
+  - RICARDO LAMAS landed 8 significant strikes
+  - Knockdowns: CHAD MENDES 2,  RICARDO LAMAS 0
+  - Takedowns: CHAD MENDES 0,  RICARDO LAMAS 0
+  Bonus: perf

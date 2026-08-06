@@ -1,0 +1,14 @@
+Event: UFC 303: Pereira vs. Prochazka 2
+    Date: June 29, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MACY CHIASSON defeated MAYRA BUENO SILVA via TKO - Doctor's Stoppage  
+  at 1:58 of round 2
+  Key stats:
+  - MACY CHIASSON landed 50 significant strikes
+  - MAYRA BUENO SILVA landed 46 significant strikes
+  - Knockdowns: MACY CHIASSON 0,  MAYRA BUENO SILVA 0
+  - Takedowns: MACY CHIASSON 1,  MAYRA BUENO SILVA 0
+  Bonus: perf

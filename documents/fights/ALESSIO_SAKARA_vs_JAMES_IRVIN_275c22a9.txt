@@ -1,0 +1,13 @@
+Event: UFC Live: Vera vs Jones
+    Date: March 21, 2010
+    Location: Broomfield, Colorado, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALESSIO SAKARA defeated JAMES IRVIN via KO/TKO  
+  at 3:01 of round 1
+  Key stats:
+  - ALESSIO SAKARA landed 13 significant strikes
+  - JAMES IRVIN landed 6 significant strikes
+  - Knockdowns: ALESSIO SAKARA 1,  JAMES IRVIN 0
+  - Takedowns: ALESSIO SAKARA 0,  JAMES IRVIN 0

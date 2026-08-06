@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Song
+    Date: September 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANTHONY HERNANDEZ defeated MARC-ANDRE BARRIAULT via Submission  
+  at 1:53 of round 3
+  Key stats:
+  - ANTHONY HERNANDEZ landed 39 significant strikes
+  - MARC-ANDRE BARRIAULT landed 25 significant strikes
+  - Knockdowns: ANTHONY HERNANDEZ 0,  MARC-ANDRE BARRIAULT 0
+  - Takedowns: ANTHONY HERNANDEZ 8,  MARC-ANDRE BARRIAULT 0

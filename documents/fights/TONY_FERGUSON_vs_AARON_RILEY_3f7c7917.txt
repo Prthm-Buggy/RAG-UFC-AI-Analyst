@@ -1,0 +1,13 @@
+Event: UFC 135: Jones vs Rampage
+    Date: September 24, 2011
+    Location: Denver, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: TONY FERGUSON defeated AARON RILEY via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - TONY FERGUSON landed 31 significant strikes
+  - AARON RILEY landed 11 significant strikes
+  - Knockdowns: TONY FERGUSON 0,  AARON RILEY 0
+  - Takedowns: TONY FERGUSON 0,  AARON RILEY 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maynard vs Diaz
+    Date: January 11, 2010
+    Location: Fairfax, Virginia, USA
+    Weight Class: Middleweight
+    
+
+    Result: NICK CATONE defeated JESSE FORBES via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - NICK CATONE landed 32 significant strikes
+  - JESSE FORBES landed 32 significant strikes
+  - Knockdowns: NICK CATONE 0,  JESSE FORBES 0
+  - Takedowns: NICK CATONE 2,  JESSE FORBES 0

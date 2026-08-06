@@ -1,0 +1,17 @@
+Event : UFC 70: Nations Collide
+    Date : April 21, 2007
+    Location: Manchester, England, United Kingdom
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Welterweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - MICHAEL BISPING def. ELVIS SINOSIC via KO/TKO(R2)
+- LYOTO MACHIDA def. DAVID HEATH via Decision - Unanimous(R3)
+- GABRIEL GONZAGA def. MIRKO FILIPOVIC via KO/TKO(R1)
+- ANDREI ARLOVSKI def. FABRICIO WERDUM via Decision - Unanimous(R3)
+- TERRY ETIM def. MATT GRICE via Submission(R1)
+- JESS LIAUDIN def. DENNIS SIVER via Submission(R1)
+- CHEICK KONGO def. ASSUERIO SILVA via Decision - Majority(R3)
+- ALESSIO SAKARA def. VICTOR VALIMAKI via KO/TKO(R1)
+- PAUL TAYLOR def. EDILBERTO DE OLIVEIRA via KO/TKO(R3)
+- JUNIOR ASSUNCAO def. DAVID LEE via Submission(R2)

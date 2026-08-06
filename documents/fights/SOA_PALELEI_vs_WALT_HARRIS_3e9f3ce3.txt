@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs Bisping
+    Date: November 07, 2014
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: SOA PALELEI defeated WALT HARRIS via KO/TKO  
+  at 4:49 of round 2
+  Key stats:
+  - SOA PALELEI landed 24 significant strikes
+  - WALT HARRIS landed 22 significant strikes
+  - Knockdowns: SOA PALELEI 0,  WALT HARRIS 0
+  - Takedowns: SOA PALELEI 1,  WALT HARRIS 0

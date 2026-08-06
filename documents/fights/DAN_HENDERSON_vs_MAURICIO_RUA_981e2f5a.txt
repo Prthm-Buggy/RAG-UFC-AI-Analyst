@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Shogun vs Henderson 2
+    Date: March 23, 2014
+    Location: Natal, Rio Grande do Norte, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: DAN HENDERSON defeated MAURICIO RUA via KO/TKO  
+  at 1:31 of round 3
+  Key stats:
+  - DAN HENDERSON landed 23 significant strikes
+  - MAURICIO RUA landed 48 significant strikes
+  - Knockdowns: DAN HENDERSON 1,  MAURICIO RUA 2
+  - Takedowns: DAN HENDERSON 0,  MAURICIO RUA 1
+  Bonus: fight

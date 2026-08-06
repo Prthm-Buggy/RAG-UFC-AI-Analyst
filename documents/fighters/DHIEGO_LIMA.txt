@@ -1,0 +1,11 @@
+Fighter: DHIEGO LIMA
+  Date of Birth: 1989-01-31
+  Career record: 11
+  First fight: 2014-07-06
+  Last fight: 2021-06-19
+
+Career Statistics:
+- Significant Strikes Landed :297
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :4

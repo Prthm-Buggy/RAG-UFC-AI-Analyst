@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Alvarez vs. Poirier 2
+    Date: July 28, 2018
+    Location: Calgary, Alberta, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: ION CUTELABA defeated GADZHIMURAD ANTIGULOV via KO/TKO  
+  at 4:25 of round 1
+  Key stats:
+  - ION CUTELABA landed 40 significant strikes
+  - GADZHIMURAD ANTIGULOV landed 12 significant strikes
+  - Knockdowns: ION CUTELABA 0,  GADZHIMURAD ANTIGULOV 0
+  - Takedowns: ION CUTELABA 0,  GADZHIMURAD ANTIGULOV 3

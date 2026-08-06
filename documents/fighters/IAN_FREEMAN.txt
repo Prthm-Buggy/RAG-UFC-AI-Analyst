@@ -1,0 +1,11 @@
+Fighter: IAN FREEMAN
+  Date of Birth: 1966-11-10
+  Career record: 5
+  First fight: 2000-03-10
+  Last fight: 2002-11-22
+
+Career Statistics:
+- Significant Strikes Landed :81
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

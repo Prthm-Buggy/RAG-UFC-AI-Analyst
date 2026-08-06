@@ -1,0 +1,11 @@
+Fighter: MICK PARKIN
+  Date of Birth: 1995-10-02
+  Career record: 5
+  First fight: 2023-07-22
+  Last fight: 2025-03-22
+
+Career Statistics:
+- Significant Strikes Landed :300
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :0

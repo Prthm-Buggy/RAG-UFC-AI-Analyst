@@ -1,0 +1,13 @@
+Event: UFC Live: Vera vs Jones
+    Date: March 21, 2010
+    Location: Broomfield, Colorado, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BRENDAN SCHAUB defeated CHASE GORMLEY via KO/TKO  
+  at 0:47 of round 1
+  Key stats:
+  - BRENDAN SCHAUB landed 25 significant strikes
+  - CHASE GORMLEY landed 2 significant strikes
+  - Knockdowns: BRENDAN SCHAUB 1,  CHASE GORMLEY 0
+  - Takedowns: BRENDAN SCHAUB 0,  CHASE GORMLEY 0

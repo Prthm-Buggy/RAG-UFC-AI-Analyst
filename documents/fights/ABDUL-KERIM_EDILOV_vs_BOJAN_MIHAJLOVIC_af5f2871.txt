@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Volkov vs. Struve
+    Date: September 02, 2017
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Light Heavyweight
+    
+
+    Result: ABDUL-KERIM EDILOV defeated BOJAN MIHAJLOVIC via KO/TKO  
+  at 2:32 of round 2
+  Key stats:
+  - ABDUL-KERIM EDILOV landed 77 significant strikes
+  - BOJAN MIHAJLOVIC landed 1 significant strikes
+  - Knockdowns: ABDUL-KERIM EDILOV 0,  BOJAN MIHAJLOVIC 0
+  - Takedowns: ABDUL-KERIM EDILOV 2,  BOJAN MIHAJLOVIC 0

@@ -1,0 +1,14 @@
+Event: UFC 7: The Brawl in Buffalo
+    Date: September 08, 1995
+    Location: Buffalo, New York, USA
+    Weight Class: Open Weight
+    
+
+    Result: MARCO RUAS defeated PAUL VARELANS via KO/TKO  
+  at 13:17 of round 1
+  Key stats:
+  - MARCO RUAS landed 33 significant strikes
+  - PAUL VARELANS landed 10 significant strikes
+  - Knockdowns: MARCO RUAS 1,  PAUL VARELANS 0
+  - Takedowns: MARCO RUAS 0,  PAUL VARELANS 0
+  Bonus: belt

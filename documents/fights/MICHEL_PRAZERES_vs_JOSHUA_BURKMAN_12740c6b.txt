@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Belfort vs. Gastelum
+    Date: March 11, 2017
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: MICHEL PRAZERES defeated JOSHUA BURKMAN via Submission  
+  at 1:42 of round 1
+  Key stats:
+  - MICHEL PRAZERES landed 24 significant strikes
+  - JOSHUA BURKMAN landed 1 significant strikes
+  - Knockdowns: MICHEL PRAZERES 0,  JOSHUA BURKMAN 0
+  - Takedowns: MICHEL PRAZERES 2,  JOSHUA BURKMAN 0
+  Bonus: perf

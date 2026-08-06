@@ -1,0 +1,11 @@
+Fighter: EDIMILSON SOUZA
+  Date of Birth: 1984-10-17
+  Career record: 4
+  First fight: 2013-09-04
+  Last fight: 2015-11-07
+
+Career Statistics:
+- Significant Strikes Landed :155
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

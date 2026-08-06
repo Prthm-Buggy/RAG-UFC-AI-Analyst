@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Hill
+    Date: May 20, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOAQUIN BUCKLEY defeated ANDRE FIALHO via KO/TKO  
+  at 4:15 of round 2
+  Key stats:
+  - JOAQUIN BUCKLEY landed 26 significant strikes
+  - ANDRE FIALHO landed 22 significant strikes
+  - Knockdowns: JOAQUIN BUCKLEY 1,  ANDRE FIALHO 0
+  - Takedowns: JOAQUIN BUCKLEY 2,  ANDRE FIALHO 0

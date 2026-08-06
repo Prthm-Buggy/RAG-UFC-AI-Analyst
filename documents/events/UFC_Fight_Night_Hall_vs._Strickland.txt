@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Hall vs. Strickland
+    Date : July 31, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Women's Strawweight, Middleweight, Welterweight, Lightweight, Featherweight, Flyweight
+
+    Fight Results:
+  - ZARRUKH ADASHEV def. RYAN BENOIT via Decision - Unanimous(R3)
+- PHIL ROWE def. ORION COSCE via KO/TKO(R2)
+- CHEYANNE VLISMAS def. GLORIA DE PAULA via KO/TKO(R1)
+- JARED GOODEN def. NIKLAS STOLZE via KO/TKO(R1)
+- MELSIK BAGHDASARYAN def. COLLIN ANGLIN via KO/TKO(R2)
+- SEAN STRICKLAND def. URIAH HALL via Decision - Unanimous(R5)
+- CHRIS GRUETZEMACHER def. RAFA GARCIA via Decision - Unanimous(R3)
+- JASON WITT def. BRYAN BARBERENA via Decision - Majority(R3)
+- JINH YU FREY def. ASHLEY YODER via Decision - Unanimous(R3)

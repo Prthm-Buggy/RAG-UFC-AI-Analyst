@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Almeida vs Garbrandt
+    Date: May 29, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: RICK STORY defeated TAREC SAFFIEDINE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RICK STORY landed 58 significant strikes
+  - TAREC SAFFIEDINE landed 32 significant strikes
+  - Knockdowns: RICK STORY 0,  TAREC SAFFIEDINE 0
+  - Takedowns: RICK STORY 0,  TAREC SAFFIEDINE 0

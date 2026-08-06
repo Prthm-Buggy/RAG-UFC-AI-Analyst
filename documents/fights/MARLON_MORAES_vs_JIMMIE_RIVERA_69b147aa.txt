@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rivera vs. Moraes
+    Date: June 01, 2018
+    Location: Utica, New York, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARLON MORAES defeated JIMMIE RIVERA via KO/TKO  
+  at 0:33 of round 1
+  Key stats:
+  - MARLON MORAES landed 7 significant strikes
+  - JIMMIE RIVERA landed 0 significant strikes
+  - Knockdowns: MARLON MORAES 1,  JIMMIE RIVERA 0
+  - Takedowns: MARLON MORAES 0,  JIMMIE RIVERA 0
+  Bonus: perf

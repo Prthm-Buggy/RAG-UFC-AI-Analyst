@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Costa vs. Vettori
+    Date : October 23, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Middleweight, Flyweight, Lightweight, Women's Strawweight, Light Heavyweight, Women's Bantamweight, Featherweight, Welterweight
+
+    Fight Results:
+  - GREGORY RODRIGUES def. JUNYONG PARK via KO/TKO(R2)
+- TABATHA RICCI def. MARIA OLIVEIRA via Decision - Unanimous(R3)
+- MASON JONES def. DAVID ONAMA via Decision - Unanimous(R3)
+- MARVIN VETTORI def. PAULO COSTA via Decision - Unanimous(R5)
+- NICOLAE NEGUMEREANU def. IKE VILLANUEVA via KO/TKO(R1)
+- JAI HERBERT def. KHAMA WORTHY via KO/TKO(R1)
+- RANDA MARKOS def. LIVINHA SOUZA via Decision - Unanimous(R3)
+- JAMIE PICKETT def. LAUREANO STAROPOLI via Decision - Unanimous(R3)
+- FRANCISCO TRINALDO def. DWIGHT GRANT via Decision - Split(R3)
+- JEFF MOLINA def. DANIEL LACERDA via KO/TKO(R2)
+- JESSICA-ROSE CLARK def. JOSELYNE EDWARDS via Decision - Unanimous(R3)
+- ALEX CACERES def. SEUNGWOO CHOI via Submission(R2)
+- JONATHAN MARTINEZ def. ZVIAD LAZISHVILI via Decision - Unanimous(R3)

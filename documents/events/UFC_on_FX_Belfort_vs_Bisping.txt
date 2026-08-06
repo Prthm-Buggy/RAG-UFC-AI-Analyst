@@ -1,0 +1,17 @@
+Event : UFC on FX: Belfort vs Bisping
+    Date : January 19, 2013
+    Location: Sao Paulo, Brazil
+    Number of Fights: 10
+    Weight Classes: Middleweight, Lightweight, Featherweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - KHABIB NURMAGOMEDOV def. THIAGO TAVARES via KO/TKO(R1)
+- NIK LENTZ def. DIEGO NUNES via Decision - Unanimous(R3)
+- ILDEMAR ALCANTARA def. WAGNER PRADO via Submission(R2)
+- EDSON BARBOZA def. LUCAS MARTINS via KO/TKO(R1)
+- CB DOLLAWAY def. DANIEL SARAFIAN via Decision - Split(R3)
+- VITOR BELFORT def. MICHAEL BISPING via KO/TKO(R2)
+- RONNY MARKES def. ANDREW CRAIG via Decision - Unanimous(R3)
+- GABRIEL GONZAGA def. BEN ROTHWELL via Submission(R2)
+- FRANCISCO TRINALDO def. CJ KEITH via Submission(R2)
+- GODOFREDO PEPEY def. MILTON VIEIRA via Decision - Split(R3)

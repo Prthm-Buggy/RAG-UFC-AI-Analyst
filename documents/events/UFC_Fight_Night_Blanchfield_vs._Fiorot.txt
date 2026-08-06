@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Blanchfield vs. Fiorot
+    Date : March 30, 2024
+    Location: Atlantic City, New Jersey, USA
+    Number of Fights: 13
+    Weight Classes: Women's Flyweight, Bantamweight, Featherweight, Middleweight, Light Heavyweight, Welterweight, Women's Strawweight
+
+    Fight Results:
+  - MANON FIOROT def. ERIN BLANCHFIELD via Decision - Unanimous(R5)
+- NURSULTON RUZIBOEV def. SEDRIQUES DUMAS via KO/TKO(R1)
+- CAOLAN LOUGHRAN def. ANGEL PACHECO via Decision - Unanimous(R3)
+- JOAQUIN BUCKLEY def. VICENTE LUQUE via KO/TKO(R2)
+- JACOB MALKOUN def. ANDRE PETROSKI via KO/TKO(R2)
+- VIRNA JANDIROBA def. LOOPY GODINEZ via Decision - Unanimous(R3)
+- KYLE NELSON def. BILL ALGEO via KO/TKO(R1)
+- DENNIS BUZUKJA def. CONNOR MATTHEWS via KO/TKO(R3)
+- CHIDI NJOKUANI def. RHYS MCKEE via Decision - Split(R3)
+- JULIO ARCE def. HERBERT BURNS via KO/TKO(R2)
+- NATE LANDWEHR def. JAMALL EMMERS via KO/TKO(R1)
+- CHRIS WEIDMAN def. BRUNO SILVA via Decision - Unanimous(R3)
+- IBO ASLAN def. ANTON TURKALJ via KO/TKO(R3)

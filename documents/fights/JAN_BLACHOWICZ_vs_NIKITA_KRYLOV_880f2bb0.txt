@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hunt vs. Oleinik
+    Date: September 15, 2018
+    Location: Moscow, Moscow, Russia
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAN BLACHOWICZ defeated NIKITA KRYLOV via Submission  
+  at 2:41 of round 2
+  Key stats:
+  - JAN BLACHOWICZ landed 10 significant strikes
+  - NIKITA KRYLOV landed 4 significant strikes
+  - Knockdowns: JAN BLACHOWICZ 0,  NIKITA KRYLOV 0
+  - Takedowns: JAN BLACHOWICZ 1,  NIKITA KRYLOV 1
+  Bonus: perf

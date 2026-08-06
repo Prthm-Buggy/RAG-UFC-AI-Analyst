@@ -1,0 +1,11 @@
+Fighter: RYAN COUTURE
+  Date of Birth: 1982-08-27
+  Career record: 2
+  First fight: 2013-04-06
+  Last fight: 2013-08-31
+
+Career Statistics:
+- Significant Strikes Landed :74
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

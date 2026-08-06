@@ -1,0 +1,11 @@
+Fighter: EDSON BARBOZA
+  Date of Birth: 1986-01-21
+  Career record: 32
+  First fight: 2010-11-20
+  Last fight: 2025-12-06
+
+Career Statistics:
+- Significant Strikes Landed :1586
+- Total takedowns landed :11
+- Knockdowns :16
+- Submission Attempts :2

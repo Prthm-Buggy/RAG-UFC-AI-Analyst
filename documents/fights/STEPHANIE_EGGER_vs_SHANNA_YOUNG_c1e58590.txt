@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Walker
+    Date: October 02, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: STEPHANIE EGGER defeated SHANNA YOUNG via KO/TKO  
+  at 2:22 of round 2
+  Key stats:
+  - STEPHANIE EGGER landed 29 significant strikes
+  - SHANNA YOUNG landed 22 significant strikes
+  - Knockdowns: STEPHANIE EGGER 0,  SHANNA YOUNG 0
+  - Takedowns: STEPHANIE EGGER 2,  SHANNA YOUNG 0

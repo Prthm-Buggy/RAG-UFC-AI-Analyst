@@ -1,0 +1,11 @@
+Fighter: JOSH KOSCHECK
+  Date of Birth: 1977-11-30
+  Career record: 25
+  First fight: 2005-04-09
+  Last fight: 2015-03-21
+
+Career Statistics:
+- Significant Strikes Landed :428
+- Total takedowns landed :40
+- Knockdowns :4
+- Submission Attempts :7

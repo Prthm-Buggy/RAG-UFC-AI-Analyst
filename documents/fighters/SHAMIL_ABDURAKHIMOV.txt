@@ -1,0 +1,11 @@
+Fighter: SHAMIL ABDURAKHIMOV
+  Date of Birth: 1981-09-02
+  Career record: 11
+  First fight: 2015-04-04
+  Last fight: 2023-01-21
+
+Career Statistics:
+- Significant Strikes Landed :251
+- Total takedowns landed :7
+- Knockdowns :2
+- Submission Attempts :1

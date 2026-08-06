@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Gustafsson vs Silva
+    Date: April 14, 2012
+    Location: Stockholm, Sweden
+    Weight Class: Welterweight
+    
+
+    Result: JOHN MAGUIRE defeated DAMARQUES JOHNSON via Submission  
+  at 4:40 of round 2
+  Key stats:
+  - JOHN MAGUIRE landed 6 significant strikes
+  - DAMARQUES JOHNSON landed 15 significant strikes
+  - Knockdowns: JOHN MAGUIRE 0,  DAMARQUES JOHNSON 0
+  - Takedowns: JOHN MAGUIRE 3,  DAMARQUES JOHNSON 0
+  Bonus: sub

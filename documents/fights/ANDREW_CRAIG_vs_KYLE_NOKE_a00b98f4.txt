@@ -1,0 +1,13 @@
+Event: UFC on FX: Alves vs Kampmann
+    Date: March 02, 2012
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Middleweight
+    
+
+    Result: ANDREW CRAIG defeated KYLE NOKE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ANDREW CRAIG landed 36 significant strikes
+  - KYLE NOKE landed 36 significant strikes
+  - Knockdowns: ANDREW CRAIG 0,  KYLE NOKE 0
+  - Takedowns: ANDREW CRAIG 1,  KYLE NOKE 3

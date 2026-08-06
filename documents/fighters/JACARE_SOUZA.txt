@@ -1,0 +1,11 @@
+Fighter: JACARE SOUZA
+  Date of Birth: 1979-12-07
+  Career record: 16
+  First fight: 2013-05-18
+  Last fight: 2021-05-15
+
+Career Statistics:
+- Significant Strikes Landed :445
+- Total takedowns landed :16
+- Knockdowns :3
+- Submission Attempts :8

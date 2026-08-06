@@ -1,0 +1,14 @@
+Event: UFC on FX: Belfort vs Bisping
+    Date: January 19, 2013
+    Location: Sao Paulo, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: ILDEMAR ALCANTARA defeated WAGNER PRADO via Submission  
+  at 2:39 of round 2
+  Key stats:
+  - ILDEMAR ALCANTARA landed 24 significant strikes
+  - WAGNER PRADO landed 28 significant strikes
+  - Knockdowns: ILDEMAR ALCANTARA 0,  WAGNER PRADO 0
+  - Takedowns: ILDEMAR ALCANTARA 2,  WAGNER PRADO 0
+  Bonus: sub

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Royval 2
+    Date: February 24, 2024
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Flyweight
+    
+
+    Result: EDGAR CHAIREZ defeated DANIEL LACERDA via Submission  
+  at 2:17 of round 1
+  Key stats:
+  - EDGAR CHAIREZ landed 9 significant strikes
+  - DANIEL LACERDA landed 4 significant strikes
+  - Knockdowns: EDGAR CHAIREZ 0,  DANIEL LACERDA 0
+  - Takedowns: EDGAR CHAIREZ 0,  DANIEL LACERDA 1

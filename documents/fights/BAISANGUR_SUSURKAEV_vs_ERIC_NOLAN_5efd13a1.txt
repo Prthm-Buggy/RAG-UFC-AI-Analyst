@@ -1,0 +1,13 @@
+Event: UFC 319: Du Plessis vs. Chimaev
+    Date: August 16, 2025
+    Location: Chicago, Illinois, USA
+    Weight Class: Middleweight
+    
+
+    Result: BAISANGUR SUSURKAEV defeated ERIC NOLAN via Submission  
+  at 2:01 of round 2
+  Key stats:
+  - BAISANGUR SUSURKAEV landed 36 significant strikes
+  - ERIC NOLAN landed 22 significant strikes
+  - Knockdowns: BAISANGUR SUSURKAEV 0,  ERIC NOLAN 0
+  - Takedowns: BAISANGUR SUSURKAEV 2,  ERIC NOLAN 0

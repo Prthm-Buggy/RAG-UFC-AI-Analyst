@@ -1,0 +1,14 @@
+Event: UFC 243: Whittaker vs. Adesanya
+    Date: October 05, 2019
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Middleweight
+    
+
+    Result: ISRAEL ADESANYA defeated ROBERT WHITTAKER via KO/TKO  
+  at 3:33 of round 2
+  Key stats:
+  - ISRAEL ADESANYA landed 40 significant strikes
+  - ROBERT WHITTAKER landed 32 significant strikes
+  - Knockdowns: ISRAEL ADESANYA 2,  ROBERT WHITTAKER 0
+  - Takedowns: ISRAEL ADESANYA 0,  ROBERT WHITTAKER 0
+  Bonus: belt

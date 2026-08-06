@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Allen vs. Craig
+    Date: November 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JOANDERSON BRITO defeated JONATHAN PEARCE via Submission  
+  at 3:54 of round 2
+  Key stats:
+  - JOANDERSON BRITO landed 8 significant strikes
+  - JONATHAN PEARCE landed 14 significant strikes
+  - Knockdowns: JOANDERSON BRITO 0,  JONATHAN PEARCE 0
+  - Takedowns: JOANDERSON BRITO 1,  JONATHAN PEARCE 1
+  Bonus: perf

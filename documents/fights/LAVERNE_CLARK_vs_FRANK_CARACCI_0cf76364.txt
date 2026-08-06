@@ -1,0 +1,13 @@
+Event: UFC 18: The Road to the Heavyweight Title
+    Date: January 08, 1999
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Lightweight
+    
+
+    Result: LAVERNE CLARK defeated FRANK CARACCI via KO/TKO  
+  at 6:52 of round 1
+  Key stats:
+  - LAVERNE CLARK landed 15 significant strikes
+  - FRANK CARACCI landed 0 significant strikes
+  - Knockdowns: LAVERNE CLARK 0,  FRANK CARACCI 0
+  - Takedowns: LAVERNE CLARK 2,  FRANK CARACCI 0

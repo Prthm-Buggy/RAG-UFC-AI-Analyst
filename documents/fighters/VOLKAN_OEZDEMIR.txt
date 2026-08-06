@@ -1,0 +1,11 @@
+Fighter: VOLKAN OEZDEMIR
+  Date of Birth: 1989-09-19
+  Career record: 16
+  First fight: 2017-02-04
+  Last fight: 2025-11-22
+
+Career Statistics:
+- Significant Strikes Landed :751
+- Total takedowns landed :5
+- Knockdowns :7
+- Submission Attempts :1

@@ -1,0 +1,11 @@
+Fighter: ROQUE MARTINEZ
+  Date of Birth: 1986-03-04
+  Career record: 3
+  First fight: 2020-09-12
+  Last fight: 2021-06-19
+
+Career Statistics:
+- Significant Strikes Landed :129
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

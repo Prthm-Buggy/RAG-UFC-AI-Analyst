@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gaethje vs. Vick
+    Date: August 25, 2018
+    Location: Lincoln, Nebraska, USA
+    Weight Class: Middleweight
+    
+
+    Result: ERYK ANDERS defeated TIM WILLIAMS via KO/TKO  
+  at 4:42 of round 3
+  Key stats:
+  - ERYK ANDERS landed 42 significant strikes
+  - TIM WILLIAMS landed 43 significant strikes
+  - Knockdowns: ERYK ANDERS 2,  TIM WILLIAMS 0
+  - Takedowns: ERYK ANDERS 0,  TIM WILLIAMS 2
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs. Gastelum
+    Date: March 11, 2017
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: RAY BORG defeated JUSSIER FORMIGA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAY BORG landed 36 significant strikes
+  - JUSSIER FORMIGA landed 30 significant strikes
+  - Knockdowns: RAY BORG 0,  JUSSIER FORMIGA 0
+  - Takedowns: RAY BORG 0,  JUSSIER FORMIGA 0

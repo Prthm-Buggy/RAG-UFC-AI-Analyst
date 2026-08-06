@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kattar vs. Emmett
+    Date: June 18, 2022
+    Location: Austin, Texas, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: NATALIA SILVA defeated JASMINE JASUDAVICIUS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NATALIA SILVA landed 96 significant strikes
+  - JASMINE JASUDAVICIUS landed 31 significant strikes
+  - Knockdowns: NATALIA SILVA 0,  JASMINE JASUDAVICIUS 0
+  - Takedowns: NATALIA SILVA 2,  JASMINE JASUDAVICIUS 0

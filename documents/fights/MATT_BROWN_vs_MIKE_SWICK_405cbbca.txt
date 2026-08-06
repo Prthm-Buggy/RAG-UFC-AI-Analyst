@@ -1,0 +1,13 @@
+Event: UFC on FOX: Henderson vs Diaz
+    Date: December 08, 2012
+    Location: Seattle, Washington, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT BROWN defeated MIKE SWICK via KO/TKO  
+  at 2:31 of round 2
+  Key stats:
+  - MATT BROWN landed 25 significant strikes
+  - MIKE SWICK landed 9 significant strikes
+  - Knockdowns: MATT BROWN 1,  MIKE SWICK 0
+  - Takedowns: MATT BROWN 1,  MIKE SWICK 0

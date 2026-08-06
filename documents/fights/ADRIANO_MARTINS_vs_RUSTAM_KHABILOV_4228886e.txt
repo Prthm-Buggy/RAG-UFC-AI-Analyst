@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bigfoot vs Mir
+    Date: February 22, 2015
+    Location: Porto Alegre, Rio Grande do Sul, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: ADRIANO MARTINS defeated RUSTAM KHABILOV via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ADRIANO MARTINS landed 12 significant strikes
+  - RUSTAM KHABILOV landed 18 significant strikes
+  - Knockdowns: ADRIANO MARTINS 0,  RUSTAM KHABILOV 0
+  - Takedowns: ADRIANO MARTINS 3,  RUSTAM KHABILOV 0

@@ -1,0 +1,11 @@
+Fighter: CARLOS NEWTON
+  Date of Birth: 1976-08-17
+  Career record: 7
+  First fight: 1998-05-15
+  Last fight: 2004-01-31
+
+Career Statistics:
+- Significant Strikes Landed :44
+- Total takedowns landed :10
+- Knockdowns :2
+- Submission Attempts :8

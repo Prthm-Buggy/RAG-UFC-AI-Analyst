@@ -1,0 +1,11 @@
+Fighter: PRESTON PARSONS
+  Date of Birth: 1995-07-15
+  Career record: 6
+  First fight: 2021-07-17
+  Last fight: 2025-01-11
+
+Career Statistics:
+- Significant Strikes Landed :230
+- Total takedowns landed :15
+- Knockdowns :0
+- Submission Attempts :10

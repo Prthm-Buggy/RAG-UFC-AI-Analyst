@@ -1,0 +1,13 @@
+Event: UFC 272: Covington vs. Masvidal
+    Date: March 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: RAFAEL DOS ANJOS defeated RENATO MOICANO via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - RAFAEL DOS ANJOS landed 149 significant strikes
+  - RENATO MOICANO landed 88 significant strikes
+  - Knockdowns: RAFAEL DOS ANJOS 1,  RENATO MOICANO 0
+  - Takedowns: RAFAEL DOS ANJOS 5,  RENATO MOICANO 0

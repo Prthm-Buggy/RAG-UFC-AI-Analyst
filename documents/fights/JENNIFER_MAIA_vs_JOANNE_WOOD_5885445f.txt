@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Brunson vs. Shahbazyan
+    Date: August 01, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: JENNIFER MAIA defeated JOANNE WOOD via Submission  
+  at 4:29 of round 1
+  Key stats:
+  - JENNIFER MAIA landed 20 significant strikes
+  - JOANNE WOOD landed 26 significant strikes
+  - Knockdowns: JENNIFER MAIA 0,  JOANNE WOOD 0
+  - Takedowns: JENNIFER MAIA 0,  JOANNE WOOD 1
+  Bonus: perf

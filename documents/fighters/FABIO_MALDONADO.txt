@@ -1,0 +1,11 @@
+Fighter: FABIO MALDONADO
+  Date of Birth: 1980-03-17
+  Career record: 11
+  First fight: 2010-10-16
+  Last fight: 2015-11-07
+
+Career Statistics:
+- Significant Strikes Landed :717
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :5

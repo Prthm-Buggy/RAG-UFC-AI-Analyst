@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Oleinik
+    Date: August 08, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENEIL DARIUSH defeated SCOTT HOLTZMAN via KO/TKO  
+  at 4:38 of round 1
+  Key stats:
+  - BENEIL DARIUSH landed 36 significant strikes
+  - SCOTT HOLTZMAN landed 9 significant strikes
+  - Knockdowns: BENEIL DARIUSH 1,  SCOTT HOLTZMAN 0
+  - Takedowns: BENEIL DARIUSH 0,  SCOTT HOLTZMAN 0

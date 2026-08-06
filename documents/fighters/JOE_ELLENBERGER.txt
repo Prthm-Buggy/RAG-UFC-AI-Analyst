@@ -1,0 +1,11 @@
+Fighter: JOE ELLENBERGER
+  Date of Birth: 1985-03-28
+  Career record: 2
+  First fight: 2014-06-28
+  Last fight: 2014-12-13
+
+Career Statistics:
+- Significant Strikes Landed :46
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :2

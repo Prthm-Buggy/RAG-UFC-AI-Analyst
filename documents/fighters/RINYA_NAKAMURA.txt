@@ -1,0 +1,11 @@
+Fighter: RINYA NAKAMURA
+  Date of Birth: 1995-03-23
+  Career record: 5
+  First fight: 2023-02-04
+  Last fight: 2025-08-02
+
+Career Statistics:
+- Significant Strikes Landed :128
+- Total takedowns landed :7
+- Knockdowns :3
+- Submission Attempts :4

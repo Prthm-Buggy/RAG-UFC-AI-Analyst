@@ -1,0 +1,11 @@
+Fighter: JOSE MARIA
+  Date of Birth: 1982-01-04
+  Career record: 2
+  First fight: 2013-08-03
+  Last fight: 2013-11-09
+
+Career Statistics:
+- Significant Strikes Landed :62
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :3

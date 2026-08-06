@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Makhachev vs. Moises
+    Date : July 17, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Bantamweight, Women's Strawweight, Flyweight, Featherweight, Middleweight, Welterweight, Lightweight, Women's Bantamweight
+
+    Fight Results:
+  - ISLAM MAKHACHEV def. THIAGO MOISES via Submission(R4)
+- DANIEL RODRIGUEZ def. PRESTON PARSONS via KO/TKO(R1)
+- SERGEY MOROZOV def. KHALID TAHA via Decision - Unanimous(R3)
+- MALCOLM GORDON def. FRANCISCO FIGUEIREDO via Decision - Unanimous(R3)
+- RODOLFO VIEIRA def. DUSTIN STOLTZFUS via Submission(R3)
+- BILLY QUARANTILLO def. GABRIEL BENITEZ via KO/TKO(R3)
+- MIESHA TATE def. MARION RENEAU via KO/TKO(R3)
+- MATEUSZ GAMROT def. JEREMY STEPHENS via Submission(R1)
+- AMANDA LEMOS def. MONTSERRAT CONEJO RUIZ via KO/TKO(R1)

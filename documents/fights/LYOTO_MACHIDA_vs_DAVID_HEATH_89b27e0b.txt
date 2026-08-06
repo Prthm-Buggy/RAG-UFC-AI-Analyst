@@ -1,0 +1,13 @@
+Event: UFC 70: Nations Collide
+    Date: April 21, 2007
+    Location: Manchester, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: LYOTO MACHIDA defeated DAVID HEATH via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LYOTO MACHIDA landed 67 significant strikes
+  - DAVID HEATH landed 8 significant strikes
+  - Knockdowns: LYOTO MACHIDA 1,  DAVID HEATH 0
+  - Takedowns: LYOTO MACHIDA 0,  DAVID HEATH 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Marreta vs. Anders
+    Date: September 22, 2018
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: SERGIO MORAES defeated BEN SAUNDERS via Submission  
+  at 4:42 of round 2
+  Key stats:
+  - SERGIO MORAES landed 2 significant strikes
+  - BEN SAUNDERS landed 1 significant strikes
+  - Knockdowns: SERGIO MORAES 0,  BEN SAUNDERS 0
+  - Takedowns: SERGIO MORAES 2,  BEN SAUNDERS 0

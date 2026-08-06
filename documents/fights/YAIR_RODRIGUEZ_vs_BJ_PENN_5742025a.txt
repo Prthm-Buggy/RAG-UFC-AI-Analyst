@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Penn
+    Date: January 15, 2017
+    Location: Phoenix, Arizona, USA
+    Weight Class: Featherweight
+    
+
+    Result: YAIR RODRIGUEZ defeated BJ PENN via KO/TKO  
+  at 0:24 of round 2
+  Key stats:
+  - YAIR RODRIGUEZ landed 55 significant strikes
+  - BJ PENN landed 4 significant strikes
+  - Knockdowns: YAIR RODRIGUEZ 1,  BJ PENN 0
+  - Takedowns: YAIR RODRIGUEZ 0,  BJ PENN 0
+  Bonus: perf

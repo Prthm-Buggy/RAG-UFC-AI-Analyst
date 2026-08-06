@@ -1,0 +1,13 @@
+Event: UFC 310: Pantoja vs. Asakura
+    Date: December 07, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: ERYK ANDERS defeated CHRIS WEIDMAN via KO/TKO  
+  at 4:51 of round 2
+  Key stats:
+  - ERYK ANDERS landed 62 significant strikes
+  - CHRIS WEIDMAN landed 16 significant strikes
+  - Knockdowns: ERYK ANDERS 0,  CHRIS WEIDMAN 1
+  - Takedowns: ERYK ANDERS 0,  CHRIS WEIDMAN 0

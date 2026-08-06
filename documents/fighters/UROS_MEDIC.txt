@@ -1,0 +1,11 @@
+Fighter: UROS MEDIC
+  Date of Birth: 1993-04-25
+  Career record: 10
+  First fight: 2021-03-06
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :213
+- Total takedowns landed :1
+- Knockdowns :8
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Edgar vs. Team Penn Finale
+    Date: July 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: DUSTIN ORTIZ defeated JUSTIN SCOGGINS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - DUSTIN ORTIZ landed 39 significant strikes
+  - JUSTIN SCOGGINS landed 24 significant strikes
+  - Knockdowns: DUSTIN ORTIZ 0,  JUSTIN SCOGGINS 0
+  - Takedowns: DUSTIN ORTIZ 2,  JUSTIN SCOGGINS 5

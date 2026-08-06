@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Whittaker vs. Aliskerov
+    Date: June 22, 2024
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Weight Class: Lightweight
+    
+
+    Result: NASRAT HAQPARAST defeated JARED GORDON via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - NASRAT HAQPARAST landed 146 significant strikes
+  - JARED GORDON landed 141 significant strikes
+  - Knockdowns: NASRAT HAQPARAST 0,  JARED GORDON 0
+  - Takedowns: NASRAT HAQPARAST 0,  JARED GORDON 0

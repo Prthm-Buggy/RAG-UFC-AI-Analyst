@@ -1,0 +1,13 @@
+Event: UFC 217: Bisping vs. St-Pierre
+    Date: November 04, 2017
+    Location: New York City, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: JAMES VICK defeated JOE DUFFY via KO/TKO  
+  at 4:59 of round 2
+  Key stats:
+  - JAMES VICK landed 42 significant strikes
+  - JOE DUFFY landed 25 significant strikes
+  - Knockdowns: JAMES VICK 1,  JOE DUFFY 0
+  - Takedowns: JAMES VICK 0,  JOE DUFFY 2

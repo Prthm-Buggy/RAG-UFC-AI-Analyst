@@ -1,0 +1,11 @@
+Fighter: MIKE GUYMON
+  Date of Birth: 1974-09-17
+  Career record: 4
+  First fight: 2010-01-11
+  Last fight: 2011-01-22
+
+Career Statistics:
+- Significant Strikes Landed :66
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :2

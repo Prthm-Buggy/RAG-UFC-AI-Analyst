@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Oleinik
+    Date: August 08, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: KEVIN HOLLAND defeated JOAQUIN BUCKLEY via KO/TKO  
+  at 0:32 of round 3
+  Key stats:
+  - KEVIN HOLLAND landed 79 significant strikes
+  - JOAQUIN BUCKLEY landed 40 significant strikes
+  - Knockdowns: KEVIN HOLLAND 2,  JOAQUIN BUCKLEY 0
+  - Takedowns: KEVIN HOLLAND 0,  JOAQUIN BUCKLEY 0
+  Bonus: perf

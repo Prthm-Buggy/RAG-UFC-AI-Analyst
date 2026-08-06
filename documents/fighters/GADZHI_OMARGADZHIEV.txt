@@ -1,0 +1,11 @@
+Fighter: GADZHI OMARGADZHIEV
+  Date of Birth: 1993-02-24
+  Career record: 2
+  First fight: 2022-04-16
+  Last fight: 2022-10-22
+
+Career Statistics:
+- Significant Strikes Landed :50
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

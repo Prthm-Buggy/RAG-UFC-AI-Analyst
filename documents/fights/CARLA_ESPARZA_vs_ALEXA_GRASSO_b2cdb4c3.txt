@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Stephens
+    Date: September 21, 2019
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Women's Strawweight
+    
+
+    Result: CARLA ESPARZA defeated ALEXA GRASSO via Decision - Majority  
+  at 5:00 of round 3
+  Key stats:
+  - CARLA ESPARZA landed 44 significant strikes
+  - ALEXA GRASSO landed 45 significant strikes
+  - Knockdowns: CARLA ESPARZA 0,  ALEXA GRASSO 0
+  - Takedowns: CARLA ESPARZA 4,  ALEXA GRASSO 0
+  Bonus: fight

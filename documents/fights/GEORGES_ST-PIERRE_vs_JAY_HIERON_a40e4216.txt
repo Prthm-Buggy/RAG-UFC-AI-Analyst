@@ -1,0 +1,13 @@
+Event: UFC 48: Payback
+    Date: June 19, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GEORGES ST-PIERRE defeated JAY HIERON via KO/TKO  
+  at 1:42 of round 1
+  Key stats:
+  - GEORGES ST-PIERRE landed 24 significant strikes
+  - JAY HIERON landed 5 significant strikes
+  - Knockdowns: GEORGES ST-PIERRE 2,  JAY HIERON 0
+  - Takedowns: GEORGES ST-PIERRE 0,  JAY HIERON 0

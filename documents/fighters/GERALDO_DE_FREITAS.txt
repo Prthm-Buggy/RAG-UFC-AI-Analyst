@@ -1,0 +1,11 @@
+Fighter: GERALDO DE FREITAS
+  Date of Birth: 1991-09-30
+  Career record: 3
+  First fight: 2019-02-02
+  Last fight: 2020-11-14
+
+Career Statistics:
+- Significant Strikes Landed :165
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :0

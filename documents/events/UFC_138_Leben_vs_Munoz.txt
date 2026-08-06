@@ -1,0 +1,17 @@
+Event : UFC 138: Leben vs Munoz
+    Date : November 05, 2011
+    Location: Birmingham, England, United Kingdom
+    Number of Fights: 10
+    Weight Classes: Middleweight, Welterweight, Lightweight, Light Heavyweight, Featherweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - THIAGO ALVES def. PAPY ABEDI via Submission(R1)
+- PHILIP DE FRIES def. ROB BROUGHTON via Decision - Unanimous(R3)
+- JOHN MAGUIRE def. JUSTIN EDWARDS via Decision - Unanimous(R3)
+- CHE MILLS def. CHRIS COPE via KO/TKO(R1)
+- RENAN BARAO def. BRAD PICKETT via Submission(R1)
+- MICHIHIRO OMIGAWA def. JASON YOUNG via Decision - Unanimous(R3)
+- CHRIS CARIASO def. VAUGHAN LEE via Decision - Split(R3)
+- ANTHONY PEROSH def. CYRILLE DIABATE via Submission(R2)
+- MARK MUNOZ def. CHRIS LEBEN via KO/TKO(R2)
+- TERRY ETIM def. EDWARD FAALOLOTO via Submission(R1)

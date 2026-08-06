@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blanchfield vs. Fiorot
+    Date: March 30, 2024
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: VIRNA JANDIROBA defeated LOOPY GODINEZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - VIRNA JANDIROBA landed 30 significant strikes
+  - LOOPY GODINEZ landed 38 significant strikes
+  - Knockdowns: VIRNA JANDIROBA 0,  LOOPY GODINEZ 0
+  - Takedowns: VIRNA JANDIROBA 2,  LOOPY GODINEZ 0

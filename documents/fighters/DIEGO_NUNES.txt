@@ -1,0 +1,11 @@
+Fighter: DIEGO NUNES
+  Date of Birth: 1982-11-30
+  Career record: 6
+  First fight: 2011-01-01
+  Last fight: 2013-01-19
+
+Career Statistics:
+- Significant Strikes Landed :266
+- Total takedowns landed :5
+- Knockdowns :3
+- Submission Attempts :0

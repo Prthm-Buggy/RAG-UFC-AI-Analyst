@@ -1,0 +1,11 @@
+Fighter: DARREN ELKINS
+  Date of Birth: 1984-05-16
+  Career record: 30
+  First fight: 2010-03-21
+  Last fight: 2025-04-12
+
+Career Statistics:
+- Significant Strikes Landed :1190
+- Total takedowns landed :67
+- Knockdowns :2
+- Submission Attempts :25

@@ -1,0 +1,13 @@
+Event: UFC 254: Khabib vs. Gaethje
+    Date: October 24, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Heavyweight
+    
+
+    Result: ALEXANDER VOLKOV defeated WALT HARRIS via KO/TKO  
+  at 1:15 of round 2
+  Key stats:
+  - ALEXANDER VOLKOV landed 45 significant strikes
+  - WALT HARRIS landed 16 significant strikes
+  - Knockdowns: ALEXANDER VOLKOV 0,  WALT HARRIS 0
+  - Takedowns: ALEXANDER VOLKOV 0,  WALT HARRIS 0

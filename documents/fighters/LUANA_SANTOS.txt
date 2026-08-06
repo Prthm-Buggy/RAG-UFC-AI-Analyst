@@ -1,0 +1,11 @@
+Fighter: LUANA SANTOS
+  Date of Birth: 2000-04-16
+  Career record: 7
+  First fight: 2023-08-12
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :195
+- Total takedowns landed :11
+- Knockdowns :0
+- Submission Attempts :5

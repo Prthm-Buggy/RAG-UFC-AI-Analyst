@@ -1,0 +1,17 @@
+Event : UFC 208: Holm vs. De Randamie
+    Date : February 11, 2017
+    Location: Brooklyn, New York, USA
+    Number of Fights: 10
+    Weight Classes: Middleweight, Women's Featherweight, Lightweight, Light Heavyweight, Welterweight, Featherweight, Flyweight
+
+    Fight Results:
+  - BELAL MUHAMMAD def. RANDY BROWN via Decision - Unanimous(R3)
+- ISLAM MAKHACHEV def. NIK LENTZ via Decision - Unanimous(R3)
+- RICKY GLENN def. PHILLIPE NOVER via Decision - Split(R3)
+- GLOVER TEIXEIRA def. JARED CANNONIER via Decision - Unanimous(R3)
+- RYAN LAFLARE def. ROAN CARNEIRO via Decision - Unanimous(R3)
+- GERMAINE DE RANDAMIE def. HOLLY HOLM via Decision - Unanimous(R5)
+- WILSON REIS def. YUTA SASAKI via Decision - Unanimous(R3)
+- DUSTIN POIRIER def. JIM MILLER via Decision - Majority(R3)
+- JACARE SOUZA def. TIM BOETSCH via Submission(R1)
+- ANDERSON SILVA def. DEREK BRUNSON via Decision - Unanimous(R3)

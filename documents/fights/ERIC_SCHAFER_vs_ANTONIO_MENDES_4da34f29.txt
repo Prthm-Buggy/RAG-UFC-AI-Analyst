@@ -1,0 +1,13 @@
+Event: UFC 93: Franklin vs Henderson
+    Date: January 17, 2009
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Light Heavyweight
+    
+
+    Result: ERIC SCHAFER defeated ANTONIO MENDES via KO/TKO  
+  at 3:35 of round 1
+  Key stats:
+  - ERIC SCHAFER landed 22 significant strikes
+  - ANTONIO MENDES landed 3 significant strikes
+  - Knockdowns: ERIC SCHAFER 0,  ANTONIO MENDES 0
+  - Takedowns: ERIC SCHAFER 0,  ANTONIO MENDES 0

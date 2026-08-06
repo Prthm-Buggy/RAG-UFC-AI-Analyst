@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Smith vs. Teixeira
+    Date : May 13, 2020
+    Location: Jacksonville, Florida, USA
+    Number of Fights: 10
+    Weight Classes: Lightweight, Women's Bantamweight, Featherweight, Light Heavyweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - RICKY SIMON def. RAY BORG via Decision - Split(R3)
+- DREW DOBER def. ALEXANDER HERNANDEZ via KO/TKO(R2)
+- ANDREI ARLOVSKI def. PHILIPE LINS via Decision - Unanimous(R3)
+- BRIAN KELLEHER def. HUNTER AZURE via KO/TKO(R2)
+- THIAGO MOISES def. MICHAEL JOHNSON via Submission(R2)
+- SIJARA EUBANKS def. SARAH MORAS via Decision - Unanimous(R3)
+- CHASE SHERMAN def. IKE VILLANUEVA via KO/TKO(R2)
+- OMAR MORALES def. GABRIEL BENITEZ via Decision - Unanimous(R3)
+- GLOVER TEIXEIRA def. ANTHONY SMITH via KO/TKO(R5)
+- BEN ROTHWELL def. OVINCE SAINT PREUX via Decision - Split(R3)

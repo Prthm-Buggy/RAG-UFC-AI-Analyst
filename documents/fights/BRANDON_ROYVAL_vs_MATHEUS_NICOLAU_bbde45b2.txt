@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holloway vs. Allen
+    Date: April 15, 2023
+    Location: Kansas City, Missouri, USA
+    Weight Class: Flyweight
+    
+
+    Result: BRANDON ROYVAL defeated MATHEUS NICOLAU via KO/TKO  
+  at 2:09 of round 1
+  Key stats:
+  - BRANDON ROYVAL landed 13 significant strikes
+  - MATHEUS NICOLAU landed 2 significant strikes
+  - Knockdowns: BRANDON ROYVAL 1,  MATHEUS NICOLAU 0
+  - Takedowns: BRANDON ROYVAL 0,  MATHEUS NICOLAU 0
+  Bonus: perf

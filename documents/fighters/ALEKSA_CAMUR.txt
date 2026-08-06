@@ -1,0 +1,11 @@
+Fighter: ALEKSA CAMUR
+  Date of Birth: 1995-09-25
+  Career record: 4
+  First fight: 2020-01-18
+  Last fight: 2023-08-05
+
+Career Statistics:
+- Significant Strikes Landed :267
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

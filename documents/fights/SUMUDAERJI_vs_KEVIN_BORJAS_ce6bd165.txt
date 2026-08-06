@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Walker vs. Zhang
+    Date: August 23, 2025
+    Location: Shanghai, Hebei, China
+    Weight Class: Flyweight
+    
+
+    Result: SUMUDAERJI defeated KEVIN BORJAS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SUMUDAERJI landed 73 significant strikes
+  - KEVIN BORJAS landed 16 significant strikes
+  - Knockdowns: SUMUDAERJI 0,  KEVIN BORJAS 0
+  - Takedowns: SUMUDAERJI 0,  KEVIN BORJAS 0

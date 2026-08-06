@@ -1,0 +1,11 @@
+Fighter: JHONATA DINIZ
+  Date of Birth: 1991-06-23
+  Career record: 5
+  First fight: 2024-04-27
+  Last fight: 2025-10-11
+
+Career Statistics:
+- Significant Strikes Landed :207
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC 177: Dillashaw vs Soto
+    Date: August 30, 2014
+    Location: Sacramento, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: TONY FERGUSON defeated DANNY CASTILLO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - TONY FERGUSON landed 23 significant strikes
+  - DANNY CASTILLO landed 23 significant strikes
+  - Knockdowns: TONY FERGUSON 0,  DANNY CASTILLO 0
+  - Takedowns: TONY FERGUSON 0,  DANNY CASTILLO 2

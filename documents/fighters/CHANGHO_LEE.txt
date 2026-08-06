@@ -1,0 +1,11 @@
+Fighter: CHANGHO LEE
+  Date of Birth: 1994-05-09
+  Career record: 3
+  First fight: 2024-06-22
+  Last fight: 2025-11-01
+
+Career Statistics:
+- Significant Strikes Landed :143
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :1

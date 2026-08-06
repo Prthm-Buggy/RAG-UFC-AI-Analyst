@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dawson vs. Green
+    Date: October 07, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: BILL ALGEO defeated ALEXANDER HERNANDEZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BILL ALGEO landed 110 significant strikes
+  - ALEXANDER HERNANDEZ landed 75 significant strikes
+  - Knockdowns: BILL ALGEO 1,  ALEXANDER HERNANDEZ 0
+  - Takedowns: BILL ALGEO 1,  ALEXANDER HERNANDEZ 0

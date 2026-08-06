@@ -1,0 +1,14 @@
+Event: UFC 189: Mendes vs McGregor
+    Date: July 11, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CONOR MCGREGOR defeated CHAD MENDES via KO/TKO  
+  at 4:57 of round 2
+  Key stats:
+  - CONOR MCGREGOR landed 46 significant strikes
+  - CHAD MENDES landed 31 significant strikes
+  - Knockdowns: CONOR MCGREGOR 1,  CHAD MENDES 0
+  - Takedowns: CONOR MCGREGOR 0,  CHAD MENDES 4
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Lesnar vs Team dos Santos Finale
+    Date: June 04, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CLAY HARVISON defeated JUSTIN EDWARDS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CLAY HARVISON landed 57 significant strikes
+  - JUSTIN EDWARDS landed 42 significant strikes
+  - Knockdowns: CLAY HARVISON 0,  JUSTIN EDWARDS 0
+  - Takedowns: CLAY HARVISON 1,  JUSTIN EDWARDS 7

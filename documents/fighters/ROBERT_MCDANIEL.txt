@@ -1,0 +1,11 @@
+Fighter: ROBERT MCDANIEL
+  Date of Birth: 1983-05-03
+  Career record: 3
+  First fight: 2013-04-13
+  Last fight: 2014-03-15
+
+Career Statistics:
+- Significant Strikes Landed :53
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :3

@@ -1,0 +1,11 @@
+Fighter: YUI CHUL NAM
+  Date of Birth: 1981-07-16
+  Career record: 3
+  First fight: 2014-03-01
+  Last fight: 2015-11-28
+
+Career Statistics:
+- Significant Strikes Landed :159
+- Total takedowns landed :4
+- Knockdowns :3
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Undefeated Finale
+    Date: July 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MONTANA DE LA ROSA defeated RACHAEL OSTOVICH via Submission  
+  at 4:21 of round 3
+  Key stats:
+  - MONTANA DE LA ROSA landed 56 significant strikes
+  - RACHAEL OSTOVICH landed 40 significant strikes
+  - Knockdowns: MONTANA DE LA ROSA 0,  RACHAEL OSTOVICH 0
+  - Takedowns: MONTANA DE LA ROSA 0,  RACHAEL OSTOVICH 0

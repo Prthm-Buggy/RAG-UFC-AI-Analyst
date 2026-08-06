@@ -1,0 +1,13 @@
+Event: UFC 323: Dvalishvili vs. Yan 2
+    Date: December 06, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: FARES ZIAM defeated NAZIM SADYKHOV via KO/TKO  
+  at 4:59 of round 2
+  Key stats:
+  - FARES ZIAM landed 31 significant strikes
+  - NAZIM SADYKHOV landed 4 significant strikes
+  - Knockdowns: FARES ZIAM 1,  NAZIM SADYKHOV 0
+  - Takedowns: FARES ZIAM 2,  NAZIM SADYKHOV 0

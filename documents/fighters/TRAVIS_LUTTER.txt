@@ -1,0 +1,11 @@
+Fighter: TRAVIS LUTTER
+  Date of Birth: 1973-05-12
+  Career record: 6
+  First fight: 2004-10-22
+  Last fight: 2008-04-19
+
+Career Statistics:
+- Significant Strikes Landed :19
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :2

@@ -1,0 +1,19 @@
+Event : UFC on FOX: Gustafsson vs Johnson
+    Date : January 24, 2015
+    Location: Stockholm, Sweden
+    Number of Fights: 12
+    Weight Classes: Flyweight, Featherweight, Lightweight, Light Heavyweight, Welterweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - RYAN BADER def. PHIL DAVIS via Decision - Split(R3)
+- MAKWAN AMIRKHANI def. ANDY OGLE via KO/TKO(R1)
+- NEIL SEERY def. CHRIS BEAL via Decision - Unanimous(R3)
+- ALBERT TUMENOV def. NICHOLAS MUSOKE via Decision - Unanimous(R3)
+- MAIRBEK TAISUMOV def. ANTHONY CHRISTODOULOU via KO/TKO(R2)
+- KENNY ROBERTSON def. SULTAN ALIEV via KO/TKO(R1)
+- GEGARD MOUSASI def. DAN HENDERSON via KO/TKO(R1)
+- SAM SICILIA def. AKIRA CORASSANI via KO/TKO(R1)
+- ANTHONY JOHNSON def. ALEXANDER GUSTAFSSON via KO/TKO(R1)
+- NIKITA KRYLOV def. STANISLAV NEDKOV via Submission(R1)
+- VIKTOR PESTA def. KONSTANTIN EROKHIN via Decision - Unanimous(R3)
+- MIRSAD BEKTIC def. PAUL REDMOND via Decision - Unanimous(R3)

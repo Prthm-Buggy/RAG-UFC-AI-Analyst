@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ngannou vs. Dos Santos
+    Date: June 29, 2019
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOSEPH BENAVIDEZ defeated JUSSIER FORMIGA via KO/TKO  
+  at 4:47 of round 2
+  Key stats:
+  - JOSEPH BENAVIDEZ landed 50 significant strikes
+  - JUSSIER FORMIGA landed 15 significant strikes
+  - Knockdowns: JOSEPH BENAVIDEZ 1,  JUSSIER FORMIGA 0
+  - Takedowns: JOSEPH BENAVIDEZ 0,  JUSSIER FORMIGA 1
+  Bonus: perf

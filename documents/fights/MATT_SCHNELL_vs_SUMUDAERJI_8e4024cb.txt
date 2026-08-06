@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ortega vs. Rodriguez
+    Date: July 16, 2022
+    Location: Elmont, New York, USA
+    Weight Class: Flyweight
+    
+
+    Result: MATT SCHNELL defeated SUMUDAERJI via Submission  
+  at 4:24 of round 2
+  Key stats:
+  - MATT SCHNELL landed 47 significant strikes
+  - SUMUDAERJI landed 58 significant strikes
+  - Knockdowns: MATT SCHNELL 0,  SUMUDAERJI 1
+  - Takedowns: MATT SCHNELL 2,  SUMUDAERJI 0
+  Bonus: fight

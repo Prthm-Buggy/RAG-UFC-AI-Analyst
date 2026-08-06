@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blachowicz vs. Jacare
+    Date: November 16, 2019
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated JARED GORDON via KO/TKO  
+  at 1:26 of round 1
+  Key stats:
+  - CHARLES OLIVEIRA landed 10 significant strikes
+  - JARED GORDON landed 7 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 1,  JARED GORDON 0
+  - Takedowns: CHARLES OLIVEIRA 0,  JARED GORDON 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: DARREN STEWART
+  Date of Birth: 1990-12-30
+  Career record: 12
+  First fight: 2017-03-18
+  Last fight: 2021-08-28
+
+Career Statistics:
+- Significant Strikes Landed :370
+- Total takedowns landed :14
+- Knockdowns :2
+- Submission Attempts :1

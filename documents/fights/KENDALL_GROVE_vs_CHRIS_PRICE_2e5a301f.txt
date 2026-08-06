@@ -1,0 +1,13 @@
+Event: Ortiz vs Shamrock 3: The Final Chapter
+    Date: October 10, 2006
+    Location: Hollywood, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: KENDALL GROVE defeated CHRIS PRICE via KO/TKO  
+  at 3:59 of round 1
+  Key stats:
+  - KENDALL GROVE landed 13 significant strikes
+  - CHRIS PRICE landed 5 significant strikes
+  - Knockdowns: KENDALL GROVE 0,  CHRIS PRICE 0
+  - Takedowns: KENDALL GROVE 1,  CHRIS PRICE 0

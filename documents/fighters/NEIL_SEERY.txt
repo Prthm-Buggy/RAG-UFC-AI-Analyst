@@ -1,0 +1,11 @@
+Fighter: NEIL SEERY
+  Date of Birth: 1979-08-30
+  Career record: 7
+  First fight: 2014-03-08
+  Last fight: 2017-07-16
+
+Career Statistics:
+- Significant Strikes Landed :344
+- Total takedowns landed :5
+- Knockdowns :2
+- Submission Attempts :10

@@ -1,0 +1,11 @@
+Fighter: DANILLO VILLEFORT
+  Date of Birth: 1983-05-08
+  Career record: 1
+  First fight: 2009-08-08
+  Last fight: 2009-08-08
+
+Career Statistics:
+- Significant Strikes Landed :43
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Luque vs. Muhammad
+    Date : April 16, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 14
+    Weight Classes: Bantamweight, Heavyweight, Welterweight, Middleweight, Featherweight, Women's Bantamweight, Lightweight, Women's Strawweight
+
+    Fight Results:
+  - SAM HUGHES def. ISTELA NUNES via Decision - Majority(R3)
+- MARTIN BUDAY def. CHRIS BARNETT via Decision - Unanimous(R3)
+- JORDAN LEAVITT def. TREY OGDEN via Decision - Split(R3)
+- MOUNIR LAZZEZ def. ANGE LOOSA via Decision - Unanimous(R3)
+- BELAL MUHAMMAD def. VICENTE LUQUE via Decision - Unanimous(R5)
+- MAYRA BUENO SILVA def. WU YANAN via Decision - Unanimous(R3)
+- RAFA GARCIA def. JESSE RONSON via Submission(R2)
+- ANDRE FIALHO def. MIGUEL BAEZA via KO/TKO(R1)
+- DEVIN CLARK def. WILLIAM KNIGHT via KO/TKO(R3)
+- PANNIE KIANZAD def. LINA LANSBERG via Decision - Unanimous(R3)
+- PAT SABATINI def. TJ LARAMIE via Decision - Unanimous(R3)
+- DRAKKAR KLOSE def. BRANDON JENKINS via KO/TKO(R2)
+- CAIO BORRALHO def. GADZHI OMARGADZHIEV via Decision - Unanimous(R3)
+- ALATENGHEILI def. KEVIN CROOM via KO/TKO(R1)

@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Rousey vs. Team Tate Finale
+    Date: November 30, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOSH SAMPO defeated RYAN BENOIT via Submission  
+  at 4:31 of round 2
+  Key stats:
+  - JOSH SAMPO landed 28 significant strikes
+  - RYAN BENOIT landed 18 significant strikes
+  - Knockdowns: JOSH SAMPO 0,  RYAN BENOIT 0
+  - Takedowns: JOSH SAMPO 2,  RYAN BENOIT 0
+  Bonus: fight

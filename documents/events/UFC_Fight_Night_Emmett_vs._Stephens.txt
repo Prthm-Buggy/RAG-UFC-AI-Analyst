@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Emmett vs. Stephens
+    Date : February 24, 2018
+    Location: Orlando, Florida, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Welterweight, Featherweight, Light Heavyweight, Women's Bantamweight, Women's Strawweight, Flyweight
+
+    Fight Results:
+  - ANGELA HILL def. MARYNA MOROZ via Decision - Unanimous(R3)
+- JESSICA ANDRADE def. TECIA PENNINGTON via Decision - Unanimous(R3)
+- MANNY BERMUDEZ def. ALBERT MORALES via Submission(R2)
+- ALEX PEREZ def. ERIC SHELTON via Decision - Unanimous(R3)
+- MAX GRIFFIN def. MIKE PERRY via Decision - Unanimous(R3)
+- BRIAN KELLEHER def. RENAN BARAO via Decision - Unanimous(R3)
+- RANI YAHYA def. RUSSELL DOANE via Submission(R3)
+- ALAN JOUBAN def. BEN SAUNDERS via KO/TKO(R2)
+- MARION RENEAU def. SARA MCMANN via Submission(R2)
+- SAM ALVEY def. MARCIN PRACHNIO via KO/TKO(R1)
+- JEREMY STEPHENS def. JOSH EMMETT via KO/TKO(R2)
+- ILIR LATIFI def. OVINCE SAINT PREUX via Submission(R1)

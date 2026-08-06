@@ -1,0 +1,13 @@
+Event: UFC 204: Bisping vs. Henderson
+    Date: October 08, 2016
+    Location: Manchester, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: STEFAN STRUVE defeated DANIEL OMIELANCZUK via Submission  
+  at 1:41 of round 2
+  Key stats:
+  - STEFAN STRUVE landed 9 significant strikes
+  - DANIEL OMIELANCZUK landed 14 significant strikes
+  - Knockdowns: STEFAN STRUVE 0,  DANIEL OMIELANCZUK 0
+  - Takedowns: STEFAN STRUVE 2,  DANIEL OMIELANCZUK 0

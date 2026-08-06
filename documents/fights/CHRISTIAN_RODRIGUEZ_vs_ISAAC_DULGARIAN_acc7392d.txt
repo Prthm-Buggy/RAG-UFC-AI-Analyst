@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tuivasa vs. Tybura
+    Date: March 16, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHRISTIAN RODRIGUEZ defeated ISAAC DULGARIAN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CHRISTIAN RODRIGUEZ landed 48 significant strikes
+  - ISAAC DULGARIAN landed 22 significant strikes
+  - Knockdowns: CHRISTIAN RODRIGUEZ 0,  ISAAC DULGARIAN 0
+  - Takedowns: CHRISTIAN RODRIGUEZ 0,  ISAAC DULGARIAN 7

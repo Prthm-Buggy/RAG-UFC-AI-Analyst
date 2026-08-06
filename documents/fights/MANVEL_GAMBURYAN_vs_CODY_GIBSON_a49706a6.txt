@@ -1,0 +1,13 @@
+Event: UFC 178: Johnson vs Cariaso
+    Date: September 27, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MANVEL GAMBURYAN defeated CODY GIBSON via Submission  
+  at 4:56 of round 2
+  Key stats:
+  - MANVEL GAMBURYAN landed 11 significant strikes
+  - CODY GIBSON landed 49 significant strikes
+  - Knockdowns: MANVEL GAMBURYAN 0,  CODY GIBSON 1
+  - Takedowns: MANVEL GAMBURYAN 2,  CODY GIBSON 1

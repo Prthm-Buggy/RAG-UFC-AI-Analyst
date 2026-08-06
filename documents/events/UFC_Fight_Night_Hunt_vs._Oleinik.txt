@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Hunt vs. Oleinik
+    Date : September 15, 2018
+    Location: Moscow, Moscow, Russia
+    Number of Fights: 12
+    Weight Classes: Welterweight, Middleweight, Lightweight, Light Heavyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - JORDAN JOHNSON def. ADAM YANDIEV via Submission(R2)
+- MAGOMED ANKALAEV def. MARCIN PRACHNIO via KO/TKO(R1)
+- RUSTAM KHABILOV def. KAJAN JOHNSON via Decision - Split(R3)
+- JAN BLACHOWICZ def. NIKITA KRYLOV via Submission(R2)
+- MAIRBEK TAISUMOV def. DESMOND GREEN via Decision - Unanimous(R3)
+- ALEKSEI OLEINIK def. MARK HUNT via Submission(R1)
+- KHALID MURTAZALIEV def. CB DOLLAWAY via KO/TKO(R2)
+- ALEKSEI KUNCHENKO def. THIAGO ALVES via Decision - Unanimous(R3)
+- SHAMIL ABDURAKHIMOV def. ANDREI ARLOVSKI via Decision - Unanimous(R3)
+- MERAB DVALISHVILI def. TERRION WARE via Decision - Unanimous(R3)
+- RAMAZAN EMEEV def. STEFAN SEKULIC via Decision - Unanimous(R3)
+- PETR YAN def. JIN SOO SON via Decision - Unanimous(R3)

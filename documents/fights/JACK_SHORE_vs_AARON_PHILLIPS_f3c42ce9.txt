@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kattar vs. Ige
+    Date: July 15, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Bantamweight
+    
+
+    Result: JACK SHORE defeated AARON PHILLIPS via Submission  
+  at 2:29 of round 2
+  Key stats:
+  - JACK SHORE landed 29 significant strikes
+  - AARON PHILLIPS landed 6 significant strikes
+  - Knockdowns: JACK SHORE 0,  AARON PHILLIPS 0
+  - Takedowns: JACK SHORE 3,  AARON PHILLIPS 0

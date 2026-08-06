@@ -1,0 +1,11 @@
+Fighter: KELLY DULLANTY
+  Date of Birth: 1977-11-04
+  Career record: 1
+  First fight: 2002-03-22
+  Last fight: 2002-03-22
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

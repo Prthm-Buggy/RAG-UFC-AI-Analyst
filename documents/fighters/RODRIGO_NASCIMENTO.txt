@@ -1,0 +1,11 @@
+Fighter: RODRIGO NASCIMENTO
+  Date of Birth: 1992-11-26
+  Career record: 7
+  First fight: 2020-05-16
+  Last fight: 2024-11-02
+
+Career Statistics:
+- Significant Strikes Landed :265
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :2

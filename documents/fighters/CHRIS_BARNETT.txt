@@ -1,0 +1,11 @@
+Fighter: CHRIS BARNETT
+  Date of Birth: 1986-06-14
+  Career record: 6
+  First fight: 2021-05-22
+  Last fight: 2025-10-25
+
+Career Statistics:
+- Significant Strikes Landed :178
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

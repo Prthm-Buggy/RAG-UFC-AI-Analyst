@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rozenstruik vs. Almeida
+    Date: May 13, 2023
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MANDY BOHM defeated JI YEON KIM via Decision - Split  
+  at 1:55 of round 3
+  Key stats:
+  - MANDY BOHM landed 17 significant strikes
+  - JI YEON KIM landed 10 significant strikes
+  - Knockdowns: MANDY BOHM 0,  JI YEON KIM 0
+  - Takedowns: MANDY BOHM 2,  JI YEON KIM 0

@@ -1,0 +1,13 @@
+Event: UFC on FOX: Lawler vs Brown
+    Date: July 26, 2014
+    Location: San Jose, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: PATRICK CUMMINS defeated KYLE KINGSBURY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PATRICK CUMMINS landed 73 significant strikes
+  - KYLE KINGSBURY landed 22 significant strikes
+  - Knockdowns: PATRICK CUMMINS 0,  KYLE KINGSBURY 0
+  - Takedowns: PATRICK CUMMINS 10,  KYLE KINGSBURY 0

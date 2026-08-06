@@ -1,0 +1,11 @@
+Fighter: JORGE SANTIAGO
+  Date of Birth: 1980-10-09
+  Career record: 6
+  First fight: 2006-06-28
+  Last fight: 2013-02-16
+
+Career Statistics:
+- Significant Strikes Landed :104
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :3

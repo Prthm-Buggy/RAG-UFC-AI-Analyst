@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs. Ponzinibbio
+    Date: November 17, 2018
+    Location: Buenos Aires, Buenos Aires, Argentina
+    Weight Class: Welterweight
+    
+
+    Result: MICHEL PRAZERES defeated BARTOSZ FABINSKI via Submission  
+  at 1:02 of round 1
+  Key stats:
+  - MICHEL PRAZERES landed 18 significant strikes
+  - BARTOSZ FABINSKI landed 1 significant strikes
+  - Knockdowns: MICHEL PRAZERES 1,  BARTOSZ FABINSKI 0
+  - Takedowns: MICHEL PRAZERES 1,  BARTOSZ FABINSKI 0

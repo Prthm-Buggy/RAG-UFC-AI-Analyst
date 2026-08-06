@@ -1,0 +1,13 @@
+Event: UFC 18: The Road to the Heavyweight Title
+    Date: January 08, 1999
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BAS RUTTEN defeated TSUYOSHI KOHSAKA via KO/TKO  
+  at 2:15 of round 2
+  Key stats:
+  - BAS RUTTEN landed 31 significant strikes
+  - TSUYOSHI KOHSAKA landed 23 significant strikes
+  - Knockdowns: BAS RUTTEN 1,  TSUYOSHI KOHSAKA 0
+  - Takedowns: BAS RUTTEN 0,  TSUYOSHI KOHSAKA 3

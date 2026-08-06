@@ -1,0 +1,13 @@
+Event: UFC 32: Showdown in the Meadowlands
+    Date: June 29, 2001
+    Location: East Rutherford, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: TONY DESOUZA defeated PAUL RODRIGUEZ via Submission  
+  at 1:05 of round 1
+  Key stats:
+  - TONY DESOUZA landed 1 significant strikes
+  - PAUL RODRIGUEZ landed 2 significant strikes
+  - Knockdowns: TONY DESOUZA 0,  PAUL RODRIGUEZ 0
+  - Takedowns: TONY DESOUZA 0,  PAUL RODRIGUEZ 0

@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Barao vs McDonald
+    Date: February 16, 2013
+    Location: London, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: CUB SWANSON defeated DUSTIN POIRIER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CUB SWANSON landed 58 significant strikes
+  - DUSTIN POIRIER landed 58 significant strikes
+  - Knockdowns: CUB SWANSON 0,  DUSTIN POIRIER 0
+  - Takedowns: CUB SWANSON 2,  DUSTIN POIRIER 2

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Figueiredo vs. Benavidez 2
+    Date: July 18, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Flyweight
+    
+
+    Result: ARIANE DA SILVA defeated LUANA CAROLINA via Submission  
+  at 1:28 of round 1
+  Key stats:
+  - ARIANE DA SILVA landed 3 significant strikes
+  - LUANA CAROLINA landed 2 significant strikes
+  - Knockdowns: ARIANE DA SILVA 0,  LUANA CAROLINA 0
+  - Takedowns: ARIANE DA SILVA 0,  LUANA CAROLINA 0
+  Bonus: perf

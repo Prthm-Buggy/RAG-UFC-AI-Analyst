@@ -1,0 +1,21 @@
+Event : UFC 263: Adesanya vs. Vettori 2
+    Date : June 12, 2021
+    Location: Glendale, Arizona, USA
+    Number of Fights: 14
+    Weight Classes: Women's Flyweight, Heavyweight, Light Heavyweight, Lightweight, Welterweight, Flyweight, Featherweight, Women's Bantamweight, Middleweight
+
+    Fight Results:
+  - BRANDON MORENO def. DEIVESON FIGUEIREDO via Submission(R3)
+- TERRANCE MCKINNEY def. MATT FREVOLA via KO/TKO(R1)
+- MOVSAR EVLOEV def. HAKEEM DAWODU via Decision - Unanimous(R3)
+- ISRAEL ADESANYA def. MARVIN VETTORI via Decision - Unanimous(R5)
+- PAUL CRAIG def. JAMAHAL HILL via KO/TKO(R1)
+- FARES ZIAM def. LUIGI VENDRAMINI via Decision - Majority(R3)
+- BELAL MUHAMMAD def. DEMIAN MAIA via Decision - Unanimous(R3)
+- ERYK ANDERS def. DARREN STEWART via Decision - Unanimous(R3)
+- STEVEN PETERSON def. CHASE HOOPER via Decision - Unanimous(R3)
+- PANNIE KIANZAD def. ALEXIS DAVIS via Decision - Unanimous(R3)
+- LEON EDWARDS def. NATE DIAZ via Decision - Unanimous(R5)
+- CARLOS FELIPE def. JAKE COLLIER via Decision - Split(R3)
+- LAUREN MURPHY def. JOANNE WOOD via Decision - Split(R3)
+- BRAD RIDDELL def. DREW DOBER via Decision - Unanimous(R3)

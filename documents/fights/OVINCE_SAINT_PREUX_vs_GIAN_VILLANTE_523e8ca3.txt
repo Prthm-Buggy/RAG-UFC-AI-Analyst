@@ -1,0 +1,13 @@
+Event: UFC 159: Jones vs Sonnen
+    Date: April 27, 2013
+    Location: Newark, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: OVINCE SAINT PREUX defeated GIAN VILLANTE via Decision - Majority  
+  at 0:33 of round 3
+  Key stats:
+  - OVINCE SAINT PREUX landed 47 significant strikes
+  - GIAN VILLANTE landed 28 significant strikes
+  - Knockdowns: OVINCE SAINT PREUX 0,  GIAN VILLANTE 0
+  - Takedowns: OVINCE SAINT PREUX 0,  GIAN VILLANTE 0

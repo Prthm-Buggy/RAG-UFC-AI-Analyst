@@ -1,0 +1,13 @@
+Event: UFC 170: Rousey vs McMann
+    Date: February 22, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: ALEXIS DAVIS defeated JESSICA EYE via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ALEXIS DAVIS landed 53 significant strikes
+  - JESSICA EYE landed 47 significant strikes
+  - Knockdowns: ALEXIS DAVIS 0,  JESSICA EYE 0
+  - Takedowns: ALEXIS DAVIS 2,  JESSICA EYE 0

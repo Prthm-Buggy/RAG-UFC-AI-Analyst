@@ -1,0 +1,11 @@
+Fighter: JUSTIN LAWRENCE
+  Date of Birth: 1990-05-15
+  Career record: 3
+  First fight: 2012-06-01
+  Last fight: 2013-04-13
+
+Career Statistics:
+- Significant Strikes Landed :86
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :0

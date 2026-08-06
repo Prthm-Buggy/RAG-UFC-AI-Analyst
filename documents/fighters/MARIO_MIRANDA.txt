@@ -1,0 +1,11 @@
+Fighter: MARIO MIRANDA
+  Date of Birth: 1979-07-12
+  Career record: 4
+  First fight: 2010-03-31
+  Last fight: 2011-03-26
+
+Career Statistics:
+- Significant Strikes Landed :86
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

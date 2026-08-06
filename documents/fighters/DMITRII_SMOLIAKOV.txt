@@ -1,0 +1,11 @@
+Fighter: DMITRII SMOLIAKOV
+  Date of Birth: 1982-08-05
+  Career record: 3
+  First fight: 2016-07-23
+  Last fight: 2019-04-27
+
+Career Statistics:
+- Significant Strikes Landed :20
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

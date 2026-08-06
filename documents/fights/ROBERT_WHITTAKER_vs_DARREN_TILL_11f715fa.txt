@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Whittaker vs. Till
+    Date: July 25, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: ROBERT WHITTAKER defeated DARREN TILL via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ROBERT WHITTAKER landed 69 significant strikes
+  - DARREN TILL landed 41 significant strikes
+  - Knockdowns: ROBERT WHITTAKER 1,  DARREN TILL 0
+  - Takedowns: ROBERT WHITTAKER 2,  DARREN TILL 0

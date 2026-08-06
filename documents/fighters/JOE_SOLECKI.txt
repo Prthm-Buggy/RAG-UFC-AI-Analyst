@@ -1,0 +1,11 @@
+Fighter: JOE SOLECKI
+  Date of Birth: 1993-08-27
+  Career record: 9
+  First fight: 2019-12-07
+  Last fight: 2025-01-11
+
+Career Statistics:
+- Significant Strikes Landed :202
+- Total takedowns landed :14
+- Knockdowns :0
+- Submission Attempts :9

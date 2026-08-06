@@ -1,0 +1,11 @@
+Fighter: RYAN SPANN
+  Date of Birth: 1991-08-24
+  Career record: 16
+  First fight: 2018-09-22
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :304
+- Total takedowns landed :8
+- Knockdowns :6
+- Submission Attempts :10

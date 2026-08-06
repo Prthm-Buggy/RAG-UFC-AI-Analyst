@@ -1,0 +1,11 @@
+Fighter: YORGAN DE CASTRO
+  Date of Birth: 1986-12-19
+  Career record: 4
+  First fight: 2019-10-05
+  Last fight: 2021-04-10
+
+Career Statistics:
+- Significant Strikes Landed :78
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

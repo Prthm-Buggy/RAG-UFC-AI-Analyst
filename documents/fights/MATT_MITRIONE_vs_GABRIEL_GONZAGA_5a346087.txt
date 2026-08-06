@@ -1,0 +1,14 @@
+Event: UFC on FOX: Dos Santos vs Miocic
+    Date: December 13, 2014
+    Location: Phoenix, Arizona, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MATT MITRIONE defeated GABRIEL GONZAGA via KO/TKO  
+  at 1:59 of round 1
+  Key stats:
+  - MATT MITRIONE landed 12 significant strikes
+  - GABRIEL GONZAGA landed 6 significant strikes
+  - Knockdowns: MATT MITRIONE 1,  GABRIEL GONZAGA 0
+  - Takedowns: MATT MITRIONE 0,  GABRIEL GONZAGA 0
+  Bonus: perf

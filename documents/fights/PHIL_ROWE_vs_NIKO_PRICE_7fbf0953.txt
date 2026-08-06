@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thompson vs. Holland
+    Date: December 03, 2022
+    Location: Orlando, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: PHIL ROWE defeated NIKO PRICE via KO/TKO  
+  at 3:26 of round 3
+  Key stats:
+  - PHIL ROWE landed 63 significant strikes
+  - NIKO PRICE landed 110 significant strikes
+  - Knockdowns: PHIL ROWE 0,  NIKO PRICE 0
+  - Takedowns: PHIL ROWE 1,  NIKO PRICE 0

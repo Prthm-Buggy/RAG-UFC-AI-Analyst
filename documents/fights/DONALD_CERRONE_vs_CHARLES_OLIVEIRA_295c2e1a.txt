@@ -1,0 +1,14 @@
+Event: UFC Live: Hardy vs Lytle
+    Date: August 14, 2011
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Lightweight
+    
+
+    Result: DONALD CERRONE defeated CHARLES OLIVEIRA via KO/TKO  
+  at 3:01 of round 1
+  Key stats:
+  - DONALD CERRONE landed 30 significant strikes
+  - CHARLES OLIVEIRA landed 10 significant strikes
+  - Knockdowns: DONALD CERRONE 0,  CHARLES OLIVEIRA 0
+  - Takedowns: DONALD CERRONE 0,  CHARLES OLIVEIRA 0
+  Bonus: ko

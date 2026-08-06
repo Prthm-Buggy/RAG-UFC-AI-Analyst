@@ -1,0 +1,17 @@
+Event : UFC 130: Rampage vs Hamill
+    Date : May 28, 2011
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Heavyweight, Middleweight, Welterweight, Light Heavyweight, Lightweight
+
+    Fight Results:
+  - DEMETRIOUS JOHNSON def. MIGUEL TORRES via Decision - Unanimous(R3)
+- TIM BOETSCH def. KENDALL GROVE via Decision - Unanimous(R3)
+- RENAN BARAO def. COLE ESCOVEDO via Decision - Unanimous(R3)
+- GLEISON TIBAU def. RAFAELLO OLIVEIRA via Submission(R2)
+- QUINTON JACKSON def. MATT HAMILL via Decision - Unanimous(R3)
+- RICK STORY def. THIAGO ALVES via Decision - Unanimous(R3)
+- BRIAN STANN def. JORGE SANTIAGO via KO/TKO(R2)
+- TRAVIS BROWNE def. STEFAN STRUVE via KO/TKO(R1)
+- MICHAEL MCDONALD def. CHRIS CARIASO via Decision - Split(R3)
+- FRANK MIR def. ROY NELSON via Decision - Unanimous(R3)

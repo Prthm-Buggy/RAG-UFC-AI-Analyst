@@ -1,0 +1,11 @@
+Fighter: MANSUR ABDUL-MALIK
+  Date of Birth: 1997-10-07
+  Career record: 4
+  First fight: 2024-11-09
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :76
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :1

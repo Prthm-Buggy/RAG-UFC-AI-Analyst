@@ -1,0 +1,11 @@
+Fighter: TAILA SANTOS
+  Date of Birth: 1993-06-22
+  Career record: 7
+  First fight: 2019-02-02
+  Last fight: 2023-08-26
+
+Career Statistics:
+- Significant Strikes Landed :315
+- Total takedowns landed :15
+- Knockdowns :3
+- Submission Attempts :9

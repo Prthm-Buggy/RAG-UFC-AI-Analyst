@@ -1,0 +1,13 @@
+Event: UFC 183: Silva vs Diaz
+    Date: January 31, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MIESHA TATE defeated SARA MCMANN via Decision - Majority  
+  at 5:00 of round 3
+  Key stats:
+  - MIESHA TATE landed 23 significant strikes
+  - SARA MCMANN landed 34 significant strikes
+  - Knockdowns: MIESHA TATE 0,  SARA MCMANN 1
+  - Takedowns: MIESHA TATE 0,  SARA MCMANN 1

@@ -1,0 +1,17 @@
+Event : UFC 118: Edgar vs Penn 2
+    Date : August 28, 2010
+    Location: Boston, Massachusetts, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Middleweight, Lightweight, Welterweight
+
+    Fight Results:
+  - GREG SOTO def. NICK OSIPCZAK via Decision - Unanimous(R3)
+- NIK LENTZ def. ANDRE WINNER via Decision - Unanimous(R3)
+- DEMIAN MAIA def. MARIO MIRANDA via Decision - Unanimous(R3)
+- FRANKIE EDGAR def. BJ PENN via Decision - Unanimous(R5)
+- GRAY MAYNARD def. KENNY FLORIAN via Decision - Unanimous(R3)
+- NATE DIAZ def. MARCUS DAVIS via Submission(R3)
+- JOE LAUZON def. GABE RUEDIGER via Submission(R1)
+- RANDY COUTURE def. JAMES TONEY via Submission(R1)
+- MIKE PIERCE def. AMILCAR ALVES via Submission(R3)
+- DAN MILLER def. JOHN SALTER via Submission(R2)

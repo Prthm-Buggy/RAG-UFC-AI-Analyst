@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Costa vs. Vettori
+    Date: October 23, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GREGORY RODRIGUES defeated JUNYONG PARK via KO/TKO  
+  at 3:13 of round 2
+  Key stats:
+  - GREGORY RODRIGUES landed 68 significant strikes
+  - JUNYONG PARK landed 56 significant strikes
+  - Knockdowns: GREGORY RODRIGUES 0,  JUNYONG PARK 0
+  - Takedowns: GREGORY RODRIGUES 2,  JUNYONG PARK 0
+  Bonus: fight

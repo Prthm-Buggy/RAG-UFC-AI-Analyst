@@ -1,0 +1,13 @@
+Event: UFC 301: Pantoja vs. Erceg
+    Date: May 04, 2024
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: JOANDERSON BRITO defeated JACK SHORE via TKO - Doctor's Stoppage  
+  at 3:35 of round 2
+  Key stats:
+  - JOANDERSON BRITO landed 30 significant strikes
+  - JACK SHORE landed 24 significant strikes
+  - Knockdowns: JOANDERSON BRITO 0,  JACK SHORE 0
+  - Takedowns: JOANDERSON BRITO 1,  JACK SHORE 0

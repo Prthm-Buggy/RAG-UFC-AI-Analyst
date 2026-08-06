@@ -1,0 +1,11 @@
+Fighter: DIEGO SANCHEZ
+  Date of Birth: 1981-12-31
+  Career record: 32
+  First fight: 2005-04-09
+  Last fight: 2020-09-26
+
+Career Statistics:
+- Significant Strikes Landed :1058
+- Total takedowns landed :36
+- Knockdowns :6
+- Submission Attempts :18

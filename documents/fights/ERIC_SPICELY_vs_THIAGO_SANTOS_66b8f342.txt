@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cyborg vs. Lansberg
+    Date: September 24, 2016
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: ERIC SPICELY defeated THIAGO SANTOS via Submission  
+  at 2:58 of round 1
+  Key stats:
+  - ERIC SPICELY landed 5 significant strikes
+  - THIAGO SANTOS landed 2 significant strikes
+  - Knockdowns: ERIC SPICELY 0,  THIAGO SANTOS 0
+  - Takedowns: ERIC SPICELY 1,  THIAGO SANTOS 0
+  Bonus: perf

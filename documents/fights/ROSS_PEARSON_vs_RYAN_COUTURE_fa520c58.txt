@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Mousasi vs Latifi
+    Date: April 06, 2013
+    Location: Stockholm, Sweden
+    Weight Class: Lightweight
+    
+
+    Result: ROSS PEARSON defeated RYAN COUTURE via KO/TKO  
+  at 3:45 of round 2
+  Key stats:
+  - ROSS PEARSON landed 28 significant strikes
+  - RYAN COUTURE landed 29 significant strikes
+  - Knockdowns: ROSS PEARSON 1,  RYAN COUTURE 0
+  - Takedowns: ROSS PEARSON 1,  RYAN COUTURE 1

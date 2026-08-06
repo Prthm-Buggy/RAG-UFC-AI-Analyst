@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Font
+    Date: August 05, 2023
+    Location: Nashville, Tennessee, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DUSTIN JACOBY defeated KENNEDY NZECHUKWU via KO/TKO  
+  at 1:22 of round 1
+  Key stats:
+  - DUSTIN JACOBY landed 10 significant strikes
+  - KENNEDY NZECHUKWU landed 4 significant strikes
+  - Knockdowns: DUSTIN JACOBY 1,  KENNEDY NZECHUKWU 0
+  - Takedowns: DUSTIN JACOBY 0,  KENNEDY NZECHUKWU 0
+  Bonus: perf

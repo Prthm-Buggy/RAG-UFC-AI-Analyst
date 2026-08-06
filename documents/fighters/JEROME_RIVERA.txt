@@ -1,0 +1,11 @@
+Fighter: JEROME RIVERA
+  Date of Birth: 1995-04-22
+  Career record: 4
+  First fight: 2020-09-19
+  Last fight: 2021-07-10
+
+Career Statistics:
+- Significant Strikes Landed :74
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

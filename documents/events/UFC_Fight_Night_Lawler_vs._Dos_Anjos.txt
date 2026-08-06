@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Lawler vs. Dos Anjos
+    Date : December 16, 2017
+    Location: Winnipeg, Manitoba, Canada
+    Number of Fights: 11
+    Weight Classes: Welterweight, Featherweight, Light Heavyweight, Middleweight, Lightweight
+
+    Fight Results:
+  - JAN BLACHOWICZ def. JARED CANNONIER via Decision - Unanimous(R3)
+- GLOVER TEIXEIRA def. MISHA CIRKUNOV via KO/TKO(R1)
+- JOSH EMMETT def. RICARDO LAMAS via KO/TKO(R1)
+- RAFAEL DOS ANJOS def. ROBBIE LAWLER via Decision - Unanimous(R5)
+- JOHN MAKDESSI def. ABEL TRUJILLO via Decision - Unanimous(R3)
+- ALESSIO DI CHIRICO def. OLUWALE BAMGBOSE via KO/TKO(R2)
+- SANTIAGO PONZINIBBIO def. MIKE PERRY via Decision - Unanimous(R3)
+- NORDINE TALEB def. DANNY ROBERTS via KO/TKO(R1)
+- JULIAN MARQUEZ def. DARREN STEWART via Submission(R2)
+- JORDAN MEIN def. ERICK SILVA via Decision - Unanimous(R3)
+- CHAD LAPRISE def. GALORE BOFANDO via KO/TKO(R1)

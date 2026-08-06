@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Brunson vs. Till
+    Date: September 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: PADDY PIMBLETT defeated LUIGI VENDRAMINI via KO/TKO  
+  at 4:25 of round 1
+  Key stats:
+  - PADDY PIMBLETT landed 47 significant strikes
+  - LUIGI VENDRAMINI landed 25 significant strikes
+  - Knockdowns: PADDY PIMBLETT 1,  LUIGI VENDRAMINI 0
+  - Takedowns: PADDY PIMBLETT 0,  LUIGI VENDRAMINI 1
+  Bonus: perf

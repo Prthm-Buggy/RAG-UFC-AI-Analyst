@@ -1,0 +1,19 @@
+Event : UFC 157: Rousey vs Carmouche
+    Date : February 23, 2013
+    Location: Anaheim, California, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Lightweight, Featherweight, Welterweight, Light Heavyweight, Women's Bantamweight
+
+    Fight Results:
+  - URIJAH FABER def. IVAN MENJIVAR via Submission(R1)
+- MICHAEL CHIESA def. ANTON KUIVANEN via Submission(R2)
+- NEIL MAGNY def. JON MANLEY via Decision - Unanimous(R3)
+- ROBBIE LAWLER def. JOSH KOSCHECK via KO/TKO(R1)
+- DENNIS BERMUDEZ def. MATT GRICE via Decision - Split(R3)
+- NAH-SHON BURRELL def. YURI VILLEFORT via Decision - Unanimous(R3)
+- COURT MCGEE def. JOSH NEER via Decision - Unanimous(R3)
+- LYOTO MACHIDA def. DAN HENDERSON via Decision - Split(R3)
+- RONDA ROUSEY def. LIZ CARMOUCHE via Submission(R1)
+- SAM STOUT def. CAROS FODOR via Decision - Split(R3)
+- BRENDAN SCHAUB def. LAVAR JOHNSON via Decision - Unanimous(R3)
+- KENNY ROBERTSON def. BROCK JARDINE via Submission(R1)

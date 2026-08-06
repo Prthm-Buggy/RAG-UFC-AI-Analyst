@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fight for the Troops 3
+    Date: November 06, 2013
+    Location: Fort Campbell, Kentucky, USA
+    Weight Class: Middleweight
+    
+
+    Result: YOEL ROMERO defeated RONNY MARKES via KO/TKO  
+  at 1:39 of round 3
+  Key stats:
+  - YOEL ROMERO landed 50 significant strikes
+  - RONNY MARKES landed 18 significant strikes
+  - Knockdowns: YOEL ROMERO 1,  RONNY MARKES 0
+  - Takedowns: YOEL ROMERO 0,  RONNY MARKES 2

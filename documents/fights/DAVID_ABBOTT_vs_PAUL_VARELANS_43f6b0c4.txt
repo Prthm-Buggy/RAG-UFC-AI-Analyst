@@ -1,0 +1,13 @@
+Event: UFC 6: Clash of the Titans
+    Date: July 14, 1995
+    Location: Casper, Wyoming, USA
+    Weight Class: Open Weight
+    
+
+    Result: DAVID ABBOTT defeated PAUL VARELANS via KO/TKO  
+  at 1:53 of round 1
+  Key stats:
+  - DAVID ABBOTT landed 14 significant strikes
+  - PAUL VARELANS landed 1 significant strikes
+  - Knockdowns: DAVID ABBOTT 0,  PAUL VARELANS 0
+  - Takedowns: DAVID ABBOTT 1,  PAUL VARELANS 0

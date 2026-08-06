@@ -1,0 +1,11 @@
+Fighter: KB BHULLAR
+  Date of Birth: 1991-10-12
+  Career record: 2
+  First fight: 2020-10-10
+  Last fight: 2021-05-01
+
+Career Statistics:
+- Significant Strikes Landed :72
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: MARK CHOINSKI
+  Date of Birth: 1995-10-22
+  Career record: 1
+  First fight: 2025-06-07
+  Last fight: 2025-06-07
+
+Career Statistics:
+- Significant Strikes Landed :58
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: HUGO DUARTE
+  Date of Birth: 1968-08-09
+  Career record: 1
+  First fight: 1998-05-15
+  Last fight: 1998-05-15
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC 274: Oliveira vs. Gaethje
+    Date: May 07, 2022
+    Location: Phoenix, Arizona, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: CARLA ESPARZA defeated ROSE NAMAJUNAS via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - CARLA ESPARZA landed 30 significant strikes
+  - ROSE NAMAJUNAS landed 37 significant strikes
+  - Knockdowns: CARLA ESPARZA 0,  ROSE NAMAJUNAS 0
+  - Takedowns: CARLA ESPARZA 2,  ROSE NAMAJUNAS 1
+  Bonus: belt

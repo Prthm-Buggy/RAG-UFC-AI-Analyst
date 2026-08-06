@@ -1,0 +1,14 @@
+Event: UFC 269: Oliveira vs. Poirier
+    Date: December 11, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TAI TUIVASA defeated AUGUSTO SAKAI via KO/TKO  
+  at 0:26 of round 2
+  Key stats:
+  - TAI TUIVASA landed 34 significant strikes
+  - AUGUSTO SAKAI landed 21 significant strikes
+  - Knockdowns: TAI TUIVASA 1,  AUGUSTO SAKAI 0
+  - Takedowns: TAI TUIVASA 0,  AUGUSTO SAKAI 0
+  Bonus: perf

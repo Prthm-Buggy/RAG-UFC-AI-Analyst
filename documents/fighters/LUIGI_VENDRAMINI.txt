@@ -1,0 +1,11 @@
+Fighter: LUIGI VENDRAMINI
+  Date of Birth: 1996-01-16
+  Career record: 4
+  First fight: 2018-09-22
+  Last fight: 2021-09-04
+
+Career Statistics:
+- Significant Strikes Landed :76
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :1

@@ -1,0 +1,11 @@
+Fighter: JASON DAY
+  Date of Birth: 1981-05-19
+  Career record: 3
+  First fight: 2008-04-19
+  Last fight: 2009-03-07
+
+Career Statistics:
+- Significant Strikes Landed :42
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

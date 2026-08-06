@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Mousasi vs. Hall 2
+    Date: November 19, 2016
+    Location: Belfast, Northern Ireland, United Kingdom
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MARION RENEAU defeated MILANA DUDIEVA via KO/TKO  
+  at 3:03 of round 3
+  Key stats:
+  - MARION RENEAU landed 48 significant strikes
+  - MILANA DUDIEVA landed 17 significant strikes
+  - Knockdowns: MARION RENEAU 0,  MILANA DUDIEVA 0
+  - Takedowns: MARION RENEAU 1,  MILANA DUDIEVA 2

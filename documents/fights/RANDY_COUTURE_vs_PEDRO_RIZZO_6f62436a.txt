@@ -1,0 +1,14 @@
+Event: UFC 31: Locked and Loaded
+    Date: May 04, 2001
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RANDY COUTURE defeated PEDRO RIZZO via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - RANDY COUTURE landed 69 significant strikes
+  - PEDRO RIZZO landed 42 significant strikes
+  - Knockdowns: RANDY COUTURE 0,  PEDRO RIZZO 1
+  - Takedowns: RANDY COUTURE 3,  PEDRO RIZZO 0
+  Bonus: belt

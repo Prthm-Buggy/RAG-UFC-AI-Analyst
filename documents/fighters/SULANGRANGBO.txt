@@ -1,0 +1,11 @@
+Fighter: SULANGRANGBO
+  Date of Birth: 2005-07-17
+  Career record: 1
+  First fight: 2026-01-31
+  Last fight: 2026-01-31
+
+Career Statistics:
+- Significant Strikes Landed :56
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

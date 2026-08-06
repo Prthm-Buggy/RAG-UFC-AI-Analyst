@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Yusuff vs. Barboza
+    Date: October 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MICHEL PEREIRA defeated ANDRE PETROSKI via KO/TKO  
+  at 1:06 of round 1
+  Key stats:
+  - MICHEL PEREIRA landed 6 significant strikes
+  - ANDRE PETROSKI landed 0 significant strikes
+  - Knockdowns: MICHEL PEREIRA 1,  ANDRE PETROSKI 0
+  - Takedowns: MICHEL PEREIRA 0,  ANDRE PETROSKI 0
+  Bonus: perf

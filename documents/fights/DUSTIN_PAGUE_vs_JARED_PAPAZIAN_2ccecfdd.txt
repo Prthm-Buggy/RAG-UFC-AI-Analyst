@@ -1,0 +1,13 @@
+Event: UFC on FX: Johnson vs McCall
+    Date: June 08, 2012
+    Location: Sunrise, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DUSTIN PAGUE defeated JARED PAPAZIAN via Submission  
+  at 3:21 of round 1
+  Key stats:
+  - DUSTIN PAGUE landed 6 significant strikes
+  - JARED PAPAZIAN landed 7 significant strikes
+  - Knockdowns: DUSTIN PAGUE 0,  JARED PAPAZIAN 0
+  - Takedowns: DUSTIN PAGUE 1,  JARED PAPAZIAN 0

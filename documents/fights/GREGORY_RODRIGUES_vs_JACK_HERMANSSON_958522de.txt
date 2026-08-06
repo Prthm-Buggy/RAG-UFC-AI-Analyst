@@ -1,0 +1,14 @@
+Event: UFC 317: Topuria vs. Oliveira
+    Date: June 28, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GREGORY RODRIGUES defeated JACK HERMANSSON via KO/TKO  
+  at 4:21 of round 1
+  Key stats:
+  - GREGORY RODRIGUES landed 18 significant strikes
+  - JACK HERMANSSON landed 30 significant strikes
+  - Knockdowns: GREGORY RODRIGUES 1,  JACK HERMANSSON 0
+  - Takedowns: GREGORY RODRIGUES 0,  JACK HERMANSSON 0
+  Bonus: perf

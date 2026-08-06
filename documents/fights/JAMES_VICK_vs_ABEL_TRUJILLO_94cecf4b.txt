@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bermudez vs. The Korean Zombie
+    Date: February 04, 2017
+    Location: Houston, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: JAMES VICK defeated ABEL TRUJILLO via Submission  
+  at 0:49 of round 3
+  Key stats:
+  - JAMES VICK landed 25 significant strikes
+  - ABEL TRUJILLO landed 11 significant strikes
+  - Knockdowns: JAMES VICK 0,  ABEL TRUJILLO 0
+  - Takedowns: JAMES VICK 1,  ABEL TRUJILLO 1

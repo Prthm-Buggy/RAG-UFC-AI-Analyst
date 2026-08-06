@@ -1,0 +1,11 @@
+Fighter: RODRIGO DE LIMA
+  Date of Birth: 1991-03-12
+  Career record: 2
+  First fight: 2014-06-28
+  Last fight: 2015-02-14
+
+Career Statistics:
+- Significant Strikes Landed :29
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :2

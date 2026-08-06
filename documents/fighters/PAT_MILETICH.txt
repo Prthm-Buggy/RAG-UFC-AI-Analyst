@@ -1,0 +1,11 @@
+Fighter: PAT MILETICH
+  Date of Birth: 1968-03-09
+  Career record: 10
+  First fight: 1998-03-13
+  Last fight: 2002-03-22
+
+Career Statistics:
+- Significant Strikes Landed :147
+- Total takedowns landed :10
+- Knockdowns :1
+- Submission Attempts :5

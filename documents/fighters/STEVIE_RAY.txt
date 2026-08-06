@@ -1,0 +1,11 @@
+Fighter: STEVIE RAY
+  Date of Birth: 1990-03-25
+  Career record: 11
+  First fight: 2015-04-11
+  Last fight: 2019-10-26
+
+Career Statistics:
+- Significant Strikes Landed :449
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :5

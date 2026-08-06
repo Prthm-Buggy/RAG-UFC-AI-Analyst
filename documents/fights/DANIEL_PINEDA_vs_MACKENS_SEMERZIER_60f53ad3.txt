@@ -1,0 +1,13 @@
+Event: UFC on FX: Alves vs Kampmann
+    Date: March 02, 2012
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Featherweight
+    
+
+    Result: DANIEL PINEDA defeated MACKENS SEMERZIER via Submission  
+  at 2:05 of round 1
+  Key stats:
+  - DANIEL PINEDA landed 14 significant strikes
+  - MACKENS SEMERZIER landed 9 significant strikes
+  - Knockdowns: DANIEL PINEDA 1,  MACKENS SEMERZIER 0
+  - Takedowns: DANIEL PINEDA 0,  MACKENS SEMERZIER 0

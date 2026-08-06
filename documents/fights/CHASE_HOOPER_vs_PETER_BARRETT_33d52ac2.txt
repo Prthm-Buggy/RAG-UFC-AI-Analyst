@@ -1,0 +1,13 @@
+Event: UFC 256: Figueiredo vs. Moreno
+    Date: December 12, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHASE HOOPER defeated PETER BARRETT via Submission  
+  at 3:02 of round 3
+  Key stats:
+  - CHASE HOOPER landed 57 significant strikes
+  - PETER BARRETT landed 48 significant strikes
+  - Knockdowns: CHASE HOOPER 0,  PETER BARRETT 0
+  - Takedowns: CHASE HOOPER 0,  PETER BARRETT 0

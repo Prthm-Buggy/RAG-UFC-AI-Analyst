@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Covington vs. Woodley
+    Date : September 19, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Women's Flyweight, Featherweight, Welterweight, Women's Strawweight, Women's Bantamweight, Light Heavyweight, Flyweight, Middleweight
+
+    Fight Results:
+  - KEVIN HOLLAND def. DARREN STEWART via Decision - Split(R3)
+- MACKENZIE DERN def. RANDA MARKOS via Submission(R1)
+- JOHNNY WALKER def. RYAN SPANN via KO/TKO(R1)
+- ANDRE EWELL def. IRWIN RIVERA via Decision - Split(R3)
+- DAMON JACKSON def. MIRSAD BEKTIC via Submission(R3)
+- KHAMZAT CHIMAEV def. GERALD MEERSCHAERT via KO/TKO(R1)
+- MAYRA BUENO SILVA def. MARA ROMERO BORELLA via Submission(R1)
+- COLBY COVINGTON def. TYRON WOODLEY via KO/TKO(R5)
+- DAVID DVORAK def. JORDAN ESPINOSA via Decision - Unanimous(R3)
+- RANDY COSTA def. JOURNEY NEWSON via KO/TKO(R1)
+- JESSICA-ROSE CLARK def. SARAH ALPAR via KO/TKO(R3)
+- DARRICK MINNER def. TJ LARAMIE via Submission(R1)
+- TYSON NAM def. JEROME RIVERA via KO/TKO(R2)

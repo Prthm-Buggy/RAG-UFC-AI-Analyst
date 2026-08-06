@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Stephens
+    Date: February 24, 2018
+    Location: Orlando, Florida, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: SAM ALVEY defeated MARCIN PRACHNIO via KO/TKO  
+  at 4:23 of round 1
+  Key stats:
+  - SAM ALVEY landed 10 significant strikes
+  - MARCIN PRACHNIO landed 15 significant strikes
+  - Knockdowns: SAM ALVEY 2,  MARCIN PRACHNIO 0
+  - Takedowns: SAM ALVEY 1,  MARCIN PRACHNIO 0

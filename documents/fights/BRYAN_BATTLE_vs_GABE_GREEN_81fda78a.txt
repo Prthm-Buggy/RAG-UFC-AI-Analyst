@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rozenstruik vs. Almeida
+    Date: May 13, 2023
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRYAN BATTLE defeated GABE GREEN via KO/TKO  
+  at 0:14 of round 1
+  Key stats:
+  - BRYAN BATTLE landed 3 significant strikes
+  - GABE GREEN landed 6 significant strikes
+  - Knockdowns: BRYAN BATTLE 1,  GABE GREEN 0
+  - Takedowns: BRYAN BATTLE 0,  GABE GREEN 0

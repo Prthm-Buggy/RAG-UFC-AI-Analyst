@@ -1,0 +1,19 @@
+Event : UFC 292: Sterling vs. O'Malley
+    Date : August 19, 2023
+    Location: Boston, Massachusetts, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Women's Flyweight, Women's Strawweight, Middleweight, Welterweight, Lightweight
+
+    Fight Results:
+  - NATALIA SILVA def. ANDREA LEE via Decision - Unanimous(R3)
+- ZHANG WEILI def. AMANDA LEMOS via Decision - Unanimous(R5)
+- GREGORY RODRIGUES def. DENIS TIULIULIN via KO/TKO(R1)
+- MARIO BAUTISTA def. DA'MON BLACKSHEAR via Decision - Unanimous(R3)
+- KARINE SILVA def. MARYNA MOROZ via Submission(R1)
+- SEAN O'MALLEY def. ALJAMAIN STERLING via KO/TKO(R2)
+- BRAD TAVARES def. CHRIS WEIDMAN via Decision - Unanimous(R3)
+- BRAD KATONA def. CODY GIBSON via Decision - Unanimous(R3)
+- KURT HOLOBAUGH def. AUSTIN HUBBARD via Submission(R2)
+- IAN MACHADO GARRY def. NEIL MAGNY via Decision - Unanimous(R3)
+- MARLON VERA def. PEDRO MUNHOZ via Decision - Unanimous(R3)
+- ANDRE PETROSKI def. GERALD MEERSCHAERT via Decision - Split(R3)

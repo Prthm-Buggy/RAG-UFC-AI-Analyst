@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Lemos
+    Date: November 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MIRANDA MAVERICK defeated SHANNA YOUNG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MIRANDA MAVERICK landed 63 significant strikes
+  - SHANNA YOUNG landed 29 significant strikes
+  - Knockdowns: MIRANDA MAVERICK 0,  SHANNA YOUNG 0
+  - Takedowns: MIRANDA MAVERICK 5,  SHANNA YOUNG 0

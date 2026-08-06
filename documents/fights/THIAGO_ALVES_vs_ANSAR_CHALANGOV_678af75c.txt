@@ -1,0 +1,13 @@
+Event: UFC 56: Full Force
+    Date: November 19, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: THIAGO ALVES defeated ANSAR CHALANGOV via KO/TKO  
+  at 2:25 of round 1
+  Key stats:
+  - THIAGO ALVES landed 8 significant strikes
+  - ANSAR CHALANGOV landed 2 significant strikes
+  - Knockdowns: THIAGO ALVES 0,  ANSAR CHALANGOV 0
+  - Takedowns: THIAGO ALVES 1,  ANSAR CHALANGOV 0

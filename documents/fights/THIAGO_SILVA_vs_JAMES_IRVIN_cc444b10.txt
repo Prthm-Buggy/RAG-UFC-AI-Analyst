@@ -1,0 +1,13 @@
+Event: UFC 71: Liddell vs Jackson
+    Date: May 26, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: THIAGO SILVA defeated JAMES IRVIN via KO/TKO  
+  at 1:06 of round 1
+  Key stats:
+  - THIAGO SILVA landed 1 significant strikes
+  - JAMES IRVIN landed 3 significant strikes
+  - Knockdowns: THIAGO SILVA 0,  JAMES IRVIN 0
+  - Takedowns: THIAGO SILVA 1,  JAMES IRVIN 0

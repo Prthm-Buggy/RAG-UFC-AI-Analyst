@@ -1,0 +1,11 @@
+Fighter: KEVIN CHRISTIAN
+  Date of Birth: 1995-01-21
+  Career record: 2
+  First fight: 2025-11-01
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :27
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

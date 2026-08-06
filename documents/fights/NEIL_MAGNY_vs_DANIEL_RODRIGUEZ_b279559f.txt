@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Lemos
+    Date: November 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: NEIL MAGNY defeated DANIEL RODRIGUEZ via Submission  
+  at 3:33 of round 3
+  Key stats:
+  - NEIL MAGNY landed 57 significant strikes
+  - DANIEL RODRIGUEZ landed 66 significant strikes
+  - Knockdowns: NEIL MAGNY 0,  DANIEL RODRIGUEZ 0
+  - Takedowns: NEIL MAGNY 5,  DANIEL RODRIGUEZ 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Silva vs. Stann
+    Date: March 02, 2013
+    Location: Saitama, Japan
+    Weight Class: Featherweight
+    
+
+    Result: RANI YAHYA defeated MIZUTO HIROTA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RANI YAHYA landed 13 significant strikes
+  - MIZUTO HIROTA landed 4 significant strikes
+  - Knockdowns: RANI YAHYA 0,  MIZUTO HIROTA 0
+  - Takedowns: RANI YAHYA 5,  MIZUTO HIROTA 1

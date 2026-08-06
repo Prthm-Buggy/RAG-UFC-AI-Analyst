@@ -1,0 +1,14 @@
+Event: UFC 106: Ortiz vs Griffin 2
+    Date: November 21, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ROGERIO NOGUEIRA defeated LUIZ CANE via KO/TKO  
+  at 1:56 of round 1
+  Key stats:
+  - ROGERIO NOGUEIRA landed 14 significant strikes
+  - LUIZ CANE landed 3 significant strikes
+  - Knockdowns: ROGERIO NOGUEIRA 1,  LUIZ CANE 0
+  - Takedowns: ROGERIO NOGUEIRA 0,  LUIZ CANE 0
+  Bonus: ko

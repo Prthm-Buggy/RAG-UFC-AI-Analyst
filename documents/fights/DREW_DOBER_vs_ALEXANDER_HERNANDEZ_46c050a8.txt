@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Teixeira
+    Date: May 13, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: DREW DOBER defeated ALEXANDER HERNANDEZ via KO/TKO  
+  at 4:25 of round 2
+  Key stats:
+  - DREW DOBER landed 61 significant strikes
+  - ALEXANDER HERNANDEZ landed 34 significant strikes
+  - Knockdowns: DREW DOBER 0,  ALEXANDER HERNANDEZ 0
+  - Takedowns: DREW DOBER 0,  ALEXANDER HERNANDEZ 3
+  Bonus: perf

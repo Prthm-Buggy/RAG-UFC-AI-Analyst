@@ -1,0 +1,13 @@
+Event: UFC on FX: Maynard vs Guida
+    Date: June 22, 2012
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT BROWN defeated LUIS RAMOS via KO/TKO  
+  at 4:20 of round 2
+  Key stats:
+  - MATT BROWN landed 52 significant strikes
+  - LUIS RAMOS landed 20 significant strikes
+  - Knockdowns: MATT BROWN 0,  LUIS RAMOS 0
+  - Takedowns: MATT BROWN 0,  LUIS RAMOS 1

@@ -1,0 +1,14 @@
+Event: UFC 268: Usman vs. Covington 2
+    Date: November 06, 2021
+    Location: New York City, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHRIS BARNETT defeated GIAN VILLANTE via KO/TKO  
+  at 2:23 of round 2
+  Key stats:
+  - CHRIS BARNETT landed 38 significant strikes
+  - GIAN VILLANTE landed 30 significant strikes
+  - Knockdowns: CHRIS BARNETT 1,  GIAN VILLANTE 0
+  - Takedowns: CHRIS BARNETT 0,  GIAN VILLANTE 0
+  Bonus: perf

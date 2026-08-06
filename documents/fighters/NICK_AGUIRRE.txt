@@ -1,0 +1,11 @@
+Fighter: NICK AGUIRRE
+  Date of Birth: 1996-01-15
+  Career record: 2
+  First fight: 2023-01-14
+  Last fight: 2023-11-18
+
+Career Statistics:
+- Significant Strikes Landed :19
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

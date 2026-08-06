@@ -1,0 +1,14 @@
+Event: UFC 268: Usman vs. Covington 2
+    Date: November 06, 2021
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALEX PEREIRA defeated ANDREAS MICHAILIDIS via KO/TKO  
+  at 0:18 of round 2
+  Key stats:
+  - ALEX PEREIRA landed 11 significant strikes
+  - ANDREAS MICHAILIDIS landed 3 significant strikes
+  - Knockdowns: ALEX PEREIRA 1,  ANDREAS MICHAILIDIS 0
+  - Takedowns: ALEX PEREIRA 0,  ANDREAS MICHAILIDIS 2
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: MELISSA GATTO
+  Date of Birth: 1996-05-02
+  Career record: 6
+  First fight: 2021-08-07
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :265
+- Total takedowns landed :9
+- Knockdowns :1
+- Submission Attempts :2

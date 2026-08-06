@@ -1,0 +1,11 @@
+Fighter: KEIICHIRO YAMAMIYA
+  Date of Birth: 1972-07-12
+  Career record: 1
+  First fight: 1999-11-19
+  Last fight: 1999-11-19
+
+Career Statistics:
+- Significant Strikes Landed :14
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: TAFON NCHUKWI
+  Date of Birth: 1994-10-14
+  Career record: 6
+  First fight: 2020-12-19
+  Last fight: 2023-08-12
+
+Career Statistics:
+- Significant Strikes Landed :393
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :0

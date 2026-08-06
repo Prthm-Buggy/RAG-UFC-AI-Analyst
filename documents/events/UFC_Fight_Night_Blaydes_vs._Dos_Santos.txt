@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Blaydes vs. Dos Santos
+    Date : January 25, 2020
+    Location: Raleigh, North Carolina, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Women's Flyweight, Heavyweight, Middleweight, Featherweight, Flyweight, Women's Strawweight, Women's Bantamweight, Welterweight, Light Heavyweight
+
+    Fight Results:
+  - JAMAHAL HILL def. DARKO STOSIC via Decision - Unanimous(R3)
+- ALEX PEREZ def. JORDAN ESPINOSA via Submission(R1)
+- CURTIS BLAYDES def. JUNIOR DOS SANTOS via KO/TKO(R2)
+- ANGELA HILL def. HANNAH CIFERS via KO/TKO(R2)
+- HERBERT BURNS def. NATE LANDWEHR via KO/TKO(R1)
+- BEVON LEWIS def. DEQUAN TOWNSEND via Decision - Unanimous(R3)
+- BRETT JOHNS def. TONY GRAVELY via Submission(R3)
+- SARA MCMANN def. LINA LANSBERG via Decision - Unanimous(R3)
+- MICHAEL CHIESA def. RAFAEL DOS ANJOS via Decision - Unanimous(R3)
+- ARNOLD ALLEN def. NIK LENTZ via Decision - Unanimous(R3)
+- JUSTINE KISH def. LUCIE PUDILOVA via Decision - Unanimous(R3)
+- MONTEL JACKSON def. FELIPE COLARES via Decision - Unanimous(R3)

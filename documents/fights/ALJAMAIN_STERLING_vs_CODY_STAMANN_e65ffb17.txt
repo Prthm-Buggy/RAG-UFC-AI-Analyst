@@ -1,0 +1,13 @@
+Event: UFC 228: Woodley vs. Till
+    Date: September 08, 2018
+    Location: Dallas, Texas, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALJAMAIN STERLING defeated CODY STAMANN via Submission  
+  at 3:42 of round 2
+  Key stats:
+  - ALJAMAIN STERLING landed 33 significant strikes
+  - CODY STAMANN landed 12 significant strikes
+  - Knockdowns: ALJAMAIN STERLING 0,  CODY STAMANN 0
+  - Takedowns: ALJAMAIN STERLING 2,  CODY STAMANN 3

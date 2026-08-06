@@ -1,0 +1,14 @@
+Event: UFC Fight Night 6
+    Date: August 17, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOE RIGGS defeated JASON VON FLUE via Submission  
+  at 2:01 of round 1
+  Key stats:
+  - JOE RIGGS landed 1 significant strikes
+  - JASON VON FLUE landed 0 significant strikes
+  - Knockdowns: JOE RIGGS 0,  JASON VON FLUE 0
+  - Takedowns: JOE RIGGS 1,  JASON VON FLUE 0
+  Bonus: sub

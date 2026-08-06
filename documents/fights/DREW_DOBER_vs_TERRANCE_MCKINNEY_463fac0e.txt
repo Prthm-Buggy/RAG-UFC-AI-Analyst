@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Ankalaev
+    Date: March 12, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DREW DOBER defeated TERRANCE MCKINNEY via KO/TKO  
+  at 3:17 of round 1
+  Key stats:
+  - DREW DOBER landed 17 significant strikes
+  - TERRANCE MCKINNEY landed 36 significant strikes
+  - Knockdowns: DREW DOBER 1,  TERRANCE MCKINNEY 1
+  - Takedowns: DREW DOBER 0,  TERRANCE MCKINNEY 2

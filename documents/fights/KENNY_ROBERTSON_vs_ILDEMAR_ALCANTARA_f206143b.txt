@@ -1,0 +1,13 @@
+Event: UFC 175: Weidman vs Machida
+    Date: July 05, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: KENNY ROBERTSON defeated ILDEMAR ALCANTARA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KENNY ROBERTSON landed 70 significant strikes
+  - ILDEMAR ALCANTARA landed 22 significant strikes
+  - Knockdowns: KENNY ROBERTSON 0,  ILDEMAR ALCANTARA 0
+  - Takedowns: KENNY ROBERTSON 3,  ILDEMAR ALCANTARA 1

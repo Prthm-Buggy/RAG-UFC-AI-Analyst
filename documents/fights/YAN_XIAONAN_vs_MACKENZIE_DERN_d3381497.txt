@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Yan
+    Date: October 01, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: YAN XIAONAN defeated MACKENZIE DERN via Decision - Majority  
+  at 5:00 of round 5
+  Key stats:
+  - YAN XIAONAN landed 113 significant strikes
+  - MACKENZIE DERN landed 61 significant strikes
+  - Knockdowns: YAN XIAONAN 0,  MACKENZIE DERN 0
+  - Takedowns: YAN XIAONAN 0,  MACKENZIE DERN 2

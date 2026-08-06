@@ -1,0 +1,13 @@
+Event: UFC 127: Penn vs Fitch
+    Date: February 26, 2011
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Lightweight
+    
+
+    Result: CURT WARBURTON defeated MACIEJ JEWTUSZKO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CURT WARBURTON landed 18 significant strikes
+  - MACIEJ JEWTUSZKO landed 30 significant strikes
+  - Knockdowns: CURT WARBURTON 0,  MACIEJ JEWTUSZKO 0
+  - Takedowns: CURT WARBURTON 4,  MACIEJ JEWTUSZKO 0

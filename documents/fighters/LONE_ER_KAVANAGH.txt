@@ -1,0 +1,11 @@
+Fighter: LONE'ER KAVANAGH
+  Date of Birth: 1999-06-09
+  Career record: 4
+  First fight: 2024-11-23
+  Last fight: 2026-02-28
+
+Career Statistics:
+- Significant Strikes Landed :265
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :1

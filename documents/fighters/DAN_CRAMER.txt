@@ -1,0 +1,11 @@
+Fighter: DAN CRAMER
+  Date of Birth: 1985-10-31
+  Career record: 2
+  First fight: 2009-01-31
+  Last fight: 2009-08-08
+
+Career Statistics:
+- Significant Strikes Landed :29
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

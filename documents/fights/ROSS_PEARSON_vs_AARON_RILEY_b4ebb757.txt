@@ -1,0 +1,13 @@
+Event: UFC 105: Couture vs Vera
+    Date: November 14, 2009
+    Location: Manchester, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: ROSS PEARSON defeated AARON RILEY via TKO - Doctor's Stoppage  
+  at 4:38 of round 2
+  Key stats:
+  - ROSS PEARSON landed 59 significant strikes
+  - AARON RILEY landed 15 significant strikes
+  - Knockdowns: ROSS PEARSON 0,  AARON RILEY 0
+  - Takedowns: ROSS PEARSON 0,  AARON RILEY 0

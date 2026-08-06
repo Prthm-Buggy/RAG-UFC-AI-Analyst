@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Chikadze
+    Date: August 28, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RICKY TURCIOS defeated BRADY HIESTAND via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - RICKY TURCIOS landed 100 significant strikes
+  - BRADY HIESTAND landed 66 significant strikes
+  - Knockdowns: RICKY TURCIOS 1,  BRADY HIESTAND 0
+  - Takedowns: RICKY TURCIOS 2,  BRADY HIESTAND 6

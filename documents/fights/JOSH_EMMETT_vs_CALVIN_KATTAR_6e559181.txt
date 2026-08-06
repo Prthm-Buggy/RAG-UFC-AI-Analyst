@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Emmett
+    Date: June 18, 2022
+    Location: Austin, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: JOSH EMMETT defeated CALVIN KATTAR via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - JOSH EMMETT landed 107 significant strikes
+  - CALVIN KATTAR landed 130 significant strikes
+  - Knockdowns: JOSH EMMETT 0,  CALVIN KATTAR 0
+  - Takedowns: JOSH EMMETT 0,  CALVIN KATTAR 0
+  Bonus: fight

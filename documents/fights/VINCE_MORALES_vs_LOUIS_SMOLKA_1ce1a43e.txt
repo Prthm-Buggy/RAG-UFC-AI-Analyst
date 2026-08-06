@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Aldo
+    Date: December 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: VINCE MORALES defeated LOUIS SMOLKA via KO/TKO  
+  at 2:02 of round 1
+  Key stats:
+  - VINCE MORALES landed 27 significant strikes
+  - LOUIS SMOLKA landed 23 significant strikes
+  - Knockdowns: VINCE MORALES 1,  LOUIS SMOLKA 0
+  - Takedowns: VINCE MORALES 0,  LOUIS SMOLKA 0

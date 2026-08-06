@@ -1,0 +1,13 @@
+Event: UFC 184: Rousey vs Zingano
+    Date: February 28, 2015
+    Location: Los Angeles, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: VALMIR LAZARO defeated JAMES KRAUSE via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - VALMIR LAZARO landed 87 significant strikes
+  - JAMES KRAUSE landed 87 significant strikes
+  - Knockdowns: VALMIR LAZARO 0,  JAMES KRAUSE 0
+  - Takedowns: VALMIR LAZARO 0,  JAMES KRAUSE 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Anjos vs. Lee
+    Date: May 18, 2019
+    Location: Rochester, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICHEL PEREIRA defeated DANNY ROBERTS via KO/TKO  
+  at 1:47 of round 1
+  Key stats:
+  - MICHEL PEREIRA landed 6 significant strikes
+  - DANNY ROBERTS landed 2 significant strikes
+  - Knockdowns: MICHEL PEREIRA 1,  DANNY ROBERTS 0
+  - Takedowns: MICHEL PEREIRA 0,  DANNY ROBERTS 0
+  Bonus: perf

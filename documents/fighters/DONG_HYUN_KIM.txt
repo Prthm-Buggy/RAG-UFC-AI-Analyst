@@ -1,0 +1,11 @@
+Fighter: DONG HYUN KIM
+  Date of Birth: 1981-11-17
+  Career record: 17
+  First fight: 2008-05-24
+  Last fight: 2017-06-17
+
+Career Statistics:
+- Significant Strikes Landed :405
+- Total takedowns landed :37
+- Knockdowns :4
+- Submission Attempts :6

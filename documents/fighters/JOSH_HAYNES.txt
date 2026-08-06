@@ -1,0 +1,11 @@
+Fighter: JOSH HAYNES
+  Date of Birth: 1977-07-30
+  Career record: 3
+  First fight: 2006-06-24
+  Last fight: 2007-04-07
+
+Career Statistics:
+- Significant Strikes Landed :40
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :0

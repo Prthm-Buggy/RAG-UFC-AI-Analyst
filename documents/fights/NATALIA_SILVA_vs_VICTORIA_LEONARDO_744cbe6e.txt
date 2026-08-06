@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Hill
+    Date: May 20, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: NATALIA SILVA defeated VICTORIA LEONARDO via KO/TKO  
+  at 2:58 of round 1
+  Key stats:
+  - NATALIA SILVA landed 20 significant strikes
+  - VICTORIA LEONARDO landed 7 significant strikes
+  - Knockdowns: NATALIA SILVA 1,  VICTORIA LEONARDO 0
+  - Takedowns: NATALIA SILVA 0,  VICTORIA LEONARDO 0

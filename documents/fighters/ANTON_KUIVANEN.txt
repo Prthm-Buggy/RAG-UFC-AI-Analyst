@@ -1,0 +1,11 @@
+Fighter: ANTON KUIVANEN
+  Date of Birth: 1984-05-01
+  Career record: 3
+  First fight: 2012-02-15
+  Last fight: 2013-02-23
+
+Career Statistics:
+- Significant Strikes Landed :85
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

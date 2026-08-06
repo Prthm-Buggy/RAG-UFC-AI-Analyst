@@ -1,0 +1,14 @@
+Event: UFC 320: Ankalaev vs. Pereira 2
+    Date: October 04, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEX PEREIRA defeated MAGOMED ANKALAEV via KO/TKO  
+  at 1:20 of round 1
+  Key stats:
+  - ALEX PEREIRA landed 28 significant strikes
+  - MAGOMED ANKALAEV landed 4 significant strikes
+  - Knockdowns: ALEX PEREIRA 0,  MAGOMED ANKALAEV 0
+  - Takedowns: ALEX PEREIRA 0,  MAGOMED ANKALAEV 0
+  Bonus: belt

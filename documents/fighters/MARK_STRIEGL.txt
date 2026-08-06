@@ -1,0 +1,11 @@
+Fighter: MARK STRIEGL
+  Date of Birth: 1988-06-23
+  Career record: 2
+  First fight: 2020-10-17
+  Last fight: 2022-02-19
+
+Career Statistics:
+- Significant Strikes Landed :11
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

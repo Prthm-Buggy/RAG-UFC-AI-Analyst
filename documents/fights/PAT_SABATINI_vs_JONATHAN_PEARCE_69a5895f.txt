@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Royval vs. Taira
+    Date: October 12, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: PAT SABATINI defeated JONATHAN PEARCE via Submission  
+  at 4:06 of round 1
+  Key stats:
+  - PAT SABATINI landed 3 significant strikes
+  - JONATHAN PEARCE landed 2 significant strikes
+  - Knockdowns: PAT SABATINI 0,  JONATHAN PEARCE 0
+  - Takedowns: PAT SABATINI 2,  JONATHAN PEARCE 0

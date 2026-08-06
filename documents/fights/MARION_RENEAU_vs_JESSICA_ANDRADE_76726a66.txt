@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bigfoot vs Mir
+    Date: February 22, 2015
+    Location: Porto Alegre, Rio Grande do Sul, Brazil
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MARION RENEAU defeated JESSICA ANDRADE via Submission  
+  at 1:54 of round 1
+  Key stats:
+  - MARION RENEAU landed 6 significant strikes
+  - JESSICA ANDRADE landed 6 significant strikes
+  - Knockdowns: MARION RENEAU 0,  JESSICA ANDRADE 1
+  - Takedowns: MARION RENEAU 0,  JESSICA ANDRADE 0
+  Bonus: perf

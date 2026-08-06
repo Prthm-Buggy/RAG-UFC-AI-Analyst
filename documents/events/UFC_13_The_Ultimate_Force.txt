@@ -1,0 +1,16 @@
+Event : UFC 13: The Ultimate Force
+    Date : May 30, 1997
+    Location: Augusta, Georgia, USA
+    Number of Fights: 9
+    Weight Classes: Heavyweight, Lightweight
+
+    Fight Results:
+  - RANDY COUTURE def. STEVEN GRAHAM via KO/TKO(R1)
+- TITO ORTIZ def. WES ALBRITTON via KO/TKO(R1)
+- RANDY COUTURE def. TONY HALME via Submission(R1)
+- STEVEN GRAHAM def. DMITRI STEPANOV via Submission(R1)
+- JACK NILSON def. SAEED HOSSEINI via KO/TKO(R1)
+- VITOR BELFORT def. DAVID ABBOTT via KO/TKO(R1)
+- GUY MEZGER def. CHRISTOPHE LENINGER via Decision - Unanimous(R2)
+- ENSON INOUE def. ROYCE ALGER via Submission(R1)
+- GUY MEZGER def. TITO ORTIZ via Submission(R1)

@@ -1,0 +1,11 @@
+Fighter: JAMES HEAD
+  Date of Birth: 1984-02-09
+  Career record: 5
+  First fight: 2011-06-11
+  Last fight: 2013-08-28
+
+Career Statistics:
+- Significant Strikes Landed :101
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :2

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Thompson vs. Till
+    Date: May 27, 2018
+    Location: Liverpool, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: CLAUDIO SILVA defeated NORDINE TALEB via Submission  
+  at 4:31 of round 1
+  Key stats:
+  - CLAUDIO SILVA landed 18 significant strikes
+  - NORDINE TALEB landed 6 significant strikes
+  - Knockdowns: CLAUDIO SILVA 0,  NORDINE TALEB 0
+  - Takedowns: CLAUDIO SILVA 1,  NORDINE TALEB 1
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Gaethje
+    Date: April 14, 2018
+    Location: Glendale, Arizona, USA
+    Weight Class: Welterweight
+    
+
+    Result: MUSLIM SALIKHOV defeated RICKY RAINEY via KO/TKO  
+  at 4:12 of round 2
+  Key stats:
+  - MUSLIM SALIKHOV landed 25 significant strikes
+  - RICKY RAINEY landed 19 significant strikes
+  - Knockdowns: MUSLIM SALIKHOV 1,  RICKY RAINEY 0
+  - Takedowns: MUSLIM SALIKHOV 0,  RICKY RAINEY 0

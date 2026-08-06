@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Smith vs. Rakic
+    Date : August 29, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Middleweight, Welterweight, Women's Strawweight, Light Heavyweight, Featherweight, Women's Flyweight
+
+    Fight Results:
+  - SEAN BRADY def. CHRISTIAN AGUILERA via Submission(R2)
+- NEIL MAGNY def. ROBBIE LAWLER via Decision - Unanimous(R3)
+- ALEXA GRASSO def. JI YEON KIM via Decision - Unanimous(R3)
+- IMPA KASANGANAY def. MAKI PITOLO via Decision - Unanimous(R3)
+- POLYANA VIANA def. EMILY WHITMIRE via Submission(R1)
+- MALLORY MARTIN def. HANNAH CIFERS via Submission(R2)
+- RICARDO LAMAS def. BILL ALGEO via Decision - Unanimous(R3)
+- ZAK CUMMINGS def. ALESSIO DI CHIRICO via Decision - Unanimous(R3)
+- ALEKSANDAR RAKIC def. ANTHONY SMITH via Decision - Unanimous(R3)
+- ALEX CACERES def. AUSTIN SPRINGER via Submission(R1)

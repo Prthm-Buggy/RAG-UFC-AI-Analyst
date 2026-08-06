@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Oezdemir vs. Smith
+    Date: October 27, 2018
+    Location: Moncton, New Brunswick, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: GIAN VILLANTE defeated ED HERMAN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - GIAN VILLANTE landed 81 significant strikes
+  - ED HERMAN landed 84 significant strikes
+  - Knockdowns: GIAN VILLANTE 0,  ED HERMAN 0
+  - Takedowns: GIAN VILLANTE 0,  ED HERMAN 0

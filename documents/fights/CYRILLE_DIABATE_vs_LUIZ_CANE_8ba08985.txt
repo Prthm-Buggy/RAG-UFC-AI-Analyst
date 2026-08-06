@@ -1,0 +1,13 @@
+Event: UFC 114: Rampage vs Evans
+    Date: May 29, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CYRILLE DIABATE defeated LUIZ CANE via KO/TKO  
+  at 2:13 of round 1
+  Key stats:
+  - CYRILLE DIABATE landed 17 significant strikes
+  - LUIZ CANE landed 4 significant strikes
+  - Knockdowns: CYRILLE DIABATE 1,  LUIZ CANE 1
+  - Takedowns: CYRILLE DIABATE 0,  LUIZ CANE 0

@@ -1,0 +1,13 @@
+Event: UFC 27: Ultimate Bad Boyz
+    Date: September 22, 2000
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: JEREMY HORN defeated EUGENE JACKSON via Submission  
+  at 4:32 of round 1
+  Key stats:
+  - JEREMY HORN landed 2 significant strikes
+  - EUGENE JACKSON landed 2 significant strikes
+  - Knockdowns: JEREMY HORN 0,  EUGENE JACKSON 0
+  - Takedowns: JEREMY HORN 1,  EUGENE JACKSON 0

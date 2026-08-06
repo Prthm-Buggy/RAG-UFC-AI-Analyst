@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Walker vs. Hill
+    Date: February 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DAVID ONAMA defeated GABRIEL BENITEZ via KO/TKO  
+  at 4:24 of round 1
+  Key stats:
+  - DAVID ONAMA landed 36 significant strikes
+  - GABRIEL BENITEZ landed 46 significant strikes
+  - Knockdowns: DAVID ONAMA 1,  GABRIEL BENITEZ 0
+  - Takedowns: DAVID ONAMA 0,  GABRIEL BENITEZ 0
+  Bonus: perf

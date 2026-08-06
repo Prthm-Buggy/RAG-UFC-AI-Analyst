@@ -1,0 +1,14 @@
+Event: UFC 273: Volkanovski vs. The Korean Zombie
+    Date: April 09, 2022
+    Location: Jacksonville, Florida, USA
+    Weight Class: Featherweight
+    
+
+    Result: ALEXANDER VOLKANOVSKI defeated CHAN SUNG JUNG via KO/TKO  
+  at 0:45 of round 4
+  Key stats:
+  - ALEXANDER VOLKANOVSKI landed 138 significant strikes
+  - CHAN SUNG JUNG landed 48 significant strikes
+  - Knockdowns: ALEXANDER VOLKANOVSKI 1,  CHAN SUNG JUNG 0
+  - Takedowns: ALEXANDER VOLKANOVSKI 4,  CHAN SUNG JUNG 0
+  Bonus: belt

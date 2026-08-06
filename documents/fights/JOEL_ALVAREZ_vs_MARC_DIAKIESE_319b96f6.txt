@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Aspinall vs. Tybura
+    Date: July 22, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: JOEL ALVAREZ defeated MARC DIAKIESE via Submission  
+  at 4:26 of round 2
+  Key stats:
+  - JOEL ALVAREZ landed 42 significant strikes
+  - MARC DIAKIESE landed 20 significant strikes
+  - Knockdowns: JOEL ALVAREZ 0,  MARC DIAKIESE 0
+  - Takedowns: JOEL ALVAREZ 0,  MARC DIAKIESE 2

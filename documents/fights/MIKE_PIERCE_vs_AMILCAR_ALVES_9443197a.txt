@@ -1,0 +1,13 @@
+Event: UFC 118: Edgar vs Penn 2
+    Date: August 28, 2010
+    Location: Boston, Massachusetts, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PIERCE defeated AMILCAR ALVES via Submission  
+  at 3:11 of round 3
+  Key stats:
+  - MIKE PIERCE landed 31 significant strikes
+  - AMILCAR ALVES landed 4 significant strikes
+  - Knockdowns: MIKE PIERCE 0,  AMILCAR ALVES 0
+  - Takedowns: MIKE PIERCE 4,  AMILCAR ALVES 0

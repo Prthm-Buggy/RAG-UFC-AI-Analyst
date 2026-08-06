@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tybura vs. Spivac 2
+    Date: August 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TOSHIOMI KAZAMA defeated CHARALAMPOS GRIGORIOU via Submission  
+  at 1:55 of round 2
+  Key stats:
+  - TOSHIOMI KAZAMA landed 2 significant strikes
+  - CHARALAMPOS GRIGORIOU landed 26 significant strikes
+  - Knockdowns: TOSHIOMI KAZAMA 0,  CHARALAMPOS GRIGORIOU 1
+  - Takedowns: TOSHIOMI KAZAMA 1,  CHARALAMPOS GRIGORIOU 0
+  Bonus: perf

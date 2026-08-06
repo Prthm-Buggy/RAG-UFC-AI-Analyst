@@ -1,0 +1,21 @@
+Event : UFC 286: Edwards vs. Usman 3
+    Date : March 18, 2023
+    Location: London, England, United Kingdom
+    Number of Fights: 14
+    Weight Classes: Lightweight, Welterweight, Middleweight, Featherweight, Flyweight, Women's Flyweight
+
+    Fight Results:
+  - JENNIFER MAIA def. CASEY O'NEILL via Decision - Unanimous(R3)
+- CHRIS DUNCAN def. OMAR MORALES via Decision - Split(R3)
+- YANAL ASHMOUZ def. SAM PATTERSON via KO/TKO(R1)
+- MUHAMMAD MOKAEV def. JAFEL FILHO via Submission(R3)
+- JUSTIN GAETHJE def. RAFAEL FIZIEV via Decision - Majority(R3)
+- CHRISTIAN LEROY DUNCAN def. DUSKO TODOROVIC via KO/TKO(R1)
+- VERONICA HARDY def. JULIANA MILLER via Decision - Unanimous(R3)
+- LEON EDWARDS def. KAMARU USMAN via Decision - Majority(R5)
+- JOANNE WOOD def. LUANA CAROLINA via Decision - Split(R3)
+- JAKE HADLEY def. MALCOLM GORDON via KO/TKO(R1)
+- MARVIN VETTORI def. ROMAN DOLIDZE via Decision - Unanimous(R3)
+- JACK SHORE def. MAKWAN AMIRKHANI via Submission(R2)
+- GUNNAR NELSON def. BRYAN BARBERENA via Submission(R1)
+- LERONE MURPHY def. GABRIEL SANTOS via Decision - Split(R3)

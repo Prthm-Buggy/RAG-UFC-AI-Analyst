@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gustafsson vs. Teixeira
+    Date: May 28, 2017
+    Location: Stockholm, Sweden
+    Weight Class: Welterweight
+    
+
+    Result: NORDINE TALEB defeated OLIVER ENKAMP via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NORDINE TALEB landed 57 significant strikes
+  - OLIVER ENKAMP landed 34 significant strikes
+  - Knockdowns: NORDINE TALEB 0,  OLIVER ENKAMP 0
+  - Takedowns: NORDINE TALEB 2,  OLIVER ENKAMP 1

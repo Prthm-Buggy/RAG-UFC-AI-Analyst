@@ -1,0 +1,13 @@
+Event: UFC 2: No Way Out
+    Date: March 11, 1994
+    Location: Denver, Colorado, USA
+    Weight Class: Open Weight
+    
+
+    Result: PATRICK SMITH defeated SCOTT MORRIS via KO/TKO  
+  at 0:30 of round 1
+  Key stats:
+  - PATRICK SMITH landed 13 significant strikes
+  - SCOTT MORRIS landed 0 significant strikes
+  - Knockdowns: PATRICK SMITH 0,  SCOTT MORRIS 0
+  - Takedowns: PATRICK SMITH 0,  SCOTT MORRIS 0

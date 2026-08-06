@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Whittaker vs. Brunson
+    Date : November 26, 2016
+    Location: Melbourne, Victoria, Australia
+    Number of Fights: 13
+    Weight Classes: Light Heavyweight, Middleweight, Welterweight, Lightweight, Flyweight, Women's Strawweight, Featherweight
+
+    Fight Results:
+  - JONATHAN MEUNIER def. RICHARD WALSH via Decision - Unanimous(R3)
+- ANDREW HOLBROOK def. JAKE MATTHEWS via Decision - Split(R3)
+- MARLON VERA def. GUANGYOU NING via Decision - Unanimous(R3)
+- ALEXANDER VOLKANOVSKI def. YUSUKE KASUYA via KO/TKO(R2)
+- ROBERT WHITTAKER def. DEREK BRUNSON via KO/TKO(R1)
+- JENEL LAUSA def. YAO ZHIKUI via Decision - Unanimous(R3)
+- DANIELLE TAYLOR def. SEO HEE HAM via Decision - Split(R3)
+- TYSON PEDRO def. KHALIL ROUNTREE JR. via Submission(R1)
+- OMARI AKHMEDOV def. KYLE NOKE via Decision - Unanimous(R3)
+- DAMIEN BROWN def. JON TUCK via Decision - Split(R3)
+- JASON KNIGHT def. DAN HOOKER via Decision - Unanimous(R3)
+- DANIEL KELLY def. CHRIS CAMOZZI via Decision - Unanimous(R3)
+- BEN NGUYEN def. GEANE HERRERA via Decision - Unanimous(R3)

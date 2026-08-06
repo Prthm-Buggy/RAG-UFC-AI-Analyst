@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Nurmagomedov
+    Date: August 03, 2024
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: JOEL ALVAREZ defeated ELVES BRENER via KO/TKO  
+  at 3:36 of round 3
+  Key stats:
+  - JOEL ALVAREZ landed 95 significant strikes
+  - ELVES BRENER landed 45 significant strikes
+  - Knockdowns: JOEL ALVAREZ 1,  ELVES BRENER 0
+  - Takedowns: JOEL ALVAREZ 0,  ELVES BRENER 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event : UFC 19: Ultimate Young Guns
+    Date : March 05, 1999
+    Location: Bay St. Louis, Mississippi, USA
+    Number of Fights: 7
+    Weight Classes: Heavyweight, Middleweight
+
+    Fight Results:
+  - TITO ORTIZ def. GUY MEZGER via KO/TKO(R1)
+- GARY GOODRIDGE def. ANDRE ROBERTS via KO/TKO(R1)
+- KEVIN RANDLEMAN def. MAURICE SMITH via Decision - Unanimous(R2)
+- JEREMY HORN def. CHUCK LIDDELL via Submission(R1)
+- SIONE LATU def. JOEY ROBERTS via TKO - Doctor's Stoppage(R1)
+- PETE WILLIAMS def. JASON GODSEY via Submission(R1)
+- EVAN TANNER def. VALERI IGNATOV via KO/TKO(R1)

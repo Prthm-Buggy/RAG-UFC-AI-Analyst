@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rockhold vs Philippou
+    Date: January 15, 2014
+    Location: Duluth, Georgia, USA
+    Weight Class: Featherweight
+    
+
+    Result: COLE MILLER defeated SAM SICILIA via Submission  
+  at 1:54 of round 2
+  Key stats:
+  - COLE MILLER landed 38 significant strikes
+  - SAM SICILIA landed 14 significant strikes
+  - Knockdowns: COLE MILLER 1,  SAM SICILIA 0
+  - Takedowns: COLE MILLER 0,  SAM SICILIA 0
+  Bonus: sub

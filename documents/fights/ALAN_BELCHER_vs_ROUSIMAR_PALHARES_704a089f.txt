@@ -1,0 +1,13 @@
+Event: UFC on FOX: Diaz vs Miller
+    Date: May 05, 2012
+    Location: East Rutherford, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALAN BELCHER defeated ROUSIMAR PALHARES via KO/TKO  
+  at 4:18 of round 1
+  Key stats:
+  - ALAN BELCHER landed 20 significant strikes
+  - ROUSIMAR PALHARES landed 0 significant strikes
+  - Knockdowns: ALAN BELCHER 0,  ROUSIMAR PALHARES 0
+  - Takedowns: ALAN BELCHER 0,  ROUSIMAR PALHARES 1

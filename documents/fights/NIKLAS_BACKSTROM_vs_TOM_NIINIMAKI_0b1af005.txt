@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Munoz vs Mousasi
+    Date: May 31, 2014
+    Location: Berlin, Germany
+    Weight Class: Featherweight
+    
+
+    Result: NIKLAS BACKSTROM defeated TOM NIINIMAKI via Submission  
+  at 4:15 of round 1
+  Key stats:
+  - NIKLAS BACKSTROM landed 5 significant strikes
+  - TOM NIINIMAKI landed 7 significant strikes
+  - Knockdowns: NIKLAS BACKSTROM 0,  TOM NIINIMAKI 0
+  - Takedowns: NIKLAS BACKSTROM 0,  TOM NIINIMAKI 2
+  Bonus: perf

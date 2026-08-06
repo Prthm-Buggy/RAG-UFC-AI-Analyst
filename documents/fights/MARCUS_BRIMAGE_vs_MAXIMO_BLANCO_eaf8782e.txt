@@ -1,0 +1,13 @@
+Event: UFC 145: Jones vs Evans
+    Date: April 21, 2012
+    Location: Atlanta, Georgia, USA
+    Weight Class: Featherweight
+    
+
+    Result: MARCUS BRIMAGE defeated MAXIMO BLANCO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MARCUS BRIMAGE landed 24 significant strikes
+  - MAXIMO BLANCO landed 18 significant strikes
+  - Knockdowns: MARCUS BRIMAGE 0,  MAXIMO BLANCO 0
+  - Takedowns: MARCUS BRIMAGE 0,  MAXIMO BLANCO 0

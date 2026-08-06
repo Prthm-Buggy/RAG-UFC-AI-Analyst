@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Dillashaw
+    Date: July 24, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ADRIAN YANEZ defeated RANDY COSTA via KO/TKO  
+  at 2:11 of round 2
+  Key stats:
+  - ADRIAN YANEZ landed 64 significant strikes
+  - RANDY COSTA landed 69 significant strikes
+  - Knockdowns: ADRIAN YANEZ 1,  RANDY COSTA 0
+  - Takedowns: ADRIAN YANEZ 0,  RANDY COSTA 0
+  Bonus: perf

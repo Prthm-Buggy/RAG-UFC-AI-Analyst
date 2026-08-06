@@ -1,0 +1,11 @@
+Fighter: RODOLFO VIEIRA
+  Date of Birth: 1989-09-25
+  Career record: 11
+  First fight: 2019-08-10
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :394
+- Total takedowns landed :22
+- Knockdowns :1
+- Submission Attempts :6

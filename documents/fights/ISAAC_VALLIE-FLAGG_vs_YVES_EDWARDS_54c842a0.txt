@@ -1,0 +1,13 @@
+Event: UFC 156: Aldo vs Edgar
+    Date: February 02, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ISAAC VALLIE-FLAGG defeated YVES EDWARDS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ISAAC VALLIE-FLAGG landed 76 significant strikes
+  - YVES EDWARDS landed 58 significant strikes
+  - Knockdowns: ISAAC VALLIE-FLAGG 0,  YVES EDWARDS 0
+  - Takedowns: ISAAC VALLIE-FLAGG 0,  YVES EDWARDS 1

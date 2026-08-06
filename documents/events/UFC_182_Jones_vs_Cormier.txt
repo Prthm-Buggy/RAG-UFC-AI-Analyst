@@ -1,0 +1,17 @@
+Event : UFC 182: Jones vs Cormier
+    Date : January 03, 2015
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Bantamweight, Light Heavyweight, Lightweight, Flyweight, Middleweight, Welterweight, Women's Bantamweight
+
+    Fight Results:
+  - CODY GARBRANDT def. MARCUS BRIMAGE via KO/TKO(R3)
+- JON JONES def. DANIEL CORMIER via Decision - Unanimous(R5)
+- MARION RENEAU def. ALEXIS DUFRESNE via Decision - Unanimous(R3)
+- KYOJI HORIGUCHI def. LOUIS GAUDINOT via Decision - Unanimous(R3)
+- DONALD CERRONE def. MYLES JURY via Decision - Unanimous(R3)
+- EVAN DUNHAM def. RODRIGO DAMM via Decision - Unanimous(R3)
+- BRAD TAVARES def. NATE MARQUARDT via Decision - Unanimous(R3)
+- PAUL FELDER def. DANNY CASTILLO via KO/TKO(R2)
+- SHAWN JORDAN def. JARED CANNONIER via KO/TKO(R1)
+- OMARI AKHMEDOV def. MATS NILSSON via Decision - Unanimous(R3)

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McDonald vs. Lineker
+    Date: July 13, 2016
+    Location: Sioux Falls, South Dakota, USA
+    Weight Class: Middleweight
+    
+
+    Result: SAM ALVEY defeated ERIC SPICELY via Submission  
+  at 2:43 of round 1
+  Key stats:
+  - SAM ALVEY landed 8 significant strikes
+  - ERIC SPICELY landed 7 significant strikes
+  - Knockdowns: SAM ALVEY 0,  ERIC SPICELY 0
+  - Takedowns: SAM ALVEY 0,  ERIC SPICELY 0

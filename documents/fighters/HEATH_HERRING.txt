@@ -1,0 +1,11 @@
+Fighter: HEATH HERRING
+  Date of Birth: 1978-03-02
+  Career record: 5
+  First fight: 2007-01-25
+  Last fight: 2008-08-09
+
+Career Statistics:
+- Significant Strikes Landed :172
+- Total takedowns landed :5
+- Knockdowns :5
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Allen vs. Curtis 2
+    Date: April 06, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRENDAN ALLEN defeated CHRIS CURTIS via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - BRENDAN ALLEN landed 112 significant strikes
+  - CHRIS CURTIS landed 124 significant strikes
+  - Knockdowns: BRENDAN ALLEN 0,  CHRIS CURTIS 0
+  - Takedowns: BRENDAN ALLEN 6,  CHRIS CURTIS 0

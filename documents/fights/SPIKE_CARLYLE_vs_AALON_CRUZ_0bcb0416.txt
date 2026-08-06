@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Benavidez vs. Figueiredo
+    Date: February 29, 2020
+    Location: Norfolk, Virginia, USA
+    Weight Class: Featherweight
+    
+
+    Result: SPIKE CARLYLE defeated AALON CRUZ via KO/TKO  
+  at 1:25 of round 1
+  Key stats:
+  - SPIKE CARLYLE landed 20 significant strikes
+  - AALON CRUZ landed 2 significant strikes
+  - Knockdowns: SPIKE CARLYLE 0,  AALON CRUZ 0
+  - Takedowns: SPIKE CARLYLE 0,  AALON CRUZ 0

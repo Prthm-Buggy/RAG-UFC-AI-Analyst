@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Song
+    Date: September 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DAMON JACKSON defeated PAT SABATINI via KO/TKO  
+  at 1:09 of round 1
+  Key stats:
+  - DAMON JACKSON landed 11 significant strikes
+  - PAT SABATINI landed 1 significant strikes
+  - Knockdowns: DAMON JACKSON 0,  PAT SABATINI 0
+  - Takedowns: DAMON JACKSON 1,  PAT SABATINI 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Lemos
+    Date: November 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: POLYANA VIANA defeated JINH YU FREY via KO/TKO  
+  at 0:47 of round 1
+  Key stats:
+  - POLYANA VIANA landed 11 significant strikes
+  - JINH YU FREY landed 6 significant strikes
+  - Knockdowns: POLYANA VIANA 1,  JINH YU FREY 0
+  - Takedowns: POLYANA VIANA 0,  JINH YU FREY 0
+  Bonus: perf

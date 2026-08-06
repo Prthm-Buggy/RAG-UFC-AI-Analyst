@@ -1,0 +1,13 @@
+Event: UFC 9: Motor City Madness
+    Date: May 17, 1996
+    Location: Detroit, Michigan, USA
+    Weight Class: Open Weight
+    
+
+    Result: RAFAEL CARINO defeated MATT ANDERSEN via KO/TKO  
+  at 5:32 of round 1
+  Key stats:
+  - RAFAEL CARINO landed 8 significant strikes
+  - MATT ANDERSEN landed 0 significant strikes
+  - Knockdowns: RAFAEL CARINO 0,  MATT ANDERSEN 0
+  - Takedowns: RAFAEL CARINO 1,  MATT ANDERSEN 0

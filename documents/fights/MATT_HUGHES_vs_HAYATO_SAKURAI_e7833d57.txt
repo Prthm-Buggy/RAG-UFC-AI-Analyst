@@ -1,0 +1,14 @@
+Event: UFC 36: Worlds Collide
+    Date: March 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT HUGHES defeated HAYATO SAKURAI via KO/TKO  
+  at 3:01 of round 4
+  Key stats:
+  - MATT HUGHES landed 36 significant strikes
+  - HAYATO SAKURAI landed 5 significant strikes
+  - Knockdowns: MATT HUGHES 0,  HAYATO SAKURAI 1
+  - Takedowns: MATT HUGHES 9,  HAYATO SAKURAI 0
+  Bonus: belt

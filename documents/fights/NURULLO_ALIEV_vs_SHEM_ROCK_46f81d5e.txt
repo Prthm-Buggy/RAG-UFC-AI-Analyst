@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tsarukyan vs. Hooker
+    Date: November 22, 2025
+    Location: Doha, Qatar
+    Weight Class: Lightweight
+    
+
+    Result: NURULLO ALIEV defeated SHEM ROCK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NURULLO ALIEV landed 51 significant strikes
+  - SHEM ROCK landed 44 significant strikes
+  - Knockdowns: NURULLO ALIEV 0,  SHEM ROCK 0
+  - Takedowns: NURULLO ALIEV 1,  SHEM ROCK 1

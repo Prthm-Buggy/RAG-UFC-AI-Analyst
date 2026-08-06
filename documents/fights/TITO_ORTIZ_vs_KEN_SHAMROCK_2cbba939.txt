@@ -1,0 +1,14 @@
+Event: Ortiz vs Shamrock 3: The Final Chapter
+    Date: October 10, 2006
+    Location: Hollywood, Florida, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TITO ORTIZ defeated KEN SHAMROCK via KO/TKO  
+  at 2:23 of round 1
+  Key stats:
+  - TITO ORTIZ landed 18 significant strikes
+  - KEN SHAMROCK landed 0 significant strikes
+  - Knockdowns: TITO ORTIZ 0,  KEN SHAMROCK 0
+  - Takedowns: TITO ORTIZ 1,  KEN SHAMROCK 0
+  Bonus: ko

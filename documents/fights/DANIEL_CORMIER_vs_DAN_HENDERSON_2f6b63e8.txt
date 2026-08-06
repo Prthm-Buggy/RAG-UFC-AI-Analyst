@@ -1,0 +1,13 @@
+Event: UFC 173: Barao vs Dillashaw
+    Date: May 24, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DANIEL CORMIER defeated DAN HENDERSON via Submission  
+  at 3:53 of round 3
+  Key stats:
+  - DANIEL CORMIER landed 50 significant strikes
+  - DAN HENDERSON landed 6 significant strikes
+  - Knockdowns: DANIEL CORMIER 0,  DAN HENDERSON 0
+  - Takedowns: DANIEL CORMIER 3,  DAN HENDERSON 0

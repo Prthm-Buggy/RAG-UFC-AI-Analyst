@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Spivac
+    Date: February 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ANSHUL JUBLI defeated JEKA SARAGIH via KO/TKO  
+  at 3:44 of round 2
+  Key stats:
+  - ANSHUL JUBLI landed 38 significant strikes
+  - JEKA SARAGIH landed 14 significant strikes
+  - Knockdowns: ANSHUL JUBLI 0,  JEKA SARAGIH 0
+  - Takedowns: ANSHUL JUBLI 2,  JEKA SARAGIH 0
+  Bonus: belt

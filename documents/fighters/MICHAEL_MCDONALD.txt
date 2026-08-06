@@ -1,0 +1,11 @@
+Fighter: MICHAEL MCDONALD
+  Date of Birth: 1991-01-15
+  Career record: 9
+  First fight: 2011-03-26
+  Last fight: 2016-07-13
+
+Career Statistics:
+- Significant Strikes Landed :216
+- Total takedowns landed :6
+- Knockdowns :5
+- Submission Attempts :7

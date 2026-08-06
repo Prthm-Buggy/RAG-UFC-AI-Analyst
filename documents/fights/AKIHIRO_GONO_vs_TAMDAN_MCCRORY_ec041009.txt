@@ -1,0 +1,14 @@
+Event: UFC 78: Validation
+    Date: November 17, 2007
+    Location: Newark, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: AKIHIRO GONO defeated TAMDAN MCCRORY via Submission  
+  at 3:19 of round 2
+  Key stats:
+  - AKIHIRO GONO landed 27 significant strikes
+  - TAMDAN MCCRORY landed 31 significant strikes
+  - Knockdowns: AKIHIRO GONO 1,  TAMDAN MCCRORY 0
+  - Takedowns: AKIHIRO GONO 1,  TAMDAN MCCRORY 0
+  Bonus: sub

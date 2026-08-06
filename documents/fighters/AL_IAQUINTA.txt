@@ -1,0 +1,11 @@
+Fighter: AL IAQUINTA
+  Date of Birth: 1987-04-30
+  Career record: 15
+  First fight: 2012-06-01
+  Last fight: 2021-11-06
+
+Career Statistics:
+- Significant Strikes Landed :774
+- Total takedowns landed :8
+- Knockdowns :7
+- Submission Attempts :3

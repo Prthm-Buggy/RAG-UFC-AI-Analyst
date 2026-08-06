@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ladd vs. Dumont
+    Date: October 16, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRUNO SILVA defeated ANDREW SANCHEZ via KO/TKO  
+  at 2:35 of round 3
+  Key stats:
+  - BRUNO SILVA landed 70 significant strikes
+  - ANDREW SANCHEZ landed 33 significant strikes
+  - Knockdowns: BRUNO SILVA 0,  ANDREW SANCHEZ 0
+  - Takedowns: BRUNO SILVA 0,  ANDREW SANCHEZ 7
+  Bonus: perf

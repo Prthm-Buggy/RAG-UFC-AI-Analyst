@@ -1,0 +1,14 @@
+Event: UFC 40: Vendetta
+    Date: November 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT HUGHES defeated GIL CASTILLO via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - MATT HUGHES landed 22 significant strikes
+  - GIL CASTILLO landed 1 significant strikes
+  - Knockdowns: MATT HUGHES 0,  GIL CASTILLO 0
+  - Takedowns: MATT HUGHES 1,  GIL CASTILLO 0
+  Bonus: belt

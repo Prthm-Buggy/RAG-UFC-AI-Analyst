@@ -1,0 +1,11 @@
+Fighter: DAVID TERRELL
+  Date of Birth: 1978-01-09
+  Career record: 3
+  First fight: 2004-08-21
+  Last fight: 2006-04-15
+
+Career Statistics:
+- Significant Strikes Landed :19
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :3

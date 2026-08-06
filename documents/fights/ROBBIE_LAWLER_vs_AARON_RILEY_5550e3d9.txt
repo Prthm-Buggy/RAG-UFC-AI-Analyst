@@ -1,0 +1,13 @@
+Event: UFC 37: High Impact
+    Date: May 10, 2002
+    Location: Bossier City, Louisiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: ROBBIE LAWLER defeated AARON RILEY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ROBBIE LAWLER landed 64 significant strikes
+  - AARON RILEY landed 55 significant strikes
+  - Knockdowns: ROBBIE LAWLER 1,  AARON RILEY 0
+  - Takedowns: ROBBIE LAWLER 6,  AARON RILEY 0

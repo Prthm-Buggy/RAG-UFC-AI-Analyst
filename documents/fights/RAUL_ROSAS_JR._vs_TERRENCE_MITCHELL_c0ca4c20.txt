@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Grasso vs. Shevchenko 2
+    Date: September 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RAUL ROSAS JR. defeated TERRENCE MITCHELL via KO/TKO  
+  at 0:54 of round 1
+  Key stats:
+  - RAUL ROSAS JR. landed 18 significant strikes
+  - TERRENCE MITCHELL landed 6 significant strikes
+  - Knockdowns: RAUL ROSAS JR. 1,  TERRENCE MITCHELL 0
+  - Takedowns: RAUL ROSAS JR. 0,  TERRENCE MITCHELL 0
+  Bonus: perf

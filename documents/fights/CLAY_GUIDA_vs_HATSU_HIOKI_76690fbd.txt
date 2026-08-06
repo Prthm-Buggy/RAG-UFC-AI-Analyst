@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs Dodson
+    Date: January 26, 2013
+    Location: Chicago, Illinois, USA
+    Weight Class: Featherweight
+    
+
+    Result: CLAY GUIDA defeated HATSU HIOKI via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CLAY GUIDA landed 26 significant strikes
+  - HATSU HIOKI landed 41 significant strikes
+  - Knockdowns: CLAY GUIDA 0,  HATSU HIOKI 0
+  - Takedowns: CLAY GUIDA 3,  HATSU HIOKI 0

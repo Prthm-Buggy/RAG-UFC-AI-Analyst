@@ -1,0 +1,11 @@
+Fighter: BRAD BLACKBURN
+  Date of Birth: 1977-05-25
+  Career record: 5
+  First fight: 2008-07-19
+  Last fight: 2010-04-10
+
+Career Statistics:
+- Significant Strikes Landed :294
+- Total takedowns landed :4
+- Knockdowns :5
+- Submission Attempts :3

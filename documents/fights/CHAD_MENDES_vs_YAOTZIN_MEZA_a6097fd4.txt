@@ -1,0 +1,13 @@
+Event: UFC on FX: Sotiropoulos vs Pearson
+    Date: December 14, 2012
+    Location: Gold Coast, Queensland, Australia
+    Weight Class: Featherweight
+    
+
+    Result: CHAD MENDES defeated YAOTZIN MEZA via KO/TKO  
+  at 1:55 of round 1
+  Key stats:
+  - CHAD MENDES landed 10 significant strikes
+  - YAOTZIN MEZA landed 2 significant strikes
+  - Knockdowns: CHAD MENDES 1,  YAOTZIN MEZA 0
+  - Takedowns: CHAD MENDES 0,  YAOTZIN MEZA 0

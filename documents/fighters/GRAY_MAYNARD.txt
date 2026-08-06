@@ -1,0 +1,11 @@
+Fighter: GRAY MAYNARD
+  Date of Birth: 1979-05-09
+  Career record: 18
+  First fight: 2007-09-19
+  Last fight: 2018-10-06
+
+Career Statistics:
+- Significant Strikes Landed :402
+- Total takedowns landed :45
+- Knockdowns :3
+- Submission Attempts :10

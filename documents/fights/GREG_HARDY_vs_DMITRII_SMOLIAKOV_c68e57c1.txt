@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs. Hermansson
+    Date: April 27, 2019
+    Location: Sunrise, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: GREG HARDY defeated DMITRII SMOLIAKOV via KO/TKO  
+  at 2:15 of round 1
+  Key stats:
+  - GREG HARDY landed 14 significant strikes
+  - DMITRII SMOLIAKOV landed 1 significant strikes
+  - Knockdowns: GREG HARDY 0,  DMITRII SMOLIAKOV 0
+  - Takedowns: GREG HARDY 0,  DMITRII SMOLIAKOV 0

@@ -1,0 +1,13 @@
+Event: UFC 131: Dos Santos vs Carwin
+    Date: June 11, 2011
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: JOEY BELTRAN defeated AARON ROSA via KO/TKO  
+  at 1:26 of round 3
+  Key stats:
+  - JOEY BELTRAN landed 88 significant strikes
+  - AARON ROSA landed 73 significant strikes
+  - Knockdowns: JOEY BELTRAN 0,  AARON ROSA 0
+  - Takedowns: JOEY BELTRAN 1,  AARON ROSA 0

@@ -1,0 +1,13 @@
+Event: UFC 272: Covington vs. Masvidal
+    Date: March 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SERGHEI SPIVAC defeated GREG HARDY via KO/TKO  
+  at 2:16 of round 1
+  Key stats:
+  - SERGHEI SPIVAC landed 14 significant strikes
+  - GREG HARDY landed 7 significant strikes
+  - Knockdowns: SERGHEI SPIVAC 0,  GREG HARDY 0
+  - Takedowns: SERGHEI SPIVAC 3,  GREG HARDY 0

@@ -1,0 +1,11 @@
+Fighter: DEVIN POWELL
+  Date of Birth: 1988-03-01
+  Career record: 4
+  First fight: 2017-01-15
+  Last fight: 2018-11-17
+
+Career Statistics:
+- Significant Strikes Landed :135
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :2

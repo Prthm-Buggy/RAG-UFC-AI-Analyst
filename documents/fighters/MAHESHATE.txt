@@ -1,0 +1,11 @@
+Fighter: MAHESHATE
+  Date of Birth: 1999-12-01
+  Career record: 6
+  First fight: 2022-06-11
+  Last fight: 2025-08-23
+
+Career Statistics:
+- Significant Strikes Landed :283
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

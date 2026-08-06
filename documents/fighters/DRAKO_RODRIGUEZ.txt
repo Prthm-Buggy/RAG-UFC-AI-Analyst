@@ -1,0 +1,11 @@
+Fighter: DRAKO RODRIGUEZ
+  Date of Birth: 1996-06-16
+  Career record: 2
+  First fight: 2021-02-20
+  Last fight: 2021-08-07
+
+Career Statistics:
+- Significant Strikes Landed :66
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

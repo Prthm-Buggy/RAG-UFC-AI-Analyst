@@ -1,0 +1,14 @@
+Event: UFC 255: Figueiredo vs. Perez
+    Date: November 21, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: DEIVESON FIGUEIREDO defeated ALEX PEREZ via Submission  
+  at 1:57 of round 1
+  Key stats:
+  - DEIVESON FIGUEIREDO landed 5 significant strikes
+  - ALEX PEREZ landed 6 significant strikes
+  - Knockdowns: DEIVESON FIGUEIREDO 0,  ALEX PEREZ 0
+  - Takedowns: DEIVESON FIGUEIREDO 0,  ALEX PEREZ 0
+  Bonus: belt

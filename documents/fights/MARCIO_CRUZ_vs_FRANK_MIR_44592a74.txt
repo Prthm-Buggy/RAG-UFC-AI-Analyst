@@ -1,0 +1,13 @@
+Event: UFC 57: Liddell vs Couture 3
+    Date: February 04, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARCIO CRUZ defeated FRANK MIR via KO/TKO  
+  at 4:10 of round 1
+  Key stats:
+  - MARCIO CRUZ landed 31 significant strikes
+  - FRANK MIR landed 3 significant strikes
+  - Knockdowns: MARCIO CRUZ 0,  FRANK MIR 0
+  - Takedowns: MARCIO CRUZ 1,  FRANK MIR 1

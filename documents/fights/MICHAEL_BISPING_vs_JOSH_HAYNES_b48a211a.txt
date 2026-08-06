@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale
+    Date: June 24, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MICHAEL BISPING defeated JOSH HAYNES via KO/TKO  
+  at 4:14 of round 2
+  Key stats:
+  - MICHAEL BISPING landed 41 significant strikes
+  - JOSH HAYNES landed 8 significant strikes
+  - Knockdowns: MICHAEL BISPING 2,  JOSH HAYNES 0
+  - Takedowns: MICHAEL BISPING 4,  JOSH HAYNES 0
+  Bonus: belt

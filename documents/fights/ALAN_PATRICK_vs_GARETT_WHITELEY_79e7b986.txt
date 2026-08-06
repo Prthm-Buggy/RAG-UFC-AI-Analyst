@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs Shields
+    Date: October 09, 2013
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: ALAN PATRICK defeated GARETT WHITELEY via KO/TKO  
+  at 3:54 of round 1
+  Key stats:
+  - ALAN PATRICK landed 16 significant strikes
+  - GARETT WHITELEY landed 7 significant strikes
+  - Knockdowns: ALAN PATRICK 1,  GARETT WHITELEY 0
+  - Takedowns: ALAN PATRICK 1,  GARETT WHITELEY 0

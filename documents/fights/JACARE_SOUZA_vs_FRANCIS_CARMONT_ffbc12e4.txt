@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Mousasi
+    Date: February 15, 2014
+    Location: Jaragua do Sul, Santa Catarina, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: JACARE SOUZA defeated FRANCIS CARMONT via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JACARE SOUZA landed 16 significant strikes
+  - FRANCIS CARMONT landed 19 significant strikes
+  - Knockdowns: JACARE SOUZA 0,  FRANCIS CARMONT 0
+  - Takedowns: JACARE SOUZA 2,  FRANCIS CARMONT 0

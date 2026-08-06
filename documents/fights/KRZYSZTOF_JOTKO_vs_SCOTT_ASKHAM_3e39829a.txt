@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holohan vs Smolka
+    Date: October 24, 2015
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Middleweight
+    
+
+    Result: KRZYSZTOF JOTKO defeated SCOTT ASKHAM via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - KRZYSZTOF JOTKO landed 38 significant strikes
+  - SCOTT ASKHAM landed 22 significant strikes
+  - Knockdowns: KRZYSZTOF JOTKO 0,  SCOTT ASKHAM 0
+  - Takedowns: KRZYSZTOF JOTKO 2,  SCOTT ASKHAM 0

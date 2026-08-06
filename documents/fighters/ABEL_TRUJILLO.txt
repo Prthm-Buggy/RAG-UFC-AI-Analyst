@@ -1,0 +1,11 @@
+Fighter: ABEL TRUJILLO
+  Date of Birth: 1983-09-18
+  Career record: 10
+  First fight: 2012-12-08
+  Last fight: 2017-12-16
+
+Career Statistics:
+- Significant Strikes Landed :223
+- Total takedowns landed :14
+- Knockdowns :3
+- Submission Attempts :3

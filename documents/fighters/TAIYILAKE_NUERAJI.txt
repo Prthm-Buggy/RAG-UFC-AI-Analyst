@@ -1,0 +1,11 @@
+Fighter: TAIYILAKE NUERAJI
+  Date of Birth: 2001-01-12
+  Career record: 1
+  First fight: 2025-08-23
+  Last fight: 2025-08-23
+
+Career Statistics:
+- Significant Strikes Landed :27
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

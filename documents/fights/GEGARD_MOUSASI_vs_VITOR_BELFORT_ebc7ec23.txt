@@ -1,0 +1,13 @@
+Event: UFC 204: Bisping vs. Henderson
+    Date: October 08, 2016
+    Location: Manchester, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: GEGARD MOUSASI defeated VITOR BELFORT via KO/TKO  
+  at 2:43 of round 2
+  Key stats:
+  - GEGARD MOUSASI landed 57 significant strikes
+  - VITOR BELFORT landed 8 significant strikes
+  - Knockdowns: GEGARD MOUSASI 0,  VITOR BELFORT 0
+  - Takedowns: GEGARD MOUSASI 1,  VITOR BELFORT 0

@@ -1,0 +1,11 @@
+Fighter: CHRIS SPANG
+  Date of Birth: 1987-11-26
+  Career record: 1
+  First fight: 2013-04-06
+  Last fight: 2013-04-06
+
+Career Statistics:
+- Significant Strikes Landed :5
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

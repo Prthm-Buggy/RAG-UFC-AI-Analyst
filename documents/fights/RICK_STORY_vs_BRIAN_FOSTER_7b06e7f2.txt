@@ -1,0 +1,14 @@
+Event: UFC 103: Franklin vs Belfort
+    Date: September 19, 2009
+    Location: Dallas, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: RICK STORY defeated BRIAN FOSTER via Submission  
+  at 1:09 of round 2
+  Key stats:
+  - RICK STORY landed 18 significant strikes
+  - BRIAN FOSTER landed 6 significant strikes
+  - Knockdowns: RICK STORY 0,  BRIAN FOSTER 0
+  - Takedowns: RICK STORY 3,  BRIAN FOSTER 0
+  Bonus: fight

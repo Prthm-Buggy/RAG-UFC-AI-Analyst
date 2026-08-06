@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Teixeira
+    Date: May 13, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: SIJARA EUBANKS defeated SARAH MORAS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SIJARA EUBANKS landed 85 significant strikes
+  - SARAH MORAS landed 44 significant strikes
+  - Knockdowns: SIJARA EUBANKS 0,  SARAH MORAS 0
+  - Takedowns: SIJARA EUBANKS 2,  SARAH MORAS 0

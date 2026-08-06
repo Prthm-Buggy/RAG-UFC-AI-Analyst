@@ -1,0 +1,18 @@
+Event : UFC 180: Werdum vs Hunt
+    Date : November 15, 2014
+    Location: Mexico City, Distrito Federal, Mexico
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Bantamweight, Featherweight, Welterweight, Women's Bantamweight
+
+    Fight Results:
+  - KELVIN GASTELUM def. JAKE ELLENBERGER via Submission(R1)
+- HECTOR URBINA def. EDGAR GARCIA via Submission(R1)
+- JESSICA EYE def. LESLIE SMITH via TKO - Doctor's Stoppage(R2)
+- ALEJANDRO PEREZ def. JOSE QUINONEZ via Decision - Unanimous(R3)
+- RICARDO LAMAS def. DENNIS BERMUDEZ via Submission(R1)
+- FABRICIO WERDUM def. MARK HUNT via KO/TKO(R2)
+- MARCO BELTRAN def. MARLON VERA via Decision - Unanimous(R3)
+- HENRY BRIONES def. GUIDO CANNETTI via Submission(R2)
+- YAIR RODRIGUEZ def. LEONARDO MORALES via Decision - Unanimous(R3)
+- GABRIEL BENITEZ def. HUMBERTO BROWN MORRISON via Submission(R3)
+- AUGUSTO MONTANO def. CHRIS HEATHERLY via KO/TKO(R1)

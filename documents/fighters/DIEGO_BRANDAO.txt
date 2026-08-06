@@ -1,0 +1,11 @@
+Fighter: DIEGO BRANDAO
+  Date of Birth: 1987-05-27
+  Career record: 10
+  First fight: 2011-12-03
+  Last fight: 2016-01-02
+
+Career Statistics:
+- Significant Strikes Landed :233
+- Total takedowns landed :17
+- Knockdowns :3
+- Submission Attempts :3

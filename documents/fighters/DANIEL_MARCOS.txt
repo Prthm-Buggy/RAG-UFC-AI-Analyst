@@ -1,0 +1,11 @@
+Fighter: DANIEL MARCOS
+  Date of Birth: 1993-03-07
+  Career record: 6
+  First fight: 2023-01-21
+  Last fight: 2025-11-08
+
+Career Statistics:
+- Significant Strikes Landed :329
+- Total takedowns landed :9
+- Knockdowns :2
+- Submission Attempts :1

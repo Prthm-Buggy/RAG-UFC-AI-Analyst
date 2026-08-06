@@ -1,0 +1,14 @@
+Event: UFC 250: Nunes vs. Spencer
+    Date: June 06, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SEAN O'MALLEY defeated EDDIE WINELAND via KO/TKO  
+  at 1:54 of round 1
+  Key stats:
+  - SEAN O'MALLEY landed 13 significant strikes
+  - EDDIE WINELAND landed 4 significant strikes
+  - Knockdowns: SEAN O'MALLEY 1,  EDDIE WINELAND 0
+  - Takedowns: SEAN O'MALLEY 0,  EDDIE WINELAND 0
+  Bonus: perf

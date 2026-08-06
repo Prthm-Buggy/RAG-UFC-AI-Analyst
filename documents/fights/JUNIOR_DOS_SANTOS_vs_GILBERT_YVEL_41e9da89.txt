@@ -1,0 +1,13 @@
+Event: UFC 108: Evans vs Silva
+    Date: January 02, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR DOS SANTOS defeated GILBERT YVEL via KO/TKO  
+  at 2:07 of round 1
+  Key stats:
+  - JUNIOR DOS SANTOS landed 14 significant strikes
+  - GILBERT YVEL landed 3 significant strikes
+  - Knockdowns: JUNIOR DOS SANTOS 1,  GILBERT YVEL 0
+  - Takedowns: JUNIOR DOS SANTOS 0,  GILBERT YVEL 0

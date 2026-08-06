@@ -1,0 +1,13 @@
+Event: UFC 89: Bisping vs Leben
+    Date: October 18, 2008
+    Location: Birmingham, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: PER EKLUND defeated SAMY SCHIAVO via Submission  
+  at 1:47 of round 3
+  Key stats:
+  - PER EKLUND landed 31 significant strikes
+  - SAMY SCHIAVO landed 23 significant strikes
+  - Knockdowns: PER EKLUND 0,  SAMY SCHIAVO 0
+  - Takedowns: PER EKLUND 1,  SAMY SCHIAVO 1

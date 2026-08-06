@@ -1,0 +1,11 @@
+Fighter: REGINA TARIN
+  Date of Birth: 2004-10-19
+  Career record: 1
+  First fight: 2026-02-28
+  Last fight: 2026-02-28
+
+Career Statistics:
+- Significant Strikes Landed :114
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

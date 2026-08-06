@@ -1,0 +1,11 @@
+Fighter: FLAVIO LUIZ MOURA
+  Date of Birth: 1976-01-26
+  Career record: 1
+  First fight: 1999-07-16
+  Last fight: 1999-07-16
+
+Career Statistics:
+- Significant Strikes Landed :1
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

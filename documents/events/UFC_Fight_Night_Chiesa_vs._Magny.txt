@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Chiesa vs. Magny
+    Date : January 20, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 14
+    Weight Classes: Welterweight, Light Heavyweight, Flyweight, Middleweight, Lightweight, Featherweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - UMAR NURMAGOMEDOV def. SERGEY MOROZOV via Submission(R2)
+- MANON FIOROT def. VICTORIA LEONARDO via KO/TKO(R2)
+- MIKE DAVIS def. MASON JONES via Decision - Unanimous(R3)
+- WARLLEY ALVES def. MOUNIR LAZZEZ via KO/TKO(R1)
+- OMARI AKHMEDOV def. TOM BREESE via Submission(R2)
+- MATT SCHNELL def. TYSON NAM via Decision - Split(R3)
+- VIVIANE ARAUJO def. ROXANNE MODAFFERI via Decision - Unanimous(R3)
+- LERONE MURPHY def. DOUGLAS SILVA DE ANDRADE via Decision - Unanimous(R3)
+- IKE VILLANUEVA def. VINICIUS MOREIRA via KO/TKO(R2)
+- DALCHA LUNGIAMBULA def. MARKUS PEREZ via Decision - Unanimous(R3)
+- MICHAEL CHIESA def. NEIL MAGNY via Decision - Unanimous(R5)
+- SUMUDAERJI def. ZARRUKH ADASHEV via Decision - Unanimous(R3)
+- RICKY SIMON def. GAETANO PIRRELLO via Submission(R2)
+- FRANCISCO FIGUEIREDO def. JEROME RIVERA via Decision - Unanimous(R3)

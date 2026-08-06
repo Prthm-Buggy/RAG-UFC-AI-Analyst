@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Bueno Silva
+    Date: July 15, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NAZIM SADYKHOV defeated TERRANCE MCKINNEY via Submission  
+  at 1:07 of round 2
+  Key stats:
+  - NAZIM SADYKHOV landed 8 significant strikes
+  - TERRANCE MCKINNEY landed 6 significant strikes
+  - Knockdowns: NAZIM SADYKHOV 0,  TERRANCE MCKINNEY 0
+  - Takedowns: NAZIM SADYKHOV 0,  TERRANCE MCKINNEY 2

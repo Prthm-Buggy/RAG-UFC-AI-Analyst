@@ -1,0 +1,11 @@
+Fighter: AARON WILKINSON
+  Date of Birth: 1987-01-31
+  Career record: 1
+  First fight: 2010-12-04
+  Last fight: 2010-12-04
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

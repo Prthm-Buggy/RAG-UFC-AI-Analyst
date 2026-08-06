@@ -1,0 +1,11 @@
+Fighter: MITCH CLARKE
+  Date of Birth: 1985-11-24
+  Career record: 7
+  First fight: 2011-12-10
+  Last fight: 2017-09-09
+
+Career Statistics:
+- Significant Strikes Landed :166
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :2

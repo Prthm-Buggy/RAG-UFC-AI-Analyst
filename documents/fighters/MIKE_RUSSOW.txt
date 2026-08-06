@@ -1,0 +1,11 @@
+Fighter: MIKE RUSSOW
+  Date of Birth: 1976-09-11
+  Career record: 6
+  First fight: 2009-08-29
+  Last fight: 2013-01-26
+
+Career Statistics:
+- Significant Strikes Landed :98
+- Total takedowns landed :18
+- Knockdowns :1
+- Submission Attempts :2

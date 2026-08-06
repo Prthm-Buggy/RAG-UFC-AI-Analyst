@@ -1,0 +1,13 @@
+Event: UFC 271: Adesanya vs. Whittaker 2
+    Date: February 12, 2022
+    Location: Houston, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: JEREMIAH WELLS defeated BLOOD DIAMOND via Submission  
+  at 4:38 of round 1
+  Key stats:
+  - JEREMIAH WELLS landed 15 significant strikes
+  - BLOOD DIAMOND landed 1 significant strikes
+  - Knockdowns: JEREMIAH WELLS 0,  BLOOD DIAMOND 0
+  - Takedowns: JEREMIAH WELLS 1,  BLOOD DIAMOND 0

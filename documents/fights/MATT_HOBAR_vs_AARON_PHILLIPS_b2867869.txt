@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Dos Anjos
+    Date: August 23, 2014
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MATT HOBAR defeated AARON PHILLIPS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MATT HOBAR landed 63 significant strikes
+  - AARON PHILLIPS landed 38 significant strikes
+  - Knockdowns: MATT HOBAR 0,  AARON PHILLIPS 0
+  - Takedowns: MATT HOBAR 6,  AARON PHILLIPS 0

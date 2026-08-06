@@ -1,0 +1,13 @@
+Event: UFC 323: Dvalishvili vs. Yan 2
+    Date: December 06, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MANSUR ABDUL-MALIK defeated ANTONIO TROCOLI via Submission  
+  at 1:09 of round 1
+  Key stats:
+  - MANSUR ABDUL-MALIK landed 2 significant strikes
+  - ANTONIO TROCOLI landed 3 significant strikes
+  - Knockdowns: MANSUR ABDUL-MALIK 0,  ANTONIO TROCOLI 0
+  - Takedowns: MANSUR ABDUL-MALIK 1,  ANTONIO TROCOLI 0

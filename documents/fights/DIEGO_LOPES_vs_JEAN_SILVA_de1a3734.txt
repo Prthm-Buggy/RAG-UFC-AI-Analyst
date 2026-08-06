@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lopes vs. Silva
+    Date: September 13, 2025
+    Location: San Antonio, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: DIEGO LOPES defeated JEAN SILVA via KO/TKO  
+  at 4:48 of round 2
+  Key stats:
+  - DIEGO LOPES landed 74 significant strikes
+  - JEAN SILVA landed 43 significant strikes
+  - Knockdowns: DIEGO LOPES 1,  JEAN SILVA 0
+  - Takedowns: DIEGO LOPES 3,  JEAN SILVA 0
+  Bonus: fight

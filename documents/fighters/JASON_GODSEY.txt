@@ -1,0 +1,11 @@
+Fighter: JASON GODSEY
+  Date of Birth: 1964-01-01
+  Career record: 2
+  First fight: 1999-03-05
+  Last fight: 1999-09-24
+
+Career Statistics:
+- Significant Strikes Landed :3
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

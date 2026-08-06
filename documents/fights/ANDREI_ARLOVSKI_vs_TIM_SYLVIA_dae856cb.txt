@@ -1,0 +1,14 @@
+Event: UFC 51: Super Saturday
+    Date: February 05, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated TIM SYLVIA via Submission  
+  at 0:47 of round 1
+  Key stats:
+  - ANDREI ARLOVSKI landed 5 significant strikes
+  - TIM SYLVIA landed 2 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 1,  TIM SYLVIA 0
+  - Takedowns: ANDREI ARLOVSKI 0,  TIM SYLVIA 0
+  Bonus: belt

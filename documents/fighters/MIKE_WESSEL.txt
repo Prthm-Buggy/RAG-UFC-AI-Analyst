@@ -1,0 +1,11 @@
+Fighter: MIKE WESSEL
+  Date of Birth: 1977-12-02
+  Career record: 1
+  First fight: 2008-12-27
+  Last fight: 2008-12-27
+
+Career Statistics:
+- Significant Strikes Landed :13
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

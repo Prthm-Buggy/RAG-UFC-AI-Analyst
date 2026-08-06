@@ -1,0 +1,13 @@
+Event: UFC on FX: Belfort vs. Rockhold
+    Date: May 18, 2013
+    Location: Jaragua do Sul, Santa Catarina, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: RAFAEL NATAL defeated JOAO ZEFERINO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAFAEL NATAL landed 29 significant strikes
+  - JOAO ZEFERINO landed 14 significant strikes
+  - Knockdowns: RAFAEL NATAL 0,  JOAO ZEFERINO 0
+  - Takedowns: RAFAEL NATAL 1,  JOAO ZEFERINO 0

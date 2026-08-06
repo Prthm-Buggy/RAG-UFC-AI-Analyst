@@ -1,0 +1,14 @@
+Event: UFC 284: Makhachev vs. Volkanovski
+    Date: February 11, 2023
+    Location: Perth, Western Australia, Australia
+    Weight Class: Lightweight
+    
+
+    Result: ISLAM MAKHACHEV defeated ALEXANDER VOLKANOVSKI via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ISLAM MAKHACHEV landed 57 significant strikes
+  - ALEXANDER VOLKANOVSKI landed 70 significant strikes
+  - Knockdowns: ISLAM MAKHACHEV 0,  ALEXANDER VOLKANOVSKI 1
+  - Takedowns: ISLAM MAKHACHEV 4,  ALEXANDER VOLKANOVSKI 0
+  Bonus: belt

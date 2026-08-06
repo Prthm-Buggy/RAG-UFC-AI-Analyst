@@ -1,0 +1,11 @@
+Fighter: YANAL ASHMOUZ
+  Date of Birth: 1995-03-31
+  Career record: 4
+  First fight: 2023-03-18
+  Last fight: 2025-06-07
+
+Career Statistics:
+- Significant Strikes Landed :133
+- Total takedowns landed :10
+- Knockdowns :0
+- Submission Attempts :0

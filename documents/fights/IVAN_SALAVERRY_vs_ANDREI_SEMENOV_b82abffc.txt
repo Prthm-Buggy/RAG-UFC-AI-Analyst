@@ -1,0 +1,13 @@
+Event: UFC 37: High Impact
+    Date: May 10, 2002
+    Location: Bossier City, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: IVAN SALAVERRY defeated ANDREI SEMENOV via KO/TKO  
+  at 2:27 of round 3
+  Key stats:
+  - IVAN SALAVERRY landed 43 significant strikes
+  - ANDREI SEMENOV landed 5 significant strikes
+  - Knockdowns: IVAN SALAVERRY 0,  ANDREI SEMENOV 0
+  - Takedowns: IVAN SALAVERRY 2,  ANDREI SEMENOV 1

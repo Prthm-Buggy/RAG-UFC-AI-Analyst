@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Lemos
+    Date: November 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JAKE HADLEY defeated CARLOS CANDELARIO via Submission  
+  at 2:39 of round 2
+  Key stats:
+  - JAKE HADLEY landed 90 significant strikes
+  - CARLOS CANDELARIO landed 69 significant strikes
+  - Knockdowns: JAKE HADLEY 0,  CARLOS CANDELARIO 0
+  - Takedowns: JAKE HADLEY 0,  CARLOS CANDELARIO 1

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lee vs. Iaquinta
+    Date: December 15, 2018
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOAQUIM SILVA defeated JARED GORDON via KO/TKO  
+  at 2:39 of round 3
+  Key stats:
+  - JOAQUIM SILVA landed 95 significant strikes
+  - JARED GORDON landed 116 significant strikes
+  - Knockdowns: JOAQUIM SILVA 0,  JARED GORDON 0
+  - Takedowns: JOAQUIM SILVA 1,  JARED GORDON 3
+  Bonus: fight

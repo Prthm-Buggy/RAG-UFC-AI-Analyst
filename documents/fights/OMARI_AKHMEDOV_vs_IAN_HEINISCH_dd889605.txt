@@ -1,0 +1,13 @@
+Event: UFC 245: Usman vs. Covington
+    Date: December 14, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: OMARI AKHMEDOV defeated IAN HEINISCH via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - OMARI AKHMEDOV landed 55 significant strikes
+  - IAN HEINISCH landed 53 significant strikes
+  - Knockdowns: OMARI AKHMEDOV 0,  IAN HEINISCH 0
+  - Takedowns: OMARI AKHMEDOV 2,  IAN HEINISCH 3

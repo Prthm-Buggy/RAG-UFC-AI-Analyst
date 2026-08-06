@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gane vs. Tuivasa
+    Date: September 03, 2022
+    Location: Paris, Ile-de-France, France
+    Weight Class: Lightweight
+    
+
+    Result: FARES ZIAM defeated MICHAL FIGLAK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - FARES ZIAM landed 60 significant strikes
+  - MICHAL FIGLAK landed 28 significant strikes
+  - Knockdowns: FARES ZIAM 0,  MICHAL FIGLAK 0
+  - Takedowns: FARES ZIAM 3,  MICHAL FIGLAK 1

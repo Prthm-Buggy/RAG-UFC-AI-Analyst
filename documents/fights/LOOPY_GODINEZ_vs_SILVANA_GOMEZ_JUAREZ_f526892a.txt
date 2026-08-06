@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dern vs. Rodriguez
+    Date: October 09, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: LOOPY GODINEZ defeated SILVANA GOMEZ JUAREZ via Submission  
+  at 4:14 of round 1
+  Key stats:
+  - LOOPY GODINEZ landed 11 significant strikes
+  - SILVANA GOMEZ JUAREZ landed 3 significant strikes
+  - Knockdowns: LOOPY GODINEZ 0,  SILVANA GOMEZ JUAREZ 0
+  - Takedowns: LOOPY GODINEZ 5,  SILVANA GOMEZ JUAREZ 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Figueiredo
+    Date: May 03, 2025
+    Location: Des Moines, Iowa, USA
+    Weight Class: Welterweight
+    
+
+    Result: DANIEL RODRIGUEZ defeated SANTIAGO PONZINIBBIO via KO/TKO  
+  at 1:12 of round 3
+  Key stats:
+  - DANIEL RODRIGUEZ landed 66 significant strikes
+  - SANTIAGO PONZINIBBIO landed 49 significant strikes
+  - Knockdowns: DANIEL RODRIGUEZ 1,  SANTIAGO PONZINIBBIO 0
+  - Takedowns: DANIEL RODRIGUEZ 0,  SANTIAGO PONZINIBBIO 1

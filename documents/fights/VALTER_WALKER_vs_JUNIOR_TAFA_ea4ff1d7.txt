@@ -1,0 +1,13 @@
+Event: UFC 305: Du Plessis vs. Adesanya
+    Date: August 17, 2024
+    Location: Perth, Western Australia, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: VALTER WALKER defeated JUNIOR TAFA via Submission  
+  at 4:56 of round 1
+  Key stats:
+  - VALTER WALKER landed 4 significant strikes
+  - JUNIOR TAFA landed 5 significant strikes
+  - Knockdowns: VALTER WALKER 0,  JUNIOR TAFA 0
+  - Takedowns: VALTER WALKER 2,  JUNIOR TAFA 0

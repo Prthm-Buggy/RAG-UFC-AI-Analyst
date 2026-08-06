@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lawler vs. Dos Anjos
+    Date: December 16, 2017
+    Location: Winnipeg, Manitoba, Canada
+    Weight Class: Middleweight
+    
+
+    Result: JULIAN MARQUEZ defeated DARREN STEWART via Submission  
+  at 2:42 of round 2
+  Key stats:
+  - JULIAN MARQUEZ landed 32 significant strikes
+  - DARREN STEWART landed 33 significant strikes
+  - Knockdowns: JULIAN MARQUEZ 0,  DARREN STEWART 0
+  - Takedowns: JULIAN MARQUEZ 0,  DARREN STEWART 4
+  Bonus: fight

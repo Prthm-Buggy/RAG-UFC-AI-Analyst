@@ -1,0 +1,13 @@
+Event: UFC 38: Brawl at the Hall
+    Date: July 13, 2002
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: RENATO SOBRAL defeated ELVIS SINOSIC via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RENATO SOBRAL landed 42 significant strikes
+  - ELVIS SINOSIC landed 7 significant strikes
+  - Knockdowns: RENATO SOBRAL 0,  ELVIS SINOSIC 0
+  - Takedowns: RENATO SOBRAL 4,  ELVIS SINOSIC 0

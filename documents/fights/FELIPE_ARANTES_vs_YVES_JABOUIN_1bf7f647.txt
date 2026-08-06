@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holloway vs Oliveira
+    Date: August 23, 2015
+    Location: Saskatoon, Saskatchewan, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: FELIPE ARANTES defeated YVES JABOUIN via Submission  
+  at 4:21 of round 1
+  Key stats:
+  - FELIPE ARANTES landed 4 significant strikes
+  - YVES JABOUIN landed 5 significant strikes
+  - Knockdowns: FELIPE ARANTES 0,  YVES JABOUIN 0
+  - Takedowns: FELIPE ARANTES 0,  YVES JABOUIN 2
+  Bonus: perf

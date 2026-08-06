@@ -1,0 +1,11 @@
+Fighter: DAVEY GRANT
+  Date of Birth: 1985-12-18
+  Career record: 16
+  First fight: 2013-11-30
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :1063
+- Total takedowns landed :12
+- Knockdowns :4
+- Submission Attempts :2

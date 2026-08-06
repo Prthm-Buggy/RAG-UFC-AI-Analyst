@@ -1,0 +1,11 @@
+Fighter: SETH PETRUZELLI
+  Date of Birth: 1979-12-03
+  Career record: 4
+  First fight: 2006-10-10
+  Last fight: 2010-11-13
+
+Career Statistics:
+- Significant Strikes Landed :66
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :5

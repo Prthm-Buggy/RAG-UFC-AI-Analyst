@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blanchfield vs. Fiorot
+    Date: March 30, 2024
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CAOLAN LOUGHRAN defeated ANGEL PACHECO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CAOLAN LOUGHRAN landed 140 significant strikes
+  - ANGEL PACHECO landed 88 significant strikes
+  - Knockdowns: CAOLAN LOUGHRAN 0,  ANGEL PACHECO 0
+  - Takedowns: CAOLAN LOUGHRAN 3,  ANGEL PACHECO 0

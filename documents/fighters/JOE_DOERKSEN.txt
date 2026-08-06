@@ -1,0 +1,11 @@
+Fighter: JOE DOERKSEN
+  Date of Birth: 1977-10-09
+  Career record: 9
+  First fight: 2004-08-21
+  Last fight: 2010-12-11
+
+Career Statistics:
+- Significant Strikes Landed :119
+- Total takedowns landed :12
+- Knockdowns :1
+- Submission Attempts :14

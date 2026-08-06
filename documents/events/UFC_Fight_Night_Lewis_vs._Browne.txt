@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Lewis vs. Browne
+    Date : February 19, 2017
+    Location: Halifax, Nova Scotia, Canada
+    Number of Fights: 11
+    Weight Classes: Featherweight, Middleweight, Women's Bantamweight, Lightweight, Welterweight, Women's Strawweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - DERRICK LEWIS def. TRAVIS BROWNE via KO/TKO(R2)
+- AIEMANN ZAHABI def. REGINALDO VIEIRA via Decision - Unanimous(R3)
+- GAVIN TUCKER def. SAM SICILIA via Decision - Unanimous(R3)
+- THIAGO SANTOS def. JACK MARSHMAN via KO/TKO(R2)
+- SANTIAGO PONZINIBBIO def. NORDINE TALEB via Decision - Unanimous(R3)
+- RANDA MARKOS def. CARLA ESPARZA via Decision - Split(R3)
+- ELIAS THEODOROU def. CEZAR FERREIRA via Decision - Unanimous(R3)
+- JOHNY HENDRICKS def. HECTOR LOMBARD via Decision - Unanimous(R3)
+- SARA MCMANN def. GINA MAZANY via Submission(R1)
+- PAUL FELDER def. ALEX RICCI via KO/TKO(R1)
+- GERALD MEERSCHAERT def. RYAN JANES via Submission(R1)

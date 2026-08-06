@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Oezdemir vs. Smith
+    Date: October 27, 2018
+    Location: Moncton, New Brunswick, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY SMITH defeated VOLKAN OEZDEMIR via Submission  
+  at 4:26 of round 3
+  Key stats:
+  - ANTHONY SMITH landed 63 significant strikes
+  - VOLKAN OEZDEMIR landed 77 significant strikes
+  - Knockdowns: ANTHONY SMITH 0,  VOLKAN OEZDEMIR 0
+  - Takedowns: ANTHONY SMITH 1,  VOLKAN OEZDEMIR 1
+  Bonus: perf

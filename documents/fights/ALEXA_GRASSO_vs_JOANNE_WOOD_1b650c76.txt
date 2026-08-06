@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Daukaus
+    Date: March 26, 2022
+    Location: Columbus, Ohio, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ALEXA GRASSO defeated JOANNE WOOD via Submission  
+  at 3:57 of round 1
+  Key stats:
+  - ALEXA GRASSO landed 16 significant strikes
+  - JOANNE WOOD landed 34 significant strikes
+  - Knockdowns: ALEXA GRASSO 0,  JOANNE WOOD 0
+  - Takedowns: ALEXA GRASSO 2,  JOANNE WOOD 0

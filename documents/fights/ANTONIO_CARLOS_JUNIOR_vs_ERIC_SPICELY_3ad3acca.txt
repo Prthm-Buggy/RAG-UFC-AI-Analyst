@@ -1,0 +1,13 @@
+Event: UFC 212: Aldo vs. Holloway
+    Date: June 03, 2017
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: ANTONIO CARLOS JUNIOR defeated ERIC SPICELY via Submission  
+  at 3:49 of round 2
+  Key stats:
+  - ANTONIO CARLOS JUNIOR landed 12 significant strikes
+  - ERIC SPICELY landed 17 significant strikes
+  - Knockdowns: ANTONIO CARLOS JUNIOR 0,  ERIC SPICELY 0
+  - Takedowns: ANTONIO CARLOS JUNIOR 1,  ERIC SPICELY 1

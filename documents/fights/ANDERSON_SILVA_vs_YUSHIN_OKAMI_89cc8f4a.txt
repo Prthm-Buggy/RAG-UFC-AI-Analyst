@@ -1,0 +1,14 @@
+Event: UFC 134: Silva vs Okami
+    Date: August 27, 2011
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: ANDERSON SILVA defeated YUSHIN OKAMI via KO/TKO  
+  at 2:04 of round 2
+  Key stats:
+  - ANDERSON SILVA landed 43 significant strikes
+  - YUSHIN OKAMI landed 16 significant strikes
+  - Knockdowns: ANDERSON SILVA 2,  YUSHIN OKAMI 0
+  - Takedowns: ANDERSON SILVA 0,  YUSHIN OKAMI 0
+  Bonus: belt

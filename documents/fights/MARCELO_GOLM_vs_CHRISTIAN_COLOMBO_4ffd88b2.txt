@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brunson vs. Machida
+    Date: October 28, 2017
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: MARCELO GOLM defeated CHRISTIAN COLOMBO via Submission  
+  at 2:08 of round 1
+  Key stats:
+  - MARCELO GOLM landed 35 significant strikes
+  - CHRISTIAN COLOMBO landed 2 significant strikes
+  - Knockdowns: MARCELO GOLM 0,  CHRISTIAN COLOMBO 0
+  - Takedowns: MARCELO GOLM 1,  CHRISTIAN COLOMBO 0

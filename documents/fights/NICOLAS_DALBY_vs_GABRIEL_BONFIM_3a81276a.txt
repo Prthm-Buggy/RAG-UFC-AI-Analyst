@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Almeida vs. Lewis
+    Date: November 04, 2023
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: NICOLAS DALBY defeated GABRIEL BONFIM via KO/TKO  
+  at 4:33 of round 2
+  Key stats:
+  - NICOLAS DALBY landed 53 significant strikes
+  - GABRIEL BONFIM landed 39 significant strikes
+  - Knockdowns: NICOLAS DALBY 1,  GABRIEL BONFIM 0
+  - Takedowns: NICOLAS DALBY 0,  GABRIEL BONFIM 3
+  Bonus: fight

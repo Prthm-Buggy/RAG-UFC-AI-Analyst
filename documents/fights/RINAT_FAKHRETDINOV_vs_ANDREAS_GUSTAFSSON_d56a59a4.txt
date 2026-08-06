@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Imavov vs. Borralho
+    Date: September 06, 2025
+    Location: Paris, Ile-de-France, France
+    Weight Class: Welterweight
+    
+
+    Result: RINAT FAKHRETDINOV defeated ANDREAS GUSTAFSSON via KO/TKO  
+  at 0:54 of round 1
+  Key stats:
+  - RINAT FAKHRETDINOV landed 23 significant strikes
+  - ANDREAS GUSTAFSSON landed 5 significant strikes
+  - Knockdowns: RINAT FAKHRETDINOV 0,  ANDREAS GUSTAFSSON 0
+  - Takedowns: RINAT FAKHRETDINOV 0,  ANDREAS GUSTAFSSON 0

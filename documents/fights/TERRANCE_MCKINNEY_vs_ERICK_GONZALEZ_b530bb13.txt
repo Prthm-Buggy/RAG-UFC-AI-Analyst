@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Hill
+    Date: August 06, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TERRANCE MCKINNEY defeated ERICK GONZALEZ via Submission  
+  at 2:17 of round 1
+  Key stats:
+  - TERRANCE MCKINNEY landed 18 significant strikes
+  - ERICK GONZALEZ landed 9 significant strikes
+  - Knockdowns: TERRANCE MCKINNEY 0,  ERICK GONZALEZ 0
+  - Takedowns: TERRANCE MCKINNEY 1,  ERICK GONZALEZ 0

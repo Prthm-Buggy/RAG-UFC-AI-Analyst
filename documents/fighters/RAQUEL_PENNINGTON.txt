@@ -1,0 +1,11 @@
+Fighter: RAQUEL PENNINGTON
+  Date of Birth: 1988-09-05
+  Career record: 19
+  First fight: 2013-11-30
+  Last fight: 2024-10-05
+
+Career Statistics:
+- Significant Strikes Landed :1193
+- Total takedowns landed :16
+- Knockdowns :1
+- Submission Attempts :12

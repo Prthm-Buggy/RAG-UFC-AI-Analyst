@@ -1,0 +1,11 @@
+Fighter: AARON ROSA
+  Date of Birth: 1983-05-28
+  Career record: 3
+  First fight: 2011-06-11
+  Last fight: 2012-03-02
+
+Career Statistics:
+- Significant Strikes Landed :132
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

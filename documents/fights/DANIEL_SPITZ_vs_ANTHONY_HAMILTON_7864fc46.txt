@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs. Branch
+    Date: September 16, 2017
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DANIEL SPITZ defeated ANTHONY HAMILTON via KO/TKO  
+  at 0:24 of round 1
+  Key stats:
+  - DANIEL SPITZ landed 5 significant strikes
+  - ANTHONY HAMILTON landed 0 significant strikes
+  - Knockdowns: DANIEL SPITZ 0,  ANTHONY HAMILTON 0
+  - Takedowns: DANIEL SPITZ 1,  ANTHONY HAMILTON 0

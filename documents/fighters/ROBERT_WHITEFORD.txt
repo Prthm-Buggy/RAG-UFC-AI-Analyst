@@ -1,0 +1,11 @@
+Fighter: ROBERT WHITEFORD
+  Date of Birth: 1983-04-12
+  Career record: 5
+  First fight: 2013-10-26
+  Last fight: 2016-04-10
+
+Career Statistics:
+- Significant Strikes Landed :129
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :0

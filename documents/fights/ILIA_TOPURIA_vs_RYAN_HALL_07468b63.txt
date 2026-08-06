@@ -1,0 +1,13 @@
+Event: UFC 264: Poirier vs. McGregor 3
+    Date: July 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ILIA TOPURIA defeated RYAN HALL via KO/TKO  
+  at 4:47 of round 1
+  Key stats:
+  - ILIA TOPURIA landed 18 significant strikes
+  - RYAN HALL landed 10 significant strikes
+  - Knockdowns: ILIA TOPURIA 0,  RYAN HALL 0
+  - Takedowns: ILIA TOPURIA 0,  RYAN HALL 0

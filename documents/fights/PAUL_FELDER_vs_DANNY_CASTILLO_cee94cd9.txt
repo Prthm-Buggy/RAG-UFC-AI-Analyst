@@ -1,0 +1,14 @@
+Event: UFC 182: Jones vs Cormier
+    Date: January 03, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: PAUL FELDER defeated DANNY CASTILLO via KO/TKO  
+  at 2:09 of round 2
+  Key stats:
+  - PAUL FELDER landed 33 significant strikes
+  - DANNY CASTILLO landed 21 significant strikes
+  - Knockdowns: PAUL FELDER 1,  DANNY CASTILLO 0
+  - Takedowns: PAUL FELDER 0,  DANNY CASTILLO 0
+  Bonus: perf

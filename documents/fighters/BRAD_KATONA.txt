@@ -1,0 +1,11 @@
+Fighter: BRAD KATONA
+  Date of Birth: 1991-12-19
+  Career record: 9
+  First fight: 2018-07-06
+  Last fight: 2025-05-10
+
+Career Statistics:
+- Significant Strikes Landed :582
+- Total takedowns landed :15
+- Knockdowns :0
+- Submission Attempts :0

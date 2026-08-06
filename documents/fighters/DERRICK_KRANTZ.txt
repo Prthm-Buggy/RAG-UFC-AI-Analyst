@@ -1,0 +1,11 @@
+Fighter: DERRICK KRANTZ
+  Date of Birth: 1988-01-13
+  Career record: 2
+  First fight: 2019-05-18
+  Last fight: 2019-08-31
+
+Career Statistics:
+- Significant Strikes Landed :39
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. Cortez
+    Date: July 13, 2024
+    Location: Denver, Colorado, USA
+    Weight Class: Welterweight
+    
+
+    Result: MUSLIM SALIKHOV defeated SANTIAGO PONZINIBBIO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MUSLIM SALIKHOV landed 46 significant strikes
+  - SANTIAGO PONZINIBBIO landed 41 significant strikes
+  - Knockdowns: MUSLIM SALIKHOV 0,  SANTIAGO PONZINIBBIO 0
+  - Takedowns: MUSLIM SALIKHOV 0,  SANTIAGO PONZINIBBIO 2

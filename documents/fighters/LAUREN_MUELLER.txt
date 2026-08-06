@@ -1,0 +1,11 @@
+Fighter: LAUREN MUELLER
+  Date of Birth: 1991-11-15
+  Career record: 4
+  First fight: 2018-04-14
+  Last fight: 2019-10-12
+
+Career Statistics:
+- Significant Strikes Landed :176
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

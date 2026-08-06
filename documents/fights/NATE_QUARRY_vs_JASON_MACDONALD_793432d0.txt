@@ -1,0 +1,13 @@
+Event: UFC 97: Redemption
+    Date: April 18, 2009
+    Location: Montreal, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: NATE QUARRY defeated JASON MACDONALD via KO/TKO  
+  at 2:27 of round 1
+  Key stats:
+  - NATE QUARRY landed 16 significant strikes
+  - JASON MACDONALD landed 1 significant strikes
+  - Knockdowns: NATE QUARRY 0,  JASON MACDONALD 0
+  - Takedowns: NATE QUARRY 1,  JASON MACDONALD 0

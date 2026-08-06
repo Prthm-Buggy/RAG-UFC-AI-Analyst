@@ -1,0 +1,11 @@
+Fighter: JOHN HATHAWAY
+  Date of Birth: 1987-07-23
+  Career record: 9
+  First fight: 2009-01-17
+  Last fight: 2014-03-01
+
+Career Statistics:
+- Significant Strikes Landed :410
+- Total takedowns landed :21
+- Knockdowns :2
+- Submission Attempts :7

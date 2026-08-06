@@ -1,0 +1,11 @@
+Fighter: KAY HANSEN
+  Date of Birth: 1999-08-14
+  Career record: 4
+  First fight: 2020-06-27
+  Last fight: 2022-04-09
+
+Career Statistics:
+- Significant Strikes Landed :173
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :3

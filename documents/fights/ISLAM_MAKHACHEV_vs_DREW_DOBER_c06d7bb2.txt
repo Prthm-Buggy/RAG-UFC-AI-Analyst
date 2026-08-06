@@ -1,0 +1,13 @@
+Event: UFC 259: Blachowicz vs. Adesanya
+    Date: March 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ISLAM MAKHACHEV defeated DREW DOBER via Submission  
+  at 1:37 of round 3
+  Key stats:
+  - ISLAM MAKHACHEV landed 15 significant strikes
+  - DREW DOBER landed 10 significant strikes
+  - Knockdowns: ISLAM MAKHACHEV 0,  DREW DOBER 0
+  - Takedowns: ISLAM MAKHACHEV 3,  DREW DOBER 0

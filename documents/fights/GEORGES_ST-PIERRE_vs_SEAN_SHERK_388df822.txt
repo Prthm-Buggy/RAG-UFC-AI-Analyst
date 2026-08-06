@@ -1,0 +1,13 @@
+Event: UFC 56: Full Force
+    Date: November 19, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GEORGES ST-PIERRE defeated SEAN SHERK via KO/TKO  
+  at 2:53 of round 2
+  Key stats:
+  - GEORGES ST-PIERRE landed 58 significant strikes
+  - SEAN SHERK landed 20 significant strikes
+  - Knockdowns: GEORGES ST-PIERRE 0,  SEAN SHERK 0
+  - Takedowns: GEORGES ST-PIERRE 3,  SEAN SHERK 0

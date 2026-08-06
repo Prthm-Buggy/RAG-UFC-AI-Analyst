@@ -1,0 +1,13 @@
+Event: UFC - Ultimate Brazil
+    Date: October 16, 1998
+    Location: Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: EBENEZER FONTES BRAGA defeated JEREMY HORN via Submission  
+  at 3:27 of round 1
+  Key stats:
+  - EBENEZER FONTES BRAGA landed 9 significant strikes
+  - JEREMY HORN landed 3 significant strikes
+  - Knockdowns: EBENEZER FONTES BRAGA 0,  JEREMY HORN 0
+  - Takedowns: EBENEZER FONTES BRAGA 1,  JEREMY HORN 0

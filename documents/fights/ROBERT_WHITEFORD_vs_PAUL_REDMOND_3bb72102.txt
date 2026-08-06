@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bisping vs Leites
+    Date: July 18, 2015
+    Location: Glasgow, Scotland, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: ROBERT WHITEFORD defeated PAUL REDMOND via KO/TKO  
+  at 3:04 of round 1
+  Key stats:
+  - ROBERT WHITEFORD landed 20 significant strikes
+  - PAUL REDMOND landed 11 significant strikes
+  - Knockdowns: ROBERT WHITEFORD 1,  PAUL REDMOND 0
+  - Takedowns: ROBERT WHITEFORD 0,  PAUL REDMOND 0

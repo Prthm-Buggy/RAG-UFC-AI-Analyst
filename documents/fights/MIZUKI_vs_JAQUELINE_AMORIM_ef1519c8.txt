@@ -1,0 +1,13 @@
+Event: UFC 321: Aspinall vs. Gane
+    Date: October 25, 2025
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Strawweight
+    
+
+    Result: MIZUKI defeated JAQUELINE AMORIM via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MIZUKI landed 62 significant strikes
+  - JAQUELINE AMORIM landed 26 significant strikes
+  - Knockdowns: MIZUKI 1,  JAQUELINE AMORIM 0
+  - Takedowns: MIZUKI 2,  JAQUELINE AMORIM 2

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Makhachev vs. Green
+    Date : February 26, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Catch Weight, Lightweight, Middleweight, Women's Featherweight, Flyweight, Featherweight, Welterweight, Women's Flyweight
+
+    Fight Results:
+  - ARMAN TSARUKYAN def. JOEL ALVAREZ via KO/TKO(R2)
+- TERRANCE MCKINNEY def. FARES ZIAM via Submission(R1)
+- IGNACIO BAHAMONDES def. RONGZHU via Submission(R3)
+- CARLOS HERNANDEZ def. VICTOR ALTAMIRANO via Decision - Split(R3)
+- JONATHAN MARTINEZ def. ALEJANDRO PEREZ via Decision - Unanimous(R3)
+- JOSIANE NUNES def. RAMONA PASCUAL via Decision - Unanimous(R3)
+- ARMEN PETROSYAN def. GREGORY RODRIGUES via Decision - Split(R3)
+- ISLAM MAKHACHEV def. KING GREEN via KO/TKO(R1)
+- PRISCILA CACHOEIRA def. JI YEON KIM via Decision - Unanimous(R3)
+- WELLINGTON TURMAN def. MISHA CIRKUNOV via Submission(R2)
+- RAMIZ BRAHIMAJ def. MICHEAL GILLMORE via Submission(R1)

@@ -1,0 +1,11 @@
+Fighter: LEONARD GARCIA
+  Date of Birth: 1979-07-14
+  Career record: 9
+  First fight: 2007-04-07
+  Last fight: 2013-04-27
+
+Career Statistics:
+- Significant Strikes Landed :334
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :3

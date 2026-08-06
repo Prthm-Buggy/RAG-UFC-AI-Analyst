@@ -1,0 +1,13 @@
+Event: UFC 26: Ultimate Field Of Dreams
+    Date: June 09, 2000
+    Location: Cedar Rapids, Iowa, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT HUGHES defeated MARCELO AGUIAR via TKO - Doctor's Stoppage  
+  at 4:34 of round 1
+  Key stats:
+  - MATT HUGHES landed 18 significant strikes
+  - MARCELO AGUIAR landed 2 significant strikes
+  - Knockdowns: MATT HUGHES 0,  MARCELO AGUIAR 0
+  - Takedowns: MATT HUGHES 2,  MARCELO AGUIAR 0

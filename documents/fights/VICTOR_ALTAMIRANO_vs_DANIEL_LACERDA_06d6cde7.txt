@@ -1,0 +1,14 @@
+Event: UFC 278: Usman vs. Edwards
+    Date: August 20, 2022
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Flyweight
+    
+
+    Result: VICTOR ALTAMIRANO defeated DANIEL LACERDA via KO/TKO  
+  at 3:39 of round 1
+  Key stats:
+  - VICTOR ALTAMIRANO landed 58 significant strikes
+  - DANIEL LACERDA landed 22 significant strikes
+  - Knockdowns: VICTOR ALTAMIRANO 1,  DANIEL LACERDA 1
+  - Takedowns: VICTOR ALTAMIRANO 0,  DANIEL LACERDA 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: CARLA ESPARZA
+  Date of Birth: 1987-10-10
+  Career record: 16
+  First fight: 2014-12-12
+  Last fight: 2024-10-05
+
+Career Statistics:
+- Significant Strikes Landed :492
+- Total takedowns landed :49
+- Knockdowns :0
+- Submission Attempts :4

@@ -1,0 +1,13 @@
+Event: UFC 32: Showdown in the Meadowlands
+    Date: June 29, 2001
+    Location: East Rutherford, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JOSH BARNETT defeated SEMMY SCHILT via Submission  
+  at 4:21 of round 1
+  Key stats:
+  - JOSH BARNETT landed 10 significant strikes
+  - SEMMY SCHILT landed 1 significant strikes
+  - Knockdowns: JOSH BARNETT 0,  SEMMY SCHILT 0
+  - Takedowns: JOSH BARNETT 1,  SEMMY SCHILT 0

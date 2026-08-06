@@ -1,0 +1,11 @@
+Fighter: MARCEL FORTUNA
+  Date of Birth: 1985-10-22
+  Career record: 3
+  First fight: 2017-02-04
+  Last fight: 2017-11-11
+
+Career Statistics:
+- Significant Strikes Landed :127
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :1

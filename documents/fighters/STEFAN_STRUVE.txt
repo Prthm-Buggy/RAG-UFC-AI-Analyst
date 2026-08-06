@@ -1,0 +1,11 @@
+Fighter: STEFAN STRUVE
+  Date of Birth: 1988-02-18
+  Career record: 24
+  First fight: 2009-02-21
+  Last fight: 2020-10-24
+
+Career Statistics:
+- Significant Strikes Landed :585
+- Total takedowns landed :7
+- Knockdowns :3
+- Submission Attempts :21

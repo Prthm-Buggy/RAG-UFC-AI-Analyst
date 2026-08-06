@@ -1,0 +1,11 @@
+Fighter: MAURICIO RUA
+  Date of Birth: 1981-11-25
+  Career record: 23
+  First fight: 2007-09-22
+  Last fight: 2023-01-21
+
+Career Statistics:
+- Significant Strikes Landed :863
+- Total takedowns landed :26
+- Knockdowns :14
+- Submission Attempts :4

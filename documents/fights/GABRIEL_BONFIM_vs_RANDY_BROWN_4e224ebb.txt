@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bonfim vs. Brown
+    Date: November 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GABRIEL BONFIM defeated RANDY BROWN via KO/TKO  
+  at 1:40 of round 2
+  Key stats:
+  - GABRIEL BONFIM landed 35 significant strikes
+  - RANDY BROWN landed 33 significant strikes
+  - Knockdowns: GABRIEL BONFIM 1,  RANDY BROWN 0
+  - Takedowns: GABRIEL BONFIM 0,  RANDY BROWN 0
+  Bonus: perf

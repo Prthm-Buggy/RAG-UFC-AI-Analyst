@@ -1,0 +1,11 @@
+Fighter: DEMIAN MAIA
+  Date of Birth: 1977-11-06
+  Career record: 33
+  First fight: 2007-10-20
+  Last fight: 2021-06-12
+
+Career Statistics:
+- Significant Strikes Landed :739
+- Total takedowns landed :68
+- Knockdowns :1
+- Submission Attempts :27

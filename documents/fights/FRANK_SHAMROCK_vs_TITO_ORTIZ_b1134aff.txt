@@ -1,0 +1,14 @@
+Event: UFC 22: Only One Can be Champion
+    Date: September 24, 1999
+    Location: Lake Charles, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: FRANK SHAMROCK defeated TITO ORTIZ via KO/TKO  
+  at 4:42 of round 4
+  Key stats:
+  - FRANK SHAMROCK landed 31 significant strikes
+  - TITO ORTIZ landed 20 significant strikes
+  - Knockdowns: FRANK SHAMROCK 0,  TITO ORTIZ 0
+  - Takedowns: FRANK SHAMROCK 0,  TITO ORTIZ 8
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Evloev vs. Murphy
+    Date: March 21, 2026
+    Location: London, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: MOVSAR EVLOEV defeated LERONE MURPHY via Decision - Majority  
+  at 5:00 of round 5
+  Key stats:
+  - MOVSAR EVLOEV landed 86 significant strikes
+  - LERONE MURPHY landed 89 significant strikes
+  - Knockdowns: MOVSAR EVLOEV 0,  LERONE MURPHY 0
+  - Takedowns: MOVSAR EVLOEV 9,  LERONE MURPHY 0

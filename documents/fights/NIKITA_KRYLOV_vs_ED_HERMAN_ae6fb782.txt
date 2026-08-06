@@ -1,0 +1,13 @@
+Event: UFC 201: Lawler vs. Woodley
+    Date: July 30, 2016
+    Location: Atlanta, Georgia, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: NIKITA KRYLOV defeated ED HERMAN via KO/TKO  
+  at 0:40 of round 2
+  Key stats:
+  - NIKITA KRYLOV landed 60 significant strikes
+  - ED HERMAN landed 26 significant strikes
+  - Knockdowns: NIKITA KRYLOV 1,  ED HERMAN 0
+  - Takedowns: NIKITA KRYLOV 0,  ED HERMAN 1

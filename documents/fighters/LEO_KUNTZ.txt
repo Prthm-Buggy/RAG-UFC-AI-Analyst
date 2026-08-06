@@ -1,0 +1,11 @@
+Fighter: LEO KUNTZ
+  Date of Birth: 1983-10-03
+  Career record: 2
+  First fight: 2015-05-23
+  Last fight: 2015-11-28
+
+Career Statistics:
+- Significant Strikes Landed :38
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

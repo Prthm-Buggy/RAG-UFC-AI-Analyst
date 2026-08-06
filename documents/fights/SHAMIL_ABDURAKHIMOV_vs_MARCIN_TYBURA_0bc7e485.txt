@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Oleinik
+    Date: April 20, 2019
+    Location: Saint Petersburg, Saint Petersburg, Russia
+    Weight Class: Heavyweight
+    
+
+    Result: SHAMIL ABDURAKHIMOV defeated MARCIN TYBURA via KO/TKO  
+  at 3:15 of round 2
+  Key stats:
+  - SHAMIL ABDURAKHIMOV landed 36 significant strikes
+  - MARCIN TYBURA landed 28 significant strikes
+  - Knockdowns: SHAMIL ABDURAKHIMOV 1,  MARCIN TYBURA 0
+  - Takedowns: SHAMIL ABDURAKHIMOV 0,  MARCIN TYBURA 0

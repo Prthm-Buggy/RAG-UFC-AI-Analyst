@@ -1,0 +1,14 @@
+Event: UFC 163: Aldo vs Jung
+    Date: August 03, 2013
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY PEROSH defeated VINNY MAGALHAES via KO/TKO  
+  at 0:14 of round 1
+  Key stats:
+  - ANTHONY PEROSH landed 8 significant strikes
+  - VINNY MAGALHAES landed 1 significant strikes
+  - Knockdowns: ANTHONY PEROSH 1,  VINNY MAGALHAES 0
+  - Takedowns: ANTHONY PEROSH 0,  VINNY MAGALHAES 0
+  Bonus: ko

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lee vs. Iaquinta
+    Date: December 15, 2018
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Welterweight
+    
+
+    Result: ZAK OTTOW defeated DWIGHT GRANT via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ZAK OTTOW landed 14 significant strikes
+  - DWIGHT GRANT landed 25 significant strikes
+  - Knockdowns: ZAK OTTOW 0,  DWIGHT GRANT 0
+  - Takedowns: ZAK OTTOW 1,  DWIGHT GRANT 1

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Browne
+    Date: February 19, 2017
+    Location: Halifax, Nova Scotia, Canada
+    Weight Class: Lightweight
+    
+
+    Result: PAUL FELDER defeated ALEX RICCI via KO/TKO  
+  at 4:44 of round 1
+  Key stats:
+  - PAUL FELDER landed 23 significant strikes
+  - ALEX RICCI landed 21 significant strikes
+  - Knockdowns: PAUL FELDER 1,  ALEX RICCI 0
+  - Takedowns: PAUL FELDER 0,  ALEX RICCI 0
+  Bonus: perf

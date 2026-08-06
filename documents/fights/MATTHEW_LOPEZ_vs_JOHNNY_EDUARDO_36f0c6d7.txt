@@ -1,0 +1,13 @@
+Event: UFC 212: Aldo vs. Holloway
+    Date: June 03, 2017
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: MATTHEW LOPEZ defeated JOHNNY EDUARDO via KO/TKO  
+  at 2:57 of round 1
+  Key stats:
+  - MATTHEW LOPEZ landed 43 significant strikes
+  - JOHNNY EDUARDO landed 16 significant strikes
+  - Knockdowns: MATTHEW LOPEZ 0,  JOHNNY EDUARDO 0
+  - Takedowns: MATTHEW LOPEZ 1,  JOHNNY EDUARDO 0

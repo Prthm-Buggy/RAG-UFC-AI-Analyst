@@ -1,0 +1,11 @@
+Fighter: CARL DEATON
+  Date of Birth: 1989-11-24
+  Career record: 2
+  First fight: 2023-02-25
+  Last fight: 2023-07-15
+
+Career Statistics:
+- Significant Strikes Landed :38
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

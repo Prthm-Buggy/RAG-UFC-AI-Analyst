@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Oleinik
+    Date: April 20, 2019
+    Location: Saint Petersburg, Saint Petersburg, Russia
+    Weight Class: Heavyweight
+    
+
+    Result: ALISTAIR OVEREEM defeated ALEKSEI OLEINIK via KO/TKO  
+  at 4:45 of round 1
+  Key stats:
+  - ALISTAIR OVEREEM landed 29 significant strikes
+  - ALEKSEI OLEINIK landed 38 significant strikes
+  - Knockdowns: ALISTAIR OVEREEM 1,  ALEKSEI OLEINIK 0
+  - Takedowns: ALISTAIR OVEREEM 0,  ALEKSEI OLEINIK 0

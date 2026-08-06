@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dawson vs. Green
+    Date: October 07, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOE PYFER defeated ABDUL RAZAK ALHASSAN via Submission  
+  at 2:05 of round 2
+  Key stats:
+  - JOE PYFER landed 26 significant strikes
+  - ABDUL RAZAK ALHASSAN landed 11 significant strikes
+  - Knockdowns: JOE PYFER 0,  ABDUL RAZAK ALHASSAN 0
+  - Takedowns: JOE PYFER 3,  ABDUL RAZAK ALHASSAN 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: CB DOLLAWAY
+  Date of Birth: 1983-08-10
+  Career record: 20
+  First fight: 2008-06-21
+  Last fight: 2018-09-15
+
+Career Statistics:
+- Significant Strikes Landed :436
+- Total takedowns landed :39
+- Knockdowns :3
+- Submission Attempts :13

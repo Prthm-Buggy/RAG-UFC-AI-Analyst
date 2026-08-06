@@ -1,0 +1,13 @@
+Event: UFC 293: Adesanya vs. Strickland
+    Date: September 09, 2023
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: ALEXANDER VOLKOV defeated TAI TUIVASA via Submission  
+  at 4:37 of round 2
+  Key stats:
+  - ALEXANDER VOLKOV landed 93 significant strikes
+  - TAI TUIVASA landed 28 significant strikes
+  - Knockdowns: ALEXANDER VOLKOV 1,  TAI TUIVASA 0
+  - Takedowns: ALEXANDER VOLKOV 0,  TAI TUIVASA 0

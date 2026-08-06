@@ -1,0 +1,18 @@
+Event : UFC 161: Evans vs Henderson
+    Date : June 15, 2013
+    Location: Winnipeg, Manitoba, Canada
+    Number of Fights: 11
+    Weight Classes: Light Heavyweight, Lightweight, Welterweight, Women's Bantamweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - MITCH CLARKE def. JOHN MAGUIRE via Decision - Unanimous(R3)
+- ALEXIS DAVIS def. ROSI SEXTON via Decision - Unanimous(R3)
+- JAMES KRAUSE def. SAM STOUT via Submission(R3)
+- SHAWN JORDAN def. PAT BARRY via KO/TKO(R1)
+- STIPE MIOCIC def. ROY NELSON via Decision - Unanimous(R3)
+- YVES JABOUIN def. DUSTIN PAGUE via Decision - Split(R3)
+- SEAN PIERSON def. KENNY ROBERTSON via Decision - Majority(R3)
+- ROLAND DELORME def. EDWIN FIGUEROA via Decision - Unanimous(R3)
+- RYAN JIMMO def. IGOR POKRAJAC via Decision - Unanimous(R3)
+- JAKE SHIELDS def. TYRON WOODLEY via Decision - Split(R3)
+- RASHAD EVANS def. DAN HENDERSON via Decision - Split(R3)

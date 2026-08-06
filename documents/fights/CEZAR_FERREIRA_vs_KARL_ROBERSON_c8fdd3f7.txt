@@ -1,0 +1,13 @@
+Event: UFC 224: Nunes vs. Pennington
+    Date: May 12, 2018
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: CEZAR FERREIRA defeated KARL ROBERSON via Submission  
+  at 4:45 of round 1
+  Key stats:
+  - CEZAR FERREIRA landed 5 significant strikes
+  - KARL ROBERSON landed 4 significant strikes
+  - Knockdowns: CEZAR FERREIRA 0,  KARL ROBERSON 0
+  - Takedowns: CEZAR FERREIRA 2,  KARL ROBERSON 0

@@ -1,0 +1,14 @@
+Event: UFC 178: Johnson vs Cariaso
+    Date: September 27, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: DEMETRIOUS JOHNSON defeated CHRIS CARIASO via Submission  
+  at 2:29 of round 2
+  Key stats:
+  - DEMETRIOUS JOHNSON landed 27 significant strikes
+  - CHRIS CARIASO landed 6 significant strikes
+  - Knockdowns: DEMETRIOUS JOHNSON 0,  CHRIS CARIASO 0
+  - Takedowns: DEMETRIOUS JOHNSON 1,  CHRIS CARIASO 0
+  Bonus: belt

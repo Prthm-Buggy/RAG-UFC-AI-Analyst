@@ -1,0 +1,11 @@
+Fighter: KEVIN LEE
+  Date of Birth: 1992-09-04
+  Career record: 19
+  First fight: 2014-02-01
+  Last fight: 2023-07-01
+
+Career Statistics:
+- Significant Strikes Landed :843
+- Total takedowns landed :46
+- Knockdowns :1
+- Submission Attempts :11

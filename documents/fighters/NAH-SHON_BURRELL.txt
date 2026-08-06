@@ -1,0 +1,11 @@
+Fighter: NAH-SHON BURRELL
+  Date of Birth: 1990-02-05
+  Career record: 2
+  First fight: 2013-02-23
+  Last fight: 2013-05-25
+
+Career Statistics:
+- Significant Strikes Landed :177
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

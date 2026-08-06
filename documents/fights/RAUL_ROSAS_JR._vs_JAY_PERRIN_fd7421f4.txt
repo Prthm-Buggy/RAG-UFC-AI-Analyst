@@ -1,0 +1,14 @@
+Event: UFC 282: Blachowicz vs. Ankalaev
+    Date: December 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RAUL ROSAS JR. defeated JAY PERRIN via Submission  
+  at 2:44 of round 1
+  Key stats:
+  - RAUL ROSAS JR. landed 3 significant strikes
+  - JAY PERRIN landed 4 significant strikes
+  - Knockdowns: RAUL ROSAS JR. 0,  JAY PERRIN 0
+  - Takedowns: RAUL ROSAS JR. 2,  JAY PERRIN 0
+  Bonus: perf

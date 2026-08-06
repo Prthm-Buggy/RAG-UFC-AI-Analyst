@@ -1,0 +1,18 @@
+Event : UFC 312: Du Plessis vs. Strickland 2
+    Date : February 08, 2025
+    Location: Sydney, New South Wales, Australia
+    Number of Fights: 11
+    Weight Classes: Lightweight, Welterweight, Middleweight, Featherweight, Women's Strawweight, Heavyweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - ZHANG WEILI def. TATIANA SUAREZ via Decision - Unanimous(R5)
+- TALLISON TEIXEIRA def. JUSTIN TAFA via KO/TKO(R1)
+- JONATHAN MICALLEF def. KEVIN JOUSSET via Decision - Unanimous(R3)
+- ALEKSANDRE TOPURIA def. COLBY THICKNESSE via Decision - Unanimous(R3)
+- GABRIEL SANTOS def. JACK JENKINS via Submission(R3)
+- WANG CONG def. BRUNA BRASIL via Decision - Unanimous(R3)
+- JAKE MATTHEWS def. FRANCISCO PRADO via Decision - Unanimous(R3)
+- TOM NOLAN def. VIACHESLAV BORSHCHEV via Decision - Unanimous(R3)
+- DRICUS DU PLESSIS def. SEAN STRICKLAND via Decision - Unanimous(R5)
+- QUILLAN SALKILLD def. ANSHUL JUBLI via KO/TKO(R1)
+- RONGZHU def. KODY STEELE via Decision - Unanimous(R3)

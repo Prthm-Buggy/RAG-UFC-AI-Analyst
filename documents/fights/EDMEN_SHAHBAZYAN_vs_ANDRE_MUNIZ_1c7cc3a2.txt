@@ -1,0 +1,13 @@
+Event: UFC 320: Ankalaev vs. Pereira 2
+    Date: October 04, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: EDMEN SHAHBAZYAN defeated ANDRE MUNIZ via KO/TKO  
+  at 4:58 of round 1
+  Key stats:
+  - EDMEN SHAHBAZYAN landed 25 significant strikes
+  - ANDRE MUNIZ landed 15 significant strikes
+  - Knockdowns: EDMEN SHAHBAZYAN 1,  ANDRE MUNIZ 0
+  - Takedowns: EDMEN SHAHBAZYAN 0,  ANDRE MUNIZ 1

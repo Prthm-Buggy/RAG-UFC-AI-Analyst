@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Magny vs Gastelum
+    Date : November 21, 2015
+    Location: Monterrey, Nuevo Leon, Mexico
+    Number of Fights: 13
+    Weight Classes: Lightweight, Welterweight, Featherweight, Flyweight, Bantamweight
+
+    Fight Results:
+  - NEIL MAGNY def. KELVIN GASTELUM via Decision - Split(R5)
+- ANDRE FILI def. GABRIEL BENITEZ via KO/TKO(R1)
+- ENRIQUE BARZOLA def. HORACIO GUTIERREZ via Decision - Unanimous(R3)
+- MARCO POLO REYES def. CESAR ARZAMENDIA via KO/TKO(R1)
+- ALVARO HERRERA MENDOZA def. VERNON RAMOS HO via KO/TKO(R1)
+- ERIK PEREZ def. TAYLOR LAPILUS via Decision - Unanimous(R3)
+- BARTOSZ FABINSKI def. HECTOR URBINA via Decision - Unanimous(R3)
+- MICHEL PRAZERES def. VALMIR LAZARO via Decision - Split(R3)
+- ALEJANDRO PEREZ def. SCOTT JORGENSEN via KO/TKO(R2)
+- HENRY CEJUDO def. JUSSIER FORMIGA via Decision - Split(R3)
+- RICARDO LAMAS def. DIEGO SANCHEZ via Decision - Unanimous(R3)
+- LEANDRO SILVA def. EFRAIN ESCUDERO via Decision - Unanimous(R3)
+- ERICK MONTANO def. ENRIQUE MARIN via Decision - Split(R3)

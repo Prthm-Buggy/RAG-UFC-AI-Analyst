@@ -1,0 +1,14 @@
+Event: UFC 280: Oliveira vs. Makhachev
+    Date: October 22, 2022
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Welterweight
+    
+
+    Result: BELAL MUHAMMAD defeated SEAN BRADY via KO/TKO  
+  at 4:47 of round 2
+  Key stats:
+  - BELAL MUHAMMAD landed 80 significant strikes
+  - SEAN BRADY landed 58 significant strikes
+  - Knockdowns: BELAL MUHAMMAD 0,  SEAN BRADY 0
+  - Takedowns: BELAL MUHAMMAD 0,  SEAN BRADY 0
+  Bonus: perf

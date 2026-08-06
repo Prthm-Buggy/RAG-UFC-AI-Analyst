@@ -1,0 +1,11 @@
+Fighter: JESSICA AGUILAR
+  Date of Birth: 1982-05-08
+  Career record: 5
+  First fight: 2015-08-01
+  Last fight: 2019-03-30
+
+Career Statistics:
+- Significant Strikes Landed :314
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :1

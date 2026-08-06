@@ -1,0 +1,13 @@
+Event: UFC 322: Della Maddalena vs. Makhachev
+    Date: November 15, 2025
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: BAISANGUR SUSURKAEV defeated ERIC MCCONICO via KO/TKO  
+  at 1:38 of round 3
+  Key stats:
+  - BAISANGUR SUSURKAEV landed 53 significant strikes
+  - ERIC MCCONICO landed 53 significant strikes
+  - Knockdowns: BAISANGUR SUSURKAEV 1,  ERIC MCCONICO 0
+  - Takedowns: BAISANGUR SUSURKAEV 2,  ERIC MCCONICO 0

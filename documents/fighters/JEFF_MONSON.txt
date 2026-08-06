@@ -1,0 +1,11 @@
+Fighter: JEFF MONSON
+  Date of Birth: 1971-01-18
+  Career record: 7
+  First fight: 2000-09-22
+  Last fight: 2006-11-18
+
+Career Statistics:
+- Significant Strikes Landed :116
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :3

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Imavov vs. Borralho
+    Date: September 06, 2025
+    Location: Paris, Ile-de-France, France
+    Weight Class: Lightweight
+    
+
+    Result: KAUE FERNANDES defeated HARRY HARDWICK via KO/TKO  
+  at 3:21 of round 1
+  Key stats:
+  - KAUE FERNANDES landed 24 significant strikes
+  - HARRY HARDWICK landed 8 significant strikes
+  - Knockdowns: KAUE FERNANDES 1,  HARRY HARDWICK 0
+  - Takedowns: KAUE FERNANDES 0,  HARRY HARDWICK 0

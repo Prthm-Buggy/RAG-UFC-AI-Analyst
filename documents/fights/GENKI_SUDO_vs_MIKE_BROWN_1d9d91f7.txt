@@ -1,0 +1,13 @@
+Event: UFC 47: It's On!
+    Date: April 02, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: GENKI SUDO defeated MIKE BROWN via Submission  
+  at 3:31 of round 1
+  Key stats:
+  - GENKI SUDO landed 6 significant strikes
+  - MIKE BROWN landed 13 significant strikes
+  - Knockdowns: GENKI SUDO 0,  MIKE BROWN 0
+  - Takedowns: GENKI SUDO 1,  MIKE BROWN 1

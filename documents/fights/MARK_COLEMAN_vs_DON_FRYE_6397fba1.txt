@@ -1,0 +1,14 @@
+Event: UFC 10: The Tournament
+    Date: July 12, 1996
+    Location: Birmingham, Alabama, USA
+    Weight Class: Open Weight
+    
+
+    Result: MARK COLEMAN defeated DON FRYE via KO/TKO  
+  at 11:34 of round 1
+  Key stats:
+  - MARK COLEMAN landed 34 significant strikes
+  - DON FRYE landed 1 significant strikes
+  - Knockdowns: MARK COLEMAN 0,  DON FRYE 0
+  - Takedowns: MARK COLEMAN 3,  DON FRYE 0
+  Bonus: belt

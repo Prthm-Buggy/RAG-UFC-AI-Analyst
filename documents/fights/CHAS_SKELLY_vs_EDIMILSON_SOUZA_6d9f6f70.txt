@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs Henderson 3
+    Date: November 07, 2015
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: CHAS SKELLY defeated EDIMILSON SOUZA via Submission  
+  at 1:56 of round 2
+  Key stats:
+  - CHAS SKELLY landed 7 significant strikes
+  - EDIMILSON SOUZA landed 19 significant strikes
+  - Knockdowns: CHAS SKELLY 0,  EDIMILSON SOUZA 1
+  - Takedowns: CHAS SKELLY 2,  EDIMILSON SOUZA 0

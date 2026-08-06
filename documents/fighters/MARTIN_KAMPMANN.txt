@@ -1,0 +1,11 @@
+Fighter: MARTIN KAMPMANN
+  Date of Birth: 1982-04-17
+  Career record: 17
+  First fight: 2006-08-17
+  Last fight: 2013-08-28
+
+Career Statistics:
+- Significant Strikes Landed :494
+- Total takedowns landed :19
+- Knockdowns :5
+- Submission Attempts :21

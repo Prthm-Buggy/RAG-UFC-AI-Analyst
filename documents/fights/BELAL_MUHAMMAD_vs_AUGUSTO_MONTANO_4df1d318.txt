@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Johnson
+    Date: September 17, 2016
+    Location: Hidalgo, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: BELAL MUHAMMAD defeated AUGUSTO MONTANO via KO/TKO  
+  at 4:19 of round 3
+  Key stats:
+  - BELAL MUHAMMAD landed 66 significant strikes
+  - AUGUSTO MONTANO landed 67 significant strikes
+  - Knockdowns: BELAL MUHAMMAD 0,  AUGUSTO MONTANO 0
+  - Takedowns: BELAL MUHAMMAD 3,  AUGUSTO MONTANO 0

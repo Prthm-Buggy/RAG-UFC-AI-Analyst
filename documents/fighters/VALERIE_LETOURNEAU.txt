@@ -1,0 +1,11 @@
+Fighter: VALERIE LETOURNEAU
+  Date of Birth: 1983-04-29
+  Career record: 6
+  First fight: 2014-06-14
+  Last fight: 2016-12-10
+
+Career Statistics:
+- Significant Strikes Landed :441
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :2

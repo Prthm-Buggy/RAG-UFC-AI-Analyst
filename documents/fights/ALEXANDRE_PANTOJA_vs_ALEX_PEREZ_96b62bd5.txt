@@ -1,0 +1,14 @@
+Event: UFC 277: Pena vs. Nunes 2
+    Date: July 30, 2022
+    Location: Dallas, Texas, USA
+    Weight Class: Flyweight
+    
+
+    Result: ALEXANDRE PANTOJA defeated ALEX PEREZ via Submission  
+  at 1:31 of round 1
+  Key stats:
+  - ALEXANDRE PANTOJA landed 8 significant strikes
+  - ALEX PEREZ landed 10 significant strikes
+  - Knockdowns: ALEXANDRE PANTOJA 0,  ALEX PEREZ 0
+  - Takedowns: ALEXANDRE PANTOJA 1,  ALEX PEREZ 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC 135: Jones vs Rampage
+    Date: September 24, 2011
+    Location: Denver, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: NATE DIAZ defeated TAKANORI GOMI via Submission  
+  at 4:27 of round 1
+  Key stats:
+  - NATE DIAZ landed 36 significant strikes
+  - TAKANORI GOMI landed 4 significant strikes
+  - Knockdowns: NATE DIAZ 1,  TAKANORI GOMI 0
+  - Takedowns: NATE DIAZ 0,  TAKANORI GOMI 0
+  Bonus: sub

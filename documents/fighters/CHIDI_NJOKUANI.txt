@@ -1,0 +1,11 @@
+Fighter: CHIDI NJOKUANI
+  Date of Birth: 1988-12-31
+  Career record: 10
+  First fight: 2022-02-05
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :478
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :1

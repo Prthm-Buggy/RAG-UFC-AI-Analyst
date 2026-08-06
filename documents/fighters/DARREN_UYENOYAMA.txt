@@ -1,0 +1,11 @@
+Fighter: DARREN UYENOYAMA
+  Date of Birth: 1979-10-15
+  Career record: 4
+  First fight: 2011-11-12
+  Last fight: 2013-12-14
+
+Career Statistics:
+- Significant Strikes Landed :66
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :3

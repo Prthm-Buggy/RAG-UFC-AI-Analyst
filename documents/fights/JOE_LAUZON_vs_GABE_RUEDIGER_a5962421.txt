@@ -1,0 +1,14 @@
+Event: UFC 118: Edgar vs Penn 2
+    Date: August 28, 2010
+    Location: Boston, Massachusetts, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE LAUZON defeated GABE RUEDIGER via Submission  
+  at 2:01 of round 1
+  Key stats:
+  - JOE LAUZON landed 19 significant strikes
+  - GABE RUEDIGER landed 1 significant strikes
+  - Knockdowns: JOE LAUZON 0,  GABE RUEDIGER 0
+  - Takedowns: JOE LAUZON 2,  GABE RUEDIGER 0
+  Bonus: sub

@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Te Huna vs Marquardt
+    Date : June 28, 2014
+    Location: Auckland, New Zealand
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Flyweight, Welterweight, Lightweight, Middleweight, Featherweight, Light Heavyweight
+
+    Fight Results:
+  - CHARLES OLIVEIRA def. HATSU HIOKI via Submission(R2)
+- JARED ROSHOLT def. SOA PALELEI via Decision - Unanimous(R3)
+- DAN HOOKER def. IAN ENTWISTLE via KO/TKO(R1)
+- VIK GRUJIC def. CHRIS INDICH via KO/TKO(R1)
+- RICHIE VACULIK def. ROLDAN SANGCHA'AN via Decision - Unanimous(R3)
+- NATE MARQUARDT def. JAMES TE HUNA via Submission(R1)
+- ROBERT WHITTAKER def. MIKE RHODES via Decision - Unanimous(R3)
+- NEIL MAGNY def. RODRIGO DE LIMA via KO/TKO(R2)
+- JAKE MATTHEWS def. DASHON JOHNSON via Submission(R3)
+- GIAN VILLANTE def. SEAN O'CONNELL via Decision - Split(R3)

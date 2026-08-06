@@ -1,0 +1,14 @@
+Event: UFC 93: Franklin vs Henderson
+    Date: January 17, 2009
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Middleweight
+    
+
+    Result: ALAN BELCHER defeated DENIS KANG via Submission  
+  at 4:36 of round 2
+  Key stats:
+  - ALAN BELCHER landed 9 significant strikes
+  - DENIS KANG landed 26 significant strikes
+  - Knockdowns: ALAN BELCHER 0,  DENIS KANG 0
+  - Takedowns: ALAN BELCHER 0,  DENIS KANG 3
+  Bonus: sub

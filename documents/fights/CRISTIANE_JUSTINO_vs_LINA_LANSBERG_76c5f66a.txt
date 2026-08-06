@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cyborg vs. Lansberg
+    Date: September 24, 2016
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Catch Weight
+    
+
+    Result: CRISTIANE JUSTINO defeated LINA LANSBERG via KO/TKO  
+  at 2:29 of round 2
+  Key stats:
+  - CRISTIANE JUSTINO landed 84 significant strikes
+  - LINA LANSBERG landed 14 significant strikes
+  - Knockdowns: CRISTIANE JUSTINO 0,  LINA LANSBERG 0
+  - Takedowns: CRISTIANE JUSTINO 2,  LINA LANSBERG 0

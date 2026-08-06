@@ -1,0 +1,13 @@
+Event: UFC 15: Collision Course
+    Date: October 17, 1997
+    Location: Bay St. Louis, Mississippi, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DWAYNE CASON defeated HOUSTON DORR via KO/TKO  
+  at 3:43 of round 1
+  Key stats:
+  - DWAYNE CASON landed 11 significant strikes
+  - HOUSTON DORR landed 1 significant strikes
+  - Knockdowns: DWAYNE CASON 0,  HOUSTON DORR 0
+  - Takedowns: DWAYNE CASON 1,  HOUSTON DORR 0

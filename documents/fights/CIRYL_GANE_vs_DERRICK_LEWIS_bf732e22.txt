@@ -1,0 +1,14 @@
+Event: UFC 265: Lewis vs. Gane
+    Date: August 07, 2021
+    Location: Houston, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CIRYL GANE defeated DERRICK LEWIS via KO/TKO  
+  at 4:11 of round 3
+  Key stats:
+  - CIRYL GANE landed 98 significant strikes
+  - DERRICK LEWIS landed 16 significant strikes
+  - Knockdowns: CIRYL GANE 0,  DERRICK LEWIS 0
+  - Takedowns: CIRYL GANE 0,  DERRICK LEWIS 0
+  Bonus: belt

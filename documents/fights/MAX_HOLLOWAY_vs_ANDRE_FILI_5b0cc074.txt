@@ -1,0 +1,13 @@
+Event: UFC 172: Jones vs Teixeira
+    Date: April 26, 2014
+    Location: Baltimore, Maryland, USA
+    Weight Class: Featherweight
+    
+
+    Result: MAX HOLLOWAY defeated ANDRE FILI via Submission  
+  at 3:39 of round 3
+  Key stats:
+  - MAX HOLLOWAY landed 47 significant strikes
+  - ANDRE FILI landed 44 significant strikes
+  - Knockdowns: MAX HOLLOWAY 0,  ANDRE FILI 0
+  - Takedowns: MAX HOLLOWAY 0,  ANDRE FILI 3

@@ -1,0 +1,19 @@
+Event : UFC 235: Jones vs. Smith
+    Date : March 02, 2019
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Women's Strawweight, Welterweight, Light Heavyweight, Featherweight, Women's Bantamweight, Middleweight
+
+    Fight Results:
+  - BEN ASKREN def. ROBBIE LAWLER via Submission(R1)
+- KAMARU USMAN def. TYRON WOODLEY via Decision - Unanimous(R5)
+- EDMEN SHAHBAZYAN def. CHARLES BYRD via KO/TKO(R1)
+- JON JONES def. ANTHONY SMITH via Decision - Unanimous(R5)
+- MACY CHIASSON def. GINA MAZANY via KO/TKO(R1)
+- CODY STAMANN def. ALEJANDRO PEREZ via Decision - Unanimous(R3)
+- ZHANG WEILI def. TECIA PENNINGTON via Decision - Unanimous(R3)
+- JOHNNY WALKER def. MISHA CIRKUNOV via KO/TKO(R1)
+- PEDRO MUNHOZ def. CODY GARBRANDT via KO/TKO(R1)
+- DIEGO SANCHEZ def. MICKEY GALL via KO/TKO(R2)
+- HANNAH CIFERS def. POLYANA VIANA via Decision - Split(R3)
+- ZABIT MAGOMEDSHARIPOV def. JEREMY STEPHENS via Decision - Unanimous(R3)

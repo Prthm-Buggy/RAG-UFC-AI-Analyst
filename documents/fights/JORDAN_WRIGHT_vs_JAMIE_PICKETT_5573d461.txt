@@ -1,0 +1,13 @@
+Event: UFC 262: Oliveira vs. Chandler
+    Date: May 15, 2021
+    Location: Houston, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: JORDAN WRIGHT defeated JAMIE PICKETT via KO/TKO  
+  at 1:04 of round 1
+  Key stats:
+  - JORDAN WRIGHT landed 26 significant strikes
+  - JAMIE PICKETT landed 4 significant strikes
+  - Knockdowns: JORDAN WRIGHT 1,  JAMIE PICKETT 0
+  - Takedowns: JORDAN WRIGHT 0,  JAMIE PICKETT 0

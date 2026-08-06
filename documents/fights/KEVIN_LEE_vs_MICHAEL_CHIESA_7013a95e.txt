@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Chiesa vs. Lee
+    Date: June 25, 2017
+    Location: Oklahoma City, Oklahoma, USA
+    Weight Class: Lightweight
+    
+
+    Result: KEVIN LEE defeated MICHAEL CHIESA via Submission  
+  at 4:37 of round 1
+  Key stats:
+  - KEVIN LEE landed 22 significant strikes
+  - MICHAEL CHIESA landed 4 significant strikes
+  - Knockdowns: KEVIN LEE 0,  MICHAEL CHIESA 0
+  - Takedowns: KEVIN LEE 1,  MICHAEL CHIESA 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Penn
+    Date: January 15, 2017
+    Location: Phoenix, Arizona, USA
+    Weight Class: Bantamweight
+    
+
+    Result: AUGUSTO MENDES defeated FRANKIE SAENZ via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - AUGUSTO MENDES landed 42 significant strikes
+  - FRANKIE SAENZ landed 40 significant strikes
+  - Knockdowns: AUGUSTO MENDES 0,  FRANKIE SAENZ 1
+  - Takedowns: AUGUSTO MENDES 4,  FRANKIE SAENZ 0
+  Bonus: fight

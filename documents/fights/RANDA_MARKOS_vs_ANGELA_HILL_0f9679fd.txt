@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Thompson vs. Pettis
+    Date: March 23, 2019
+    Location: Nashville, Tennessee, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: RANDA MARKOS defeated ANGELA HILL via Submission  
+  at 4:24 of round 1
+  Key stats:
+  - RANDA MARKOS landed 13 significant strikes
+  - ANGELA HILL landed 2 significant strikes
+  - Knockdowns: RANDA MARKOS 0,  ANGELA HILL 0
+  - Takedowns: RANDA MARKOS 1,  ANGELA HILL 0
+  Bonus: perf

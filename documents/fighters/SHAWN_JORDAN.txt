@@ -1,0 +1,11 @@
+Fighter: SHAWN JORDAN
+  Date of Birth: 1984-10-21
+  Career record: 10
+  First fight: 2012-03-02
+  Last fight: 2015-10-03
+
+Career Statistics:
+- Significant Strikes Landed :235
+- Total takedowns landed :9
+- Knockdowns :3
+- Submission Attempts :0

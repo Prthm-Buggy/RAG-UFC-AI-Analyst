@@ -1,0 +1,11 @@
+Fighter: CHRISTIAN LEROY DUNCAN
+  Date of Birth: 1995-07-24
+  Career record: 9
+  First fight: 2023-03-18
+  Last fight: 2026-03-21
+
+Career Statistics:
+- Significant Strikes Landed :401
+- Total takedowns landed :2
+- Knockdowns :3
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Nogueira vs. Werdum
+    Date: June 08, 2013
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: FABRICIO WERDUM defeated ANTONIO RODRIGO NOGUEIRA via Submission  
+  at 2:41 of round 2
+  Key stats:
+  - FABRICIO WERDUM landed 32 significant strikes
+  - ANTONIO RODRIGO NOGUEIRA landed 14 significant strikes
+  - Knockdowns: FABRICIO WERDUM 0,  ANTONIO RODRIGO NOGUEIRA 0
+  - Takedowns: FABRICIO WERDUM 1,  ANTONIO RODRIGO NOGUEIRA 0

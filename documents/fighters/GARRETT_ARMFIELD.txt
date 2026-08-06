@@ -1,0 +1,11 @@
+Fighter: GARRETT ARMFIELD
+  Date of Birth: 1996-10-09
+  Career record: 5
+  First fight: 2022-07-09
+  Last fight: 2024-11-02
+
+Career Statistics:
+- Significant Strikes Landed :291
+- Total takedowns landed :4
+- Knockdowns :2
+- Submission Attempts :2

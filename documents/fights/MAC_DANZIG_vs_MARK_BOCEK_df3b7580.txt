@@ -1,0 +1,13 @@
+Event: UFC 83: Serra vs St-Pierre 2
+    Date: April 19, 2008
+    Location: Montreal, Quebec, Canada
+    Weight Class: Lightweight
+    
+
+    Result: MAC DANZIG defeated MARK BOCEK via Submission  
+  at 3:48 of round 3
+  Key stats:
+  - MAC DANZIG landed 46 significant strikes
+  - MARK BOCEK landed 22 significant strikes
+  - Knockdowns: MAC DANZIG 1,  MARK BOCEK 0
+  - Takedowns: MAC DANZIG 1,  MARK BOCEK 3

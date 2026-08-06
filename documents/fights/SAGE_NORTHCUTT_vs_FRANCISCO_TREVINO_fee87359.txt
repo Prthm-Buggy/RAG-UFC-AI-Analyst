@@ -1,0 +1,13 @@
+Event: UFC 192: Cormier vs Gustafsson
+    Date: October 03, 2015
+    Location: Houston, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: SAGE NORTHCUTT defeated FRANCISCO TREVINO via KO/TKO  
+  at 0:57 of round 1
+  Key stats:
+  - SAGE NORTHCUTT landed 21 significant strikes
+  - FRANCISCO TREVINO landed 1 significant strikes
+  - Knockdowns: SAGE NORTHCUTT 0,  FRANCISCO TREVINO 0
+  - Takedowns: SAGE NORTHCUTT 1,  FRANCISCO TREVINO 0

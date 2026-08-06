@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bonfim vs. Brown
+    Date: November 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRISTIAN LEROY DUNCAN defeated MARCO TULIO via KO/TKO  
+  at 3:20 of round 2
+  Key stats:
+  - CHRISTIAN LEROY DUNCAN landed 23 significant strikes
+  - MARCO TULIO landed 27 significant strikes
+  - Knockdowns: CHRISTIAN LEROY DUNCAN 1,  MARCO TULIO 0
+  - Takedowns: CHRISTIAN LEROY DUNCAN 1,  MARCO TULIO 2
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 82: Pride of a Champion
+    Date: March 01, 2008
+    Location: Columbus, Ohio, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated JAKE O'BRIEN via KO/TKO  
+  at 4:17 of round 2
+  Key stats:
+  - ANDREI ARLOVSKI landed 14 significant strikes
+  - JAKE O'BRIEN landed 4 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 0,  JAKE O'BRIEN 0
+  - Takedowns: ANDREI ARLOVSKI 1,  JAKE O'BRIEN 2

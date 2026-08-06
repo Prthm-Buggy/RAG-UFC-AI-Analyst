@@ -1,0 +1,13 @@
+Event: UFC 100
+    Date: July 11, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated JAKE O'BRIEN via Submission  
+  at 2:43 of round 2
+  Key stats:
+  - JON JONES landed 25 significant strikes
+  - JAKE O'BRIEN landed 11 significant strikes
+  - Knockdowns: JON JONES 0,  JAKE O'BRIEN 0
+  - Takedowns: JON JONES 0,  JAKE O'BRIEN 0

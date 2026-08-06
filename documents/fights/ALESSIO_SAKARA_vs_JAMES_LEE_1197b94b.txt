@@ -1,0 +1,13 @@
+Event: UFC 80: Rapid Fire
+    Date: January 19, 2008
+    Location: Newcastle, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALESSIO SAKARA defeated JAMES LEE via KO/TKO  
+  at 1:30 of round 1
+  Key stats:
+  - ALESSIO SAKARA landed 8 significant strikes
+  - JAMES LEE landed 0 significant strikes
+  - Knockdowns: ALESSIO SAKARA 0,  JAMES LEE 0
+  - Takedowns: ALESSIO SAKARA 0,  JAMES LEE 2

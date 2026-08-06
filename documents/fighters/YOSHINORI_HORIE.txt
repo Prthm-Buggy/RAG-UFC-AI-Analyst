@@ -1,0 +1,11 @@
+Fighter: YOSHINORI HORIE
+  Date of Birth: 1995-05-10
+  Career record: 1
+  First fight: 2019-07-27
+  Last fight: 2019-07-27
+
+Career Statistics:
+- Significant Strikes Landed :39
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

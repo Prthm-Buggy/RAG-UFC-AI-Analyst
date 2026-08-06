@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Covington vs. Buckley
+    Date: December 14, 2024
+    Location: Tampa, Florida, USA
+    Weight Class: Featherweight
+    
+
+    Result: CUB SWANSON defeated BILLY QUARANTILLO via KO/TKO  
+  at 1:36 of round 3
+  Key stats:
+  - CUB SWANSON landed 99 significant strikes
+  - BILLY QUARANTILLO landed 97 significant strikes
+  - Knockdowns: CUB SWANSON 1,  BILLY QUARANTILLO 0
+  - Takedowns: CUB SWANSON 0,  BILLY QUARANTILLO 3
+  Bonus: fight

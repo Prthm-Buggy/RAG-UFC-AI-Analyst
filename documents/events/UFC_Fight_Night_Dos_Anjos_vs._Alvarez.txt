@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Dos Anjos vs. Alvarez
+    Date : July 07, 2016
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Welterweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - DERRICK LEWIS def. ROY NELSON via Decision - Split(R3)
+- GILBERT BURNS def. LUKASZ SAJEWSKI via Submission(R1)
+- VICENTE LUQUE def. ALVARO HERRERA MENDOZA via Submission(R2)
+- PEDRO MUNHOZ def. RUSSELL DOANE via Submission(R1)
+- MARCO BELTRAN def. REGINALDO VIEIRA via Submission(R2)
+- JOE DUFFY def. MITCH CLARKE via Submission(R1)
+- ALAN JOUBAN def. BELAL MUHAMMAD via Decision - Unanimous(R3)
+- ALBERTO MINA def. MIKE PYLE via KO/TKO(R2)
+- EDDIE ALVAREZ def. RAFAEL DOS ANJOS via KO/TKO(R1)
+- JOHN MAKDESSI def. MEHDI BAGHDAD via Decision - Split(R3)
+- FELIPE ARANTES def. JERROD SANDERS via Submission(R2)
+- ANTHONY BIRCHAK def. DILENO LOPES via Decision - Split(R3)

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hill vs. Rountree Jr.
+    Date: June 21, 2025
+    Location: Baku, Azerbaijan
+    Weight Class: Lightweight
+    
+
+    Result: NAZIM SADYKHOV defeated NIKOLAS MOTTA via KO/TKO  
+  at 4:17 of round 2
+  Key stats:
+  - NAZIM SADYKHOV landed 93 significant strikes
+  - NIKOLAS MOTTA landed 66 significant strikes
+  - Knockdowns: NAZIM SADYKHOV 1,  NIKOLAS MOTTA 1
+  - Takedowns: NAZIM SADYKHOV 0,  NIKOLAS MOTTA 0
+  Bonus: fight

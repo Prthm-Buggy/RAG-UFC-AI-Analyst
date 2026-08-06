@@ -1,0 +1,14 @@
+Event: UFC 137: Penn vs Diaz
+    Date: October 29, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: BART PALASZEWSKI defeated TYSON GRIFFIN via KO/TKO  
+  at 2:45 of round 1
+  Key stats:
+  - BART PALASZEWSKI landed 17 significant strikes
+  - TYSON GRIFFIN landed 6 significant strikes
+  - Knockdowns: BART PALASZEWSKI 1,  TYSON GRIFFIN 0
+  - Takedowns: BART PALASZEWSKI 0,  TYSON GRIFFIN 0
+  Bonus: ko

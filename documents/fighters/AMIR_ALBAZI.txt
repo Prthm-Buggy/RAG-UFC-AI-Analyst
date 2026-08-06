@@ -1,0 +1,11 @@
+Fighter: AMIR ALBAZI
+  Date of Birth: 1993-10-27
+  Career record: 7
+  First fight: 2020-07-18
+  Last fight: 2026-02-07
+
+Career Statistics:
+- Significant Strikes Landed :251
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :3

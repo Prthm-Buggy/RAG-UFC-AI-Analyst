@@ -1,0 +1,11 @@
+Fighter: FELIPE LIMA
+  Date of Birth: 1998-05-07
+  Career record: 3
+  First fight: 2024-06-22
+  Last fight: 2025-06-28
+
+Career Statistics:
+- Significant Strikes Landed :118
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :2

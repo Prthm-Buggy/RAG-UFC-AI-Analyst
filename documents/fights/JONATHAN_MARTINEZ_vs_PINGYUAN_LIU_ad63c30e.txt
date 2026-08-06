@@ -1,0 +1,14 @@
+Event: UFC Fight Night: De Randamie vs. Ladd
+    Date: July 13, 2019
+    Location: Sacramento, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JONATHAN MARTINEZ defeated PINGYUAN LIU via KO/TKO  
+  at 3:54 of round 3
+  Key stats:
+  - JONATHAN MARTINEZ landed 32 significant strikes
+  - PINGYUAN LIU landed 27 significant strikes
+  - Knockdowns: JONATHAN MARTINEZ 1,  PINGYUAN LIU 0
+  - Takedowns: JONATHAN MARTINEZ 0,  PINGYUAN LIU 0
+  Bonus: perf

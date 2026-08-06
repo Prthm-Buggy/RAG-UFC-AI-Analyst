@@ -1,0 +1,15 @@
+Event : UFC 35: Throwdown
+    Date : January 11, 2002
+    Location: Uncasville, Connecticut, USA
+    Number of Fights: 8
+    Weight Classes: Light Heavyweight, Lightweight, Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - EUGENE JACKSON def. KEITH ROCKEL via Submission(R2)
+- RICCO RODRIGUEZ def. JEFF MONSON via KO/TKO(R3)
+- GIL CASTILLO def. CHRIS BRENNAN via Decision - Unanimous(R3)
+- MURILO BUSTAMANTE def. DAVE MENNE via KO/TKO(R2)
+- KEVIN RANDLEMAN def. RENATO SOBRAL via Decision - Unanimous(R3)
+- ANDREI SEMENOV def. RICARDO ALMEIDA via KO/TKO(R2)
+- JENS PULVER def. BJ PENN via Decision - Majority(R5)
+- CHUCK LIDDELL def. AMAR SULOEV via Decision - Unanimous(R3)

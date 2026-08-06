@@ -1,0 +1,11 @@
+Fighter: MELQUIZAEL COSTA
+  Date of Birth: 1996-09-14
+  Career record: 10
+  First fight: 2023-01-21
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :462
+- Total takedowns landed :11
+- Knockdowns :2
+- Submission Attempts :6

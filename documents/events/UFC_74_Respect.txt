@@ -1,0 +1,16 @@
+Event : UFC 74: Respect
+    Date : August 25, 2007
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Welterweight, Middleweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - GEORGES ST-PIERRE def. JOSH KOSCHECK via Decision - Unanimous(R3)
+- FRANK MIR def. ANTONI HARDONK via Submission(R1)
+- CLAY GUIDA def. MARCUS AURELIO via Decision - Split(R3)
+- THALES LEITES def. RYAN JENSEN via Submission(R1)
+- PATRICK COTE def. KENDALL GROVE via KO/TKO(R1)
+- RENATO SOBRAL def. DAVID HEATH via Submission(R2)
+- JOE STEVENSON def. KURT PELLEGRINO via Decision - Unanimous(R3)
+- RANDY COUTURE def. GABRIEL GONZAGA via KO/TKO(R3)
+- ROGER HUERTA def. ALBERTO CRANE via KO/TKO(R3)

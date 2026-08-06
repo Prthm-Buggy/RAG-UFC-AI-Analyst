@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Jung vs. Ige
+    Date: June 19, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT BROWN defeated DHIEGO LIMA via KO/TKO  
+  at 3:02 of round 2
+  Key stats:
+  - MATT BROWN landed 27 significant strikes
+  - DHIEGO LIMA landed 23 significant strikes
+  - Knockdowns: MATT BROWN 1,  DHIEGO LIMA 0
+  - Takedowns: MATT BROWN 0,  DHIEGO LIMA 0
+  Bonus: perf

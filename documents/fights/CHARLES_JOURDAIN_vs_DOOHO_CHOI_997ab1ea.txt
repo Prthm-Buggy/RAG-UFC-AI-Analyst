@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edgar vs. The Korean Zombie
+    Date: December 21, 2019
+    Location: Busan, South Korea
+    Weight Class: Featherweight
+    
+
+    Result: CHARLES JOURDAIN defeated DOOHO CHOI via KO/TKO  
+  at 4:32 of round 2
+  Key stats:
+  - CHARLES JOURDAIN landed 64 significant strikes
+  - DOOHO CHOI landed 42 significant strikes
+  - Knockdowns: CHARLES JOURDAIN 2,  DOOHO CHOI 1
+  - Takedowns: CHARLES JOURDAIN 0,  DOOHO CHOI 0
+  Bonus: fight

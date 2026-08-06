@@ -1,0 +1,13 @@
+Event: UFC 211: Miocic vs. Dos Santos
+    Date: May 13, 2017
+    Location: Dallas, Texas, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: CORTNEY CASEY defeated JESSICA AGUILAR via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CORTNEY CASEY landed 103 significant strikes
+  - JESSICA AGUILAR landed 57 significant strikes
+  - Knockdowns: CORTNEY CASEY 0,  JESSICA AGUILAR 0
+  - Takedowns: CORTNEY CASEY 0,  JESSICA AGUILAR 4

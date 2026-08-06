@@ -1,0 +1,11 @@
+Fighter: CODY PFISTER
+  Date of Birth: 1990-07-12
+  Career record: 4
+  First fight: 2015-02-14
+  Last fight: 2016-07-13
+
+Career Statistics:
+- Significant Strikes Landed :60
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Thatch
+    Date: February 14, 2015
+    Location: Broomfield, Colorado, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHAS SKELLY defeated JIM ALERS via KO/TKO  
+  at 4:59 of round 2
+  Key stats:
+  - CHAS SKELLY landed 42 significant strikes
+  - JIM ALERS landed 33 significant strikes
+  - Knockdowns: CHAS SKELLY 1,  JIM ALERS 0
+  - Takedowns: CHAS SKELLY 0,  JIM ALERS 1

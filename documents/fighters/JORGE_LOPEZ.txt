@@ -1,0 +1,11 @@
+Fighter: JORGE LOPEZ
+  Date of Birth: 1988-11-21
+  Career record: 2
+  First fight: 2011-09-17
+  Last fight: 2012-05-15
+
+Career Statistics:
+- Significant Strikes Landed :74
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bautista vs. Oliveira
+    Date: February 07, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RIZVAN KUNIEV defeated JAILTON ALMEIDA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RIZVAN KUNIEV landed 43 significant strikes
+  - JAILTON ALMEIDA landed 31 significant strikes
+  - Knockdowns: RIZVAN KUNIEV 0,  JAILTON ALMEIDA 0
+  - Takedowns: RIZVAN KUNIEV 0,  JAILTON ALMEIDA 0

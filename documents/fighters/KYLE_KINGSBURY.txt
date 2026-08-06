@@ -1,0 +1,11 @@
+Fighter: KYLE KINGSBURY
+  Date of Birth: 1982-03-22
+  Career record: 9
+  First fight: 2008-12-13
+  Last fight: 2014-07-26
+
+Career Statistics:
+- Significant Strikes Landed :304
+- Total takedowns landed :18
+- Knockdowns :1
+- Submission Attempts :0

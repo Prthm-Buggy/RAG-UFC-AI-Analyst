@@ -1,0 +1,14 @@
+Event: UFC on FOX: VanZant vs. Waterson
+    Date: December 17, 2016
+    Location: Sacramento, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: PAUL CRAIG defeated HENRIQUE DA SILVA via Submission  
+  at 1:59 of round 2
+  Key stats:
+  - PAUL CRAIG landed 31 significant strikes
+  - HENRIQUE DA SILVA landed 16 significant strikes
+  - Knockdowns: PAUL CRAIG 0,  HENRIQUE DA SILVA 0
+  - Takedowns: PAUL CRAIG 1,  HENRIQUE DA SILVA 1
+  Bonus: perf

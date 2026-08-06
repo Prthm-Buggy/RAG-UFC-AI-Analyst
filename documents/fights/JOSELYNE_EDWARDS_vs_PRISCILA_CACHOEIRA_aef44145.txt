@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dolidze vs. Hernandez
+    Date: August 09, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JOSELYNE EDWARDS defeated PRISCILA CACHOEIRA via KO/TKO  
+  at 2:24 of round 1
+  Key stats:
+  - JOSELYNE EDWARDS landed 26 significant strikes
+  - PRISCILA CACHOEIRA landed 18 significant strikes
+  - Knockdowns: JOSELYNE EDWARDS 1,  PRISCILA CACHOEIRA 0
+  - Takedowns: JOSELYNE EDWARDS 0,  PRISCILA CACHOEIRA 0
+  Bonus: perf

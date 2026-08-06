@@ -1,0 +1,14 @@
+Event: UFC 111: St-Pierre vs Hardy
+    Date: March 27, 2010
+    Location: Newark, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SHANE CARWIN defeated FRANK MIR via KO/TKO  
+  at 3:48 of round 1
+  Key stats:
+  - SHANE CARWIN landed 49 significant strikes
+  - FRANK MIR landed 3 significant strikes
+  - Knockdowns: SHANE CARWIN 1,  FRANK MIR 0
+  - Takedowns: SHANE CARWIN 0,  FRANK MIR 0
+  Bonus: belt

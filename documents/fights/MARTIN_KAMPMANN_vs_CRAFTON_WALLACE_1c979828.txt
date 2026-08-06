@@ -1,0 +1,13 @@
+Event: UFC Fight Night 6
+    Date: August 17, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARTIN KAMPMANN defeated CRAFTON WALLACE via Submission  
+  at 2:59 of round 1
+  Key stats:
+  - MARTIN KAMPMANN landed 19 significant strikes
+  - CRAFTON WALLACE landed 1 significant strikes
+  - Knockdowns: MARTIN KAMPMANN 0,  CRAFTON WALLACE 0
+  - Takedowns: MARTIN KAMPMANN 1,  CRAFTON WALLACE 0

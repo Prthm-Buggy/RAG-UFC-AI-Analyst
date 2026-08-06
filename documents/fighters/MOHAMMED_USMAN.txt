@@ -1,0 +1,11 @@
+Fighter: MOHAMMED USMAN
+  Date of Birth: 1989-04-01
+  Career record: 6
+  First fight: 2022-08-06
+  Last fight: 2025-06-21
+
+Career Statistics:
+- Significant Strikes Landed :310
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

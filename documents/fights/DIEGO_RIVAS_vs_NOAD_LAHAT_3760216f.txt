@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hendricks vs Thompson
+    Date: February 06, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DIEGO RIVAS defeated NOAD LAHAT via KO/TKO  
+  at 0:23 of round 2
+  Key stats:
+  - DIEGO RIVAS landed 5 significant strikes
+  - NOAD LAHAT landed 7 significant strikes
+  - Knockdowns: DIEGO RIVAS 1,  NOAD LAHAT 0
+  - Takedowns: DIEGO RIVAS 1,  NOAD LAHAT 1
+  Bonus: perf

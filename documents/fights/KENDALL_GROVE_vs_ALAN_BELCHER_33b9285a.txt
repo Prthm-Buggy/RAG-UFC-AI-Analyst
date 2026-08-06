@@ -1,0 +1,14 @@
+Event: UFC 69: Shootout
+    Date: April 07, 2007
+    Location: Houston, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: KENDALL GROVE defeated ALAN BELCHER via Submission  
+  at 4:42 of round 2
+  Key stats:
+  - KENDALL GROVE landed 41 significant strikes
+  - ALAN BELCHER landed 8 significant strikes
+  - Knockdowns: KENDALL GROVE 0,  ALAN BELCHER 0
+  - Takedowns: KENDALL GROVE 1,  ALAN BELCHER 1
+  Bonus: sub

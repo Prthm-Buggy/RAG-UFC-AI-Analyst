@@ -1,0 +1,14 @@
+Event: UFC 99: The Comeback
+    Date: June 13, 2009
+    Location: Cologne, North Rhine-Westphalia, Germany
+    Weight Class: Lightweight
+    
+
+    Result: TERRY ETIM defeated JUSTIN BUCHHOLZ via Submission  
+  at 2:38 of round 2
+  Key stats:
+  - TERRY ETIM landed 27 significant strikes
+  - JUSTIN BUCHHOLZ landed 23 significant strikes
+  - Knockdowns: TERRY ETIM 0,  JUSTIN BUCHHOLZ 1
+  - Takedowns: TERRY ETIM 0,  JUSTIN BUCHHOLZ 0
+  Bonus: sub

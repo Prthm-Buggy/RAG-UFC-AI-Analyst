@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Taira vs. Park
+    Date: August 02, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: NEIL MAGNY defeated ELIZEU ZALESKI DOS SANTOS via KO/TKO  
+  at 4:39 of round 2
+  Key stats:
+  - NEIL MAGNY landed 42 significant strikes
+  - ELIZEU ZALESKI DOS SANTOS landed 20 significant strikes
+  - Knockdowns: NEIL MAGNY 0,  ELIZEU ZALESKI DOS SANTOS 0
+  - Takedowns: NEIL MAGNY 2,  ELIZEU ZALESKI DOS SANTOS 1

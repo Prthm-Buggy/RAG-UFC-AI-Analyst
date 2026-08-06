@@ -1,0 +1,11 @@
+Fighter: RAUL ROSAS JR.
+  Date of Birth: 2004-10-08
+  Career record: 7
+  First fight: 2022-12-10
+  Last fight: 2026-03-07
+
+Career Statistics:
+- Significant Strikes Landed :95
+- Total takedowns landed :32
+- Knockdowns :1
+- Submission Attempts :4

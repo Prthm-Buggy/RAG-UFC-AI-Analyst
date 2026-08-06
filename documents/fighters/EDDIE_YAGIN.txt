@@ -1,0 +1,11 @@
+Fighter: EDDIE YAGIN
+  Date of Birth: 1979-03-23
+  Career record: 2
+  First fight: 2011-09-24
+  Last fight: 2012-04-21
+
+Career Statistics:
+- Significant Strikes Landed :94
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :2

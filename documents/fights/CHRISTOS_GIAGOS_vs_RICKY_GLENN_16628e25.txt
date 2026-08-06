@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Pavlovich vs. Blaydes
+    Date: April 22, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHRISTOS GIAGOS defeated RICKY GLENN via KO/TKO  
+  at 1:35 of round 1
+  Key stats:
+  - CHRISTOS GIAGOS landed 9 significant strikes
+  - RICKY GLENN landed 2 significant strikes
+  - Knockdowns: CHRISTOS GIAGOS 1,  RICKY GLENN 0
+  - Takedowns: CHRISTOS GIAGOS 0,  RICKY GLENN 0
+  Bonus: perf

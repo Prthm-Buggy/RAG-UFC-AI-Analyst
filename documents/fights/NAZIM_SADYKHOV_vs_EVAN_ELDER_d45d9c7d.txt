@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Andrade vs. Blanchfield
+    Date: February 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NAZIM SADYKHOV defeated EVAN ELDER via TKO - Doctor's Stoppage  
+  at 0:38 of round 3
+  Key stats:
+  - NAZIM SADYKHOV landed 64 significant strikes
+  - EVAN ELDER landed 70 significant strikes
+  - Knockdowns: NAZIM SADYKHOV 0,  EVAN ELDER 1
+  - Takedowns: NAZIM SADYKHOV 1,  EVAN ELDER 1
+  Bonus: fight

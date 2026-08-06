@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Felder vs. Hooker
+    Date: February 22, 2020
+    Location: Auckland, New Zealand
+    Weight Class: Flyweight
+    
+
+    Result: KAI KARA-FRANCE defeated TYSON NAM via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KAI KARA-FRANCE landed 78 significant strikes
+  - TYSON NAM landed 50 significant strikes
+  - Knockdowns: KAI KARA-FRANCE 0,  TYSON NAM 0
+  - Takedowns: KAI KARA-FRANCE 0,  TYSON NAM 0

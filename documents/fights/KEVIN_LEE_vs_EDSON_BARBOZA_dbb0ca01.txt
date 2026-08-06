@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Lee
+    Date: April 21, 2018
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: KEVIN LEE defeated EDSON BARBOZA via TKO - Doctor's Stoppage  
+  at 2:18 of round 5
+  Key stats:
+  - KEVIN LEE landed 142 significant strikes
+  - EDSON BARBOZA landed 51 significant strikes
+  - Knockdowns: KEVIN LEE 0,  EDSON BARBOZA 0
+  - Takedowns: KEVIN LEE 4,  EDSON BARBOZA 0

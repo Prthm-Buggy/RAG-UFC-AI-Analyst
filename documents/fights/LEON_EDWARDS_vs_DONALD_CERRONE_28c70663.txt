@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs. Edwards
+    Date: June 23, 2018
+    Location: Kallang, Singapore
+    Weight Class: Welterweight
+    
+
+    Result: LEON EDWARDS defeated DONALD CERRONE via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - LEON EDWARDS landed 84 significant strikes
+  - DONALD CERRONE landed 60 significant strikes
+  - Knockdowns: LEON EDWARDS 0,  DONALD CERRONE 0
+  - Takedowns: LEON EDWARDS 0,  DONALD CERRONE 1

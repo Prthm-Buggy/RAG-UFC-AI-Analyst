@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Murphy
+    Date: May 18, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ARIANE CARNELOSSI defeated PIERA RODRIGUEZ via DQ  
+  at 3:16 of round 2
+  Key stats:
+  - ARIANE CARNELOSSI landed 16 significant strikes
+  - PIERA RODRIGUEZ landed 40 significant strikes
+  - Knockdowns: ARIANE CARNELOSSI 0,  PIERA RODRIGUEZ 1
+  - Takedowns: ARIANE CARNELOSSI 0,  PIERA RODRIGUEZ 1

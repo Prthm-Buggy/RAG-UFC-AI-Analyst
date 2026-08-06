@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bigfoot vs Mir
+    Date: February 22, 2015
+    Location: Porto Alegre, Rio Grande do Sul, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: FRANK MIR defeated ANTONIO SILVA via KO/TKO  
+  at 1:40 of round 1
+  Key stats:
+  - FRANK MIR landed 10 significant strikes
+  - ANTONIO SILVA landed 1 significant strikes
+  - Knockdowns: FRANK MIR 1,  ANTONIO SILVA 0
+  - Takedowns: FRANK MIR 0,  ANTONIO SILVA 0
+  Bonus: perf

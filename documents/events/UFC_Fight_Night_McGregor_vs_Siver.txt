@@ -1,0 +1,19 @@
+Event : UFC Fight Night: McGregor vs Siver
+    Date : January 18, 2015
+    Location: Boston, Massachusetts, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Featherweight, Light Heavyweight, Flyweight, Welterweight, Middleweight
+
+    Fight Results:
+  - CHRIS WADE def. ZHANG LIPENG via Decision - Unanimous(R3)
+- SEAN O'CONNELL def. MATT VAN BUREN via KO/TKO(R3)
+- JOBY SANCHEZ def. TATEKI MATSUDA via Decision - Split(R3)
+- URIAH HALL def. RON STALLINGS via TKO - Doctor's Stoppage(R1)
+- DONALD CERRONE def. BENSON HENDERSON via Decision - Unanimous(R3)
+- CHARLES ROSA def. SEAN SORIANO via Submission(R3)
+- JOHNNY CASE def. FRANKIE PEREZ via KO/TKO(R3)
+- GLEISON TIBAU def. NORMAN PARKE via Decision - Split(R3)
+- CATHAL PENDRED def. SEAN SPENCER via Decision - Unanimous(R3)
+- CONOR MCGREGOR def. DENNIS SIVER via KO/TKO(R2)
+- LORENZ LARKIN def. JOHN HOWARD via KO/TKO(R1)
+- PADDY HOLOHAN def. SHANE HOWELL via Decision - Unanimous(R3)

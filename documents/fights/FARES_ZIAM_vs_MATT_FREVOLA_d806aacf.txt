@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moicano vs. Saint Denis
+    Date: September 28, 2024
+    Location: Paris, Ile-de-France, France
+    Weight Class: Lightweight
+    
+
+    Result: FARES ZIAM defeated MATT FREVOLA via KO/TKO  
+  at 2:59 of round 3
+  Key stats:
+  - FARES ZIAM landed 58 significant strikes
+  - MATT FREVOLA landed 16 significant strikes
+  - Knockdowns: FARES ZIAM 1,  MATT FREVOLA 0
+  - Takedowns: FARES ZIAM 4,  MATT FREVOLA 1
+  Bonus: perf

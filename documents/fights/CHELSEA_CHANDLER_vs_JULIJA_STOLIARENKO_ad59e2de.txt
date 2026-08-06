@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dern vs. Yan
+    Date: October 01, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: CHELSEA CHANDLER defeated JULIJA STOLIARENKO via KO/TKO  
+  at 4:15 of round 1
+  Key stats:
+  - CHELSEA CHANDLER landed 38 significant strikes
+  - JULIJA STOLIARENKO landed 12 significant strikes
+  - Knockdowns: CHELSEA CHANDLER 0,  JULIJA STOLIARENKO 0
+  - Takedowns: CHELSEA CHANDLER 0,  JULIJA STOLIARENKO 1
+  Bonus: perf

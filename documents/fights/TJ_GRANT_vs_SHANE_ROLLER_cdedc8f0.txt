@@ -1,0 +1,13 @@
+Event: UFC Live: Cruz vs Johnson
+    Date: October 01, 2011
+    Location: Washington, DC, USA
+    Weight Class: Lightweight
+    
+
+    Result: TJ GRANT defeated SHANE ROLLER via Submission  
+  at 2:12 of round 3
+  Key stats:
+  - TJ GRANT landed 24 significant strikes
+  - SHANE ROLLER landed 10 significant strikes
+  - Knockdowns: TJ GRANT 0,  SHANE ROLLER 0
+  - Takedowns: TJ GRANT 2,  SHANE ROLLER 1

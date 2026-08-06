@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Werdum vs. Volkov
+    Date: March 17, 2018
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: PAUL CRAIG defeated MAGOMED ANKALAEV via Submission  
+  at 4:59 of round 3
+  Key stats:
+  - PAUL CRAIG landed 18 significant strikes
+  - MAGOMED ANKALAEV landed 59 significant strikes
+  - Knockdowns: PAUL CRAIG 0,  MAGOMED ANKALAEV 0
+  - Takedowns: PAUL CRAIG 2,  MAGOMED ANKALAEV 0
+  Bonus: perf

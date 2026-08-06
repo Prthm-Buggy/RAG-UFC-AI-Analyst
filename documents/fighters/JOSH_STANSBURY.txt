@@ -1,0 +1,11 @@
+Fighter: JOSH STANSBURY
+  Date of Birth: 1984-11-19
+  Career record: 3
+  First fight: 2016-07-08
+  Last fight: 2017-06-25
+
+Career Statistics:
+- Significant Strikes Landed :101
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :2

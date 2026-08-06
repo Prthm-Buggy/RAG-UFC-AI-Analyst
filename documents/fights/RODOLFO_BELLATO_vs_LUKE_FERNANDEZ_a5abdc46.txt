@@ -1,0 +1,14 @@
+Event: UFC 326: Holloway vs. Oliveira 2
+    Date: March 07, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RODOLFO BELLATO defeated LUKE FERNANDEZ via KO/TKO  
+  at 2:42 of round 1
+  Key stats:
+  - RODOLFO BELLATO landed 30 significant strikes
+  - LUKE FERNANDEZ landed 16 significant strikes
+  - Knockdowns: RODOLFO BELLATO 1,  LUKE FERNANDEZ 0
+  - Takedowns: RODOLFO BELLATO 0,  LUKE FERNANDEZ 0
+  Bonus: perf

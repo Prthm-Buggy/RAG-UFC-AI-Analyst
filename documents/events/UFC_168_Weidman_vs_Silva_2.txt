@@ -1,0 +1,17 @@
+Event : UFC 168: Weidman vs Silva 2
+    Date : December 28, 2013
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Women's Bantamweight, Featherweight, Lightweight, Middleweight, Welterweight
+
+    Fight Results:
+  - DUSTIN POIRIER def. DIEGO BRANDAO via KO/TKO(R1)
+- JIM MILLER def. FABRICIO CAMOES via Submission(R1)
+- TRAVIS BROWNE def. JOSH BARNETT via KO/TKO(R1)
+- RONDA ROUSEY def. MIESHA TATE via Submission(R3)
+- ROBERT PERALTA def. ESTEVAN PAYAN via KO/TKO(R3)
+- JOHN HOWARD def. SIYAR BAHADURZADA via Decision - Unanimous(R3)
+- URIAH HALL def. CHRIS LEBEN via TKO - Doctor's Stoppage(R1)
+- CHRIS WEIDMAN def. ANDERSON SILVA via KO/TKO(R2)
+- MICHAEL JOHNSON def. GLEISON TIBAU via KO/TKO(R2)
+- WILLIAM MACARIO def. BOBBY VOELKER via Decision - Unanimous(R3)

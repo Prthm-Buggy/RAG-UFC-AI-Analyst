@@ -1,0 +1,13 @@
+Event: UFC 54: Boiling Point
+    Date: August 20, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAMES IRVIN defeated TERRY MARTIN via KO/TKO  
+  at 0:09 of round 2
+  Key stats:
+  - JAMES IRVIN landed 6 significant strikes
+  - TERRY MARTIN landed 12 significant strikes
+  - Knockdowns: JAMES IRVIN 1,  TERRY MARTIN 0
+  - Takedowns: JAMES IRVIN 0,  TERRY MARTIN 2

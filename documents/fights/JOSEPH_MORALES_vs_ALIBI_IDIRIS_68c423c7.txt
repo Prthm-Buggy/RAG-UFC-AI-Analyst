@@ -1,0 +1,14 @@
+Event: UFC 319: Du Plessis vs. Chimaev
+    Date: August 16, 2025
+    Location: Chicago, Illinois, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOSEPH MORALES defeated ALIBI IDIRIS via Submission  
+  at 3:04 of round 2
+  Key stats:
+  - JOSEPH MORALES landed 29 significant strikes
+  - ALIBI IDIRIS landed 28 significant strikes
+  - Knockdowns: JOSEPH MORALES 0,  ALIBI IDIRIS 0
+  - Takedowns: JOSEPH MORALES 2,  ALIBI IDIRIS 0
+  Bonus: belt

@@ -1,0 +1,11 @@
+Fighter: MACY CHIASSON
+  Date of Birth: 1991-07-27
+  Career record: 14
+  First fight: 2018-11-30
+  Last fight: 2026-02-28
+
+Career Statistics:
+- Significant Strikes Landed :490
+- Total takedowns landed :19
+- Knockdowns :2
+- Submission Attempts :4

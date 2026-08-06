@@ -1,0 +1,16 @@
+Event : The Ultimate Fighter: Team Couture vs. Team Liddell Finale
+    Date : April 09, 2005
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Light Heavyweight, Middleweight, Welterweight
+
+    Fight Results:
+  - RICH FRANKLIN def. KEN SHAMROCK via KO/TKO(R1)
+- DIEGO SANCHEZ def. KENNY FLORIAN via KO/TKO(R1)
+- FORREST GRIFFIN def. STEPHAN BONNAR via Decision - Unanimous(R3)
+- SAM HOGER def. BOBBY SOUTHWORTH via Decision - Unanimous(R3)
+- CHRIS LEBEN def. JASON THACKER via KO/TKO(R1)
+- NATE QUARRY def. LODUNE SINCAID via KO/TKO(R1)
+- MIKE SWICK def. ALEX SCHOENAUER via KO/TKO(R1)
+- ALEX KARALEXIS def. JOSH RAFFERTY via KO/TKO(R1)
+- JOSH KOSCHECK def. CHRIS SANFORD via KO/TKO(R1)

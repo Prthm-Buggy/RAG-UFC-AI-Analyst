@@ -1,0 +1,13 @@
+Event: UFC on FOX: Shogun vs Vera
+    Date: August 04, 2012
+    Location: Los Angeles, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAURICIO RUA defeated BRANDON VERA via KO/TKO  
+  at 4:09 of round 4
+  Key stats:
+  - MAURICIO RUA landed 68 significant strikes
+  - BRANDON VERA landed 67 significant strikes
+  - Knockdowns: MAURICIO RUA 1,  BRANDON VERA 0
+  - Takedowns: MAURICIO RUA 4,  BRANDON VERA 1

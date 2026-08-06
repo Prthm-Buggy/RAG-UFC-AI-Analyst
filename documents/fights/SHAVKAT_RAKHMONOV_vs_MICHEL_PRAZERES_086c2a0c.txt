@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gane vs. Volkov
+    Date: June 26, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SHAVKAT RAKHMONOV defeated MICHEL PRAZERES via Submission  
+  at 2:10 of round 2
+  Key stats:
+  - SHAVKAT RAKHMONOV landed 21 significant strikes
+  - MICHEL PRAZERES landed 6 significant strikes
+  - Knockdowns: SHAVKAT RAKHMONOV 0,  MICHEL PRAZERES 0
+  - Takedowns: SHAVKAT RAKHMONOV 1,  MICHEL PRAZERES 0

@@ -1,0 +1,14 @@
+Event: UFC 84: Ill Will
+    Date: May 24, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: WANDERLEI SILVA defeated KEITH JARDINE via KO/TKO  
+  at 0:36 of round 1
+  Key stats:
+  - WANDERLEI SILVA landed 11 significant strikes
+  - KEITH JARDINE landed 1 significant strikes
+  - Knockdowns: WANDERLEI SILVA 2,  KEITH JARDINE 0
+  - Takedowns: WANDERLEI SILVA 0,  KEITH JARDINE 0
+  Bonus: ko

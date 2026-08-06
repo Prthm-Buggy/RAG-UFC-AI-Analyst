@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Perez vs. Taira
+    Date: June 15, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: WESTIN WILSON defeated JEKA SARAGIH via Submission  
+  at 1:49 of round 1
+  Key stats:
+  - WESTIN WILSON landed 0 significant strikes
+  - JEKA SARAGIH landed 4 significant strikes
+  - Knockdowns: WESTIN WILSON 0,  JEKA SARAGIH 0
+  - Takedowns: WESTIN WILSON 1,  JEKA SARAGIH 0

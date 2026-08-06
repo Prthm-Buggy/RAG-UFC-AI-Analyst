@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edgar vs Faber
+    Date: May 16, 2015
+    Location: Manila, Philippines
+    Weight Class: Lightweight
+    
+
+    Result: KAJAN JOHNSON defeated ZHANG LIPENG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KAJAN JOHNSON landed 20 significant strikes
+  - ZHANG LIPENG landed 20 significant strikes
+  - Knockdowns: KAJAN JOHNSON 0,  ZHANG LIPENG 0
+  - Takedowns: KAJAN JOHNSON 3,  ZHANG LIPENG 1

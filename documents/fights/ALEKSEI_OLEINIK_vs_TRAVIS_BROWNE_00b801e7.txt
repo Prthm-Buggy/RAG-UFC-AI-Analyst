@@ -1,0 +1,13 @@
+Event: UFC 213: Romero vs. Whittaker
+    Date: July 08, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEKSEI OLEINIK defeated TRAVIS BROWNE via Submission  
+  at 3:44 of round 2
+  Key stats:
+  - ALEKSEI OLEINIK landed 53 significant strikes
+  - TRAVIS BROWNE landed 35 significant strikes
+  - Knockdowns: ALEKSEI OLEINIK 1,  TRAVIS BROWNE 1
+  - Takedowns: ALEKSEI OLEINIK 3,  TRAVIS BROWNE 1

@@ -1,0 +1,11 @@
+Fighter: JEAN SILVA
+  Date of Birth: 1996-12-27
+  Career record: 7
+  First fight: 2024-01-13
+  Last fight: 2026-01-24
+
+Career Statistics:
+- Significant Strikes Landed :274
+- Total takedowns landed :5
+- Knockdowns :5
+- Submission Attempts :3

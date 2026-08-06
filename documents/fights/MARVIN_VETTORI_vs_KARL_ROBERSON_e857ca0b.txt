@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Eye vs. Calvillo
+    Date: June 13, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARVIN VETTORI defeated KARL ROBERSON via Submission  
+  at 4:17 of round 1
+  Key stats:
+  - MARVIN VETTORI landed 45 significant strikes
+  - KARL ROBERSON landed 4 significant strikes
+  - Knockdowns: MARVIN VETTORI 0,  KARL ROBERSON 0
+  - Takedowns: MARVIN VETTORI 2,  KARL ROBERSON 0
+  Bonus: perf

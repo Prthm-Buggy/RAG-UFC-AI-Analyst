@@ -1,0 +1,14 @@
+Event: UFC 220: Miocic vs. Ngannou
+    Date: January 20, 2018
+    Location: Boston, Massachusetts, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STIPE MIOCIC defeated FRANCIS NGANNOU via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - STIPE MIOCIC landed 70 significant strikes
+  - FRANCIS NGANNOU landed 21 significant strikes
+  - Knockdowns: STIPE MIOCIC 0,  FRANCIS NGANNOU 0
+  - Takedowns: STIPE MIOCIC 6,  FRANCIS NGANNOU 0
+  Bonus: belt

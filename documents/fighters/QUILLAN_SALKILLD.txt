@@ -1,0 +1,11 @@
+Fighter: QUILLAN SALKILLD
+  Date of Birth: 1999-12-28
+  Career record: 5
+  First fight: 2025-02-08
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :116
+- Total takedowns landed :10
+- Knockdowns :3
+- Submission Attempts :1

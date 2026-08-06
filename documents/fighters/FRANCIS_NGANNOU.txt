@@ -1,0 +1,11 @@
+Fighter: FRANCIS NGANNOU
+  Date of Birth: 1986-09-05
+  Career record: 14
+  First fight: 2015-12-19
+  Last fight: 2022-01-22
+
+Career Statistics:
+- Significant Strikes Landed :229
+- Total takedowns landed :5
+- Knockdowns :8
+- Submission Attempts :2

@@ -1,0 +1,13 @@
+Event: UFC 295: Prochazka vs. Pereira
+    Date: November 11, 2023
+    Location: New York City, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: JARED GORDON defeated MARK MADSEN via KO/TKO  
+  at 4:42 of round 1
+  Key stats:
+  - JARED GORDON landed 36 significant strikes
+  - MARK MADSEN landed 35 significant strikes
+  - Knockdowns: JARED GORDON 1,  MARK MADSEN 0
+  - Takedowns: JARED GORDON 0,  MARK MADSEN 0

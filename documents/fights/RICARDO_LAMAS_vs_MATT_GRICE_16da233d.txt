@@ -1,0 +1,13 @@
+Event: UFC Live: Kongo vs Barry
+    Date: June 26, 2011
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Featherweight
+    
+
+    Result: RICARDO LAMAS defeated MATT GRICE via KO/TKO  
+  at 4:41 of round 1
+  Key stats:
+  - RICARDO LAMAS landed 16 significant strikes
+  - MATT GRICE landed 6 significant strikes
+  - Knockdowns: RICARDO LAMAS 1,  MATT GRICE 0
+  - Takedowns: RICARDO LAMAS 1,  MATT GRICE 0

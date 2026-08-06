@@ -1,0 +1,14 @@
+Event: UFC 79: Nemesis
+    Date: December 29, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GEORGES ST-PIERRE defeated MATT HUGHES via Submission  
+  at 4:54 of round 2
+  Key stats:
+  - GEORGES ST-PIERRE landed 28 significant strikes
+  - MATT HUGHES landed 5 significant strikes
+  - Knockdowns: GEORGES ST-PIERRE 0,  MATT HUGHES 0
+  - Takedowns: GEORGES ST-PIERRE 3,  MATT HUGHES 0
+  Bonus: belt

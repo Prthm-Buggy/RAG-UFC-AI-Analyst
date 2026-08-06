@@ -1,0 +1,13 @@
+Event: UFC on FOX: Maia vs. Condit
+    Date: August 27, 2016
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Lightweight
+    
+
+    Result: FELIPE SILVA defeated SHANE CAMPBELL via KO/TKO  
+  at 1:13 of round 1
+  Key stats:
+  - FELIPE SILVA landed 11 significant strikes
+  - SHANE CAMPBELL landed 9 significant strikes
+  - Knockdowns: FELIPE SILVA 1,  SHANE CAMPBELL 0
+  - Takedowns: FELIPE SILVA 0,  SHANE CAMPBELL 0

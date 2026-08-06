@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rockhold vs. Branch
+    Date: September 16, 2017
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PERRY defeated ALEX REYES via KO/TKO  
+  at 1:19 of round 1
+  Key stats:
+  - MIKE PERRY landed 11 significant strikes
+  - ALEX REYES landed 6 significant strikes
+  - Knockdowns: MIKE PERRY 1,  ALEX REYES 0
+  - Takedowns: MIKE PERRY 0,  ALEX REYES 0
+  Bonus: perf

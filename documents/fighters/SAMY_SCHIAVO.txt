@@ -1,0 +1,11 @@
+Fighter: SAMY SCHIAVO
+  Date of Birth: 1975-12-24
+  Career record: 2
+  First fight: 2008-04-02
+  Last fight: 2008-10-18
+
+Career Statistics:
+- Significant Strikes Landed :27
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

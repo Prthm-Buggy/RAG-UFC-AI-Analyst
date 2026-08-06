@@ -1,0 +1,13 @@
+Event: UFC 293: Adesanya vs. Strickland
+    Date: September 09, 2023
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Welterweight
+    
+
+    Result: KEVIN JOUSSET defeated KIEFER CROSBIE via Submission  
+  at 4:49 of round 1
+  Key stats:
+  - KEVIN JOUSSET landed 29 significant strikes
+  - KIEFER CROSBIE landed 39 significant strikes
+  - Knockdowns: KEVIN JOUSSET 0,  KIEFER CROSBIE 0
+  - Takedowns: KEVIN JOUSSET 1,  KIEFER CROSBIE 0

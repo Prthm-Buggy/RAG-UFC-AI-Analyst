@@ -1,0 +1,22 @@
+Event : UFC 2: No Way Out
+    Date : March 11, 1994
+    Location: Denver, Colorado, USA
+    Number of Fights: 15
+    Weight Classes: Open Weight
+
+    Fight Results:
+  - ROYCE GRACIE def. PATRICK SMITH via KO/TKO(R1)
+- PATRICK SMITH def. JOHNNY RHODES via Submission(R1)
+- ROYCE GRACIE def. REMCO PARDOEL via Submission(R1)
+- ROYCE GRACIE def. JASON DELUCIA via Submission(R1)
+- REMCO PARDOEL def. ORLANDO WIET via KO/TKO(R1)
+- PATRICK SMITH def. SCOTT MORRIS via KO/TKO(R1)
+- JOHNNY RHODES def. FRED ETTISH via Submission(R1)
+- REMCO PARDOEL def. ALBERTA CERRA LEON via Submission(R1)
+- ROYCE GRACIE def. MINOKI ICHIHARA via Submission(R1)
+- JASON DELUCIA def. SCOTT BAKER via Submission(R1)
+- ORLANDO WIET def. ROBERT LUCARELLI via KO/TKO(R1)
+- SCOTT MORRIS def. SEAN DAUGHERTY via Submission(R1)
+- FRANK HAMAKER def. THADDEUS LUSTER via Submission(R1)
+- JOHNNY RHODES def. DAVID LEVICKI via KO/TKO(R1)
+- PATRICK SMITH def. RAY WIZARD via Submission(R1)

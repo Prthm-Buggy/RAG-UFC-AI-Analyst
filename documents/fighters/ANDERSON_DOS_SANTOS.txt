@@ -1,0 +1,11 @@
+Fighter: ANDERSON DOS SANTOS
+  Date of Birth: 1985-07-24
+  Career record: 4
+  First fight: 2018-11-17
+  Last fight: 2021-08-07
+
+Career Statistics:
+- Significant Strikes Landed :124
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :2

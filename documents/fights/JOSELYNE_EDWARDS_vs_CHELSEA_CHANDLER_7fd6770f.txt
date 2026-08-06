@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machado Garry vs. Prates
+    Date: April 26, 2025
+    Location: Kansas City, Missouri, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JOSELYNE EDWARDS defeated CHELSEA CHANDLER via KO/TKO  
+  at 2:31 of round 1
+  Key stats:
+  - JOSELYNE EDWARDS landed 30 significant strikes
+  - CHELSEA CHANDLER landed 10 significant strikes
+  - Knockdowns: JOSELYNE EDWARDS 0,  CHELSEA CHANDLER 0
+  - Takedowns: JOSELYNE EDWARDS 1,  CHELSEA CHANDLER 0

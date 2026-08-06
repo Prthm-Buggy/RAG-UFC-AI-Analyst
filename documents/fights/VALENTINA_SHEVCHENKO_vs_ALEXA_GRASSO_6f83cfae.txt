@@ -1,0 +1,14 @@
+Event: UFC 306: Riyadh Season Noche UFC
+    Date: September 14, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: VALENTINA SHEVCHENKO defeated ALEXA GRASSO via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - VALENTINA SHEVCHENKO landed 45 significant strikes
+  - ALEXA GRASSO landed 18 significant strikes
+  - Knockdowns: VALENTINA SHEVCHENKO 0,  ALEXA GRASSO 0
+  - Takedowns: VALENTINA SHEVCHENKO 8,  ALEXA GRASSO 1
+  Bonus: belt

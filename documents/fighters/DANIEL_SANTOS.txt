@@ -1,0 +1,11 @@
+Fighter: DANIEL SANTOS
+  Date of Birth: 1995-03-12
+  Career record: 6
+  First fight: 2022-04-09
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :357
+- Total takedowns landed :12
+- Knockdowns :2
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dariush vs. Tsarukyan
+    Date: December 02, 2023
+    Location: Austin, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: DUSTIN STOLTZFUS defeated PUNAHELE SORIANO via Submission  
+  at 4:10 of round 2
+  Key stats:
+  - DUSTIN STOLTZFUS landed 64 significant strikes
+  - PUNAHELE SORIANO landed 31 significant strikes
+  - Knockdowns: DUSTIN STOLTZFUS 1,  PUNAHELE SORIANO 0
+  - Takedowns: DUSTIN STOLTZFUS 4,  PUNAHELE SORIANO 0
+  Bonus: perf

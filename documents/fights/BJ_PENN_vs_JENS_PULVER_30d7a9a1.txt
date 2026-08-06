@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Pulver vs. Team Penn Finale
+    Date: June 23, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: BJ PENN defeated JENS PULVER via Submission  
+  at 3:12 of round 2
+  Key stats:
+  - BJ PENN landed 23 significant strikes
+  - JENS PULVER landed 6 significant strikes
+  - Knockdowns: BJ PENN 0,  JENS PULVER 0
+  - Takedowns: BJ PENN 3,  JENS PULVER 0

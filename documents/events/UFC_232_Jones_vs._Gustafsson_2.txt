@@ -1,0 +1,19 @@
+Event : UFC 232: Jones vs. Gustafsson 2
+    Date : December 29, 2018
+    Location: Los Angeles, California, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Light Heavyweight, Women's Featherweight, Welterweight, Featherweight, Middleweight, Lightweight
+
+    Fight Results:
+  - AMANDA NUNES def. CRISTIANE JUSTINO via KO/TKO(R1)
+- NATHANIEL WOOD def. ANDRE EWELL via Submission(R3)
+- MICHAEL CHIESA def. CARLOS CONDIT via Submission(R2)
+- ALEXANDER VOLKANOVSKI def. CHAD MENDES via KO/TKO(R2)
+- PETR YAN def. DOUGLAS SILVA DE ANDRADE via KO/TKO(R2)
+- MONTEL JACKSON def. BRIAN KELLEHER via Submission(R1)
+- URIAH HALL def. BEVON LEWIS via KO/TKO(R3)
+- MEGAN ANDERSON def. CAT ZINGANO via KO/TKO(R1)
+- CURTIS MILLENDER def. SIYAR BAHADURZADA via Decision - Unanimous(R3)
+- JON JONES def. ALEXANDER GUSTAFSSON via KO/TKO(R3)
+- COREY ANDERSON def. ILIR LATIFI via Decision - Unanimous(R3)
+- RYAN HALL def. BJ PENN via Submission(R1)

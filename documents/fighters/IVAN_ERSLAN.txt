@@ -1,0 +1,11 @@
+Fighter: IVAN ERSLAN
+  Date of Birth: 1991-11-15
+  Career record: 4
+  First fight: 2024-09-28
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :122
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bonfim vs. Brown
+    Date: November 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: ZACH REESE defeated Jackson McVey via Submission  
+  at 1:38 of round 2
+  Key stats:
+  - ZACH REESE landed 32 significant strikes
+  - Jackson McVey landed 56 significant strikes
+  - Knockdowns: ZACH REESE 0,  Jackson McVey 0
+  - Takedowns: ZACH REESE 3,  Jackson McVey 0
+  Bonus: perf

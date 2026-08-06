@@ -1,0 +1,11 @@
+Fighter: NATALIA SILVA
+  Date of Birth: 1997-02-03
+  Career record: 8
+  First fight: 2022-06-18
+  Last fight: 2026-01-24
+
+Career Statistics:
+- Significant Strikes Landed :502
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :0

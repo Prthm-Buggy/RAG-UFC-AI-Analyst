@@ -1,0 +1,14 @@
+Event: UFC 299: O'Malley vs. Vera 2
+    Date: March 09, 2024
+    Location: Miami, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: DUSTIN POIRIER defeated BENOIT SAINT DENIS via KO/TKO  
+  at 2:32 of round 2
+  Key stats:
+  - DUSTIN POIRIER landed 28 significant strikes
+  - BENOIT SAINT DENIS landed 50 significant strikes
+  - Knockdowns: DUSTIN POIRIER 1,  BENOIT SAINT DENIS 0
+  - Takedowns: DUSTIN POIRIER 0,  BENOIT SAINT DENIS 3
+  Bonus: fight

@@ -1,0 +1,13 @@
+Event: UFC 27: Ultimate Bad Boyz
+    Date: September 22, 2000
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: YUKI KONDO defeated ALEXANDRE DANTAS via KO/TKO  
+  at 2:28 of round 3
+  Key stats:
+  - YUKI KONDO landed 33 significant strikes
+  - ALEXANDRE DANTAS landed 14 significant strikes
+  - Knockdowns: YUKI KONDO 1,  ALEXANDRE DANTAS 0
+  - Takedowns: YUKI KONDO 0,  ALEXANDRE DANTAS 2

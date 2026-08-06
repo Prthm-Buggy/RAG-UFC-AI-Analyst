@@ -1,0 +1,13 @@
+Event: UFC 142: Aldo vs Mendes
+    Date: January 14, 2012
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: CARLO PRATER defeated ERICK SILVA via DQ  
+  at 0:29 of round 1
+  Key stats:
+  - CARLO PRATER landed 0 significant strikes
+  - ERICK SILVA landed 8 significant strikes
+  - Knockdowns: CARLO PRATER 0,  ERICK SILVA 0
+  - Takedowns: CARLO PRATER 0,  ERICK SILVA 0

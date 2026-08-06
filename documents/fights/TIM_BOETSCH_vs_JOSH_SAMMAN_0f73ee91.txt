@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McDonald vs. Lineker
+    Date: July 13, 2016
+    Location: Sioux Falls, South Dakota, USA
+    Weight Class: Middleweight
+    
+
+    Result: TIM BOETSCH defeated JOSH SAMMAN via KO/TKO  
+  at 3:49 of round 2
+  Key stats:
+  - TIM BOETSCH landed 38 significant strikes
+  - JOSH SAMMAN landed 17 significant strikes
+  - Knockdowns: TIM BOETSCH 0,  JOSH SAMMAN 0
+  - Takedowns: TIM BOETSCH 2,  JOSH SAMMAN 0

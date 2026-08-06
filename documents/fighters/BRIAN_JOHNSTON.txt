@@ -1,0 +1,11 @@
+Fighter: BRIAN JOHNSTON
+  Date of Birth: 1968-07-28
+  Career record: 6
+  First fight: 1996-07-12
+  Last fight: 1997-07-27
+
+Career Statistics:
+- Significant Strikes Landed :29
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

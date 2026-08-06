@@ -1,0 +1,18 @@
+Event : UFC 257: Poirier vs. McGregor
+    Date : January 23, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Lightweight, Middleweight, Women's Bantamweight, Women's Strawweight, Light Heavyweight, Flyweight, Catch Weight
+
+    Fight Results:
+  - DUSTIN POIRIER def. CONOR MCGREGOR via KO/TKO(R2)
+- MARINA RODRIGUEZ def. AMANDA RIBAS via KO/TKO(R2)
+- BRAD TAVARES def. ANTONIO CARLOS JUNIOR via Decision - Unanimous(R3)
+- ARMAN TSARUKYAN def. MATT FREVOLA via Decision - Unanimous(R3)
+- MOVSAR EVLOEV def. NIK LENTZ via Decision - Split(R3)
+- AMIR ALBAZI def. ZHALGAS ZHUMAGULOV via Decision - Unanimous(R3)
+- JULIANNA PENA def. SARA MCMANN via Submission(R3)
+- MAKHMUD MURADOV def. ANDREW SANCHEZ via KO/TKO(R3)
+- MARCIN PRACHNIO def. KHALIL ROUNTREE JR. via Decision - Unanimous(R3)
+- MICHAEL CHANDLER def. DAN HOOKER via KO/TKO(R1)
+- JOANNE WOOD def. JESSICA EYE via Decision - Unanimous(R3)

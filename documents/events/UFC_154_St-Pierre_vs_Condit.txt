@@ -1,0 +1,19 @@
+Event : UFC 154: St-Pierre vs Condit
+    Date : November 17, 2012
+    Location: Montreal, Quebec, Canada
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Featherweight, Welterweight, Middleweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - DARREN ELKINS def. STEVEN SILER via Decision - Unanimous(R3)
+- PATRICK COTE def. ALESSIO SAKARA via DQ(R1)
+- PABLO GARZA def. MARK HOMINICK via Decision - Unanimous(R3)
+- JOHNY HENDRICKS def. MARTIN KAMPMANN via KO/TKO(R1)
+- RAFAEL DOS ANJOS def. MARK BOCEK via Decision - Unanimous(R3)
+- MATTHEW RIDDLE def. JOHN MAGUIRE via Decision - Unanimous(R3)
+- JOHN MAKDESSI def. SAM STOUT via Decision - Unanimous(R3)
+- FRANCIS CARMONT def. TOM LAWLOR via Decision - Split(R3)
+- ANTONIO CARVALHO def. RODRIGO DAMM via Decision - Split(R3)
+- GEORGES ST-PIERRE def. CARLOS CONDIT via Decision - Unanimous(R5)
+- CYRILLE DIABATE def. CHAD GRIGGS via Submission(R1)
+- IVAN MENJIVAR def. AZAMAT GASHIMOV via Submission(R1)

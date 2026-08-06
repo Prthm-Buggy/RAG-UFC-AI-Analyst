@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shogun vs Sonnen
+    Date: August 17, 2013
+    Location: Boston, Massachusetts, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOHN HOWARD defeated URIAH HALL via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JOHN HOWARD landed 33 significant strikes
+  - URIAH HALL landed 41 significant strikes
+  - Knockdowns: JOHN HOWARD 0,  URIAH HALL 0
+  - Takedowns: JOHN HOWARD 2,  URIAH HALL 2

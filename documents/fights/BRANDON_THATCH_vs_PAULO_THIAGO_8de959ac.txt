@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs Henderson 2
+    Date: November 09, 2013
+    Location: Goiania, Goias, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: BRANDON THATCH defeated PAULO THIAGO via KO/TKO  
+  at 2:10 of round 1
+  Key stats:
+  - BRANDON THATCH landed 12 significant strikes
+  - PAULO THIAGO landed 5 significant strikes
+  - Knockdowns: BRANDON THATCH 1,  PAULO THIAGO 0
+  - Takedowns: BRANDON THATCH 0,  PAULO THIAGO 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brown vs Silva
+    Date: May 10, 2014
+    Location: Cincinnati, Ohio, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SOA PALELEI defeated RUAN POTTS via KO/TKO  
+  at 2:20 of round 1
+  Key stats:
+  - SOA PALELEI landed 5 significant strikes
+  - RUAN POTTS landed 0 significant strikes
+  - Knockdowns: SOA PALELEI 0,  RUAN POTTS 0
+  - Takedowns: SOA PALELEI 1,  RUAN POTTS 0

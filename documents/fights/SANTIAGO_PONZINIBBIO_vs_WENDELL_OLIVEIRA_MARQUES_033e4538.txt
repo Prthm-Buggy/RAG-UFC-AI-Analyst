@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bigfoot vs Arlovski
+    Date: September 13, 2014
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: SANTIAGO PONZINIBBIO defeated WENDELL OLIVEIRA MARQUES via KO/TKO  
+  at 1:20 of round 1
+  Key stats:
+  - SANTIAGO PONZINIBBIO landed 10 significant strikes
+  - WENDELL OLIVEIRA MARQUES landed 8 significant strikes
+  - Knockdowns: SANTIAGO PONZINIBBIO 1,  WENDELL OLIVEIRA MARQUES 0
+  - Takedowns: SANTIAGO PONZINIBBIO 0,  WENDELL OLIVEIRA MARQUES 0

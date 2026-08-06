@@ -1,0 +1,11 @@
+Fighter: DON FRYE
+  Date of Birth: 1965-11-23
+  Career record: 10
+  First fight: 1996-02-16
+  Last fight: 1996-12-07
+
+Career Statistics:
+- Significant Strikes Landed :127
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :3

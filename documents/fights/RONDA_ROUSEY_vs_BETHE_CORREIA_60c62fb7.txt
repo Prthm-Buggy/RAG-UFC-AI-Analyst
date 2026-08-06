@@ -1,0 +1,14 @@
+Event: UFC 190: Rousey vs Correia
+    Date: August 01, 2015
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Women's Bantamweight
+    
+
+    Result: RONDA ROUSEY defeated BETHE CORREIA via KO/TKO  
+  at 0:34 of round 1
+  Key stats:
+  - RONDA ROUSEY landed 19 significant strikes
+  - BETHE CORREIA landed 9 significant strikes
+  - Knockdowns: RONDA ROUSEY 1,  BETHE CORREIA 0
+  - Takedowns: RONDA ROUSEY 0,  BETHE CORREIA 0
+  Bonus: belt

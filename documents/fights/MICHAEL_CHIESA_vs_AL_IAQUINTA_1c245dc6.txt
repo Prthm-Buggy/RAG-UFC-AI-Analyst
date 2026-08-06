@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Live Finale
+    Date: June 01, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MICHAEL CHIESA defeated AL IAQUINTA via Submission  
+  at 2:47 of round 1
+  Key stats:
+  - MICHAEL CHIESA landed 9 significant strikes
+  - AL IAQUINTA landed 8 significant strikes
+  - Knockdowns: MICHAEL CHIESA 0,  AL IAQUINTA 0
+  - Takedowns: MICHAEL CHIESA 1,  AL IAQUINTA 0
+  Bonus: belt

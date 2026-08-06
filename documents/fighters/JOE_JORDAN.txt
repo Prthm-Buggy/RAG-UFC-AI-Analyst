@@ -1,0 +1,11 @@
+Fighter: JOE JORDAN
+  Date of Birth: 1978-07-27
+  Career record: 1
+  First fight: 2006-07-08
+  Last fight: 2006-07-08
+
+Career Statistics:
+- Significant Strikes Landed :20
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC 298: Volkanovski vs. Topuria
+    Date: February 17, 2024
+    Location: Anaheim, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: ILIA TOPURIA defeated ALEXANDER VOLKANOVSKI via KO/TKO  
+  at 3:32 of round 2
+  Key stats:
+  - ILIA TOPURIA landed 35 significant strikes
+  - ALEXANDER VOLKANOVSKI landed 47 significant strikes
+  - Knockdowns: ILIA TOPURIA 1,  ALEXANDER VOLKANOVSKI 0
+  - Takedowns: ILIA TOPURIA 0,  ALEXANDER VOLKANOVSKI 0
+  Bonus: belt

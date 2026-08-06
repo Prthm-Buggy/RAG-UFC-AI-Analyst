@@ -1,0 +1,14 @@
+Event: UFC 296: Edwards vs. Covington
+    Date: December 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: ALEXANDRE PANTOJA defeated BRANDON ROYVAL via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ALEXANDRE PANTOJA landed 95 significant strikes
+  - BRANDON ROYVAL landed 111 significant strikes
+  - Knockdowns: ALEXANDRE PANTOJA 0,  BRANDON ROYVAL 0
+  - Takedowns: ALEXANDRE PANTOJA 8,  BRANDON ROYVAL 0
+  Bonus: belt

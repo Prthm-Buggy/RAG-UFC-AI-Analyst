@@ -1,0 +1,13 @@
+Event: UFC Fight Night - Fight for the Troops
+    Date: December 10, 2008
+    Location: Fayetteville, North Carolina, USA
+    Weight Class: Lightweight
+    
+
+    Result: DALE HARTT defeated COREY HILL via KO/TKO  
+  at 0:20 of round 2
+  Key stats:
+  - DALE HARTT landed 8 significant strikes
+  - COREY HILL landed 8 significant strikes
+  - Knockdowns: DALE HARTT 0,  COREY HILL 0
+  - Takedowns: DALE HARTT 0,  COREY HILL 2

@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Tournament of Champions Finale
+    Date: December 03, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JARED CANNONIER defeated ION CUTELABA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JARED CANNONIER landed 59 significant strikes
+  - ION CUTELABA landed 45 significant strikes
+  - Knockdowns: JARED CANNONIER 0,  ION CUTELABA 0
+  - Takedowns: JARED CANNONIER 0,  ION CUTELABA 6
+  Bonus: fight

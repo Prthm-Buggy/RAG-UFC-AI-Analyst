@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Struve vs Miocic
+    Date: September 29, 2012
+    Location: Nottingham, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: CHE MILLS defeated DUANE LUDWIG via KO/TKO  
+  at 2:28 of round 1
+  Key stats:
+  - CHE MILLS landed 8 significant strikes
+  - DUANE LUDWIG landed 2 significant strikes
+  - Knockdowns: CHE MILLS 0,  DUANE LUDWIG 0
+  - Takedowns: CHE MILLS 2,  DUANE LUDWIG 0

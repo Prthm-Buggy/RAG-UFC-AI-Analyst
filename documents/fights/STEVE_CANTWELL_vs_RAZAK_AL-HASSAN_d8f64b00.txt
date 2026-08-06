@@ -1,0 +1,14 @@
+Event: UFC Fight Night - Fight for the Troops
+    Date: December 10, 2008
+    Location: Fayetteville, North Carolina, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: STEVE CANTWELL defeated RAZAK AL-HASSAN via Submission  
+  at 4:04 of round 1
+  Key stats:
+  - STEVE CANTWELL landed 15 significant strikes
+  - RAZAK AL-HASSAN landed 13 significant strikes
+  - Knockdowns: STEVE CANTWELL 0,  RAZAK AL-HASSAN 0
+  - Takedowns: STEVE CANTWELL 1,  RAZAK AL-HASSAN 0
+  Bonus: sub

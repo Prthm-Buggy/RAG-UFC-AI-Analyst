@@ -1,0 +1,20 @@
+Event : UFC 210: Cormier vs. Johnson 2
+    Date : April 08, 2017
+    Location: Buffalo, New York, USA
+    Number of Fights: 13
+    Weight Classes: Light Heavyweight, Welterweight, Women's Strawweight, Featherweight, Lightweight, Women's Bantamweight, Middleweight
+
+    Fight Results:
+  - KAMARU USMAN def. SEAN STRICKLAND via Decision - Unanimous(R3)
+- CHARLES OLIVEIRA def. WILL BROOKS via Submission(R1)
+- CYNTHIA CALVILLO def. PEARL GONZALEZ via Submission(R3)
+- KATLYN CERMINARA def. IRENE ALDANA via Decision - Split(R3)
+- MAGOMED BIBULATOV def. JENEL LAUSA via Decision - Unanimous(R3)
+- DANIEL CORMIER def. ANTHONY JOHNSON via Submission(R2)
+- SHANE BURGOS def. CHARLES ROSA via KO/TKO(R3)
+- DESMOND GREEN def. JOSH EMMETT via Decision - Split(R3)
+- PATRICK CUMMINS def. JAN BLACHOWICZ via Decision - Unanimous(R3)
+- GEGARD MOUSASI def. CHRIS WEIDMAN via KO/TKO(R2)
+- THIAGO ALVES def. PATRICK COTE via Decision - Unanimous(R3)
+- MYLES JURY def. MIKE DE LA TORRE via KO/TKO(R1)
+- GREGOR GILLESPIE def. ANDREW HOLBROOK via KO/TKO(R1)

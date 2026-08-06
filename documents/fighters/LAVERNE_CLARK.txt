@@ -1,0 +1,11 @@
+Fighter: LAVERNE CLARK
+  Date of Birth: 1973-12-02
+  Career record: 4
+  First fight: 1999-01-08
+  Last fight: 2000-09-22
+
+Career Statistics:
+- Significant Strikes Landed :35
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :0

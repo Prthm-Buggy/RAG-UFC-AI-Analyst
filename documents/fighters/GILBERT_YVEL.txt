@@ -1,0 +1,11 @@
+Fighter: GILBERT YVEL
+  Date of Birth: 1976-06-30
+  Career record: 3
+  First fight: 2010-01-02
+  Last fight: 2010-10-23
+
+Career Statistics:
+- Significant Strikes Landed :36
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :2

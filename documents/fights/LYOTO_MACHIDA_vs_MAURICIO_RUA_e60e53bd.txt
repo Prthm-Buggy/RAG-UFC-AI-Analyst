@@ -1,0 +1,14 @@
+Event: UFC 104: Machida vs Shogun
+    Date: October 24, 2009
+    Location: Los Angeles, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: LYOTO MACHIDA defeated MAURICIO RUA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - LYOTO MACHIDA landed 35 significant strikes
+  - MAURICIO RUA landed 80 significant strikes
+  - Knockdowns: LYOTO MACHIDA 0,  MAURICIO RUA 0
+  - Takedowns: LYOTO MACHIDA 0,  MAURICIO RUA 0
+  Bonus: belt

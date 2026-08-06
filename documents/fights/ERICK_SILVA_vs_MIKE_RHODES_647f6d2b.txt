@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs Dollaway
+    Date: December 20, 2014
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: ERICK SILVA defeated MIKE RHODES via Submission  
+  at 1:15 of round 1
+  Key stats:
+  - ERICK SILVA landed 2 significant strikes
+  - MIKE RHODES landed 2 significant strikes
+  - Knockdowns: ERICK SILVA 0,  MIKE RHODES 0
+  - Takedowns: ERICK SILVA 1,  MIKE RHODES 0
+  Bonus: perf

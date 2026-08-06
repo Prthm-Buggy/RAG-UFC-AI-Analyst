@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Nelson vs Story
+    Date: October 04, 2014
+    Location: Stockholm, Sweden
+    Weight Class: Featherweight
+    
+
+    Result: MAX HOLLOWAY defeated AKIRA CORASSANI via KO/TKO  
+  at 3:11 of round 1
+  Key stats:
+  - MAX HOLLOWAY landed 31 significant strikes
+  - AKIRA CORASSANI landed 11 significant strikes
+  - Knockdowns: MAX HOLLOWAY 1,  AKIRA CORASSANI 0
+  - Takedowns: MAX HOLLOWAY 0,  AKIRA CORASSANI 0
+  Bonus: perf

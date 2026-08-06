@@ -1,0 +1,13 @@
+Event: UFC 153: Silva vs Bonnar
+    Date: October 13, 2012
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANDERSON SILVA defeated STEPHAN BONNAR via KO/TKO  
+  at 4:40 of round 1
+  Key stats:
+  - ANDERSON SILVA landed 19 significant strikes
+  - STEPHAN BONNAR landed 12 significant strikes
+  - Knockdowns: ANDERSON SILVA 1,  STEPHAN BONNAR 0
+  - Takedowns: ANDERSON SILVA 0,  STEPHAN BONNAR 0

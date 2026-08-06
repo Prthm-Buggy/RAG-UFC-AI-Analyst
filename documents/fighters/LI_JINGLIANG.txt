@@ -1,0 +1,11 @@
+Fighter: LI JINGLIANG
+  Date of Birth: 1988-03-20
+  Career record: 18
+  First fight: 2014-05-24
+  Last fight: 2024-08-17
+
+Career Statistics:
+- Significant Strikes Landed :846
+- Total takedowns landed :15
+- Knockdowns :10
+- Submission Attempts :0

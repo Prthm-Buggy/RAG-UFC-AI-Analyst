@@ -1,0 +1,11 @@
+Fighter: JASMINE JASUDAVICIUS
+  Date of Birth: 1989-03-01
+  Career record: 12
+  First fight: 2022-01-22
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :505
+- Total takedowns landed :25
+- Knockdowns :1
+- Submission Attempts :6

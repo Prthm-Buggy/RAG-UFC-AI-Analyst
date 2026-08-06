@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Oezdemir vs. Smith
+    Date: October 27, 2018
+    Location: Moncton, New Brunswick, Canada
+    Weight Class: Featherweight
+    
+
+    Result: CALVIN KATTAR defeated CHRIS FISHGOLD via KO/TKO  
+  at 4:11 of round 1
+  Key stats:
+  - CALVIN KATTAR landed 24 significant strikes
+  - CHRIS FISHGOLD landed 20 significant strikes
+  - Knockdowns: CALVIN KATTAR 1,  CHRIS FISHGOLD 0
+  - Takedowns: CALVIN KATTAR 0,  CHRIS FISHGOLD 1

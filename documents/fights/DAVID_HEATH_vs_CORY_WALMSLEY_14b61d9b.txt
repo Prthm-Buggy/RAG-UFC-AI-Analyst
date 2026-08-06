@@ -1,0 +1,13 @@
+Event: UFC 62: Liddell vs Sobral
+    Date: August 26, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DAVID HEATH defeated CORY WALMSLEY via Submission  
+  at 2:32 of round 1
+  Key stats:
+  - DAVID HEATH landed 3 significant strikes
+  - CORY WALMSLEY landed 2 significant strikes
+  - Knockdowns: DAVID HEATH 0,  CORY WALMSLEY 0
+  - Takedowns: DAVID HEATH 1,  CORY WALMSLEY 0

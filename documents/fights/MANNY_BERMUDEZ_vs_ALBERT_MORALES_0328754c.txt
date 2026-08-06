@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Stephens
+    Date: February 24, 2018
+    Location: Orlando, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MANNY BERMUDEZ defeated ALBERT MORALES via Submission  
+  at 2:33 of round 2
+  Key stats:
+  - MANNY BERMUDEZ landed 12 significant strikes
+  - ALBERT MORALES landed 19 significant strikes
+  - Knockdowns: MANNY BERMUDEZ 0,  ALBERT MORALES 0
+  - Takedowns: MANNY BERMUDEZ 1,  ALBERT MORALES 1

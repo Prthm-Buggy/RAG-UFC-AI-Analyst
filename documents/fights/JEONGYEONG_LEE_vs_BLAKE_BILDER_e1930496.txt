@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dolidze vs. Imavov
+    Date: February 03, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JEONGYEONG LEE defeated BLAKE BILDER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JEONGYEONG LEE landed 49 significant strikes
+  - BLAKE BILDER landed 19 significant strikes
+  - Knockdowns: JEONGYEONG LEE 0,  BLAKE BILDER 0
+  - Takedowns: JEONGYEONG LEE 2,  BLAKE BILDER 0

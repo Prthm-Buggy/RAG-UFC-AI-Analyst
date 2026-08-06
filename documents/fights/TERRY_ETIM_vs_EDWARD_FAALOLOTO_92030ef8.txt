@@ -1,0 +1,14 @@
+Event: UFC 138: Leben vs Munoz
+    Date: November 05, 2011
+    Location: Birmingham, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: TERRY ETIM defeated EDWARD FAALOLOTO via Submission  
+  at 0:17 of round 1
+  Key stats:
+  - TERRY ETIM landed 5 significant strikes
+  - EDWARD FAALOLOTO landed 0 significant strikes
+  - Knockdowns: TERRY ETIM 0,  EDWARD FAALOLOTO 0
+  - Takedowns: TERRY ETIM 0,  EDWARD FAALOLOTO 0
+  Bonus: sub

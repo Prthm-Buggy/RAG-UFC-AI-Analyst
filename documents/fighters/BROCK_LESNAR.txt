@@ -1,0 +1,11 @@
+Fighter: BROCK LESNAR
+  Date of Birth: 1977-07-12
+  Career record: 7
+  First fight: 2008-02-02
+  Last fight: 2011-12-30
+
+Career Statistics:
+- Significant Strikes Landed :162
+- Total takedowns landed :11
+- Knockdowns :2
+- Submission Attempts :2

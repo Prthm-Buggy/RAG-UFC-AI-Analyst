@@ -1,0 +1,13 @@
+Event: UFC 323: Dvalishvili vs. Yan 2
+    Date: December 06, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MAYCEE BARBER defeated KARINE SILVA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MAYCEE BARBER landed 55 significant strikes
+  - KARINE SILVA landed 21 significant strikes
+  - Knockdowns: MAYCEE BARBER 0,  KARINE SILVA 0
+  - Takedowns: MAYCEE BARBER 3,  KARINE SILVA 2

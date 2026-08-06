@@ -1,0 +1,13 @@
+Event: UFC 228: Woodley vs. Till
+    Date: September 08, 2018
+    Location: Dallas, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: ABDUL RAZAK ALHASSAN defeated NIKO PRICE via KO/TKO  
+  at 0:43 of round 1
+  Key stats:
+  - ABDUL RAZAK ALHASSAN landed 15 significant strikes
+  - NIKO PRICE landed 4 significant strikes
+  - Knockdowns: ABDUL RAZAK ALHASSAN 1,  NIKO PRICE 0
+  - Takedowns: ABDUL RAZAK ALHASSAN 0,  NIKO PRICE 0

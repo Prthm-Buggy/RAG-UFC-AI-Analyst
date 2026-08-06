@@ -1,0 +1,14 @@
+Event: UFC: Silva vs Irvin
+    Date: July 19, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: FRANKIE EDGAR defeated HERMES FRANCA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - FRANKIE EDGAR landed 69 significant strikes
+  - HERMES FRANCA landed 18 significant strikes
+  - Knockdowns: FRANKIE EDGAR 0,  HERMES FRANCA 0
+  - Takedowns: FRANKIE EDGAR 10,  HERMES FRANCA 0
+  Bonus: fight

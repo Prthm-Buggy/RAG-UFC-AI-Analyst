@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs. Edwards
+    Date: June 23, 2018
+    Location: Kallang, Singapore
+    Weight Class: Welterweight
+    
+
+    Result: JAKE MATTHEWS defeated SHINSHO ANZAI via Submission  
+  at 2:44 of round 1
+  Key stats:
+  - JAKE MATTHEWS landed 12 significant strikes
+  - SHINSHO ANZAI landed 1 significant strikes
+  - Knockdowns: JAKE MATTHEWS 0,  SHINSHO ANZAI 0
+  - Takedowns: JAKE MATTHEWS 1,  SHINSHO ANZAI 0

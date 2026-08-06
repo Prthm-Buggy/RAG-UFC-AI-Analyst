@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Marreta vs. Anders
+    Date: September 22, 2018
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: ELIZEU ZALESKI DOS SANTOS defeated LUIGI VENDRAMINI via KO/TKO  
+  at 1:20 of round 2
+  Key stats:
+  - ELIZEU ZALESKI DOS SANTOS landed 15 significant strikes
+  - LUIGI VENDRAMINI landed 4 significant strikes
+  - Knockdowns: ELIZEU ZALESKI DOS SANTOS 1,  LUIGI VENDRAMINI 0
+  - Takedowns: ELIZEU ZALESKI DOS SANTOS 0,  LUIGI VENDRAMINI 0

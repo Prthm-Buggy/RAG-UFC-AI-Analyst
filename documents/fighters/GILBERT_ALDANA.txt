@@ -1,0 +1,11 @@
+Fighter: GILBERT ALDANA
+  Date of Birth: 1977-08-25
+  Career record: 2
+  First fight: 2006-02-04
+  Last fight: 2006-07-08
+
+Career Statistics:
+- Significant Strikes Landed :34
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

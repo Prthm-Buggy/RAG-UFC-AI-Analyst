@@ -1,0 +1,14 @@
+Event: UFC 240: Holloway vs. Edgar
+    Date: July 27, 2019
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Featherweight
+    
+
+    Result: MAX HOLLOWAY defeated FRANKIE EDGAR via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MAX HOLLOWAY landed 129 significant strikes
+  - FRANKIE EDGAR landed 96 significant strikes
+  - Knockdowns: MAX HOLLOWAY 0,  FRANKIE EDGAR 0
+  - Takedowns: MAX HOLLOWAY 0,  FRANKIE EDGAR 1
+  Bonus: belt

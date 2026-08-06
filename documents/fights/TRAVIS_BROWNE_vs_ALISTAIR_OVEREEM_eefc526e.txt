@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Shogun vs Sonnen
+    Date: August 17, 2013
+    Location: Boston, Massachusetts, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TRAVIS BROWNE defeated ALISTAIR OVEREEM via KO/TKO  
+  at 4:08 of round 1
+  Key stats:
+  - TRAVIS BROWNE landed 14 significant strikes
+  - ALISTAIR OVEREEM landed 41 significant strikes
+  - Knockdowns: TRAVIS BROWNE 1,  ALISTAIR OVEREEM 2
+  - Takedowns: TRAVIS BROWNE 0,  ALISTAIR OVEREEM 0
+  Bonus: ko

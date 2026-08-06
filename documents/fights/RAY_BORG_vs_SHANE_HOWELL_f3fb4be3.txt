@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Swanson vs Stephens
+    Date: June 28, 2014
+    Location: San Antonio, Texas, USA
+    Weight Class: Flyweight
+    
+
+    Result: RAY BORG defeated SHANE HOWELL via Submission  
+  at 2:17 of round 1
+  Key stats:
+  - RAY BORG landed 2 significant strikes
+  - SHANE HOWELL landed 0 significant strikes
+  - Knockdowns: RAY BORG 0,  SHANE HOWELL 0
+  - Takedowns: RAY BORG 1,  SHANE HOWELL 0
+  Bonus: perf

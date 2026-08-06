@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rothwell vs Dos Santos
+    Date: April 10, 2016
+    Location: Zagreb, Croatia
+    Weight Class: Heavyweight
+    
+
+    Result: TIMOTHY JOHNSON defeated MARCIN TYBURA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TIMOTHY JOHNSON landed 45 significant strikes
+  - MARCIN TYBURA landed 48 significant strikes
+  - Knockdowns: TIMOTHY JOHNSON 0,  MARCIN TYBURA 0
+  - Takedowns: TIMOTHY JOHNSON 0,  MARCIN TYBURA 1

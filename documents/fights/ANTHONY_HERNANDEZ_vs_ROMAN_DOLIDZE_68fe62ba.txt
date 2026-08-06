@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dolidze vs. Hernandez
+    Date: August 09, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANTHONY HERNANDEZ defeated ROMAN DOLIDZE via Submission  
+  at 2:45 of round 4
+  Key stats:
+  - ANTHONY HERNANDEZ landed 91 significant strikes
+  - ROMAN DOLIDZE landed 36 significant strikes
+  - Knockdowns: ANTHONY HERNANDEZ 0,  ROMAN DOLIDZE 0
+  - Takedowns: ANTHONY HERNANDEZ 9,  ROMAN DOLIDZE 0
+  Bonus: perf

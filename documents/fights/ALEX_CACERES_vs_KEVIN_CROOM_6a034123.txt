@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rozenstruik vs. Gane
+    Date: February 27, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ALEX CACERES defeated KEVIN CROOM via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALEX CACERES landed 48 significant strikes
+  - KEVIN CROOM landed 16 significant strikes
+  - Knockdowns: ALEX CACERES 0,  KEVIN CROOM 0
+  - Takedowns: ALEX CACERES 1,  KEVIN CROOM 1

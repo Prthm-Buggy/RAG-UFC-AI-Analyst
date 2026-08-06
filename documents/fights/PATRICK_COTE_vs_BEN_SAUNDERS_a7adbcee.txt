@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dillashaw vs Cruz
+    Date: January 17, 2016
+    Location: Boston, Massachusetts, USA
+    Weight Class: Welterweight
+    
+
+    Result: PATRICK COTE defeated BEN SAUNDERS via KO/TKO  
+  at 1:14 of round 2
+  Key stats:
+  - PATRICK COTE landed 42 significant strikes
+  - BEN SAUNDERS landed 11 significant strikes
+  - Knockdowns: PATRICK COTE 1,  BEN SAUNDERS 0
+  - Takedowns: PATRICK COTE 0,  BEN SAUNDERS 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ortega vs. The Korean Zombie
+    Date: October 17, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAXIM GRISHIN defeated GADZHIMURAD ANTIGULOV via KO/TKO  
+  at 4:58 of round 2
+  Key stats:
+  - MAXIM GRISHIN landed 34 significant strikes
+  - GADZHIMURAD ANTIGULOV landed 12 significant strikes
+  - Knockdowns: MAXIM GRISHIN 0,  GADZHIMURAD ANTIGULOV 0
+  - Takedowns: MAXIM GRISHIN 1,  GADZHIMURAD ANTIGULOV 1

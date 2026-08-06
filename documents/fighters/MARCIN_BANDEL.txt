@@ -1,0 +1,11 @@
+Fighter: MARCIN BANDEL
+  Date of Birth: 1989-10-10
+  Career record: 2
+  First fight: 2014-10-04
+  Last fight: 2015-04-11
+
+Career Statistics:
+- Significant Strikes Landed :6
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

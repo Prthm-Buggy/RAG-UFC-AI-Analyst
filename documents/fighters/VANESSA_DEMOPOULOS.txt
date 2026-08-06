@@ -1,0 +1,11 @@
+Fighter: VANESSA DEMOPOULOS
+  Date of Birth: 1988-09-22
+  Career record: 10
+  First fight: 2021-08-28
+  Last fight: 2025-06-14
+
+Career Statistics:
+- Significant Strikes Landed :451
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :2

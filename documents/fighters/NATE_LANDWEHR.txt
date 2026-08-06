@@ -1,0 +1,11 @@
+Fighter: NATE LANDWEHR
+  Date of Birth: 1988-06-06
+  Career record: 11
+  First fight: 2020-01-25
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :571
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :5

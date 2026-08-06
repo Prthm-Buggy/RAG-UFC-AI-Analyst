@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hernandez vs. Pereira
+    Date: October 19, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CAMERON SMOTHERMAN defeated JAKE HADLEY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CAMERON SMOTHERMAN landed 96 significant strikes
+  - JAKE HADLEY landed 60 significant strikes
+  - Knockdowns: CAMERON SMOTHERMAN 0,  JAKE HADLEY 0
+  - Takedowns: CAMERON SMOTHERMAN 0,  JAKE HADLEY 1

@@ -1,0 +1,11 @@
+Fighter: PATRICK COTE
+  Date of Birth: 1980-02-29
+  Career record: 21
+  First fight: 2004-10-22
+  Last fight: 2017-04-08
+
+Career Statistics:
+- Significant Strikes Landed :662
+- Total takedowns landed :10
+- Knockdowns :6
+- Submission Attempts :4

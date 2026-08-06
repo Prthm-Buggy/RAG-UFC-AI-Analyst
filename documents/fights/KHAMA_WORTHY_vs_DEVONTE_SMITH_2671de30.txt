@@ -1,0 +1,14 @@
+Event: UFC 241: Cormier vs. Miocic 2
+    Date: August 17, 2019
+    Location: Anaheim, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: KHAMA WORTHY defeated DEVONTE SMITH via KO/TKO  
+  at 4:15 of round 1
+  Key stats:
+  - KHAMA WORTHY landed 21 significant strikes
+  - DEVONTE SMITH landed 15 significant strikes
+  - Knockdowns: KHAMA WORTHY 1,  DEVONTE SMITH 0
+  - Takedowns: KHAMA WORTHY 0,  DEVONTE SMITH 0
+  Bonus: perf

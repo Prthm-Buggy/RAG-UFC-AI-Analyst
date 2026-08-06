@@ -1,0 +1,14 @@
+Event: UFC 230: Cormier vs. Lewis
+    Date: November 03, 2018
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: JACARE SOUZA defeated CHRIS WEIDMAN via KO/TKO  
+  at 2:46 of round 3
+  Key stats:
+  - JACARE SOUZA landed 74 significant strikes
+  - CHRIS WEIDMAN landed 68 significant strikes
+  - Knockdowns: JACARE SOUZA 1,  CHRIS WEIDMAN 0
+  - Takedowns: JACARE SOUZA 0,  CHRIS WEIDMAN 1
+  Bonus: fight

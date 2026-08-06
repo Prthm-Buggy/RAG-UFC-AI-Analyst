@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Couture vs. Team Liddell Finale
+    Date: April 09, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: NATE QUARRY defeated LODUNE SINCAID via KO/TKO  
+  at 3:17 of round 1
+  Key stats:
+  - NATE QUARRY landed 36 significant strikes
+  - LODUNE SINCAID landed 10 significant strikes
+  - Knockdowns: NATE QUARRY 0,  LODUNE SINCAID 0
+  - Takedowns: NATE QUARRY 0,  LODUNE SINCAID 0

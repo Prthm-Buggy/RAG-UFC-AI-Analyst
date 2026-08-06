@@ -1,0 +1,11 @@
+Fighter: DOUGLAS SILVA DE ANDRADE
+  Date of Birth: 1985-06-22
+  Career record: 14
+  First fight: 2014-02-15
+  Last fight: 2026-02-28
+
+Career Statistics:
+- Significant Strikes Landed :593
+- Total takedowns landed :6
+- Knockdowns :6
+- Submission Attempts :2

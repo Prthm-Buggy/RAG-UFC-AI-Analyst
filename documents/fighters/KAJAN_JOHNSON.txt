@@ -1,0 +1,11 @@
+Fighter: KAJAN JOHNSON
+  Date of Birth: 1984-04-21
+  Career record: 7
+  First fight: 2014-06-14
+  Last fight: 2018-09-15
+
+Career Statistics:
+- Significant Strikes Landed :216
+- Total takedowns landed :9
+- Knockdowns :2
+- Submission Attempts :1

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Manuwa vs. Anderson
+    Date: March 18, 2017
+    Location: London, England, United Kingdom
+    Weight Class: Catch Weight
+    
+
+    Result: MARLON VERA defeated BRAD PICKETT via KO/TKO  
+  at 3:50 of round 3
+  Key stats:
+  - MARLON VERA landed 67 significant strikes
+  - BRAD PICKETT landed 51 significant strikes
+  - Knockdowns: MARLON VERA 1,  BRAD PICKETT 0
+  - Takedowns: MARLON VERA 0,  BRAD PICKETT 2
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Royval vs. Taira
+    Date: October 12, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: RAMAZAN TEMIROV defeated CJ VERGARA via KO/TKO  
+  at 2:50 of round 1
+  Key stats:
+  - RAMAZAN TEMIROV landed 23 significant strikes
+  - CJ VERGARA landed 4 significant strikes
+  - Knockdowns: RAMAZAN TEMIROV 3,  CJ VERGARA 0
+  - Takedowns: RAMAZAN TEMIROV 0,  CJ VERGARA 0
+  Bonus: perf

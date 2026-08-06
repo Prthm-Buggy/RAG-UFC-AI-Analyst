@@ -1,0 +1,19 @@
+Event : UFC 314: Volkanovski vs. Lopes
+    Date : April 12, 2025
+    Location: Miami, Florida, USA
+    Number of Fights: 13
+    Weight Classes: Featherweight, Lightweight, Middleweight, Light Heavyweight, Women's Bantamweight, Flyweight, Women's Strawweight
+
+    Fight Results:
+  - JEAN SILVA def. BRYCE MITCHELL via Submission(R2)
+- DAN IGE def. SEAN WOODSON via KO/TKO(R3)
+- MICHAL OLEKSIEJCZUK def. SEDRIQUES DUMAS via KO/TKO(R1)
+- NORA CORNOLLE def. HAILEY COWAN via Submission(R2)
+- ALEXANDER VOLKANOVSKI def. DIEGO LOPES via Decision - Unanimous(R5)
+- SUMUDAERJI def. MITCH RAPOSO via Decision - Split(R3)
+- MARCO TULIO def. TRESEAN GORE via KO/TKO(R2)
+- VIRNA JANDIROBA def. YAN XIAONAN via Decision - Unanimous(R3)
+- PADDY PIMBLETT def. MICHAEL CHANDLER via KO/TKO(R3)
+- DOMINICK REYES def. NIKITA KRYLOV via KO/TKO(R1)
+- JULIAN EROSA def. DARREN ELKINS via KO/TKO(R1)
+- CHASE HOOPER def. JIM MILLER via Decision - Unanimous(R3)

@@ -1,0 +1,13 @@
+Event: UFC 310: Pantoja vs. Asakura
+    Date: December 07, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DOMINICK REYES defeated ANTHONY SMITH via KO/TKO  
+  at 4:46 of round 2
+  Key stats:
+  - DOMINICK REYES landed 121 significant strikes
+  - ANTHONY SMITH landed 21 significant strikes
+  - Knockdowns: DOMINICK REYES 0,  ANTHONY SMITH 0
+  - Takedowns: DOMINICK REYES 0,  ANTHONY SMITH 0

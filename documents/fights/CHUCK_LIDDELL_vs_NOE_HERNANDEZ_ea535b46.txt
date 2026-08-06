@@ -1,0 +1,13 @@
+Event: UFC 17: Redemption
+    Date: May 15, 1998
+    Location: Mobile, Alabama, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHUCK LIDDELL defeated NOE HERNANDEZ via Decision - Unanimous  
+  at 12:00 of round 1
+  Key stats:
+  - CHUCK LIDDELL landed 46 significant strikes
+  - NOE HERNANDEZ landed 9 significant strikes
+  - Knockdowns: CHUCK LIDDELL 0,  NOE HERNANDEZ 0
+  - Takedowns: CHUCK LIDDELL 2,  NOE HERNANDEZ 1

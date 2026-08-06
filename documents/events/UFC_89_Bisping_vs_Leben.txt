@@ -1,0 +1,18 @@
+Event : UFC 89: Bisping vs Leben
+    Date : October 18, 2008
+    Location: Birmingham, England, United Kingdom
+    Number of Fights: 11
+    Weight Classes: Middleweight, Light Heavyweight, Welterweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - CHRIS LYTLE def. PAUL TAYLOR via Decision - Unanimous(R3)
+- DAN HARDY def. AKIHIRO GONO via Decision - Split(R3)
+- LUIZ CANE def. RAMEAU THIERRY SOKOUDJOU via KO/TKO(R2)
+- MICHAEL BISPING def. CHRIS LEBEN via Decision - Unanimous(R3)
+- DAVID BIELKHEDEN def. JESS LIAUDIN via Decision - Unanimous(R3)
+- MARCUS DAVIS def. PAUL KELLY via Submission(R2)
+- TERRY ETIM def. SAM STOUT via Decision - Unanimous(R3)
+- KEITH JARDINE def. BRANDON VERA via Decision - Split(R3)
+- JIM MILLER def. DAVID BARON via Submission(R3)
+- SHANE CARWIN def. NEIL WAIN via KO/TKO(R1)
+- PER EKLUND def. SAMY SCHIAVO via Submission(R3)

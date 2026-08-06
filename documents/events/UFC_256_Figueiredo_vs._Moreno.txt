@@ -1,0 +1,16 @@
+Event : UFC 256: Figueiredo vs. Moreno
+    Date : December 12, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Heavyweight, Women's Strawweight, Lightweight, Featherweight, Middleweight
+
+    Fight Results:
+  - RAFAEL FIZIEV def. RENATO MOICANO via KO/TKO(R1)
+- MACKENZIE DERN def. VIRNA JANDIROBA via Decision - Unanimous(R3)
+- CIRYL GANE def. JUNIOR DOS SANTOS via KO/TKO(R2)
+- CHARLES OLIVEIRA def. TONY FERGUSON via Decision - Unanimous(R3)
+- CUB SWANSON def. DANIEL PINEDA via KO/TKO(R2)
+- KEVIN HOLLAND def. JACARE SOUZA via KO/TKO(R1)
+- GAVIN TUCKER def. BILLY QUARANTILLO via Decision - Unanimous(R3)
+- CHASE HOOPER def. PETER BARRETT via Submission(R3)
+- TECIA PENNINGTON def. SAM HUGHES via TKO - Doctor's Stoppage(R1)

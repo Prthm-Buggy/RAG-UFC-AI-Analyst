@@ -1,0 +1,11 @@
+Fighter: JAVIER REYES
+  Date of Birth: 1993-10-13
+  Career record: 2
+  First fight: 2026-02-28
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :53
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

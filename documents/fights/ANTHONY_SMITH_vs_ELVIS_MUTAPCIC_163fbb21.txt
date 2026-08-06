@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Tournament of Champions Finale
+    Date: December 03, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANTHONY SMITH defeated ELVIS MUTAPCIC via KO/TKO  
+  at 3:27 of round 2
+  Key stats:
+  - ANTHONY SMITH landed 48 significant strikes
+  - ELVIS MUTAPCIC landed 29 significant strikes
+  - Knockdowns: ANTHONY SMITH 1,  ELVIS MUTAPCIC 0
+  - Takedowns: ANTHONY SMITH 0,  ELVIS MUTAPCIC 0
+  Bonus: perf

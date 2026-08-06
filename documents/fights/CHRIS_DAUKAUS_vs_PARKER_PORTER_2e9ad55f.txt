@@ -1,0 +1,13 @@
+Event: UFC 252: Miocic vs. Cormier 3
+    Date: August 15, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHRIS DAUKAUS defeated PARKER PORTER via KO/TKO  
+  at 4:28 of round 1
+  Key stats:
+  - CHRIS DAUKAUS landed 37 significant strikes
+  - PARKER PORTER landed 17 significant strikes
+  - Knockdowns: CHRIS DAUKAUS 2,  PARKER PORTER 0
+  - Takedowns: CHRIS DAUKAUS 0,  PARKER PORTER 0

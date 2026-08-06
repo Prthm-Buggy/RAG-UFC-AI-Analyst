@@ -1,0 +1,14 @@
+Event: UFC 35: Throwdown
+    Date: January 11, 2002
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Lightweight
+    
+
+    Result: JENS PULVER defeated BJ PENN via Decision - Majority  
+  at 5:00 of round 5
+  Key stats:
+  - JENS PULVER landed 38 significant strikes
+  - BJ PENN landed 49 significant strikes
+  - Knockdowns: JENS PULVER 0,  BJ PENN 0
+  - Takedowns: JENS PULVER 1,  BJ PENN 7
+  Bonus: belt

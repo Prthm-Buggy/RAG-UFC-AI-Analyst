@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Strickland vs. Magomedov
+    Date: July 01, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JOANDERSON BRITO defeated WESTIN WILSON via KO/TKO  
+  at 2:54 of round 1
+  Key stats:
+  - JOANDERSON BRITO landed 22 significant strikes
+  - WESTIN WILSON landed 4 significant strikes
+  - Knockdowns: JOANDERSON BRITO 0,  WESTIN WILSON 0
+  - Takedowns: JOANDERSON BRITO 1,  WESTIN WILSON 0

@@ -1,0 +1,14 @@
+Event: UFC 62: Liddell vs Sobral
+    Date: August 26, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CHUCK LIDDELL defeated RENATO SOBRAL via KO/TKO  
+  at 1:35 of round 1
+  Key stats:
+  - CHUCK LIDDELL landed 17 significant strikes
+  - RENATO SOBRAL landed 1 significant strikes
+  - Knockdowns: CHUCK LIDDELL 2,  RENATO SOBRAL 0
+  - Takedowns: CHUCK LIDDELL 0,  RENATO SOBRAL 0
+  Bonus: belt

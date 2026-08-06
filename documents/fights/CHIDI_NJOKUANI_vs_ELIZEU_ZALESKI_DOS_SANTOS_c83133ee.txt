@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Dolidze 2
+    Date: March 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHIDI NJOKUANI defeated ELIZEU ZALESKI DOS SANTOS via KO/TKO  
+  at 2:19 of round 2
+  Key stats:
+  - CHIDI NJOKUANI landed 46 significant strikes
+  - ELIZEU ZALESKI DOS SANTOS landed 17 significant strikes
+  - Knockdowns: CHIDI NJOKUANI 1,  ELIZEU ZALESKI DOS SANTOS 0
+  - Takedowns: CHIDI NJOKUANI 0,  ELIZEU ZALESKI DOS SANTOS 1

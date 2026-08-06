@@ -1,0 +1,13 @@
+Event: UFC 236: Holloway vs. Poirier 2
+    Date: April 13, 2019
+    Location: Atlanta, Georgia, USA
+    Weight Class: Flyweight
+    
+
+    Result: ALEXANDRE PANTOJA defeated WILSON REIS via KO/TKO  
+  at 2:58 of round 1
+  Key stats:
+  - ALEXANDRE PANTOJA landed 23 significant strikes
+  - WILSON REIS landed 1 significant strikes
+  - Knockdowns: ALEXANDRE PANTOJA 1,  WILSON REIS 0
+  - Takedowns: ALEXANDRE PANTOJA 0,  WILSON REIS 1

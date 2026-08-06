@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Nicolau vs. Perez
+    Date: April 27, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JHONATA DINIZ defeated AUSTEN LANE via KO/TKO  
+  at 2:12 of round 2
+  Key stats:
+  - JHONATA DINIZ landed 20 significant strikes
+  - AUSTEN LANE landed 17 significant strikes
+  - Knockdowns: JHONATA DINIZ 1,  AUSTEN LANE 0
+  - Takedowns: JHONATA DINIZ 0,  AUSTEN LANE 1
+  Bonus: perf

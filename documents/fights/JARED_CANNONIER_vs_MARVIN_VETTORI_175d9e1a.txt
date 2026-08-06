@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vettori vs. Cannonier
+    Date: June 17, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JARED CANNONIER defeated MARVIN VETTORI via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JARED CANNONIER landed 241 significant strikes
+  - MARVIN VETTORI landed 153 significant strikes
+  - Knockdowns: JARED CANNONIER 0,  MARVIN VETTORI 0
+  - Takedowns: JARED CANNONIER 4,  MARVIN VETTORI 1
+  Bonus: fight

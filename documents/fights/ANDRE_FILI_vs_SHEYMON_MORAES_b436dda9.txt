@@ -1,0 +1,14 @@
+Event: UFC Fight Night: De Randamie vs. Ladd
+    Date: July 13, 2019
+    Location: Sacramento, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: ANDRE FILI defeated SHEYMON MORAES via KO/TKO  
+  at 3:07 of round 1
+  Key stats:
+  - ANDRE FILI landed 19 significant strikes
+  - SHEYMON MORAES landed 11 significant strikes
+  - Knockdowns: ANDRE FILI 1,  SHEYMON MORAES 0
+  - Takedowns: ANDRE FILI 0,  SHEYMON MORAES 0
+  Bonus: perf

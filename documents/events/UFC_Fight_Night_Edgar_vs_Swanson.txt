@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Edgar vs Swanson
+    Date : November 22, 2014
+    Location: Austin, Texas, USA
+    Number of Fights: 12
+    Weight Classes: Women's Strawweight, Lightweight, Middleweight, Featherweight, Flyweight, Heavyweight
+
+    Fight Results:
+  - ROGER NARVAEZ def. LUKE BARNATT via Decision - Split(R3)
+- ALEKSEI OLEINIK def. JARED ROSHOLT via KO/TKO(R1)
+- JAMES VICK def. NICK HEIN via Decision - Unanimous(R3)
+- DOOHO CHOI def. JUAN MANUEL PUIG via KO/TKO(R1)
+- JOSEPH BENAVIDEZ def. DUSTIN ORTIZ via Decision - Unanimous(R3)
+- PAIGE VANZANT def. KAILIN CURRAN via KO/TKO(R3)
+- EDSON BARBOZA def. KING GREEN via Decision - Unanimous(R3)
+- MATT WIMAN def. ISAAC VALLIE-FLAGG via Decision - Unanimous(R3)
+- FRANKIE EDGAR def. CUB SWANSON via Submission(R5)
+- AKBARH ARREOLA def. YVES EDWARDS via Submission(R1)
+- CHICO CAMUS def. BRAD PICKETT via Decision - Split(R3)
+- RUSLAN MAGOMEDOV def. JOSH COPELAND via Decision - Unanimous(R3)

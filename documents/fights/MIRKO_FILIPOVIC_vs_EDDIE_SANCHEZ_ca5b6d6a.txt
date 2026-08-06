@@ -1,0 +1,13 @@
+Event: UFC 67: All or Nothing
+    Date: February 03, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MIRKO FILIPOVIC defeated EDDIE SANCHEZ via KO/TKO  
+  at 4:33 of round 1
+  Key stats:
+  - MIRKO FILIPOVIC landed 20 significant strikes
+  - EDDIE SANCHEZ landed 5 significant strikes
+  - Knockdowns: MIRKO FILIPOVIC 1,  EDDIE SANCHEZ 0
+  - Takedowns: MIRKO FILIPOVIC 0,  EDDIE SANCHEZ 0

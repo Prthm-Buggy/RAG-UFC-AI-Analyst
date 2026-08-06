@@ -1,0 +1,11 @@
+Fighter: FRANKIE SAENZ
+  Date of Birth: 1980-08-12
+  Career record: 10
+  First fight: 2014-08-16
+  Last fight: 2020-08-01
+
+Career Statistics:
+- Significant Strikes Landed :509
+- Total takedowns landed :15
+- Knockdowns :2
+- Submission Attempts :1

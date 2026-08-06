@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale
+    Date: June 24, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: KENNY FLORIAN defeated SAM STOUT via Submission  
+  at 1:46 of round 1
+  Key stats:
+  - KENNY FLORIAN landed 5 significant strikes
+  - SAM STOUT landed 0 significant strikes
+  - Knockdowns: KENNY FLORIAN 0,  SAM STOUT 0
+  - Takedowns: KENNY FLORIAN 1,  SAM STOUT 0
+  Bonus: sub

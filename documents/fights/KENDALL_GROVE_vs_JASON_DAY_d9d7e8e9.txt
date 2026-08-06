@@ -1,0 +1,13 @@
+Event: UFC 96: Jackson vs Jardine
+    Date: March 07, 2009
+    Location: Columbus, Ohio, USA
+    Weight Class: Middleweight
+    
+
+    Result: KENDALL GROVE defeated JASON DAY via KO/TKO  
+  at 1:32 of round 1
+  Key stats:
+  - KENDALL GROVE landed 10 significant strikes
+  - JASON DAY landed 6 significant strikes
+  - Knockdowns: KENDALL GROVE 1,  JASON DAY 0
+  - Takedowns: KENDALL GROVE 0,  JASON DAY 0

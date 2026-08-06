@@ -1,0 +1,11 @@
+Fighter: DUSTIN KIMURA
+  Date of Birth: 1989-05-21
+  Career record: 5
+  First fight: 2013-02-02
+  Last fight: 2014-12-13
+
+Career Statistics:
+- Significant Strikes Landed :64
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :7

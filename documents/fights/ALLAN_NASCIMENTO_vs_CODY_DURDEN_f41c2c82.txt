@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Garcia vs. Onama
+    Date: November 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: ALLAN NASCIMENTO defeated CODY DURDEN via Submission  
+  at 3:13 of round 2
+  Key stats:
+  - ALLAN NASCIMENTO landed 52 significant strikes
+  - CODY DURDEN landed 57 significant strikes
+  - Knockdowns: ALLAN NASCIMENTO 0,  CODY DURDEN 0
+  - Takedowns: ALLAN NASCIMENTO 0,  CODY DURDEN 1
+  Bonus: perf

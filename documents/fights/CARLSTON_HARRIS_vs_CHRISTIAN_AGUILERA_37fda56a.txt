@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Waterson
+    Date: May 08, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLSTON HARRIS defeated CHRISTIAN AGUILERA via Submission  
+  at 2:52 of round 1
+  Key stats:
+  - CARLSTON HARRIS landed 5 significant strikes
+  - CHRISTIAN AGUILERA landed 1 significant strikes
+  - Knockdowns: CARLSTON HARRIS 0,  CHRISTIAN AGUILERA 0
+  - Takedowns: CARLSTON HARRIS 0,  CHRISTIAN AGUILERA 0
+  Bonus: perf

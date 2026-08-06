@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Munoz vs Weidman
+    Date: July 11, 2012
+    Location: San Jose, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDREW CRAIG defeated RAFAEL NATAL via KO/TKO  
+  at 4:52 of round 2
+  Key stats:
+  - ANDREW CRAIG landed 23 significant strikes
+  - RAFAEL NATAL landed 73 significant strikes
+  - Knockdowns: ANDREW CRAIG 1,  RAFAEL NATAL 2
+  - Takedowns: ANDREW CRAIG 0,  RAFAEL NATAL 2

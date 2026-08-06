@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs Dodson
+    Date: January 26, 2013
+    Location: Chicago, Illinois, USA
+    Weight Class: Middleweight
+    
+
+    Result: RAFAEL NATAL defeated SEAN SPENCER via Submission  
+  at 2:13 of round 3
+  Key stats:
+  - RAFAEL NATAL landed 64 significant strikes
+  - SEAN SPENCER landed 12 significant strikes
+  - Knockdowns: RAFAEL NATAL 0,  SEAN SPENCER 0
+  - Takedowns: RAFAEL NATAL 4,  SEAN SPENCER 0

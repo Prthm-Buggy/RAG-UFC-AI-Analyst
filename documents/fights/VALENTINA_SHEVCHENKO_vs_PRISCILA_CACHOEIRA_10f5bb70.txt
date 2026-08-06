@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs. Anders
+    Date: February 03, 2018
+    Location: Belem, Para, Brazil
+    Weight Class: Women's Flyweight
+    
+
+    Result: VALENTINA SHEVCHENKO defeated PRISCILA CACHOEIRA via Submission  
+  at 4:25 of round 2
+  Key stats:
+  - VALENTINA SHEVCHENKO landed 95 significant strikes
+  - PRISCILA CACHOEIRA landed 2 significant strikes
+  - Knockdowns: VALENTINA SHEVCHENKO 0,  PRISCILA CACHOEIRA 0
+  - Takedowns: VALENTINA SHEVCHENKO 2,  PRISCILA CACHOEIRA 0
+  Bonus: perf

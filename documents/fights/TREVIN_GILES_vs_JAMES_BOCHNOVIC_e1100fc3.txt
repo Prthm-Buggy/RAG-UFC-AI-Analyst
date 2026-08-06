@@ -1,0 +1,13 @@
+Event: UFC 213: Romero vs. Whittaker
+    Date: July 08, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TREVIN GILES defeated JAMES BOCHNOVIC via KO/TKO  
+  at 2:54 of round 2
+  Key stats:
+  - TREVIN GILES landed 41 significant strikes
+  - JAMES BOCHNOVIC landed 5 significant strikes
+  - Knockdowns: TREVIN GILES 0,  JAMES BOCHNOVIC 0
+  - Takedowns: TREVIN GILES 5,  JAMES BOCHNOVIC 0

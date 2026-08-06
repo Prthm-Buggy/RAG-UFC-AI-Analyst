@@ -1,0 +1,13 @@
+Event: UFC 53: Heavy Hitters
+    Date: June 04, 2005
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PAUL BUENTELLO defeated KEVIN JORDAN via Submission  
+  at 4:00 of round 1
+  Key stats:
+  - PAUL BUENTELLO landed 20 significant strikes
+  - KEVIN JORDAN landed 18 significant strikes
+  - Knockdowns: PAUL BUENTELLO 1,  KEVIN JORDAN 0
+  - Takedowns: PAUL BUENTELLO 0,  KEVIN JORDAN 0

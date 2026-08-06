@@ -1,0 +1,19 @@
+Event : UFC on FUEL TV: Nogueira vs. Werdum
+    Date : June 08, 2013
+    Location: Fortaleza, Ceara, Brazil
+    Number of Fights: 12
+    Weight Classes: Light Heavyweight, Welterweight, Middleweight, Featherweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - FABRICIO WERDUM def. ANTONIO RODRIGO NOGUEIRA via Submission(R2)
+- CAIO MAGALHAES def. KARLOS VEMOLA via Submission(R2)
+- RAPHAEL ASSUNCAO def. VAUGHAN LEE via Submission(R2)
+- LEONARDO SANTOS def. WILLIAM MACARIO via Submission(R2)
+- ERICK SILVA def. JASON HIGH via Submission(R1)
+- RONY JASON def. MIKE WILKINSON via Submission(R1)
+- ILDEMAR ALCANTARA def. LEANDRO SILVA via Decision - Unanimous(R3)
+- RODRIGO DAMM def. MIZUTO HIROTA via Decision - Split(R3)
+- THIAGO SILVA def. RAFAEL CAVALCANTE via KO/TKO(R1)
+- FELIPE ARANTES def. GODOFREDO PEPEY via KO/TKO(R1)
+- ANTONIO BRAGA NETO def. ANTHONY SMITH via Submission(R1)
+- DANIEL SARAFIAN def. EDDIE MENDEZ via Submission(R1)

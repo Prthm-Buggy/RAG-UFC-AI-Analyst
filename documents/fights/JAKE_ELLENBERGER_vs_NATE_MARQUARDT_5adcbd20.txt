@@ -1,0 +1,14 @@
+Event: UFC 158: St-Pierre vs Diaz
+    Date: March 16, 2013
+    Location: Montreal, Quebec, Canada
+    Weight Class: Welterweight
+    
+
+    Result: JAKE ELLENBERGER defeated NATE MARQUARDT via KO/TKO  
+  at 3:00 of round 1
+  Key stats:
+  - JAKE ELLENBERGER landed 13 significant strikes
+  - NATE MARQUARDT landed 13 significant strikes
+  - Knockdowns: JAKE ELLENBERGER 1,  NATE MARQUARDT 0
+  - Takedowns: JAKE ELLENBERGER 0,  NATE MARQUARDT 0
+  Bonus: ko

@@ -1,0 +1,11 @@
+Fighter: HOUSTON DORR
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 1997-10-17
+  Last fight: 1997-10-17
+
+Career Statistics:
+- Significant Strikes Landed :1
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

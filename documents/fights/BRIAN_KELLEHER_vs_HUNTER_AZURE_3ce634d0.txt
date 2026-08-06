@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Teixeira
+    Date: May 13, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Featherweight
+    
+
+    Result: BRIAN KELLEHER defeated HUNTER AZURE via KO/TKO  
+  at 3:40 of round 2
+  Key stats:
+  - BRIAN KELLEHER landed 29 significant strikes
+  - HUNTER AZURE landed 62 significant strikes
+  - Knockdowns: BRIAN KELLEHER 1,  HUNTER AZURE 0
+  - Takedowns: BRIAN KELLEHER 0,  HUNTER AZURE 0
+  Bonus: fight

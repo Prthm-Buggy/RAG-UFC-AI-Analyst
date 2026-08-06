@@ -1,0 +1,11 @@
+Fighter: ERIK KOCH
+  Date of Birth: 1988-10-04
+  Career record: 10
+  First fight: 2011-03-19
+  Last fight: 2019-07-27
+
+Career Statistics:
+- Significant Strikes Landed :235
+- Total takedowns landed :7
+- Knockdowns :2
+- Submission Attempts :6

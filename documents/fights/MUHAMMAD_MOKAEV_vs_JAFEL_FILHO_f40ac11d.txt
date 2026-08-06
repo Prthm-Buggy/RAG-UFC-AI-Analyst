@@ -1,0 +1,13 @@
+Event: UFC 286: Edwards vs. Usman 3
+    Date: March 18, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Flyweight
+    
+
+    Result: MUHAMMAD MOKAEV defeated JAFEL FILHO via Submission  
+  at 4:32 of round 3
+  Key stats:
+  - MUHAMMAD MOKAEV landed 16 significant strikes
+  - JAFEL FILHO landed 9 significant strikes
+  - Knockdowns: MUHAMMAD MOKAEV 0,  JAFEL FILHO 0
+  - Takedowns: MUHAMMAD MOKAEV 4,  JAFEL FILHO 0

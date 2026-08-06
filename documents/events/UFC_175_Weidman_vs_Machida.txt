@@ -1,0 +1,16 @@
+Event : UFC 175: Weidman vs Machida
+    Date : July 05, 2014
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Bantamweight, Middleweight, Women's Bantamweight, Welterweight
+
+    Fight Results:
+  - URIAH HALL def. THIAGO SANTOS via Decision - Unanimous(R3)
+- ROB FONT def. GEORGE ROOP via KO/TKO(R1)
+- KENNY ROBERTSON def. ILDEMAR ALCANTARA via Decision - Unanimous(R3)
+- URIJAH FABER def. ALEX CACERES via Submission(R3)
+- CHRIS WEIDMAN def. LYOTO MACHIDA via Decision - Unanimous(R5)
+- RUSSELL DOANE def. MARCUS BRIMAGE via Decision - Split(R3)
+- RONDA ROUSEY def. ALEXIS DAVIS via KO/TKO(R1)
+- BRUNO SANTOS def. CHRIS CAMOZZI via Decision - Split(R3)
+- LUKE ZACHRICH def. GUILHERME VASCONCELOS via Decision - Unanimous(R3)

@@ -1,0 +1,14 @@
+Event: UFC on FOX: Johnson vs. Reis
+    Date: April 15, 2017
+    Location: Kansas City, Missouri, USA
+    Weight Class: Flyweight
+    
+
+    Result: DEMETRIOUS JOHNSON defeated WILSON REIS via Submission  
+  at 4:49 of round 3
+  Key stats:
+  - DEMETRIOUS JOHNSON landed 108 significant strikes
+  - WILSON REIS landed 16 significant strikes
+  - Knockdowns: DEMETRIOUS JOHNSON 0,  WILSON REIS 0
+  - Takedowns: DEMETRIOUS JOHNSON 1,  WILSON REIS 0
+  Bonus: belt

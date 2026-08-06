@@ -1,0 +1,11 @@
+Fighter: ANDRE FILI
+  Date of Birth: 1990-06-25
+  Career record: 26
+  First fight: 2013-10-19
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :1087
+- Total takedowns landed :42
+- Knockdowns :6
+- Submission Attempts :4

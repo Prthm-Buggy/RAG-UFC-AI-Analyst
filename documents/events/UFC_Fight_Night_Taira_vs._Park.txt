@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Taira vs. Park
+    Date : August 02, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Flyweight, Lightweight, Middleweight, Women's Strawweight, Featherweight, Women's Bantamweight, Welterweight, Bantamweight
+
+    Fight Results:
+  - CHRIS DUNCAN def. MATEUSZ REBECKI via Decision - Unanimous(R3)
+- TATSURO TAIRA def. HYUNSUNG PARK via Submission(R2)
+- KEVIN VALLEJOS def. DANNY SILVA via Decision - Unanimous(R3)
+- ANDREY PULYAEV def. NICK KLEIN via KO/TKO(R2)
+- RINYA NAKAMURA def. NATHAN FLETCHER via KO/TKO(R1)
+- PIERA RODRIGUEZ def. Ketlen Souza via Decision - Split(R3)
+- KAROL ROSA def. NORA CORNOLLE via Decision - Unanimous(R3)
+- ESTEBAN RIBOVICS def. ELVES BRENER via Decision - Unanimous(R3)
+- RODOLFO VIEIRA def. TRESEAN GORE via Decision - Unanimous(R3)
+- NEIL MAGNY def. ELIZEU ZALESKI DOS SANTOS via KO/TKO(R2)
+- AUSTIN BASHI def. JOHN YANNIS via Submission(R1)
+- RAFAEL ESTEVAM def. FELIPE BUNES via Decision - Unanimous(R3)

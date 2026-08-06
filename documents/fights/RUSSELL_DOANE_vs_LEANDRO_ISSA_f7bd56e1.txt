@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Saffiedine vs Lim
+    Date: January 04, 2014
+    Location: Singapore, Singapore
+    Weight Class: Bantamweight
+    
+
+    Result: RUSSELL DOANE defeated LEANDRO ISSA via Submission  
+  at 4:59 of round 2
+  Key stats:
+  - RUSSELL DOANE landed 43 significant strikes
+  - LEANDRO ISSA landed 17 significant strikes
+  - Knockdowns: RUSSELL DOANE 0,  LEANDRO ISSA 0
+  - Takedowns: RUSSELL DOANE 0,  LEANDRO ISSA 2
+  Bonus: sub

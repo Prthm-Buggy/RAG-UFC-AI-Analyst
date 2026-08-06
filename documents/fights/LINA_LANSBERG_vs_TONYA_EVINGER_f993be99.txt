@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gustafsson vs. Smith
+    Date: June 01, 2019
+    Location: Stockholm, Sweden
+    Weight Class: Women's Bantamweight
+    
+
+    Result: LINA LANSBERG defeated TONYA EVINGER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LINA LANSBERG landed 50 significant strikes
+  - TONYA EVINGER landed 6 significant strikes
+  - Knockdowns: LINA LANSBERG 0,  TONYA EVINGER 0
+  - Takedowns: LINA LANSBERG 1,  TONYA EVINGER 1

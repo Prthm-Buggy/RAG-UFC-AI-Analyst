@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Rodriguez
+    Date: November 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARCOS ROGERIO DE LIMA defeated BEN ROTHWELL via KO/TKO  
+  at 0:32 of round 1
+  Key stats:
+  - MARCOS ROGERIO DE LIMA landed 14 significant strikes
+  - BEN ROTHWELL landed 2 significant strikes
+  - Knockdowns: MARCOS ROGERIO DE LIMA 0,  BEN ROTHWELL 0
+  - Takedowns: MARCOS ROGERIO DE LIMA 0,  BEN ROTHWELL 0

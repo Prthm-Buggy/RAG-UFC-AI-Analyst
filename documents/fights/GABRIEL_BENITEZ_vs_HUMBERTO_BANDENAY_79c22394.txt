@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Maia vs. Usman
+    Date: May 19, 2018
+    Location: Santiago, Chile
+    Weight Class: Featherweight
+    
+
+    Result: GABRIEL BENITEZ defeated HUMBERTO BANDENAY via KO/TKO  
+  at 0:39 of round 1
+  Key stats:
+  - GABRIEL BENITEZ landed 9 significant strikes
+  - HUMBERTO BANDENAY landed 2 significant strikes
+  - Knockdowns: GABRIEL BENITEZ 1,  HUMBERTO BANDENAY 0
+  - Takedowns: GABRIEL BENITEZ 1,  HUMBERTO BANDENAY 0
+  Bonus: perf

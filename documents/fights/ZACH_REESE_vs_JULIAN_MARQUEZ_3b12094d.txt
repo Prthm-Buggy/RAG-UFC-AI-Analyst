@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Imavov
+    Date: June 08, 2024
+    Location: Louisville, Kentucky, USA
+    Weight Class: Middleweight
+    
+
+    Result: ZACH REESE defeated JULIAN MARQUEZ via KO/TKO  
+  at 0:20 of round 1
+  Key stats:
+  - ZACH REESE landed 6 significant strikes
+  - JULIAN MARQUEZ landed 1 significant strikes
+  - Knockdowns: ZACH REESE 1,  JULIAN MARQUEZ 0
+  - Takedowns: ZACH REESE 0,  JULIAN MARQUEZ 0
+  Bonus: perf

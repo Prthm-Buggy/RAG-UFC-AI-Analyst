@@ -1,0 +1,11 @@
+Fighter: KUNIYOSHI HIRONAKA
+  Date of Birth: 1976-06-17
+  Career record: 4
+  First fight: 2006-10-14
+  Last fight: 2008-04-19
+
+Career Statistics:
+- Significant Strikes Landed :66
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :3

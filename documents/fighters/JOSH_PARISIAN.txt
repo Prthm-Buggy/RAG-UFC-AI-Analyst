@@ -1,0 +1,11 @@
+Fighter: JOSH PARISIAN
+  Date of Birth: 1989-06-28
+  Career record: 7
+  First fight: 2020-11-28
+  Last fight: 2024-03-09
+
+Career Statistics:
+- Significant Strikes Landed :310
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

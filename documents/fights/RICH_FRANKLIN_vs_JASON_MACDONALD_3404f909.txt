@@ -1,0 +1,13 @@
+Event: UFC 68: The Uprising
+    Date: March 03, 2007
+    Location: Columbus, Ohio, USA
+    Weight Class: Middleweight
+    
+
+    Result: RICH FRANKLIN defeated JASON MACDONALD via KO/TKO  
+  at 5:00 of round 2
+  Key stats:
+  - RICH FRANKLIN landed 49 significant strikes
+  - JASON MACDONALD landed 16 significant strikes
+  - Knockdowns: RICH FRANKLIN 0,  JASON MACDONALD 0
+  - Takedowns: RICH FRANKLIN 1,  JASON MACDONALD 1

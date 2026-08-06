@@ -1,0 +1,14 @@
+Event: UFC Live: Jones vs Matyushenko
+    Date: August 01, 2010
+    Location: San Diego, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: TAKANORI GOMI defeated TYSON GRIFFIN via KO/TKO  
+  at 1:04 of round 1
+  Key stats:
+  - TAKANORI GOMI landed 5 significant strikes
+  - TYSON GRIFFIN landed 3 significant strikes
+  - Knockdowns: TAKANORI GOMI 1,  TYSON GRIFFIN 0
+  - Takedowns: TAKANORI GOMI 0,  TYSON GRIFFIN 0
+  Bonus: ko

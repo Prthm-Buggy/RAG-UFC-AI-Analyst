@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bisping vs. Gastelum
+    Date: November 25, 2017
+    Location: Shanghai, Hebei, China
+    Weight Class: Featherweight
+    
+
+    Result: WANG GUAN defeated ALEX CACERES via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - WANG GUAN landed 71 significant strikes
+  - ALEX CACERES landed 49 significant strikes
+  - Knockdowns: WANG GUAN 1,  ALEX CACERES 0
+  - Takedowns: WANG GUAN 0,  ALEX CACERES 0

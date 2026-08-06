@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Ladd vs. Dumont
+    Date : October 16, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Women's Flyweight, Heavyweight, Bantamweight, Welterweight, Middleweight, Women's Strawweight, Lightweight, Featherweight, Women's Featherweight
+
+    Fight Results:
+  - MANON FIOROT def. MAYRA BUENO SILVA via Decision - Unanimous(R3)
+- NORMA DUMONT def. ASPEN LADD via Decision - Unanimous(R5)
+- NATE LANDWEHR def. LUDOVIT KLEIN via Submission(R3)
+- DANNY ROBERTS def. RAMAZAN EMEEV via Decision - Split(R3)
+- ANDREI ARLOVSKI def. CARLOS FELIPE via Decision - Unanimous(R3)
+- LUANA CAROLINA def. LOOPY GODINEZ via Decision - Unanimous(R3)
+- JIM MILLER def. ERICK GONZALEZ via KO/TKO(R2)
+- BRUNO SILVA def. ANDREW SANCHEZ via KO/TKO(R3)
+- ARIANE CARNELOSSI def. ISTELA NUNES via Submission(R3)
+- BATGEREL DANAA def. BRANDON DAVIS via KO/TKO(R1)

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Miocic vs Maldonado
+    Date: May 31, 2014
+    Location: Sao Paulo, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: GASAN UMALATOV defeated PAULO THIAGO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - GASAN UMALATOV landed 24 significant strikes
+  - PAULO THIAGO landed 42 significant strikes
+  - Knockdowns: GASAN UMALATOV 0,  PAULO THIAGO 0
+  - Takedowns: GASAN UMALATOV 1,  PAULO THIAGO 1

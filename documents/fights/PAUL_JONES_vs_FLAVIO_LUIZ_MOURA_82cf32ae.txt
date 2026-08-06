@@ -1,0 +1,13 @@
+Event: UFC 21: Return of the Champions
+    Date: July 16, 1999
+    Location: Cedar Rapids, Iowa, USA
+    Weight Class: Middleweight
+    
+
+    Result: PAUL JONES defeated FLAVIO LUIZ MOURA via Submission  
+  at 4:20 of round 1
+  Key stats:
+  - PAUL JONES landed 21 significant strikes
+  - FLAVIO LUIZ MOURA landed 1 significant strikes
+  - Knockdowns: PAUL JONES 0,  FLAVIO LUIZ MOURA 1
+  - Takedowns: PAUL JONES 0,  FLAVIO LUIZ MOURA 0

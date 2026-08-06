@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Font vs. Garbrandt
+    Date: May 22, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: CARLA ESPARZA defeated YAN XIAONAN via KO/TKO  
+  at 2:58 of round 2
+  Key stats:
+  - CARLA ESPARZA landed 27 significant strikes
+  - YAN XIAONAN landed 5 significant strikes
+  - Knockdowns: CARLA ESPARZA 0,  YAN XIAONAN 0
+  - Takedowns: CARLA ESPARZA 3,  YAN XIAONAN 0
+  Bonus: perf

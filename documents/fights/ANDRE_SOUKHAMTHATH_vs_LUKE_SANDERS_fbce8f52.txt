@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swanson vs. Ortega
+    Date: December 09, 2017
+    Location: Fresno, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ANDRE SOUKHAMTHATH defeated LUKE SANDERS via KO/TKO  
+  at 1:06 of round 2
+  Key stats:
+  - ANDRE SOUKHAMTHATH landed 20 significant strikes
+  - LUKE SANDERS landed 23 significant strikes
+  - Knockdowns: ANDRE SOUKHAMTHATH 1,  LUKE SANDERS 0
+  - Takedowns: ANDRE SOUKHAMTHATH 0,  LUKE SANDERS 0

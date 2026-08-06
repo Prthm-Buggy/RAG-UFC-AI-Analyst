@@ -1,0 +1,13 @@
+Event: UFC 311: Makhachev vs. Moicano
+    Date: January 18, 2025
+    Location: Inglewood, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: REINIER DE RIDDER defeated KEVIN HOLLAND via Submission  
+  at 3:31 of round 1
+  Key stats:
+  - REINIER DE RIDDER landed 12 significant strikes
+  - KEVIN HOLLAND landed 11 significant strikes
+  - Knockdowns: REINIER DE RIDDER 0,  KEVIN HOLLAND 0
+  - Takedowns: REINIER DE RIDDER 2,  KEVIN HOLLAND 0

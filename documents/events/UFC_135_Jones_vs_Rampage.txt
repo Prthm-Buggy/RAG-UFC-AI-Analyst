@@ -1,0 +1,17 @@
+Event : UFC 135: Jones vs Rampage
+    Date : September 24, 2011
+    Location: Denver, Colorado, USA
+    Number of Fights: 10
+    Weight Classes: Light Heavyweight, Welterweight, Middleweight, Lightweight, Featherweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - JON JONES def. QUINTON JACKSON via Submission(R4)
+- TRAVIS BROWNE def. ROB BROUGHTON via Decision - Unanimous(R3)
+- TIM BOETSCH def. NICK RING via Decision - Unanimous(R3)
+- TONY FERGUSON def. AARON RILEY via TKO - Doctor's Stoppage(R1)
+- MARK HUNT def. BEN ROTHWELL via Decision - Unanimous(R3)
+- TAKEYA MIZUGAKI def. COLE ESCOVEDO via KO/TKO(R2)
+- NATE DIAZ def. TAKANORI GOMI via Submission(R1)
+- JOSH KOSCHECK def. MATT HUGHES via KO/TKO(R1)
+- JAMES TE HUNA def. RICARDO ROMERO via KO/TKO(R1)
+- JUNIOR ASSUNCAO def. EDDIE YAGIN via Decision - Unanimous(R3)

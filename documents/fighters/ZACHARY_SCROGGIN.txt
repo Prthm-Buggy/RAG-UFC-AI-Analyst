@@ -1,0 +1,11 @@
+Fighter: ZACHARY SCROGGIN
+  Date of Birth: 1996-03-09
+  Career record: 1
+  First fight: 2024-11-09
+  Last fight: 2024-11-09
+
+Career Statistics:
+- Significant Strikes Landed :3
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

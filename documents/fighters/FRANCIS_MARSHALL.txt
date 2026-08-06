@@ -1,0 +1,11 @@
+Fighter: FRANCIS MARSHALL
+  Date of Birth: 1999-03-03
+  Career record: 7
+  First fight: 2022-12-03
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :172
+- Total takedowns landed :10
+- Knockdowns :2
+- Submission Attempts :3

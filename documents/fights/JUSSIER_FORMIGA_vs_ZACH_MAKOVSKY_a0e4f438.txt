@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bader vs Saint Preux
+    Date: August 16, 2014
+    Location: Bangor, Maine, USA
+    Weight Class: Flyweight
+    
+
+    Result: JUSSIER FORMIGA defeated ZACH MAKOVSKY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JUSSIER FORMIGA landed 11 significant strikes
+  - ZACH MAKOVSKY landed 25 significant strikes
+  - Knockdowns: JUSSIER FORMIGA 0,  ZACH MAKOVSKY 0
+  - Takedowns: JUSSIER FORMIGA 2,  ZACH MAKOVSKY 1

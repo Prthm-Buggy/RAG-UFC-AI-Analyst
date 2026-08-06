@@ -1,0 +1,13 @@
+Event: UFC 287: Pereira vs. Adesanya 2
+    Date: April 08, 2023
+    Location: Miami, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CHRISTIAN RODRIGUEZ defeated RAUL ROSAS JR. via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHRISTIAN RODRIGUEZ landed 29 significant strikes
+  - RAUL ROSAS JR. landed 2 significant strikes
+  - Knockdowns: CHRISTIAN RODRIGUEZ 0,  RAUL ROSAS JR. 0
+  - Takedowns: CHRISTIAN RODRIGUEZ 1,  RAUL ROSAS JR. 3

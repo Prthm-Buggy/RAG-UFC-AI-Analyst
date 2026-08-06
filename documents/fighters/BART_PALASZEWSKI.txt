@@ -1,0 +1,11 @@
+Fighter: BART PALASZEWSKI
+  Date of Birth: 1983-05-30
+  Career record: 4
+  First fight: 2011-10-29
+  Last fight: 2013-04-13
+
+Career Statistics:
+- Significant Strikes Landed :98
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :3

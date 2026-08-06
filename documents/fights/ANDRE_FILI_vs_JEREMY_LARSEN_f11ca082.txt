@@ -1,0 +1,13 @@
+Event: UFC 166: Velasquez vs Dos Santos 3
+    Date: October 19, 2013
+    Location: Houston, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: ANDRE FILI defeated JEREMY LARSEN via KO/TKO  
+  at 0:53 of round 2
+  Key stats:
+  - ANDRE FILI landed 55 significant strikes
+  - JEREMY LARSEN landed 23 significant strikes
+  - Knockdowns: ANDRE FILI 0,  JEREMY LARSEN 0
+  - Takedowns: ANDRE FILI 1,  JEREMY LARSEN 1

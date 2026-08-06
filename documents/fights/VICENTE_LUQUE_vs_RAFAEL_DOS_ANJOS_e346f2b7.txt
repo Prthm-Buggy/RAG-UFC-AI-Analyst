@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Luque vs. Dos Anjos
+    Date: August 12, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated RAFAEL DOS ANJOS via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - VICENTE LUQUE landed 72 significant strikes
+  - RAFAEL DOS ANJOS landed 66 significant strikes
+  - Knockdowns: VICENTE LUQUE 0,  RAFAEL DOS ANJOS 0
+  - Takedowns: VICENTE LUQUE 8,  RAFAEL DOS ANJOS 2

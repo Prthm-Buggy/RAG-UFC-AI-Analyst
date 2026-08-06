@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vieira vs. Tate
+    Date: November 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: RAFA GARCIA defeated NATAN LEVY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAFA GARCIA landed 35 significant strikes
+  - NATAN LEVY landed 47 significant strikes
+  - Knockdowns: RAFA GARCIA 0,  NATAN LEVY 0
+  - Takedowns: RAFA GARCIA 7,  NATAN LEVY 3

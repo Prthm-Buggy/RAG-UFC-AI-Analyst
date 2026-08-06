@@ -1,0 +1,14 @@
+Event: UFC 278: Usman vs. Edwards
+    Date: August 20, 2022
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Middleweight
+    
+
+    Result: PAULO COSTA defeated LUKE ROCKHOLD via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PAULO COSTA landed 73 significant strikes
+  - LUKE ROCKHOLD landed 51 significant strikes
+  - Knockdowns: PAULO COSTA 0,  LUKE ROCKHOLD 0
+  - Takedowns: PAULO COSTA 2,  LUKE ROCKHOLD 1
+  Bonus: fight

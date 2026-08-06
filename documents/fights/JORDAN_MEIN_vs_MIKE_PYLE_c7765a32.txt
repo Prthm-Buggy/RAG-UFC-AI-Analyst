@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Henderson vs Dos Anjos
+    Date: August 23, 2014
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Welterweight
+    
+
+    Result: JORDAN MEIN defeated MIKE PYLE via KO/TKO  
+  at 1:12 of round 1
+  Key stats:
+  - JORDAN MEIN landed 10 significant strikes
+  - MIKE PYLE landed 2 significant strikes
+  - Knockdowns: JORDAN MEIN 1,  MIKE PYLE 0
+  - Takedowns: JORDAN MEIN 0,  MIKE PYLE 0
+  Bonus: perf

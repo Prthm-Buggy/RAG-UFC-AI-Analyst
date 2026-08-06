@@ -1,0 +1,11 @@
+Fighter: ALEX TORRES
+  Date of Birth: 1988-05-29
+  Career record: 1
+  First fight: 2015-02-28
+  Last fight: 2015-02-28
+
+Career Statistics:
+- Significant Strikes Landed :37
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

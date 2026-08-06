@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gonzaga vs Cro Cop 2
+    Date: April 11, 2015
+    Location: Krakow, Poland
+    Weight Class: Women's Strawweight
+    
+
+    Result: MARYNA MOROZ defeated JOANNE WOOD via Submission  
+  at 1:30 of round 1
+  Key stats:
+  - MARYNA MOROZ landed 12 significant strikes
+  - JOANNE WOOD landed 11 significant strikes
+  - Knockdowns: MARYNA MOROZ 0,  JOANNE WOOD 0
+  - Takedowns: MARYNA MOROZ 0,  JOANNE WOOD 0
+  Bonus: perf

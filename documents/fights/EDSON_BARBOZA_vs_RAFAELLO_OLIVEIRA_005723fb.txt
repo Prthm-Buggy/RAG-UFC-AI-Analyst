@@ -1,0 +1,13 @@
+Event: UFC 162: Silva vs Weidman
+    Date: July 06, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: EDSON BARBOZA defeated RAFAELLO OLIVEIRA via KO/TKO  
+  at 1:44 of round 2
+  Key stats:
+  - EDSON BARBOZA landed 49 significant strikes
+  - RAFAELLO OLIVEIRA landed 19 significant strikes
+  - Knockdowns: EDSON BARBOZA 1,  RAFAELLO OLIVEIRA 0
+  - Takedowns: EDSON BARBOZA 0,  RAFAELLO OLIVEIRA 0

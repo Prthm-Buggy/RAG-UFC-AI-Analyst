@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs Miller
+    Date: July 16, 2014
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: RICK STORY defeated LEONARDO MAFRA via Submission  
+  at 2:12 of round 2
+  Key stats:
+  - RICK STORY landed 24 significant strikes
+  - LEONARDO MAFRA landed 11 significant strikes
+  - Knockdowns: RICK STORY 0,  LEONARDO MAFRA 0
+  - Takedowns: RICK STORY 3,  LEONARDO MAFRA 0

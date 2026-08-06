@@ -1,0 +1,11 @@
+Fighter: LEON EDWARDS
+  Date of Birth: 1991-08-25
+  Career record: 19
+  First fight: 2014-11-08
+  Last fight: 2025-11-15
+
+Career Statistics:
+- Significant Strikes Landed :854
+- Total takedowns landed :28
+- Knockdowns :5
+- Submission Attempts :8

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moicano vs. The Korean Zombie
+    Date: June 22, 2019
+    Location: Greenville, South Carolina, USA
+    Weight Class: Middleweight
+    
+
+    Result: KEVIN HOLLAND defeated ALESSIO DI CHIRICO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KEVIN HOLLAND landed 58 significant strikes
+  - ALESSIO DI CHIRICO landed 51 significant strikes
+  - Knockdowns: KEVIN HOLLAND 0,  ALESSIO DI CHIRICO 0
+  - Takedowns: KEVIN HOLLAND 0,  ALESSIO DI CHIRICO 2

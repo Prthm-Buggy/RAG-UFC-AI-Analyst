@@ -1,0 +1,11 @@
+Fighter: FABIO CHERANT
+  Date of Birth: 1994-11-25
+  Career record: 3
+  First fight: 2021-03-27
+  Last fight: 2022-02-12
+
+Career Statistics:
+- Significant Strikes Landed :28
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

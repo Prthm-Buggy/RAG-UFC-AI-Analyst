@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shogun vs. Smith
+    Date: July 22, 2018
+    Location: Hamburg, Hamburg, Germany
+    Weight Class: Featherweight
+    
+
+    Result: NAD NARIMANI defeated KHALID TAHA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NAD NARIMANI landed 45 significant strikes
+  - KHALID TAHA landed 32 significant strikes
+  - Knockdowns: NAD NARIMANI 0,  KHALID TAHA 0
+  - Takedowns: NAD NARIMANI 6,  KHALID TAHA 0

@@ -1,0 +1,11 @@
+Fighter: TORREZ FINNEY
+  Date of Birth: 1998-10-24
+  Career record: 2
+  First fight: 2025-04-05
+  Last fight: 2026-01-31
+
+Career Statistics:
+- Significant Strikes Landed :31
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :0

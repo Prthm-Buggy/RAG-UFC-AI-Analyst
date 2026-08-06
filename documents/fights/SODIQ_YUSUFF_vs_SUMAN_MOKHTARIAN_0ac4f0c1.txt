@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Santos vs. Tuivasa
+    Date: December 01, 2018
+    Location: Adelaide, South Australia, Australia
+    Weight Class: Featherweight
+    
+
+    Result: SODIQ YUSUFF defeated SUMAN MOKHTARIAN via KO/TKO  
+  at 2:14 of round 1
+  Key stats:
+  - SODIQ YUSUFF landed 23 significant strikes
+  - SUMAN MOKHTARIAN landed 5 significant strikes
+  - Knockdowns: SODIQ YUSUFF 0,  SUMAN MOKHTARIAN 0
+  - Takedowns: SODIQ YUSUFF 0,  SUMAN MOKHTARIAN 0
+  Bonus: perf

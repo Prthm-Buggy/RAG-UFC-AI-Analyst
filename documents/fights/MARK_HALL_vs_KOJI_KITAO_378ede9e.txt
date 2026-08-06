@@ -1,0 +1,13 @@
+Event: UFC 9: Motor City Madness
+    Date: May 17, 1996
+    Location: Detroit, Michigan, USA
+    Weight Class: Open Weight
+    
+
+    Result: MARK HALL defeated KOJI KITAO via TKO - Doctor's Stoppage  
+  at 0:47 of round 1
+  Key stats:
+  - MARK HALL landed 3 significant strikes
+  - KOJI KITAO landed 1 significant strikes
+  - Knockdowns: MARK HALL 0,  KOJI KITAO 0
+  - Takedowns: MARK HALL 0,  KOJI KITAO 1

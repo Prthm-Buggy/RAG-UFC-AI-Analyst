@@ -1,0 +1,13 @@
+Event: UFC 170: Rousey vs McMann
+    Date: February 22, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ERNEST CHAVEZ defeated YOSDENIS CEDENO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ERNEST CHAVEZ landed 28 significant strikes
+  - YOSDENIS CEDENO landed 26 significant strikes
+  - Knockdowns: ERNEST CHAVEZ 0,  YOSDENIS CEDENO 0
+  - Takedowns: ERNEST CHAVEZ 2,  YOSDENIS CEDENO 0

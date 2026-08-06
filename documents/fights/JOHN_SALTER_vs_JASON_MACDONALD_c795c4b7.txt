@@ -1,0 +1,13 @@
+Event: UFC 113: Machida vs Shogun 2
+    Date: May 08, 2010
+    Location: Montreal, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: JOHN SALTER defeated JASON MACDONALD via KO/TKO  
+  at 2:42 of round 1
+  Key stats:
+  - JOHN SALTER landed 3 significant strikes
+  - JASON MACDONALD landed 5 significant strikes
+  - Knockdowns: JOHN SALTER 0,  JASON MACDONALD 0
+  - Takedowns: JOHN SALTER 1,  JASON MACDONALD 0

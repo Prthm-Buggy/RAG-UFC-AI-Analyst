@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cejudo vs. Song
+    Date: February 22, 2025
+    Location: Seattle, Washington, USA
+    Weight Class: Catch Weight
+    
+
+    Result: AUSTIN VANDERFORD defeated NIKOLAY VERETENNIKOV via KO/TKO  
+  at 4:13 of round 2
+  Key stats:
+  - AUSTIN VANDERFORD landed 39 significant strikes
+  - NIKOLAY VERETENNIKOV landed 5 significant strikes
+  - Knockdowns: AUSTIN VANDERFORD 0,  NIKOLAY VERETENNIKOV 0
+  - Takedowns: AUSTIN VANDERFORD 2,  NIKOLAY VERETENNIKOV 0

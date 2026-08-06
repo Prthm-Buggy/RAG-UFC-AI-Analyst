@@ -1,0 +1,11 @@
+Fighter: RYAN BADER
+  Date of Birth: 1983-06-07
+  Career record: 20
+  First fight: 2008-12-13
+  Last fight: 2016-11-19
+
+Career Statistics:
+- Significant Strikes Landed :577
+- Total takedowns landed :46
+- Knockdowns :7
+- Submission Attempts :6

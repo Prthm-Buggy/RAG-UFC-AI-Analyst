@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Evloev vs. Murphy
+    Date : March 21, 2026
+    Location: London, England, United Kingdom
+    Number of Fights: 13
+    Weight Classes: Middleweight, Featherweight, Welterweight, Lightweight, Light Heavyweight, Women's Strawweight, Heavyweight
+
+    Fight Results:
+  - MOVSAR EVLOEV def. LERONE MURPHY via Decision - Majority(R5)
+- MASON JONES def. AXEL SOLA via Decision - Unanimous(R3)
+- DANNY SILVA def. KURTIS CAMPBELL via KO/TKO(R2)
+- BRANDO PERICIC def. LOUIE SUTHERLAND via KO/TKO(R1)
+- MICHAEL PAGE def. SAM PATTERSON via Decision - Unanimous(R3)
+- ABDUL-KAREEM AL-SELWADY def. SHEM ROCK via Decision - Unanimous(R3)
+- CHRISTIAN LEROY DUNCAN def. ROMAN DOLIDZE via Decision - Unanimous(R3)
+- IWO BARANIEWSKI def. AUSTEN LANE via KO/TKO(R1)
+- SHANELLE DYER def. RAVENA OLIVEIRA via KO/TKO(R2)
+- LUKE RILEY def. MICHAEL ASWELL JR. via Decision - Unanimous(R3)
+- MARIO PINTO def. FELIPE FRANCO via Decision - Unanimous(R3)
+- NATHANIEL WOOD def. LOSENE KEITA via Decision - Split(R3)
+- MANTAS KONDRATAVICIUS def. ANTONIO TROCOLI via Decision - Unanimous(R3)

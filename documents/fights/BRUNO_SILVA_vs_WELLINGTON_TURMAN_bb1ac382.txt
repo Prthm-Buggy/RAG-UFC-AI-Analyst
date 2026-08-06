@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jung vs. Ige
+    Date: June 19, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRUNO SILVA defeated WELLINGTON TURMAN via KO/TKO  
+  at 4:45 of round 1
+  Key stats:
+  - BRUNO SILVA landed 19 significant strikes
+  - WELLINGTON TURMAN landed 1 significant strikes
+  - Knockdowns: BRUNO SILVA 0,  WELLINGTON TURMAN 0
+  - Takedowns: BRUNO SILVA 0,  WELLINGTON TURMAN 0

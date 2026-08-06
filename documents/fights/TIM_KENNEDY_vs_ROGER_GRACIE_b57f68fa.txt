@@ -1,0 +1,13 @@
+Event: UFC 162: Silva vs Weidman
+    Date: July 06, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: TIM KENNEDY defeated ROGER GRACIE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TIM KENNEDY landed 54 significant strikes
+  - ROGER GRACIE landed 12 significant strikes
+  - Knockdowns: TIM KENNEDY 0,  ROGER GRACIE 0
+  - Takedowns: TIM KENNEDY 2,  ROGER GRACIE 2

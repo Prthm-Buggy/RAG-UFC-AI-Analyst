@@ -1,0 +1,13 @@
+Event: UFC 9: Motor City Madness
+    Date: May 17, 1996
+    Location: Detroit, Michigan, USA
+    Weight Class: Open Weight
+    
+
+    Result: MARK SCHULTZ defeated GARY GOODRIDGE via TKO - Doctor's Stoppage  
+  at 12:00 of round 1
+  Key stats:
+  - MARK SCHULTZ landed 8 significant strikes
+  - GARY GOODRIDGE landed 1 significant strikes
+  - Knockdowns: MARK SCHULTZ 0,  GARY GOODRIDGE 0
+  - Takedowns: MARK SCHULTZ 3,  GARY GOODRIDGE 0

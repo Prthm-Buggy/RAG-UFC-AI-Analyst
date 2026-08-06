@@ -1,0 +1,13 @@
+Event: UFC 79: Nemesis
+    Date: December 29, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAMES IRVIN defeated LUIZ CANE via DQ  
+  at 1:51 of round 1
+  Key stats:
+  - JAMES IRVIN landed 5 significant strikes
+  - LUIZ CANE landed 9 significant strikes
+  - Knockdowns: JAMES IRVIN 0,  LUIZ CANE 0
+  - Takedowns: JAMES IRVIN 0,  LUIZ CANE 1

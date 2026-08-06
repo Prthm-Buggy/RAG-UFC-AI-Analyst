@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Usman vs. Buckley
+    Date : June 14, 2025
+    Location: Atlanta, Georgia, USA
+    Number of Fights: 11
+    Weight Classes: Welterweight, Flyweight, Light Heavyweight, Middleweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - JOSE OCHOA def. CODY DURDEN via KO/TKO(R2)
+- ALONZO MENIFIELD def. OUMAR SY via Decision - Unanimous(R3)
+- RICKY SIMON def. CAMERON SMOTHERMAN via Decision - Unanimous(R3)
+- MALCOLM WELLMAKER def. KRIS MOUTINHO via KO/TKO(R1)
+- JAMEY-LYN HORTH def. VANESSA DEMOPOULOS via Decision - Unanimous(R3)
+- PHIL ROWE def. ANGE LOOSA via KO/TKO(R3)
+- ROSE NAMAJUNAS def. MIRANDA MAVERICK via Decision - Unanimous(R3)
+- EDMEN SHAHBAZYAN def. ANDRE PETROSKI via Decision - Unanimous(R3)
+- KAMARU USMAN def. JOAQUIN BUCKLEY via Decision - Unanimous(R5)
+- RAONI BARCELOS def. CODY GARBRANDT via Decision - Unanimous(R3)
+- MICHAEL CHIESA def. COURT MCGEE via Decision - Unanimous(R3)

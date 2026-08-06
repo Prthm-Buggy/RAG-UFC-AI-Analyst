@@ -1,0 +1,13 @@
+Event: UFC 74: Respect
+    Date: August 25, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RENATO SOBRAL defeated DAVID HEATH via Submission  
+  at 3:30 of round 2
+  Key stats:
+  - RENATO SOBRAL landed 60 significant strikes
+  - DAVID HEATH landed 6 significant strikes
+  - Knockdowns: RENATO SOBRAL 0,  DAVID HEATH 0
+  - Takedowns: RENATO SOBRAL 1,  DAVID HEATH 0

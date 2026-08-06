@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: A New World Champion Finale
+    Date: December 01, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MONTANA DE LA ROSA defeated CHRISTINA MARKS via Submission  
+  at 2:00 of round 1
+  Key stats:
+  - MONTANA DE LA ROSA landed 6 significant strikes
+  - CHRISTINA MARKS landed 10 significant strikes
+  - Knockdowns: MONTANA DE LA ROSA 0,  CHRISTINA MARKS 0
+  - Takedowns: MONTANA DE LA ROSA 0,  CHRISTINA MARKS 1

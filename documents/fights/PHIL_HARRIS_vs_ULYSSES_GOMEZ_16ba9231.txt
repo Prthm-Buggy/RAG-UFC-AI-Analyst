@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Barao vs McDonald
+    Date: February 16, 2013
+    Location: London, England, United Kingdom
+    Weight Class: Flyweight
+    
+
+    Result: PHIL HARRIS defeated ULYSSES GOMEZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PHIL HARRIS landed 33 significant strikes
+  - ULYSSES GOMEZ landed 35 significant strikes
+  - Knockdowns: PHIL HARRIS 0,  ULYSSES GOMEZ 0
+  - Takedowns: PHIL HARRIS 1,  ULYSSES GOMEZ 0

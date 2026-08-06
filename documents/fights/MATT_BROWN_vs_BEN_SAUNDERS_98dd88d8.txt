@@ -1,0 +1,13 @@
+Event: UFC 245: Usman vs. Covington
+    Date: December 14, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT BROWN defeated BEN SAUNDERS via KO/TKO  
+  at 4:55 of round 2
+  Key stats:
+  - MATT BROWN landed 30 significant strikes
+  - BEN SAUNDERS landed 12 significant strikes
+  - Knockdowns: MATT BROWN 0,  BEN SAUNDERS 0
+  - Takedowns: MATT BROWN 2,  BEN SAUNDERS 0

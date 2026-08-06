@@ -1,0 +1,17 @@
+Event : UFC on FX: Guillard vs Miller
+    Date : January 20, 2012
+    Location: Nashville, Tennessee, USA
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Heavyweight, Lightweight, Welterweight, Middleweight, Featherweight
+
+    Fight Results:
+  - NICK DENIS def. JOSEPH SANDOVAL via KO/TKO(R1)
+- JIM MILLER def. MELVIN GUILLARD via Submission(R1)
+- MIKE EASTON def. JARED PAPAZIAN via Decision - Majority(R3)
+- PAT BARRY def. CHRISTIAN MORECRAFT via KO/TKO(R1)
+- KHABIB NURMAGOMEDOV def. KAMAL SHALORUS via Submission(R3)
+- CHARLIE BRENNEMAN def. DANIEL ROBERTS via Decision - Unanimous(R3)
+- JOSH NEER def. DUANE LUDWIG via Submission(R1)
+- JORGE RIVERA def. ERIC SCHAFER via KO/TKO(R2)
+- FABRICIO CAMOES def. TOMMY HAYDEN via Submission(R1)
+- DANIEL PINEDA def. PAT SCHILLING via Submission(R1)

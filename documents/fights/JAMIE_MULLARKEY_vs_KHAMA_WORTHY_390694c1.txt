@@ -1,0 +1,13 @@
+Event: UFC 260: Miocic vs. Ngannou
+    Date: March 27, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JAMIE MULLARKEY defeated KHAMA WORTHY via KO/TKO  
+  at 0:46 of round 1
+  Key stats:
+  - JAMIE MULLARKEY landed 6 significant strikes
+  - KHAMA WORTHY landed 5 significant strikes
+  - Knockdowns: JAMIE MULLARKEY 1,  KHAMA WORTHY 0
+  - Takedowns: JAMIE MULLARKEY 0,  KHAMA WORTHY 0

@@ -1,0 +1,17 @@
+Event : UFC 205: Alvarez vs McGregor
+    Date : November 12, 2016
+    Location: New York City, New York, USA
+    Number of Fights: 10
+    Weight Classes: Catch Weight, Middleweight, Welterweight, Featherweight, Women's Strawweight, Lightweight, Women's Bantamweight
+
+    Fight Results:
+  - VICENTE LUQUE def. BELAL MUHAMMAD via KO/TKO(R1)
+- JIM MILLER def. THIAGO ALVES via Decision - Unanimous(R3)
+- RAQUEL PENNINGTON def. MIESHA TATE via Decision - Unanimous(R3)
+- CONOR MCGREGOR def. EDDIE ALVAREZ via KO/TKO(R2)
+- YOEL ROMERO def. CHRIS WEIDMAN via KO/TKO(R3)
+- JOANNA JEDRZEJCZYK def. KAROLINA KOWALKIEWICZ via Decision - Unanimous(R5)
+- LIZ CARMOUCHE def. KATLYN CERMINARA via Decision - Split(R3)
+- KHABIB NURMAGOMEDOV def. MICHAEL JOHNSON via Submission(R3)
+- TIM BOETSCH def. RAFAEL NATAL via KO/TKO(R1)
+- FRANKIE EDGAR def. JEREMY STEPHENS via Decision - Unanimous(R3)

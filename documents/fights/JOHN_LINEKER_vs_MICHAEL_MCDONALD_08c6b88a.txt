@@ -1,0 +1,14 @@
+Event: UFC Fight Night: McDonald vs. Lineker
+    Date: July 13, 2016
+    Location: Sioux Falls, South Dakota, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOHN LINEKER defeated MICHAEL MCDONALD via KO/TKO  
+  at 2:43 of round 1
+  Key stats:
+  - JOHN LINEKER landed 26 significant strikes
+  - MICHAEL MCDONALD landed 14 significant strikes
+  - Knockdowns: JOHN LINEKER 2,  MICHAEL MCDONALD 0
+  - Takedowns: JOHN LINEKER 0,  MICHAEL MCDONALD 0
+  Bonus: perf

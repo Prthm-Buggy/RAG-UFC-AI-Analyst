@@ -1,0 +1,19 @@
+Event : UFC 288: Sterling vs. Cejudo
+    Date : May 06, 2023
+    Location: Newark, New Jersey, USA
+    Number of Fights: 12
+    Weight Classes: Women's Strawweight, Featherweight, Lightweight, Welterweight, Light Heavyweight, Middleweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - VIRNA JANDIROBA def. MARINA RODRIGUEZ via Decision - Unanimous(R3)
+- PARKER PORTER def. BRAXTON SMITH via KO/TKO(R1)
+- MOVSAR EVLOEV def. DIEGO LOPES via Decision - Unanimous(R3)
+- CLAUDIO RIBEIRO def. JOSEPH HOLMES via KO/TKO(R2)
+- CHARLES JOURDAIN def. KRON GRACIE via Decision - Unanimous(R3)
+- ALJAMAIN STERLING def. HENRY CEJUDO via Decision - Split(R5)
+- IKRAM ALISKEROV def. PHIL HAWES via KO/TKO(R1)
+- KENNEDY NZECHUKWU def. DEVIN CLARK via Submission(R2)
+- BELAL MUHAMMAD def. GILBERT BURNS via Decision - Unanimous(R5)
+- YAN XIAONAN def. JESSICA ANDRADE via KO/TKO(R1)
+- MATT FREVOLA def. DREW DOBER via KO/TKO(R1)
+- KHAOS WILLIAMS def. ROLANDO BEDOYA via Decision - Split(R3)

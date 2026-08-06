@@ -1,0 +1,13 @@
+Event: UFC 75: Champion vs Champion
+    Date: September 08, 2007
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: HOUSTON ALEXANDER defeated ALESSIO SAKARA via KO/TKO  
+  at 1:01 of round 1
+  Key stats:
+  - HOUSTON ALEXANDER landed 18 significant strikes
+  - ALESSIO SAKARA landed 1 significant strikes
+  - Knockdowns: HOUSTON ALEXANDER 1,  ALESSIO SAKARA 0
+  - Takedowns: HOUSTON ALEXANDER 0,  ALESSIO SAKARA 1

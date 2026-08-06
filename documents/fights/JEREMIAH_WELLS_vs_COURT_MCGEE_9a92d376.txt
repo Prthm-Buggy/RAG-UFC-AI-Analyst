@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Emmett
+    Date: June 18, 2022
+    Location: Austin, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: JEREMIAH WELLS defeated COURT MCGEE via KO/TKO  
+  at 1:34 of round 1
+  Key stats:
+  - JEREMIAH WELLS landed 7 significant strikes
+  - COURT MCGEE landed 3 significant strikes
+  - Knockdowns: JEREMIAH WELLS 1,  COURT MCGEE 0
+  - Takedowns: JEREMIAH WELLS 0,  COURT MCGEE 0
+  Bonus: perf

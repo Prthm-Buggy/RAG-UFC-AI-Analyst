@@ -1,0 +1,19 @@
+Event : UFC 153: Silva vs Bonnar
+    Date : October 13, 2012
+    Location: Rio de Janeiro, Brazil
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Light Heavyweight, Featherweight, Welterweight, Middleweight, Lightweight
+
+    Fight Results:
+  - GLOVER TEIXEIRA def. FABIO MALDONADO via TKO - Doctor's Stoppage(R2)
+- SERGIO MORAES def. RENEE FORTE via Submission(R3)
+- DEMIAN MAIA def. RICK STORY via Submission(R1)
+- PHIL DAVIS def. WAGNER PRADO via Submission(R2)
+- CHRIS CAMOZZI def. LUIZ CANE via Decision - Unanimous(R3)
+- GLEISON TIBAU def. FRANCISCO TRINALDO via Decision - Unanimous(R3)
+- ANTONIO RODRIGO NOGUEIRA def. DAVE HERMAN via Submission(R2)
+- CRISTIANO MARCELLO def. REZA MADADI via Decision - Split(R3)
+- RONY JASON def. SAM SICILIA via KO/TKO(R2)
+- ANDERSON SILVA def. STEPHAN BONNAR via KO/TKO(R1)
+- JON FITCH def. ERICK SILVA via Decision - Unanimous(R3)
+- DIEGO BRANDAO def. JOEY GAMBINO via Decision - Unanimous(R3)

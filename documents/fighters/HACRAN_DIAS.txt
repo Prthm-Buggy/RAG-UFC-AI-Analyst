@@ -1,0 +1,11 @@
+Fighter: HACRAN DIAS
+  Date of Birth: 1984-06-16
+  Career record: 8
+  First fight: 2012-06-23
+  Last fight: 2017-10-28
+
+Career Statistics:
+- Significant Strikes Landed :249
+- Total takedowns landed :20
+- Knockdowns :0
+- Submission Attempts :4

@@ -1,0 +1,11 @@
+Fighter: JUSTIN EDWARDS
+  Date of Birth: 1983-01-26
+  Career record: 7
+  First fight: 2011-06-04
+  Last fight: 2015-06-06
+
+Career Statistics:
+- Significant Strikes Landed :207
+- Total takedowns landed :11
+- Knockdowns :1
+- Submission Attempts :5

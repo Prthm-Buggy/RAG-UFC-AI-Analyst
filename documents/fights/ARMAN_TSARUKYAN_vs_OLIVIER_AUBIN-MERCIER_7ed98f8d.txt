@@ -1,0 +1,13 @@
+Event: UFC 240: Holloway vs. Edgar
+    Date: July 27, 2019
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Lightweight
+    
+
+    Result: ARMAN TSARUKYAN defeated OLIVIER AUBIN-MERCIER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ARMAN TSARUKYAN landed 47 significant strikes
+  - OLIVIER AUBIN-MERCIER landed 23 significant strikes
+  - Knockdowns: ARMAN TSARUKYAN 0,  OLIVIER AUBIN-MERCIER 0
+  - Takedowns: ARMAN TSARUKYAN 2,  OLIVIER AUBIN-MERCIER 0

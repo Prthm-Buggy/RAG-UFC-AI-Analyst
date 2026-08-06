@@ -1,0 +1,19 @@
+Event : UFC 225: Whittaker vs. Romero 2
+    Date : June 09, 2018
+    Location: Chicago, Illinois, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Featherweight, Middleweight, Women's Featherweight, Welterweight, Women's Strawweight, Lightweight, Light Heavyweight, Flyweight
+
+    Fight Results:
+  - CHARLES OLIVEIRA def. CLAY GUIDA via Submission(R1)
+- CURTIS BLAYDES def. ALISTAIR OVEREEM via KO/TKO(R3)
+- DAN IGE def. MIKE SANTIAGO via KO/TKO(R1)
+- HOLLY HOLM def. MEGAN ANDERSON via Decision - Unanimous(R3)
+- ROBERT WHITTAKER def. YOEL ROMERO via Decision - Split(R5)
+- ANTHONY SMITH def. RASHAD EVANS via KO/TKO(R1)
+- CHRIS DE LA ROCHA def. RASHAD COULTER via KO/TKO(R2)
+- SERGIO PETTIS def. JOSEPH BENAVIDEZ via Decision - Split(R3)
+- CLAUDIA GADELHA def. CARLA ESPARZA via Decision - Split(R3)
+- MIRSAD BEKTIC def. RICARDO LAMAS via Decision - Split(R3)
+- TAI TUIVASA def. ANDREI ARLOVSKI via Decision - Unanimous(R3)
+- COLBY COVINGTON def. RAFAEL DOS ANJOS via Decision - Unanimous(R5)

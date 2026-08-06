@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Silva vs Bisping
+    Date: February 27, 2016
+    Location: London, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: SCOTT ASKHAM defeated CHRIS DEMPSEY via KO/TKO  
+  at 4:45 of round 1
+  Key stats:
+  - SCOTT ASKHAM landed 7 significant strikes
+  - CHRIS DEMPSEY landed 6 significant strikes
+  - Knockdowns: SCOTT ASKHAM 1,  CHRIS DEMPSEY 0
+  - Takedowns: SCOTT ASKHAM 1,  CHRIS DEMPSEY 1
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Chiesa vs. Lee
+    Date: June 25, 2017
+    Location: Oklahoma City, Oklahoma, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DOMINICK REYES defeated JOACHIM CHRISTENSEN via KO/TKO  
+  at 0:29 of round 1
+  Key stats:
+  - DOMINICK REYES landed 13 significant strikes
+  - JOACHIM CHRISTENSEN landed 1 significant strikes
+  - Knockdowns: DOMINICK REYES 1,  JOACHIM CHRISTENSEN 0
+  - Takedowns: DOMINICK REYES 0,  JOACHIM CHRISTENSEN 0
+  Bonus: perf

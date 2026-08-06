@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs Romero
+    Date: June 27, 2015
+    Location: Hollywood, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: LORENZ LARKIN defeated SANTIAGO PONZINIBBIO via KO/TKO  
+  at 3:07 of round 2
+  Key stats:
+  - LORENZ LARKIN landed 64 significant strikes
+  - SANTIAGO PONZINIBBIO landed 33 significant strikes
+  - Knockdowns: LORENZ LARKIN 1,  SANTIAGO PONZINIBBIO 0
+  - Takedowns: LORENZ LARKIN 0,  SANTIAGO PONZINIBBIO 0
+  Bonus: fight

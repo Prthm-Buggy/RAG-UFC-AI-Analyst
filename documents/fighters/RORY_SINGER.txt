@@ -1,0 +1,11 @@
+Fighter: RORY SINGER
+  Date of Birth: 1976-05-28
+  Career record: 4
+  First fight: 2006-06-24
+  Last fight: 2007-06-16
+
+Career Statistics:
+- Significant Strikes Landed :97
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :2

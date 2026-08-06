@@ -1,0 +1,11 @@
+Fighter: ISAAC THOMSON
+  Date of Birth: 2002-05-03
+  Career record: 1
+  First fight: 2025-12-13
+  Last fight: 2025-12-13
+
+Career Statistics:
+- Significant Strikes Landed :21
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

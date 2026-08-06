@@ -1,0 +1,13 @@
+Event: UFC 211: Miocic vs. Dos Santos
+    Date: May 13, 2017
+    Location: Dallas, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: ENRIQUE BARZOLA defeated GABRIEL BENITEZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ENRIQUE BARZOLA landed 46 significant strikes
+  - GABRIEL BENITEZ landed 51 significant strikes
+  - Knockdowns: ENRIQUE BARZOLA 0,  GABRIEL BENITEZ 0
+  - Takedowns: ENRIQUE BARZOLA 9,  GABRIEL BENITEZ 0

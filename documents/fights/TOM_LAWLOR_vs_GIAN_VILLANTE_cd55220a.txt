@@ -1,0 +1,14 @@
+Event: UFC on FOX: Dillashaw vs. Barao II
+    Date: July 25, 2015
+    Location: Chicago, Illinois, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TOM LAWLOR defeated GIAN VILLANTE via KO/TKO  
+  at 0:27 of round 2
+  Key stats:
+  - TOM LAWLOR landed 22 significant strikes
+  - GIAN VILLANTE landed 31 significant strikes
+  - Knockdowns: TOM LAWLOR 1,  GIAN VILLANTE 0
+  - Takedowns: TOM LAWLOR 0,  GIAN VILLANTE 1
+  Bonus: perf

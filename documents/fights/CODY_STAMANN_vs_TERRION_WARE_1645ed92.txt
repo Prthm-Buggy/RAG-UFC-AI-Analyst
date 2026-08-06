@@ -1,0 +1,13 @@
+Event: UFC 213: Romero vs. Whittaker
+    Date: July 08, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CODY STAMANN defeated TERRION WARE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CODY STAMANN landed 94 significant strikes
+  - TERRION WARE landed 60 significant strikes
+  - Knockdowns: CODY STAMANN 0,  TERRION WARE 0
+  - Takedowns: CODY STAMANN 8,  TERRION WARE 0

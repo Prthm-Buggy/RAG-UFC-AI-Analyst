@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Tybura vs. Spivac 2
+    Date : August 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Heavyweight, Women's Strawweight, Featherweight, Women's Bantamweight, Welterweight
+
+    Fight Results:
+  - CHEPE MARISCAL def. DAMON JACKSON via Decision - Unanimous(R3)
+- JHONATA DINIZ def. KARL WILLIAMS via Decision - Unanimous(R3)
+- TOSHIOMI KAZAMA def. CHARALAMPOS GRIGORIOU via Submission(R2)
+- STEPHANIE LUCIANO def. TALITA ALENCAR via Decision - Unanimous(R3)
+- YOUSSEF ZALAL def. JARNO ERRENS via Submission(R1)
+- DANNY BARLOW def. NIKOLAY VERETENNIKOV via Decision - Split(R3)
+- YANA SANTOS def. CHELSEA CHANDLER via Decision - Unanimous(R3)
+- KAROL ROSA def. PANNIE KIANZAD via Decision - Unanimous(R3)
+- SERGHEI SPIVAC def. MARCIN TYBURA via Submission(R1)
+- CHRIS GUTIERREZ def. QUANG LE via Decision - Unanimous(R3)

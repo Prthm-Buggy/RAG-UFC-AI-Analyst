@@ -1,0 +1,13 @@
+Event: UFC 180: Werdum vs Hunt
+    Date: November 15, 2014
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Welterweight
+    
+
+    Result: AUGUSTO MONTANO defeated CHRIS HEATHERLY via KO/TKO  
+  at 4:50 of round 1
+  Key stats:
+  - AUGUSTO MONTANO landed 30 significant strikes
+  - CHRIS HEATHERLY landed 8 significant strikes
+  - Knockdowns: AUGUSTO MONTANO 0,  CHRIS HEATHERLY 0
+  - Takedowns: AUGUSTO MONTANO 0,  CHRIS HEATHERLY 1

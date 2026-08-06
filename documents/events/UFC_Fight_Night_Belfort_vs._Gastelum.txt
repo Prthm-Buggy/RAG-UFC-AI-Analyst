@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Belfort vs. Gastelum
+    Date : March 11, 2017
+    Location: Fortaleza, Ceara, Brazil
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Featherweight, Lightweight, Light Heavyweight, Flyweight, Middleweight, Welterweight
+
+    Fight Results:
+  - PAULO COSTA def. GARRETH MCLELLAN via KO/TKO(R1)
+- JEREMY KENNEDY def. RONY JASON via Decision - Unanimous(R3)
+- EDSON BARBOZA def. BENEIL DARIUSH via KO/TKO(R2)
+- SERGIO MORAES def. DAVI RAMOS via Decision - Unanimous(R3)
+- MAURICIO RUA def. GIAN VILLANTE via KO/TKO(R3)
+- MICHEL PRAZERES def. JOSHUA BURKMAN via Submission(R1)
+- JOE SOTO def. RANI YAHYA via Decision - Unanimous(R3)
+- ALEX OLIVEIRA def. TIM MEANS via Submission(R2)
+- KEVIN LEE def. FRANCISCO TRINALDO via Submission(R2)
+- RAY BORG def. JUSSIER FORMIGA via Decision - Unanimous(R3)

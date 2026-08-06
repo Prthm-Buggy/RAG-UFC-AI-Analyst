@@ -1,0 +1,11 @@
+Fighter: TIM MCKENZIE
+  Date of Birth: 1982-07-21
+  Career record: 1
+  First fight: 2009-04-01
+  Last fight: 2009-04-01
+
+Career Statistics:
+- Significant Strikes Landed :1
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

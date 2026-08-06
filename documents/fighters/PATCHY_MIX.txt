@@ -1,0 +1,11 @@
+Fighter: PATCHY MIX
+  Date of Birth: 1993-08-16
+  Career record: 2
+  First fight: 2025-06-07
+  Last fight: 2025-10-04
+
+Career Statistics:
+- Significant Strikes Landed :159
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

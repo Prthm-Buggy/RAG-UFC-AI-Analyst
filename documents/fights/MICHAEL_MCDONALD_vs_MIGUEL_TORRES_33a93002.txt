@@ -1,0 +1,13 @@
+Event: UFC 145: Jones vs Evans
+    Date: April 21, 2012
+    Location: Atlanta, Georgia, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MICHAEL MCDONALD defeated MIGUEL TORRES via KO/TKO  
+  at 3:18 of round 1
+  Key stats:
+  - MICHAEL MCDONALD landed 16 significant strikes
+  - MIGUEL TORRES landed 8 significant strikes
+  - Knockdowns: MICHAEL MCDONALD 1,  MIGUEL TORRES 0
+  - Takedowns: MICHAEL MCDONALD 0,  MIGUEL TORRES 0

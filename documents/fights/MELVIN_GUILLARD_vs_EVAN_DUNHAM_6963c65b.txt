@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Fight for the Troops 2
+    Date: January 22, 2011
+    Location: Killeen, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: MELVIN GUILLARD defeated EVAN DUNHAM via KO/TKO  
+  at 2:58 of round 1
+  Key stats:
+  - MELVIN GUILLARD landed 17 significant strikes
+  - EVAN DUNHAM landed 2 significant strikes
+  - Knockdowns: MELVIN GUILLARD 2,  EVAN DUNHAM 0
+  - Takedowns: MELVIN GUILLARD 0,  EVAN DUNHAM 1
+  Bonus: ko

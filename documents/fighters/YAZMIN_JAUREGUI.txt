@@ -1,0 +1,11 @@
+Fighter: YAZMIN JAUREGUI
+  Date of Birth: 1999-02-28
+  Career record: 5
+  First fight: 2022-08-13
+  Last fight: 2024-09-14
+
+Career Statistics:
+- Significant Strikes Landed :282
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

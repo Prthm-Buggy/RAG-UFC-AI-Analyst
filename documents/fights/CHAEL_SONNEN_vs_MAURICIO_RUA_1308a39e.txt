@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Shogun vs Sonnen
+    Date: August 17, 2013
+    Location: Boston, Massachusetts, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CHAEL SONNEN defeated MAURICIO RUA via Submission  
+  at 4:47 of round 1
+  Key stats:
+  - CHAEL SONNEN landed 5 significant strikes
+  - MAURICIO RUA landed 0 significant strikes
+  - Knockdowns: CHAEL SONNEN 0,  MAURICIO RUA 0
+  - Takedowns: CHAEL SONNEN 2,  MAURICIO RUA 0
+  Bonus: sub

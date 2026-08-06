@@ -1,0 +1,14 @@
+Event: UFC 123: Rampage vs Machida
+    Date: November 20, 2010
+    Location: Auburn Hills, Michigan, USA
+    Weight Class: Lightweight
+    
+
+    Result: GEORGE SOTIROPOULOS defeated JOE LAUZON via Submission  
+  at 2:43 of round 2
+  Key stats:
+  - GEORGE SOTIROPOULOS landed 19 significant strikes
+  - JOE LAUZON landed 16 significant strikes
+  - Knockdowns: GEORGE SOTIROPOULOS 0,  JOE LAUZON 0
+  - Takedowns: GEORGE SOTIROPOULOS 3,  JOE LAUZON 0
+  Bonus: fight

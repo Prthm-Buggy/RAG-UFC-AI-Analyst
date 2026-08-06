@@ -1,0 +1,13 @@
+Event: UFC 33: Victory in Vegas
+    Date: September 28, 2001
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JUTARO NAKAO defeated TONY DESOUZA via KO/TKO  
+  at 0:15 of round 2
+  Key stats:
+  - JUTARO NAKAO landed 8 significant strikes
+  - TONY DESOUZA landed 1 significant strikes
+  - Knockdowns: JUTARO NAKAO 1,  TONY DESOUZA 0
+  - Takedowns: JUTARO NAKAO 0,  TONY DESOUZA 0

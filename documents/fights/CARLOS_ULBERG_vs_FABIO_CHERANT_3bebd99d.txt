@@ -1,0 +1,13 @@
+Event: UFC 271: Adesanya vs. Whittaker 2
+    Date: February 12, 2022
+    Location: Houston, Texas, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CARLOS ULBERG defeated FABIO CHERANT via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CARLOS ULBERG landed 66 significant strikes
+  - FABIO CHERANT landed 13 significant strikes
+  - Knockdowns: CARLOS ULBERG 0,  FABIO CHERANT 0
+  - Takedowns: CARLOS ULBERG 2,  FABIO CHERANT 0

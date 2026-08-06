@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Oliveira vs. Gamrot
+    Date: October 11, 2025
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated MATEUSZ GAMROT via Submission  
+  at 2:48 of round 2
+  Key stats:
+  - CHARLES OLIVEIRA landed 11 significant strikes
+  - MATEUSZ GAMROT landed 18 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  MATEUSZ GAMROT 0
+  - Takedowns: CHARLES OLIVEIRA 1,  MATEUSZ GAMROT 1
+  Bonus: perf

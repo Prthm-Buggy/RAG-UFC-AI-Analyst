@@ -1,0 +1,19 @@
+Event : UFC 298: Volkanovski vs. Topuria
+    Date : February 17, 2024
+    Location: Anaheim, California, USA
+    Number of Fights: 12
+    Weight Classes: Women's Flyweight, Heavyweight, Bantamweight, Women's Strawweight, Featherweight, Welterweight, Light Heavyweight, Middleweight
+
+    Fight Results:
+  - MERAB DVALISHVILI def. HENRY CEJUDO via Decision - Unanimous(R3)
+- ANTHONY HERNANDEZ def. ROMAN KOPYLOV via Submission(R2)
+- RINYA NAKAMURA def. CARLOS VERA via Decision - Unanimous(R3)
+- DANNY BARLOW def. JOSH QUINLAN via KO/TKO(R3)
+- ILIA TOPURIA def. ALEXANDER VOLKANOVSKI via KO/TKO(R2)
+- IAN MACHADO GARRY def. GEOFF NEAL via Decision - Split(R3)
+- ROBERT WHITTAKER def. PAULO COSTA via Decision - Unanimous(R3)
+- AMANDA LEMOS def. MACKENZIE DERN via Decision - Unanimous(R3)
+- MIRANDA MAVERICK def. ANDREA LEE via Decision - Unanimous(R3)
+- MARCOS ROGERIO DE LIMA def. JUNIOR TAFA via KO/TKO(R2)
+- ZHANG MINGYANG def. BRENDSON RIBEIRO via KO/TKO(R1)
+- OBAN ELLIOTT def. VAL WOODBURN via Decision - Unanimous(R3)

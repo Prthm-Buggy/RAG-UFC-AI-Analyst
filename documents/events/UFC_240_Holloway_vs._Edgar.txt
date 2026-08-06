@@ -1,0 +1,18 @@
+Event : UFC 240: Holloway vs. Edgar
+    Date : July 27, 2019
+    Location: Edmonton, Alberta, Canada
+    Number of Fights: 11
+    Weight Classes: Flyweight, Featherweight, Women's Featherweight, Middleweight, Welterweight, Lightweight, Women's Flyweight
+
+    Fight Results:
+  - ARMAN TSARUKYAN def. OLIVIER AUBIN-MERCIER via Decision - Unanimous(R3)
+- DEIVESON FIGUEIREDO def. ALEXANDRE PANTOJA via Decision - Unanimous(R3)
+- ERIK KOCH def. KYLE STEWART via Decision - Unanimous(R3)
+- VIVIANE ARAUJO def. ALEXIS DAVIS via Decision - Unanimous(R3)
+- CRISTIANE JUSTINO def. FELICIA SPENCER via Decision - Unanimous(R3)
+- GEOFF NEAL def. NIKO PRICE via KO/TKO(R2)
+- GAVIN TUCKER def. SEUNGWOO CHOI via Submission(R3)
+- MAX HOLLOWAY def. FRANKIE EDGAR via Decision - Unanimous(R5)
+- KRZYSZTOF JOTKO def. MARC-ANDRE BARRIAULT via Decision - Split(R3)
+- GILLIAN ROBERTSON def. SARAH FROTA via KO/TKO(R2)
+- HAKEEM DAWODU def. YOSHINORI HORIE via KO/TKO(R3)

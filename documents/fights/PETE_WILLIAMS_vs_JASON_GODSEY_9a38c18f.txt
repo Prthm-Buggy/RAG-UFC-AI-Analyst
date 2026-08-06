@@ -1,0 +1,13 @@
+Event: UFC 19: Ultimate Young Guns
+    Date: March 05, 1999
+    Location: Bay St. Louis, Mississippi, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PETE WILLIAMS defeated JASON GODSEY via Submission  
+  at 1:56 of round 1
+  Key stats:
+  - PETE WILLIAMS landed 3 significant strikes
+  - JASON GODSEY landed 2 significant strikes
+  - Knockdowns: PETE WILLIAMS 0,  JASON GODSEY 0
+  - Takedowns: PETE WILLIAMS 1,  JASON GODSEY 0

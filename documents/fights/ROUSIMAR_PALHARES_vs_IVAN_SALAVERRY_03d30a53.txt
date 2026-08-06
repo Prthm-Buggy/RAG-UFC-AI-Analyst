@@ -1,0 +1,14 @@
+Event: UFC 84: Ill Will
+    Date: May 24, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROUSIMAR PALHARES defeated IVAN SALAVERRY via Submission  
+  at 2:36 of round 1
+  Key stats:
+  - ROUSIMAR PALHARES landed 0 significant strikes
+  - IVAN SALAVERRY landed 1 significant strikes
+  - Knockdowns: ROUSIMAR PALHARES 0,  IVAN SALAVERRY 0
+  - Takedowns: ROUSIMAR PALHARES 1,  IVAN SALAVERRY 0
+  Bonus: sub

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Stephens
+    Date: September 21, 2019
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Women's Strawweight
+    
+
+    Result: ANGELA HILL defeated ARIANE CARNELOSSI via TKO - Doctor's Stoppage  
+  at 1:56 of round 3
+  Key stats:
+  - ANGELA HILL landed 92 significant strikes
+  - ARIANE CARNELOSSI landed 72 significant strikes
+  - Knockdowns: ANGELA HILL 0,  ARIANE CARNELOSSI 0
+  - Takedowns: ANGELA HILL 0,  ARIANE CARNELOSSI 0

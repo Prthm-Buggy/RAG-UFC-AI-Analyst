@@ -1,0 +1,11 @@
+Fighter: TONY FERGUSON
+  Date of Birth: 1984-02-12
+  Career record: 24
+  First fight: 2011-06-04
+  Last fight: 2024-08-03
+
+Career Statistics:
+- Significant Strikes Landed :1332
+- Total takedowns landed :7
+- Knockdowns :3
+- Submission Attempts :16

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dolidze vs. Imavov
+    Date: February 03, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: LUANA CAROLINA defeated JULIJA STOLIARENKO via KO/TKO  
+  at 4:52 of round 3
+  Key stats:
+  - LUANA CAROLINA landed 66 significant strikes
+  - JULIJA STOLIARENKO landed 16 significant strikes
+  - Knockdowns: LUANA CAROLINA 0,  JULIJA STOLIARENKO 0
+  - Takedowns: LUANA CAROLINA 2,  JULIJA STOLIARENKO 1

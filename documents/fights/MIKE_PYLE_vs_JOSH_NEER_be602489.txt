@@ -1,0 +1,14 @@
+Event: UFC on FX: Johnson vs McCall
+    Date: June 08, 2012
+    Location: Sunrise, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PYLE defeated JOSH NEER via KO/TKO  
+  at 4:56 of round 1
+  Key stats:
+  - MIKE PYLE landed 18 significant strikes
+  - JOSH NEER landed 19 significant strikes
+  - Knockdowns: MIKE PYLE 1,  JOSH NEER 0
+  - Takedowns: MIKE PYLE 1,  JOSH NEER 0
+  Bonus: ko

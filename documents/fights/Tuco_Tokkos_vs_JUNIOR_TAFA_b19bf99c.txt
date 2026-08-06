@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Teixeira
+    Date: July 12, 2025
+    Location: Nashville, Tennessee, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: Tuco Tokkos defeated JUNIOR TAFA via Submission  
+  at 4:25 of round 2
+  Key stats:
+  - Tuco Tokkos landed 11 significant strikes
+  - JUNIOR TAFA landed 24 significant strikes
+  - Knockdowns: Tuco Tokkos 0,  JUNIOR TAFA 0
+  - Takedowns: Tuco Tokkos 5,  JUNIOR TAFA 0

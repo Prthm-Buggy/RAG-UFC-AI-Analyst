@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Oliveira vs. Gamrot
+    Date: October 11, 2025
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Women's Strawweight
+    
+
+    Result: JULIA POLASTRI defeated KAROLINA KOWALKIEWICZ via KO/TKO  
+  at 2:56 of round 3
+  Key stats:
+  - JULIA POLASTRI landed 137 significant strikes
+  - KAROLINA KOWALKIEWICZ landed 72 significant strikes
+  - Knockdowns: JULIA POLASTRI 0,  KAROLINA KOWALKIEWICZ 0
+  - Takedowns: JULIA POLASTRI 0,  KAROLINA KOWALKIEWICZ 1
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs. Volkov
+    Date: February 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEXANDER VOLKOV defeated ALISTAIR OVEREEM via KO/TKO  
+  at 2:06 of round 2
+  Key stats:
+  - ALEXANDER VOLKOV landed 54 significant strikes
+  - ALISTAIR OVEREEM landed 10 significant strikes
+  - Knockdowns: ALEXANDER VOLKOV 1,  ALISTAIR OVEREEM 0
+  - Takedowns: ALEXANDER VOLKOV 0,  ALISTAIR OVEREEM 0
+  Bonus: perf

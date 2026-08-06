@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Struve vs Miocic
+    Date: September 29, 2012
+    Location: Nottingham, England, United Kingdom
+    Weight Class: Bantamweight
+    
+
+    Result: BRAD PICKETT defeated YVES JABOUIN via KO/TKO  
+  at 3:40 of round 1
+  Key stats:
+  - BRAD PICKETT landed 14 significant strikes
+  - YVES JABOUIN landed 26 significant strikes
+  - Knockdowns: BRAD PICKETT 1,  YVES JABOUIN 0
+  - Takedowns: BRAD PICKETT 0,  YVES JABOUIN 0
+  Bonus: ko

@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Mir vs Duffee
+    Date : July 15, 2015
+    Location: San Diego, California, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Lightweight, Welterweight, Featherweight, Women's Bantamweight, Middleweight
+
+    Fight Results:
+  - SEAN STRICKLAND def. IGOR ARAUJO via Decision - Unanimous(R3)
+- JESSICA ANDRADE def. SARAH MORAS via Decision - Unanimous(R3)
+- HOLLY HOLM def. MARION RENEAU via Decision - Unanimous(R3)
+- TONY FERGUSON def. JOSH THOMSON via Decision - Unanimous(R3)
+- FRANK MIR def. TODD DUFFEE via KO/TKO(R1)
+- KEVIN LEE def. JAMES MOONTASRI via Submission(R1)
+- LYMAN GOOD def. ANDREW CRAIG via KO/TKO(R2)
+- ALAN JOUBAN def. MATT DWYER via Decision - Unanimous(R3)
+- KEVIN CASEY def. ILDEMAR ALCANTARA via Decision - Unanimous(R3)
+- SAM SICILIA def. YAOTZIN MEZA via Decision - Unanimous(R3)
+- MANVEL GAMBURYAN def. SCOTT JORGENSEN via Decision - Unanimous(R3)
+- RANI YAHYA def. MASANORI KANEHARA via Decision - Split(R3)

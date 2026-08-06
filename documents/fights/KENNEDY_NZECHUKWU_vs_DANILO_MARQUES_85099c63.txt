@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gane vs. Volkov
+    Date: June 26, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KENNEDY NZECHUKWU defeated DANILO MARQUES via KO/TKO  
+  at 0:20 of round 3
+  Key stats:
+  - KENNEDY NZECHUKWU landed 31 significant strikes
+  - DANILO MARQUES landed 10 significant strikes
+  - Knockdowns: KENNEDY NZECHUKWU 0,  DANILO MARQUES 0
+  - Takedowns: KENNEDY NZECHUKWU 0,  DANILO MARQUES 2
+  Bonus: perf

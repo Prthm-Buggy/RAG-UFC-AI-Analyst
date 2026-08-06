@@ -1,0 +1,14 @@
+Event: UFC 310: Pantoja vs. Asakura
+    Date: December 07, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: KENNEDY NZECHUKWU defeated LUKASZ BRZESKI via KO/TKO  
+  at 4:51 of round 1
+  Key stats:
+  - KENNEDY NZECHUKWU landed 29 significant strikes
+  - LUKASZ BRZESKI landed 32 significant strikes
+  - Knockdowns: KENNEDY NZECHUKWU 1,  LUKASZ BRZESKI 0
+  - Takedowns: KENNEDY NZECHUKWU 0,  LUKASZ BRZESKI 0
+  Bonus: perf

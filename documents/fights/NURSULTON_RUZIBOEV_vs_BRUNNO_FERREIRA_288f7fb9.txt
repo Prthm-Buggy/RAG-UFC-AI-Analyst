@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Strickland vs. Magomedov
+    Date: July 01, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: NURSULTON RUZIBOEV defeated BRUNNO FERREIRA via KO/TKO  
+  at 1:17 of round 1
+  Key stats:
+  - NURSULTON RUZIBOEV landed 6 significant strikes
+  - BRUNNO FERREIRA landed 3 significant strikes
+  - Knockdowns: NURSULTON RUZIBOEV 0,  BRUNNO FERREIRA 0
+  - Takedowns: NURSULTON RUZIBOEV 1,  BRUNNO FERREIRA 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event : UFC - Ultimate Brazil
+    Date : October 16, 1998
+    Location: Sao Paulo, Brazil
+    Number of Fights: 7
+    Weight Classes: Heavyweight, Lightweight, Middleweight
+
+    Fight Results:
+  - PAT MILETICH def. MIKEY BURNETT via Decision - Split(R3)
+- TULIO PALHARES def. ADRIANO SANTOS via KO/TKO(R1)
+- FRANK SHAMROCK def. JOHN LOBER via Submission(R1)
+- VITOR BELFORT def. WANDERLEI SILVA via KO/TKO(R1)
+- PEDRO RIZZO def. DAVID ABBOTT via KO/TKO(R1)
+- TSUYOSHI KOHSAKA def. PETE WILLIAMS via Decision - Unanimous(R2)
+- EBENEZER FONTES BRAGA def. JEREMY HORN via Submission(R1)

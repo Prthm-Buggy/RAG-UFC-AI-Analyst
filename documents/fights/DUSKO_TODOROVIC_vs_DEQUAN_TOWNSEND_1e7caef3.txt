@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holm vs. Aldana
+    Date: October 03, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: DUSKO TODOROVIC defeated DEQUAN TOWNSEND via KO/TKO  
+  at 3:15 of round 2
+  Key stats:
+  - DUSKO TODOROVIC landed 85 significant strikes
+  - DEQUAN TOWNSEND landed 13 significant strikes
+  - Knockdowns: DUSKO TODOROVIC 0,  DEQUAN TOWNSEND 0
+  - Takedowns: DUSKO TODOROVIC 1,  DEQUAN TOWNSEND 0
+  Bonus: perf

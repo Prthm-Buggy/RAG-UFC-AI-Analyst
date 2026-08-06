@@ -1,0 +1,11 @@
+Fighter: CLAUDIO PUELLES
+  Date of Birth: 1996-04-21
+  Career record: 9
+  First fight: 2016-11-05
+  Last fight: 2025-09-13
+
+Career Statistics:
+- Significant Strikes Landed :161
+- Total takedowns landed :23
+- Knockdowns :0
+- Submission Attempts :7

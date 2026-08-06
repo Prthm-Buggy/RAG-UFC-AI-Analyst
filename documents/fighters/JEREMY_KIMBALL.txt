@@ -1,0 +1,11 @@
+Fighter: JEREMY KIMBALL
+  Date of Birth: 1991-01-03
+  Career record: 4
+  First fight: 2017-01-28
+  Last fight: 2018-07-22
+
+Career Statistics:
+- Significant Strikes Landed :30
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

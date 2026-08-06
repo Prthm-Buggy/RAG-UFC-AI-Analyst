@@ -1,0 +1,13 @@
+Event: UFC 311: Makhachev vs. Moicano
+    Date: January 18, 2025
+    Location: Inglewood, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: BOGDAN GUSKOV defeated BILLY ELEKANA via Submission  
+  at 3:33 of round 2
+  Key stats:
+  - BOGDAN GUSKOV landed 47 significant strikes
+  - BILLY ELEKANA landed 20 significant strikes
+  - Knockdowns: BOGDAN GUSKOV 0,  BILLY ELEKANA 0
+  - Takedowns: BOGDAN GUSKOV 0,  BILLY ELEKANA 1

@@ -1,0 +1,11 @@
+Fighter: VANESSA MELO
+  Date of Birth: 1988-03-27
+  Career record: 4
+  First fight: 2019-09-21
+  Last fight: 2021-01-16
+
+Career Statistics:
+- Significant Strikes Landed :209
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

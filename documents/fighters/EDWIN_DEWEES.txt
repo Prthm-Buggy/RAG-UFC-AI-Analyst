@@ -1,0 +1,11 @@
+Fighter: EDWIN DEWEES
+  Date of Birth: 1982-08-07
+  Career record: 3
+  First fight: 2003-09-26
+  Last fight: 2006-11-11
+
+Career Statistics:
+- Significant Strikes Landed :15
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :3

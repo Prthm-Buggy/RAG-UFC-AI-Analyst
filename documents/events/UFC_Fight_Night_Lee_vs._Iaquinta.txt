@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Lee vs. Iaquinta
+    Date : December 15, 2018
+    Location: Milwaukee, Wisconsin, USA
+    Number of Fights: 12
+    Weight Classes: Light Heavyweight, Lightweight, Welterweight, Featherweight, Middleweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - MIKE RODRIGUEZ def. ADAM MILSTEAD via KO/TKO(R1)
+- DAN IGE def. JORDAN GRIFFIN via Decision - Unanimous(R3)
+- CHARLES OLIVEIRA def. JIM MILLER via Submission(R1)
+- ROB FONT def. SERGIO PETTIS via Decision - Unanimous(R3)
+- JUAN ADAMS def. CHRIS DE LA ROCHA via KO/TKO(R3)
+- EDSON BARBOZA def. DAN HOOKER via KO/TKO(R3)
+- DRAKKAR KLOSE def. KING GREEN via Decision - Unanimous(R3)
+- ZAK CUMMINGS def. TREVOR SMITH via Decision - Unanimous(R3)
+- JACK HERMANSSON def. GERALD MEERSCHAERT via Submission(R1)
+- JOAQUIM SILVA def. JARED GORDON via KO/TKO(R3)
+- ZAK OTTOW def. DWIGHT GRANT via Decision - Split(R3)
+- AL IAQUINTA def. KEVIN LEE via Decision - Unanimous(R5)

@@ -1,0 +1,13 @@
+Event: UFC 226: Miocic vs. Cormier
+    Date: July 07, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated FRANCIS NGANNOU via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DERRICK LEWIS landed 20 significant strikes
+  - FRANCIS NGANNOU landed 11 significant strikes
+  - Knockdowns: DERRICK LEWIS 0,  FRANCIS NGANNOU 0
+  - Takedowns: DERRICK LEWIS 0,  FRANCIS NGANNOU 0

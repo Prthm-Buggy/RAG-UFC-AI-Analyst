@@ -1,0 +1,13 @@
+Event: UFC 163: Aldo vs Jung
+    Date: August 03, 2013
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AMANDA NUNES defeated SHEILA GAFF via KO/TKO  
+  at 2:08 of round 1
+  Key stats:
+  - AMANDA NUNES landed 10 significant strikes
+  - SHEILA GAFF landed 3 significant strikes
+  - Knockdowns: AMANDA NUNES 0,  SHEILA GAFF 0
+  - Takedowns: AMANDA NUNES 2,  SHEILA GAFF 0

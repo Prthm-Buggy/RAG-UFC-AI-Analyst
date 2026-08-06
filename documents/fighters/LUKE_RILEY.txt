@@ -1,0 +1,11 @@
+Fighter: LUKE RILEY
+  Date of Birth: 1999-06-30
+  Career record: 2
+  First fight: 2025-11-22
+  Last fight: 2026-03-21
+
+Career Statistics:
+- Significant Strikes Landed :114
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: RAY RODRIGUEZ
+  Date of Birth: 1987-12-10
+  Career record: 2
+  First fight: 2020-09-05
+  Last fight: 2021-03-13
+
+Career Statistics:
+- Significant Strikes Landed :4
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

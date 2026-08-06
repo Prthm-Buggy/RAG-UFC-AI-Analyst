@@ -1,0 +1,11 @@
+Fighter: SONG YADONG
+  Date of Birth: 1997-12-02
+  Career record: 16
+  First fight: 2017-11-25
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :928
+- Total takedowns landed :12
+- Knockdowns :7
+- Submission Attempts :2

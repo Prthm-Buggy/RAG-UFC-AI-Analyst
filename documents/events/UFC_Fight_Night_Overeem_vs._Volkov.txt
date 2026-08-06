@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Overeem vs. Volkov
+    Date : February 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Flyweight, Light Heavyweight, Women's Bantamweight, Featherweight, Catch Weight, Bantamweight, Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - DANILO MARQUES def. MIKE RODRIGUEZ via Submission(R2)
+- ALEXANDRE PANTOJA def. MANEL KAPE via Decision - Unanimous(R3)
+- KAROL ROSA def. JOSELYNE EDWARDS via Decision - Unanimous(R3)
+- ALEXANDER VOLKOV def. ALISTAIR OVEREEM via KO/TKO(R2)
+- LARA PROCOPIO def. MOLLY MCCANN via Decision - Unanimous(R3)
+- TIMUR VALIEV def. MARTIN DAY via Decision - Unanimous(R3)
+- SEUNGWOO CHOI def. YOUSSEF ZALAL via Decision - Unanimous(R3)
+- BENEIL DARIUSH def. DIEGO FERREIRA via Decision - Split(R3)
+- CORY SANDHAGEN def. FRANKIE EDGAR via KO/TKO(R1)
+- CLAY GUIDA def. MICHAEL JOHNSON via Decision - Unanimous(R3)
+- ODE OSBOURNE def. JEROME RIVERA via KO/TKO(R1)
+- DEVONTE SMITH def. JUSTIN JAYNES via TKO - Doctor's Stoppage(R2)

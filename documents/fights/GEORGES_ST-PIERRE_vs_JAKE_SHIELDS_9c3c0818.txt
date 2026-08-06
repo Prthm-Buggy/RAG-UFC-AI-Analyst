@@ -1,0 +1,14 @@
+Event: UFC 129: St-Pierre vs Shields
+    Date: April 30, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Welterweight
+    
+
+    Result: GEORGES ST-PIERRE defeated JAKE SHIELDS via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - GEORGES ST-PIERRE landed 85 significant strikes
+  - JAKE SHIELDS landed 78 significant strikes
+  - Knockdowns: GEORGES ST-PIERRE 0,  JAKE SHIELDS 0
+  - Takedowns: GEORGES ST-PIERRE 2,  JAKE SHIELDS 0
+  Bonus: belt

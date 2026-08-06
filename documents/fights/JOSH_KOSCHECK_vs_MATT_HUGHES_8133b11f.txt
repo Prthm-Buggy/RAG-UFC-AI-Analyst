@@ -1,0 +1,14 @@
+Event: UFC 135: Jones vs Rampage
+    Date: September 24, 2011
+    Location: Denver, Colorado, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSH KOSCHECK defeated MATT HUGHES via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - JOSH KOSCHECK landed 26 significant strikes
+  - MATT HUGHES landed 14 significant strikes
+  - Knockdowns: JOSH KOSCHECK 0,  MATT HUGHES 0
+  - Takedowns: JOSH KOSCHECK 0,  MATT HUGHES 0
+  Bonus: ko

@@ -1,0 +1,13 @@
+Event: UFC 110: Nogueira vs Velasquez
+    Date: February 20, 2010
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAMES TE HUNA defeated IGOR POKRAJAC via KO/TKO  
+  at 3:26 of round 3
+  Key stats:
+  - JAMES TE HUNA landed 22 significant strikes
+  - IGOR POKRAJAC landed 25 significant strikes
+  - Knockdowns: JAMES TE HUNA 0,  IGOR POKRAJAC 2
+  - Takedowns: JAMES TE HUNA 5,  IGOR POKRAJAC 2

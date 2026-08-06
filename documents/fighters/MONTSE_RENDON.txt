@@ -1,0 +1,11 @@
+Fighter: MONTSE RENDON
+  Date of Birth: 1989-03-16
+  Career record: 4
+  First fight: 2023-09-23
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :139
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

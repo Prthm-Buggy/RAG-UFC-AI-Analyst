@@ -1,0 +1,11 @@
+Fighter: AMANDA NUNES
+  Date of Birth: 1988-05-30
+  Career record: 18
+  First fight: 2013-08-03
+  Last fight: 2023-06-10
+
+Career Statistics:
+- Significant Strikes Landed :928
+- Total takedowns landed :38
+- Knockdowns :8
+- Submission Attempts :10

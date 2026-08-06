@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rozenstruik vs. Sakai
+    Date: June 05, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAIRZINHO ROZENSTRUIK defeated AUGUSTO SAKAI via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - JAIRZINHO ROZENSTRUIK landed 16 significant strikes
+  - AUGUSTO SAKAI landed 3 significant strikes
+  - Knockdowns: JAIRZINHO ROZENSTRUIK 1,  AUGUSTO SAKAI 0
+  - Takedowns: JAIRZINHO ROZENSTRUIK 0,  AUGUSTO SAKAI 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: JUSTIN SCOGGINS
+  Date of Birth: 1992-05-02
+  Career record: 9
+  First fight: 2013-12-06
+  Last fight: 2018-07-14
+
+Career Statistics:
+- Significant Strikes Landed :359
+- Total takedowns landed :23
+- Knockdowns :1
+- Submission Attempts :3

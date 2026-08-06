@@ -1,0 +1,14 @@
+Event: UFC on FOX: Evans vs Davis
+    Date: January 28, 2012
+    Location: Chicago, Illinois, USA
+    Weight Class: Heavyweight
+    
+
+    Result: LAVAR JOHNSON defeated JOEY BELTRAN via KO/TKO  
+  at 4:24 of round 1
+  Key stats:
+  - LAVAR JOHNSON landed 65 significant strikes
+  - JOEY BELTRAN landed 22 significant strikes
+  - Knockdowns: LAVAR JOHNSON 1,  JOEY BELTRAN 0
+  - Takedowns: LAVAR JOHNSON 0,  JOEY BELTRAN 0
+  Bonus: ko

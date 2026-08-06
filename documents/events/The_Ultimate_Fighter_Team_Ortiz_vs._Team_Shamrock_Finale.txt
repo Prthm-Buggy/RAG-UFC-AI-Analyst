@@ -1,0 +1,16 @@
+Event : The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale
+    Date : June 24, 2006
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Light Heavyweight, Middleweight
+
+    Fight Results:
+  - MATT HAMILL def. JESSE FORBES via KO/TKO(R1)
+- KENNY FLORIAN def. SAM STOUT via Submission(R1)
+- KEITH JARDINE def. WILSON GOUVEIA via Decision - Unanimous(R3)
+- KENDALL GROVE def. ED HERMAN via Decision - Unanimous(R3)
+- MICHAEL BISPING def. JOSH HAYNES via KO/TKO(R2)
+- LUIGI FIORAVANTI def. SOLOMON HUTCHERSON via KO/TKO(R1)
+- RORY SINGER def. ROSS POINTON via Submission(R1)
+- KALIB STARNES def. DANNY ABBADI via Submission(R1)
+- MIKE NICKELS def. WES COMBS via Submission(R1)

@@ -1,0 +1,13 @@
+Event: UFC 56: Full Force
+    Date: November 19, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: NICK THOMPSON defeated KEITH WISNIEWSKI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NICK THOMPSON landed 48 significant strikes
+  - KEITH WISNIEWSKI landed 14 significant strikes
+  - Knockdowns: NICK THOMPSON 0,  KEITH WISNIEWSKI 0
+  - Takedowns: NICK THOMPSON 1,  KEITH WISNIEWSKI 3

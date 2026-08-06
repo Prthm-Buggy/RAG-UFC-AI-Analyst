@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swanson vs Stephens
+    Date: June 28, 2014
+    Location: San Antonio, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE ELLENBERGER defeated JAMES MOONTASRI via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JOE ELLENBERGER landed 22 significant strikes
+  - JAMES MOONTASRI landed 35 significant strikes
+  - Knockdowns: JOE ELLENBERGER 0,  JAMES MOONTASRI 1
+  - Takedowns: JOE ELLENBERGER 3,  JAMES MOONTASRI 0

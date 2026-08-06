@@ -1,0 +1,11 @@
+Fighter: NICHOLAS MUSOKE
+  Date of Birth: 1986-04-05
+  Career record: 6
+  First fight: 2013-10-26
+  Last fight: 2017-05-28
+
+Career Statistics:
+- Significant Strikes Landed :277
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

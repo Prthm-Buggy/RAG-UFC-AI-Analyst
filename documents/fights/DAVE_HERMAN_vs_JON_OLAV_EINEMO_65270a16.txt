@@ -1,0 +1,14 @@
+Event: UFC 131: Dos Santos vs Carwin
+    Date: June 11, 2011
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: DAVE HERMAN defeated JON OLAV EINEMO via KO/TKO  
+  at 3:19 of round 2
+  Key stats:
+  - DAVE HERMAN landed 55 significant strikes
+  - JON OLAV EINEMO landed 34 significant strikes
+  - Knockdowns: DAVE HERMAN 1,  JON OLAV EINEMO 0
+  - Takedowns: DAVE HERMAN 1,  JON OLAV EINEMO 1
+  Bonus: fight

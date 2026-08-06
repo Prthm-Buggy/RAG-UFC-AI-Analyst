@@ -1,0 +1,13 @@
+Event: UFC 155: Dos Santos vs Velasquez II
+    Date: December 29, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CONSTANTINOS PHILIPPOU defeated TIM BOETSCH via KO/TKO  
+  at 2:11 of round 3
+  Key stats:
+  - CONSTANTINOS PHILIPPOU landed 28 significant strikes
+  - TIM BOETSCH landed 25 significant strikes
+  - Knockdowns: CONSTANTINOS PHILIPPOU 0,  TIM BOETSCH 1
+  - Takedowns: CONSTANTINOS PHILIPPOU 0,  TIM BOETSCH 2

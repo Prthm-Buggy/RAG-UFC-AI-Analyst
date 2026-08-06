@@ -1,0 +1,18 @@
+Event : UFC 278: Usman vs. Edwards
+    Date : August 20, 2022
+    Location: Salt Lake City, Utah, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Heavyweight, Flyweight, Women's Bantamweight, Middleweight, Lightweight, Welterweight, Light Heavyweight
+
+    Fight Results:
+  - MARCIN TYBURA def. ALEXANDR ROMANOV via Decision - Majority(R3)
+- AMIR ALBAZI def. FRANCISCO FIGUEIREDO via Submission(R1)
+- JARED GORDON def. LEONARDO SANTOS via Decision - Unanimous(R3)
+- LEON EDWARDS def. KAMARU USMAN via KO/TKO(R5)
+- VICTOR ALTAMIRANO def. DANIEL LACERDA via KO/TKO(R1)
+- ANGE LOOSA def. AJ FLETCHER via Decision - Unanimous(R3)
+- PAULO COSTA def. LUKE ROCKHOLD via Decision - Unanimous(R3)
+- MERAB DVALISHVILI def. JOSE ALDO via Decision - Unanimous(R3)
+- LUCIE PUDILOVA def. WU YANAN via KO/TKO(R2)
+- TYSON PEDRO def. HARRY HUNSUCKER via KO/TKO(R1)
+- AORIQILENG def. JAY PERRIN via Decision - Unanimous(R3)

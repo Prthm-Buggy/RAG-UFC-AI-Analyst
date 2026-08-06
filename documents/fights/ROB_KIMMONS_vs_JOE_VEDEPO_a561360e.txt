@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Condit vs Kampmann
+    Date: April 01, 2009
+    Location: Nashville, Tennessee, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROB KIMMONS defeated JOE VEDEPO via Submission  
+  at 1:54 of round 1
+  Key stats:
+  - ROB KIMMONS landed 7 significant strikes
+  - JOE VEDEPO landed 4 significant strikes
+  - Knockdowns: ROB KIMMONS 0,  JOE VEDEPO 0
+  - Takedowns: ROB KIMMONS 0,  JOE VEDEPO 1
+  Bonus: sub

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gaethje vs. Vick
+    Date: August 25, 2018
+    Location: Lincoln, Nebraska, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CORY SANDHAGEN defeated IURI ALCANTARA via KO/TKO  
+  at 1:01 of round 2
+  Key stats:
+  - CORY SANDHAGEN landed 66 significant strikes
+  - IURI ALCANTARA landed 9 significant strikes
+  - Knockdowns: CORY SANDHAGEN 0,  IURI ALCANTARA 0
+  - Takedowns: CORY SANDHAGEN 0,  IURI ALCANTARA 1
+  Bonus: fight

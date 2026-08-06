@@ -1,0 +1,11 @@
+Fighter: GIAN VILLANTE
+  Date of Birth: 1985-08-18
+  Career record: 18
+  First fight: 2013-04-27
+  Last fight: 2021-11-06
+
+Career Statistics:
+- Significant Strikes Landed :923
+- Total takedowns landed :5
+- Knockdowns :4
+- Submission Attempts :0

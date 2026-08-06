@@ -1,0 +1,14 @@
+Event: UFC 118: Edgar vs Penn 2
+    Date: August 28, 2010
+    Location: Boston, Massachusetts, USA
+    Weight Class: Welterweight
+    
+
+    Result: NATE DIAZ defeated MARCUS DAVIS via Submission  
+  at 4:02 of round 3
+  Key stats:
+  - NATE DIAZ landed 94 significant strikes
+  - MARCUS DAVIS landed 52 significant strikes
+  - Knockdowns: NATE DIAZ 0,  MARCUS DAVIS 1
+  - Takedowns: NATE DIAZ 1,  MARCUS DAVIS 1
+  Bonus: fight

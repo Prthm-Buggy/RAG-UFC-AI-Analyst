@@ -1,0 +1,13 @@
+Event: UFC 209: Woodley vs. Thompson 2
+    Date: March 04, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALISTAIR OVEREEM defeated MARK HUNT via KO/TKO  
+  at 1:44 of round 3
+  Key stats:
+  - ALISTAIR OVEREEM landed 55 significant strikes
+  - MARK HUNT landed 21 significant strikes
+  - Knockdowns: ALISTAIR OVEREEM 1,  MARK HUNT 0
+  - Takedowns: ALISTAIR OVEREEM 0,  MARK HUNT 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lauzon vs Stephens
+    Date: February 07, 2009
+    Location: Tampa, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: KURT PELLEGRINO defeated ROB EMERSON via Submission  
+  at 3:14 of round 2
+  Key stats:
+  - KURT PELLEGRINO landed 16 significant strikes
+  - ROB EMERSON landed 21 significant strikes
+  - Knockdowns: KURT PELLEGRINO 0,  ROB EMERSON 0
+  - Takedowns: KURT PELLEGRINO 1,  ROB EMERSON 2

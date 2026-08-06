@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: A New World Champion Finale
+    Date: December 01, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GERALD MEERSCHAERT defeated ERIC SPICELY via KO/TKO  
+  at 2:18 of round 2
+  Key stats:
+  - GERALD MEERSCHAERT landed 36 significant strikes
+  - ERIC SPICELY landed 17 significant strikes
+  - Knockdowns: GERALD MEERSCHAERT 1,  ERIC SPICELY 0
+  - Takedowns: GERALD MEERSCHAERT 0,  ERIC SPICELY 1
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: ALEJANDRO PEREZ
+  Date of Birth: 1989-09-02
+  Career record: 12
+  First fight: 2014-11-15
+  Last fight: 2022-02-26
+
+Career Statistics:
+- Significant Strikes Landed :418
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :3

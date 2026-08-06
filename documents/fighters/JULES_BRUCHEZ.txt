@@ -1,0 +1,11 @@
+Fighter: JULES BRUCHEZ
+  Date of Birth: 1977-08-16
+  Career record: 1
+  First fight: 2008-12-13
+  Last fight: 2008-12-13
+
+Career Statistics:
+- Significant Strikes Landed :1
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

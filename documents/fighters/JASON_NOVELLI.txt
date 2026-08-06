@@ -1,0 +1,11 @@
+Fighter: JASON NOVELLI
+  Date of Birth: 1979-06-08
+  Career record: 2
+  First fight: 2016-08-06
+  Last fight: 2016-11-05
+
+Career Statistics:
+- Significant Strikes Landed :37
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

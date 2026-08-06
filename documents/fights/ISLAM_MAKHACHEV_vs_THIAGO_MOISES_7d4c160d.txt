@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Makhachev vs. Moises
+    Date: July 17, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ISLAM MAKHACHEV defeated THIAGO MOISES via Submission  
+  at 2:38 of round 4
+  Key stats:
+  - ISLAM MAKHACHEV landed 61 significant strikes
+  - THIAGO MOISES landed 13 significant strikes
+  - Knockdowns: ISLAM MAKHACHEV 0,  THIAGO MOISES 0
+  - Takedowns: ISLAM MAKHACHEV 3,  THIAGO MOISES 1

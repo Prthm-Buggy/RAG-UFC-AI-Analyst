@@ -1,0 +1,11 @@
+Fighter: IRINA ALEKSEEVA
+  Date of Birth: 1990-06-27
+  Career record: 4
+  First fight: 2023-04-29
+  Last fight: 2025-10-11
+
+Career Statistics:
+- Significant Strikes Landed :135
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :1

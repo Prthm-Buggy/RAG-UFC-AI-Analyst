@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Namajunas vs. Cortez
+    Date: July 13, 2024
+    Location: Denver, Colorado, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MONTEL JACKSON defeated DA'MON BLACKSHEAR via KO/TKO  
+  at 0:18 of round 1
+  Key stats:
+  - MONTEL JACKSON landed 4 significant strikes
+  - DA'MON BLACKSHEAR landed 1 significant strikes
+  - Knockdowns: MONTEL JACKSON 1,  DA'MON BLACKSHEAR 0
+  - Takedowns: MONTEL JACKSON 0,  DA'MON BLACKSHEAR 0
+  Bonus: perf

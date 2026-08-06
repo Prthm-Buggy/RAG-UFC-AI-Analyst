@@ -1,0 +1,14 @@
+Event: UFC 105: Couture vs Vera
+    Date: November 14, 2009
+    Location: Manchester, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: TERRY ETIM defeated SHANNON GUGERTY via Submission  
+  at 1:24 of round 2
+  Key stats:
+  - TERRY ETIM landed 17 significant strikes
+  - SHANNON GUGERTY landed 11 significant strikes
+  - Knockdowns: TERRY ETIM 0,  SHANNON GUGERTY 0
+  - Takedowns: TERRY ETIM 0,  SHANNON GUGERTY 1
+  Bonus: sub

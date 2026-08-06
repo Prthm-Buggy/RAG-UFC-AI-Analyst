@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Song vs. Gutierrez
+    Date: December 09, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: TATSURO TAIRA defeated CARLOS HERNANDEZ via KO/TKO  
+  at 0:55 of round 2
+  Key stats:
+  - TATSURO TAIRA landed 33 significant strikes
+  - CARLOS HERNANDEZ landed 2 significant strikes
+  - Knockdowns: TATSURO TAIRA 1,  CARLOS HERNANDEZ 0
+  - Takedowns: TATSURO TAIRA 0,  CARLOS HERNANDEZ 0

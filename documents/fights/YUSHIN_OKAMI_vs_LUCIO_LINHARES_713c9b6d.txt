@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Gomi
+    Date: March 31, 2010
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Middleweight
+    
+
+    Result: YUSHIN OKAMI defeated LUCIO LINHARES via TKO - Doctor's Stoppage  
+  at 2:47 of round 2
+  Key stats:
+  - YUSHIN OKAMI landed 50 significant strikes
+  - LUCIO LINHARES landed 8 significant strikes
+  - Knockdowns: YUSHIN OKAMI 1,  LUCIO LINHARES 0
+  - Takedowns: YUSHIN OKAMI 0,  LUCIO LINHARES 0

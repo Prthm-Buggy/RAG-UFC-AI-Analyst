@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rozenstruik vs. Gane
+    Date: February 27, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RONNIE LAWRENCE defeated VINCE CACHERO via KO/TKO  
+  at 2:38 of round 3
+  Key stats:
+  - RONNIE LAWRENCE landed 77 significant strikes
+  - VINCE CACHERO landed 15 significant strikes
+  - Knockdowns: RONNIE LAWRENCE 0,  VINCE CACHERO 0
+  - Takedowns: RONNIE LAWRENCE 8,  VINCE CACHERO 0
+  Bonus: perf

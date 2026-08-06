@@ -1,0 +1,13 @@
+Event: UFC 131: Dos Santos vs Carwin
+    Date: June 11, 2011
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Featherweight
+    
+
+    Result: KENNY FLORIAN defeated DIEGO NUNES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KENNY FLORIAN landed 42 significant strikes
+  - DIEGO NUNES landed 31 significant strikes
+  - Knockdowns: KENNY FLORIAN 0,  DIEGO NUNES 1
+  - Takedowns: KENNY FLORIAN 4,  DIEGO NUNES 2

@@ -1,0 +1,11 @@
+Fighter: WAGNER PRADO
+  Date of Birth: 1986-12-30
+  Career record: 2
+  First fight: 2012-10-13
+  Last fight: 2013-01-19
+
+Career Statistics:
+- Significant Strikes Landed :30
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

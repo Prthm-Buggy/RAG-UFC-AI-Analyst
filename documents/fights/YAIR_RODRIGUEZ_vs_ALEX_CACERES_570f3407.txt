@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Caceres
+    Date: August 06, 2016
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Featherweight
+    
+
+    Result: YAIR RODRIGUEZ defeated ALEX CACERES via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - YAIR RODRIGUEZ landed 120 significant strikes
+  - ALEX CACERES landed 62 significant strikes
+  - Knockdowns: YAIR RODRIGUEZ 0,  ALEX CACERES 0
+  - Takedowns: YAIR RODRIGUEZ 1,  ALEX CACERES 1
+  Bonus: fight

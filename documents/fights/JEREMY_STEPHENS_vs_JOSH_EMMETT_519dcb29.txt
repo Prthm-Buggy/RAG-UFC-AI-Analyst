@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Emmett vs. Stephens
+    Date: February 24, 2018
+    Location: Orlando, Florida, USA
+    Weight Class: Featherweight
+    
+
+    Result: JEREMY STEPHENS defeated JOSH EMMETT via KO/TKO  
+  at 1:35 of round 2
+  Key stats:
+  - JEREMY STEPHENS landed 24 significant strikes
+  - JOSH EMMETT landed 18 significant strikes
+  - Knockdowns: JEREMY STEPHENS 1,  JOSH EMMETT 1
+  - Takedowns: JEREMY STEPHENS 0,  JOSH EMMETT 0
+  Bonus: perf

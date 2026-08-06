@@ -1,0 +1,11 @@
+Fighter: LANCE GIBSON
+  Date of Birth: 1970-11-20
+  Career record: 2
+  First fight: 2000-03-10
+  Last fight: 2000-12-16
+
+Career Statistics:
+- Significant Strikes Landed :39
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :1

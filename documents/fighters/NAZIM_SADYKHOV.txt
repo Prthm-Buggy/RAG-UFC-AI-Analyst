@@ -1,0 +1,11 @@
+Fighter: NAZIM SADYKHOV
+  Date of Birth: 1994-05-16
+  Career record: 6
+  First fight: 2023-02-18
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :182
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :1

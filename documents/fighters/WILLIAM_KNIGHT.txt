@@ -1,0 +1,11 @@
+Fighter: WILLIAM KNIGHT
+  Date of Birth: 1988-04-03
+  Career record: 7
+  First fight: 2020-09-26
+  Last fight: 2023-02-18
+
+Career Statistics:
+- Significant Strikes Landed :174
+- Total takedowns landed :9
+- Knockdowns :2
+- Submission Attempts :3

@@ -1,0 +1,13 @@
+Event: UFC 32: Showdown in the Meadowlands
+    Date: June 29, 2001
+    Location: East Rutherford, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: CAOL UNO defeated FABIANO IHA via KO/TKO  
+  at 1:48 of round 1
+  Key stats:
+  - CAOL UNO landed 8 significant strikes
+  - FABIANO IHA landed 6 significant strikes
+  - Knockdowns: CAOL UNO 0,  FABIANO IHA 0
+  - Takedowns: CAOL UNO 2,  FABIANO IHA 0

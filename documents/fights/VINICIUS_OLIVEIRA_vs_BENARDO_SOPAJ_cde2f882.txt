@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rozenstruik vs. Gaziev
+    Date: March 02, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: VINICIUS OLIVEIRA defeated BENARDO SOPAJ via KO/TKO  
+  at 4:41 of round 3
+  Key stats:
+  - VINICIUS OLIVEIRA landed 67 significant strikes
+  - BENARDO SOPAJ landed 45 significant strikes
+  - Knockdowns: VINICIUS OLIVEIRA 1,  BENARDO SOPAJ 0
+  - Takedowns: VINICIUS OLIVEIRA 2,  BENARDO SOPAJ 3
+  Bonus: fight

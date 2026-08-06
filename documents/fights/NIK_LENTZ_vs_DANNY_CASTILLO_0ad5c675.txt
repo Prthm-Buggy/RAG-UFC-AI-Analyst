@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dos Anjos vs. Cowboy 2
+    Date: December 19, 2015
+    Location: Orlando, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: NIK LENTZ defeated DANNY CASTILLO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - NIK LENTZ landed 59 significant strikes
+  - DANNY CASTILLO landed 57 significant strikes
+  - Knockdowns: NIK LENTZ 0,  DANNY CASTILLO 0
+  - Takedowns: NIK LENTZ 3,  DANNY CASTILLO 2

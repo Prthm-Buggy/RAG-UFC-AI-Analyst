@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ngannou vs. Velasquez
+    Date: February 17, 2019
+    Location: Phoenix, Arizona, USA
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated BRYAN BARBERENA via KO/TKO  
+  at 4:54 of round 3
+  Key stats:
+  - VICENTE LUQUE landed 163 significant strikes
+  - BRYAN BARBERENA landed 169 significant strikes
+  - Knockdowns: VICENTE LUQUE 1,  BRYAN BARBERENA 1
+  - Takedowns: VICENTE LUQUE 0,  BRYAN BARBERENA 0
+  Bonus: fight

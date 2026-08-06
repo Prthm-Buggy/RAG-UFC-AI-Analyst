@@ -1,0 +1,13 @@
+Event: UFC 113: Machida vs Shogun 2
+    Date: May 08, 2010
+    Location: Montreal, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: JOE DOERKSEN defeated TOM LAWLOR via Submission  
+  at 2:10 of round 2
+  Key stats:
+  - JOE DOERKSEN landed 44 significant strikes
+  - TOM LAWLOR landed 42 significant strikes
+  - Knockdowns: JOE DOERKSEN 0,  TOM LAWLOR 1
+  - Takedowns: JOE DOERKSEN 0,  TOM LAWLOR 0

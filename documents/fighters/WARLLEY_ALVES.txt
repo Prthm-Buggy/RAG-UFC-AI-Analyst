@@ -1,0 +1,11 @@
+Fighter: WARLLEY ALVES
+  Date of Birth: 1991-01-04
+  Career record: 16
+  First fight: 2014-05-31
+  Last fight: 2024-05-18
+
+Career Statistics:
+- Significant Strikes Landed :485
+- Total takedowns landed :13
+- Knockdowns :3
+- Submission Attempts :9

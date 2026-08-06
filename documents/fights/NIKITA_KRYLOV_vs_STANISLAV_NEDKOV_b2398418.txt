@@ -1,0 +1,13 @@
+Event: UFC on FOX: Gustafsson vs Johnson
+    Date: January 24, 2015
+    Location: Stockholm, Sweden
+    Weight Class: Light Heavyweight
+    
+
+    Result: NIKITA KRYLOV defeated STANISLAV NEDKOV via Submission  
+  at 1:24 of round 1
+  Key stats:
+  - NIKITA KRYLOV landed 13 significant strikes
+  - STANISLAV NEDKOV landed 4 significant strikes
+  - Knockdowns: NIKITA KRYLOV 1,  STANISLAV NEDKOV 0
+  - Takedowns: NIKITA KRYLOV 0,  STANISLAV NEDKOV 0

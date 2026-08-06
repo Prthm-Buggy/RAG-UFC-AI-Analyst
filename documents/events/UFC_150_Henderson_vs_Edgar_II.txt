@@ -1,0 +1,16 @@
+Event : UFC 150: Henderson vs Edgar II
+    Date : August 11, 2012
+    Location: Denver, Colorado, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Middleweight, Featherweight, Bantamweight
+
+    Fight Results:
+  - DONALD CERRONE def. MELVIN GUILLARD via KO/TKO(R1)
+- ERIK PEREZ def. KEN STONE via KO/TKO(R1)
+- MAX HOLLOWAY def. JUSTIN LAWRENCE via KO/TKO(R2)
+- YUSHIN OKAMI def. BUDDY ROBERTS via KO/TKO(R2)
+- CHICO CAMUS def. DUSTIN PAGUE via Decision - Unanimous(R3)
+- BENSON HENDERSON def. FRANKIE EDGAR via Decision - Split(R5)
+- MICHAEL KUIPER def. JARED HAMMAN via KO/TKO(R2)
+- DENNIS BERMUDEZ def. TOMMY HAYDEN via Submission(R1)
+- NIK LENTZ def. EIJI MITSUOKA via KO/TKO(R1)

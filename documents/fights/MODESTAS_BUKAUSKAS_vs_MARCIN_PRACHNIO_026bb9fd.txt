@@ -1,0 +1,13 @@
+Event: UFC 304: Edwards vs. Muhammad 2
+    Date: July 27, 2024
+    Location: Manchester, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: MODESTAS BUKAUSKAS defeated MARCIN PRACHNIO via Submission  
+  at 3:12 of round 3
+  Key stats:
+  - MODESTAS BUKAUSKAS landed 38 significant strikes
+  - MARCIN PRACHNIO landed 70 significant strikes
+  - Knockdowns: MODESTAS BUKAUSKAS 0,  MARCIN PRACHNIO 0
+  - Takedowns: MODESTAS BUKAUSKAS 2,  MARCIN PRACHNIO 0

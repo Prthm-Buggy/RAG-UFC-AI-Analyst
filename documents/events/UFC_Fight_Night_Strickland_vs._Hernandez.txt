@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Strickland vs. Hernandez
+    Date : February 21, 2026
+    Location: Houston, Texas, USA
+    Number of Fights: 13
+    Weight Classes: Women's Bantamweight, Welterweight, Featherweight, Middleweight, Flyweight, Women's Flyweight, Heavyweight
+
+    Fight Results:
+  - JEAN-PAUL LEBOSNOYANI def. PHIL ROWE via Decision - Split(R3)
+- CARLOS LEAL def. CHIDI NJOKUANI via Decision - Unanimous(R3)
+- JORDAN LEAVITT def. YADIER DEL VALLE via Decision - Unanimous(R3)
+- JOSELYNE EDWARDS def. NORA CORNOLLE via Submission(R2)
+- SEAN STRICKLAND def. ANTHONY HERNANDEZ via KO/TKO(R3)
+- CARLI JUDICE def. JULIANA MILLER via Decision - Unanimous(R3)
+- MICHEL PEREIRA def. ZACH REESE via Decision - Split(R3)
+- PUNAHELE SORIANO def. RAMIZ BRAHIMAJ via Decision - Unanimous(R3)
+- UROS MEDIC def. GEOFF NEAL via KO/TKO(R1)
+- MELQUIZAEL COSTA def. DAN IGE via KO/TKO(R1)
+- ALDEN CORIA def. LUIS GURULE via Decision - Unanimous(R3)
+- JACOBE SMITH def. JOSIAH HARRELL via KO/TKO(R1)
+- SERGHEI SPIVAC def. ANTE DELIJA via Decision - Unanimous(R3)

@@ -1,0 +1,11 @@
+Fighter: FARES ZIAM
+  Date of Birth: 1997-03-21
+  Career record: 11
+  First fight: 2019-09-07
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :389
+- Total takedowns landed :18
+- Knockdowns :2
+- Submission Attempts :4

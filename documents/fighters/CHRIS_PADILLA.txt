@@ -1,0 +1,11 @@
+Fighter: CHRIS PADILLA
+  Date of Birth: 1995-09-14
+  Career record: 5
+  First fight: 2024-04-27
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :330
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :1

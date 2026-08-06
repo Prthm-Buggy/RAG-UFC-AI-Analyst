@@ -1,0 +1,14 @@
+Event : UFC 55: Fury
+    Date : October 07, 2005
+    Location: Uncasville, Connecticut, USA
+    Number of Fights: 7
+    Weight Classes: Light Heavyweight, Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - JORGE RIVERA def. DENNIS HALLMAN via Decision - Unanimous(R3)
+- ANDREI ARLOVSKI def. PAUL BUENTELLO via KO/TKO(R1)
+- FORREST GRIFFIN def. ELVIS SINOSIC via KO/TKO(R1)
+- RENATO SOBRAL def. CHAEL SONNEN via Submission(R2)
+- JOE RIGGS def. CHRIS LYTLE via TKO - Doctor's Stoppage(R2)
+- BRANDEN LEE HINKLE def. SEAN GANNON via KO/TKO(R1)
+- MARCIO CRUZ def. KEIGO KUNIHARA via Submission(R2)

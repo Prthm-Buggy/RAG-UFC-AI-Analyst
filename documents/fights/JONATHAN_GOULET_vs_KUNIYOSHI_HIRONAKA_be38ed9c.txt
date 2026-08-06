@@ -1,0 +1,14 @@
+Event: UFC 83: Serra vs St-Pierre 2
+    Date: April 19, 2008
+    Location: Montreal, Quebec, Canada
+    Weight Class: Welterweight
+    
+
+    Result: JONATHAN GOULET defeated KUNIYOSHI HIRONAKA via KO/TKO  
+  at 2:07 of round 2
+  Key stats:
+  - JONATHAN GOULET landed 31 significant strikes
+  - KUNIYOSHI HIRONAKA landed 21 significant strikes
+  - Knockdowns: JONATHAN GOULET 2,  KUNIYOSHI HIRONAKA 1
+  - Takedowns: JONATHAN GOULET 0,  KUNIYOSHI HIRONAKA 1
+  Bonus: fight

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vettori vs. Dolidze 2
+    Date: March 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: PRISCILA CACHOEIRA defeated JOSIANE NUNES via KO/TKO  
+  at 2:46 of round 1
+  Key stats:
+  - PRISCILA CACHOEIRA landed 37 significant strikes
+  - JOSIANE NUNES landed 31 significant strikes
+  - Knockdowns: PRISCILA CACHOEIRA 1,  JOSIANE NUNES 0
+  - Takedowns: PRISCILA CACHOEIRA 0,  JOSIANE NUNES 0
+  Bonus: perf

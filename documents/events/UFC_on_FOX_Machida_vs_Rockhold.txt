@@ -1,0 +1,18 @@
+Event : UFC on FOX: Machida vs Rockhold
+    Date : April 18, 2015
+    Location: Newark, New Jersey, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Featherweight, Light Heavyweight, Lightweight, Welterweight, Middleweight, Women's Strawweight
+
+    Fight Results:
+  - BENEIL DARIUSH def. JIM MILLER via Decision - Unanimous(R3)
+- ALJAMAIN STERLING def. TAKEYA MIZUGAKI via Submission(R3)
+- MAX HOLLOWAY def. CUB SWANSON via Submission(R3)
+- TIM MEANS def. GEORGE SULLIVAN via Submission(R3)
+- OVINCE SAINT PREUX def. PATRICK CUMMINS via KO/TKO(R1)
+- GIAN VILLANTE def. COREY ANDERSON via KO/TKO(R3)
+- DIEGO BRANDAO def. JIMY HETTES via TKO - Doctor's Stoppage(R1)
+- CHRIS DEMPSEY def. EDDIE GORDON via Decision - Split(R3)
+- JACARE SOUZA def. CHRIS CAMOZZI via Submission(R1)
+- PAIGE VANZANT def. FELICE HERRIG via Decision - Unanimous(R3)
+- LUKE ROCKHOLD def. LYOTO MACHIDA via Submission(R2)

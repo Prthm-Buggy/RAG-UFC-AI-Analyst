@@ -1,0 +1,19 @@
+Event : UFC on FOX: Johnson vs. Bader
+    Date : January 30, 2016
+    Location: Newark, New Jersey, USA
+    Number of Fights: 12
+    Weight Classes: Light Heavyweight, Lightweight, Welterweight, Middleweight, Flyweight, Featherweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - BEN ROTHWELL def. JOSH BARNETT via Submission(R2)
+- ALEX CACERES def. MASIO FULLEN via Decision - Unanimous(R3)
+- BRYAN BARBERENA def. SAGE NORTHCUTT via Submission(R2)
+- RANDY BROWN def. MATT DWYER via Decision - Unanimous(R3)
+- RAFAEL NATAL def. KEVIN CASEY via KO/TKO(R3)
+- ANTHONY JOHNSON def. RYAN BADER via KO/TKO(R1)
+- JIMMIE RIVERA def. IURI ALCANTARA via Decision - Unanimous(R3)
+- ALEXANDER YAKOVLEV def. GEORGE SULLIVAN via KO/TKO(R1)
+- DIEGO FERREIRA def. OLIVIER AUBIN-MERCIER via Decision - Unanimous(R3)
+- WILSON REIS def. DUSTIN ORTIZ via Decision - Unanimous(R3)
+- TAREC SAFFIEDINE def. JAKE ELLENBERGER via Decision - Unanimous(R3)
+- ANTHONY ROCCO MARTIN def. FELIPE OLIVIERI via Submission(R3)

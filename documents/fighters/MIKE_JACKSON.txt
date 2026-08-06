@@ -1,0 +1,11 @@
+Fighter: MIKE JACKSON
+  Date of Birth: 1985-03-22
+  Career record: 3
+  First fight: 2016-02-06
+  Last fight: 2022-10-15
+
+Career Statistics:
+- Significant Strikes Landed :31
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Mousasi vs. Hall 2
+    Date: November 19, 2016
+    Location: Belfast, Northern Ireland, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: JUSTIN LEDET defeated MARK GODBEER via Submission  
+  at 2:16 of round 1
+  Key stats:
+  - JUSTIN LEDET landed 3 significant strikes
+  - MARK GODBEER landed 5 significant strikes
+  - Knockdowns: JUSTIN LEDET 0,  MARK GODBEER 0
+  - Takedowns: JUSTIN LEDET 1,  MARK GODBEER 0
+  Bonus: perf

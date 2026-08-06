@@ -1,0 +1,14 @@
+Event: UFC 264: Poirier vs. McGregor 3
+    Date: July 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SEAN O'MALLEY defeated KRIS MOUTINHO via KO/TKO  
+  at 4:33 of round 3
+  Key stats:
+  - SEAN O'MALLEY landed 230 significant strikes
+  - KRIS MOUTINHO landed 70 significant strikes
+  - Knockdowns: SEAN O'MALLEY 1,  KRIS MOUTINHO 0
+  - Takedowns: SEAN O'MALLEY 0,  KRIS MOUTINHO 0
+  Bonus: fight

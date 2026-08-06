@@ -1,0 +1,18 @@
+Event : UFC 136: Edgar vs Maynard 3
+    Date : October 08, 2011
+    Location: Houston, Texas, USA
+    Number of Fights: 11
+    Weight Classes: Featherweight, Middleweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - DEMIAN MAIA def. JORGE SANTIAGO via Decision - Unanimous(R3)
+- FRANKIE EDGAR def. GRAY MAYNARD via KO/TKO(R4)
+- JOSE ALDO def. KENNY FLORIAN via Decision - Unanimous(R5)
+- STIPE MIOCIC def. JOEY BELTRAN via Decision - Unanimous(R3)
+- DARREN ELKINS def. ZHANG TIEQUAN via Decision - Unanimous(R3)
+- AARON SIMPSON def. ERIC SCHAFER via Decision - Unanimous(R3)
+- CHAEL SONNEN def. BRIAN STANN via Submission(R2)
+- JOE LAUZON def. MELVIN GUILLARD via Submission(R1)
+- NAM PHAN def. LEONARD GARCIA via Decision - Unanimous(R3)
+- ANTHONY PETTIS def. JEREMY STEPHENS via Decision - Split(R3)
+- MIKE MASSENZIO def. STEVE CANTWELL via Decision - Unanimous(R3)

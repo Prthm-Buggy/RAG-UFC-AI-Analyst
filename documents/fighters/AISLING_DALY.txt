@@ -1,0 +1,11 @@
+Fighter: AISLING DALY
+  Date of Birth: 1987-12-24
+  Career record: 3
+  First fight: 2014-12-12
+  Last fight: 2015-10-24
+
+Career Statistics:
+- Significant Strikes Landed :102
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :2

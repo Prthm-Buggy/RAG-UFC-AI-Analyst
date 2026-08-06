@@ -1,0 +1,13 @@
+Event: UFC 283: Teixeira vs. Hill
+    Date: January 21, 2023
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: GABRIEL BONFIM defeated MOUNIR LAZZEZ via Submission  
+  at 0:49 of round 1
+  Key stats:
+  - GABRIEL BONFIM landed 9 significant strikes
+  - MOUNIR LAZZEZ landed 9 significant strikes
+  - Knockdowns: GABRIEL BONFIM 0,  MOUNIR LAZZEZ 0
+  - Takedowns: GABRIEL BONFIM 0,  MOUNIR LAZZEZ 0

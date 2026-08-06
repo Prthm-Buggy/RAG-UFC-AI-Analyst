@@ -1,0 +1,14 @@
+Event: UFC 163: Aldo vs Jung
+    Date: August 03, 2013
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: SERGIO MORAES defeated NEIL MAGNY via Submission  
+  at 3:13 of round 1
+  Key stats:
+  - SERGIO MORAES landed 13 significant strikes
+  - NEIL MAGNY landed 7 significant strikes
+  - Knockdowns: SERGIO MORAES 0,  NEIL MAGNY 0
+  - Takedowns: SERGIO MORAES 1,  NEIL MAGNY 0
+  Bonus: sub

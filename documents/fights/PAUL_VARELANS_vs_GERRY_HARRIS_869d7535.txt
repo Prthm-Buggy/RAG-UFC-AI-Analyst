@@ -1,0 +1,13 @@
+Event: UFC 7: The Brawl in Buffalo
+    Date: September 08, 1995
+    Location: Buffalo, New York, USA
+    Weight Class: Open Weight
+    
+
+    Result: PAUL VARELANS defeated GERRY HARRIS via KO/TKO  
+  at 1:05 of round 1
+  Key stats:
+  - PAUL VARELANS landed 4 significant strikes
+  - GERRY HARRIS landed 0 significant strikes
+  - Knockdowns: PAUL VARELANS 0,  GERRY HARRIS 0
+  - Takedowns: PAUL VARELANS 1,  GERRY HARRIS 0

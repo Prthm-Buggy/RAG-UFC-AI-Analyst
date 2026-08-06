@@ -1,0 +1,13 @@
+Event: UFC Live: Hardy vs Lytle
+    Date: August 14, 2011
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Bantamweight
+    
+
+    Result: EDWIN FIGUEROA defeated JASON REINHARDT via KO/TKO  
+  at 0:50 of round 2
+  Key stats:
+  - EDWIN FIGUEROA landed 23 significant strikes
+  - JASON REINHARDT landed 1 significant strikes
+  - Knockdowns: EDWIN FIGUEROA 0,  JASON REINHARDT 0
+  - Takedowns: EDWIN FIGUEROA 0,  JASON REINHARDT 1

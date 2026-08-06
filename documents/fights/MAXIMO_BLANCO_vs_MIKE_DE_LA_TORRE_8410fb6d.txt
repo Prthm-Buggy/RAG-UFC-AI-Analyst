@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: American Top Team vs. Blackzilians Finale
+    Date: July 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: MAXIMO BLANCO defeated MIKE DE LA TORRE via KO/TKO  
+  at 0:16 of round 1
+  Key stats:
+  - MAXIMO BLANCO landed 4 significant strikes
+  - MIKE DE LA TORRE landed 1 significant strikes
+  - Knockdowns: MAXIMO BLANCO 1,  MIKE DE LA TORRE 0
+  - Takedowns: MAXIMO BLANCO 0,  MIKE DE LA TORRE 0

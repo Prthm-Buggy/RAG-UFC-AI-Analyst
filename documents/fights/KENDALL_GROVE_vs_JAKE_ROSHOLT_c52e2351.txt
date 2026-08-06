@@ -1,0 +1,13 @@
+Event: UFC 106: Ortiz vs Griffin 2
+    Date: November 21, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: KENDALL GROVE defeated JAKE ROSHOLT via Submission  
+  at 3:59 of round 1
+  Key stats:
+  - KENDALL GROVE landed 3 significant strikes
+  - JAKE ROSHOLT landed 5 significant strikes
+  - Knockdowns: KENDALL GROVE 0,  JAKE ROSHOLT 0
+  - Takedowns: KENDALL GROVE 1,  JAKE ROSHOLT 3

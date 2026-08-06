@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Romero
+    Date: June 27, 2015
+    Location: Hollywood, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: TONY SIMS defeated STEVE MONTGOMERY via KO/TKO  
+  at 2:43 of round 1
+  Key stats:
+  - TONY SIMS landed 10 significant strikes
+  - STEVE MONTGOMERY landed 9 significant strikes
+  - Knockdowns: TONY SIMS 1,  STEVE MONTGOMERY 0
+  - Takedowns: TONY SIMS 0,  STEVE MONTGOMERY 0

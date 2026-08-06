@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Font vs. Garbrandt
+    Date : May 22, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Women's Strawweight, Featherweight, Women's Featherweight, Flyweight, Lightweight, Welterweight, Middleweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - ROB FONT def. CODY GARBRANDT via Decision - Unanimous(R5)
+- NORMA DUMONT def. FELICIA SPENCER via Decision - Split(R3)
+- COURT MCGEE def. CLAUDIO SILVA via Decision - Unanimous(R3)
+- RICARDO RAMOS def. BILL ALGEO via Decision - Unanimous(R3)
+- CARLA ESPARZA def. YAN XIAONAN via KO/TKO(R2)
+- JACK HERMANSSON def. EDMEN SHAHBAZYAN via Decision - Unanimous(R3)
+- DAMIR ISMAGULOV def. RAFAEL ALVES via Decision - Unanimous(R3)
+- JOSH CULIBAO def. SHAYILAN NUERDANBIEKE via Decision - Unanimous(R3)
+- JARED VANDERAA def. JUSTIN TAFA via Decision - Unanimous(R3)
+- BEN ROTHWELL def. CHRIS BARNETT via Submission(R2)
+- BRUNO SILVA def. VICTOR RODRIGUEZ via KO/TKO(R1)
+- DAVID DVORAK def. JUANCAMILO RONDEROS via Submission(R1)

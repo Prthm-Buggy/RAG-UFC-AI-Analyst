@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Walker vs. Zhang
+    Date: August 23, 2025
+    Location: Shanghai, Hebei, China
+    Weight Class: Catch Weight
+    
+
+    Result: ALJAMAIN STERLING defeated BRIAN ORTEGA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ALJAMAIN STERLING landed 124 significant strikes
+  - BRIAN ORTEGA landed 55 significant strikes
+  - Knockdowns: ALJAMAIN STERLING 0,  BRIAN ORTEGA 0
+  - Takedowns: ALJAMAIN STERLING 3,  BRIAN ORTEGA 0

@@ -1,0 +1,14 @@
+Event: UFC 203: Miocic vs. Overeem
+    Date: September 10, 2016
+    Location: Cleveland, Ohio, USA
+    Weight Class: Welterweight
+    
+
+    Result: YANCY MEDEIROS defeated SEAN SPENCER via Submission  
+  at 0:49 of round 2
+  Key stats:
+  - YANCY MEDEIROS landed 17 significant strikes
+  - SEAN SPENCER landed 17 significant strikes
+  - Knockdowns: YANCY MEDEIROS 2,  SEAN SPENCER 0
+  - Takedowns: YANCY MEDEIROS 0,  SEAN SPENCER 0
+  Bonus: perf

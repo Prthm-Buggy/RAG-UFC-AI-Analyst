@@ -1,0 +1,11 @@
+Fighter: ANDREAS GUSTAFSSON
+  Date of Birth: 1991-02-20
+  Career record: 2
+  First fight: 2025-06-07
+  Last fight: 2025-09-06
+
+Career Statistics:
+- Significant Strikes Landed :103
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :0

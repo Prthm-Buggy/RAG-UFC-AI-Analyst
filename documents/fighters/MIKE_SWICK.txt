@@ -1,0 +1,11 @@
+Fighter: MIKE SWICK
+  Date of Birth: 1979-06-19
+  Career record: 15
+  First fight: 2005-04-09
+  Last fight: 2015-07-11
+
+Career Statistics:
+- Significant Strikes Landed :287
+- Total takedowns landed :8
+- Knockdowns :4
+- Submission Attempts :5

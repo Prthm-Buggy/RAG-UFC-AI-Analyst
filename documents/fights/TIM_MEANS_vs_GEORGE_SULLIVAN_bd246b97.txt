@@ -1,0 +1,13 @@
+Event: UFC on FOX: Machida vs Rockhold
+    Date: April 18, 2015
+    Location: Newark, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: TIM MEANS defeated GEORGE SULLIVAN via Submission  
+  at 3:41 of round 3
+  Key stats:
+  - TIM MEANS landed 48 significant strikes
+  - GEORGE SULLIVAN landed 39 significant strikes
+  - Knockdowns: TIM MEANS 1,  GEORGE SULLIVAN 0
+  - Takedowns: TIM MEANS 2,  GEORGE SULLIVAN 0

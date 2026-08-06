@@ -1,0 +1,13 @@
+Event: UFC 45: Revolution
+    Date: November 21, 2003
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Middleweight
+    
+
+    Result: EVAN TANNER defeated PHIL BARONI via KO/TKO  
+  at 4:42 of round 1
+  Key stats:
+  - EVAN TANNER landed 28 significant strikes
+  - PHIL BARONI landed 17 significant strikes
+  - Knockdowns: EVAN TANNER 0,  PHIL BARONI 2
+  - Takedowns: EVAN TANNER 1,  PHIL BARONI 0

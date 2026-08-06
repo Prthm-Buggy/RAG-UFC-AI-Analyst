@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jedrzejczyk vs Penne
+    Date: June 20, 2015
+    Location: Berlin, Berlin, Germany
+    Weight Class: Lightweight
+    
+
+    Result: MAGOMED MUSTAFAEV defeated PIOTR HALLMANN via TKO - Doctor's Stoppage  
+  at 3:24 of round 2
+  Key stats:
+  - MAGOMED MUSTAFAEV landed 18 significant strikes
+  - PIOTR HALLMANN landed 29 significant strikes
+  - Knockdowns: MAGOMED MUSTAFAEV 0,  PIOTR HALLMANN 0
+  - Takedowns: MAGOMED MUSTAFAEV 0,  PIOTR HALLMANN 2

@@ -1,0 +1,11 @@
+Fighter: KARL ROBERSON
+  Date of Birth: 1990-10-04
+  Career record: 10
+  First fight: 2017-11-11
+  Last fight: 2022-07-09
+
+Career Statistics:
+- Significant Strikes Landed :208
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :3

@@ -1,0 +1,13 @@
+Event: UFC 165: Jones vs Gustafsson
+    Date: September 21, 2013
+    Location: Toronto, Ontario, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: BRENDAN SCHAUB defeated MATT MITRIONE via Submission  
+  at 4:06 of round 1
+  Key stats:
+  - BRENDAN SCHAUB landed 14 significant strikes
+  - MATT MITRIONE landed 7 significant strikes
+  - Knockdowns: BRENDAN SCHAUB 0,  MATT MITRIONE 0
+  - Takedowns: BRENDAN SCHAUB 1,  MATT MITRIONE 0

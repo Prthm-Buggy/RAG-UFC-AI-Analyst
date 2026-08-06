@@ -1,0 +1,14 @@
+Event: UFC 282: Blachowicz vs. Ankalaev
+    Date: December 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CAMERON SAAIMAN defeated STEVEN KOSLOW via KO/TKO  
+  at 4:13 of round 3
+  Key stats:
+  - CAMERON SAAIMAN landed 53 significant strikes
+  - STEVEN KOSLOW landed 11 significant strikes
+  - Knockdowns: CAMERON SAAIMAN 0,  STEVEN KOSLOW 0
+  - Takedowns: CAMERON SAAIMAN 0,  STEVEN KOSLOW 5
+  Bonus: perf

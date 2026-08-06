@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Waterson vs. Hill
+    Date: September 12, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEXANDR ROMANOV defeated ROQUE MARTINEZ via Submission  
+  at 4:22 of round 2
+  Key stats:
+  - ALEXANDR ROMANOV landed 55 significant strikes
+  - ROQUE MARTINEZ landed 7 significant strikes
+  - Knockdowns: ALEXANDR ROMANOV 0,  ROQUE MARTINEZ 0
+  - Takedowns: ALEXANDR ROMANOV 4,  ROQUE MARTINEZ 0

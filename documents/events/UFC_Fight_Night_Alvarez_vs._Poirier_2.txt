@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Alvarez vs. Poirier 2
+    Date : July 28, 2018
+    Location: Calgary, Alberta, Canada
+    Number of Fights: 13
+    Weight Classes: Women's Flyweight, Flyweight, Women's Strawweight, Light Heavyweight, Lightweight, Welterweight, Featherweight
+
+    Fight Results:
+  - KATLYN CERMINARA def. ALEXIS DAVIS via Decision - Unanimous(R3)
+- ISLAM MAKHACHEV def. KAJAN JOHNSON via Submission(R1)
+- ALEXANDER HERNANDEZ def. OLIVIER AUBIN-MERCIER via Decision - Unanimous(R3)
+- DUSTIN POIRIER def. EDDIE ALVAREZ via KO/TKO(R2)
+- HAKEEM DAWODU def. AUSTIN ARNETT via Decision - Unanimous(R3)
+- DEVIN POWELL def. ALVARO HERRERA MENDOZA via KO/TKO(R1)
+- ION CUTELABA def. GADZHIMURAD ANTIGULOV via KO/TKO(R1)
+- DUSTIN ORTIZ def. MATHEUS NICOLAU via KO/TKO(R1)
+- JOANNA JEDRZEJCZYK def. TECIA PENNINGTON via Decision - Unanimous(R3)
+- NINA NUNES def. RANDA MARKOS via Decision - Unanimous(R3)
+- JORDAN MEIN def. ALEX MORONO via Decision - Unanimous(R3)
+- JOSE ALDO def. JEREMY STEPHENS via KO/TKO(R1)
+- JOHN MAKDESSI def. ROSS PEARSON via Decision - Unanimous(R3)

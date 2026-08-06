@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Hill
+    Date: May 20, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANTHONY HERNANDEZ defeated EDMEN SHAHBAZYAN via KO/TKO  
+  at 1:01 of round 3
+  Key stats:
+  - ANTHONY HERNANDEZ landed 63 significant strikes
+  - EDMEN SHAHBAZYAN landed 30 significant strikes
+  - Knockdowns: ANTHONY HERNANDEZ 0,  EDMEN SHAHBAZYAN 0
+  - Takedowns: ANTHONY HERNANDEZ 6,  EDMEN SHAHBAZYAN 1

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: MacDonald vs Saffiedine
+    Date : October 04, 2014
+    Location: Halifax, Nova Scotia, Canada
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Welterweight, Middleweight, Lightweight, Flyweight
+
+    Fight Results:
+  - RAPHAEL ASSUNCAO def. BRYAN CARAWAY via Decision - Unanimous(R3)
+- OLIVIER AUBIN-MERCIER def. JAKE LINDSEY via Submission(R2)
+- ELIAS THEODOROU def. BRUNO SANTOS via Decision - Unanimous(R3)
+- RORY MACDONALD def. TAREC SAFFIEDINE via KO/TKO(R3)
+- PAUL FELDER def. JASON SAGGO via Decision - Split(R3)
+- CHAD LAPRISE def. YOSDENIS CEDENO via Decision - Unanimous(R3)
+- CHRIS KELADES def. PADDY HOLOHAN via Decision - Unanimous(R3)
+- ALBERT TUMENOV def. MATT DWYER via KO/TKO(R1)
+- DARON CRUICKSHANK def. ANTHONY NJOKUANI via Decision - Unanimous(R3)
+- NORDINE TALEB def. LI JINGLIANG via Decision - Split(R3)
+- MITCH GAGNON def. ROMAN SALAZAR via Submission(R1)

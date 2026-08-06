@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Liddell vs Team Ortiz Finale
+    Date: June 19, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: KYLE NOKE defeated JOSH BRYANT via KO/TKO  
+  at 3:12 of round 2
+  Key stats:
+  - KYLE NOKE landed 50 significant strikes
+  - JOSH BRYANT landed 9 significant strikes
+  - Knockdowns: KYLE NOKE 1,  JOSH BRYANT 0
+  - Takedowns: KYLE NOKE 0,  JOSH BRYANT 0

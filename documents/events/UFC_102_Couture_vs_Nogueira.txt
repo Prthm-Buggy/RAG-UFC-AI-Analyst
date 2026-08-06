@@ -1,0 +1,18 @@
+Event : UFC 102: Couture vs Nogueira
+    Date : August 29, 2009
+    Location: Portland, Oregon, USA
+    Number of Fights: 11
+    Weight Classes: Light Heavyweight, Middleweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - MARK MUNOZ def. NICK CATONE via Decision - Split(R3)
+- MIKE RUSSOW def. JUSTIN MCCULLY via Decision - Unanimous(R3)
+- EVAN DUNHAM def. MARCUS AURELIO via Decision - Split(R3)
+- TODD DUFFEE def. TIM HAGUE via KO/TKO(R1)
+- GABRIEL GONZAGA def. CHRIS TUCHSCHERER via KO/TKO(R1)
+- BRANDON VERA def. KRZYSZTOF SOSZYNSKI via Decision - Unanimous(R3)
+- THIAGO SILVA def. KEITH JARDINE via KO/TKO(R1)
+- NATE MARQUARDT def. DEMIAN MAIA via KO/TKO(R1)
+- ANTONIO RODRIGO NOGUEIRA def. RANDY COUTURE via Decision - Unanimous(R3)
+- AARON SIMPSON def. ED HERMAN via KO/TKO(R2)
+- JAKE ROSHOLT def. CHRIS LEBEN via Submission(R3)

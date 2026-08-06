@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Eye vs. Calvillo
+    Date: June 13, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHRISTIAN AGUILERA defeated ANTHONY IVY via KO/TKO  
+  at 0:59 of round 1
+  Key stats:
+  - CHRISTIAN AGUILERA landed 10 significant strikes
+  - ANTHONY IVY landed 4 significant strikes
+  - Knockdowns: CHRISTIAN AGUILERA 0,  ANTHONY IVY 0
+  - Takedowns: CHRISTIAN AGUILERA 0,  ANTHONY IVY 0
+  Bonus: perf

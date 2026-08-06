@@ -1,0 +1,11 @@
+Fighter: ROLANDO DY
+  Date of Birth: 1990-08-11
+  Career record: 4
+  First fight: 2017-06-17
+  Last fight: 2018-06-23
+
+Career Statistics:
+- Significant Strikes Landed :151
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

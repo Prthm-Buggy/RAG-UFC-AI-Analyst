@@ -1,0 +1,13 @@
+Event: UFC 50: The War Of '04
+    Date: October 22, 2004
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: FRANK TRIGG defeated RENATO VERISSIMO via KO/TKO  
+  at 2:11 of round 2
+  Key stats:
+  - FRANK TRIGG landed 33 significant strikes
+  - RENATO VERISSIMO landed 4 significant strikes
+  - Knockdowns: FRANK TRIGG 0,  RENATO VERISSIMO 0
+  - Takedowns: FRANK TRIGG 1,  RENATO VERISSIMO 0

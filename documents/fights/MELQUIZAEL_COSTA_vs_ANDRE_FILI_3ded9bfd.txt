@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cejudo vs. Song
+    Date: February 22, 2025
+    Location: Seattle, Washington, USA
+    Weight Class: Featherweight
+    
+
+    Result: MELQUIZAEL COSTA defeated ANDRE FILI via Submission  
+  at 4:30 of round 1
+  Key stats:
+  - MELQUIZAEL COSTA landed 27 significant strikes
+  - ANDRE FILI landed 7 significant strikes
+  - Knockdowns: MELQUIZAEL COSTA 0,  ANDRE FILI 0
+  - Takedowns: MELQUIZAEL COSTA 0,  ANDRE FILI 1

@@ -1,0 +1,11 @@
+Fighter: CHEPE MARISCAL
+  Date of Birth: 1992-10-27
+  Career record: 6
+  First fight: 2023-06-24
+  Last fight: 2025-11-15
+
+Career Statistics:
+- Significant Strikes Landed :345
+- Total takedowns landed :13
+- Knockdowns :0
+- Submission Attempts :1

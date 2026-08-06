@@ -1,0 +1,14 @@
+Event: UFC 213: Romero vs. Whittaker
+    Date: July 08, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ROB FONT defeated DOUGLAS SILVA DE ANDRADE via Submission  
+  at 4:36 of round 2
+  Key stats:
+  - ROB FONT landed 70 significant strikes
+  - DOUGLAS SILVA DE ANDRADE landed 28 significant strikes
+  - Knockdowns: ROB FONT 0,  DOUGLAS SILVA DE ANDRADE 0
+  - Takedowns: ROB FONT 2,  DOUGLAS SILVA DE ANDRADE 2
+  Bonus: perf

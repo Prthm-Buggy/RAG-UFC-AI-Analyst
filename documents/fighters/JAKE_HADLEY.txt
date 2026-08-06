@@ -1,0 +1,11 @@
+Fighter: JAKE HADLEY
+  Date of Birth: 1996-08-03
+  Career record: 7
+  First fight: 2022-05-14
+  Last fight: 2024-10-19
+
+Career Statistics:
+- Significant Strikes Landed :323
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :5

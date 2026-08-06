@@ -1,0 +1,13 @@
+Event: UFC Fight Night 2
+    Date: October 03, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS LEBEN defeated EDWIN DEWEES via Submission  
+  at 3:26 of round 1
+  Key stats:
+  - CHRIS LEBEN landed 5 significant strikes
+  - EDWIN DEWEES landed 5 significant strikes
+  - Knockdowns: CHRIS LEBEN 0,  EDWIN DEWEES 0
+  - Takedowns: CHRIS LEBEN 0,  EDWIN DEWEES 1

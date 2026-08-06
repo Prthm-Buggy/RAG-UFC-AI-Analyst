@@ -1,0 +1,11 @@
+Fighter: DAVID VELASQUEZ
+  Date of Birth: 1966-10-19
+  Career record: 1
+  First fight: 2000-03-10
+  Last fight: 2000-03-10
+
+Career Statistics:
+- Significant Strikes Landed :20
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

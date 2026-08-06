@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ankalaev vs. Walker 2
+    Date: January 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated GABRIEL BENITEZ via Submission  
+  at 3:25 of round 3
+  Key stats:
+  - JIM MILLER landed 80 significant strikes
+  - GABRIEL BENITEZ landed 80 significant strikes
+  - Knockdowns: JIM MILLER 0,  GABRIEL BENITEZ 0
+  - Takedowns: JIM MILLER 2,  GABRIEL BENITEZ 0
+  Bonus: perf

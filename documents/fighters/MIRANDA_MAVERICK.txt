@@ -1,0 +1,11 @@
+Fighter: MIRANDA MAVERICK
+  Date of Birth: 1997-07-01
+  Career record: 12
+  First fight: 2020-10-24
+  Last fight: 2025-06-14
+
+Career Statistics:
+- Significant Strikes Landed :514
+- Total takedowns landed :23
+- Knockdowns :0
+- Submission Attempts :4

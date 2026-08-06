@@ -1,0 +1,13 @@
+Event: UFC 212: Aldo vs. Holloway
+    Date: June 03, 2017
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: YANCY MEDEIROS defeated ERICK SILVA via KO/TKO  
+  at 2:01 of round 2
+  Key stats:
+  - YANCY MEDEIROS landed 33 significant strikes
+  - ERICK SILVA landed 29 significant strikes
+  - Knockdowns: YANCY MEDEIROS 1,  ERICK SILVA 0
+  - Takedowns: YANCY MEDEIROS 0,  ERICK SILVA 0

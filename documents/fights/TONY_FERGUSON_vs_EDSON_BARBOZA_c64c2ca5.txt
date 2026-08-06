@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team McGregor vs. Team Faber Finale
+    Date: December 11, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TONY FERGUSON defeated EDSON BARBOZA via Submission  
+  at 2:54 of round 2
+  Key stats:
+  - TONY FERGUSON landed 61 significant strikes
+  - EDSON BARBOZA landed 41 significant strikes
+  - Knockdowns: TONY FERGUSON 0,  EDSON BARBOZA 0
+  - Takedowns: TONY FERGUSON 0,  EDSON BARBOZA 2
+  Bonus: fight

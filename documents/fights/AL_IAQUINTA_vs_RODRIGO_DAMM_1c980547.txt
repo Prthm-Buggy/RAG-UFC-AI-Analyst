@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs Mousasi
+    Date: September 05, 2014
+    Location: Ledyard, Connecticut, USA
+    Weight Class: Lightweight
+    
+
+    Result: AL IAQUINTA defeated RODRIGO DAMM via KO/TKO  
+  at 2:26 of round 3
+  Key stats:
+  - AL IAQUINTA landed 93 significant strikes
+  - RODRIGO DAMM landed 57 significant strikes
+  - Knockdowns: AL IAQUINTA 1,  RODRIGO DAMM 0
+  - Takedowns: AL IAQUINTA 0,  RODRIGO DAMM 0

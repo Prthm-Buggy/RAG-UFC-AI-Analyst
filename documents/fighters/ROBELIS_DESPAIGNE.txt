@@ -1,0 +1,11 @@
+Fighter: ROBELIS DESPAIGNE
+  Date of Birth: 1988-09-09
+  Career record: 3
+  First fight: 2024-03-09
+  Last fight: 2024-10-19
+
+Career Statistics:
+- Significant Strikes Landed :64
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

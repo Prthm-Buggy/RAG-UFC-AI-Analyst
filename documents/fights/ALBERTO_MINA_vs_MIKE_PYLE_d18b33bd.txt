@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Alvarez
+    Date: July 07, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALBERTO MINA defeated MIKE PYLE via KO/TKO  
+  at 1:17 of round 2
+  Key stats:
+  - ALBERTO MINA landed 16 significant strikes
+  - MIKE PYLE landed 2 significant strikes
+  - Knockdowns: ALBERTO MINA 1,  MIKE PYLE 0
+  - Takedowns: ALBERTO MINA 2,  MIKE PYLE 0

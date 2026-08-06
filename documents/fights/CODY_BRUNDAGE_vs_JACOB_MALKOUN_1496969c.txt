@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fiziev vs. Gamrot
+    Date: September 23, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CODY BRUNDAGE defeated JACOB MALKOUN via DQ  
+  at 4:15 of round 1
+  Key stats:
+  - CODY BRUNDAGE landed 2 significant strikes
+  - JACOB MALKOUN landed 28 significant strikes
+  - Knockdowns: CODY BRUNDAGE 0,  JACOB MALKOUN 0
+  - Takedowns: CODY BRUNDAGE 1,  JACOB MALKOUN 1

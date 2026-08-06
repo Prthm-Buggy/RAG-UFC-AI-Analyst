@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Mousasi
+    Date: February 15, 2014
+    Location: Jaragua do Sul, Santa Catarina, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: JOE PROCTOR defeated CRISTIANO MARCELLO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOE PROCTOR landed 67 significant strikes
+  - CRISTIANO MARCELLO landed 26 significant strikes
+  - Knockdowns: JOE PROCTOR 0,  CRISTIANO MARCELLO 0
+  - Takedowns: JOE PROCTOR 0,  CRISTIANO MARCELLO 1

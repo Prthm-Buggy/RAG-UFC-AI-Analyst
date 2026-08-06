@@ -1,0 +1,11 @@
+Fighter: KODY STEELE
+  Date of Birth: 1995-04-21
+  Career record: 2
+  First fight: 2025-02-08
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :60
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs. Askren
+    Date: October 26, 2019
+    Location: Kallang, Singapore
+    Weight Class: Heavyweight
+    
+
+    Result: SERGEI PAVLOVICH defeated MAURICE GREENE via KO/TKO  
+  at 2:11 of round 1
+  Key stats:
+  - SERGEI PAVLOVICH landed 20 significant strikes
+  - MAURICE GREENE landed 8 significant strikes
+  - Knockdowns: SERGEI PAVLOVICH 1,  MAURICE GREENE 0
+  - Takedowns: SERGEI PAVLOVICH 0,  MAURICE GREENE 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs Bisping
+    Date: November 07, 2014
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Middleweight
+    
+
+    Result: DANIEL KELLY defeated LUKE ZACHRICH via Submission  
+  at 4:27 of round 1
+  Key stats:
+  - DANIEL KELLY landed 25 significant strikes
+  - LUKE ZACHRICH landed 23 significant strikes
+  - Knockdowns: DANIEL KELLY 0,  LUKE ZACHRICH 0
+  - Takedowns: DANIEL KELLY 1,  LUKE ZACHRICH 0

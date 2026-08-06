@@ -1,0 +1,14 @@
+Event: UFC 8: David vs Goliath
+    Date: February 16, 1996
+    Location: San Juan, Puerto Rico
+    Weight Class: Open Weight
+    
+
+    Result: KEN SHAMROCK defeated KIMO LEOPOLDO via Submission  
+  at 4:24 of round 1
+  Key stats:
+  - KEN SHAMROCK landed 0 significant strikes
+  - KIMO LEOPOLDO landed 4 significant strikes
+  - Knockdowns: KEN SHAMROCK 0,  KIMO LEOPOLDO 0
+  - Takedowns: KEN SHAMROCK 1,  KIMO LEOPOLDO 0
+  Bonus: belt

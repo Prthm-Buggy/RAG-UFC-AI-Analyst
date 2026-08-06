@@ -1,0 +1,11 @@
+Fighter: MIKE GRUNDY
+  Date of Birth: 1987-01-03
+  Career record: 4
+  First fight: 2019-03-16
+  Last fight: 2022-03-19
+
+Career Statistics:
+- Significant Strikes Landed :85
+- Total takedowns landed :11
+- Knockdowns :1
+- Submission Attempts :1

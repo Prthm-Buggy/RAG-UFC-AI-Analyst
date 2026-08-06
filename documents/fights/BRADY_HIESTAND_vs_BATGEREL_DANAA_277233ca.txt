@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Pavlovich vs. Blaydes
+    Date: April 22, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: BRADY HIESTAND defeated BATGEREL DANAA via KO/TKO  
+  at 4:21 of round 3
+  Key stats:
+  - BRADY HIESTAND landed 45 significant strikes
+  - BATGEREL DANAA landed 41 significant strikes
+  - Knockdowns: BRADY HIESTAND 0,  BATGEREL DANAA 1
+  - Takedowns: BRADY HIESTAND 3,  BATGEREL DANAA 1

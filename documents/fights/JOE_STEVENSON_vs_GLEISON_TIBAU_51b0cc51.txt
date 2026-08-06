@@ -1,0 +1,13 @@
+Event: UFC 86: Jackson vs Griffin
+    Date: July 05, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE STEVENSON defeated GLEISON TIBAU via Submission  
+  at 2:57 of round 2
+  Key stats:
+  - JOE STEVENSON landed 12 significant strikes
+  - GLEISON TIBAU landed 4 significant strikes
+  - Knockdowns: JOE STEVENSON 1,  GLEISON TIBAU 0
+  - Takedowns: JOE STEVENSON 1,  GLEISON TIBAU 5

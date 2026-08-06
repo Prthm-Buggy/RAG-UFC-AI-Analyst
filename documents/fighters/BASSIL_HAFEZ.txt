@@ -1,0 +1,11 @@
+Fighter: BASSIL HAFEZ
+  Date of Birth: 1992-01-31
+  Career record: 3
+  First fight: 2023-07-15
+  Last fight: 2024-11-16
+
+Career Statistics:
+- Significant Strikes Landed :151
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Swick vs Burkman
+    Date : January 23, 2008
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Welterweight, Middleweight
+
+    Fight Results:
+  - NATE DIAZ def. ALVIN ROBINSON via Submission(R1)
+- JEREMY STEPHENS def. COLE MILLER via KO/TKO(R2)
+- MATT WIMAN def. JUSTIN BUCHHOLZ via Submission(R1)
+- PATRICK COTE def. DREW MCFEDRIES via KO/TKO(R1)
+- GRAY MAYNARD def. DENNIS SIVER via Decision - Unanimous(R3)
+- THIAGO TAVARES def. MICHIHIRO OMIGAWA via Decision - Unanimous(R3)
+- MIKE SWICK def. JOSHUA BURKMAN via Decision - Majority(R3)
+- KURT PELLEGRINO def. ALBERTO CRANE via KO/TKO(R2)
+- COREY HILL def. JOE VERES via KO/TKO(R2)

@@ -1,0 +1,14 @@
+Event: UFC on FOX: Werdum vs Browne
+    Date: April 19, 2014
+    Location: Orlando, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: THIAGO ALVES defeated SETH BACZYNSKI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - THIAGO ALVES landed 116 significant strikes
+  - SETH BACZYNSKI landed 90 significant strikes
+  - Knockdowns: THIAGO ALVES 0,  SETH BACZYNSKI 0
+  - Takedowns: THIAGO ALVES 0,  SETH BACZYNSKI 0
+  Bonus: fight

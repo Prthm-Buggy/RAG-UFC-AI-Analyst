@@ -1,0 +1,11 @@
+Fighter: KING GREEN
+  Date of Birth: 1986-09-09
+  Career record: 28
+  First fight: 2013-02-02
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :1965
+- Total takedowns landed :26
+- Knockdowns :6
+- Submission Attempts :5

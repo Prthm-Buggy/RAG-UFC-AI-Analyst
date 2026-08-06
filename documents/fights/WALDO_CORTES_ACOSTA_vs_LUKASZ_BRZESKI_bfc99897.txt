@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. The Korean Zombie
+    Date: August 26, 2023
+    Location: Kallang, Singapore
+    Weight Class: Heavyweight
+    
+
+    Result: WALDO CORTES ACOSTA defeated LUKASZ BRZESKI via KO/TKO  
+  at 3:01 of round 1
+  Key stats:
+  - WALDO CORTES ACOSTA landed 15 significant strikes
+  - LUKASZ BRZESKI landed 14 significant strikes
+  - Knockdowns: WALDO CORTES ACOSTA 1,  LUKASZ BRZESKI 0
+  - Takedowns: WALDO CORTES ACOSTA 0,  LUKASZ BRZESKI 0

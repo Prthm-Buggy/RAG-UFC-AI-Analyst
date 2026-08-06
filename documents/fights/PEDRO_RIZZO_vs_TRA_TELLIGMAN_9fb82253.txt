@@ -1,0 +1,13 @@
+Event: UFC 43: Meltdown
+    Date: June 06, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PEDRO RIZZO defeated TRA TELLIGMAN via TKO - Doctor's Stoppage  
+  at 4:24 of round 2
+  Key stats:
+  - PEDRO RIZZO landed 40 significant strikes
+  - TRA TELLIGMAN landed 34 significant strikes
+  - Knockdowns: PEDRO RIZZO 0,  TRA TELLIGMAN 1
+  - Takedowns: PEDRO RIZZO 1,  TRA TELLIGMAN 0

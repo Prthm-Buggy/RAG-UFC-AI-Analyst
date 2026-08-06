@@ -1,0 +1,11 @@
+Fighter: RYAN MACDONALD
+  Date of Birth: 1993-03-18
+  Career record: 2
+  First fight: 2019-03-23
+  Last fight: 2019-09-14
+
+Career Statistics:
+- Significant Strikes Landed :45
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

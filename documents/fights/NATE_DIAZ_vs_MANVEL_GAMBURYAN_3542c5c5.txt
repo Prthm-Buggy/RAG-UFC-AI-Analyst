@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Pulver vs. Team Penn Finale
+    Date: June 23, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NATE DIAZ defeated MANVEL GAMBURYAN via Submission  
+  at 0:20 of round 2
+  Key stats:
+  - NATE DIAZ landed 2 significant strikes
+  - MANVEL GAMBURYAN landed 16 significant strikes
+  - Knockdowns: NATE DIAZ 0,  MANVEL GAMBURYAN 0
+  - Takedowns: NATE DIAZ 0,  MANVEL GAMBURYAN 1
+  Bonus: belt

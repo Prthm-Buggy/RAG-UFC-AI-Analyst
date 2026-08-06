@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rockhold vs. Branch
+    Date: September 16, 2017
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Middleweight
+    
+
+    Result: URIAH HALL defeated KRZYSZTOF JOTKO via KO/TKO  
+  at 2:25 of round 2
+  Key stats:
+  - URIAH HALL landed 26 significant strikes
+  - KRZYSZTOF JOTKO landed 44 significant strikes
+  - Knockdowns: URIAH HALL 1,  KRZYSZTOF JOTKO 1
+  - Takedowns: URIAH HALL 0,  KRZYSZTOF JOTKO 1
+  Bonus: perf

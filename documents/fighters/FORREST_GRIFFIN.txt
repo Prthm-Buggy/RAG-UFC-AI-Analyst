@@ -1,0 +1,11 @@
+Fighter: FORREST GRIFFIN
+  Date of Birth: 1979-03-16
+  Career record: 15
+  First fight: 2005-04-09
+  Last fight: 2012-07-07
+
+Career Statistics:
+- Significant Strikes Landed :796
+- Total takedowns landed :10
+- Knockdowns :1
+- Submission Attempts :8

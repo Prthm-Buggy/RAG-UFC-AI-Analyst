@@ -1,0 +1,11 @@
+Fighter: MARLON VERA
+  Date of Birth: 1992-12-02
+  Career record: 26
+  First fight: 2014-11-15
+  Last fight: 2026-02-28
+
+Career Statistics:
+- Significant Strikes Landed :1480
+- Total takedowns landed :11
+- Knockdowns :13
+- Submission Attempts :18

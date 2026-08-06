@@ -1,0 +1,14 @@
+Event: UFC 296: Edwards vs. Covington
+    Date: December 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: LEON EDWARDS defeated COLBY COVINGTON via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - LEON EDWARDS landed 57 significant strikes
+  - COLBY COVINGTON landed 44 significant strikes
+  - Knockdowns: LEON EDWARDS 0,  COLBY COVINGTON 0
+  - Takedowns: LEON EDWARDS 2,  COLBY COVINGTON 2
+  Bonus: belt

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Felder vs. Hooker
+    Date: February 22, 2020
+    Location: Auckland, New Zealand
+    Weight Class: Women's Flyweight
+    
+
+    Result: PRISCILA CACHOEIRA defeated SHANA DOBSON via KO/TKO  
+  at 0:40 of round 1
+  Key stats:
+  - PRISCILA CACHOEIRA landed 8 significant strikes
+  - SHANA DOBSON landed 5 significant strikes
+  - Knockdowns: PRISCILA CACHOEIRA 1,  SHANA DOBSON 0
+  - Takedowns: PRISCILA CACHOEIRA 0,  SHANA DOBSON 0
+  Bonus: perf

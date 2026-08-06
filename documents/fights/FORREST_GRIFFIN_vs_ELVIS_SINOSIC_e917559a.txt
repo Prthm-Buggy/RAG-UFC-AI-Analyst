@@ -1,0 +1,13 @@
+Event: UFC 55: Fury
+    Date: October 07, 2005
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: FORREST GRIFFIN defeated ELVIS SINOSIC via KO/TKO  
+  at 3:30 of round 1
+  Key stats:
+  - FORREST GRIFFIN landed 30 significant strikes
+  - ELVIS SINOSIC landed 18 significant strikes
+  - Knockdowns: FORREST GRIFFIN 1,  ELVIS SINOSIC 0
+  - Takedowns: FORREST GRIFFIN 0,  ELVIS SINOSIC 0

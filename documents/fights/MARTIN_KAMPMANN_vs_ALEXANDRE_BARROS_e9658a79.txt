@@ -1,0 +1,13 @@
+Event: UFC 93: Franklin vs Henderson
+    Date: January 17, 2009
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Welterweight
+    
+
+    Result: MARTIN KAMPMANN defeated ALEXANDRE BARROS via KO/TKO  
+  at 3:09 of round 2
+  Key stats:
+  - MARTIN KAMPMANN landed 33 significant strikes
+  - ALEXANDRE BARROS landed 8 significant strikes
+  - Knockdowns: MARTIN KAMPMANN 1,  ALEXANDRE BARROS 0
+  - Takedowns: MARTIN KAMPMANN 0,  ALEXANDRE BARROS 1

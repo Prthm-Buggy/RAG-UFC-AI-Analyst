@@ -1,0 +1,11 @@
+Fighter: SHUNICHI SHIMIZU
+  Date of Birth: 1985-01-31
+  Career record: 1
+  First fight: 2014-01-04
+  Last fight: 2014-01-04
+
+Career Statistics:
+- Significant Strikes Landed :2
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

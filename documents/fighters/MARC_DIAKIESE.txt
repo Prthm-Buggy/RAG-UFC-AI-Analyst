@@ -1,0 +1,11 @@
+Fighter: MARC DIAKIESE
+  Date of Birth: 1993-03-16
+  Career record: 15
+  First fight: 2016-10-08
+  Last fight: 2023-11-04
+
+Career Statistics:
+- Significant Strikes Landed :463
+- Total takedowns landed :40
+- Knockdowns :2
+- Submission Attempts :0

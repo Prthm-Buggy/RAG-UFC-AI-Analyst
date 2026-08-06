@@ -1,0 +1,11 @@
+Fighter: ALAN BELCHER
+  Date of Birth: 1984-04-24
+  Career record: 15
+  First fight: 2006-08-26
+  Last fight: 2013-04-27
+
+Career Statistics:
+- Significant Strikes Landed :372
+- Total takedowns landed :4
+- Knockdowns :3
+- Submission Attempts :8

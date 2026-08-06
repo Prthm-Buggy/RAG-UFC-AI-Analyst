@@ -1,0 +1,13 @@
+Event: UFC 179: Aldo vs Mendes 2
+    Date: October 25, 2014
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: PHIL DAVIS defeated GLOVER TEIXEIRA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PHIL DAVIS landed 49 significant strikes
+  - GLOVER TEIXEIRA landed 9 significant strikes
+  - Knockdowns: PHIL DAVIS 0,  GLOVER TEIXEIRA 0
+  - Takedowns: PHIL DAVIS 9,  GLOVER TEIXEIRA 0

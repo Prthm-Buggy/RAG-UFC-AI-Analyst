@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Covington vs. Lawler
+    Date : August 03, 2019
+    Location: Newark, New Jersey, USA
+    Number of Fights: 12
+    Weight Classes: Welterweight, Lightweight, Light Heavyweight, Middleweight, Flyweight, Women's Flyweight
+
+    Fight Results:
+  - NASRAT HAQPARAST def. JOAQUIM SILVA via KO/TKO(R2)
+- KENNEDY NZECHUKWU def. DARKO STOSIC via Decision - Unanimous(R3)
+- LAUREN MURPHY def. MARA ROMERO BORELLA via KO/TKO(R3)
+- MICKEY GALL def. SALIM TOUAHRI via Decision - Unanimous(R3)
+- CLAUDIO SILVA def. COLE WILLIAMS via Submission(R1)
+- GERALD MEERSCHAERT def. TREVIN GILES via Submission(R3)
+- MATT SCHNELL def. JORDAN ESPINOSA via Submission(R1)
+- SCOTT HOLTZMAN def. DONG HYUN MA via TKO - Doctor's Stoppage(R2)
+- JIM MILLER def. CLAY GUIDA via Submission(R1)
+- ANTONINA SHEVCHENKO def. LUCIE PUDILOVA via Submission(R2)
+- COLBY COVINGTON def. ROBBIE LAWLER via Decision - Unanimous(R5)
+- MIRANDA GRANGER def. HANNAH GOLDY via Decision - Unanimous(R3)

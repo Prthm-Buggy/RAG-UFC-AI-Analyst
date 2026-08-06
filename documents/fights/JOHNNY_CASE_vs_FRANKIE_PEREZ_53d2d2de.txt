@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McGregor vs Siver
+    Date: January 18, 2015
+    Location: Boston, Massachusetts, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOHNNY CASE defeated FRANKIE PEREZ via KO/TKO  
+  at 1:54 of round 3
+  Key stats:
+  - JOHNNY CASE landed 59 significant strikes
+  - FRANKIE PEREZ landed 16 significant strikes
+  - Knockdowns: JOHNNY CASE 0,  FRANKIE PEREZ 0
+  - Takedowns: JOHNNY CASE 4,  FRANKIE PEREZ 1

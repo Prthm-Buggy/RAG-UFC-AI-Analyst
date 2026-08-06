@@ -1,0 +1,11 @@
+Fighter: CLAY HARVISON
+  Date of Birth: 1980-09-25
+  Career record: 3
+  First fight: 2011-06-04
+  Last fight: 2011-11-12
+
+Career Statistics:
+- Significant Strikes Landed :75
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :2

@@ -1,0 +1,17 @@
+Event : The Ultimate Fighter: Heavyweights Finale
+    Date : December 05, 2009
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Welterweight, Lightweight, Light Heavyweight, Catch Weight
+
+    Fight Results:
+  - MATT HAMILL def. JON JONES via DQ(R1)
+- FRANKIE EDGAR def. MATT VEACH via Submission(R2)
+- JOHN HOWARD def. DENNIS HALLMAN via KO/TKO(R3)
+- ROY NELSON def. BRENDAN SCHAUB via KO/TKO(R1)
+- BRIAN STANN def. RODNEY WALLACE via Decision - Unanimous(R3)
+- KEVIN FERGUSON def. HOUSTON ALEXANDER via Decision - Unanimous(R3)
+- MARK BOCEK def. JOE BRAMMER via Submission(R1)
+- JAMES MCSWEENEY def. DARRILL SCHOONOVER via KO/TKO(R3)
+- MATT MITRIONE def. MARCUS JONES via KO/TKO(R2)
+- JON MADSEN def. JUSTIN WREN via Decision - Split(R3)

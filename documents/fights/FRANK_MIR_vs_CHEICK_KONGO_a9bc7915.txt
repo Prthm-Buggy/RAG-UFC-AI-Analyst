@@ -1,0 +1,13 @@
+Event: UFC 107: Penn vs Sanchez
+    Date: December 12, 2009
+    Location: Memphis, Tennessee, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANK MIR defeated CHEICK KONGO via Submission  
+  at 1:12 of round 1
+  Key stats:
+  - FRANK MIR landed 2 significant strikes
+  - CHEICK KONGO landed 0 significant strikes
+  - Knockdowns: FRANK MIR 1,  CHEICK KONGO 0
+  - Takedowns: FRANK MIR 0,  CHEICK KONGO 0

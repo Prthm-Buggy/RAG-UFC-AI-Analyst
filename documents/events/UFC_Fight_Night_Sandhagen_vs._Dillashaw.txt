@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Sandhagen vs. Dillashaw
+    Date : July 24, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Women's Strawweight, Welterweight, Featherweight, Middleweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - NASSOURDINE IMAVOV def. IAN HEINISCH via KO/TKO(R2)
+- BRENDAN ALLEN def. PUNAHELE SORIANO via Decision - Unanimous(R3)
+- ADRIAN YANEZ def. RANDY COSTA via KO/TKO(R2)
+- DARREN ELKINS def. DARRICK MINNER via KO/TKO(R2)
+- MAYCEE BARBER def. MIRANDA MAVERICK via Decision - Split(R3)
+- RAULIAN PAIVA def. KYLER PHILLIPS via Decision - Majority(R3)
+- MICKEY GALL def. JORDAN WILLIAMS via Submission(R1)
+- TJ DILLASHAW def. CORY SANDHAGEN via Decision - Split(R5)
+- JULIO ARCE def. ANDRE EWELL via KO/TKO(R2)
+- SIJARA EUBANKS def. ELISE REED via KO/TKO(R1)
+- DIANA BELBITA def. HANNAH GOLDY via Decision - Unanimous(R3)

@@ -1,0 +1,13 @@
+Event: UFC 184: Rousey vs Zingano
+    Date: February 28, 2015
+    Location: Los Angeles, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROAN CARNEIRO defeated MARK MUNOZ via Submission  
+  at 1:40 of round 1
+  Key stats:
+  - ROAN CARNEIRO landed 1 significant strikes
+  - MARK MUNOZ landed 0 significant strikes
+  - Knockdowns: ROAN CARNEIRO 0,  MARK MUNOZ 0
+  - Takedowns: ROAN CARNEIRO 0,  MARK MUNOZ 0

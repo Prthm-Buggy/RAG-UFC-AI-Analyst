@@ -1,0 +1,11 @@
+Fighter: JESSE BONGFELDT
+  Date of Birth: 1980-08-28
+  Career record: 1
+  First fight: 2011-06-11
+  Last fight: 2011-06-11
+
+Career Statistics:
+- Significant Strikes Landed :5
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: JIMMY FLICK
+  Date of Birth: 1990-09-07
+  Career record: 6
+  First fight: 2020-12-19
+  Last fight: 2025-04-26
+
+Career Statistics:
+- Significant Strikes Landed :79
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :8

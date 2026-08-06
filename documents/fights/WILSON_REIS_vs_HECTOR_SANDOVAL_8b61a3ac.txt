@@ -1,0 +1,13 @@
+Event: UFC 201: Lawler vs. Woodley
+    Date: July 30, 2016
+    Location: Atlanta, Georgia, USA
+    Weight Class: Flyweight
+    
+
+    Result: WILSON REIS defeated HECTOR SANDOVAL via Submission  
+  at 1:49 of round 1
+  Key stats:
+  - WILSON REIS landed 4 significant strikes
+  - HECTOR SANDOVAL landed 5 significant strikes
+  - Knockdowns: WILSON REIS 0,  HECTOR SANDOVAL 0
+  - Takedowns: WILSON REIS 3,  HECTOR SANDOVAL 0

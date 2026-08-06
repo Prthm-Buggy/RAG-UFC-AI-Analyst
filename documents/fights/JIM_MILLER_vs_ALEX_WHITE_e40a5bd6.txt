@@ -1,0 +1,13 @@
+Event: UFC 228: Woodley vs. Till
+    Date: September 08, 2018
+    Location: Dallas, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated ALEX WHITE via Submission  
+  at 1:29 of round 1
+  Key stats:
+  - JIM MILLER landed 15 significant strikes
+  - ALEX WHITE landed 5 significant strikes
+  - Knockdowns: JIM MILLER 0,  ALEX WHITE 0
+  - Takedowns: JIM MILLER 1,  ALEX WHITE 0

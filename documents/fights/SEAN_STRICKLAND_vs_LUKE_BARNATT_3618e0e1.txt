@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Munoz vs Mousasi
+    Date: May 31, 2014
+    Location: Berlin, Germany
+    Weight Class: Middleweight
+    
+
+    Result: SEAN STRICKLAND defeated LUKE BARNATT via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - SEAN STRICKLAND landed 48 significant strikes
+  - LUKE BARNATT landed 44 significant strikes
+  - Knockdowns: SEAN STRICKLAND 0,  LUKE BARNATT 0
+  - Takedowns: SEAN STRICKLAND 1,  LUKE BARNATT 0

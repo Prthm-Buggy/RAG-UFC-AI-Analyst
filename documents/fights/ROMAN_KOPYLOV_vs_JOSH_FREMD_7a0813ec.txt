@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Grasso vs. Shevchenko 2
+    Date: September 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROMAN KOPYLOV defeated JOSH FREMD via KO/TKO  
+  at 4:44 of round 2
+  Key stats:
+  - ROMAN KOPYLOV landed 49 significant strikes
+  - JOSH FREMD landed 38 significant strikes
+  - Knockdowns: ROMAN KOPYLOV 1,  JOSH FREMD 0
+  - Takedowns: ROMAN KOPYLOV 0,  JOSH FREMD 0
+  Bonus: perf

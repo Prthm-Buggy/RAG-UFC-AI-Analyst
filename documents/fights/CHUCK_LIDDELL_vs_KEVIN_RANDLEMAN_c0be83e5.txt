@@ -1,0 +1,13 @@
+Event: UFC 31: Locked and Loaded
+    Date: May 04, 2001
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CHUCK LIDDELL defeated KEVIN RANDLEMAN via KO/TKO  
+  at 1:18 of round 1
+  Key stats:
+  - CHUCK LIDDELL landed 3 significant strikes
+  - KEVIN RANDLEMAN landed 0 significant strikes
+  - Knockdowns: CHUCK LIDDELL 1,  KEVIN RANDLEMAN 0
+  - Takedowns: CHUCK LIDDELL 0,  KEVIN RANDLEMAN 0

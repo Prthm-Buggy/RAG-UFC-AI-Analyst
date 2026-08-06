@@ -1,0 +1,11 @@
+Fighter: TYSON NAM
+  Date of Birth: 1983-10-06
+  Career record: 8
+  First fight: 2019-09-21
+  Last fight: 2023-07-15
+
+Career Statistics:
+- Significant Strikes Landed :292
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :0

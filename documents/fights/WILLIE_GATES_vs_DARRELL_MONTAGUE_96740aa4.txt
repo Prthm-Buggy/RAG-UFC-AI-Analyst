@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: American Top Team vs. Blackzilians Finale
+    Date: July 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: WILLIE GATES defeated DARRELL MONTAGUE via KO/TKO  
+  at 1:36 of round 1
+  Key stats:
+  - WILLIE GATES landed 19 significant strikes
+  - DARRELL MONTAGUE landed 4 significant strikes
+  - Knockdowns: WILLIE GATES 1,  DARRELL MONTAGUE 0
+  - Takedowns: WILLIE GATES 0,  DARRELL MONTAGUE 0

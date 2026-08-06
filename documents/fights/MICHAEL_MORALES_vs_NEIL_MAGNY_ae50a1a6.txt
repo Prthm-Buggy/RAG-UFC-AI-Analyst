@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Borralho
+    Date: August 24, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICHAEL MORALES defeated NEIL MAGNY via KO/TKO  
+  at 4:39 of round 1
+  Key stats:
+  - MICHAEL MORALES landed 34 significant strikes
+  - NEIL MAGNY landed 5 significant strikes
+  - Knockdowns: MICHAEL MORALES 1,  NEIL MAGNY 0
+  - Takedowns: MICHAEL MORALES 0,  NEIL MAGNY 0
+  Bonus: perf

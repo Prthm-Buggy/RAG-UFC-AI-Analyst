@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Barao vs McDonald
+    Date: February 16, 2013
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAMES TE HUNA defeated RYAN JIMMO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JAMES TE HUNA landed 49 significant strikes
+  - RYAN JIMMO landed 34 significant strikes
+  - Knockdowns: JAMES TE HUNA 0,  RYAN JIMMO 1
+  - Takedowns: JAMES TE HUNA 2,  RYAN JIMMO 0

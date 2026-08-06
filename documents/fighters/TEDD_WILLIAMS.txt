@@ -1,0 +1,11 @@
+Fighter: TEDD WILLIAMS
+  Date of Birth: 1969-12-19
+  Career record: 2
+  First fight: 2000-03-10
+  Last fight: 2000-09-22
+
+Career Statistics:
+- Significant Strikes Landed :34
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

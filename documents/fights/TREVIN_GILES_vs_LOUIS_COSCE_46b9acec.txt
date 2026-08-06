@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Song
+    Date: September 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: TREVIN GILES defeated LOUIS COSCE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TREVIN GILES landed 25 significant strikes
+  - LOUIS COSCE landed 10 significant strikes
+  - Knockdowns: TREVIN GILES 0,  LOUIS COSCE 0
+  - Takedowns: TREVIN GILES 2,  LOUIS COSCE 1

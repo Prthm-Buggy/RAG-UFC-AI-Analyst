@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dillashaw vs. Barao II
+    Date: July 25, 2015
+    Location: Chicago, Illinois, USA
+    Weight Class: Middleweight
+    
+
+    Result: ZAK CUMMINGS defeated DOMINIQUE STEELE via KO/TKO  
+  at 0:43 of round 1
+  Key stats:
+  - ZAK CUMMINGS landed 14 significant strikes
+  - DOMINIQUE STEELE landed 2 significant strikes
+  - Knockdowns: ZAK CUMMINGS 1,  DOMINIQUE STEELE 0
+  - Takedowns: ZAK CUMMINGS 0,  DOMINIQUE STEELE 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barboza vs. Chikadze
+    Date: August 28, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ABDUL RAZAK ALHASSAN defeated ALESSIO DI CHIRICO via KO/TKO  
+  at 0:17 of round 1
+  Key stats:
+  - ABDUL RAZAK ALHASSAN landed 1 significant strikes
+  - ALESSIO DI CHIRICO landed 1 significant strikes
+  - Knockdowns: ABDUL RAZAK ALHASSAN 1,  ALESSIO DI CHIRICO 0
+  - Takedowns: ABDUL RAZAK ALHASSAN 0,  ALESSIO DI CHIRICO 0
+  Bonus: perf

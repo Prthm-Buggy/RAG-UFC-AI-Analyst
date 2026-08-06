@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dolidze vs. Imavov
+    Date: February 03, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAMAL POGUES defeated THOMAS PETERSEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JAMAL POGUES landed 65 significant strikes
+  - THOMAS PETERSEN landed 58 significant strikes
+  - Knockdowns: JAMAL POGUES 0,  THOMAS PETERSEN 0
+  - Takedowns: JAMAL POGUES 0,  THOMAS PETERSEN 1

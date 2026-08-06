@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Chikadze
+    Date: August 28, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: WELLINGTON TURMAN defeated SAM ALVEY via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - WELLINGTON TURMAN landed 69 significant strikes
+  - SAM ALVEY landed 68 significant strikes
+  - Knockdowns: WELLINGTON TURMAN 0,  SAM ALVEY 0
+  - Takedowns: WELLINGTON TURMAN 2,  SAM ALVEY 0

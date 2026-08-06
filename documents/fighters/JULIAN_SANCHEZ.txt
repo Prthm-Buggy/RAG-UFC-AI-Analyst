@@ -1,0 +1,11 @@
+Fighter: JULIAN SANCHEZ
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 1996-09-20
+  Last fight: 1996-09-20
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

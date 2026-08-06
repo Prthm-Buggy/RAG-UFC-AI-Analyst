@@ -1,0 +1,19 @@
+Event : UFC on FOX: Dillashaw vs. Barao II
+    Date : July 25, 2015
+    Location: Chicago, Illinois, USA
+    Number of Fights: 12
+    Weight Classes: Women's Bantamweight, Lightweight, Middleweight, Light Heavyweight, Welterweight, Bantamweight
+
+    Fight Results:
+  - ANDREW HOLBROOK def. RAMSEY NIJEM via Decision - Split(R3)
+- JIM MILLER def. DANNY CASTILLO via Decision - Split(R3)
+- ZAK CUMMINGS def. DOMINIQUE STEELE via KO/TKO(R1)
+- EDSON BARBOZA def. PAUL FELDER via Decision - Unanimous(R3)
+- BEN SAUNDERS def. KENNY ROBERTSON via Decision - Split(R3)
+- ELIZABETH PHILLIPS def. JESSAMYN DUKE via Decision - Unanimous(R3)
+- TJ DILLASHAW def. RENAN BARAO via KO/TKO(R4)
+- JOE LAUZON def. TAKANORI GOMI via KO/TKO(R1)
+- JAMES KRAUSE def. DARON CRUICKSHANK via Submission(R1)
+- MIESHA TATE def. JESSICA EYE via Decision - Unanimous(R3)
+- BRYAN CARAWAY def. EDDIE WINELAND via Decision - Unanimous(R3)
+- TOM LAWLOR def. GIAN VILLANTE via KO/TKO(R2)

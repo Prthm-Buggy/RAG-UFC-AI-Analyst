@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Vera vs. Sandhagen
+    Date : March 25, 2023
+    Location: San Antonio, Texas, USA
+    Number of Fights: 10
+    Weight Classes: Featherweight, Welterweight, Flyweight, Women's Bantamweight, Middleweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - LUCAS ALEXANDER def. STEVEN PETERSON via Decision - Unanimous(R3)
+- MAYCEE BARBER def. ANDREA LEE via Decision - Split(R3)
+- NATE LANDWEHR def. AUSTIN LINGO via Submission(R2)
+- CJ VERGARA def. DANIEL LACERDA via KO/TKO(R2)
+- DANIEL PINEDA def. TUCKER LUTZ via Submission(R2)
+- ALBERT DURAEV def. CHIDI NJOKUANI via Decision - Split(R3)
+- TREVIN GILES def. PRESTON PARSONS via Decision - Split(R3)
+- CORY SANDHAGEN def. MARLON VERA via Decision - Split(R5)
+- HOLLY HOLM def. YANA SANTOS via Decision - Unanimous(R3)
+- VICTOR ALTAMIRANO def. VINICIUS SALVADOR via Decision - Unanimous(R3)

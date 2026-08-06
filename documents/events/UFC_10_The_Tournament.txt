@@ -1,0 +1,15 @@
+Event : UFC 10: The Tournament
+    Date : July 12, 1996
+    Location: Birmingham, Alabama, USA
+    Number of Fights: 8
+    Weight Classes: Open Weight
+
+    Fight Results:
+  - DON FRYE def. MARK HALL via KO/TKO(R1)
+- MARK COLEMAN def. DON FRYE via KO/TKO(R1)
+- DON FRYE def. BRIAN JOHNSTON via KO/TKO(R1)
+- BRIAN JOHNSTON def. SCOTT FIEDLER via KO/TKO(R1)
+- GARY GOODRIDGE def. JOHN CAMPETELLA via KO/TKO(R1)
+- MARK COLEMAN def. MOTI HORENSTEIN via KO/TKO(R1)
+- GEZA KALMAN def. DIEUSEL BERTO via KO/TKO(R1)
+- MARK COLEMAN def. GARY GOODRIDGE via Submission(R1)

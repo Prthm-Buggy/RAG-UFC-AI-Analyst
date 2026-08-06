@@ -1,0 +1,13 @@
+Event: UFC 156: Aldo vs Edgar
+    Date: February 02, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: FRANCISCO RIVERA defeated EDWIN FIGUEROA via KO/TKO  
+  at 4:20 of round 2
+  Key stats:
+  - FRANCISCO RIVERA landed 51 significant strikes
+  - EDWIN FIGUEROA landed 24 significant strikes
+  - Knockdowns: FRANCISCO RIVERA 1,  EDWIN FIGUEROA 1
+  - Takedowns: FRANCISCO RIVERA 2,  EDWIN FIGUEROA 1

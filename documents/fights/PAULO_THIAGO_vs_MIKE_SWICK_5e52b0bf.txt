@@ -1,0 +1,14 @@
+Event: UFC 109: Relentless
+    Date: February 06, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: PAULO THIAGO defeated MIKE SWICK via Submission  
+  at 1:54 of round 2
+  Key stats:
+  - PAULO THIAGO landed 9 significant strikes
+  - MIKE SWICK landed 7 significant strikes
+  - Knockdowns: PAULO THIAGO 1,  MIKE SWICK 0
+  - Takedowns: PAULO THIAGO 0,  MIKE SWICK 1
+  Bonus: sub

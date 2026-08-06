@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Poirier vs. Pettis
+    Date: November 11, 2017
+    Location: Norfolk, Virginia, USA
+    Weight Class: Lightweight
+    
+
+    Result: DUSTIN POIRIER defeated ANTHONY PETTIS via KO/TKO  
+  at 2:08 of round 3
+  Key stats:
+  - DUSTIN POIRIER landed 53 significant strikes
+  - ANTHONY PETTIS landed 34 significant strikes
+  - Knockdowns: DUSTIN POIRIER 0,  ANTHONY PETTIS 0
+  - Takedowns: DUSTIN POIRIER 5,  ANTHONY PETTIS 1
+  Bonus: fight

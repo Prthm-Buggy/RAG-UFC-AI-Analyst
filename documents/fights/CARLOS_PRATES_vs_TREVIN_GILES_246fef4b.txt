@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hermansson vs. Pyfer
+    Date: February 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS PRATES defeated TREVIN GILES via KO/TKO  
+  at 4:03 of round 2
+  Key stats:
+  - CARLOS PRATES landed 37 significant strikes
+  - TREVIN GILES landed 68 significant strikes
+  - Knockdowns: CARLOS PRATES 1,  TREVIN GILES 0
+  - Takedowns: CARLOS PRATES 0,  TREVIN GILES 0
+  Bonus: perf

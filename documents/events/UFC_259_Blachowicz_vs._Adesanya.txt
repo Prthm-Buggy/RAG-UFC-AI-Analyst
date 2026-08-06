@@ -1,0 +1,22 @@
+Event : UFC 259: Blachowicz vs. Adesanya
+    Date : March 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 15
+    Weight Classes: Bantamweight, Lightweight, Flyweight, Women's Strawweight, Light Heavyweight, Welterweight, Women's Featherweight
+
+    Fight Results:
+  - ISLAM MAKHACHEV def. DREW DOBER via Submission(R3)
+- KYLER PHILLIPS def. SONG YADONG via Decision - Unanimous(R3)
+- TIM ELLIOTT def. JORDAN ESPINOSA via Decision - Unanimous(R3)
+- UROS MEDIC def. AALON CRUZ via KO/TKO(R1)
+- KENNEDY NZECHUKWU def. CARLOS ULBERG via KO/TKO(R2)
+- ALJAMAIN STERLING def. PETR YAN via DQ(R4)
+- AMANDA LEMOS def. LIVINHA SOUZA via KO/TKO(R1)
+- KAI KARA-FRANCE def. ROGERIO BONTORIN via KO/TKO(R1)
+- AMANDA NUNES def. MEGAN ANDERSON via Submission(R1)
+- TREVIN JONES def. MARIO BAUTISTA via KO/TKO(R2)
+- DOMINICK CRUZ def. CASEY KENNEY via Decision - Split(R3)
+- SEAN BRADY def. JAKE MATTHEWS via Submission(R3)
+- JAN BLACHOWICZ def. ISRAEL ADESANYA via Decision - Unanimous(R5)
+- ASKAR ASKAROV def. JOSEPH BENAVIDEZ via Decision - Unanimous(R3)
+- ALEKSANDAR RAKIC def. THIAGO SANTOS via Decision - Unanimous(R3)

@@ -1,0 +1,11 @@
+Fighter: JERMAINE ANDRE
+  Date of Birth: 1973-07-16
+  Career record: 1
+  First fight: 2000-03-10
+  Last fight: 2000-03-10
+
+Career Statistics:
+- Significant Strikes Landed :27
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

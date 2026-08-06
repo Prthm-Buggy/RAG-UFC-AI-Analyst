@@ -1,0 +1,11 @@
+Fighter: DANNY SILVA
+  Date of Birth: 1997-01-30
+  Career record: 4
+  First fight: 2024-03-16
+  Last fight: 2026-03-21
+
+Career Statistics:
+- Significant Strikes Landed :212
+- Total takedowns landed :7
+- Knockdowns :2
+- Submission Attempts :1

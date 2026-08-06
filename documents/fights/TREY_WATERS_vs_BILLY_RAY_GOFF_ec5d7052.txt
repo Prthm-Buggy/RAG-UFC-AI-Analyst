@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Nascimento
+    Date: May 11, 2024
+    Location: St. Louis, Missouri, USA
+    Weight Class: Welterweight
+    
+
+    Result: TREY WATERS defeated BILLY RAY GOFF via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TREY WATERS landed 96 significant strikes
+  - BILLY RAY GOFF landed 116 significant strikes
+  - Knockdowns: TREY WATERS 0,  BILLY RAY GOFF 0
+  - Takedowns: TREY WATERS 0,  BILLY RAY GOFF 1
+  Bonus: fight

@@ -1,0 +1,11 @@
+Fighter: JAKE O'BRIEN
+  Date of Birth: 1984-09-25
+  Career record: 7
+  First fight: 2006-08-17
+  Last fight: 2009-07-11
+
+Career Statistics:
+- Significant Strikes Landed :92
+- Total takedowns landed :30
+- Knockdowns :1
+- Submission Attempts :1

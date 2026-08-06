@@ -1,0 +1,11 @@
+Fighter: IVAN SALAVERRY
+  Date of Birth: 1971-01-11
+  Career record: 7
+  First fight: 2002-05-10
+  Last fight: 2008-05-24
+
+Career Statistics:
+- Significant Strikes Landed :115
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :10

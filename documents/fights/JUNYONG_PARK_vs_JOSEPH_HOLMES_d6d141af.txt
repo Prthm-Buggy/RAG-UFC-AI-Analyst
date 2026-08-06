@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kattar vs. Allen
+    Date: October 29, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JUNYONG PARK defeated JOSEPH HOLMES via Submission  
+  at 3:04 of round 2
+  Key stats:
+  - JUNYONG PARK landed 18 significant strikes
+  - JOSEPH HOLMES landed 20 significant strikes
+  - Knockdowns: JUNYONG PARK 0,  JOSEPH HOLMES 0
+  - Takedowns: JUNYONG PARK 2,  JOSEPH HOLMES 0

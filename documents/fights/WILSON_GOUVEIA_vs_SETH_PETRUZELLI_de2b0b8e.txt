@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Stevenson vs Guillard
+    Date: April 05, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: WILSON GOUVEIA defeated SETH PETRUZELLI via Submission  
+  at 0:39 of round 2
+  Key stats:
+  - WILSON GOUVEIA landed 17 significant strikes
+  - SETH PETRUZELLI landed 8 significant strikes
+  - Knockdowns: WILSON GOUVEIA 0,  SETH PETRUZELLI 0
+  - Takedowns: WILSON GOUVEIA 1,  SETH PETRUZELLI 1

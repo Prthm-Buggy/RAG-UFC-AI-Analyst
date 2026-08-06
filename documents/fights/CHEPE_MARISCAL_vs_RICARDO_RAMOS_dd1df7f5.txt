@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kape vs. Almabayev
+    Date: March 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHEPE MARISCAL defeated RICARDO RAMOS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHEPE MARISCAL landed 85 significant strikes
+  - RICARDO RAMOS landed 37 significant strikes
+  - Knockdowns: CHEPE MARISCAL 0,  RICARDO RAMOS 0
+  - Takedowns: CHEPE MARISCAL 2,  RICARDO RAMOS 1

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Blachowicz vs. Jacare
+    Date : November 16, 2019
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Lightweight, Middleweight, Welterweight, Featherweight, Light Heavyweight, Women's Bantamweight
+
+    Fight Results:
+  - CHARLES OLIVEIRA def. JARED GORDON via KO/TKO(R1)
+- RANDY BROWN def. WARLLEY ALVES via Submission(R2)
+- RICARDO RAMOS def. EDUARDO GARAGORRI via Submission(R1)
+- ANDRE MUNIZ def. ANTONIO ARROYO via Decision - Unanimous(R3)
+- TRACY CORTEZ def. VANESSA MELO via Decision - Unanimous(R3)
+- JAMES KRAUSE def. SERGIO MORAES via KO/TKO(R3)
+- WELLINGTON TURMAN def. MARKUS PEREZ via Decision - Unanimous(R3)
+- JAN BLACHOWICZ def. JACARE SOUZA via Decision - Split(R5)
+- DOUGLAS SILVA DE ANDRADE def. RENAN BARAO via Decision - Unanimous(R3)
+- FRANCISCO TRINALDO def. KING GREEN via Decision - Unanimous(R3)
+- ARIANE DA SILVA def. ISABELA DE PADUA via Decision - Unanimous(R3)

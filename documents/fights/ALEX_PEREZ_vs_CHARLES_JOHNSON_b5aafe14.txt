@@ -1,0 +1,13 @@
+Event: UFC 324: Gaethje vs. Pimblett
+    Date: January 24, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: ALEX PEREZ defeated CHARLES JOHNSON via KO/TKO  
+  at 3:16 of round 1
+  Key stats:
+  - ALEX PEREZ landed 39 significant strikes
+  - CHARLES JOHNSON landed 8 significant strikes
+  - Knockdowns: ALEX PEREZ 2,  CHARLES JOHNSON 0
+  - Takedowns: ALEX PEREZ 0,  CHARLES JOHNSON 0

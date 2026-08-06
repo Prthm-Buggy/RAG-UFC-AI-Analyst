@@ -1,0 +1,11 @@
+Fighter: VIRNA JANDIROBA
+  Date of Birth: 1988-05-30
+  Career record: 13
+  First fight: 2019-04-27
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :393
+- Total takedowns landed :36
+- Knockdowns :1
+- Submission Attempts :16

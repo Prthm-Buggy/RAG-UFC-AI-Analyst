@@ -1,0 +1,13 @@
+Event: UFC 34: High Voltage
+    Date: November 02, 2001
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANK MIR defeated ROBERTO TRAVEN via Submission  
+  at 1:05 of round 1
+  Key stats:
+  - FRANK MIR landed 3 significant strikes
+  - ROBERTO TRAVEN landed 1 significant strikes
+  - Knockdowns: FRANK MIR 0,  ROBERTO TRAVEN 0
+  - Takedowns: FRANK MIR 0,  ROBERTO TRAVEN 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machado Garry vs. Prates
+    Date: April 26, 2025
+    Location: Kansas City, Missouri, USA
+    Weight Class: Featherweight
+    
+
+    Result: TIMMY CUAMBA defeated ROBERTO ROMERO via KO/TKO  
+  at 3:55 of round 2
+  Key stats:
+  - TIMMY CUAMBA landed 33 significant strikes
+  - ROBERTO ROMERO landed 35 significant strikes
+  - Knockdowns: TIMMY CUAMBA 1,  ROBERTO ROMERO 0
+  - Takedowns: TIMMY CUAMBA 1,  ROBERTO ROMERO 0

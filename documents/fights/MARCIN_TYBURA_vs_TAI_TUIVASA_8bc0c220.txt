@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tuivasa vs. Tybura
+    Date: March 16, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARCIN TYBURA defeated TAI TUIVASA via Submission  
+  at 4:08 of round 1
+  Key stats:
+  - MARCIN TYBURA landed 27 significant strikes
+  - TAI TUIVASA landed 15 significant strikes
+  - Knockdowns: MARCIN TYBURA 0,  TAI TUIVASA 0
+  - Takedowns: MARCIN TYBURA 1,  TAI TUIVASA 0
+  Bonus: perf

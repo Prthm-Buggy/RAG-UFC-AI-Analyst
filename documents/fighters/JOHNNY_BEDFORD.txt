@@ -1,0 +1,11 @@
+Fighter: JOHNNY BEDFORD
+  Date of Birth: 1983-01-06
+  Career record: 5
+  First fight: 2011-12-03
+  Last fight: 2014-09-13
+
+Career Statistics:
+- Significant Strikes Landed :182
+- Total takedowns landed :5
+- Knockdowns :3
+- Submission Attempts :0

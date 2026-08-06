@@ -1,0 +1,11 @@
+Fighter: JON FITCH
+  Date of Birth: 1978-02-24
+  Career record: 17
+  First fight: 2005-10-03
+  Last fight: 2013-02-02
+
+Career Statistics:
+- Significant Strikes Landed :583
+- Total takedowns landed :54
+- Knockdowns :2
+- Submission Attempts :14

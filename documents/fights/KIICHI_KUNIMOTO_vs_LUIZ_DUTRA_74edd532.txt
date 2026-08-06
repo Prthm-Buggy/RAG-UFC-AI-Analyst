@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Saffiedine vs Lim
+    Date: January 04, 2014
+    Location: Singapore, Singapore
+    Weight Class: Welterweight
+    
+
+    Result: KIICHI KUNIMOTO defeated LUIZ DUTRA via DQ  
+  at 2:57 of round 1
+  Key stats:
+  - KIICHI KUNIMOTO landed 12 significant strikes
+  - LUIZ DUTRA landed 10 significant strikes
+  - Knockdowns: KIICHI KUNIMOTO 0,  LUIZ DUTRA 0
+  - Takedowns: KIICHI KUNIMOTO 0,  LUIZ DUTRA 0

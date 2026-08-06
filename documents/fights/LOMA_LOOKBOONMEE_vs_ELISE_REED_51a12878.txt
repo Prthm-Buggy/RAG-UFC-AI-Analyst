@@ -1,0 +1,13 @@
+Event: UFC 284: Makhachev vs. Volkanovski
+    Date: February 11, 2023
+    Location: Perth, Western Australia, Australia
+    Weight Class: Women's Strawweight
+    
+
+    Result: LOMA LOOKBOONMEE defeated ELISE REED via Submission  
+  at 0:44 of round 2
+  Key stats:
+  - LOMA LOOKBOONMEE landed 17 significant strikes
+  - ELISE REED landed 17 significant strikes
+  - Knockdowns: LOMA LOOKBOONMEE 0,  ELISE REED 0
+  - Takedowns: LOMA LOOKBOONMEE 2,  ELISE REED 0

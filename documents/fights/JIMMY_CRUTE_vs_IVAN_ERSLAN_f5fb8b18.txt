@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ulberg vs. Reyes
+    Date: September 27, 2025
+    Location: Perth, Western Australia, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIMMY CRUTE defeated IVAN ERSLAN via Submission  
+  at 3:19 of round 1
+  Key stats:
+  - JIMMY CRUTE landed 12 significant strikes
+  - IVAN ERSLAN landed 10 significant strikes
+  - Knockdowns: JIMMY CRUTE 0,  IVAN ERSLAN 0
+  - Takedowns: JIMMY CRUTE 2,  IVAN ERSLAN 0
+  Bonus: perf

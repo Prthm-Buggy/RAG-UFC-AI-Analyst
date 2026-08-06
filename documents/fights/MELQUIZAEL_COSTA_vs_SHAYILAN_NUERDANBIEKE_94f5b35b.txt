@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Perez vs. Taira
+    Date: June 15, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: MELQUIZAEL COSTA defeated SHAYILAN NUERDANBIEKE via Submission  
+  at 1:50 of round 3
+  Key stats:
+  - MELQUIZAEL COSTA landed 16 significant strikes
+  - SHAYILAN NUERDANBIEKE landed 6 significant strikes
+  - Knockdowns: MELQUIZAEL COSTA 0,  SHAYILAN NUERDANBIEKE 0
+  - Takedowns: MELQUIZAEL COSTA 2,  SHAYILAN NUERDANBIEKE 4

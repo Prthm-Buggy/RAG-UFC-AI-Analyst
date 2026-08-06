@@ -1,0 +1,11 @@
+Fighter: CESAR ARZAMENDIA
+  Date of Birth: 1991-01-31
+  Career record: 2
+  First fight: 2015-11-21
+  Last fight: 2016-07-30
+
+Career Statistics:
+- Significant Strikes Landed :33
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

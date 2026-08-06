@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lemos vs. Jandiroba
+    Date: July 20, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: BRUNO SILVA defeated CODY DURDEN via KO/TKO  
+  at 2:58 of round 2
+  Key stats:
+  - BRUNO SILVA landed 42 significant strikes
+  - CODY DURDEN landed 28 significant strikes
+  - Knockdowns: BRUNO SILVA 1,  CODY DURDEN 0
+  - Takedowns: BRUNO SILVA 0,  CODY DURDEN 1
+  Bonus: perf

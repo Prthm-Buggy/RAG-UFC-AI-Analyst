@@ -1,0 +1,11 @@
+Fighter: RICARDO ALMEIDA
+  Date of Birth: 1976-11-29
+  Career record: 11
+  First fight: 2001-05-04
+  Last fight: 2011-03-19
+
+Career Statistics:
+- Significant Strikes Landed :255
+- Total takedowns landed :32
+- Knockdowns :0
+- Submission Attempts :11

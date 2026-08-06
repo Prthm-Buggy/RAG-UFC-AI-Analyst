@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cejudo vs. Song
+    Date: February 22, 2025
+    Location: Seattle, Washington, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MODESTAS BUKAUSKAS defeated RAFAEL CERQUEIRA via KO/TKO  
+  at 2:12 of round 1
+  Key stats:
+  - MODESTAS BUKAUSKAS landed 16 significant strikes
+  - RAFAEL CERQUEIRA landed 9 significant strikes
+  - Knockdowns: MODESTAS BUKAUSKAS 1,  RAFAEL CERQUEIRA 0
+  - Takedowns: MODESTAS BUKAUSKAS 0,  RAFAEL CERQUEIRA 0

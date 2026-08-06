@@ -1,0 +1,14 @@
+Event: UFC on FX: Maynard vs Guida
+    Date: June 22, 2012
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: SAM STOUT defeated SPENCER FISHER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SAM STOUT landed 64 significant strikes
+  - SPENCER FISHER landed 65 significant strikes
+  - Knockdowns: SAM STOUT 0,  SPENCER FISHER 0
+  - Takedowns: SAM STOUT 4,  SPENCER FISHER 0
+  Bonus: fight

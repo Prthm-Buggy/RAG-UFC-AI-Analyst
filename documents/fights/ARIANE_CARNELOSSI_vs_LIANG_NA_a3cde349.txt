@@ -1,0 +1,13 @@
+Event: UFC 261: Usman vs. Masvidal 2
+    Date: April 24, 2021
+    Location: Jacksonville, Florida, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ARIANE CARNELOSSI defeated LIANG NA via KO/TKO  
+  at 1:28 of round 2
+  Key stats:
+  - ARIANE CARNELOSSI landed 24 significant strikes
+  - LIANG NA landed 19 significant strikes
+  - Knockdowns: ARIANE CARNELOSSI 0,  LIANG NA 0
+  - Takedowns: ARIANE CARNELOSSI 0,  LIANG NA 3

@@ -1,0 +1,11 @@
+Fighter: LUCAS ROCHA
+  Date of Birth: 2000-08-12
+  Career record: 2
+  First fight: 2024-10-12
+  Last fight: 2025-10-11
+
+Career Statistics:
+- Significant Strikes Landed :132
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

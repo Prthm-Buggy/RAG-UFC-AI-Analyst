@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: The Comeback Finale
+    Date: November 11, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: SCOTT SMITH defeated PETE SELL via KO/TKO  
+  at 3:25 of round 2
+  Key stats:
+  - SCOTT SMITH landed 26 significant strikes
+  - PETE SELL landed 32 significant strikes
+  - Knockdowns: SCOTT SMITH 2,  PETE SELL 0
+  - Takedowns: SCOTT SMITH 0,  PETE SELL 0
+  Bonus: fight

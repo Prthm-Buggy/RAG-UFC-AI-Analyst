@@ -1,0 +1,11 @@
+Fighter: FELIPE COLARES
+  Date of Birth: 1994-03-31
+  Career record: 6
+  First fight: 2019-02-02
+  Last fight: 2022-05-21
+
+Career Statistics:
+- Significant Strikes Landed :191
+- Total takedowns landed :11
+- Knockdowns :0
+- Submission Attempts :3

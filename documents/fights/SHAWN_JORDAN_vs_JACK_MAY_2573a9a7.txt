@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bader vs Saint Preux
+    Date: August 16, 2014
+    Location: Bangor, Maine, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SHAWN JORDAN defeated JACK MAY via KO/TKO  
+  at 2:03 of round 3
+  Key stats:
+  - SHAWN JORDAN landed 32 significant strikes
+  - JACK MAY landed 20 significant strikes
+  - Knockdowns: SHAWN JORDAN 0,  JACK MAY 0
+  - Takedowns: SHAWN JORDAN 3,  JACK MAY 0

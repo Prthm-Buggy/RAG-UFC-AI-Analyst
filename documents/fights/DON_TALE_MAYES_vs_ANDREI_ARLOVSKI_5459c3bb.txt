@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kara-France vs. Albazi
+    Date: June 03, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DON'TALE MAYES defeated ANDREI ARLOVSKI via KO/TKO  
+  at 3:17 of round 2
+  Key stats:
+  - DON'TALE MAYES landed 25 significant strikes
+  - ANDREI ARLOVSKI landed 24 significant strikes
+  - Knockdowns: DON'TALE MAYES 1,  ANDREI ARLOVSKI 0
+  - Takedowns: DON'TALE MAYES 0,  ANDREI ARLOVSKI 0

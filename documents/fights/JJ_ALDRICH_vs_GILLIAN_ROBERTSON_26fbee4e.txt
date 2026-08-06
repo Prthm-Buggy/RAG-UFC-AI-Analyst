@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Ankalaev
+    Date: March 12, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: JJ ALDRICH defeated GILLIAN ROBERTSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JJ ALDRICH landed 60 significant strikes
+  - GILLIAN ROBERTSON landed 52 significant strikes
+  - Knockdowns: JJ ALDRICH 0,  GILLIAN ROBERTSON 0
+  - Takedowns: JJ ALDRICH 0,  GILLIAN ROBERTSON 1

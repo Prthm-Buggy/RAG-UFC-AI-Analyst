@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edwards vs. Brady
+    Date: March 22, 2025
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: SEAN BRADY defeated LEON EDWARDS via Submission  
+  at 1:39 of round 4
+  Key stats:
+  - SEAN BRADY landed 57 significant strikes
+  - LEON EDWARDS landed 23 significant strikes
+  - Knockdowns: SEAN BRADY 0,  LEON EDWARDS 0
+  - Takedowns: SEAN BRADY 5,  LEON EDWARDS 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: DMITRI STEPANOV
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 1997-05-30
+  Last fight: 1997-05-30
+
+Career Statistics:
+- Significant Strikes Landed :1
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,20 @@
+Event : UFC 224: Nunes vs. Pennington
+    Date : May 12, 2018
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Bantamweight, Welterweight, Middleweight, Lightweight, Women's Bantamweight, Women's Strawweight
+
+    Fight Results:
+  - RAMAZAN EMEEV def. ALBERTO MINA via Decision - Unanimous(R3)
+- MACKENZIE DERN def. AMANDA COOPER via Submission(R1)
+- WARLLEY ALVES def. SULTAN ALIEV via TKO - Doctor's Stoppage(R2)
+- JACK HERMANSSON def. THALES LEITES via KO/TKO(R3)
+- AMANDA NUNES def. RAQUEL PENNINGTON via KO/TKO(R5)
+- DAVI RAMOS def. NICK HEIN via Submission(R1)
+- ALEKSEI OLEINIK def. JUNIOR ALBINI via Submission(R1)
+- ELIZEU ZALESKI DOS SANTOS def. SEAN STRICKLAND via KO/TKO(R1)
+- KELVIN GASTELUM def. JACARE SOUZA via Decision - Split(R3)
+- CEZAR FERREIRA def. KARL ROBERSON via Submission(R1)
+- JOHN LINEKER def. BRIAN KELLEHER via KO/TKO(R3)
+- LYOTO MACHIDA def. VITOR BELFORT via KO/TKO(R2)
+- MARKUS PEREZ def. JAMES BOCHNOVIC via Submission(R1)

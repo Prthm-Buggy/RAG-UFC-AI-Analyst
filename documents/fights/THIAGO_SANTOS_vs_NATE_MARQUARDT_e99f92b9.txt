@@ -1,0 +1,13 @@
+Event: UFC 198: Werdum vs Miocic
+    Date: May 14, 2016
+    Location: Curitiba, Parana, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: THIAGO SANTOS defeated NATE MARQUARDT via KO/TKO  
+  at 3:39 of round 1
+  Key stats:
+  - THIAGO SANTOS landed 16 significant strikes
+  - NATE MARQUARDT landed 7 significant strikes
+  - Knockdowns: THIAGO SANTOS 2,  NATE MARQUARDT 0
+  - Takedowns: THIAGO SANTOS 0,  NATE MARQUARDT 0

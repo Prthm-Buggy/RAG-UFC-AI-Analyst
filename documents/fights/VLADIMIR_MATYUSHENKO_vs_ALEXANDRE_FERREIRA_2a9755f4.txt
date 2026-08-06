@@ -1,0 +1,13 @@
+Event: UFC 122: Marquardt vs Okami
+    Date: November 13, 2010
+    Location: Oberhausen, North Rhine-Westphalia, Germany
+    Weight Class: Light Heavyweight
+    
+
+    Result: VLADIMIR MATYUSHENKO defeated ALEXANDRE FERREIRA via KO/TKO  
+  at 2:20 of round 1
+  Key stats:
+  - VLADIMIR MATYUSHENKO landed 19 significant strikes
+  - ALEXANDRE FERREIRA landed 6 significant strikes
+  - Knockdowns: VLADIMIR MATYUSHENKO 0,  ALEXANDRE FERREIRA 0
+  - Takedowns: VLADIMIR MATYUSHENKO 2,  ALEXANDRE FERREIRA 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Gaethje
+    Date: March 30, 2019
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CASEY KENNEY defeated RAY BORG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CASEY KENNEY landed 32 significant strikes
+  - RAY BORG landed 17 significant strikes
+  - Knockdowns: CASEY KENNEY 0,  RAY BORG 0
+  - Takedowns: CASEY KENNEY 2,  RAY BORG 7

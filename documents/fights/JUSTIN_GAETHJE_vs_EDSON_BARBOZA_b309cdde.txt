@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barboza vs. Gaethje
+    Date: March 30, 2019
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Lightweight
+    
+
+    Result: JUSTIN GAETHJE defeated EDSON BARBOZA via KO/TKO  
+  at 2:30 of round 1
+  Key stats:
+  - JUSTIN GAETHJE landed 20 significant strikes
+  - EDSON BARBOZA landed 13 significant strikes
+  - Knockdowns: JUSTIN GAETHJE 1,  EDSON BARBOZA 0
+  - Takedowns: JUSTIN GAETHJE 0,  EDSON BARBOZA 0
+  Bonus: fight

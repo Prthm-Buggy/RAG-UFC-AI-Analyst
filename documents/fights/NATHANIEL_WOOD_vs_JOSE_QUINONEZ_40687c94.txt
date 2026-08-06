@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Till vs. Masvidal
+    Date: March 16, 2019
+    Location: London, England, United Kingdom
+    Weight Class: Bantamweight
+    
+
+    Result: NATHANIEL WOOD defeated JOSE QUINONEZ via Submission  
+  at 2:46 of round 2
+  Key stats:
+  - NATHANIEL WOOD landed 30 significant strikes
+  - JOSE QUINONEZ landed 34 significant strikes
+  - Knockdowns: NATHANIEL WOOD 0,  JOSE QUINONEZ 0
+  - Takedowns: NATHANIEL WOOD 2,  JOSE QUINONEZ 1

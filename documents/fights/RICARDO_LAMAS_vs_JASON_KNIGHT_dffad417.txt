@@ -1,0 +1,13 @@
+Event: UFC 214: Cormier vs. Jones 2
+    Date: July 29, 2017
+    Location: Anaheim, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: RICARDO LAMAS defeated JASON KNIGHT via KO/TKO  
+  at 4:34 of round 1
+  Key stats:
+  - RICARDO LAMAS landed 42 significant strikes
+  - JASON KNIGHT landed 8 significant strikes
+  - Knockdowns: RICARDO LAMAS 0,  JASON KNIGHT 0
+  - Takedowns: RICARDO LAMAS 1,  JASON KNIGHT 0

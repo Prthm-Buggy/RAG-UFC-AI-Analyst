@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Marquardt vs Palhares
+    Date : September 15, 2010
+    Location: Austin, Texas, USA
+    Number of Fights: 10
+    Weight Classes: Lightweight, Middleweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - JIM MILLER def. GLEISON TIBAU via Decision - Unanimous(R3)
+- CHARLES OLIVEIRA def. EFRAIN ESCUDERO via Submission(R3)
+- YVES EDWARDS def. JOHN GUNDERSON via Decision - Unanimous(R3)
+- NATE MARQUARDT def. ROUSIMAR PALHARES via KO/TKO(R1)
+- BRIAN FOSTER def. FORREST PETZ via KO/TKO(R1)
+- DAVID BRANCH def. TOMASZ DRWAL via Decision - Unanimous(R3)
+- KYLE KINGSBURY def. JARED HAMMAN via Decision - Unanimous(R3)
+- RICH ATTONITO def. RAFAEL NATAL via Decision - Unanimous(R3)
+- COLE MILLER def. ROSS PEARSON via Submission(R2)
+- TJ WALDBURGER def. DAVID MITCHELL via Decision - Unanimous(R3)

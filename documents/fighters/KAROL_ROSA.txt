@@ -1,0 +1,11 @@
+Fighter: KAROL ROSA
+  Date of Birth: 1994-12-30
+  Career record: 13
+  First fight: 2019-08-31
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :1066
+- Total takedowns landed :14
+- Knockdowns :2
+- Submission Attempts :2

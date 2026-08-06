@@ -1,0 +1,13 @@
+Event: UFC 64: Unstoppable
+    Date: October 14, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: KURT PELLEGRINO defeated JUNIOR ASSUNCAO via Submission  
+  at 2:04 of round 1
+  Key stats:
+  - KURT PELLEGRINO landed 5 significant strikes
+  - JUNIOR ASSUNCAO landed 1 significant strikes
+  - Knockdowns: KURT PELLEGRINO 0,  JUNIOR ASSUNCAO 0
+  - Takedowns: KURT PELLEGRINO 1,  JUNIOR ASSUNCAO 0

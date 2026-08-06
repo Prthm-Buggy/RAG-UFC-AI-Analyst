@@ -1,0 +1,11 @@
+Fighter: JP BUYS
+  Date of Birth: 1996-04-30
+  Career record: 4
+  First fight: 2021-03-20
+  Last fight: 2023-08-12
+
+Career Statistics:
+- Significant Strikes Landed :36
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :4

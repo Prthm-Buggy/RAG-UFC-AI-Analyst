@@ -1,0 +1,13 @@
+Event: UFC 8: David vs Goliath
+    Date: February 16, 1996
+    Location: San Juan, Puerto Rico
+    Weight Class: Open Weight
+    
+
+    Result: JERRY BOHLANDER defeated SCOTT FERROZZO via Submission  
+  at 9:03 of round 1
+  Key stats:
+  - JERRY BOHLANDER landed 7 significant strikes
+  - SCOTT FERROZZO landed 9 significant strikes
+  - Knockdowns: JERRY BOHLANDER 0,  SCOTT FERROZZO 0
+  - Takedowns: JERRY BOHLANDER 0,  SCOTT FERROZZO 2

@@ -1,0 +1,13 @@
+Event: UFC - Ultimate Japan
+    Date: December 21, 1997
+    Location: Yokohama, Kanagawa, Japan
+    Weight Class: Heavyweight
+    
+
+    Result: TRA TELLIGMAN defeated BRAD KOHLER via Submission  
+  at 10:05 of round 1
+  Key stats:
+  - TRA TELLIGMAN landed 6 significant strikes
+  - BRAD KOHLER landed 12 significant strikes
+  - Knockdowns: TRA TELLIGMAN 0,  BRAD KOHLER 0
+  - Takedowns: TRA TELLIGMAN 0,  BRAD KOHLER 3

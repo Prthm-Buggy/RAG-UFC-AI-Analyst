@@ -1,0 +1,13 @@
+Event: UFC 187: Johnson vs Cormier
+    Date: May 23, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOHN DODSON defeated ZACH MAKOVSKY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOHN DODSON landed 31 significant strikes
+  - ZACH MAKOVSKY landed 37 significant strikes
+  - Knockdowns: JOHN DODSON 0,  ZACH MAKOVSKY 0
+  - Takedowns: JOHN DODSON 2,  ZACH MAKOVSKY 0

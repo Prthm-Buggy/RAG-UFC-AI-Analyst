@@ -1,0 +1,14 @@
+Event: UFC on FX: Alves vs Kampmann
+    Date: March 02, 2012
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Welterweight
+    
+
+    Result: MARTIN KAMPMANN defeated THIAGO ALVES via Submission  
+  at 4:12 of round 3
+  Key stats:
+  - MARTIN KAMPMANN landed 47 significant strikes
+  - THIAGO ALVES landed 62 significant strikes
+  - Knockdowns: MARTIN KAMPMANN 0,  THIAGO ALVES 0
+  - Takedowns: MARTIN KAMPMANN 1,  THIAGO ALVES 2
+  Bonus: sub

@@ -1,0 +1,11 @@
+Fighter: MICHELLE MONTAGUE
+  Date of Birth: 1993-11-25
+  Career record: 2
+  First fight: 2025-09-27
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :83
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :0

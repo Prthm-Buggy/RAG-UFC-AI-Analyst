@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Poirier vs. Pettis
+    Date: November 11, 2017
+    Location: Norfolk, Virginia, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT BROWN defeated DIEGO SANCHEZ via KO/TKO  
+  at 3:44 of round 1
+  Key stats:
+  - MATT BROWN landed 18 significant strikes
+  - DIEGO SANCHEZ landed 12 significant strikes
+  - Knockdowns: MATT BROWN 1,  DIEGO SANCHEZ 0
+  - Takedowns: MATT BROWN 0,  DIEGO SANCHEZ 0
+  Bonus: perf

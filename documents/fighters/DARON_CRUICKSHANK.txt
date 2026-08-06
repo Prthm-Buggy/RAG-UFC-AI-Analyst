@@ -1,0 +1,11 @@
+Fighter: DARON CRUICKSHANK
+  Date of Birth: 1985-06-11
+  Career record: 12
+  First fight: 2012-06-01
+  Last fight: 2016-01-17
+
+Career Statistics:
+- Significant Strikes Landed :358
+- Total takedowns landed :16
+- Knockdowns :5
+- Submission Attempts :2

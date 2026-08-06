@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blachowicz vs. Jacare
+    Date: November 16, 2019
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: JAMES KRAUSE defeated SERGIO MORAES via KO/TKO  
+  at 4:19 of round 3
+  Key stats:
+  - JAMES KRAUSE landed 102 significant strikes
+  - SERGIO MORAES landed 41 significant strikes
+  - Knockdowns: JAMES KRAUSE 3,  SERGIO MORAES 0
+  - Takedowns: JAMES KRAUSE 0,  SERGIO MORAES 1
+  Bonus: perf

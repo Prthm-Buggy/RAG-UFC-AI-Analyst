@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Rothwell vs Dos Santos
+    Date : April 10, 2016
+    Location: Zagreb, Croatia
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Bantamweight, Lightweight, Welterweight, Light Heavyweight, Women's Strawweight, Middleweight, Featherweight
+
+    Fight Results:
+  - DERRICK LEWIS def. GABRIEL GONZAGA via KO/TKO(R1)
+- JAN BLACHOWICZ def. IGOR POKRAJAC via Decision - Unanimous(R3)
+- ZAK CUMMINGS def. NICOLAS DALBY via Decision - Unanimous(R3)
+- DAMIAN STASIAK def. FILIP PEJIC via Submission(R1)
+- JARED CANNONIER def. CYRIL ASKER via KO/TKO(R1)
+- FRANCIS NGANNOU def. CURTIS BLAYDES via TKO - Doctor's Stoppage(R2)
+- LUCAS MARTINS def. ROBERT WHITEFORD via Decision - Split(R3)
+- ALEJANDRO PEREZ def. IAN ENTWISTLE via KO/TKO(R1)
+- MAIRBEK TAISUMOV def. DAMIR HADZOVIC via KO/TKO(R1)
+- BOJAN VELICKOVIC def. ALESSIO DI CHIRICO via Decision - Unanimous(R3)
+- JUNIOR DOS SANTOS def. BEN ROTHWELL via Decision - Unanimous(R5)
+- TIMOTHY JOHNSON def. MARCIN TYBURA via Decision - Unanimous(R3)
+- MARYNA MOROZ def. CRISTINA STANCIU via Decision - Unanimous(R3)

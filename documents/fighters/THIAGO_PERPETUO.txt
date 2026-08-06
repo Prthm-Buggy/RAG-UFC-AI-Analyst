@@ -1,0 +1,11 @@
+Fighter: THIAGO PERPETUO
+  Date of Birth: 1987-12-14
+  Career record: 3
+  First fight: 2012-06-23
+  Last fight: 2014-03-23
+
+Career Statistics:
+- Significant Strikes Landed :86
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :0

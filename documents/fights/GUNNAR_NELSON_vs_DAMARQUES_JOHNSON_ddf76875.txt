@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Struve vs Miocic
+    Date: September 29, 2012
+    Location: Nottingham, England, United Kingdom
+    Weight Class: Catch Weight
+    
+
+    Result: GUNNAR NELSON defeated DAMARQUES JOHNSON via Submission  
+  at 3:34 of round 1
+  Key stats:
+  - GUNNAR NELSON landed 9 significant strikes
+  - DAMARQUES JOHNSON landed 1 significant strikes
+  - Knockdowns: GUNNAR NELSON 0,  DAMARQUES JOHNSON 0
+  - Takedowns: GUNNAR NELSON 1,  DAMARQUES JOHNSON 0

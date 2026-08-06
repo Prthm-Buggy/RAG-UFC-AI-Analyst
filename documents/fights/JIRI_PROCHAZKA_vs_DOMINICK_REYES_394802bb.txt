@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Reyes vs. Prochazka
+    Date: May 01, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIRI PROCHAZKA defeated DOMINICK REYES via KO/TKO  
+  at 4:29 of round 2
+  Key stats:
+  - JIRI PROCHAZKA landed 77 significant strikes
+  - DOMINICK REYES landed 63 significant strikes
+  - Knockdowns: JIRI PROCHAZKA 1,  DOMINICK REYES 0
+  - Takedowns: JIRI PROCHAZKA 1,  DOMINICK REYES 1
+  Bonus: fight

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Vera
+    Date: April 30, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: SHANNA YOUNG defeated GINA MAZANY via KO/TKO  
+  at 3:11 of round 2
+  Key stats:
+  - SHANNA YOUNG landed 49 significant strikes
+  - GINA MAZANY landed 48 significant strikes
+  - Knockdowns: SHANNA YOUNG 0,  GINA MAZANY 0
+  - Takedowns: SHANNA YOUNG 0,  GINA MAZANY 1

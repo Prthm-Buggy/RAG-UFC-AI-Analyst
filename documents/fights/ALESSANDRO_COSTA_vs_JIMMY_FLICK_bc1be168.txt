@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vettori vs. Cannonier
+    Date: June 17, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: ALESSANDRO COSTA defeated JIMMY FLICK via KO/TKO  
+  at 1:03 of round 2
+  Key stats:
+  - ALESSANDRO COSTA landed 65 significant strikes
+  - JIMMY FLICK landed 14 significant strikes
+  - Knockdowns: ALESSANDRO COSTA 1,  JIMMY FLICK 0
+  - Takedowns: ALESSANDRO COSTA 0,  JIMMY FLICK 0
+  Bonus: perf

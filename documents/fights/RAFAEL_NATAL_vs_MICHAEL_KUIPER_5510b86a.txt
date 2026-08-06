@@ -1,0 +1,13 @@
+Event: UFC 143: Diaz vs Condit
+    Date: February 04, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: RAFAEL NATAL defeated MICHAEL KUIPER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAFAEL NATAL landed 36 significant strikes
+  - MICHAEL KUIPER landed 30 significant strikes
+  - Knockdowns: RAFAEL NATAL 0,  MICHAEL KUIPER 1
+  - Takedowns: RAFAEL NATAL 6,  MICHAEL KUIPER 0

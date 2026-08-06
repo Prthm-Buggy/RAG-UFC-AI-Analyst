@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Benavidez vs. Figueiredo
+    Date: February 29, 2020
+    Location: Norfolk, Virginia, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAGOMED ANKALAEV defeated ION CUTELABA via KO/TKO  
+  at 0:38 of round 1
+  Key stats:
+  - MAGOMED ANKALAEV landed 8 significant strikes
+  - ION CUTELABA landed 5 significant strikes
+  - Knockdowns: MAGOMED ANKALAEV 0,  ION CUTELABA 0
+  - Takedowns: MAGOMED ANKALAEV 0,  ION CUTELABA 0

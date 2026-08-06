@@ -1,0 +1,13 @@
+Event: UFC 206: Holloway vs. Pettis
+    Date: December 10, 2016
+    Location: Toronto, Ontario, Canada
+    Weight Class: Lightweight
+    
+
+    Result: OLIVIER AUBIN-MERCIER defeated DREW DOBER via Submission  
+  at 2:57 of round 2
+  Key stats:
+  - OLIVIER AUBIN-MERCIER landed 27 significant strikes
+  - DREW DOBER landed 24 significant strikes
+  - Knockdowns: OLIVIER AUBIN-MERCIER 0,  DREW DOBER 1
+  - Takedowns: OLIVIER AUBIN-MERCIER 0,  DREW DOBER 0

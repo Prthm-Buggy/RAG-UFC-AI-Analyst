@@ -1,0 +1,13 @@
+Event: UFC on FOX: Diaz vs Miller
+    Date: May 05, 2012
+    Location: East Rutherford, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: KARLOS VEMOLA defeated MIKE MASSENZIO via Submission  
+  at 1:07 of round 2
+  Key stats:
+  - KARLOS VEMOLA landed 16 significant strikes
+  - MIKE MASSENZIO landed 11 significant strikes
+  - Knockdowns: KARLOS VEMOLA 0,  MIKE MASSENZIO 0
+  - Takedowns: KARLOS VEMOLA 2,  MIKE MASSENZIO 1

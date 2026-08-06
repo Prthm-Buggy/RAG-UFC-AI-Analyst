@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Weidman vs. Gastelum
+    Date: July 22, 2017
+    Location: Uniondale, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS WEIDMAN defeated KELVIN GASTELUM via Submission  
+  at 3:45 of round 3
+  Key stats:
+  - CHRIS WEIDMAN landed 36 significant strikes
+  - KELVIN GASTELUM landed 26 significant strikes
+  - Knockdowns: CHRIS WEIDMAN 0,  KELVIN GASTELUM 1
+  - Takedowns: CHRIS WEIDMAN 7,  KELVIN GASTELUM 0

@@ -1,0 +1,13 @@
+Event: UFC 204: Bisping vs. Henderson
+    Date: October 08, 2016
+    Location: Manchester, England, United Kingdom
+    Weight Class: Bantamweight
+    
+
+    Result: DAMIAN STASIAK defeated DAVEY GRANT via Submission  
+  at 2:56 of round 3
+  Key stats:
+  - DAMIAN STASIAK landed 10 significant strikes
+  - DAVEY GRANT landed 36 significant strikes
+  - Knockdowns: DAMIAN STASIAK 0,  DAVEY GRANT 0
+  - Takedowns: DAMIAN STASIAK 4,  DAVEY GRANT 2

@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Heavyweights Finale
+    Date: December 05, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MARK BOCEK defeated JOE BRAMMER via Submission  
+  at 3:36 of round 1
+  Key stats:
+  - MARK BOCEK landed 6 significant strikes
+  - JOE BRAMMER landed 3 significant strikes
+  - Knockdowns: MARK BOCEK 0,  JOE BRAMMER 0
+  - Takedowns: MARK BOCEK 2,  JOE BRAMMER 0
+  Bonus: sub

@@ -1,0 +1,11 @@
+Fighter: CHASE HOOPER
+  Date of Birth: 1999-09-13
+  Career record: 13
+  First fight: 2019-12-14
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :502
+- Total takedowns landed :21
+- Knockdowns :1
+- Submission Attempts :15

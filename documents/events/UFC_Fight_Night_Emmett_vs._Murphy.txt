@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Emmett vs. Murphy
+    Date : April 05, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Bantamweight, Women's Flyweight, Women's Strawweight, Middleweight, Welterweight, Featherweight, Flyweight
+
+    Fight Results:
+  - CHANGHO LEE def. CORTAVIOUS ROMIOUS via KO/TKO(R2)
+- MARTIN BUDAY def. URAN SATYBALDIEV via Decision - Unanimous(R3)
+- DIONE BARBOSA def. DIANA BELBITA via Submission(R1)
+- TALITA ALENCAR def. VANESSA DEMOPOULOS via Decision - Unanimous(R3)
+- VICTOR HENRY def. PEDRO FALCAO via Decision - Unanimous(R3)
+- PAT SABATINI def. JOANDERSON BRITO via Decision - Unanimous(R3)
+- TORREZ FINNEY def. ROBERT VALENTIN via Decision - Split(R3)
+- LERONE MURPHY def. JOSH EMMETT via Decision - Unanimous(R5)
+- LOMA LOOKBOONMEE def. ISTELA NUNES via Decision - Unanimous(R3)
+- BRAD TAVARES def. GERALD MEERSCHAERT via Decision - Unanimous(R3)
+- RHYS MCKEE def. DANIEL FRUNZA via TKO - Doctor's Stoppage(R1)
+- ODE OSBOURNE def. LUIS GURULE via KO/TKO(R2)

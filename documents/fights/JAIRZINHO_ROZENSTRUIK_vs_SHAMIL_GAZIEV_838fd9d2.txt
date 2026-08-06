@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rozenstruik vs. Gaziev
+    Date: March 02, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAIRZINHO ROZENSTRUIK defeated SHAMIL GAZIEV via KO/TKO  
+  at 5:00 of round 4
+  Key stats:
+  - JAIRZINHO ROZENSTRUIK landed 127 significant strikes
+  - SHAMIL GAZIEV landed 22 significant strikes
+  - Knockdowns: JAIRZINHO ROZENSTRUIK 0,  SHAMIL GAZIEV 0
+  - Takedowns: JAIRZINHO ROZENSTRUIK 0,  SHAMIL GAZIEV 1

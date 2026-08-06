@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Shogun vs Henderson 2
+    Date: March 23, 2014
+    Location: Natal, Rio Grande do Norte, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: GODOFREDO PEPEY defeated NOAD LAHAT via KO/TKO  
+  at 2:39 of round 1
+  Key stats:
+  - GODOFREDO PEPEY landed 5 significant strikes
+  - NOAD LAHAT landed 11 significant strikes
+  - Knockdowns: GODOFREDO PEPEY 1,  NOAD LAHAT 0
+  - Takedowns: GODOFREDO PEPEY 0,  NOAD LAHAT 0
+  Bonus: perf

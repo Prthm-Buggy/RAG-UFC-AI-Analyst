@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lemos vs. Jandiroba
+    Date: July 20, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CODY GIBSON defeated BRIAN KELLEHER via Submission  
+  at 3:58 of round 1
+  Key stats:
+  - CODY GIBSON landed 13 significant strikes
+  - BRIAN KELLEHER landed 2 significant strikes
+  - Knockdowns: CODY GIBSON 0,  BRIAN KELLEHER 0
+  - Takedowns: CODY GIBSON 2,  BRIAN KELLEHER 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shevchenko vs. Carmouche 2
+    Date: August 10, 2019
+    Location: Montevideo, Uruguay
+    Weight Class: Heavyweight
+    
+
+    Result: CIRYL GANE defeated RAPHAEL PESSOA via Submission  
+  at 4:12 of round 1
+  Key stats:
+  - CIRYL GANE landed 15 significant strikes
+  - RAPHAEL PESSOA landed 7 significant strikes
+  - Knockdowns: CIRYL GANE 0,  RAPHAEL PESSOA 0
+  - Takedowns: CIRYL GANE 0,  RAPHAEL PESSOA 0

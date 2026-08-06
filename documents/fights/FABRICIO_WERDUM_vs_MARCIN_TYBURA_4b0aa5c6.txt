@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Werdum vs. Tybura
+    Date: November 18, 2017
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: FABRICIO WERDUM defeated MARCIN TYBURA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - FABRICIO WERDUM landed 155 significant strikes
+  - MARCIN TYBURA landed 127 significant strikes
+  - Knockdowns: FABRICIO WERDUM 0,  MARCIN TYBURA 0
+  - Takedowns: FABRICIO WERDUM 1,  MARCIN TYBURA 1

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cerrone vs. Till
+    Date: October 21, 2017
+    Location: Gdansk, Poland
+    Weight Class: Welterweight
+    
+
+    Result: DARREN TILL defeated DONALD CERRONE via KO/TKO  
+  at 4:20 of round 1
+  Key stats:
+  - DARREN TILL landed 24 significant strikes
+  - DONALD CERRONE landed 14 significant strikes
+  - Knockdowns: DARREN TILL 1,  DONALD CERRONE 0
+  - Takedowns: DARREN TILL 0,  DONALD CERRONE 1
+  Bonus: perf

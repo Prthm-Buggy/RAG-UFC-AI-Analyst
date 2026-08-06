@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs Mousasi
+    Date: February 15, 2014
+    Location: Jaragua do Sul, Santa Catarina, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: ERICK SILVA defeated TAKENORI SATO via KO/TKO  
+  at 0:52 of round 1
+  Key stats:
+  - ERICK SILVA landed 18 significant strikes
+  - TAKENORI SATO landed 0 significant strikes
+  - Knockdowns: ERICK SILVA 0,  TAKENORI SATO 0
+  - Takedowns: ERICK SILVA 0,  TAKENORI SATO 0
+  Bonus: perf

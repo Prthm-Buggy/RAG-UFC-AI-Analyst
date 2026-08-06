@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cejudo vs. Dillashaw
+    Date: January 19, 2019
+    Location: Brooklyn, New York, USA
+    Weight Class: Flyweight
+    
+
+    Result: HENRY CEJUDO defeated TJ DILLASHAW via KO/TKO  
+  at 0:32 of round 1
+  Key stats:
+  - HENRY CEJUDO landed 18 significant strikes
+  - TJ DILLASHAW landed 1 significant strikes
+  - Knockdowns: HENRY CEJUDO 1,  TJ DILLASHAW 0
+  - Takedowns: HENRY CEJUDO 0,  TJ DILLASHAW 0
+  Bonus: belt

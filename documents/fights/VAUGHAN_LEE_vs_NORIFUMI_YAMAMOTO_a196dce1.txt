@@ -1,0 +1,14 @@
+Event: UFC 144: Edgar vs Henderson
+    Date: February 25, 2012
+    Location: Saitama, Japan
+    Weight Class: Bantamweight
+    
+
+    Result: VAUGHAN LEE defeated NORIFUMI YAMAMOTO via Submission  
+  at 4:29 of round 1
+  Key stats:
+  - VAUGHAN LEE landed 14 significant strikes
+  - NORIFUMI YAMAMOTO landed 21 significant strikes
+  - Knockdowns: VAUGHAN LEE 1,  NORIFUMI YAMAMOTO 0
+  - Takedowns: VAUGHAN LEE 0,  NORIFUMI YAMAMOTO 1
+  Bonus: sub

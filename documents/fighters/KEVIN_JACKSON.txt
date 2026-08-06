@@ -1,0 +1,11 @@
+Fighter: KEVIN JACKSON
+  Date of Birth: 1964-11-25
+  Career record: 4
+  First fight: 1997-07-27
+  Last fight: 1998-03-13
+
+Career Statistics:
+- Significant Strikes Landed :25
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gustafsson vs. Smith
+    Date: June 01, 2019
+    Location: Stockholm, Sweden
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEKSANDAR RAKIC defeated JIMI MANUWA via KO/TKO  
+  at 0:47 of round 1
+  Key stats:
+  - ALEKSANDAR RAKIC landed 2 significant strikes
+  - JIMI MANUWA landed 2 significant strikes
+  - Knockdowns: ALEKSANDAR RAKIC 1,  JIMI MANUWA 0
+  - Takedowns: ALEKSANDAR RAKIC 0,  JIMI MANUWA 0
+  Bonus: perf

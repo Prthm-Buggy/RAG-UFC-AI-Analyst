@@ -1,0 +1,13 @@
+Event: UFC 30: Battle on the Boardwalk
+    Date: February 23, 2001
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: PHIL BARONI defeated CURTIS STOUT via Decision - Unanimous  
+  at 5:00 of round 2
+  Key stats:
+  - PHIL BARONI landed 39 significant strikes
+  - CURTIS STOUT landed 2 significant strikes
+  - Knockdowns: PHIL BARONI 0,  CURTIS STOUT 0
+  - Takedowns: PHIL BARONI 2,  CURTIS STOUT 0

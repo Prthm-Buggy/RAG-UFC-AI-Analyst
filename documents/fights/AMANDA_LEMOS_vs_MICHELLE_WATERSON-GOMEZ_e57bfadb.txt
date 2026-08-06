@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ortega vs. Rodriguez
+    Date: July 16, 2022
+    Location: Elmont, New York, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: AMANDA LEMOS defeated MICHELLE WATERSON-GOMEZ via Submission  
+  at 1:48 of round 2
+  Key stats:
+  - AMANDA LEMOS landed 20 significant strikes
+  - MICHELLE WATERSON-GOMEZ landed 29 significant strikes
+  - Knockdowns: AMANDA LEMOS 0,  MICHELLE WATERSON-GOMEZ 0
+  - Takedowns: AMANDA LEMOS 0,  MICHELLE WATERSON-GOMEZ 1
+  Bonus: perf

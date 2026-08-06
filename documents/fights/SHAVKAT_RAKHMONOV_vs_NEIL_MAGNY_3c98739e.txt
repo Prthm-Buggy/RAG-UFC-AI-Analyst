@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tsarukyan vs. Gamrot
+    Date: June 25, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SHAVKAT RAKHMONOV defeated NEIL MAGNY via Submission  
+  at 4:58 of round 2
+  Key stats:
+  - SHAVKAT RAKHMONOV landed 19 significant strikes
+  - NEIL MAGNY landed 11 significant strikes
+  - Knockdowns: SHAVKAT RAKHMONOV 0,  NEIL MAGNY 0
+  - Takedowns: SHAVKAT RAKHMONOV 2,  NEIL MAGNY 0
+  Bonus: perf

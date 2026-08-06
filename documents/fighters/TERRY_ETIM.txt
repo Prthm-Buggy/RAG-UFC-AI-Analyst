@@ -1,0 +1,11 @@
+Fighter: TERRY ETIM
+  Date of Birth: 1986-01-11
+  Career record: 11
+  First fight: 2007-04-21
+  Last fight: 2013-02-16
+
+Career Statistics:
+- Significant Strikes Landed :229
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :10

@@ -1,0 +1,11 @@
+Fighter: VITOR BELFORT
+  Date of Birth: 1977-04-01
+  Career record: 25
+  First fight: 1997-02-07
+  Last fight: 2018-05-12
+
+Career Statistics:
+- Significant Strikes Landed :277
+- Total takedowns landed :6
+- Knockdowns :11
+- Submission Attempts :8

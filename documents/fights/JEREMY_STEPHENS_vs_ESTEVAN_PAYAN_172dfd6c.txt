@@ -1,0 +1,13 @@
+Event: UFC 160: Velasquez vs Silva 2
+    Date: May 25, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JEREMY STEPHENS defeated ESTEVAN PAYAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JEREMY STEPHENS landed 49 significant strikes
+  - ESTEVAN PAYAN landed 25 significant strikes
+  - Knockdowns: JEREMY STEPHENS 0,  ESTEVAN PAYAN 0
+  - Takedowns: JEREMY STEPHENS 6,  ESTEVAN PAYAN 0

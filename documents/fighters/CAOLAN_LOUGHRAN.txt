@@ -1,0 +1,11 @@
+Fighter: CAOLAN LOUGHRAN
+  Date of Birth: 1996-05-18
+  Career record: 4
+  First fight: 2023-09-02
+  Last fight: 2025-03-22
+
+Career Statistics:
+- Significant Strikes Landed :284
+- Total takedowns landed :12
+- Knockdowns :0
+- Submission Attempts :0

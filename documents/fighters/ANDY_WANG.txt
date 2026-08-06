@@ -1,0 +1,11 @@
+Fighter: ANDY WANG
+  Date of Birth: 1977-05-28
+  Career record: 1
+  First fight: 2007-06-23
+  Last fight: 2007-06-23
+
+Career Statistics:
+- Significant Strikes Landed :4
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

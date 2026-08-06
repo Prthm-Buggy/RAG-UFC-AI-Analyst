@@ -1,0 +1,13 @@
+Event: UFC 162: Silva vs Weidman
+    Date: July 06, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDREW CRAIG defeated CHRIS LEBEN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ANDREW CRAIG landed 64 significant strikes
+  - CHRIS LEBEN landed 30 significant strikes
+  - Knockdowns: ANDREW CRAIG 0,  CHRIS LEBEN 0
+  - Takedowns: ANDREW CRAIG 2,  CHRIS LEBEN 0

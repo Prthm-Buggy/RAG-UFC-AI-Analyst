@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Lopes vs. Silva
+    Date : September 13, 2025
+    Location: San Antonio, Texas, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Lightweight, Featherweight, Welterweight, Women's Bantamweight, Flyweight, Middleweight, Women's Strawweight
+
+    Fight Results:
+  - DIEGO LOPES def. JEAN SILVA via KO/TKO(R2)
+- Daniil Donchenko def. RODRIGO SEZINANDO via KO/TKO(R1)
+- MONTSE RENDON def. Alice Pereira via Decision - Split(R3)
+- ALDEN CORIA def. ALESSANDRO COSTA via KO/TKO(R3)
+- JOAQUIM SILVA def. CLAUDIO PUELLES via Decision - Split(R3)
+- DUSKO TODOROVIC def. JOSE DANIEL MEDINA via Submission(R1)
+- DAVID MARTINEZ def. ROB FONT via Decision - Unanimous(R3)
+- TATIANA SUAREZ def. AMANDA LEMOS via Decision - Unanimous(R3)
+- ALEXANDER HERNANDEZ def. DIEGO FERREIRA via KO/TKO(R2)
+- RAFA GARCIA def. JARED GORDON via KO/TKO(R3)
+- KELVIN GASTELUM def. DUSTIN STOLTZFUS via Decision - Unanimous(R3)
+- SANTIAGO LUNA def. QUANG LE via KO/TKO(R1)
+- JESUS AGUILAR def. LUIS GURULE via Decision - Unanimous(R3)

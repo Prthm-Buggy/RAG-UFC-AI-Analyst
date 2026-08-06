@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lee vs. Iaquinta
+    Date: December 15, 2018
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Middleweight
+    
+
+    Result: JACK HERMANSSON defeated GERALD MEERSCHAERT via Submission  
+  at 4:25 of round 1
+  Key stats:
+  - JACK HERMANSSON landed 41 significant strikes
+  - GERALD MEERSCHAERT landed 1 significant strikes
+  - Knockdowns: JACK HERMANSSON 0,  GERALD MEERSCHAERT 0
+  - Takedowns: JACK HERMANSSON 1,  GERALD MEERSCHAERT 0

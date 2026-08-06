@@ -1,0 +1,14 @@
+Event: UFC Fight Night: McDonald vs. Lineker
+    Date: July 13, 2016
+    Location: Sioux Falls, South Dakota, USA
+    Weight Class: Flyweight
+    
+
+    Result: LOUIS SMOLKA defeated BEN NGUYEN via KO/TKO  
+  at 4:41 of round 2
+  Key stats:
+  - LOUIS SMOLKA landed 82 significant strikes
+  - BEN NGUYEN landed 4 significant strikes
+  - Knockdowns: LOUIS SMOLKA 0,  BEN NGUYEN 0
+  - Takedowns: LOUIS SMOLKA 3,  BEN NGUYEN 0
+  Bonus: perf

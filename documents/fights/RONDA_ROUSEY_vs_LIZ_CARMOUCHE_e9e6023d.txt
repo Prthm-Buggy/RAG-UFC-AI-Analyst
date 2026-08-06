@@ -1,0 +1,14 @@
+Event: UFC 157: Rousey vs Carmouche
+    Date: February 23, 2013
+    Location: Anaheim, California, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: RONDA ROUSEY defeated LIZ CARMOUCHE via Submission  
+  at 4:49 of round 1
+  Key stats:
+  - RONDA ROUSEY landed 7 significant strikes
+  - LIZ CARMOUCHE landed 4 significant strikes
+  - Knockdowns: RONDA ROUSEY 0,  LIZ CARMOUCHE 0
+  - Takedowns: RONDA ROUSEY 1,  LIZ CARMOUCHE 0
+  Bonus: belt

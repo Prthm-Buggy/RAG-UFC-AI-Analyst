@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Fiziev
+    Date: July 09, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CODY BRUNDAGE defeated TRESEAN GORE via KO/TKO  
+  at 3:50 of round 1
+  Key stats:
+  - CODY BRUNDAGE landed 15 significant strikes
+  - TRESEAN GORE landed 8 significant strikes
+  - Knockdowns: CODY BRUNDAGE 1,  TRESEAN GORE 0
+  - Takedowns: CODY BRUNDAGE 1,  TRESEAN GORE 0

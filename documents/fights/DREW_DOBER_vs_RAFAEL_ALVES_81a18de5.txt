@@ -1,0 +1,14 @@
+Event: UFC 277: Pena vs. Nunes 2
+    Date: July 30, 2022
+    Location: Dallas, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: DREW DOBER defeated RAFAEL ALVES via KO/TKO  
+  at 1:30 of round 3
+  Key stats:
+  - DREW DOBER landed 62 significant strikes
+  - RAFAEL ALVES landed 37 significant strikes
+  - Knockdowns: DREW DOBER 1,  RAFAEL ALVES 0
+  - Takedowns: DREW DOBER 0,  RAFAEL ALVES 1
+  Bonus: perf

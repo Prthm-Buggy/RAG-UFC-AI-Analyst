@@ -1,0 +1,17 @@
+Event : UFC 112: Invincible
+    Date : April 10, 2010
+    Location: Abu Dhabi, United Arab Emirates
+    Number of Fights: 10
+    Weight Classes: Middleweight, Welterweight, Lightweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - RAFAEL DOS ANJOS def. TERRY ETIM via Submission(R2)
+- FRANKIE EDGAR def. BJ PENN via Decision - Unanimous(R5)
+- DAMARQUES JOHNSON def. BRAD BLACKBURN via KO/TKO(R3)
+- PAUL KELLY def. MATT VEACH via Submission(R2)
+- RICK STORY def. NICK OSIPCZAK via Decision - Split(R3)
+- PHIL DAVIS def. ALEXANDER GUSTAFSSON via Submission(R1)
+- ANDERSON SILVA def. DEMIAN MAIA via Decision - Unanimous(R5)
+- MARK MUNOZ def. KENDALL GROVE via KO/TKO(R2)
+- MATT HUGHES def. RENZO GRACIE via KO/TKO(R3)
+- JON MADSEN def. MOSTAPHA AL-TURK via Decision - Unanimous(R3)

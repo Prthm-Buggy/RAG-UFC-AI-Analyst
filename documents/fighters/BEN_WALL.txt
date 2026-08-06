@@ -1,0 +1,11 @@
+Fighter: BEN WALL
+  Date of Birth: 1989-03-25
+  Career record: 2
+  First fight: 2013-12-06
+  Last fight: 2014-05-10
+
+Career Statistics:
+- Significant Strikes Landed :5
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

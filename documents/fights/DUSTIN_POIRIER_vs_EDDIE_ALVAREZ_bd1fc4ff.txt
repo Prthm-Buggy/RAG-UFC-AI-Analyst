@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Alvarez vs. Poirier 2
+    Date: July 28, 2018
+    Location: Calgary, Alberta, Canada
+    Weight Class: Lightweight
+    
+
+    Result: DUSTIN POIRIER defeated EDDIE ALVAREZ via KO/TKO  
+  at 4:05 of round 2
+  Key stats:
+  - DUSTIN POIRIER landed 54 significant strikes
+  - EDDIE ALVAREZ landed 26 significant strikes
+  - Knockdowns: DUSTIN POIRIER 1,  EDDIE ALVAREZ 0
+  - Takedowns: DUSTIN POIRIER 0,  EDDIE ALVAREZ 0
+  Bonus: perf

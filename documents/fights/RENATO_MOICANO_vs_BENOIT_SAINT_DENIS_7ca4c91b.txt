@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moicano vs. Saint Denis
+    Date: September 28, 2024
+    Location: Paris, Ile-de-France, France
+    Weight Class: Lightweight
+    
+
+    Result: RENATO MOICANO defeated BENOIT SAINT DENIS via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - RENATO MOICANO landed 50 significant strikes
+  - BENOIT SAINT DENIS landed 25 significant strikes
+  - Knockdowns: RENATO MOICANO 0,  BENOIT SAINT DENIS 0
+  - Takedowns: RENATO MOICANO 1,  BENOIT SAINT DENIS 0

@@ -1,0 +1,11 @@
+Fighter: AILIN PEREZ
+  Date of Birth: 1994-10-05
+  Career record: 7
+  First fight: 2022-09-03
+  Last fight: 2026-02-28
+
+Career Statistics:
+- Significant Strikes Landed :256
+- Total takedowns landed :29
+- Knockdowns :1
+- Submission Attempts :1

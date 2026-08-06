@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Zabit vs. Kattar
+    Date: November 09, 2019
+    Location: Moscow, Moscow, Russia
+    Weight Class: Middleweight
+    
+
+    Result: KARL ROBERSON defeated ROMAN KOPYLOV via Submission  
+  at 4:01 of round 3
+  Key stats:
+  - KARL ROBERSON landed 43 significant strikes
+  - ROMAN KOPYLOV landed 37 significant strikes
+  - Knockdowns: KARL ROBERSON 0,  ROMAN KOPYLOV 0
+  - Takedowns: KARL ROBERSON 1,  ROMAN KOPYLOV 0

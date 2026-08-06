@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Munoz
+    Date: October 26, 2013
+    Location: Manchester, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIMI MANUWA defeated RYAN JIMMO via KO/TKO  
+  at 4:41 of round 2
+  Key stats:
+  - JIMI MANUWA landed 48 significant strikes
+  - RYAN JIMMO landed 36 significant strikes
+  - Knockdowns: JIMI MANUWA 0,  RYAN JIMMO 0
+  - Takedowns: JIMI MANUWA 0,  RYAN JIMMO 0

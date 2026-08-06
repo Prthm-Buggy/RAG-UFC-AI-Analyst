@@ -1,0 +1,13 @@
+Event: UFC 123: Rampage vs Machida
+    Date: November 20, 2010
+    Location: Auburn Hills, Michigan, USA
+    Weight Class: Lightweight
+    
+
+    Result: NIK LENTZ defeated TYSON GRIFFIN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - NIK LENTZ landed 34 significant strikes
+  - TYSON GRIFFIN landed 31 significant strikes
+  - Knockdowns: NIK LENTZ 0,  TYSON GRIFFIN 1
+  - Takedowns: NIK LENTZ 4,  TYSON GRIFFIN 8

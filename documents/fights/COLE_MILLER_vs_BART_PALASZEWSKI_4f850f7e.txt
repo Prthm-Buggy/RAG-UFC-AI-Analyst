@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Jones vs. Team Sonnen Finale
+    Date: April 13, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: COLE MILLER defeated BART PALASZEWSKI via Submission  
+  at 4:23 of round 1
+  Key stats:
+  - COLE MILLER landed 5 significant strikes
+  - BART PALASZEWSKI landed 18 significant strikes
+  - Knockdowns: COLE MILLER 0,  BART PALASZEWSKI 0
+  - Takedowns: COLE MILLER 1,  BART PALASZEWSKI 0

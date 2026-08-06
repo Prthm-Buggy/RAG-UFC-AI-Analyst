@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holohan vs Smolka
+    Date: October 24, 2015
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Flyweight
+    
+
+    Result: NEIL SEERY defeated JON DELOS REYES via Submission  
+  at 4:12 of round 2
+  Key stats:
+  - NEIL SEERY landed 38 significant strikes
+  - JON DELOS REYES landed 25 significant strikes
+  - Knockdowns: NEIL SEERY 0,  JON DELOS REYES 0
+  - Takedowns: NEIL SEERY 2,  JON DELOS REYES 3
+  Bonus: perf

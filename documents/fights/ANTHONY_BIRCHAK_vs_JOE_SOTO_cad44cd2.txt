@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Boetsch vs Henderson
+    Date: June 06, 2015
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ANTHONY BIRCHAK defeated JOE SOTO via KO/TKO  
+  at 1:37 of round 1
+  Key stats:
+  - ANTHONY BIRCHAK landed 16 significant strikes
+  - JOE SOTO landed 1 significant strikes
+  - Knockdowns: ANTHONY BIRCHAK 2,  JOE SOTO 0
+  - Takedowns: ANTHONY BIRCHAK 0,  JOE SOTO 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Weidman vs. Gastelum
+    Date: July 22, 2017
+    Location: Uniondale, New York, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARLON VERA defeated BRIAN KELLEHER via Submission  
+  at 2:18 of round 1
+  Key stats:
+  - MARLON VERA landed 5 significant strikes
+  - BRIAN KELLEHER landed 8 significant strikes
+  - Knockdowns: MARLON VERA 0,  BRIAN KELLEHER 0
+  - Takedowns: MARLON VERA 0,  BRIAN KELLEHER 1

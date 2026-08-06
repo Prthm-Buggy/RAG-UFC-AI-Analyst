@@ -1,0 +1,11 @@
+Fighter: RAMAZAN TEMIROV
+  Date of Birth: 1997-01-31
+  Career record: 2
+  First fight: 2024-10-12
+  Last fight: 2025-03-01
+
+Career Statistics:
+- Significant Strikes Landed :78
+- Total takedowns landed :1
+- Knockdowns :3
+- Submission Attempts :0

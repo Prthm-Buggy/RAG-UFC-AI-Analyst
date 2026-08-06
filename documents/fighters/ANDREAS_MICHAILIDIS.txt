@@ -1,0 +1,11 @@
+Fighter: ANDREAS MICHAILIDIS
+  Date of Birth: 1988-07-18
+  Career record: 4
+  First fight: 2020-07-15
+  Last fight: 2022-06-04
+
+Career Statistics:
+- Significant Strikes Landed :117
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

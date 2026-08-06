@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edwards vs. Muhammad
+    Date: March 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RYAN SPANN defeated MISHA CIRKUNOV via KO/TKO  
+  at 1:11 of round 1
+  Key stats:
+  - RYAN SPANN landed 16 significant strikes
+  - MISHA CIRKUNOV landed 5 significant strikes
+  - Knockdowns: RYAN SPANN 1,  MISHA CIRKUNOV 0
+  - Takedowns: RYAN SPANN 0,  MISHA CIRKUNOV 0
+  Bonus: perf

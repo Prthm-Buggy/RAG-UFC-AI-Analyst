@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Mousasi vs Latifi
+    Date: April 06, 2013
+    Location: Stockholm, Sweden
+    Weight Class: Heavyweight
+    
+
+    Result: MATT MITRIONE defeated PHILIP DE FRIES via KO/TKO  
+  at 0:19 of round 1
+  Key stats:
+  - MATT MITRIONE landed 7 significant strikes
+  - PHILIP DE FRIES landed 0 significant strikes
+  - Knockdowns: MATT MITRIONE 0,  PHILIP DE FRIES 0
+  - Takedowns: MATT MITRIONE 0,  PHILIP DE FRIES 0

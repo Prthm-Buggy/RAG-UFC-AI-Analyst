@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Alvarez vs. Poirier 2
+    Date: July 28, 2018
+    Location: Calgary, Alberta, Canada
+    Weight Class: Lightweight
+    
+
+    Result: DEVIN POWELL defeated ALVARO HERRERA MENDOZA via KO/TKO  
+  at 1:52 of round 1
+  Key stats:
+  - DEVIN POWELL landed 12 significant strikes
+  - ALVARO HERRERA MENDOZA landed 7 significant strikes
+  - Knockdowns: DEVIN POWELL 1,  ALVARO HERRERA MENDOZA 0
+  - Takedowns: DEVIN POWELL 0,  ALVARO HERRERA MENDOZA 0

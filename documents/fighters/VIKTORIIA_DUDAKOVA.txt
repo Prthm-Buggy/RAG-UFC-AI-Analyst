@@ -1,0 +1,11 @@
+Fighter: VIKTORIIA DUDAKOVA
+  Date of Birth: 1999-01-26
+  Career record: 4
+  First fight: 2023-07-15
+  Last fight: 2025-01-11
+
+Career Statistics:
+- Significant Strikes Landed :139
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :0

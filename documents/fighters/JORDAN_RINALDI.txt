@@ -1,0 +1,11 @@
+Fighter: JORDAN RINALDI
+  Date of Birth: 1987-09-25
+  Career record: 5
+  First fight: 2016-05-29
+  Last fight: 2019-03-16
+
+Career Statistics:
+- Significant Strikes Landed :81
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :4

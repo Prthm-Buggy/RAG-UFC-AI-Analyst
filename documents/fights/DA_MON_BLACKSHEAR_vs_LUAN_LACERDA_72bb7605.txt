@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kara-France vs. Albazi
+    Date: June 03, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DA'MON BLACKSHEAR defeated LUAN LACERDA via KO/TKO  
+  at 3:54 of round 2
+  Key stats:
+  - DA'MON BLACKSHEAR landed 66 significant strikes
+  - LUAN LACERDA landed 28 significant strikes
+  - Knockdowns: DA'MON BLACKSHEAR 0,  LUAN LACERDA 0
+  - Takedowns: DA'MON BLACKSHEAR 1,  LUAN LACERDA 1

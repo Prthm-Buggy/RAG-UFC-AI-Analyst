@@ -1,0 +1,13 @@
+Event: UFC 47: It's On!
+    Date: April 02, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHRIS LYTLE defeated TIKI GHOSN via Submission  
+  at 1:55 of round 2
+  Key stats:
+  - CHRIS LYTLE landed 34 significant strikes
+  - TIKI GHOSN landed 27 significant strikes
+  - Knockdowns: CHRIS LYTLE 0,  TIKI GHOSN 0
+  - Takedowns: CHRIS LYTLE 2,  TIKI GHOSN 0

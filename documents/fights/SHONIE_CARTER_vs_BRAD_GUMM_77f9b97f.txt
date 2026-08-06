@@ -1,0 +1,13 @@
+Event: UFC 24: First Defense
+    Date: March 10, 2000
+    Location: Lake Charles, Louisiana, USA
+    Weight Class: Lightweight
+    
+
+    Result: SHONIE CARTER defeated BRAD GUMM via Decision - Unanimous  
+  at 5:00 of round 2
+  Key stats:
+  - SHONIE CARTER landed 22 significant strikes
+  - BRAD GUMM landed 12 significant strikes
+  - Knockdowns: SHONIE CARTER 0,  BRAD GUMM 0
+  - Takedowns: SHONIE CARTER 5,  BRAD GUMM 0

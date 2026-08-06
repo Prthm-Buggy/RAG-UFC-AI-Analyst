@@ -1,0 +1,14 @@
+Event: UFC 293: Adesanya vs. Strickland
+    Date: September 09, 2023
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Middleweight
+    
+
+    Result: SEAN STRICKLAND defeated ISRAEL ADESANYA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - SEAN STRICKLAND landed 137 significant strikes
+  - ISRAEL ADESANYA landed 94 significant strikes
+  - Knockdowns: SEAN STRICKLAND 1,  ISRAEL ADESANYA 0
+  - Takedowns: SEAN STRICKLAND 0,  ISRAEL ADESANYA 0
+  Bonus: belt

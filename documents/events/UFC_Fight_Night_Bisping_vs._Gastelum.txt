@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Bisping vs. Gastelum
+    Date : November 25, 2017
+    Location: Shanghai, Hebei, China
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Welterweight, Middleweight, Featherweight, Women's Strawweight, Women's Bantamweight
+
+    Fight Results:
+  - YAN XIAONAN def. KAILIN CURRAN via Decision - Unanimous(R3)
+- KELVIN GASTELUM def. MICHAEL BISPING via KO/TKO(R1)
+- SONG KENAN def. BOBBY NASH via KO/TKO(R1)
+- LI JINGLIANG def. ZAK OTTOW via KO/TKO(R1)
+- ROLANDO DY def. WULIJIBUREN via Decision - Unanimous(R3)
+- CYRIL ASKER def. HU YAOZONG via Submission(R2)
+- ALEX GARCIA def. MUSLIM SALIKHOV via Submission(R2)
+- GINA MAZANY def. WU YANAN via Decision - Unanimous(R3)
+- SHAMIL ABDURAKHIMOV def. CHASE SHERMAN via KO/TKO(R1)
+- WANG GUAN def. ALEX CACERES via Decision - Split(R3)
+- SONG YADONG def. BHARAT KANDARE via Submission(R1)
+- ZABIT MAGOMEDSHARIPOV def. SHEYMON MORAES via Submission(R3)

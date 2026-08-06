@@ -1,0 +1,13 @@
+Event: UFC 81: Breaking Point
+    Date: February 02, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: NATE MARQUARDT defeated JEREMY HORN via Submission  
+  at 1:37 of round 2
+  Key stats:
+  - NATE MARQUARDT landed 22 significant strikes
+  - JEREMY HORN landed 5 significant strikes
+  - Knockdowns: NATE MARQUARDT 1,  JEREMY HORN 0
+  - Takedowns: NATE MARQUARDT 2,  JEREMY HORN 1

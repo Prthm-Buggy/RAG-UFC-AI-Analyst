@@ -1,0 +1,11 @@
+Fighter: CAMERON ELSE
+  Date of Birth: 1987-04-27
+  Career record: 2
+  First fight: 2020-10-03
+  Last fight: 2022-04-23
+
+Career Statistics:
+- Significant Strikes Landed :17
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

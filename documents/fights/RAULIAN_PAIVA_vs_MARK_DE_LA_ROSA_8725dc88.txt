@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Anderson vs. Blachowicz
+    Date: February 15, 2020
+    Location: Rio Rancho, New Mexico, USA
+    Weight Class: Flyweight
+    
+
+    Result: RAULIAN PAIVA defeated MARK DE LA ROSA via KO/TKO  
+  at 4:42 of round 2
+  Key stats:
+  - RAULIAN PAIVA landed 54 significant strikes
+  - MARK DE LA ROSA landed 45 significant strikes
+  - Knockdowns: RAULIAN PAIVA 1,  MARK DE LA ROSA 0
+  - Takedowns: RAULIAN PAIVA 0,  MARK DE LA ROSA 0

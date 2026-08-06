@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McGregor vs Brandao
+    Date: July 19, 2014
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Flyweight
+    
+
+    Result: PADDY HOLOHAN defeated JOSH SAMPO via Submission  
+  at 3:06 of round 1
+  Key stats:
+  - PADDY HOLOHAN landed 10 significant strikes
+  - JOSH SAMPO landed 3 significant strikes
+  - Knockdowns: PADDY HOLOHAN 1,  JOSH SAMPO 0
+  - Takedowns: PADDY HOLOHAN 0,  JOSH SAMPO 0

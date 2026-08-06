@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hernandez vs. Pereira
+    Date: October 19, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JEAN MATSUMOTO defeated BRAD KATONA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JEAN MATSUMOTO landed 89 significant strikes
+  - BRAD KATONA landed 89 significant strikes
+  - Knockdowns: JEAN MATSUMOTO 0,  BRAD KATONA 0
+  - Takedowns: JEAN MATSUMOTO 1,  BRAD KATONA 3

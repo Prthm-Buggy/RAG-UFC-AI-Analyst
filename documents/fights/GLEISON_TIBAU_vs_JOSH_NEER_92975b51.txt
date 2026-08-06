@@ -1,0 +1,13 @@
+Event: UFC 104: Machida vs Shogun
+    Date: October 24, 2009
+    Location: Los Angeles, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: GLEISON TIBAU defeated JOSH NEER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - GLEISON TIBAU landed 22 significant strikes
+  - JOSH NEER landed 24 significant strikes
+  - Knockdowns: GLEISON TIBAU 0,  JOSH NEER 0
+  - Takedowns: GLEISON TIBAU 11,  JOSH NEER 0

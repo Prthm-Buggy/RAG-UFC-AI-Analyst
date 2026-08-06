@@ -1,0 +1,14 @@
+Event: UFC 97: Redemption
+    Date: April 18, 2009
+    Location: Montreal, Quebec, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAURICIO RUA defeated CHUCK LIDDELL via KO/TKO  
+  at 4:28 of round 1
+  Key stats:
+  - MAURICIO RUA landed 24 significant strikes
+  - CHUCK LIDDELL landed 8 significant strikes
+  - Knockdowns: MAURICIO RUA 1,  CHUCK LIDDELL 0
+  - Takedowns: MAURICIO RUA 0,  CHUCK LIDDELL 1
+  Bonus: ko

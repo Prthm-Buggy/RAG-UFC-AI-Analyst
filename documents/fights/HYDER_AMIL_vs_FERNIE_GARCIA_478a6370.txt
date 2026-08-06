@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Pyfer
+    Date: February 10, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: HYDER AMIL defeated FERNIE GARCIA via KO/TKO  
+  at 2:12 of round 2
+  Key stats:
+  - HYDER AMIL landed 79 significant strikes
+  - FERNIE GARCIA landed 26 significant strikes
+  - Knockdowns: HYDER AMIL 1,  FERNIE GARCIA 0
+  - Takedowns: HYDER AMIL 1,  FERNIE GARCIA 0

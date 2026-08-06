@@ -1,0 +1,14 @@
+Event: UFC 152: Jones vs Belfort
+    Date: September 22, 2012
+    Location: Toronto, Ontario, Canada
+    Weight Class: Featherweight
+    
+
+    Result: CUB SWANSON defeated CHARLES OLIVEIRA via KO/TKO  
+  at 2:40 of round 1
+  Key stats:
+  - CUB SWANSON landed 9 significant strikes
+  - CHARLES OLIVEIRA landed 6 significant strikes
+  - Knockdowns: CUB SWANSON 1,  CHARLES OLIVEIRA 0
+  - Takedowns: CUB SWANSON 0,  CHARLES OLIVEIRA 1
+  Bonus: ko

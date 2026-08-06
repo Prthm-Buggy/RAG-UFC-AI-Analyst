@@ -1,0 +1,14 @@
+Event: UFC - Ultimate Japan
+    Date: December 21, 1997
+    Location: Yokohama, Kanagawa, Japan
+    Weight Class: Heavyweight
+    
+
+    Result: KAZUSHI SAKURABA defeated MARCUS SILVEIRA via Overturned  
+  at 3:44 of round 1
+  Key stats:
+  - KAZUSHI SAKURABA landed 1 significant strikes
+  - MARCUS SILVEIRA landed 1 significant strikes
+  - Knockdowns: KAZUSHI SAKURABA 0,  MARCUS SILVEIRA 0
+  - Takedowns: KAZUSHI SAKURABA 1,  MARCUS SILVEIRA 1
+  Bonus: belt

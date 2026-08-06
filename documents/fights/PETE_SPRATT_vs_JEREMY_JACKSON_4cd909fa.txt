@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: The Comeback Finale
+    Date: November 11, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: PETE SPRATT defeated JEREMY JACKSON via Submission  
+  at 1:11 of round 2
+  Key stats:
+  - PETE SPRATT landed 12 significant strikes
+  - JEREMY JACKSON landed 5 significant strikes
+  - Knockdowns: PETE SPRATT 0,  JEREMY JACKSON 0
+  - Takedowns: PETE SPRATT 0,  JEREMY JACKSON 2

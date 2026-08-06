@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Santos vs. Ankalaev
+    Date : March 12, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 14
+    Weight Classes: Women's Flyweight, Bantamweight, Light Heavyweight, Featherweight, Middleweight, Welterweight, Lightweight
+
+    Fight Results:
+  - MIRANDA MAVERICK def. SABINA MAZO via Submission(R2)
+- ALEX PEREIRA def. BRUNO SILVA via Decision - Unanimous(R3)
+- DREW DOBER def. TERRANCE MCKINNEY via KO/TKO(R1)
+- CODY BRUNDAGE def. DALCHA LUNGIAMBULA via Submission(R1)
+- GUIDO CANNETTI def. KRIS MOUTINHO via KO/TKO(R1)
+- DAMON JACKSON def. KAMUELA KIRK via Submission(R2)
+- MAGOMED ANKALAEV def. THIAGO SANTOS via Decision - Unanimous(R5)
+- AZAMAT MURZAKANOV def. TAFON NCHUKWI via KO/TKO(R3)
+- JAVID BASHARAT def. TREVIN JONES via Decision - Unanimous(R3)
+- MATTHEW SEMELSBERGER def. AJ FLETCHER via Decision - Unanimous(R3)
+- SONG YADONG def. MARLON MORAES via KO/TKO(R1)
+- KHALIL ROUNTREE JR. def. KARL ROBERSON via KO/TKO(R2)
+- SODIQ YUSUFF def. ALEX CACERES via Decision - Unanimous(R3)
+- JJ ALDRICH def. GILLIAN ROBERTSON via Decision - Unanimous(R3)

@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Overeem vs. Rozenstruik
+    Date : December 07, 2019
+    Location: Washington, DC, USA
+    Number of Fights: 10
+    Weight Classes: Women's Bantamweight, Featherweight, Welterweight, Women's Strawweight, Lightweight, Middleweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - ROB FONT def. RICKY SIMON via Decision - Unanimous(R3)
+- VIRNA JANDIROBA def. MALLORY MARTIN via Submission(R2)
+- BILLY QUARANTILLO def. JACOB KILBURN via Submission(R2)
+- BRYCE MITCHELL def. MATT SAYLES via Submission(R1)
+- JAIRZINHO ROZENSTRUIK def. ALISTAIR OVEREEM via KO/TKO(R5)
+- ASPEN LADD def. YANA SANTOS via KO/TKO(R3)
+- JOE SOLECKI def. MATT WIMAN via Decision - Unanimous(R3)
+- MAKHMUD MURADOV def. TREVOR SMITH via KO/TKO(R3)
+- TIM MEANS def. THIAGO ALVES via Submission(R1)
+- BEN ROTHWELL def. STEFAN STRUVE via KO/TKO(R2)

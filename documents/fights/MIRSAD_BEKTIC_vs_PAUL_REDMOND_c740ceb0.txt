@@ -1,0 +1,13 @@
+Event: UFC on FOX: Gustafsson vs Johnson
+    Date: January 24, 2015
+    Location: Stockholm, Sweden
+    Weight Class: Featherweight
+    
+
+    Result: MIRSAD BEKTIC defeated PAUL REDMOND via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MIRSAD BEKTIC landed 34 significant strikes
+  - PAUL REDMOND landed 2 significant strikes
+  - Knockdowns: MIRSAD BEKTIC 0,  PAUL REDMOND 0
+  - Takedowns: MIRSAD BEKTIC 2,  PAUL REDMOND 0

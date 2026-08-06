@@ -1,0 +1,11 @@
+Fighter: TYRON WOODLEY
+  Date of Birth: 1982-04-07
+  Career record: 15
+  First fight: 2013-02-02
+  Last fight: 2021-03-27
+
+Career Statistics:
+- Significant Strikes Landed :467
+- Total takedowns landed :5
+- Knockdowns :9
+- Submission Attempts :1

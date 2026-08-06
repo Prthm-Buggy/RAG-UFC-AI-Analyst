@@ -1,0 +1,14 @@
+Event: UFC 232: Jones vs. Gustafsson 2
+    Date: December 29, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated ALEXANDER GUSTAFSSON via KO/TKO  
+  at 2:02 of round 3
+  Key stats:
+  - JON JONES landed 59 significant strikes
+  - ALEXANDER GUSTAFSSON landed 22 significant strikes
+  - Knockdowns: JON JONES 0,  ALEXANDER GUSTAFSSON 0
+  - Takedowns: JON JONES 1,  ALEXANDER GUSTAFSSON 0
+  Bonus: belt

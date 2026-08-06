@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kara-France vs. Albazi
+    Date: June 03, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ELISE REED defeated JINH YU FREY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ELISE REED landed 53 significant strikes
+  - JINH YU FREY landed 28 significant strikes
+  - Knockdowns: ELISE REED 0,  JINH YU FREY 0
+  - Takedowns: ELISE REED 0,  JINH YU FREY 3

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Felder vs. Dos Anjos
+    Date: November 14, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALEX MORONO defeated RHYS MCKEE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALEX MORONO landed 176 significant strikes
+  - RHYS MCKEE landed 124 significant strikes
+  - Knockdowns: ALEX MORONO 0,  RHYS MCKEE 0
+  - Takedowns: ALEX MORONO 3,  RHYS MCKEE 0

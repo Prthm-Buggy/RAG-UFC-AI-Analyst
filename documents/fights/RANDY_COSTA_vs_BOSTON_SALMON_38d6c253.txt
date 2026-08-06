@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Reyes vs. Weidman
+    Date: October 18, 2019
+    Location: Boston, Massachusetts, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RANDY COSTA defeated BOSTON SALMON via KO/TKO  
+  at 2:15 of round 1
+  Key stats:
+  - RANDY COSTA landed 22 significant strikes
+  - BOSTON SALMON landed 12 significant strikes
+  - Knockdowns: RANDY COSTA 2,  BOSTON SALMON 0
+  - Takedowns: RANDY COSTA 0,  BOSTON SALMON 0

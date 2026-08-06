@@ -1,0 +1,13 @@
+Event: UFC 195: Lawler vs Condit
+    Date: January 02, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: BRIAN ORTEGA defeated DIEGO BRANDAO via Submission  
+  at 1:37 of round 3
+  Key stats:
+  - BRIAN ORTEGA landed 29 significant strikes
+  - DIEGO BRANDAO landed 56 significant strikes
+  - Knockdowns: BRIAN ORTEGA 0,  DIEGO BRANDAO 0
+  - Takedowns: BRIAN ORTEGA 0,  DIEGO BRANDAO 2

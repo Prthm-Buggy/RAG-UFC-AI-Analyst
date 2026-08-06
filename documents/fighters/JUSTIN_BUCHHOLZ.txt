@@ -1,0 +1,11 @@
+Fighter: JUSTIN BUCHHOLZ
+  Date of Birth: 1983-08-22
+  Career record: 5
+  First fight: 2008-01-23
+  Last fight: 2010-02-06
+
+Career Statistics:
+- Significant Strikes Landed :89
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :2

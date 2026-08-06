@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Teixeira vs Saint Preux
+    Date: August 08, 2015
+    Location: Nashville, Tennessee, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARLON VERA defeated ROMAN SALAZAR via Submission  
+  at 2:15 of round 2
+  Key stats:
+  - MARLON VERA landed 25 significant strikes
+  - ROMAN SALAZAR landed 14 significant strikes
+  - Knockdowns: MARLON VERA 0,  ROMAN SALAZAR 0
+  - Takedowns: MARLON VERA 0,  ROMAN SALAZAR 1
+  Bonus: perf

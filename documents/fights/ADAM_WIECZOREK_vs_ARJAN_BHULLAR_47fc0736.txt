@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Poirier vs. Gaethje
+    Date: April 14, 2018
+    Location: Glendale, Arizona, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ADAM WIECZOREK defeated ARJAN BHULLAR via Submission  
+  at 1:59 of round 2
+  Key stats:
+  - ADAM WIECZOREK landed 13 significant strikes
+  - ARJAN BHULLAR landed 9 significant strikes
+  - Knockdowns: ADAM WIECZOREK 0,  ARJAN BHULLAR 0
+  - Takedowns: ADAM WIECZOREK 0,  ARJAN BHULLAR 2
+  Bonus: perf

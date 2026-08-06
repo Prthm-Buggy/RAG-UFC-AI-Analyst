@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. The Korean Zombie
+    Date: August 26, 2023
+    Location: Kallang, Singapore
+    Weight Class: Welterweight
+    
+
+    Result: SONG KENAN defeated ROLANDO BEDOYA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SONG KENAN landed 75 significant strikes
+  - ROLANDO BEDOYA landed 112 significant strikes
+  - Knockdowns: SONG KENAN 1,  ROLANDO BEDOYA 0
+  - Takedowns: SONG KENAN 0,  ROLANDO BEDOYA 0

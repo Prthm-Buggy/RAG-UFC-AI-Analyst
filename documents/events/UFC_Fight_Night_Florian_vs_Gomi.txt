@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Florian vs Gomi
+    Date : March 31, 2010
+    Location: Charlotte, North Carolina, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Lightweight, Middleweight, Welterweight
+
+    Fight Results:
+  - GLEISON TIBAU def. CAOL UNO via KO/TKO(R1)
+- NIK LENTZ def. ROB EMERSON via Decision - Unanimous(R3)
+- JORGE RIVERA def. NATE QUARRY via KO/TKO(R2)
+- ROSS PEARSON def. DENNIS SIVER via Decision - Unanimous(R3)
+- GERALD HARRIS def. MARIO MIRANDA via KO/TKO(R1)
+- CHARLIE BRENNEMAN def. JASON HIGH via Decision - Unanimous(R3)
+- ROY NELSON def. STEFAN STRUVE via KO/TKO(R1)
+- ANDRE WINNER def. RAFAELLO OLIVEIRA via Decision - Unanimous(R3)
+- KENNY FLORIAN def. TAKANORI GOMI via Submission(R3)
+- YUSHIN OKAMI def. LUCIO LINHARES via TKO - Doctor's Stoppage(R2)
+- JACOB VOLKMANN def. RONYS TORRES via Decision - Split(R3)

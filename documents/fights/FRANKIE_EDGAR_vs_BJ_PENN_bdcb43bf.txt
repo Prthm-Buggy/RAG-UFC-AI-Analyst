@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Edgar vs. Team Penn Finale
+    Date: July 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: FRANKIE EDGAR defeated BJ PENN via KO/TKO  
+  at 4:16 of round 3
+  Key stats:
+  - FRANKIE EDGAR landed 90 significant strikes
+  - BJ PENN landed 13 significant strikes
+  - Knockdowns: FRANKIE EDGAR 0,  BJ PENN 0
+  - Takedowns: FRANKIE EDGAR 3,  BJ PENN 0

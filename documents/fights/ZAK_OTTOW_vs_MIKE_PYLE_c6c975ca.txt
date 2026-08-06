@@ -1,0 +1,13 @@
+Event: UFC 222: Cyborg vs. Kunitskaya
+    Date: March 03, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ZAK OTTOW defeated MIKE PYLE via KO/TKO  
+  at 2:34 of round 1
+  Key stats:
+  - ZAK OTTOW landed 22 significant strikes
+  - MIKE PYLE landed 4 significant strikes
+  - Knockdowns: ZAK OTTOW 1,  MIKE PYLE 0
+  - Takedowns: ZAK OTTOW 0,  MIKE PYLE 0

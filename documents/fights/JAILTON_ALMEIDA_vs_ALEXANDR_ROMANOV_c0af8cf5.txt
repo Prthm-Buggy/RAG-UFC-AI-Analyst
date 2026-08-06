@@ -1,0 +1,13 @@
+Event: UFC 302: Makhachev vs. Poirier
+    Date: June 01, 2024
+    Location: Newark, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAILTON ALMEIDA defeated ALEXANDR ROMANOV via Submission  
+  at 2:27 of round 1
+  Key stats:
+  - JAILTON ALMEIDA landed 1 significant strikes
+  - ALEXANDR ROMANOV landed 1 significant strikes
+  - Knockdowns: JAILTON ALMEIDA 0,  ALEXANDR ROMANOV 0
+  - Takedowns: JAILTON ALMEIDA 1,  ALEXANDR ROMANOV 0

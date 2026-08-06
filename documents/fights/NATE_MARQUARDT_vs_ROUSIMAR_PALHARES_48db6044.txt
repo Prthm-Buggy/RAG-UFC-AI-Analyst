@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Marquardt vs Palhares
+    Date: September 15, 2010
+    Location: Austin, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: NATE MARQUARDT defeated ROUSIMAR PALHARES via KO/TKO  
+  at 3:28 of round 1
+  Key stats:
+  - NATE MARQUARDT landed 13 significant strikes
+  - ROUSIMAR PALHARES landed 1 significant strikes
+  - Knockdowns: NATE MARQUARDT 0,  ROUSIMAR PALHARES 0
+  - Takedowns: NATE MARQUARDT 0,  ROUSIMAR PALHARES 0

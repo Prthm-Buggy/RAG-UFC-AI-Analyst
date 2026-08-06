@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gonzaga vs Cro Cop 2
+    Date: April 11, 2015
+    Location: Krakow, Poland
+    Weight Class: Welterweight
+    
+
+    Result: LEON EDWARDS defeated SETH BACZYNSKI via KO/TKO  
+  at 0:08 of round 1
+  Key stats:
+  - LEON EDWARDS landed 3 significant strikes
+  - SETH BACZYNSKI landed 0 significant strikes
+  - Knockdowns: LEON EDWARDS 1,  SETH BACZYNSKI 0
+  - Takedowns: LEON EDWARDS 0,  SETH BACZYNSKI 0
+  Bonus: perf

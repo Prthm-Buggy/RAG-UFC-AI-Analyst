@@ -1,0 +1,13 @@
+Event: UFC 75: Champion vs Champion
+    Date: September 08, 2007
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: DENNIS SIVER defeated NAOYUKI KOTANI via KO/TKO  
+  at 2:04 of round 2
+  Key stats:
+  - DENNIS SIVER landed 28 significant strikes
+  - NAOYUKI KOTANI landed 9 significant strikes
+  - Knockdowns: DENNIS SIVER 1,  NAOYUKI KOTANI 0
+  - Takedowns: DENNIS SIVER 0,  NAOYUKI KOTANI 0

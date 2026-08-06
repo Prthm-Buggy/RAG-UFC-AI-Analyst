@@ -1,0 +1,11 @@
+Fighter: FRANK MIR
+  Date of Birth: 1979-05-24
+  Career record: 27
+  First fight: 2001-11-02
+  Last fight: 2016-03-19
+
+Career Statistics:
+- Significant Strikes Landed :339
+- Total takedowns landed :21
+- Knockdowns :8
+- Submission Attempts :21

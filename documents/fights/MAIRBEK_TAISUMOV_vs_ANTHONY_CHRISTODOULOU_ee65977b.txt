@@ -1,0 +1,13 @@
+Event: UFC on FOX: Gustafsson vs Johnson
+    Date: January 24, 2015
+    Location: Stockholm, Sweden
+    Weight Class: Lightweight
+    
+
+    Result: MAIRBEK TAISUMOV defeated ANTHONY CHRISTODOULOU via KO/TKO  
+  at 0:38 of round 2
+  Key stats:
+  - MAIRBEK TAISUMOV landed 37 significant strikes
+  - ANTHONY CHRISTODOULOU landed 9 significant strikes
+  - Knockdowns: MAIRBEK TAISUMOV 0,  ANTHONY CHRISTODOULOU 0
+  - Takedowns: MAIRBEK TAISUMOV 2,  ANTHONY CHRISTODOULOU 0

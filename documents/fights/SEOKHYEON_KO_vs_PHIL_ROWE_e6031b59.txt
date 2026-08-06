@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Garcia vs. Onama
+    Date: November 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SEOKHYEON KO defeated PHIL ROWE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SEOKHYEON KO landed 36 significant strikes
+  - PHIL ROWE landed 4 significant strikes
+  - Knockdowns: SEOKHYEON KO 0,  PHIL ROWE 0
+  - Takedowns: SEOKHYEON KO 4,  PHIL ROWE 0

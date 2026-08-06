@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fight for the Troops 2
+    Date: January 22, 2011
+    Location: Killeen, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: MARK HOMINICK defeated GEORGE ROOP via KO/TKO  
+  at 1:28 of round 1
+  Key stats:
+  - MARK HOMINICK landed 9 significant strikes
+  - GEORGE ROOP landed 12 significant strikes
+  - Knockdowns: MARK HOMINICK 2,  GEORGE ROOP 0
+  - Takedowns: MARK HOMINICK 0,  GEORGE ROOP 0

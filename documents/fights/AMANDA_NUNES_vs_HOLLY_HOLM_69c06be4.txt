@@ -1,0 +1,14 @@
+Event: UFC 239: Jones vs. Santos
+    Date: July 06, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AMANDA NUNES defeated HOLLY HOLM via KO/TKO  
+  at 4:10 of round 1
+  Key stats:
+  - AMANDA NUNES landed 17 significant strikes
+  - HOLLY HOLM landed 11 significant strikes
+  - Knockdowns: AMANDA NUNES 1,  HOLLY HOLM 0
+  - Takedowns: AMANDA NUNES 0,  HOLLY HOLM 0
+  Bonus: belt

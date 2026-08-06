@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Daukaus
+    Date: December 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated CHRIS DAUKAUS via KO/TKO  
+  at 3:36 of round 1
+  Key stats:
+  - DERRICK LEWIS landed 14 significant strikes
+  - CHRIS DAUKAUS landed 10 significant strikes
+  - Knockdowns: DERRICK LEWIS 1,  CHRIS DAUKAUS 0
+  - Takedowns: DERRICK LEWIS 0,  CHRIS DAUKAUS 0

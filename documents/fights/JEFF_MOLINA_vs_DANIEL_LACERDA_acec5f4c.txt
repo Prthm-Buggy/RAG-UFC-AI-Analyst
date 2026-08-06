@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Costa vs. Vettori
+    Date: October 23, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JEFF MOLINA defeated DANIEL LACERDA via KO/TKO  
+  at 0:46 of round 2
+  Key stats:
+  - JEFF MOLINA landed 47 significant strikes
+  - DANIEL LACERDA landed 20 significant strikes
+  - Knockdowns: JEFF MOLINA 1,  DANIEL LACERDA 0
+  - Takedowns: JEFF MOLINA 0,  DANIEL LACERDA 0

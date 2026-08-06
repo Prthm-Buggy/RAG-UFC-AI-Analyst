@@ -1,0 +1,13 @@
+Event: UFC 77: Hostile Territory
+    Date: October 20, 2007
+    Location: Cincinnati, Ohio, USA
+    Weight Class: Lightweight
+    
+
+    Result: ALVIN ROBINSON defeated JORGE GURGEL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALVIN ROBINSON landed 44 significant strikes
+  - JORGE GURGEL landed 3 significant strikes
+  - Knockdowns: ALVIN ROBINSON 0,  JORGE GURGEL 0
+  - Takedowns: ALVIN ROBINSON 2,  JORGE GURGEL 0

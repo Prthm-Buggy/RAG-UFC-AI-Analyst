@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McDonald vs. Lineker
+    Date: July 13, 2016
+    Location: Sioux Falls, South Dakota, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RANI YAHYA defeated MATTHEW LOPEZ via Submission  
+  at 4:19 of round 3
+  Key stats:
+  - RANI YAHYA landed 40 significant strikes
+  - MATTHEW LOPEZ landed 14 significant strikes
+  - Knockdowns: RANI YAHYA 0,  MATTHEW LOPEZ 0
+  - Takedowns: RANI YAHYA 3,  MATTHEW LOPEZ 1

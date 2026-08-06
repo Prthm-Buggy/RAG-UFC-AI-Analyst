@@ -1,0 +1,18 @@
+Event : UFC 133: Evans vs Ortiz 2
+    Date : August 06, 2011
+    Location: Philadelphia, Pennsylvania, USA
+    Number of Fights: 11
+    Weight Classes: Featherweight, Middleweight, Light Heavyweight, Welterweight, Bantamweight
+
+    Fight Results:
+  - JOHNY HENDRICKS def. MIKE PIERCE via Decision - Split(R3)
+- ALEXANDER GUSTAFSSON def. MATT HAMILL via KO/TKO(R2)
+- VITOR BELFORT def. YOSHIHIRO AKIYAMA via KO/TKO(R1)
+- CHAD MENDES def. RANI YAHYA via Decision - Unanimous(R3)
+- BRIAN EBERSOLE def. DENNIS HALLMAN via KO/TKO(R1)
+- RORY MACDONALD def. MIKE PYLE via KO/TKO(R1)
+- MIKE BROWN def. NAM PHAN via Decision - Unanimous(R3)
+- RASHAD EVANS def. TITO ORTIZ via KO/TKO(R2)
+- CONSTANTINOS PHILIPPOU def. JORGE RIVERA via Decision - Split(R3)
+- IVAN MENJIVAR def. NICK PACE via Decision - Unanimous(R3)
+- RAFAEL NATAL def. PAUL BRADLEY via Decision - Unanimous(R3)

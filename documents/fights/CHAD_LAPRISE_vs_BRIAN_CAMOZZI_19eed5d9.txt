@@ -1,0 +1,14 @@
+Event: UFC 213: Romero vs. Whittaker
+    Date: July 08, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHAD LAPRISE defeated BRIAN CAMOZZI via KO/TKO  
+  at 1:27 of round 3
+  Key stats:
+  - CHAD LAPRISE landed 76 significant strikes
+  - BRIAN CAMOZZI landed 47 significant strikes
+  - Knockdowns: CHAD LAPRISE 1,  BRIAN CAMOZZI 0
+  - Takedowns: CHAD LAPRISE 1,  BRIAN CAMOZZI 0
+  Bonus: perf

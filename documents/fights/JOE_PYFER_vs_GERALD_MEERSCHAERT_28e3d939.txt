@@ -1,0 +1,13 @@
+Event: UFC 287: Pereira vs. Adesanya 2
+    Date: April 08, 2023
+    Location: Miami, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOE PYFER defeated GERALD MEERSCHAERT via KO/TKO  
+  at 3:15 of round 1
+  Key stats:
+  - JOE PYFER landed 14 significant strikes
+  - GERALD MEERSCHAERT landed 10 significant strikes
+  - Knockdowns: JOE PYFER 0,  GERALD MEERSCHAERT 0
+  - Takedowns: JOE PYFER 0,  GERALD MEERSCHAERT 0

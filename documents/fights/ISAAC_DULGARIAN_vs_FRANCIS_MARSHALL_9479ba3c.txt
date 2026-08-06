@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Luque vs. Dos Anjos
+    Date: August 12, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ISAAC DULGARIAN defeated FRANCIS MARSHALL via KO/TKO  
+  at 4:48 of round 1
+  Key stats:
+  - ISAAC DULGARIAN landed 35 significant strikes
+  - FRANCIS MARSHALL landed 2 significant strikes
+  - Knockdowns: ISAAC DULGARIAN 0,  FRANCIS MARSHALL 0
+  - Takedowns: ISAAC DULGARIAN 1,  FRANCIS MARSHALL 0

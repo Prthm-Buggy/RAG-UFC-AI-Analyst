@@ -1,0 +1,13 @@
+Event: UFC 75: Champion vs Champion
+    Date: September 08, 2007
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: JESS LIAUDIN defeated ANTHONY TORRES via KO/TKO  
+  at 4:10 of round 1
+  Key stats:
+  - JESS LIAUDIN landed 38 significant strikes
+  - ANTHONY TORRES landed 13 significant strikes
+  - Knockdowns: JESS LIAUDIN 2,  ANTHONY TORRES 0
+  - Takedowns: JESS LIAUDIN 0,  ANTHONY TORRES 0

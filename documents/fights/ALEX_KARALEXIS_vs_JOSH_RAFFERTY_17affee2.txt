@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Couture vs. Team Liddell Finale
+    Date: April 09, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALEX KARALEXIS defeated JOSH RAFFERTY via KO/TKO  
+  at 1:40 of round 1
+  Key stats:
+  - ALEX KARALEXIS landed 6 significant strikes
+  - JOSH RAFFERTY landed 1 significant strikes
+  - Knockdowns: ALEX KARALEXIS 0,  JOSH RAFFERTY 0
+  - Takedowns: ALEX KARALEXIS 0,  JOSH RAFFERTY 0

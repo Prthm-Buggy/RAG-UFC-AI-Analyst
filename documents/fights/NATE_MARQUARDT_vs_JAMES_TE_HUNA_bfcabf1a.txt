@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Te Huna vs Marquardt
+    Date: June 28, 2014
+    Location: Auckland, New Zealand
+    Weight Class: Middleweight
+    
+
+    Result: NATE MARQUARDT defeated JAMES TE HUNA via Submission  
+  at 4:34 of round 1
+  Key stats:
+  - NATE MARQUARDT landed 17 significant strikes
+  - JAMES TE HUNA landed 6 significant strikes
+  - Knockdowns: NATE MARQUARDT 1,  JAMES TE HUNA 0
+  - Takedowns: NATE MARQUARDT 2,  JAMES TE HUNA 0
+  Bonus: perf

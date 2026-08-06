@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McGregor vs Brandao
+    Date: July 19, 2014
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Light Heavyweight
+    
+
+    Result: NIKITA KRYLOV defeated CODY DONOVAN via KO/TKO  
+  at 4:57 of round 1
+  Key stats:
+  - NIKITA KRYLOV landed 42 significant strikes
+  - CODY DONOVAN landed 21 significant strikes
+  - Knockdowns: NIKITA KRYLOV 0,  CODY DONOVAN 1
+  - Takedowns: NIKITA KRYLOV 0,  CODY DONOVAN 1

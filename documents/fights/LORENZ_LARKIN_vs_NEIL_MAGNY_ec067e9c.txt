@@ -1,0 +1,13 @@
+Event: UFC 202: Diaz vs. McGregor 2
+    Date: August 20, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: LORENZ LARKIN defeated NEIL MAGNY via KO/TKO  
+  at 4:08 of round 1
+  Key stats:
+  - LORENZ LARKIN landed 32 significant strikes
+  - NEIL MAGNY landed 8 significant strikes
+  - Knockdowns: LORENZ LARKIN 1,  NEIL MAGNY 0
+  - Takedowns: LORENZ LARKIN 0,  NEIL MAGNY 0

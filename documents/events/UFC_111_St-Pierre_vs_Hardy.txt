@@ -1,0 +1,17 @@
+Event : UFC 111: St-Pierre vs Hardy
+    Date : March 27, 2010
+    Location: Newark, New Jersey, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Lightweight, Welterweight, Light Heavyweight, Middleweight
+
+    Fight Results:
+  - JIM MILLER def. MARK BOCEK via Decision - Unanimous(R3)
+- NATE DIAZ def. RORY MARKHAM via KO/TKO(R1)
+- JON FITCH def. BEN SAUNDERS via Decision - Unanimous(R3)
+- ROUSIMAR PALHARES def. TOMASZ DRWAL via Submission(R1)
+- GEORGES ST-PIERRE def. DAN HARDY via Decision - Unanimous(R5)
+- JARED HAMMAN def. RODNEY WALLACE via Decision - Unanimous(R3)
+- KURT PELLEGRINO def. FABRICIO CAMOES via Submission(R2)
+- SHANE CARWIN def. FRANK MIR via KO/TKO(R1)
+- RICARDO ALMEIDA def. MATT BROWN via Submission(R2)
+- MATTHEW RIDDLE def. GREG SOTO via DQ(R3)

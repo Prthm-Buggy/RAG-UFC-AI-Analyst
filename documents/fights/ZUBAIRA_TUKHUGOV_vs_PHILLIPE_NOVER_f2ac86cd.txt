@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. VanZant
+    Date: December 10, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ZUBAIRA TUKHUGOV defeated PHILLIPE NOVER via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ZUBAIRA TUKHUGOV landed 21 significant strikes
+  - PHILLIPE NOVER landed 20 significant strikes
+  - Knockdowns: ZUBAIRA TUKHUGOV 0,  PHILLIPE NOVER 0
+  - Takedowns: ZUBAIRA TUKHUGOV 1,  PHILLIPE NOVER 0

@@ -1,0 +1,18 @@
+Event : UFC 213: Romero vs. Whittaker
+    Date : July 08, 2017
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Bantamweight, Middleweight, Welterweight, Lightweight, Light Heavyweight, Featherweight
+
+    Fight Results:
+  - ROBERT WHITTAKER def. YOEL ROMERO via Decision - Unanimous(R5)
+- BELAL MUHAMMAD def. JORDAN MEIN via Decision - Unanimous(R3)
+- CURTIS BLAYDES def. DANIEL OMIELANCZUK via Decision - Unanimous(R3)
+- THIAGO SANTOS def. GERALD MEERSCHAERT via KO/TKO(R2)
+- ROB FONT def. DOUGLAS SILVA DE ANDRADE via Submission(R2)
+- ALEKSEI OLEINIK def. TRAVIS BROWNE via Submission(R2)
+- ALISTAIR OVEREEM def. FABRICIO WERDUM via Decision - Majority(R3)
+- ANTHONY PETTIS def. JIM MILLER via Decision - Unanimous(R3)
+- TREVIN GILES def. JAMES BOCHNOVIC via KO/TKO(R2)
+- CHAD LAPRISE def. BRIAN CAMOZZI via KO/TKO(R3)
+- CODY STAMANN def. TERRION WARE via Decision - Unanimous(R3)

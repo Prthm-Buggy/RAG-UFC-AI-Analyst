@@ -1,0 +1,18 @@
+Event : UFC 246: McGregor vs. Cowboy
+    Date : January 18, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Women's Bantamweight, Welterweight, Lightweight, Flyweight, Light Heavyweight, Featherweight, Heavyweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - DREW DOBER def. NASRAT HAQPARAST via KO/TKO(R1)
+- ROXANNE MODAFFERI def. MAYCEE BARBER via Decision - Unanimous(R3)
+- ALEKSEI OLEINIK def. MAURICE GREENE via Submission(R2)
+- BRIAN KELLEHER def. ODE OSBOURNE via Submission(R1)
+- ALEKSA CAMUR def. JUSTIN LEDET via Decision - Unanimous(R3)
+- SABINA MAZO def. JJ ALDRICH via Decision - Split(R3)
+- HOLLY HOLM def. RAQUEL PENNINGTON via Decision - Unanimous(R3)
+- ASKAR ASKAROV def. TIM ELLIOTT via Decision - Unanimous(R3)
+- DIEGO FERREIRA def. ANTHONY PETTIS via Submission(R2)
+- SODIQ YUSUFF def. ANDRE FILI via Decision - Unanimous(R3)
+- CONOR MCGREGOR def. DONALD CERRONE via KO/TKO(R1)

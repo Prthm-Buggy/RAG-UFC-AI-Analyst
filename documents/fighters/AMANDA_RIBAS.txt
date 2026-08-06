@@ -1,0 +1,11 @@
+Fighter: AMANDA RIBAS
+  Date of Birth: 1993-08-26
+  Career record: 13
+  First fight: 2019-06-29
+  Last fight: 2025-07-26
+
+Career Statistics:
+- Significant Strikes Landed :686
+- Total takedowns landed :22
+- Knockdowns :1
+- Submission Attempts :6

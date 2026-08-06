@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Jacare vs Mousasi
+    Date : September 05, 2014
+    Location: Ledyard, Connecticut, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Middleweight, Flyweight, Featherweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - JACARE SOUZA def. GEGARD MOUSASI via Submission(R3)
+- CHAS SKELLY def. SEAN SORIANO via Decision - Unanimous(R3)
+- JOE LAUZON def. MICHAEL CHIESA via TKO - Doctor's Stoppage(R2)
+- AL IAQUINTA def. RODRIGO DAMM via KO/TKO(R3)
+- CHRIS BEAL def. TATEKI MATSUDA via Decision - Unanimous(R3)
+- JOHN MORAGA def. JUSTIN SCOGGINS via Submission(R2)
+- RAFAEL NATAL def. CHRIS CAMOZZI via Decision - Split(R3)
+- BEN ROTHWELL def. ALISTAIR OVEREEM via KO/TKO(R1)
+- MATT MITRIONE def. DERRICK LEWIS via KO/TKO(R1)

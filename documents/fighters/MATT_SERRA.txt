@@ -1,0 +1,11 @@
+Fighter: MATT SERRA
+  Date of Birth: 1974-06-02
+  Career record: 14
+  First fight: 2001-05-04
+  Last fight: 2010-09-25
+
+Career Statistics:
+- Significant Strikes Landed :333
+- Total takedowns landed :23
+- Knockdowns :5
+- Submission Attempts :10

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Masvidal
+    Date: November 28, 2015
+    Location: Seoul, South Korea
+    Weight Class: Flyweight
+    
+
+    Result: FREDY SERRANO defeated YAO ZHIKUI via KO/TKO  
+  at 0:44 of round 1
+  Key stats:
+  - FREDY SERRANO landed 3 significant strikes
+  - YAO ZHIKUI landed 1 significant strikes
+  - Knockdowns: FREDY SERRANO 0,  YAO ZHIKUI 0
+  - Takedowns: FREDY SERRANO 1,  YAO ZHIKUI 0

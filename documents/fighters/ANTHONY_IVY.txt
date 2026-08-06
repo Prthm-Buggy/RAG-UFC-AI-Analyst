@@ -1,0 +1,11 @@
+Fighter: ANTHONY IVY
+  Date of Birth: 1990-01-23
+  Career record: 2
+  First fight: 2020-06-13
+  Last fight: 2020-09-12
+
+Career Statistics:
+- Significant Strikes Landed :40
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

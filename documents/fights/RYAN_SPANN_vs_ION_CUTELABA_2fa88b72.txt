@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blachowicz vs. Rakic
+    Date: May 14, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RYAN SPANN defeated ION CUTELABA via Submission  
+  at 2:22 of round 1
+  Key stats:
+  - RYAN SPANN landed 4 significant strikes
+  - ION CUTELABA landed 2 significant strikes
+  - Knockdowns: RYAN SPANN 0,  ION CUTELABA 0
+  - Takedowns: RYAN SPANN 0,  ION CUTELABA 3
+  Bonus: perf

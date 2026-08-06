@@ -1,0 +1,11 @@
+Fighter: MARCIN PRACHNIO
+  Date of Birth: 1988-07-14
+  Career record: 11
+  First fight: 2018-02-24
+  Last fight: 2025-07-19
+
+Career Statistics:
+- Significant Strikes Landed :593
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

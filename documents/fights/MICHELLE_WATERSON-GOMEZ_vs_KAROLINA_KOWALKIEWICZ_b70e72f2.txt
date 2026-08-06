@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Gaethje
+    Date: March 30, 2019
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MICHELLE WATERSON-GOMEZ defeated KAROLINA KOWALKIEWICZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MICHELLE WATERSON-GOMEZ landed 64 significant strikes
+  - KAROLINA KOWALKIEWICZ landed 57 significant strikes
+  - Knockdowns: MICHELLE WATERSON-GOMEZ 0,  KAROLINA KOWALKIEWICZ 0
+  - Takedowns: MICHELLE WATERSON-GOMEZ 2,  KAROLINA KOWALKIEWICZ 0

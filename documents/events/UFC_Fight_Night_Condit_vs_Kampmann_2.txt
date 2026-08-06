@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Condit vs Kampmann 2
+    Date : August 28, 2013
+    Location: Indianapolis, Indiana, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Welterweight, Middleweight, Lightweight, Featherweight
+
+    Fight Results:
+  - RAFAEL DOS ANJOS def. DONALD CERRONE via Decision - Unanimous(R3)
+- BRANDON THATCH def. JUSTIN EDWARDS via KO/TKO(R1)
+- ZAK CUMMINGS def. BEN ALLOWAY via Submission(R1)
+- TAKEYA MIZUGAKI def. ERIK PEREZ via Decision - Split(R3)
+- BRAD TAVARES def. ROBERT MCDANIEL via Decision - Unanimous(R3)
+- JASON HIGH def. JAMES HEAD via Submission(R1)
+- DARREN ELKINS def. HATSU HIOKI via Decision - Unanimous(R3)
+- DYLAN ANDREWS def. PAPY ABEDI via KO/TKO(R3)
+- COURT MCGEE def. ROBERT WHITTAKER via Decision - Split(R3)
+- CARLOS CONDIT def. MARTIN KAMPMANN via KO/TKO(R4)
+- KELVIN GASTELUM def. BRIAN MELANCON via Submission(R1)

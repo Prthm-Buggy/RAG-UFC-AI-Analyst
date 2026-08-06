@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Pettis vs. Moreno
+    Date: August 05, 2017
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Bantamweight
+    
+
+    Result: RANI YAHYA defeated HENRY BRIONES via Submission  
+  at 2:01 of round 1
+  Key stats:
+  - RANI YAHYA landed 3 significant strikes
+  - HENRY BRIONES landed 0 significant strikes
+  - Knockdowns: RANI YAHYA 0,  HENRY BRIONES 0
+  - Takedowns: RANI YAHYA 1,  HENRY BRIONES 0

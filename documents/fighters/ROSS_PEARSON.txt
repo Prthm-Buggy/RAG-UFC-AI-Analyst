@@ -1,0 +1,11 @@
+Fighter: ROSS PEARSON
+  Date of Birth: 1984-09-26
+  Career record: 25
+  First fight: 2009-06-20
+  Last fight: 2019-03-30
+
+Career Statistics:
+- Significant Strikes Landed :1111
+- Total takedowns landed :15
+- Knockdowns :6
+- Submission Attempts :0

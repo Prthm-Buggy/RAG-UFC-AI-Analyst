@@ -1,0 +1,13 @@
+Event: UFC 45: Revolution
+    Date: November 21, 2003
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Heavyweight
+    
+
+    Result: WESLEY CORREIRA defeated DAVID ABBOTT via TKO - Doctor's Stoppage  
+  at 2:14 of round 1
+  Key stats:
+  - WESLEY CORREIRA landed 13 significant strikes
+  - DAVID ABBOTT landed 11 significant strikes
+  - Knockdowns: WESLEY CORREIRA 1,  DAVID ABBOTT 0
+  - Takedowns: WESLEY CORREIRA 0,  DAVID ABBOTT 0

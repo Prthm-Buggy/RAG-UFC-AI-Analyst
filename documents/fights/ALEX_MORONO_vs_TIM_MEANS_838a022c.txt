@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rozenstruik vs. Almeida
+    Date: May 13, 2023
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALEX MORONO defeated TIM MEANS via Submission  
+  at 2:09 of round 2
+  Key stats:
+  - ALEX MORONO landed 33 significant strikes
+  - TIM MEANS landed 40 significant strikes
+  - Knockdowns: ALEX MORONO 0,  TIM MEANS 0
+  - Takedowns: ALEX MORONO 0,  TIM MEANS 2

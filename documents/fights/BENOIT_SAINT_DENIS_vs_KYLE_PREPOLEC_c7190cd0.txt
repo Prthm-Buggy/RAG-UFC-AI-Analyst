@@ -1,0 +1,13 @@
+Event: UFC 315: Muhammad vs. Della Maddalena
+    Date: May 10, 2025
+    Location: Montreal, Quebec, Canada
+    Weight Class: Lightweight
+    
+
+    Result: BENOIT SAINT DENIS defeated KYLE PREPOLEC via Submission  
+  at 2:35 of round 2
+  Key stats:
+  - BENOIT SAINT DENIS landed 54 significant strikes
+  - KYLE PREPOLEC landed 12 significant strikes
+  - Knockdowns: BENOIT SAINT DENIS 0,  KYLE PREPOLEC 0
+  - Takedowns: BENOIT SAINT DENIS 3,  KYLE PREPOLEC 0

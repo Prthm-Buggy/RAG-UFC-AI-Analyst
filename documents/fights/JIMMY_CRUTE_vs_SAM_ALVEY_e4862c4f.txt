@@ -1,0 +1,13 @@
+Event: UFC 234: Adesanya vs. Silva
+    Date: February 09, 2019
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIMMY CRUTE defeated SAM ALVEY via KO/TKO  
+  at 2:49 of round 1
+  Key stats:
+  - JIMMY CRUTE landed 14 significant strikes
+  - SAM ALVEY landed 3 significant strikes
+  - Knockdowns: JIMMY CRUTE 1,  SAM ALVEY 0
+  - Takedowns: JIMMY CRUTE 0,  SAM ALVEY 0

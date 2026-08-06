@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Chiesa vs. Lee
+    Date: June 25, 2017
+    Location: Oklahoma City, Oklahoma, USA
+    Weight Class: Featherweight
+    
+
+    Result: JARED GORDON defeated MICHEL QUINONES via KO/TKO  
+  at 4:24 of round 2
+  Key stats:
+  - JARED GORDON landed 67 significant strikes
+  - MICHEL QUINONES landed 16 significant strikes
+  - Knockdowns: JARED GORDON 0,  MICHEL QUINONES 0
+  - Takedowns: JARED GORDON 4,  MICHEL QUINONES 0

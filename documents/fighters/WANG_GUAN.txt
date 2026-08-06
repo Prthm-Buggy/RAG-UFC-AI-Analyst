@@ -1,0 +1,11 @@
+Fighter: WANG GUAN
+  Date of Birth: 1986-03-14
+  Career record: 1
+  First fight: 2017-11-25
+  Last fight: 2017-11-25
+
+Career Statistics:
+- Significant Strikes Landed :71
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

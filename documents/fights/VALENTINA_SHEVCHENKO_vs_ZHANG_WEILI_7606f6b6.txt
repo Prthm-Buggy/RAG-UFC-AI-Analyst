@@ -1,0 +1,14 @@
+Event: UFC 322: Della Maddalena vs. Makhachev
+    Date: November 15, 2025
+    Location: New York City, New York, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: VALENTINA SHEVCHENKO defeated ZHANG WEILI via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - VALENTINA SHEVCHENKO landed 41 significant strikes
+  - ZHANG WEILI landed 32 significant strikes
+  - Knockdowns: VALENTINA SHEVCHENKO 0,  ZHANG WEILI 0
+  - Takedowns: VALENTINA SHEVCHENKO 5,  ZHANG WEILI 0
+  Bonus: belt

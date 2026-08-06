@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dariush vs. Tsarukyan
+    Date: December 02, 2023
+    Location: Austin, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: JALIN TURNER defeated KING GREEN via KO/TKO  
+  at 2:49 of round 1
+  Key stats:
+  - JALIN TURNER landed 33 significant strikes
+  - KING GREEN landed 15 significant strikes
+  - Knockdowns: JALIN TURNER 1,  KING GREEN 0
+  - Takedowns: JALIN TURNER 0,  KING GREEN 0
+  Bonus: perf

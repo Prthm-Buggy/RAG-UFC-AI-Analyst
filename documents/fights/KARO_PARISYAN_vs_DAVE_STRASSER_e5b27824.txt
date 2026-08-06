@@ -1,0 +1,13 @@
+Event: UFC 44: Undisputed
+    Date: September 26, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: KARO PARISYAN defeated DAVE STRASSER via Submission  
+  at 3:52 of round 1
+  Key stats:
+  - KARO PARISYAN landed 13 significant strikes
+  - DAVE STRASSER landed 2 significant strikes
+  - Knockdowns: KARO PARISYAN 0,  DAVE STRASSER 0
+  - Takedowns: KARO PARISYAN 3,  DAVE STRASSER 0

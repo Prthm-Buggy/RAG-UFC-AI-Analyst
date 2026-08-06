@@ -1,0 +1,11 @@
+Fighter: BRIAN EBERSOLE
+  Date of Birth: 1980-11-27
+  Career record: 8
+  First fight: 2011-02-26
+  Last fight: 2015-06-06
+
+Career Statistics:
+- Significant Strikes Landed :241
+- Total takedowns landed :10
+- Knockdowns :1
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: UFC 36: Worlds Collide
+    Date: March 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MATT LINDLAND defeated PAT MILETICH via KO/TKO  
+  at 3:09 of round 1
+  Key stats:
+  - MATT LINDLAND landed 20 significant strikes
+  - PAT MILETICH landed 1 significant strikes
+  - Knockdowns: MATT LINDLAND 0,  PAT MILETICH 0
+  - Takedowns: MATT LINDLAND 1,  PAT MILETICH 0

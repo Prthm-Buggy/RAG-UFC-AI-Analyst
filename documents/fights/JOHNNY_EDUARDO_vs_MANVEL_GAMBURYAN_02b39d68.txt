@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bader vs. Nogueira
+    Date: November 19, 2016
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: JOHNNY EDUARDO defeated MANVEL GAMBURYAN via KO/TKO  
+  at 0:46 of round 2
+  Key stats:
+  - JOHNNY EDUARDO landed 26 significant strikes
+  - MANVEL GAMBURYAN landed 11 significant strikes
+  - Knockdowns: JOHNNY EDUARDO 1,  MANVEL GAMBURYAN 0
+  - Takedowns: JOHNNY EDUARDO 0,  MANVEL GAMBURYAN 0

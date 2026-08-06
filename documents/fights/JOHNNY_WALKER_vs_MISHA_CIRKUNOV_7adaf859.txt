@@ -1,0 +1,14 @@
+Event: UFC 235: Jones vs. Smith
+    Date: March 02, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JOHNNY WALKER defeated MISHA CIRKUNOV via KO/TKO  
+  at 0:36 of round 1
+  Key stats:
+  - JOHNNY WALKER landed 4 significant strikes
+  - MISHA CIRKUNOV landed 1 significant strikes
+  - Knockdowns: JOHNNY WALKER 1,  MISHA CIRKUNOV 0
+  - Takedowns: JOHNNY WALKER 0,  MISHA CIRKUNOV 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 32: Showdown in the Meadowlands
+    Date: June 29, 2001
+    Location: East Rutherford, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: PAT MILETICH defeated SHONIE CARTER via KO/TKO  
+  at 2:42 of round 2
+  Key stats:
+  - PAT MILETICH landed 10 significant strikes
+  - SHONIE CARTER landed 14 significant strikes
+  - Knockdowns: PAT MILETICH 1,  SHONIE CARTER 0
+  - Takedowns: PAT MILETICH 1,  SHONIE CARTER 0

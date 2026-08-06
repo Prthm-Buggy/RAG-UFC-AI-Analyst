@@ -1,0 +1,11 @@
+Fighter: TOMMY HAYDEN
+  Date of Birth: 1986-03-11
+  Career record: 2
+  First fight: 2012-01-20
+  Last fight: 2012-08-11
+
+Career Statistics:
+- Significant Strikes Landed :13
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :0

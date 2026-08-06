@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Figueiredo
+    Date: May 03, 2025
+    Location: Des Moines, Iowa, USA
+    Weight Class: Middleweight
+    
+
+    Result: AZAMAT BEKOEV defeated RYAN LODER via KO/TKO  
+  at 2:44 of round 1
+  Key stats:
+  - AZAMAT BEKOEV landed 23 significant strikes
+  - RYAN LODER landed 13 significant strikes
+  - Knockdowns: AZAMAT BEKOEV 2,  RYAN LODER 0
+  - Takedowns: AZAMAT BEKOEV 0,  RYAN LODER 0
+  Bonus: perf

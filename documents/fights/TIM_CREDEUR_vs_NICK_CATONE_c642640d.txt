@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Condit vs Kampmann
+    Date: April 01, 2009
+    Location: Nashville, Tennessee, USA
+    Weight Class: Middleweight
+    
+
+    Result: TIM CREDEUR defeated NICK CATONE via Submission  
+  at 3:45 of round 2
+  Key stats:
+  - TIM CREDEUR landed 9 significant strikes
+  - NICK CATONE landed 19 significant strikes
+  - Knockdowns: TIM CREDEUR 0,  NICK CATONE 0
+  - Takedowns: TIM CREDEUR 0,  NICK CATONE 3

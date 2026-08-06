@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Poirier vs. Hooker
+    Date: June 27, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: KAY HANSEN defeated JINH YU FREY via Submission  
+  at 2:26 of round 3
+  Key stats:
+  - KAY HANSEN landed 31 significant strikes
+  - JINH YU FREY landed 26 significant strikes
+  - Knockdowns: KAY HANSEN 0,  JINH YU FREY 0
+  - Takedowns: KAY HANSEN 2,  JINH YU FREY 0
+  Bonus: perf

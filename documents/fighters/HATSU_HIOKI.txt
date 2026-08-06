@@ -1,0 +1,11 @@
+Fighter: HATSU HIOKI
+  Date of Birth: 1983-07-18
+  Career record: 8
+  First fight: 2011-10-29
+  Last fight: 2015-05-09
+
+Career Statistics:
+- Significant Strikes Landed :252
+- Total takedowns landed :18
+- Knockdowns :0
+- Submission Attempts :5

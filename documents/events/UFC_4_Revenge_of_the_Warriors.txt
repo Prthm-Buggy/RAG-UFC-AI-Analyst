@@ -1,0 +1,15 @@
+Event : UFC 4: Revenge of the Warriors
+    Date : December 16, 1994
+    Location: Tulsa, Oklahoma, USA
+    Number of Fights: 8
+    Weight Classes: Open Weight
+
+    Fight Results:
+  - ROYCE GRACIE def. KEITH HACKNEY via Submission(R1)
+- DAN SEVERN def. ANTHONY MACIAS via Submission(R1)
+- DAN SEVERN def. MARCUS BOSSETT via Submission(R1)
+- STEVE JENNUM def. MELTON BOWEN via Submission(R1)
+- ROYCE GRACIE def. RON VAN CLIEF via Submission(R1)
+- GUY MEZGER def. JASON FAIRN via KO/TKO(R1)
+- KEITH HACKNEY def. JOE SON via Submission(R1)
+- ROYCE GRACIE def. DAN SEVERN via Submission(R1)

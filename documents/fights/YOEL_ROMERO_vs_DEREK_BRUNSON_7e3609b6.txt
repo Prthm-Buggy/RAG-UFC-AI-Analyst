@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rockhold vs Philippou
+    Date: January 15, 2014
+    Location: Duluth, Georgia, USA
+    Weight Class: Middleweight
+    
+
+    Result: YOEL ROMERO defeated DEREK BRUNSON via KO/TKO  
+  at 3:23 of round 3
+  Key stats:
+  - YOEL ROMERO landed 60 significant strikes
+  - DEREK BRUNSON landed 38 significant strikes
+  - Knockdowns: YOEL ROMERO 0,  DEREK BRUNSON 0
+  - Takedowns: YOEL ROMERO 0,  DEREK BRUNSON 3
+  Bonus: fight

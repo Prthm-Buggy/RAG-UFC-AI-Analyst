@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blanchfield vs. Fiorot
+    Date: March 30, 2024
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: NURSULTON RUZIBOEV defeated SEDRIQUES DUMAS via KO/TKO  
+  at 3:18 of round 1
+  Key stats:
+  - NURSULTON RUZIBOEV landed 12 significant strikes
+  - SEDRIQUES DUMAS landed 1 significant strikes
+  - Knockdowns: NURSULTON RUZIBOEV 1,  SEDRIQUES DUMAS 0
+  - Takedowns: NURSULTON RUZIBOEV 0,  SEDRIQUES DUMAS 0

@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Edgar vs. The Korean Zombie
+    Date : December 21, 2019
+    Location: Busan, South Korea
+    Number of Fights: 13
+    Weight Classes: Light Heavyweight, Flyweight, Women's Strawweight, Featherweight, Middleweight, Lightweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - CHARLES JOURDAIN def. DOOHO CHOI via KO/TKO(R2)
+- OMAR MORALES def. DONG HYUN MA via Decision - Unanimous(R3)
+- JUNYONG PARK def. MARC-ANDRE BARRIAULT via Decision - Unanimous(R3)
+- AMANDA LEMOS def. MIRANDA GRANGER via Submission(R1)
+- CIRYL GANE def. TANNER BOSER via Decision - Unanimous(R3)
+- RAONI BARCELOS def. SAID NURMAGOMEDOV via Decision - Unanimous(R3)
+- VOLKAN OEZDEMIR def. ALEKSANDAR RAKIC via Decision - Split(R3)
+- ALEXANDRE PANTOJA def. MATT SCHNELL via KO/TKO(R1)
+- KYUNG HO KANG def. PINGYUAN LIU via Decision - Split(R3)
+- SEUNGWOO CHOI def. SUMAN MOKHTARIAN via Decision - Unanimous(R3)
+- DA WOON JUNG def. MIKE RODRIGUEZ via KO/TKO(R1)
+- ALATENGHEILI def. RYAN BENOIT via Decision - Split(R3)
+- CHAN SUNG JUNG def. FRANKIE EDGAR via KO/TKO(R1)

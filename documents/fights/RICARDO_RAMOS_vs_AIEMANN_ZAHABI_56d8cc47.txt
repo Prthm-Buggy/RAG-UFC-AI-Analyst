@@ -1,0 +1,14 @@
+Event: UFC 217: Bisping vs. St-Pierre
+    Date: November 04, 2017
+    Location: New York City, New York, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RICARDO RAMOS defeated AIEMANN ZAHABI via KO/TKO  
+  at 1:58 of round 3
+  Key stats:
+  - RICARDO RAMOS landed 42 significant strikes
+  - AIEMANN ZAHABI landed 46 significant strikes
+  - Knockdowns: RICARDO RAMOS 1,  AIEMANN ZAHABI 0
+  - Takedowns: RICARDO RAMOS 3,  AIEMANN ZAHABI 0
+  Bonus: perf

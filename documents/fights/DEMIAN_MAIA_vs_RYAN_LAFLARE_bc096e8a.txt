@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs LaFlare
+    Date: March 21, 2015
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: DEMIAN MAIA defeated RYAN LAFLARE via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - DEMIAN MAIA landed 36 significant strikes
+  - RYAN LAFLARE landed 25 significant strikes
+  - Knockdowns: DEMIAN MAIA 0,  RYAN LAFLARE 0
+  - Takedowns: DEMIAN MAIA 5,  RYAN LAFLARE 0

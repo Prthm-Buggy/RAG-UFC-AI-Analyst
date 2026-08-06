@@ -1,0 +1,11 @@
+Fighter: MORGAN CHARRIERE
+  Date of Birth: 1995-10-26
+  Career record: 6
+  First fight: 2023-09-02
+  Last fight: 2025-12-13
+
+Career Statistics:
+- Significant Strikes Landed :205
+- Total takedowns landed :7
+- Knockdowns :3
+- Submission Attempts :1

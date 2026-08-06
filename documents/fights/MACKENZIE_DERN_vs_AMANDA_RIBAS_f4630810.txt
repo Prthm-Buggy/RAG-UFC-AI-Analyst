@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dern vs. Ribas 2
+    Date: January 11, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MACKENZIE DERN defeated AMANDA RIBAS via Submission  
+  at 4:56 of round 3
+  Key stats:
+  - MACKENZIE DERN landed 27 significant strikes
+  - AMANDA RIBAS landed 17 significant strikes
+  - Knockdowns: MACKENZIE DERN 0,  AMANDA RIBAS 0
+  - Takedowns: MACKENZIE DERN 1,  AMANDA RIBAS 2
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jung vs. Ige
+    Date: June 19, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHAN SUNG JUNG defeated DAN IGE via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CHAN SUNG JUNG landed 92 significant strikes
+  - DAN IGE landed 80 significant strikes
+  - Knockdowns: CHAN SUNG JUNG 0,  DAN IGE 0
+  - Takedowns: CHAN SUNG JUNG 3,  DAN IGE 0

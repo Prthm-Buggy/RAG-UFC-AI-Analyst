@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Struve
+    Date: September 02, 2017
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Featherweight
+    
+
+    Result: ZABIT MAGOMEDSHARIPOV defeated MIKE SANTIAGO via Submission  
+  at 4:22 of round 2
+  Key stats:
+  - ZABIT MAGOMEDSHARIPOV landed 45 significant strikes
+  - MIKE SANTIAGO landed 24 significant strikes
+  - Knockdowns: ZABIT MAGOMEDSHARIPOV 0,  MIKE SANTIAGO 0
+  - Takedowns: ZABIT MAGOMEDSHARIPOV 1,  MIKE SANTIAGO 2
+  Bonus: perf

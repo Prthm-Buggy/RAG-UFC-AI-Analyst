@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Teixeira vs Saint Preux
+    Date: August 08, 2015
+    Location: Nashville, Tennessee, USA
+    Weight Class: Flyweight
+    
+
+    Result: DUSTIN ORTIZ defeated WILLIE GATES via KO/TKO  
+  at 2:58 of round 3
+  Key stats:
+  - DUSTIN ORTIZ landed 92 significant strikes
+  - WILLIE GATES landed 13 significant strikes
+  - Knockdowns: DUSTIN ORTIZ 0,  WILLIE GATES 0
+  - Takedowns: DUSTIN ORTIZ 4,  WILLIE GATES 0

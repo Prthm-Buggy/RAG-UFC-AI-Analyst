@@ -1,0 +1,13 @@
+Event: UFC 196: McGregor vs Diaz
+    Date: March 05, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: NORDINE TALEB defeated ERICK SILVA via KO/TKO  
+  at 1:34 of round 2
+  Key stats:
+  - NORDINE TALEB landed 26 significant strikes
+  - ERICK SILVA landed 11 significant strikes
+  - Knockdowns: NORDINE TALEB 1,  ERICK SILVA 0
+  - Takedowns: NORDINE TALEB 1,  ERICK SILVA 0

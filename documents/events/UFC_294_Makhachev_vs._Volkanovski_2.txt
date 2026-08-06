@@ -1,0 +1,18 @@
+Event : UFC 294: Makhachev vs. Volkanovski 2
+    Date : October 21, 2023
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 11
+    Weight Classes: Lightweight, Middleweight, Flyweight, Featherweight, Women's Strawweight, Bantamweight
+
+    Fight Results:
+  - KHAMZAT CHIMAEV def. KAMARU USMAN via Decision - Majority(R3)
+- MUHAMMAD NAIMOV def. NATHANIEL WOOD via Decision - Unanimous(R3)
+- ISLAM MAKHACHEV def. ALEXANDER VOLKANOVSKI via KO/TKO(R1)
+- SEDRIQUES DUMAS def. ABU AZAITAR via Decision - Unanimous(R3)
+- SHARA MAGOMEDOV def. BRUNO SILVA via Decision - Unanimous(R3)
+- TREVOR PEEK def. MOHAMMAD YAHYA via Decision - Unanimous(R3)
+- SAID NURMAGOMEDOV def. MUIN GAFUROV via Submission(R1)
+- VIKTORIIA DUDAKOVA def. JINH YU FREY via Decision - Unanimous(R3)
+- IKRAM ALISKEROV def. WARLLEY ALVES via KO/TKO(R1)
+- MUHAMMAD MOKAEV def. TIM ELLIOTT via Submission(R3)
+- MIKE BREEDEN def. ANSHUL JUBLI via KO/TKO(R3)

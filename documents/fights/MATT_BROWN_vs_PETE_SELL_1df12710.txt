@@ -1,0 +1,13 @@
+Event: UFC 96: Jackson vs Jardine
+    Date: March 07, 2009
+    Location: Columbus, Ohio, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT BROWN defeated PETE SELL via KO/TKO  
+  at 1:32 of round 1
+  Key stats:
+  - MATT BROWN landed 24 significant strikes
+  - PETE SELL landed 0 significant strikes
+  - Knockdowns: MATT BROWN 2,  PETE SELL 0
+  - Takedowns: MATT BROWN 0,  PETE SELL 0

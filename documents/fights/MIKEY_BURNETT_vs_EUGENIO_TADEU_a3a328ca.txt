@@ -1,0 +1,13 @@
+Event: UFC 16: Battle in the Bayou
+    Date: March 13, 1998
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Lightweight
+    
+
+    Result: MIKEY BURNETT defeated EUGENIO TADEU via KO/TKO  
+  at 9:45 of round 1
+  Key stats:
+  - MIKEY BURNETT landed 42 significant strikes
+  - EUGENIO TADEU landed 6 significant strikes
+  - Knockdowns: MIKEY BURNETT 0,  EUGENIO TADEU 0
+  - Takedowns: MIKEY BURNETT 1,  EUGENIO TADEU 0

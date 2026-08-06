@@ -1,0 +1,11 @@
+Fighter: JUSTIN LEVENS
+  Date of Birth: 1980-04-18
+  Career record: 2
+  First fight: 2006-04-15
+  Last fight: 2006-06-28
+
+Career Statistics:
+- Significant Strikes Landed :2
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lawler vs. Dos Anjos
+    Date: December 16, 2017
+    Location: Winnipeg, Manitoba, Canada
+    Weight Class: Welterweight
+    
+
+    Result: RAFAEL DOS ANJOS defeated ROBBIE LAWLER via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - RAFAEL DOS ANJOS landed 172 significant strikes
+  - ROBBIE LAWLER landed 86 significant strikes
+  - Knockdowns: RAFAEL DOS ANJOS 0,  ROBBIE LAWLER 0
+  - Takedowns: RAFAEL DOS ANJOS 2,  ROBBIE LAWLER 0

@@ -1,0 +1,13 @@
+Event: UFC on FOX: Werdum vs Browne
+    Date: April 19, 2014
+    Location: Orlando, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated JACK MAY via KO/TKO  
+  at 4:23 of round 1
+  Key stats:
+  - DERRICK LEWIS landed 22 significant strikes
+  - JACK MAY landed 5 significant strikes
+  - Knockdowns: DERRICK LEWIS 0,  JACK MAY 0
+  - Takedowns: DERRICK LEWIS 1,  JACK MAY 1

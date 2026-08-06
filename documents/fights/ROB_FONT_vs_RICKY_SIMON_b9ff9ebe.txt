@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs. Rozenstruik
+    Date: December 07, 2019
+    Location: Washington, DC, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ROB FONT defeated RICKY SIMON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ROB FONT landed 90 significant strikes
+  - RICKY SIMON landed 59 significant strikes
+  - Knockdowns: ROB FONT 0,  RICKY SIMON 0
+  - Takedowns: ROB FONT 1,  RICKY SIMON 6
+  Bonus: fight

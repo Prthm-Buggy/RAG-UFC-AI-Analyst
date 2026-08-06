@@ -1,0 +1,13 @@
+Event: UFC 166: Velasquez vs Dos Santos 3
+    Date: October 19, 2013
+    Location: Houston, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: HECTOR LOMBARD defeated NATE MARQUARDT via KO/TKO  
+  at 1:48 of round 1
+  Key stats:
+  - HECTOR LOMBARD landed 10 significant strikes
+  - NATE MARQUARDT landed 4 significant strikes
+  - Knockdowns: HECTOR LOMBARD 1,  NATE MARQUARDT 0
+  - Takedowns: HECTOR LOMBARD 0,  NATE MARQUARDT 0

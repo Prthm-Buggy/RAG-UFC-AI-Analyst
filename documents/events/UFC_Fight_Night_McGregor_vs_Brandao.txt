@@ -1,0 +1,17 @@
+Event : UFC Fight Night: McGregor vs Brandao
+    Date : July 19, 2014
+    Location: Dublin, Leinster, Ireland
+    Number of Fights: 10
+    Weight Classes: Featherweight, Lightweight, Light Heavyweight, Welterweight, Middleweight, Flyweight
+
+    Fight Results:
+  - PADDY HOLOHAN def. JOSH SAMPO via Submission(R1)
+- ILIR LATIFI def. CHRIS DEMPSEY via KO/TKO(R1)
+- NEIL SEERY def. PHIL HARRIS via Decision - Unanimous(R3)
+- NIKITA KRYLOV def. CODY DONOVAN via KO/TKO(R1)
+- GUNNAR NELSON def. ZAK CUMMINGS via Submission(R2)
+- CONOR MCGREGOR def. DIEGO BRANDAO via KO/TKO(R1)
+- TREVOR SMITH def. TOR TROENG via Decision - Unanimous(R3)
+- NORMAN PARKE def. NAOYUKI KOTANI via KO/TKO(R2)
+- IAN MCCALL def. BRAD PICKETT via Decision - Unanimous(R3)
+- CATHAL PENDRED def. MIKE KING via Submission(R2)

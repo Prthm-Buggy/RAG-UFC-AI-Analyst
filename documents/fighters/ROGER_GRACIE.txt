@@ -1,0 +1,11 @@
+Fighter: ROGER GRACIE
+  Date of Birth: 1981-09-26
+  Career record: 1
+  First fight: 2013-07-06
+  Last fight: 2013-07-06
+
+Career Statistics:
+- Significant Strikes Landed :12
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

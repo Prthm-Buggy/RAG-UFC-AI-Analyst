@@ -1,0 +1,11 @@
+Fighter: TOM EGAN
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 2009-01-17
+  Last fight: 2009-01-17
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

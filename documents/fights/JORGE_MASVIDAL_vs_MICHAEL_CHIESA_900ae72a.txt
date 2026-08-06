@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs Moraga
+    Date: July 27, 2013
+    Location: Seattle, Washington, USA
+    Weight Class: Lightweight
+    
+
+    Result: JORGE MASVIDAL defeated MICHAEL CHIESA via Submission  
+  at 4:59 of round 2
+  Key stats:
+  - JORGE MASVIDAL landed 24 significant strikes
+  - MICHAEL CHIESA landed 24 significant strikes
+  - Knockdowns: JORGE MASVIDAL 0,  MICHAEL CHIESA 1
+  - Takedowns: JORGE MASVIDAL 0,  MICHAEL CHIESA 2

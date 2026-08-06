@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Correia
+    Date: June 17, 2017
+    Location: Kallang, Singapore
+    Weight Class: Heavyweight
+    
+
+    Result: WALT HARRIS defeated CYRIL ASKER via KO/TKO  
+  at 1:44 of round 1
+  Key stats:
+  - WALT HARRIS landed 21 significant strikes
+  - CYRIL ASKER landed 2 significant strikes
+  - Knockdowns: WALT HARRIS 1,  CYRIL ASKER 0
+  - Takedowns: WALT HARRIS 0,  CYRIL ASKER 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brown vs Silva
+    Date: May 10, 2014
+    Location: Cincinnati, Ohio, USA
+    Weight Class: Flyweight
+    
+
+    Result: KYOJI HORIGUCHI defeated DARRELL MONTAGUE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KYOJI HORIGUCHI landed 65 significant strikes
+  - DARRELL MONTAGUE landed 26 significant strikes
+  - Knockdowns: KYOJI HORIGUCHI 1,  DARRELL MONTAGUE 0
+  - Takedowns: KYOJI HORIGUCHI 2,  DARRELL MONTAGUE 1

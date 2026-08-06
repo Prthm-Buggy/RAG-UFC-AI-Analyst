@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Swanson vs. Ortega
+    Date : December 09, 2017
+    Location: Fresno, California, USA
+    Number of Fights: 13
+    Weight Classes: Featherweight, Middleweight, Lightweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - TREVIN GILES def. ANTONIO BRAGA NETO via KO/TKO(R3)
+- ALEX PEREZ def. CARLS JOHN DE TOMAS via Submission(R2)
+- MARLON MORAES def. ALJAMAIN STERLING via KO/TKO(R1)
+- DAVI RAMOS def. CHRIS GRUETZEMACHER via Submission(R3)
+- GABRIEL BENITEZ def. JASON KNIGHT via Decision - Unanimous(R3)
+- FRANKIE SAENZ def. MERAB DVALISHVILI via Decision - Split(R3)
+- ERYK ANDERS def. MARKUS PEREZ via Decision - Unanimous(R3)
+- BENITO LOPEZ def. ALBERT MORALES via Decision - Unanimous(R3)
+- ANDRE SOUKHAMTHATH def. LUKE SANDERS via KO/TKO(R2)
+- ALEXIS DAVIS def. LIZ CARMOUCHE via Decision - Split(R3)
+- ALEJANDRO PEREZ def. IURI ALCANTARA via Decision - Unanimous(R3)
+- BRIAN ORTEGA def. CUB SWANSON via Submission(R2)
+- SCOTT HOLTZMAN def. DARRELL HORCHER via Decision - Unanimous(R3)

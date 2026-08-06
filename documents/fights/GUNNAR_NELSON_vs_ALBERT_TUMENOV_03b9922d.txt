@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs Arlovski
+    Date: May 08, 2016
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Welterweight
+    
+
+    Result: GUNNAR NELSON defeated ALBERT TUMENOV via Submission  
+  at 3:15 of round 2
+  Key stats:
+  - GUNNAR NELSON landed 29 significant strikes
+  - ALBERT TUMENOV landed 23 significant strikes
+  - Knockdowns: GUNNAR NELSON 0,  ALBERT TUMENOV 0
+  - Takedowns: GUNNAR NELSON 2,  ALBERT TUMENOV 0
+  Bonus: perf

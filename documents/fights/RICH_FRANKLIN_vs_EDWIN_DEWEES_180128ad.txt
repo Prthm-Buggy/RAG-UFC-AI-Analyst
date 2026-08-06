@@ -1,0 +1,13 @@
+Event: UFC 44: Undisputed
+    Date: September 26, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RICH FRANKLIN defeated EDWIN DEWEES via KO/TKO  
+  at 3:35 of round 1
+  Key stats:
+  - RICH FRANKLIN landed 37 significant strikes
+  - EDWIN DEWEES landed 4 significant strikes
+  - Knockdowns: RICH FRANKLIN 1,  EDWIN DEWEES 0
+  - Takedowns: RICH FRANKLIN 0,  EDWIN DEWEES 1

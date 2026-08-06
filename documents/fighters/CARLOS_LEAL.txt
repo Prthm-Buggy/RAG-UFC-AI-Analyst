@@ -1,0 +1,11 @@
+Fighter: CARLOS LEAL
+  Date of Birth: 1994-05-04
+  Career record: 4
+  First fight: 2024-10-26
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :306
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

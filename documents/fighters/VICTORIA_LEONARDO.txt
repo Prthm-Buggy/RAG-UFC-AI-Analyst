@@ -1,0 +1,11 @@
+Fighter: VICTORIA LEONARDO
+  Date of Birth: 1990-02-16
+  Career record: 5
+  First fight: 2021-01-20
+  Last fight: 2024-08-24
+
+Career Statistics:
+- Significant Strikes Landed :107
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

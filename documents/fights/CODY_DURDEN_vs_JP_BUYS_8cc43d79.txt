@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tsarukyan vs. Gamrot
+    Date: June 25, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: CODY DURDEN defeated JP BUYS via KO/TKO  
+  at 1:08 of round 1
+  Key stats:
+  - CODY DURDEN landed 23 significant strikes
+  - JP BUYS landed 7 significant strikes
+  - Knockdowns: CODY DURDEN 1,  JP BUYS 0
+  - Takedowns: CODY DURDEN 0,  JP BUYS 0

@@ -1,0 +1,11 @@
+Fighter: GURAM KUTATELADZE
+  Date of Birth: 1992-01-08
+  Career record: 5
+  First fight: 2020-10-17
+  Last fight: 2025-03-22
+
+Career Statistics:
+- Significant Strikes Landed :259
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

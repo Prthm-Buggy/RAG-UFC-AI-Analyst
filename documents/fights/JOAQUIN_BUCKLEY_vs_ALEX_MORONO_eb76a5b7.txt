@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dawson vs. Green
+    Date: October 07, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOAQUIN BUCKLEY defeated ALEX MORONO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOAQUIN BUCKLEY landed 68 significant strikes
+  - ALEX MORONO landed 40 significant strikes
+  - Knockdowns: JOAQUIN BUCKLEY 0,  ALEX MORONO 0
+  - Takedowns: JOAQUIN BUCKLEY 2,  ALEX MORONO 1

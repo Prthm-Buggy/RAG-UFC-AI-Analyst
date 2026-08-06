@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Song vs. Simon
+    Date: April 29, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SONG YADONG defeated RICKY SIMON via KO/TKO  
+  at 1:10 of round 5
+  Key stats:
+  - SONG YADONG landed 105 significant strikes
+  - RICKY SIMON landed 60 significant strikes
+  - Knockdowns: SONG YADONG 2,  RICKY SIMON 0
+  - Takedowns: SONG YADONG 0,  RICKY SIMON 2
+  Bonus: perf

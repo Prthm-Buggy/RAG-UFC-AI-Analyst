@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Nelson vs. Ponzinibbio
+    Date : July 16, 2017
+    Location: Glasgow, Scotland, United Kingdom
+    Number of Fights: 12
+    Weight Classes: Women's Bantamweight, Flyweight, Lightweight, Welterweight, Middleweight, Women's Strawweight, Light Heavyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - ALEXANDRE PANTOJA def. NEIL SEERY via Submission(R3)
+- PAUL FELDER def. STEVIE RAY via KO/TKO(R1)
+- GALORE BOFANDO def. CHARLIE WARD via KO/TKO(R1)
+- BRETT JOHNS def. ALBERT MORALES via Decision - Unanimous(R3)
+- JUSTIN WILLIS def. JAMES MULHERON via Decision - Unanimous(R3)
+- KHALIL ROUNTREE JR. def. PAUL CRAIG via KO/TKO(R1)
+- DANNY ROBERTS def. BOBBY NASH via KO/TKO(R2)
+- SANTIAGO PONZINIBBIO def. GUNNAR NELSON via KO/TKO(R1)
+- DANNY HENRY def. DANIEL TEYMUR via Decision - Unanimous(R3)
+- CYNTHIA CALVILLO def. JOANNE WOOD via Decision - Unanimous(R3)
+- LESLIE SMITH def. AMANDA LEMOS via KO/TKO(R2)
+- JACK MARSHMAN def. RYAN JANES via Decision - Unanimous(R3)

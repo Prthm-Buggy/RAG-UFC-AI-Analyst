@@ -1,0 +1,11 @@
+Fighter: LEONARDO SANTOS
+  Date of Birth: 1980-02-05
+  Career record: 10
+  First fight: 2013-06-08
+  Last fight: 2022-08-20
+
+Career Statistics:
+- Significant Strikes Landed :310
+- Total takedowns landed :7
+- Knockdowns :3
+- Submission Attempts :2

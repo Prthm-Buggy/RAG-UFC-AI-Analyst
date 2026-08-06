@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Volkov vs. Aspinall
+    Date: March 19, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: GUNNAR NELSON defeated TAKASHI SATO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - GUNNAR NELSON landed 44 significant strikes
+  - TAKASHI SATO landed 9 significant strikes
+  - Knockdowns: GUNNAR NELSON 0,  TAKASHI SATO 0
+  - Takedowns: GUNNAR NELSON 3,  TAKASHI SATO 0

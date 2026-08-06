@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edgar vs. The Korean Zombie
+    Date: December 21, 2019
+    Location: Busan, South Korea
+    Weight Class: Flyweight
+    
+
+    Result: ALEXANDRE PANTOJA defeated MATT SCHNELL via KO/TKO  
+  at 4:17 of round 1
+  Key stats:
+  - ALEXANDRE PANTOJA landed 34 significant strikes
+  - MATT SCHNELL landed 20 significant strikes
+  - Knockdowns: ALEXANDRE PANTOJA 1,  MATT SCHNELL 0
+  - Takedowns: ALEXANDRE PANTOJA 1,  MATT SCHNELL 0
+  Bonus: perf

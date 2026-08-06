@@ -1,0 +1,13 @@
+Event: UFC 305: Du Plessis vs. Adesanya
+    Date: August 17, 2024
+    Location: Perth, Western Australia, Australia
+    Weight Class: Featherweight
+    
+
+    Result: JACK JENKINS defeated HERBERT BURNS via KO/TKO  
+  at 0:48 of round 3
+  Key stats:
+  - JACK JENKINS landed 73 significant strikes
+  - HERBERT BURNS landed 24 significant strikes
+  - Knockdowns: JACK JENKINS 2,  HERBERT BURNS 0
+  - Takedowns: JACK JENKINS 0,  HERBERT BURNS 2

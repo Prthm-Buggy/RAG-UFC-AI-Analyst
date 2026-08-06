@@ -1,0 +1,11 @@
+Fighter: ORION COSCE
+  Date of Birth: 1994-07-15
+  Career record: 3
+  First fight: 2021-07-31
+  Last fight: 2023-05-20
+
+Career Statistics:
+- Significant Strikes Landed :63
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

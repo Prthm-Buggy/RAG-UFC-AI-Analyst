@@ -1,0 +1,13 @@
+Event: UFC 156: Aldo vs Edgar
+    Date: February 02, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: TYRON WOODLEY defeated JAY HIERON via KO/TKO  
+  at 0:36 of round 1
+  Key stats:
+  - TYRON WOODLEY landed 15 significant strikes
+  - JAY HIERON landed 0 significant strikes
+  - Knockdowns: TYRON WOODLEY 1,  JAY HIERON 0
+  - Takedowns: TYRON WOODLEY 0,  JAY HIERON 0

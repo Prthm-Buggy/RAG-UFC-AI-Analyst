@@ -1,0 +1,14 @@
+Event: UFC 314: Volkanovski vs. Lopes
+    Date: April 12, 2025
+    Location: Miami, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: PADDY PIMBLETT defeated MICHAEL CHANDLER via KO/TKO  
+  at 3:07 of round 3
+  Key stats:
+  - PADDY PIMBLETT landed 80 significant strikes
+  - MICHAEL CHANDLER landed 11 significant strikes
+  - Knockdowns: PADDY PIMBLETT 0,  MICHAEL CHANDLER 0
+  - Takedowns: PADDY PIMBLETT 1,  MICHAEL CHANDLER 4
+  Bonus: perf

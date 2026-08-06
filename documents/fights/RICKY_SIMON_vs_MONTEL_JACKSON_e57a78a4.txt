@@ -1,0 +1,13 @@
+Event: UFC 227: Dillashaw vs. Garbrandt 2
+    Date: August 04, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RICKY SIMON defeated MONTEL JACKSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RICKY SIMON landed 25 significant strikes
+  - MONTEL JACKSON landed 42 significant strikes
+  - Knockdowns: RICKY SIMON 0,  MONTEL JACKSON 0
+  - Takedowns: RICKY SIMON 7,  MONTEL JACKSON 2

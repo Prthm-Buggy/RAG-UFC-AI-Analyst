@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Rampage vs Team Forrest Finale
+    Date: June 21, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROB KIMMONS defeated ROB YUNDT via Submission  
+  at 3:58 of round 1
+  Key stats:
+  - ROB KIMMONS landed 9 significant strikes
+  - ROB YUNDT landed 5 significant strikes
+  - Knockdowns: ROB KIMMONS 0,  ROB YUNDT 0
+  - Takedowns: ROB KIMMONS 1,  ROB YUNDT 1

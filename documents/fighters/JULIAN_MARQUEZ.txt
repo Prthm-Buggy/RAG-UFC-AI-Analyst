@@ -1,0 +1,11 @@
+Fighter: JULIAN MARQUEZ
+  Date of Birth: 1990-05-08
+  Career record: 8
+  First fight: 2017-12-16
+  Last fight: 2025-03-01
+
+Career Statistics:
+- Significant Strikes Landed :314
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :11

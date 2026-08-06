@@ -1,0 +1,18 @@
+Event : UFC on FUEL TV: Struve vs Miocic
+    Date : September 29, 2012
+    Location: Nottingham, England, United Kingdom
+    Number of Fights: 11
+    Weight Classes: Welterweight, Lightweight, Featherweight, Middleweight, Catch Weight, Light Heavyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - GUNNAR NELSON def. DAMARQUES JOHNSON via Submission(R1)
+- STEFAN STRUVE def. STIPE MIOCIC via KO/TKO(R2)
+- BRAD TAVARES def. TOM WATSON via Decision - Split(R3)
+- JIMI MANUWA def. KYLE KINGSBURY via TKO - Doctor's Stoppage(R2)
+- MATT WIMAN def. PAUL SASS via Submission(R1)
+- JOHN HATHAWAY def. JOHN MAGUIRE via Decision - Unanimous(R3)
+- ROBERT PERALTA def. JASON YOUNG via KO/TKO(R1)
+- CHE MILLS def. DUANE LUDWIG via KO/TKO(R1)
+- DAN HARDY def. AMIR SADOLLAH via Decision - Unanimous(R3)
+- BRAD PICKETT def. YVES JABOUIN via KO/TKO(R1)
+- AKIRA CORASSANI def. ANDY OGLE via Decision - Split(R3)

@@ -1,0 +1,13 @@
+Event: UFC 18: The Road to the Heavyweight Title
+    Date: January 08, 1999
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Lightweight
+    
+
+    Result: MIKEY BURNETT defeated TOWNSEND SAUNDERS via Decision - Unanimous  
+  at 3:00 of round 2
+  Key stats:
+  - MIKEY BURNETT landed 42 significant strikes
+  - TOWNSEND SAUNDERS landed 34 significant strikes
+  - Knockdowns: MIKEY BURNETT 1,  TOWNSEND SAUNDERS 0
+  - Takedowns: MIKEY BURNETT 0,  TOWNSEND SAUNDERS 0

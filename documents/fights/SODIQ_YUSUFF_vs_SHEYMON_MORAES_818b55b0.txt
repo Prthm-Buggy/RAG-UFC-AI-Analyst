@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Gaethje
+    Date: March 30, 2019
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Featherweight
+    
+
+    Result: SODIQ YUSUFF defeated SHEYMON MORAES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SODIQ YUSUFF landed 73 significant strikes
+  - SHEYMON MORAES landed 54 significant strikes
+  - Knockdowns: SODIQ YUSUFF 1,  SHEYMON MORAES 0
+  - Takedowns: SODIQ YUSUFF 0,  SHEYMON MORAES 0

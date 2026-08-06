@@ -1,0 +1,11 @@
+Fighter: MARA ROMERO BORELLA
+  Date of Birth: 1986-06-03
+  Career record: 7
+  First fight: 2017-10-07
+  Last fight: 2020-09-19
+
+Career Statistics:
+- Significant Strikes Landed :167
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :1

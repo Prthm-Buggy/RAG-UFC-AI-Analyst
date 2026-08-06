@@ -1,0 +1,11 @@
+Fighter: KLIDSON ABREU
+  Date of Birth: 1992-12-24
+  Career record: 3
+  First fight: 2019-02-23
+  Last fight: 2019-11-09
+
+Career Statistics:
+- Significant Strikes Landed :91
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

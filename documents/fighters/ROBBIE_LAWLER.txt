@@ -1,0 +1,11 @@
+Fighter: ROBBIE LAWLER
+  Date of Birth: 1982-03-20
+  Career record: 25
+  First fight: 2002-05-10
+  Last fight: 2023-07-08
+
+Career Statistics:
+- Significant Strikes Landed :1334
+- Total takedowns landed :17
+- Knockdowns :10
+- Submission Attempts :0

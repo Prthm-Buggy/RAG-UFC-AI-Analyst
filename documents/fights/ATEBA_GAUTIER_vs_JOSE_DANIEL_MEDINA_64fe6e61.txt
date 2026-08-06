@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moreno vs. Erceg
+    Date: March 29, 2025
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Middleweight
+    
+
+    Result: ATEBA GAUTIER defeated JOSE DANIEL MEDINA via KO/TKO  
+  at 3:32 of round 1
+  Key stats:
+  - ATEBA GAUTIER landed 28 significant strikes
+  - JOSE DANIEL MEDINA landed 17 significant strikes
+  - Knockdowns: ATEBA GAUTIER 1,  JOSE DANIEL MEDINA 0
+  - Takedowns: ATEBA GAUTIER 0,  JOSE DANIEL MEDINA 0
+  Bonus: perf

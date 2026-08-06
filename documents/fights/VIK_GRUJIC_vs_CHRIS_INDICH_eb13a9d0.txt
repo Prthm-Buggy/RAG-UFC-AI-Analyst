@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Te Huna vs Marquardt
+    Date: June 28, 2014
+    Location: Auckland, New Zealand
+    Weight Class: Welterweight
+    
+
+    Result: VIK GRUJIC defeated CHRIS INDICH via KO/TKO  
+  at 4:55 of round 1
+  Key stats:
+  - VIK GRUJIC landed 15 significant strikes
+  - CHRIS INDICH landed 14 significant strikes
+  - Knockdowns: VIK GRUJIC 0,  CHRIS INDICH 0
+  - Takedowns: VIK GRUJIC 1,  CHRIS INDICH 1

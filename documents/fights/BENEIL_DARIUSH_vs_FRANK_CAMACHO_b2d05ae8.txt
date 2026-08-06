@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Maia vs. Askren
+    Date: October 26, 2019
+    Location: Kallang, Singapore
+    Weight Class: Lightweight
+    
+
+    Result: BENEIL DARIUSH defeated FRANK CAMACHO via Submission  
+  at 2:02 of round 1
+  Key stats:
+  - BENEIL DARIUSH landed 13 significant strikes
+  - FRANK CAMACHO landed 3 significant strikes
+  - Knockdowns: BENEIL DARIUSH 0,  FRANK CAMACHO 0
+  - Takedowns: BENEIL DARIUSH 2,  FRANK CAMACHO 0
+  Bonus: perf

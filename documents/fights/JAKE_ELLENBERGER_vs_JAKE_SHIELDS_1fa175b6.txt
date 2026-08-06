@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Shields vs Ellenberger
+    Date: September 17, 2011
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: JAKE ELLENBERGER defeated JAKE SHIELDS via KO/TKO  
+  at 0:53 of round 1
+  Key stats:
+  - JAKE ELLENBERGER landed 9 significant strikes
+  - JAKE SHIELDS landed 1 significant strikes
+  - Knockdowns: JAKE ELLENBERGER 1,  JAKE SHIELDS 0
+  - Takedowns: JAKE ELLENBERGER 0,  JAKE SHIELDS 0
+  Bonus: ko

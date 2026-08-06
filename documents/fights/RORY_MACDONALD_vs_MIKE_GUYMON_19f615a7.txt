@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maynard vs Diaz
+    Date: January 11, 2010
+    Location: Fairfax, Virginia, USA
+    Weight Class: Welterweight
+    
+
+    Result: RORY MACDONALD defeated MIKE GUYMON via Submission  
+  at 4:27 of round 1
+  Key stats:
+  - RORY MACDONALD landed 8 significant strikes
+  - MIKE GUYMON landed 6 significant strikes
+  - Knockdowns: RORY MACDONALD 0,  MIKE GUYMON 0
+  - Takedowns: RORY MACDONALD 2,  MIKE GUYMON 0

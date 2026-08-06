@@ -1,0 +1,13 @@
+Event: UFC 37.5: As Real As It Gets
+    Date: June 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: PETE SPRATT defeated ZACH LIGHT via Submission  
+  at 2:25 of round 1
+  Key stats:
+  - PETE SPRATT landed 3 significant strikes
+  - ZACH LIGHT landed 2 significant strikes
+  - Knockdowns: PETE SPRATT 0,  ZACH LIGHT 0
+  - Takedowns: PETE SPRATT 0,  ZACH LIGHT 1

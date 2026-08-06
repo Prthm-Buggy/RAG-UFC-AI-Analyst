@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Moicano vs. Saint Denis
+    Date : September 28, 2024
+    Location: Paris, Ile-de-France, France
+    Number of Fights: 14
+    Weight Classes: Women's Bantamweight, Welterweight, Middleweight, Featherweight, Lightweight, Light Heavyweight, Flyweight, Bantamweight
+
+    Fight Results:
+  - JACQUELINE CAVALCANTI def. NORA CORNOLLE via Decision - Split(R3)
+- AILIN PEREZ def. DARIA ZHELEZNIAKOVA via Submission(R1)
+- RENATO MOICANO def. BENOIT SAINT DENIS via TKO - Doctor's Stoppage(R2)
+- WILLIAM GOMIS def. JOANDERSON BRITO via Decision - Split(R3)
+- BRYAN BATTLE def. KEVIN JOUSSET via KO/TKO(R2)
+- CHRIS DUNCAN def. BOLAJI OKI via Submission(R1)
+- OUMAR SY def. DA WOON JUNG via Decision - Unanimous(R3)
+- NASSOURDINE IMAVOV def. BRENDAN ALLEN via Decision - Unanimous(R3)
+- DANIEL BAREZ def. VICTOR ALTAMIRANO via Decision - Unanimous(R3)
+- FARES ZIAM def. MATT FREVOLA via KO/TKO(R3)
+- LUDOVIT KLEIN def. ROOSEVELT ROBERTS via Decision - Unanimous(R3)
+- TAYLOR LAPILUS def. VINCE MORALES via Decision - Unanimous(R3)
+- MORGAN CHARRIERE def. GABRIEL MIRANDA via KO/TKO(R2)
+- ION CUTELABA def. IVAN ERSLAN via Decision - Split(R3)

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Gaethje
+    Date: April 14, 2018
+    Location: Glendale, Arizona, USA
+    Weight Class: Bantamweight
+    
+
+    Result: LUKE SANDERS defeated PATRICK WILLIAMS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LUKE SANDERS landed 59 significant strikes
+  - PATRICK WILLIAMS landed 61 significant strikes
+  - Knockdowns: LUKE SANDERS 1,  PATRICK WILLIAMS 0
+  - Takedowns: LUKE SANDERS 0,  PATRICK WILLIAMS 1

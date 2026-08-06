@@ -1,0 +1,13 @@
+Event: UFC 174: Johnson vs Bagautinov
+    Date: June 14, 2014
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated BRENDAN SCHAUB via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ANDREI ARLOVSKI landed 12 significant strikes
+  - BRENDAN SCHAUB landed 30 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 0,  BRENDAN SCHAUB 0
+  - Takedowns: ANDREI ARLOVSKI 0,  BRENDAN SCHAUB 1

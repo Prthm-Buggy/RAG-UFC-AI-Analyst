@@ -1,0 +1,11 @@
+Fighter: JASON REINHARDT
+  Date of Birth: 1969-10-31
+  Career record: 3
+  First fight: 2007-11-17
+  Last fight: 2011-08-14
+
+Career Statistics:
+- Significant Strikes Landed :4
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

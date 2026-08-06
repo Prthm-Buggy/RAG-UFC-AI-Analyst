@@ -1,0 +1,11 @@
+Fighter: JALIN TURNER
+  Date of Birth: 1995-05-18
+  Career record: 14
+  First fight: 2018-10-06
+  Last fight: 2025-12-06
+
+Career Statistics:
+- Significant Strikes Landed :511
+- Total takedowns landed :4
+- Knockdowns :9
+- Submission Attempts :7

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bisping vs Leites
+    Date: July 18, 2015
+    Location: Glasgow, Scotland, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL BISPING defeated THALES LEITES via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - MICHAEL BISPING landed 115 significant strikes
+  - THALES LEITES landed 79 significant strikes
+  - Knockdowns: MICHAEL BISPING 0,  THALES LEITES 0
+  - Takedowns: MICHAEL BISPING 0,  THALES LEITES 1

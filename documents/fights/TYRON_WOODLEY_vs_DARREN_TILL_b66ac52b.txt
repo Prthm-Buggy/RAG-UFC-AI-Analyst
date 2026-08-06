@@ -1,0 +1,14 @@
+Event: UFC 228: Woodley vs. Till
+    Date: September 08, 2018
+    Location: Dallas, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: TYRON WOODLEY defeated DARREN TILL via Submission  
+  at 4:19 of round 2
+  Key stats:
+  - TYRON WOODLEY landed 57 significant strikes
+  - DARREN TILL landed 0 significant strikes
+  - Knockdowns: TYRON WOODLEY 1,  DARREN TILL 0
+  - Takedowns: TYRON WOODLEY 0,  DARREN TILL 0
+  Bonus: belt

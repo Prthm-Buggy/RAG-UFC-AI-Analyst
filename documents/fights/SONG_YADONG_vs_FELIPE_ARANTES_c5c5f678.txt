@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cowboy vs. Edwards
+    Date: June 23, 2018
+    Location: Kallang, Singapore
+    Weight Class: Bantamweight
+    
+
+    Result: SONG YADONG defeated FELIPE ARANTES via KO/TKO  
+  at 4:59 of round 2
+  Key stats:
+  - SONG YADONG landed 39 significant strikes
+  - FELIPE ARANTES landed 8 significant strikes
+  - Knockdowns: SONG YADONG 1,  FELIPE ARANTES 0
+  - Takedowns: SONG YADONG 1,  FELIPE ARANTES 0
+  Bonus: perf

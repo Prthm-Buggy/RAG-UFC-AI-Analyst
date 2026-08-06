@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Adesanya vs. Pyfer
+    Date: March 28, 2026
+    Location: Seattle, Washington, USA
+    Weight Class: Featherweight
+    
+
+    Result: LERRYAN DOUGLAS defeated JULIAN EROSA via KO/TKO  
+  at 3:33 of round 1
+  Key stats:
+  - LERRYAN DOUGLAS landed 29 significant strikes
+  - JULIAN EROSA landed 17 significant strikes
+  - Knockdowns: LERRYAN DOUGLAS 2,  JULIAN EROSA 0
+  - Takedowns: LERRYAN DOUGLAS 0,  JULIAN EROSA 0

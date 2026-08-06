@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Pettis
+    Date: November 11, 2017
+    Location: Norfolk, Virginia, USA
+    Weight Class: Middleweight
+    
+
+    Result: KARL ROBERSON defeated DARREN STEWART via Submission  
+  at 3:41 of round 1
+  Key stats:
+  - KARL ROBERSON landed 17 significant strikes
+  - DARREN STEWART landed 6 significant strikes
+  - Knockdowns: KARL ROBERSON 0,  DARREN STEWART 0
+  - Takedowns: KARL ROBERSON 1,  DARREN STEWART 0

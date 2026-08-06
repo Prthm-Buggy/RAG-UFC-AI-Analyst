@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Oleinik
+    Date: April 20, 2019
+    Location: Saint Petersburg, Saint Petersburg, Russia
+    Weight Class: Middleweight
+    
+
+    Result: KRZYSZTOF JOTKO defeated ALEN AMEDOVSKI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KRZYSZTOF JOTKO landed 43 significant strikes
+  - ALEN AMEDOVSKI landed 6 significant strikes
+  - Knockdowns: KRZYSZTOF JOTKO 0,  ALEN AMEDOVSKI 0
+  - Takedowns: KRZYSZTOF JOTKO 4,  ALEN AMEDOVSKI 0

@@ -1,0 +1,14 @@
+Event: UFC 178: Johnson vs Cariaso
+    Date: September 27, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DOMINICK CRUZ defeated TAKEYA MIZUGAKI via KO/TKO  
+  at 1:01 of round 1
+  Key stats:
+  - DOMINICK CRUZ landed 26 significant strikes
+  - TAKEYA MIZUGAKI landed 2 significant strikes
+  - Knockdowns: DOMINICK CRUZ 0,  TAKEYA MIZUGAKI 0
+  - Takedowns: DOMINICK CRUZ 2,  TAKEYA MIZUGAKI 0
+  Bonus: perf

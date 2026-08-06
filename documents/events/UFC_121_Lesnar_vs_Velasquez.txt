@@ -1,0 +1,18 @@
+Event : UFC 121: Lesnar vs Velasquez
+    Date : October 23, 2010
+    Location: Anaheim, California, USA
+    Number of Fights: 11
+    Weight Classes: Middleweight, Welterweight, Light Heavyweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - DIEGO SANCHEZ def. PAULO THIAGO via Decision - Unanimous(R3)
+- DANIEL ROBERTS def. MIKE GUYMON via Submission(R1)
+- CAIN VELASQUEZ def. BROCK LESNAR via KO/TKO(R1)
+- COURT MCGEE def. RYAN JENSEN via Submission(R3)
+- CHRIS CAMOZZI def. DONGI YANG via Decision - Split(R3)
+- JAKE SHIELDS def. MARTIN KAMPMANN via Decision - Split(R3)
+- SAM STOUT def. PAUL TAYLOR via Decision - Split(R3)
+- BRENDAN SCHAUB def. GABRIEL GONZAGA via Decision - Unanimous(R3)
+- TOM LAWLOR def. PATRICK COTE via Decision - Unanimous(R3)
+- MATT HAMILL def. TITO ORTIZ via Decision - Unanimous(R3)
+- JON MADSEN def. GILBERT YVEL via KO/TKO(R1)

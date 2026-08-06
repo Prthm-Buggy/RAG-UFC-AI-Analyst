@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale
+    Date: June 24, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: LUIGI FIORAVANTI defeated SOLOMON HUTCHERSON via KO/TKO  
+  at 4:15 of round 1
+  Key stats:
+  - LUIGI FIORAVANTI landed 11 significant strikes
+  - SOLOMON HUTCHERSON landed 11 significant strikes
+  - Knockdowns: LUIGI FIORAVANTI 1,  SOLOMON HUTCHERSON 0
+  - Takedowns: LUIGI FIORAVANTI 1,  SOLOMON HUTCHERSON 1
+  Bonus: ko

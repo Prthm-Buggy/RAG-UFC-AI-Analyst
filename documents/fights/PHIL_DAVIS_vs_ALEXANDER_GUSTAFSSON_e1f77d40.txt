@@ -1,0 +1,13 @@
+Event: UFC 112: Invincible
+    Date: April 10, 2010
+    Location: Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: PHIL DAVIS defeated ALEXANDER GUSTAFSSON via Submission  
+  at 4:55 of round 1
+  Key stats:
+  - PHIL DAVIS landed 14 significant strikes
+  - ALEXANDER GUSTAFSSON landed 0 significant strikes
+  - Knockdowns: PHIL DAVIS 0,  ALEXANDER GUSTAFSSON 0
+  - Takedowns: PHIL DAVIS 1,  ALEXANDER GUSTAFSSON 0

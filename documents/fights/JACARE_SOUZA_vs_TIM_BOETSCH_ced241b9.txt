@@ -1,0 +1,14 @@
+Event: UFC 208: Holm vs. De Randamie
+    Date: February 11, 2017
+    Location: Brooklyn, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: JACARE SOUZA defeated TIM BOETSCH via Submission  
+  at 3:41 of round 1
+  Key stats:
+  - JACARE SOUZA landed 7 significant strikes
+  - TIM BOETSCH landed 6 significant strikes
+  - Knockdowns: JACARE SOUZA 0,  TIM BOETSCH 0
+  - Takedowns: JACARE SOUZA 1,  TIM BOETSCH 0
+  Bonus: perf

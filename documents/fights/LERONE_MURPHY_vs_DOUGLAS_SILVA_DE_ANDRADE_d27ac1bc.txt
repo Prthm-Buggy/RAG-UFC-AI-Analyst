@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Chiesa vs. Magny
+    Date: January 20, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Featherweight
+    
+
+    Result: LERONE MURPHY defeated DOUGLAS SILVA DE ANDRADE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LERONE MURPHY landed 48 significant strikes
+  - DOUGLAS SILVA DE ANDRADE landed 39 significant strikes
+  - Knockdowns: LERONE MURPHY 0,  DOUGLAS SILVA DE ANDRADE 0
+  - Takedowns: LERONE MURPHY 1,  DOUGLAS SILVA DE ANDRADE 1

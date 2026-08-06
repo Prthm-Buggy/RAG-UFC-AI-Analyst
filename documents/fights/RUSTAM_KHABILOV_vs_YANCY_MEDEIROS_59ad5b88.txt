@@ -1,0 +1,13 @@
+Event: UFC 159: Jones vs Sonnen
+    Date: April 27, 2013
+    Location: Newark, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: RUSTAM KHABILOV defeated YANCY MEDEIROS via TKO - Doctor's Stoppage  
+  at 2:32 of round 1
+  Key stats:
+  - RUSTAM KHABILOV landed 3 significant strikes
+  - YANCY MEDEIROS landed 4 significant strikes
+  - Knockdowns: RUSTAM KHABILOV 0,  YANCY MEDEIROS 0
+  - Takedowns: RUSTAM KHABILOV 1,  YANCY MEDEIROS 0

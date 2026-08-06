@@ -1,0 +1,14 @@
+Event: UFC 83: Serra vs St-Pierre 2
+    Date: April 19, 2008
+    Location: Montreal, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: DEMIAN MAIA defeated ED HERMAN via Submission  
+  at 2:27 of round 2
+  Key stats:
+  - DEMIAN MAIA landed 15 significant strikes
+  - ED HERMAN landed 15 significant strikes
+  - Knockdowns: DEMIAN MAIA 0,  ED HERMAN 0
+  - Takedowns: DEMIAN MAIA 1,  ED HERMAN 1
+  Bonus: sub

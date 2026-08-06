@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Boetsch vs Henderson
+    Date: June 06, 2015
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Bantamweight
+    
+
+    Result: FRANCISCO RIVERA defeated ALEX CACERES via KO/TKO  
+  at 0:21 of round 1
+  Key stats:
+  - FRANCISCO RIVERA landed 5 significant strikes
+  - ALEX CACERES landed 0 significant strikes
+  - Knockdowns: FRANCISCO RIVERA 1,  ALEX CACERES 0
+  - Takedowns: FRANCISCO RIVERA 0,  ALEX CACERES 0

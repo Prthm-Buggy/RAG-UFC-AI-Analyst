@@ -1,0 +1,13 @@
+Event: UFC on FX: Browne vs Bigfoot
+    Date: October 05, 2012
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PIERCE defeated AARON SIMPSON via KO/TKO  
+  at 0:29 of round 2
+  Key stats:
+  - MIKE PIERCE landed 10 significant strikes
+  - AARON SIMPSON landed 28 significant strikes
+  - Knockdowns: MIKE PIERCE 1,  AARON SIMPSON 1
+  - Takedowns: MIKE PIERCE 0,  AARON SIMPSON 1

@@ -1,0 +1,13 @@
+Event: UFC 278: Usman vs. Edwards
+    Date: August 20, 2022
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Flyweight
+    
+
+    Result: AMIR ALBAZI defeated FRANCISCO FIGUEIREDO via Submission  
+  at 4:34 of round 1
+  Key stats:
+  - AMIR ALBAZI landed 12 significant strikes
+  - FRANCISCO FIGUEIREDO landed 11 significant strikes
+  - Knockdowns: AMIR ALBAZI 0,  FRANCISCO FIGUEIREDO 0
+  - Takedowns: AMIR ALBAZI 2,  FRANCISCO FIGUEIREDO 0

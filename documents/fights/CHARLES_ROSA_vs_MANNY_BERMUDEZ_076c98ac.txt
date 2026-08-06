@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Reyes vs. Weidman
+    Date: October 18, 2019
+    Location: Boston, Massachusetts, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHARLES ROSA defeated MANNY BERMUDEZ via Submission  
+  at 2:46 of round 1
+  Key stats:
+  - CHARLES ROSA landed 6 significant strikes
+  - MANNY BERMUDEZ landed 27 significant strikes
+  - Knockdowns: CHARLES ROSA 0,  MANNY BERMUDEZ 0
+  - Takedowns: CHARLES ROSA 0,  MANNY BERMUDEZ 1
+  Bonus: perf

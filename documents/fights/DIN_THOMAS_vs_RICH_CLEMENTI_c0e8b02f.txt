@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: The Comeback Finale
+    Date: November 11, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DIN THOMAS defeated RICH CLEMENTI via Submission  
+  at 3:11 of round 2
+  Key stats:
+  - DIN THOMAS landed 33 significant strikes
+  - RICH CLEMENTI landed 22 significant strikes
+  - Knockdowns: DIN THOMAS 1,  RICH CLEMENTI 0
+  - Takedowns: DIN THOMAS 1,  RICH CLEMENTI 1

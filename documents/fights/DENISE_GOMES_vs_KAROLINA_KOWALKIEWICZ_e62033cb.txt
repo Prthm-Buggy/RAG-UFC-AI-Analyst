@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs. Prates
+    Date: November 09, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: DENISE GOMES defeated KAROLINA KOWALKIEWICZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DENISE GOMES landed 73 significant strikes
+  - KAROLINA KOWALKIEWICZ landed 46 significant strikes
+  - Knockdowns: DENISE GOMES 0,  KAROLINA KOWALKIEWICZ 0
+  - Takedowns: DENISE GOMES 0,  KAROLINA KOWALKIEWICZ 0

@@ -1,0 +1,11 @@
+Fighter: JONATHAN MICALLEF
+  Date of Birth: 1999-03-05
+  Career record: 3
+  First fight: 2025-02-08
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :159
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :1

@@ -1,0 +1,11 @@
+Fighter: MIKE LULLO
+  Date of Birth: 1979-07-24
+  Career record: 2
+  First fight: 2010-11-20
+  Last fight: 2011-09-17
+
+Career Statistics:
+- Significant Strikes Landed :63
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

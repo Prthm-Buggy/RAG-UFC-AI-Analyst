@@ -1,0 +1,11 @@
+Fighter: RICARDO LAMAS
+  Date of Birth: 1982-05-21
+  Career record: 17
+  First fight: 2011-06-26
+  Last fight: 2020-08-29
+
+Career Statistics:
+- Significant Strikes Landed :600
+- Total takedowns landed :21
+- Knockdowns :2
+- Submission Attempts :10

@@ -1,0 +1,15 @@
+Event : UFC 42: Sudden Impact
+    Date : April 25, 2003
+    Location: Miami, Florida, USA
+    Number of Fights: 8
+    Weight Classes: Welterweight, Light Heavyweight, Lightweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - RICH FRANKLIN def. EVAN TANNER via KO/TKO(R1)
+- DUANE LUDWIG def. GENKI SUDO via Decision - Unanimous(R3)
+- DAVID LOISEAU def. MARK WEIR via KO/TKO(R1)
+- MATT HUGHES def. SEAN SHERK via Decision - Unanimous(R5)
+- PETE SPRATT def. ROBBIE LAWLER via Submission(R2)
+- WESLEY CORREIRA def. SEAN ALVAREZ via KO/TKO(R2)
+- HERMES FRANCA def. RICHARD CRUNKILTON via Decision - Unanimous(R3)
+- DAVE STRASSER def. ROMIE ARAM via Decision - Unanimous(R3)

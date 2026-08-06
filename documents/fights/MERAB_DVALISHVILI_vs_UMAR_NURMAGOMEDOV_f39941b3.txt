@@ -1,0 +1,14 @@
+Event: UFC 311: Makhachev vs. Moicano
+    Date: January 18, 2025
+    Location: Inglewood, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MERAB DVALISHVILI defeated UMAR NURMAGOMEDOV via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MERAB DVALISHVILI landed 111 significant strikes
+  - UMAR NURMAGOMEDOV landed 104 significant strikes
+  - Knockdowns: MERAB DVALISHVILI 0,  UMAR NURMAGOMEDOV 0
+  - Takedowns: MERAB DVALISHVILI 7,  UMAR NURMAGOMEDOV 2
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC Fight Night 2
+    Date: October 03, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JONATHAN GOULET defeated JAY HIERON via TKO - Doctor's Stoppage  
+  at 1:05 of round 3
+  Key stats:
+  - JONATHAN GOULET landed 14 significant strikes
+  - JAY HIERON landed 10 significant strikes
+  - Knockdowns: JONATHAN GOULET 0,  JAY HIERON 0
+  - Takedowns: JONATHAN GOULET 0,  JAY HIERON 9

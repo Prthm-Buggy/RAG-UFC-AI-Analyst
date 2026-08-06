@@ -1,0 +1,14 @@
+Event: UFC 38: Brawl at the Hall
+    Date: July 13, 2002
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: MATT HUGHES defeated CARLOS NEWTON via KO/TKO  
+  at 3:37 of round 4
+  Key stats:
+  - MATT HUGHES landed 58 significant strikes
+  - CARLOS NEWTON landed 3 significant strikes
+  - Knockdowns: MATT HUGHES 0,  CARLOS NEWTON 0
+  - Takedowns: MATT HUGHES 4,  CARLOS NEWTON 0
+  Bonus: belt

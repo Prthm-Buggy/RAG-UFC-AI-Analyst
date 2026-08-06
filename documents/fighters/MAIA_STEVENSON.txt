@@ -1,0 +1,11 @@
+Fighter: MAIA STEVENSON
+  Date of Birth: 1982-03-19
+  Career record: 1
+  First fight: 2018-02-03
+  Last fight: 2018-02-03
+
+Career Statistics:
+- Significant Strikes Landed :6
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

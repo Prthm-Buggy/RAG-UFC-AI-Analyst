@@ -1,0 +1,11 @@
+Fighter: CASEY KENNEY
+  Date of Birth: 1991-03-20
+  Career record: 8
+  First fight: 2019-03-30
+  Last fight: 2021-08-07
+
+Career Statistics:
+- Significant Strikes Landed :536
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :2

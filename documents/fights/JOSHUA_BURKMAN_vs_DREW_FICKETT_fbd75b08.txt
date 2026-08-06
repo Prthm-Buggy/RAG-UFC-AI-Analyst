@@ -1,0 +1,13 @@
+Event: UFC Fight Night 3
+    Date: January 16, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSHUA BURKMAN defeated DREW FICKETT via Submission  
+  at 1:07 of round 1
+  Key stats:
+  - JOSHUA BURKMAN landed 7 significant strikes
+  - DREW FICKETT landed 2 significant strikes
+  - Knockdowns: JOSHUA BURKMAN 0,  DREW FICKETT 0
+  - Takedowns: JOSHUA BURKMAN 0,  DREW FICKETT 0

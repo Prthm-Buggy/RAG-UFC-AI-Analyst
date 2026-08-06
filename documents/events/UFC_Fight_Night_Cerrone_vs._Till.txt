@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Cerrone vs. Till
+    Date : October 21, 2017
+    Location: Gdansk, Poland
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Women's Bantamweight, Featherweight, Welterweight, Middleweight, Lightweight, Women's Strawweight, Light Heavyweight
+
+    Fight Results:
+  - BRIAN KELLEHER def. DAMIAN STASIAK via KO/TKO(R3)
+- ANDRE FILI def. ARTEM LOBOV via Decision - Unanimous(R3)
+- WARLLEY ALVES def. SALIM TOUAHRI via Decision - Unanimous(R3)
+- OSKAR PIECHOTA def. JONATHAN WILSON via Decision - Unanimous(R3)
+- JAN BLACHOWICZ def. DEVIN CLARK via Submission(R2)
+- JOSH EMMETT def. FELIPE ARANTES via Decision - Unanimous(R3)
+- ASPEN LADD def. LINA LANSBERG via KO/TKO(R2)
+- MARCIN HELD def. NASRAT HAQPARAST via Decision - Unanimous(R3)
+- RAMAZAN EMEEV def. SAM ALVEY via Decision - Unanimous(R3)
+- DARREN TILL def. DONALD CERRONE via KO/TKO(R1)
+- KAROLINA KOWALKIEWICZ def. JODIE ESQUIBEL via Decision - Unanimous(R3)

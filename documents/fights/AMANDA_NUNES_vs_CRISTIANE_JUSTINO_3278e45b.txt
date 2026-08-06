@@ -1,0 +1,14 @@
+Event: UFC 232: Jones vs. Gustafsson 2
+    Date: December 29, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: AMANDA NUNES defeated CRISTIANE JUSTINO via KO/TKO  
+  at 0:51 of round 1
+  Key stats:
+  - AMANDA NUNES landed 13 significant strikes
+  - CRISTIANE JUSTINO landed 3 significant strikes
+  - Knockdowns: AMANDA NUNES 2,  CRISTIANE JUSTINO 0
+  - Takedowns: AMANDA NUNES 0,  CRISTIANE JUSTINO 0
+  Bonus: belt

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Anjos vs. Lee
+    Date: May 18, 2019
+    Location: Rochester, New York, USA
+    Weight Class: Featherweight
+    
+
+    Result: GRANT DAWSON defeated MICHAEL TRIZANO via Submission  
+  at 2:27 of round 2
+  Key stats:
+  - GRANT DAWSON landed 27 significant strikes
+  - MICHAEL TRIZANO landed 20 significant strikes
+  - Knockdowns: GRANT DAWSON 0,  MICHAEL TRIZANO 0
+  - Takedowns: GRANT DAWSON 3,  MICHAEL TRIZANO 0
+  Bonus: perf

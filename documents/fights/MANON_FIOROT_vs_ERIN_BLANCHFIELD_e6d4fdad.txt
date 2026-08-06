@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blanchfield vs. Fiorot
+    Date: March 30, 2024
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MANON FIOROT defeated ERIN BLANCHFIELD via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MANON FIOROT landed 172 significant strikes
+  - ERIN BLANCHFIELD landed 130 significant strikes
+  - Knockdowns: MANON FIOROT 0,  ERIN BLANCHFIELD 0
+  - Takedowns: MANON FIOROT 1,  ERIN BLANCHFIELD 0

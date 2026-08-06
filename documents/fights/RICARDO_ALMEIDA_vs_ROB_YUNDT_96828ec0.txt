@@ -1,0 +1,13 @@
+Event: UFC 81: Breaking Point
+    Date: February 02, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: RICARDO ALMEIDA defeated ROB YUNDT via Submission  
+  at 1:08 of round 1
+  Key stats:
+  - RICARDO ALMEIDA landed 4 significant strikes
+  - ROB YUNDT landed 2 significant strikes
+  - Knockdowns: RICARDO ALMEIDA 0,  ROB YUNDT 0
+  - Takedowns: RICARDO ALMEIDA 1,  ROB YUNDT 0

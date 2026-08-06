@@ -1,0 +1,13 @@
+Event: UFC 230: Cormier vs. Lewis
+    Date: November 03, 2018
+    Location: New York City, New York, USA
+    Weight Class: Featherweight
+    
+
+    Result: JORDAN RINALDI defeated JASON KNIGHT via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JORDAN RINALDI landed 20 significant strikes
+  - JASON KNIGHT landed 12 significant strikes
+  - Knockdowns: JORDAN RINALDI 0,  JASON KNIGHT 0
+  - Takedowns: JORDAN RINALDI 3,  JASON KNIGHT 0

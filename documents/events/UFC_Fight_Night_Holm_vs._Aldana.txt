@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Holm vs. Aldana
+    Date : October 03, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Heavyweight, Women's Strawweight, Middleweight, Lightweight, Welterweight, Women's Bantamweight
+
+    Fight Results:
+  - DUSKO TODOROVIC def. DEQUAN TOWNSEND via KO/TKO(R2)
+- LOMA LOOKBOONMEE def. JINH YU FREY via Decision - Unanimous(R3)
+- CASEY KENNEY def. ALATENGHEILI via Decision - Unanimous(R3)
+- NASSOURDINE IMAVOV def. JORDAN WILLIAMS via Decision - Unanimous(R3)
+- CARLOS FELIPE def. YORGAN DE CASTRO via Decision - Unanimous(R3)
+- LUIGI VENDRAMINI def. JESSIN AYARI via KO/TKO(R1)
+- GERMAINE DE RANDAMIE def. JULIANNA PENA via Submission(R3)
+- HOLLY HOLM def. IRENE ALDANA via Decision - Unanimous(R5)
+- CARLOS CONDIT def. COURT MCGEE via Decision - Unanimous(R3)
+- KYLER PHILLIPS def. CAMERON ELSE via KO/TKO(R2)

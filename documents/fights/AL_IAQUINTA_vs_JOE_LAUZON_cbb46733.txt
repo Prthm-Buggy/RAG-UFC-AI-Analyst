@@ -1,0 +1,13 @@
+Event: UFC 183: Silva vs Diaz
+    Date: January 31, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: AL IAQUINTA defeated JOE LAUZON via KO/TKO  
+  at 3:34 of round 2
+  Key stats:
+  - AL IAQUINTA landed 59 significant strikes
+  - JOE LAUZON landed 32 significant strikes
+  - Knockdowns: AL IAQUINTA 1,  JOE LAUZON 0
+  - Takedowns: AL IAQUINTA 1,  JOE LAUZON 0

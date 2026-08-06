@@ -1,0 +1,11 @@
+Fighter: RAFAEL TOBIAS
+  Date of Birth: 2003-03-20
+  Career record: 1
+  First fight: 2026-03-07
+  Last fight: 2026-03-07
+
+Career Statistics:
+- Significant Strikes Landed :39
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

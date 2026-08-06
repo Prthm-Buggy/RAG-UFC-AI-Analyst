@@ -1,0 +1,18 @@
+Event : UFC 114: Rampage vs Evans
+    Date : May 29, 2010
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Welterweight, Middleweight, Light Heavyweight, Lightweight
+
+    Fight Results:
+  - MIKE RUSSOW def. TODD DUFFEE via KO/TKO(R3)
+- DONG HYUN KIM def. AMIR SADOLLAH via Decision - Unanimous(R3)
+- MICHAEL BISPING def. DAN MILLER via Decision - Unanimous(R3)
+- ROGERIO NOGUEIRA def. JASON BRILZ via Decision - Split(R3)
+- MELVIN GUILLARD def. WAYLON LOWE via KO/TKO(R1)
+- RYAN JENSEN def. JESSE FORBES via Submission(R1)
+- RASHAD EVANS def. QUINTON JACKSON via Decision - Unanimous(R3)
+- CYRILLE DIABATE def. LUIZ CANE via KO/TKO(R1)
+- JOHN HATHAWAY def. DIEGO SANCHEZ via Decision - Unanimous(R3)
+- AARON RILEY def. JOE BRAMMER via Decision - Unanimous(R3)
+- EFRAIN ESCUDERO def. DAN LAUZON via Decision - Unanimous(R3)

@@ -1,0 +1,16 @@
+Event : UFC 63: Hughes vs Penn
+    Date : September 23, 2006
+    Location: Anaheim, California, USA
+    Number of Fights: 9
+    Weight Classes: Heavyweight, Welterweight, Lightweight, Light Heavyweight, Middleweight
+
+    Fight Results:
+  - JOE LAUZON def. JENS PULVER via KO/TKO(R1)
+- RASHAD EVANS def. JASON LAMBERT via KO/TKO(R2)
+- ROGER HUERTA def. JASON DENT via Decision - Unanimous(R3)
+- MIKE SWICK def. DAVID LOISEAU via Decision - Unanimous(R3)
+- MATT HUGHES def. BJ PENN via KO/TKO(R3)
+- JORGE GURGEL def. DANNY ABBADI via Decision - Split(R3)
+- EDDIE SANCHEZ def. MARIO NETO via KO/TKO(R2)
+- TYSON GRIFFIN def. DAVID LEE via Submission(R1)
+- MELVIN GUILLARD def. GABE RUEDIGER via KO/TKO(R2)

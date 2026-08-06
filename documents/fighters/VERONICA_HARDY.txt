@@ -1,0 +1,11 @@
+Fighter: VERONICA HARDY
+  Date of Birth: 1995-10-30
+  Career record: 10
+  First fight: 2016-09-03
+  Last fight: 2025-10-04
+
+Career Statistics:
+- Significant Strikes Landed :390
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :3

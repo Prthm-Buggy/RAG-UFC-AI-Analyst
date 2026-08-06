@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Walker
+    Date: October 02, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ALEXANDER HERNANDEZ defeated MIKE BREEDEN via KO/TKO  
+  at 1:20 of round 1
+  Key stats:
+  - ALEXANDER HERNANDEZ landed 20 significant strikes
+  - MIKE BREEDEN landed 6 significant strikes
+  - Knockdowns: ALEXANDER HERNANDEZ 1,  MIKE BREEDEN 0
+  - Takedowns: ALEXANDER HERNANDEZ 0,  MIKE BREEDEN 0

@@ -1,0 +1,11 @@
+Fighter: ERIC WISELY
+  Date of Birth: 1984-07-25
+  Career record: 2
+  First fight: 2012-01-28
+  Last fight: 2012-04-14
+
+Career Statistics:
+- Significant Strikes Landed :38
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

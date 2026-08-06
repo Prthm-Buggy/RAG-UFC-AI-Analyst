@@ -1,0 +1,13 @@
+Event: UFC 234: Adesanya vs. Silva
+    Date: February 09, 2019
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Lightweight
+    
+
+    Result: JALIN TURNER defeated CALLAN POTTER via KO/TKO  
+  at 0:53 of round 1
+  Key stats:
+  - JALIN TURNER landed 9 significant strikes
+  - CALLAN POTTER landed 3 significant strikes
+  - Knockdowns: JALIN TURNER 1,  CALLAN POTTER 0
+  - Takedowns: JALIN TURNER 0,  CALLAN POTTER 0

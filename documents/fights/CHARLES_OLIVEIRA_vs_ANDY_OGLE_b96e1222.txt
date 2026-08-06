@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs Mousasi
+    Date: February 15, 2014
+    Location: Jaragua do Sul, Santa Catarina, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: CHARLES OLIVEIRA defeated ANDY OGLE via Submission  
+  at 2:40 of round 3
+  Key stats:
+  - CHARLES OLIVEIRA landed 23 significant strikes
+  - ANDY OGLE landed 21 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  ANDY OGLE 0
+  - Takedowns: CHARLES OLIVEIRA 3,  ANDY OGLE 1
+  Bonus: perf

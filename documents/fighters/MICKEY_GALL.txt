@@ -1,0 +1,11 @@
+Fighter: MICKEY GALL
+  Date of Birth: 1992-01-22
+  Career record: 13
+  First fight: 2016-02-06
+  Last fight: 2024-11-16
+
+Career Statistics:
+- Significant Strikes Landed :366
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :11

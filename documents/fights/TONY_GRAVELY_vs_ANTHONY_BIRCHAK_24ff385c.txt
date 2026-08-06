@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. Gastelum
+    Date: April 17, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TONY GRAVELY defeated ANTHONY BIRCHAK via KO/TKO  
+  at 1:31 of round 2
+  Key stats:
+  - TONY GRAVELY landed 39 significant strikes
+  - ANTHONY BIRCHAK landed 18 significant strikes
+  - Knockdowns: TONY GRAVELY 2,  ANTHONY BIRCHAK 0
+  - Takedowns: TONY GRAVELY 4,  ANTHONY BIRCHAK 0
+  Bonus: perf

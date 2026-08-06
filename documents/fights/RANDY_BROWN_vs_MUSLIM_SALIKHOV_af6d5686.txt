@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dolidze vs. Imavov
+    Date: February 03, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: RANDY BROWN defeated MUSLIM SALIKHOV via KO/TKO  
+  at 3:17 of round 1
+  Key stats:
+  - RANDY BROWN landed 13 significant strikes
+  - MUSLIM SALIKHOV landed 10 significant strikes
+  - Knockdowns: RANDY BROWN 1,  MUSLIM SALIKHOV 0
+  - Takedowns: RANDY BROWN 0,  MUSLIM SALIKHOV 0
+  Bonus: perf

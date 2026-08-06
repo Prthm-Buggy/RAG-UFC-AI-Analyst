@@ -1,0 +1,11 @@
+Fighter: MILTON VIEIRA
+  Date of Birth: 1978-10-04
+  Career record: 1
+  First fight: 2013-01-19
+  Last fight: 2013-01-19
+
+Career Statistics:
+- Significant Strikes Landed :17
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

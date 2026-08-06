@@ -1,0 +1,11 @@
+Fighter: RAPHAEL ASSUNCAO
+  Date of Birth: 1982-07-19
+  Career record: 19
+  First fight: 2011-03-19
+  Last fight: 2023-03-11
+
+Career Statistics:
+- Significant Strikes Landed :786
+- Total takedowns landed :24
+- Knockdowns :2
+- Submission Attempts :2

@@ -1,0 +1,14 @@
+Event: UFC 322: Della Maddalena vs. Makhachev
+    Date: November 15, 2025
+    Location: New York City, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENOIT SAINT DENIS defeated BENEIL DARIUSH via KO/TKO  
+  at 0:16 of round 1
+  Key stats:
+  - BENOIT SAINT DENIS landed 3 significant strikes
+  - BENEIL DARIUSH landed 3 significant strikes
+  - Knockdowns: BENOIT SAINT DENIS 1,  BENEIL DARIUSH 0
+  - Takedowns: BENOIT SAINT DENIS 0,  BENEIL DARIUSH 0
+  Bonus: perf

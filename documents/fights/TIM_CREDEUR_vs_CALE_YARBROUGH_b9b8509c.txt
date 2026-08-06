@@ -1,0 +1,13 @@
+Event: UFC: Silva vs Irvin
+    Date: July 19, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: TIM CREDEUR defeated CALE YARBROUGH via KO/TKO  
+  at 1:54 of round 1
+  Key stats:
+  - TIM CREDEUR landed 19 significant strikes
+  - CALE YARBROUGH landed 6 significant strikes
+  - Knockdowns: TIM CREDEUR 1,  CALE YARBROUGH 0
+  - Takedowns: TIM CREDEUR 0,  CALE YARBROUGH 0

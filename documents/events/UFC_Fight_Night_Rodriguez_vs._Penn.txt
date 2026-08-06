@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Rodriguez vs. Penn
+    Date : January 15, 2017
+    Location: Phoenix, Arizona, USA
+    Number of Fights: 12
+    Weight Classes: Welterweight, Featherweight, Lightweight, Flyweight, Light Heavyweight, Women's Strawweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - AUGUSTO MENDES def. FRANKIE SAENZ via Decision - Split(R3)
+- CYRIL ASKER def. DMITRII SMOLIAKOV via KO/TKO(R1)
+- ALEKSEI OLEINIK def. VIKTOR PESTA via Submission(R1)
+- ANTHONY ROCCO MARTIN def. ALEX WHITE via Decision - Unanimous(R3)
+- WALT HARRIS def. CHASE SHERMAN via KO/TKO(R2)
+- JOACHIM CHRISTENSEN def. BOJAN MIHAJLOVIC via KO/TKO(R3)
+- NINA NUNES def. JOCELYN JONES-LYBARGER via Submission(R3)
+- DRAKKAR KLOSE def. DEVIN POWELL via Decision - Unanimous(R3)
+- JOE LAUZON def. MARCIN HELD via Decision - Split(R3)
+- YAIR RODRIGUEZ def. BJ PENN via KO/TKO(R2)
+- SERGIO PETTIS def. JOHN MORAGA via Decision - Unanimous(R3)
+- BEN SAUNDERS def. COURT MCGEE via Decision - Unanimous(R3)

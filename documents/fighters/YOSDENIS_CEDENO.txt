@@ -1,0 +1,11 @@
+Fighter: YOSDENIS CEDENO
+  Date of Birth: 1985-02-12
+  Career record: 4
+  First fight: 2014-02-22
+  Last fight: 2015-07-11
+
+Career Statistics:
+- Significant Strikes Landed :82
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :1

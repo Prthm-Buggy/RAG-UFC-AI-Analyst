@@ -1,0 +1,14 @@
+Event: UFC 171: Hendricks vs Lawler
+    Date: March 15, 2014
+    Location: Dallas, Texas, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: OVINCE SAINT PREUX defeated NIKITA KRYLOV via Submission  
+  at 1:29 of round 1
+  Key stats:
+  - OVINCE SAINT PREUX landed 1 significant strikes
+  - NIKITA KRYLOV landed 1 significant strikes
+  - Knockdowns: OVINCE SAINT PREUX 0,  NIKITA KRYLOV 0
+  - Takedowns: OVINCE SAINT PREUX 1,  NIKITA KRYLOV 0
+  Bonus: perf

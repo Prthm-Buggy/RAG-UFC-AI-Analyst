@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Lemos vs. Andrade
+    Date : April 23, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Lightweight, Featherweight, Women's Strawweight, Welterweight, Light Heavyweight, Catch Weight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - MAYCEE BARBER def. MONTANA DE LA ROSA via Decision - Unanimous(R3)
+- SERGEY KHANDOZHKO def. DWIGHT GRANT via KO/TKO(R2)
+- JESSICA ANDRADE def. AMANDA LEMOS via Submission(R1)
+- MIKE JACKSON def. DEAN BARRY via DQ(R1)
+- PRESTON PARSONS def. EVAN ELDER via Decision - Unanimous(R3)
+- CHARLES JOURDAIN def. LANDO VANNATA via Submission(R1)
+- TYSON PEDRO def. IKE VILLANUEVA via KO/TKO(R1)
+- MARC-ANDRE BARRIAULT def. JORDAN WRIGHT via Submission(R1)
+- PHILIPE LINS def. MARCIN PRACHNIO via Decision - Unanimous(R3)
+- CLAUDIO PUELLES def. CLAY GUIDA via Submission(R1)
+- AORIQILENG def. CAMERON ELSE via KO/TKO(R1)

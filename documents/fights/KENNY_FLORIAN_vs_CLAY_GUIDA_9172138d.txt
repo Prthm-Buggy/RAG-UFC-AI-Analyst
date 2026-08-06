@@ -1,0 +1,13 @@
+Event: UFC 107: Penn vs Sanchez
+    Date: December 12, 2009
+    Location: Memphis, Tennessee, USA
+    Weight Class: Lightweight
+    
+
+    Result: KENNY FLORIAN defeated CLAY GUIDA via Submission  
+  at 2:19 of round 2
+  Key stats:
+  - KENNY FLORIAN landed 22 significant strikes
+  - CLAY GUIDA landed 13 significant strikes
+  - Knockdowns: KENNY FLORIAN 1,  CLAY GUIDA 0
+  - Takedowns: KENNY FLORIAN 1,  CLAY GUIDA 0

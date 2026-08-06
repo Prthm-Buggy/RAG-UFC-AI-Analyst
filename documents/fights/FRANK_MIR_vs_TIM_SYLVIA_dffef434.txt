@@ -1,0 +1,14 @@
+Event: UFC 48: Payback
+    Date: June 19, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANK MIR defeated TIM SYLVIA via Submission  
+  at 0:50 of round 1
+  Key stats:
+  - FRANK MIR landed 3 significant strikes
+  - TIM SYLVIA landed 2 significant strikes
+  - Knockdowns: FRANK MIR 0,  TIM SYLVIA 0
+  - Takedowns: FRANK MIR 0,  TIM SYLVIA 1
+  Bonus: belt

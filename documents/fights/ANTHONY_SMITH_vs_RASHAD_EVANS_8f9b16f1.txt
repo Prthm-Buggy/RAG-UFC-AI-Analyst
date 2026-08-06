@@ -1,0 +1,13 @@
+Event: UFC 225: Whittaker vs. Romero 2
+    Date: June 09, 2018
+    Location: Chicago, Illinois, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY SMITH defeated RASHAD EVANS via KO/TKO  
+  at 0:53 of round 1
+  Key stats:
+  - ANTHONY SMITH landed 6 significant strikes
+  - RASHAD EVANS landed 1 significant strikes
+  - Knockdowns: ANTHONY SMITH 1,  RASHAD EVANS 0
+  - Takedowns: ANTHONY SMITH 0,  RASHAD EVANS 0

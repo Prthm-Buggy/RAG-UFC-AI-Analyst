@@ -1,0 +1,14 @@
+Event: UFC 185: Pettis vs Dos Anjos
+    Date: March 14, 2015
+    Location: Dallas, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENEIL DARIUSH defeated DARON CRUICKSHANK via Submission  
+  at 2:38 of round 2
+  Key stats:
+  - BENEIL DARIUSH landed 27 significant strikes
+  - DARON CRUICKSHANK landed 17 significant strikes
+  - Knockdowns: BENEIL DARIUSH 0,  DARON CRUICKSHANK 0
+  - Takedowns: BENEIL DARIUSH 1,  DARON CRUICKSHANK 0
+  Bonus: perf

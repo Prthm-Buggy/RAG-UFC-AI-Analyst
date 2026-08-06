@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Zabit vs. Kattar
+    Date: November 09, 2019
+    Location: Moscow, Moscow, Russia
+    Weight Class: Welterweight
+    
+
+    Result: DANNY ROBERTS defeated ZELIM IMADAEV via KO/TKO  
+  at 4:54 of round 2
+  Key stats:
+  - DANNY ROBERTS landed 37 significant strikes
+  - ZELIM IMADAEV landed 28 significant strikes
+  - Knockdowns: DANNY ROBERTS 1,  ZELIM IMADAEV 0
+  - Takedowns: DANNY ROBERTS 1,  ZELIM IMADAEV 1

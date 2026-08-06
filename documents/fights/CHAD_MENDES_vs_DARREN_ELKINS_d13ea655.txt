@@ -1,0 +1,13 @@
+Event: UFC on FOX: Henderson vs Melendez
+    Date: April 20, 2013
+    Location: San Jose, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHAD MENDES defeated DARREN ELKINS via KO/TKO  
+  at 1:08 of round 1
+  Key stats:
+  - CHAD MENDES landed 7 significant strikes
+  - DARREN ELKINS landed 2 significant strikes
+  - Knockdowns: CHAD MENDES 1,  DARREN ELKINS 0
+  - Takedowns: CHAD MENDES 0,  DARREN ELKINS 0

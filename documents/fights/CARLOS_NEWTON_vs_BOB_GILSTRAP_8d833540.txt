@@ -1,0 +1,13 @@
+Event: UFC 17: Redemption
+    Date: May 15, 1998
+    Location: Mobile, Alabama, USA
+    Weight Class: Middleweight
+    
+
+    Result: CARLOS NEWTON defeated BOB GILSTRAP via Submission  
+  at 0:52 of round 1
+  Key stats:
+  - CARLOS NEWTON landed 1 significant strikes
+  - BOB GILSTRAP landed 0 significant strikes
+  - Knockdowns: CARLOS NEWTON 0,  BOB GILSTRAP 0
+  - Takedowns: CARLOS NEWTON 1,  BOB GILSTRAP 0

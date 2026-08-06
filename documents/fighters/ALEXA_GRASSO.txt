@@ -1,0 +1,11 @@
+Fighter: ALEXA GRASSO
+  Date of Birth: 1993-08-09
+  Career record: 14
+  First fight: 2016-11-05
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :837
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :9

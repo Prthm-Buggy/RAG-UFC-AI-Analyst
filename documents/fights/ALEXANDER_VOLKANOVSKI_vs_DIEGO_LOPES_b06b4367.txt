@@ -1,0 +1,14 @@
+Event: UFC 325: Volkanovski vs. Lopes 2
+    Date: January 31, 2026
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Featherweight
+    
+
+    Result: ALEXANDER VOLKANOVSKI defeated DIEGO LOPES via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ALEXANDER VOLKANOVSKI landed 98 significant strikes
+  - DIEGO LOPES landed 70 significant strikes
+  - Knockdowns: ALEXANDER VOLKANOVSKI 0,  DIEGO LOPES 0
+  - Takedowns: ALEXANDER VOLKANOVSKI 2,  DIEGO LOPES 2
+  Bonus: belt

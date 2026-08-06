@@ -1,0 +1,13 @@
+Event: UFC 280: Oliveira vs. Makhachev
+    Date: October 22, 2022
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Flyweight
+    
+
+    Result: MANON FIOROT defeated KATLYN CERMINARA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MANON FIOROT landed 98 significant strikes
+  - KATLYN CERMINARA landed 76 significant strikes
+  - Knockdowns: MANON FIOROT 0,  KATLYN CERMINARA 0
+  - Takedowns: MANON FIOROT 1,  KATLYN CERMINARA 0

@@ -1,0 +1,13 @@
+Event: UFC 119: Mir vs Cro Cop
+    Date: September 25, 2010
+    Location: Indianapolis, Indiana, USA
+    Weight Class: Lightweight
+    
+
+    Result: THIAGO TAVARES defeated PAT AUDINWOOD via Submission  
+  at 3:47 of round 1
+  Key stats:
+  - THIAGO TAVARES landed 7 significant strikes
+  - PAT AUDINWOOD landed 3 significant strikes
+  - Knockdowns: THIAGO TAVARES 0,  PAT AUDINWOOD 0
+  - Takedowns: THIAGO TAVARES 2,  PAT AUDINWOOD 0

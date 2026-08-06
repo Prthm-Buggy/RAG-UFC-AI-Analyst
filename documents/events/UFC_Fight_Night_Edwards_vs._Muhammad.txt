@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Edwards vs. Muhammad
+    Date : March 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Light Heavyweight, Women's Strawweight, Featherweight, Lightweight, Welterweight, Flyweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - DAVEY GRANT def. JONATHAN MARTINEZ via KO/TKO(R2)
+- JINH YU FREY def. GLORIA DE PAULA via Decision - Unanimous(R3)
+- NASRAT HAQPARAST def. RAFA GARCIA via Decision - Unanimous(R3)
+- MATTHEW SEMELSBERGER def. JASON WITT via KO/TKO(R1)
+- CHARLES JOURDAIN def. MARCELO ROJO via KO/TKO(R3)
+- DAN IGE def. GAVIN TUCKER via KO/TKO(R1)
+- MATHEUS NICOLAU def. MANEL KAPE via Decision - Split(R3)
+- JJ ALDRICH def. CORTNEY CASEY via Decision - Split(R3)
+- ANGELA HILL def. ASHLEY YODER via Decision - Unanimous(R3)
+- RYAN SPANN def. MISHA CIRKUNOV via KO/TKO(R1)
+- RANI YAHYA def. RAY RODRIGUEZ via Submission(R2)

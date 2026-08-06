@@ -1,0 +1,11 @@
+Fighter: NATE MANESS
+  Date of Birth: 1991-06-27
+  Career record: 7
+  First fight: 2020-08-01
+  Last fight: 2024-06-15
+
+Career Statistics:
+- Significant Strikes Landed :209
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :3

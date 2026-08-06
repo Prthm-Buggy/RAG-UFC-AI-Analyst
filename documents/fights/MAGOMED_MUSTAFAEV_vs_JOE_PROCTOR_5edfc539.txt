@@ -1,0 +1,13 @@
+Event: UFC 194: Aldo vs McGregor
+    Date: December 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MAGOMED MUSTAFAEV defeated JOE PROCTOR via KO/TKO  
+  at 1:54 of round 1
+  Key stats:
+  - MAGOMED MUSTAFAEV landed 18 significant strikes
+  - JOE PROCTOR landed 9 significant strikes
+  - Knockdowns: MAGOMED MUSTAFAEV 1,  JOE PROCTOR 0
+  - Takedowns: MAGOMED MUSTAFAEV 0,  JOE PROCTOR 0

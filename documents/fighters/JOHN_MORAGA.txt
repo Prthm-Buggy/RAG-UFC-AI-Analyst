@@ -1,0 +1,11 @@
+Fighter: JOHN MORAGA
+  Date of Birth: 1984-03-20
+  Career record: 14
+  First fight: 2012-08-04
+  Last fight: 2018-08-25
+
+Career Statistics:
+- Significant Strikes Landed :433
+- Total takedowns landed :7
+- Knockdowns :2
+- Submission Attempts :12

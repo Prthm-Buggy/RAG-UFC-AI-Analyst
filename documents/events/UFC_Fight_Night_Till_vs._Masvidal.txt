@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Till vs. Masvidal
+    Date : March 16, 2019
+    Location: London, England, United Kingdom
+    Number of Fights: 12
+    Weight Classes: Featherweight, Light Heavyweight, Welterweight, Lightweight, Middleweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - NATHANIEL WOOD def. JOSE QUINONEZ via Submission(R2)
+- DAN IGE def. DANNY HENRY via Submission(R1)
+- ARNOLD ALLEN def. JORDAN RINALDI via Decision - Unanimous(R3)
+- SAPARBEG SAFAROV def. NICOLAE NEGUMEREANU via Decision - Unanimous(R3)
+- LEON EDWARDS def. GUNNAR NELSON via Decision - Split(R3)
+- MIKE GRUNDY def. NAD NARIMANI via KO/TKO(R2)
+- MARC DIAKIESE def. JOE DUFFY via Decision - Unanimous(R3)
+- JORGE MASVIDAL def. DARREN TILL via KO/TKO(R2)
+- MOLLY MCCANN def. PRISCILA CACHOEIRA via Decision - Unanimous(R3)
+- DOMINICK REYES def. VOLKAN OEZDEMIR via Decision - Split(R3)
+- CLAUDIO SILVA def. DANNY ROBERTS via Submission(R3)
+- JACK MARSHMAN def. JOHN PHILLIPS via Decision - Split(R3)

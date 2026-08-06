@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Condit vs Kampmann
+    Date: April 01, 2009
+    Location: Nashville, Tennessee, USA
+    Weight Class: Lightweight
+    
+
+    Result: TYSON GRIFFIN defeated RAFAEL DOS ANJOS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TYSON GRIFFIN landed 69 significant strikes
+  - RAFAEL DOS ANJOS landed 26 significant strikes
+  - Knockdowns: TYSON GRIFFIN 0,  RAFAEL DOS ANJOS 0
+  - Takedowns: TYSON GRIFFIN 1,  RAFAEL DOS ANJOS 0
+  Bonus: fight

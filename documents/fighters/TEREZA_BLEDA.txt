@@ -1,0 +1,11 @@
+Fighter: TEREZA BLEDA
+  Date of Birth: 2001-11-30
+  Career record: 3
+  First fight: 2022-11-19
+  Last fight: 2025-12-13
+
+Career Statistics:
+- Significant Strikes Landed :77
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :2

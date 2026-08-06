@@ -1,0 +1,11 @@
+Fighter: JONATHAN GOULET
+  Date of Birth: 1979-07-13
+  Career record: 9
+  First fight: 2005-10-03
+  Last fight: 2010-05-08
+
+Career Statistics:
+- Significant Strikes Landed :81
+- Total takedowns landed :14
+- Knockdowns :2
+- Submission Attempts :2

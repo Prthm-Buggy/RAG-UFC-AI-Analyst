@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machado Garry vs. Prates
+    Date: April 26, 2025
+    Location: Kansas City, Missouri, USA
+    Weight Class: Featherweight
+    
+
+    Result: DAVID ONAMA defeated GIGA CHIKADZE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DAVID ONAMA landed 49 significant strikes
+  - GIGA CHIKADZE landed 43 significant strikes
+  - Knockdowns: DAVID ONAMA 0,  GIGA CHIKADZE 0
+  - Takedowns: DAVID ONAMA 3,  GIGA CHIKADZE 0

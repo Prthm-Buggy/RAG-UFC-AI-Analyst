@@ -1,0 +1,11 @@
+Fighter: RONY JASON
+  Date of Birth: 1984-03-21
+  Career record: 8
+  First fight: 2012-06-23
+  Last fight: 2017-03-11
+
+Career Statistics:
+- Significant Strikes Landed :150
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :3

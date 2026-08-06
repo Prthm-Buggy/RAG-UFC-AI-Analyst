@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Pavlovich vs. Blaydes
+    Date: April 22, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SERGEI PAVLOVICH defeated CURTIS BLAYDES via KO/TKO  
+  at 3:08 of round 1
+  Key stats:
+  - SERGEI PAVLOVICH landed 36 significant strikes
+  - CURTIS BLAYDES landed 14 significant strikes
+  - Knockdowns: SERGEI PAVLOVICH 1,  CURTIS BLAYDES 0
+  - Takedowns: SERGEI PAVLOVICH 0,  CURTIS BLAYDES 0
+  Bonus: perf

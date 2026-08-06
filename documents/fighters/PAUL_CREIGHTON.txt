@@ -1,0 +1,11 @@
+Fighter: PAUL CREIGHTON
+  Date of Birth: 1970-06-04
+  Career record: 1
+  First fight: 2002-05-10
+  Last fight: 2002-05-10
+
+Career Statistics:
+- Significant Strikes Landed :6
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

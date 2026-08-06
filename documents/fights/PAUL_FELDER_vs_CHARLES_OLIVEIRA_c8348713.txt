@@ -1,0 +1,13 @@
+Event: UFC 218: Holloway vs. Aldo 2
+    Date: December 02, 2017
+    Location: Detroit, Michigan, USA
+    Weight Class: Lightweight
+    
+
+    Result: PAUL FELDER defeated CHARLES OLIVEIRA via KO/TKO  
+  at 4:06 of round 2
+  Key stats:
+  - PAUL FELDER landed 31 significant strikes
+  - CHARLES OLIVEIRA landed 6 significant strikes
+  - Knockdowns: PAUL FELDER 0,  CHARLES OLIVEIRA 0
+  - Takedowns: PAUL FELDER 0,  CHARLES OLIVEIRA 2

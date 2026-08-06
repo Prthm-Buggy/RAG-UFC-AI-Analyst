@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Muniz vs. Allen
+    Date: February 25, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRENDAN ALLEN defeated ANDRE MUNIZ via Submission  
+  at 4:25 of round 3
+  Key stats:
+  - BRENDAN ALLEN landed 42 significant strikes
+  - ANDRE MUNIZ landed 43 significant strikes
+  - Knockdowns: BRENDAN ALLEN 0,  ANDRE MUNIZ 0
+  - Takedowns: BRENDAN ALLEN 1,  ANDRE MUNIZ 0
+  Bonus: perf

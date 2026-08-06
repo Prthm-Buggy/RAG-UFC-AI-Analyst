@@ -1,0 +1,13 @@
+Event: UFC 74: Respect
+    Date: August 25, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANK MIR defeated ANTONI HARDONK via Submission  
+  at 1:17 of round 1
+  Key stats:
+  - FRANK MIR landed 4 significant strikes
+  - ANTONI HARDONK landed 1 significant strikes
+  - Knockdowns: FRANK MIR 0,  ANTONI HARDONK 0
+  - Takedowns: FRANK MIR 1,  ANTONI HARDONK 0

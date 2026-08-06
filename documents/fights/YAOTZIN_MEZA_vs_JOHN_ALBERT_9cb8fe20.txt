@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs Moraga
+    Date: July 27, 2013
+    Location: Seattle, Washington, USA
+    Weight Class: Bantamweight
+    
+
+    Result: YAOTZIN MEZA defeated JOHN ALBERT via Submission  
+  at 2:49 of round 2
+  Key stats:
+  - YAOTZIN MEZA landed 4 significant strikes
+  - JOHN ALBERT landed 4 significant strikes
+  - Knockdowns: YAOTZIN MEZA 0,  JOHN ALBERT 0
+  - Takedowns: YAOTZIN MEZA 1,  JOHN ALBERT 0

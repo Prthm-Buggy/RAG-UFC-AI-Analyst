@@ -1,0 +1,14 @@
+Event : UFC 43: Meltdown
+    Date : June 06, 2003
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 7
+    Weight Classes: Heavyweight, Light Heavyweight, Middleweight, Lightweight
+
+    Fight Results:
+  - VITOR BELFORT def. MARVIN EASTMAN via KO/TKO(R1)
+- RANDY COUTURE def. CHUCK LIDDELL via KO/TKO(R3)
+- FALANIKO VITALE def. MATT LINDLAND via KO/TKO(R1)
+- PEDRO RIZZO def. TRA TELLIGMAN via TKO - Doctor's Stoppage(R2)
+- KIMO LEOPOLDO def. DAVID ABBOTT via Submission(R1)
+- FRANK MIR def. WES SIMS via DQ(R1)
+- YVES EDWARDS def. EDDIE RUIZ via Decision - Unanimous(R3)

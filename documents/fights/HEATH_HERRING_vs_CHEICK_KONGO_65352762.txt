@@ -1,0 +1,13 @@
+Event: UFC 82: Pride of a Champion
+    Date: March 01, 2008
+    Location: Columbus, Ohio, USA
+    Weight Class: Heavyweight
+    
+
+    Result: HEATH HERRING defeated CHEICK KONGO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - HEATH HERRING landed 57 significant strikes
+  - CHEICK KONGO landed 45 significant strikes
+  - Knockdowns: HEATH HERRING 1,  CHEICK KONGO 0
+  - Takedowns: HEATH HERRING 3,  CHEICK KONGO 5

@@ -1,0 +1,13 @@
+Event: UFC 291: Poirier vs. Gaethje 2
+    Date: July 29, 2023
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Welterweight
+    
+
+    Result: UROS MEDIC defeated MATTHEW SEMELSBERGER via KO/TKO  
+  at 2:36 of round 3
+  Key stats:
+  - UROS MEDIC landed 69 significant strikes
+  - MATTHEW SEMELSBERGER landed 52 significant strikes
+  - Knockdowns: UROS MEDIC 1,  MATTHEW SEMELSBERGER 1
+  - Takedowns: UROS MEDIC 1,  MATTHEW SEMELSBERGER 0

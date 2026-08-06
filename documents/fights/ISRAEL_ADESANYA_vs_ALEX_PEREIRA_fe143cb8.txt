@@ -1,0 +1,14 @@
+Event: UFC 287: Pereira vs. Adesanya 2
+    Date: April 08, 2023
+    Location: Miami, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: ISRAEL ADESANYA defeated ALEX PEREIRA via KO/TKO  
+  at 4:21 of round 2
+  Key stats:
+  - ISRAEL ADESANYA landed 41 significant strikes
+  - ALEX PEREIRA landed 49 significant strikes
+  - Knockdowns: ISRAEL ADESANYA 1,  ALEX PEREIRA 0
+  - Takedowns: ISRAEL ADESANYA 0,  ALEX PEREIRA 0
+  Bonus: belt

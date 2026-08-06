@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Tuivasa vs. Tybura
+    Date : March 16, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Middleweight, Light Heavyweight, Women's Bantamweight, Featherweight, Women's Strawweight, Lightweight, Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - CHRISTIAN RODRIGUEZ def. ISAAC DULGARIAN via Decision - Split(R3)
+- THIAGO MOISES def. MITCH RAMIREZ via KO/TKO(R3)
+- CHELSEA CHANDLER def. JOSIANE NUNES via Decision - Unanimous(R3)
+- JAQUELINE AMORIM def. CORY MCKENNA via Submission(R1)
+- MIKE DAVIS def. NATAN LEVY via Submission(R2)
+- CHAD ANHELIGER def. CHARALAMPOS GRIGORIOU via Decision - Unanimous(R3)
+- DANNY SILVA def. JOSH CULIBAO via Decision - Split(R3)
+- JAFEL FILHO def. ODE OSBOURNE via Submission(R1)
+- GERALD MEERSCHAERT def. BRYAN BARBERENA via Submission(R2)
+- MARCIN TYBURA def. TAI TUIVASA via Submission(R1)
+- MACY CHIASSON def. PANNIE KIANZAD via Submission(R1)
+- OVINCE SAINT PREUX def. KENNEDY NZECHUKWU via Decision - Split(R3)

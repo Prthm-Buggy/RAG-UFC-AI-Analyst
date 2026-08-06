@@ -1,0 +1,14 @@
+Event: UFC 282: Blachowicz vs. Ankalaev
+    Date: December 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: BILLY QUARANTILLO defeated ALEXANDER HERNANDEZ via KO/TKO  
+  at 4:30 of round 2
+  Key stats:
+  - BILLY QUARANTILLO landed 87 significant strikes
+  - ALEXANDER HERNANDEZ landed 48 significant strikes
+  - Knockdowns: BILLY QUARANTILLO 0,  ALEXANDER HERNANDEZ 0
+  - Takedowns: BILLY QUARANTILLO 2,  ALEXANDER HERNANDEZ 2
+  Bonus: perf

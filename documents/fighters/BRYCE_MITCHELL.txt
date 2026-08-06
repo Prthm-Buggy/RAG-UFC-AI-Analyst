@@ -1,0 +1,11 @@
+Fighter: BRYCE MITCHELL
+  Date of Birth: 1994-10-04
+  Career record: 13
+  First fight: 2018-07-06
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :337
+- Total takedowns landed :32
+- Knockdowns :1
+- Submission Attempts :11

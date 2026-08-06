@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nelson vs Story
+    Date: October 04, 2014
+    Location: Stockholm, Sweden
+    Weight Class: Welterweight
+    
+
+    Result: NICHOLAS MUSOKE defeated ALEXANDER YAKOVLEV via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NICHOLAS MUSOKE landed 70 significant strikes
+  - ALEXANDER YAKOVLEV landed 44 significant strikes
+  - Knockdowns: NICHOLAS MUSOKE 0,  ALEXANDER YAKOVLEV 0
+  - Takedowns: NICHOLAS MUSOKE 0,  ALEXANDER YAKOVLEV 0

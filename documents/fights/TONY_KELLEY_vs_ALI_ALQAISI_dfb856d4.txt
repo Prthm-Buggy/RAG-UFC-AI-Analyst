@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moraes vs. Sandhagen
+    Date: October 10, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Bantamweight
+    
+
+    Result: TONY KELLEY defeated ALI ALQAISI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TONY KELLEY landed 23 significant strikes
+  - ALI ALQAISI landed 29 significant strikes
+  - Knockdowns: TONY KELLEY 0,  ALI ALQAISI 0
+  - Takedowns: TONY KELLEY 0,  ALI ALQAISI 5

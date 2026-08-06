@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Stephens vs. Choi
+    Date: January 14, 2018
+    Location: St. Louis, Missouri, USA
+    Weight Class: Bantamweight
+    
+
+    Result: KYUNG HO KANG defeated GUIDO CANNETTI via Submission  
+  at 4:53 of round 1
+  Key stats:
+  - KYUNG HO KANG landed 3 significant strikes
+  - GUIDO CANNETTI landed 19 significant strikes
+  - Knockdowns: KYUNG HO KANG 0,  GUIDO CANNETTI 0
+  - Takedowns: KYUNG HO KANG 1,  GUIDO CANNETTI 1

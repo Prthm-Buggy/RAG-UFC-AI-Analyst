@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Spann
+    Date: September 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLSTON HARRIS defeated IMPA KASANGANAY via KO/TKO  
+  at 2:38 of round 1
+  Key stats:
+  - CARLSTON HARRIS landed 24 significant strikes
+  - IMPA KASANGANAY landed 6 significant strikes
+  - Knockdowns: CARLSTON HARRIS 1,  IMPA KASANGANAY 0
+  - Takedowns: CARLSTON HARRIS 0,  IMPA KASANGANAY 0

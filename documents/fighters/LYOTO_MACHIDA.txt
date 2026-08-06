@@ -1,0 +1,11 @@
+Fighter: LYOTO MACHIDA
+  Date of Birth: 1978-05-30
+  Career record: 24
+  First fight: 2007-02-03
+  Last fight: 2018-05-12
+
+Career Statistics:
+- Significant Strikes Landed :716
+- Total takedowns landed :14
+- Knockdowns :14
+- Submission Attempts :8

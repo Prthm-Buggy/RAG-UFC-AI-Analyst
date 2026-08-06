@@ -1,0 +1,13 @@
+Event: UFC 136: Edgar vs Maynard 3
+    Date: October 08, 2011
+    Location: Houston, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHAEL SONNEN defeated BRIAN STANN via Submission  
+  at 3:51 of round 2
+  Key stats:
+  - CHAEL SONNEN landed 28 significant strikes
+  - BRIAN STANN landed 2 significant strikes
+  - Knockdowns: CHAEL SONNEN 0,  BRIAN STANN 0
+  - Takedowns: CHAEL SONNEN 4,  BRIAN STANN 0

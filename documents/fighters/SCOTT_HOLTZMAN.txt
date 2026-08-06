@@ -1,0 +1,11 @@
+Fighter: SCOTT HOLTZMAN
+  Date of Birth: 1983-09-30
+  Career record: 13
+  First fight: 2015-08-08
+  Last fight: 2022-12-03
+
+Career Statistics:
+- Significant Strikes Landed :723
+- Total takedowns landed :21
+- Knockdowns :4
+- Submission Attempts :2

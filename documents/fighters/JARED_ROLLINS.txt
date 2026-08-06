@@ -1,0 +1,11 @@
+Fighter: JARED ROLLINS
+  Date of Birth: 1977-01-26
+  Career record: 1
+  First fight: 2007-12-08
+  Last fight: 2007-12-08
+
+Career Statistics:
+- Significant Strikes Landed :40
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :1

@@ -1,0 +1,14 @@
+Event: UFC 216: Ferguson vs. Lee
+    Date: October 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: DEMETRIOUS JOHNSON defeated RAY BORG via Submission  
+  at 3:15 of round 5
+  Key stats:
+  - DEMETRIOUS JOHNSON landed 64 significant strikes
+  - RAY BORG landed 13 significant strikes
+  - Knockdowns: DEMETRIOUS JOHNSON 0,  RAY BORG 0
+  - Takedowns: DEMETRIOUS JOHNSON 8,  RAY BORG 3
+  Bonus: belt

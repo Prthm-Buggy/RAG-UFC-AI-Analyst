@@ -1,0 +1,13 @@
+Event: UFC 19: Ultimate Young Guns
+    Date: March 05, 1999
+    Location: Bay St. Louis, Mississippi, USA
+    Weight Class: Middleweight
+    
+
+    Result: EVAN TANNER defeated VALERI IGNATOV via KO/TKO  
+  at 2:58 of round 1
+  Key stats:
+  - EVAN TANNER landed 23 significant strikes
+  - VALERI IGNATOV landed 2 significant strikes
+  - Knockdowns: EVAN TANNER 0,  VALERI IGNATOV 0
+  - Takedowns: EVAN TANNER 1,  VALERI IGNATOV 0

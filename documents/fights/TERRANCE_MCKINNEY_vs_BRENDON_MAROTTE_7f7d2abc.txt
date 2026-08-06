@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yusuff vs. Barboza
+    Date: October 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TERRANCE MCKINNEY defeated BRENDON MAROTTE via KO/TKO  
+  at 0:20 of round 1
+  Key stats:
+  - TERRANCE MCKINNEY landed 14 significant strikes
+  - BRENDON MAROTTE landed 1 significant strikes
+  - Knockdowns: TERRANCE MCKINNEY 1,  BRENDON MAROTTE 0
+  - Takedowns: TERRANCE MCKINNEY 0,  BRENDON MAROTTE 0

@@ -1,0 +1,11 @@
+Fighter: ZABIT MAGOMEDSHARIPOV
+  Date of Birth: 1991-03-01
+  Career record: 6
+  First fight: 2017-09-02
+  Last fight: 2019-11-09
+
+Career Statistics:
+- Significant Strikes Landed :380
+- Total takedowns landed :27
+- Knockdowns :0
+- Submission Attempts :4

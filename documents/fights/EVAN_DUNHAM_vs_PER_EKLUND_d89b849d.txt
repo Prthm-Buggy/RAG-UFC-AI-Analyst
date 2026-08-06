@@ -1,0 +1,13 @@
+Event: UFC 95: Sanchez vs Stevenson
+    Date: February 21, 2009
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: EVAN DUNHAM defeated PER EKLUND via KO/TKO  
+  at 2:13 of round 1
+  Key stats:
+  - EVAN DUNHAM landed 13 significant strikes
+  - PER EKLUND landed 9 significant strikes
+  - Knockdowns: EVAN DUNHAM 1,  PER EKLUND 0
+  - Takedowns: EVAN DUNHAM 0,  PER EKLUND 1

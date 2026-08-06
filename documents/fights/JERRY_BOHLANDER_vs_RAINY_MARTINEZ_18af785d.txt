@@ -1,0 +1,13 @@
+Event: UFC 12: Judgement Day
+    Date: February 07, 1997
+    Location: Dothan, Alabama, USA
+    Weight Class: Lightweight
+    
+
+    Result: JERRY BOHLANDER defeated RAINY MARTINEZ via Submission  
+  at 1:24 of round 1
+  Key stats:
+  - JERRY BOHLANDER landed 0 significant strikes
+  - RAINY MARTINEZ landed 0 significant strikes
+  - Knockdowns: JERRY BOHLANDER 0,  RAINY MARTINEZ 0
+  - Takedowns: JERRY BOHLANDER 1,  RAINY MARTINEZ 0

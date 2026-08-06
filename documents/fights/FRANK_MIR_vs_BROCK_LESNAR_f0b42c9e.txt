@@ -1,0 +1,14 @@
+Event: UFC 81: Breaking Point
+    Date: February 02, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANK MIR defeated BROCK LESNAR via Submission  
+  at 1:30 of round 1
+  Key stats:
+  - FRANK MIR landed 2 significant strikes
+  - BROCK LESNAR landed 16 significant strikes
+  - Knockdowns: FRANK MIR 0,  BROCK LESNAR 0
+  - Takedowns: FRANK MIR 0,  BROCK LESNAR 1
+  Bonus: sub

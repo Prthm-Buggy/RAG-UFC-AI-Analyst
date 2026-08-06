@@ -1,0 +1,11 @@
+Fighter: LILIYA SHAKIROVA
+  Date of Birth: 1991-10-24
+  Career record: 1
+  First fight: 2020-10-24
+  Last fight: 2020-10-24
+
+Career Statistics:
+- Significant Strikes Landed :23
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

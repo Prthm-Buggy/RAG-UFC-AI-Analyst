@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Thompson vs. Neal
+    Date : December 19, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Bantamweight, Women's Flyweight, Welterweight, Catch Weight, Women's Bantamweight, Middleweight, Flyweight
+
+    Fight Results:
+  - TAILA SANTOS def. GILLIAN ROBERTSON via Decision - Unanimous(R3)
+- MICHEL PEREIRA def. KHAOS WILLIAMS via Decision - Unanimous(R3)
+- MARCIN TYBURA def. GREG HARDY via KO/TKO(R2)
+- CHRISTOS GIAGOS def. CARLTON MINUS via Decision - Unanimous(R3)
+- ROB FONT def. MARLON MORAES via KO/TKO(R1)
+- PANNIE KIANZAD def. SIJARA EUBANKS via Decision - Unanimous(R3)
+- DERON WINN def. ANTONIO ARROYO via Decision - Unanimous(R3)
+- JOSE ALDO def. MARLON VERA via Decision - Unanimous(R3)
+- TAFON NCHUKWI def. JAMIE PICKETT via Decision - Unanimous(R3)
+- STEPHEN THOMPSON def. GEOFF NEAL via Decision - Unanimous(R5)
+- JIMMY FLICK def. CODY DURDEN via Submission(R1)
+- ANTHONY PETTIS def. ALEX MORONO via Decision - Unanimous(R3)

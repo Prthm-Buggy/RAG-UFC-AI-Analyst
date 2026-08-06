@@ -1,0 +1,11 @@
+Fighter: DANNY MARTINEZ
+  Date of Birth: 1985-06-14
+  Career record: 4
+  First fight: 2014-02-01
+  Last fight: 2015-11-14
+
+Career Statistics:
+- Significant Strikes Landed :193
+- Total takedowns landed :14
+- Knockdowns :1
+- Submission Attempts :0

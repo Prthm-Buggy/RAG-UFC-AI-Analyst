@@ -1,0 +1,11 @@
+Fighter: HANNAH CIFERS
+  Date of Birth: 1992-06-26
+  Career record: 7
+  First fight: 2018-11-10
+  Last fight: 2020-08-29
+
+Career Statistics:
+- Significant Strikes Landed :291
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :1

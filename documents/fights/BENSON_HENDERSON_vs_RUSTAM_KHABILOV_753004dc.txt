@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Henderson vs Khabilov
+    Date: June 07, 2014
+    Location: Albuquerque, New Mexico, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENSON HENDERSON defeated RUSTAM KHABILOV via Submission  
+  at 1:16 of round 4
+  Key stats:
+  - BENSON HENDERSON landed 26 significant strikes
+  - RUSTAM KHABILOV landed 18 significant strikes
+  - Knockdowns: BENSON HENDERSON 1,  RUSTAM KHABILOV 0
+  - Takedowns: BENSON HENDERSON 1,  RUSTAM KHABILOV 6
+  Bonus: perf

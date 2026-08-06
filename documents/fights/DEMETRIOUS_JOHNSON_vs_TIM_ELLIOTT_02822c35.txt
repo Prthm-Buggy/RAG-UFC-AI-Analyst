@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Tournament of Champions Finale
+    Date: December 03, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: DEMETRIOUS JOHNSON defeated TIM ELLIOTT via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - DEMETRIOUS JOHNSON landed 28 significant strikes
+  - TIM ELLIOTT landed 24 significant strikes
+  - Knockdowns: DEMETRIOUS JOHNSON 0,  TIM ELLIOTT 0
+  - Takedowns: DEMETRIOUS JOHNSON 5,  TIM ELLIOTT 4
+  Bonus: belt

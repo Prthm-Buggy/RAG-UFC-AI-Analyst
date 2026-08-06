@@ -1,0 +1,13 @@
+Event: UFC 111: St-Pierre vs Hardy
+    Date: March 27, 2010
+    Location: Newark, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: NATE DIAZ defeated RORY MARKHAM via KO/TKO  
+  at 2:47 of round 1
+  Key stats:
+  - NATE DIAZ landed 34 significant strikes
+  - RORY MARKHAM landed 3 significant strikes
+  - Knockdowns: NATE DIAZ 1,  RORY MARKHAM 0
+  - Takedowns: NATE DIAZ 0,  RORY MARKHAM 0

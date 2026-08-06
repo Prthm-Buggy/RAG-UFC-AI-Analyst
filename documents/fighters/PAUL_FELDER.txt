@@ -1,0 +1,11 @@
+Fighter: PAUL FELDER
+  Date of Birth: 1984-04-25
+  Career record: 15
+  First fight: 2014-10-04
+  Last fight: 2020-11-14
+
+Career Statistics:
+- Significant Strikes Landed :763
+- Total takedowns landed :4
+- Knockdowns :3
+- Submission Attempts :3

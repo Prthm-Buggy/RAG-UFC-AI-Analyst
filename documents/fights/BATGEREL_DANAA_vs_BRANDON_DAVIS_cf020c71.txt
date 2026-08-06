@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ladd vs. Dumont
+    Date: October 16, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: BATGEREL DANAA defeated BRANDON DAVIS via KO/TKO  
+  at 2:01 of round 1
+  Key stats:
+  - BATGEREL DANAA landed 22 significant strikes
+  - BRANDON DAVIS landed 7 significant strikes
+  - Knockdowns: BATGEREL DANAA 1,  BRANDON DAVIS 0
+  - Takedowns: BATGEREL DANAA 0,  BRANDON DAVIS 0
+  Bonus: perf

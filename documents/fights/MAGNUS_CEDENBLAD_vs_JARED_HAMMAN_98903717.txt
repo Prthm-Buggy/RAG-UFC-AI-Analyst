@@ -1,0 +1,13 @@
+Event: UFC 164: Henderson vs Pettis 2
+    Date: August 31, 2013
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Middleweight
+    
+
+    Result: MAGNUS CEDENBLAD defeated JARED HAMMAN via Submission  
+  at 0:57 of round 1
+  Key stats:
+  - MAGNUS CEDENBLAD landed 4 significant strikes
+  - JARED HAMMAN landed 3 significant strikes
+  - Knockdowns: MAGNUS CEDENBLAD 0,  JARED HAMMAN 0
+  - Takedowns: MAGNUS CEDENBLAD 0,  JARED HAMMAN 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Marquardt vs Palhares
+    Date: September 15, 2010
+    Location: Austin, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRIAN FOSTER defeated FORREST PETZ via KO/TKO  
+  at 1:07 of round 1
+  Key stats:
+  - BRIAN FOSTER landed 17 significant strikes
+  - FORREST PETZ landed 1 significant strikes
+  - Knockdowns: BRIAN FOSTER 1,  FORREST PETZ 0
+  - Takedowns: BRIAN FOSTER 0,  FORREST PETZ 0
+  Bonus: ko

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Spivac
+    Date: February 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JUNYONG PARK defeated DENIS TIULIULIN via Submission  
+  at 4:05 of round 1
+  Key stats:
+  - JUNYONG PARK landed 25 significant strikes
+  - DENIS TIULIULIN landed 8 significant strikes
+  - Knockdowns: JUNYONG PARK 0,  DENIS TIULIULIN 0
+  - Takedowns: JUNYONG PARK 1,  DENIS TIULIULIN 0

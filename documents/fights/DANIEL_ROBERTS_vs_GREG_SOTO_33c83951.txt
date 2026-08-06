@@ -1,0 +1,13 @@
+Event: UFC 125: Resolution
+    Date: January 01, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DANIEL ROBERTS defeated GREG SOTO via Submission  
+  at 3:45 of round 1
+  Key stats:
+  - DANIEL ROBERTS landed 3 significant strikes
+  - GREG SOTO landed 6 significant strikes
+  - Knockdowns: DANIEL ROBERTS 0,  GREG SOTO 0
+  - Takedowns: DANIEL ROBERTS 1,  GREG SOTO 0

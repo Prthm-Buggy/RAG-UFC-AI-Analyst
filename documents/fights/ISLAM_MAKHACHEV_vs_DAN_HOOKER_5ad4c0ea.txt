@@ -1,0 +1,13 @@
+Event: UFC 267: Blachowicz vs. Teixeira
+    Date: October 30, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: ISLAM MAKHACHEV defeated DAN HOOKER via Submission  
+  at 2:25 of round 1
+  Key stats:
+  - ISLAM MAKHACHEV landed 2 significant strikes
+  - DAN HOOKER landed 4 significant strikes
+  - Knockdowns: ISLAM MAKHACHEV 0,  DAN HOOKER 0
+  - Takedowns: ISLAM MAKHACHEV 1,  DAN HOOKER 0

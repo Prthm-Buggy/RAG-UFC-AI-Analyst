@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bigfoot vs Mir
+    Date: February 22, 2015
+    Location: Porto Alegre, Rio Grande do Sul, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: MIKE DE LA TORRE defeated TIAGO DOS SANTOS E SILVA via KO/TKO  
+  at 2:59 of round 1
+  Key stats:
+  - MIKE DE LA TORRE landed 16 significant strikes
+  - TIAGO DOS SANTOS E SILVA landed 7 significant strikes
+  - Knockdowns: MIKE DE LA TORRE 1,  TIAGO DOS SANTOS E SILVA 0
+  - Takedowns: MIKE DE LA TORRE 0,  TIAGO DOS SANTOS E SILVA 0

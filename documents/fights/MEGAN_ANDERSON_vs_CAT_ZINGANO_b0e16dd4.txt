@@ -1,0 +1,13 @@
+Event: UFC 232: Jones vs. Gustafsson 2
+    Date: December 29, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: MEGAN ANDERSON defeated CAT ZINGANO via KO/TKO  
+  at 1:01 of round 1
+  Key stats:
+  - MEGAN ANDERSON landed 3 significant strikes
+  - CAT ZINGANO landed 3 significant strikes
+  - Knockdowns: MEGAN ANDERSON 0,  CAT ZINGANO 0
+  - Takedowns: MEGAN ANDERSON 0,  CAT ZINGANO 0

@@ -1,0 +1,15 @@
+Event : UFC 56: Full Force
+    Date : November 19, 2005
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Middleweight, Light Heavyweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - GEORGES ST-PIERRE def. SEAN SHERK via KO/TKO(R2)
+- JEREMY HORN def. TREVOR PRANGLEY via Decision - Unanimous(R3)
+- RICH FRANKLIN def. NATE QUARRY via KO/TKO(R1)
+- MATT HUGHES def. JOE RIGGS via Submission(R1)
+- NICK THOMPSON def. KEITH WISNIEWSKI via Decision - Unanimous(R3)
+- GABRIEL GONZAGA def. KEVIN JORDAN via KO/TKO(R3)
+- SAM HOGER def. JEFF NEWTON via Submission(R2)
+- THIAGO ALVES def. ANSAR CHALANGOV via KO/TKO(R1)

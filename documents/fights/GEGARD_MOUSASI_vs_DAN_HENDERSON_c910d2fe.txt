@@ -1,0 +1,14 @@
+Event: UFC on FOX: Gustafsson vs Johnson
+    Date: January 24, 2015
+    Location: Stockholm, Sweden
+    Weight Class: Middleweight
+    
+
+    Result: GEGARD MOUSASI defeated DAN HENDERSON via KO/TKO  
+  at 1:10 of round 1
+  Key stats:
+  - GEGARD MOUSASI landed 4 significant strikes
+  - DAN HENDERSON landed 4 significant strikes
+  - Knockdowns: GEGARD MOUSASI 1,  DAN HENDERSON 0
+  - Takedowns: GEGARD MOUSASI 0,  DAN HENDERSON 0
+  Bonus: perf

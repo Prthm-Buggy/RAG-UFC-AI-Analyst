@@ -1,0 +1,11 @@
+Fighter: FRANCISCO FIGUEIREDO
+  Date of Birth: 1989-10-23
+  Career record: 4
+  First fight: 2021-01-20
+  Last fight: 2022-08-20
+
+Career Statistics:
+- Significant Strikes Landed :73
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

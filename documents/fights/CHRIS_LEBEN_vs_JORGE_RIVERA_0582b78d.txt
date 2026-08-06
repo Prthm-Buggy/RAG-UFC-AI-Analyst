@@ -1,0 +1,13 @@
+Event: UFC Fight Night 3
+    Date: January 16, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS LEBEN defeated JORGE RIVERA via KO/TKO  
+  at 1:44 of round 1
+  Key stats:
+  - CHRIS LEBEN landed 10 significant strikes
+  - JORGE RIVERA landed 5 significant strikes
+  - Knockdowns: CHRIS LEBEN 1,  JORGE RIVERA 0
+  - Takedowns: CHRIS LEBEN 1,  JORGE RIVERA 0

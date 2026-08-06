@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs. Hermansson
+    Date: April 27, 2019
+    Location: Sunrise, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: GILBERT BURNS defeated MIKE DAVIS via Submission  
+  at 4:15 of round 2
+  Key stats:
+  - GILBERT BURNS landed 49 significant strikes
+  - MIKE DAVIS landed 13 significant strikes
+  - Knockdowns: GILBERT BURNS 0,  MIKE DAVIS 0
+  - Takedowns: GILBERT BURNS 3,  MIKE DAVIS 0

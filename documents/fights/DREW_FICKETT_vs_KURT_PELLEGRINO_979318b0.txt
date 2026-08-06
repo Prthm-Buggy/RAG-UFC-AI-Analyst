@@ -1,0 +1,13 @@
+Event: UFC 61: Bitter Rivals
+    Date: July 08, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DREW FICKETT defeated KURT PELLEGRINO via Submission  
+  at 1:20 of round 3
+  Key stats:
+  - DREW FICKETT landed 18 significant strikes
+  - KURT PELLEGRINO landed 25 significant strikes
+  - Knockdowns: DREW FICKETT 0,  KURT PELLEGRINO 0
+  - Takedowns: DREW FICKETT 1,  KURT PELLEGRINO 5

@@ -1,0 +1,11 @@
+Fighter: LUAN CHAGAS
+  Date of Birth: 1993-06-17
+  Career record: 3
+  First fight: 2016-09-24
+  Last fight: 2018-04-21
+
+Career Statistics:
+- Significant Strikes Landed :147
+- Total takedowns landed :1
+- Knockdowns :3
+- Submission Attempts :1

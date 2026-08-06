@@ -1,0 +1,11 @@
+Fighter: NORDINE TALEB
+  Date of Birth: 1981-06-10
+  Career record: 12
+  First fight: 2014-04-16
+  Last fight: 2019-09-07
+
+Career Statistics:
+- Significant Strikes Landed :453
+- Total takedowns landed :16
+- Knockdowns :2
+- Submission Attempts :0

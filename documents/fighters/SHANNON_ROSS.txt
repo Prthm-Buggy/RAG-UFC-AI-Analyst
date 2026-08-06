@@ -1,0 +1,11 @@
+Fighter: SHANNON ROSS
+  Date of Birth: 1989-05-12
+  Career record: 3
+  First fight: 2023-02-11
+  Last fight: 2023-12-09
+
+Career Statistics:
+- Significant Strikes Landed :50
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

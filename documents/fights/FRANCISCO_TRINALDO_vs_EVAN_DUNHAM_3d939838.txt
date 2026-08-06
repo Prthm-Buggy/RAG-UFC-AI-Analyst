@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Marreta vs. Anders
+    Date: September 22, 2018
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: FRANCISCO TRINALDO defeated EVAN DUNHAM via KO/TKO  
+  at 4:10 of round 2
+  Key stats:
+  - FRANCISCO TRINALDO landed 28 significant strikes
+  - EVAN DUNHAM landed 25 significant strikes
+  - Knockdowns: FRANCISCO TRINALDO 1,  EVAN DUNHAM 0
+  - Takedowns: FRANCISCO TRINALDO 0,  EVAN DUNHAM 1

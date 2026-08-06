@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Santos vs. Hill
+    Date: August 06, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GEOFF NEAL defeated VICENTE LUQUE via KO/TKO  
+  at 2:01 of round 3
+  Key stats:
+  - GEOFF NEAL landed 121 significant strikes
+  - VICENTE LUQUE landed 97 significant strikes
+  - Knockdowns: GEOFF NEAL 2,  VICENTE LUQUE 0
+  - Takedowns: GEOFF NEAL 1,  VICENTE LUQUE 0
+  Bonus: perf

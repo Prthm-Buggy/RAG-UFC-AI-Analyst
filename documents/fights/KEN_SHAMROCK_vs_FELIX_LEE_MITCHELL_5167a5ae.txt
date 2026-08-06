@@ -1,0 +1,13 @@
+Event: UFC 3: The American Dream
+    Date: September 09, 1994
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Open Weight
+    
+
+    Result: KEN SHAMROCK defeated FELIX LEE MITCHELL via Submission  
+  at 4:34 of round 1
+  Key stats:
+  - KEN SHAMROCK landed 4 significant strikes
+  - FELIX LEE MITCHELL landed 3 significant strikes
+  - Knockdowns: KEN SHAMROCK 0,  FELIX LEE MITCHELL 0
+  - Takedowns: KEN SHAMROCK 1,  FELIX LEE MITCHELL 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Condit vs Alves
+    Date: May 30, 2015
+    Location: Goiania, Goias, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: ALEX OLIVEIRA defeated KJ NOONS via Submission  
+  at 2:51 of round 1
+  Key stats:
+  - ALEX OLIVEIRA landed 3 significant strikes
+  - KJ NOONS landed 7 significant strikes
+  - Knockdowns: ALEX OLIVEIRA 0,  KJ NOONS 0
+  - Takedowns: ALEX OLIVEIRA 3,  KJ NOONS 0

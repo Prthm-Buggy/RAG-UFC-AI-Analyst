@@ -1,0 +1,13 @@
+Event: UFC 235: Jones vs. Smith
+    Date: March 02, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: HANNAH CIFERS defeated POLYANA VIANA via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - HANNAH CIFERS landed 67 significant strikes
+  - POLYANA VIANA landed 77 significant strikes
+  - Knockdowns: HANNAH CIFERS 1,  POLYANA VIANA 0
+  - Takedowns: HANNAH CIFERS 0,  POLYANA VIANA 0

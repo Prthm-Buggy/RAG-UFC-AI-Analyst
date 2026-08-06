@@ -1,0 +1,11 @@
+Fighter: IRENE ALDANA
+  Date of Birth: 1988-03-26
+  Career record: 14
+  First fight: 2016-12-17
+  Last fight: 2024-09-14
+
+Career Statistics:
+- Significant Strikes Landed :1065
+- Total takedowns landed :2
+- Knockdowns :3
+- Submission Attempts :3

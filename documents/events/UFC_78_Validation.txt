@@ -1,0 +1,16 @@
+Event : UFC 78: Validation
+    Date : November 17, 2007
+    Location: Newark, New Jersey, USA
+    Number of Fights: 9
+    Weight Classes: Welterweight, Light Heavyweight, Middleweight, Lightweight
+
+    Fight Results:
+  - FRANKIE EDGAR def. SPENCER FISHER via Decision - Unanimous(R3)
+- RASHAD EVANS def. MICHAEL BISPING via Decision - Split(R3)
+- THIAGO SILVA def. HOUSTON ALEXANDER via KO/TKO(R1)
+- THIAGO ALVES def. CHRIS LYTLE via TKO - Doctor's Stoppage(R2)
+- ED HERMAN def. JOE DOERKSEN via KO/TKO(R3)
+- AKIHIRO GONO def. TAMDAN MCCRORY via Submission(R2)
+- KARO PARISYAN def. RYO CHONAN via Decision - Unanimous(R3)
+- MARCUS AURELIO def. LUKE CAUDILLO via KO/TKO(R1)
+- JOE LAUZON def. JASON REINHARDT via Submission(R1)

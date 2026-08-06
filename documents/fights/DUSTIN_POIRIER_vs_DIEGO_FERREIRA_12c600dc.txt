@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Mendes vs Lamas
+    Date: April 04, 2015
+    Location: Fairfax, Virginia, USA
+    Weight Class: Lightweight
+    
+
+    Result: DUSTIN POIRIER defeated DIEGO FERREIRA via KO/TKO  
+  at 3:45 of round 1
+  Key stats:
+  - DUSTIN POIRIER landed 24 significant strikes
+  - DIEGO FERREIRA landed 20 significant strikes
+  - Knockdowns: DUSTIN POIRIER 2,  DIEGO FERREIRA 0
+  - Takedowns: DUSTIN POIRIER 0,  DIEGO FERREIRA 0
+  Bonus: perf

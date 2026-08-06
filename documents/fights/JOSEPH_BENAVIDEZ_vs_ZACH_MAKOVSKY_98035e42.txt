@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hendricks vs Thompson
+    Date: February 06, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOSEPH BENAVIDEZ defeated ZACH MAKOVSKY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOSEPH BENAVIDEZ landed 66 significant strikes
+  - ZACH MAKOVSKY landed 40 significant strikes
+  - Knockdowns: JOSEPH BENAVIDEZ 0,  ZACH MAKOVSKY 0
+  - Takedowns: JOSEPH BENAVIDEZ 0,  ZACH MAKOVSKY 4

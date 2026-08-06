@@ -1,0 +1,11 @@
+Fighter: TRAVIS FULTON
+  Date of Birth: 1977-05-29
+  Career record: 2
+  First fight: 1999-05-07
+  Last fight: 1999-07-16
+
+Career Statistics:
+- Significant Strikes Landed :31
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

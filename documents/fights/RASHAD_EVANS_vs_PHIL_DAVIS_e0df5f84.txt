@@ -1,0 +1,13 @@
+Event: UFC on FOX: Evans vs Davis
+    Date: January 28, 2012
+    Location: Chicago, Illinois, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RASHAD EVANS defeated PHIL DAVIS via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - RASHAD EVANS landed 62 significant strikes
+  - PHIL DAVIS landed 51 significant strikes
+  - Knockdowns: RASHAD EVANS 0,  PHIL DAVIS 0
+  - Takedowns: RASHAD EVANS 3,  PHIL DAVIS 2

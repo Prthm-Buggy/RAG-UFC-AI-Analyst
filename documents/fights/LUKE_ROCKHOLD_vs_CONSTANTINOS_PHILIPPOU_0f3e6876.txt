@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rockhold vs Philippou
+    Date: January 15, 2014
+    Location: Duluth, Georgia, USA
+    Weight Class: Middleweight
+    
+
+    Result: LUKE ROCKHOLD defeated CONSTANTINOS PHILIPPOU via KO/TKO  
+  at 2:31 of round 1
+  Key stats:
+  - LUKE ROCKHOLD landed 12 significant strikes
+  - CONSTANTINOS PHILIPPOU landed 4 significant strikes
+  - Knockdowns: LUKE ROCKHOLD 1,  CONSTANTINOS PHILIPPOU 0
+  - Takedowns: LUKE ROCKHOLD 0,  CONSTANTINOS PHILIPPOU 0
+  Bonus: ko

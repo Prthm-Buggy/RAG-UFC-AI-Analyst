@@ -1,0 +1,11 @@
+Fighter: CARLOS HERNANDEZ
+  Date of Birth: 1993-10-25
+  Career record: 7
+  First fight: 2022-02-26
+  Last fight: 2025-05-17
+
+Career Statistics:
+- Significant Strikes Landed :255
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :0

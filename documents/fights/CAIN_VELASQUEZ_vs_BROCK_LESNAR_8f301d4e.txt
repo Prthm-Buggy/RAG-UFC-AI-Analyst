@@ -1,0 +1,14 @@
+Event: UFC 121: Lesnar vs Velasquez
+    Date: October 23, 2010
+    Location: Anaheim, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CAIN VELASQUEZ defeated BROCK LESNAR via KO/TKO  
+  at 4:12 of round 1
+  Key stats:
+  - CAIN VELASQUEZ landed 31 significant strikes
+  - BROCK LESNAR landed 9 significant strikes
+  - Knockdowns: CAIN VELASQUEZ 2,  BROCK LESNAR 0
+  - Takedowns: CAIN VELASQUEZ 1,  BROCK LESNAR 1
+  Bonus: belt

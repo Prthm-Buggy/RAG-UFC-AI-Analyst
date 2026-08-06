@@ -1,0 +1,11 @@
+Fighter: CAMERON VANCAMP
+  Date of Birth: 1993-04-27
+  Career record: 2
+  First fight: 2022-05-07
+  Last fight: 2022-09-17
+
+Career Statistics:
+- Significant Strikes Landed :34
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

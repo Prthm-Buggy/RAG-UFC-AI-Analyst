@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dariush vs. Tsarukyan
+    Date: December 02, 2023
+    Location: Austin, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: JARED GOODEN defeated WELLINGTON TURMAN via Submission  
+  at 1:11 of round 2
+  Key stats:
+  - JARED GOODEN landed 53 significant strikes
+  - WELLINGTON TURMAN landed 37 significant strikes
+  - Knockdowns: JARED GOODEN 0,  WELLINGTON TURMAN 0
+  - Takedowns: JARED GOODEN 1,  WELLINGTON TURMAN 1
+  Bonus: perf

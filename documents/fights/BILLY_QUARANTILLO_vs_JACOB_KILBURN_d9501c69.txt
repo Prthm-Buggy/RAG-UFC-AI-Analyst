@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Rozenstruik
+    Date: December 07, 2019
+    Location: Washington, DC, USA
+    Weight Class: Featherweight
+    
+
+    Result: BILLY QUARANTILLO defeated JACOB KILBURN via Submission  
+  at 3:18 of round 2
+  Key stats:
+  - BILLY QUARANTILLO landed 74 significant strikes
+  - JACOB KILBURN landed 3 significant strikes
+  - Knockdowns: BILLY QUARANTILLO 0,  JACOB KILBURN 0
+  - Takedowns: BILLY QUARANTILLO 1,  JACOB KILBURN 0

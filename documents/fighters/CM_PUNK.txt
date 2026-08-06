@@ -1,0 +1,11 @@
+Fighter: CM PUNK
+  Date of Birth: 1978-10-26
+  Career record: 1
+  First fight: 2016-09-10
+  Last fight: 2016-09-10
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

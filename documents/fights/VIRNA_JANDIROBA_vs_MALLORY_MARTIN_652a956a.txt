@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Rozenstruik
+    Date: December 07, 2019
+    Location: Washington, DC, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: VIRNA JANDIROBA defeated MALLORY MARTIN via Submission  
+  at 1:16 of round 2
+  Key stats:
+  - VIRNA JANDIROBA landed 7 significant strikes
+  - MALLORY MARTIN landed 9 significant strikes
+  - Knockdowns: VIRNA JANDIROBA 0,  MALLORY MARTIN 0
+  - Takedowns: VIRNA JANDIROBA 3,  MALLORY MARTIN 0

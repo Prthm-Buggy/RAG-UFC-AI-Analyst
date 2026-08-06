@@ -1,0 +1,11 @@
+Fighter: NICK DENIS
+  Date of Birth: 1983-10-11
+  Career record: 2
+  First fight: 2012-01-20
+  Last fight: 2012-05-05
+
+Career Statistics:
+- Significant Strikes Landed :35
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

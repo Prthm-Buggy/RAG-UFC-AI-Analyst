@@ -1,0 +1,13 @@
+Event: UFC 115: Liddell vs Franklin
+    Date: June 12, 2010
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Welterweight
+    
+
+    Result: CLAUDE PATRICK defeated RICARDO FUNCH via Submission  
+  at 1:48 of round 2
+  Key stats:
+  - CLAUDE PATRICK landed 13 significant strikes
+  - RICARDO FUNCH landed 5 significant strikes
+  - Knockdowns: CLAUDE PATRICK 0,  RICARDO FUNCH 0
+  - Takedowns: CLAUDE PATRICK 1,  RICARDO FUNCH 0

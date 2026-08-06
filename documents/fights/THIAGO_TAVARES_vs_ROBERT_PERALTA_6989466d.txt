@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bader vs Saint Preux
+    Date: August 16, 2014
+    Location: Bangor, Maine, USA
+    Weight Class: Featherweight
+    
+
+    Result: THIAGO TAVARES defeated ROBERT PERALTA via Submission  
+  at 4:27 of round 1
+  Key stats:
+  - THIAGO TAVARES landed 18 significant strikes
+  - ROBERT PERALTA landed 0 significant strikes
+  - Knockdowns: THIAGO TAVARES 0,  ROBERT PERALTA 0
+  - Takedowns: THIAGO TAVARES 2,  ROBERT PERALTA 0
+  Bonus: perf

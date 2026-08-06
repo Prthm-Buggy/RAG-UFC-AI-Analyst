@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Covington vs. Lawler
+    Date: August 03, 2019
+    Location: Newark, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: GERALD MEERSCHAERT defeated TREVIN GILES via Submission  
+  at 1:49 of round 3
+  Key stats:
+  - GERALD MEERSCHAERT landed 6 significant strikes
+  - TREVIN GILES landed 8 significant strikes
+  - Knockdowns: GERALD MEERSCHAERT 0,  TREVIN GILES 0
+  - Takedowns: GERALD MEERSCHAERT 1,  TREVIN GILES 1

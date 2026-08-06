@@ -1,0 +1,11 @@
+Fighter: MILES JOHNS
+  Date of Birth: 1994-03-30
+  Career record: 11
+  First fight: 2019-09-14
+  Last fight: 2025-11-08
+
+Career Statistics:
+- Significant Strikes Landed :461
+- Total takedowns landed :9
+- Knockdowns :2
+- Submission Attempts :0

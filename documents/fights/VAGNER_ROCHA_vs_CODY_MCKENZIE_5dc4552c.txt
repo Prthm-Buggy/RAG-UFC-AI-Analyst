@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shields vs Ellenberger
+    Date: September 17, 2011
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Lightweight
+    
+
+    Result: VAGNER ROCHA defeated CODY MCKENZIE via Submission  
+  at 3:49 of round 2
+  Key stats:
+  - VAGNER ROCHA landed 18 significant strikes
+  - CODY MCKENZIE landed 15 significant strikes
+  - Knockdowns: VAGNER ROCHA 0,  CODY MCKENZIE 0
+  - Takedowns: VAGNER ROCHA 2,  CODY MCKENZIE 0

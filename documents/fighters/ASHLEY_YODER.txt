@@ -1,0 +1,11 @@
+Fighter: ASHLEY YODER
+  Date of Birth: 1987-10-20
+  Career record: 11
+  First fight: 2016-12-09
+  Last fight: 2023-10-14
+
+Career Statistics:
+- Significant Strikes Landed :564
+- Total takedowns landed :12
+- Knockdowns :1
+- Submission Attempts :6

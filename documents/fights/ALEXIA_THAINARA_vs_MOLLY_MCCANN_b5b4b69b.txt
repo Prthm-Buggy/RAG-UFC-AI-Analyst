@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edwards vs. Brady
+    Date: March 22, 2025
+    Location: London, England, United Kingdom
+    Weight Class: Women's Strawweight
+    
+
+    Result: ALEXIA THAINARA defeated MOLLY MCCANN via Submission  
+  at 4:32 of round 1
+  Key stats:
+  - ALEXIA THAINARA landed 11 significant strikes
+  - MOLLY MCCANN landed 9 significant strikes
+  - Knockdowns: ALEXIA THAINARA 0,  MOLLY MCCANN 0
+  - Takedowns: ALEXIA THAINARA 1,  MOLLY MCCANN 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 147: Silva vs Franklin 2
+    Date: June 23, 2012
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: FRANCISCO TRINALDO defeated DELSON HELENO via KO/TKO  
+  at 4:21 of round 1
+  Key stats:
+  - FRANCISCO TRINALDO landed 21 significant strikes
+  - DELSON HELENO landed 3 significant strikes
+  - Knockdowns: FRANCISCO TRINALDO 0,  DELSON HELENO 0
+  - Takedowns: FRANCISCO TRINALDO 0,  DELSON HELENO 0

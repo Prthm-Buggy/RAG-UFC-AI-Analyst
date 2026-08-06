@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moicano vs. Saint Denis
+    Date: September 28, 2024
+    Location: Paris, Ile-de-France, France
+    Weight Class: Lightweight
+    
+
+    Result: LUDOVIT KLEIN defeated ROOSEVELT ROBERTS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LUDOVIT KLEIN landed 45 significant strikes
+  - ROOSEVELT ROBERTS landed 24 significant strikes
+  - Knockdowns: LUDOVIT KLEIN 0,  ROOSEVELT ROBERTS 0
+  - Takedowns: LUDOVIT KLEIN 2,  ROOSEVELT ROBERTS 0

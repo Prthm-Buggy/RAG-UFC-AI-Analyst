@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Bermudez vs. The Korean Zombie
+    Date : February 04, 2017
+    Location: Houston, Texas, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Bantamweight, Featherweight, Women's Strawweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - RICARDO RAMOS def. MICHINORI TANAKA via Decision - Unanimous(R3)
+- MARCEL FORTUNA def. ANTHONY HAMILTON via KO/TKO(R1)
+- KHALIL ROUNTREE JR. def. DANIEL JOLLY via KO/TKO(R1)
+- VOLKAN OEZDEMIR def. OVINCE SAINT PREUX via Decision - Split(R3)
+- TECIA PENNINGTON def. BEC RAWLINGS via Decision - Unanimous(R3)
+- JESSICA ANDRADE def. ANGELA HILL via Decision - Unanimous(R3)
+- JAMES VICK def. ABEL TRUJILLO via Submission(R3)
+- CHAS SKELLY def. CHRIS GRUETZEMACHER via Submission(R2)
+- FELICE HERRIG def. ALEXA GRASSO via Decision - Unanimous(R3)
+- CHAN SUNG JUNG def. DENNIS BERMUDEZ via KO/TKO(R1)

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holloway vs Oliveira
+    Date: August 23, 2015
+    Location: Saskatoon, Saskatchewan, Canada
+    Weight Class: Welterweight
+    
+
+    Result: PATRICK COTE defeated JOSHUA BURKMAN via KO/TKO  
+  at 1:26 of round 3
+  Key stats:
+  - PATRICK COTE landed 60 significant strikes
+  - JOSHUA BURKMAN landed 45 significant strikes
+  - Knockdowns: PATRICK COTE 1,  JOSHUA BURKMAN 0
+  - Takedowns: PATRICK COTE 0,  JOSHUA BURKMAN 1
+  Bonus: fight

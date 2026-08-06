@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Diaz vs Guillard
+    Date: September 16, 2009
+    Location: Oklahoma City, Oklahoma, USA
+    Weight Class: Lightweight
+    
+
+    Result: NATE DIAZ defeated MELVIN GUILLARD via Submission  
+  at 2:13 of round 2
+  Key stats:
+  - NATE DIAZ landed 21 significant strikes
+  - MELVIN GUILLARD landed 11 significant strikes
+  - Knockdowns: NATE DIAZ 0,  MELVIN GUILLARD 1
+  - Takedowns: NATE DIAZ 2,  MELVIN GUILLARD 3
+  Bonus: sub

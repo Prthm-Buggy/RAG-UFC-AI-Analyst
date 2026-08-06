@@ -1,0 +1,16 @@
+Event : Ortiz vs Shamrock 3: The Final Chapter
+    Date : October 10, 2006
+    Location: Hollywood, Florida, USA
+    Number of Fights: 9
+    Weight Classes: Middleweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - MARCUS DAVIS def. FORREST PETZ via Submission(R1)
+- MATT HAMILL def. SETH PETRUZELLI via Decision - Unanimous(R3)
+- THIAGO ALVES def. JOHN ALESSIO via Decision - Unanimous(R3)
+- TITO ORTIZ def. KEN SHAMROCK via KO/TKO(R1)
+- TONY DESOUZA def. DUSTIN HAZELETT via Submission(R1)
+- JASON MACDONALD def. ED HERMAN via Submission(R1)
+- NATE MARQUARDT def. CRAFTON WALLACE via Submission(R2)
+- KENDALL GROVE def. CHRIS PRICE via KO/TKO(R1)
+- RORY SINGER def. JOSH HAYNES via Decision - Unanimous(R3)

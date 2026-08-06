@@ -1,0 +1,14 @@
+Event: UFC 103: Franklin vs Belfort
+    Date: September 19, 2009
+    Location: Dallas, Texas, USA
+    Weight Class: Catch Weight
+    
+
+    Result: VITOR BELFORT defeated RICH FRANKLIN via KO/TKO  
+  at 3:02 of round 1
+  Key stats:
+  - VITOR BELFORT landed 9 significant strikes
+  - RICH FRANKLIN landed 4 significant strikes
+  - Knockdowns: VITOR BELFORT 0,  RICH FRANKLIN 0
+  - Takedowns: VITOR BELFORT 0,  RICH FRANKLIN 0
+  Bonus: ko

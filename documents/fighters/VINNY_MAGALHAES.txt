@@ -1,0 +1,11 @@
+Fighter: VINNY MAGALHAES
+  Date of Birth: 1984-07-02
+  Career record: 5
+  First fight: 2008-12-13
+  Last fight: 2013-08-03
+
+Career Statistics:
+- Significant Strikes Landed :83
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :2

@@ -1,0 +1,13 @@
+Event: UFC 63: Hughes vs Penn
+    Date: September 23, 2006
+    Location: Anaheim, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RASHAD EVANS defeated JASON LAMBERT via KO/TKO  
+  at 2:22 of round 2
+  Key stats:
+  - RASHAD EVANS landed 25 significant strikes
+  - JASON LAMBERT landed 6 significant strikes
+  - Knockdowns: RASHAD EVANS 0,  JASON LAMBERT 0
+  - Takedowns: RASHAD EVANS 8,  JASON LAMBERT 0

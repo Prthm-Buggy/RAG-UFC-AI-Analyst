@@ -1,0 +1,14 @@
+Event: UFC on FX: Browne vs Bigfoot
+    Date: October 05, 2012
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Featherweight
+    
+
+    Result: DIEGO NUNES defeated BART PALASZEWSKI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DIEGO NUNES landed 61 significant strikes
+  - BART PALASZEWSKI landed 37 significant strikes
+  - Knockdowns: DIEGO NUNES 2,  BART PALASZEWSKI 0
+  - Takedowns: DIEGO NUNES 3,  BART PALASZEWSKI 0
+  Bonus: fight

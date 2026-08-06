@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moreno vs. Kavanagh
+    Date: February 28, 2026
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Flyweight
+    
+
+    Result: IMANOL RODRIGUEZ defeated KEVIN BORJAS via KO/TKO  
+  at 4:21 of round 2
+  Key stats:
+  - IMANOL RODRIGUEZ landed 46 significant strikes
+  - KEVIN BORJAS landed 22 significant strikes
+  - Knockdowns: IMANOL RODRIGUEZ 1,  KEVIN BORJAS 2
+  - Takedowns: IMANOL RODRIGUEZ 1,  KEVIN BORJAS 0
+  Bonus: perf

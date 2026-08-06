@@ -1,0 +1,11 @@
+Fighter: DANILO BELLUARDO
+  Date of Birth: 1994-07-21
+  Career record: 2
+  First fight: 2019-06-01
+  Last fight: 2019-09-28
+
+Career Statistics:
+- Significant Strikes Landed :13
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

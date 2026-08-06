@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bisping vs Le
+    Date: August 23, 2014
+    Location: Macau, China
+    Weight Class: Bantamweight
+    
+
+    Result: YUTA SASAKI defeated ROLAND DELORME via Submission  
+  at 1:06 of round 1
+  Key stats:
+  - YUTA SASAKI landed 5 significant strikes
+  - ROLAND DELORME landed 1 significant strikes
+  - Knockdowns: YUTA SASAKI 0,  ROLAND DELORME 0
+  - Takedowns: YUTA SASAKI 0,  ROLAND DELORME 0
+  Bonus: perf

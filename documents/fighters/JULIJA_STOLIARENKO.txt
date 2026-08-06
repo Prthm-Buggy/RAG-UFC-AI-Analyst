@@ -1,0 +1,11 @@
+Fighter: JULIJA STOLIARENKO
+  Date of Birth: 1993-04-08
+  Career record: 9
+  First fight: 2018-11-30
+  Last fight: 2025-08-09
+
+Career Statistics:
+- Significant Strikes Landed :263
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :9

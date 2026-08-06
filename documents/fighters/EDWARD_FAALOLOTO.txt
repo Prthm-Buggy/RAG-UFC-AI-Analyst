@@ -1,0 +1,11 @@
+Fighter: EDWARD FAALOLOTO
+  Date of Birth: 1984-07-15
+  Career record: 2
+  First fight: 2011-06-26
+  Last fight: 2011-11-05
+
+Career Statistics:
+- Significant Strikes Landed :17
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

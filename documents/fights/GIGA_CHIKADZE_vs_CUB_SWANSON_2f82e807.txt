@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Reyes vs. Prochazka
+    Date: May 01, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: GIGA CHIKADZE defeated CUB SWANSON via KO/TKO  
+  at 1:03 of round 1
+  Key stats:
+  - GIGA CHIKADZE landed 12 significant strikes
+  - CUB SWANSON landed 4 significant strikes
+  - Knockdowns: GIGA CHIKADZE 1,  CUB SWANSON 0
+  - Takedowns: GIGA CHIKADZE 0,  CUB SWANSON 0
+  Bonus: perf

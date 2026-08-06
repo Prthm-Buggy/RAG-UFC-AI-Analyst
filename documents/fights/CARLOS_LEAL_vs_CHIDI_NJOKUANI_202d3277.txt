@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Strickland vs. Hernandez
+    Date: February 21, 2026
+    Location: Houston, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS LEAL defeated CHIDI NJOKUANI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CARLOS LEAL landed 115 significant strikes
+  - CHIDI NJOKUANI landed 120 significant strikes
+  - Knockdowns: CARLOS LEAL 0,  CHIDI NJOKUANI 0
+  - Takedowns: CARLOS LEAL 0,  CHIDI NJOKUANI 0

@@ -1,0 +1,14 @@
+Event: UFC on FOX: Shevchenko vs. Pena
+    Date: January 28, 2017
+    Location: Denver, Colorado, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: VALENTINA SHEVCHENKO defeated JULIANNA PENA via Submission  
+  at 4:29 of round 2
+  Key stats:
+  - VALENTINA SHEVCHENKO landed 13 significant strikes
+  - JULIANNA PENA landed 27 significant strikes
+  - Knockdowns: VALENTINA SHEVCHENKO 0,  JULIANNA PENA 0
+  - Takedowns: VALENTINA SHEVCHENKO 2,  JULIANNA PENA 1
+  Bonus: perf

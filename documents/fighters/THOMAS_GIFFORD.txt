@@ -1,0 +1,11 @@
+Fighter: THOMAS GIFFORD
+  Date of Birth: 1992-07-26
+  Career record: 2
+  First fight: 2019-04-27
+  Last fight: 2019-10-12
+
+Career Statistics:
+- Significant Strikes Landed :118
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

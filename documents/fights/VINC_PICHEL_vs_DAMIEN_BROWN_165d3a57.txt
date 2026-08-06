@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Hunt
+    Date: June 10, 2017
+    Location: Auckland, New Zealand
+    Weight Class: Lightweight
+    
+
+    Result: VINC PICHEL defeated DAMIEN BROWN via KO/TKO  
+  at 3:37 of round 1
+  Key stats:
+  - VINC PICHEL landed 19 significant strikes
+  - DAMIEN BROWN landed 21 significant strikes
+  - Knockdowns: VINC PICHEL 1,  DAMIEN BROWN 0
+  - Takedowns: VINC PICHEL 0,  DAMIEN BROWN 0

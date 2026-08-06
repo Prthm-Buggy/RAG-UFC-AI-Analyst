@@ -1,0 +1,13 @@
+Event: UFC 76: Knockout
+    Date: September 22, 2007
+    Location: Anaheim, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHRISTIAN WELLISCH defeated SCOTT JUNK via Submission  
+  at 3:19 of round 1
+  Key stats:
+  - CHRISTIAN WELLISCH landed 6 significant strikes
+  - SCOTT JUNK landed 17 significant strikes
+  - Knockdowns: CHRISTIAN WELLISCH 0,  SCOTT JUNK 0
+  - Takedowns: CHRISTIAN WELLISCH 1,  SCOTT JUNK 0

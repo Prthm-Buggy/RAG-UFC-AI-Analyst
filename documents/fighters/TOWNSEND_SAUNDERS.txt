@@ -1,0 +1,11 @@
+Fighter: TOWNSEND SAUNDERS
+  Date of Birth: Unknown
+  Career record: 2
+  First fight: 1998-03-13
+  Last fight: 1999-01-08
+
+Career Statistics:
+- Significant Strikes Landed :47
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

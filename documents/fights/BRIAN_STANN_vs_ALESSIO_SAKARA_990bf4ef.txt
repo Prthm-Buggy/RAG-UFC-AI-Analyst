@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Gustafsson vs Silva
+    Date: April 14, 2012
+    Location: Stockholm, Sweden
+    Weight Class: Middleweight
+    
+
+    Result: BRIAN STANN defeated ALESSIO SAKARA via KO/TKO  
+  at 2:26 of round 1
+  Key stats:
+  - BRIAN STANN landed 18 significant strikes
+  - ALESSIO SAKARA landed 7 significant strikes
+  - Knockdowns: BRIAN STANN 1,  ALESSIO SAKARA 0
+  - Takedowns: BRIAN STANN 0,  ALESSIO SAKARA 0

@@ -1,0 +1,17 @@
+Event : UFC Fight Night 56: Shogun vs Saint Preux
+    Date : November 08, 2014
+    Location: Uberlandia, Minas Gerais, Brazil
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Light Heavyweight, Welterweight, Women's Strawweight, Middleweight, Featherweight, Lightweight
+
+    Fight Results:
+  - COLBY COVINGTON def. WAGNER SILVA via Submission(R3)
+- WARLLEY ALVES def. ALAN JOUBAN via Decision - Unanimous(R3)
+- DHIEGO LIMA def. JORGE DE OLIVEIRA via Decision - Unanimous(R3)
+- OVINCE SAINT PREUX def. MAURICIO RUA via KO/TKO(R1)
+- CLAUDIO SILVA def. LEON EDWARDS via Decision - Split(R3)
+- JULIANA LIMA def. NINA NUNES via Decision - Unanimous(R3)
+- LEANDRO SILVA def. CHARLIE BRENNEMAN via Submission(R1)
+- CAIO MAGALHAES def. TREVOR SMITH via KO/TKO(R1)
+- THOMAS ALMEIDA def. TIM GORMAN via Decision - Unanimous(R3)
+- DIEGO RIVAS def. RODOLFO RUBIO PEREZ via Decision - Unanimous(R3)

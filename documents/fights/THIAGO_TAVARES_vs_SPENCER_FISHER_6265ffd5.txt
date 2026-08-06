@@ -1,0 +1,13 @@
+Event: UFC 134: Silva vs Okami
+    Date: August 27, 2011
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: THIAGO TAVARES defeated SPENCER FISHER via KO/TKO  
+  at 2:51 of round 2
+  Key stats:
+  - THIAGO TAVARES landed 10 significant strikes
+  - SPENCER FISHER landed 3 significant strikes
+  - Knockdowns: THIAGO TAVARES 0,  SPENCER FISHER 0
+  - Takedowns: THIAGO TAVARES 3,  SPENCER FISHER 0

@@ -1,0 +1,14 @@
+Event: UFC 252: Miocic vs. Cormier 3
+    Date: August 15, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STIPE MIOCIC defeated DANIEL CORMIER via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - STIPE MIOCIC landed 115 significant strikes
+  - DANIEL CORMIER landed 105 significant strikes
+  - Knockdowns: STIPE MIOCIC 1,  DANIEL CORMIER 0
+  - Takedowns: STIPE MIOCIC 0,  DANIEL CORMIER 1
+  Bonus: belt

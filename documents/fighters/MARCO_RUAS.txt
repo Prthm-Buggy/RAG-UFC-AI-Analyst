@@ -1,0 +1,11 @@
+Fighter: MARCO RUAS
+  Date of Birth: 1961-01-23
+  Career record: 6
+  First fight: 1995-09-08
+  Last fight: 1999-07-16
+
+Career Statistics:
+- Significant Strikes Landed :60
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :8

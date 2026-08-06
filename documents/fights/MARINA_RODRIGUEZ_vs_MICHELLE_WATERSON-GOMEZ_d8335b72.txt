@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Fiziev vs. Gamrot
+    Date: September 23, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MARINA RODRIGUEZ defeated MICHELLE WATERSON-GOMEZ via KO/TKO  
+  at 2:42 of round 2
+  Key stats:
+  - MARINA RODRIGUEZ landed 70 significant strikes
+  - MICHELLE WATERSON-GOMEZ landed 13 significant strikes
+  - Knockdowns: MARINA RODRIGUEZ 0,  MICHELLE WATERSON-GOMEZ 0
+  - Takedowns: MARINA RODRIGUEZ 1,  MICHELLE WATERSON-GOMEZ 1
+  Bonus: perf

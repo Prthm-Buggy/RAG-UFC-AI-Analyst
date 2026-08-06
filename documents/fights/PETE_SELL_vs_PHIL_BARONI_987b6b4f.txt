@@ -1,0 +1,13 @@
+Event: UFC 51: Super Saturday
+    Date: February 05, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: PETE SELL defeated PHIL BARONI via Submission  
+  at 4:19 of round 3
+  Key stats:
+  - PETE SELL landed 16 significant strikes
+  - PHIL BARONI landed 17 significant strikes
+  - Knockdowns: PETE SELL 0,  PHIL BARONI 0
+  - Takedowns: PETE SELL 1,  PHIL BARONI 4

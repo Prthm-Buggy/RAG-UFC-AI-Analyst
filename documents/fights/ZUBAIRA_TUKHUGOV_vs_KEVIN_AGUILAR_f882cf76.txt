@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Felder vs. Hooker
+    Date: February 22, 2020
+    Location: Auckland, New Zealand
+    Weight Class: Featherweight
+    
+
+    Result: ZUBAIRA TUKHUGOV defeated KEVIN AGUILAR via KO/TKO  
+  at 3:21 of round 1
+  Key stats:
+  - ZUBAIRA TUKHUGOV landed 28 significant strikes
+  - KEVIN AGUILAR landed 9 significant strikes
+  - Knockdowns: ZUBAIRA TUKHUGOV 2,  KEVIN AGUILAR 0
+  - Takedowns: ZUBAIRA TUKHUGOV 0,  KEVIN AGUILAR 0

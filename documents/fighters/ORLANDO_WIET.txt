@@ -1,0 +1,11 @@
+Fighter: ORLANDO WIET
+  Date of Birth: 1965-10-24
+  Career record: 2
+  First fight: 1994-03-11
+  Last fight: 1994-03-11
+
+Career Statistics:
+- Significant Strikes Landed :9
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

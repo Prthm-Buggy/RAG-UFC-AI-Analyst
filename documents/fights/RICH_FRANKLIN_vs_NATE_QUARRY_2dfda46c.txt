@@ -1,0 +1,14 @@
+Event: UFC 56: Full Force
+    Date: November 19, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: RICH FRANKLIN defeated NATE QUARRY via KO/TKO  
+  at 2:34 of round 1
+  Key stats:
+  - RICH FRANKLIN landed 13 significant strikes
+  - NATE QUARRY landed 4 significant strikes
+  - Knockdowns: RICH FRANKLIN 2,  NATE QUARRY 0
+  - Takedowns: RICH FRANKLIN 0,  NATE QUARRY 0
+  Bonus: belt

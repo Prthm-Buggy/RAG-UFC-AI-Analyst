@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Saint Preux vs. Okami
+    Date: September 22, 2017
+    Location: Saitama, Saitama, Japan
+    Weight Class: Women's Strawweight
+    
+
+    Result: SYURI KONDO defeated CHAN-MI JEON via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - SYURI KONDO landed 135 significant strikes
+  - CHAN-MI JEON landed 95 significant strikes
+  - Knockdowns: SYURI KONDO 0,  CHAN-MI JEON 0
+  - Takedowns: SYURI KONDO 0,  CHAN-MI JEON 0

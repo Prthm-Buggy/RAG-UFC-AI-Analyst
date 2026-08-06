@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barboza vs. Lee
+    Date: April 21, 2018
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAVID BRANCH defeated THIAGO SANTOS via KO/TKO  
+  at 2:30 of round 1
+  Key stats:
+  - DAVID BRANCH landed 5 significant strikes
+  - THIAGO SANTOS landed 14 significant strikes
+  - Knockdowns: DAVID BRANCH 1,  THIAGO SANTOS 0
+  - Takedowns: DAVID BRANCH 0,  THIAGO SANTOS 0
+  Bonus: perf

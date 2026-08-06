@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bisping vs Le
+    Date: August 23, 2014
+    Location: Macau, China
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MILANA DUDIEVA defeated ELIZABETH PHILLIPS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MILANA DUDIEVA landed 11 significant strikes
+  - ELIZABETH PHILLIPS landed 25 significant strikes
+  - Knockdowns: MILANA DUDIEVA 0,  ELIZABETH PHILLIPS 0
+  - Takedowns: MILANA DUDIEVA 2,  ELIZABETH PHILLIPS 0

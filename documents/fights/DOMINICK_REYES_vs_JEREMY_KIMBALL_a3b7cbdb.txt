@@ -1,0 +1,13 @@
+Event: UFC 218: Holloway vs. Aldo 2
+    Date: December 02, 2017
+    Location: Detroit, Michigan, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DOMINICK REYES defeated JEREMY KIMBALL via Submission  
+  at 3:39 of round 1
+  Key stats:
+  - DOMINICK REYES landed 16 significant strikes
+  - JEREMY KIMBALL landed 4 significant strikes
+  - Knockdowns: DOMINICK REYES 0,  JEREMY KIMBALL 0
+  - Takedowns: DOMINICK REYES 1,  JEREMY KIMBALL 1

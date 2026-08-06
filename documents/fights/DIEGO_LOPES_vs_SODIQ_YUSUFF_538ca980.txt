@@ -1,0 +1,13 @@
+Event: UFC 300: Pereira vs. Hill
+    Date: April 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DIEGO LOPES defeated SODIQ YUSUFF via KO/TKO  
+  at 1:29 of round 1
+  Key stats:
+  - DIEGO LOPES landed 26 significant strikes
+  - SODIQ YUSUFF landed 2 significant strikes
+  - Knockdowns: DIEGO LOPES 2,  SODIQ YUSUFF 0
+  - Takedowns: DIEGO LOPES 0,  SODIQ YUSUFF 0

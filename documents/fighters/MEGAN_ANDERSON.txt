@@ -1,0 +1,11 @@
+Fighter: MEGAN ANDERSON
+  Date of Birth: 1990-02-11
+  Career record: 6
+  First fight: 2018-06-09
+  Last fight: 2021-03-06
+
+Career Statistics:
+- Significant Strikes Landed :51
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :1

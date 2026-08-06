@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bisping vs. Gastelum
+    Date: November 25, 2017
+    Location: Shanghai, Hebei, China
+    Weight Class: Middleweight
+    
+
+    Result: KELVIN GASTELUM defeated MICHAEL BISPING via KO/TKO  
+  at 2:30 of round 1
+  Key stats:
+  - KELVIN GASTELUM landed 14 significant strikes
+  - MICHAEL BISPING landed 7 significant strikes
+  - Knockdowns: KELVIN GASTELUM 1,  MICHAEL BISPING 0
+  - Takedowns: KELVIN GASTELUM 0,  MICHAEL BISPING 0
+  Bonus: perf

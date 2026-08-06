@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blanchfield vs. Barber
+    Date: May 31, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: RAMIZ BRAHIMAJ defeated BILLY RAY GOFF via Submission  
+  at 3:16 of round 1
+  Key stats:
+  - RAMIZ BRAHIMAJ landed 1 significant strikes
+  - BILLY RAY GOFF landed 1 significant strikes
+  - Knockdowns: RAMIZ BRAHIMAJ 0,  BILLY RAY GOFF 0
+  - Takedowns: RAMIZ BRAHIMAJ 2,  BILLY RAY GOFF 0
+  Bonus: perf

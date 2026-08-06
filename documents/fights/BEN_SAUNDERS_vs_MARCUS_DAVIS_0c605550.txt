@@ -1,0 +1,13 @@
+Event: UFC 106: Ortiz vs Griffin 2
+    Date: November 21, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: BEN SAUNDERS defeated MARCUS DAVIS via KO/TKO  
+  at 3:24 of round 1
+  Key stats:
+  - BEN SAUNDERS landed 22 significant strikes
+  - MARCUS DAVIS landed 8 significant strikes
+  - Knockdowns: BEN SAUNDERS 0,  MARCUS DAVIS 0
+  - Takedowns: BEN SAUNDERS 0,  MARCUS DAVIS 0

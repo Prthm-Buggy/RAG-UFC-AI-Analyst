@@ -1,0 +1,13 @@
+Event: UFC 2: No Way Out
+    Date: March 11, 1994
+    Location: Denver, Colorado, USA
+    Weight Class: Open Weight
+    
+
+    Result: REMCO PARDOEL defeated ALBERTA CERRA LEON via Submission  
+  at 9:51 of round 1
+  Key stats:
+  - REMCO PARDOEL landed 4 significant strikes
+  - ALBERTA CERRA LEON landed 1 significant strikes
+  - Knockdowns: REMCO PARDOEL 0,  ALBERTA CERRA LEON 0
+  - Takedowns: REMCO PARDOEL 1,  ALBERTA CERRA LEON 0

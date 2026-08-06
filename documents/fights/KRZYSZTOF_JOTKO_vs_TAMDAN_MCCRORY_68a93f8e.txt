@@ -1,0 +1,14 @@
+Event: UFC Fight Night: MacDonald vs Thompson
+    Date: June 18, 2016
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Middleweight
+    
+
+    Result: KRZYSZTOF JOTKO defeated TAMDAN MCCRORY via KO/TKO  
+  at 0:59 of round 1
+  Key stats:
+  - KRZYSZTOF JOTKO landed 4 significant strikes
+  - TAMDAN MCCRORY landed 2 significant strikes
+  - Knockdowns: KRZYSZTOF JOTKO 1,  TAMDAN MCCRORY 0
+  - Takedowns: KRZYSZTOF JOTKO 0,  TAMDAN MCCRORY 0
+  Bonus: perf

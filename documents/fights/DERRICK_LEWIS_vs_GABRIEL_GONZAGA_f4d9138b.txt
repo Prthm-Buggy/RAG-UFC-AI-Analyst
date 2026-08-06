@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rothwell vs Dos Santos
+    Date: April 10, 2016
+    Location: Zagreb, Croatia
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated GABRIEL GONZAGA via KO/TKO  
+  at 4:48 of round 1
+  Key stats:
+  - DERRICK LEWIS landed 17 significant strikes
+  - GABRIEL GONZAGA landed 5 significant strikes
+  - Knockdowns: DERRICK LEWIS 1,  GABRIEL GONZAGA 0
+  - Takedowns: DERRICK LEWIS 0,  GABRIEL GONZAGA 1
+  Bonus: perf

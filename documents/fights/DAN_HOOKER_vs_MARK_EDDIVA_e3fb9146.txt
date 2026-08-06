@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs Mir
+    Date: March 19, 2016
+    Location: Brisbane, Queensland, Australia
+    Weight Class: Featherweight
+    
+
+    Result: DAN HOOKER defeated MARK EDDIVA via Submission  
+  at 1:24 of round 1
+  Key stats:
+  - DAN HOOKER landed 5 significant strikes
+  - MARK EDDIVA landed 4 significant strikes
+  - Knockdowns: DAN HOOKER 0,  MARK EDDIVA 0
+  - Takedowns: DAN HOOKER 0,  MARK EDDIVA 0

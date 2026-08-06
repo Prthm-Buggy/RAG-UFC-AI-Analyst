@@ -1,0 +1,13 @@
+Event: UFC 5: The Return of the Beast
+    Date: April 07, 1995
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Open Weight
+    
+
+    Result: OLEG TAKTAROV defeated ERNIE VERDICIA via Submission  
+  at 2:23 of round 1
+  Key stats:
+  - OLEG TAKTAROV landed 0 significant strikes
+  - ERNIE VERDICIA landed 2 significant strikes
+  - Knockdowns: OLEG TAKTAROV 0,  ERNIE VERDICIA 0
+  - Takedowns: OLEG TAKTAROV 0,  ERNIE VERDICIA 0

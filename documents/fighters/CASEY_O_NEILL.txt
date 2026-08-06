@@ -1,0 +1,11 @@
+Fighter: CASEY O'NEILL
+  Date of Birth: 1997-10-07
+  Career record: 8
+  First fight: 2021-02-20
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :677
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :4

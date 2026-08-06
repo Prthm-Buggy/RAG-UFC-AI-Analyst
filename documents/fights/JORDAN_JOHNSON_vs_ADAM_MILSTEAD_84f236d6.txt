@@ -1,0 +1,13 @@
+Event: UFC 222: Cyborg vs. Kunitskaya
+    Date: March 03, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JORDAN JOHNSON defeated ADAM MILSTEAD via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JORDAN JOHNSON landed 59 significant strikes
+  - ADAM MILSTEAD landed 58 significant strikes
+  - Knockdowns: JORDAN JOHNSON 0,  ADAM MILSTEAD 0
+  - Takedowns: JORDAN JOHNSON 2,  ADAM MILSTEAD 0

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Ankalaev vs. Walker 2
+    Date : January 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Heavyweight, Lightweight, Welterweight, Light Heavyweight, Middleweight, Featherweight, Flyweight
+
+    Fight Results:
+  - FARID BASHARAT def. TAYLOR LAPILUS via Decision - Unanimous(R3)
+- JEAN SILVA def. WESTIN WILSON via KO/TKO(R1)
+- NIKOLAS MOTTA def. TOM NOLAN via KO/TKO(R1)
+- MARIO BAUTISTA def. RICKY SIMON via Decision - Unanimous(R3)
+- BRUNNO FERREIRA def. PHIL HAWES via KO/TKO(R1)
+- MARCUS MCGHEE def. GASTON BOLANOS via KO/TKO(R2)
+- WALDO CORTES ACOSTA def. ANDREI ARLOVSKI via Decision - Unanimous(R3)
+- MAGOMED ANKALAEV def. JOHNNY WALKER via KO/TKO(R2)
+- PRESTON PARSONS def. MATTHEW SEMELSBERGER via Decision - Unanimous(R3)
+- JIM MILLER def. GABRIEL BENITEZ via Submission(R3)
+- JOSHUA VAN def. FELIPE BUNES via KO/TKO(R2)

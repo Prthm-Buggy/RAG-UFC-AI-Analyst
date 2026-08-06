@@ -1,0 +1,11 @@
+Fighter: YOEL ROMERO
+  Date of Birth: 1977-04-30
+  Career record: 13
+  First fight: 2013-04-20
+  Last fight: 2020-03-07
+
+Career Statistics:
+- Significant Strikes Landed :667
+- Total takedowns landed :21
+- Knockdowns :10
+- Submission Attempts :0

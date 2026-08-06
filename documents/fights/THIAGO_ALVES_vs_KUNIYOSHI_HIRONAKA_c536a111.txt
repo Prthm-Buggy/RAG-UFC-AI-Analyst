@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thomas vs Florian
+    Date: September 19, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: THIAGO ALVES defeated KUNIYOSHI HIRONAKA via KO/TKO  
+  at 4:04 of round 2
+  Key stats:
+  - THIAGO ALVES landed 48 significant strikes
+  - KUNIYOSHI HIRONAKA landed 15 significant strikes
+  - Knockdowns: THIAGO ALVES 0,  KUNIYOSHI HIRONAKA 0
+  - Takedowns: THIAGO ALVES 0,  KUNIYOSHI HIRONAKA 2

@@ -1,0 +1,13 @@
+Event: UFC 193: Rousey vs Holm
+    Date: November 14, 2015
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: MARK HUNT defeated ANTONIO SILVA via KO/TKO  
+  at 3:41 of round 1
+  Key stats:
+  - MARK HUNT landed 12 significant strikes
+  - ANTONIO SILVA landed 9 significant strikes
+  - Knockdowns: MARK HUNT 1,  ANTONIO SILVA 0
+  - Takedowns: MARK HUNT 0,  ANTONIO SILVA 0

@@ -1,0 +1,14 @@
+Event: UFC 194: Aldo vs McGregor
+    Date: December 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: LUKE ROCKHOLD defeated CHRIS WEIDMAN via KO/TKO  
+  at 3:12 of round 4
+  Key stats:
+  - LUKE ROCKHOLD landed 126 significant strikes
+  - CHRIS WEIDMAN landed 48 significant strikes
+  - Knockdowns: LUKE ROCKHOLD 0,  CHRIS WEIDMAN 0
+  - Takedowns: LUKE ROCKHOLD 2,  CHRIS WEIDMAN 3
+  Bonus: belt

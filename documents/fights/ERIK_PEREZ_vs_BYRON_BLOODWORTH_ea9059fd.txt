@@ -1,0 +1,13 @@
+Event: UFC 155: Dos Santos vs Velasquez II
+    Date: December 29, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ERIK PEREZ defeated BYRON BLOODWORTH via KO/TKO  
+  at 3:50 of round 1
+  Key stats:
+  - ERIK PEREZ landed 40 significant strikes
+  - BYRON BLOODWORTH landed 8 significant strikes
+  - Knockdowns: ERIK PEREZ 1,  BYRON BLOODWORTH 0
+  - Takedowns: ERIK PEREZ 0,  BYRON BLOODWORTH 0

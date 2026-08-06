@@ -1,0 +1,14 @@
+Event: UFC 270: Ngannou vs. Gane
+    Date: January 22, 2022
+    Location: Anaheim, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANCIS NGANNOU defeated CIRYL GANE via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - FRANCIS NGANNOU landed 43 significant strikes
+  - CIRYL GANE landed 63 significant strikes
+  - Knockdowns: FRANCIS NGANNOU 0,  CIRYL GANE 0
+  - Takedowns: FRANCIS NGANNOU 4,  CIRYL GANE 1
+  Bonus: belt

@@ -1,0 +1,11 @@
+Fighter: SHANE ROLLER
+  Date of Birth: 1979-07-14
+  Career record: 6
+  First fight: 2011-03-03
+  Last fight: 2012-10-05
+
+Career Statistics:
+- Significant Strikes Landed :124
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :2

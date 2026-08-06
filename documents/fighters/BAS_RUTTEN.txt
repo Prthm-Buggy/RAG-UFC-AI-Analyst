@@ -1,0 +1,11 @@
+Fighter: BAS RUTTEN
+  Date of Birth: 1965-02-24
+  Career record: 2
+  First fight: 1999-01-08
+  Last fight: 1999-05-07
+
+Career Statistics:
+- Significant Strikes Landed :49
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :1

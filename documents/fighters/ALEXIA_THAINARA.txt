@@ -1,0 +1,11 @@
+Fighter: ALEXIA THAINARA
+  Date of Birth: 1995-11-20
+  Career record: 3
+  First fight: 2025-03-22
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :128
+- Total takedowns landed :12
+- Knockdowns :0
+- Submission Attempts :5

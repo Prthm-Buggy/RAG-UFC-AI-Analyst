@@ -1,0 +1,11 @@
+Fighter: ALEX HUNTER
+  Date of Birth: Unknown
+  Career record: 2
+  First fight: 1997-07-27
+  Last fight: 1997-10-17
+
+Career Statistics:
+- Significant Strikes Landed :18
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

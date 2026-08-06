@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nogueira vs Davis
+    Date: March 26, 2011
+    Location: Seattle, Washington, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHRISTIAN MORECRAFT defeated SEAN MCCORKLE via Submission  
+  at 4:10 of round 2
+  Key stats:
+  - CHRISTIAN MORECRAFT landed 22 significant strikes
+  - SEAN MCCORKLE landed 8 significant strikes
+  - Knockdowns: CHRISTIAN MORECRAFT 0,  SEAN MCCORKLE 0
+  - Takedowns: CHRISTIAN MORECRAFT 1,  SEAN MCCORKLE 1

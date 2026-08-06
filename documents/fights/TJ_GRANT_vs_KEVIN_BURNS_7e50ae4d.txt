@@ -1,0 +1,14 @@
+Event: UFC 107: Penn vs Sanchez
+    Date: December 12, 2009
+    Location: Memphis, Tennessee, USA
+    Weight Class: Welterweight
+    
+
+    Result: TJ GRANT defeated KEVIN BURNS via KO/TKO  
+  at 4:57 of round 1
+  Key stats:
+  - TJ GRANT landed 28 significant strikes
+  - KEVIN BURNS landed 14 significant strikes
+  - Knockdowns: TJ GRANT 1,  KEVIN BURNS 1
+  - Takedowns: TJ GRANT 1,  KEVIN BURNS 0
+  Bonus: ko

@@ -1,0 +1,13 @@
+Event: UFC Live: Jones vs Matyushenko
+    Date: August 01, 2010
+    Location: San Diego, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATTHEW RIDDLE defeated DAMARQUES JOHNSON via KO/TKO  
+  at 4:29 of round 2
+  Key stats:
+  - MATTHEW RIDDLE landed 42 significant strikes
+  - DAMARQUES JOHNSON landed 9 significant strikes
+  - Knockdowns: MATTHEW RIDDLE 0,  DAMARQUES JOHNSON 0
+  - Takedowns: MATTHEW RIDDLE 3,  DAMARQUES JOHNSON 0

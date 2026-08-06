@@ -1,0 +1,11 @@
+Fighter: BOJAN MIHAJLOVIC
+  Date of Birth: 1980-03-30
+  Career record: 3
+  First fight: 2016-07-23
+  Last fight: 2017-09-02
+
+Career Statistics:
+- Significant Strikes Landed :26
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

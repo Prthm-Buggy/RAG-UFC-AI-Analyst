@@ -1,0 +1,13 @@
+Event: UFC 238: Cejudo vs. Moraes
+    Date: June 08, 2019
+    Location: Chicago, Illinois, USA
+    Weight Class: Bantamweight
+    
+
+    Result: EDDIE WINELAND defeated GRIGORY POPOV via KO/TKO  
+  at 4:47 of round 2
+  Key stats:
+  - EDDIE WINELAND landed 74 significant strikes
+  - GRIGORY POPOV landed 55 significant strikes
+  - Knockdowns: EDDIE WINELAND 2,  GRIGORY POPOV 0
+  - Takedowns: EDDIE WINELAND 0,  GRIGORY POPOV 0

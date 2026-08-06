@@ -1,0 +1,11 @@
+Fighter: KYLE STEWART
+  Date of Birth: 1989-01-31
+  Career record: 2
+  First fight: 2019-01-19
+  Last fight: 2019-07-27
+
+Career Statistics:
+- Significant Strikes Landed :25
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

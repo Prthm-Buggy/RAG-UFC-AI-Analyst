@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cannonier vs. Rodrigues
+    Date: February 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JOSE DELGADO defeated CONNOR MATTHEWS via KO/TKO  
+  at 2:58 of round 1
+  Key stats:
+  - JOSE DELGADO landed 21 significant strikes
+  - CONNOR MATTHEWS landed 6 significant strikes
+  - Knockdowns: JOSE DELGADO 1,  CONNOR MATTHEWS 0
+  - Takedowns: JOSE DELGADO 0,  CONNOR MATTHEWS 2

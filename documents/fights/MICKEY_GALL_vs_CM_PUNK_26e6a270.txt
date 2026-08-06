@@ -1,0 +1,13 @@
+Event: UFC 203: Miocic vs. Overeem
+    Date: September 10, 2016
+    Location: Cleveland, Ohio, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICKEY GALL defeated CM PUNK via Submission  
+  at 2:14 of round 1
+  Key stats:
+  - MICKEY GALL landed 20 significant strikes
+  - CM PUNK landed 0 significant strikes
+  - Knockdowns: MICKEY GALL 0,  CM PUNK 0
+  - Takedowns: MICKEY GALL 1,  CM PUNK 0

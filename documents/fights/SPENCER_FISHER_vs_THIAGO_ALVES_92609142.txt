@@ -1,0 +1,13 @@
+Event: UFC Fight Night 2
+    Date: October 03, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SPENCER FISHER defeated THIAGO ALVES via Submission  
+  at 4:43 of round 2
+  Key stats:
+  - SPENCER FISHER landed 13 significant strikes
+  - THIAGO ALVES landed 19 significant strikes
+  - Knockdowns: SPENCER FISHER 0,  THIAGO ALVES 0
+  - Takedowns: SPENCER FISHER 1,  THIAGO ALVES 3

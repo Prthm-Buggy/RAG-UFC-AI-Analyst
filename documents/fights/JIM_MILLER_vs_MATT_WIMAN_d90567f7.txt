@@ -1,0 +1,14 @@
+Event: UFC Fight Night - Fight for the Troops
+    Date: December 10, 2008
+    Location: Fayetteville, North Carolina, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated MATT WIMAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JIM MILLER landed 61 significant strikes
+  - MATT WIMAN landed 20 significant strikes
+  - Knockdowns: JIM MILLER 0,  MATT WIMAN 0
+  - Takedowns: JIM MILLER 4,  MATT WIMAN 1
+  Bonus: fight

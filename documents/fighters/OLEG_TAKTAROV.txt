@@ -1,0 +1,11 @@
+Fighter: OLEG TAKTAROV
+  Date of Birth: 1967-08-26
+  Career record: 8
+  First fight: 1995-04-07
+  Last fight: 1995-12-16
+
+Career Statistics:
+- Significant Strikes Landed :18
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :11

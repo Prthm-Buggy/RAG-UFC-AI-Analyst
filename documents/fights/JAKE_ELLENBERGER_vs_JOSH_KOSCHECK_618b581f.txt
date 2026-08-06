@@ -1,0 +1,14 @@
+Event: UFC 184: Rousey vs Zingano
+    Date: February 28, 2015
+    Location: Los Angeles, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: JAKE ELLENBERGER defeated JOSH KOSCHECK via Submission  
+  at 4:20 of round 2
+  Key stats:
+  - JAKE ELLENBERGER landed 15 significant strikes
+  - JOSH KOSCHECK landed 7 significant strikes
+  - Knockdowns: JAKE ELLENBERGER 0,  JOSH KOSCHECK 0
+  - Takedowns: JAKE ELLENBERGER 0,  JOSH KOSCHECK 1
+  Bonus: perf

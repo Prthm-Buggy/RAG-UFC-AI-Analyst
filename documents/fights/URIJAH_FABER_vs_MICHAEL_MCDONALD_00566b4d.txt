@@ -1,0 +1,14 @@
+Event: UFC on FOX: Johnson vs. Benavidez 2
+    Date: December 14, 2013
+    Location: Sacramento, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: URIJAH FABER defeated MICHAEL MCDONALD via Submission  
+  at 3:22 of round 2
+  Key stats:
+  - URIJAH FABER landed 29 significant strikes
+  - MICHAEL MCDONALD landed 9 significant strikes
+  - Knockdowns: URIJAH FABER 1,  MICHAEL MCDONALD 0
+  - Takedowns: URIJAH FABER 1,  MICHAEL MCDONALD 0
+  Bonus: sub

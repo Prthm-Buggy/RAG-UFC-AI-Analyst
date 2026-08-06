@@ -1,0 +1,13 @@
+Event : UFC 11: The Proving Ground
+    Date : September 20, 1996
+    Location: Augusta, Georgia, USA
+    Number of Fights: 6
+    Weight Classes: Open Weight
+
+    Fight Results:
+  - JERRY BOHLANDER def. FABIO GURGEL via Decision - Unanimous(R1)
+- MARK COLEMAN def. JULIAN SANCHEZ via Submission(R1)
+- BRIAN JOHNSTON def. REZA NASRI via KO/TKO(R1)
+- MARK COLEMAN def. BRIAN JOHNSTON via KO/TKO(R1)
+- DAVID ABBOTT def. SAM ADKINS via Submission(R1)
+- SCOTT FERROZZO def. DAVID ABBOTT via Decision - Unanimous(R2)

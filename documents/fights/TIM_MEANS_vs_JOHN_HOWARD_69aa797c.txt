@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Namajunas vs. VanZant
+    Date: December 10, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: TIM MEANS defeated JOHN HOWARD via KO/TKO  
+  at 0:21 of round 2
+  Key stats:
+  - TIM MEANS landed 37 significant strikes
+  - JOHN HOWARD landed 20 significant strikes
+  - Knockdowns: TIM MEANS 1,  JOHN HOWARD 0
+  - Takedowns: TIM MEANS 0,  JOHN HOWARD 3
+  Bonus: perf

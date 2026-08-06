@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Grasso vs. Shevchenko 2
+    Date: September 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHARLIE CAMPBELL defeated ALEX REYES via KO/TKO  
+  at 3:38 of round 1
+  Key stats:
+  - CHARLIE CAMPBELL landed 43 significant strikes
+  - ALEX REYES landed 14 significant strikes
+  - Knockdowns: CHARLIE CAMPBELL 1,  ALEX REYES 0
+  - Takedowns: CHARLIE CAMPBELL 0,  ALEX REYES 0
+  Bonus: perf

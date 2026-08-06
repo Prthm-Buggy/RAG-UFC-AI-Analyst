@@ -1,0 +1,13 @@
+Event: UFC 247: Jones vs. Reyes
+    Date: February 08, 2020
+    Location: Houston, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: DAN IGE defeated MIRSAD BEKTIC via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - DAN IGE landed 43 significant strikes
+  - MIRSAD BEKTIC landed 17 significant strikes
+  - Knockdowns: DAN IGE 0,  MIRSAD BEKTIC 0
+  - Takedowns: DAN IGE 1,  MIRSAD BEKTIC 3

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moraes vs. Sandhagen
+    Date: October 10, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: TOM BREESE defeated KB BHULLAR via KO/TKO  
+  at 1:42 of round 1
+  Key stats:
+  - TOM BREESE landed 17 significant strikes
+  - KB BHULLAR landed 2 significant strikes
+  - Knockdowns: TOM BREESE 1,  KB BHULLAR 0
+  - Takedowns: TOM BREESE 0,  KB BHULLAR 0
+  Bonus: perf

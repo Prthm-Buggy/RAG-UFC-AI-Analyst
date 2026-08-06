@@ -1,0 +1,11 @@
+Fighter: AIEMANN ZAHABI
+  Date of Birth: 1987-11-19
+  Career record: 11
+  First fight: 2017-02-19
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :582
+- Total takedowns landed :1
+- Knockdowns :3
+- Submission Attempts :0

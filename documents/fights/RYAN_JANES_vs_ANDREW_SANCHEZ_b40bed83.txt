@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: A New World Champion Finale
+    Date: December 01, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: RYAN JANES defeated ANDREW SANCHEZ via KO/TKO  
+  at 0:58 of round 3
+  Key stats:
+  - RYAN JANES landed 159 significant strikes
+  - ANDREW SANCHEZ landed 96 significant strikes
+  - Knockdowns: RYAN JANES 0,  ANDREW SANCHEZ 2
+  - Takedowns: RYAN JANES 0,  ANDREW SANCHEZ 3

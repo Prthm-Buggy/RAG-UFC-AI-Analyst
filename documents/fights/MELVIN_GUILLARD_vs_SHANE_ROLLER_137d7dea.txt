@@ -1,0 +1,13 @@
+Event: UFC 132: Cruz vs Faber
+    Date: July 02, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MELVIN GUILLARD defeated SHANE ROLLER via KO/TKO  
+  at 2:12 of round 1
+  Key stats:
+  - MELVIN GUILLARD landed 17 significant strikes
+  - SHANE ROLLER landed 1 significant strikes
+  - Knockdowns: MELVIN GUILLARD 2,  SHANE ROLLER 0
+  - Takedowns: MELVIN GUILLARD 0,  SHANE ROLLER 0

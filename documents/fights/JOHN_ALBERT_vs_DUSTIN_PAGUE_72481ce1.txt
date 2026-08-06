@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Bisping vs Team Miller Finale
+    Date: December 03, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOHN ALBERT defeated DUSTIN PAGUE via KO/TKO  
+  at 1:09 of round 1
+  Key stats:
+  - JOHN ALBERT landed 21 significant strikes
+  - DUSTIN PAGUE landed 3 significant strikes
+  - Knockdowns: JOHN ALBERT 1,  DUSTIN PAGUE 0
+  - Takedowns: JOHN ALBERT 0,  DUSTIN PAGUE 0

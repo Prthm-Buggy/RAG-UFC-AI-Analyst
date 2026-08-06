@@ -1,0 +1,11 @@
+Fighter: BRAD RIDDELL
+  Date of Birth: 1991-09-30
+  Career record: 7
+  First fight: 2019-10-05
+  Last fight: 2022-11-12
+
+Career Statistics:
+- Significant Strikes Landed :360
+- Total takedowns landed :9
+- Knockdowns :1
+- Submission Attempts :0

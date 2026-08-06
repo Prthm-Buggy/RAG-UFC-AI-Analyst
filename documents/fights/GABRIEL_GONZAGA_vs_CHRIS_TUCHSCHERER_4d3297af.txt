@@ -1,0 +1,13 @@
+Event: UFC 102: Couture vs Nogueira
+    Date: August 29, 2009
+    Location: Portland, Oregon, USA
+    Weight Class: Heavyweight
+    
+
+    Result: GABRIEL GONZAGA defeated CHRIS TUCHSCHERER via KO/TKO  
+  at 2:27 of round 1
+  Key stats:
+  - GABRIEL GONZAGA landed 22 significant strikes
+  - CHRIS TUCHSCHERER landed 0 significant strikes
+  - Knockdowns: GABRIEL GONZAGA 1,  CHRIS TUCHSCHERER 0
+  - Takedowns: GABRIEL GONZAGA 0,  CHRIS TUCHSCHERER 0

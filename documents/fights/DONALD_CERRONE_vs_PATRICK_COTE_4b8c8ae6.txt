@@ -1,0 +1,14 @@
+Event: UFC Fight Night: MacDonald vs Thompson
+    Date: June 18, 2016
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Welterweight
+    
+
+    Result: DONALD CERRONE defeated PATRICK COTE via KO/TKO  
+  at 2:35 of round 3
+  Key stats:
+  - DONALD CERRONE landed 73 significant strikes
+  - PATRICK COTE landed 46 significant strikes
+  - Knockdowns: DONALD CERRONE 3,  PATRICK COTE 0
+  - Takedowns: DONALD CERRONE 2,  PATRICK COTE 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Miocic vs Hunt
+    Date: May 09, 2015
+    Location: Adelaide, South Australia, Australia
+    Weight Class: Women's Strawweight
+    
+
+    Result: ALEX CHAMBERS defeated KAILIN CURRAN via Submission  
+  at 3:15 of round 3
+  Key stats:
+  - ALEX CHAMBERS landed 44 significant strikes
+  - KAILIN CURRAN landed 81 significant strikes
+  - Knockdowns: ALEX CHAMBERS 0,  KAILIN CURRAN 0
+  - Takedowns: ALEX CHAMBERS 2,  KAILIN CURRAN 2
+  Bonus: perf

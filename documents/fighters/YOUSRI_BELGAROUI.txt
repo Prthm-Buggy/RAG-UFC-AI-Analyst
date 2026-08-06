@@ -1,0 +1,11 @@
+Fighter: YOUSRI BELGAROUI
+  Date of Birth: 1992-06-02
+  Career record: 2
+  First fight: 2025-10-18
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :196
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :0

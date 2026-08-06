@@ -1,0 +1,13 @@
+Event: UFC 102: Couture vs Nogueira
+    Date: August 29, 2009
+    Location: Portland, Oregon, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: THIAGO SILVA defeated KEITH JARDINE via KO/TKO  
+  at 1:35 of round 1
+  Key stats:
+  - THIAGO SILVA landed 5 significant strikes
+  - KEITH JARDINE landed 3 significant strikes
+  - Knockdowns: THIAGO SILVA 1,  KEITH JARDINE 0
+  - Takedowns: THIAGO SILVA 0,  KEITH JARDINE 0

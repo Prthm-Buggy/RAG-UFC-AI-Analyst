@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Allen
+    Date: October 29, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: STEVE GARCIA defeated CHASE HOOPER via KO/TKO  
+  at 1:32 of round 1
+  Key stats:
+  - STEVE GARCIA landed 29 significant strikes
+  - CHASE HOOPER landed 10 significant strikes
+  - Knockdowns: STEVE GARCIA 3,  CHASE HOOPER 0
+  - Takedowns: STEVE GARCIA 0,  CHASE HOOPER 0
+  Bonus: perf

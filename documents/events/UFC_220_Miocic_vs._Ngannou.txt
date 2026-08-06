@@ -1,0 +1,18 @@
+Event : UFC 220: Miocic vs. Ngannou
+    Date : January 20, 2018
+    Location: Boston, Massachusetts, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Bantamweight, Light Heavyweight, Featherweight, Flyweight, Lightweight, Welterweight
+
+    Fight Results:
+  - ROB FONT def. THOMAS ALMEIDA via KO/TKO(R2)
+- CALVIN KATTAR def. SHANE BURGOS via KO/TKO(R3)
+- JULIO ARCE def. DAN IGE via Decision - Unanimous(R3)
+- ISLAM MAKHACHEV def. GLEISON TIBAU via KO/TKO(R1)
+- STIPE MIOCIC def. FRANCIS NGANNOU via Decision - Unanimous(R5)
+- ENRIQUE BARZOLA def. MATT BESSETTE via Decision - Unanimous(R3)
+- DUSTIN ORTIZ def. ALEXANDRE PANTOJA via Decision - Unanimous(R3)
+- ABDUL RAZAK ALHASSAN def. SABAH HOMASI via KO/TKO(R1)
+- GIAN VILLANTE def. FRANCIMAR BARROSO via Decision - Split(R3)
+- DANIEL CORMIER def. VOLKAN OEZDEMIR via KO/TKO(R2)
+- KYLE BOCHNIAK def. BRANDON DAVIS via Decision - Unanimous(R3)

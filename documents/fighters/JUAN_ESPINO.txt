@@ -1,0 +1,11 @@
+Fighter: JUAN ESPINO
+  Date of Birth: 1980-10-09
+  Career record: 3
+  First fight: 2018-11-30
+  Last fight: 2021-04-17
+
+Career Statistics:
+- Significant Strikes Landed :44
+- Total takedowns landed :11
+- Knockdowns :0
+- Submission Attempts :3

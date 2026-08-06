@@ -1,0 +1,13 @@
+Event: UFC 49: Unfinished Business
+    Date: August 21, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CHUCK LIDDELL defeated VERNON WHITE via KO/TKO  
+  at 4:05 of round 1
+  Key stats:
+  - CHUCK LIDDELL landed 31 significant strikes
+  - VERNON WHITE landed 13 significant strikes
+  - Knockdowns: CHUCK LIDDELL 2,  VERNON WHITE 0
+  - Takedowns: CHUCK LIDDELL 1,  VERNON WHITE 0

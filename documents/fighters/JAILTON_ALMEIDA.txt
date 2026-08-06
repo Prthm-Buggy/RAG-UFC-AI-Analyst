@@ -1,0 +1,11 @@
+Fighter: JAILTON ALMEIDA
+  Date of Birth: 1991-06-26
+  Career record: 11
+  First fight: 2022-02-05
+  Last fight: 2026-02-07
+
+Career Statistics:
+- Significant Strikes Landed :217
+- Total takedowns landed :34
+- Knockdowns :0
+- Submission Attempts :10

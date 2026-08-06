@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Song vs. Gutierrez
+    Date: December 09, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: HYUNSUNG PARK defeated SHANNON ROSS via KO/TKO  
+  at 3:59 of round 2
+  Key stats:
+  - HYUNSUNG PARK landed 50 significant strikes
+  - SHANNON ROSS landed 47 significant strikes
+  - Knockdowns: HYUNSUNG PARK 2,  SHANNON ROSS 0
+  - Takedowns: HYUNSUNG PARK 0,  SHANNON ROSS 0
+  Bonus: perf

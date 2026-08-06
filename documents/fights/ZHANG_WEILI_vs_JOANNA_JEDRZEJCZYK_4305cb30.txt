@@ -1,0 +1,14 @@
+Event: UFC 275: Teixeira vs. Prochazka
+    Date: June 11, 2022
+    Location: Kallang, Singapore
+    Weight Class: Women's Strawweight
+    
+
+    Result: ZHANG WEILI defeated JOANNA JEDRZEJCZYK via KO/TKO  
+  at 2:28 of round 2
+  Key stats:
+  - ZHANG WEILI landed 69 significant strikes
+  - JOANNA JEDRZEJCZYK landed 43 significant strikes
+  - Knockdowns: ZHANG WEILI 1,  JOANNA JEDRZEJCZYK 0
+  - Takedowns: ZHANG WEILI 3,  JOANNA JEDRZEJCZYK 0
+  Bonus: perf

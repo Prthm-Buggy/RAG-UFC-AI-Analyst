@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Dawson vs. Green
+    Date : October 07, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Women's Flyweight, Bantamweight, Middleweight, Lightweight, Women's Strawweight, Welterweight, Featherweight, Flyweight
+
+    Fight Results:
+  - DREW DOBER def. RICKY GLENN via KO/TKO(R1)
+- KING GREEN def. GRANT DAWSON via KO/TKO(R1)
+- JOE PYFER def. ABDUL RAZAK ALHASSAN via Submission(R2)
+- VANESSA DEMOPOULOS def. KANAKO MURATA via Decision - Unanimous(R3)
+- JOAQUIN BUCKLEY def. ALEX MORONO via Decision - Unanimous(R3)
+- AORIQILENG def. JOHNNY MUNOZ via Decision - Unanimous(R3)
+- JJ ALDRICH def. MONTANA DE LA ROSA via Decision - Unanimous(R3)
+- KAROLINA KOWALKIEWICZ def. DIANA BELBITA via Decision - Unanimous(R3)
+- BILL ALGEO def. ALEXANDER HERNANDEZ via Decision - Unanimous(R3)
+- NATE MANESS def. MATEUS MENDONCA via KO/TKO(R1)

@@ -1,0 +1,14 @@
+Event: UFC 322: Della Maddalena vs. Makhachev
+    Date: November 15, 2025
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: BO NICKAL defeated RODOLFO VIEIRA via KO/TKO  
+  at 2:24 of round 3
+  Key stats:
+  - BO NICKAL landed 77 significant strikes
+  - RODOLFO VIEIRA landed 24 significant strikes
+  - Knockdowns: BO NICKAL 1,  RODOLFO VIEIRA 0
+  - Takedowns: BO NICKAL 2,  RODOLFO VIEIRA 0
+  Bonus: perf

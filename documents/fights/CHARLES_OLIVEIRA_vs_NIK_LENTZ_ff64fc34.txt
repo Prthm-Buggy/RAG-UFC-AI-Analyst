@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Condit vs Alves
+    Date: May 30, 2015
+    Location: Goiania, Goias, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: CHARLES OLIVEIRA defeated NIK LENTZ via Submission  
+  at 1:10 of round 3
+  Key stats:
+  - CHARLES OLIVEIRA landed 64 significant strikes
+  - NIK LENTZ landed 37 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 1,  NIK LENTZ 0
+  - Takedowns: CHARLES OLIVEIRA 1,  NIK LENTZ 2
+  Bonus: fight

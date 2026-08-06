@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Machida vs Mousasi
+    Date : February 15, 2014
+    Location: Jaragua do Sul, Santa Catarina, Brazil
+    Number of Fights: 12
+    Weight Classes: Middleweight, Welterweight, Featherweight, Lightweight, Bantamweight
+
+    Fight Results:
+  - JACARE SOUZA def. FRANCIS CARMONT via Decision - Unanimous(R3)
+- CHARLES OLIVEIRA def. ANDY OGLE via Submission(R3)
+- NICHOLAS MUSOKE def. VISCARDI ANDRADE via Decision - Unanimous(R3)
+- FRANCISCO TRINALDO def. JESSE RONSON via Decision - Split(R3)
+- JOE PROCTOR def. CRISTIANO MARCELLO via Decision - Unanimous(R3)
+- IURI ALCANTARA def. WILSON REIS via Decision - Split(R3)
+- RODRIGO DAMM def. IVAN JORGE via Decision - Unanimous(R3)
+- LYOTO MACHIDA def. GEGARD MOUSASI via Decision - Unanimous(R5)
+- FELIPE ARANTES def. MAXIMO BLANCO via Decision - Unanimous(R3)
+- ILDEMAR ALCANTARA def. ALBERT TUMENOV via Decision - Split(R3)
+- ZUBAIRA TUKHUGOV def. DOUGLAS SILVA DE ANDRADE via Decision - Unanimous(R3)
+- ERICK SILVA def. TAKENORI SATO via KO/TKO(R1)

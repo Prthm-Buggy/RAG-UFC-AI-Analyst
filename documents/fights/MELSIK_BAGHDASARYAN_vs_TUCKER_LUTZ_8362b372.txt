@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Bueno Silva
+    Date: July 15, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: MELSIK BAGHDASARYAN defeated TUCKER LUTZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MELSIK BAGHDASARYAN landed 64 significant strikes
+  - TUCKER LUTZ landed 36 significant strikes
+  - Knockdowns: MELSIK BAGHDASARYAN 0,  TUCKER LUTZ 0
+  - Takedowns: MELSIK BAGHDASARYAN 0,  TUCKER LUTZ 3

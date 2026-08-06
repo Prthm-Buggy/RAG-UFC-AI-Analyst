@@ -1,0 +1,14 @@
+Event: UFC 277: Pena vs. Nunes 2
+    Date: July 30, 2022
+    Location: Dallas, Texas, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AMANDA NUNES defeated JULIANNA PENA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - AMANDA NUNES landed 85 significant strikes
+  - JULIANNA PENA landed 60 significant strikes
+  - Knockdowns: AMANDA NUNES 3,  JULIANNA PENA 0
+  - Takedowns: AMANDA NUNES 6,  JULIANNA PENA 0
+  Bonus: belt

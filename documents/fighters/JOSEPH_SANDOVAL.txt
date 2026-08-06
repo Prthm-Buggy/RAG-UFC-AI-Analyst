@@ -1,0 +1,11 @@
+Fighter: JOSEPH SANDOVAL
+  Date of Birth: 1986-05-11
+  Career record: 2
+  First fight: 2011-10-01
+  Last fight: 2012-01-20
+
+Career Statistics:
+- Significant Strikes Landed :3
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

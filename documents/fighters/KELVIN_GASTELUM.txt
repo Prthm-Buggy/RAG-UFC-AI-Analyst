@@ -1,0 +1,11 @@
+Fighter: KELVIN GASTELUM
+  Date of Birth: 1991-10-24
+  Career record: 25
+  First fight: 2013-04-13
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :1243
+- Total takedowns landed :24
+- Knockdowns :8
+- Submission Attempts :2

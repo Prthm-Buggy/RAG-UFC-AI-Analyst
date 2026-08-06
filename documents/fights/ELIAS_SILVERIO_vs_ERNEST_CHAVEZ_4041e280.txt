@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Miocic vs Maldonado
+    Date: May 31, 2014
+    Location: Sao Paulo, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: ELIAS SILVERIO defeated ERNEST CHAVEZ via Submission  
+  at 4:21 of round 3
+  Key stats:
+  - ELIAS SILVERIO landed 65 significant strikes
+  - ERNEST CHAVEZ landed 54 significant strikes
+  - Knockdowns: ELIAS SILVERIO 0,  ERNEST CHAVEZ 0
+  - Takedowns: ELIAS SILVERIO 1,  ERNEST CHAVEZ 0

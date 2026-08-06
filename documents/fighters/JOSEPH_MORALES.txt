@@ -1,0 +1,11 @@
+Fighter: JOSEPH MORALES
+  Date of Birth: 1994-08-22
+  Career record: 5
+  First fight: 2017-08-05
+  Last fight: 2025-11-08
+
+Career Statistics:
+- Significant Strikes Landed :79
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :8

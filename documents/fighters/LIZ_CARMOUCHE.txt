@@ -1,0 +1,11 @@
+Fighter: LIZ CARMOUCHE
+  Date of Birth: 1984-02-19
+  Career record: 10
+  First fight: 2013-02-23
+  Last fight: 2019-08-10
+
+Career Statistics:
+- Significant Strikes Landed :314
+- Total takedowns landed :25
+- Knockdowns :0
+- Submission Attempts :4

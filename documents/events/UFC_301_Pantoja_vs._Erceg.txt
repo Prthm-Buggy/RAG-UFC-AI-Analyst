@@ -1,0 +1,20 @@
+Event : UFC 301: Pantoja vs. Erceg
+    Date : May 04, 2024
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Number of Fights: 13
+    Weight Classes: Light Heavyweight, Flyweight, Middleweight, Featherweight, Lightweight, Women's Strawweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - MYKTYBEK OROLBAI def. ELVES BRENER via Decision - Unanimous(R3)
+- ALEXANDRE PANTOJA def. STEVE ERCEG via Decision - Unanimous(R5)
+- DIONE BARBOSA def. ERNESTA KARECKAITE via Decision - Unanimous(R3)
+- ANTHONY SMITH def. VITOR PETRINO via Submission(R1)
+- JOANDERSON BRITO def. JACK SHORE via TKO - Doctor's Stoppage(R2)
+- MAURICIO RUFFY def. JAMIE MULLARKEY via KO/TKO(R1)
+- ISMAEL BONFIM def. VINC PICHEL via Decision - Unanimous(R3)
+- DRAKKAR KLOSE def. JOAQUIM SILVA via Decision - Unanimous(R3)
+- JOSE ALDO def. JONATHAN MARTINEZ via Decision - Unanimous(R3)
+- IASMIN LUCINDO def. KAROLINA KOWALKIEWICZ via Decision - Unanimous(R3)
+- CAIO BORRALHO def. PAUL CRAIG via KO/TKO(R2)
+- ALESSANDRO COSTA def. KEVIN BORJAS via KO/TKO(R2)
+- MICHEL PEREIRA def. IHOR POTIERIA via Submission(R1)

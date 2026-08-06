@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shevchenko vs. Carmouche 2
+    Date: August 10, 2019
+    Location: Montevideo, Uruguay
+    Weight Class: Featherweight
+    
+
+    Result: ENRIQUE BARZOLA defeated BOBBY MOFFETT via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ENRIQUE BARZOLA landed 83 significant strikes
+  - BOBBY MOFFETT landed 90 significant strikes
+  - Knockdowns: ENRIQUE BARZOLA 0,  BOBBY MOFFETT 0
+  - Takedowns: ENRIQUE BARZOLA 3,  BOBBY MOFFETT 0

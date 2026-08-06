@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Holloway vs. Allen
+    Date : April 15, 2023
+    Location: Kansas City, Missouri, USA
+    Number of Fights: 14
+    Weight Classes: Women's Strawweight, Lightweight, Women's Bantamweight, Featherweight, Light Heavyweight, Flyweight, Bantamweight
+
+    Fight Results:
+  - MAX HOLLOWAY def. ARNOLD ALLEN via Decision - Unanimous(R5)
+- GILLIAN ROBERTSON def. PIERA RODRIGUEZ via Submission(R2)
+- DENISE GOMES def. BRUNA BRASIL via KO/TKO(R2)
+- AZAMAT MURZAKANOV def. DUSTIN JACOBY via Decision - Unanimous(R3)
+- BILL ALGEO def. TJ BROWN via Submission(R2)
+- BRANDON ROYVAL def. MATHEUS NICOLAU via KO/TKO(R1)
+- EDSON BARBOZA def. BILLY QUARANTILLO via KO/TKO(R1)
+- ION CUTELABA def. TANNER BOSER via KO/TKO(R1)
+- JOSELYNE EDWARDS def. LUCIE PUDILOVA via Decision - Split(R3)
+- GASTON BOLANOS def. AARON PHILLIPS via Decision - Unanimous(R3)
+- PEDRO MUNHOZ def. CHRIS GUTIERREZ via Decision - Unanimous(R3)
+- DANIEL ZELLHUBER def. LANDO VANNATA via Decision - Unanimous(R3)
+- RAFA GARCIA def. CLAY GUIDA via Decision - Unanimous(R3)
+- ZAK CUMMINGS def. ED HERMAN via KO/TKO(R3)

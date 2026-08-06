@@ -1,0 +1,13 @@
+Event: UFC 165: Jones vs Gustafsson
+    Date: September 21, 2013
+    Location: Toronto, Ontario, Canada
+    Weight Class: Lightweight
+    
+
+    Result: KHABIB NURMAGOMEDOV defeated PAT HEALY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KHABIB NURMAGOMEDOV landed 54 significant strikes
+  - PAT HEALY landed 44 significant strikes
+  - Knockdowns: KHABIB NURMAGOMEDOV 0,  PAT HEALY 0
+  - Takedowns: KHABIB NURMAGOMEDOV 5,  PAT HEALY 0

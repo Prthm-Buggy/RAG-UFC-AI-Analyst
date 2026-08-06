@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yan vs. Dvalishvili
+    Date: March 11, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOSH FREMD defeated SEDRIQUES DUMAS via Submission  
+  at 3:00 of round 2
+  Key stats:
+  - JOSH FREMD landed 33 significant strikes
+  - SEDRIQUES DUMAS landed 20 significant strikes
+  - Knockdowns: JOSH FREMD 0,  SEDRIQUES DUMAS 0
+  - Takedowns: JOSH FREMD 2,  SEDRIQUES DUMAS 0

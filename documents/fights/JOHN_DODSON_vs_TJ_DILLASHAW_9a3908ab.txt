@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Bisping vs Team Miller Finale
+    Date: December 03, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOHN DODSON defeated TJ DILLASHAW via KO/TKO  
+  at 1:54 of round 1
+  Key stats:
+  - JOHN DODSON landed 7 significant strikes
+  - TJ DILLASHAW landed 2 significant strikes
+  - Knockdowns: JOHN DODSON 1,  TJ DILLASHAW 0
+  - Takedowns: JOHN DODSON 0,  TJ DILLASHAW 0
+  Bonus: belt

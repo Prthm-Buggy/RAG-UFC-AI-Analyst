@@ -1,0 +1,14 @@
+Event : UFC - Ultimate Ultimate '96
+    Date : December 07, 1996
+    Location: Birmingham, Alabama, USA
+    Number of Fights: 7
+    Weight Classes: Open Weight
+
+    Fight Results:
+  - DAVID ABBOTT def. STEVE NELMARK via KO/TKO(R1)
+- DAVID ABBOTT def. CAL WORSHAM via KO/TKO(R1)
+- KIMO LEOPOLDO def. PAUL VARELANS via KO/TKO(R1)
+- DON FRYE def. MARK HALL via Submission(R1)
+- KEN SHAMROCK def. BRIAN JOHNSTON via Submission(R1)
+- DON FRYE def. GARY GOODRIDGE via Submission(R1)
+- DON FRYE def. DAVID ABBOTT via Submission(R1)

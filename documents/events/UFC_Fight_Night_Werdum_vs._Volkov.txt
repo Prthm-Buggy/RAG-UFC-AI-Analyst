@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Werdum vs. Volkov
+    Date : March 17, 2018
+    Location: London, England, United Kingdom
+    Number of Fights: 10
+    Weight Classes: Lightweight, Light Heavyweight, Welterweight, Featherweight, Middleweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - JAN BLACHOWICZ def. JIMI MANUWA via Decision - Unanimous(R3)
+- LEON EDWARDS def. PETER SOBOTTA via KO/TKO(R3)
+- DMITRY SOSNOVSKIY def. MARK GODBEER via Submission(R2)
+- DANNY ROBERTS def. OLIVER ENKAMP via KO/TKO(R1)
+- PAUL CRAIG def. MAGOMED ANKALAEV via Submission(R3)
+- ALEXANDER VOLKOV def. FABRICIO WERDUM via KO/TKO(R4)
+- KAJAN JOHNSON def. STEVIE RAY via Decision - Split(R3)
+- CHARLES BYRD def. JOHN PHILLIPS via Submission(R1)
+- DANNY HENRY def. HAKEEM DAWODU via Submission(R1)
+- TOM DUQUESNOY def. TERRION WARE via Decision - Unanimous(R3)

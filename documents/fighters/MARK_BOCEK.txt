@@ -1,0 +1,11 @@
+Fighter: MARK BOCEK
+  Date of Birth: 1981-10-24
+  Career record: 13
+  First fight: 2007-07-07
+  Last fight: 2014-04-16
+
+Career Statistics:
+- Significant Strikes Landed :347
+- Total takedowns landed :36
+- Knockdowns :0
+- Submission Attempts :13

@@ -1,0 +1,13 @@
+Event: UFC 84: Ill Will
+    Date: May 24, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: THIAGO SILVA defeated ANTONIO MENDES via KO/TKO  
+  at 2:24 of round 1
+  Key stats:
+  - THIAGO SILVA landed 19 significant strikes
+  - ANTONIO MENDES landed 5 significant strikes
+  - Knockdowns: THIAGO SILVA 0,  ANTONIO MENDES 1
+  - Takedowns: THIAGO SILVA 0,  ANTONIO MENDES 1

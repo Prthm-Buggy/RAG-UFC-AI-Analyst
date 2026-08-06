@@ -1,0 +1,11 @@
+Fighter: JAMEY-LYN HORTH
+  Date of Birth: 1990-03-30
+  Career record: 7
+  First fight: 2023-04-29
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :350
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

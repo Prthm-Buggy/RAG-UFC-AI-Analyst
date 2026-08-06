@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Hunt vs Mir
+    Date : March 19, 2016
+    Location: Brisbane, Queensland, Australia
+    Number of Fights: 12
+    Weight Classes: Lightweight, Welterweight, Women's Strawweight, Middleweight, Light Heavyweight, Women's Bantamweight, Featherweight, Heavyweight
+
+    Fight Results:
+  - NEIL MAGNY def. HECTOR LOMBARD via KO/TKO(R3)
+- JAKE MATTHEWS def. JOHNNY CASE via Submission(R3)
+- ALAN JOUBAN def. BRENDAN O'REILLY via KO/TKO(R1)
+- DAN HOOKER def. MARK EDDIVA via Submission(R1)
+- ALAN PATRICK def. DAMIEN BROWN via Decision - Unanimous(R3)
+- DANIEL KELLY def. ANTONIO CARLOS JUNIOR via KO/TKO(R3)
+- BEC RAWLINGS def. SEO HEE HAM via Decision - Unanimous(R3)
+- ROSS PEARSON def. CHAD LAPRISE via Decision - Split(R3)
+- VISCARDI ANDRADE def. RICHARD WALSH via Decision - Unanimous(R3)
+- STEVE BOSSE def. JAMES TE HUNA via KO/TKO(R1)
+- MARK HUNT def. FRANK MIR via KO/TKO(R1)
+- LESLIE SMITH def. RIN NAKAI via Decision - Unanimous(R3)

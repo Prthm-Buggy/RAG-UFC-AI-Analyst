@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Magny vs. Ponzinibbio
+    Date: November 17, 2018
+    Location: Buenos Aires, Buenos Aires, Argentina
+    Weight Class: Welterweight
+    
+
+    Result: SANTIAGO PONZINIBBIO defeated NEIL MAGNY via KO/TKO  
+  at 2:36 of round 4
+  Key stats:
+  - SANTIAGO PONZINIBBIO landed 79 significant strikes
+  - NEIL MAGNY landed 72 significant strikes
+  - Knockdowns: SANTIAGO PONZINIBBIO 2,  NEIL MAGNY 0
+  - Takedowns: SANTIAGO PONZINIBBIO 0,  NEIL MAGNY 0
+  Bonus: perf

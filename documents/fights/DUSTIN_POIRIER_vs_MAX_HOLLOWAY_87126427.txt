@@ -1,0 +1,14 @@
+Event: UFC 236: Holloway vs. Poirier 2
+    Date: April 13, 2019
+    Location: Atlanta, Georgia, USA
+    Weight Class: Lightweight
+    
+
+    Result: DUSTIN POIRIER defeated MAX HOLLOWAY via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - DUSTIN POIRIER landed 178 significant strikes
+  - MAX HOLLOWAY landed 181 significant strikes
+  - Knockdowns: DUSTIN POIRIER 0,  MAX HOLLOWAY 0
+  - Takedowns: DUSTIN POIRIER 1,  MAX HOLLOWAY 0
+  Bonus: belt

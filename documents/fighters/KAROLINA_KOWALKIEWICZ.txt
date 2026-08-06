@@ -1,0 +1,11 @@
+Fighter: KAROLINA KOWALKIEWICZ
+  Date of Birth: 1985-10-15
+  Career record: 19
+  First fight: 2015-12-19
+  Last fight: 2025-10-11
+
+Career Statistics:
+- Significant Strikes Landed :1394
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :3

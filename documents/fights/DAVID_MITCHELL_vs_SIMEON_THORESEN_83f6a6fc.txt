@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs Dodson
+    Date: January 26, 2013
+    Location: Chicago, Illinois, USA
+    Weight Class: Welterweight
+    
+
+    Result: DAVID MITCHELL defeated SIMEON THORESEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DAVID MITCHELL landed 60 significant strikes
+  - SIMEON THORESEN landed 49 significant strikes
+  - Knockdowns: DAVID MITCHELL 0,  SIMEON THORESEN 0
+  - Takedowns: DAVID MITCHELL 1,  SIMEON THORESEN 1

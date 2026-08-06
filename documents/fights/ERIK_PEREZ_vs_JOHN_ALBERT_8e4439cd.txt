@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Live Finale
+    Date: June 01, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ERIK PEREZ defeated JOHN ALBERT via Submission  
+  at 4:18 of round 1
+  Key stats:
+  - ERIK PEREZ landed 18 significant strikes
+  - JOHN ALBERT landed 6 significant strikes
+  - Knockdowns: ERIK PEREZ 0,  JOHN ALBERT 0
+  - Takedowns: ERIK PEREZ 0,  JOHN ALBERT 0

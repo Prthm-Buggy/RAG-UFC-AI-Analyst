@@ -1,0 +1,11 @@
+Fighter: MARK SCANLON
+  Date of Birth: Unknown
+  Career record: 1
+  First fight: 2010-11-13
+  Last fight: 2010-11-13
+
+Career Statistics:
+- Significant Strikes Landed :33
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :2

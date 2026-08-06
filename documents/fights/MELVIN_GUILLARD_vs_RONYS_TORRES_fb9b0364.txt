@@ -1,0 +1,13 @@
+Event: UFC 109: Relentless
+    Date: February 06, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MELVIN GUILLARD defeated RONYS TORRES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MELVIN GUILLARD landed 34 significant strikes
+  - RONYS TORRES landed 6 significant strikes
+  - Knockdowns: MELVIN GUILLARD 0,  RONYS TORRES 0
+  - Takedowns: MELVIN GUILLARD 0,  RONYS TORRES 5

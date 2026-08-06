@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tsarukyan vs. Hooker
+    Date: November 22, 2025
+    Location: Doha, Qatar
+    Weight Class: Flyweight
+    
+
+    Result: ASU ALMABAYEV defeated ALEX PEREZ via Submission  
+  at 0:22 of round 3
+  Key stats:
+  - ASU ALMABAYEV landed 36 significant strikes
+  - ALEX PEREZ landed 40 significant strikes
+  - Knockdowns: ASU ALMABAYEV 0,  ALEX PEREZ 0
+  - Takedowns: ASU ALMABAYEV 2,  ALEX PEREZ 3

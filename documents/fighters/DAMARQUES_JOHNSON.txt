@@ -1,0 +1,11 @@
+Fighter: DAMARQUES JOHNSON
+  Date of Birth: 1982-06-28
+  Career record: 10
+  First fight: 2009-06-20
+  Last fight: 2012-09-29
+
+Career Statistics:
+- Significant Strikes Landed :134
+- Total takedowns landed :5
+- Knockdowns :2
+- Submission Attempts :3

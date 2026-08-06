@@ -1,0 +1,11 @@
+Fighter: ELIZABETH PHILLIPS
+  Date of Birth: 1986-08-20
+  Career record: 4
+  First fight: 2014-06-14
+  Last fight: 2016-08-20
+
+Career Statistics:
+- Significant Strikes Landed :156
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

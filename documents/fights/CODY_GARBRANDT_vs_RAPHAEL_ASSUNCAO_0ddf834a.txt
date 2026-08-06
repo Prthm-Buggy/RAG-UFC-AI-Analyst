@@ -1,0 +1,14 @@
+Event: UFC 250: Nunes vs. Spencer
+    Date: June 06, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CODY GARBRANDT defeated RAPHAEL ASSUNCAO via KO/TKO  
+  at 4:59 of round 2
+  Key stats:
+  - CODY GARBRANDT landed 19 significant strikes
+  - RAPHAEL ASSUNCAO landed 17 significant strikes
+  - Knockdowns: CODY GARBRANDT 1,  RAPHAEL ASSUNCAO 0
+  - Takedowns: CODY GARBRANDT 0,  RAPHAEL ASSUNCAO 0
+  Bonus: perf

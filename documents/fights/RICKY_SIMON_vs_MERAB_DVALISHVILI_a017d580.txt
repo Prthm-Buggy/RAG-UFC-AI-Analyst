@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barboza vs. Lee
+    Date: April 21, 2018
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RICKY SIMON defeated MERAB DVALISHVILI via Submission  
+  at 5:00 of round 3
+  Key stats:
+  - RICKY SIMON landed 34 significant strikes
+  - MERAB DVALISHVILI landed 61 significant strikes
+  - Knockdowns: RICKY SIMON 0,  MERAB DVALISHVILI 1
+  - Takedowns: RICKY SIMON 2,  MERAB DVALISHVILI 6
+  Bonus: fight

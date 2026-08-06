@@ -1,0 +1,13 @@
+Event: UFC 298: Volkanovski vs. Topuria
+    Date: February 17, 2024
+    Location: Anaheim, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RINYA NAKAMURA defeated CARLOS VERA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RINYA NAKAMURA landed 38 significant strikes
+  - CARLOS VERA landed 12 significant strikes
+  - Knockdowns: RINYA NAKAMURA 0,  CARLOS VERA 0
+  - Takedowns: RINYA NAKAMURA 3,  CARLOS VERA 0

@@ -1,0 +1,14 @@
+Event: UFC 132: Cruz vs Faber
+    Date: July 02, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS CONDIT defeated DONG HYUN KIM via KO/TKO  
+  at 2:58 of round 1
+  Key stats:
+  - CARLOS CONDIT landed 8 significant strikes
+  - DONG HYUN KIM landed 1 significant strikes
+  - Knockdowns: CARLOS CONDIT 1,  DONG HYUN KIM 0
+  - Takedowns: CARLOS CONDIT 0,  DONG HYUN KIM 1
+  Bonus: ko

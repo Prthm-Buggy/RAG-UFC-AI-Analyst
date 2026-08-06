@@ -1,0 +1,14 @@
+Event: UFC 259: Blachowicz vs. Adesanya
+    Date: March 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAN BLACHOWICZ defeated ISRAEL ADESANYA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JAN BLACHOWICZ landed 107 significant strikes
+  - ISRAEL ADESANYA landed 78 significant strikes
+  - Knockdowns: JAN BLACHOWICZ 0,  ISRAEL ADESANYA 0
+  - Takedowns: JAN BLACHOWICZ 3,  ISRAEL ADESANYA 0
+  Bonus: belt

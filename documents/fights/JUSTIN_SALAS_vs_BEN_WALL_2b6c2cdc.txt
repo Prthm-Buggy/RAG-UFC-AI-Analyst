@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brown vs Silva
+    Date: May 10, 2014
+    Location: Cincinnati, Ohio, USA
+    Weight Class: Lightweight
+    
+
+    Result: JUSTIN SALAS defeated BEN WALL via KO/TKO  
+  at 2:41 of round 1
+  Key stats:
+  - JUSTIN SALAS landed 20 significant strikes
+  - BEN WALL landed 4 significant strikes
+  - Knockdowns: JUSTIN SALAS 1,  BEN WALL 0
+  - Takedowns: JUSTIN SALAS 0,  BEN WALL 0

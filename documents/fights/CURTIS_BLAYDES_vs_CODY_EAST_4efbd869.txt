@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lineker vs. Dodson
+    Date: October 01, 2016
+    Location: Portland, Oregon, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CURTIS BLAYDES defeated CODY EAST via KO/TKO  
+  at 2:02 of round 2
+  Key stats:
+  - CURTIS BLAYDES landed 52 significant strikes
+  - CODY EAST landed 21 significant strikes
+  - Knockdowns: CURTIS BLAYDES 0,  CODY EAST 0
+  - Takedowns: CURTIS BLAYDES 5,  CODY EAST 3
+  Bonus: perf

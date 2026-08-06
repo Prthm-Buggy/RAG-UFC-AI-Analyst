@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moicano vs. The Korean Zombie
+    Date: June 22, 2019
+    Location: Greenville, South Carolina, USA
+    Weight Class: Welterweight
+    
+
+    Result: RANDY BROWN defeated BRYAN BARBERENA via KO/TKO  
+  at 2:54 of round 3
+  Key stats:
+  - RANDY BROWN landed 89 significant strikes
+  - BRYAN BARBERENA landed 47 significant strikes
+  - Knockdowns: RANDY BROWN 1,  BRYAN BARBERENA 0
+  - Takedowns: RANDY BROWN 0,  BRYAN BARBERENA 0

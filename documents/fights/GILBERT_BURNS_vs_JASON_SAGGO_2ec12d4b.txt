@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs. Branch
+    Date: September 16, 2017
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Lightweight
+    
+
+    Result: GILBERT BURNS defeated JASON SAGGO via KO/TKO  
+  at 4:55 of round 2
+  Key stats:
+  - GILBERT BURNS landed 42 significant strikes
+  - JASON SAGGO landed 35 significant strikes
+  - Knockdowns: GILBERT BURNS 1,  JASON SAGGO 0
+  - Takedowns: GILBERT BURNS 2,  JASON SAGGO 1

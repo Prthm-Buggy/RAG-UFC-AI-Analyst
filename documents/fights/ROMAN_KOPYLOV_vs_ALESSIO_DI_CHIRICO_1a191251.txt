@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gane vs. Tuivasa
+    Date: September 03, 2022
+    Location: Paris, Ile-de-France, France
+    Weight Class: Middleweight
+    
+
+    Result: ROMAN KOPYLOV defeated ALESSIO DI CHIRICO via KO/TKO  
+  at 1:09 of round 3
+  Key stats:
+  - ROMAN KOPYLOV landed 59 significant strikes
+  - ALESSIO DI CHIRICO landed 39 significant strikes
+  - Knockdowns: ROMAN KOPYLOV 1,  ALESSIO DI CHIRICO 0
+  - Takedowns: ROMAN KOPYLOV 0,  ALESSIO DI CHIRICO 0

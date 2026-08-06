@@ -1,0 +1,19 @@
+Event : UFC on FX: Maynard vs Guida
+    Date : June 22, 2012
+    Location: Atlantic City, New Jersey, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Welterweight, Featherweight, Middleweight, Bantamweight
+
+    Fight Results:
+  - CHRIS CAMOZZI def. NICK CATONE via TKO - Doctor's Stoppage(R3)
+- CUB SWANSON def. ROSS PEARSON via KO/TKO(R2)
+- BRIAN EBERSOLE def. TJ WALDBURGER via Decision - Unanimous(R3)
+- DAN MILLER def. RICARDO FUNCH via Submission(R3)
+- RICARDO LAMAS def. HATSU HIOKI via Decision - Unanimous(R3)
+- KEN STONE def. DUSTIN PAGUE via Decision - Split(R3)
+- SAM STOUT def. SPENCER FISHER via Decision - Unanimous(R3)
+- GRAY MAYNARD def. CLAY GUIDA via Decision - Split(R5)
+- MATT BROWN def. LUIS RAMOS via KO/TKO(R2)
+- RICK STORY def. BROCK JARDINE via Decision - Unanimous(R3)
+- STEVEN SILER def. JOEY GAMBINO via Submission(R1)
+- RAMSEY NIJEM def. CJ KEITH via KO/TKO(R1)

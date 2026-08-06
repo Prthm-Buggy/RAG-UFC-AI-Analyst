@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Murphy
+    Date: May 18, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: VANESSA DEMOPOULOS defeated EMILY DUCOTE via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - VANESSA DEMOPOULOS landed 109 significant strikes
+  - EMILY DUCOTE landed 143 significant strikes
+  - Knockdowns: VANESSA DEMOPOULOS 0,  EMILY DUCOTE 0
+  - Takedowns: VANESSA DEMOPOULOS 0,  EMILY DUCOTE 0

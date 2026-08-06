@@ -1,0 +1,11 @@
+Fighter: JAMES BOCHNOVIC
+  Date of Birth: 1989-02-13
+  Career record: 2
+  First fight: 2017-07-08
+  Last fight: 2018-05-12
+
+Career Statistics:
+- Significant Strikes Landed :8
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

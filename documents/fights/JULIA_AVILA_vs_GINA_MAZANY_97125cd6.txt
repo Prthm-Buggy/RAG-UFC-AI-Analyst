@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Eye vs. Calvillo
+    Date: June 13, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JULIA AVILA defeated GINA MAZANY via KO/TKO  
+  at 0:22 of round 1
+  Key stats:
+  - JULIA AVILA landed 11 significant strikes
+  - GINA MAZANY landed 2 significant strikes
+  - Knockdowns: JULIA AVILA 0,  GINA MAZANY 0
+  - Takedowns: JULIA AVILA 0,  GINA MAZANY 0

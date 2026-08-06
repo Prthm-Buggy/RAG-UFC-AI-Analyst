@@ -1,0 +1,11 @@
+Fighter: MIKE WHITEHEAD
+  Date of Birth: 1981-06-29
+  Career record: 1
+  First fight: 2006-02-04
+  Last fight: 2006-02-04
+
+Career Statistics:
+- Significant Strikes Landed :27
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

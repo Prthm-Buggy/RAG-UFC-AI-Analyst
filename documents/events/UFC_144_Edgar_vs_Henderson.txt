@@ -1,0 +1,19 @@
+Event : UFC 144: Edgar vs Henderson
+    Date : February 25, 2012
+    Location: Saitama, Japan
+    Number of Fights: 12
+    Weight Classes: Middleweight, Lightweight, Light Heavyweight, Welterweight, Featherweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - ISSEI TAMURA def. ZHANG TIEQUAN via KO/TKO(R2)
+- MARK HUNT def. CHEICK KONGO via KO/TKO(R1)
+- VAUGHAN LEE def. NORIFUMI YAMAMOTO via Submission(R1)
+- HATSU HIOKI def. BART PALASZEWSKI via Decision - Unanimous(R3)
+- TIM BOETSCH def. YUSHIN OKAMI via KO/TKO(R3)
+- RYAN BADER def. QUINTON JACKSON via Decision - Unanimous(R3)
+- BENSON HENDERSON def. FRANKIE EDGAR via Decision - Unanimous(R5)
+- RIKI FUKUDA def. STEVE CANTWELL via Decision - Unanimous(R3)
+- JAKE SHIELDS def. YOSHIHIRO AKIYAMA via Decision - Unanimous(R3)
+- CHRIS CARIASO def. TAKEYA MIZUGAKI via Decision - Unanimous(R3)
+- ANTHONY PETTIS def. JOE LAUZON via KO/TKO(R1)
+- TAKANORI GOMI def. EIJI MITSUOKA via KO/TKO(R2)

@@ -1,0 +1,13 @@
+Event: UFC 237: Namajunas vs. Andrade
+    Date: May 11, 2019
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: JARED CANNONIER defeated ANDERSON SILVA via KO/TKO  
+  at 4:47 of round 1
+  Key stats:
+  - JARED CANNONIER landed 17 significant strikes
+  - ANDERSON SILVA landed 8 significant strikes
+  - Knockdowns: JARED CANNONIER 1,  ANDERSON SILVA 0
+  - Takedowns: JARED CANNONIER 0,  ANDERSON SILVA 0

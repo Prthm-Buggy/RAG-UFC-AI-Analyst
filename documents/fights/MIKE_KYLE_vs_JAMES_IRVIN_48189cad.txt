@@ -1,0 +1,13 @@
+Event: UFC 51: Super Saturday
+    Date: February 05, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MIKE KYLE defeated JAMES IRVIN via KO/TKO  
+  at 1:55 of round 1
+  Key stats:
+  - MIKE KYLE landed 10 significant strikes
+  - JAMES IRVIN landed 3 significant strikes
+  - Knockdowns: MIKE KYLE 1,  JAMES IRVIN 0
+  - Takedowns: MIKE KYLE 1,  JAMES IRVIN 0

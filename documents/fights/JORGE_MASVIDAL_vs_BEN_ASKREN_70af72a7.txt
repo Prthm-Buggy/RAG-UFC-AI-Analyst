@@ -1,0 +1,14 @@
+Event: UFC 239: Jones vs. Santos
+    Date: July 06, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JORGE MASVIDAL defeated BEN ASKREN via KO/TKO  
+  at 0:05 of round 1
+  Key stats:
+  - JORGE MASVIDAL landed 3 significant strikes
+  - BEN ASKREN landed 0 significant strikes
+  - Knockdowns: JORGE MASVIDAL 1,  BEN ASKREN 0
+  - Takedowns: JORGE MASVIDAL 0,  BEN ASKREN 0
+  Bonus: perf

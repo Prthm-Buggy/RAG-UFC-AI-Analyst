@@ -1,0 +1,13 @@
+Event: UFC 127: Penn vs Fitch
+    Date: February 26, 2011
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY PEROSH defeated TOM BLACKLEDGE via Submission  
+  at 2:45 of round 1
+  Key stats:
+  - ANTHONY PEROSH landed 7 significant strikes
+  - TOM BLACKLEDGE landed 8 significant strikes
+  - Knockdowns: ANTHONY PEROSH 0,  TOM BLACKLEDGE 0
+  - Takedowns: ANTHONY PEROSH 1,  TOM BLACKLEDGE 0

@@ -1,0 +1,11 @@
+Fighter: TOMASZ DRWAL
+  Date of Birth: 1982-01-22
+  Career record: 6
+  First fight: 2007-09-08
+  Last fight: 2010-09-15
+
+Career Statistics:
+- Significant Strikes Landed :125
+- Total takedowns landed :9
+- Knockdowns :1
+- Submission Attempts :1

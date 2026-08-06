@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Covington vs. Buckley
+    Date : December 14, 2024
+    Location: Tampa, Florida, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Women's Flyweight, Lightweight, Light Heavyweight, Welterweight, Featherweight, Women's Strawweight, Flyweight
+
+    Fight Results:
+  - FELIPE LIMA def. MILES JOHNS via Decision - Unanimous(R3)
+- DANIEL MARCOS def. ADRIAN YANEZ via Decision - Split(R3)
+- DUSTIN JACOBY def. VITOR PETRINO via KO/TKO(R3)
+- PIERA RODRIGUEZ def. JOSEFINE KNUTSSON via Decision - Unanimous(R3)
+- NAVAJO STIRLING def. Tuco Tokkos via Decision - Unanimous(R3)
+- MICHAEL JOHNSON def. OTTMAN AZAITAR via KO/TKO(R2)
+- JOEL ALVAREZ def. DRAKKAR KLOSE via KO/TKO(R1)
+- SEAN WOODSON def. FERNANDO PADILLA via KO/TKO(R1)
+- MIRANDA MAVERICK def. JAMEY-LYN HORTH via Decision - Unanimous(R3)
+- JOAQUIN BUCKLEY def. COLBY COVINGTON via TKO - Doctor's Stoppage(R3)
+- CUB SWANSON def. BILLY QUARANTILLO via KO/TKO(R3)
+- MANEL KAPE def. BRUNO SILVA via KO/TKO(R3)
+- DAVEY GRANT def. RAMON TAVERAS via Decision - Unanimous(R3)

@@ -1,0 +1,11 @@
+Fighter: VIVIANE ARAUJO
+  Date of Birth: 1986-11-21
+  Career record: 13
+  First fight: 2019-05-11
+  Last fight: 2025-06-28
+
+Career Statistics:
+- Significant Strikes Landed :772
+- Total takedowns landed :23
+- Knockdowns :1
+- Submission Attempts :8

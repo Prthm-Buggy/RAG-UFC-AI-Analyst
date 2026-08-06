@@ -1,0 +1,13 @@
+Event: UFC 11: The Proving Ground
+    Date: September 20, 1996
+    Location: Augusta, Georgia, USA
+    Weight Class: Open Weight
+    
+
+    Result: DAVID ABBOTT defeated SAM ADKINS via Submission  
+  at 2:06 of round 1
+  Key stats:
+  - DAVID ABBOTT landed 8 significant strikes
+  - SAM ADKINS landed 0 significant strikes
+  - Knockdowns: DAVID ABBOTT 0,  SAM ADKINS 0
+  - Takedowns: DAVID ABBOTT 1,  SAM ADKINS 0

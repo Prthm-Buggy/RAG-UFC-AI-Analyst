@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holohan vs Smolka
+    Date: October 24, 2015
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Welterweight
+    
+
+    Result: TOM BREESE defeated CATHAL PENDRED via KO/TKO  
+  at 4:37 of round 1
+  Key stats:
+  - TOM BREESE landed 23 significant strikes
+  - CATHAL PENDRED landed 5 significant strikes
+  - Knockdowns: TOM BREESE 1,  CATHAL PENDRED 0
+  - Takedowns: TOM BREESE 0,  CATHAL PENDRED 0
+  Bonus: perf

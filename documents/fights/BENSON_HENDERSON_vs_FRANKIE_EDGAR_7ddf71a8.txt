@@ -1,0 +1,14 @@
+Event: UFC 150: Henderson vs Edgar II
+    Date: August 11, 2012
+    Location: Denver, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENSON HENDERSON defeated FRANKIE EDGAR via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - BENSON HENDERSON landed 64 significant strikes
+  - FRANKIE EDGAR landed 66 significant strikes
+  - Knockdowns: BENSON HENDERSON 0,  FRANKIE EDGAR 1
+  - Takedowns: BENSON HENDERSON 0,  FRANKIE EDGAR 2
+  Bonus: belt

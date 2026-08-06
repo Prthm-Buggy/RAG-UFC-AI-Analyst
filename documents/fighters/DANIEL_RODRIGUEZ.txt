@@ -1,0 +1,11 @@
+Fighter: DANIEL RODRIGUEZ
+  Date of Birth: 1986-12-31
+  Career record: 14
+  First fight: 2020-02-15
+  Last fight: 2025-07-19
+
+Career Statistics:
+- Significant Strikes Landed :1170
+- Total takedowns landed :2
+- Knockdowns :7
+- Submission Attempts :1

@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Anderson vs. Blachowicz
+    Date : February 15, 2020
+    Location: Rio Rancho, New Mexico, USA
+    Number of Fights: 13
+    Weight Classes: Welterweight, Lightweight, Flyweight, Light Heavyweight, Women's Bantamweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - MERAB DVALISHVILI def. CASEY KENNEY via Decision - Unanimous(R3)
+- DEVIN CLARK def. DEQUAN TOWNSEND via Decision - Unanimous(R3)
+- JAN BLACHOWICZ def. COREY ANDERSON via KO/TKO(R1)
+- JOHN DODSON def. NATHANIEL WOOD via KO/TKO(R3)
+- RAY BORG def. ROGERIO BONTORIN via Decision - Unanimous(R3)
+- BROK WEAVER def. KAZULA VARGAS via DQ(R1)
+- DANIEL RODRIGUEZ def. TIM MEANS via Submission(R2)
+- MONTANA DE LA ROSA def. MARA ROMERO BORELLA via Decision - Unanimous(R3)
+- RAULIAN PAIVA def. MARK DE LA ROSA via KO/TKO(R2)
+- DIEGO SANCHEZ def. MICHEL PEREIRA via DQ(R3)
+- LANDO VANNATA def. YANCY MEDEIROS via Decision - Unanimous(R3)
+- SCOTT HOLTZMAN def. JIM MILLER via Decision - Unanimous(R3)
+- MACY CHIASSON def. SHANNA YOUNG via Decision - Unanimous(R3)

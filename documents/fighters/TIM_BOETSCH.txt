@@ -1,0 +1,11 @@
+Fighter: TIM BOETSCH
+  Date of Birth: 1981-01-28
+  Career record: 24
+  First fight: 2008-02-02
+  Last fight: 2019-03-09
+
+Career Statistics:
+- Significant Strikes Landed :635
+- Total takedowns landed :21
+- Knockdowns :7
+- Submission Attempts :11

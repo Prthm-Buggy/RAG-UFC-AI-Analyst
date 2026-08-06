@@ -1,0 +1,11 @@
+Fighter: MICHAEL TRIZANO
+  Date of Birth: 1991-12-31
+  Career record: 7
+  First fight: 2018-07-06
+  Last fight: 2022-11-12
+
+Career Statistics:
+- Significant Strikes Landed :302
+- Total takedowns landed :2
+- Knockdowns :3
+- Submission Attempts :3

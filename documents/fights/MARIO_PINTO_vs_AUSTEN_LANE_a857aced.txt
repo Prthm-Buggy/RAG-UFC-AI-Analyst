@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kape vs. Almabayev
+    Date: March 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARIO PINTO defeated AUSTEN LANE via KO/TKO  
+  at 0:39 of round 2
+  Key stats:
+  - MARIO PINTO landed 13 significant strikes
+  - AUSTEN LANE landed 32 significant strikes
+  - Knockdowns: MARIO PINTO 1,  AUSTEN LANE 1
+  - Takedowns: MARIO PINTO 0,  AUSTEN LANE 0
+  Bonus: perf

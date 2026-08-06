@@ -1,0 +1,11 @@
+Fighter: JULIANA LIMA
+  Date of Birth: 1982-03-15
+  Career record: 7
+  First fight: 2014-07-26
+  Last fight: 2018-01-27
+
+Career Statistics:
+- Significant Strikes Landed :186
+- Total takedowns landed :11
+- Knockdowns :0
+- Submission Attempts :0

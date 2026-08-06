@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Taira vs. Park
+    Date: August 02, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: AUSTIN BASHI defeated JOHN YANNIS via Submission  
+  at 3:39 of round 1
+  Key stats:
+  - AUSTIN BASHI landed 2 significant strikes
+  - JOHN YANNIS landed 0 significant strikes
+  - Knockdowns: AUSTIN BASHI 0,  JOHN YANNIS 0
+  - Takedowns: AUSTIN BASHI 1,  JOHN YANNIS 0

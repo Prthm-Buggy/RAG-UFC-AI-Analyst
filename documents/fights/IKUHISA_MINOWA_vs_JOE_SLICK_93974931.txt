@@ -1,0 +1,13 @@
+Event: UFC 25: Ultimate Japan 3
+    Date: April 14, 2000
+    Location: Tokyo, Japan
+    Weight Class: Middleweight
+    
+
+    Result: IKUHISA MINOWA defeated JOE SLICK via TKO - Doctor's Stoppage  
+  at 1:54 of round 3
+  Key stats:
+  - IKUHISA MINOWA landed 3 significant strikes
+  - JOE SLICK landed 8 significant strikes
+  - Knockdowns: IKUHISA MINOWA 0,  JOE SLICK 0
+  - Takedowns: IKUHISA MINOWA 3,  JOE SLICK 0

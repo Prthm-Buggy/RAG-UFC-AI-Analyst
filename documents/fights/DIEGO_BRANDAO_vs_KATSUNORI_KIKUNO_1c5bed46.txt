@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barnett vs Nelson
+    Date: September 26, 2015
+    Location: Saitama, Japan
+    Weight Class: Featherweight
+    
+
+    Result: DIEGO BRANDAO defeated KATSUNORI KIKUNO via KO/TKO  
+  at 0:28 of round 1
+  Key stats:
+  - DIEGO BRANDAO landed 14 significant strikes
+  - KATSUNORI KIKUNO landed 1 significant strikes
+  - Knockdowns: DIEGO BRANDAO 1,  KATSUNORI KIKUNO 0
+  - Takedowns: DIEGO BRANDAO 0,  KATSUNORI KIKUNO 0
+  Bonus: perf

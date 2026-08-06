@@ -1,0 +1,13 @@
+Event: UFC 42: Sudden Impact
+    Date: April 25, 2003
+    Location: Miami, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAVID LOISEAU defeated MARK WEIR via KO/TKO  
+  at 3:55 of round 1
+  Key stats:
+  - DAVID LOISEAU landed 16 significant strikes
+  - MARK WEIR landed 2 significant strikes
+  - Knockdowns: DAVID LOISEAU 0,  MARK WEIR 0
+  - Takedowns: DAVID LOISEAU 1,  MARK WEIR 0

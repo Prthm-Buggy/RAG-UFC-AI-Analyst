@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Alvarez
+    Date: July 07, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: GILBERT BURNS defeated LUKASZ SAJEWSKI via Submission  
+  at 4:57 of round 1
+  Key stats:
+  - GILBERT BURNS landed 13 significant strikes
+  - LUKASZ SAJEWSKI landed 14 significant strikes
+  - Knockdowns: GILBERT BURNS 0,  LUKASZ SAJEWSKI 0
+  - Takedowns: GILBERT BURNS 1,  LUKASZ SAJEWSKI 0

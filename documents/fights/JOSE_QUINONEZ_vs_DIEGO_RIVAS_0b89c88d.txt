@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Pettis vs. Moreno
+    Date: August 05, 2017
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Bantamweight
+    
+
+    Result: JOSE QUINONEZ defeated DIEGO RIVAS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOSE QUINONEZ landed 59 significant strikes
+  - DIEGO RIVAS landed 27 significant strikes
+  - Knockdowns: JOSE QUINONEZ 0,  DIEGO RIVAS 0
+  - Takedowns: JOSE QUINONEZ 1,  DIEGO RIVAS 1

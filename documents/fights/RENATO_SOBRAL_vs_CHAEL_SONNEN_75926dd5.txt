@@ -1,0 +1,13 @@
+Event: UFC 55: Fury
+    Date: October 07, 2005
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RENATO SOBRAL defeated CHAEL SONNEN via Submission  
+  at 1:20 of round 2
+  Key stats:
+  - RENATO SOBRAL landed 11 significant strikes
+  - CHAEL SONNEN landed 12 significant strikes
+  - Knockdowns: RENATO SOBRAL 0,  CHAEL SONNEN 0
+  - Takedowns: RENATO SOBRAL 4,  CHAEL SONNEN 0

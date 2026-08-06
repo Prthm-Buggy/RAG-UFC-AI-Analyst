@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Saint Preux vs. Okami
+    Date: September 22, 2017
+    Location: Saitama, Saitama, Japan
+    Weight Class: Light Heavyweight
+    
+
+    Result: GOKHAN SAKI defeated HENRIQUE DA SILVA via KO/TKO  
+  at 4:45 of round 1
+  Key stats:
+  - GOKHAN SAKI landed 40 significant strikes
+  - HENRIQUE DA SILVA landed 20 significant strikes
+  - Knockdowns: GOKHAN SAKI 2,  HENRIQUE DA SILVA 0
+  - Takedowns: GOKHAN SAKI 0,  HENRIQUE DA SILVA 0
+  Bonus: perf

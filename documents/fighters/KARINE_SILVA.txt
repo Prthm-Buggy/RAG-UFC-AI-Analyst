@@ -1,0 +1,11 @@
+Fighter: KARINE SILVA
+  Date of Birth: 1993-12-02
+  Career record: 8
+  First fight: 2022-06-04
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :197
+- Total takedowns landed :12
+- Knockdowns :1
+- Submission Attempts :6

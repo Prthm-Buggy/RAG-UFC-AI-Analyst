@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Santos vs. Ivanov
+    Date: July 14, 2018
+    Location: Boise, Idaho, USA
+    Weight Class: Featherweight
+    
+
+    Result: RAONI BARCELOS defeated KURT HOLOBAUGH via KO/TKO  
+  at 1:29 of round 3
+  Key stats:
+  - RAONI BARCELOS landed 82 significant strikes
+  - KURT HOLOBAUGH landed 102 significant strikes
+  - Knockdowns: RAONI BARCELOS 1,  KURT HOLOBAUGH 0
+  - Takedowns: RAONI BARCELOS 3,  KURT HOLOBAUGH 1
+  Bonus: fight

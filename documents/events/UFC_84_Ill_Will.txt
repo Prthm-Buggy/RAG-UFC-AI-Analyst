@@ -1,0 +1,18 @@
+Event : UFC 84: Ill Will
+    Date : May 24, 2008
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Light Heavyweight, Lightweight, Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - LYOTO MACHIDA def. TITO ORTIZ via Decision - Unanimous(R3)
+- YOSHIYUKI YOSHIDA def. WAR MACHINE via Submission(R1)
+- ROUSIMAR PALHARES def. IVAN SALAVERRY via Submission(R1)
+- SHANE CARWIN def. CHRISTIAN WELLISCH via KO/TKO(R1)
+- BJ PENN def. SEAN SHERK via KO/TKO(R3)
+- WANDERLEI SILVA def. KEITH JARDINE via KO/TKO(R1)
+- GORAN RELJIC def. WILSON GOUVEIA via KO/TKO(R2)
+- RICH CLEMENTI def. TERRY ETIM via Decision - Unanimous(R3)
+- DONG HYUN KIM def. JASON TAN via KO/TKO(R3)
+- THIAGO SILVA def. ANTONIO MENDES via KO/TKO(R1)
+- RAMEAU THIERRY SOKOUDJOU def. KAZUHIRO NAKAMURA via KO/TKO(R1)

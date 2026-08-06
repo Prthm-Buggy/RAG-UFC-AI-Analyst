@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Till vs. Masvidal
+    Date: March 16, 2019
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: DOMINICK REYES defeated VOLKAN OEZDEMIR via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - DOMINICK REYES landed 44 significant strikes
+  - VOLKAN OEZDEMIR landed 35 significant strikes
+  - Knockdowns: DOMINICK REYES 0,  VOLKAN OEZDEMIR 0
+  - Takedowns: DOMINICK REYES 0,  VOLKAN OEZDEMIR 1

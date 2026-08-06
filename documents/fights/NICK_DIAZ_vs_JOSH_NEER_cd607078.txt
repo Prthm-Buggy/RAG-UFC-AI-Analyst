@@ -1,0 +1,14 @@
+Event: UFC 62: Liddell vs Sobral
+    Date: August 26, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: NICK DIAZ defeated JOSH NEER via Submission  
+  at 1:42 of round 3
+  Key stats:
+  - NICK DIAZ landed 75 significant strikes
+  - JOSH NEER landed 25 significant strikes
+  - Knockdowns: NICK DIAZ 0,  JOSH NEER 0
+  - Takedowns: NICK DIAZ 3,  JOSH NEER 0
+  Bonus: sub

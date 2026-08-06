@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs Dollaway
+    Date: December 20, 2014
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: VITOR MIRANDA defeated JAKE COLLIER via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - VITOR MIRANDA landed 14 significant strikes
+  - JAKE COLLIER landed 15 significant strikes
+  - Knockdowns: VITOR MIRANDA 0,  JAKE COLLIER 0
+  - Takedowns: VITOR MIRANDA 0,  JAKE COLLIER 2
+  Bonus: perf

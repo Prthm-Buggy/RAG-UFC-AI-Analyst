@@ -1,0 +1,14 @@
+Event: UFC 307: Pereira vs. Rountree Jr.
+    Date: October 05, 2024
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOAQUIN BUCKLEY defeated STEPHEN THOMPSON via KO/TKO  
+  at 2:17 of round 3
+  Key stats:
+  - JOAQUIN BUCKLEY landed 34 significant strikes
+  - STEPHEN THOMPSON landed 49 significant strikes
+  - Knockdowns: JOAQUIN BUCKLEY 1,  STEPHEN THOMPSON 0
+  - Takedowns: JOAQUIN BUCKLEY 4,  STEPHEN THOMPSON 0
+  Bonus: perf

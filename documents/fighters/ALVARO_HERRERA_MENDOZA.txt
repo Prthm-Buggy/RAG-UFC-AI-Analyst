@@ -1,0 +1,11 @@
+Fighter: ALVARO HERRERA MENDOZA
+  Date of Birth: 1990-05-14
+  Career record: 4
+  First fight: 2015-11-21
+  Last fight: 2018-07-28
+
+Career Statistics:
+- Significant Strikes Landed :25
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :1

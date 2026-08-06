@@ -1,0 +1,11 @@
+Fighter: MIZUTO HIROTA
+  Date of Birth: 1981-05-05
+  Career record: 6
+  First fight: 2013-03-02
+  Last fight: 2018-12-01
+
+Career Statistics:
+- Significant Strikes Landed :305
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :1

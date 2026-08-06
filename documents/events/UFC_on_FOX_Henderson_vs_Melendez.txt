@@ -1,0 +1,19 @@
+Event : UFC on FOX: Henderson vs Melendez
+    Date : April 20, 2013
+    Location: San Jose, California, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Featherweight, Welterweight, Flyweight, Middleweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - DANIEL CORMIER def. FRANK MIR via Decision - Unanimous(R3)
+- JOSEPH BENAVIDEZ def. DARREN UYENOYAMA via KO/TKO(R2)
+- YOEL ROMERO def. CLIFFORD STARKS via KO/TKO(R1)
+- MATT BROWN def. JORDAN MEIN via KO/TKO(R2)
+- TJ DILLASHAW def. HUGO VIANA via KO/TKO(R1)
+- JORGE MASVIDAL def. TIM MEANS via Decision - Unanimous(R3)
+- FRANCIS CARMONT def. LORENZ LARKIN via Decision - Unanimous(R3)
+- BENSON HENDERSON def. GILBERT MELENDEZ via Decision - Split(R5)
+- CHAD MENDES def. DARREN ELKINS via KO/TKO(R1)
+- MYLES JURY def. RAMSEY NIJEM via KO/TKO(R2)
+- JOSH THOMSON def. NATE DIAZ via KO/TKO(R2)
+- ANTHONY NJOKUANI def. ROGER BOWLING via KO/TKO(R2)

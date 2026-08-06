@@ -1,0 +1,14 @@
+Event: UFC 218: Holloway vs. Aldo 2
+    Date: December 02, 2017
+    Location: Detroit, Michigan, USA
+    Weight Class: Welterweight
+    
+
+    Result: YANCY MEDEIROS defeated ALEX OLIVEIRA via KO/TKO  
+  at 2:02 of round 3
+  Key stats:
+  - YANCY MEDEIROS landed 75 significant strikes
+  - ALEX OLIVEIRA landed 93 significant strikes
+  - Knockdowns: YANCY MEDEIROS 2,  ALEX OLIVEIRA 2
+  - Takedowns: YANCY MEDEIROS 1,  ALEX OLIVEIRA 2
+  Bonus: fight

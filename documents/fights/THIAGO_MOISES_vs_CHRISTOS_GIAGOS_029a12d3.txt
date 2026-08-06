@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tsarukyan vs. Gamrot
+    Date: June 25, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: THIAGO MOISES defeated CHRISTOS GIAGOS via Submission  
+  at 3:05 of round 1
+  Key stats:
+  - THIAGO MOISES landed 3 significant strikes
+  - CHRISTOS GIAGOS landed 2 significant strikes
+  - Knockdowns: THIAGO MOISES 0,  CHRISTOS GIAGOS 0
+  - Takedowns: THIAGO MOISES 1,  CHRISTOS GIAGOS 0
+  Bonus: perf

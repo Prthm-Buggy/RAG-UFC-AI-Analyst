@@ -1,0 +1,13 @@
+Event: UFC on FX: Belfort vs Bisping
+    Date: January 19, 2013
+    Location: Sao Paulo, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: NIK LENTZ defeated DIEGO NUNES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NIK LENTZ landed 56 significant strikes
+  - DIEGO NUNES landed 18 significant strikes
+  - Knockdowns: NIK LENTZ 0,  DIEGO NUNES 0
+  - Takedowns: NIK LENTZ 10,  DIEGO NUNES 0

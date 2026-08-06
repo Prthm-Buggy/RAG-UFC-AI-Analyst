@@ -1,0 +1,13 @@
+Event: UFC 254: Khabib vs. Gaethje
+    Date: October 24, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Welterweight
+    
+
+    Result: SHAVKAT RAKHMONOV defeated ALEX OLIVEIRA via Submission  
+  at 4:40 of round 1
+  Key stats:
+  - SHAVKAT RAKHMONOV landed 13 significant strikes
+  - ALEX OLIVEIRA landed 9 significant strikes
+  - Knockdowns: SHAVKAT RAKHMONOV 0,  ALEX OLIVEIRA 0
+  - Takedowns: SHAVKAT RAKHMONOV 0,  ALEX OLIVEIRA 0

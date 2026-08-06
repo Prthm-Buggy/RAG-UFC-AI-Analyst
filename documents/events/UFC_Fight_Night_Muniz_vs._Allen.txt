@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Muniz vs. Allen
+    Date : February 25, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Women's Flyweight, Lightweight, Middleweight, Catch Weight, Welterweight
+
+    Fight Results:
+  - BRENDAN ALLEN def. ANDRE MUNIZ via Submission(R3)
+- MIKE MALOTT def. YOHAN LAINESSE via Submission(R1)
+- JASMINE JASUDAVICIUS def. GABRIELLA FERNANDES via Decision - Unanimous(R3)
+- NURULLO ALIEV def. RAFAEL ALVES via Decision - Majority(R3)
+- JORDAN LEAVITT def. VICTOR MARTINEZ via KO/TKO(R1)
+- TREVOR PEEK def. ERICK GONZALEZ via KO/TKO(R1)
+- TATIANA SUAREZ def. MONTANA DE LA ROSA via Submission(R2)
+- ODE OSBOURNE def. CHARLES JOHNSON via Decision - Split(R3)
+- AUGUSTO SAKAI def. DON'TALE MAYES via Decision - Unanimous(R3)
+- JOE SOLECKI def. CARL DEATON via Submission(R2)

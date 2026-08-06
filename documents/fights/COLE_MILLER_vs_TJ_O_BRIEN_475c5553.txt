@@ -1,0 +1,13 @@
+Event: UFC Live: Hardy vs Lytle
+    Date: August 14, 2011
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Lightweight
+    
+
+    Result: COLE MILLER defeated TJ O'BRIEN via Submission  
+  at 2:38 of round 2
+  Key stats:
+  - COLE MILLER landed 32 significant strikes
+  - TJ O'BRIEN landed 28 significant strikes
+  - Knockdowns: COLE MILLER 1,  TJ O'BRIEN 0
+  - Takedowns: COLE MILLER 0,  TJ O'BRIEN 0

@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team GSP vs Team Koscheck Finale
+    Date: December 04, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: STEPHAN BONNAR defeated IGOR POKRAJAC via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - STEPHAN BONNAR landed 44 significant strikes
+  - IGOR POKRAJAC landed 23 significant strikes
+  - Knockdowns: STEPHAN BONNAR 0,  IGOR POKRAJAC 0
+  - Takedowns: STEPHAN BONNAR 3,  IGOR POKRAJAC 0

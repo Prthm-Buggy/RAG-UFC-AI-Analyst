@@ -1,0 +1,14 @@
+Event: UFC 265: Lewis vs. Gane
+    Date: August 07, 2021
+    Location: Houston, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated MICHAEL CHIESA via Submission  
+  at 3:25 of round 1
+  Key stats:
+  - VICENTE LUQUE landed 7 significant strikes
+  - MICHAEL CHIESA landed 4 significant strikes
+  - Knockdowns: VICENTE LUQUE 0,  MICHAEL CHIESA 0
+  - Takedowns: VICENTE LUQUE 0,  MICHAEL CHIESA 1
+  Bonus: perf

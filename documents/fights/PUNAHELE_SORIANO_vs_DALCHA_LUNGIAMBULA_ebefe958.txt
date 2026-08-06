@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ortega vs. Rodriguez
+    Date: July 16, 2022
+    Location: Elmont, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: PUNAHELE SORIANO defeated DALCHA LUNGIAMBULA via KO/TKO  
+  at 0:28 of round 2
+  Key stats:
+  - PUNAHELE SORIANO landed 17 significant strikes
+  - DALCHA LUNGIAMBULA landed 11 significant strikes
+  - Knockdowns: PUNAHELE SORIANO 1,  DALCHA LUNGIAMBULA 0
+  - Takedowns: PUNAHELE SORIANO 0,  DALCHA LUNGIAMBULA 2
+  Bonus: perf

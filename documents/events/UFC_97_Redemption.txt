@@ -1,0 +1,19 @@
+Event : UFC 97: Redemption
+    Date : April 18, 2009
+    Location: Montreal, Quebec, Canada
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Lightweight, Middleweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - MAURICIO RUA def. CHUCK LIDDELL via KO/TKO(R1)
+- ED HERMAN def. DAVID LOISEAU via Decision - Unanimous(R3)
+- TJ GRANT def. RYO CHONAN via Decision - Split(R3)
+- CHEICK KONGO def. ANTONI HARDONK via KO/TKO(R2)
+- ANDERSON SILVA def. THALES LEITES via Decision - Unanimous(R5)
+- SAM STOUT def. MATT WIMAN via Decision - Unanimous(R3)
+- MARK BOCEK def. DAVID BIELKHEDEN via Submission(R1)
+- KRZYSZTOF SOSZYNSKI def. BRIAN STANN via Submission(R1)
+- LUIZ CANE def. STEVE CANTWELL via Decision - Unanimous(R3)
+- ELIOT MARSHALL def. VINNY MAGALHAES via Decision - Unanimous(R3)
+- NATE QUARRY def. JASON MACDONALD via KO/TKO(R1)
+- DENIS KANG def. XAVIER FOUPA-POKAM via Decision - Unanimous(R3)

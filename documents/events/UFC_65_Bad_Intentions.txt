@@ -1,0 +1,16 @@
+Event : UFC 65: Bad Intentions
+    Date : November 18, 2006
+    Location: Sacramento, California, USA
+    Number of Fights: 9
+    Weight Classes: Welterweight, Lightweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - GEORGES ST-PIERRE def. MATT HUGHES via KO/TKO(R2)
+- TIM SYLVIA def. JEFF MONSON via Decision - Unanimous(R5)
+- DREW MCFEDRIES def. ALESSIO SAKARA via KO/TKO(R1)
+- BRANDON VERA def. FRANK MIR via KO/TKO(R1)
+- NICK DIAZ def. GLEISON TIBAU via KO/TKO(R2)
+- JAKE O'BRIEN def. JOSH SHOCKMAN via Decision - Unanimous(R3)
+- ANTONI HARDONK def. SHERMAN PENDERGARST via KO/TKO(R1)
+- JOE STEVENSON def. DOKONJONOSUKE MISHIMA via Submission(R1)
+- JAMES IRVIN def. HECTOR RAMIREZ via KO/TKO(R2)

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Benavidez vs. Figueiredo
+    Date: February 29, 2020
+    Location: Norfolk, Virginia, USA
+    Weight Class: Flyweight
+    
+
+    Result: DEIVESON FIGUEIREDO defeated JOSEPH BENAVIDEZ via KO/TKO  
+  at 1:54 of round 2
+  Key stats:
+  - DEIVESON FIGUEIREDO landed 25 significant strikes
+  - JOSEPH BENAVIDEZ landed 46 significant strikes
+  - Knockdowns: DEIVESON FIGUEIREDO 1,  JOSEPH BENAVIDEZ 0
+  - Takedowns: DEIVESON FIGUEIREDO 1,  JOSEPH BENAVIDEZ 0

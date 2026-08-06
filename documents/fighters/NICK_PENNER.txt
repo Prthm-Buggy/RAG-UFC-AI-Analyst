@@ -1,0 +1,11 @@
+Fighter: NICK PENNER
+  Date of Birth: 1980-03-26
+  Career record: 2
+  First fight: 2012-03-02
+  Last fight: 2012-12-14
+
+Career Statistics:
+- Significant Strikes Landed :12
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

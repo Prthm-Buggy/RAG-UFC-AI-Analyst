@@ -1,0 +1,13 @@
+Event: UFC 109: Relentless
+    Date: February 06, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JOEY BELTRAN defeated ROLLES GRACIE via KO/TKO  
+  at 1:31 of round 2
+  Key stats:
+  - JOEY BELTRAN landed 22 significant strikes
+  - ROLLES GRACIE landed 15 significant strikes
+  - Knockdowns: JOEY BELTRAN 0,  ROLLES GRACIE 0
+  - Takedowns: JOEY BELTRAN 0,  ROLLES GRACIE 1

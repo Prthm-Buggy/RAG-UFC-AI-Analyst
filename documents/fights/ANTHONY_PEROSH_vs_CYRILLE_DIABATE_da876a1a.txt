@@ -1,0 +1,13 @@
+Event: UFC 138: Leben vs Munoz
+    Date: November 05, 2011
+    Location: Birmingham, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY PEROSH defeated CYRILLE DIABATE via Submission  
+  at 3:09 of round 2
+  Key stats:
+  - ANTHONY PEROSH landed 17 significant strikes
+  - CYRILLE DIABATE landed 17 significant strikes
+  - Knockdowns: ANTHONY PEROSH 0,  CYRILLE DIABATE 0
+  - Takedowns: ANTHONY PEROSH 2,  CYRILLE DIABATE 0

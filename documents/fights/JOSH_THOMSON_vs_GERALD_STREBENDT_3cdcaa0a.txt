@@ -1,0 +1,13 @@
+Event: UFC 44: Undisputed
+    Date: September 26, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOSH THOMSON defeated GERALD STREBENDT via KO/TKO  
+  at 2:45 of round 1
+  Key stats:
+  - JOSH THOMSON landed 11 significant strikes
+  - GERALD STREBENDT landed 0 significant strikes
+  - Knockdowns: JOSH THOMSON 1,  GERALD STREBENDT 0
+  - Takedowns: JOSH THOMSON 1,  GERALD STREBENDT 0

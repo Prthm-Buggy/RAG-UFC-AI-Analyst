@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ortega vs. The Korean Zombie
+    Date: October 17, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: FARES ZIAM defeated JAMIE MULLARKEY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - FARES ZIAM landed 47 significant strikes
+  - JAMIE MULLARKEY landed 20 significant strikes
+  - Knockdowns: FARES ZIAM 0,  JAMIE MULLARKEY 0
+  - Takedowns: FARES ZIAM 1,  JAMIE MULLARKEY 5

@@ -1,0 +1,11 @@
+Fighter: RAY BORG
+  Date of Birth: 1993-08-04
+  Career record: 12
+  First fight: 2014-04-19
+  Last fight: 2020-05-13
+
+Career Statistics:
+- Significant Strikes Landed :263
+- Total takedowns landed :45
+- Knockdowns :0
+- Submission Attempts :12

@@ -1,0 +1,11 @@
+Fighter: BARTOSZ FABINSKI
+  Date of Birth: 1986-04-26
+  Career record: 6
+  First fight: 2015-04-11
+  Last fight: 2021-04-17
+
+Career Statistics:
+- Significant Strikes Landed :113
+- Total takedowns landed :24
+- Knockdowns :0
+- Submission Attempts :0

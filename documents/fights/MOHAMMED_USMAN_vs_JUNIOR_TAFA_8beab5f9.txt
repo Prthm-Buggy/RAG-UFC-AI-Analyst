@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Pavlovich vs. Blaydes
+    Date: April 22, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MOHAMMED USMAN defeated JUNIOR TAFA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MOHAMMED USMAN landed 7 significant strikes
+  - JUNIOR TAFA landed 22 significant strikes
+  - Knockdowns: MOHAMMED USMAN 0,  JUNIOR TAFA 0
+  - Takedowns: MOHAMMED USMAN 2,  JUNIOR TAFA 0

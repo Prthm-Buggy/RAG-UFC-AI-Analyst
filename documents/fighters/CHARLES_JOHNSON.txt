@@ -1,0 +1,11 @@
+Fighter: CHARLES JOHNSON
+  Date of Birth: 1991-01-10
+  Career record: 15
+  First fight: 2022-07-23
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :868
+- Total takedowns landed :6
+- Knockdowns :4
+- Submission Attempts :4

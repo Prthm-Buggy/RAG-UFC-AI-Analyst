@@ -1,0 +1,13 @@
+Event: UFC 160: Velasquez vs Silva 2
+    Date: May 25, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: GEORGE ROOP defeated BRIAN BOWLES via KO/TKO  
+  at 1:43 of round 2
+  Key stats:
+  - GEORGE ROOP landed 44 significant strikes
+  - BRIAN BOWLES landed 24 significant strikes
+  - Knockdowns: GEORGE ROOP 1,  BRIAN BOWLES 1
+  - Takedowns: GEORGE ROOP 0,  BRIAN BOWLES 0

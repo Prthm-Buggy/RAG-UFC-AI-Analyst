@@ -1,0 +1,14 @@
+Event: UFC 173: Barao vs Dillashaw
+    Date: May 24, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TJ DILLASHAW defeated RENAN BARAO via KO/TKO  
+  at 2:26 of round 5
+  Key stats:
+  - TJ DILLASHAW landed 140 significant strikes
+  - RENAN BARAO landed 64 significant strikes
+  - Knockdowns: TJ DILLASHAW 2,  RENAN BARAO 0
+  - Takedowns: TJ DILLASHAW 0,  RENAN BARAO 0
+  Bonus: belt

@@ -1,0 +1,11 @@
+Fighter: SABINA MAZO
+  Date of Birth: 1997-03-25
+  Career record: 7
+  First fight: 2019-03-30
+  Last fight: 2022-03-12
+
+Career Statistics:
+- Significant Strikes Landed :562
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :1

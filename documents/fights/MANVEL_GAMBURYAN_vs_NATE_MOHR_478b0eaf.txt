@@ -1,0 +1,13 @@
+Event: UFC 79: Nemesis
+    Date: December 29, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MANVEL GAMBURYAN defeated NATE MOHR via Submission  
+  at 1:31 of round 1
+  Key stats:
+  - MANVEL GAMBURYAN landed 3 significant strikes
+  - NATE MOHR landed 2 significant strikes
+  - Knockdowns: MANVEL GAMBURYAN 0,  NATE MOHR 0
+  - Takedowns: MANVEL GAMBURYAN 1,  NATE MOHR 0

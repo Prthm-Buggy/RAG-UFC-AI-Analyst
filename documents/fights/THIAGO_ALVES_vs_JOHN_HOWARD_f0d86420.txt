@@ -1,0 +1,13 @@
+Event: UFC 124: St-Pierre vs Koscheck 2
+    Date: December 11, 2010
+    Location: Montreal, Quebec, Canada
+    Weight Class: Welterweight
+    
+
+    Result: THIAGO ALVES defeated JOHN HOWARD via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - THIAGO ALVES landed 73 significant strikes
+  - JOHN HOWARD landed 37 significant strikes
+  - Knockdowns: THIAGO ALVES 1,  JOHN HOWARD 0
+  - Takedowns: THIAGO ALVES 2,  JOHN HOWARD 0

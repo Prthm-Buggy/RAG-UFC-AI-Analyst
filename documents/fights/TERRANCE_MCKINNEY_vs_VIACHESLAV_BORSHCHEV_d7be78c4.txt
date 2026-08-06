@@ -1,0 +1,13 @@
+Event: UFC 317: Topuria vs. Oliveira
+    Date: June 28, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TERRANCE MCKINNEY defeated VIACHESLAV BORSHCHEV via Submission  
+  at 0:55 of round 1
+  Key stats:
+  - TERRANCE MCKINNEY landed 1 significant strikes
+  - VIACHESLAV BORSHCHEV landed 2 significant strikes
+  - Knockdowns: TERRANCE MCKINNEY 0,  VIACHESLAV BORSHCHEV 0
+  - Takedowns: TERRANCE MCKINNEY 1,  VIACHESLAV BORSHCHEV 0

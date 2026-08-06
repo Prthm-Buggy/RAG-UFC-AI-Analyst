@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Volkov
+    Date: February 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DANILO MARQUES defeated MIKE RODRIGUEZ via Submission  
+  at 4:52 of round 2
+  Key stats:
+  - DANILO MARQUES landed 29 significant strikes
+  - MIKE RODRIGUEZ landed 16 significant strikes
+  - Knockdowns: DANILO MARQUES 0,  MIKE RODRIGUEZ 0
+  - Takedowns: DANILO MARQUES 4,  MIKE RODRIGUEZ 0

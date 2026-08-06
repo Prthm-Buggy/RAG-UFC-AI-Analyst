@@ -1,0 +1,13 @@
+Event: UFC 2: No Way Out
+    Date: March 11, 1994
+    Location: Denver, Colorado, USA
+    Weight Class: Open Weight
+    
+
+    Result: PATRICK SMITH defeated JOHNNY RHODES via Submission  
+  at 1:07 of round 1
+  Key stats:
+  - PATRICK SMITH landed 5 significant strikes
+  - JOHNNY RHODES landed 4 significant strikes
+  - Knockdowns: PATRICK SMITH 0,  JOHNNY RHODES 0
+  - Takedowns: PATRICK SMITH 0,  JOHNNY RHODES 0

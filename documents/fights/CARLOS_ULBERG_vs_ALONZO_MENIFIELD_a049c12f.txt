@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Nascimento
+    Date: May 11, 2024
+    Location: St. Louis, Missouri, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CARLOS ULBERG defeated ALONZO MENIFIELD via KO/TKO  
+  at 0:12 of round 1
+  Key stats:
+  - CARLOS ULBERG landed 7 significant strikes
+  - ALONZO MENIFIELD landed 1 significant strikes
+  - Knockdowns: CARLOS ULBERG 1,  ALONZO MENIFIELD 0
+  - Takedowns: CARLOS ULBERG 0,  ALONZO MENIFIELD 0
+  Bonus: perf

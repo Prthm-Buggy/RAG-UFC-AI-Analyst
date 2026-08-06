@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Oliveira vs. Gamrot
+    Date: October 11, 2025
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Women's Bantamweight
+    
+
+    Result: BIA MESQUITA defeated IRINA ALEKSEEVA via Submission  
+  at 2:14 of round 2
+  Key stats:
+  - BIA MESQUITA landed 36 significant strikes
+  - IRINA ALEKSEEVA landed 6 significant strikes
+  - Knockdowns: BIA MESQUITA 0,  IRINA ALEKSEEVA 0
+  - Takedowns: BIA MESQUITA 2,  IRINA ALEKSEEVA 0
+  Bonus: perf

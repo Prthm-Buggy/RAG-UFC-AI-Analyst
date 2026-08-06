@@ -1,0 +1,13 @@
+Event: UFC 308: Topuria vs. Holloway
+    Date: October 26, 2024
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: IBO ASLAN defeated RAFAEL CERQUEIRA via KO/TKO  
+  at 0:51 of round 1
+  Key stats:
+  - IBO ASLAN landed 28 significant strikes
+  - RAFAEL CERQUEIRA landed 1 significant strikes
+  - Knockdowns: IBO ASLAN 0,  RAFAEL CERQUEIRA 0
+  - Takedowns: IBO ASLAN 0,  RAFAEL CERQUEIRA 0

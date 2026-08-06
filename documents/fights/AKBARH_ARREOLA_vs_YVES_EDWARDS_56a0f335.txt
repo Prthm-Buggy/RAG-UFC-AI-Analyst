@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edgar vs Swanson
+    Date: November 22, 2014
+    Location: Austin, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: AKBARH ARREOLA defeated YVES EDWARDS via Submission  
+  at 1:52 of round 1
+  Key stats:
+  - AKBARH ARREOLA landed 12 significant strikes
+  - YVES EDWARDS landed 5 significant strikes
+  - Knockdowns: AKBARH ARREOLA 1,  YVES EDWARDS 0
+  - Takedowns: AKBARH ARREOLA 1,  YVES EDWARDS 0

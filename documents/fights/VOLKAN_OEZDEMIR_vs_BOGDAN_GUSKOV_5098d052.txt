@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gane vs. Spivac
+    Date: September 02, 2023
+    Location: Paris, Ile-de-France, France
+    Weight Class: Light Heavyweight
+    
+
+    Result: VOLKAN OEZDEMIR defeated BOGDAN GUSKOV via Submission  
+  at 3:46 of round 1
+  Key stats:
+  - VOLKAN OEZDEMIR landed 26 significant strikes
+  - BOGDAN GUSKOV landed 8 significant strikes
+  - Knockdowns: VOLKAN OEZDEMIR 1,  BOGDAN GUSKOV 0
+  - Takedowns: VOLKAN OEZDEMIR 1,  BOGDAN GUSKOV 0

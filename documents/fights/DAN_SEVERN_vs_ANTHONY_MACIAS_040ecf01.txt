@@ -1,0 +1,13 @@
+Event: UFC 4: Revenge of the Warriors
+    Date: December 16, 1994
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Open Weight
+    
+
+    Result: DAN SEVERN defeated ANTHONY MACIAS via Submission  
+  at 1:45 of round 1
+  Key stats:
+  - DAN SEVERN landed 0 significant strikes
+  - ANTHONY MACIAS landed 8 significant strikes
+  - Knockdowns: DAN SEVERN 0,  ANTHONY MACIAS 0
+  - Takedowns: DAN SEVERN 2,  ANTHONY MACIAS 0

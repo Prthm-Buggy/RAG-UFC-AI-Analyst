@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Heavyweights Finale
+    Date: December 05, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MATT MITRIONE defeated MARCUS JONES via KO/TKO  
+  at 0:10 of round 2
+  Key stats:
+  - MATT MITRIONE landed 14 significant strikes
+  - MARCUS JONES landed 10 significant strikes
+  - Knockdowns: MATT MITRIONE 1,  MARCUS JONES 0
+  - Takedowns: MATT MITRIONE 0,  MARCUS JONES 3

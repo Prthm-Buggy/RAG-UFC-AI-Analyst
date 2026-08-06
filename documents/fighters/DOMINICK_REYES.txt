@@ -1,0 +1,11 @@
+Fighter: DOMINICK REYES
+  Date of Birth: 1989-12-26
+  Career record: 15
+  First fight: 2017-06-25
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :588
+- Total takedowns landed :2
+- Knockdowns :7
+- Submission Attempts :2

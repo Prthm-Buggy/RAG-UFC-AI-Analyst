@@ -1,0 +1,11 @@
+Fighter: SAM HOGER
+  Date of Birth: 1980-06-28
+  Career record: 5
+  First fight: 2005-04-09
+  Last fight: 2007-02-03
+
+Career Statistics:
+- Significant Strikes Landed :72
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :6

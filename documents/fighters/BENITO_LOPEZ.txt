@@ -1,0 +1,11 @@
+Fighter: BENITO LOPEZ
+  Date of Birth: 1994-04-06
+  Career record: 4
+  First fight: 2017-12-09
+  Last fight: 2022-11-05
+
+Career Statistics:
+- Significant Strikes Landed :156
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :1

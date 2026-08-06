@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Thompson vs. Neal
+    Date: December 19, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ROB FONT defeated MARLON MORAES via KO/TKO  
+  at 3:47 of round 1
+  Key stats:
+  - ROB FONT landed 30 significant strikes
+  - MARLON MORAES landed 9 significant strikes
+  - Knockdowns: ROB FONT 1,  MARLON MORAES 0
+  - Takedowns: ROB FONT 0,  MARLON MORAES 2
+  Bonus: perf

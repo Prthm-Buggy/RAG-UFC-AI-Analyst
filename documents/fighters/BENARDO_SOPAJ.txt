@@ -1,0 +1,11 @@
+Fighter: BENARDO SOPAJ
+  Date of Birth: 2000-09-25
+  Career record: 3
+  First fight: 2024-03-02
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :163
+- Total takedowns landed :6
+- Knockdowns :2
+- Submission Attempts :0

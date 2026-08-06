@@ -1,0 +1,11 @@
+Fighter: NIKOLAS MOTTA
+  Date of Birth: 1993-02-08
+  Career record: 6
+  First fight: 2022-02-19
+  Last fight: 2025-06-21
+
+Career Statistics:
+- Significant Strikes Landed :217
+- Total takedowns landed :0
+- Knockdowns :5
+- Submission Attempts :0

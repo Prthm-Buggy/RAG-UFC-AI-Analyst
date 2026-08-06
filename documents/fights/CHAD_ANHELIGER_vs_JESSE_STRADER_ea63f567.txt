@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Walker vs. Hill
+    Date: February 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CHAD ANHELIGER defeated JESSE STRADER via KO/TKO  
+  at 3:33 of round 3
+  Key stats:
+  - CHAD ANHELIGER landed 67 significant strikes
+  - JESSE STRADER landed 64 significant strikes
+  - Knockdowns: CHAD ANHELIGER 2,  JESSE STRADER 0
+  - Takedowns: CHAD ANHELIGER 0,  JESSE STRADER 4

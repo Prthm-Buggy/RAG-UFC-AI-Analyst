@@ -1,0 +1,11 @@
+Fighter: JAI HERBERT
+  Date of Birth: 1988-05-13
+  Career record: 9
+  First fight: 2020-07-25
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :298
+- Total takedowns landed :2
+- Knockdowns :6
+- Submission Attempts :0

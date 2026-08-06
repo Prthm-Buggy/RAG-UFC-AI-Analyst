@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lauzon vs Stephens
+    Date: February 07, 2009
+    Location: Tampa, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CAIN VELASQUEZ defeated DENIS STOJNIC via KO/TKO  
+  at 2:34 of round 2
+  Key stats:
+  - CAIN VELASQUEZ landed 88 significant strikes
+  - DENIS STOJNIC landed 7 significant strikes
+  - Knockdowns: CAIN VELASQUEZ 0,  DENIS STOJNIC 0
+  - Takedowns: CAIN VELASQUEZ 1,  DENIS STOJNIC 0
+  Bonus: ko

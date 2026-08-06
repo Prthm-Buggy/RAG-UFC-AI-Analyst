@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Ortega vs. The Korean Zombie
+    Date : October 17, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Bantamweight, Featherweight, Welterweight, Light Heavyweight, Lightweight, Middleweight
+
+    Fight Results:
+  - GILLIAN ROBERTSON def. POLIANA BOTELHO via Decision - Unanimous(R3)
+- MAXIM GRISHIN def. GADZHIMURAD ANTIGULOV via KO/TKO(R2)
+- GURAM KUTATELADZE def. MATEUSZ GAMROT via Decision - Split(R3)
+- FARES ZIAM def. JAMIE MULLARKEY via Decision - Unanimous(R3)
+- JONATHAN MARTINEZ def. THOMAS ALMEIDA via Decision - Unanimous(R3)
+- JESSICA ANDRADE def. KATLYN CERMINARA via KO/TKO(R1)
+- JAMES KRAUSE def. CLAUDIO SILVA via Decision - Unanimous(R3)
+- JUNYONG PARK def. JOHN PHILLIPS via Decision - Unanimous(R3)
+- JIMMY CRUTE def. MODESTAS BUKAUSKAS via KO/TKO(R1)
+- BRIAN ORTEGA def. CHAN SUNG JUNG via Decision - Unanimous(R5)
+- SAID NURMAGOMEDOV def. MARK STRIEGL via KO/TKO(R1)

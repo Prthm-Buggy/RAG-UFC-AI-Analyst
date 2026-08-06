@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Rivera vs. Moraes
+    Date : June 01, 2018
+    Location: Utica, New York, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Welterweight, Flyweight, Featherweight, Light Heavyweight, Heavyweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - JOSE TORRES def. JARRED BROOKS via KO/TKO(R2)
+- GREGOR GILLESPIE def. VINC PICHEL via Submission(R2)
+- WALT HARRIS def. DANIEL SPITZ via KO/TKO(R2)
+- SIJARA EUBANKS def. LAUREN MURPHY via Decision - Unanimous(R3)
+- NATHANIEL WOOD def. JOHNNY EDUARDO via Submission(R2)
+- MARLON MORAES def. JIMMIE RIVERA via KO/TKO(R1)
+- JULIO ARCE def. DANIEL TEYMUR via Submission(R3)
+- DESMOND GREEN def. GLEISON TIBAU via Decision - Unanimous(R3)
+- DAVID TEYMUR def. NIK LENTZ via Decision - Unanimous(R3)
+- SAM ALVEY def. GIAN VILLANTE via Decision - Split(R3)
+- BEN SAUNDERS def. JAKE ELLENBERGER via KO/TKO(R1)
+- BELAL MUHAMMAD def. CHANCE RENCOUNTRE via Decision - Unanimous(R3)

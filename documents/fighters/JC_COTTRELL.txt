@@ -1,0 +1,11 @@
+Fighter: JC COTTRELL
+  Date of Birth: 1989-11-04
+  Career record: 2
+  First fight: 2016-07-23
+  Last fight: 2017-01-28
+
+Career Statistics:
+- Significant Strikes Landed :15
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

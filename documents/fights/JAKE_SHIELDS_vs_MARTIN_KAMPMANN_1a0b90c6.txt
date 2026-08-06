@@ -1,0 +1,13 @@
+Event: UFC 121: Lesnar vs Velasquez
+    Date: October 23, 2010
+    Location: Anaheim, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: JAKE SHIELDS defeated MARTIN KAMPMANN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JAKE SHIELDS landed 25 significant strikes
+  - MARTIN KAMPMANN landed 35 significant strikes
+  - Knockdowns: JAKE SHIELDS 0,  MARTIN KAMPMANN 0
+  - Takedowns: JAKE SHIELDS 4,  MARTIN KAMPMANN 0

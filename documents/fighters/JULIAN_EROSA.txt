@@ -1,0 +1,11 @@
+Fighter: JULIAN EROSA
+  Date of Birth: 1989-07-31
+  Career record: 18
+  First fight: 2015-12-11
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :855
+- Total takedowns landed :17
+- Knockdowns :1
+- Submission Attempts :7

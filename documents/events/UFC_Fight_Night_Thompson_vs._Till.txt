@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Thompson vs. Till
+    Date : May 27, 2018
+    Location: Liverpool, England, United Kingdom
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Middleweight, Welterweight, Featherweight, Women's Bantamweight
+
+    Fight Results:
+  - CARLO PEDERSOLI JR. def. BRAD SCOTT via Decision - Split(R3)
+- MAKWAN AMIRKHANI def. JASON KNIGHT via Decision - Split(R3)
+- ARNOLD ALLEN def. MADS BURNELL via Submission(R3)
+- DARREN STEWART def. ERIC SPICELY via KO/TKO(R2)
+- GILLIAN ROBERTSON def. MOLLY MCCANN via Submission(R2)
+- TOM BREESE def. DANIEL KELLY via KO/TKO(R1)
+- LINA LANSBERG def. GINA MAZANY via Decision - Unanimous(R3)
+- CLAUDIO SILVA def. NORDINE TALEB via Submission(R1)
+- ELIAS THEODOROU def. TREVOR SMITH via Decision - Unanimous(R3)
+- DARREN TILL def. STEPHEN THOMPSON via Decision - Unanimous(R5)
+- NEIL MAGNY def. CRAIG WHITE via KO/TKO(R1)

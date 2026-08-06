@@ -1,0 +1,11 @@
+Fighter: DENYS BONDAR
+  Date of Birth: 1992-06-27
+  Career record: 3
+  First fight: 2022-02-05
+  Last fight: 2024-02-24
+
+Career Statistics:
+- Significant Strikes Landed :121
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :0

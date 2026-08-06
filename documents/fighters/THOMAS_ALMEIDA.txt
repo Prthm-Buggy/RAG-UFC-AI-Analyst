@@ -1,0 +1,11 @@
+Fighter: THOMAS ALMEIDA
+  Date of Birth: 1991-07-31
+  Career record: 10
+  First fight: 2014-11-08
+  Last fight: 2021-03-27
+
+Career Statistics:
+- Significant Strikes Landed :435
+- Total takedowns landed :1
+- Knockdowns :3
+- Submission Attempts :0

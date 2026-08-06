@@ -1,0 +1,13 @@
+Event: UFC 98: Evans vs Machida
+    Date: May 23, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: KYLE BRADLEY defeated PHILLIPE NOVER via KO/TKO  
+  at 1:03 of round 1
+  Key stats:
+  - KYLE BRADLEY landed 7 significant strikes
+  - PHILLIPE NOVER landed 3 significant strikes
+  - Knockdowns: KYLE BRADLEY 0,  PHILLIPE NOVER 0
+  - Takedowns: KYLE BRADLEY 1,  PHILLIPE NOVER 0

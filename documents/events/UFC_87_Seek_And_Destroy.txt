@@ -1,0 +1,17 @@
+Event : UFC 87: Seek And Destroy
+    Date : August 09, 2008
+    Location: Minneapolis, Minnesota, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Lightweight, Welterweight, Middleweight, Light Heavyweight
+
+    Fight Results:
+  - GEORGES ST-PIERRE def. JON FITCH via Decision - Unanimous(R5)
+- TAMDAN MCCRORY def. LUKE CUMMO via Decision - Unanimous(R3)
+- KENNY FLORIAN def. ROGER HUERTA via Decision - Unanimous(R3)
+- DEMIAN MAIA def. JASON MACDONALD via Submission(R3)
+- BROCK LESNAR def. HEATH HERRING via Decision - Unanimous(R3)
+- CHRIS WILSON def. STEVE BRUNO via Decision - Unanimous(R3)
+- ROB EMERSON def. MANVEL GAMBURYAN via KO/TKO(R1)
+- CHEICK KONGO def. DAN EVENSEN via KO/TKO(R1)
+- JON JONES def. ANDRE GUSMAO via Decision - Unanimous(R3)
+- BEN SAUNDERS def. RYAN THOMAS via Submission(R2)

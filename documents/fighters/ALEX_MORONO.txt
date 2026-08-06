@@ -1,0 +1,11 @@
+Fighter: ALEX MORONO
+  Date of Birth: 1990-08-16
+  Career record: 23
+  First fight: 2016-01-02
+  Last fight: 2026-02-07
+
+Career Statistics:
+- Significant Strikes Landed :1351
+- Total takedowns landed :6
+- Knockdowns :4
+- Submission Attempts :6

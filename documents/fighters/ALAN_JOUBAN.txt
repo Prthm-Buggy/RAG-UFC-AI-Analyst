@@ -1,0 +1,11 @@
+Fighter: ALAN JOUBAN
+  Date of Birth: 1981-11-25
+  Career record: 13
+  First fight: 2014-08-16
+  Last fight: 2020-11-21
+
+Career Statistics:
+- Significant Strikes Landed :663
+- Total takedowns landed :4
+- Knockdowns :9
+- Submission Attempts :2

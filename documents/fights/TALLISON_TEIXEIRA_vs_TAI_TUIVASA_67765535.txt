@@ -1,0 +1,13 @@
+Event: UFC 325: Volkanovski vs. Lopes 2
+    Date: January 31, 2026
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: TALLISON TEIXEIRA defeated TAI TUIVASA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TALLISON TEIXEIRA landed 51 significant strikes
+  - TAI TUIVASA landed 42 significant strikes
+  - Knockdowns: TALLISON TEIXEIRA 0,  TAI TUIVASA 0
+  - Takedowns: TALLISON TEIXEIRA 3,  TAI TUIVASA 0

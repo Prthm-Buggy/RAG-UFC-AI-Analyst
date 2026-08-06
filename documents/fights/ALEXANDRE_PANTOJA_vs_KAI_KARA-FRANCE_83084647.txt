@@ -1,0 +1,14 @@
+Event: UFC 317: Topuria vs. Oliveira
+    Date: June 28, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: ALEXANDRE PANTOJA defeated KAI KARA-FRANCE via Submission  
+  at 1:55 of round 3
+  Key stats:
+  - ALEXANDRE PANTOJA landed 42 significant strikes
+  - KAI KARA-FRANCE landed 38 significant strikes
+  - Knockdowns: ALEXANDRE PANTOJA 0,  KAI KARA-FRANCE 0
+  - Takedowns: ALEXANDRE PANTOJA 3,  KAI KARA-FRANCE 0
+  Bonus: belt

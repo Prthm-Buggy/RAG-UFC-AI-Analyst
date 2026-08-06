@@ -1,0 +1,13 @@
+Event: UFC 69: Shootout
+    Date: April 07, 2007
+    Location: Houston, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: LUKE CUMMO defeated JOSH HAYNES via KO/TKO  
+  at 2:45 of round 2
+  Key stats:
+  - LUKE CUMMO landed 38 significant strikes
+  - JOSH HAYNES landed 9 significant strikes
+  - Knockdowns: LUKE CUMMO 1,  JOSH HAYNES 0
+  - Takedowns: LUKE CUMMO 0,  JOSH HAYNES 1

@@ -1,0 +1,11 @@
+Fighter: CARLOS HUACHIN
+  Date of Birth: 1996-06-04
+  Career record: 2
+  First fight: 2019-05-11
+  Last fight: 2019-09-21
+
+Career Statistics:
+- Significant Strikes Landed :52
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swanson vs. Lobov
+    Date: April 22, 2017
+    Location: Nashville, Tennessee, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: ALEXIS DAVIS defeated CINDY DANDOIS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALEXIS DAVIS landed 51 significant strikes
+  - CINDY DANDOIS landed 47 significant strikes
+  - Knockdowns: ALEXIS DAVIS 0,  CINDY DANDOIS 0
+  - Takedowns: ALEXIS DAVIS 0,  CINDY DANDOIS 5

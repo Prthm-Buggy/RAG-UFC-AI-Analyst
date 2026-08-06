@@ -1,0 +1,13 @@
+Event: UFC 285: Jones vs. Gane
+    Date: March 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARC-ANDRE BARRIAULT defeated JULIAN MARQUEZ via KO/TKO  
+  at 4:12 of round 2
+  Key stats:
+  - MARC-ANDRE BARRIAULT landed 109 significant strikes
+  - JULIAN MARQUEZ landed 82 significant strikes
+  - Knockdowns: MARC-ANDRE BARRIAULT 0,  JULIAN MARQUEZ 0
+  - Takedowns: MARC-ANDRE BARRIAULT 0,  JULIAN MARQUEZ 0

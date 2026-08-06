@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Spivac
+    Date: February 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: TATSURO TAIRA defeated JESUS AGUILAR via Submission  
+  at 4:20 of round 1
+  Key stats:
+  - TATSURO TAIRA landed 1 significant strikes
+  - JESUS AGUILAR landed 2 significant strikes
+  - Knockdowns: TATSURO TAIRA 0,  JESUS AGUILAR 0
+  - Takedowns: TATSURO TAIRA 1,  JESUS AGUILAR 0
+  Bonus: perf

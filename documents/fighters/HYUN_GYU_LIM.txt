@@ -1,0 +1,11 @@
+Fighter: HYUN GYU LIM
+  Date of Birth: 1985-01-16
+  Career record: 7
+  First fight: 2013-03-02
+  Last fight: 2017-09-22
+
+Career Statistics:
+- Significant Strikes Landed :286
+- Total takedowns landed :1
+- Knockdowns :4
+- Submission Attempts :1

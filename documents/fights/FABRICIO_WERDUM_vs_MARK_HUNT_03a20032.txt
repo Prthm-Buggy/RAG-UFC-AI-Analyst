@@ -1,0 +1,14 @@
+Event: UFC 180: Werdum vs Hunt
+    Date: November 15, 2014
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Heavyweight
+    
+
+    Result: FABRICIO WERDUM defeated MARK HUNT via KO/TKO  
+  at 2:27 of round 2
+  Key stats:
+  - FABRICIO WERDUM landed 21 significant strikes
+  - MARK HUNT landed 10 significant strikes
+  - Knockdowns: FABRICIO WERDUM 1,  MARK HUNT 1
+  - Takedowns: FABRICIO WERDUM 0,  MARK HUNT 1
+  Bonus: belt

@@ -1,0 +1,11 @@
+Fighter: Ethyn Ewing
+  Date of Birth: 1996-02-19
+  Career record: 2
+  First fight: 2025-11-15
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :199
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

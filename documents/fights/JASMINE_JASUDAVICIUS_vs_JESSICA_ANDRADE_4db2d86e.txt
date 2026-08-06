@@ -1,0 +1,14 @@
+Event: UFC 315: Muhammad vs. Della Maddalena
+    Date: May 10, 2025
+    Location: Montreal, Quebec, Canada
+    Weight Class: Women's Flyweight
+    
+
+    Result: JASMINE JASUDAVICIUS defeated JESSICA ANDRADE via Submission  
+  at 2:40 of round 1
+  Key stats:
+  - JASMINE JASUDAVICIUS landed 11 significant strikes
+  - JESSICA ANDRADE landed 4 significant strikes
+  - Knockdowns: JASMINE JASUDAVICIUS 0,  JESSICA ANDRADE 0
+  - Takedowns: JASMINE JASUDAVICIUS 1,  JESSICA ANDRADE 0
+  Bonus: perf

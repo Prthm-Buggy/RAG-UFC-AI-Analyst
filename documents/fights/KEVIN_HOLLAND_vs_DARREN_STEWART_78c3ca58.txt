@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Covington vs. Woodley
+    Date: September 19, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: KEVIN HOLLAND defeated DARREN STEWART via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - KEVIN HOLLAND landed 74 significant strikes
+  - DARREN STEWART landed 57 significant strikes
+  - Knockdowns: KEVIN HOLLAND 0,  DARREN STEWART 0
+  - Takedowns: KEVIN HOLLAND 0,  DARREN STEWART 3

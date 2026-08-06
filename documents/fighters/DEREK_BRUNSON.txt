@@ -1,0 +1,11 @@
+Fighter: DEREK BRUNSON
+  Date of Birth: 1984-01-04
+  Career record: 21
+  First fight: 2012-12-29
+  Last fight: 2023-03-04
+
+Career Statistics:
+- Significant Strikes Landed :648
+- Total takedowns landed :36
+- Knockdowns :6
+- Submission Attempts :7

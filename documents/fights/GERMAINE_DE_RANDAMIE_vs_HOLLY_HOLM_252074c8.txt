@@ -1,0 +1,14 @@
+Event: UFC 208: Holm vs. De Randamie
+    Date: February 11, 2017
+    Location: Brooklyn, New York, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: GERMAINE DE RANDAMIE defeated HOLLY HOLM via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - GERMAINE DE RANDAMIE landed 80 significant strikes
+  - HOLLY HOLM landed 77 significant strikes
+  - Knockdowns: GERMAINE DE RANDAMIE 0,  HOLLY HOLM 0
+  - Takedowns: GERMAINE DE RANDAMIE 0,  HOLLY HOLM 0
+  Bonus: belt

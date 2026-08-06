@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nelson vs. Ponzinibbio
+    Date: July 16, 2017
+    Location: Glasgow, Scotland, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: KHALIL ROUNTREE JR. defeated PAUL CRAIG via KO/TKO  
+  at 4:56 of round 1
+  Key stats:
+  - KHALIL ROUNTREE JR. landed 15 significant strikes
+  - PAUL CRAIG landed 17 significant strikes
+  - Knockdowns: KHALIL ROUNTREE JR. 1,  PAUL CRAIG 0
+  - Takedowns: KHALIL ROUNTREE JR. 0,  PAUL CRAIG 0

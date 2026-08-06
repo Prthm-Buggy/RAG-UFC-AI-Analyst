@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. Till
+    Date: July 25, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Welterweight
+    
+
+    Result: KHAMZAT CHIMAEV defeated RHYS MCKEE via KO/TKO  
+  at 3:09 of round 1
+  Key stats:
+  - KHAMZAT CHIMAEV landed 40 significant strikes
+  - RHYS MCKEE landed 0 significant strikes
+  - Knockdowns: KHAMZAT CHIMAEV 0,  RHYS MCKEE 0
+  - Takedowns: KHAMZAT CHIMAEV 1,  RHYS MCKEE 0
+  Bonus: perf

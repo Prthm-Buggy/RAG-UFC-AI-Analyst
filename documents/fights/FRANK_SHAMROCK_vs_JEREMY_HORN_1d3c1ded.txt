@@ -1,0 +1,14 @@
+Event: UFC 17: Redemption
+    Date: May 15, 1998
+    Location: Mobile, Alabama, USA
+    Weight Class: Middleweight
+    
+
+    Result: FRANK SHAMROCK defeated JEREMY HORN via Submission  
+  at 1:28 of round 2
+  Key stats:
+  - FRANK SHAMROCK landed 20 significant strikes
+  - JEREMY HORN landed 14 significant strikes
+  - Knockdowns: FRANK SHAMROCK 0,  JEREMY HORN 0
+  - Takedowns: FRANK SHAMROCK 0,  JEREMY HORN 5
+  Bonus: belt

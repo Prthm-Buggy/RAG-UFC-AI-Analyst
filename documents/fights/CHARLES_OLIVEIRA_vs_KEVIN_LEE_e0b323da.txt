@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lee vs. Oliveira
+    Date: March 14, 2020
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated KEVIN LEE via Submission  
+  at 0:28 of round 3
+  Key stats:
+  - CHARLES OLIVEIRA landed 43 significant strikes
+  - KEVIN LEE landed 41 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  KEVIN LEE 0
+  - Takedowns: CHARLES OLIVEIRA 0,  KEVIN LEE 2
+  Bonus: perf

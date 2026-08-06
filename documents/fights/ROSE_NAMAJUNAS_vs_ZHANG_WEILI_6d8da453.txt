@@ -1,0 +1,14 @@
+Event: UFC 261: Usman vs. Masvidal 2
+    Date: April 24, 2021
+    Location: Jacksonville, Florida, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ROSE NAMAJUNAS defeated ZHANG WEILI via KO/TKO  
+  at 1:18 of round 1
+  Key stats:
+  - ROSE NAMAJUNAS landed 5 significant strikes
+  - ZHANG WEILI landed 7 significant strikes
+  - Knockdowns: ROSE NAMAJUNAS 1,  ZHANG WEILI 0
+  - Takedowns: ROSE NAMAJUNAS 0,  ZHANG WEILI 0
+  Bonus: belt

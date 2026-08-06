@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs. Ponzinibbio
+    Date: November 17, 2018
+    Location: Buenos Aires, Buenos Aires, Argentina
+    Weight Class: Women's Strawweight
+    
+
+    Result: CYNTHIA CALVILLO defeated POLIANA BOTELHO via Submission  
+  at 4:48 of round 1
+  Key stats:
+  - CYNTHIA CALVILLO landed 22 significant strikes
+  - POLIANA BOTELHO landed 6 significant strikes
+  - Knockdowns: CYNTHIA CALVILLO 0,  POLIANA BOTELHO 0
+  - Takedowns: CYNTHIA CALVILLO 2,  POLIANA BOTELHO 0

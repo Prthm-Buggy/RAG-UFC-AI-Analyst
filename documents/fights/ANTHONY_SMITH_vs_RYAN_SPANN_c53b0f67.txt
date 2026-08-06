@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. The Korean Zombie
+    Date: August 26, 2023
+    Location: Kallang, Singapore
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY SMITH defeated RYAN SPANN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ANTHONY SMITH landed 91 significant strikes
+  - RYAN SPANN landed 59 significant strikes
+  - Knockdowns: ANTHONY SMITH 0,  RYAN SPANN 0
+  - Takedowns: ANTHONY SMITH 1,  RYAN SPANN 0

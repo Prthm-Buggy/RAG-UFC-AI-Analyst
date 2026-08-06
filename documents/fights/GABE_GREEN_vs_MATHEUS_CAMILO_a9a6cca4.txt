@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Burns vs. Morales
+    Date: May 17, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: GABE GREEN defeated MATHEUS CAMILO via Submission  
+  at 3:43 of round 2
+  Key stats:
+  - GABE GREEN landed 12 significant strikes
+  - MATHEUS CAMILO landed 13 significant strikes
+  - Knockdowns: GABE GREEN 0,  MATHEUS CAMILO 0
+  - Takedowns: GABE GREEN 0,  MATHEUS CAMILO 2

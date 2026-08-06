@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Lee
+    Date: April 21, 2018
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: DAN HOOKER defeated JIM MILLER via KO/TKO  
+  at 3:00 of round 1
+  Key stats:
+  - DAN HOOKER landed 24 significant strikes
+  - JIM MILLER landed 10 significant strikes
+  - Knockdowns: DAN HOOKER 1,  JIM MILLER 0
+  - Takedowns: DAN HOOKER 0,  JIM MILLER 1

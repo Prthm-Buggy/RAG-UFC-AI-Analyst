@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Hunt vs Bigfoot
+    Date : December 06, 2013
+    Location: Brisbane, Queensland, Australia
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Bantamweight, Light Heavyweight, Middleweight, Women's Bantamweight, Welterweight, Flyweight
+
+    Fight Results:
+  - TAKEYA MIZUGAKI def. NAM PHAN via Decision - Unanimous(R3)
+- ALEX GARCIA def. BEN WALL via KO/TKO(R1)
+- KRZYSZTOF JOTKO def. BRUNO SANTOS via Decision - Unanimous(R3)
+- RYAN BADER def. ANTHONY PEROSH via Decision - Unanimous(R3)
+- CLINT HESTER def. DYLAN ANDREWS via TKO - Doctor's Stoppage(R2)
+- BETHE CORREIA def. JULIE KEDZIE via Decision - Split(R3)
+- JUSTIN SCOGGINS def. RICHIE VACULIK via KO/TKO(R1)
+- MAURICIO RUA def. JAMES TE HUNA via KO/TKO(R1)
+- CAIO MAGALHAES def. NICK RING via Decision - Unanimous(R3)
+- SOA PALELEI def. PAT BARRY via KO/TKO(R1)

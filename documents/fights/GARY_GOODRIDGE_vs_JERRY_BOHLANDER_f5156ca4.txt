@@ -1,0 +1,13 @@
+Event: UFC 8: David vs Goliath
+    Date: February 16, 1996
+    Location: San Juan, Puerto Rico
+    Weight Class: Open Weight
+    
+
+    Result: GARY GOODRIDGE defeated JERRY BOHLANDER via KO/TKO  
+  at 5:31 of round 1
+  Key stats:
+  - GARY GOODRIDGE landed 3 significant strikes
+  - JERRY BOHLANDER landed 1 significant strikes
+  - Knockdowns: GARY GOODRIDGE 0,  JERRY BOHLANDER 0
+  - Takedowns: GARY GOODRIDGE 1,  JERRY BOHLANDER 0

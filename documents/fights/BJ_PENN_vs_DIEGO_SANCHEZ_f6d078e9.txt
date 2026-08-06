@@ -1,0 +1,14 @@
+Event: UFC 107: Penn vs Sanchez
+    Date: December 12, 2009
+    Location: Memphis, Tennessee, USA
+    Weight Class: Lightweight
+    
+
+    Result: BJ PENN defeated DIEGO SANCHEZ via TKO - Doctor's Stoppage  
+  at 2:37 of round 5
+  Key stats:
+  - BJ PENN landed 70 significant strikes
+  - DIEGO SANCHEZ landed 8 significant strikes
+  - Knockdowns: BJ PENN 0,  DIEGO SANCHEZ 0
+  - Takedowns: BJ PENN 0,  DIEGO SANCHEZ 0
+  Bonus: belt

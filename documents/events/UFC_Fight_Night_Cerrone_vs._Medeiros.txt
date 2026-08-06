@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Cerrone vs. Medeiros
+    Date : February 18, 2018
+    Location: Austin, Texas, USA
+    Number of Fights: 12
+    Weight Classes: Middleweight, Lightweight, Welterweight, Flyweight, Featherweight, Women's Bantamweight, Heavyweight
+
+    Fight Results:
+  - DIEGO FERREIRA def. JARED GORDON via KO/TKO(R1)
+- ALEX MORONO def. JOSHUA BURKMAN via Submission(R1)
+- DERRICK LEWIS def. MARCIN TYBURA via KO/TKO(R3)
+- LUCIE PUDILOVA def. SARAH MORAS via Decision - Unanimous(R3)
+- ROBERT SANCHEZ def. JOBY SANCHEZ via Submission(R1)
+- SAGE NORTHCUTT def. THIBAULT GOUTI via Decision - Unanimous(R3)
+- DONALD CERRONE def. YANCY MEDEIROS via KO/TKO(R1)
+- BRANDON DAVIS def. STEVEN PETERSON via Decision - Unanimous(R3)
+- CURTIS MILLENDER def. THIAGO ALVES via KO/TKO(R2)
+- JAMES VICK def. FRANCISCO TRINALDO via Decision - Unanimous(R3)
+- GEOFF NEAL def. BRIAN CAMOZZI via Submission(R1)
+- OSKAR PIECHOTA def. TIM WILLIAMS via KO/TKO(R1)

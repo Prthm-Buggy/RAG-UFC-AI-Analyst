@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barboza vs. Chikadze
+    Date: August 28, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GERALD MEERSCHAERT defeated MAKHMUD MURADOV via Submission  
+  at 1:49 of round 2
+  Key stats:
+  - GERALD MEERSCHAERT landed 32 significant strikes
+  - MAKHMUD MURADOV landed 40 significant strikes
+  - Knockdowns: GERALD MEERSCHAERT 0,  MAKHMUD MURADOV 0
+  - Takedowns: GERALD MEERSCHAERT 3,  MAKHMUD MURADOV 0
+  Bonus: perf

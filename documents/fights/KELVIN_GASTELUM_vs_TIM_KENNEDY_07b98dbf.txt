@@ -1,0 +1,13 @@
+Event: UFC 206: Holloway vs. Pettis
+    Date: December 10, 2016
+    Location: Toronto, Ontario, Canada
+    Weight Class: Middleweight
+    
+
+    Result: KELVIN GASTELUM defeated TIM KENNEDY via KO/TKO  
+  at 2:45 of round 3
+  Key stats:
+  - KELVIN GASTELUM landed 62 significant strikes
+  - TIM KENNEDY landed 45 significant strikes
+  - Knockdowns: KELVIN GASTELUM 1,  TIM KENNEDY 0
+  - Takedowns: KELVIN GASTELUM 0,  TIM KENNEDY 3

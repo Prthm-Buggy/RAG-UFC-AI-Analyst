@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Garcia vs. Onama
+    Date: November 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: YADIER DEL VALLE defeated ISAAC DULGARIAN via Submission  
+  at 3:41 of round 1
+  Key stats:
+  - YADIER DEL VALLE landed 1 significant strikes
+  - ISAAC DULGARIAN landed 0 significant strikes
+  - Knockdowns: YADIER DEL VALLE 0,  ISAAC DULGARIAN 0
+  - Takedowns: YADIER DEL VALLE 0,  ISAAC DULGARIAN 0

@@ -1,0 +1,13 @@
+Event: UFC 196: McGregor vs Diaz
+    Date: March 05, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SIYAR BAHADURZADA defeated BRANDON THATCH via Submission  
+  at 4:11 of round 3
+  Key stats:
+  - SIYAR BAHADURZADA landed 84 significant strikes
+  - BRANDON THATCH landed 30 significant strikes
+  - Knockdowns: SIYAR BAHADURZADA 0,  BRANDON THATCH 0
+  - Takedowns: SIYAR BAHADURZADA 3,  BRANDON THATCH 1

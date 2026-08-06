@@ -1,0 +1,11 @@
+Fighter: JAKUB WIKLACZ
+  Date of Birth: 1996-09-10
+  Career record: 2
+  First fight: 2025-10-04
+  Last fight: 2026-02-07
+
+Career Statistics:
+- Significant Strikes Landed :102
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :5

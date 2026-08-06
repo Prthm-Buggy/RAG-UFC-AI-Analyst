@@ -1,0 +1,14 @@
+Event: UFC 280: Oliveira vs. Makhachev
+    Date: October 22, 2022
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Bantamweight
+    
+
+    Result: ALJAMAIN STERLING defeated TJ DILLASHAW via KO/TKO  
+  at 3:44 of round 2
+  Key stats:
+  - ALJAMAIN STERLING landed 72 significant strikes
+  - TJ DILLASHAW landed 8 significant strikes
+  - Knockdowns: ALJAMAIN STERLING 0,  TJ DILLASHAW 0
+  - Takedowns: ALJAMAIN STERLING 5,  TJ DILLASHAW 0
+  Bonus: belt

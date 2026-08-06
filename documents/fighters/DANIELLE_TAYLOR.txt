@@ -1,0 +1,11 @@
+Fighter: DANIELLE TAYLOR
+  Date of Birth: 1989-10-25
+  Career record: 5
+  First fight: 2016-08-06
+  Last fight: 2018-08-04
+
+Career Statistics:
+- Significant Strikes Landed :206
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

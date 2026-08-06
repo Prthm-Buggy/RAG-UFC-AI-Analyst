@@ -1,0 +1,13 @@
+Event: UFC 197: Jones vs Saint Preux
+    Date: April 23, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MARCOS ROGERIO DE LIMA defeated CLINT HESTER via Submission  
+  at 4:35 of round 1
+  Key stats:
+  - MARCOS ROGERIO DE LIMA landed 29 significant strikes
+  - CLINT HESTER landed 0 significant strikes
+  - Knockdowns: MARCOS ROGERIO DE LIMA 1,  CLINT HESTER 0
+  - Takedowns: MARCOS ROGERIO DE LIMA 0,  CLINT HESTER 0

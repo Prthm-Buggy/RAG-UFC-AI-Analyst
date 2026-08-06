@@ -1,0 +1,13 @@
+Event: UFC 314: Volkanovski vs. Lopes
+    Date: April 12, 2025
+    Location: Miami, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: MICHAL OLEKSIEJCZUK defeated SEDRIQUES DUMAS via KO/TKO  
+  at 2:49 of round 1
+  Key stats:
+  - MICHAL OLEKSIEJCZUK landed 34 significant strikes
+  - SEDRIQUES DUMAS landed 3 significant strikes
+  - Knockdowns: MICHAL OLEKSIEJCZUK 1,  SEDRIQUES DUMAS 0
+  - Takedowns: MICHAL OLEKSIEJCZUK 0,  SEDRIQUES DUMAS 0

@@ -1,0 +1,13 @@
+Event: UFC 49: Unfinished Business
+    Date: August 21, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUSTIN EILERS defeated MIKE KYLE via KO/TKO  
+  at 1:14 of round 1
+  Key stats:
+  - JUSTIN EILERS landed 4 significant strikes
+  - MIKE KYLE landed 7 significant strikes
+  - Knockdowns: JUSTIN EILERS 1,  MIKE KYLE 0
+  - Takedowns: JUSTIN EILERS 0,  MIKE KYLE 0

@@ -1,0 +1,13 @@
+Event: UFC 179: Aldo vs Mendes 2
+    Date: October 25, 2014
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: ANTHONY ROCCO MARTIN defeated FABRICIO CAMOES via Submission  
+  at 4:16 of round 1
+  Key stats:
+  - ANTHONY ROCCO MARTIN landed 1 significant strikes
+  - FABRICIO CAMOES landed 1 significant strikes
+  - Knockdowns: ANTHONY ROCCO MARTIN 0,  FABRICIO CAMOES 0
+  - Takedowns: ANTHONY ROCCO MARTIN 1,  FABRICIO CAMOES 0

@@ -1,0 +1,11 @@
+Fighter: IMPA KASANGANAY
+  Date of Birth: 1994-01-17
+  Career record: 4
+  First fight: 2020-08-29
+  Last fight: 2021-09-18
+
+Career Statistics:
+- Significant Strikes Landed :132
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

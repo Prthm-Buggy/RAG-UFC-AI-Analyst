@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edwards vs. Brady
+    Date: March 22, 2025
+    Location: London, England, United Kingdom
+    Weight Class: Women's Strawweight
+    
+
+    Result: SHAUNA BANNON defeated PUJA TOMAR via Submission  
+  at 3:22 of round 2
+  Key stats:
+  - SHAUNA BANNON landed 52 significant strikes
+  - PUJA TOMAR landed 36 significant strikes
+  - Knockdowns: SHAUNA BANNON 0,  PUJA TOMAR 1
+  - Takedowns: SHAUNA BANNON 0,  PUJA TOMAR 0
+  Bonus: perf

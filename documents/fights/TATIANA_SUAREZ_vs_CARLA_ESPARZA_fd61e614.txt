@@ -1,0 +1,13 @@
+Event: UFC 228: Woodley vs. Till
+    Date: September 08, 2018
+    Location: Dallas, Texas, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: TATIANA SUAREZ defeated CARLA ESPARZA via KO/TKO  
+  at 4:33 of round 3
+  Key stats:
+  - TATIANA SUAREZ landed 82 significant strikes
+  - CARLA ESPARZA landed 6 significant strikes
+  - Knockdowns: TATIANA SUAREZ 0,  CARLA ESPARZA 0
+  - Takedowns: TATIANA SUAREZ 9,  CARLA ESPARZA 0

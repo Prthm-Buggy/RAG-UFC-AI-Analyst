@@ -1,0 +1,11 @@
+Fighter: DEAN LISTER
+  Date of Birth: 1976-02-13
+  Career record: 6
+  First fight: 2006-05-27
+  Last fight: 2008-12-27
+
+Career Statistics:
+- Significant Strikes Landed :86
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :5

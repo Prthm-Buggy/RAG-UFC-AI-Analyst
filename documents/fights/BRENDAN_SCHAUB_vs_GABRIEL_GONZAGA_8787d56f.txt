@@ -1,0 +1,13 @@
+Event: UFC 121: Lesnar vs Velasquez
+    Date: October 23, 2010
+    Location: Anaheim, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BRENDAN SCHAUB defeated GABRIEL GONZAGA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BRENDAN SCHAUB landed 53 significant strikes
+  - GABRIEL GONZAGA landed 37 significant strikes
+  - Knockdowns: BRENDAN SCHAUB 1,  GABRIEL GONZAGA 0
+  - Takedowns: BRENDAN SCHAUB 0,  GABRIEL GONZAGA 0

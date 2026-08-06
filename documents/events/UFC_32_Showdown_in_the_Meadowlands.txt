@@ -1,0 +1,15 @@
+Event : UFC 32: Showdown in the Meadowlands
+    Date : June 29, 2001
+    Location: East Rutherford, New Jersey, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Light Heavyweight, Lightweight, Welterweight
+
+    Fight Results:
+  - JOSH BARNETT def. SEMMY SCHILT via Submission(R1)
+- BJ PENN def. DIN THOMAS via KO/TKO(R1)
+- VLADIMIR MATYUSHENKO def. YUKI KONDO via Decision - Unanimous(R3)
+- CAOL UNO def. FABIANO IHA via KO/TKO(R1)
+- TITO ORTIZ def. ELVIS SINOSIC via KO/TKO(R1)
+- PAT MILETICH def. SHONIE CARTER via KO/TKO(R2)
+- RICCO RODRIGUEZ def. ANDREI ARLOVSKI via KO/TKO(R3)
+- TONY DESOUZA def. PAUL RODRIGUEZ via Submission(R1)

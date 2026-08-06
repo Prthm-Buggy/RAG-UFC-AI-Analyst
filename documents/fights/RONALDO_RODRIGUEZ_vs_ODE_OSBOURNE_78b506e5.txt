@@ -1,0 +1,13 @@
+Event: UFC 306: Riyadh Season Noche UFC
+    Date: September 14, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: RONALDO RODRIGUEZ defeated ODE OSBOURNE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RONALDO RODRIGUEZ landed 35 significant strikes
+  - ODE OSBOURNE landed 37 significant strikes
+  - Knockdowns: RONALDO RODRIGUEZ 0,  ODE OSBOURNE 1
+  - Takedowns: RONALDO RODRIGUEZ 1,  ODE OSBOURNE 1

@@ -1,0 +1,13 @@
+Event: UFC 317: Topuria vs. Oliveira
+    Date: June 28, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: PAYTON TALBOTT defeated FELIPE LIMA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PAYTON TALBOTT landed 59 significant strikes
+  - FELIPE LIMA landed 26 significant strikes
+  - Knockdowns: PAYTON TALBOTT 0,  FELIPE LIMA 0
+  - Takedowns: PAYTON TALBOTT 0,  FELIPE LIMA 3

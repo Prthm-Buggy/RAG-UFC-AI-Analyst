@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Maia vs LaFlare
+    Date: March 21, 2015
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: GILBERT BURNS defeated ALEX OLIVEIRA via Submission  
+  at 4:14 of round 3
+  Key stats:
+  - GILBERT BURNS landed 17 significant strikes
+  - ALEX OLIVEIRA landed 29 significant strikes
+  - Knockdowns: GILBERT BURNS 0,  ALEX OLIVEIRA 0
+  - Takedowns: GILBERT BURNS 2,  ALEX OLIVEIRA 0
+  Bonus: perf

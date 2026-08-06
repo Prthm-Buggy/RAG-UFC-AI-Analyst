@@ -1,0 +1,13 @@
+Event: UFC 321: Aspinall vs. Gane
+    Date: October 25, 2025
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Featherweight
+    
+
+    Result: NATHANIEL WOOD defeated JOSE DELGADO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NATHANIEL WOOD landed 99 significant strikes
+  - JOSE DELGADO landed 134 significant strikes
+  - Knockdowns: NATHANIEL WOOD 1,  JOSE DELGADO 1
+  - Takedowns: NATHANIEL WOOD 2,  JOSE DELGADO 0

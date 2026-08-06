@@ -1,0 +1,11 @@
+Fighter: COLBY THICKNESSE
+  Date of Birth: 1999-06-23
+  Career record: 3
+  First fight: 2025-02-08
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :146
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

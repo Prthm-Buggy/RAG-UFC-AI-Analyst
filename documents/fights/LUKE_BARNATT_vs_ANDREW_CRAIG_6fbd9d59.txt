@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs Munoz
+    Date: October 26, 2013
+    Location: Manchester, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: LUKE BARNATT defeated ANDREW CRAIG via Submission  
+  at 2:12 of round 2
+  Key stats:
+  - LUKE BARNATT landed 39 significant strikes
+  - ANDREW CRAIG landed 26 significant strikes
+  - Knockdowns: LUKE BARNATT 2,  ANDREW CRAIG 0
+  - Takedowns: LUKE BARNATT 1,  ANDREW CRAIG 0
+  Bonus: fight

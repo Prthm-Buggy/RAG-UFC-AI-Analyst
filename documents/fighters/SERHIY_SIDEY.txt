@@ -1,0 +1,11 @@
+Fighter: SERHIY SIDEY
+  Date of Birth: 1996-07-04
+  Career record: 3
+  First fight: 2024-01-20
+  Last fight: 2025-05-03
+
+Career Statistics:
+- Significant Strikes Landed :202
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :4

@@ -1,0 +1,13 @@
+Event: UFC 241: Cormier vs. Miocic 2
+    Date: August 17, 2019
+    Location: Anaheim, California, USA
+    Weight Class: Catch Weight
+    
+
+    Result: CASEY KENNEY defeated MANNY BERMUDEZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CASEY KENNEY landed 43 significant strikes
+  - MANNY BERMUDEZ landed 37 significant strikes
+  - Knockdowns: CASEY KENNEY 0,  MANNY BERMUDEZ 0
+  - Takedowns: CASEY KENNEY 2,  MANNY BERMUDEZ 3

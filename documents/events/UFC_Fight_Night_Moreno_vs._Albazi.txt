@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Moreno vs. Albazi
+    Date : November 02, 2024
+    Location: Edmonton, Alberta, Canada
+    Number of Fights: 13
+    Weight Classes: Middleweight, Light Heavyweight, Featherweight, Flyweight, Welterweight, Heavyweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - YOUSSEF ZALAL def. JACK SHORE via Submission(R2)
+- BRANDON MORENO def. AMIR ALBAZI via Decision - Unanimous(R5)
+- CHARLES JOURDAIN def. VICTOR HENRY via Submission(R2)
+- JAMEY-LYN HORTH def. IVANA PETROVIC via Decision - Split(R3)
+- BRENDSON RIBEIRO def. CAIO MACHADO via Decision - Split(R3)
+- JASMINE JASUDAVICIUS def. ARIANE DA SILVA via Submission(R3)
+- ALEXANDR ROMANOV def. RODRIGO NASCIMENTO via Decision - Unanimous(R3)
+- CODY GIBSON def. CHAD ANHELIGER via Decision - Unanimous(R3)
+- AIEMANN ZAHABI def. PEDRO MUNHOZ via Decision - Unanimous(R3)
+- ERIN BLANCHFIELD def. ROSE NAMAJUNAS via Decision - Unanimous(R5)
+- MIKE MALOTT def. TREVIN GILES via Decision - Unanimous(R3)
+- DUSTIN STOLTZFUS def. MARC-ANDRE BARRIAULT via KO/TKO(R1)
+- SERHIY SIDEY def. GARRETT ARMFIELD via Decision - Split(R3)

@@ -1,0 +1,13 @@
+Event: UFC 99: The Comeback
+    Date: June 13, 2009
+    Location: Cologne, North Rhine-Westphalia, Germany
+    Weight Class: Heavyweight
+    
+
+    Result: MIRKO FILIPOVIC defeated MOSTAPHA AL-TURK via KO/TKO  
+  at 3:06 of round 1
+  Key stats:
+  - MIRKO FILIPOVIC landed 16 significant strikes
+  - MOSTAPHA AL-TURK landed 7 significant strikes
+  - Knockdowns: MIRKO FILIPOVIC 1,  MOSTAPHA AL-TURK 0
+  - Takedowns: MIRKO FILIPOVIC 1,  MOSTAPHA AL-TURK 0

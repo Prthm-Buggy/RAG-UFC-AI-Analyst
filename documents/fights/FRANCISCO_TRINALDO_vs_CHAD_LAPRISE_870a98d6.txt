@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs Oliveira
+    Date: August 23, 2015
+    Location: Saskatoon, Saskatchewan, Canada
+    Weight Class: Lightweight
+    
+
+    Result: FRANCISCO TRINALDO defeated CHAD LAPRISE via KO/TKO  
+  at 2:43 of round 1
+  Key stats:
+  - FRANCISCO TRINALDO landed 17 significant strikes
+  - CHAD LAPRISE landed 8 significant strikes
+  - Knockdowns: FRANCISCO TRINALDO 1,  CHAD LAPRISE 0
+  - Takedowns: FRANCISCO TRINALDO 0,  CHAD LAPRISE 0

@@ -1,0 +1,11 @@
+Fighter: KAI KAMAKA III
+  Date of Birth: 1995-01-05
+  Career record: 4
+  First fight: 2020-08-15
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :327
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :1

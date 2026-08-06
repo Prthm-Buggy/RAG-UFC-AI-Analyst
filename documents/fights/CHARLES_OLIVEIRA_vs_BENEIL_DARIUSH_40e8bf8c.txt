@@ -1,0 +1,14 @@
+Event: UFC 289: Nunes vs. Aldana
+    Date: June 10, 2023
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated BENEIL DARIUSH via KO/TKO  
+  at 4:10 of round 1
+  Key stats:
+  - CHARLES OLIVEIRA landed 26 significant strikes
+  - BENEIL DARIUSH landed 12 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 1,  BENEIL DARIUSH 0
+  - Takedowns: CHARLES OLIVEIRA 0,  BENEIL DARIUSH 0
+  Bonus: perf

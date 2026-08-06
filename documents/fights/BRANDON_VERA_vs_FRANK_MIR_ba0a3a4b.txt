@@ -1,0 +1,13 @@
+Event: UFC 65: Bad Intentions
+    Date: November 18, 2006
+    Location: Sacramento, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BRANDON VERA defeated FRANK MIR via KO/TKO  
+  at 1:09 of round 1
+  Key stats:
+  - BRANDON VERA landed 15 significant strikes
+  - FRANK MIR landed 2 significant strikes
+  - Knockdowns: BRANDON VERA 0,  FRANK MIR 0
+  - Takedowns: BRANDON VERA 0,  FRANK MIR 0

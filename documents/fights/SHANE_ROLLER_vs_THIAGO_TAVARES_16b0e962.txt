@@ -1,0 +1,14 @@
+Event: UFC Live: Sanchez vs Kampmann
+    Date: March 03, 2011
+    Location: Louisville, Kentucky, USA
+    Weight Class: Lightweight
+    
+
+    Result: SHANE ROLLER defeated THIAGO TAVARES via KO/TKO  
+  at 1:28 of round 2
+  Key stats:
+  - SHANE ROLLER landed 26 significant strikes
+  - THIAGO TAVARES landed 22 significant strikes
+  - Knockdowns: SHANE ROLLER 1,  THIAGO TAVARES 0
+  - Takedowns: SHANE ROLLER 0,  THIAGO TAVARES 1
+  Bonus: ko

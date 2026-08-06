@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vieira vs. Tate
+    Date: November 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: KETLEN VIEIRA defeated MIESHA TATE via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - KETLEN VIEIRA landed 113 significant strikes
+  - MIESHA TATE landed 122 significant strikes
+  - Knockdowns: KETLEN VIEIRA 0,  MIESHA TATE 0
+  - Takedowns: KETLEN VIEIRA 0,  MIESHA TATE 1

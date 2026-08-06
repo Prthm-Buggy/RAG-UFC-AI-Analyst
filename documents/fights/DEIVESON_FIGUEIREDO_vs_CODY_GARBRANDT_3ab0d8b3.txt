@@ -1,0 +1,13 @@
+Event: UFC 300: Pereira vs. Hill
+    Date: April 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: DEIVESON FIGUEIREDO defeated CODY GARBRANDT via Submission  
+  at 4:02 of round 2
+  Key stats:
+  - DEIVESON FIGUEIREDO landed 13 significant strikes
+  - CODY GARBRANDT landed 16 significant strikes
+  - Knockdowns: DEIVESON FIGUEIREDO 0,  CODY GARBRANDT 0
+  - Takedowns: DEIVESON FIGUEIREDO 1,  CODY GARBRANDT 0

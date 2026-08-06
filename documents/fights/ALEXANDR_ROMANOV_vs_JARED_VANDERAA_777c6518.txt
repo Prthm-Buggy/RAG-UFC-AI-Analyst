@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Rodriguez
+    Date: October 09, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEXANDR ROMANOV defeated JARED VANDERAA via KO/TKO  
+  at 4:43 of round 2
+  Key stats:
+  - ALEXANDR ROMANOV landed 56 significant strikes
+  - JARED VANDERAA landed 13 significant strikes
+  - Knockdowns: ALEXANDR ROMANOV 0,  JARED VANDERAA 0
+  - Takedowns: ALEXANDR ROMANOV 5,  JARED VANDERAA 0

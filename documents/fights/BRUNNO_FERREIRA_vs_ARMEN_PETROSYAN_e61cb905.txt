@@ -1,0 +1,13 @@
+Event: UFC 313: Pereira vs. Ankalaev
+    Date: March 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRUNNO FERREIRA defeated ARMEN PETROSYAN via Submission  
+  at 4:27 of round 2
+  Key stats:
+  - BRUNNO FERREIRA landed 27 significant strikes
+  - ARMEN PETROSYAN landed 46 significant strikes
+  - Knockdowns: BRUNNO FERREIRA 0,  ARMEN PETROSYAN 0
+  - Takedowns: BRUNNO FERREIRA 2,  ARMEN PETROSYAN 0

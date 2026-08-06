@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Condit vs Kampmann 2
+    Date: August 28, 2013
+    Location: Indianapolis, Indiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: ZAK CUMMINGS defeated BEN ALLOWAY via Submission  
+  at 4:19 of round 1
+  Key stats:
+  - ZAK CUMMINGS landed 5 significant strikes
+  - BEN ALLOWAY landed 6 significant strikes
+  - Knockdowns: ZAK CUMMINGS 0,  BEN ALLOWAY 0
+  - Takedowns: ZAK CUMMINGS 2,  BEN ALLOWAY 0
+  Bonus: sub

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Hill
+    Date: August 06, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SERGHEI SPIVAC defeated AUGUSTO SAKAI via KO/TKO  
+  at 3:42 of round 2
+  Key stats:
+  - SERGHEI SPIVAC landed 33 significant strikes
+  - AUGUSTO SAKAI landed 8 significant strikes
+  - Knockdowns: SERGHEI SPIVAC 0,  AUGUSTO SAKAI 0
+  - Takedowns: SERGHEI SPIVAC 6,  AUGUSTO SAKAI 0

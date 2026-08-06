@@ -1,0 +1,11 @@
+Fighter: CJ KEITH
+  Date of Birth: 1986-08-09
+  Career record: 2
+  First fight: 2012-06-22
+  Last fight: 2013-01-19
+
+Career Statistics:
+- Significant Strikes Landed :8
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

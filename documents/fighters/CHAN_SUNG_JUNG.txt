@@ -1,0 +1,11 @@
+Fighter: CHAN SUNG JUNG
+  Date of Birth: 1987-03-17
+  Career record: 12
+  First fight: 2011-03-26
+  Last fight: 2023-08-26
+
+Career Statistics:
+- Significant Strikes Landed :568
+- Total takedowns landed :8
+- Knockdowns :4
+- Submission Attempts :7

@@ -1,0 +1,11 @@
+Fighter: WESTIN WILSON
+  Date of Birth: 1989-01-24
+  Career record: 4
+  First fight: 2023-07-01
+  Last fight: 2025-08-23
+
+Career Statistics:
+- Significant Strikes Landed :15
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :5

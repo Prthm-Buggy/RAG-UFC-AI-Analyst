@@ -1,0 +1,14 @@
+Event: UFC 70: Nations Collide
+    Date: April 21, 2007
+    Location: Manchester, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: GABRIEL GONZAGA defeated MIRKO FILIPOVIC via KO/TKO  
+  at 4:51 of round 1
+  Key stats:
+  - GABRIEL GONZAGA landed 19 significant strikes
+  - MIRKO FILIPOVIC landed 1 significant strikes
+  - Knockdowns: GABRIEL GONZAGA 1,  MIRKO FILIPOVIC 0
+  - Takedowns: GABRIEL GONZAGA 1,  MIRKO FILIPOVIC 0
+  Bonus: ko

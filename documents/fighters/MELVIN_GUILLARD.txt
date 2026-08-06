@@ -1,0 +1,11 @@
+Fighter: MELVIN GUILLARD
+  Date of Birth: 1983-03-30
+  Career record: 21
+  First fight: 2005-11-05
+  Last fight: 2014-03-08
+
+Career Statistics:
+- Significant Strikes Landed :439
+- Total takedowns landed :14
+- Knockdowns :13
+- Submission Attempts :2

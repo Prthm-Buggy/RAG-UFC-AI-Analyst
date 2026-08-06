@@ -1,0 +1,13 @@
+Event: UFC 316: Dvalishvili vs. O'Malley 2
+    Date: June 07, 2025
+    Location: Newark, New Jersey, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOSHUA VAN defeated BRUNO SILVA via KO/TKO  
+  at 4:01 of round 3
+  Key stats:
+  - JOSHUA VAN landed 125 significant strikes
+  - BRUNO SILVA landed 76 significant strikes
+  - Knockdowns: JOSHUA VAN 3,  BRUNO SILVA 0
+  - Takedowns: JOSHUA VAN 0,  BRUNO SILVA 1

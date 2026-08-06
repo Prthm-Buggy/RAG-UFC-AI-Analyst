@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Royval 2
+    Date: February 24, 2024
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Flyweight
+    
+
+    Result: JESUS AGUILAR defeated MATEUS MENDONCA via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JESUS AGUILAR landed 19 significant strikes
+  - MATEUS MENDONCA landed 18 significant strikes
+  - Knockdowns: JESUS AGUILAR 0,  MATEUS MENDONCA 0
+  - Takedowns: JESUS AGUILAR 1,  MATEUS MENDONCA 4

@@ -1,0 +1,11 @@
+Fighter: DONGHUN CHOI
+  Date of Birth: 1999-01-02
+  Career record: 1
+  First fight: 2024-11-23
+  Last fight: 2024-11-23
+
+Career Statistics:
+- Significant Strikes Landed :12
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC on FOX: Machida vs Rockhold
+    Date: April 18, 2015
+    Location: Newark, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: JACARE SOUZA defeated CHRIS CAMOZZI via Submission  
+  at 2:33 of round 1
+  Key stats:
+  - JACARE SOUZA landed 6 significant strikes
+  - CHRIS CAMOZZI landed 7 significant strikes
+  - Knockdowns: JACARE SOUZA 0,  CHRIS CAMOZZI 0
+  - Takedowns: JACARE SOUZA 1,  CHRIS CAMOZZI 0

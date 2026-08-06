@@ -1,0 +1,13 @@
+Event: UFC 4: Revenge of the Warriors
+    Date: December 16, 1994
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Open Weight
+    
+
+    Result: GUY MEZGER defeated JASON FAIRN via KO/TKO  
+  at 2:13 of round 1
+  Key stats:
+  - GUY MEZGER landed 19 significant strikes
+  - JASON FAIRN landed 9 significant strikes
+  - Knockdowns: GUY MEZGER 0,  JASON FAIRN 1
+  - Takedowns: GUY MEZGER 1,  JASON FAIRN 0

@@ -1,0 +1,11 @@
+Fighter: VICTOR ALTAMIRANO
+  Date of Birth: 1991-01-23
+  Career record: 6
+  First fight: 2022-02-26
+  Last fight: 2024-09-28
+
+Career Statistics:
+- Significant Strikes Landed :329
+- Total takedowns landed :14
+- Knockdowns :1
+- Submission Attempts :0

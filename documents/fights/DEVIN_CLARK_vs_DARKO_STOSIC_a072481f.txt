@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gustafsson vs. Smith
+    Date: June 01, 2019
+    Location: Stockholm, Sweden
+    Weight Class: Light Heavyweight
+    
+
+    Result: DEVIN CLARK defeated DARKO STOSIC via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DEVIN CLARK landed 40 significant strikes
+  - DARKO STOSIC landed 26 significant strikes
+  - Knockdowns: DEVIN CLARK 0,  DARKO STOSIC 0
+  - Takedowns: DEVIN CLARK 2,  DARKO STOSIC 1

@@ -1,0 +1,11 @@
+Fighter: KIRU SAHOTA
+  Date of Birth: 1995-05-28
+  Career record: 1
+  First fight: 2024-11-23
+  Last fight: 2024-11-23
+
+Career Statistics:
+- Significant Strikes Landed :2
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

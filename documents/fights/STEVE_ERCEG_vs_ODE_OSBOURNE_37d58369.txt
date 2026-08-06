@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dolidze vs. Hernandez
+    Date: August 09, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: STEVE ERCEG defeated ODE OSBOURNE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - STEVE ERCEG landed 20 significant strikes
+  - ODE OSBOURNE landed 35 significant strikes
+  - Knockdowns: STEVE ERCEG 0,  ODE OSBOURNE 0
+  - Takedowns: STEVE ERCEG 3,  ODE OSBOURNE 1

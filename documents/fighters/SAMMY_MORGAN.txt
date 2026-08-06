@@ -1,0 +1,11 @@
+Fighter: SAMMY MORGAN
+  Date of Birth: 1981-09-28
+  Career record: 2
+  First fight: 2005-11-05
+  Last fight: 2006-08-17
+
+Career Statistics:
+- Significant Strikes Landed :9
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

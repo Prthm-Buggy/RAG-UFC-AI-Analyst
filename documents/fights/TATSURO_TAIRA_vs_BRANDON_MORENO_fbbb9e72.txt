@@ -1,0 +1,13 @@
+Event: UFC 323: Dvalishvili vs. Yan 2
+    Date: December 06, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: TATSURO TAIRA defeated BRANDON MORENO via KO/TKO  
+  at 2:24 of round 2
+  Key stats:
+  - TATSURO TAIRA landed 28 significant strikes
+  - BRANDON MORENO landed 9 significant strikes
+  - Knockdowns: TATSURO TAIRA 0,  BRANDON MORENO 0
+  - Takedowns: TATSURO TAIRA 1,  BRANDON MORENO 0

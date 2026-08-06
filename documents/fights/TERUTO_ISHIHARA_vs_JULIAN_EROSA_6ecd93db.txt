@@ -1,0 +1,13 @@
+Event: UFC 196: McGregor vs Diaz
+    Date: March 05, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: TERUTO ISHIHARA defeated JULIAN EROSA via KO/TKO  
+  at 0:34 of round 2
+  Key stats:
+  - TERUTO ISHIHARA landed 27 significant strikes
+  - JULIAN EROSA landed 16 significant strikes
+  - Knockdowns: TERUTO ISHIHARA 1,  JULIAN EROSA 0
+  - Takedowns: TERUTO ISHIHARA 0,  JULIAN EROSA 1

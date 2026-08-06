@@ -1,0 +1,13 @@
+Event: UFC 253: Adesanya vs. Costa
+    Date: September 26, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: BRAD RIDDELL defeated ALEX DA SILVA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BRAD RIDDELL landed 67 significant strikes
+  - ALEX DA SILVA landed 54 significant strikes
+  - Knockdowns: BRAD RIDDELL 0,  ALEX DA SILVA 0
+  - Takedowns: BRAD RIDDELL 1,  ALEX DA SILVA 3

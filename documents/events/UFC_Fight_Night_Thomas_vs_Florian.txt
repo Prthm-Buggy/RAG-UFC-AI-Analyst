@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Thomas vs Florian
+    Date : September 19, 2007
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Middleweight, Welterweight
+
+    Fight Results:
+  - CHRIS LEBEN def. TERRY MARTIN via KO/TKO(R3)
+- THIAGO ALVES def. KUNIYOSHI HIRONAKA via KO/TKO(R2)
+- NATE DIAZ def. JUNIOR ASSUNCAO via Submission(R1)
+- KENNY FLORIAN def. DIN THOMAS via Submission(R1)
+- DUSTIN HAZELETT def. JONATHAN GOULET via Submission(R1)
+- COLE MILLER def. LEONARD GARCIA via Decision - Unanimous(R3)
+- NATE QUARRY def. PETE SELL via KO/TKO(R3)
+- GRAY MAYNARD def. JOE VERES via KO/TKO(R1)
+- LUKE CUMMO def. EDILBERTO DE OLIVEIRA via KO/TKO(R1)

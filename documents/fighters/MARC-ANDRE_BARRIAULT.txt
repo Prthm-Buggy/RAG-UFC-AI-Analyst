@@ -1,0 +1,11 @@
+Fighter: MARC-ANDRE BARRIAULT
+  Date of Birth: 1990-02-18
+  Career record: 16
+  First fight: 2019-05-04
+  Last fight: 2026-02-07
+
+Career Statistics:
+- Significant Strikes Landed :921
+- Total takedowns landed :3
+- Knockdowns :3
+- Submission Attempts :1

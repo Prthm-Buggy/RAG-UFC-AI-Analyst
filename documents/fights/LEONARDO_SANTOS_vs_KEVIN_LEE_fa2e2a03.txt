@@ -1,0 +1,14 @@
+Event: UFC 194: Aldo vs McGregor
+    Date: December 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: LEONARDO SANTOS defeated KEVIN LEE via KO/TKO  
+  at 3:26 of round 1
+  Key stats:
+  - LEONARDO SANTOS landed 32 significant strikes
+  - KEVIN LEE landed 10 significant strikes
+  - Knockdowns: LEONARDO SANTOS 1,  KEVIN LEE 0
+  - Takedowns: LEONARDO SANTOS 1,  KEVIN LEE 0
+  Bonus: perf

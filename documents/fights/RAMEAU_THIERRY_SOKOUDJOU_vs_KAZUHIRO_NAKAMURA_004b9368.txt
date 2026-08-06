@@ -1,0 +1,13 @@
+Event: UFC 84: Ill Will
+    Date: May 24, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RAMEAU THIERRY SOKOUDJOU defeated KAZUHIRO NAKAMURA via KO/TKO  
+  at 5:00 of round 1
+  Key stats:
+  - RAMEAU THIERRY SOKOUDJOU landed 26 significant strikes
+  - KAZUHIRO NAKAMURA landed 6 significant strikes
+  - Knockdowns: RAMEAU THIERRY SOKOUDJOU 1,  KAZUHIRO NAKAMURA 0
+  - Takedowns: RAMEAU THIERRY SOKOUDJOU 0,  KAZUHIRO NAKAMURA 0

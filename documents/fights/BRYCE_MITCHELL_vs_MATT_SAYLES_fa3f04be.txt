@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs. Rozenstruik
+    Date: December 07, 2019
+    Location: Washington, DC, USA
+    Weight Class: Featherweight
+    
+
+    Result: BRYCE MITCHELL defeated MATT SAYLES via Submission  
+  at 4:20 of round 1
+  Key stats:
+  - BRYCE MITCHELL landed 6 significant strikes
+  - MATT SAYLES landed 2 significant strikes
+  - Knockdowns: BRYCE MITCHELL 0,  MATT SAYLES 0
+  - Takedowns: BRYCE MITCHELL 1,  MATT SAYLES 0
+  Bonus: perf

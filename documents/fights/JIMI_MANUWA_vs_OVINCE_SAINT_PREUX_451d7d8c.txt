@@ -1,0 +1,14 @@
+Event: UFC 204: Bisping vs. Henderson
+    Date: October 08, 2016
+    Location: Manchester, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIMI MANUWA defeated OVINCE SAINT PREUX via KO/TKO  
+  at 2:38 of round 2
+  Key stats:
+  - JIMI MANUWA landed 32 significant strikes
+  - OVINCE SAINT PREUX landed 13 significant strikes
+  - Knockdowns: JIMI MANUWA 1,  OVINCE SAINT PREUX 0
+  - Takedowns: JIMI MANUWA 0,  OVINCE SAINT PREUX 2
+  Bonus: perf

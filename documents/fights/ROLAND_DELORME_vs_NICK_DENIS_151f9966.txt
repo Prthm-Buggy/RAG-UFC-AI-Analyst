@@ -1,0 +1,13 @@
+Event: UFC on FOX: Diaz vs Miller
+    Date: May 05, 2012
+    Location: East Rutherford, New Jersey, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ROLAND DELORME defeated NICK DENIS via Submission  
+  at 4:59 of round 1
+  Key stats:
+  - ROLAND DELORME landed 26 significant strikes
+  - NICK DENIS landed 24 significant strikes
+  - Knockdowns: ROLAND DELORME 0,  NICK DENIS 0
+  - Takedowns: ROLAND DELORME 1,  NICK DENIS 1

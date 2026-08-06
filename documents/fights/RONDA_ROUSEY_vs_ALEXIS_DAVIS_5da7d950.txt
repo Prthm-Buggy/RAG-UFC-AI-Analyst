@@ -1,0 +1,14 @@
+Event: UFC 175: Weidman vs Machida
+    Date: July 05, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: RONDA ROUSEY defeated ALEXIS DAVIS via KO/TKO  
+  at 0:16 of round 1
+  Key stats:
+  - RONDA ROUSEY landed 14 significant strikes
+  - ALEXIS DAVIS landed 2 significant strikes
+  - Knockdowns: RONDA ROUSEY 0,  ALEXIS DAVIS 0
+  - Takedowns: RONDA ROUSEY 1,  ALEXIS DAVIS 0
+  Bonus: belt

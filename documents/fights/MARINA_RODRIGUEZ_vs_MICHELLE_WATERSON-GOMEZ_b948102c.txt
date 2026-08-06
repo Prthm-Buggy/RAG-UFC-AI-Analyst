@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Waterson
+    Date: May 08, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MARINA RODRIGUEZ defeated MICHELLE WATERSON-GOMEZ via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MARINA RODRIGUEZ landed 125 significant strikes
+  - MICHELLE WATERSON-GOMEZ landed 88 significant strikes
+  - Knockdowns: MARINA RODRIGUEZ 0,  MICHELLE WATERSON-GOMEZ 0
+  - Takedowns: MARINA RODRIGUEZ 0,  MICHELLE WATERSON-GOMEZ 1

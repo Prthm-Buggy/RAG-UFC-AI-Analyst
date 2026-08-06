@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Santos vs. Ivanov
+    Date: July 14, 2018
+    Location: Boise, Idaho, USA
+    Weight Class: Welterweight
+    
+
+    Result: SAGE NORTHCUTT defeated ZAK OTTOW via KO/TKO  
+  at 3:13 of round 2
+  Key stats:
+  - SAGE NORTHCUTT landed 24 significant strikes
+  - ZAK OTTOW landed 6 significant strikes
+  - Knockdowns: SAGE NORTHCUTT 1,  ZAK OTTOW 1
+  - Takedowns: SAGE NORTHCUTT 1,  ZAK OTTOW 1

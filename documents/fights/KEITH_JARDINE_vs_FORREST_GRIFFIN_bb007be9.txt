@@ -1,0 +1,14 @@
+Event: UFC 66: Liddell vs Ortiz 2
+    Date: December 30, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KEITH JARDINE defeated FORREST GRIFFIN via KO/TKO  
+  at 4:41 of round 1
+  Key stats:
+  - KEITH JARDINE landed 36 significant strikes
+  - FORREST GRIFFIN landed 17 significant strikes
+  - Knockdowns: KEITH JARDINE 0,  FORREST GRIFFIN 0
+  - Takedowns: KEITH JARDINE 0,  FORREST GRIFFIN 0
+  Bonus: ko

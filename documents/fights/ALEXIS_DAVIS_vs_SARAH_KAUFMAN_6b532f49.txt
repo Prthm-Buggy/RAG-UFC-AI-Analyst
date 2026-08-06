@@ -1,0 +1,13 @@
+Event: UFC 186: Johnson vs Horiguchi
+    Date: April 25, 2015
+    Location: Montreal, Quebec, Canada
+    Weight Class: Women's Bantamweight
+    
+
+    Result: ALEXIS DAVIS defeated SARAH KAUFMAN via Submission  
+  at 3:07 of round 2
+  Key stats:
+  - ALEXIS DAVIS landed 34 significant strikes
+  - SARAH KAUFMAN landed 65 significant strikes
+  - Knockdowns: ALEXIS DAVIS 0,  SARAH KAUFMAN 0
+  - Takedowns: ALEXIS DAVIS 1,  SARAH KAUFMAN 0

@@ -1,0 +1,13 @@
+Event: UFC 248: Adesanya vs. Romero
+    Date: March 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GERALD MEERSCHAERT defeated DERON WINN via Submission  
+  at 2:13 of round 3
+  Key stats:
+  - GERALD MEERSCHAERT landed 86 significant strikes
+  - DERON WINN landed 53 significant strikes
+  - Knockdowns: GERALD MEERSCHAERT 1,  DERON WINN 0
+  - Takedowns: GERALD MEERSCHAERT 1,  DERON WINN 1

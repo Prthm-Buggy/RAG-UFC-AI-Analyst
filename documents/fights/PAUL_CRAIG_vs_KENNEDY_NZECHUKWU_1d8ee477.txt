@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barboza vs. Gaethje
+    Date: March 30, 2019
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: PAUL CRAIG defeated KENNEDY NZECHUKWU via Submission  
+  at 4:20 of round 3
+  Key stats:
+  - PAUL CRAIG landed 25 significant strikes
+  - KENNEDY NZECHUKWU landed 40 significant strikes
+  - Knockdowns: PAUL CRAIG 0,  KENNEDY NZECHUKWU 0
+  - Takedowns: PAUL CRAIG 1,  KENNEDY NZECHUKWU 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Anjos vs. Ferguson
+    Date: November 05, 2016
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Lightweight
+    
+
+    Result: TONY FERGUSON defeated RAFAEL DOS ANJOS via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - TONY FERGUSON landed 199 significant strikes
+  - RAFAEL DOS ANJOS landed 121 significant strikes
+  - Knockdowns: TONY FERGUSON 0,  RAFAEL DOS ANJOS 0
+  - Takedowns: TONY FERGUSON 0,  RAFAEL DOS ANJOS 0
+  Bonus: fight

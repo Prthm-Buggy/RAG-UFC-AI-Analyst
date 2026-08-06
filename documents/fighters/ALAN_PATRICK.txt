@@ -1,0 +1,11 @@
+Fighter: ALAN PATRICK
+  Date of Birth: 1983-07-19
+  Career record: 9
+  First fight: 2013-10-09
+  Last fight: 2022-05-14
+
+Career Statistics:
+- Significant Strikes Landed :199
+- Total takedowns landed :23
+- Knockdowns :1
+- Submission Attempts :2

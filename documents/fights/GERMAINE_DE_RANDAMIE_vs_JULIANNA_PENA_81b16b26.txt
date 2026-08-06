@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holm vs. Aldana
+    Date: October 03, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Bantamweight
+    
+
+    Result: GERMAINE DE RANDAMIE defeated JULIANNA PENA via Submission  
+  at 3:25 of round 3
+  Key stats:
+  - GERMAINE DE RANDAMIE landed 37 significant strikes
+  - JULIANNA PENA landed 27 significant strikes
+  - Knockdowns: GERMAINE DE RANDAMIE 0,  JULIANNA PENA 0
+  - Takedowns: GERMAINE DE RANDAMIE 0,  JULIANNA PENA 3
+  Bonus: perf

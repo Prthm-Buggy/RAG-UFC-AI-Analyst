@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Felder vs. Hooker
+    Date: February 22, 2020
+    Location: Auckland, New Zealand
+    Weight Class: Lightweight
+    
+
+    Result: BRAD RIDDELL defeated MAGOMED MUSTAFAEV via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - BRAD RIDDELL landed 38 significant strikes
+  - MAGOMED MUSTAFAEV landed 28 significant strikes
+  - Knockdowns: BRAD RIDDELL 1,  MAGOMED MUSTAFAEV 0
+  - Takedowns: BRAD RIDDELL 1,  MAGOMED MUSTAFAEV 8

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. Cortez
+    Date: July 13, 2024
+    Location: Denver, Colorado, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ROSE NAMAJUNAS defeated TRACY CORTEZ via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ROSE NAMAJUNAS landed 96 significant strikes
+  - TRACY CORTEZ landed 58 significant strikes
+  - Knockdowns: ROSE NAMAJUNAS 1,  TRACY CORTEZ 0
+  - Takedowns: ROSE NAMAJUNAS 5,  TRACY CORTEZ 2

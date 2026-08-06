@@ -1,0 +1,13 @@
+Event: UFC 268: Usman vs. Covington 2
+    Date: November 06, 2021
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: NASSOURDINE IMAVOV defeated EDMEN SHAHBAZYAN via KO/TKO  
+  at 4:52 of round 2
+  Key stats:
+  - NASSOURDINE IMAVOV landed 42 significant strikes
+  - EDMEN SHAHBAZYAN landed 22 significant strikes
+  - Knockdowns: NASSOURDINE IMAVOV 0,  EDMEN SHAHBAZYAN 0
+  - Takedowns: NASSOURDINE IMAVOV 0,  EDMEN SHAHBAZYAN 1

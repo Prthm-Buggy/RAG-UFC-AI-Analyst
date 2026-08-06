@@ -1,0 +1,11 @@
+Fighter: ALBERT CHENG
+  Date of Birth: 1985-02-07
+  Career record: 1
+  First fight: 2014-03-01
+  Last fight: 2014-03-01
+
+Career Statistics:
+- Significant Strikes Landed :5
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

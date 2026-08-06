@@ -1,0 +1,18 @@
+Event : UFC 107: Penn vs Sanchez
+    Date : December 12, 2009
+    Location: Memphis, Tennessee, USA
+    Number of Fights: 11
+    Weight Classes: Lightweight, Welterweight, Catch Weight, Middleweight, Heavyweight
+
+    Fight Results:
+  - MATT WIMAN def. SHANE NELSON via Decision - Unanimous(R3)
+- JOHNY HENDRICKS def. RICARDO FUNCH via Decision - Unanimous(R3)
+- DAMARQUES JOHNSON def. EDGAR GARCIA via Submission(R1)
+- STEFAN STRUVE def. PAUL BUENTELLO via Decision - Majority(R3)
+- ALAN BELCHER def. WILSON GOUVEIA via KO/TKO(R1)
+- TJ GRANT def. KEVIN BURNS via KO/TKO(R1)
+- JON FITCH def. MIKE PIERCE via Decision - Unanimous(R3)
+- FRANK MIR def. CHEICK KONGO via Submission(R1)
+- BJ PENN def. DIEGO SANCHEZ via TKO - Doctor's Stoppage(R5)
+- KENNY FLORIAN def. CLAY GUIDA via Submission(R2)
+- ROUSIMAR PALHARES def. LUCIO LINHARES via Submission(R2)

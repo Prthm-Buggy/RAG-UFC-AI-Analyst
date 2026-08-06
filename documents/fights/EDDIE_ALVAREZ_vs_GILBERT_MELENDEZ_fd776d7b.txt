@@ -1,0 +1,13 @@
+Event: UFC 188: Velasquez vs Werdum
+    Date: June 13, 2015
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Lightweight
+    
+
+    Result: EDDIE ALVAREZ defeated GILBERT MELENDEZ via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - EDDIE ALVAREZ landed 31 significant strikes
+  - GILBERT MELENDEZ landed 37 significant strikes
+  - Knockdowns: EDDIE ALVAREZ 0,  GILBERT MELENDEZ 0
+  - Takedowns: EDDIE ALVAREZ 3,  GILBERT MELENDEZ 0

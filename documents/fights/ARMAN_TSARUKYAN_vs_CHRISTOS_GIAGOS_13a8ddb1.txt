@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Spann
+    Date: September 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ARMAN TSARUKYAN defeated CHRISTOS GIAGOS via KO/TKO  
+  at 2:09 of round 1
+  Key stats:
+  - ARMAN TSARUKYAN landed 22 significant strikes
+  - CHRISTOS GIAGOS landed 1 significant strikes
+  - Knockdowns: ARMAN TSARUKYAN 1,  CHRISTOS GIAGOS 0
+  - Takedowns: ARMAN TSARUKYAN 0,  CHRISTOS GIAGOS 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kim vs Hathaway
+    Date: March 01, 2014
+    Location: Macau, China
+    Weight Class: Lightweight
+    
+
+    Result: YUI CHUL NAM defeated KAZUKI TOKUDOME via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - YUI CHUL NAM landed 77 significant strikes
+  - KAZUKI TOKUDOME landed 31 significant strikes
+  - Knockdowns: YUI CHUL NAM 3,  KAZUKI TOKUDOME 0
+  - Takedowns: YUI CHUL NAM 1,  KAZUKI TOKUDOME 3
+  Bonus: fight

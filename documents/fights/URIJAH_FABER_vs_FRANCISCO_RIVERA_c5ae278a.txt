@@ -1,0 +1,13 @@
+Event: UFC 181: Hendricks vs Lawler II
+    Date: December 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: URIJAH FABER defeated FRANCISCO RIVERA via Submission  
+  at 1:34 of round 2
+  Key stats:
+  - URIJAH FABER landed 19 significant strikes
+  - FRANCISCO RIVERA landed 15 significant strikes
+  - Knockdowns: URIJAH FABER 1,  FRANCISCO RIVERA 0
+  - Takedowns: URIJAH FABER 0,  FRANCISCO RIVERA 0

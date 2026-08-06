@@ -1,0 +1,13 @@
+Event: UFC 38: Brawl at the Hall
+    Date: July 13, 2002
+    Location: London, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: IAN FREEMAN defeated FRANK MIR via KO/TKO  
+  at 4:35 of round 1
+  Key stats:
+  - IAN FREEMAN landed 34 significant strikes
+  - FRANK MIR landed 6 significant strikes
+  - Knockdowns: IAN FREEMAN 0,  FRANK MIR 0
+  - Takedowns: IAN FREEMAN 0,  FRANK MIR 1

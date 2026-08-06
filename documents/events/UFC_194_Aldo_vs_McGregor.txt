@@ -1,0 +1,19 @@
+Event : UFC 194: Aldo vs McGregor
+    Date : December 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Lightweight, Welterweight, Middleweight, Women's Strawweight, Featherweight
+
+    Fight Results:
+  - DEMIAN MAIA def. GUNNAR NELSON via Decision - Unanimous(R3)
+- TECIA PENNINGTON def. JOCELYN JONES-LYBARGER via Decision - Unanimous(R3)
+- WARLLEY ALVES def. COLBY COVINGTON via Submission(R1)
+- MAX HOLLOWAY def. JEREMY STEPHENS via Decision - Unanimous(R3)
+- LUKE ROCKHOLD def. CHRIS WEIDMAN via KO/TKO(R4)
+- COURT MCGEE def. MARCIO ALEXANDRE JUNIOR via Decision - Unanimous(R3)
+- YANCY MEDEIROS def. JOHN MAKDESSI via Decision - Split(R3)
+- MAGOMED MUSTAFAEV def. JOE PROCTOR via KO/TKO(R1)
+- LEONARDO SANTOS def. KEVIN LEE via KO/TKO(R1)
+- URIJAH FABER def. FRANKIE SAENZ via Decision - Unanimous(R3)
+- CONOR MCGREGOR def. JOSE ALDO via KO/TKO(R1)
+- YOEL ROMERO def. JACARE SOUZA via Decision - Split(R3)

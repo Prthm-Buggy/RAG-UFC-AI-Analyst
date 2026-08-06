@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Clark
+    Date: November 28, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: NATE MANESS defeated LUKE SANDERS via Submission  
+  at 2:29 of round 2
+  Key stats:
+  - NATE MANESS landed 33 significant strikes
+  - LUKE SANDERS landed 55 significant strikes
+  - Knockdowns: NATE MANESS 1,  LUKE SANDERS 0
+  - Takedowns: NATE MANESS 1,  LUKE SANDERS 0
+  Bonus: perf

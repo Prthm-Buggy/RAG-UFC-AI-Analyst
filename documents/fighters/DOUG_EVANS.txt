@@ -1,0 +1,11 @@
+Fighter: DOUG EVANS
+  Date of Birth: 1980-10-10
+  Career record: 2
+  First fight: 2007-06-23
+  Last fight: 2007-12-29
+
+Career Statistics:
+- Significant Strikes Landed :42
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :1

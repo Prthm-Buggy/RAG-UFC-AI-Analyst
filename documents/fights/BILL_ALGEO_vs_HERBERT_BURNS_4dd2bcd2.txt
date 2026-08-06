@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ortega vs. Rodriguez
+    Date: July 16, 2022
+    Location: Elmont, New York, USA
+    Weight Class: Featherweight
+    
+
+    Result: BILL ALGEO defeated HERBERT BURNS via KO/TKO  
+  at 1:50 of round 2
+  Key stats:
+  - BILL ALGEO landed 28 significant strikes
+  - HERBERT BURNS landed 10 significant strikes
+  - Knockdowns: BILL ALGEO 0,  HERBERT BURNS 0
+  - Takedowns: BILL ALGEO 1,  HERBERT BURNS 1
+  Bonus: perf

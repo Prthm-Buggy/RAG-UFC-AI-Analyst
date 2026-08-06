@@ -1,0 +1,13 @@
+Event: UFC 314: Volkanovski vs. Lopes
+    Date: April 12, 2025
+    Location: Miami, Florida, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DOMINICK REYES defeated NIKITA KRYLOV via KO/TKO  
+  at 2:24 of round 1
+  Key stats:
+  - DOMINICK REYES landed 8 significant strikes
+  - NIKITA KRYLOV landed 4 significant strikes
+  - Knockdowns: DOMINICK REYES 1,  NIKITA KRYLOV 0
+  - Takedowns: DOMINICK REYES 0,  NIKITA KRYLOV 0

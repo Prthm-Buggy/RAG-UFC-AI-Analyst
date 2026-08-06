@@ -1,0 +1,11 @@
+Fighter: KURT PELLEGRINO
+  Date of Birth: 1979-05-07
+  Career record: 12
+  First fight: 2006-07-08
+  Last fight: 2011-03-19
+
+Career Statistics:
+- Significant Strikes Landed :304
+- Total takedowns landed :24
+- Knockdowns :3
+- Submission Attempts :7

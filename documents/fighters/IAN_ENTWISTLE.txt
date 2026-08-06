@@ -1,0 +1,11 @@
+Fighter: IAN ENTWISTLE
+  Date of Birth: 1986-11-19
+  Career record: 3
+  First fight: 2014-06-28
+  Last fight: 2016-04-10
+
+Career Statistics:
+- Significant Strikes Landed :1
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :7

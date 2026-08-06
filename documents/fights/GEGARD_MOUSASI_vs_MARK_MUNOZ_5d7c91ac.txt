@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Munoz vs Mousasi
+    Date: May 31, 2014
+    Location: Berlin, Germany
+    Weight Class: Middleweight
+    
+
+    Result: GEGARD MOUSASI defeated MARK MUNOZ via Submission  
+  at 3:57 of round 1
+  Key stats:
+  - GEGARD MOUSASI landed 18 significant strikes
+  - MARK MUNOZ landed 3 significant strikes
+  - Knockdowns: GEGARD MOUSASI 0,  MARK MUNOZ 0
+  - Takedowns: GEGARD MOUSASI 0,  MARK MUNOZ 0
+  Bonus: perf

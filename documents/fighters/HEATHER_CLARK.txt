@@ -1,0 +1,11 @@
+Fighter: HEATHER CLARK
+  Date of Birth: 1980-09-19
+  Career record: 3
+  First fight: 2014-12-12
+  Last fight: 2016-11-05
+
+Career Statistics:
+- Significant Strikes Landed :166
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,20 @@
+Event : UFC on FOX: Werdum vs Browne
+    Date : April 19, 2014
+    Location: Orlando, Florida, USA
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Lightweight, Middleweight, Women's Bantamweight, Flyweight, Welterweight, Featherweight
+
+    Fight Results:
+  - DONALD CERRONE def. EDSON BARBOZA via Submission(R1)
+- JORGE MASVIDAL def. PAT HEALY via Decision - Unanimous(R3)
+- ALEX WHITE def. ESTEVAN PAYAN via KO/TKO(R1)
+- DUSTIN ORTIZ def. RAY BORG via Decision - Split(R3)
+- CAIO MAGALHAES def. LUKE ZACHRICH via KO/TKO(R1)
+- JORDAN MEIN def. HERNANI PERPETUO via Decision - Split(R3)
+- MIRSAD BEKTIC def. CHAS SKELLY via Decision - Majority(R3)
+- FABRICIO WERDUM def. TRAVIS BROWNE via Decision - Unanimous(R5)
+- MIESHA TATE def. LIZ CARMOUCHE via Decision - Unanimous(R3)
+- KHABIB NURMAGOMEDOV def. RAFAEL DOS ANJOS via Decision - Unanimous(R3)
+- YOEL ROMERO def. BRAD TAVARES via Decision - Unanimous(R3)
+- THIAGO ALVES def. SETH BACZYNSKI via Decision - Unanimous(R3)
+- DERRICK LEWIS def. JACK MAY via KO/TKO(R1)

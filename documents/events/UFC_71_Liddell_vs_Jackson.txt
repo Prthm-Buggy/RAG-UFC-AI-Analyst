@@ -1,0 +1,16 @@
+Event : UFC 71: Liddell vs Jackson
+    Date : May 26, 2007
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Light Heavyweight, Middleweight, Lightweight, Welterweight
+
+    Fight Results:
+  - THIAGO SILVA def. JAMES IRVIN via KO/TKO(R1)
+- WILSON GOUVEIA def. CARMELO MARRERO via Submission(R1)
+- QUINTON JACKSON def. CHUCK LIDDELL via KO/TKO(R1)
+- TERRY MARTIN def. IVAN SALAVERRY via KO/TKO(R1)
+- HOUSTON ALEXANDER def. KEITH JARDINE via KO/TKO(R1)
+- KALIB STARNES def. CHRIS LEBEN via Decision - Unanimous(R3)
+- KARO PARISYAN def. JOSHUA BURKMAN via Decision - Unanimous(R3)
+- DIN THOMAS def. JEREMY STEPHENS via Submission(R2)
+- ALAN BELCHER def. SEAN SALMON via Submission(R1)

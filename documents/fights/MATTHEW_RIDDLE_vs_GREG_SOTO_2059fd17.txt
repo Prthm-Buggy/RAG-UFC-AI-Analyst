@@ -1,0 +1,13 @@
+Event: UFC 111: St-Pierre vs Hardy
+    Date: March 27, 2010
+    Location: Newark, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATTHEW RIDDLE defeated GREG SOTO via DQ  
+  at 1:30 of round 3
+  Key stats:
+  - MATTHEW RIDDLE landed 47 significant strikes
+  - GREG SOTO landed 21 significant strikes
+  - Knockdowns: MATTHEW RIDDLE 0,  GREG SOTO 0
+  - Takedowns: MATTHEW RIDDLE 4,  GREG SOTO 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: McGregor vs Siver
+    Date: January 18, 2015
+    Location: Boston, Massachusetts, USA
+    Weight Class: Featherweight
+    
+
+    Result: CONOR MCGREGOR defeated DENNIS SIVER via KO/TKO  
+  at 1:54 of round 2
+  Key stats:
+  - CONOR MCGREGOR landed 64 significant strikes
+  - DENNIS SIVER landed 32 significant strikes
+  - Knockdowns: CONOR MCGREGOR 1,  DENNIS SIVER 0
+  - Takedowns: CONOR MCGREGOR 0,  DENNIS SIVER 0
+  Bonus: perf

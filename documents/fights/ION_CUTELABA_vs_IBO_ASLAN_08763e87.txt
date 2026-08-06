@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cejudo vs. Song
+    Date: February 22, 2025
+    Location: Seattle, Washington, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ION CUTELABA defeated IBO ASLAN via Submission  
+  at 2:51 of round 1
+  Key stats:
+  - ION CUTELABA landed 14 significant strikes
+  - IBO ASLAN landed 15 significant strikes
+  - Knockdowns: ION CUTELABA 0,  IBO ASLAN 0
+  - Takedowns: ION CUTELABA 2,  IBO ASLAN 0

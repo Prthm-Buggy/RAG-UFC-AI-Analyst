@@ -1,0 +1,14 @@
+Event: UFC 251: Usman vs. Masvidal
+    Date: July 11, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Welterweight
+    
+
+    Result: KAMARU USMAN defeated JORGE MASVIDAL via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - KAMARU USMAN landed 94 significant strikes
+  - JORGE MASVIDAL landed 66 significant strikes
+  - Knockdowns: KAMARU USMAN 0,  JORGE MASVIDAL 0
+  - Takedowns: KAMARU USMAN 5,  JORGE MASVIDAL 0
+  Bonus: belt

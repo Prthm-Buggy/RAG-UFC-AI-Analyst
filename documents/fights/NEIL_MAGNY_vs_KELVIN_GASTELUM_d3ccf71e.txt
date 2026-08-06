@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Magny vs Gastelum
+    Date: November 21, 2015
+    Location: Monterrey, Nuevo Leon, Mexico
+    Weight Class: Welterweight
+    
+
+    Result: NEIL MAGNY defeated KELVIN GASTELUM via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - NEIL MAGNY landed 54 significant strikes
+  - KELVIN GASTELUM landed 54 significant strikes
+  - Knockdowns: NEIL MAGNY 0,  KELVIN GASTELUM 2
+  - Takedowns: NEIL MAGNY 6,  KELVIN GASTELUM 2
+  Bonus: fight

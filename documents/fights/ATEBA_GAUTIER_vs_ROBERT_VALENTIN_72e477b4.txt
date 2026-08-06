@@ -1,0 +1,14 @@
+Event: UFC 318: Holloway vs. Poirier 3
+    Date: July 19, 2025
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: ATEBA GAUTIER defeated ROBERT VALENTIN via KO/TKO  
+  at 1:10 of round 1
+  Key stats:
+  - ATEBA GAUTIER landed 19 significant strikes
+  - ROBERT VALENTIN landed 2 significant strikes
+  - Knockdowns: ATEBA GAUTIER 1,  ROBERT VALENTIN 0
+  - Takedowns: ATEBA GAUTIER 0,  ROBERT VALENTIN 0
+  Bonus: perf

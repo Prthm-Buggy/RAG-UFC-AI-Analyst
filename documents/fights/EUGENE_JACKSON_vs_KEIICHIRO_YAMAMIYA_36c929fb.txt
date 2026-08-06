@@ -1,0 +1,13 @@
+Event: UFC 23: Ultimate Japan 2
+    Date: November 19, 1999
+    Location: Chiba, Japan
+    Weight Class: Middleweight
+    
+
+    Result: EUGENE JACKSON defeated KEIICHIRO YAMAMIYA via KO/TKO  
+  at 3:12 of round 3
+  Key stats:
+  - EUGENE JACKSON landed 22 significant strikes
+  - KEIICHIRO YAMAMIYA landed 14 significant strikes
+  - Knockdowns: EUGENE JACKSON 1,  KEIICHIRO YAMAMIYA 0
+  - Takedowns: EUGENE JACKSON 0,  KEIICHIRO YAMAMIYA 0

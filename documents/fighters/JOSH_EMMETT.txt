@@ -1,0 +1,11 @@
+Fighter: JOSH EMMETT
+  Date of Birth: 1985-03-04
+  Career record: 17
+  First fight: 2016-05-08
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :775
+- Total takedowns landed :15
+- Knockdowns :12
+- Submission Attempts :1

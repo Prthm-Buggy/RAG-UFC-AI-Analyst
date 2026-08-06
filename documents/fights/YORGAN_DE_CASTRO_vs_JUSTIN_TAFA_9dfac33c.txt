@@ -1,0 +1,14 @@
+Event: UFC 243: Whittaker vs. Adesanya
+    Date: October 05, 2019
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: YORGAN DE CASTRO defeated JUSTIN TAFA via KO/TKO  
+  at 2:10 of round 1
+  Key stats:
+  - YORGAN DE CASTRO landed 4 significant strikes
+  - JUSTIN TAFA landed 6 significant strikes
+  - Knockdowns: YORGAN DE CASTRO 1,  JUSTIN TAFA 0
+  - Takedowns: YORGAN DE CASTRO 0,  JUSTIN TAFA 0
+  Bonus: perf

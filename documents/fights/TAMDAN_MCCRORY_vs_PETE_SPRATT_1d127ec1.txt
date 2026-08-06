@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Stout vs Fisher
+    Date: June 12, 2007
+    Location: Hollywood, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: TAMDAN MCCRORY defeated PETE SPRATT via Submission  
+  at 2:04 of round 2
+  Key stats:
+  - TAMDAN MCCRORY landed 8 significant strikes
+  - PETE SPRATT landed 19 significant strikes
+  - Knockdowns: TAMDAN MCCRORY 0,  PETE SPRATT 0
+  - Takedowns: TAMDAN MCCRORY 2,  PETE SPRATT 0

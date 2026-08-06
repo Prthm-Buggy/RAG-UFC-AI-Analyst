@@ -1,0 +1,13 @@
+Event: UFC 164: Henderson vs Pettis 2
+    Date: August 31, 2013
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JOSH BARNETT defeated FRANK MIR via KO/TKO  
+  at 1:56 of round 1
+  Key stats:
+  - JOSH BARNETT landed 26 significant strikes
+  - FRANK MIR landed 9 significant strikes
+  - Knockdowns: JOSH BARNETT 1,  FRANK MIR 0
+  - Takedowns: JOSH BARNETT 0,  FRANK MIR 0

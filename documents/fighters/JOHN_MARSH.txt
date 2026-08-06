@@ -1,0 +1,11 @@
+Fighter: JOHN MARSH
+  Date of Birth: 1970-09-15
+  Career record: 1
+  First fight: 2005-04-16
+  Last fight: 2005-04-16
+
+Career Statistics:
+- Significant Strikes Landed :18
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :1

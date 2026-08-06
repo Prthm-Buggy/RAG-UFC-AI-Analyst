@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Condit vs Kampmann 2
+    Date: August 28, 2013
+    Location: Indianapolis, Indiana, USA
+    Weight Class: Featherweight
+    
+
+    Result: DARREN ELKINS defeated HATSU HIOKI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DARREN ELKINS landed 48 significant strikes
+  - HATSU HIOKI landed 31 significant strikes
+  - Knockdowns: DARREN ELKINS 0,  HATSU HIOKI 0
+  - Takedowns: DARREN ELKINS 2,  HATSU HIOKI 1

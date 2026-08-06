@@ -1,0 +1,11 @@
+Fighter: ALONZO MENIFIELD
+  Date of Birth: 1987-10-18
+  Career record: 17
+  First fight: 2019-01-19
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :517
+- Total takedowns landed :5
+- Knockdowns :5
+- Submission Attempts :2

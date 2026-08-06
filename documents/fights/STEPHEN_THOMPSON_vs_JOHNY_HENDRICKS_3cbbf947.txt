@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hendricks vs Thompson
+    Date: February 06, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: STEPHEN THOMPSON defeated JOHNY HENDRICKS via KO/TKO  
+  at 3:31 of round 1
+  Key stats:
+  - STEPHEN THOMPSON landed 24 significant strikes
+  - JOHNY HENDRICKS landed 7 significant strikes
+  - Knockdowns: STEPHEN THOMPSON 1,  JOHNY HENDRICKS 0
+  - Takedowns: STEPHEN THOMPSON 0,  JOHNY HENDRICKS 0
+  Bonus: perf

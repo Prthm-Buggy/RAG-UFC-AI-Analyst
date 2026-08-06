@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Boetsch vs Henderson
+    Date: June 06, 2015
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: JAKE COLLIER defeated RICARDO ABREU via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JAKE COLLIER landed 67 significant strikes
+  - RICARDO ABREU landed 47 significant strikes
+  - Knockdowns: JAKE COLLIER 0,  RICARDO ABREU 0
+  - Takedowns: JAKE COLLIER 0,  RICARDO ABREU 3

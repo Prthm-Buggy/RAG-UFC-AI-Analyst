@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Figueiredo
+    Date: May 03, 2025
+    Location: Des Moines, Iowa, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: JULIANA MILLER defeated IVANA PETROVIC via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JULIANA MILLER landed 22 significant strikes
+  - IVANA PETROVIC landed 25 significant strikes
+  - Knockdowns: JULIANA MILLER 0,  IVANA PETROVIC 0
+  - Takedowns: JULIANA MILLER 3,  IVANA PETROVIC 1

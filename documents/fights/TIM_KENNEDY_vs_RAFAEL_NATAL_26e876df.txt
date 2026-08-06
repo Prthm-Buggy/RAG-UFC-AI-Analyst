@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Fight for the Troops 3
+    Date: November 06, 2013
+    Location: Fort Campbell, Kentucky, USA
+    Weight Class: Middleweight
+    
+
+    Result: TIM KENNEDY defeated RAFAEL NATAL via KO/TKO  
+  at 4:40 of round 1
+  Key stats:
+  - TIM KENNEDY landed 13 significant strikes
+  - RAFAEL NATAL landed 13 significant strikes
+  - Knockdowns: TIM KENNEDY 1,  RAFAEL NATAL 0
+  - Takedowns: TIM KENNEDY 0,  RAFAEL NATAL 0
+  Bonus: ko

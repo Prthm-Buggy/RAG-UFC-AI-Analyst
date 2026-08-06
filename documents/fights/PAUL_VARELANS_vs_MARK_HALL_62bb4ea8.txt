@@ -1,0 +1,13 @@
+Event: UFC 7: The Brawl in Buffalo
+    Date: September 08, 1995
+    Location: Buffalo, New York, USA
+    Weight Class: Open Weight
+    
+
+    Result: PAUL VARELANS defeated MARK HALL via Submission  
+  at 1:01 of round 1
+  Key stats:
+  - PAUL VARELANS landed 2 significant strikes
+  - MARK HALL landed 2 significant strikes
+  - Knockdowns: PAUL VARELANS 0,  MARK HALL 0
+  - Takedowns: PAUL VARELANS 1,  MARK HALL 0

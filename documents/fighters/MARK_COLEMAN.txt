@@ -1,0 +1,11 @@
+Fighter: MARK COLEMAN
+  Date of Birth: 1964-12-20
+  Career record: 12
+  First fight: 1996-07-12
+  Last fight: 2010-02-06
+
+Career Statistics:
+- Significant Strikes Landed :243
+- Total takedowns landed :25
+- Knockdowns :0
+- Submission Attempts :8

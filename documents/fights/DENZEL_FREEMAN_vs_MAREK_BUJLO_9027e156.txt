@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tsarukyan vs. Hooker
+    Date: November 22, 2025
+    Location: Doha, Qatar
+    Weight Class: Heavyweight
+    
+
+    Result: DENZEL FREEMAN defeated MAREK BUJLO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DENZEL FREEMAN landed 49 significant strikes
+  - MAREK BUJLO landed 31 significant strikes
+  - Knockdowns: DENZEL FREEMAN 0,  MAREK BUJLO 0
+  - Takedowns: DENZEL FREEMAN 0,  MAREK BUJLO 0

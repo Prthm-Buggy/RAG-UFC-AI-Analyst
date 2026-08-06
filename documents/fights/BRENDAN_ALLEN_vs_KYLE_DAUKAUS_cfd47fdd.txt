@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Hooker
+    Date: June 27, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRENDAN ALLEN defeated KYLE DAUKAUS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BRENDAN ALLEN landed 41 significant strikes
+  - KYLE DAUKAUS landed 34 significant strikes
+  - Knockdowns: BRENDAN ALLEN 1,  KYLE DAUKAUS 0
+  - Takedowns: BRENDAN ALLEN 0,  KYLE DAUKAUS 3

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lemos vs. Jandiroba
+    Date: July 20, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TREY OGDEN defeated LOIK RADZHABOV via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TREY OGDEN landed 24 significant strikes
+  - LOIK RADZHABOV landed 42 significant strikes
+  - Knockdowns: TREY OGDEN 0,  LOIK RADZHABOV 0
+  - Takedowns: TREY OGDEN 4,  LOIK RADZHABOV 0

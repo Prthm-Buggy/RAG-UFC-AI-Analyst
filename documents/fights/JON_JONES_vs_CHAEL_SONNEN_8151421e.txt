@@ -1,0 +1,14 @@
+Event: UFC 159: Jones vs Sonnen
+    Date: April 27, 2013
+    Location: Newark, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated CHAEL SONNEN via KO/TKO  
+  at 4:33 of round 1
+  Key stats:
+  - JON JONES landed 20 significant strikes
+  - CHAEL SONNEN landed 6 significant strikes
+  - Knockdowns: JON JONES 0,  CHAEL SONNEN 0
+  - Takedowns: JON JONES 3,  CHAEL SONNEN 0
+  Bonus: belt

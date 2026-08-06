@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Clark
+    Date: November 28, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: GINA MAZANY defeated RACHAEL OSTOVICH via KO/TKO  
+  at 4:10 of round 3
+  Key stats:
+  - GINA MAZANY landed 72 significant strikes
+  - RACHAEL OSTOVICH landed 41 significant strikes
+  - Knockdowns: GINA MAZANY 1,  RACHAEL OSTOVICH 0
+  - Takedowns: GINA MAZANY 7,  RACHAEL OSTOVICH 0

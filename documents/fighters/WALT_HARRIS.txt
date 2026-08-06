@@ -1,0 +1,11 @@
+Fighter: WALT HARRIS
+  Date of Birth: 1983-06-10
+  Career record: 15
+  First fight: 2013-11-30
+  Last fight: 2021-06-05
+
+Career Statistics:
+- Significant Strikes Landed :293
+- Total takedowns landed :1
+- Knockdowns :9
+- Submission Attempts :1

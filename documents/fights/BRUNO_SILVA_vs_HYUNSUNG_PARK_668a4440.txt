@@ -1,0 +1,13 @@
+Event: UFC Fight Night: De Ridder vs. Allen
+    Date: October 18, 2025
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Flyweight
+    
+
+    Result: BRUNO SILVA defeated HYUNSUNG PARK via Submission  
+  at 2:15 of round 3
+  Key stats:
+  - BRUNO SILVA landed 46 significant strikes
+  - HYUNSUNG PARK landed 31 significant strikes
+  - Knockdowns: BRUNO SILVA 1,  HYUNSUNG PARK 0
+  - Takedowns: BRUNO SILVA 5,  HYUNSUNG PARK 1

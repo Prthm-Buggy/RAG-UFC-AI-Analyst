@@ -1,0 +1,14 @@
+Event: UFC 105: Couture vs Vera
+    Date: November 14, 2009
+    Location: Manchester, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL BISPING defeated DENIS KANG via KO/TKO  
+  at 4:24 of round 2
+  Key stats:
+  - MICHAEL BISPING landed 29 significant strikes
+  - DENIS KANG landed 11 significant strikes
+  - Knockdowns: MICHAEL BISPING 0,  DENIS KANG 1
+  - Takedowns: MICHAEL BISPING 3,  DENIS KANG 0
+  Bonus: fight

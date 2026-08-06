@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Volkov vs. Struve
+    Date: September 02, 2017
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Lightweight
+    
+
+    Result: MICHEL PRAZERES defeated MADS BURNELL via Submission  
+  at 1:26 of round 3
+  Key stats:
+  - MICHEL PRAZERES landed 26 significant strikes
+  - MADS BURNELL landed 10 significant strikes
+  - Knockdowns: MICHEL PRAZERES 0,  MADS BURNELL 0
+  - Takedowns: MICHEL PRAZERES 4,  MADS BURNELL 0

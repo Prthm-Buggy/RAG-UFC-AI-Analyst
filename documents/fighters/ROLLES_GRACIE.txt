@@ -1,0 +1,11 @@
+Fighter: ROLLES GRACIE
+  Date of Birth: 1978-07-14
+  Career record: 1
+  First fight: 2010-02-06
+  Last fight: 2010-02-06
+
+Career Statistics:
+- Significant Strikes Landed :15
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

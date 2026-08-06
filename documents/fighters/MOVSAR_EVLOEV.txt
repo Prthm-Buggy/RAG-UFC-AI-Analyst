@@ -1,0 +1,11 @@
+Fighter: MOVSAR EVLOEV
+  Date of Birth: 1994-02-11
+  Career record: 10
+  First fight: 2019-04-20
+  Last fight: 2026-03-21
+
+Career Statistics:
+- Significant Strikes Landed :625
+- Total takedowns landed :51
+- Knockdowns :0
+- Submission Attempts :2

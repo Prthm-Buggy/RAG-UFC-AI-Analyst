@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Henderson vs Thatch
+    Date : February 14, 2015
+    Location: Broomfield, Colorado, USA
+    Number of Fights: 10
+    Weight Classes: Lightweight, Featherweight, Middleweight, Welterweight, Flyweight
+
+    Fight Results:
+  - MAX HOLLOWAY def. COLE MILLER via Decision - Unanimous(R3)
+- KEVIN LEE def. MICHEL PRAZERES via Decision - Unanimous(R3)
+- NEIL MAGNY def. KIICHI KUNIMOTO via Submission(R3)
+- DANIEL KELLY def. PATRICK WALSH via Decision - Unanimous(R3)
+- RAY BORG def. CHRIS KELADES via Submission(R3)
+- CHAS SKELLY def. JIM ALERS via KO/TKO(R2)
+- BENSON HENDERSON def. BRANDON THATCH via Submission(R4)
+- ZACH MAKOVSKY def. TIM ELLIOTT via Decision - Unanimous(R3)
+- EFRAIN ESCUDERO def. RODRIGO DE LIMA via Decision - Unanimous(R3)
+- JAMES MOONTASRI def. CODY PFISTER via Submission(R2)

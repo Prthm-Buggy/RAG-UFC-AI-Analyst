@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Nzechukwu vs. Cutelaba
+    Date: November 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KENNEDY NZECHUKWU defeated ION CUTELABA via KO/TKO  
+  at 1:02 of round 2
+  Key stats:
+  - KENNEDY NZECHUKWU landed 24 significant strikes
+  - ION CUTELABA landed 9 significant strikes
+  - Knockdowns: KENNEDY NZECHUKWU 1,  ION CUTELABA 0
+  - Takedowns: KENNEDY NZECHUKWU 0,  ION CUTELABA 2
+  Bonus: perf

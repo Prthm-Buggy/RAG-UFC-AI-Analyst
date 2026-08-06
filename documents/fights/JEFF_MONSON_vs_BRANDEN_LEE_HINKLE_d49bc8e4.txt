@@ -1,0 +1,13 @@
+Event: UFC 57: Liddell vs Couture 3
+    Date: February 04, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JEFF MONSON defeated BRANDEN LEE HINKLE via Submission  
+  at 4:35 of round 1
+  Key stats:
+  - JEFF MONSON landed 10 significant strikes
+  - BRANDEN LEE HINKLE landed 5 significant strikes
+  - Knockdowns: JEFF MONSON 0,  BRANDEN LEE HINKLE 0
+  - Takedowns: JEFF MONSON 1,  BRANDEN LEE HINKLE 0

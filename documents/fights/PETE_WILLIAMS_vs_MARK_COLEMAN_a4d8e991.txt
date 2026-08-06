@@ -1,0 +1,13 @@
+Event: UFC 17: Redemption
+    Date: May 15, 1998
+    Location: Mobile, Alabama, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PETE WILLIAMS defeated MARK COLEMAN via KO/TKO  
+  at 0:38 of round 2
+  Key stats:
+  - PETE WILLIAMS landed 22 significant strikes
+  - MARK COLEMAN landed 26 significant strikes
+  - Knockdowns: PETE WILLIAMS 1,  MARK COLEMAN 0
+  - Takedowns: PETE WILLIAMS 0,  MARK COLEMAN 3

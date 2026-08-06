@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Yan vs. Figueiredo
+    Date: November 23, 2024
+    Location: Macau, China
+    Weight Class: Welterweight
+    
+
+    Result: MUSLIM SALIKHOV defeated SONG KENAN via KO/TKO  
+  at 3:49 of round 1
+  Key stats:
+  - MUSLIM SALIKHOV landed 20 significant strikes
+  - SONG KENAN landed 9 significant strikes
+  - Knockdowns: MUSLIM SALIKHOV 1,  SONG KENAN 0
+  - Takedowns: MUSLIM SALIKHOV 0,  SONG KENAN 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gaethje vs. Vick
+    Date: August 25, 2018
+    Location: Lincoln, Nebraska, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRYAN BARBERENA defeated JAKE ELLENBERGER via KO/TKO  
+  at 2:26 of round 1
+  Key stats:
+  - BRYAN BARBERENA landed 19 significant strikes
+  - JAKE ELLENBERGER landed 12 significant strikes
+  - Knockdowns: BRYAN BARBERENA 2,  JAKE ELLENBERGER 0
+  - Takedowns: BRYAN BARBERENA 0,  JAKE ELLENBERGER 0

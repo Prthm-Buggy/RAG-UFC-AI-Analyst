@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ngannou vs. Velasquez
+    Date: February 17, 2019
+    Location: Phoenix, Arizona, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ANDREA LEE defeated ASHLEE EVANS-SMITH via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ANDREA LEE landed 111 significant strikes
+  - ASHLEE EVANS-SMITH landed 66 significant strikes
+  - Knockdowns: ANDREA LEE 0,  ASHLEE EVANS-SMITH 0
+  - Takedowns: ANDREA LEE 0,  ASHLEE EVANS-SMITH 2

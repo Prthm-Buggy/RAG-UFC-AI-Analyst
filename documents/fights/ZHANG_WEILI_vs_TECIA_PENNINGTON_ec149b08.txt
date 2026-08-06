@@ -1,0 +1,13 @@
+Event: UFC 235: Jones vs. Smith
+    Date: March 02, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ZHANG WEILI defeated TECIA PENNINGTON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ZHANG WEILI landed 63 significant strikes
+  - TECIA PENNINGTON landed 30 significant strikes
+  - Knockdowns: ZHANG WEILI 0,  TECIA PENNINGTON 0
+  - Takedowns: ZHANG WEILI 2,  TECIA PENNINGTON 0

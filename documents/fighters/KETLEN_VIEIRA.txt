@@ -1,0 +1,11 @@
+Fighter: KETLEN VIEIRA
+  Date of Birth: 1991-08-26
+  Career record: 15
+  First fight: 2016-10-01
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :621
+- Total takedowns landed :20
+- Knockdowns :0
+- Submission Attempts :8

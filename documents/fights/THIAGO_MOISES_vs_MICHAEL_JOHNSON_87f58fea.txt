@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Teixeira
+    Date: May 13, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: THIAGO MOISES defeated MICHAEL JOHNSON via Submission  
+  at 0:25 of round 2
+  Key stats:
+  - THIAGO MOISES landed 1 significant strikes
+  - MICHAEL JOHNSON landed 27 significant strikes
+  - Knockdowns: THIAGO MOISES 0,  MICHAEL JOHNSON 0
+  - Takedowns: THIAGO MOISES 0,  MICHAEL JOHNSON 0

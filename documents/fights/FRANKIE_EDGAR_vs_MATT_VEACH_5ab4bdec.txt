@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Heavyweights Finale
+    Date: December 05, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: FRANKIE EDGAR defeated MATT VEACH via Submission  
+  at 2:20 of round 2
+  Key stats:
+  - FRANKIE EDGAR landed 25 significant strikes
+  - MATT VEACH landed 7 significant strikes
+  - Knockdowns: FRANKIE EDGAR 0,  MATT VEACH 0
+  - Takedowns: FRANKIE EDGAR 0,  MATT VEACH 3
+  Bonus: fight

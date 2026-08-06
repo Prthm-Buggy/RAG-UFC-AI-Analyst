@@ -1,0 +1,13 @@
+Event: UFC 103: Franklin vs Belfort
+    Date: September 19, 2009
+    Location: Dallas, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: TOMASZ DRWAL defeated DREW MCFEDRIES via Submission  
+  at 1:03 of round 2
+  Key stats:
+  - TOMASZ DRWAL landed 31 significant strikes
+  - DREW MCFEDRIES landed 17 significant strikes
+  - Knockdowns: TOMASZ DRWAL 0,  DREW MCFEDRIES 0
+  - Takedowns: TOMASZ DRWAL 3,  DREW MCFEDRIES 0

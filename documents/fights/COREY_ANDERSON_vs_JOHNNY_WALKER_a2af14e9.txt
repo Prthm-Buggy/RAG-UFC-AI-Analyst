@@ -1,0 +1,14 @@
+Event: UFC 244: Masvidal vs. Diaz
+    Date: November 02, 2019
+    Location: New York City, New York, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: COREY ANDERSON defeated JOHNNY WALKER via KO/TKO  
+  at 2:07 of round 1
+  Key stats:
+  - COREY ANDERSON landed 22 significant strikes
+  - JOHNNY WALKER landed 1 significant strikes
+  - Knockdowns: COREY ANDERSON 1,  JOHNNY WALKER 0
+  - Takedowns: COREY ANDERSON 1,  JOHNNY WALKER 0
+  Bonus: perf

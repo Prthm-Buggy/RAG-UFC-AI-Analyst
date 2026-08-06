@@ -1,0 +1,14 @@
+Event: UFC 320: Ankalaev vs. Pereira 2
+    Date: October 04, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOE PYFER defeated ABUS MAGOMEDOV via Submission  
+  at 1:46 of round 2
+  Key stats:
+  - JOE PYFER landed 6 significant strikes
+  - ABUS MAGOMEDOV landed 11 significant strikes
+  - Knockdowns: JOE PYFER 1,  ABUS MAGOMEDOV 0
+  - Takedowns: JOE PYFER 0,  ABUS MAGOMEDOV 1
+  Bonus: perf

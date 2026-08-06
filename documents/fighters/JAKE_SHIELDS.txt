@@ -1,0 +1,11 @@
+Fighter: JAKE SHIELDS
+  Date of Birth: 1979-01-09
+  Career record: 7
+  First fight: 2010-10-23
+  Last fight: 2014-03-15
+
+Career Statistics:
+- Significant Strikes Landed :316
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :1

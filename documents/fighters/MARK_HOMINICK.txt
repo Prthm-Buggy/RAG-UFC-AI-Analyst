@@ -1,0 +1,11 @@
+Fighter: MARK HOMINICK
+  Date of Birth: 1982-07-22
+  Career record: 7
+  First fight: 2006-03-04
+  Last fight: 2012-11-17
+
+Career Statistics:
+- Significant Strikes Landed :294
+- Total takedowns landed :2
+- Knockdowns :3
+- Submission Attempts :1

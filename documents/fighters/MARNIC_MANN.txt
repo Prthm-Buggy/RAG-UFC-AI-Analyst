@@ -1,0 +1,11 @@
+Fighter: MARNIC MANN
+  Date of Birth: 1993-03-05
+  Career record: 2
+  First fight: 2023-09-16
+  Last fight: 2024-04-27
+
+Career Statistics:
+- Significant Strikes Landed :39
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

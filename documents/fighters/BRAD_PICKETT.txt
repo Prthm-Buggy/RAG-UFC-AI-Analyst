@@ -1,0 +1,11 @@
+Fighter: BRAD PICKETT
+  Date of Birth: 1978-09-24
+  Career record: 14
+  First fight: 2011-11-05
+  Last fight: 2017-03-18
+
+Career Statistics:
+- Significant Strikes Landed :465
+- Total takedowns landed :21
+- Knockdowns :3
+- Submission Attempts :2

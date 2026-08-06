@@ -1,0 +1,14 @@
+Event: UFC 215: Nunes vs Shevchenko 2
+    Date: September 09, 2017
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Welterweight
+    
+
+    Result: RAFAEL DOS ANJOS defeated NEIL MAGNY via Submission  
+  at 3:43 of round 1
+  Key stats:
+  - RAFAEL DOS ANJOS landed 13 significant strikes
+  - NEIL MAGNY landed 1 significant strikes
+  - Knockdowns: RAFAEL DOS ANJOS 0,  NEIL MAGNY 0
+  - Takedowns: RAFAEL DOS ANJOS 0,  NEIL MAGNY 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Jones vs. Team Sonnen Finale
+    Date: April 13, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOSH SAMMAN defeated KEVIN CASEY via KO/TKO  
+  at 2:17 of round 2
+  Key stats:
+  - JOSH SAMMAN landed 36 significant strikes
+  - KEVIN CASEY landed 14 significant strikes
+  - Knockdowns: JOSH SAMMAN 1,  KEVIN CASEY 0
+  - Takedowns: JOSH SAMMAN 0,  KEVIN CASEY 0

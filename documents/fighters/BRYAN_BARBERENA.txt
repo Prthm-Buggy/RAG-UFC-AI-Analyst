@@ -1,0 +1,11 @@
+Fighter: BRYAN BARBERENA
+  Date of Birth: 1989-05-03
+  Career record: 19
+  First fight: 2014-12-13
+  Last fight: 2024-03-16
+
+Career Statistics:
+- Significant Strikes Landed :1191
+- Total takedowns landed :2
+- Knockdowns :6
+- Submission Attempts :4

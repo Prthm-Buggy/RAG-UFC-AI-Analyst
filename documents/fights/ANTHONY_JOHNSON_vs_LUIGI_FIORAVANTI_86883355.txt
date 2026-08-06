@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lauzon vs Stephens
+    Date: February 07, 2009
+    Location: Tampa, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: ANTHONY JOHNSON defeated LUIGI FIORAVANTI via KO/TKO  
+  at 4:39 of round 1
+  Key stats:
+  - ANTHONY JOHNSON landed 21 significant strikes
+  - LUIGI FIORAVANTI landed 12 significant strikes
+  - Knockdowns: ANTHONY JOHNSON 1,  LUIGI FIORAVANTI 0
+  - Takedowns: ANTHONY JOHNSON 0,  LUIGI FIORAVANTI 0

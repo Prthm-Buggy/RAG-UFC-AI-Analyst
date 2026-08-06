@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Emmett
+    Date: June 18, 2022
+    Location: Austin, Texas, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ADRIAN YANEZ defeated TONY KELLEY via KO/TKO  
+  at 3:49 of round 1
+  Key stats:
+  - ADRIAN YANEZ landed 35 significant strikes
+  - TONY KELLEY landed 20 significant strikes
+  - Knockdowns: ADRIAN YANEZ 1,  TONY KELLEY 0
+  - Takedowns: ADRIAN YANEZ 0,  TONY KELLEY 0
+  Bonus: perf

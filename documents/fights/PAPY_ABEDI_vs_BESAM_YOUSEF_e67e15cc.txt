@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Mousasi vs Latifi
+    Date: April 06, 2013
+    Location: Stockholm, Sweden
+    Weight Class: Welterweight
+    
+
+    Result: PAPY ABEDI defeated BESAM YOUSEF via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - PAPY ABEDI landed 53 significant strikes
+  - BESAM YOUSEF landed 43 significant strikes
+  - Knockdowns: PAPY ABEDI 0,  BESAM YOUSEF 0
+  - Takedowns: PAPY ABEDI 4,  BESAM YOUSEF 2

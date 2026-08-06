@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: United States vs. United Kingdom Finale
+    Date: June 20, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TOMASZ DRWAL defeated MIKE CIESNOLEVICZ via KO/TKO  
+  at 4:48 of round 1
+  Key stats:
+  - TOMASZ DRWAL landed 27 significant strikes
+  - MIKE CIESNOLEVICZ landed 3 significant strikes
+  - Knockdowns: TOMASZ DRWAL 1,  MIKE CIESNOLEVICZ 0
+  - Takedowns: TOMASZ DRWAL 4,  MIKE CIESNOLEVICZ 0
+  Bonus: ko

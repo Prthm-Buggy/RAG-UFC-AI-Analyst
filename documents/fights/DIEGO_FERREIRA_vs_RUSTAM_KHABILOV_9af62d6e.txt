@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blachowicz vs. Santos
+    Date: February 23, 2019
+    Location: Prague, Czech Republic
+    Weight Class: Lightweight
+    
+
+    Result: DIEGO FERREIRA defeated RUSTAM KHABILOV via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DIEGO FERREIRA landed 83 significant strikes
+  - RUSTAM KHABILOV landed 43 significant strikes
+  - Knockdowns: DIEGO FERREIRA 0,  RUSTAM KHABILOV 0
+  - Takedowns: DIEGO FERREIRA 0,  RUSTAM KHABILOV 3

@@ -1,0 +1,14 @@
+Event: UFC 98: Evans vs Machida
+    Date: May 23, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: LYOTO MACHIDA defeated RASHAD EVANS via KO/TKO  
+  at 3:57 of round 2
+  Key stats:
+  - LYOTO MACHIDA landed 28 significant strikes
+  - RASHAD EVANS landed 4 significant strikes
+  - Knockdowns: LYOTO MACHIDA 3,  RASHAD EVANS 0
+  - Takedowns: LYOTO MACHIDA 0,  RASHAD EVANS 0
+  Bonus: belt

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vettori vs. Dolidze 2
+    Date: March 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: CARLI JUDICE defeated YUNEISY DUBEN via KO/TKO  
+  at 1:40 of round 1
+  Key stats:
+  - CARLI JUDICE landed 17 significant strikes
+  - YUNEISY DUBEN landed 14 significant strikes
+  - Knockdowns: CARLI JUDICE 1,  YUNEISY DUBEN 0
+  - Takedowns: CARLI JUDICE 0,  YUNEISY DUBEN 0
+  Bonus: perf

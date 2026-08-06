@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McDonald vs. Lineker
+    Date: July 13, 2016
+    Location: Sioux Falls, South Dakota, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALEX NICHOLSON defeated DEVIN CLARK via KO/TKO  
+  at 4:57 of round 1
+  Key stats:
+  - ALEX NICHOLSON landed 18 significant strikes
+  - DEVIN CLARK landed 14 significant strikes
+  - Knockdowns: ALEX NICHOLSON 1,  DEVIN CLARK 1
+  - Takedowns: ALEX NICHOLSON 0,  DEVIN CLARK 1

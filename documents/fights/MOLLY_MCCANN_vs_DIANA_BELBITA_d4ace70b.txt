@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dolidze vs. Imavov
+    Date: February 03, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MOLLY MCCANN defeated DIANA BELBITA via Submission  
+  at 4:59 of round 1
+  Key stats:
+  - MOLLY MCCANN landed 42 significant strikes
+  - DIANA BELBITA landed 29 significant strikes
+  - Knockdowns: MOLLY MCCANN 0,  DIANA BELBITA 0
+  - Takedowns: MOLLY MCCANN 2,  DIANA BELBITA 0
+  Bonus: perf

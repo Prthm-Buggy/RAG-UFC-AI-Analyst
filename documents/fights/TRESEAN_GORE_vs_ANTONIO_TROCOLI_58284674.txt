@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs. Prates
+    Date: November 09, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: TRESEAN GORE defeated ANTONIO TROCOLI via Submission  
+  at 1:23 of round 1
+  Key stats:
+  - TRESEAN GORE landed 3 significant strikes
+  - ANTONIO TROCOLI landed 2 significant strikes
+  - Knockdowns: TRESEAN GORE 0,  ANTONIO TROCOLI 0
+  - Takedowns: TRESEAN GORE 1,  ANTONIO TROCOLI 0

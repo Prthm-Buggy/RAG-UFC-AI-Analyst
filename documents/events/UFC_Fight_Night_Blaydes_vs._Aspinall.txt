@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Blaydes vs. Aspinall
+    Date : July 23, 2022
+    Location: London, England, United Kingdom
+    Number of Fights: 14
+    Weight Classes: Lightweight, Light Heavyweight, Featherweight, Flyweight, Welterweight, Middleweight, Women's Flyweight, Heavyweight
+
+    Fight Results:
+  - NICOLAS DALBY def. CLAUDIO SILVA via Decision - Unanimous(R3)
+- CURTIS BLAYDES def. TOM ASPINALL via KO/TKO(R1)
+- LUDOVIT KLEIN def. MASON JONES via Decision - Unanimous(R3)
+- PADDY PIMBLETT def. JORDAN LEAVITT via Submission(R2)
+- NATHANIEL WOOD def. CHARLES ROSA via Decision - Unanimous(R3)
+- VICTORIA LEONARDO def. MANDY BOHM via Decision - Unanimous(R3)
+- MUHAMMAD MOKAEV def. CHARLES JOHNSON via Decision - Unanimous(R3)
+- JAI HERBERT def. KYLE NELSON via Decision - Unanimous(R3)
+- JACK HERMANSSON def. CHRIS CURTIS via Decision - Unanimous(R3)
+- JONATHAN PEARCE def. MAKWAN AMIRKHANI via KO/TKO(R2)
+- MARC DIAKIESE def. DAMIR HADZOVIC via Decision - Unanimous(R3)
+- NIKITA KRYLOV def. ALEXANDER GUSTAFSSON via KO/TKO(R1)
+- VOLKAN OEZDEMIR def. PAUL CRAIG via Decision - Unanimous(R3)
+- MOLLY MCCANN def. HANNAH GOLDY via KO/TKO(R1)

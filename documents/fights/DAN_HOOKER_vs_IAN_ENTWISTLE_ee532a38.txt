@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Te Huna vs Marquardt
+    Date: June 28, 2014
+    Location: Auckland, New Zealand
+    Weight Class: Featherweight
+    
+
+    Result: DAN HOOKER defeated IAN ENTWISTLE via KO/TKO  
+  at 3:34 of round 1
+  Key stats:
+  - DAN HOOKER landed 12 significant strikes
+  - IAN ENTWISTLE landed 1 significant strikes
+  - Knockdowns: DAN HOOKER 0,  IAN ENTWISTLE 0
+  - Takedowns: DAN HOOKER 0,  IAN ENTWISTLE 0

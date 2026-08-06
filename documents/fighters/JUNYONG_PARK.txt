@@ -1,0 +1,11 @@
+Fighter: JUNYONG PARK
+  Date of Birth: 1991-02-27
+  Career record: 13
+  First fight: 2019-08-31
+  Last fight: 2025-10-25
+
+Career Statistics:
+- Significant Strikes Landed :742
+- Total takedowns landed :18
+- Knockdowns :1
+- Submission Attempts :9

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Boetsch vs Henderson
+    Date: June 06, 2015
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SHAWN JORDAN defeated DERRICK LEWIS via KO/TKO  
+  at 0:48 of round 2
+  Key stats:
+  - SHAWN JORDAN landed 23 significant strikes
+  - DERRICK LEWIS landed 6 significant strikes
+  - Knockdowns: SHAWN JORDAN 1,  DERRICK LEWIS 0
+  - Takedowns: SHAWN JORDAN 3,  DERRICK LEWIS 0
+  Bonus: perf

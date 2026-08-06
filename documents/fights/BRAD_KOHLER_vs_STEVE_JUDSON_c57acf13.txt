@@ -1,0 +1,13 @@
+Event: UFC 22: Only One Can be Champion
+    Date: September 24, 1999
+    Location: Lake Charles, Louisiana, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BRAD KOHLER defeated STEVE JUDSON via KO/TKO  
+  at 0:30 of round 1
+  Key stats:
+  - BRAD KOHLER landed 3 significant strikes
+  - STEVE JUDSON landed 0 significant strikes
+  - Knockdowns: BRAD KOHLER 1,  STEVE JUDSON 0
+  - Takedowns: BRAD KOHLER 1,  STEVE JUDSON 0

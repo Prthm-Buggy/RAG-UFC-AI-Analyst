@@ -1,0 +1,11 @@
+Fighter: KRZYSZTOF SOSZYNSKI
+  Date of Birth: 1977-08-02
+  Career record: 9
+  First fight: 2008-12-13
+  Last fight: 2011-12-10
+
+Career Statistics:
+- Significant Strikes Landed :288
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :6

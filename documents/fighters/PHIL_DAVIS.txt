@@ -1,0 +1,11 @@
+Fighter: PHIL DAVIS
+  Date of Birth: 1984-09-25
+  Career record: 12
+  First fight: 2010-02-06
+  Last fight: 2015-01-24
+
+Career Statistics:
+- Significant Strikes Landed :481
+- Total takedowns landed :31
+- Knockdowns :0
+- Submission Attempts :6

@@ -1,0 +1,14 @@
+Event : UFC - Ultimate Ultimate '95
+    Date : December 16, 1995
+    Location: Denver, Colorado, USA
+    Number of Fights: 7
+    Weight Classes: Open Weight
+
+    Fight Results:
+  - DAVID ABBOTT def. STEVE JENNUM via Submission(R1)
+- MARCO RUAS def. KEITH HACKNEY via Submission(R1)
+- DAN SEVERN def. OLEG TAKTAROV via Decision - Unanimous(R2)
+- OLEG TAKTAROV def. MARCO RUAS via Decision - Unanimous(R1)
+- OLEG TAKTAROV def. DAVE BENETEAU via Submission(R1)
+- DAN SEVERN def. PAUL VARELANS via Submission(R1)
+- DAN SEVERN def. DAVID ABBOTT via Decision - Unanimous(R1)

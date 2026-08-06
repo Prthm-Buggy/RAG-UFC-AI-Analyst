@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Teixeira
+    Date: November 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MAX GRIFFIN defeated RAMIZ BRAHIMAJ via KO/TKO  
+  at 2:03 of round 3
+  Key stats:
+  - MAX GRIFFIN landed 74 significant strikes
+  - RAMIZ BRAHIMAJ landed 45 significant strikes
+  - Knockdowns: MAX GRIFFIN 0,  RAMIZ BRAHIMAJ 0
+  - Takedowns: MAX GRIFFIN 0,  RAMIZ BRAHIMAJ 0

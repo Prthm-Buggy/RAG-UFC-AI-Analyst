@@ -1,0 +1,11 @@
+Fighter: DAMIAN STASIAK
+  Date of Birth: 1990-02-20
+  Career record: 6
+  First fight: 2015-04-11
+  Last fight: 2018-07-22
+
+Career Statistics:
+- Significant Strikes Landed :137
+- Total takedowns landed :13
+- Knockdowns :0
+- Submission Attempts :3

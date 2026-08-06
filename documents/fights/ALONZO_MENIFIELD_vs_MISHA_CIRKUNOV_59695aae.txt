@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Grasso vs. Araujo
+    Date: October 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALONZO MENIFIELD defeated MISHA CIRKUNOV via KO/TKO  
+  at 1:28 of round 1
+  Key stats:
+  - ALONZO MENIFIELD landed 8 significant strikes
+  - MISHA CIRKUNOV landed 5 significant strikes
+  - Knockdowns: ALONZO MENIFIELD 1,  MISHA CIRKUNOV 0
+  - Takedowns: ALONZO MENIFIELD 0,  MISHA CIRKUNOV 0

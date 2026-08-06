@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kim vs Hathaway
+    Date: March 01, 2014
+    Location: Macau, China
+    Weight Class: Welterweight
+    
+
+    Result: ANYING WANG defeated ALBERT CHENG via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - ANYING WANG landed 13 significant strikes
+  - ALBERT CHENG landed 5 significant strikes
+  - Knockdowns: ANYING WANG 0,  ALBERT CHENG 0
+  - Takedowns: ANYING WANG 0,  ALBERT CHENG 0

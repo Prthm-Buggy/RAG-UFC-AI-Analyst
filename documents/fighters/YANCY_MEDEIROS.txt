@@ -1,0 +1,11 @@
+Fighter: YANCY MEDEIROS
+  Date of Birth: 1987-09-07
+  Career record: 14
+  First fight: 2013-04-27
+  Last fight: 2021-06-26
+
+Career Statistics:
+- Significant Strikes Landed :526
+- Total takedowns landed :3
+- Knockdowns :8
+- Submission Attempts :6

@@ -1,0 +1,14 @@
+Event: UFC 266: Volkanovski vs. Ortega
+    Date: September 25, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: VALENTINA SHEVCHENKO defeated LAUREN MURPHY via KO/TKO  
+  at 4:00 of round 4
+  Key stats:
+  - VALENTINA SHEVCHENKO landed 98 significant strikes
+  - LAUREN MURPHY landed 11 significant strikes
+  - Knockdowns: VALENTINA SHEVCHENKO 0,  LAUREN MURPHY 0
+  - Takedowns: VALENTINA SHEVCHENKO 3,  LAUREN MURPHY 0
+  Bonus: belt

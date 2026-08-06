@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Covington vs. Lawler
+    Date: August 03, 2019
+    Location: Newark, New Jersey, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ANTONINA SHEVCHENKO defeated LUCIE PUDILOVA via Submission  
+  at 1:20 of round 2
+  Key stats:
+  - ANTONINA SHEVCHENKO landed 16 significant strikes
+  - LUCIE PUDILOVA landed 6 significant strikes
+  - Knockdowns: ANTONINA SHEVCHENKO 0,  LUCIE PUDILOVA 0
+  - Takedowns: ANTONINA SHEVCHENKO 0,  LUCIE PUDILOVA 1
+  Bonus: fight

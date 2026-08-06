@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cannonier vs. Gastelum
+    Date: August 21, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JARED CANNONIER defeated KELVIN GASTELUM via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JARED CANNONIER landed 81 significant strikes
+  - KELVIN GASTELUM landed 89 significant strikes
+  - Knockdowns: JARED CANNONIER 1,  KELVIN GASTELUM 0
+  - Takedowns: JARED CANNONIER 0,  KELVIN GASTELUM 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Teixeira vs Saint Preux
+    Date: August 08, 2015
+    Location: Nashville, Tennessee, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AMANDA NUNES defeated SARA MCMANN via Submission  
+  at 2:53 of round 1
+  Key stats:
+  - AMANDA NUNES landed 27 significant strikes
+  - SARA MCMANN landed 2 significant strikes
+  - Knockdowns: AMANDA NUNES 1,  SARA MCMANN 0
+  - Takedowns: AMANDA NUNES 0,  SARA MCMANN 0
+  Bonus: perf

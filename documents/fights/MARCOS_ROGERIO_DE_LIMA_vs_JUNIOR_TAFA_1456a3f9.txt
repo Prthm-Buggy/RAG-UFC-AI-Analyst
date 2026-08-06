@@ -1,0 +1,13 @@
+Event: UFC 298: Volkanovski vs. Topuria
+    Date: February 17, 2024
+    Location: Anaheim, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARCOS ROGERIO DE LIMA defeated JUNIOR TAFA via KO/TKO  
+  at 1:14 of round 2
+  Key stats:
+  - MARCOS ROGERIO DE LIMA landed 33 significant strikes
+  - JUNIOR TAFA landed 11 significant strikes
+  - Knockdowns: MARCOS ROGERIO DE LIMA 1,  JUNIOR TAFA 0
+  - Takedowns: MARCOS ROGERIO DE LIMA 1,  JUNIOR TAFA 0

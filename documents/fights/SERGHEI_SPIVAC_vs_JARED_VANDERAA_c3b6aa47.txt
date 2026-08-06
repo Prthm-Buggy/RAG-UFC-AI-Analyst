@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Lewis
+    Date: February 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SERGHEI SPIVAC defeated JARED VANDERAA via KO/TKO  
+  at 4:32 of round 2
+  Key stats:
+  - SERGHEI SPIVAC landed 51 significant strikes
+  - JARED VANDERAA landed 13 significant strikes
+  - Knockdowns: SERGHEI SPIVAC 0,  JARED VANDERAA 0
+  - Takedowns: SERGHEI SPIVAC 3,  JARED VANDERAA 0

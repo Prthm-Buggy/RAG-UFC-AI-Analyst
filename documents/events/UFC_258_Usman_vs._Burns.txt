@@ -1,0 +1,17 @@
+Event : UFC 258: Usman vs. Burns
+    Date : February 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Middleweight, Welterweight, Featherweight, Women's Strawweight, Catch Weight, Women's Flyweight
+
+    Fight Results:
+  - ALEXA GRASSO def. MAYCEE BARBER via Decision - Unanimous(R3)
+- ANTHONY HERNANDEZ def. RODOLFO VIEIRA via Submission(R2)
+- CHRIS GUTIERREZ def. ANDRE EWELL via Decision - Unanimous(R3)
+- POLYANA VIANA def. MALLORY MARTIN via Submission(R1)
+- KELVIN GASTELUM def. IAN HEINISCH via Decision - Unanimous(R3)
+- JULIAN MARQUEZ def. MAKI PITOLO via Submission(R3)
+- GABE GREEN def. PHIL ROWE via Decision - Unanimous(R3)
+- BELAL MUHAMMAD def. DHIEGO LIMA via Decision - Unanimous(R3)
+- KAMARU USMAN def. GILBERT BURNS via KO/TKO(R3)
+- RICKY SIMON def. BRIAN KELLEHER via Decision - Unanimous(R3)

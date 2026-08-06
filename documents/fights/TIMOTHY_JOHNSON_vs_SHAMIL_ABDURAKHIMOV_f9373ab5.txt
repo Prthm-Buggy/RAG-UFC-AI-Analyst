@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Mendes vs Lamas
+    Date: April 04, 2015
+    Location: Fairfax, Virginia, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TIMOTHY JOHNSON defeated SHAMIL ABDURAKHIMOV via KO/TKO  
+  at 4:57 of round 1
+  Key stats:
+  - TIMOTHY JOHNSON landed 22 significant strikes
+  - SHAMIL ABDURAKHIMOV landed 9 significant strikes
+  - Knockdowns: TIMOTHY JOHNSON 0,  SHAMIL ABDURAKHIMOV 0
+  - Takedowns: TIMOTHY JOHNSON 1,  SHAMIL ABDURAKHIMOV 0
+  Bonus: perf

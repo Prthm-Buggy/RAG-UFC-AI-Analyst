@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Mousasi vs. Hall 2
+    Date : November 19, 2016
+    Location: Belfast, Northern Ireland, United Kingdom
+    Number of Fights: 13
+    Weight Classes: Welterweight, Women's Bantamweight, Middleweight, Women's Strawweight, Lightweight, Featherweight, Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - ALEXANDER VOLKOV def. TIMOTHY JOHNSON via Decision - Split(R3)
+- BRETT JOHNS def. KWAN HO KWAK via Decision - Unanimous(R3)
+- KEVIN LEE def. MAGOMED MUSTAFAEV via Submission(R2)
+- JACK MARSHMAN def. MAGNUS CEDENBLAD via KO/TKO(R2)
+- ABDUL RAZAK ALHASSAN def. CHARLIE WARD via KO/TKO(R1)
+- AMANDA COOPER def. ANNA ELMOSE via Decision - Unanimous(R3)
+- JUSTIN LEDET def. MARK GODBEER via Submission(R1)
+- KYOJI HORIGUCHI def. ALI BAGAUTINOV via Decision - Unanimous(R3)
+- ARTEM LOBOV def. TERUTO ISHIHARA via Decision - Unanimous(R3)
+- ZAK CUMMINGS def. ALEXANDER YAKOVLEV via Submission(R2)
+- GEGARD MOUSASI def. URIAH HALL via KO/TKO(R1)
+- STEVIE RAY def. ROSS PEARSON via Decision - Split(R3)
+- MARION RENEAU def. MILANA DUDIEVA via KO/TKO(R3)

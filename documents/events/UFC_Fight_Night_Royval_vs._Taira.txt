@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Royval vs. Taira
+    Date : October 12, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Bantamweight, Welterweight, Flyweight, Middleweight, Featherweight, Women's Strawweight, Lightweight
+
+    Fight Results:
+  - RAMAZAN TEMIROV def. CJ VERGARA via KO/TKO(R1)
+- BRANDON ROYVAL def. TATSURO TAIRA via Decision - Split(R5)
+- CODY HADDON def. DAN ARGUETA via Decision - Unanimous(R3)
+- CLAYTON CARPENTER def. LUCAS ROCHA via Submission(R2)
+- JUNIOR TAFA def. SEAN SHARAF via KO/TKO(R2)
+- PAT SABATINI def. JONATHAN PEARCE via Submission(R1)
+- CHIDI NJOKUANI def. JARED GOODEN via Decision - Unanimous(R3)
+- GRANT DAWSON def. RAFA GARCIA via KO/TKO(R2)
+- JULIA POLASTRI def. CORY MCKENNA via Decision - Split(R3)
+- DANIEL RODRIGUEZ def. ALEX MORONO via Decision - Split(R3)
+- THEMBA GORIMBO def. NIKO PRICE via Decision - Unanimous(R3)
+- JUNYONG PARK def. BRAD TAVARES via Decision - Split(R3)

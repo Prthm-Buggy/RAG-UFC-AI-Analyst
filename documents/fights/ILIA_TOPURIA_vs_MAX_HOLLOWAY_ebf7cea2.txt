@@ -1,0 +1,14 @@
+Event: UFC 308: Topuria vs. Holloway
+    Date: October 26, 2024
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Featherweight
+    
+
+    Result: ILIA TOPURIA defeated MAX HOLLOWAY via KO/TKO  
+  at 1:34 of round 3
+  Key stats:
+  - ILIA TOPURIA landed 75 significant strikes
+  - MAX HOLLOWAY landed 79 significant strikes
+  - Knockdowns: ILIA TOPURIA 1,  MAX HOLLOWAY 0
+  - Takedowns: ILIA TOPURIA 2,  MAX HOLLOWAY 0
+  Bonus: belt

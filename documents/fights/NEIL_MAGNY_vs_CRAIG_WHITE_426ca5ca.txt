@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thompson vs. Till
+    Date: May 27, 2018
+    Location: Liverpool, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: NEIL MAGNY defeated CRAIG WHITE via KO/TKO  
+  at 4:32 of round 1
+  Key stats:
+  - NEIL MAGNY landed 18 significant strikes
+  - CRAIG WHITE landed 6 significant strikes
+  - Knockdowns: NEIL MAGNY 1,  CRAIG WHITE 0
+  - Takedowns: NEIL MAGNY 0,  CRAIG WHITE 0

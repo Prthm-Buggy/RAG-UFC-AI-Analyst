@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: United States vs. United Kingdom Finale
+    Date: June 20, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JASON DENT defeated CAMERON DOLLAR via Submission  
+  at 4:46 of round 1
+  Key stats:
+  - JASON DENT landed 14 significant strikes
+  - CAMERON DOLLAR landed 24 significant strikes
+  - Knockdowns: JASON DENT 0,  CAMERON DOLLAR 0
+  - Takedowns: JASON DENT 0,  CAMERON DOLLAR 0
+  Bonus: sub

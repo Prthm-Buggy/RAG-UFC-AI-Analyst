@@ -1,0 +1,18 @@
+Event : UFC 174: Johnson vs Bagautinov
+    Date : June 14, 2014
+    Location: Vancouver, British Columbia, Canada
+    Number of Fights: 11
+    Weight Classes: Lightweight, Light Heavyweight, Welterweight, Women's Bantamweight, Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - ANDREI ARLOVSKI def. BRENDAN SCHAUB via Decision - Split(R3)
+- OVINCE SAINT PREUX def. RYAN JIMMO via KO/TKO(R2)
+- DEMETRIOUS JOHNSON def. ALI BAGAUTINOV via Decision - Unanimous(R5)
+- RYAN BADER def. RAFAEL CAVALCANTE via Decision - Unanimous(R3)
+- TAE HYUN BANG def. KAJAN JOHNSON via KO/TKO(R3)
+- MICHINORI TANAKA def. ROLAND DELORME via Decision - Unanimous(R3)
+- KIICHI KUNIMOTO def. DANIEL SARAFIAN via Submission(R1)
+- VALERIE LETOURNEAU def. ELIZABETH PHILLIPS via Decision - Split(R3)
+- YVES JABOUIN def. MIKE EASTON via Decision - Unanimous(R3)
+- RORY MACDONALD def. TYRON WOODLEY via Decision - Unanimous(R3)
+- JASON SAGGO def. JOSH SHOCKLEY via KO/TKO(R1)

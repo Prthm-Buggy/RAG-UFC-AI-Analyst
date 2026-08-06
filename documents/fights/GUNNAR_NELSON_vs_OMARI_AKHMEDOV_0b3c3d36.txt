@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gustafsson vs Manuwa
+    Date: March 08, 2014
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: GUNNAR NELSON defeated OMARI AKHMEDOV via Submission  
+  at 4:36 of round 1
+  Key stats:
+  - GUNNAR NELSON landed 16 significant strikes
+  - OMARI AKHMEDOV landed 6 significant strikes
+  - Knockdowns: GUNNAR NELSON 0,  OMARI AKHMEDOV 0
+  - Takedowns: GUNNAR NELSON 1,  OMARI AKHMEDOV 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC 80: Rapid Fire
+    Date: January 19, 2008
+    Location: Newcastle, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: BJ PENN defeated JOE STEVENSON via Submission  
+  at 4:02 of round 2
+  Key stats:
+  - BJ PENN landed 41 significant strikes
+  - JOE STEVENSON landed 17 significant strikes
+  - Knockdowns: BJ PENN 2,  JOE STEVENSON 0
+  - Takedowns: BJ PENN 0,  JOE STEVENSON 0
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs LaFlare
+    Date: March 21, 2015
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: CHRISTOS GIAGOS defeated JORGE DE OLIVEIRA via Submission  
+  at 3:12 of round 1
+  Key stats:
+  - CHRISTOS GIAGOS landed 18 significant strikes
+  - JORGE DE OLIVEIRA landed 0 significant strikes
+  - Knockdowns: CHRISTOS GIAGOS 0,  JORGE DE OLIVEIRA 0
+  - Takedowns: CHRISTOS GIAGOS 1,  JORGE DE OLIVEIRA 0

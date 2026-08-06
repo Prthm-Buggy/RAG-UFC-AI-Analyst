@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rivera vs. Moraes
+    Date: June 01, 2018
+    Location: Utica, New York, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOSE TORRES defeated JARRED BROOKS via KO/TKO  
+  at 2:55 of round 2
+  Key stats:
+  - JOSE TORRES landed 22 significant strikes
+  - JARRED BROOKS landed 31 significant strikes
+  - Knockdowns: JOSE TORRES 0,  JARRED BROOKS 0
+  - Takedowns: JOSE TORRES 1,  JARRED BROOKS 2

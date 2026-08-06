@@ -1,0 +1,13 @@
+Event: UFC 266: Volkanovski vs. Ortega
+    Date: September 25, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JONATHAN PEARCE defeated OMAR MORALES via Submission  
+  at 3:31 of round 2
+  Key stats:
+  - JONATHAN PEARCE landed 12 significant strikes
+  - OMAR MORALES landed 12 significant strikes
+  - Knockdowns: JONATHAN PEARCE 0,  OMAR MORALES 0
+  - Takedowns: JONATHAN PEARCE 6,  OMAR MORALES 0

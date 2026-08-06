@@ -1,0 +1,11 @@
+Fighter: MIESHA TATE
+  Date of Birth: 1986-08-18
+  Career record: 14
+  First fight: 2013-04-13
+  Last fight: 2025-05-03
+
+Career Statistics:
+- Significant Strikes Landed :618
+- Total takedowns landed :19
+- Knockdowns :1
+- Submission Attempts :12

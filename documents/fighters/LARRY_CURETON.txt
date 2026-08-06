@@ -1,0 +1,11 @@
+Fighter: LARRY CURETON
+  Date of Birth: Unknown
+  Career record: 2
+  First fight: 1995-04-07
+  Last fight: 1995-09-08
+
+Career Statistics:
+- Significant Strikes Landed :7
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

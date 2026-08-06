@@ -1,0 +1,13 @@
+Event: UFC 93: Franklin vs Henderson
+    Date: January 17, 2009
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Welterweight
+    
+
+    Result: JOHN HATHAWAY defeated TOM EGAN via KO/TKO  
+  at 4:36 of round 1
+  Key stats:
+  - JOHN HATHAWAY landed 18 significant strikes
+  - TOM EGAN landed 0 significant strikes
+  - Knockdowns: JOHN HATHAWAY 0,  TOM EGAN 0
+  - Takedowns: JOHN HATHAWAY 5,  TOM EGAN 0

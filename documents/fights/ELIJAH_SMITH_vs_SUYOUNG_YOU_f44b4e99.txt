@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Vallejos
+    Date: March 14, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ELIJAH SMITH defeated SUYOUNG YOU via Submission  
+  at 1:04 of round 2
+  Key stats:
+  - ELIJAH SMITH landed 16 significant strikes
+  - SUYOUNG YOU landed 3 significant strikes
+  - Knockdowns: ELIJAH SMITH 1,  SUYOUNG YOU 0
+  - Takedowns: ELIJAH SMITH 0,  SUYOUNG YOU 4

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Felder vs. Dos Anjos
+    Date: November 14, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: TONY GRAVELY defeated GERALDO DE FREITAS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - TONY GRAVELY landed 49 significant strikes
+  - GERALDO DE FREITAS landed 76 significant strikes
+  - Knockdowns: TONY GRAVELY 0,  GERALDO DE FREITAS 0
+  - Takedowns: TONY GRAVELY 7,  GERALDO DE FREITAS 1

@@ -1,0 +1,13 @@
+Event: UFC 153: Silva vs Bonnar
+    Date: October 13, 2012
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: PHIL DAVIS defeated WAGNER PRADO via Submission  
+  at 4:29 of round 2
+  Key stats:
+  - PHIL DAVIS landed 29 significant strikes
+  - WAGNER PRADO landed 2 significant strikes
+  - Knockdowns: PHIL DAVIS 0,  WAGNER PRADO 0
+  - Takedowns: PHIL DAVIS 5,  WAGNER PRADO 0

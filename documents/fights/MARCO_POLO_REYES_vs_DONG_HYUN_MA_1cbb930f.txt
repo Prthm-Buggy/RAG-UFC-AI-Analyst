@@ -1,0 +1,14 @@
+Event: UFC 199: Rockhold vs. Bisping 2
+    Date: June 04, 2016
+    Location: Los Angeles, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: MARCO POLO REYES defeated DONG HYUN MA via KO/TKO  
+  at 1:52 of round 3
+  Key stats:
+  - MARCO POLO REYES landed 135 significant strikes
+  - DONG HYUN MA landed 83 significant strikes
+  - Knockdowns: MARCO POLO REYES 2,  DONG HYUN MA 0
+  - Takedowns: MARCO POLO REYES 0,  DONG HYUN MA 2
+  Bonus: fight

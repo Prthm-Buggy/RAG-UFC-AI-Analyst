@@ -1,0 +1,11 @@
+Fighter: AJ DOBSON
+  Date of Birth: 1992-01-18
+  Career record: 4
+  First fight: 2022-02-12
+  Last fight: 2024-03-23
+
+Career Statistics:
+- Significant Strikes Landed :192
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

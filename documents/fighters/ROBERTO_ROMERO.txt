@@ -1,0 +1,11 @@
+Fighter: ROBERTO ROMERO
+  Date of Birth: 2000-01-30
+  Career record: 2
+  First fight: 2024-11-16
+  Last fight: 2025-04-26
+
+Career Statistics:
+- Significant Strikes Landed :109
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

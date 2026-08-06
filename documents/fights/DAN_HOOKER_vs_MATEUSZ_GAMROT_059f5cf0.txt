@@ -1,0 +1,14 @@
+Event: UFC 305: Du Plessis vs. Adesanya
+    Date: August 17, 2024
+    Location: Perth, Western Australia, Australia
+    Weight Class: Lightweight
+    
+
+    Result: DAN HOOKER defeated MATEUSZ GAMROT via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - DAN HOOKER landed 65 significant strikes
+  - MATEUSZ GAMROT landed 64 significant strikes
+  - Knockdowns: DAN HOOKER 0,  MATEUSZ GAMROT 0
+  - Takedowns: DAN HOOKER 0,  MATEUSZ GAMROT 5
+  Bonus: fight

@@ -1,0 +1,14 @@
+Event: UFC 131: Dos Santos vs Carwin
+    Date: June 11, 2011
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Lightweight
+    
+
+    Result: SAM STOUT defeated YVES EDWARDS via KO/TKO  
+  at 3:52 of round 1
+  Key stats:
+  - SAM STOUT landed 13 significant strikes
+  - YVES EDWARDS landed 14 significant strikes
+  - Knockdowns: SAM STOUT 1,  YVES EDWARDS 0
+  - Takedowns: SAM STOUT 0,  YVES EDWARDS 1
+  Bonus: ko

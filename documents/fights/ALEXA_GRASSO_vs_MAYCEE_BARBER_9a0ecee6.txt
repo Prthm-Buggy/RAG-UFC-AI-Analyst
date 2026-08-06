@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Adesanya vs. Pyfer
+    Date: March 28, 2026
+    Location: Seattle, Washington, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ALEXA GRASSO defeated MAYCEE BARBER via KO/TKO  
+  at 2:42 of round 1
+  Key stats:
+  - ALEXA GRASSO landed 12 significant strikes
+  - MAYCEE BARBER landed 5 significant strikes
+  - Knockdowns: ALEXA GRASSO 1,  MAYCEE BARBER 0
+  - Takedowns: ALEXA GRASSO 0,  MAYCEE BARBER 0
+  Bonus: perf

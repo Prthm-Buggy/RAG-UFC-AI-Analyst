@@ -1,0 +1,11 @@
+Fighter: JI YEON KIM
+  Date of Birth: 1989-10-18
+  Career record: 10
+  First fight: 2017-06-17
+  Last fight: 2023-05-13
+
+Career Statistics:
+- Significant Strikes Landed :762
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :1

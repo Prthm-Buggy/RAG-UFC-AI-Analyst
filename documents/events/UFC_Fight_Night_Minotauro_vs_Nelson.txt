@@ -1,0 +1,14 @@
+Event : UFC Fight Night: Minotauro vs Nelson
+    Date : April 11, 2014
+    Location: Abu Dhabi, United Arab Emirates
+    Number of Fights: 7
+    Weight Classes: Heavyweight, Featherweight, Welterweight, Lightweight, Middleweight
+
+    Fight Results:
+  - THALES LEITES def. TREVOR SMITH via KO/TKO(R1)
+- CLAY GUIDA def. TATSUYA KAWAJIRI via Decision - Unanimous(R3)
+- JIM ALERS def. ALAN OMER via Decision - Split(R3)
+- JARED ROSHOLT def. DANIEL OMIELANCZUK via Decision - Unanimous(R3)
+- ROY NELSON def. ANTONIO RODRIGO NOGUEIRA via KO/TKO(R1)
+- RYAN LAFLARE def. JOHN HOWARD via Decision - Unanimous(R3)
+- RAMSEY NIJEM def. BENEIL DARIUSH via KO/TKO(R1)

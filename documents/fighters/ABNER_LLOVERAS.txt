@@ -1,0 +1,11 @@
+Fighter: ABNER LLOVERAS
+  Date of Birth: 1982-09-04
+  Career record: 1
+  First fight: 2015-12-11
+  Last fight: 2015-12-11
+
+Career Statistics:
+- Significant Strikes Landed :94
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

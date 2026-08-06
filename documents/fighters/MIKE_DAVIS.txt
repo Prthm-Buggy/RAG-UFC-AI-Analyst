@@ -1,0 +1,11 @@
+Fighter: MIKE DAVIS
+  Date of Birth: 1992-10-07
+  Career record: 7
+  First fight: 2019-04-27
+  Last fight: 2025-07-12
+
+Career Statistics:
+- Significant Strikes Landed :395
+- Total takedowns landed :16
+- Knockdowns :4
+- Submission Attempts :5

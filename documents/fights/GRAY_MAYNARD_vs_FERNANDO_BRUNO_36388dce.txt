@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Joanna vs. Team Cl��udia Finale
+    Date: July 08, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: GRAY MAYNARD defeated FERNANDO BRUNO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - GRAY MAYNARD landed 30 significant strikes
+  - FERNANDO BRUNO landed 32 significant strikes
+  - Knockdowns: GRAY MAYNARD 0,  FERNANDO BRUNO 0
+  - Takedowns: GRAY MAYNARD 3,  FERNANDO BRUNO 2

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Song vs. Simon
+    Date: April 29, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARTIN BUDAY defeated JAKE COLLIER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARTIN BUDAY landed 98 significant strikes
+  - JAKE COLLIER landed 94 significant strikes
+  - Knockdowns: MARTIN BUDAY 0,  JAKE COLLIER 0
+  - Takedowns: MARTIN BUDAY 0,  JAKE COLLIER 0

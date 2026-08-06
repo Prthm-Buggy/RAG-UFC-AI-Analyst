@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Covington vs. Lawler
+    Date: August 03, 2019
+    Location: Newark, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: CLAUDIO SILVA defeated COLE WILLIAMS via Submission  
+  at 2:35 of round 1
+  Key stats:
+  - CLAUDIO SILVA landed 32 significant strikes
+  - COLE WILLIAMS landed 2 significant strikes
+  - Knockdowns: CLAUDIO SILVA 0,  COLE WILLIAMS 0
+  - Takedowns: CLAUDIO SILVA 1,  COLE WILLIAMS 0

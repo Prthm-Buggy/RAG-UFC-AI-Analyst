@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Dos Santos
+    Date: March 09, 2019
+    Location: Wichita, Kansas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MAURICE GREENE defeated JEFF HUGHES via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MAURICE GREENE landed 70 significant strikes
+  - JEFF HUGHES landed 66 significant strikes
+  - Knockdowns: MAURICE GREENE 0,  JEFF HUGHES 0
+  - Takedowns: MAURICE GREENE 0,  JEFF HUGHES 0

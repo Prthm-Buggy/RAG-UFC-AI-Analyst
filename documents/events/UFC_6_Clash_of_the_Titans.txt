@@ -1,0 +1,15 @@
+Event : UFC 6: Clash of the Titans
+    Date : July 14, 1995
+    Location: Casper, Wyoming, USA
+    Number of Fights: 8
+    Weight Classes: Open Weight
+
+    Fight Results:
+  - DAVID ABBOTT def. PAUL VARELANS via KO/TKO(R1)
+- PAUL VARELANS def. CAL WORSHAM via KO/TKO(R1)
+- PATRICK SMITH def. RUDYARD MONCAYO via Submission(R1)
+- DAVID ABBOTT def. JOHN MATUA via KO/TKO(R1)
+- KEN SHAMROCK def. DAN SEVERN via Submission(R1)
+- OLEG TAKTAROV def. DAVE BENETEAU via Submission(R1)
+- OLEG TAKTAROV def. ANTHONY MACIAS via Submission(R1)
+- OLEG TAKTAROV def. DAVID ABBOTT via Submission(R1)

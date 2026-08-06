@@ -1,0 +1,13 @@
+Event: UFC 40: Vendetta
+    Date: November 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: PHILLIP MILLER defeated MARK WEIR via Submission  
+  at 4:50 of round 2
+  Key stats:
+  - PHILLIP MILLER landed 10 significant strikes
+  - MARK WEIR landed 19 significant strikes
+  - Knockdowns: PHILLIP MILLER 0,  MARK WEIR 1
+  - Takedowns: PHILLIP MILLER 2,  MARK WEIR 0

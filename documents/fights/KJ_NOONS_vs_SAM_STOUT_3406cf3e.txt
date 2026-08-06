@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bisping vs Kennedy
+    Date: April 16, 2014
+    Location: Quebec City, Quebec, Canada
+    Weight Class: Welterweight
+    
+
+    Result: KJ NOONS defeated SAM STOUT via KO/TKO  
+  at 0:30 of round 1
+  Key stats:
+  - KJ NOONS landed 7 significant strikes
+  - SAM STOUT landed 5 significant strikes
+  - Knockdowns: KJ NOONS 1,  SAM STOUT 0
+  - Takedowns: KJ NOONS 0,  SAM STOUT 0
+  Bonus: perf

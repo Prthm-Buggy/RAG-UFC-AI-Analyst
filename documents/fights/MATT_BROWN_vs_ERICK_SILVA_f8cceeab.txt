@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Brown vs Silva
+    Date: May 10, 2014
+    Location: Cincinnati, Ohio, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT BROWN defeated ERICK SILVA via KO/TKO  
+  at 2:11 of round 3
+  Key stats:
+  - MATT BROWN landed 118 significant strikes
+  - ERICK SILVA landed 25 significant strikes
+  - Knockdowns: MATT BROWN 0,  ERICK SILVA 1
+  - Takedowns: MATT BROWN 5,  ERICK SILVA 0
+  Bonus: fight

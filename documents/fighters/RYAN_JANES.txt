@@ -1,0 +1,11 @@
+Fighter: RYAN JANES
+  Date of Birth: 1981-08-22
+  Career record: 4
+  First fight: 2016-12-09
+  Last fight: 2017-12-01
+
+Career Statistics:
+- Significant Strikes Landed :327
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC on FX: Sotiropoulos vs Pearson
+    Date: December 14, 2012
+    Location: Gold Coast, Queensland, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: CODY DONOVAN defeated NICK PENNER via KO/TKO  
+  at 4:35 of round 1
+  Key stats:
+  - CODY DONOVAN landed 19 significant strikes
+  - NICK PENNER landed 7 significant strikes
+  - Knockdowns: CODY DONOVAN 1,  NICK PENNER 1
+  - Takedowns: CODY DONOVAN 1,  NICK PENNER 0
+  Bonus: fight

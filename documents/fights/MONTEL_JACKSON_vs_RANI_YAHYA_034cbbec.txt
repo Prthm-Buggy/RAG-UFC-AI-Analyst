@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Pavlovich vs. Blaydes
+    Date: April 22, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MONTEL JACKSON defeated RANI YAHYA via KO/TKO  
+  at 3:42 of round 1
+  Key stats:
+  - MONTEL JACKSON landed 9 significant strikes
+  - RANI YAHYA landed 7 significant strikes
+  - Knockdowns: MONTEL JACKSON 1,  RANI YAHYA 0
+  - Takedowns: MONTEL JACKSON 0,  RANI YAHYA 0
+  Bonus: perf

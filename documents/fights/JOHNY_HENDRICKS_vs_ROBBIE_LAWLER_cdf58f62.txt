@@ -1,0 +1,14 @@
+Event: UFC 171: Hendricks vs Lawler
+    Date: March 15, 2014
+    Location: Dallas, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOHNY HENDRICKS defeated ROBBIE LAWLER via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JOHNY HENDRICKS landed 158 significant strikes
+  - ROBBIE LAWLER landed 150 significant strikes
+  - Knockdowns: JOHNY HENDRICKS 0,  ROBBIE LAWLER 0
+  - Takedowns: JOHNY HENDRICKS 2,  ROBBIE LAWLER 0
+  Bonus: belt

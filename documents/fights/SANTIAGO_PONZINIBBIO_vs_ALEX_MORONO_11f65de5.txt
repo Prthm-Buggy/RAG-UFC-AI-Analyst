@@ -1,0 +1,14 @@
+Event: UFC 282: Blachowicz vs. Ankalaev
+    Date: December 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: SANTIAGO PONZINIBBIO defeated ALEX MORONO via KO/TKO  
+  at 2:29 of round 3
+  Key stats:
+  - SANTIAGO PONZINIBBIO landed 66 significant strikes
+  - ALEX MORONO landed 38 significant strikes
+  - Knockdowns: SANTIAGO PONZINIBBIO 1,  ALEX MORONO 1
+  - Takedowns: SANTIAGO PONZINIBBIO 0,  ALEX MORONO 0
+  Bonus: perf

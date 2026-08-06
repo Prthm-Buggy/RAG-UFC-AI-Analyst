@@ -1,0 +1,11 @@
+Fighter: RAFAELLO OLIVEIRA
+  Date of Birth: 1982-01-26
+  Career record: 8
+  First fight: 2009-09-19
+  Last fight: 2014-02-22
+
+Career Statistics:
+- Significant Strikes Landed :185
+- Total takedowns landed :14
+- Knockdowns :0
+- Submission Attempts :9

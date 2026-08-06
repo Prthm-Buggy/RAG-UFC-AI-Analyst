@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Figueiredo vs. Benavidez 2
+    Date: July 18, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: JOEL ALVAREZ defeated JOE DUFFY via Submission  
+  at 2:25 of round 1
+  Key stats:
+  - JOEL ALVAREZ landed 18 significant strikes
+  - JOE DUFFY landed 14 significant strikes
+  - Knockdowns: JOEL ALVAREZ 0,  JOE DUFFY 0
+  - Takedowns: JOEL ALVAREZ 0,  JOE DUFFY 1

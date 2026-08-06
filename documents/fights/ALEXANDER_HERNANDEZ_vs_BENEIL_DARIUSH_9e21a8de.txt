@@ -1,0 +1,14 @@
+Event: UFC 222: Cyborg vs. Kunitskaya
+    Date: March 03, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ALEXANDER HERNANDEZ defeated BENEIL DARIUSH via KO/TKO  
+  at 0:42 of round 1
+  Key stats:
+  - ALEXANDER HERNANDEZ landed 8 significant strikes
+  - BENEIL DARIUSH landed 4 significant strikes
+  - Knockdowns: ALEXANDER HERNANDEZ 1,  BENEIL DARIUSH 0
+  - Takedowns: ALEXANDER HERNANDEZ 0,  BENEIL DARIUSH 0
+  Bonus: perf

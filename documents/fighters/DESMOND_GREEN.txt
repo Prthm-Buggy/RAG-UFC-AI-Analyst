@@ -1,0 +1,11 @@
+Fighter: DESMOND GREEN
+  Date of Birth: 1989-10-11
+  Career record: 7
+  First fight: 2017-04-08
+  Last fight: 2019-05-18
+
+Career Statistics:
+- Significant Strikes Landed :344
+- Total takedowns landed :10
+- Knockdowns :1
+- Submission Attempts :0

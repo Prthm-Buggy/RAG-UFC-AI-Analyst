@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fight for the Troops 3
+    Date: November 06, 2013
+    Location: Fort Campbell, Kentucky, USA
+    Weight Class: Middleweight
+    
+
+    Result: DEREK BRUNSON defeated BRIAN HOUSTON via Submission  
+  at 0:48 of round 1
+  Key stats:
+  - DEREK BRUNSON landed 1 significant strikes
+  - BRIAN HOUSTON landed 0 significant strikes
+  - Knockdowns: DEREK BRUNSON 1,  BRIAN HOUSTON 0
+  - Takedowns: DEREK BRUNSON 0,  BRIAN HOUSTON 0

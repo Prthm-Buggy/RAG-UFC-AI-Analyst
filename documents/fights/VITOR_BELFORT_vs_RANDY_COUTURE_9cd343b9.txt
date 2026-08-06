@@ -1,0 +1,14 @@
+Event: UFC 46: Supernatural
+    Date: January 31, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: VITOR BELFORT defeated RANDY COUTURE via TKO - Doctor's Stoppage  
+  at 0:49 of round 1
+  Key stats:
+  - VITOR BELFORT landed 1 significant strikes
+  - RANDY COUTURE landed 1 significant strikes
+  - Knockdowns: VITOR BELFORT 0,  RANDY COUTURE 0
+  - Takedowns: VITOR BELFORT 0,  RANDY COUTURE 0
+  Bonus: belt

@@ -1,0 +1,11 @@
+Fighter: ELISE REED
+  Date of Birth: 1992-12-05
+  Career record: 9
+  First fight: 2021-07-24
+  Last fight: 2025-05-17
+
+Career Statistics:
+- Significant Strikes Landed :333
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

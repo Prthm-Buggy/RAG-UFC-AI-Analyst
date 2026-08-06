@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Reyes vs. Weidman
+    Date: October 18, 2019
+    Location: Boston, Massachusetts, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MAYCEE BARBER defeated GILLIAN ROBERTSON via KO/TKO  
+  at 3:04 of round 1
+  Key stats:
+  - MAYCEE BARBER landed 34 significant strikes
+  - GILLIAN ROBERTSON landed 12 significant strikes
+  - Knockdowns: MAYCEE BARBER 0,  GILLIAN ROBERTSON 0
+  - Takedowns: MAYCEE BARBER 0,  GILLIAN ROBERTSON 0

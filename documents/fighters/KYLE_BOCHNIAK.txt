@@ -1,0 +1,11 @@
+Fighter: KYLE BOCHNIAK
+  Date of Birth: 1987-02-05
+  Career record: 7
+  First fight: 2016-01-17
+  Last fight: 2019-10-18
+
+Career Statistics:
+- Significant Strikes Landed :276
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :0

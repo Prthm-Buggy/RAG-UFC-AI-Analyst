@@ -1,0 +1,14 @@
+Event: UFC 268: Usman vs. Covington 2
+    Date: November 06, 2021
+    Location: New York City, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: KING GREEN defeated AL IAQUINTA via KO/TKO  
+  at 2:25 of round 1
+  Key stats:
+  - KING GREEN landed 28 significant strikes
+  - AL IAQUINTA landed 10 significant strikes
+  - Knockdowns: KING GREEN 1,  AL IAQUINTA 0
+  - Takedowns: KING GREEN 0,  AL IAQUINTA 0
+  Bonus: perf

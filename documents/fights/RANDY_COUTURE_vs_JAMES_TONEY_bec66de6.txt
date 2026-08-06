@@ -1,0 +1,13 @@
+Event: UFC 118: Edgar vs Penn 2
+    Date: August 28, 2010
+    Location: Boston, Massachusetts, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RANDY COUTURE defeated JAMES TONEY via Submission  
+  at 3:19 of round 1
+  Key stats:
+  - RANDY COUTURE landed 8 significant strikes
+  - JAMES TONEY landed 0 significant strikes
+  - Knockdowns: RANDY COUTURE 0,  JAMES TONEY 0
+  - Takedowns: RANDY COUTURE 1,  JAMES TONEY 0

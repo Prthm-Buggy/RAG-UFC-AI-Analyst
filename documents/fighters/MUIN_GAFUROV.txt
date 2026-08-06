@@ -1,0 +1,11 @@
+Fighter: MUIN GAFUROV
+  Date of Birth: 1996-05-17
+  Career record: 5
+  First fight: 2023-06-03
+  Last fight: 2026-02-07
+
+Career Statistics:
+- Significant Strikes Landed :225
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

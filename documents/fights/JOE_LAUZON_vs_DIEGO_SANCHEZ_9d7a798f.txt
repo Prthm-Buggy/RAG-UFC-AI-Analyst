@@ -1,0 +1,14 @@
+Event: UFC 200: Tate vs Nunes
+    Date: July 09, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE LAUZON defeated DIEGO SANCHEZ via KO/TKO  
+  at 1:26 of round 1
+  Key stats:
+  - JOE LAUZON landed 22 significant strikes
+  - DIEGO SANCHEZ landed 6 significant strikes
+  - Knockdowns: JOE LAUZON 1,  DIEGO SANCHEZ 0
+  - Takedowns: JOE LAUZON 0,  DIEGO SANCHEZ 0
+  Bonus: perf

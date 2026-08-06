@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Allen vs. Craig
+    Date: November 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICHAEL MORALES defeated JAKE MATTHEWS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MICHAEL MORALES landed 84 significant strikes
+  - JAKE MATTHEWS landed 57 significant strikes
+  - Knockdowns: MICHAEL MORALES 0,  JAKE MATTHEWS 0
+  - Takedowns: MICHAEL MORALES 0,  JAKE MATTHEWS 0

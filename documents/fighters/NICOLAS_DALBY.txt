@@ -1,0 +1,11 @@
+Fighter: NICOLAS DALBY
+  Date of Birth: 1984-11-16
+  Career record: 13
+  First fight: 2015-05-30
+  Last fight: 2025-11-22
+
+Career Statistics:
+- Significant Strikes Landed :668
+- Total takedowns landed :10
+- Knockdowns :2
+- Submission Attempts :1

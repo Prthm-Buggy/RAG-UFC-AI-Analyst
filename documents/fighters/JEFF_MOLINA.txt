@@ -1,0 +1,11 @@
+Fighter: JEFF MOLINA
+  Date of Birth: 1997-07-17
+  Career record: 3
+  First fight: 2021-04-24
+  Last fight: 2022-06-04
+
+Career Statistics:
+- Significant Strikes Landed :292
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :0

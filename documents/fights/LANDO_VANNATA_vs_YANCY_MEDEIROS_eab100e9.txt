@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Anderson vs. Blachowicz
+    Date: February 15, 2020
+    Location: Rio Rancho, New Mexico, USA
+    Weight Class: Lightweight
+    
+
+    Result: LANDO VANNATA defeated YANCY MEDEIROS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LANDO VANNATA landed 99 significant strikes
+  - YANCY MEDEIROS landed 68 significant strikes
+  - Knockdowns: LANDO VANNATA 0,  YANCY MEDEIROS 0
+  - Takedowns: LANDO VANNATA 0,  YANCY MEDEIROS 0

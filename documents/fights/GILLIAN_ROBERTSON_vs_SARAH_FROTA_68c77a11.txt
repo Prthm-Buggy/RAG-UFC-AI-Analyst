@@ -1,0 +1,13 @@
+Event: UFC 240: Holloway vs. Edgar
+    Date: July 27, 2019
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Women's Flyweight
+    
+
+    Result: GILLIAN ROBERTSON defeated SARAH FROTA via KO/TKO  
+  at 4:13 of round 2
+  Key stats:
+  - GILLIAN ROBERTSON landed 29 significant strikes
+  - SARAH FROTA landed 9 significant strikes
+  - Knockdowns: GILLIAN ROBERTSON 0,  SARAH FROTA 0
+  - Takedowns: GILLIAN ROBERTSON 2,  SARAH FROTA 0

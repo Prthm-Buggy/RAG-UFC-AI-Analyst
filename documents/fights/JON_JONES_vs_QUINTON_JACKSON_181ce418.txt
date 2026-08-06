@@ -1,0 +1,14 @@
+Event: UFC 135: Jones vs Rampage
+    Date: September 24, 2011
+    Location: Denver, Colorado, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JON JONES defeated QUINTON JACKSON via Submission  
+  at 1:14 of round 4
+  Key stats:
+  - JON JONES landed 61 significant strikes
+  - QUINTON JACKSON landed 16 significant strikes
+  - Knockdowns: JON JONES 0,  QUINTON JACKSON 0
+  - Takedowns: JON JONES 2,  QUINTON JACKSON 0
+  Bonus: belt

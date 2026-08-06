@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Poirier vs. Hooker
+    Date: June 27, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DUSTIN POIRIER defeated DAN HOOKER via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - DUSTIN POIRIER landed 153 significant strikes
+  - DAN HOOKER landed 155 significant strikes
+  - Knockdowns: DUSTIN POIRIER 0,  DAN HOOKER 0
+  - Takedowns: DUSTIN POIRIER 1,  DAN HOOKER 4
+  Bonus: fight

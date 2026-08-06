@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Caceres
+    Date: August 06, 2016
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Middleweight
+    
+
+    Result: TREVOR SMITH defeated JOSEPH GIGLIOTTI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TREVOR SMITH landed 42 significant strikes
+  - JOSEPH GIGLIOTTI landed 15 significant strikes
+  - Knockdowns: TREVOR SMITH 1,  JOSEPH GIGLIOTTI 0
+  - Takedowns: TREVOR SMITH 4,  JOSEPH GIGLIOTTI 1

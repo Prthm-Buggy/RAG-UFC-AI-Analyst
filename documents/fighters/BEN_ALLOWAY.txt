@@ -1,0 +1,11 @@
+Fighter: BEN ALLOWAY
+  Date of Birth: 1981-02-19
+  Career record: 3
+  First fight: 2012-12-14
+  Last fight: 2013-08-28
+
+Career Statistics:
+- Significant Strikes Landed :31
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

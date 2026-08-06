@@ -1,0 +1,11 @@
+Fighter: PETER BARRETT
+  Date of Birth: 1986-08-10
+  Career record: 2
+  First fight: 2020-08-08
+  Last fight: 2020-12-12
+
+Career Statistics:
+- Significant Strikes Landed :71
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

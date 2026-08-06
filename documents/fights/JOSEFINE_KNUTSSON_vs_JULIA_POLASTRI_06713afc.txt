@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Perez vs. Taira
+    Date: June 15, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JOSEFINE KNUTSSON defeated JULIA POLASTRI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOSEFINE KNUTSSON landed 124 significant strikes
+  - JULIA POLASTRI landed 64 significant strikes
+  - Knockdowns: JOSEFINE KNUTSSON 0,  JULIA POLASTRI 0
+  - Takedowns: JOSEFINE KNUTSSON 0,  JULIA POLASTRI 3

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Spivac
+    Date: February 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ADAM FUGITT defeated YUSAKU KINOSHITA via KO/TKO  
+  at 4:36 of round 1
+  Key stats:
+  - ADAM FUGITT landed 21 significant strikes
+  - YUSAKU KINOSHITA landed 10 significant strikes
+  - Knockdowns: ADAM FUGITT 0,  YUSAKU KINOSHITA 0
+  - Takedowns: ADAM FUGITT 4,  YUSAKU KINOSHITA 0

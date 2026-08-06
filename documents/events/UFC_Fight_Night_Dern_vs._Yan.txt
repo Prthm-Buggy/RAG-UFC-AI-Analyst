@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Dern vs. Yan
+    Date : October 01, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Women's Strawweight, Featherweight, Welterweight, Catch Weight, Lightweight, Middleweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - BRENDAN ALLEN def. KRZYSZTOF JOTKO via Submission(R1)
+- RAONI BARCELOS def. TREVIN JONES via Decision - Unanimous(R3)
+- YAN XIAONAN def. MACKENZIE DERN via Decision - Majority(R5)
+- CHELSEA CHANDLER def. JULIJA STOLIARENKO via KO/TKO(R1)
+- DANIEL SANTOS def. JOHN CASTANEDA via KO/TKO(R2)
+- MIKE DAVIS def. VIACHESLAV BORSHCHEV via Decision - Unanimous(R3)
+- GUIDO CANNETTI def. RANDY COSTA via Submission(R1)
+- RANDY BROWN def. FRANCISCO TRINALDO via Decision - Unanimous(R3)
+- JOAQUIM SILVA def. JESSE RONSON via KO/TKO(R2)
+- ILIR LATIFI def. ALEKSEI OLEINIK via Decision - Unanimous(R3)
+- SODIQ YUSUFF def. DON SHAINIS via Submission(R1)

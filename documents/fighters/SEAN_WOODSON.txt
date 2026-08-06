@@ -1,0 +1,11 @@
+Fighter: SEAN WOODSON
+  Date of Birth: 1992-06-07
+  Career record: 9
+  First fight: 2019-10-18
+  Last fight: 2025-04-12
+
+Career Statistics:
+- Significant Strikes Landed :648
+- Total takedowns landed :5
+- Knockdowns :3
+- Submission Attempts :2

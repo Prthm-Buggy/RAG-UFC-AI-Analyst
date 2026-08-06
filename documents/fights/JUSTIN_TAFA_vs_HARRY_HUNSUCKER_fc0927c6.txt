@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Daukaus
+    Date: December 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUSTIN TAFA defeated HARRY HUNSUCKER via KO/TKO  
+  at 1:53 of round 1
+  Key stats:
+  - JUSTIN TAFA landed 5 significant strikes
+  - HARRY HUNSUCKER landed 5 significant strikes
+  - Knockdowns: JUSTIN TAFA 1,  HARRY HUNSUCKER 0
+  - Takedowns: JUSTIN TAFA 0,  HARRY HUNSUCKER 0

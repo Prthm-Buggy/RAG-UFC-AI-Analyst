@@ -1,0 +1,11 @@
+Fighter: RICKY RAINEY
+  Date of Birth: 1983-06-29
+  Career record: 2
+  First fight: 2018-04-14
+  Last fight: 2018-11-30
+
+Career Statistics:
+- Significant Strikes Landed :25
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

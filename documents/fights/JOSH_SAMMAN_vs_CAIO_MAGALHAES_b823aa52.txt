@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: American Top Team vs. Blackzilians Finale
+    Date: July 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOSH SAMMAN defeated CAIO MAGALHAES via Submission  
+  at 2:52 of round 1
+  Key stats:
+  - JOSH SAMMAN landed 12 significant strikes
+  - CAIO MAGALHAES landed 3 significant strikes
+  - Knockdowns: JOSH SAMMAN 0,  CAIO MAGALHAES 0
+  - Takedowns: JOSH SAMMAN 0,  CAIO MAGALHAES 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dos Anjos vs. Cowboy 2
+    Date: December 19, 2015
+    Location: Orlando, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANCIS NGANNOU defeated LUIS HENRIQUE via KO/TKO  
+  at 2:53 of round 2
+  Key stats:
+  - FRANCIS NGANNOU landed 25 significant strikes
+  - LUIS HENRIQUE landed 5 significant strikes
+  - Knockdowns: FRANCIS NGANNOU 1,  LUIS HENRIQUE 0
+  - Takedowns: FRANCIS NGANNOU 0,  LUIS HENRIQUE 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs. Usman
+    Date: May 19, 2018
+    Location: Santiago, Chile
+    Weight Class: Welterweight
+    
+
+    Result: KAMARU USMAN defeated DEMIAN MAIA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - KAMARU USMAN landed 66 significant strikes
+  - DEMIAN MAIA landed 27 significant strikes
+  - Knockdowns: KAMARU USMAN 1,  DEMIAN MAIA 0
+  - Takedowns: KAMARU USMAN 0,  DEMIAN MAIA 0

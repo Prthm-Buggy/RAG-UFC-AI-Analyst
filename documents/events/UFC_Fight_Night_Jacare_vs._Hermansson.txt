@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Jacare vs. Hermansson
+    Date : April 27, 2019
+    Location: Sunrise, Florida, USA
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Bantamweight, Women's Strawweight, Lightweight, Welterweight, Middleweight, Light Heavyweight
+
+    Fight Results:
+  - CORY SANDHAGEN def. JOHN LINEKER via Decision - Split(R3)
+- GREG HARDY def. DMITRII SMOLIAKOV via KO/TKO(R1)
+- GILBERT BURNS def. MIKE DAVIS via Submission(R2)
+- JIM MILLER def. JASON GONZALEZ via Submission(R1)
+- CARLA ESPARZA def. VIRNA JANDIROBA via Decision - Unanimous(R3)
+- JACK HERMANSSON def. JACARE SOUZA via Decision - Unanimous(R5)
+- TAKASHI SATO def. BEN SAUNDERS via KO/TKO(R2)
+- GLOVER TEIXEIRA def. ION CUTELABA via Submission(R2)
+- DHIEGO LIMA def. COURT MCGEE via Decision - Split(R3)
+- MIKE PERRY def. ALEX OLIVEIRA via Decision - Unanimous(R3)
+- AUGUSTO SAKAI def. ANDREI ARLOVSKI via Decision - Split(R3)
+- ANGELA HILL def. JODIE ESQUIBEL via Decision - Unanimous(R3)
+- ROOSEVELT ROBERTS def. THOMAS GIFFORD via Decision - Unanimous(R3)

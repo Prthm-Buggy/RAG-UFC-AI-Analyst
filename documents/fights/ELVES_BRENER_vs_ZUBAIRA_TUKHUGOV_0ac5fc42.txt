@@ -1,0 +1,13 @@
+Event: UFC 284: Makhachev vs. Volkanovski
+    Date: February 11, 2023
+    Location: Perth, Western Australia, Australia
+    Weight Class: Lightweight
+    
+
+    Result: ELVES BRENER defeated ZUBAIRA TUKHUGOV via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ELVES BRENER landed 69 significant strikes
+  - ZUBAIRA TUKHUGOV landed 70 significant strikes
+  - Knockdowns: ELVES BRENER 0,  ZUBAIRA TUKHUGOV 0
+  - Takedowns: ELVES BRENER 0,  ZUBAIRA TUKHUGOV 0

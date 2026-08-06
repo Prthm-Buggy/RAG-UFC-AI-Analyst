@@ -1,0 +1,14 @@
+Event: UFC 146: Dos Santos vs Mir
+    Date: May 26, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DAN HARDY defeated DUANE LUDWIG via KO/TKO  
+  at 3:51 of round 1
+  Key stats:
+  - DAN HARDY landed 18 significant strikes
+  - DUANE LUDWIG landed 17 significant strikes
+  - Knockdowns: DAN HARDY 1,  DUANE LUDWIG 0
+  - Takedowns: DAN HARDY 0,  DUANE LUDWIG 0
+  Bonus: ko

@@ -1,0 +1,11 @@
+Fighter: AALON CRUZ
+  Date of Birth: 1989-09-20
+  Career record: 2
+  First fight: 2020-02-29
+  Last fight: 2021-03-06
+
+Career Statistics:
+- Significant Strikes Landed :2
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

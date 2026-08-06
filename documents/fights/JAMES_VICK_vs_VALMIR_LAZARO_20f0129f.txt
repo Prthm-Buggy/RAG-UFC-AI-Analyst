@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Dos Anjos
+    Date: August 23, 2014
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Lightweight
+    
+
+    Result: JAMES VICK defeated VALMIR LAZARO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JAMES VICK landed 77 significant strikes
+  - VALMIR LAZARO landed 91 significant strikes
+  - Knockdowns: JAMES VICK 1,  VALMIR LAZARO 0
+  - Takedowns: JAMES VICK 0,  VALMIR LAZARO 4

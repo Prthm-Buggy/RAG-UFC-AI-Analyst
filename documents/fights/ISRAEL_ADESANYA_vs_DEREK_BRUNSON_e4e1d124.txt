@@ -1,0 +1,14 @@
+Event: UFC 230: Cormier vs. Lewis
+    Date: November 03, 2018
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: ISRAEL ADESANYA defeated DEREK BRUNSON via KO/TKO  
+  at 4:51 of round 1
+  Key stats:
+  - ISRAEL ADESANYA landed 13 significant strikes
+  - DEREK BRUNSON landed 3 significant strikes
+  - Knockdowns: ISRAEL ADESANYA 3,  DEREK BRUNSON 0
+  - Takedowns: ISRAEL ADESANYA 0,  DEREK BRUNSON 0
+  Bonus: perf

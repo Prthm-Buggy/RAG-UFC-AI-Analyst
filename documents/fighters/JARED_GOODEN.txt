@@ -1,0 +1,11 @@
+Fighter: JARED GOODEN
+  Date of Birth: 1993-12-05
+  Career record: 7
+  First fight: 2020-11-21
+  Last fight: 2024-10-12
+
+Career Statistics:
+- Significant Strikes Landed :362
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :2

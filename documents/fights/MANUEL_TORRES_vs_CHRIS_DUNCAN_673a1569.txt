@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moreno vs. Royval 2
+    Date: February 24, 2024
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Lightweight
+    
+
+    Result: MANUEL TORRES defeated CHRIS DUNCAN via Submission  
+  at 1:46 of round 1
+  Key stats:
+  - MANUEL TORRES landed 3 significant strikes
+  - CHRIS DUNCAN landed 1 significant strikes
+  - Knockdowns: MANUEL TORRES 0,  CHRIS DUNCAN 0
+  - Takedowns: MANUEL TORRES 2,  CHRIS DUNCAN 1
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Miocic vs Maldonado
+    Date: May 31, 2014
+    Location: Sao Paulo, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: ROBERT PERALTA defeated RONY JASON via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ROBERT PERALTA landed 51 significant strikes
+  - RONY JASON landed 30 significant strikes
+  - Knockdowns: ROBERT PERALTA 0,  RONY JASON 0
+  - Takedowns: ROBERT PERALTA 1,  RONY JASON 2

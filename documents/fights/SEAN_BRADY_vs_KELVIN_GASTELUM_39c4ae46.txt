@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dariush vs. Tsarukyan
+    Date: December 02, 2023
+    Location: Austin, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: SEAN BRADY defeated KELVIN GASTELUM via Submission  
+  at 1:43 of round 3
+  Key stats:
+  - SEAN BRADY landed 14 significant strikes
+  - KELVIN GASTELUM landed 18 significant strikes
+  - Knockdowns: SEAN BRADY 0,  KELVIN GASTELUM 0
+  - Takedowns: SEAN BRADY 5,  KELVIN GASTELUM 0
+  Bonus: perf

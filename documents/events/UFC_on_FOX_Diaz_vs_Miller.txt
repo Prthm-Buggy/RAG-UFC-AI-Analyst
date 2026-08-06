@@ -1,0 +1,19 @@
+Event : UFC on FOX: Diaz vs Miller
+    Date : May 05, 2012
+    Location: East Rutherford, New Jersey, USA
+    Number of Fights: 12
+    Weight Classes: Featherweight, Welterweight, Lightweight, Middleweight, Flyweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - LAVAR JOHNSON def. PAT BARRY via KO/TKO(R1)
+- MICHAEL JOHNSON def. TONY FERGUSON via Decision - Unanimous(R3)
+- JOHN HATHAWAY def. PASCAL KRAUSS via Decision - Unanimous(R3)
+- JOHN DODSON def. TIM ELLIOTT via Decision - Unanimous(R3)
+- ALAN BELCHER def. ROUSIMAR PALHARES via KO/TKO(R1)
+- KARLOS VEMOLA def. MIKE MASSENZIO via Submission(R2)
+- LOUIS GAUDINOT def. JOHN LINEKER via Submission(R2)
+- JOHNY HENDRICKS def. JOSH KOSCHECK via Decision - Split(R3)
+- NATE DIAZ def. JIM MILLER via Submission(R2)
+- ROLAND DELORME def. NICK DENIS via Submission(R1)
+- DENNIS BERMUDEZ def. PABLO GARZA via Decision - Unanimous(R3)
+- DANNY CASTILLO def. JOHN CHOLISH via Decision - Unanimous(R3)

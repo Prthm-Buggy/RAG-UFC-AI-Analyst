@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Hooker
+    Date: June 27, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: TAKASHI SATO defeated JASON WITT via KO/TKO  
+  at 0:48 of round 1
+  Key stats:
+  - TAKASHI SATO landed 18 significant strikes
+  - JASON WITT landed 2 significant strikes
+  - Knockdowns: TAKASHI SATO 1,  JASON WITT 0
+  - Takedowns: TAKASHI SATO 0,  JASON WITT 0

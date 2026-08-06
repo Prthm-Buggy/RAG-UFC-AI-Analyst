@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Swanson vs Stephens
+    Date : June 28, 2014
+    Location: San Antonio, Texas, USA
+    Number of Fights: 11
+    Weight Classes: Featherweight, Welterweight, Middleweight, Lightweight, Flyweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - KELVIN GASTELUM def. NICHOLAS MUSOKE via Decision - Unanimous(R3)
+- CEZAR FERREIRA def. ANDREW CRAIG via Decision - Unanimous(R3)
+- CLINT HESTER def. ANTONIO BRAGA NETO via Decision - Split(R3)
+- DIEGO FERREIRA def. COLTON SMITH via Submission(R1)
+- CODY GIBSON def. JOHNNY BEDFORD via KO/TKO(R1)
+- ALEKSEI OLEINIK def. ANTHONY HAMILTON via Submission(R1)
+- RICARDO LAMAS def. HACRAN DIAS via Decision - Unanimous(R3)
+- JOE ELLENBERGER def. JAMES MOONTASRI via Decision - Split(R3)
+- CUB SWANSON def. JEREMY STEPHENS via Decision - Unanimous(R5)
+- RAY BORG def. SHANE HOWELL via Submission(R1)
+- MARCELO GUIMARAES def. ANDY ENZ via Decision - Split(R3)

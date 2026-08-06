@@ -1,0 +1,11 @@
+Fighter: ANTHONY BIRCHAK
+  Date of Birth: 1986-05-16
+  Career record: 6
+  First fight: 2014-12-13
+  Last fight: 2021-04-17
+
+Career Statistics:
+- Significant Strikes Landed :123
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :1

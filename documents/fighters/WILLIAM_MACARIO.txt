@@ -1,0 +1,11 @@
+Fighter: WILLIAM MACARIO
+  Date of Birth: 1991-07-01
+  Career record: 4
+  First fight: 2013-06-08
+  Last fight: 2015-02-22
+
+Career Statistics:
+- Significant Strikes Landed :200
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

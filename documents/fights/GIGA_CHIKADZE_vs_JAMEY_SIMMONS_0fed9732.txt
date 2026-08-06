@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Santos vs. Teixeira
+    Date: November 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: GIGA CHIKADZE defeated JAMEY SIMMONS via KO/TKO  
+  at 3:51 of round 1
+  Key stats:
+  - GIGA CHIKADZE landed 8 significant strikes
+  - JAMEY SIMMONS landed 2 significant strikes
+  - Knockdowns: GIGA CHIKADZE 1,  JAMEY SIMMONS 0
+  - Takedowns: GIGA CHIKADZE 0,  JAMEY SIMMONS 0
+  Bonus: perf

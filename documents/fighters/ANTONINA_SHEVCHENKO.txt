@@ -1,0 +1,11 @@
+Fighter: ANTONINA SHEVCHENKO
+  Date of Birth: 1984-11-20
+  Career record: 8
+  First fight: 2018-11-30
+  Last fight: 2022-07-09
+
+Career Statistics:
+- Significant Strikes Landed :328
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :3

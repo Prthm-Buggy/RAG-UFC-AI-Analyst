@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Dos Anjos
+    Date: August 23, 2014
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHAS SKELLY defeated TOM NIINIMAKI via Submission  
+  at 2:35 of round 1
+  Key stats:
+  - CHAS SKELLY landed 2 significant strikes
+  - TOM NIINIMAKI landed 1 significant strikes
+  - Knockdowns: CHAS SKELLY 0,  TOM NIINIMAKI 0
+  - Takedowns: CHAS SKELLY 1,  TOM NIINIMAKI 0

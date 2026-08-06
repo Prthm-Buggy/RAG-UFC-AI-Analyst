@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Korean Zombie vs. Rodriguez
+    Date: November 10, 2018
+    Location: Denver, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: DAVI RAMOS defeated JOHN GUNTHER via Submission  
+  at 1:57 of round 1
+  Key stats:
+  - DAVI RAMOS landed 4 significant strikes
+  - JOHN GUNTHER landed 1 significant strikes
+  - Knockdowns: DAVI RAMOS 0,  JOHN GUNTHER 0
+  - Takedowns: DAVI RAMOS 1,  JOHN GUNTHER 0

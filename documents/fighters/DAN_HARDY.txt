@@ -1,0 +1,11 @@
+Fighter: DAN HARDY
+  Date of Birth: 1982-05-17
+  Career record: 10
+  First fight: 2008-10-18
+  Last fight: 2012-09-29
+
+Career Statistics:
+- Significant Strikes Landed :304
+- Total takedowns landed :6
+- Knockdowns :3
+- Submission Attempts :3

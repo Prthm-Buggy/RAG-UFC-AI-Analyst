@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Sanchez vs Riggs
+    Date : December 13, 2006
+    Location: San Diego, California, USA
+    Number of Fights: 9
+    Weight Classes: Welterweight, Light Heavyweight, Middleweight
+
+    Fight Results:
+  - MARCUS DAVIS def. SHONIE CARTER via Decision - Unanimous(R3)
+- DIEGO SANCHEZ def. JOE RIGGS via KO/TKO(R1)
+- LUIGI FIORAVANTI def. DAVE MENNE via KO/TKO(R1)
+- KARO PARISYAN def. DREW FICKETT via Decision - Unanimous(R3)
+- ALAN BELCHER def. JORGE SANTIAGO via KO/TKO(R3)
+- BROCK LARSON def. KEITA NAKAMURA via Decision - Unanimous(R3)
+- JOSH KOSCHECK def. JEFF JOSLIN via Decision - Unanimous(R3)
+- LOGAN CLARK def. STEVE BYRNES via Decision - Unanimous(R3)
+- DAVID HEATH def. VICTOR VALIMAKI via Decision - Split(R3)

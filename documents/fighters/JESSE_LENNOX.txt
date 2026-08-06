@@ -1,0 +1,11 @@
+Fighter: JESSE LENNOX
+  Date of Birth: 1982-03-10
+  Career record: 3
+  First fight: 2009-08-08
+  Last fight: 2010-06-12
+
+Career Statistics:
+- Significant Strikes Landed :96
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

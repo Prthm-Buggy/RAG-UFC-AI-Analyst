@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sanchez vs Riggs
+    Date: December 13, 2006
+    Location: San Diego, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: DIEGO SANCHEZ defeated JOE RIGGS via KO/TKO  
+  at 1:45 of round 1
+  Key stats:
+  - DIEGO SANCHEZ landed 6 significant strikes
+  - JOE RIGGS landed 3 significant strikes
+  - Knockdowns: DIEGO SANCHEZ 2,  JOE RIGGS 0
+  - Takedowns: DIEGO SANCHEZ 0,  JOE RIGGS 0

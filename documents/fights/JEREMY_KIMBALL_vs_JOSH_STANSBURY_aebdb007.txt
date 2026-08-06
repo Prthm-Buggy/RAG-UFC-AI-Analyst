@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Chiesa vs. Lee
+    Date: June 25, 2017
+    Location: Oklahoma City, Oklahoma, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JEREMY KIMBALL defeated JOSH STANSBURY via KO/TKO  
+  at 1:21 of round 1
+  Key stats:
+  - JEREMY KIMBALL landed 17 significant strikes
+  - JOSH STANSBURY landed 4 significant strikes
+  - Knockdowns: JEREMY KIMBALL 1,  JOSH STANSBURY 0
+  - Takedowns: JEREMY KIMBALL 0,  JOSH STANSBURY 0
+  Bonus: perf

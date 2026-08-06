@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Alvarez
+    Date: July 07, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARCO BELTRAN defeated REGINALDO VIEIRA via Submission  
+  at 3:04 of round 2
+  Key stats:
+  - MARCO BELTRAN landed 20 significant strikes
+  - REGINALDO VIEIRA landed 20 significant strikes
+  - Knockdowns: MARCO BELTRAN 1,  REGINALDO VIEIRA 0
+  - Takedowns: MARCO BELTRAN 0,  REGINALDO VIEIRA 3

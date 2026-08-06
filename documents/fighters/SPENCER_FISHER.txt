@@ -1,0 +1,11 @@
+Fighter: SPENCER FISHER
+  Date of Birth: 1976-05-09
+  Career record: 17
+  First fight: 2005-10-03
+  Last fight: 2012-06-22
+
+Career Statistics:
+- Significant Strikes Landed :637
+- Total takedowns landed :9
+- Knockdowns :3
+- Submission Attempts :10

@@ -1,0 +1,11 @@
+Fighter: PATRICK WALSH
+  Date of Birth: 1988-11-28
+  Career record: 2
+  First fight: 2014-07-06
+  Last fight: 2015-02-14
+
+Career Statistics:
+- Significant Strikes Landed :61
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :3

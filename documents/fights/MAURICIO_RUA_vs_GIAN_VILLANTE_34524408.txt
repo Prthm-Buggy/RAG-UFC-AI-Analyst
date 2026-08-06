@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs. Gastelum
+    Date: March 11, 2017
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAURICIO RUA defeated GIAN VILLANTE via KO/TKO  
+  at 0:59 of round 3
+  Key stats:
+  - MAURICIO RUA landed 94 significant strikes
+  - GIAN VILLANTE landed 55 significant strikes
+  - Knockdowns: MAURICIO RUA 2,  GIAN VILLANTE 0
+  - Takedowns: MAURICIO RUA 2,  GIAN VILLANTE 0

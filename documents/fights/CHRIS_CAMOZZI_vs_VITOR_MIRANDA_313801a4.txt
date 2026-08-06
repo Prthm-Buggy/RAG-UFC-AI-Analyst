@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Almeida vs Garbrandt
+    Date: May 29, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS CAMOZZI defeated VITOR MIRANDA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHRIS CAMOZZI landed 43 significant strikes
+  - VITOR MIRANDA landed 27 significant strikes
+  - Knockdowns: CHRIS CAMOZZI 0,  VITOR MIRANDA 0
+  - Takedowns: CHRIS CAMOZZI 1,  VITOR MIRANDA 1

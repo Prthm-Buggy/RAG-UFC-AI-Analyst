@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Bisping vs Kennedy
+    Date : April 16, 2014
+    Location: Quebec City, Quebec, Canada
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Middleweight, Welterweight, Lightweight, Light Heavyweight, Women's Bantamweight, Featherweight
+
+    Fight Results:
+  - ELIAS THEODOROU def. SHELDON WESTCOTT via KO/TKO(R2)
+- RICHARD WALSH def. CHRIS INDICH via Decision - Unanimous(R3)
+- NORDINE TALEB def. VIK GRUJIC via Decision - Unanimous(R3)
+- DUSTIN POIRIER def. AKIRA CORASSANI via KO/TKO(R2)
+- GEORGE ROOP def. DUSTIN KIMURA via Decision - Unanimous(R3)
+- SARAH KAUFMAN def. LESLIE SMITH via Decision - Unanimous(R3)
+- PATRICK COTE def. KYLE NOKE via Decision - Unanimous(R3)
+- CHAD LAPRISE def. OLIVIER AUBIN-MERCIER via Decision - Split(R3)
+- TIM KENNEDY def. MICHAEL BISPING via Decision - Unanimous(R5)
+- KJ NOONS def. SAM STOUT via KO/TKO(R1)
+- MITCH GAGNON def. TIM GORMAN via Decision - Unanimous(R3)
+- MARK BOCEK def. MIKE DE LA TORRE via Decision - Split(R3)
+- RYAN JIMMO def. SEAN O'CONNELL via KO/TKO(R1)

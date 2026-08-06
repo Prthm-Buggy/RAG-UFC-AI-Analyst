@@ -1,0 +1,13 @@
+Event: UFC 139: Shogun vs Henderson
+    Date: November 19, 2011
+    Location: San Jose, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: DANNY CASTILLO defeated SHAMAR BAILEY via KO/TKO  
+  at 4:52 of round 1
+  Key stats:
+  - DANNY CASTILLO landed 22 significant strikes
+  - SHAMAR BAILEY landed 3 significant strikes
+  - Knockdowns: DANNY CASTILLO 0,  SHAMAR BAILEY 0
+  - Takedowns: DANNY CASTILLO 3,  SHAMAR BAILEY 0

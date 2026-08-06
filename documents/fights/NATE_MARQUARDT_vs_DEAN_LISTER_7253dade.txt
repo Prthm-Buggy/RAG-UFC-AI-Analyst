@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Evans vs Salmon
+    Date: January 25, 2007
+    Location: Hollywood, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: NATE MARQUARDT defeated DEAN LISTER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NATE MARQUARDT landed 53 significant strikes
+  - DEAN LISTER landed 18 significant strikes
+  - Knockdowns: NATE MARQUARDT 4,  DEAN LISTER 0
+  - Takedowns: NATE MARQUARDT 2,  DEAN LISTER 0

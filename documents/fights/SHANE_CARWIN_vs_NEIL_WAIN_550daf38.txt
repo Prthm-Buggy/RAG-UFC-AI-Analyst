@@ -1,0 +1,13 @@
+Event: UFC 89: Bisping vs Leben
+    Date: October 18, 2008
+    Location: Birmingham, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: SHANE CARWIN defeated NEIL WAIN via KO/TKO  
+  at 1:31 of round 1
+  Key stats:
+  - SHANE CARWIN landed 13 significant strikes
+  - NEIL WAIN landed 4 significant strikes
+  - Knockdowns: SHANE CARWIN 0,  NEIL WAIN 0
+  - Takedowns: SHANE CARWIN 1,  NEIL WAIN 0

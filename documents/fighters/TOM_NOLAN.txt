@@ -1,0 +1,11 @@
+Fighter: TOM NOLAN
+  Date of Birth: 2000-03-08
+  Career record: 6
+  First fight: 2024-01-13
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :255
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :5

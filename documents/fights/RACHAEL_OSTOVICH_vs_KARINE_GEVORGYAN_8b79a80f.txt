@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: A New World Champion Finale
+    Date: December 01, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: RACHAEL OSTOVICH defeated KARINE GEVORGYAN via Submission  
+  at 1:40 of round 1
+  Key stats:
+  - RACHAEL OSTOVICH landed 3 significant strikes
+  - KARINE GEVORGYAN landed 2 significant strikes
+  - Knockdowns: RACHAEL OSTOVICH 0,  KARINE GEVORGYAN 0
+  - Takedowns: RACHAEL OSTOVICH 1,  KARINE GEVORGYAN 0

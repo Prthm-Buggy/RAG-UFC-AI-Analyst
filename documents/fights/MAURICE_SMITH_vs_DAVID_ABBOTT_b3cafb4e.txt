@@ -1,0 +1,14 @@
+Event: UFC 15: Collision Course
+    Date: October 17, 1997
+    Location: Bay St. Louis, Mississippi, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MAURICE SMITH defeated DAVID ABBOTT via Submission  
+  at 8:08 of round 1
+  Key stats:
+  - MAURICE SMITH landed 12 significant strikes
+  - DAVID ABBOTT landed 5 significant strikes
+  - Knockdowns: MAURICE SMITH 0,  DAVID ABBOTT 1
+  - Takedowns: MAURICE SMITH 0,  DAVID ABBOTT 0
+  Bonus: belt

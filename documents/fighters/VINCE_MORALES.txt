@@ -1,0 +1,11 @@
+Fighter: VINCE MORALES
+  Date of Birth: 1990-11-12
+  Career record: 12
+  First fight: 2018-11-24
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :542
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :5

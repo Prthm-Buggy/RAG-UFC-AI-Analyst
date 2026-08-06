@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Lesnar vs Team dos Santos Finale
+    Date: June 04, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SCOTT JORGENSEN defeated KEN STONE via KO/TKO  
+  at 4:01 of round 1
+  Key stats:
+  - SCOTT JORGENSEN landed 15 significant strikes
+  - KEN STONE landed 18 significant strikes
+  - Knockdowns: SCOTT JORGENSEN 0,  KEN STONE 0
+  - Takedowns: SCOTT JORGENSEN 1,  KEN STONE 0

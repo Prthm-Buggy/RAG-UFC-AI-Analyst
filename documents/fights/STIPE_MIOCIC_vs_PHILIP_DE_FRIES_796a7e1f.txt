@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Sanchez vs Ellenberger
+    Date: February 15, 2012
+    Location: Omaha, Nebraska, USA
+    Weight Class: Heavyweight
+    
+
+    Result: STIPE MIOCIC defeated PHILIP DE FRIES via KO/TKO  
+  at 0:43 of round 1
+  Key stats:
+  - STIPE MIOCIC landed 8 significant strikes
+  - PHILIP DE FRIES landed 7 significant strikes
+  - Knockdowns: STIPE MIOCIC 1,  PHILIP DE FRIES 0
+  - Takedowns: STIPE MIOCIC 0,  PHILIP DE FRIES 0
+  Bonus: ko

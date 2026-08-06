@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Henderson vs Khabilov
+    Date: June 07, 2014
+    Location: Albuquerque, New Mexico, USA
+    Weight Class: Lightweight
+    
+
+    Result: PIOTR HALLMANN defeated YVES EDWARDS via Submission  
+  at 2:31 of round 3
+  Key stats:
+  - PIOTR HALLMANN landed 56 significant strikes
+  - YVES EDWARDS landed 27 significant strikes
+  - Knockdowns: PIOTR HALLMANN 0,  YVES EDWARDS 0
+  - Takedowns: PIOTR HALLMANN 4,  YVES EDWARDS 1
+  Bonus: perf

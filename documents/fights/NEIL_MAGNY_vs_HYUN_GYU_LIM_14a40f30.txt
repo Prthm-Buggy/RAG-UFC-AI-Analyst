@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edgar vs Faber
+    Date: May 16, 2015
+    Location: Manila, Philippines
+    Weight Class: Welterweight
+    
+
+    Result: NEIL MAGNY defeated HYUN GYU LIM via KO/TKO  
+  at 1:24 of round 2
+  Key stats:
+  - NEIL MAGNY landed 43 significant strikes
+  - HYUN GYU LIM landed 15 significant strikes
+  - Knockdowns: NEIL MAGNY 0,  HYUN GYU LIM 0
+  - Takedowns: NEIL MAGNY 2,  HYUN GYU LIM 0
+  Bonus: perf

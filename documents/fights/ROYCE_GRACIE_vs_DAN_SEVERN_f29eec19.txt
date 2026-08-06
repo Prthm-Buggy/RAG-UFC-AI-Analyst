@@ -1,0 +1,14 @@
+Event: UFC 4: Revenge of the Warriors
+    Date: December 16, 1994
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Open Weight
+    
+
+    Result: ROYCE GRACIE defeated DAN SEVERN via Submission  
+  at 15:49 of round 1
+  Key stats:
+  - ROYCE GRACIE landed 0 significant strikes
+  - DAN SEVERN landed 4 significant strikes
+  - Knockdowns: ROYCE GRACIE 0,  DAN SEVERN 0
+  - Takedowns: ROYCE GRACIE 0,  DAN SEVERN 1
+  Bonus: belt

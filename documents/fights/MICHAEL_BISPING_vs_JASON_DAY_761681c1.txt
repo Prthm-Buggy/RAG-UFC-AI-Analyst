@@ -1,0 +1,13 @@
+Event: UFC 85: Bedlam
+    Date: June 07, 2008
+    Location: London, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL BISPING defeated JASON DAY via KO/TKO  
+  at 3:42 of round 1
+  Key stats:
+  - MICHAEL BISPING landed 25 significant strikes
+  - JASON DAY landed 7 significant strikes
+  - Knockdowns: MICHAEL BISPING 0,  JASON DAY 0
+  - Takedowns: MICHAEL BISPING 2,  JASON DAY 0

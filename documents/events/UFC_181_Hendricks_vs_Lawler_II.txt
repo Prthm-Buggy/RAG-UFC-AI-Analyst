@@ -1,0 +1,18 @@
+Event : UFC 181: Hendricks vs Lawler II
+    Date : December 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Bantamweight, Welterweight, Lightweight, Middleweight, Women's Bantamweight, Light Heavyweight, Featherweight
+
+    Fight Results:
+  - ANTHONY PETTIS def. GILBERT MELENDEZ via Submission(R2)
+- RAQUEL PENNINGTON def. ASHLEE EVANS-SMITH via Submission(R1)
+- TONY FERGUSON def. ABEL TRUJILLO via Submission(R2)
+- JOSH SAMMAN def. EDDIE GORDON via KO/TKO(R2)
+- URIJAH FABER def. FRANCISCO RIVERA via Submission(R2)
+- TRAVIS BROWNE def. BRENDAN SCHAUB via KO/TKO(R1)
+- ROBBIE LAWLER def. JOHNY HENDRICKS via Decision - Split(R5)
+- CLAY COLLARD def. ALEX WHITE via Decision - Unanimous(R3)
+- TODD DUFFEE def. ANTHONY HAMILTON via KO/TKO(R1)
+- COREY ANDERSON def. JUSTIN JONES via Decision - Unanimous(R3)
+- SERGIO PETTIS def. MATT HOBAR via Decision - Unanimous(R3)

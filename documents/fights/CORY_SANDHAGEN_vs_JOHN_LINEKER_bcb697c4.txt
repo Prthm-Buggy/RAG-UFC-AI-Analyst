@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jacare vs. Hermansson
+    Date: April 27, 2019
+    Location: Sunrise, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CORY SANDHAGEN defeated JOHN LINEKER via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - CORY SANDHAGEN landed 120 significant strikes
+  - JOHN LINEKER landed 106 significant strikes
+  - Knockdowns: CORY SANDHAGEN 0,  JOHN LINEKER 0
+  - Takedowns: CORY SANDHAGEN 2,  JOHN LINEKER 1

@@ -1,0 +1,11 @@
+Fighter: PAUL SASS
+  Date of Birth: 1988-08-04
+  Career record: 5
+  First fight: 2010-10-16
+  Last fight: 2013-02-16
+
+Career Statistics:
+- Significant Strikes Landed :15
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :14

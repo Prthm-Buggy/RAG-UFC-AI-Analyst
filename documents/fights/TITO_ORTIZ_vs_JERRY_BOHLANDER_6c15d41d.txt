@@ -1,0 +1,13 @@
+Event: UFC 18: The Road to the Heavyweight Title
+    Date: January 08, 1999
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: TITO ORTIZ defeated JERRY BOHLANDER via TKO - Doctor's Stoppage  
+  at 2:31 of round 2
+  Key stats:
+  - TITO ORTIZ landed 37 significant strikes
+  - JERRY BOHLANDER landed 9 significant strikes
+  - Knockdowns: TITO ORTIZ 0,  JERRY BOHLANDER 0
+  - Takedowns: TITO ORTIZ 6,  JERRY BOHLANDER 0

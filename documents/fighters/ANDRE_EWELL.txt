@@ -1,0 +1,11 @@
+Fighter: ANDRE EWELL
+  Date of Birth: 1988-01-21
+  Career record: 9
+  First fight: 2018-09-22
+  Last fight: 2021-12-18
+
+Career Statistics:
+- Significant Strikes Landed :540
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :1

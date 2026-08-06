@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Aspinall
+    Date: July 23, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: CURTIS BLAYDES defeated TOM ASPINALL via KO/TKO  
+  at 0:15 of round 1
+  Key stats:
+  - CURTIS BLAYDES landed 4 significant strikes
+  - TOM ASPINALL landed 3 significant strikes
+  - Knockdowns: CURTIS BLAYDES 0,  TOM ASPINALL 0
+  - Takedowns: CURTIS BLAYDES 0,  TOM ASPINALL 0

@@ -1,0 +1,13 @@
+Event: UFC 277: Pena vs. Nunes 2
+    Date: July 30, 2022
+    Location: Dallas, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICHAEL MORALES defeated ADAM FUGITT via KO/TKO  
+  at 1:09 of round 3
+  Key stats:
+  - MICHAEL MORALES landed 83 significant strikes
+  - ADAM FUGITT landed 64 significant strikes
+  - Knockdowns: MICHAEL MORALES 2,  ADAM FUGITT 0
+  - Takedowns: MICHAEL MORALES 0,  ADAM FUGITT 1

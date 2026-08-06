@@ -1,0 +1,13 @@
+Event: UFC 243: Whittaker vs. Adesanya
+    Date: October 05, 2019
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: SERGHEI SPIVAC defeated TAI TUIVASA via Submission  
+  at 3:14 of round 2
+  Key stats:
+  - SERGHEI SPIVAC landed 23 significant strikes
+  - TAI TUIVASA landed 21 significant strikes
+  - Knockdowns: SERGHEI SPIVAC 0,  TAI TUIVASA 0
+  - Takedowns: SERGHEI SPIVAC 6,  TAI TUIVASA 0

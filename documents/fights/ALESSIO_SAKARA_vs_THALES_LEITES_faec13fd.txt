@@ -1,0 +1,13 @@
+Event: UFC 101: Declaration
+    Date: August 08, 2009
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALESSIO SAKARA defeated THALES LEITES via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ALESSIO SAKARA landed 24 significant strikes
+  - THALES LEITES landed 22 significant strikes
+  - Knockdowns: ALESSIO SAKARA 0,  THALES LEITES 0
+  - Takedowns: ALESSIO SAKARA 0,  THALES LEITES 4

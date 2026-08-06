@@ -1,0 +1,13 @@
+Event: UFC 2: No Way Out
+    Date: March 11, 1994
+    Location: Denver, Colorado, USA
+    Weight Class: Open Weight
+    
+
+    Result: JOHNNY RHODES defeated DAVID LEVICKI via KO/TKO  
+  at 12:13 of round 1
+  Key stats:
+  - JOHNNY RHODES landed 11 significant strikes
+  - DAVID LEVICKI landed 4 significant strikes
+  - Knockdowns: JOHNNY RHODES 0,  DAVID LEVICKI 0
+  - Takedowns: JOHNNY RHODES 1,  DAVID LEVICKI 0

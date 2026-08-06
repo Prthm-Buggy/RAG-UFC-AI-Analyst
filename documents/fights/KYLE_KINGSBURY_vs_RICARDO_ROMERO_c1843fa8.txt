@@ -1,0 +1,13 @@
+Event: UFC 126: Silva vs Belfort
+    Date: February 05, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KYLE KINGSBURY defeated RICARDO ROMERO via KO/TKO  
+  at 0:21 of round 1
+  Key stats:
+  - KYLE KINGSBURY landed 9 significant strikes
+  - RICARDO ROMERO landed 1 significant strikes
+  - Knockdowns: KYLE KINGSBURY 1,  RICARDO ROMERO 0
+  - Takedowns: KYLE KINGSBURY 0,  RICARDO ROMERO 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Spann
+    Date: September 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: HANNAH GOLDY defeated EMILY WHITMIRE via Submission  
+  at 4:17 of round 1
+  Key stats:
+  - HANNAH GOLDY landed 10 significant strikes
+  - EMILY WHITMIRE landed 5 significant strikes
+  - Knockdowns: HANNAH GOLDY 0,  EMILY WHITMIRE 0
+  - Takedowns: HANNAH GOLDY 0,  EMILY WHITMIRE 2

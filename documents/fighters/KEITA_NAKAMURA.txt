@@ -1,0 +1,11 @@
+Fighter: KEITA NAKAMURA
+  Date of Birth: 1984-05-22
+  Career record: 11
+  First fight: 2006-12-13
+  Last fight: 2019-04-20
+
+Career Statistics:
+- Significant Strikes Landed :337
+- Total takedowns landed :18
+- Knockdowns :4
+- Submission Attempts :4

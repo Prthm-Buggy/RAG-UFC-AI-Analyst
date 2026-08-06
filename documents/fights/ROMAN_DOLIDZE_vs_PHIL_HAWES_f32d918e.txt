@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Allen
+    Date: October 29, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROMAN DOLIDZE defeated PHIL HAWES via KO/TKO  
+  at 4:09 of round 1
+  Key stats:
+  - ROMAN DOLIDZE landed 18 significant strikes
+  - PHIL HAWES landed 11 significant strikes
+  - Knockdowns: ROMAN DOLIDZE 1,  PHIL HAWES 0
+  - Takedowns: ROMAN DOLIDZE 0,  PHIL HAWES 1
+  Bonus: perf

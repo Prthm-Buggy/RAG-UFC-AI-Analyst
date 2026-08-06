@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Assuncao vs. Moraes 2
+    Date : February 02, 2019
+    Location: Fortaleza, Ceara, Brazil
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Women's Flyweight, Heavyweight, Lightweight, Light Heavyweight, Women's Strawweight, Welterweight, Featherweight, Middleweight
+
+    Fight Results:
+  - CHARLES OLIVEIRA def. DAVID TEYMUR via Submission(R2)
+- JAIRZINHO ROZENSTRUIK def. JUNIOR ALBINI via KO/TKO(R2)
+- ROGERIO BONTORIN def. MAGOMED BIBULATOV via Decision - Split(R3)
+- JOHNNY WALKER def. JUSTIN LEDET via KO/TKO(R1)
+- MARKUS PEREZ def. ANTHONY HERNANDEZ via Submission(R2)
+- JOSE ALDO def. RENATO MOICANO via KO/TKO(R2)
+- SAID NURMAGOMEDOV def. RICARDO RAMOS via KO/TKO(R1)
+- DEMIAN MAIA def. LYMAN GOOD via Submission(R1)
+- MARLON MORAES def. RAPHAEL ASSUNCAO via Submission(R1)
+- THIAGO ALVES def. MAX GRIFFIN via Decision - Split(R3)
+- LIVINHA SOUZA def. SARAH FROTA via Decision - Split(R3)
+- MARA ROMERO BORELLA def. TAILA SANTOS via Decision - Split(R3)
+- GERALDO DE FREITAS def. FELIPE COLARES via Decision - Unanimous(R3)

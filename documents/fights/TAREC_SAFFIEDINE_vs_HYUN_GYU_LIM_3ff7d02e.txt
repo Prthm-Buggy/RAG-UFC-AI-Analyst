@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Saffiedine vs Lim
+    Date: January 04, 2014
+    Location: Singapore, Singapore
+    Weight Class: Welterweight
+    
+
+    Result: TAREC SAFFIEDINE defeated HYUN GYU LIM via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - TAREC SAFFIEDINE landed 120 significant strikes
+  - HYUN GYU LIM landed 122 significant strikes
+  - Knockdowns: TAREC SAFFIEDINE 3,  HYUN GYU LIM 0
+  - Takedowns: TAREC SAFFIEDINE 1,  HYUN GYU LIM 0
+  Bonus: fight

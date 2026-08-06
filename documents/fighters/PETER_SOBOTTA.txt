@@ -1,0 +1,11 @@
+Fighter: PETER SOBOTTA
+  Date of Birth: 1987-01-11
+  Career record: 10
+  First fight: 2009-06-13
+  Last fight: 2020-07-25
+
+Career Statistics:
+- Significant Strikes Landed :251
+- Total takedowns landed :12
+- Knockdowns :4
+- Submission Attempts :4

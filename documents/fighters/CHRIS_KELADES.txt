@@ -1,0 +1,11 @@
+Fighter: CHRIS KELADES
+  Date of Birth: 1981-02-21
+  Career record: 4
+  First fight: 2014-10-04
+  Last fight: 2016-04-23
+
+Career Statistics:
+- Significant Strikes Landed :139
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: UFC 280: Oliveira vs. Makhachev
+    Date: October 22, 2022
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Flyweight
+    
+
+    Result: MUHAMMAD MOKAEV defeated MALCOLM GORDON via Submission  
+  at 4:26 of round 3
+  Key stats:
+  - MUHAMMAD MOKAEV landed 21 significant strikes
+  - MALCOLM GORDON landed 17 significant strikes
+  - Knockdowns: MUHAMMAD MOKAEV 0,  MALCOLM GORDON 0
+  - Takedowns: MUHAMMAD MOKAEV 6,  MALCOLM GORDON 1

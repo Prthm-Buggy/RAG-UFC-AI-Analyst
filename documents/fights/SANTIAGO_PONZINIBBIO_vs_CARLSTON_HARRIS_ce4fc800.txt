@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Ribas 2
+    Date: January 11, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SANTIAGO PONZINIBBIO defeated CARLSTON HARRIS via KO/TKO  
+  at 3:13 of round 3
+  Key stats:
+  - SANTIAGO PONZINIBBIO landed 76 significant strikes
+  - CARLSTON HARRIS landed 73 significant strikes
+  - Knockdowns: SANTIAGO PONZINIBBIO 1,  CARLSTON HARRIS 1
+  - Takedowns: SANTIAGO PONZINIBBIO 0,  CARLSTON HARRIS 0

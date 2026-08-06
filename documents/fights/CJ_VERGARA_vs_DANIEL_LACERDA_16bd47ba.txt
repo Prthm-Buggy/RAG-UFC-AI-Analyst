@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vera vs. Sandhagen
+    Date: March 25, 2023
+    Location: San Antonio, Texas, USA
+    Weight Class: Flyweight
+    
+
+    Result: CJ VERGARA defeated DANIEL LACERDA via KO/TKO  
+  at 4:04 of round 2
+  Key stats:
+  - CJ VERGARA landed 83 significant strikes
+  - DANIEL LACERDA landed 48 significant strikes
+  - Knockdowns: CJ VERGARA 0,  DANIEL LACERDA 2
+  - Takedowns: CJ VERGARA 0,  DANIEL LACERDA 1
+  Bonus: fight

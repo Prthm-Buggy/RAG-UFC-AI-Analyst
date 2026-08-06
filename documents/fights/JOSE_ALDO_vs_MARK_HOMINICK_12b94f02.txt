@@ -1,0 +1,14 @@
+Event: UFC 129: St-Pierre vs Shields
+    Date: April 30, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Featherweight
+    
+
+    Result: JOSE ALDO defeated MARK HOMINICK via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JOSE ALDO landed 94 significant strikes
+  - MARK HOMINICK landed 71 significant strikes
+  - Knockdowns: JOSE ALDO 1,  MARK HOMINICK 0
+  - Takedowns: JOSE ALDO 5,  MARK HOMINICK 1
+  Bonus: belt

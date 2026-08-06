@@ -1,0 +1,13 @@
+Event: UFC on FOX: Shogun vs Vera
+    Date: August 04, 2012
+    Location: Los Angeles, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PHILIP DE FRIES defeated OLI THOMPSON via Submission  
+  at 4:16 of round 2
+  Key stats:
+  - PHILIP DE FRIES landed 35 significant strikes
+  - OLI THOMPSON landed 18 significant strikes
+  - Knockdowns: PHILIP DE FRIES 1,  OLI THOMPSON 0
+  - Takedowns: PHILIP DE FRIES 2,  OLI THOMPSON 0

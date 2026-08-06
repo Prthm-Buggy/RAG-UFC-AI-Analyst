@@ -1,0 +1,11 @@
+Fighter: OLIVIER AUBIN-MERCIER
+  Date of Birth: 1989-02-23
+  Career record: 12
+  First fight: 2014-04-16
+  Last fight: 2019-07-27
+
+Career Statistics:
+- Significant Strikes Landed :363
+- Total takedowns landed :23
+- Knockdowns :2
+- Submission Attempts :5

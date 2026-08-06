@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nicolau vs. Perez
+    Date: April 27, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHRIS PADILLA defeated JAMES LLONTOP via Submission  
+  at 4:33 of round 1
+  Key stats:
+  - CHRIS PADILLA landed 12 significant strikes
+  - JAMES LLONTOP landed 19 significant strikes
+  - Knockdowns: CHRIS PADILLA 0,  JAMES LLONTOP 0
+  - Takedowns: CHRIS PADILLA 3,  JAMES LLONTOP 0

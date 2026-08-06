@@ -1,0 +1,17 @@
+Event : UFC 79: Nemesis
+    Date : December 29, 2007
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Lightweight, Light Heavyweight, Middleweight, Welterweight
+
+    Fight Results:
+  - LYOTO MACHIDA def. RAMEAU THIERRY SOKOUDJOU via Submission(R2)
+- GEORGES ST-PIERRE def. MATT HUGHES via Submission(R2)
+- ROAN CARNEIRO def. TONY DESOUZA via KO/TKO(R2)
+- MANVEL GAMBURYAN def. NATE MOHR via Submission(R1)
+- EDDIE SANCHEZ def. SOA PALELEI via KO/TKO(R3)
+- JAMES IRVIN def. LUIZ CANE via DQ(R1)
+- CHUCK LIDDELL def. WANDERLEI SILVA via Decision - Unanimous(R3)
+- RICH CLEMENTI def. MELVIN GUILLARD via Submission(R1)
+- MARK BOCEK def. DOUG EVANS via Decision - Unanimous(R3)
+- DEAN LISTER def. JORDAN RADEV via Decision - Unanimous(R3)

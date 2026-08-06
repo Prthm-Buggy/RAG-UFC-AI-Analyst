@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs Mir
+    Date: March 19, 2016
+    Location: Brisbane, Queensland, Australia
+    Weight Class: Lightweight
+    
+
+    Result: ALAN PATRICK defeated DAMIEN BROWN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALAN PATRICK landed 25 significant strikes
+  - DAMIEN BROWN landed 15 significant strikes
+  - Knockdowns: ALAN PATRICK 0,  DAMIEN BROWN 0
+  - Takedowns: ALAN PATRICK 5,  DAMIEN BROWN 1

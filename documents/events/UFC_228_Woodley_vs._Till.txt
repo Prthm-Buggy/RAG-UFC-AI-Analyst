@@ -1,0 +1,20 @@
+Event : UFC 228: Woodley vs. Till
+    Date : September 08, 2018
+    Location: Dallas, Texas, USA
+    Number of Fights: 13
+    Weight Classes: Women's Strawweight, Lightweight, Welterweight, Middleweight, Featherweight, Women's Bantamweight, Flyweight, Bantamweight
+
+    Fight Results:
+  - JIM MILLER def. ALEX WHITE via Submission(R1)
+- JESSICA ANDRADE def. KAROLINA KOWALKIEWICZ via KO/TKO(R1)
+- ALJAMAIN STERLING def. CODY STAMANN via Submission(R2)
+- IRENE ALDANA def. LUCIE PUDILOVA via Decision - Split(R3)
+- TATIANA SUAREZ def. CARLA ESPARZA via KO/TKO(R3)
+- JARRED BROOKS def. ROBERT SANCHEZ via Decision - Split(R3)
+- DARREN STEWART def. CHARLES BYRD via KO/TKO(R2)
+- ZABIT MAGOMEDSHARIPOV def. BRANDON DAVIS via Submission(R2)
+- GEOFF NEAL def. FRANK CAMACHO via KO/TKO(R2)
+- TYRON WOODLEY def. DARREN TILL via Submission(R2)
+- ABDUL RAZAK ALHASSAN def. NIKO PRICE via KO/TKO(R1)
+- JIMMIE RIVERA def. JOHN DODSON via Decision - Unanimous(R3)
+- DIEGO SANCHEZ def. CRAIG WHITE via Decision - Unanimous(R3)

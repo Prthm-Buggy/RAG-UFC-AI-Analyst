@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Moreno vs. Royval 2
+    Date : February 24, 2024
+    Location: Mexico City, Distrito Federal, Mexico
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Women's Strawweight, Flyweight, Lightweight, Featherweight
+
+    Fight Results:
+  - FARES ZIAM def. CLAUDIO PUELLES via Decision - Split(R3)
+- EDGAR CHAIREZ def. DANIEL LACERDA via Submission(R1)
+- MANUEL TORRES def. CHRIS DUNCAN via Submission(R1)
+- RAONI BARCELOS def. CRISTIAN QUINONEZ via Submission(R3)
+- MUHAMMAD NAIMOV def. ERIK SILVA via KO/TKO(R1)
+- BRIAN ORTEGA def. YAIR RODRIGUEZ via Submission(R3)
+- FELIPE DOS SANTOS def. VICTOR ALTAMIRANO via Decision - Split(R3)
+- DANIEL ZELLHUBER def. FRANCISCO PRADO via Decision - Unanimous(R3)
+- BRANDON ROYVAL def. BRANDON MORENO via Decision - Split(R5)
+- RONALDO RODRIGUEZ def. DENYS BONDAR via Submission(R2)
+- JESUS AGUILAR def. MATEUS MENDONCA via Decision - Split(R3)
+- YAZMIN JAUREGUI def. SAM HUGHES via Decision - Unanimous(R3)

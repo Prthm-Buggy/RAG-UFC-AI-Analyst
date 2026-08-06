@@ -1,0 +1,11 @@
+Fighter: CHRIS DUNCAN
+  Date of Birth: 1993-05-10
+  Career record: 8
+  First fight: 2023-03-18
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :321
+- Total takedowns landed :13
+- Knockdowns :2
+- Submission Attempts :3

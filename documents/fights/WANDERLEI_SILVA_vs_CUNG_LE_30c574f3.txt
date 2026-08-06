@@ -1,0 +1,14 @@
+Event: UFC 139: Shogun vs Henderson
+    Date: November 19, 2011
+    Location: San Jose, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: WANDERLEI SILVA defeated CUNG LE via KO/TKO  
+  at 4:49 of round 2
+  Key stats:
+  - WANDERLEI SILVA landed 43 significant strikes
+  - CUNG LE landed 32 significant strikes
+  - Knockdowns: WANDERLEI SILVA 1,  CUNG LE 0
+  - Takedowns: WANDERLEI SILVA 0,  CUNG LE 0
+  Bonus: fight

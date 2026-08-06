@@ -1,0 +1,13 @@
+Event: UFC 5: The Return of the Beast
+    Date: April 07, 1995
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Open Weight
+    
+
+    Result: DAVE BENETEAU defeated ASBEL CANCIO via KO/TKO  
+  at 0:21 of round 1
+  Key stats:
+  - DAVE BENETEAU landed 12 significant strikes
+  - ASBEL CANCIO landed 0 significant strikes
+  - Knockdowns: DAVE BENETEAU 0,  ASBEL CANCIO 0
+  - Takedowns: DAVE BENETEAU 1,  ASBEL CANCIO 0

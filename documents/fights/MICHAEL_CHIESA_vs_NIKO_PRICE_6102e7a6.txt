@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Adesanya vs. Pyfer
+    Date: March 28, 2026
+    Location: Seattle, Washington, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICHAEL CHIESA defeated NIKO PRICE via Submission  
+  at 1:03 of round 1
+  Key stats:
+  - MICHAEL CHIESA landed 0 significant strikes
+  - NIKO PRICE landed 1 significant strikes
+  - Knockdowns: MICHAEL CHIESA 0,  NIKO PRICE 0
+  - Takedowns: MICHAEL CHIESA 1,  NIKO PRICE 1

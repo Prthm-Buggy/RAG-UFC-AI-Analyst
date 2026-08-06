@@ -1,0 +1,11 @@
+Fighter: MARCO POLO REYES
+  Date of Birth: 1984-11-07
+  Career record: 8
+  First fight: 2015-11-21
+  Last fight: 2019-09-21
+
+Career Statistics:
+- Significant Strikes Landed :264
+- Total takedowns landed :0
+- Knockdowns :5
+- Submission Attempts :0

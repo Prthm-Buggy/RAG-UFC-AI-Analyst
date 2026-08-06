@@ -1,0 +1,14 @@
+Event: UFC 65: Bad Intentions
+    Date: November 18, 2006
+    Location: Sacramento, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAMES IRVIN defeated HECTOR RAMIREZ via KO/TKO  
+  at 2:36 of round 2
+  Key stats:
+  - JAMES IRVIN landed 17 significant strikes
+  - HECTOR RAMIREZ landed 33 significant strikes
+  - Knockdowns: JAMES IRVIN 1,  HECTOR RAMIREZ 0
+  - Takedowns: JAMES IRVIN 0,  HECTOR RAMIREZ 3
+  Bonus: fight

@@ -1,0 +1,13 @@
+Event: UFC on FX: Maynard vs Guida
+    Date: June 22, 2012
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Featherweight
+    
+
+    Result: STEVEN SILER defeated JOEY GAMBINO via Submission  
+  at 2:47 of round 1
+  Key stats:
+  - STEVEN SILER landed 12 significant strikes
+  - JOEY GAMBINO landed 5 significant strikes
+  - Knockdowns: STEVEN SILER 0,  JOEY GAMBINO 0
+  - Takedowns: STEVEN SILER 1,  JOEY GAMBINO 0

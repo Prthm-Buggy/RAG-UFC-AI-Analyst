@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Figueiredo vs. Benavidez 2
+    Date : July 18, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 12
+    Weight Classes: Lightweight, Middleweight, Light Heavyweight, Flyweight, Catch Weight, Women's Flyweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - GRANT DAWSON def. NAD NARIMANI via Decision - Unanimous(R3)
+- ARIANE DA SILVA def. LUANA CAROLINA via Submission(R1)
+- SERGHEI SPIVAC def. CARLOS FELIPE via Decision - Majority(R3)
+- JOEL ALVAREZ def. JOE DUFFY via Submission(R1)
+- ASKAR ASKAROV def. ALEXANDRE PANTOJA via Decision - Unanimous(R3)
+- ARMAN TSARUKYAN def. DAVI RAMOS via Decision - Unanimous(R3)
+- ROMAN DOLIDZE def. KHADIS IBRAGIMOV via KO/TKO(R1)
+- AMIR ALBAZI def. MALCOLM GORDON via Submission(R1)
+- BRETT JOHNS def. MONTEL JACKSON via Decision - Unanimous(R3)
+- DEIVESON FIGUEIREDO def. JOSEPH BENAVIDEZ via Submission(R1)
+- RAFAEL FIZIEV def. MARC DIAKIESE via Decision - Unanimous(R3)
+- JACK HERMANSSON def. KELVIN GASTELUM via Submission(R1)

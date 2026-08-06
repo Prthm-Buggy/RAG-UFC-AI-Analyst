@@ -1,0 +1,13 @@
+Event: UFC 15: Collision Course
+    Date: October 17, 1997
+    Location: Bay St. Louis, Mississippi, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEX HUNTER defeated HARRY MOSKOWITZ via Decision - Split  
+  at 12:00 of round 1
+  Key stats:
+  - ALEX HUNTER landed 11 significant strikes
+  - HARRY MOSKOWITZ landed 12 significant strikes
+  - Knockdowns: ALEX HUNTER 0,  HARRY MOSKOWITZ 0
+  - Takedowns: ALEX HUNTER 1,  HARRY MOSKOWITZ 1

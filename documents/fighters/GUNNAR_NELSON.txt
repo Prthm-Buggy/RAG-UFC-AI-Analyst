@@ -1,0 +1,11 @@
+Fighter: GUNNAR NELSON
+  Date of Birth: 1988-07-28
+  Career record: 16
+  First fight: 2012-09-29
+  Last fight: 2025-03-22
+
+Career Statistics:
+- Significant Strikes Landed :292
+- Total takedowns landed :22
+- Knockdowns :1
+- Submission Attempts :11

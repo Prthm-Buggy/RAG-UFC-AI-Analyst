@@ -1,0 +1,13 @@
+Event: UFC 37.5: As Real As It Gets
+    Date: June 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: TONY FRYKLUND defeated RODRIGO RUAS via KO/TKO  
+  at 3:34 of round 2
+  Key stats:
+  - TONY FRYKLUND landed 60 significant strikes
+  - RODRIGO RUAS landed 11 significant strikes
+  - Knockdowns: TONY FRYKLUND 1,  RODRIGO RUAS 0
+  - Takedowns: TONY FRYKLUND 0,  RODRIGO RUAS 0

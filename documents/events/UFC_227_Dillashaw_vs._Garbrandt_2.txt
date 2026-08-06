@@ -1,0 +1,19 @@
+Event : UFC 227: Dillashaw vs. Garbrandt 2
+    Date : August 04, 2018
+    Location: Los Angeles, California, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Featherweight, Women's Strawweight, Flyweight, Middleweight
+
+    Fight Results:
+  - RICARDO RAMOS def. KYUNG HO KANG via Decision - Split(R3)
+- MARLON VERA def. WULIJIBUREN via KO/TKO(R2)
+- ZHANG WEILI def. DANIELLE TAYLOR via Decision - Unanimous(R3)
+- SHEYMON MORAES def. MATT SAYLES via Decision - Unanimous(R3)
+- JJ ALDRICH def. POLYANA VIANA via Decision - Unanimous(R3)
+- RICKY SIMON def. MONTEL JACKSON via Decision - Unanimous(R3)
+- HENRY CEJUDO def. DEMETRIOUS JOHNSON via Decision - Split(R5)
+- PEDRO MUNHOZ def. BRETT JOHNS via Decision - Unanimous(R3)
+- THIAGO SANTOS def. KEVIN HOLLAND via Decision - Unanimous(R3)
+- RENATO MOICANO def. CUB SWANSON via Submission(R1)
+- TJ DILLASHAW def. CODY GARBRANDT via KO/TKO(R1)
+- ALEX PEREZ def. JOSE TORRES via KO/TKO(R1)

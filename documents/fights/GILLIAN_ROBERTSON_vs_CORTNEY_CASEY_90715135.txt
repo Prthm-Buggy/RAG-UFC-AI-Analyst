@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Volkov
+    Date: June 20, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: GILLIAN ROBERTSON defeated CORTNEY CASEY via Submission  
+  at 4:36 of round 3
+  Key stats:
+  - GILLIAN ROBERTSON landed 21 significant strikes
+  - CORTNEY CASEY landed 22 significant strikes
+  - Knockdowns: GILLIAN ROBERTSON 0,  CORTNEY CASEY 0
+  - Takedowns: GILLIAN ROBERTSON 3,  CORTNEY CASEY 0

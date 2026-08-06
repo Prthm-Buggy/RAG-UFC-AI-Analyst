@@ -1,0 +1,13 @@
+Event: UFC on FX: Johnson vs McCall
+    Date: June 08, 2012
+    Location: Sunrise, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: TIM MEANS defeated JUSTIN SALAS via KO/TKO  
+  at 1:06 of round 1
+  Key stats:
+  - TIM MEANS landed 26 significant strikes
+  - JUSTIN SALAS landed 5 significant strikes
+  - Knockdowns: TIM MEANS 2,  JUSTIN SALAS 0
+  - Takedowns: TIM MEANS 0,  JUSTIN SALAS 0

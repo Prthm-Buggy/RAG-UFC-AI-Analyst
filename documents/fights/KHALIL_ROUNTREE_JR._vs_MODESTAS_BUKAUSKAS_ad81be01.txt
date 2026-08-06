@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brunson vs. Till
+    Date: September 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KHALIL ROUNTREE JR. defeated MODESTAS BUKAUSKAS via KO/TKO  
+  at 2:30 of round 2
+  Key stats:
+  - KHALIL ROUNTREE JR. landed 38 significant strikes
+  - MODESTAS BUKAUSKAS landed 23 significant strikes
+  - Knockdowns: KHALIL ROUNTREE JR. 1,  MODESTAS BUKAUSKAS 0
+  - Takedowns: KHALIL ROUNTREE JR. 0,  MODESTAS BUKAUSKAS 0

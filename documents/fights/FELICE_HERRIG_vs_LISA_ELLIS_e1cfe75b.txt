@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: A Champion Will Be Crowned Finale
+    Date: December 12, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: FELICE HERRIG defeated LISA ELLIS via Submission  
+  at 3:05 of round 2
+  Key stats:
+  - FELICE HERRIG landed 8 significant strikes
+  - LISA ELLIS landed 4 significant strikes
+  - Knockdowns: FELICE HERRIG 0,  LISA ELLIS 0
+  - Takedowns: FELICE HERRIG 1,  LISA ELLIS 2

@@ -1,0 +1,13 @@
+Event: UFC 61: Bitter Rivals
+    Date: July 08, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TITO ORTIZ defeated KEN SHAMROCK via KO/TKO  
+  at 1:18 of round 1
+  Key stats:
+  - TITO ORTIZ landed 11 significant strikes
+  - KEN SHAMROCK landed 0 significant strikes
+  - Knockdowns: TITO ORTIZ 0,  KEN SHAMROCK 0
+  - Takedowns: TITO ORTIZ 1,  KEN SHAMROCK 0

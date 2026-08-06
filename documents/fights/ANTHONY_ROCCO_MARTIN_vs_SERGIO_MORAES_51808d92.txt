@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Dos Santos
+    Date: March 09, 2019
+    Location: Wichita, Kansas, USA
+    Weight Class: Welterweight
+    
+
+    Result: ANTHONY ROCCO MARTIN defeated SERGIO MORAES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ANTHONY ROCCO MARTIN landed 50 significant strikes
+  - SERGIO MORAES landed 19 significant strikes
+  - Knockdowns: ANTHONY ROCCO MARTIN 0,  SERGIO MORAES 0
+  - Takedowns: ANTHONY ROCCO MARTIN 0,  SERGIO MORAES 3

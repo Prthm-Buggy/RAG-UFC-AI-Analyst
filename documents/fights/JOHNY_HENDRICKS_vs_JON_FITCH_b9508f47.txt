@@ -1,0 +1,14 @@
+Event: UFC 141: Lesnar vs Overeem
+    Date: December 30, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOHNY HENDRICKS defeated JON FITCH via KO/TKO  
+  at 0:12 of round 1
+  Key stats:
+  - JOHNY HENDRICKS landed 2 significant strikes
+  - JON FITCH landed 0 significant strikes
+  - Knockdowns: JOHNY HENDRICKS 1,  JON FITCH 0
+  - Takedowns: JOHNY HENDRICKS 0,  JON FITCH 0
+  Bonus: ko

@@ -1,0 +1,11 @@
+Fighter: JUNIOR DOS SANTOS
+  Date of Birth: 1984-01-30
+  Career record: 23
+  First fight: 2008-10-25
+  Last fight: 2020-12-12
+
+Career Statistics:
+- Significant Strikes Landed :1109
+- Total takedowns landed :5
+- Knockdowns :14
+- Submission Attempts :1

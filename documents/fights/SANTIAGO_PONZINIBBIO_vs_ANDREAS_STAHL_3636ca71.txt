@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. VanZant
+    Date: December 10, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SANTIAGO PONZINIBBIO defeated ANDREAS STAHL via KO/TKO  
+  at 4:25 of round 1
+  Key stats:
+  - SANTIAGO PONZINIBBIO landed 48 significant strikes
+  - ANDREAS STAHL landed 14 significant strikes
+  - Knockdowns: SANTIAGO PONZINIBBIO 1,  ANDREAS STAHL 0
+  - Takedowns: SANTIAGO PONZINIBBIO 0,  ANDREAS STAHL 2

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Korean Zombie vs. Rodriguez
+    Date : November 10, 2018
+    Location: Denver, Colorado, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Women's Bantamweight, Lightweight, Welterweight, Women's Strawweight, Flyweight, Featherweight
+
+    Fight Results:
+  - DAVI RAMOS def. JOHN GUNTHER via Submission(R1)
+- MAYCEE BARBER def. HANNAH CIFERS via KO/TKO(R2)
+- ERIC SHELTON def. JOSEPH MORALES via Decision - Split(R3)
+- MICHAEL TRIZANO def. LUIS PENA via Decision - Split(R3)
+- BENEIL DARIUSH def. THIAGO MOISES via Decision - Unanimous(R3)
+- YAIR RODRIGUEZ def. CHAN SUNG JUNG via KO/TKO(R5)
+- MARK DE LA ROSA def. JOBY SANCHEZ via Decision - Split(R3)
+- GERMAINE DE RANDAMIE def. RAQUEL PENNINGTON via Decision - Unanimous(R3)
+- ASHLEY YODER def. AMANDA COOPER via Decision - Split(R3)
+- DEVONTE SMITH def. JULIAN EROSA via KO/TKO(R1)
+- DONALD CERRONE def. MIKE PERRY via Submission(R1)

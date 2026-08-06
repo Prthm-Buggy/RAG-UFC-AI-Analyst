@@ -1,0 +1,11 @@
+Fighter: JEKA SARAGIH
+  Date of Birth: 1995-01-01
+  Career record: 4
+  First fight: 2023-02-04
+  Last fight: 2025-06-07
+
+Career Statistics:
+- Significant Strikes Landed :24
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

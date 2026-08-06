@@ -1,0 +1,14 @@
+Event: UFC 249: Ferguson vs. Gaethje
+    Date: May 09, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: JUSTIN GAETHJE defeated TONY FERGUSON via KO/TKO  
+  at 3:39 of round 5
+  Key stats:
+  - JUSTIN GAETHJE landed 143 significant strikes
+  - TONY FERGUSON landed 136 significant strikes
+  - Knockdowns: JUSTIN GAETHJE 0,  TONY FERGUSON 0
+  - Takedowns: JUSTIN GAETHJE 0,  TONY FERGUSON 0
+  Bonus: belt

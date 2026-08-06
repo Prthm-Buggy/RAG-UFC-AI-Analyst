@@ -1,0 +1,11 @@
+Fighter: RYAN LAFLARE
+  Date of Birth: 1983-10-01
+  Career record: 10
+  First fight: 2013-04-06
+  Last fight: 2018-10-06
+
+Career Statistics:
+- Significant Strikes Landed :427
+- Total takedowns landed :21
+- Knockdowns :2
+- Submission Attempts :2

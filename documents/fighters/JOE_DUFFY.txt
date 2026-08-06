@@ -1,0 +1,11 @@
+Fighter: JOE DUFFY
+  Date of Birth: 1988-02-18
+  Career record: 8
+  First fight: 2015-03-14
+  Last fight: 2020-07-18
+
+Career Statistics:
+- Significant Strikes Landed :168
+- Total takedowns landed :4
+- Knockdowns :2
+- Submission Attempts :3

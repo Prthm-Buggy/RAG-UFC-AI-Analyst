@@ -1,0 +1,11 @@
+Fighter: EVAN DUNHAM
+  Date of Birth: 1981-12-18
+  Career record: 20
+  First fight: 2009-02-21
+  Last fight: 2020-06-06
+
+Career Statistics:
+- Significant Strikes Landed :1192
+- Total takedowns landed :27
+- Knockdowns :2
+- Submission Attempts :15

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Lewis
+    Date: February 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOHN CASTANEDA defeated EDDIE WINELAND via KO/TKO  
+  at 4:44 of round 1
+  Key stats:
+  - JOHN CASTANEDA landed 42 significant strikes
+  - EDDIE WINELAND landed 17 significant strikes
+  - Knockdowns: JOHN CASTANEDA 1,  EDDIE WINELAND 0
+  - Takedowns: JOHN CASTANEDA 0,  EDDIE WINELAND 1

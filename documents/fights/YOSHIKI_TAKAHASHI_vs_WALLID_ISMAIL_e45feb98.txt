@@ -1,0 +1,13 @@
+Event: UFC 12: Judgement Day
+    Date: February 07, 1997
+    Location: Dothan, Alabama, USA
+    Weight Class: Lightweight
+    
+
+    Result: YOSHIKI TAKAHASHI defeated WALLID ISMAIL via Decision - Unanimous  
+  at 3:00 of round 2
+  Key stats:
+  - YOSHIKI TAKAHASHI landed 20 significant strikes
+  - WALLID ISMAIL landed 1 significant strikes
+  - Knockdowns: YOSHIKI TAKAHASHI 0,  WALLID ISMAIL 0
+  - Takedowns: YOSHIKI TAKAHASHI 1,  WALLID ISMAIL 1

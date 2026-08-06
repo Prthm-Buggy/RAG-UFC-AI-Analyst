@@ -1,0 +1,18 @@
+Event : UFC 253: Adesanya vs. Costa
+    Date : September 26, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 11
+    Weight Classes: Light Heavyweight, Women's Bantamweight, Flyweight, Featherweight, Lightweight, Welterweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - ISRAEL ADESANYA def. PAULO COSTA via KO/TKO(R2)
+- DANILO MARQUES def. KHADIS IBRAGIMOV via Decision - Unanimous(R3)
+- KETLEN VIEIRA def. SIJARA EUBANKS via Decision - Unanimous(R3)
+- BRANDON ROYVAL def. KAI KARA-FRANCE via Submission(R2)
+- WILLIAM KNIGHT def. ALEKSA CAMUR via Decision - Unanimous(R3)
+- HAKEEM DAWODU def. ZUBAIRA TUKHUGOV via Decision - Split(R3)
+- JAN BLACHOWICZ def. DOMINICK REYES via KO/TKO(R2)
+- JAKE MATTHEWS def. DIEGO SANCHEZ via Decision - Unanimous(R3)
+- LUDOVIT KLEIN def. SHANE YOUNG via KO/TKO(R1)
+- BRAD RIDDELL def. ALEX DA SILVA via Decision - Unanimous(R3)
+- JUAN ESPINO def. JEFF HUGHES via Submission(R1)

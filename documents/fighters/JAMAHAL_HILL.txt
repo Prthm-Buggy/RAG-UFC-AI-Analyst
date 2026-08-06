@@ -1,0 +1,11 @@
+Fighter: JAMAHAL HILL
+  Date of Birth: 1991-05-19
+  Career record: 10
+  First fight: 2020-01-25
+  Last fight: 2025-06-21
+
+Career Statistics:
+- Significant Strikes Landed :663
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

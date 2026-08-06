@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Royval vs. Kape
+    Date: December 13, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: MANEL KAPE defeated BRANDON ROYVAL via KO/TKO  
+  at 3:18 of round 1
+  Key stats:
+  - MANEL KAPE landed 17 significant strikes
+  - BRANDON ROYVAL landed 17 significant strikes
+  - Knockdowns: MANEL KAPE 1,  BRANDON ROYVAL 0
+  - Takedowns: MANEL KAPE 0,  BRANDON ROYVAL 0
+  Bonus: perf

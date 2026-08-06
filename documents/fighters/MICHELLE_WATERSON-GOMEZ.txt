@@ -1,0 +1,11 @@
+Fighter: MICHELLE WATERSON-GOMEZ
+  Date of Birth: 1986-01-06
+  Career record: 15
+  First fight: 2015-07-12
+  Last fight: 2024-06-29
+
+Career Statistics:
+- Significant Strikes Landed :780
+- Total takedowns landed :19
+- Knockdowns :0
+- Submission Attempts :8

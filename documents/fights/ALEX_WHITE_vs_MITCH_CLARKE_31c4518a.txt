@@ -1,0 +1,13 @@
+Event: UFC 215: Nunes vs Shevchenko 2
+    Date: September 09, 2017
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Lightweight
+    
+
+    Result: ALEX WHITE defeated MITCH CLARKE via KO/TKO  
+  at 4:36 of round 2
+  Key stats:
+  - ALEX WHITE landed 57 significant strikes
+  - MITCH CLARKE landed 28 significant strikes
+  - Knockdowns: ALEX WHITE 3,  MITCH CLARKE 0
+  - Takedowns: ALEX WHITE 0,  MITCH CLARKE 0

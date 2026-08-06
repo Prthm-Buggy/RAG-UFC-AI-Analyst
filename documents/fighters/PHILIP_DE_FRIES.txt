@@ -1,0 +1,11 @@
+Fighter: PHILIP DE FRIES
+  Date of Birth: 1986-04-21
+  Career record: 5
+  First fight: 2011-11-05
+  Last fight: 2013-04-06
+
+Career Statistics:
+- Significant Strikes Landed :63
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :1

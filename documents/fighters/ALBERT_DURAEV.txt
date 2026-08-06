@@ -1,0 +1,11 @@
+Fighter: ALBERT DURAEV
+  Date of Birth: 1989-01-05
+  Career record: 4
+  First fight: 2021-10-30
+  Last fight: 2023-07-15
+
+Career Statistics:
+- Significant Strikes Landed :157
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

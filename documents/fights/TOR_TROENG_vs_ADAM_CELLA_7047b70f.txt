@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Mousasi vs Latifi
+    Date: April 06, 2013
+    Location: Stockholm, Sweden
+    Weight Class: Middleweight
+    
+
+    Result: TOR TROENG defeated ADAM CELLA via Error  
+  at 3:11 of round 1
+  Key stats:
+  - TOR TROENG landed 6 significant strikes
+  - ADAM CELLA landed 2 significant strikes
+  - Knockdowns: TOR TROENG 0,  ADAM CELLA 0
+  - Takedowns: TOR TROENG 1,  ADAM CELLA 0

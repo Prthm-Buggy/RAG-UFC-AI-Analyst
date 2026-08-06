@@ -1,0 +1,11 @@
+Fighter: MAGOMED MUSTAFAEV
+  Date of Birth: 1988-08-02
+  Career record: 5
+  First fight: 2015-06-20
+  Last fight: 2020-02-22
+
+Career Statistics:
+- Significant Strikes Landed :94
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :1

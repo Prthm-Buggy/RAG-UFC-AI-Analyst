@@ -1,0 +1,11 @@
+Fighter: TE EDWARDS
+  Date of Birth: 1990-09-11
+  Career record: 2
+  First fight: 2018-10-27
+  Last fight: 2019-01-19
+
+Career Statistics:
+- Significant Strikes Landed :28
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

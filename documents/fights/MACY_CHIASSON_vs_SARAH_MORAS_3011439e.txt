@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Iaquinta vs. Cowboy
+    Date: May 04, 2019
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MACY CHIASSON defeated SARAH MORAS via KO/TKO  
+  at 2:22 of round 2
+  Key stats:
+  - MACY CHIASSON landed 43 significant strikes
+  - SARAH MORAS landed 9 significant strikes
+  - Knockdowns: MACY CHIASSON 0,  SARAH MORAS 0
+  - Takedowns: MACY CHIASSON 0,  SARAH MORAS 1
+  Bonus: perf

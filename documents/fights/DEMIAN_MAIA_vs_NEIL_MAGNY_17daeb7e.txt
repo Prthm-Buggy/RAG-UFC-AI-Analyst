@@ -1,0 +1,14 @@
+Event: UFC 190: Rousey vs Correia
+    Date: August 01, 2015
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: DEMIAN MAIA defeated NEIL MAGNY via Submission  
+  at 2:52 of round 2
+  Key stats:
+  - DEMIAN MAIA landed 13 significant strikes
+  - NEIL MAGNY landed 0 significant strikes
+  - Knockdowns: DEMIAN MAIA 0,  NEIL MAGNY 0
+  - Takedowns: DEMIAN MAIA 2,  NEIL MAGNY 0
+  Bonus: perf

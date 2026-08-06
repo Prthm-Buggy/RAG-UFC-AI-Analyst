@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blaydes vs. Aspinall
+    Date: July 23, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: JONATHAN PEARCE defeated MAKWAN AMIRKHANI via KO/TKO  
+  at 4:10 of round 2
+  Key stats:
+  - JONATHAN PEARCE landed 90 significant strikes
+  - MAKWAN AMIRKHANI landed 11 significant strikes
+  - Knockdowns: JONATHAN PEARCE 0,  MAKWAN AMIRKHANI 0
+  - Takedowns: JONATHAN PEARCE 4,  MAKWAN AMIRKHANI 3
+  Bonus: perf

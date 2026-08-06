@@ -1,0 +1,13 @@
+Event: UFC 263: Adesanya vs. Vettori 2
+    Date: June 12, 2021
+    Location: Glendale, Arizona, USA
+    Weight Class: Welterweight
+    
+
+    Result: LEON EDWARDS defeated NATE DIAZ via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - LEON EDWARDS landed 77 significant strikes
+  - NATE DIAZ landed 76 significant strikes
+  - Knockdowns: LEON EDWARDS 0,  NATE DIAZ 0
+  - Takedowns: LEON EDWARDS 4,  NATE DIAZ 0

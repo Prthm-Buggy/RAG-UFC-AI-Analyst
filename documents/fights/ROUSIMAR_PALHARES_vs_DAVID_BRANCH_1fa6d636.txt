@@ -1,0 +1,13 @@
+Event: UFC Live: Sanchez vs Kampmann
+    Date: March 03, 2011
+    Location: Louisville, Kentucky, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROUSIMAR PALHARES defeated DAVID BRANCH via Submission  
+  at 1:44 of round 2
+  Key stats:
+  - ROUSIMAR PALHARES landed 2 significant strikes
+  - DAVID BRANCH landed 6 significant strikes
+  - Knockdowns: ROUSIMAR PALHARES 0,  DAVID BRANCH 0
+  - Takedowns: ROUSIMAR PALHARES 0,  DAVID BRANCH 1

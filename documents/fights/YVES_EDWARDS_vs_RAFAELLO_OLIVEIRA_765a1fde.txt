@@ -1,0 +1,13 @@
+Event: UFC Live: Cruz vs Johnson
+    Date: October 01, 2011
+    Location: Washington, DC, USA
+    Weight Class: Lightweight
+    
+
+    Result: YVES EDWARDS defeated RAFAELLO OLIVEIRA via KO/TKO  
+  at 2:44 of round 2
+  Key stats:
+  - YVES EDWARDS landed 42 significant strikes
+  - RAFAELLO OLIVEIRA landed 22 significant strikes
+  - Knockdowns: YVES EDWARDS 2,  RAFAELLO OLIVEIRA 0
+  - Takedowns: YVES EDWARDS 0,  RAFAELLO OLIVEIRA 0

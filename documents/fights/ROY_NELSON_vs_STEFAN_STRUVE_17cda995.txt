@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Florian vs Gomi
+    Date: March 31, 2010
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ROY NELSON defeated STEFAN STRUVE via KO/TKO  
+  at 0:39 of round 1
+  Key stats:
+  - ROY NELSON landed 9 significant strikes
+  - STEFAN STRUVE landed 2 significant strikes
+  - Knockdowns: ROY NELSON 1,  STEFAN STRUVE 0
+  - Takedowns: ROY NELSON 0,  STEFAN STRUVE 0
+  Bonus: ko

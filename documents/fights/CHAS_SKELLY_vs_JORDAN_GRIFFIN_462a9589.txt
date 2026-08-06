@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs. Gaethje
+    Date: September 14, 2019
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Featherweight
+    
+
+    Result: CHAS SKELLY defeated JORDAN GRIFFIN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHAS SKELLY landed 21 significant strikes
+  - JORDAN GRIFFIN landed 37 significant strikes
+  - Knockdowns: CHAS SKELLY 0,  JORDAN GRIFFIN 0
+  - Takedowns: CHAS SKELLY 1,  JORDAN GRIFFIN 1

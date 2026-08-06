@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Joanna vs. Waterson
+    Date: October 12, 2019
+    Location: Tampa, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: MIKE DAVIS defeated THOMAS GIFFORD via KO/TKO  
+  at 4:45 of round 3
+  Key stats:
+  - MIKE DAVIS landed 139 significant strikes
+  - THOMAS GIFFORD landed 88 significant strikes
+  - Knockdowns: MIKE DAVIS 2,  THOMAS GIFFORD 0
+  - Takedowns: MIKE DAVIS 2,  THOMAS GIFFORD 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Volkov vs. Rozenstruik
+    Date: June 04, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: KAROLINA KOWALKIEWICZ defeated FELICE HERRIG via Submission  
+  at 4:01 of round 2
+  Key stats:
+  - KAROLINA KOWALKIEWICZ landed 82 significant strikes
+  - FELICE HERRIG landed 55 significant strikes
+  - Knockdowns: KAROLINA KOWALKIEWICZ 0,  FELICE HERRIG 0
+  - Takedowns: KAROLINA KOWALKIEWICZ 0,  FELICE HERRIG 0

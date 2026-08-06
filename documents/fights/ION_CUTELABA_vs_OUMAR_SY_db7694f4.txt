@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Vallejos
+    Date: March 14, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ION CUTELABA defeated OUMAR SY via Submission  
+  at 4:24 of round 1
+  Key stats:
+  - ION CUTELABA landed 14 significant strikes
+  - OUMAR SY landed 5 significant strikes
+  - Knockdowns: ION CUTELABA 0,  OUMAR SY 0
+  - Takedowns: ION CUTELABA 1,  OUMAR SY 0

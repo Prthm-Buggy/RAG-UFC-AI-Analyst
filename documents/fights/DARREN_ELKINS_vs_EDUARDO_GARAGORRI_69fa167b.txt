@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Teixeira
+    Date: November 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DARREN ELKINS defeated EDUARDO GARAGORRI via Submission  
+  at 2:22 of round 3
+  Key stats:
+  - DARREN ELKINS landed 32 significant strikes
+  - EDUARDO GARAGORRI landed 36 significant strikes
+  - Knockdowns: DARREN ELKINS 0,  EDUARDO GARAGORRI 0
+  - Takedowns: DARREN ELKINS 7,  EDUARDO GARAGORRI 0

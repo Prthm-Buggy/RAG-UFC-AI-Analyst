@@ -1,0 +1,11 @@
+Fighter: BROK WEAVER
+  Date of Birth: 1991-12-05
+  Career record: 3
+  First fight: 2020-02-15
+  Last fight: 2020-09-12
+
+Career Statistics:
+- Significant Strikes Landed :75
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

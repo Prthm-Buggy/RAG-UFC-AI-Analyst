@@ -1,0 +1,13 @@
+Event: UFC 160: Velasquez vs Silva 2
+    Date: May 25, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DENNIS BERMUDEZ defeated MAX HOLLOWAY via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - DENNIS BERMUDEZ landed 73 significant strikes
+  - MAX HOLLOWAY landed 75 significant strikes
+  - Knockdowns: DENNIS BERMUDEZ 0,  MAX HOLLOWAY 0
+  - Takedowns: DENNIS BERMUDEZ 4,  MAX HOLLOWAY 0

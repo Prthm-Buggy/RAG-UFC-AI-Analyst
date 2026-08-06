@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Adesanya vs. Imavov
+    Date : February 01, 2025
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Number of Fights: 11
+    Weight Classes: Lightweight, Middleweight, Featherweight, Heavyweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - MICHAEL PAGE def. SHARA MAGOMEDOV via Decision - Unanimous(R3)
+- JASMINE JASUDAVICIUS def. MAYRA BUENO SILVA via Decision - Unanimous(R3)
+- FARES ZIAM def. MIKE DAVIS via Decision - Unanimous(R3)
+- VINICIUS OLIVEIRA def. SAID NURMAGOMEDOV via Decision - Unanimous(R3)
+- MUHAMMAD NAIMOV def. KAAN OFLI via Decision - Unanimous(R3)
+- TERRANCE MCKINNEY def. DAMIR HADZOVIC via KO/TKO(R1)
+- SHAMIL GAZIEV def. THOMAS PETERSEN via KO/TKO(R1)
+- NASSOURDINE IMAVOV def. ISRAEL ADESANYA via KO/TKO(R2)
+- SERGEI PAVLOVICH def. JAIRZINHO ROZENSTRUIK via Decision - Unanimous(R3)
+- BOGDAN GRAD def. LUCAS ALEXANDER via KO/TKO(R2)
+- HAMDY ABDELWAHAB def. JAMAL POGUES via Decision - Split(R3)

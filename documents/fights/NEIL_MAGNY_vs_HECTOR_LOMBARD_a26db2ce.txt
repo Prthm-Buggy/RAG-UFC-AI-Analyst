@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hunt vs Mir
+    Date: March 19, 2016
+    Location: Brisbane, Queensland, Australia
+    Weight Class: Welterweight
+    
+
+    Result: NEIL MAGNY defeated HECTOR LOMBARD via KO/TKO  
+  at 0:46 of round 3
+  Key stats:
+  - NEIL MAGNY landed 148 significant strikes
+  - HECTOR LOMBARD landed 60 significant strikes
+  - Knockdowns: NEIL MAGNY 0,  HECTOR LOMBARD 2
+  - Takedowns: NEIL MAGNY 1,  HECTOR LOMBARD 1
+  Bonus: perf

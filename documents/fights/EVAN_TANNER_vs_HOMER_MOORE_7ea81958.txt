@@ -1,0 +1,13 @@
+Event: UFC 34: High Voltage
+    Date: November 02, 2001
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: EVAN TANNER defeated HOMER MOORE via Submission  
+  at 0:55 of round 2
+  Key stats:
+  - EVAN TANNER landed 4 significant strikes
+  - HOMER MOORE landed 4 significant strikes
+  - Knockdowns: EVAN TANNER 0,  HOMER MOORE 0
+  - Takedowns: EVAN TANNER 0,  HOMER MOORE 2

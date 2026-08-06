@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Munoz vs Mousasi
+    Date: May 31, 2014
+    Location: Berlin, Germany
+    Weight Class: Bantamweight
+    
+
+    Result: IURI ALCANTARA defeated VAUGHAN LEE via KO/TKO  
+  at 0:25 of round 1
+  Key stats:
+  - IURI ALCANTARA landed 5 significant strikes
+  - VAUGHAN LEE landed 4 significant strikes
+  - Knockdowns: IURI ALCANTARA 1,  VAUGHAN LEE 0
+  - Takedowns: IURI ALCANTARA 0,  VAUGHAN LEE 0

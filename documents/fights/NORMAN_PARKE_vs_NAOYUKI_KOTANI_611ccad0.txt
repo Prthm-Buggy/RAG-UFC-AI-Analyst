@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McGregor vs Brandao
+    Date: July 19, 2014
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Lightweight
+    
+
+    Result: NORMAN PARKE defeated NAOYUKI KOTANI via KO/TKO  
+  at 3:41 of round 2
+  Key stats:
+  - NORMAN PARKE landed 34 significant strikes
+  - NAOYUKI KOTANI landed 8 significant strikes
+  - Knockdowns: NORMAN PARKE 0,  NAOYUKI KOTANI 0
+  - Takedowns: NORMAN PARKE 2,  NAOYUKI KOTANI 0

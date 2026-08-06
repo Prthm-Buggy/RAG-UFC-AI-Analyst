@@ -1,0 +1,11 @@
+Fighter: KENNY ROBERTSON
+  Date of Birth: 1984-02-14
+  Career record: 9
+  First fight: 2011-02-05
+  Last fight: 2016-09-17
+
+Career Statistics:
+- Significant Strikes Landed :327
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :5

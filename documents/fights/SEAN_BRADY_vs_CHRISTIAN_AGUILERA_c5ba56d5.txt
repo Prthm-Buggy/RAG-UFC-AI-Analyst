@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Rakic
+    Date: August 29, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SEAN BRADY defeated CHRISTIAN AGUILERA via Submission  
+  at 1:47 of round 2
+  Key stats:
+  - SEAN BRADY landed 34 significant strikes
+  - CHRISTIAN AGUILERA landed 16 significant strikes
+  - Knockdowns: SEAN BRADY 0,  CHRISTIAN AGUILERA 0
+  - Takedowns: SEAN BRADY 2,  CHRISTIAN AGUILERA 0
+  Bonus: perf

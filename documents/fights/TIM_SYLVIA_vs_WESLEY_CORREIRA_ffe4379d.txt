@@ -1,0 +1,13 @@
+Event: UFC 39: The Warriors Return
+    Date: September 27, 2002
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TIM SYLVIA defeated WESLEY CORREIRA via KO/TKO  
+  at 1:43 of round 2
+  Key stats:
+  - TIM SYLVIA landed 138 significant strikes
+  - WESLEY CORREIRA landed 26 significant strikes
+  - Knockdowns: TIM SYLVIA 0,  WESLEY CORREIRA 0
+  - Takedowns: TIM SYLVIA 0,  WESLEY CORREIRA 0

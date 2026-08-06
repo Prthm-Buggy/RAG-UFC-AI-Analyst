@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dolidze vs. Hernandez
+    Date: August 09, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRISTIAN LEROY DUNCAN defeated ERYK ANDERS via KO/TKO  
+  at 3:53 of round 1
+  Key stats:
+  - CHRISTIAN LEROY DUNCAN landed 24 significant strikes
+  - ERYK ANDERS landed 7 significant strikes
+  - Knockdowns: CHRISTIAN LEROY DUNCAN 1,  ERYK ANDERS 0
+  - Takedowns: CHRISTIAN LEROY DUNCAN 0,  ERYK ANDERS 1
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cerrone vs. Till
+    Date: October 21, 2017
+    Location: Gdansk, Poland
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAN BLACHOWICZ defeated DEVIN CLARK via Submission  
+  at 3:02 of round 2
+  Key stats:
+  - JAN BLACHOWICZ landed 33 significant strikes
+  - DEVIN CLARK landed 15 significant strikes
+  - Knockdowns: JAN BLACHOWICZ 0,  DEVIN CLARK 0
+  - Takedowns: JAN BLACHOWICZ 1,  DEVIN CLARK 0
+  Bonus: perf

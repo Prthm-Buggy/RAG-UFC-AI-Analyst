@@ -1,0 +1,14 @@
+Event: UFC 85: Bedlam
+    Date: June 07, 2008
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: KEVIN BURNS defeated ROAN CARNEIRO via Submission  
+  at 3:50 of round 2
+  Key stats:
+  - KEVIN BURNS landed 8 significant strikes
+  - ROAN CARNEIRO landed 12 significant strikes
+  - Knockdowns: KEVIN BURNS 0,  ROAN CARNEIRO 0
+  - Takedowns: KEVIN BURNS 0,  ROAN CARNEIRO 2
+  Bonus: sub

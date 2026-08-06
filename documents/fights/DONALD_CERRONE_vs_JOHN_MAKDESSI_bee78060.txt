@@ -1,0 +1,13 @@
+Event: UFC 187: Johnson vs Cormier
+    Date: May 23, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DONALD CERRONE defeated JOHN MAKDESSI via KO/TKO  
+  at 4:44 of round 2
+  Key stats:
+  - DONALD CERRONE landed 71 significant strikes
+  - JOHN MAKDESSI landed 72 significant strikes
+  - Knockdowns: DONALD CERRONE 0,  JOHN MAKDESSI 0
+  - Takedowns: DONALD CERRONE 0,  JOHN MAKDESSI 0

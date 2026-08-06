@@ -1,0 +1,14 @@
+Event: UFC 299: O'Malley vs. Vera 2
+    Date: March 09, 2024
+    Location: Miami, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: MICHEL PEREIRA defeated MICHAL OLEKSIEJCZUK via Submission  
+  at 1:01 of round 1
+  Key stats:
+  - MICHEL PEREIRA landed 11 significant strikes
+  - MICHAL OLEKSIEJCZUK landed 1 significant strikes
+  - Knockdowns: MICHEL PEREIRA 0,  MICHAL OLEKSIEJCZUK 0
+  - Takedowns: MICHEL PEREIRA 0,  MICHAL OLEKSIEJCZUK 0
+  Bonus: perf

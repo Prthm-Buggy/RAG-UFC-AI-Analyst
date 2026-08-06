@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Font
+    Date: August 05, 2023
+    Location: Nashville, Tennessee, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: TATIANA SUAREZ defeated JESSICA ANDRADE via Submission  
+  at 1:31 of round 2
+  Key stats:
+  - TATIANA SUAREZ landed 23 significant strikes
+  - JESSICA ANDRADE landed 11 significant strikes
+  - Knockdowns: TATIANA SUAREZ 0,  JESSICA ANDRADE 0
+  - Takedowns: TATIANA SUAREZ 3,  JESSICA ANDRADE 0
+  Bonus: perf

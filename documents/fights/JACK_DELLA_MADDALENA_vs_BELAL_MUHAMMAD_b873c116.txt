@@ -1,0 +1,14 @@
+Event: UFC 315: Muhammad vs. Della Maddalena
+    Date: May 10, 2025
+    Location: Montreal, Quebec, Canada
+    Weight Class: Welterweight
+    
+
+    Result: JACK DELLA MADDALENA defeated BELAL MUHAMMAD via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JACK DELLA MADDALENA landed 178 significant strikes
+  - BELAL MUHAMMAD landed 132 significant strikes
+  - Knockdowns: JACK DELLA MADDALENA 0,  BELAL MUHAMMAD 0
+  - Takedowns: JACK DELLA MADDALENA 0,  BELAL MUHAMMAD 3
+  Bonus: belt

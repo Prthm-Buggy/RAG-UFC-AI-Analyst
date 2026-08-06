@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Muniz vs. Allen
+    Date: February 25, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE MALOTT defeated YOHAN LAINESSE via Submission  
+  at 4:15 of round 1
+  Key stats:
+  - MIKE MALOTT landed 9 significant strikes
+  - YOHAN LAINESSE landed 1 significant strikes
+  - Knockdowns: MIKE MALOTT 0,  YOHAN LAINESSE 0
+  - Takedowns: MIKE MALOTT 1,  YOHAN LAINESSE 0
+  Bonus: perf

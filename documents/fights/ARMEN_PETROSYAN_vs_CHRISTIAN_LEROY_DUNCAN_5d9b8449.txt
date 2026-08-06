@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Cannonier
+    Date: June 17, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ARMEN PETROSYAN defeated CHRISTIAN LEROY DUNCAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ARMEN PETROSYAN landed 89 significant strikes
+  - CHRISTIAN LEROY DUNCAN landed 59 significant strikes
+  - Knockdowns: ARMEN PETROSYAN 0,  CHRISTIAN LEROY DUNCAN 0
+  - Takedowns: ARMEN PETROSYAN 1,  CHRISTIAN LEROY DUNCAN 0

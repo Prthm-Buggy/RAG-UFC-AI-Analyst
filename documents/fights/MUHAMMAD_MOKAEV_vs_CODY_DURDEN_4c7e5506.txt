@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Aspinall
+    Date: March 19, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Flyweight
+    
+
+    Result: MUHAMMAD MOKAEV defeated CODY DURDEN via Submission  
+  at 0:58 of round 1
+  Key stats:
+  - MUHAMMAD MOKAEV landed 2 significant strikes
+  - CODY DURDEN landed 1 significant strikes
+  - Knockdowns: MUHAMMAD MOKAEV 1,  CODY DURDEN 0
+  - Takedowns: MUHAMMAD MOKAEV 0,  CODY DURDEN 1
+  Bonus: perf

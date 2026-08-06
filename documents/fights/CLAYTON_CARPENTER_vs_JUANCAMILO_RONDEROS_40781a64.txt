@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Andrade vs. Blanchfield
+    Date: February 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: CLAYTON CARPENTER defeated JUANCAMILO RONDEROS via Submission  
+  at 3:13 of round 1
+  Key stats:
+  - CLAYTON CARPENTER landed 3 significant strikes
+  - JUANCAMILO RONDEROS landed 1 significant strikes
+  - Knockdowns: CLAYTON CARPENTER 0,  JUANCAMILO RONDEROS 0
+  - Takedowns: CLAYTON CARPENTER 0,  JUANCAMILO RONDEROS 1

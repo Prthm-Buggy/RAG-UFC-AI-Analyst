@@ -1,0 +1,13 @@
+Event: UFC 190: Rousey vs Correia
+    Date: August 01, 2015
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: ANTONIO SILVA defeated SOA PALELEI via KO/TKO  
+  at 0:41 of round 2
+  Key stats:
+  - ANTONIO SILVA landed 16 significant strikes
+  - SOA PALELEI landed 19 significant strikes
+  - Knockdowns: ANTONIO SILVA 1,  SOA PALELEI 0
+  - Takedowns: ANTONIO SILVA 0,  SOA PALELEI 1

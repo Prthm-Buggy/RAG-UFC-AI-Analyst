@@ -1,0 +1,13 @@
+Event: UFC 273: Volkanovski vs. The Korean Zombie
+    Date: April 09, 2022
+    Location: Jacksonville, Florida, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: PIERA RODRIGUEZ defeated KAY HANSEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PIERA RODRIGUEZ landed 50 significant strikes
+  - KAY HANSEN landed 31 significant strikes
+  - Knockdowns: PIERA RODRIGUEZ 0,  KAY HANSEN 0
+  - Takedowns: PIERA RODRIGUEZ 3,  KAY HANSEN 2

@@ -1,0 +1,11 @@
+Fighter: GABRIEL GONZAGA
+  Date of Birth: 1979-05-18
+  Career record: 22
+  First fight: 2005-11-19
+  Last fight: 2016-04-10
+
+Career Statistics:
+- Significant Strikes Landed :293
+- Total takedowns landed :24
+- Knockdowns :7
+- Submission Attempts :11

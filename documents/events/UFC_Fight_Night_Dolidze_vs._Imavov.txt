@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Dolidze vs. Imavov
+    Date : February 03, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Women's Flyweight, Heavyweight, Welterweight, Middleweight, Lightweight, Women's Strawweight, Featherweight, Flyweight
+
+    Fight Results:
+  - RANDY BROWN def. MUSLIM SALIKHOV via KO/TKO(R1)
+- NASSOURDINE IMAVOV def. ROMAN DOLIDZE via Decision - Majority(R5)
+- NATALIA SILVA def. VIVIANE ARAUJO via Decision - Unanimous(R3)
+- JAMAL POGUES def. THOMAS PETERSEN via Decision - Unanimous(R3)
+- CHARLES JOHNSON def. AZAT MAKSUM via Decision - Unanimous(R3)
+- MARQUEL MEDEROS def. LANDON QUINONES via Decision - Unanimous(R3)
+- CHARLES RADTKE def. GILBERT URBINA via KO/TKO(R1)
+- LUANA CAROLINA def. JULIJA STOLIARENKO via KO/TKO(R3)
+- RENATO MOICANO def. DREW DOBER via Decision - Unanimous(R3)
+- MOLLY MCCANN def. DIANA BELBITA via Submission(R1)
+- THEMBA GORIMBO def. PETE RODRIGUEZ via KO/TKO(R1)
+- JEONGYEONG LEE def. BLAKE BILDER via Decision - Unanimous(R3)

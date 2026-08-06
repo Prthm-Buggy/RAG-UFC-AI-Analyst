@@ -1,0 +1,14 @@
+Event: UFC on FOX: Johnson vs. Bader
+    Date: January 30, 2016
+    Location: Newark, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY JOHNSON defeated RYAN BADER via KO/TKO  
+  at 1:26 of round 1
+  Key stats:
+  - ANTHONY JOHNSON landed 11 significant strikes
+  - RYAN BADER landed 0 significant strikes
+  - Knockdowns: ANTHONY JOHNSON 0,  RYAN BADER 0
+  - Takedowns: ANTHONY JOHNSON 0,  RYAN BADER 0
+  Bonus: perf

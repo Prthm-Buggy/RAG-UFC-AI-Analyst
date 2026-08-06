@@ -1,0 +1,14 @@
+Event: UFC 261: Usman vs. Masvidal 2
+    Date: April 24, 2021
+    Location: Jacksonville, Florida, USA
+    Weight Class: Flyweight
+    
+
+    Result: JEFF MOLINA defeated AORIQILENG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JEFF MOLINA landed 189 significant strikes
+  - AORIQILENG landed 116 significant strikes
+  - Knockdowns: JEFF MOLINA 2,  AORIQILENG 0
+  - Takedowns: JEFF MOLINA 0,  AORIQILENG 3
+  Bonus: fight

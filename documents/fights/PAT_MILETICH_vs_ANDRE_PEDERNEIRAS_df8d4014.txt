@@ -1,0 +1,14 @@
+Event: UFC 21: Return of the Champions
+    Date: July 16, 1999
+    Location: Cedar Rapids, Iowa, USA
+    Weight Class: Lightweight
+    
+
+    Result: PAT MILETICH defeated ANDRE PEDERNEIRAS via TKO - Doctor's Stoppage  
+  at 1:34 of round 2
+  Key stats:
+  - PAT MILETICH landed 13 significant strikes
+  - ANDRE PEDERNEIRAS landed 10 significant strikes
+  - Knockdowns: PAT MILETICH 0,  ANDRE PEDERNEIRAS 0
+  - Takedowns: PAT MILETICH 0,  ANDRE PEDERNEIRAS 0
+  Bonus: belt

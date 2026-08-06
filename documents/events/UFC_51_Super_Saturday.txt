@@ -1,0 +1,16 @@
+Event : UFC 51: Super Saturday
+    Date : February 05, 2005
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Middleweight, Light Heavyweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - ANDREI ARLOVSKI def. TIM SYLVIA via Submission(R1)
+- EVAN TANNER def. DAVID TERRELL via KO/TKO(R1)
+- NICK DIAZ def. DREW FICKETT via KO/TKO(R1)
+- PAUL BUENTELLO def. JUSTIN EILERS via KO/TKO(R1)
+- KARO PARISYAN def. CHRIS LYTLE via Decision - Unanimous(R3)
+- TITO ORTIZ def. VITOR BELFORT via Decision - Split(R3)
+- MIKE KYLE def. JAMES IRVIN via KO/TKO(R1)
+- PETE SELL def. PHIL BARONI via Submission(R3)
+- DAVID LOISEAU def. GIDEON RAY via TKO - Doctor's Stoppage(R1)

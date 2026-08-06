@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Dos Santos
+    Date: March 09, 2019
+    Location: Wichita, Kansas, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENEIL DARIUSH defeated DREW DOBER via Submission  
+  at 4:41 of round 2
+  Key stats:
+  - BENEIL DARIUSH landed 37 significant strikes
+  - DREW DOBER landed 31 significant strikes
+  - Knockdowns: BENEIL DARIUSH 0,  DREW DOBER 0
+  - Takedowns: BENEIL DARIUSH 2,  DREW DOBER 0
+  Bonus: perf

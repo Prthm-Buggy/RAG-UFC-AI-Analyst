@@ -1,0 +1,14 @@
+Event: UFC 316: Dvalishvili vs. O'Malley 2
+    Date: June 07, 2025
+    Location: Newark, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: KEVIN HOLLAND defeated VICENTE LUQUE via Submission  
+  at 1:03 of round 2
+  Key stats:
+  - KEVIN HOLLAND landed 40 significant strikes
+  - VICENTE LUQUE landed 24 significant strikes
+  - Knockdowns: KEVIN HOLLAND 0,  VICENTE LUQUE 0
+  - Takedowns: KEVIN HOLLAND 1,  VICENTE LUQUE 0
+  Bonus: perf

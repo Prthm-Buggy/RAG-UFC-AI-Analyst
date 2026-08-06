@@ -1,0 +1,13 @@
+Event: UFC 59: Reality Check
+    Date: April 15, 2006
+    Location: Anaheim, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: THIAGO ALVES defeated DERRICK NOBLE via KO/TKO  
+  at 2:54 of round 1
+  Key stats:
+  - THIAGO ALVES landed 11 significant strikes
+  - DERRICK NOBLE landed 18 significant strikes
+  - Knockdowns: THIAGO ALVES 1,  DERRICK NOBLE 0
+  - Takedowns: THIAGO ALVES 0,  DERRICK NOBLE 0

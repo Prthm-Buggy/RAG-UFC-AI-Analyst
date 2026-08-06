@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Dollaway
+    Date: December 20, 2014
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: RENATO MOICANO defeated TOM NIINIMAKI via Submission  
+  at 3:30 of round 2
+  Key stats:
+  - RENATO MOICANO landed 48 significant strikes
+  - TOM NIINIMAKI landed 33 significant strikes
+  - Knockdowns: RENATO MOICANO 0,  TOM NIINIMAKI 0
+  - Takedowns: RENATO MOICANO 1,  TOM NIINIMAKI 0

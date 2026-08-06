@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Luque vs. Dos Anjos
+    Date: August 12, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: LUANA SANTOS defeated JULIANA MILLER via KO/TKO  
+  at 3:41 of round 1
+  Key stats:
+  - LUANA SANTOS landed 63 significant strikes
+  - JULIANA MILLER landed 24 significant strikes
+  - Knockdowns: LUANA SANTOS 0,  JULIANA MILLER 0
+  - Takedowns: LUANA SANTOS 0,  JULIANA MILLER 0

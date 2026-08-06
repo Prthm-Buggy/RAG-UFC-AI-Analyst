@@ -1,0 +1,11 @@
+Fighter: MICHEL PEREIRA
+  Date of Birth: 1993-10-06
+  Career record: 16
+  First fight: 2019-05-18
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :752
+- Total takedowns landed :13
+- Knockdowns :4
+- Submission Attempts :7

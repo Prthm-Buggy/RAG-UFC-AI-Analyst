@@ -1,0 +1,11 @@
+Fighter: KRZYSZTOF JOTKO
+  Date of Birth: 1989-08-19
+  Career record: 17
+  First fight: 2013-12-06
+  Last fight: 2022-10-01
+
+Career Statistics:
+- Significant Strikes Landed :640
+- Total takedowns landed :19
+- Knockdowns :2
+- Submission Attempts :1

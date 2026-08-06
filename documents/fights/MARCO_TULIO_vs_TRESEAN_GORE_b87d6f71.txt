@@ -1,0 +1,13 @@
+Event: UFC 314: Volkanovski vs. Lopes
+    Date: April 12, 2025
+    Location: Miami, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARCO TULIO defeated TRESEAN GORE via KO/TKO  
+  at 3:16 of round 2
+  Key stats:
+  - MARCO TULIO landed 127 significant strikes
+  - TRESEAN GORE landed 17 significant strikes
+  - Knockdowns: MARCO TULIO 2,  TRESEAN GORE 0
+  - Takedowns: MARCO TULIO 0,  TRESEAN GORE 0

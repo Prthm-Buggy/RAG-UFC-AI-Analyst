@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thompson vs. Pettis
+    Date: March 23, 2019
+    Location: Nashville, Tennessee, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MAYCEE BARBER defeated JJ ALDRICH via KO/TKO  
+  at 3:01 of round 2
+  Key stats:
+  - MAYCEE BARBER landed 55 significant strikes
+  - JJ ALDRICH landed 25 significant strikes
+  - Knockdowns: MAYCEE BARBER 0,  JJ ALDRICH 0
+  - Takedowns: MAYCEE BARBER 0,  JJ ALDRICH 0

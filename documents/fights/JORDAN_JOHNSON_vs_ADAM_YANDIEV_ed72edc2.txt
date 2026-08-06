@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs. Oleinik
+    Date: September 15, 2018
+    Location: Moscow, Moscow, Russia
+    Weight Class: Middleweight
+    
+
+    Result: JORDAN JOHNSON defeated ADAM YANDIEV via Submission  
+  at 0:42 of round 2
+  Key stats:
+  - JORDAN JOHNSON landed 35 significant strikes
+  - ADAM YANDIEV landed 1 significant strikes
+  - Knockdowns: JORDAN JOHNSON 0,  ADAM YANDIEV 0
+  - Takedowns: JORDAN JOHNSON 3,  ADAM YANDIEV 0

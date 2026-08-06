@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Brown vs Silva
+    Date : May 10, 2014
+    Location: Cincinnati, Ohio, USA
+    Number of Fights: 13
+    Weight Classes: Middleweight, Flyweight, Welterweight, Lightweight, Featherweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - NEIL MAGNY def. TIM MEANS via Decision - Unanimous(R3)
+- ZAK CUMMINGS def. YAN CABRAL via Decision - Unanimous(R3)
+- ALBERT TUMENOV def. ANTHONY LAPSLEY via KO/TKO(R1)
+- JUSTIN SALAS def. BEN WALL via KO/TKO(R1)
+- KYOJI HORIGUCHI def. DARRELL MONTAGUE via Decision - Unanimous(R3)
+- NIK LENTZ def. MANVEL GAMBURYAN via Decision - Unanimous(R3)
+- ED HERMAN def. RAFAEL NATAL via Decision - Unanimous(R3)
+- MATT BROWN def. ERICK SILVA via KO/TKO(R3)
+- SOA PALELEI def. RUAN POTTS via KO/TKO(R1)
+- DARON CRUICKSHANK def. ERIK KOCH via KO/TKO(R1)
+- CONSTANTINOS PHILIPPOU def. LORENZ LARKIN via KO/TKO(R1)
+- JOHNNY EDUARDO def. EDDIE WINELAND via KO/TKO(R1)
+- CHRIS CARIASO def. LOUIS SMOLKA via Decision - Split(R3)

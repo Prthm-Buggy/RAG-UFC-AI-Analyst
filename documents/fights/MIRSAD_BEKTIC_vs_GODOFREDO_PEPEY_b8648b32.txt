@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Jacare vs. Brunson 2
+    Date: January 27, 2018
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Featherweight
+    
+
+    Result: MIRSAD BEKTIC defeated GODOFREDO PEPEY via KO/TKO  
+  at 2:47 of round 1
+  Key stats:
+  - MIRSAD BEKTIC landed 12 significant strikes
+  - GODOFREDO PEPEY landed 5 significant strikes
+  - Knockdowns: MIRSAD BEKTIC 1,  GODOFREDO PEPEY 0
+  - Takedowns: MIRSAD BEKTIC 0,  GODOFREDO PEPEY 0
+  Bonus: perf

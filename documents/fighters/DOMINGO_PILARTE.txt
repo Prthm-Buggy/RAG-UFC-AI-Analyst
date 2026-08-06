@@ -1,0 +1,11 @@
+Fighter: DOMINGO PILARTE
+  Date of Birth: 1990-01-05
+  Career record: 2
+  First fight: 2019-07-20
+  Last fight: 2021-08-21
+
+Career Statistics:
+- Significant Strikes Landed :14
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

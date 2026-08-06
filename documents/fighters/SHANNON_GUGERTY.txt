@@ -1,0 +1,11 @@
+Fighter: SHANNON GUGERTY
+  Date of Birth: 1981-12-30
+  Career record: 5
+  First fight: 2008-07-19
+  Last fight: 2010-03-21
+
+Career Statistics:
+- Significant Strikes Landed :44
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :8

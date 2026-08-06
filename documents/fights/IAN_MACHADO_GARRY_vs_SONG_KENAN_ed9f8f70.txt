@@ -1,0 +1,13 @@
+Event: UFC 285: Jones vs. Gane
+    Date: March 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: IAN MACHADO GARRY defeated SONG KENAN via KO/TKO  
+  at 4:22 of round 3
+  Key stats:
+  - IAN MACHADO GARRY landed 127 significant strikes
+  - SONG KENAN landed 55 significant strikes
+  - Knockdowns: IAN MACHADO GARRY 1,  SONG KENAN 1
+  - Takedowns: IAN MACHADO GARRY 0,  SONG KENAN 2

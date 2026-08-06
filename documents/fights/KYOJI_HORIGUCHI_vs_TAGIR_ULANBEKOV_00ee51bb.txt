@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tsarukyan vs. Hooker
+    Date: November 22, 2025
+    Location: Doha, Qatar
+    Weight Class: Flyweight
+    
+
+    Result: KYOJI HORIGUCHI defeated TAGIR ULANBEKOV via Submission  
+  at 2:18 of round 3
+  Key stats:
+  - KYOJI HORIGUCHI landed 49 significant strikes
+  - TAGIR ULANBEKOV landed 6 significant strikes
+  - Knockdowns: KYOJI HORIGUCHI 2,  TAGIR ULANBEKOV 0
+  - Takedowns: KYOJI HORIGUCHI 0,  TAGIR ULANBEKOV 1
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: JUSTIN SALAS
+  Date of Birth: 1982-03-13
+  Career record: 7
+  First fight: 2012-02-15
+  Last fight: 2016-03-05
+
+Career Statistics:
+- Significant Strikes Landed :169
+- Total takedowns landed :8
+- Knockdowns :1
+- Submission Attempts :0

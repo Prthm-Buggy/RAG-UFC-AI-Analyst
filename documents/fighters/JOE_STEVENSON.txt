@@ -1,0 +1,11 @@
+Fighter: JOE STEVENSON
+  Date of Birth: 1982-06-15
+  Career record: 16
+  First fight: 2005-11-05
+  Last fight: 2011-06-26
+
+Career Statistics:
+- Significant Strikes Landed :307
+- Total takedowns landed :31
+- Knockdowns :1
+- Submission Attempts :24

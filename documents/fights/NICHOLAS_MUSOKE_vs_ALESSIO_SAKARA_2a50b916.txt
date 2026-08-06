@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Machida vs Munoz
+    Date: October 26, 2013
+    Location: Manchester, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: NICHOLAS MUSOKE defeated ALESSIO SAKARA via Submission  
+  at 3:07 of round 1
+  Key stats:
+  - NICHOLAS MUSOKE landed 12 significant strikes
+  - ALESSIO SAKARA landed 20 significant strikes
+  - Knockdowns: NICHOLAS MUSOKE 0,  ALESSIO SAKARA 0
+  - Takedowns: NICHOLAS MUSOKE 1,  ALESSIO SAKARA 1
+  Bonus: sub

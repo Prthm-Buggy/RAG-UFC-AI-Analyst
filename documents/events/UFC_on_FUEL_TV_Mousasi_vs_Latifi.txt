@@ -1,0 +1,20 @@
+Event : UFC on FUEL TV: Mousasi vs Latifi
+    Date : April 06, 2013
+    Location: Stockholm, Sweden
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Bantamweight, Welterweight, Light Heavyweight, Middleweight, Featherweight, Lightweight
+
+    Fight Results:
+  - ADLAN AMAGOV def. CHRIS SPANG via Decision - Unanimous(R3)
+- AKIRA CORASSANI def. ROBERT PERALTA via Decision - Unanimous(R3)
+- CONOR MCGREGOR def. MARCUS BRIMAGE via KO/TKO(R1)
+- MATT MITRIONE def. PHILIP DE FRIES via KO/TKO(R1)
+- RYAN LAFLARE def. BEN ALLOWAY via Decision - Unanimous(R3)
+- ROSS PEARSON def. RYAN COUTURE via KO/TKO(R2)
+- GEGARD MOUSASI def. ILIR LATIFI via Decision - Unanimous(R3)
+- BRAD PICKETT def. MIKE EASTON via Decision - Split(R3)
+- TOM LAWLOR def. MICHAEL KUIPER via Submission(R2)
+- REZA MADADI def. MICHAEL JOHNSON via Submission(R3)
+- PAPY ABEDI def. BESAM YOUSEF via Decision - Split(R3)
+- TOR TROENG def. ADAM CELLA via Error(R1)
+- DIEGO BRANDAO def. PABLO GARZA via Submission(R1)

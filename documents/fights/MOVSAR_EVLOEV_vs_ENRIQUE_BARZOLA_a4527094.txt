@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs. Askren
+    Date: October 26, 2019
+    Location: Kallang, Singapore
+    Weight Class: Featherweight
+    
+
+    Result: MOVSAR EVLOEV defeated ENRIQUE BARZOLA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MOVSAR EVLOEV landed 71 significant strikes
+  - ENRIQUE BARZOLA landed 78 significant strikes
+  - Knockdowns: MOVSAR EVLOEV 0,  ENRIQUE BARZOLA 0
+  - Takedowns: MOVSAR EVLOEV 4,  ENRIQUE BARZOLA 1

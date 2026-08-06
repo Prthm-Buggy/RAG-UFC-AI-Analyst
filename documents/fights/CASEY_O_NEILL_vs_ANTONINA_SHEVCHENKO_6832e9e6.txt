@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Santos vs. Walker
+    Date: October 02, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: CASEY O'NEILL defeated ANTONINA SHEVCHENKO via KO/TKO  
+  at 4:47 of round 2
+  Key stats:
+  - CASEY O'NEILL landed 52 significant strikes
+  - ANTONINA SHEVCHENKO landed 40 significant strikes
+  - Knockdowns: CASEY O'NEILL 0,  ANTONINA SHEVCHENKO 0
+  - Takedowns: CASEY O'NEILL 3,  ANTONINA SHEVCHENKO 0
+  Bonus: perf

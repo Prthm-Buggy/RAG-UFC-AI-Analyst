@@ -1,0 +1,13 @@
+Event: UFC 53: Heavy Hitters
+    Date: June 04, 2005
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: NATE QUARRY defeated SHONIE CARTER via KO/TKO  
+  at 2:37 of round 1
+  Key stats:
+  - NATE QUARRY landed 19 significant strikes
+  - SHONIE CARTER landed 6 significant strikes
+  - Knockdowns: NATE QUARRY 2,  SHONIE CARTER 0
+  - Takedowns: NATE QUARRY 0,  SHONIE CARTER 0

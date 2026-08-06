@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Nogueira vs. Werdum
+    Date: June 08, 2013
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: DANIEL SARAFIAN defeated EDDIE MENDEZ via Submission  
+  at 2:20 of round 1
+  Key stats:
+  - DANIEL SARAFIAN landed 8 significant strikes
+  - EDDIE MENDEZ landed 4 significant strikes
+  - Knockdowns: DANIEL SARAFIAN 0,  EDDIE MENDEZ 0
+  - Takedowns: DANIEL SARAFIAN 1,  EDDIE MENDEZ 0

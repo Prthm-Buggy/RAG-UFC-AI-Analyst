@@ -1,0 +1,14 @@
+Event: UFC 231: Holloway vs. Ortega
+    Date: December 08, 2018
+    Location: Toronto, Ontario, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: THIAGO SANTOS defeated JIMI MANUWA via KO/TKO  
+  at 0:41 of round 2
+  Key stats:
+  - THIAGO SANTOS landed 42 significant strikes
+  - JIMI MANUWA landed 27 significant strikes
+  - Knockdowns: THIAGO SANTOS 2,  JIMI MANUWA 0
+  - Takedowns: THIAGO SANTOS 1,  JIMI MANUWA 0
+  Bonus: perf

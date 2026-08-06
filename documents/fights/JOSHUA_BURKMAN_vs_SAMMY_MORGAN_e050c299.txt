@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Hughes vs. Team Franklin Finale
+    Date: November 05, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSHUA BURKMAN defeated SAMMY MORGAN via KO/TKO  
+  at 0:21 of round 1
+  Key stats:
+  - JOSHUA BURKMAN landed 4 significant strikes
+  - SAMMY MORGAN landed 1 significant strikes
+  - Knockdowns: JOSHUA BURKMAN 0,  SAMMY MORGAN 0
+  - Takedowns: JOSHUA BURKMAN 1,  SAMMY MORGAN 0

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Perez vs. Taira
+    Date : June 15, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Bantamweight, Women's Strawweight, Welterweight, Flyweight, Featherweight
+
+    Fight Results:
+  - MELQUIZAEL COSTA def. SHAYILAN NUERDANBIEKE via Submission(R3)
+- GABRIELLA FERNANDES def. CARLI JUDICE via Decision - Split(R3)
+- LUCAS ALMEIDA def. TIMMY CUAMBA via Decision - Unanimous(R3)
+- JOSEFINE KNUTSSON def. JULIA POLASTRI via Decision - Unanimous(R3)
+- ASU ALMABAYEV def. JOSE JOHNSON via Decision - Unanimous(R3)
+- TATSURO TAIRA def. ALEX PEREZ via KO/TKO(R2)
+- NATE MANESS def. JIMMY FLICK via Decision - Unanimous(R3)
+- WESTIN WILSON def. JEKA SARAGIH via Submission(R1)
+- ADAM FUGITT def. JOSH QUINLAN via Decision - Split(R3)
+- MILES JOHNS def. DOUGLAS SILVA DE ANDRADE via Decision - Unanimous(R3)
+- BRADY HIESTAND def. GARRETT ARMFIELD via Submission(R3)

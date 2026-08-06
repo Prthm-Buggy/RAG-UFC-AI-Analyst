@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Jung vs. Ige
+    Date: June 19, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: CASEY O'NEILL defeated LARA PROCOPIO via Submission  
+  at 2:54 of round 3
+  Key stats:
+  - CASEY O'NEILL landed 71 significant strikes
+  - LARA PROCOPIO landed 41 significant strikes
+  - Knockdowns: CASEY O'NEILL 0,  LARA PROCOPIO 0
+  - Takedowns: CASEY O'NEILL 1,  LARA PROCOPIO 2

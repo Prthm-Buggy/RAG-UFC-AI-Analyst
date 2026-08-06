@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Song
+    Date: September 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GREGORY RODRIGUES defeated CHIDI NJOKUANI via KO/TKO  
+  at 1:27 of round 2
+  Key stats:
+  - GREGORY RODRIGUES landed 48 significant strikes
+  - CHIDI NJOKUANI landed 44 significant strikes
+  - Knockdowns: GREGORY RODRIGUES 1,  CHIDI NJOKUANI 0
+  - Takedowns: GREGORY RODRIGUES 1,  CHIDI NJOKUANI 0
+  Bonus: fight

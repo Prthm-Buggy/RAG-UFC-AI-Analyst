@@ -1,0 +1,11 @@
+Fighter: PHIL JOHNS
+  Date of Birth: 1968-10-22
+  Career record: 1
+  First fight: 2001-02-23
+  Last fight: 2001-02-23
+
+Career Statistics:
+- Significant Strikes Landed :2
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

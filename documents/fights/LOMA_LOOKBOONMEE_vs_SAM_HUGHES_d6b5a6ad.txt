@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Reyes vs. Prochazka
+    Date: May 01, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: LOMA LOOKBOONMEE defeated SAM HUGHES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LOMA LOOKBOONMEE landed 84 significant strikes
+  - SAM HUGHES landed 49 significant strikes
+  - Knockdowns: LOMA LOOKBOONMEE 0,  SAM HUGHES 0
+  - Takedowns: LOMA LOOKBOONMEE 4,  SAM HUGHES 0

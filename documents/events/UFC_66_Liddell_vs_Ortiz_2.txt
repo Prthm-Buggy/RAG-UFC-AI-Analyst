@@ -1,0 +1,16 @@
+Event : UFC 66: Liddell vs Ortiz 2
+    Date : December 30, 2006
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Light Heavyweight, Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - THIAGO ALVES def. TONY DESOUZA via KO/TKO(R2)
+- ANDREI ARLOVSKI def. MARCIO CRUZ via KO/TKO(R1)
+- YUSHIN OKAMI def. RORY SINGER via KO/TKO(R3)
+- MICHAEL BISPING def. ERIC SCHAFER via KO/TKO(R1)
+- GABRIEL GONZAGA def. CARMELO MARRERO via Submission(R1)
+- KEITH JARDINE def. FORREST GRIFFIN via KO/TKO(R1)
+- JASON MACDONALD def. CHRIS LEBEN via Submission(R2)
+- CHRISTIAN WELLISCH def. ANTHONY PEROSH via Decision - Unanimous(R3)
+- CHUCK LIDDELL def. TITO ORTIZ via KO/TKO(R3)

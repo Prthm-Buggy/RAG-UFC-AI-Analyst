@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Mendes vs Lamas
+    Date: April 04, 2015
+    Location: Fairfax, Virginia, USA
+    Weight Class: Lightweight
+    
+
+    Result: AL IAQUINTA defeated JORGE MASVIDAL via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - AL IAQUINTA landed 55 significant strikes
+  - JORGE MASVIDAL landed 83 significant strikes
+  - Knockdowns: AL IAQUINTA 0,  JORGE MASVIDAL 0
+  - Takedowns: AL IAQUINTA 0,  JORGE MASVIDAL 0

@@ -1,0 +1,11 @@
+Fighter: RANDY BROWN
+  Date of Birth: 1990-07-08
+  Career record: 22
+  First fight: 2016-01-30
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :1016
+- Total takedowns landed :11
+- Knockdowns :6
+- Submission Attempts :8

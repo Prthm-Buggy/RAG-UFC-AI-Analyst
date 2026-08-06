@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Rozenstruik vs. Almeida
+    Date : May 13, 2023
+    Location: Charlotte, North Carolina, USA
+    Number of Fights: 11
+    Weight Classes: Light Heavyweight, Welterweight, Catch Weight, Women's Bantamweight, Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - IAN MACHADO GARRY def. DANIEL RODRIGUEZ via KO/TKO(R1)
+- TAINARA LISBOA def. JESSICA-ROSE CLARK via Submission(R3)
+- BRYAN BATTLE def. GABE GREEN via KO/TKO(R1)
+- JAILTON ALMEIDA def. JAIRZINHO ROZENSTRUIK via Submission(R1)
+- MANDY BOHM def. JI YEON KIM via Decision - Split(R3)
+- DOUGLAS SILVA DE ANDRADE def. CODY STAMANN via Decision - Unanimous(R3)
+- JOHNNY WALKER def. ANTHONY SMITH via Decision - Unanimous(R3)
+- KARL WILLIAMS def. CHASE SHERMAN via Decision - Unanimous(R3)
+- ALEX MORONO def. TIM MEANS via Submission(R2)
+- MATT BROWN def. COURT MCGEE via KO/TKO(R1)
+- CARLOS ULBERG def. IHOR POTIERIA via KO/TKO(R1)

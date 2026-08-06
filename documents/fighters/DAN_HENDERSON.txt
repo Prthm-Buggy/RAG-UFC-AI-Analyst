@@ -1,0 +1,11 @@
+Fighter: DAN HENDERSON
+  Date of Birth: 1970-08-24
+  Career record: 18
+  First fight: 1998-05-15
+  Last fight: 2016-10-08
+
+Career Statistics:
+- Significant Strikes Landed :526
+- Total takedowns landed :15
+- Knockdowns :9
+- Submission Attempts :5

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gane vs. Volkov
+    Date: June 26, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: RENATO MOICANO defeated JAI HERBERT via Submission  
+  at 4:34 of round 2
+  Key stats:
+  - RENATO MOICANO landed 26 significant strikes
+  - JAI HERBERT landed 7 significant strikes
+  - Knockdowns: RENATO MOICANO 0,  JAI HERBERT 0
+  - Takedowns: RENATO MOICANO 5,  JAI HERBERT 0

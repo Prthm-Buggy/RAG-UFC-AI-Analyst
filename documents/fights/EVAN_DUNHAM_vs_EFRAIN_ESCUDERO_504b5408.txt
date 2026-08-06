@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Maynard vs Diaz
+    Date: January 11, 2010
+    Location: Fairfax, Virginia, USA
+    Weight Class: Lightweight
+    
+
+    Result: EVAN DUNHAM defeated EFRAIN ESCUDERO via Submission  
+  at 1:59 of round 3
+  Key stats:
+  - EVAN DUNHAM landed 22 significant strikes
+  - EFRAIN ESCUDERO landed 26 significant strikes
+  - Knockdowns: EVAN DUNHAM 0,  EFRAIN ESCUDERO 1
+  - Takedowns: EVAN DUNHAM 3,  EFRAIN ESCUDERO 0
+  Bonus: sub

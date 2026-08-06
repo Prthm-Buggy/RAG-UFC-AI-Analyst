@@ -1,0 +1,14 @@
+Event: UFC 229: Khabib vs. McGregor
+    Date: October 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: KHABIB NURMAGOMEDOV defeated CONOR MCGREGOR via Submission  
+  at 3:03 of round 4
+  Key stats:
+  - KHABIB NURMAGOMEDOV landed 70 significant strikes
+  - CONOR MCGREGOR landed 51 significant strikes
+  - Knockdowns: KHABIB NURMAGOMEDOV 0,  CONOR MCGREGOR 0
+  - Takedowns: KHABIB NURMAGOMEDOV 3,  CONOR MCGREGOR 0
+  Bonus: belt

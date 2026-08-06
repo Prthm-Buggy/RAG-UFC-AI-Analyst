@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cannonier vs. Rodrigues
+    Date: February 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: VALTER WALKER defeated DON'TALE MAYES via Submission  
+  at 1:17 of round 1
+  Key stats:
+  - VALTER WALKER landed 1 significant strikes
+  - DON'TALE MAYES landed 1 significant strikes
+  - Knockdowns: VALTER WALKER 0,  DON'TALE MAYES 0
+  - Takedowns: VALTER WALKER 1,  DON'TALE MAYES 0

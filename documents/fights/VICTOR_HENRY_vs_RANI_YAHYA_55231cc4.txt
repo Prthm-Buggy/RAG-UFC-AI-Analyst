@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nicolau vs. Perez
+    Date: April 27, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: VICTOR HENRY defeated RANI YAHYA via KO/TKO  
+  at 2:36 of round 3
+  Key stats:
+  - VICTOR HENRY landed 109 significant strikes
+  - RANI YAHYA landed 54 significant strikes
+  - Knockdowns: VICTOR HENRY 2,  RANI YAHYA 0
+  - Takedowns: VICTOR HENRY 0,  RANI YAHYA 0

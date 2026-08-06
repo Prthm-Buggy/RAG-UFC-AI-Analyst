@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Song vs. Simon
+    Date: April 29, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: MARCUS MCGHEE defeated JOURNEY NEWSON via Submission  
+  at 2:03 of round 2
+  Key stats:
+  - MARCUS MCGHEE landed 25 significant strikes
+  - JOURNEY NEWSON landed 13 significant strikes
+  - Knockdowns: MARCUS MCGHEE 1,  JOURNEY NEWSON 0
+  - Takedowns: MARCUS MCGHEE 0,  JOURNEY NEWSON 0
+  Bonus: perf

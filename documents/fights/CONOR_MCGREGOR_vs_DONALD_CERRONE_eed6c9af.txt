@@ -1,0 +1,14 @@
+Event: UFC 246: McGregor vs. Cowboy
+    Date: January 18, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CONOR MCGREGOR defeated DONALD CERRONE via KO/TKO  
+  at 0:40 of round 1
+  Key stats:
+  - CONOR MCGREGOR landed 19 significant strikes
+  - DONALD CERRONE landed 0 significant strikes
+  - Knockdowns: CONOR MCGREGOR 1,  DONALD CERRONE 0
+  - Takedowns: CONOR MCGREGOR 0,  DONALD CERRONE 0
+  Bonus: perf

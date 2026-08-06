@@ -1,0 +1,11 @@
+Fighter: CHARLIE CAMPBELL
+  Date of Birth: 1995-07-03
+  Career record: 3
+  First fight: 2023-09-16
+  Last fight: 2025-09-27
+
+Career Statistics:
+- Significant Strikes Landed :112
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :0

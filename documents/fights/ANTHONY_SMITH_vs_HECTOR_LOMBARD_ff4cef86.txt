@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs. Branch
+    Date: September 16, 2017
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANTHONY SMITH defeated HECTOR LOMBARD via KO/TKO  
+  at 2:33 of round 3
+  Key stats:
+  - ANTHONY SMITH landed 35 significant strikes
+  - HECTOR LOMBARD landed 65 significant strikes
+  - Knockdowns: ANTHONY SMITH 1,  HECTOR LOMBARD 0
+  - Takedowns: ANTHONY SMITH 0,  HECTOR LOMBARD 1

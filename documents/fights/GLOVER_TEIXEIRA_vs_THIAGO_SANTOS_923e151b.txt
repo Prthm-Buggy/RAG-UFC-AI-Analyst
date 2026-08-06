@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Teixeira
+    Date: November 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: GLOVER TEIXEIRA defeated THIAGO SANTOS via Submission  
+  at 1:49 of round 3
+  Key stats:
+  - GLOVER TEIXEIRA landed 46 significant strikes
+  - THIAGO SANTOS landed 40 significant strikes
+  - Knockdowns: GLOVER TEIXEIRA 0,  THIAGO SANTOS 1
+  - Takedowns: GLOVER TEIXEIRA 4,  THIAGO SANTOS 0

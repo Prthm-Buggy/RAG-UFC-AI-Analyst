@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Assuncao vs. Moraes 2
+    Date: February 02, 2019
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: JOSE ALDO defeated RENATO MOICANO via KO/TKO  
+  at 0:44 of round 2
+  Key stats:
+  - JOSE ALDO landed 26 significant strikes
+  - RENATO MOICANO landed 24 significant strikes
+  - Knockdowns: JOSE ALDO 0,  RENATO MOICANO 0
+  - Takedowns: JOSE ALDO 0,  RENATO MOICANO 0
+  Bonus: perf

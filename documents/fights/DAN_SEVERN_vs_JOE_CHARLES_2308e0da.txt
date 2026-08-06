@@ -1,0 +1,13 @@
+Event: UFC 5: The Return of the Beast
+    Date: April 07, 1995
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Open Weight
+    
+
+    Result: DAN SEVERN defeated JOE CHARLES via Submission  
+  at 1:38 of round 1
+  Key stats:
+  - DAN SEVERN landed 2 significant strikes
+  - JOE CHARLES landed 1 significant strikes
+  - Knockdowns: DAN SEVERN 0,  JOE CHARLES 0
+  - Takedowns: DAN SEVERN 1,  JOE CHARLES 0

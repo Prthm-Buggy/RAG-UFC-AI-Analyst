@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Song vs. Gutierrez
+    Date: December 09, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KHALIL ROUNTREE JR. defeated ANTHONY SMITH via KO/TKO  
+  at 0:56 of round 3
+  Key stats:
+  - KHALIL ROUNTREE JR. landed 53 significant strikes
+  - ANTHONY SMITH landed 47 significant strikes
+  - Knockdowns: KHALIL ROUNTREE JR. 1,  ANTHONY SMITH 0
+  - Takedowns: KHALIL ROUNTREE JR. 0,  ANTHONY SMITH 0
+  Bonus: perf

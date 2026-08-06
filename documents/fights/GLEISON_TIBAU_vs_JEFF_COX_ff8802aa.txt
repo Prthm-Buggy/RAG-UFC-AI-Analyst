@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Stout vs Fisher
+    Date: June 12, 2007
+    Location: Hollywood, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: GLEISON TIBAU defeated JEFF COX via Submission  
+  at 1:52 of round 1
+  Key stats:
+  - GLEISON TIBAU landed 3 significant strikes
+  - JEFF COX landed 0 significant strikes
+  - Knockdowns: GLEISON TIBAU 0,  JEFF COX 0
+  - Takedowns: GLEISON TIBAU 0,  JEFF COX 1

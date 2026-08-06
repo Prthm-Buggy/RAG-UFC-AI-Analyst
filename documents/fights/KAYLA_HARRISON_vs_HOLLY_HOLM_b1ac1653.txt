@@ -1,0 +1,13 @@
+Event: UFC 300: Pereira vs. Hill
+    Date: April 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: KAYLA HARRISON defeated HOLLY HOLM via Submission  
+  at 1:47 of round 2
+  Key stats:
+  - KAYLA HARRISON landed 51 significant strikes
+  - HOLLY HOLM landed 2 significant strikes
+  - Knockdowns: KAYLA HARRISON 0,  HOLLY HOLM 0
+  - Takedowns: KAYLA HARRISON 2,  HOLLY HOLM 0

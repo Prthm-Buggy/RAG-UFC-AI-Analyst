@@ -1,0 +1,14 @@
+Event: UFC 311: Makhachev vs. Moicano
+    Date: January 18, 2025
+    Location: Inglewood, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAILTON ALMEIDA defeated SERGHEI SPIVAC via KO/TKO  
+  at 4:53 of round 1
+  Key stats:
+  - JAILTON ALMEIDA landed 23 significant strikes
+  - SERGHEI SPIVAC landed 15 significant strikes
+  - Knockdowns: JAILTON ALMEIDA 0,  SERGHEI SPIVAC 0
+  - Takedowns: JAILTON ALMEIDA 1,  SERGHEI SPIVAC 1
+  Bonus: perf

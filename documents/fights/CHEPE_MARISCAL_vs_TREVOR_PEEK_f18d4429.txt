@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Topuria
+    Date: June 24, 2023
+    Location: Jacksonville, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHEPE MARISCAL defeated TREVOR PEEK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHEPE MARISCAL landed 71 significant strikes
+  - TREVOR PEEK landed 51 significant strikes
+  - Knockdowns: CHEPE MARISCAL 0,  TREVOR PEEK 0
+  - Takedowns: CHEPE MARISCAL 4,  TREVOR PEEK 0

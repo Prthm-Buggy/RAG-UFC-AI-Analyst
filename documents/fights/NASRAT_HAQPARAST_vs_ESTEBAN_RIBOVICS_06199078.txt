@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kape vs. Almabayev
+    Date: March 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NASRAT HAQPARAST defeated ESTEBAN RIBOVICS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - NASRAT HAQPARAST landed 135 significant strikes
+  - ESTEBAN RIBOVICS landed 147 significant strikes
+  - Knockdowns: NASRAT HAQPARAST 0,  ESTEBAN RIBOVICS 0
+  - Takedowns: NASRAT HAQPARAST 1,  ESTEBAN RIBOVICS 0
+  Bonus: fight

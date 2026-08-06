@@ -1,0 +1,13 @@
+Event: UFC 103: Franklin vs Belfort
+    Date: September 19, 2009
+    Location: Dallas, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSH KOSCHECK defeated FRANK TRIGG via KO/TKO  
+  at 1:25 of round 1
+  Key stats:
+  - JOSH KOSCHECK landed 9 significant strikes
+  - FRANK TRIGG landed 1 significant strikes
+  - Knockdowns: JOSH KOSCHECK 1,  FRANK TRIGG 0
+  - Takedowns: JOSH KOSCHECK 0,  FRANK TRIGG 0

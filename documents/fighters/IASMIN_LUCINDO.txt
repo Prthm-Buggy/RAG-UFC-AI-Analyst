@@ -1,0 +1,11 @@
+Fighter: IASMIN LUCINDO
+  Date of Birth: 2002-01-08
+  Career record: 7
+  First fight: 2022-08-13
+  Last fight: 2025-08-09
+
+Career Statistics:
+- Significant Strikes Landed :318
+- Total takedowns landed :15
+- Knockdowns :0
+- Submission Attempts :1

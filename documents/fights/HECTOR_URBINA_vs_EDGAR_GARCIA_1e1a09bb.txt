@@ -1,0 +1,13 @@
+Event: UFC 180: Werdum vs Hunt
+    Date: November 15, 2014
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Welterweight
+    
+
+    Result: HECTOR URBINA defeated EDGAR GARCIA via Submission  
+  at 3:38 of round 1
+  Key stats:
+  - HECTOR URBINA landed 4 significant strikes
+  - EDGAR GARCIA landed 12 significant strikes
+  - Knockdowns: HECTOR URBINA 0,  EDGAR GARCIA 0
+  - Takedowns: HECTOR URBINA 0,  EDGAR GARCIA 2

@@ -1,0 +1,11 @@
+Fighter: WILLAMY FREIRE
+  Date of Birth: 1987-07-28
+  Career record: 1
+  First fight: 2011-01-22
+  Last fight: 2011-01-22
+
+Career Statistics:
+- Significant Strikes Landed :23
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

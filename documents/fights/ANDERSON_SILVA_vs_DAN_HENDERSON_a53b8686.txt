@@ -1,0 +1,14 @@
+Event: UFC 82: Pride of a Champion
+    Date: March 01, 2008
+    Location: Columbus, Ohio, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDERSON SILVA defeated DAN HENDERSON via Submission  
+  at 4:52 of round 2
+  Key stats:
+  - ANDERSON SILVA landed 47 significant strikes
+  - DAN HENDERSON landed 20 significant strikes
+  - Knockdowns: ANDERSON SILVA 0,  DAN HENDERSON 0
+  - Takedowns: ANDERSON SILVA 0,  DAN HENDERSON 1
+  Bonus: belt

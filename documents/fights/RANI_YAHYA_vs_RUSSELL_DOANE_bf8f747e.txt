@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Stephens
+    Date: February 24, 2018
+    Location: Orlando, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RANI YAHYA defeated RUSSELL DOANE via Submission  
+  at 2:32 of round 3
+  Key stats:
+  - RANI YAHYA landed 17 significant strikes
+  - RUSSELL DOANE landed 2 significant strikes
+  - Knockdowns: RANI YAHYA 0,  RUSSELL DOANE 0
+  - Takedowns: RANI YAHYA 2,  RUSSELL DOANE 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Diaz vs Neer
+    Date: September 17, 2008
+    Location: Omaha, Nebraska, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JASON BRILZ defeated BRAD MORRIS via KO/TKO  
+  at 2:54 of round 2
+  Key stats:
+  - JASON BRILZ landed 34 significant strikes
+  - BRAD MORRIS landed 4 significant strikes
+  - Knockdowns: JASON BRILZ 0,  BRAD MORRIS 0
+  - Takedowns: JASON BRILZ 1,  BRAD MORRIS 0

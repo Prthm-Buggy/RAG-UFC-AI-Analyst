@@ -1,0 +1,14 @@
+Event: UFC on FOX: Gustafsson vs Johnson
+    Date: January 24, 2015
+    Location: Stockholm, Sweden
+    Weight Class: Featherweight
+    
+
+    Result: MAKWAN AMIRKHANI defeated ANDY OGLE via KO/TKO  
+  at 0:08 of round 1
+  Key stats:
+  - MAKWAN AMIRKHANI landed 6 significant strikes
+  - ANDY OGLE landed 0 significant strikes
+  - Knockdowns: MAKWAN AMIRKHANI 1,  ANDY OGLE 0
+  - Takedowns: MAKWAN AMIRKHANI 0,  ANDY OGLE 0
+  Bonus: perf

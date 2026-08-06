@@ -1,0 +1,13 @@
+Event: UFC 169: Barao vs Faber 2
+    Date: February 01, 2014
+    Location: Newark, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: NICK CATONE defeated TOM WATSON via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - NICK CATONE landed 31 significant strikes
+  - TOM WATSON landed 50 significant strikes
+  - Knockdowns: NICK CATONE 0,  TOM WATSON 0
+  - Takedowns: NICK CATONE 5,  TOM WATSON 0

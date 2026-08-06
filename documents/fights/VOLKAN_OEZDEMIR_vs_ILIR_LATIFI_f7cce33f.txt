@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Shevchenko vs. Carmouche 2
+    Date: August 10, 2019
+    Location: Montevideo, Uruguay
+    Weight Class: Light Heavyweight
+    
+
+    Result: VOLKAN OEZDEMIR defeated ILIR LATIFI via KO/TKO  
+  at 4:31 of round 2
+  Key stats:
+  - VOLKAN OEZDEMIR landed 64 significant strikes
+  - ILIR LATIFI landed 18 significant strikes
+  - Knockdowns: VOLKAN OEZDEMIR 2,  ILIR LATIFI 0
+  - Takedowns: VOLKAN OEZDEMIR 0,  ILIR LATIFI 1
+  Bonus: perf

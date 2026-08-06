@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Lewis vs. Nascimento
+    Date : May 11, 2024
+    Location: St. Louis, Missouri, USA
+    Number of Fights: 12
+    Weight Classes: Light Heavyweight, Featherweight, Lightweight, Welterweight, Women's Strawweight, Flyweight, Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - CARLOS ULBERG def. ALONZO MENIFIELD via KO/TKO(R1)
+- CHARLES JOHNSON def. JAKE HADLEY via Decision - Unanimous(R3)
+- TREY WATERS def. BILLY RAY GOFF via Decision - Unanimous(R3)
+- WALDO CORTES ACOSTA def. ROBELIS DESPAIGNE via Decision - Unanimous(R3)
+- JOAQUIN BUCKLEY def. NURSULTON RUZIBOEV via Decision - Unanimous(R3)
+- DERRICK LEWIS def. RODRIGO NASCIMENTO via KO/TKO(R3)
+- ESTEBAN RIBOVICS def. TERRANCE MCKINNEY via KO/TKO(R1)
+- CHASE HOOPER def. VIACHESLAV BORSHCHEV via Submission(R2)
+- DIEGO FERREIRA def. MATEUSZ REBECKI via KO/TKO(R3)
+- SEAN WOODSON def. ALEX CACERES via Decision - Unanimous(R3)
+- VERONICA HARDY def. JJ ALDRICH via Decision - Unanimous(R3)
+- TABATHA RICCI def. TECIA PENNINGTON via Decision - Split(R3)

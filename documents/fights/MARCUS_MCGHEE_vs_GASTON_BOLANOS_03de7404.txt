@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ankalaev vs. Walker 2
+    Date: January 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARCUS MCGHEE defeated GASTON BOLANOS via KO/TKO  
+  at 3:29 of round 2
+  Key stats:
+  - MARCUS MCGHEE landed 65 significant strikes
+  - GASTON BOLANOS landed 28 significant strikes
+  - Knockdowns: MARCUS MCGHEE 1,  GASTON BOLANOS 0
+  - Takedowns: MARCUS MCGHEE 1,  GASTON BOLANOS 0
+  Bonus: perf

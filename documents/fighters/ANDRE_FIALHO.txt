@@ -1,0 +1,11 @@
+Fighter: ANDRE FIALHO
+  Date of Birth: 1994-04-07
+  Career record: 7
+  First fight: 2022-01-22
+  Last fight: 2023-09-23
+
+Career Statistics:
+- Significant Strikes Landed :202
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :0

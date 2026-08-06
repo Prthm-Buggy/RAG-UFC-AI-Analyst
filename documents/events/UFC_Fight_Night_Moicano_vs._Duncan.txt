@@ -1,0 +1,7 @@
+Event : UFC Fight Night: Moicano vs. Duncan
+    Date : April 04, 2026
+    Location: None
+    Number of Fights: 146
+    Weight Classes: Women's Flyweight, Heavyweight, Bantamweight, Flyweight, Lightweight, Middleweight, Women's Bantamweight, Featherweight, Women's Strawweight, Light Heavyweight, Welterweight, Catch Weight
+
+    Fight Results:

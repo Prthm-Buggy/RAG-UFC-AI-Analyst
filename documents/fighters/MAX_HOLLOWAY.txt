@@ -1,0 +1,11 @@
+Fighter: MAX HOLLOWAY
+  Date of Birth: 1991-12-04
+  Career record: 32
+  First fight: 2012-02-04
+  Last fight: 2026-03-07
+
+Career Statistics:
+- Significant Strikes Landed :3681
+- Total takedowns landed :8
+- Knockdowns :12
+- Submission Attempts :10

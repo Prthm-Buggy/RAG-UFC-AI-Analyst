@@ -1,0 +1,11 @@
+Fighter: SATOSHI HONMA
+  Date of Birth: 1968-05-19
+  Career record: 1
+  First fight: 2000-04-14
+  Last fight: 2000-04-14
+
+Career Statistics:
+- Significant Strikes Landed :6
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

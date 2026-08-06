@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ulberg vs. Reyes
+    Date: September 27, 2025
+    Location: Perth, Western Australia, Australia
+    Weight Class: Welterweight
+    
+
+    Result: NEIL MAGNY defeated JAKE MATTHEWS via Submission  
+  at 3:08 of round 3
+  Key stats:
+  - NEIL MAGNY landed 31 significant strikes
+  - JAKE MATTHEWS landed 18 significant strikes
+  - Knockdowns: NEIL MAGNY 0,  JAKE MATTHEWS 0
+  - Takedowns: NEIL MAGNY 3,  JAKE MATTHEWS 0

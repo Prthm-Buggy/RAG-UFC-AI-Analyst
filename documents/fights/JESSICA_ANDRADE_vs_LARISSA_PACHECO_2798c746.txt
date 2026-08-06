@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bigfoot vs Arlovski
+    Date: September 13, 2014
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JESSICA ANDRADE defeated LARISSA PACHECO via Submission  
+  at 4:33 of round 1
+  Key stats:
+  - JESSICA ANDRADE landed 19 significant strikes
+  - LARISSA PACHECO landed 6 significant strikes
+  - Knockdowns: JESSICA ANDRADE 0,  LARISSA PACHECO 0
+  - Takedowns: JESSICA ANDRADE 1,  LARISSA PACHECO 0

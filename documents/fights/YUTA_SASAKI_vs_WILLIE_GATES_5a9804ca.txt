@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs Arlovski
+    Date: May 08, 2016
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Flyweight
+    
+
+    Result: YUTA SASAKI defeated WILLIE GATES via Submission  
+  at 3:30 of round 2
+  Key stats:
+  - YUTA SASAKI landed 7 significant strikes
+  - WILLIE GATES landed 13 significant strikes
+  - Knockdowns: YUTA SASAKI 0,  WILLIE GATES 0
+  - Takedowns: YUTA SASAKI 4,  WILLIE GATES 0

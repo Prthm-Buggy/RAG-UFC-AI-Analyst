@@ -1,0 +1,18 @@
+Event : UFC 247: Jones vs. Reyes
+    Date : February 08, 2020
+    Location: Houston, Texas, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Women's Flyweight, Heavyweight, Light Heavyweight, Featherweight, Welterweight, Middleweight
+
+    Fight Results:
+  - VALENTINA SHEVCHENKO def. KATLYN CERMINARA via KO/TKO(R3)
+- YOUSSEF ZALAL def. AUSTIN LINGO via Decision - Unanimous(R3)
+- JUSTIN TAFA def. JUAN ADAMS via KO/TKO(R1)
+- DAN IGE def. MIRSAD BEKTIC via Decision - Split(R3)
+- KHAOS WILLIAMS def. ALEX MORONO via KO/TKO(R1)
+- LAUREN MURPHY def. ANDREA LEE via Decision - Split(R3)
+- ANDRE EWELL def. JONATHAN MARTINEZ via Decision - Split(R3)
+- DERRICK LEWIS def. ILIR LATIFI via Decision - Unanimous(R3)
+- TREVIN GILES def. JAMES KRAUSE via Decision - Split(R3)
+- MARIO BAUTISTA def. MILES JOHNS via KO/TKO(R2)
+- JON JONES def. DOMINICK REYES via Decision - Unanimous(R5)

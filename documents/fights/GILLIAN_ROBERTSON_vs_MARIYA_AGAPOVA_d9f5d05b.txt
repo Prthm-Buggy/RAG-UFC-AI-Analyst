@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Song
+    Date: September 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: GILLIAN ROBERTSON defeated MARIYA AGAPOVA via Submission  
+  at 2:19 of round 2
+  Key stats:
+  - GILLIAN ROBERTSON landed 4 significant strikes
+  - MARIYA AGAPOVA landed 39 significant strikes
+  - Knockdowns: GILLIAN ROBERTSON 0,  MARIYA AGAPOVA 0
+  - Takedowns: GILLIAN ROBERTSON 3,  MARIYA AGAPOVA 0

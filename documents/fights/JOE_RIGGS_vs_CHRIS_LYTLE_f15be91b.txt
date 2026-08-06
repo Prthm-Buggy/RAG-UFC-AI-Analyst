@@ -1,0 +1,13 @@
+Event: UFC 55: Fury
+    Date: October 07, 2005
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOE RIGGS defeated CHRIS LYTLE via TKO - Doctor's Stoppage  
+  at 2:00 of round 2
+  Key stats:
+  - JOE RIGGS landed 15 significant strikes
+  - CHRIS LYTLE landed 3 significant strikes
+  - Knockdowns: JOE RIGGS 0,  CHRIS LYTLE 0
+  - Takedowns: JOE RIGGS 1,  CHRIS LYTLE 1

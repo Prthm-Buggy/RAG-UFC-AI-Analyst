@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Font
+    Date: August 05, 2023
+    Location: Nashville, Tennessee, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLSTON HARRIS defeated JEREMIAH WELLS via Submission  
+  at 1:50 of round 3
+  Key stats:
+  - CARLSTON HARRIS landed 5 significant strikes
+  - JEREMIAH WELLS landed 18 significant strikes
+  - Knockdowns: CARLSTON HARRIS 0,  JEREMIAH WELLS 0
+  - Takedowns: CARLSTON HARRIS 0,  JEREMIAH WELLS 3
+  Bonus: perf

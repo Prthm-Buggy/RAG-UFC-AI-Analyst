@@ -1,0 +1,11 @@
+Fighter: ALEX CHAMBERS
+  Date of Birth: 1978-10-25
+  Career record: 5
+  First fight: 2014-12-12
+  Last fight: 2018-09-22
+
+Career Statistics:
+- Significant Strikes Landed :135
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :3

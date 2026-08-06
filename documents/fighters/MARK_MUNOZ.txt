@@ -1,0 +1,11 @@
+Fighter: MARK MUNOZ
+  Date of Birth: 1978-02-09
+  Career record: 15
+  First fight: 2009-03-07
+  Last fight: 2015-05-16
+
+Career Statistics:
+- Significant Strikes Landed :394
+- Total takedowns landed :28
+- Knockdowns :2
+- Submission Attempts :5

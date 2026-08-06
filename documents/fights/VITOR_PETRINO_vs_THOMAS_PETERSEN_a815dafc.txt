@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Oliveira vs. Gamrot
+    Date: October 11, 2025
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: VITOR PETRINO defeated THOMAS PETERSEN via KO/TKO  
+  at 0:26 of round 3
+  Key stats:
+  - VITOR PETRINO landed 31 significant strikes
+  - THOMAS PETERSEN landed 16 significant strikes
+  - Knockdowns: VITOR PETRINO 2,  THOMAS PETERSEN 0
+  - Takedowns: VITOR PETRINO 1,  THOMAS PETERSEN 0
+  Bonus: perf

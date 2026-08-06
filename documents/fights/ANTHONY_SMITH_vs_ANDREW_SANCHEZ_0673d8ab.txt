@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs. Reis
+    Date: April 15, 2017
+    Location: Kansas City, Missouri, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANTHONY SMITH defeated ANDREW SANCHEZ via KO/TKO  
+  at 3:52 of round 3
+  Key stats:
+  - ANTHONY SMITH landed 49 significant strikes
+  - ANDREW SANCHEZ landed 63 significant strikes
+  - Knockdowns: ANTHONY SMITH 1,  ANDREW SANCHEZ 0
+  - Takedowns: ANTHONY SMITH 0,  ANDREW SANCHEZ 4

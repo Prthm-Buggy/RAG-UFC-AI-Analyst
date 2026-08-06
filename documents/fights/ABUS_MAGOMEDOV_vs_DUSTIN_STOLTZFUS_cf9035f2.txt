@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gane vs. Tuivasa
+    Date: September 03, 2022
+    Location: Paris, Ile-de-France, France
+    Weight Class: Middleweight
+    
+
+    Result: ABUS MAGOMEDOV defeated DUSTIN STOLTZFUS via KO/TKO  
+  at 0:19 of round 1
+  Key stats:
+  - ABUS MAGOMEDOV landed 7 significant strikes
+  - DUSTIN STOLTZFUS landed 0 significant strikes
+  - Knockdowns: ABUS MAGOMEDOV 1,  DUSTIN STOLTZFUS 0
+  - Takedowns: ABUS MAGOMEDOV 0,  DUSTIN STOLTZFUS 0
+  Bonus: perf

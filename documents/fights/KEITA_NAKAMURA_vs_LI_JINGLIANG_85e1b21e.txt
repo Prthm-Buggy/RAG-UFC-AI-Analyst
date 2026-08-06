@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barnett vs Nelson
+    Date: September 26, 2015
+    Location: Saitama, Japan
+    Weight Class: Welterweight
+    
+
+    Result: KEITA NAKAMURA defeated LI JINGLIANG via Submission  
+  at 2:17 of round 3
+  Key stats:
+  - KEITA NAKAMURA landed 40 significant strikes
+  - LI JINGLIANG landed 79 significant strikes
+  - Knockdowns: KEITA NAKAMURA 1,  LI JINGLIANG 1
+  - Takedowns: KEITA NAKAMURA 0,  LI JINGLIANG 1
+  Bonus: perf

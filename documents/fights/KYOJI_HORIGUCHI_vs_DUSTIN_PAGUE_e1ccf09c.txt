@@ -1,0 +1,13 @@
+Event: UFC 166: Velasquez vs Dos Santos 3
+    Date: October 19, 2013
+    Location: Houston, Texas, USA
+    Weight Class: Bantamweight
+    
+
+    Result: KYOJI HORIGUCHI defeated DUSTIN PAGUE via KO/TKO  
+  at 3:51 of round 2
+  Key stats:
+  - KYOJI HORIGUCHI landed 30 significant strikes
+  - DUSTIN PAGUE landed 9 significant strikes
+  - Knockdowns: KYOJI HORIGUCHI 1,  DUSTIN PAGUE 0
+  - Takedowns: KYOJI HORIGUCHI 1,  DUSTIN PAGUE 1

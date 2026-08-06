@@ -1,0 +1,11 @@
+Fighter: SEBASTIAN SZALAY
+  Date of Birth: 1994-02-03
+  Career record: 1
+  First fight: 2026-01-31
+  Last fight: 2026-01-31
+
+Career Statistics:
+- Significant Strikes Landed :79
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

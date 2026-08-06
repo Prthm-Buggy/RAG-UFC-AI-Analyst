@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ankalaev vs. Walker 2
+    Date: January 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRUNNO FERREIRA defeated PHIL HAWES via KO/TKO  
+  at 4:55 of round 1
+  Key stats:
+  - BRUNNO FERREIRA landed 19 significant strikes
+  - PHIL HAWES landed 13 significant strikes
+  - Knockdowns: BRUNNO FERREIRA 1,  PHIL HAWES 0
+  - Takedowns: BRUNNO FERREIRA 1,  PHIL HAWES 0
+  Bonus: perf

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Santos vs. Walker
+    Date : October 02, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Women's Flyweight, Lightweight, Women's Bantamweight, Middleweight, Welterweight, Light Heavyweight
+
+    Fight Results:
+  - JARED GORDON def. JOE SOLECKI via Decision - Split(R3)
+- ALEXANDER HERNANDEZ def. MIKE BREEDEN via KO/TKO(R1)
+- JAMIE MULLARKEY def. DEVONTE SMITH via KO/TKO(R2)
+- CASEY O'NEILL def. ANTONINA SHEVCHENKO via KO/TKO(R2)
+- KAROL ROSA def. BETHE CORREIA via Decision - Unanimous(R3)
+- ALEJANDRO PEREZ def. JOHNNY EDUARDO via Submission(R2)
+- THIAGO SANTOS def. JOHNNY WALKER via Decision - Unanimous(R5)
+- KRZYSZTOF JOTKO def. MISHA CIRKUNOV via Decision - Split(R3)
+- NIKO PRICE def. ALEX OLIVEIRA via Decision - Unanimous(R3)
+- DOUGLAS SILVA DE ANDRADE def. GAETANO PIRRELLO via KO/TKO(R1)
+- STEPHANIE EGGER def. SHANNA YOUNG via KO/TKO(R2)

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Vettori
+    Date: December 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ILIA TOPURIA defeated DAMON JACKSON via KO/TKO  
+  at 2:38 of round 1
+  Key stats:
+  - ILIA TOPURIA landed 31 significant strikes
+  - DAMON JACKSON landed 16 significant strikes
+  - Knockdowns: ILIA TOPURIA 1,  DAMON JACKSON 0
+  - Takedowns: ILIA TOPURIA 0,  DAMON JACKSON 0

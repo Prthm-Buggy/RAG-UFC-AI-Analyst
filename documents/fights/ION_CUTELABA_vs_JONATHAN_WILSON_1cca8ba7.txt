@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lineker vs. Dodson
+    Date: October 01, 2016
+    Location: Portland, Oregon, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ION CUTELABA defeated JONATHAN WILSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ION CUTELABA landed 89 significant strikes
+  - JONATHAN WILSON landed 30 significant strikes
+  - Knockdowns: ION CUTELABA 0,  JONATHAN WILSON 0
+  - Takedowns: ION CUTELABA 0,  JONATHAN WILSON 0

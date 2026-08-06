@@ -1,0 +1,13 @@
+Event: UFC 88: Breakthrough
+    Date: September 06, 2008
+    Location: Atlanta, Georgia, USA
+    Weight Class: Middleweight
+    
+
+    Result: NATE MARQUARDT defeated MARTIN KAMPMANN via KO/TKO  
+  at 1:22 of round 1
+  Key stats:
+  - NATE MARQUARDT landed 22 significant strikes
+  - MARTIN KAMPMANN landed 1 significant strikes
+  - Knockdowns: NATE MARQUARDT 1,  MARTIN KAMPMANN 0
+  - Takedowns: NATE MARQUARDT 0,  MARTIN KAMPMANN 0

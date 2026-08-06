@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hendricks vs Thompson
+    Date: February 06, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MISHA CIRKUNOV defeated ALEX NICHOLSON via Submission  
+  at 1:28 of round 2
+  Key stats:
+  - MISHA CIRKUNOV landed 32 significant strikes
+  - ALEX NICHOLSON landed 16 significant strikes
+  - Knockdowns: MISHA CIRKUNOV 0,  ALEX NICHOLSON 0
+  - Takedowns: MISHA CIRKUNOV 3,  ALEX NICHOLSON 0

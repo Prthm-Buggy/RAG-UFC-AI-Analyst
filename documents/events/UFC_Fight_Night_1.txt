@@ -1,0 +1,15 @@
+Event : UFC Fight Night 1
+    Date : August 06, 2005
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Middleweight, Welterweight, Light Heavyweight
+
+    Fight Results:
+  - NATE MARQUARDT def. IVAN SALAVERRY via Decision - Unanimous(R3)
+- JOSH KOSCHECK def. PETE SPRATT via Submission(R1)
+- KENNY FLORIAN def. ALEX KARALEXIS via TKO - Doctor's Stoppage(R2)
+- CHRIS LEBEN def. PATRICK COTE via Decision - Split(R3)
+- NATE QUARRY def. PETE SELL via KO/TKO(R1)
+- STEPHAN BONNAR def. SAM HOGER via Decision - Unanimous(R3)
+- DREW FICKETT def. JOSH NEER via Submission(R1)
+- MIKE SWICK def. GIDEON RAY via KO/TKO(R1)

@@ -1,0 +1,11 @@
+Fighter: Tommy Gantt
+  Date of Birth: 1993-01-09
+  Career record: 1
+  First fight: 2026-04-04
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :28
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC on FOX: Diaz vs Miller
+    Date: May 05, 2012
+    Location: East Rutherford, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: NATE DIAZ defeated JIM MILLER via Submission  
+  at 4:09 of round 2
+  Key stats:
+  - NATE DIAZ landed 46 significant strikes
+  - JIM MILLER landed 25 significant strikes
+  - Knockdowns: NATE DIAZ 0,  JIM MILLER 0
+  - Takedowns: NATE DIAZ 0,  JIM MILLER 1
+  Bonus: sub

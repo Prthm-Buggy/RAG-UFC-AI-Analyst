@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Poirier vs. Hooker
+    Date : June 27, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Featherweight, Welterweight, Catch Weight, Lightweight, Middleweight, Women's Strawweight
+
+    Fight Results:
+  - JULIAN EROSA def. SEAN WOODSON via Submission(R3)
+- BRENDAN ALLEN def. KYLE DAUKAUS via Decision - Unanimous(R3)
+- YOUSSEF ZALAL def. JORDAN GRIFFIN via Decision - Unanimous(R3)
+- TANNER BOSER def. PHILIPE LINS via KO/TKO(R1)
+- KHAMA WORTHY def. LUIS PENA via Submission(R3)
+- DUSTIN POIRIER def. DAN HOOKER via Decision - Unanimous(R5)
+- TAKASHI SATO def. JASON WITT via KO/TKO(R1)
+- KAY HANSEN def. JINH YU FREY via Submission(R3)
+- MIKE PERRY def. MICKEY GALL via Decision - Unanimous(R3)
+- MAURICE GREENE def. GIAN VILLANTE via Submission(R3)

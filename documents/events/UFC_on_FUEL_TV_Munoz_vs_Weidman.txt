@@ -1,0 +1,18 @@
+Event : UFC on FUEL TV: Munoz vs Weidman
+    Date : July 11, 2012
+    Location: San Jose, California, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Light Heavyweight, Middleweight, Welterweight, Lightweight, Flyweight
+
+    Fight Results:
+  - CHRIS WEIDMAN def. MARK MUNOZ via KO/TKO(R2)
+- ALEX CACERES def. DAMACIO PAGE via Submission(R2)
+- TJ DILLASHAW def. VAUGHAN LEE via Submission(R1)
+- RAFAEL DOS ANJOS def. ANTHONY NJOKUANI via Decision - Unanimous(R3)
+- MARCELO GUIMARAES def. DAN STITTGEN via Decision - Split(R3)
+- FRANCIS CARMONT def. KARLOS VEMOLA via Submission(R2)
+- ANDREW CRAIG def. RAFAEL NATAL via KO/TKO(R2)
+- AARON SIMPSON def. KENNY ROBERTSON via Decision - Unanimous(R3)
+- JAMES TE HUNA def. JOEY BELTRAN via Decision - Unanimous(R3)
+- CHRIS CARIASO def. JOSH FERGUSON via Decision - Unanimous(R3)
+- RAPHAEL ASSUNCAO def. ISSEI TAMURA via KO/TKO(R2)

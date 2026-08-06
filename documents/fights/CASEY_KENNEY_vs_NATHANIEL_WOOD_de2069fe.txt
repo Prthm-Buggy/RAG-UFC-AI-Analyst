@@ -1,0 +1,14 @@
+Event: UFC 254: Khabib vs. Gaethje
+    Date: October 24, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Catch Weight
+    
+
+    Result: CASEY KENNEY defeated NATHANIEL WOOD via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CASEY KENNEY landed 123 significant strikes
+  - NATHANIEL WOOD landed 136 significant strikes
+  - Knockdowns: CASEY KENNEY 0,  NATHANIEL WOOD 0
+  - Takedowns: CASEY KENNEY 2,  NATHANIEL WOOD 0
+  Bonus: fight

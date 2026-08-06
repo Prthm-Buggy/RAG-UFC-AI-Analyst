@@ -1,0 +1,14 @@
+Event: UFC 36: Worlds Collide
+    Date: March 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JOSH BARNETT defeated RANDY COUTURE via KO/TKO  
+  at 4:35 of round 2
+  Key stats:
+  - JOSH BARNETT landed 44 significant strikes
+  - RANDY COUTURE landed 18 significant strikes
+  - Knockdowns: JOSH BARNETT 0,  RANDY COUTURE 0
+  - Takedowns: JOSH BARNETT 0,  RANDY COUTURE 1
+  Bonus: belt

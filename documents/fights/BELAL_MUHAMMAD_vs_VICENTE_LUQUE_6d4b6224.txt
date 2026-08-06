@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Luque vs. Muhammad
+    Date: April 16, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: BELAL MUHAMMAD defeated VICENTE LUQUE via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - BELAL MUHAMMAD landed 60 significant strikes
+  - VICENTE LUQUE landed 84 significant strikes
+  - Knockdowns: BELAL MUHAMMAD 0,  VICENTE LUQUE 0
+  - Takedowns: BELAL MUHAMMAD 5,  VICENTE LUQUE 0

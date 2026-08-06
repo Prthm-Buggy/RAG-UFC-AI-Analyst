@@ -1,0 +1,11 @@
+Fighter: ALEX NICHOLSON
+  Date of Birth: 1990-05-02
+  Career record: 4
+  First fight: 2016-02-06
+  Last fight: 2017-05-28
+
+Career Statistics:
+- Significant Strikes Landed :117
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :1

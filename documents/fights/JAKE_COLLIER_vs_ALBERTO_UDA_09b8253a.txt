@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Almeida vs Garbrandt
+    Date: May 29, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JAKE COLLIER defeated ALBERTO UDA via KO/TKO  
+  at 1:06 of round 2
+  Key stats:
+  - JAKE COLLIER landed 27 significant strikes
+  - ALBERTO UDA landed 15 significant strikes
+  - Knockdowns: JAKE COLLIER 1,  ALBERTO UDA 0
+  - Takedowns: JAKE COLLIER 1,  ALBERTO UDA 1
+  Bonus: perf

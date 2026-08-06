@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cerrone vs. Medeiros
+    Date: February 18, 2018
+    Location: Austin, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: DIEGO FERREIRA defeated JARED GORDON via KO/TKO  
+  at 1:58 of round 1
+  Key stats:
+  - DIEGO FERREIRA landed 29 significant strikes
+  - JARED GORDON landed 8 significant strikes
+  - Knockdowns: DIEGO FERREIRA 1,  JARED GORDON 0
+  - Takedowns: DIEGO FERREIRA 0,  JARED GORDON 0

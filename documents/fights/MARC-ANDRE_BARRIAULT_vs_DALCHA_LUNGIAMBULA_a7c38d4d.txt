@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brunson vs. Till
+    Date: September 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARC-ANDRE BARRIAULT defeated DALCHA LUNGIAMBULA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARC-ANDRE BARRIAULT landed 118 significant strikes
+  - DALCHA LUNGIAMBULA landed 85 significant strikes
+  - Knockdowns: MARC-ANDRE BARRIAULT 0,  DALCHA LUNGIAMBULA 0
+  - Takedowns: MARC-ANDRE BARRIAULT 0,  DALCHA LUNGIAMBULA 2

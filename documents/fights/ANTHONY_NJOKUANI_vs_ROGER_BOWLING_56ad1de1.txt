@@ -1,0 +1,13 @@
+Event: UFC on FOX: Henderson vs Melendez
+    Date: April 20, 2013
+    Location: San Jose, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: ANTHONY NJOKUANI defeated ROGER BOWLING via KO/TKO  
+  at 2:52 of round 2
+  Key stats:
+  - ANTHONY NJOKUANI landed 26 significant strikes
+  - ROGER BOWLING landed 27 significant strikes
+  - Knockdowns: ANTHONY NJOKUANI 1,  ROGER BOWLING 0
+  - Takedowns: ANTHONY NJOKUANI 0,  ROGER BOWLING 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Romero
+    Date: June 27, 2015
+    Location: Hollywood, Florida, USA
+    Weight Class: Featherweight
+    
+
+    Result: HACRAN DIAS defeated LEVAN MAKASHVILI via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - HACRAN DIAS landed 17 significant strikes
+  - LEVAN MAKASHVILI landed 37 significant strikes
+  - Knockdowns: HACRAN DIAS 0,  LEVAN MAKASHVILI 0
+  - Takedowns: HACRAN DIAS 3,  LEVAN MAKASHVILI 2

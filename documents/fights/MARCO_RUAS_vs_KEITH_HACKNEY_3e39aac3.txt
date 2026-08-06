@@ -1,0 +1,13 @@
+Event: UFC - Ultimate Ultimate '95
+    Date: December 16, 1995
+    Location: Denver, Colorado, USA
+    Weight Class: Open Weight
+    
+
+    Result: MARCO RUAS defeated KEITH HACKNEY via Submission  
+  at 2:39 of round 1
+  Key stats:
+  - MARCO RUAS landed 7 significant strikes
+  - KEITH HACKNEY landed 1 significant strikes
+  - Knockdowns: MARCO RUAS 0,  KEITH HACKNEY 0
+  - Takedowns: MARCO RUAS 1,  KEITH HACKNEY 0

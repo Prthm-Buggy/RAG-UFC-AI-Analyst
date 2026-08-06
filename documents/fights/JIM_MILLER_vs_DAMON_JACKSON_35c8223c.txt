@@ -1,0 +1,13 @@
+Event: UFC 309: Jones vs. Miocic
+    Date: November 16, 2024
+    Location: New York City, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated DAMON JACKSON via Submission  
+  at 2:44 of round 1
+  Key stats:
+  - JIM MILLER landed 10 significant strikes
+  - DAMON JACKSON landed 16 significant strikes
+  - Knockdowns: JIM MILLER 0,  DAMON JACKSON 0
+  - Takedowns: JIM MILLER 0,  DAMON JACKSON 0

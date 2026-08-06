@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Moicano vs. The Korean Zombie
+    Date : June 22, 2019
+    Location: Greenville, South Carolina, USA
+    Number of Fights: 11
+    Weight Classes: Women's Strawweight, Middleweight, Featherweight, Welterweight, Lightweight, Bantamweight, Women's Flyweight, Heavyweight
+
+    Fight Results:
+  - KEVIN HOLLAND def. ALESSIO DI CHIRICO via Decision - Unanimous(R3)
+- RANDY BROWN def. BRYAN BARBERENA via KO/TKO(R3)
+- JAIRZINHO ROZENSTRUIK def. ALLEN CROWDER via KO/TKO(R1)
+- MOLLY MCCANN def. ARIANE DA SILVA via Decision - Unanimous(R3)
+- DAN IGE def. KEVIN AGUILAR via Decision - Unanimous(R3)
+- ASHLEY YODER def. SYURI KONDO via Decision - Unanimous(R3)
+- ANDREA LEE def. MONTANA DE LA ROSA via Decision - Unanimous(R3)
+- CHAN SUNG JUNG def. RENATO MOICANO via KO/TKO(R1)
+- DERON WINN def. ERIC SPICELY via Decision - Unanimous(R3)
+- LUIS PENA def. MATT WIMAN via KO/TKO(R3)
+- ANDRE EWELL def. ANDERSON DOS SANTOS via Decision - Unanimous(R3)

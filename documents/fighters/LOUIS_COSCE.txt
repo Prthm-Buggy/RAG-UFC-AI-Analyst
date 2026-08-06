@@ -1,0 +1,11 @@
+Fighter: LOUIS COSCE
+  Date of Birth: 1995-08-27
+  Career record: 2
+  First fight: 2020-11-21
+  Last fight: 2022-09-17
+
+Career Statistics:
+- Significant Strikes Landed :109
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :1

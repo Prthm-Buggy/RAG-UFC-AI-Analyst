@@ -1,0 +1,13 @@
+Event: UFC 26: Ultimate Field Of Dreams
+    Date: June 09, 2000
+    Location: Cedar Rapids, Iowa, USA
+    Weight Class: Heavyweight
+    
+
+    Result: IAN FREEMAN defeated NATE SCHROEDER via KO/TKO  
+  at 2:13 of round 2
+  Key stats:
+  - IAN FREEMAN landed 16 significant strikes
+  - NATE SCHROEDER landed 9 significant strikes
+  - Knockdowns: IAN FREEMAN 0,  NATE SCHROEDER 0
+  - Takedowns: IAN FREEMAN 1,  NATE SCHROEDER 1

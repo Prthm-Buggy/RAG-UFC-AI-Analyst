@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bader vs Saint Preux
+    Date: August 16, 2014
+    Location: Bangor, Maine, USA
+    Weight Class: Middleweight
+    
+
+    Result: TIM BOETSCH defeated BRAD TAVARES via KO/TKO  
+  at 3:18 of round 2
+  Key stats:
+  - TIM BOETSCH landed 14 significant strikes
+  - BRAD TAVARES landed 24 significant strikes
+  - Knockdowns: TIM BOETSCH 2,  BRAD TAVARES 0
+  - Takedowns: TIM BOETSCH 1,  BRAD TAVARES 0
+  Bonus: perf

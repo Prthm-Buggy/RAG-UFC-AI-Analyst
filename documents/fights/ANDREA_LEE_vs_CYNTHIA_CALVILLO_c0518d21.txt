@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holloway vs. Rodriguez
+    Date: November 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ANDREA LEE defeated CYNTHIA CALVILLO via KO/TKO  
+  at 5:00 of round 2
+  Key stats:
+  - ANDREA LEE landed 84 significant strikes
+  - CYNTHIA CALVILLO landed 47 significant strikes
+  - Knockdowns: ANDREA LEE 0,  CYNTHIA CALVILLO 0
+  - Takedowns: ANDREA LEE 0,  CYNTHIA CALVILLO 1
+  Bonus: perf

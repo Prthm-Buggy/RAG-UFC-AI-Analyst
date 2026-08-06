@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Nogueira vs. Team Mir Finale
+    Date: December 13, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KRZYSZTOF SOSZYNSKI defeated SHANE PRIMM via Submission  
+  at 3:27 of round 2
+  Key stats:
+  - KRZYSZTOF SOSZYNSKI landed 19 significant strikes
+  - SHANE PRIMM landed 7 significant strikes
+  - Knockdowns: KRZYSZTOF SOSZYNSKI 0,  SHANE PRIMM 0
+  - Takedowns: KRZYSZTOF SOSZYNSKI 0,  SHANE PRIMM 1
+  Bonus: sub

@@ -1,0 +1,13 @@
+Event: UFC Live: Vera vs Jones
+    Date: March 21, 2010
+    Location: Broomfield, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: DARREN ELKINS defeated DUANE LUDWIG via KO/TKO  
+  at 0:44 of round 1
+  Key stats:
+  - DARREN ELKINS landed 0 significant strikes
+  - DUANE LUDWIG landed 1 significant strikes
+  - Knockdowns: DARREN ELKINS 0,  DUANE LUDWIG 0
+  - Takedowns: DARREN ELKINS 1,  DUANE LUDWIG 0

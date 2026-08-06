@@ -1,0 +1,11 @@
+Fighter: ROGER HOLLETT
+  Date of Birth: 1978-10-08
+  Career record: 2
+  First fight: 2012-09-22
+  Last fight: 2013-05-18
+
+Career Statistics:
+- Significant Strikes Landed :55
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

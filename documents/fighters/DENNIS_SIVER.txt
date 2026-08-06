@@ -1,0 +1,11 @@
+Fighter: DENNIS SIVER
+  Date of Birth: 1979-01-13
+  Career record: 20
+  First fight: 2007-04-21
+  Last fight: 2017-06-25
+
+Career Statistics:
+- Significant Strikes Landed :815
+- Total takedowns landed :11
+- Knockdowns :7
+- Submission Attempts :5

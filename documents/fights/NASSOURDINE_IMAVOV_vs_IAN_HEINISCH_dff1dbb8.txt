@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Dillashaw
+    Date: July 24, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: NASSOURDINE IMAVOV defeated IAN HEINISCH via KO/TKO  
+  at 3:09 of round 2
+  Key stats:
+  - NASSOURDINE IMAVOV landed 39 significant strikes
+  - IAN HEINISCH landed 24 significant strikes
+  - Knockdowns: NASSOURDINE IMAVOV 0,  IAN HEINISCH 0
+  - Takedowns: NASSOURDINE IMAVOV 1,  IAN HEINISCH 0

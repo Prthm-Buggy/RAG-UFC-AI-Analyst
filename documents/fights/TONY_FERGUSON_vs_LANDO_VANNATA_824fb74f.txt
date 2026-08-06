@@ -1,0 +1,14 @@
+Event: UFC Fight Night: McDonald vs. Lineker
+    Date: July 13, 2016
+    Location: Sioux Falls, South Dakota, USA
+    Weight Class: Lightweight
+    
+
+    Result: TONY FERGUSON defeated LANDO VANNATA via Submission  
+  at 2:22 of round 2
+  Key stats:
+  - TONY FERGUSON landed 66 significant strikes
+  - LANDO VANNATA landed 40 significant strikes
+  - Knockdowns: TONY FERGUSON 0,  LANDO VANNATA 1
+  - Takedowns: TONY FERGUSON 0,  LANDO VANNATA 0
+  Bonus: fight

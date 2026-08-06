@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs LaFlare
+    Date: March 21, 2015
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: ERICK SILVA defeated JOSH KOSCHECK via Submission  
+  at 4:21 of round 1
+  Key stats:
+  - ERICK SILVA landed 14 significant strikes
+  - JOSH KOSCHECK landed 4 significant strikes
+  - Knockdowns: ERICK SILVA 0,  JOSH KOSCHECK 0
+  - Takedowns: ERICK SILVA 0,  JOSH KOSCHECK 0

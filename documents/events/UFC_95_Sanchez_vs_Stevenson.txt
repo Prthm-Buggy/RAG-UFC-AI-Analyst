@@ -1,0 +1,17 @@
+Event : UFC 95: Sanchez vs Stevenson
+    Date : February 21, 2009
+    Location: London, England, United Kingdom
+    Number of Fights: 10
+    Weight Classes: Welterweight, Lightweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - DEMIAN MAIA def. CHAEL SONNEN via Submission(R1)
+- NATE MARQUARDT def. WILSON GOUVEIA via KO/TKO(R3)
+- PAUL KELLY def. TROY MANDALONIZ via Decision - Unanimous(R3)
+- EVAN DUNHAM def. PER EKLUND via KO/TKO(R1)
+- JUNIOR DOS SANTOS def. STEFAN STRUVE via KO/TKO(R1)
+- DIEGO SANCHEZ def. JOE STEVENSON via Decision - Unanimous(R3)
+- DAN HARDY def. RORY MARKHAM via KO/TKO(R1)
+- PAULO THIAGO def. JOSH KOSCHECK via KO/TKO(R1)
+- TERRY ETIM def. BRIAN COBB via KO/TKO(R2)
+- MIKE CIESNOLEVICZ def. NEIL GROVE via Submission(R1)

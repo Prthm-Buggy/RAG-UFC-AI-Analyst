@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Cowboy vs Cowboy
+    Date : February 21, 2016
+    Location: Pittsburgh, Pennsylvania, USA
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Welterweight, Middleweight, Women's Bantamweight, Featherweight, Lightweight, Catch Weight
+
+    Fight Results:
+  - DEREK BRUNSON def. ROAN CARNEIRO via KO/TKO(R1)
+- NATHAN COY def. JONAVIN WEBB via Decision - Unanimous(R3)
+- JAMES KRAUSE def. SHANE CAMPBELL via Decision - Unanimous(R3)
+- SEAN STRICKLAND def. ALEX GARCIA via KO/TKO(R3)
+- LAUREN MURPHY def. KELLY FASZHOLZ via KO/TKO(R3)
+- DENNIS BERMUDEZ def. TATSUYA KAWAJIRI via Decision - Unanimous(R3)
+- DONALD CERRONE def. ALEX OLIVEIRA via Submission(R1)
+- OLUWALE BAMGBOSE def. DANIEL SARAFIAN via KO/TKO(R1)
+- SHAMIL ABDURAKHIMOV def. ANTHONY HAMILTON via Decision - Unanimous(R3)
+- ASHLEE EVANS-SMITH def. MARION RENEAU via Decision - Split(R3)
+- CHRIS CAMOZZI def. JOE RIGGS via KO/TKO(R1)
+- ANTHONY SMITH def. LEONARDO GUIMARAES via Decision - Unanimous(R3)
+- CODY GARBRANDT def. AUGUSTO MENDES via KO/TKO(R1)

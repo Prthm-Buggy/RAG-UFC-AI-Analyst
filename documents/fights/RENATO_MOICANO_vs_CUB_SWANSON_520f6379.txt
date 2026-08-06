@@ -1,0 +1,14 @@
+Event: UFC 227: Dillashaw vs. Garbrandt 2
+    Date: August 04, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: RENATO MOICANO defeated CUB SWANSON via Submission  
+  at 4:15 of round 1
+  Key stats:
+  - RENATO MOICANO landed 17 significant strikes
+  - CUB SWANSON landed 20 significant strikes
+  - Knockdowns: RENATO MOICANO 1,  CUB SWANSON 0
+  - Takedowns: RENATO MOICANO 1,  CUB SWANSON 0
+  Bonus: perf

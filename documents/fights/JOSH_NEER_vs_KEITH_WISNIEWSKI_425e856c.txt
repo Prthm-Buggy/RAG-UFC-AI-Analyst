@@ -1,0 +1,13 @@
+Event: UFC Live: Cruz vs Johnson
+    Date: October 01, 2011
+    Location: Washington, DC, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSH NEER defeated KEITH WISNIEWSKI via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - JOSH NEER landed 93 significant strikes
+  - KEITH WISNIEWSKI landed 41 significant strikes
+  - Knockdowns: JOSH NEER 0,  KEITH WISNIEWSKI 0
+  - Takedowns: JOSH NEER 0,  KEITH WISNIEWSKI 0

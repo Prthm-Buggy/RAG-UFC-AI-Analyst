@@ -1,0 +1,11 @@
+Fighter: JULIUS WALKER
+  Date of Birth: 1999-07-16
+  Career record: 4
+  First fight: 2025-02-22
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :137
+- Total takedowns landed :10
+- Knockdowns :1
+- Submission Attempts :0

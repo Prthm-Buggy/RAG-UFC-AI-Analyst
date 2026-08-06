@@ -1,0 +1,13 @@
+Event: UFC 237: Namajunas vs. Andrade
+    Date: May 11, 2019
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: RYAN SPANN defeated ROGERIO NOGUEIRA via KO/TKO  
+  at 2:07 of round 1
+  Key stats:
+  - RYAN SPANN landed 13 significant strikes
+  - ROGERIO NOGUEIRA landed 6 significant strikes
+  - Knockdowns: RYAN SPANN 1,  ROGERIO NOGUEIRA 0
+  - Takedowns: RYAN SPANN 1,  ROGERIO NOGUEIRA 0

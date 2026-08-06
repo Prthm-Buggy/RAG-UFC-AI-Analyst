@@ -1,0 +1,13 @@
+Event: UFC 217: Bisping vs. St-Pierre
+    Date: November 04, 2017
+    Location: New York City, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARK GODBEER defeated WALT HARRIS via DQ  
+  at 4:29 of round 1
+  Key stats:
+  - MARK GODBEER landed 3 significant strikes
+  - WALT HARRIS landed 21 significant strikes
+  - Knockdowns: MARK GODBEER 0,  WALT HARRIS 0
+  - Takedowns: MARK GODBEER 0,  WALT HARRIS 1

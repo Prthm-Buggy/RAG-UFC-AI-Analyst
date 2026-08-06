@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moicano vs. The Korean Zombie
+    Date: June 22, 2019
+    Location: Greenville, South Carolina, USA
+    Weight Class: Lightweight
+    
+
+    Result: LUIS PENA defeated MATT WIMAN via KO/TKO  
+  at 1:14 of round 3
+  Key stats:
+  - LUIS PENA landed 87 significant strikes
+  - MATT WIMAN landed 24 significant strikes
+  - Knockdowns: LUIS PENA 0,  MATT WIMAN 0
+  - Takedowns: LUIS PENA 1,  MATT WIMAN 1

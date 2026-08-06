@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Thatch
+    Date: February 14, 2015
+    Location: Broomfield, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: EFRAIN ESCUDERO defeated RODRIGO DE LIMA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - EFRAIN ESCUDERO landed 94 significant strikes
+  - RODRIGO DE LIMA landed 24 significant strikes
+  - Knockdowns: EFRAIN ESCUDERO 1,  RODRIGO DE LIMA 0
+  - Takedowns: EFRAIN ESCUDERO 2,  RODRIGO DE LIMA 3

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Hall vs. Silva
+    Date : October 31, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Middleweight, Lightweight, Featherweight, Light Heavyweight, Welterweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - ALEXANDER HERNANDEZ def. CHRIS GRUETZEMACHER via KO/TKO(R1)
+- DUSTIN JACOBY def. JUSTIN LEDET via KO/TKO(R1)
+- SEAN STRICKLAND def. JACK MARSHMAN via Decision - Unanimous(R3)
+- JASON WITT def. COLE WILLIAMS via Submission(R2)
+- GREG HARDY def. MAURICE GREENE via KO/TKO(R2)
+- THIAGO MOISES def. KING GREEN via Decision - Unanimous(R3)
+- URIAH HALL def. ANDERSON SILVA via KO/TKO(R4)
+- BRYCE MITCHELL def. ANDRE FILI via Decision - Unanimous(R3)
+- KEVIN HOLLAND def. CHARLIE ONTIVEROS via Submission(R1)
+- MILES JOHNS def. KEVIN NATIVIDAD via KO/TKO(R3)
+- ADRIAN YANEZ def. VICTOR RODRIGUEZ via KO/TKO(R1)

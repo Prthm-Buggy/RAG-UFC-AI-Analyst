@@ -1,0 +1,14 @@
+Event: UFC 203: Miocic vs. Overeem
+    Date: September 10, 2016
+    Location: Cleveland, Ohio, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JESSICA ANDRADE defeated JOANNE WOOD via Submission  
+  at 4:38 of round 1
+  Key stats:
+  - JESSICA ANDRADE landed 20 significant strikes
+  - JOANNE WOOD landed 13 significant strikes
+  - Knockdowns: JESSICA ANDRADE 0,  JOANNE WOOD 0
+  - Takedowns: JESSICA ANDRADE 2,  JOANNE WOOD 0
+  Bonus: perf

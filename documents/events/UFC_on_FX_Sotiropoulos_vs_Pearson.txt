@@ -1,0 +1,16 @@
+Event : UFC on FX: Sotiropoulos vs Pearson
+    Date : December 14, 2012
+    Location: Gold Coast, Queensland, Australia
+    Number of Fights: 9
+    Weight Classes: Lightweight, Welterweight, Middleweight, Featherweight, Light Heavyweight
+
+    Fight Results:
+  - NORMAN PARKE def. COLIN FLETCHER via Decision - Unanimous(R3)
+- MIKE WILKINSON def. BRENDAN LOUGHNANE via Decision - Unanimous(R3)
+- ROSS PEARSON def. GEORGE SOTIROPOULOS via KO/TKO(R3)
+- CODY DONOVAN def. NICK PENNER via KO/TKO(R1)
+- ROBERT WHITTAKER def. BRAD SCOTT via Decision - Unanimous(R3)
+- HECTOR LOMBARD def. ROUSIMAR PALHARES via KO/TKO(R1)
+- CHAD MENDES def. YAOTZIN MEZA via KO/TKO(R1)
+- MIKE PIERCE def. SETH BACZYNSKI via Decision - Unanimous(R3)
+- BEN ALLOWAY def. MANUEL RODRIGUEZ via KO/TKO(R1)

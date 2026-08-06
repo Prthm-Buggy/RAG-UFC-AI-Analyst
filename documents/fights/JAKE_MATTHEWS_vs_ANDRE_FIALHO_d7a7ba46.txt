@@ -1,0 +1,14 @@
+Event: UFC 275: Teixeira vs. Prochazka
+    Date: June 11, 2022
+    Location: Kallang, Singapore
+    Weight Class: Welterweight
+    
+
+    Result: JAKE MATTHEWS defeated ANDRE FIALHO via KO/TKO  
+  at 2:24 of round 2
+  Key stats:
+  - JAKE MATTHEWS landed 47 significant strikes
+  - ANDRE FIALHO landed 18 significant strikes
+  - Knockdowns: JAKE MATTHEWS 1,  ANDRE FIALHO 0
+  - Takedowns: JAKE MATTHEWS 0,  ANDRE FIALHO 0
+  Bonus: perf

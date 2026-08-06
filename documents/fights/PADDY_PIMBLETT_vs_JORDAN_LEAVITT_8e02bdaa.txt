@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blaydes vs. Aspinall
+    Date: July 23, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: PADDY PIMBLETT defeated JORDAN LEAVITT via Submission  
+  at 2:46 of round 2
+  Key stats:
+  - PADDY PIMBLETT landed 17 significant strikes
+  - JORDAN LEAVITT landed 16 significant strikes
+  - Knockdowns: PADDY PIMBLETT 0,  JORDAN LEAVITT 0
+  - Takedowns: PADDY PIMBLETT 1,  JORDAN LEAVITT 3
+  Bonus: perf

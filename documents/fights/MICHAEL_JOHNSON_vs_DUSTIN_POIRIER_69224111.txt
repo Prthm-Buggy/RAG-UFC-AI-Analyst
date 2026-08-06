@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Poirier vs. Johnson
+    Date: September 17, 2016
+    Location: Hidalgo, Texas, USA
+    Weight Class: Lightweight
+    
+
+    Result: MICHAEL JOHNSON defeated DUSTIN POIRIER via KO/TKO  
+  at 1:35 of round 1
+  Key stats:
+  - MICHAEL JOHNSON landed 14 significant strikes
+  - DUSTIN POIRIER landed 6 significant strikes
+  - Knockdowns: MICHAEL JOHNSON 1,  DUSTIN POIRIER 0
+  - Takedowns: MICHAEL JOHNSON 0,  DUSTIN POIRIER 0
+  Bonus: perf

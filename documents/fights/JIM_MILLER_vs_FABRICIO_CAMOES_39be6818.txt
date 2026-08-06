@@ -1,0 +1,13 @@
+Event: UFC 168: Weidman vs Silva 2
+    Date: December 28, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated FABRICIO CAMOES via Submission  
+  at 3:42 of round 1
+  Key stats:
+  - JIM MILLER landed 6 significant strikes
+  - FABRICIO CAMOES landed 11 significant strikes
+  - Knockdowns: JIM MILLER 0,  FABRICIO CAMOES 0
+  - Takedowns: JIM MILLER 1,  FABRICIO CAMOES 0

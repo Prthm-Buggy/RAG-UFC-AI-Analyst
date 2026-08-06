@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Shogun vs. Smith
+    Date : July 22, 2018
+    Location: Hamburg, Hamburg, Germany
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Bantamweight, Light Heavyweight, Welterweight, Lightweight, Middleweight, Featherweight
+
+    Fight Results:
+  - NASRAT HAQPARAST def. MARC DIAKIESE via Decision - Unanimous(R3)
+- DAMIR HADZOVIC def. NICK HEIN via Decision - Split(R3)
+- MARCIN TYBURA def. STEFAN STRUVE via Decision - Unanimous(R3)
+- COREY ANDERSON def. GLOVER TEIXEIRA via Decision - Unanimous(R3)
+- ABU AZAITAR def. VITOR MIRANDA via Decision - Unanimous(R3)
+- PINGYUAN LIU def. DAMIAN STASIAK via Decision - Unanimous(R3)
+- ALEKSANDAR RAKIC def. JUSTIN LEDET via Decision - Unanimous(R3)
+- DARKO STOSIC def. JEREMY KIMBALL via KO/TKO(R1)
+- BARTOSZ FABINSKI def. EMIL MEEK via Decision - Unanimous(R3)
+- DANNY ROBERTS def. DAVID ZAWADA via Decision - Split(R3)
+- MANNY BERMUDEZ def. DAVEY GRANT via Submission(R1)
+- NAD NARIMANI def. KHALID TAHA via Decision - Unanimous(R3)
+- ANTHONY SMITH def. MAURICIO RUA via KO/TKO(R1)

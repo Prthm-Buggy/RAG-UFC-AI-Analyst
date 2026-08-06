@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Jung vs. Ige
+    Date : June 19, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Bantamweight, Women's Flyweight, Middleweight, Featherweight, Welterweight, Women's Strawweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - NICOLAE NEGUMEREANU def. ALEKSA CAMUR via Decision - Split(R3)
+- BRUNO SILVA def. WELLINGTON TURMAN via KO/TKO(R1)
+- VIRNA JANDIROBA def. KANAKO MURATA via TKO - Doctor's Stoppage(R2)
+- SERGHEI SPIVAC def. ALEKSEI OLEINIK via Decision - Unanimous(R3)
+- MARLON VERA def. DAVEY GRANT via Decision - Unanimous(R3)
+- KHAOS WILLIAMS def. MATTHEW SEMELSBERGER via Decision - Unanimous(R3)
+- MATT BROWN def. DHIEGO LIMA via KO/TKO(R2)
+- RICKY GLENN def. JOAQUIM SILVA via KO/TKO(R1)
+- SEUNGWOO CHOI def. JULIAN EROSA via KO/TKO(R1)
+- CHAN SUNG JUNG def. DAN IGE via Decision - Unanimous(R5)
+- CASEY O'NEILL def. LARA PROCOPIO via Submission(R3)
+- JOSH PARISIAN def. ROQUE MARTINEZ via Decision - Split(R3)

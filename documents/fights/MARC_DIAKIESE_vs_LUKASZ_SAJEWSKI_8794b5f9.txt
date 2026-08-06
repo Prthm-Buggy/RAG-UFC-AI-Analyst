@@ -1,0 +1,13 @@
+Event: UFC 204: Bisping vs. Henderson
+    Date: October 08, 2016
+    Location: Manchester, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: MARC DIAKIESE defeated LUKASZ SAJEWSKI via KO/TKO  
+  at 4:40 of round 2
+  Key stats:
+  - MARC DIAKIESE landed 48 significant strikes
+  - LUKASZ SAJEWSKI landed 21 significant strikes
+  - Knockdowns: MARC DIAKIESE 0,  LUKASZ SAJEWSKI 0
+  - Takedowns: MARC DIAKIESE 1,  LUKASZ SAJEWSKI 2

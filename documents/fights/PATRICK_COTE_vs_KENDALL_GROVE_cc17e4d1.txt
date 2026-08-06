@@ -1,0 +1,14 @@
+Event: UFC 74: Respect
+    Date: August 25, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: PATRICK COTE defeated KENDALL GROVE via KO/TKO  
+  at 4:45 of round 1
+  Key stats:
+  - PATRICK COTE landed 20 significant strikes
+  - KENDALL GROVE landed 12 significant strikes
+  - Knockdowns: PATRICK COTE 1,  KENDALL GROVE 0
+  - Takedowns: PATRICK COTE 0,  KENDALL GROVE 0
+  Bonus: ko

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Garbrandt
+    Date: May 22, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JOSH CULIBAO defeated SHAYILAN NUERDANBIEKE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOSH CULIBAO landed 53 significant strikes
+  - SHAYILAN NUERDANBIEKE landed 17 significant strikes
+  - Knockdowns: JOSH CULIBAO 0,  SHAYILAN NUERDANBIEKE 0
+  - Takedowns: JOSH CULIBAO 0,  SHAYILAN NUERDANBIEKE 2

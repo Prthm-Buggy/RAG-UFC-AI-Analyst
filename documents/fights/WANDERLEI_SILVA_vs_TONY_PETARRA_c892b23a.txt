@@ -1,0 +1,13 @@
+Event: UFC 20: Battle for the Gold
+    Date: May 07, 1999
+    Location: Birmingham, Alabama, USA
+    Weight Class: Middleweight
+    
+
+    Result: WANDERLEI SILVA defeated TONY PETARRA via KO/TKO  
+  at 2:53 of round 1
+  Key stats:
+  - WANDERLEI SILVA landed 25 significant strikes
+  - TONY PETARRA landed 4 significant strikes
+  - Knockdowns: WANDERLEI SILVA 1,  TONY PETARRA 0
+  - Takedowns: WANDERLEI SILVA 0,  TONY PETARRA 0

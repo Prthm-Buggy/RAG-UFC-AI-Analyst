@@ -1,0 +1,11 @@
+Fighter: RICKY GLENN
+  Date of Birth: 1989-04-12
+  Career record: 10
+  First fight: 2016-09-17
+  Last fight: 2024-08-17
+
+Career Statistics:
+- Significant Strikes Landed :445
+- Total takedowns landed :6
+- Knockdowns :3
+- Submission Attempts :2

@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Redemption Finale
+    Date: July 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: TECIA PENNINGTON defeated JULIANA LIMA via Submission  
+  at 0:53 of round 2
+  Key stats:
+  - TECIA PENNINGTON landed 15 significant strikes
+  - JULIANA LIMA landed 6 significant strikes
+  - Knockdowns: TECIA PENNINGTON 0,  JULIANA LIMA 0
+  - Takedowns: TECIA PENNINGTON 0,  JULIANA LIMA 1
+  Bonus: perf

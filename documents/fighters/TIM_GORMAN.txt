@@ -1,0 +1,11 @@
+Fighter: TIM GORMAN
+  Date of Birth: 1983-04-29
+  Career record: 2
+  First fight: 2014-04-16
+  Last fight: 2014-11-08
+
+Career Statistics:
+- Significant Strikes Landed :82
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

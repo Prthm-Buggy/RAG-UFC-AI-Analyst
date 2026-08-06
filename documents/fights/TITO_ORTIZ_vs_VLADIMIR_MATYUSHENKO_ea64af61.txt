@@ -1,0 +1,14 @@
+Event: UFC 33: Victory in Vegas
+    Date: September 28, 2001
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: TITO ORTIZ defeated VLADIMIR MATYUSHENKO via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - TITO ORTIZ landed 64 significant strikes
+  - VLADIMIR MATYUSHENKO landed 19 significant strikes
+  - Knockdowns: TITO ORTIZ 0,  VLADIMIR MATYUSHENKO 0
+  - Takedowns: TITO ORTIZ 5,  VLADIMIR MATYUSHENKO 1
+  Bonus: belt

@@ -1,0 +1,11 @@
+Fighter: MATTHEW SEMELSBERGER
+  Date of Birth: 1992-11-23
+  Career record: 11
+  First fight: 2020-08-22
+  Last fight: 2024-11-09
+
+Career Statistics:
+- Significant Strikes Landed :449
+- Total takedowns landed :8
+- Knockdowns :10
+- Submission Attempts :3

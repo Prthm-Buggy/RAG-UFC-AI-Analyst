@@ -1,0 +1,19 @@
+Event : UFC 166: Velasquez vs Dos Santos 3
+    Date : October 19, 2013
+    Location: Houston, Texas, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Lightweight, Welterweight, Flyweight, Middleweight, Featherweight
+
+    Fight Results:
+  - ADLAN AMAGOV def. TJ WALDBURGER via KO/TKO(R1)
+- KYOJI HORIGUCHI def. DUSTIN PAGUE via KO/TKO(R2)
+- ANDRE FILI def. JEREMY LARSEN via KO/TKO(R2)
+- TONY FERGUSON def. MIKE RIO via Submission(R1)
+- GABRIEL GONZAGA def. SHAWN JORDAN via KO/TKO(R1)
+- JOHN DODSON def. DARRELL MONTAGUE via KO/TKO(R1)
+- KJ NOONS def. GEORGE SOTIROPOULOS via Decision - Unanimous(R3)
+- TIM BOETSCH def. CB DOLLAWAY via Decision - Split(R3)
+- DANIEL CORMIER def. ROY NELSON via Decision - Unanimous(R3)
+- CAIN VELASQUEZ def. JUNIOR DOS SANTOS via KO/TKO(R5)
+- HECTOR LOMBARD def. NATE MARQUARDT via KO/TKO(R1)
+- GILBERT MELENDEZ def. DIEGO SANCHEZ via Decision - Unanimous(R3)

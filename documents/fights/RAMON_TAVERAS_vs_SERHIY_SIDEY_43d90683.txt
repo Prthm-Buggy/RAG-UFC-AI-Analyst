@@ -1,0 +1,13 @@
+Event: UFC 297: Strickland vs. Du Plessis
+    Date: January 20, 2024
+    Location: Toronto, Ontario, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: RAMON TAVERAS defeated SERHIY SIDEY via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - RAMON TAVERAS landed 62 significant strikes
+  - SERHIY SIDEY landed 79 significant strikes
+  - Knockdowns: RAMON TAVERAS 1,  SERHIY SIDEY 0
+  - Takedowns: RAMON TAVERAS 0,  SERHIY SIDEY 0

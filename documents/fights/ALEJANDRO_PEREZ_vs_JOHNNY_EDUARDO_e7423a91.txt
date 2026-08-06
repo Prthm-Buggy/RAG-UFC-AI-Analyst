@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Santos vs. Walker
+    Date: October 02, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALEJANDRO PEREZ defeated JOHNNY EDUARDO via Submission  
+  at 4:13 of round 2
+  Key stats:
+  - ALEJANDRO PEREZ landed 23 significant strikes
+  - JOHNNY EDUARDO landed 31 significant strikes
+  - Knockdowns: ALEJANDRO PEREZ 0,  JOHNNY EDUARDO 0
+  - Takedowns: ALEJANDRO PEREZ 1,  JOHNNY EDUARDO 1
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 245: Usman vs. Covington
+    Date: December 14, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: GEOFF NEAL defeated MIKE PERRY via KO/TKO  
+  at 1:30 of round 1
+  Key stats:
+  - GEOFF NEAL landed 15 significant strikes
+  - MIKE PERRY landed 5 significant strikes
+  - Knockdowns: GEOFF NEAL 1,  MIKE PERRY 0
+  - Takedowns: GEOFF NEAL 0,  MIKE PERRY 0

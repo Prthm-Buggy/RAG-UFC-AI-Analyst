@@ -1,0 +1,13 @@
+Event: UFC 183: Silva vs Diaz
+    Date: January 31, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: THIAGO SANTOS defeated ANDY ENZ via KO/TKO  
+  at 1:56 of round 1
+  Key stats:
+  - THIAGO SANTOS landed 20 significant strikes
+  - ANDY ENZ landed 1 significant strikes
+  - Knockdowns: THIAGO SANTOS 1,  ANDY ENZ 0
+  - Takedowns: THIAGO SANTOS 0,  ANDY ENZ 0

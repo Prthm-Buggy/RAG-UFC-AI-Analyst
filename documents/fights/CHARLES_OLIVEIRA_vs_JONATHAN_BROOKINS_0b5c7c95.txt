@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Live Finale
+    Date: June 01, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHARLES OLIVEIRA defeated JONATHAN BROOKINS via Submission  
+  at 2:42 of round 2
+  Key stats:
+  - CHARLES OLIVEIRA landed 42 significant strikes
+  - JONATHAN BROOKINS landed 27 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  JONATHAN BROOKINS 0
+  - Takedowns: CHARLES OLIVEIRA 1,  JONATHAN BROOKINS 1

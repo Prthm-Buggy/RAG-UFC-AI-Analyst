@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Felder vs. Hooker
+    Date : February 22, 2020
+    Location: Auckland, New Zealand
+    Number of Fights: 12
+    Weight Classes: Women's Flyweight, Heavyweight, Lightweight, Flyweight, Women's Strawweight, Welterweight, Featherweight, Light Heavyweight
+
+    Fight Results:
+  - MARCOS ROGERIO DE LIMA def. BEN SOSOLI via KO/TKO(R1)
+- KAI KARA-FRANCE def. TYSON NAM via Decision - Unanimous(R3)
+- JALIN TURNER def. JOSH CULIBAO via KO/TKO(R2)
+- PRISCILA CACHOEIRA def. SHANA DOBSON via KO/TKO(R1)
+- JAKE MATTHEWS def. EMIL MEEK via Decision - Unanimous(R3)
+- SONG KENAN def. CALLAN POTTER via KO/TKO(R1)
+- BRAD RIDDELL def. MAGOMED MUSTAFAEV via Decision - Split(R3)
+- ANGELA HILL def. LOMA LOOKBOONMEE via Decision - Unanimous(R3)
+- DAN HOOKER def. PAUL FELDER via Decision - Split(R5)
+- YAN XIAONAN def. KAROLINA KOWALKIEWICZ via Decision - Unanimous(R3)
+- JIMMY CRUTE def. MICHAL OLEKSIEJCZUK via Submission(R1)
+- ZUBAIRA TUKHUGOV def. KEVIN AGUILAR via KO/TKO(R1)

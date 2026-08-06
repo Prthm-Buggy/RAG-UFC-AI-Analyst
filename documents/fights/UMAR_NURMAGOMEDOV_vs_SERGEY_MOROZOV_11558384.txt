@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Chiesa vs. Magny
+    Date: January 20, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Bantamweight
+    
+
+    Result: UMAR NURMAGOMEDOV defeated SERGEY MOROZOV via Submission  
+  at 3:39 of round 2
+  Key stats:
+  - UMAR NURMAGOMEDOV landed 25 significant strikes
+  - SERGEY MOROZOV landed 7 significant strikes
+  - Knockdowns: UMAR NURMAGOMEDOV 0,  SERGEY MOROZOV 0
+  - Takedowns: UMAR NURMAGOMEDOV 5,  SERGEY MOROZOV 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: JUNIOR TAFA
+  Date of Birth: 1996-09-21
+  Career record: 9
+  First fight: 2023-04-22
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :200
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

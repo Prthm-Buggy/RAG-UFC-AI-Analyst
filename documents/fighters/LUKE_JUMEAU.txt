@@ -1,0 +1,11 @@
+Fighter: LUKE JUMEAU
+  Date of Birth: 1988-02-12
+  Career record: 4
+  First fight: 2017-06-10
+  Last fight: 2019-10-05
+
+Career Statistics:
+- Significant Strikes Landed :176
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

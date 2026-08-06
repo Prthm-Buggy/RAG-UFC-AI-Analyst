@@ -1,0 +1,11 @@
+Fighter: FALANIKO VITALE
+  Date of Birth: 1974-07-14
+  Career record: 2
+  First fight: 2003-06-06
+  Last fight: 2003-11-21
+
+Career Statistics:
+- Significant Strikes Landed :5
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

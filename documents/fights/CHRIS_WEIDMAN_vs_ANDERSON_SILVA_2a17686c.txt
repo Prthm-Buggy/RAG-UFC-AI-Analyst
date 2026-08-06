@@ -1,0 +1,14 @@
+Event: UFC 168: Weidman vs Silva 2
+    Date: December 28, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS WEIDMAN defeated ANDERSON SILVA via KO/TKO  
+  at 1:16 of round 2
+  Key stats:
+  - CHRIS WEIDMAN landed 20 significant strikes
+  - ANDERSON SILVA landed 8 significant strikes
+  - Knockdowns: CHRIS WEIDMAN 1,  ANDERSON SILVA 0
+  - Takedowns: CHRIS WEIDMAN 1,  ANDERSON SILVA 0
+  Bonus: belt

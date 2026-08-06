@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Figueiredo
+    Date: May 03, 2025
+    Location: Des Moines, Iowa, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CORY SANDHAGEN defeated DEIVESON FIGUEIREDO via KO/TKO  
+  at 4:08 of round 2
+  Key stats:
+  - CORY SANDHAGEN landed 54 significant strikes
+  - DEIVESON FIGUEIREDO landed 6 significant strikes
+  - Knockdowns: CORY SANDHAGEN 0,  DEIVESON FIGUEIREDO 0
+  - Takedowns: CORY SANDHAGEN 2,  DEIVESON FIGUEIREDO 2
+  Bonus: perf

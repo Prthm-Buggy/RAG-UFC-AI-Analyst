@@ -1,0 +1,11 @@
+Fighter: DUANE LUDWIG
+  Date of Birth: 1978-08-04
+  Career record: 9
+  First fight: 2003-04-25
+  Last fight: 2012-09-29
+
+Career Statistics:
+- Significant Strikes Landed :307
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

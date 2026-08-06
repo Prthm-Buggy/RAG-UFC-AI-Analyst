@@ -1,0 +1,11 @@
+Fighter: JACK SHORE
+  Date of Birth: 1995-02-06
+  Career record: 9
+  First fight: 2019-09-28
+  Last fight: 2024-11-02
+
+Career Statistics:
+- Significant Strikes Landed :352
+- Total takedowns landed :21
+- Knockdowns :2
+- Submission Attempts :4

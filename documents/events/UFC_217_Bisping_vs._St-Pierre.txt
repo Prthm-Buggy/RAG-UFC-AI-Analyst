@@ -1,0 +1,18 @@
+Event : UFC 217: Bisping vs. St-Pierre
+    Date : November 04, 2017
+    Location: New York City, New York, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Heavyweight, Middleweight, Women's Strawweight, Light Heavyweight, Lightweight, Welterweight
+
+    Fight Results:
+  - CURTIS BLAYDES def. ALEKSEI OLEINIK via TKO - Doctor's Stoppage(R2)
+- OVINCE SAINT PREUX def. COREY ANDERSON via KO/TKO(R3)
+- RANDY BROWN def. MICKEY GALL via Decision - Unanimous(R3)
+- RICARDO RAMOS def. AIEMANN ZAHABI via KO/TKO(R3)
+- ROSE NAMAJUNAS def. JOANNA JEDRZEJCZYK via KO/TKO(R1)
+- STEPHEN THOMPSON def. JORGE MASVIDAL via Decision - Unanimous(R3)
+- JAMES VICK def. JOE DUFFY via KO/TKO(R2)
+- TJ DILLASHAW def. CODY GARBRANDT via KO/TKO(R2)
+- PAULO COSTA def. JOHNY HENDRICKS via KO/TKO(R2)
+- MARK GODBEER def. WALT HARRIS via DQ(R1)
+- GEORGES ST-PIERRE def. MICHAEL BISPING via Submission(R3)

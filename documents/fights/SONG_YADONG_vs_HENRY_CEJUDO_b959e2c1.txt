@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cejudo vs. Song
+    Date: February 22, 2025
+    Location: Seattle, Washington, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SONG YADONG defeated HENRY CEJUDO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SONG YADONG landed 84 significant strikes
+  - HENRY CEJUDO landed 67 significant strikes
+  - Knockdowns: SONG YADONG 0,  HENRY CEJUDO 0
+  - Takedowns: SONG YADONG 0,  HENRY CEJUDO 0

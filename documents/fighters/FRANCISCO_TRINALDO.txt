@@ -1,0 +1,11 @@
+Fighter: FRANCISCO TRINALDO
+  Date of Birth: 1978-08-24
+  Career record: 26
+  First fight: 2012-06-23
+  Last fight: 2022-10-01
+
+Career Statistics:
+- Significant Strikes Landed :1009
+- Total takedowns landed :21
+- Knockdowns :5
+- Submission Attempts :11

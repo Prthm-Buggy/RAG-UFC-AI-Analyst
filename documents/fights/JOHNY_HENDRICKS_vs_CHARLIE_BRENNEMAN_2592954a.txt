@@ -1,0 +1,13 @@
+Event: UFC 117: Silva vs Sonnen
+    Date: August 07, 2010
+    Location: Oakland, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOHNY HENDRICKS defeated CHARLIE BRENNEMAN via KO/TKO  
+  at 0:40 of round 2
+  Key stats:
+  - JOHNY HENDRICKS landed 28 significant strikes
+  - CHARLIE BRENNEMAN landed 9 significant strikes
+  - Knockdowns: JOHNY HENDRICKS 2,  CHARLIE BRENNEMAN 0
+  - Takedowns: JOHNY HENDRICKS 0,  CHARLIE BRENNEMAN 2

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Cannonier
+    Date: September 28, 2019
+    Location: Copenhagen, Denmark
+    Weight Class: Welterweight
+    
+
+    Result: NICOLAS DALBY defeated ALEX OLIVEIRA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NICOLAS DALBY landed 31 significant strikes
+  - ALEX OLIVEIRA landed 18 significant strikes
+  - Knockdowns: NICOLAS DALBY 0,  ALEX OLIVEIRA 0
+  - Takedowns: NICOLAS DALBY 1,  ALEX OLIVEIRA 3

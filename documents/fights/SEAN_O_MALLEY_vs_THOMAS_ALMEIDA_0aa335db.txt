@@ -1,0 +1,14 @@
+Event: UFC 260: Miocic vs. Ngannou
+    Date: March 27, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SEAN O'MALLEY defeated THOMAS ALMEIDA via KO/TKO  
+  at 3:52 of round 3
+  Key stats:
+  - SEAN O'MALLEY landed 86 significant strikes
+  - THOMAS ALMEIDA landed 25 significant strikes
+  - Knockdowns: SEAN O'MALLEY 2,  THOMAS ALMEIDA 0
+  - Takedowns: SEAN O'MALLEY 0,  THOMAS ALMEIDA 1
+  Bonus: perf

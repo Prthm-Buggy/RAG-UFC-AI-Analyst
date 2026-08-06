@@ -1,0 +1,11 @@
+Fighter: TANNER BOSER
+  Date of Birth: 1991-08-02
+  Career record: 11
+  First fight: 2019-10-18
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :576
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

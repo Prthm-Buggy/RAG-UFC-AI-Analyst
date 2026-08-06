@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bisping vs Kennedy
+    Date: April 16, 2014
+    Location: Quebec City, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: ELIAS THEODOROU defeated SHELDON WESTCOTT via KO/TKO  
+  at 4:41 of round 2
+  Key stats:
+  - ELIAS THEODOROU landed 73 significant strikes
+  - SHELDON WESTCOTT landed 13 significant strikes
+  - Knockdowns: ELIAS THEODOROU 0,  SHELDON WESTCOTT 0
+  - Takedowns: ELIAS THEODOROU 3,  SHELDON WESTCOTT 2
+  Bonus: belt

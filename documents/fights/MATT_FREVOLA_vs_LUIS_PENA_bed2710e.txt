@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Joanna vs. Waterson
+    Date: October 12, 2019
+    Location: Tampa, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATT FREVOLA defeated LUIS PENA via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MATT FREVOLA landed 48 significant strikes
+  - LUIS PENA landed 51 significant strikes
+  - Knockdowns: MATT FREVOLA 0,  LUIS PENA 0
+  - Takedowns: MATT FREVOLA 4,  LUIS PENA 1

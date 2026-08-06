@@ -1,0 +1,13 @@
+Event: UFC 60: Hughes vs Gracie
+    Date: May 27, 2006
+    Location: Los Angeles, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: JEREMY HORN defeated CHAEL SONNEN via Submission  
+  at 1:17 of round 2
+  Key stats:
+  - JEREMY HORN landed 3 significant strikes
+  - CHAEL SONNEN landed 6 significant strikes
+  - Knockdowns: JEREMY HORN 0,  CHAEL SONNEN 0
+  - Takedowns: JEREMY HORN 0,  CHAEL SONNEN 3

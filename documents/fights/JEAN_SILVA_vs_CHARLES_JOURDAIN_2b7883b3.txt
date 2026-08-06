@@ -1,0 +1,13 @@
+Event: UFC 303: Pereira vs. Prochazka 2
+    Date: June 29, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JEAN SILVA defeated CHARLES JOURDAIN via KO/TKO  
+  at 1:22 of round 2
+  Key stats:
+  - JEAN SILVA landed 34 significant strikes
+  - CHARLES JOURDAIN landed 23 significant strikes
+  - Knockdowns: JEAN SILVA 2,  CHARLES JOURDAIN 0
+  - Takedowns: JEAN SILVA 0,  CHARLES JOURDAIN 3

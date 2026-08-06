@@ -1,0 +1,13 @@
+Event: UFC 138: Leben vs Munoz
+    Date: November 05, 2011
+    Location: Birmingham, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: MARK MUNOZ defeated CHRIS LEBEN via KO/TKO  
+  at 5:00 of round 2
+  Key stats:
+  - MARK MUNOZ landed 39 significant strikes
+  - CHRIS LEBEN landed 12 significant strikes
+  - Knockdowns: MARK MUNOZ 0,  CHRIS LEBEN 0
+  - Takedowns: MARK MUNOZ 5,  CHRIS LEBEN 2

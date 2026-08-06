@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ankalaev vs. Walker 2
+    Date: January 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: FARID BASHARAT defeated TAYLOR LAPILUS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - FARID BASHARAT landed 42 significant strikes
+  - TAYLOR LAPILUS landed 40 significant strikes
+  - Knockdowns: FARID BASHARAT 0,  TAYLOR LAPILUS 0
+  - Takedowns: FARID BASHARAT 5,  TAYLOR LAPILUS 0

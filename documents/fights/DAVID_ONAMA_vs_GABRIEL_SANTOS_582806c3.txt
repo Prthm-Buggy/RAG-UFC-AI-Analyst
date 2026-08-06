@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Emmett vs. Topuria
+    Date: June 24, 2023
+    Location: Jacksonville, Florida, USA
+    Weight Class: Featherweight
+    
+
+    Result: DAVID ONAMA defeated GABRIEL SANTOS via KO/TKO  
+  at 4:13 of round 2
+  Key stats:
+  - DAVID ONAMA landed 53 significant strikes
+  - GABRIEL SANTOS landed 39 significant strikes
+  - Knockdowns: DAVID ONAMA 1,  GABRIEL SANTOS 0
+  - Takedowns: DAVID ONAMA 0,  GABRIEL SANTOS 2
+  Bonus: perf

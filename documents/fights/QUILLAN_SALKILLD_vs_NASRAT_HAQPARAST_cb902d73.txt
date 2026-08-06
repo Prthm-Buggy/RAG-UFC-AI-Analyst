@@ -1,0 +1,14 @@
+Event: UFC 321: Aspinall vs. Gane
+    Date: October 25, 2025
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: QUILLAN SALKILLD defeated NASRAT HAQPARAST via KO/TKO  
+  at 2:30 of round 1
+  Key stats:
+  - QUILLAN SALKILLD landed 14 significant strikes
+  - NASRAT HAQPARAST landed 10 significant strikes
+  - Knockdowns: QUILLAN SALKILLD 1,  NASRAT HAQPARAST 0
+  - Takedowns: QUILLAN SALKILLD 0,  NASRAT HAQPARAST 0
+  Bonus: perf

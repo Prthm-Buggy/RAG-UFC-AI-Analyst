@@ -1,0 +1,14 @@
+Event: UFC on FX: Sotiropoulos vs Pearson
+    Date: December 14, 2012
+    Location: Gold Coast, Queensland, Australia
+    Weight Class: Welterweight
+    
+
+    Result: BEN ALLOWAY defeated MANUEL RODRIGUEZ via KO/TKO  
+  at 4:57 of round 1
+  Key stats:
+  - BEN ALLOWAY landed 16 significant strikes
+  - MANUEL RODRIGUEZ landed 4 significant strikes
+  - Knockdowns: BEN ALLOWAY 1,  MANUEL RODRIGUEZ 0
+  - Takedowns: BEN ALLOWAY 0,  MANUEL RODRIGUEZ 3
+  Bonus: ko

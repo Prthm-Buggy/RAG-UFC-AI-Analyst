@@ -1,0 +1,14 @@
+Event: UFC 257: Poirier vs. McGregor
+    Date: January 23, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: MAKHMUD MURADOV defeated ANDREW SANCHEZ via KO/TKO  
+  at 2:59 of round 3
+  Key stats:
+  - MAKHMUD MURADOV landed 79 significant strikes
+  - ANDREW SANCHEZ landed 48 significant strikes
+  - Knockdowns: MAKHMUD MURADOV 0,  ANDREW SANCHEZ 0
+  - Takedowns: MAKHMUD MURADOV 0,  ANDREW SANCHEZ 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dillashaw vs Cruz
+    Date: January 17, 2016
+    Location: Boston, Massachusetts, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TRAVIS BROWNE defeated MATT MITRIONE via KO/TKO  
+  at 4:09 of round 3
+  Key stats:
+  - TRAVIS BROWNE landed 51 significant strikes
+  - MATT MITRIONE landed 27 significant strikes
+  - Knockdowns: TRAVIS BROWNE 0,  MATT MITRIONE 1
+  - Takedowns: TRAVIS BROWNE 2,  MATT MITRIONE 0

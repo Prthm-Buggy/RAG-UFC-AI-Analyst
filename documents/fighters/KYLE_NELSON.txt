@@ -1,0 +1,11 @@
+Fighter: KYLE NELSON
+  Date of Birth: 1991-04-20
+  Career record: 11
+  First fight: 2018-12-08
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :393
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :4

@@ -1,0 +1,22 @@
+Event : UFC 283: Teixeira vs. Hill
+    Date : January 21, 2023
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Number of Fights: 15
+    Weight Classes: Bantamweight, Women's Flyweight, Heavyweight, Light Heavyweight, Women's Featherweight, Lightweight, Welterweight, Middleweight, Flyweight
+
+    Fight Results:
+  - IHOR POTIERIA def. MAURICIO RUA via KO/TKO(R1)
+- GABRIEL BONFIM def. MOUNIR LAZZEZ via Submission(R1)
+- DANIEL MARCOS def. SAIMON OLIVEIRA via KO/TKO(R2)
+- BRUNNO FERREIRA def. GREGORY RODRIGUES via KO/TKO(R1)
+- THIAGO MOISES def. MELQUIZAEL COSTA via Submission(R2)
+- BRANDON MORENO def. DEIVESON FIGUEIREDO via TKO - Doctor's Stoppage(R3)
+- CODY STAMANN def. LUAN LACERDA via Decision - Unanimous(R3)
+- JAMAHAL HILL def. GLOVER TEIXEIRA via Decision - Unanimous(R5)
+- JAILTON ALMEIDA def. SHAMIL ABDURAKHIMOV via KO/TKO(R2)
+- ISMAEL BONFIM def. TERRANCE MCKINNEY via KO/TKO(R2)
+- JOSIANE NUNES def. ZARAH FAIRN via Decision - Unanimous(R3)
+- NICOLAS DALBY def. WARLLEY ALVES via Decision - Split(R3)
+- JESSICA ANDRADE def. LAUREN MURPHY via Decision - Unanimous(R3)
+- JOHNNY WALKER def. PAUL CRAIG via KO/TKO(R1)
+- GILBERT BURNS def. NEIL MAGNY via Submission(R1)

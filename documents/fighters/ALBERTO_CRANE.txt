@@ -1,0 +1,11 @@
+Fighter: ALBERTO CRANE
+  Date of Birth: 1976-07-14
+  Career record: 2
+  First fight: 2007-08-25
+  Last fight: 2008-01-23
+
+Career Statistics:
+- Significant Strikes Landed :8
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :5

@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Nogueira vs. Werdum
+    Date: June 08, 2013
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: THIAGO SILVA defeated RAFAEL CAVALCANTE via KO/TKO  
+  at 4:29 of round 1
+  Key stats:
+  - THIAGO SILVA landed 37 significant strikes
+  - RAFAEL CAVALCANTE landed 24 significant strikes
+  - Knockdowns: THIAGO SILVA 1,  RAFAEL CAVALCANTE 0
+  - Takedowns: THIAGO SILVA 0,  RAFAEL CAVALCANTE 0
+  Bonus: fight

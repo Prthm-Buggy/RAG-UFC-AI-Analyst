@@ -1,0 +1,13 @@
+Event: UFC 142: Aldo vs Mendes
+    Date: January 14, 2012
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: FELIPE ARANTES defeated ANTONIO CARVALHO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - FELIPE ARANTES landed 53 significant strikes
+  - ANTONIO CARVALHO landed 37 significant strikes
+  - Knockdowns: FELIPE ARANTES 0,  ANTONIO CARVALHO 0
+  - Takedowns: FELIPE ARANTES 0,  ANTONIO CARVALHO 0

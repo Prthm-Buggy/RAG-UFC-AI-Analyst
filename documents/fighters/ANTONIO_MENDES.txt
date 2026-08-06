@@ -1,0 +1,11 @@
+Fighter: ANTONIO MENDES
+  Date of Birth: 1981-04-19
+  Career record: 2
+  First fight: 2008-05-24
+  Last fight: 2009-01-17
+
+Career Statistics:
+- Significant Strikes Landed :8
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

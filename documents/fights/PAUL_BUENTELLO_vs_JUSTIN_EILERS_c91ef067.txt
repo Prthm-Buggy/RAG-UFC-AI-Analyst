@@ -1,0 +1,13 @@
+Event: UFC 51: Super Saturday
+    Date: February 05, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PAUL BUENTELLO defeated JUSTIN EILERS via KO/TKO  
+  at 3:34 of round 1
+  Key stats:
+  - PAUL BUENTELLO landed 22 significant strikes
+  - JUSTIN EILERS landed 7 significant strikes
+  - Knockdowns: PAUL BUENTELLO 1,  JUSTIN EILERS 0
+  - Takedowns: PAUL BUENTELLO 0,  JUSTIN EILERS 0

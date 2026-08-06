@@ -1,0 +1,14 @@
+Event: UFC 41: Onslaught
+    Date: February 28, 2003
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TIM SYLVIA defeated RICCO RODRIGUEZ via KO/TKO  
+  at 3:09 of round 1
+  Key stats:
+  - TIM SYLVIA landed 12 significant strikes
+  - RICCO RODRIGUEZ landed 7 significant strikes
+  - Knockdowns: TIM SYLVIA 1,  RICCO RODRIGUEZ 0
+  - Takedowns: TIM SYLVIA 0,  RICCO RODRIGUEZ 0
+  Bonus: belt

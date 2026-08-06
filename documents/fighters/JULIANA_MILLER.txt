@@ -1,0 +1,11 @@
+Fighter: JULIANA MILLER
+  Date of Birth: 1996-05-07
+  Career record: 5
+  First fight: 2022-08-06
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :166
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :5

@@ -1,0 +1,13 @@
+Event: UFC: Silva vs Irvin
+    Date: July 19, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CAIN VELASQUEZ defeated JAKE O'BRIEN via KO/TKO  
+  at 2:02 of round 1
+  Key stats:
+  - CAIN VELASQUEZ landed 24 significant strikes
+  - JAKE O'BRIEN landed 1 significant strikes
+  - Knockdowns: CAIN VELASQUEZ 0,  JAKE O'BRIEN 0
+  - Takedowns: CAIN VELASQUEZ 1,  JAKE O'BRIEN 0

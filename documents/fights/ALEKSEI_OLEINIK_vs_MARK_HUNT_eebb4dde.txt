@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hunt vs. Oleinik
+    Date: September 15, 2018
+    Location: Moscow, Moscow, Russia
+    Weight Class: Heavyweight
+    
+
+    Result: ALEKSEI OLEINIK defeated MARK HUNT via Submission  
+  at 4:26 of round 1
+  Key stats:
+  - ALEKSEI OLEINIK landed 3 significant strikes
+  - MARK HUNT landed 6 significant strikes
+  - Knockdowns: ALEKSEI OLEINIK 0,  MARK HUNT 0
+  - Takedowns: ALEKSEI OLEINIK 1,  MARK HUNT 0
+  Bonus: perf

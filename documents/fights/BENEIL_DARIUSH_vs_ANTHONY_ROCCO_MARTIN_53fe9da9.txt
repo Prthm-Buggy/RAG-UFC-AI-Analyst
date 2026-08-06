@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Dos Anjos
+    Date: August 23, 2014
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENEIL DARIUSH defeated ANTHONY ROCCO MARTIN via Submission  
+  at 3:38 of round 2
+  Key stats:
+  - BENEIL DARIUSH landed 26 significant strikes
+  - ANTHONY ROCCO MARTIN landed 34 significant strikes
+  - Knockdowns: BENEIL DARIUSH 0,  ANTHONY ROCCO MARTIN 0
+  - Takedowns: BENEIL DARIUSH 2,  ANTHONY ROCCO MARTIN 1

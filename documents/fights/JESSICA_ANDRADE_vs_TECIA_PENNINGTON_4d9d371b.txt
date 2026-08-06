@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Stephens
+    Date: February 24, 2018
+    Location: Orlando, Florida, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JESSICA ANDRADE defeated TECIA PENNINGTON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JESSICA ANDRADE landed 92 significant strikes
+  - TECIA PENNINGTON landed 69 significant strikes
+  - Knockdowns: JESSICA ANDRADE 0,  TECIA PENNINGTON 0
+  - Takedowns: JESSICA ANDRADE 10,  TECIA PENNINGTON 2

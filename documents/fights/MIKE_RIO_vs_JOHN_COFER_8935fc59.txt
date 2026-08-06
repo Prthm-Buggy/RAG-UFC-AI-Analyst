@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Carwin vs. Team Nelson Finale
+    Date: December 15, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MIKE RIO defeated JOHN COFER via Submission  
+  at 4:11 of round 3
+  Key stats:
+  - MIKE RIO landed 30 significant strikes
+  - JOHN COFER landed 31 significant strikes
+  - Knockdowns: MIKE RIO 0,  JOHN COFER 0
+  - Takedowns: MIKE RIO 4,  JOHN COFER 0

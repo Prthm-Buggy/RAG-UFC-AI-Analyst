@@ -1,0 +1,13 @@
+Event: UFC on FX: Browne vs Bigfoot
+    Date: October 05, 2012
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Lightweight
+    
+
+    Result: JACOB VOLKMANN defeated SHANE ROLLER via Submission  
+  at 2:38 of round 1
+  Key stats:
+  - JACOB VOLKMANN landed 8 significant strikes
+  - SHANE ROLLER landed 0 significant strikes
+  - Knockdowns: JACOB VOLKMANN 0,  SHANE ROLLER 0
+  - Takedowns: JACOB VOLKMANN 1,  SHANE ROLLER 0

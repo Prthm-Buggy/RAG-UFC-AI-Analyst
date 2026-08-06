@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Masvidal
+    Date: November 28, 2015
+    Location: Seoul, South Korea
+    Weight Class: Lightweight
+    
+
+    Result: TAE HYUN BANG defeated LEO KUNTZ via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - TAE HYUN BANG landed 54 significant strikes
+  - LEO KUNTZ landed 31 significant strikes
+  - Knockdowns: TAE HYUN BANG 1,  LEO KUNTZ 0
+  - Takedowns: TAE HYUN BANG 1,  LEO KUNTZ 3

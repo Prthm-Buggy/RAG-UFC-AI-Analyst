@@ -1,0 +1,11 @@
+Fighter: ROSTEM AKMAN
+  Date of Birth: 1991-12-19
+  Career record: 2
+  First fight: 2019-06-01
+  Last fight: 2019-10-05
+
+Career Statistics:
+- Significant Strikes Landed :54
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

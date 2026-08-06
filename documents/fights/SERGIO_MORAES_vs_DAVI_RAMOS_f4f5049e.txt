@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs. Gastelum
+    Date: March 11, 2017
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: SERGIO MORAES defeated DAVI RAMOS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SERGIO MORAES landed 39 significant strikes
+  - DAVI RAMOS landed 35 significant strikes
+  - Knockdowns: SERGIO MORAES 0,  DAVI RAMOS 0
+  - Takedowns: SERGIO MORAES 0,  DAVI RAMOS 0

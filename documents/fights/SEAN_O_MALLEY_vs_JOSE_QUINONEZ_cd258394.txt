@@ -1,0 +1,14 @@
+Event: UFC 248: Adesanya vs. Romero
+    Date: March 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SEAN O'MALLEY defeated JOSE QUINONEZ via KO/TKO  
+  at 2:02 of round 1
+  Key stats:
+  - SEAN O'MALLEY landed 18 significant strikes
+  - JOSE QUINONEZ landed 0 significant strikes
+  - Knockdowns: SEAN O'MALLEY 0,  JOSE QUINONEZ 0
+  - Takedowns: SEAN O'MALLEY 0,  JOSE QUINONEZ 0
+  Bonus: perf

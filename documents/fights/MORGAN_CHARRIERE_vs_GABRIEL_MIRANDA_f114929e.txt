@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moicano vs. Saint Denis
+    Date: September 28, 2024
+    Location: Paris, Ile-de-France, France
+    Weight Class: Featherweight
+    
+
+    Result: MORGAN CHARRIERE defeated GABRIEL MIRANDA via KO/TKO  
+  at 0:27 of round 2
+  Key stats:
+  - MORGAN CHARRIERE landed 19 significant strikes
+  - GABRIEL MIRANDA landed 11 significant strikes
+  - Knockdowns: MORGAN CHARRIERE 1,  GABRIEL MIRANDA 0
+  - Takedowns: MORGAN CHARRIERE 2,  GABRIEL MIRANDA 1
+  Bonus: perf

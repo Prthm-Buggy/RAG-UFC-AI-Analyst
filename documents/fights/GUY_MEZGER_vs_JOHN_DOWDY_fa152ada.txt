@@ -1,0 +1,13 @@
+Event: UFC 5: The Return of the Beast
+    Date: April 07, 1995
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Open Weight
+    
+
+    Result: GUY MEZGER defeated JOHN DOWDY via KO/TKO  
+  at 2:02 of round 1
+  Key stats:
+  - GUY MEZGER landed 12 significant strikes
+  - JOHN DOWDY landed 0 significant strikes
+  - Knockdowns: GUY MEZGER 1,  JOHN DOWDY 0
+  - Takedowns: GUY MEZGER 0,  JOHN DOWDY 0

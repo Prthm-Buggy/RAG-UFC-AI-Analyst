@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Emmett vs. Vallejos
+    Date: March 14, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: KEVIN VALLEJOS defeated JOSH EMMETT via KO/TKO  
+  at 3:33 of round 1
+  Key stats:
+  - KEVIN VALLEJOS landed 36 significant strikes
+  - JOSH EMMETT landed 3 significant strikes
+  - Knockdowns: KEVIN VALLEJOS 2,  JOSH EMMETT 0
+  - Takedowns: KEVIN VALLEJOS 0,  JOSH EMMETT 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: KEN SHAMROCK
+  Date of Birth: 1964-02-11
+  Career record: 11
+  First fight: 1994-09-09
+  Last fight: 2006-10-10
+
+Career Statistics:
+- Significant Strikes Landed :78
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :8

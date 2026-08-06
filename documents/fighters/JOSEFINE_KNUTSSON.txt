@@ -1,0 +1,11 @@
+Fighter: JOSEFINE KNUTSSON
+  Date of Birth: 1996-01-16
+  Career record: 3
+  First fight: 2023-09-16
+  Last fight: 2024-12-14
+
+Career Statistics:
+- Significant Strikes Landed :231
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

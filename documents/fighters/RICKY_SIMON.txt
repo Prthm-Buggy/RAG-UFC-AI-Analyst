@@ -1,0 +1,11 @@
+Fighter: RICKY SIMON
+  Date of Birth: 1992-08-31
+  Career record: 16
+  First fight: 2018-04-21
+  Last fight: 2025-11-08
+
+Career Statistics:
+- Significant Strikes Landed :607
+- Total takedowns landed :53
+- Knockdowns :5
+- Submission Attempts :4

@@ -1,0 +1,11 @@
+Fighter: STEVEN NGUYEN
+  Date of Birth: 1993-05-19
+  Career record: 2
+  First fight: 2024-03-23
+  Last fight: 2025-07-26
+
+Career Statistics:
+- Significant Strikes Landed :155
+- Total takedowns landed :1
+- Knockdowns :6
+- Submission Attempts :0

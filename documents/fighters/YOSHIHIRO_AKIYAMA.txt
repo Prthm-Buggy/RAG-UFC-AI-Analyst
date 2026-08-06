@@ -1,0 +1,11 @@
+Fighter: YOSHIHIRO AKIYAMA
+  Date of Birth: 1975-07-29
+  Career record: 7
+  First fight: 2009-07-11
+  Last fight: 2015-11-28
+
+Career Statistics:
+- Significant Strikes Landed :301
+- Total takedowns landed :12
+- Knockdowns :0
+- Submission Attempts :1

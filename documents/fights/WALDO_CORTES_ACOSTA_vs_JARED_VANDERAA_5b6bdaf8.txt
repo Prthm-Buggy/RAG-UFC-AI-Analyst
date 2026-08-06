@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kattar vs. Allen
+    Date: October 29, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: WALDO CORTES ACOSTA defeated JARED VANDERAA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - WALDO CORTES ACOSTA landed 73 significant strikes
+  - JARED VANDERAA landed 56 significant strikes
+  - Knockdowns: WALDO CORTES ACOSTA 0,  JARED VANDERAA 0
+  - Takedowns: WALDO CORTES ACOSTA 0,  JARED VANDERAA 0

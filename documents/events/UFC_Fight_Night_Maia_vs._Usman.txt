@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Maia vs. Usman
+    Date : May 19, 2018
+    Location: Santiago, Chile
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Women's Flyweight, Welterweight, Women's Strawweight, Flyweight, Featherweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - KAMARU USMAN def. DEMIAN MAIA via Decision - Unanimous(R5)
+- VICENTE LUQUE def. CHAD LAPRISE via KO/TKO(R1)
+- GUIDO CANNETTI def. DIEGO RIVAS via Decision - Unanimous(R3)
+- TATIANA SUAREZ def. ALEXA GRASSO via Submission(R1)
+- ALEXANDRE PANTOJA def. BRANDON MORENO via Decision - Unanimous(R3)
+- GABRIEL BENITEZ def. HUMBERTO BANDENAY via KO/TKO(R1)
+- POLIANA BOTELHO def. SYURI KONDO via KO/TKO(R1)
+- ANDREA LEE def. VERONICA HARDY via Decision - Unanimous(R3)
+- DOMINICK REYES def. JARED CANNONIER via KO/TKO(R1)
+- MICHEL PRAZERES def. ZAK CUMMINGS via Decision - Split(R3)
+- FRANKIE SAENZ def. HENRY BRIONES via Decision - Unanimous(R3)
+- ENRIQUE BARZOLA def. BRANDON DAVIS via Decision - Unanimous(R3)
+- CLAUDIO PUELLES def. FELIPE SILVA via Submission(R3)

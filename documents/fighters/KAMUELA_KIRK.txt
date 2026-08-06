@@ -1,0 +1,11 @@
+Fighter: KAMUELA KIRK
+  Date of Birth: 1994-04-13
+  Career record: 3
+  First fight: 2021-06-05
+  Last fight: 2023-07-08
+
+Career Statistics:
+- Significant Strikes Landed :106
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :4

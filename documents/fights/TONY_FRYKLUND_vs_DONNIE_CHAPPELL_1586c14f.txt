@@ -1,0 +1,13 @@
+Event: UFC 14: Showdown
+    Date: July 27, 1997
+    Location: Birmingham, Alabama, USA
+    Weight Class: Lightweight
+    
+
+    Result: TONY FRYKLUND defeated DONNIE CHAPPELL via Submission  
+  at 1:31 of round 1
+  Key stats:
+  - TONY FRYKLUND landed 5 significant strikes
+  - DONNIE CHAPPELL landed 0 significant strikes
+  - Knockdowns: TONY FRYKLUND 0,  DONNIE CHAPPELL 0
+  - Takedowns: TONY FRYKLUND 1,  DONNIE CHAPPELL 0

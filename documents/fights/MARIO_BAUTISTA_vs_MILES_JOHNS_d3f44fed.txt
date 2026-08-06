@@ -1,0 +1,14 @@
+Event: UFC 247: Jones vs. Reyes
+    Date: February 08, 2020
+    Location: Houston, Texas, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARIO BAUTISTA defeated MILES JOHNS via KO/TKO  
+  at 1:41 of round 2
+  Key stats:
+  - MARIO BAUTISTA landed 18 significant strikes
+  - MILES JOHNS landed 13 significant strikes
+  - Knockdowns: MARIO BAUTISTA 1,  MILES JOHNS 0
+  - Takedowns: MARIO BAUTISTA 0,  MILES JOHNS 0
+  Bonus: perf

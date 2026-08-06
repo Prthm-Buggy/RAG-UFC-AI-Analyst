@@ -1,0 +1,13 @@
+Event: UFC 68: The Uprising
+    Date: March 03, 2007
+    Location: Columbus, Ohio, USA
+    Weight Class: Welterweight
+    
+
+    Result: JON FITCH defeated LUIGI FIORAVANTI via Submission  
+  at 3:05 of round 2
+  Key stats:
+  - JON FITCH landed 19 significant strikes
+  - LUIGI FIORAVANTI landed 14 significant strikes
+  - Knockdowns: JON FITCH 0,  LUIGI FIORAVANTI 0
+  - Takedowns: JON FITCH 2,  LUIGI FIORAVANTI 0

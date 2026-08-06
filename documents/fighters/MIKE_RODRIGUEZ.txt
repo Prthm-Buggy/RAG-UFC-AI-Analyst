@@ -1,0 +1,11 @@
+Fighter: MIKE RODRIGUEZ
+  Date of Birth: 1988-11-28
+  Career record: 7
+  First fight: 2018-04-07
+  Last fight: 2021-09-18
+
+Career Statistics:
+- Significant Strikes Landed :254
+- Total takedowns landed :0
+- Knockdowns :5
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Maia vs. Askren
+    Date: October 26, 2019
+    Location: Kallang, Singapore
+    Weight Class: Heavyweight
+    
+
+    Result: CIRYL GANE defeated DON'TALE MAYES via Submission  
+  at 4:46 of round 3
+  Key stats:
+  - CIRYL GANE landed 94 significant strikes
+  - DON'TALE MAYES landed 32 significant strikes
+  - Knockdowns: CIRYL GANE 1,  DON'TALE MAYES 0
+  - Takedowns: CIRYL GANE 3,  DON'TALE MAYES 0
+  Bonus: perf

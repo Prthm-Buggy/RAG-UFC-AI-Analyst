@@ -1,0 +1,11 @@
+Fighter: KAZUHIRO NAKAMURA
+  Date of Birth: 1979-07-16
+  Career record: 2
+  First fight: 2007-09-22
+  Last fight: 2008-05-24
+
+Career Statistics:
+- Significant Strikes Landed :21
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

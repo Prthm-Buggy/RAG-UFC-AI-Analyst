@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gaethje vs. Vick
+    Date: August 25, 2018
+    Location: Lincoln, Nebraska, USA
+    Weight Class: Flyweight
+    
+
+    Result: DEIVESON FIGUEIREDO defeated JOHN MORAGA via KO/TKO  
+  at 3:08 of round 2
+  Key stats:
+  - DEIVESON FIGUEIREDO landed 29 significant strikes
+  - JOHN MORAGA landed 14 significant strikes
+  - Knockdowns: DEIVESON FIGUEIREDO 2,  JOHN MORAGA 0
+  - Takedowns: DEIVESON FIGUEIREDO 2,  JOHN MORAGA 0

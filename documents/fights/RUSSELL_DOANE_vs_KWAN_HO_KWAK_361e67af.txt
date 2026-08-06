@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Correia
+    Date: June 17, 2017
+    Location: Kallang, Singapore
+    Weight Class: Bantamweight
+    
+
+    Result: RUSSELL DOANE defeated KWAN HO KWAK via KO/TKO  
+  at 4:09 of round 1
+  Key stats:
+  - RUSSELL DOANE landed 17 significant strikes
+  - KWAN HO KWAK landed 10 significant strikes
+  - Knockdowns: RUSSELL DOANE 1,  KWAN HO KWAK 0
+  - Takedowns: RUSSELL DOANE 0,  KWAN HO KWAK 1

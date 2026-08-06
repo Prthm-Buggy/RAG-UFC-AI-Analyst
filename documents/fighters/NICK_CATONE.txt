@@ -1,0 +1,11 @@
+Fighter: NICK CATONE
+  Date of Birth: 1981-09-01
+  Career record: 8
+  First fight: 2009-02-07
+  Last fight: 2014-02-01
+
+Career Statistics:
+- Significant Strikes Landed :196
+- Total takedowns landed :23
+- Knockdowns :0
+- Submission Attempts :3

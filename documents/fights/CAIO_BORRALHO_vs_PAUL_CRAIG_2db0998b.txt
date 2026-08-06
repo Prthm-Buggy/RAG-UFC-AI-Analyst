@@ -1,0 +1,14 @@
+Event: UFC 301: Pantoja vs. Erceg
+    Date: May 04, 2024
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: CAIO BORRALHO defeated PAUL CRAIG via KO/TKO  
+  at 2:10 of round 2
+  Key stats:
+  - CAIO BORRALHO landed 36 significant strikes
+  - PAUL CRAIG landed 22 significant strikes
+  - Knockdowns: CAIO BORRALHO 1,  PAUL CRAIG 0
+  - Takedowns: CAIO BORRALHO 0,  PAUL CRAIG 0
+  Bonus: perf

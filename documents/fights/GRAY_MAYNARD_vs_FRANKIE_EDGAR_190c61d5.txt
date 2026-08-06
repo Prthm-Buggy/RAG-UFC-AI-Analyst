@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Lauzon
+    Date: April 02, 2008
+    Location: Broomfield, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: GRAY MAYNARD defeated FRANKIE EDGAR via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - GRAY MAYNARD landed 19 significant strikes
+  - FRANKIE EDGAR landed 26 significant strikes
+  - Knockdowns: GRAY MAYNARD 0,  FRANKIE EDGAR 0
+  - Takedowns: GRAY MAYNARD 9,  FRANKIE EDGAR 1

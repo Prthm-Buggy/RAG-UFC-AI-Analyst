@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Shevchenko vs. Carmouche 2
+    Date: August 10, 2019
+    Location: Montevideo, Uruguay
+    Weight Class: Women's Flyweight
+    
+
+    Result: VERONICA HARDY defeated POLYANA VIANA via Submission  
+  at 1:09 of round 1
+  Key stats:
+  - VERONICA HARDY landed 1 significant strikes
+  - POLYANA VIANA landed 1 significant strikes
+  - Knockdowns: VERONICA HARDY 0,  POLYANA VIANA 0
+  - Takedowns: VERONICA HARDY 0,  POLYANA VIANA 1
+  Bonus: perf

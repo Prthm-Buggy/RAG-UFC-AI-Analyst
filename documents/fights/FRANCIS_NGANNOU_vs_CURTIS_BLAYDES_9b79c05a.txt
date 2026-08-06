@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rothwell vs Dos Santos
+    Date: April 10, 2016
+    Location: Zagreb, Croatia
+    Weight Class: Heavyweight
+    
+
+    Result: FRANCIS NGANNOU defeated CURTIS BLAYDES via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - FRANCIS NGANNOU landed 36 significant strikes
+  - CURTIS BLAYDES landed 24 significant strikes
+  - Knockdowns: FRANCIS NGANNOU 0,  CURTIS BLAYDES 0
+  - Takedowns: FRANCIS NGANNOU 0,  CURTIS BLAYDES 2

@@ -1,0 +1,11 @@
+Fighter: CHRIS GRUETZEMACHER
+  Date of Birth: 1986-06-16
+  Career record: 7
+  First fight: 2015-12-11
+  Last fight: 2021-12-04
+
+Career Statistics:
+- Significant Strikes Landed :451
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

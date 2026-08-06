@@ -1,0 +1,11 @@
+Fighter: JOEY BELTRAN
+  Date of Birth: 1981-12-08
+  Career record: 9
+  First fight: 2010-02-06
+  Last fight: 2013-10-09
+
+Career Statistics:
+- Significant Strikes Landed :518
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

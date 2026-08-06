@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tsarukyan vs. Hooker
+    Date: November 22, 2025
+    Location: Doha, Qatar
+    Weight Class: Welterweight
+    
+
+    Result: NICOLAS DALBY defeated SAYGID IZAGAKHMAEV via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - NICOLAS DALBY landed 26 significant strikes
+  - SAYGID IZAGAKHMAEV landed 20 significant strikes
+  - Knockdowns: NICOLAS DALBY 0,  SAYGID IZAGAKHMAEV 0
+  - Takedowns: NICOLAS DALBY 0,  SAYGID IZAGAKHMAEV 4

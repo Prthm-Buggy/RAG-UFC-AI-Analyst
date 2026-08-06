@@ -1,0 +1,13 @@
+Event: UFC 242: Khabib vs. Poirier
+    Date: September 07, 2019
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: OMARI AKHMEDOV defeated ZAK CUMMINGS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - OMARI AKHMEDOV landed 26 significant strikes
+  - ZAK CUMMINGS landed 17 significant strikes
+  - Knockdowns: OMARI AKHMEDOV 0,  ZAK CUMMINGS 0
+  - Takedowns: OMARI AKHMEDOV 2,  ZAK CUMMINGS 0

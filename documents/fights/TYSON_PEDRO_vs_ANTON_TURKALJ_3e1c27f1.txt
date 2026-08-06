@@ -1,0 +1,13 @@
+Event: UFC 293: Adesanya vs. Strickland
+    Date: September 09, 2023
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: TYSON PEDRO defeated ANTON TURKALJ via KO/TKO  
+  at 2:12 of round 1
+  Key stats:
+  - TYSON PEDRO landed 16 significant strikes
+  - ANTON TURKALJ landed 8 significant strikes
+  - Knockdowns: TYSON PEDRO 1,  ANTON TURKALJ 0
+  - Takedowns: TYSON PEDRO 0,  ANTON TURKALJ 0

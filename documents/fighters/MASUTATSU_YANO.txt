@@ -1,0 +1,11 @@
+Fighter: MASUTATSU YANO
+  Date of Birth: 1975-07-11
+  Career record: 1
+  First fight: 1999-11-19
+  Last fight: 1999-11-19
+
+Career Statistics:
+- Significant Strikes Landed :18
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: COLLIN HART
+  Date of Birth: 1989-10-12
+  Career record: 1
+  First fight: 2013-04-13
+  Last fight: 2013-04-13
+
+Career Statistics:
+- Significant Strikes Landed :95
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

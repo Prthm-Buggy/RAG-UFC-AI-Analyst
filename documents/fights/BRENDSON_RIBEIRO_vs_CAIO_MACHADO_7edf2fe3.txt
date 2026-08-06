@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Albazi
+    Date: November 02, 2024
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: BRENDSON RIBEIRO defeated CAIO MACHADO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - BRENDSON RIBEIRO landed 49 significant strikes
+  - CAIO MACHADO landed 76 significant strikes
+  - Knockdowns: BRENDSON RIBEIRO 0,  CAIO MACHADO 0
+  - Takedowns: BRENDSON RIBEIRO 0,  CAIO MACHADO 0

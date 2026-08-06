@@ -1,0 +1,13 @@
+Event: UFC 23: Ultimate Japan 2
+    Date: November 19, 1999
+    Location: Chiba, Japan
+    Weight Class: Heavyweight
+    
+
+    Result: PEDRO RIZZO defeated TSUYOSHI KOHSAKA via KO/TKO  
+  at 1:17 of round 3
+  Key stats:
+  - PEDRO RIZZO landed 14 significant strikes
+  - TSUYOSHI KOHSAKA landed 14 significant strikes
+  - Knockdowns: PEDRO RIZZO 1,  TSUYOSHI KOHSAKA 0
+  - Takedowns: PEDRO RIZZO 0,  TSUYOSHI KOHSAKA 0

@@ -1,0 +1,20 @@
+Event : UFC 236: Holloway vs. Poirier 2
+    Date : April 13, 2019
+    Location: Atlanta, Georgia, USA
+    Number of Fights: 13
+    Weight Classes: Welterweight, Lightweight, Light Heavyweight, Flyweight, Middleweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - ALEXANDRE PANTOJA def. WILSON REIS via KO/TKO(R1)
+- KHALIL ROUNTREE JR. def. ERYK ANDERS via Decision - Unanimous(R3)
+- BELAL MUHAMMAD def. CURTIS MILLENDER via Decision - Unanimous(R3)
+- ISRAEL ADESANYA def. KELVIN GASTELUM via Decision - Unanimous(R5)
+- MONTEL JACKSON def. ANDRE SOUKHAMTHATH via Decision - Unanimous(R3)
+- MATT FREVOLA def. JALIN TURNER via Decision - Unanimous(R3)
+- KHALID TAHA def. BOSTON SALMON via KO/TKO(R1)
+- POLIANA BOTELHO def. LAUREN MUELLER via Decision - Unanimous(R3)
+- MAX GRIFFIN def. ZELIM IMADAEV via Decision - Majority(R3)
+- BRANDON DAVIS def. RANDY COSTA via Submission(R2)
+- DWIGHT GRANT def. ALAN JOUBAN via Decision - Split(R3)
+- NIKITA KRYLOV def. OVINCE SAINT PREUX via Submission(R2)
+- DUSTIN POIRIER def. MAX HOLLOWAY via Decision - Unanimous(R5)

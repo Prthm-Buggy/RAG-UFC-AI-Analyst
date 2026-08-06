@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Whittaker vs. De Ridder
+    Date: July 26, 2025
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Heavyweight
+    
+
+    Result: MARTIN BUDAY defeated Marcus Buchecha via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARTIN BUDAY landed 41 significant strikes
+  - Marcus Buchecha landed 24 significant strikes
+  - Knockdowns: MARTIN BUDAY 0,  Marcus Buchecha 0
+  - Takedowns: MARTIN BUDAY 0,  Marcus Buchecha 1

@@ -1,0 +1,11 @@
+Fighter: TIMUR VALIEV
+  Date of Birth: 1990-01-19
+  Career record: 3
+  First fight: 2021-02-06
+  Last fight: 2022-03-19
+
+Career Statistics:
+- Significant Strikes Landed :204
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

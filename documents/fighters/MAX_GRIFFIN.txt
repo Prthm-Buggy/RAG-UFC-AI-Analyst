@@ -1,0 +1,11 @@
+Fighter: MAX GRIFFIN
+  Date of Birth: 1985-11-29
+  Career record: 19
+  First fight: 2016-08-20
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :922
+- Total takedowns landed :24
+- Knockdowns :8
+- Submission Attempts :4

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Santos vs. Ankalaev
+    Date: March 12, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SONG YADONG defeated MARLON MORAES via KO/TKO  
+  at 2:06 of round 1
+  Key stats:
+  - SONG YADONG landed 14 significant strikes
+  - MARLON MORAES landed 9 significant strikes
+  - Knockdowns: SONG YADONG 1,  MARLON MORAES 0
+  - Takedowns: SONG YADONG 0,  MARLON MORAES 0
+  Bonus: perf

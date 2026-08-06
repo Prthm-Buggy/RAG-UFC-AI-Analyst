@@ -1,0 +1,14 @@
+Event: UFC 90: Silva vs Cote
+    Date: October 25, 2008
+    Location: Rosemont, Illinois, USA
+    Weight Class: Lightweight
+    
+
+    Result: SPENCER FISHER defeated SHANNON GUGERTY via Submission  
+  at 3:56 of round 3
+  Key stats:
+  - SPENCER FISHER landed 30 significant strikes
+  - SHANNON GUGERTY landed 28 significant strikes
+  - Knockdowns: SPENCER FISHER 1,  SHANNON GUGERTY 0
+  - Takedowns: SPENCER FISHER 0,  SHANNON GUGERTY 2
+  Bonus: sub

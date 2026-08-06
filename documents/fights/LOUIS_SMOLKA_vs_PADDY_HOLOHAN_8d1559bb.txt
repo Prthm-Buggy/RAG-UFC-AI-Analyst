@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holohan vs Smolka
+    Date: October 24, 2015
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Flyweight
+    
+
+    Result: LOUIS SMOLKA defeated PADDY HOLOHAN via Submission  
+  at 4:09 of round 2
+  Key stats:
+  - LOUIS SMOLKA landed 59 significant strikes
+  - PADDY HOLOHAN landed 16 significant strikes
+  - Knockdowns: LOUIS SMOLKA 0,  PADDY HOLOHAN 0
+  - Takedowns: LOUIS SMOLKA 0,  PADDY HOLOHAN 4

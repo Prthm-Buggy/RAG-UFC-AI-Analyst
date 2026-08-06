@@ -1,0 +1,14 @@
+Event: UFC 248: Adesanya vs. Romero
+    Date: March 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: BENEIL DARIUSH defeated DRAKKAR KLOSE via KO/TKO  
+  at 1:00 of round 2
+  Key stats:
+  - BENEIL DARIUSH landed 12 significant strikes
+  - DRAKKAR KLOSE landed 15 significant strikes
+  - Knockdowns: BENEIL DARIUSH 1,  DRAKKAR KLOSE 0
+  - Takedowns: BENEIL DARIUSH 1,  DRAKKAR KLOSE 0
+  Bonus: perf

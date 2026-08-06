@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Nogueira vs. Team Mir Finale
+    Date: December 13, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JUNIE BROWNING defeated DAVID KAPLAN via Submission  
+  at 1:32 of round 2
+  Key stats:
+  - JUNIE BROWNING landed 31 significant strikes
+  - DAVID KAPLAN landed 12 significant strikes
+  - Knockdowns: JUNIE BROWNING 0,  DAVID KAPLAN 0
+  - Takedowns: JUNIE BROWNING 2,  DAVID KAPLAN 2
+  Bonus: fight

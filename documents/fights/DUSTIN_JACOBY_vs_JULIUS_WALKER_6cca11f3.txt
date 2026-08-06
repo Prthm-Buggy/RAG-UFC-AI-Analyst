@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bautista vs. Oliveira
+    Date: February 07, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DUSTIN JACOBY defeated JULIUS WALKER via KO/TKO  
+  at 1:42 of round 2
+  Key stats:
+  - DUSTIN JACOBY landed 42 significant strikes
+  - JULIUS WALKER landed 7 significant strikes
+  - Knockdowns: DUSTIN JACOBY 1,  JULIUS WALKER 0
+  - Takedowns: DUSTIN JACOBY 0,  JULIUS WALKER 3

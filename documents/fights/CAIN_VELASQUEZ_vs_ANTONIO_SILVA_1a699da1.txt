@@ -1,0 +1,13 @@
+Event: UFC 146: Dos Santos vs Mir
+    Date: May 26, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CAIN VELASQUEZ defeated ANTONIO SILVA via KO/TKO  
+  at 3:36 of round 1
+  Key stats:
+  - CAIN VELASQUEZ landed 28 significant strikes
+  - ANTONIO SILVA landed 1 significant strikes
+  - Knockdowns: CAIN VELASQUEZ 0,  ANTONIO SILVA 0
+  - Takedowns: CAIN VELASQUEZ 1,  ANTONIO SILVA 0

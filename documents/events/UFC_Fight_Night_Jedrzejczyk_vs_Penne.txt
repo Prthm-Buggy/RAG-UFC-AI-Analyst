@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Jedrzejczyk vs Penne
+    Date : June 20, 2015
+    Location: Berlin, Berlin, Germany
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Women's Strawweight, Welterweight, Lightweight, Featherweight, Middleweight
+
+    Fight Results:
+  - ARNOLD ALLEN def. ALAN OMER via Submission(R3)
+- NOAD LAHAT def. NIKLAS BACKSTROM via Decision - Majority(R3)
+- JOANNA JEDRZEJCZYK def. JESSICA PENNE via KO/TKO(R3)
+- MAKWAN AMIRKHANI def. MASIO FULLEN via Submission(R1)
+- TAYLOR LAPILUS def. YUTA SASAKI via KO/TKO(R2)
+- MAIRBEK TAISUMOV def. ALAN PATRICK via KO/TKO(R2)
+- MAGOMED MUSTAFAEV def. PIOTR HALLMANN via TKO - Doctor's Stoppage(R2)
+- NICK HEIN def. LUKASZ SAJEWSKI via Decision - Unanimous(R3)
+- TATSUYA KAWAJIRI def. DENNIS SIVER via Decision - Unanimous(R3)
+- SCOTT ASKHAM def. ANTONIO DOS SANTOS via KO/TKO(R1)
+- PETER SOBOTTA def. STEVE KENNEDY via Submission(R1)

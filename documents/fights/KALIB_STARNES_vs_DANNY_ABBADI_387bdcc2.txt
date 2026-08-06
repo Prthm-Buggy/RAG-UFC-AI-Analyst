@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale
+    Date: June 24, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: KALIB STARNES defeated DANNY ABBADI via Submission  
+  at 2:56 of round 1
+  Key stats:
+  - KALIB STARNES landed 21 significant strikes
+  - DANNY ABBADI landed 3 significant strikes
+  - Knockdowns: KALIB STARNES 0,  DANNY ABBADI 0
+  - Takedowns: KALIB STARNES 1,  DANNY ABBADI 0

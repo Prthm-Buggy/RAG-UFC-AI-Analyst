@@ -1,0 +1,15 @@
+Event : UFC 177: Dillashaw vs Soto
+    Date : August 30, 2014
+    Location: Sacramento, California, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Bantamweight, Lightweight, Women's Bantamweight, Middleweight
+
+    Fight Results:
+  - DEREK BRUNSON def. LORENZ LARKIN via Decision - Unanimous(R3)
+- TJ DILLASHAW def. JOE SOTO via KO/TKO(R5)
+- ANTHONY HAMILTON def. RUAN POTTS via KO/TKO(R2)
+- DIEGO FERREIRA def. RAMSEY NIJEM via KO/TKO(R2)
+- YANCY MEDEIROS def. DAMON JACKSON via Submission(R2)
+- TONY FERGUSON def. DANNY CASTILLO via Decision - Split(R3)
+- CHRIS WADE def. CAIN CARRIZOSA via Submission(R1)
+- BETHE CORREIA def. SHAYNA BASZLER via KO/TKO(R2)

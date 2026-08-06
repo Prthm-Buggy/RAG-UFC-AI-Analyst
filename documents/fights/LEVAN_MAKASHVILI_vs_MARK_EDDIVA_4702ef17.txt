@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edgar vs Faber
+    Date: May 16, 2015
+    Location: Manila, Philippines
+    Weight Class: Featherweight
+    
+
+    Result: LEVAN MAKASHVILI defeated MARK EDDIVA via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - LEVAN MAKASHVILI landed 27 significant strikes
+  - MARK EDDIVA landed 32 significant strikes
+  - Knockdowns: LEVAN MAKASHVILI 0,  MARK EDDIVA 0
+  - Takedowns: LEVAN MAKASHVILI 7,  MARK EDDIVA 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Condit vs Alves
+    Date: May 30, 2015
+    Location: Goiania, Goias, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: DARREN TILL defeated WENDELL OLIVEIRA MARQUES via KO/TKO  
+  at 1:37 of round 2
+  Key stats:
+  - DARREN TILL landed 25 significant strikes
+  - WENDELL OLIVEIRA MARQUES landed 22 significant strikes
+  - Knockdowns: DARREN TILL 0,  WENDELL OLIVEIRA MARQUES 0
+  - Takedowns: DARREN TILL 0,  WENDELL OLIVEIRA MARQUES 0

@@ -1,0 +1,13 @@
+Event: UFC 123: Rampage vs Machida
+    Date: November 20, 2010
+    Location: Auburn Hills, Michigan, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRIAN FOSTER defeated MATT BROWN via Submission  
+  at 2:11 of round 2
+  Key stats:
+  - BRIAN FOSTER landed 25 significant strikes
+  - MATT BROWN landed 13 significant strikes
+  - Knockdowns: BRIAN FOSTER 0,  MATT BROWN 0
+  - Takedowns: BRIAN FOSTER 3,  MATT BROWN 1

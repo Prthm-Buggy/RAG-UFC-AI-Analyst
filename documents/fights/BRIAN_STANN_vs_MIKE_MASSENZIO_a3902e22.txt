@@ -1,0 +1,14 @@
+Event: UFC Live: Jones vs Matyushenko
+    Date: August 01, 2010
+    Location: San Diego, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRIAN STANN defeated MIKE MASSENZIO via Submission  
+  at 3:10 of round 3
+  Key stats:
+  - BRIAN STANN landed 43 significant strikes
+  - MIKE MASSENZIO landed 5 significant strikes
+  - Knockdowns: BRIAN STANN 0,  MIKE MASSENZIO 0
+  - Takedowns: BRIAN STANN 0,  MIKE MASSENZIO 5
+  Bonus: fight

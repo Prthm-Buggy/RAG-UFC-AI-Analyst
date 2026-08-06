@@ -1,0 +1,13 @@
+Event: UFC 297: Strickland vs. Du Plessis
+    Date: January 20, 2024
+    Location: Toronto, Ontario, Canada
+    Weight Class: Welterweight
+    
+
+    Result: SAM PATTERSON defeated YOHAN LAINESSE via Submission  
+  at 2:03 of round 1
+  Key stats:
+  - SAM PATTERSON landed 5 significant strikes
+  - YOHAN LAINESSE landed 1 significant strikes
+  - Knockdowns: SAM PATTERSON 0,  YOHAN LAINESSE 0
+  - Takedowns: SAM PATTERSON 1,  YOHAN LAINESSE 0

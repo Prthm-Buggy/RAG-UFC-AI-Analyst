@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Holland
+    Date: April 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARVIN VETTORI defeated KEVIN HOLLAND via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MARVIN VETTORI landed 24 significant strikes
+  - KEVIN HOLLAND landed 37 significant strikes
+  - Knockdowns: MARVIN VETTORI 0,  KEVIN HOLLAND 0
+  - Takedowns: MARVIN VETTORI 11,  KEVIN HOLLAND 0

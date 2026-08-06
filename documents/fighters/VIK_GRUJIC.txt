@@ -1,0 +1,11 @@
+Fighter: VIK GRUJIC
+  Date of Birth: 1977-02-06
+  Career record: 4
+  First fight: 2014-04-16
+  Last fight: 2015-05-09
+
+Career Statistics:
+- Significant Strikes Landed :85
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

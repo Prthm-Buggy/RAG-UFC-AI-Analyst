@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Pulver vs. Team Penn Finale
+    Date: June 23, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: COLE MILLER defeated ANDY WANG via KO/TKO  
+  at 1:10 of round 1
+  Key stats:
+  - COLE MILLER landed 12 significant strikes
+  - ANDY WANG landed 4 significant strikes
+  - Knockdowns: COLE MILLER 1,  ANDY WANG 0
+  - Takedowns: COLE MILLER 0,  ANDY WANG 0
+  Bonus: ko

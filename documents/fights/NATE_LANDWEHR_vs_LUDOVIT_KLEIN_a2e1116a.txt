@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ladd vs. Dumont
+    Date: October 16, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: NATE LANDWEHR defeated LUDOVIT KLEIN via Submission  
+  at 2:22 of round 3
+  Key stats:
+  - NATE LANDWEHR landed 71 significant strikes
+  - LUDOVIT KLEIN landed 42 significant strikes
+  - Knockdowns: NATE LANDWEHR 0,  LUDOVIT KLEIN 0
+  - Takedowns: NATE LANDWEHR 1,  LUDOVIT KLEIN 0
+  Bonus: perf

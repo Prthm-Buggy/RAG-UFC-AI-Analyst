@@ -1,0 +1,15 @@
+Event : UFC 39: The Warriors Return
+    Date : September 27, 2002
+    Location: Uncasville, Connecticut, USA
+    Number of Fights: 8
+    Weight Classes: Lightweight, Welterweight, Middleweight, Heavyweight
+
+    Fight Results:
+  - SEAN SHERK def. BENJI RADACH via TKO - Doctor's Stoppage(R1)
+- BJ PENN def. MATT SERRA via Decision - Unanimous(R3)
+- TIM SYLVIA def. WESLEY CORREIRA via KO/TKO(R2)
+- MATT LINDLAND def. IVAN SALAVERRY via Decision - Unanimous(R3)
+- GAN MCGEE def. PEDRO RIZZO via KO/TKO(R1)
+- PHIL BARONI def. DAVE MENNE via KO/TKO(R1)
+- CAOL UNO def. DIN THOMAS via Decision - Unanimous(R3)
+- RICCO RODRIGUEZ def. RANDY COUTURE via KO/TKO(R5)

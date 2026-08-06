@@ -1,0 +1,13 @@
+Event: UFC 150: Henderson vs Edgar II
+    Date: August 11, 2012
+    Location: Denver, Colorado, USA
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL KUIPER defeated JARED HAMMAN via KO/TKO  
+  at 2:16 of round 2
+  Key stats:
+  - MICHAEL KUIPER landed 56 significant strikes
+  - JARED HAMMAN landed 61 significant strikes
+  - Knockdowns: MICHAEL KUIPER 2,  JARED HAMMAN 0
+  - Takedowns: MICHAEL KUIPER 1,  JARED HAMMAN 0

@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Gustafsson vs Silva
+    Date: April 14, 2012
+    Location: Stockholm, Sweden
+    Weight Class: Bantamweight
+    
+
+    Result: BRAD PICKETT defeated DAMACIO PAGE via Submission  
+  at 4:05 of round 2
+  Key stats:
+  - BRAD PICKETT landed 36 significant strikes
+  - DAMACIO PAGE landed 23 significant strikes
+  - Knockdowns: BRAD PICKETT 1,  DAMACIO PAGE 0
+  - Takedowns: BRAD PICKETT 4,  DAMACIO PAGE 1
+  Bonus: fight

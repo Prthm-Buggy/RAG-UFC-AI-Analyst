@@ -1,0 +1,11 @@
+Fighter: ALEXIS DUFRESNE
+  Date of Birth: 1990-08-31
+  Career record: 2
+  First fight: 2014-07-06
+  Last fight: 2015-01-03
+
+Career Statistics:
+- Significant Strikes Landed :40
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

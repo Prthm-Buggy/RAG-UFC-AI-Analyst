@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Strickland vs. Imavov
+    Date : January 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Middleweight, Light Heavyweight, Featherweight, Flyweight, Women's Bantamweight, Lightweight, Bantamweight
+
+    Fight Results:
+  - UMAR NURMAGOMEDOV def. RAONI BARCELOS via KO/TKO(R1)
+- CHARLES JOHNSON def. JIMMY FLICK via KO/TKO(R1)
+- SEAN STRICKLAND def. NASSOURDINE IMAVOV via Decision - Unanimous(R5)
+- ROMAN KOPYLOV def. PUNAHELE SORIANO via KO/TKO(R2)
+- ALLAN NASCIMENTO def. CARLOS HERNANDEZ via Submission(R1)
+- ABDUL RAZAK ALHASSAN def. CLAUDIO RIBEIRO via KO/TKO(R2)
+- RAQUEL PENNINGTON def. KETLEN VIEIRA via Decision - Split(R3)
+- DAN IGE def. DAMON JACKSON via KO/TKO(R2)
+- JAVID BASHARAT def. MATEUS MENDONCA via Decision - Unanimous(R3)
+- DAN ARGUETA def. NICK AGUIRRE via Decision - Unanimous(R3)
+- MATEUSZ REBECKI def. NICK FIORE via Decision - Unanimous(R3)

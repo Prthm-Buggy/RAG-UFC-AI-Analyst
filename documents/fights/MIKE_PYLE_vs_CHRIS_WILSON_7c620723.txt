@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Diaz vs Guillard
+    Date: September 16, 2009
+    Location: Oklahoma City, Oklahoma, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PYLE defeated CHRIS WILSON via Submission  
+  at 2:15 of round 3
+  Key stats:
+  - MIKE PYLE landed 12 significant strikes
+  - CHRIS WILSON landed 19 significant strikes
+  - Knockdowns: MIKE PYLE 0,  CHRIS WILSON 0
+  - Takedowns: MIKE PYLE 2,  CHRIS WILSON 1

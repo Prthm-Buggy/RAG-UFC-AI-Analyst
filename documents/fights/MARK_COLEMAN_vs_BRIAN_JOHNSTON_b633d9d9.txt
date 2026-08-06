@@ -1,0 +1,13 @@
+Event: UFC 11: The Proving Ground
+    Date: September 20, 1996
+    Location: Augusta, Georgia, USA
+    Weight Class: Open Weight
+    
+
+    Result: MARK COLEMAN defeated BRIAN JOHNSTON via KO/TKO  
+  at 2:20 of round 1
+  Key stats:
+  - MARK COLEMAN landed 9 significant strikes
+  - BRIAN JOHNSTON landed 3 significant strikes
+  - Knockdowns: MARK COLEMAN 0,  BRIAN JOHNSTON 0
+  - Takedowns: MARK COLEMAN 1,  BRIAN JOHNSTON 0

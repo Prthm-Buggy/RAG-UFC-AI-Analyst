@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Burns vs. Morales
+    Date: May 17, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: HYUNSUNG PARK defeated CARLOS HERNANDEZ via Submission  
+  at 2:26 of round 1
+  Key stats:
+  - HYUNSUNG PARK landed 14 significant strikes
+  - CARLOS HERNANDEZ landed 4 significant strikes
+  - Knockdowns: HYUNSUNG PARK 0,  CARLOS HERNANDEZ 0
+  - Takedowns: HYUNSUNG PARK 1,  CARLOS HERNANDEZ 0

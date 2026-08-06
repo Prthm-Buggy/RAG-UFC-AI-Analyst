@@ -1,0 +1,13 @@
+Event: UFC 140: Jones vs Machida
+    Date: December 10, 2011
+    Location: Toronto, Ontario, Canada
+    Weight Class: Lightweight
+    
+
+    Result: DENNIS HALLMAN defeated JOHN MAKDESSI via Submission  
+  at 2:58 of round 1
+  Key stats:
+  - DENNIS HALLMAN landed 20 significant strikes
+  - JOHN MAKDESSI landed 0 significant strikes
+  - Knockdowns: DENNIS HALLMAN 0,  JOHN MAKDESSI 0
+  - Takedowns: DENNIS HALLMAN 1,  JOHN MAKDESSI 0

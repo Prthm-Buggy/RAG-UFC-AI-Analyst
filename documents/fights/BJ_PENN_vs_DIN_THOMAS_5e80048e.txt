@@ -1,0 +1,13 @@
+Event: UFC 32: Showdown in the Meadowlands
+    Date: June 29, 2001
+    Location: East Rutherford, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: BJ PENN defeated DIN THOMAS via KO/TKO  
+  at 2:42 of round 1
+  Key stats:
+  - BJ PENN landed 6 significant strikes
+  - DIN THOMAS landed 1 significant strikes
+  - Knockdowns: BJ PENN 1,  DIN THOMAS 0
+  - Takedowns: BJ PENN 0,  DIN THOMAS 1

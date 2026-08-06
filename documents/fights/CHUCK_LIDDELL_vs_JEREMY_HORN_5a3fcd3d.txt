@@ -1,0 +1,14 @@
+Event: UFC 54: Boiling Point
+    Date: August 20, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: CHUCK LIDDELL defeated JEREMY HORN via KO/TKO  
+  at 2:46 of round 4
+  Key stats:
+  - CHUCK LIDDELL landed 64 significant strikes
+  - JEREMY HORN landed 31 significant strikes
+  - Knockdowns: CHUCK LIDDELL 2,  JEREMY HORN 0
+  - Takedowns: CHUCK LIDDELL 0,  JEREMY HORN 0
+  Bonus: belt

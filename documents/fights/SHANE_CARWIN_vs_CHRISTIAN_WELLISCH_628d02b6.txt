@@ -1,0 +1,13 @@
+Event: UFC 84: Ill Will
+    Date: May 24, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SHANE CARWIN defeated CHRISTIAN WELLISCH via KO/TKO  
+  at 0:44 of round 1
+  Key stats:
+  - SHANE CARWIN landed 5 significant strikes
+  - CHRISTIAN WELLISCH landed 2 significant strikes
+  - Knockdowns: SHANE CARWIN 1,  CHRISTIAN WELLISCH 0
+  - Takedowns: SHANE CARWIN 0,  CHRISTIAN WELLISCH 0

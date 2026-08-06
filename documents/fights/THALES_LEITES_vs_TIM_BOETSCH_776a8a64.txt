@@ -1,0 +1,14 @@
+Event: UFC 183: Silva vs Diaz
+    Date: January 31, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: THALES LEITES defeated TIM BOETSCH via Submission  
+  at 3:45 of round 2
+  Key stats:
+  - THALES LEITES landed 20 significant strikes
+  - TIM BOETSCH landed 26 significant strikes
+  - Knockdowns: THALES LEITES 0,  TIM BOETSCH 1
+  - Takedowns: THALES LEITES 1,  TIM BOETSCH 0
+  Bonus: fight

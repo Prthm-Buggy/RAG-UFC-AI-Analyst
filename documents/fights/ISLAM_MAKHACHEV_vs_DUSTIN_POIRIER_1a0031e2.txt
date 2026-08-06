@@ -1,0 +1,14 @@
+Event: UFC 302: Makhachev vs. Poirier
+    Date: June 01, 2024
+    Location: Newark, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: ISLAM MAKHACHEV defeated DUSTIN POIRIER via Submission  
+  at 2:42 of round 5
+  Key stats:
+  - ISLAM MAKHACHEV landed 88 significant strikes
+  - DUSTIN POIRIER landed 74 significant strikes
+  - Knockdowns: ISLAM MAKHACHEV 0,  DUSTIN POIRIER 0
+  - Takedowns: ISLAM MAKHACHEV 5,  DUSTIN POIRIER 0
+  Bonus: belt

@@ -1,0 +1,14 @@
+Event: UFC - Ultimate Japan
+    Date: December 21, 1997
+    Location: Yokohama, Kanagawa, Japan
+    Weight Class: Lightweight
+    
+
+    Result: FRANK SHAMROCK defeated KEVIN JACKSON via Submission  
+  at 0:16 of round 1
+  Key stats:
+  - FRANK SHAMROCK landed 1 significant strikes
+  - KEVIN JACKSON landed 2 significant strikes
+  - Knockdowns: FRANK SHAMROCK 0,  KEVIN JACKSON 0
+  - Takedowns: FRANK SHAMROCK 0,  KEVIN JACKSON 1
+  Bonus: belt

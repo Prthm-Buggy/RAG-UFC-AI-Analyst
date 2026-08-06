@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Santos vs. Teixeira
+    Date : November 07, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Middleweight, Women's Strawweight, Featherweight, Welterweight, Light Heavyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - RAONI BARCELOS def. KHALID TAHA via Decision - Unanimous(R3)
+- TREVIN GILES def. BEVON LEWIS via KO/TKO(R3)
+- DARREN ELKINS def. EDUARDO GARAGORRI via Submission(R3)
+- MAX GRIFFIN def. RAMIZ BRAHIMAJ via KO/TKO(R3)
+- ANDREI ARLOVSKI def. TANNER BOSER via Decision - Unanimous(R3)
+- ALEXANDR ROMANOV def. MARCOS ROGERIO DE LIMA via Submission(R1)
+- GUSTAVO LOPEZ def. ANTHONY BIRCHAK via Submission(R1)
+- YAN XIAONAN def. CLAUDIA GADELHA via Decision - Unanimous(R3)
+- GLOVER TEIXEIRA def. THIAGO SANTOS via Submission(R3)
+- GIGA CHIKADZE def. JAMEY SIMMONS via KO/TKO(R1)

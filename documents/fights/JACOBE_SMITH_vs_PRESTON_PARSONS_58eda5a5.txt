@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Ribas 2
+    Date: January 11, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JACOBE SMITH defeated PRESTON PARSONS via KO/TKO  
+  at 1:13 of round 1
+  Key stats:
+  - JACOBE SMITH landed 12 significant strikes
+  - PRESTON PARSONS landed 7 significant strikes
+  - Knockdowns: JACOBE SMITH 1,  PRESTON PARSONS 0
+  - Takedowns: JACOBE SMITH 0,  PRESTON PARSONS 0

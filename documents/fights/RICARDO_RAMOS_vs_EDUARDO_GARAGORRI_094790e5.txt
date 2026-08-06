@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blachowicz vs. Jacare
+    Date: November 16, 2019
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: RICARDO RAMOS defeated EDUARDO GARAGORRI via Submission  
+  at 3:57 of round 1
+  Key stats:
+  - RICARDO RAMOS landed 10 significant strikes
+  - EDUARDO GARAGORRI landed 6 significant strikes
+  - Knockdowns: RICARDO RAMOS 0,  EDUARDO GARAGORRI 0
+  - Takedowns: RICARDO RAMOS 2,  EDUARDO GARAGORRI 0
+  Bonus: perf

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Cannonier vs. Borralho
+    Date : August 24, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Middleweight, Featherweight, Women's Strawweight, Lightweight, Welterweight, Women's Bantamweight
+
+    Fight Results:
+  - JACQUELINE CAVALCANTI def. JOSIANE NUNES via Decision - Split(R3)
+- MAIRON SANTOS def. KAAN OFLI via KO/TKO(R2)
+- RYAN LODER def. ROBERT VALENTIN via KO/TKO(R2)
+- ZACH REESE def. JOSE DANIEL MEDINA via Decision - Unanimous(R3)
+- FRANCIS MARSHALL def. DENNIS BUZUKJA via Decision - Split(R3)
+- VIACHESLAV BORSHCHEV def. JAMES LLONTOP via Decision - Split(R3)
+- WANG CONG def. VICTORIA LEONARDO via KO/TKO(R1)
+- GERALD MEERSCHAERT def. EDMEN SHAHBAZYAN via Submission(R2)
+- CAIO BORRALHO def. JARED CANNONIER via Decision - Unanimous(R5)
+- MICHAEL MORALES def. NEIL MAGNY via KO/TKO(R1)
+- TABATHA RICCI def. ANGELA HILL via Decision - Unanimous(R3)

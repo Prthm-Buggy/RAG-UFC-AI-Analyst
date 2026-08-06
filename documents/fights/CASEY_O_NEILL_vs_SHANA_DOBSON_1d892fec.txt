@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Lewis
+    Date: February 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: CASEY O'NEILL defeated SHANA DOBSON via KO/TKO  
+  at 3:41 of round 2
+  Key stats:
+  - CASEY O'NEILL landed 49 significant strikes
+  - SHANA DOBSON landed 16 significant strikes
+  - Knockdowns: CASEY O'NEILL 0,  SHANA DOBSON 0
+  - Takedowns: CASEY O'NEILL 4,  SHANA DOBSON 0

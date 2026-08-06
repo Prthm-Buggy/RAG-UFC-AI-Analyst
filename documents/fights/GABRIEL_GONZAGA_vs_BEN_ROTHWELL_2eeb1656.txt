@@ -1,0 +1,13 @@
+Event: UFC on FX: Belfort vs Bisping
+    Date: January 19, 2013
+    Location: Sao Paulo, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: GABRIEL GONZAGA defeated BEN ROTHWELL via Submission  
+  at 1:01 of round 2
+  Key stats:
+  - GABRIEL GONZAGA landed 17 significant strikes
+  - BEN ROTHWELL landed 12 significant strikes
+  - Knockdowns: GABRIEL GONZAGA 0,  BEN ROTHWELL 0
+  - Takedowns: GABRIEL GONZAGA 3,  BEN ROTHWELL 0

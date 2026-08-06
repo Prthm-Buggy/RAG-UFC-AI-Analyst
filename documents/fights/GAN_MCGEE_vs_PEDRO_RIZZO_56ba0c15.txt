@@ -1,0 +1,13 @@
+Event: UFC 39: The Warriors Return
+    Date: September 27, 2002
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Heavyweight
+    
+
+    Result: GAN MCGEE defeated PEDRO RIZZO via KO/TKO  
+  at 5:00 of round 1
+  Key stats:
+  - GAN MCGEE landed 17 significant strikes
+  - PEDRO RIZZO landed 14 significant strikes
+  - Knockdowns: GAN MCGEE 0,  PEDRO RIZZO 0
+  - Takedowns: GAN MCGEE 0,  PEDRO RIZZO 0

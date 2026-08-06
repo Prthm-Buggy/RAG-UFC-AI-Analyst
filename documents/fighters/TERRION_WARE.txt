@@ -1,0 +1,11 @@
+Fighter: TERRION WARE
+  Date of Birth: 1986-03-31
+  Career record: 4
+  First fight: 2017-07-08
+  Last fight: 2018-09-15
+
+Career Statistics:
+- Significant Strikes Landed :241
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

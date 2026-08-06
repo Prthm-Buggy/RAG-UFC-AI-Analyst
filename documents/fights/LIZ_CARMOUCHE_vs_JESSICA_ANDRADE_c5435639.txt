@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs Moraga
+    Date: July 27, 2013
+    Location: Seattle, Washington, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: LIZ CARMOUCHE defeated JESSICA ANDRADE via KO/TKO  
+  at 3:57 of round 2
+  Key stats:
+  - LIZ CARMOUCHE landed 50 significant strikes
+  - JESSICA ANDRADE landed 10 significant strikes
+  - Knockdowns: LIZ CARMOUCHE 0,  JESSICA ANDRADE 0
+  - Takedowns: LIZ CARMOUCHE 3,  JESSICA ANDRADE 1

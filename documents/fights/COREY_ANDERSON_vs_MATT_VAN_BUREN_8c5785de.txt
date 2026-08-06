@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Edgar vs. Team Penn Finale
+    Date: July 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: COREY ANDERSON defeated MATT VAN BUREN via KO/TKO  
+  at 1:01 of round 1
+  Key stats:
+  - COREY ANDERSON landed 24 significant strikes
+  - MATT VAN BUREN landed 2 significant strikes
+  - Knockdowns: COREY ANDERSON 0,  MATT VAN BUREN 0
+  - Takedowns: COREY ANDERSON 2,  MATT VAN BUREN 0
+  Bonus: belt

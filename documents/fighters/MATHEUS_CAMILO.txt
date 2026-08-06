@@ -1,0 +1,11 @@
+Fighter: MATHEUS CAMILO
+  Date of Birth: 2001-01-02
+  Career record: 3
+  First fight: 2025-05-17
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :56
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :1

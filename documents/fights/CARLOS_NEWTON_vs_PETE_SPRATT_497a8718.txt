@@ -1,0 +1,13 @@
+Event: UFC 40: Vendetta
+    Date: November 22, 2002
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS NEWTON defeated PETE SPRATT via Submission  
+  at 1:45 of round 1
+  Key stats:
+  - CARLOS NEWTON landed 0 significant strikes
+  - PETE SPRATT landed 1 significant strikes
+  - Knockdowns: CARLOS NEWTON 0,  PETE SPRATT 0
+  - Takedowns: CARLOS NEWTON 1,  PETE SPRATT 0

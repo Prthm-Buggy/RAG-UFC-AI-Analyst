@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Miocic vs Maldonado
+    Date: May 31, 2014
+    Location: Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: RICARDO ABREU defeated WAGNER SILVA via Submission  
+  at 1:06 of round 2
+  Key stats:
+  - RICARDO ABREU landed 33 significant strikes
+  - WAGNER SILVA landed 17 significant strikes
+  - Knockdowns: RICARDO ABREU 2,  WAGNER SILVA 0
+  - Takedowns: RICARDO ABREU 0,  WAGNER SILVA 0

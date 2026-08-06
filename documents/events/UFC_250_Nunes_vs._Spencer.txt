@@ -1,0 +1,19 @@
+Event : UFC 250: Nunes vs. Spencer
+    Date : June 06, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Flyweight, Catch Weight, Middleweight, Women's Featherweight, Featherweight, Welterweight, Light Heavyweight
+
+    Fight Results:
+  - ALJAMAIN STERLING def. CORY SANDHAGEN via Submission(R1)
+- AMANDA NUNES def. FELICIA SPENCER via Decision - Unanimous(R5)
+- SEAN O'MALLEY def. EDDIE WINELAND via KO/TKO(R1)
+- NEIL MAGNY def. ANTHONY ROCCO MARTIN via Decision - Unanimous(R3)
+- MAKI PITOLO def. CHARLES BYRD via KO/TKO(R2)
+- DEVIN CLARK def. ALONZO MENIFIELD via Decision - Unanimous(R3)
+- ALEX CACERES def. CHASE HOOPER via Decision - Unanimous(R3)
+- CODY GARBRANDT def. RAPHAEL ASSUNCAO via KO/TKO(R2)
+- ALEX PEREZ def. JUSSIER FORMIGA via KO/TKO(R1)
+- CODY STAMANN def. BRIAN KELLEHER via Decision - Unanimous(R3)
+- HERBERT BURNS def. EVAN DUNHAM via Submission(R1)
+- IAN HEINISCH def. GERALD MEERSCHAERT via KO/TKO(R1)

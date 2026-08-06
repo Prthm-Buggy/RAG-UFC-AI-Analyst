@@ -1,0 +1,13 @@
+Event: UFC: Silva vs Irvin
+    Date: July 19, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: SHANNON GUGERTY defeated DALE HARTT via Submission  
+  at 3:33 of round 1
+  Key stats:
+  - SHANNON GUGERTY landed 3 significant strikes
+  - DALE HARTT landed 1 significant strikes
+  - Knockdowns: SHANNON GUGERTY 0,  DALE HARTT 0
+  - Takedowns: SHANNON GUGERTY 1,  DALE HARTT 0

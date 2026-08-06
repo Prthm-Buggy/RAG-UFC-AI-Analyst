@@ -1,0 +1,13 @@
+Event: UFC 67: All or Nothing
+    Date: February 03, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ROGER HUERTA defeated JOHN HALVERSON via KO/TKO  
+  at 0:19 of round 1
+  Key stats:
+  - ROGER HUERTA landed 13 significant strikes
+  - JOHN HALVERSON landed 1 significant strikes
+  - Knockdowns: ROGER HUERTA 0,  JOHN HALVERSON 0
+  - Takedowns: ROGER HUERTA 1,  JOHN HALVERSON 0

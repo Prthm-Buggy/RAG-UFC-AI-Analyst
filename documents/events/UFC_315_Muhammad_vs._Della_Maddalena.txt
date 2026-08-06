@@ -1,0 +1,19 @@
+Event : UFC 315: Muhammad vs. Della Maddalena
+    Date : May 10, 2025
+    Location: Montreal, Quebec, Canada
+    Number of Fights: 12
+    Weight Classes: Women's Flyweight, Bantamweight, Middleweight, Featherweight, Light Heavyweight, Welterweight, Lightweight
+
+    Fight Results:
+  - BENOIT SAINT DENIS def. KYLE PREPOLEC via Submission(R2)
+- VALENTINA SHEVCHENKO def. MANON FIOROT via Decision - Unanimous(R5)
+- DANIEL SANTOS def. JEONGYEONG LEE via Decision - Unanimous(R3)
+- MIKE MALOTT def. CHARLES RADTKE via KO/TKO(R2)
+- JACK DELLA MADDALENA def. BELAL MUHAMMAD via Decision - Unanimous(R5)
+- NATALIA SILVA def. ALEXA GRASSO via Decision - Unanimous(R3)
+- BEKZAT ALMAKHAN def. BRAD KATONA via KO/TKO(R1)
+- AIEMANN ZAHABI def. JOSE ALDO via Decision - Unanimous(R3)
+- MODESTAS BUKAUSKAS def. ION CUTELABA via Decision - Split(R3)
+- MARC-ANDRE BARRIAULT def. BRUNO SILVA via KO/TKO(R1)
+- JASMINE JASUDAVICIUS def. JESSICA ANDRADE via Submission(R1)
+- NAVAJO STIRLING def. IVAN ERSLAN via Decision - Unanimous(R3)

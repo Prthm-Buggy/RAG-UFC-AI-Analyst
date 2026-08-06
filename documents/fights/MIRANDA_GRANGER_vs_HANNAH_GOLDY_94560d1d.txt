@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Covington vs. Lawler
+    Date: August 03, 2019
+    Location: Newark, New Jersey, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MIRANDA GRANGER defeated HANNAH GOLDY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MIRANDA GRANGER landed 61 significant strikes
+  - HANNAH GOLDY landed 55 significant strikes
+  - Knockdowns: MIRANDA GRANGER 0,  HANNAH GOLDY 0
+  - Takedowns: MIRANDA GRANGER 0,  HANNAH GOLDY 0

@@ -1,0 +1,11 @@
+Fighter: JOHN CASTANEDA
+  Date of Birth: 1991-12-18
+  Career record: 9
+  First fight: 2020-07-25
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :599
+- Total takedowns landed :11
+- Knockdowns :4
+- Submission Attempts :1

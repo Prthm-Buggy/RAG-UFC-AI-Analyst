@@ -1,0 +1,14 @@
+Event: UFC on FUEL TV: Barao vs McDonald
+    Date: February 16, 2013
+    Location: London, England, United Kingdom
+    Weight Class: Bantamweight
+    
+
+    Result: RENAN BARAO defeated MICHAEL MCDONALD via Submission  
+  at 3:57 of round 4
+  Key stats:
+  - RENAN BARAO landed 36 significant strikes
+  - MICHAEL MCDONALD landed 26 significant strikes
+  - Knockdowns: RENAN BARAO 0,  MICHAEL MCDONALD 0
+  - Takedowns: RENAN BARAO 4,  MICHAEL MCDONALD 0
+  Bonus: belt

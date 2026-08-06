@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Clark
+    Date: November 28, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: SUMUDAERJI defeated MALCOLM GORDON via KO/TKO  
+  at 0:44 of round 1
+  Key stats:
+  - SUMUDAERJI landed 9 significant strikes
+  - MALCOLM GORDON landed 0 significant strikes
+  - Knockdowns: SUMUDAERJI 1,  MALCOLM GORDON 0
+  - Takedowns: SUMUDAERJI 0,  MALCOLM GORDON 0
+  Bonus: perf

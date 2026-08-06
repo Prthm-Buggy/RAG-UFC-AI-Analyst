@@ -1,0 +1,14 @@
+Event: UFC 218: Holloway vs. Aldo 2
+    Date: December 02, 2017
+    Location: Detroit, Michigan, USA
+    Weight Class: Lightweight
+    
+
+    Result: EDDIE ALVAREZ defeated JUSTIN GAETHJE via KO/TKO  
+  at 3:59 of round 3
+  Key stats:
+  - EDDIE ALVAREZ landed 155 significant strikes
+  - JUSTIN GAETHJE landed 122 significant strikes
+  - Knockdowns: EDDIE ALVAREZ 1,  JUSTIN GAETHJE 0
+  - Takedowns: EDDIE ALVAREZ 1,  JUSTIN GAETHJE 0
+  Bonus: fight

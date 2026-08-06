@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lineker vs. Dodson
+    Date: October 01, 2016
+    Location: Portland, Oregon, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: HENRIQUE DA SILVA defeated JOACHIM CHRISTENSEN via Submission  
+  at 4:43 of round 2
+  Key stats:
+  - HENRIQUE DA SILVA landed 44 significant strikes
+  - JOACHIM CHRISTENSEN landed 50 significant strikes
+  - Knockdowns: HENRIQUE DA SILVA 0,  JOACHIM CHRISTENSEN 1
+  - Takedowns: HENRIQUE DA SILVA 0,  JOACHIM CHRISTENSEN 0
+  Bonus: perf

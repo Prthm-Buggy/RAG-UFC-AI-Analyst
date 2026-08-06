@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Condit vs Alves
+    Date: May 30, 2015
+    Location: Goiania, Goias, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS CONDIT defeated THIAGO ALVES via TKO - Doctor's Stoppage  
+  at 5:00 of round 2
+  Key stats:
+  - CARLOS CONDIT landed 75 significant strikes
+  - THIAGO ALVES landed 34 significant strikes
+  - Knockdowns: CARLOS CONDIT 1,  THIAGO ALVES 0
+  - Takedowns: CARLOS CONDIT 2,  THIAGO ALVES 0

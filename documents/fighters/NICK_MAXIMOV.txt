@@ -1,0 +1,11 @@
+Fighter: NICK MAXIMOV
+  Date of Birth: 1997-12-23
+  Career record: 4
+  First fight: 2021-09-25
+  Last fight: 2022-10-15
+
+Career Statistics:
+- Significant Strikes Landed :81
+- Total takedowns landed :15
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,13 @@
+Event: UFC 34: High Voltage
+    Date: November 02, 2001
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RICCO RODRIGUEZ defeated PETE WILLIAMS via KO/TKO  
+  at 4:02 of round 2
+  Key stats:
+  - RICCO RODRIGUEZ landed 26 significant strikes
+  - PETE WILLIAMS landed 4 significant strikes
+  - Knockdowns: RICCO RODRIGUEZ 0,  PETE WILLIAMS 0
+  - Takedowns: RICCO RODRIGUEZ 5,  PETE WILLIAMS 0

@@ -1,0 +1,11 @@
+Fighter: JULIO ARCE
+  Date of Birth: 1989-10-27
+  Career record: 10
+  First fight: 2018-01-20
+  Last fight: 2024-03-30
+
+Career Statistics:
+- Significant Strikes Landed :503
+- Total takedowns landed :4
+- Knockdowns :3
+- Submission Attempts :3

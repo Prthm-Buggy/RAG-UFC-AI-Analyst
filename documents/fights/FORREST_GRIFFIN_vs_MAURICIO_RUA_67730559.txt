@@ -1,0 +1,14 @@
+Event: UFC 76: Knockout
+    Date: September 22, 2007
+    Location: Anaheim, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: FORREST GRIFFIN defeated MAURICIO RUA via Submission  
+  at 4:45 of round 3
+  Key stats:
+  - FORREST GRIFFIN landed 66 significant strikes
+  - MAURICIO RUA landed 27 significant strikes
+  - Knockdowns: FORREST GRIFFIN 0,  MAURICIO RUA 0
+  - Takedowns: FORREST GRIFFIN 2,  MAURICIO RUA 5
+  Bonus: sub

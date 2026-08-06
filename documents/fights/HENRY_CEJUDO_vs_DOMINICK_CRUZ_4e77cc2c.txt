@@ -1,0 +1,14 @@
+Event: UFC 249: Ferguson vs. Gaethje
+    Date: May 09, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: HENRY CEJUDO defeated DOMINICK CRUZ via KO/TKO  
+  at 4:58 of round 2
+  Key stats:
+  - HENRY CEJUDO landed 53 significant strikes
+  - DOMINICK CRUZ landed 33 significant strikes
+  - Knockdowns: HENRY CEJUDO 1,  DOMINICK CRUZ 0
+  - Takedowns: HENRY CEJUDO 1,  DOMINICK CRUZ 0
+  Bonus: belt

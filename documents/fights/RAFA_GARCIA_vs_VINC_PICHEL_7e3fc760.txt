@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Erceg
+    Date: March 29, 2025
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Lightweight
+    
+
+    Result: RAFA GARCIA defeated VINC PICHEL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAFA GARCIA landed 64 significant strikes
+  - VINC PICHEL landed 79 significant strikes
+  - Knockdowns: RAFA GARCIA 0,  VINC PICHEL 0
+  - Takedowns: RAFA GARCIA 2,  VINC PICHEL 0

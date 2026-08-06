@@ -1,0 +1,13 @@
+Event: UFC 325: Volkanovski vs. Lopes 2
+    Date: January 31, 2026
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Middleweight
+    
+
+    Result: CAM ROWSTON defeated CODY BRUNDAGE via KO/TKO  
+  at 4:08 of round 2
+  Key stats:
+  - CAM ROWSTON landed 57 significant strikes
+  - CODY BRUNDAGE landed 29 significant strikes
+  - Knockdowns: CAM ROWSTON 0,  CODY BRUNDAGE 0
+  - Takedowns: CAM ROWSTON 0,  CODY BRUNDAGE 0

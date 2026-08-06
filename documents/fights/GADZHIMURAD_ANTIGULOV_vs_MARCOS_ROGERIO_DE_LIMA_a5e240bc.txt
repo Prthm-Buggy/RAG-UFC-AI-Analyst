@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bader vs. Nogueira
+    Date: November 19, 2016
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: GADZHIMURAD ANTIGULOV defeated MARCOS ROGERIO DE LIMA via Submission  
+  at 1:07 of round 1
+  Key stats:
+  - GADZHIMURAD ANTIGULOV landed 0 significant strikes
+  - MARCOS ROGERIO DE LIMA landed 2 significant strikes
+  - Knockdowns: GADZHIMURAD ANTIGULOV 0,  MARCOS ROGERIO DE LIMA 0
+  - Takedowns: GADZHIMURAD ANTIGULOV 1,  MARCOS ROGERIO DE LIMA 0
+  Bonus: perf

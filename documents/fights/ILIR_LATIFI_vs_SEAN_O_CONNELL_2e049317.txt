@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dillashaw vs Cruz
+    Date: January 17, 2016
+    Location: Boston, Massachusetts, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ILIR LATIFI defeated SEAN O'CONNELL via KO/TKO  
+  at 0:30 of round 1
+  Key stats:
+  - ILIR LATIFI landed 2 significant strikes
+  - SEAN O'CONNELL landed 1 significant strikes
+  - Knockdowns: ILIR LATIFI 1,  SEAN O'CONNELL 0
+  - Takedowns: ILIR LATIFI 0,  SEAN O'CONNELL 0

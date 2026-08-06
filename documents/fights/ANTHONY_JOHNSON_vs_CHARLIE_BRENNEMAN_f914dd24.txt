@@ -1,0 +1,14 @@
+Event: UFC Live: Cruz vs Johnson
+    Date: October 01, 2011
+    Location: Washington, DC, USA
+    Weight Class: Welterweight
+    
+
+    Result: ANTHONY JOHNSON defeated CHARLIE BRENNEMAN via KO/TKO  
+  at 2:49 of round 1
+  Key stats:
+  - ANTHONY JOHNSON landed 16 significant strikes
+  - CHARLIE BRENNEMAN landed 1 significant strikes
+  - Knockdowns: ANTHONY JOHNSON 1,  CHARLIE BRENNEMAN 0
+  - Takedowns: ANTHONY JOHNSON 0,  CHARLIE BRENNEMAN 0
+  Bonus: ko

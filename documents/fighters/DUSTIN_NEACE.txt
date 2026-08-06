@@ -1,0 +1,11 @@
+Fighter: DUSTIN NEACE
+  Date of Birth: 1986-09-12
+  Career record: 1
+  First fight: 2011-12-03
+  Last fight: 2011-12-03
+
+Career Statistics:
+- Significant Strikes Landed :18
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

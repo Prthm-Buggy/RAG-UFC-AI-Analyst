@@ -1,0 +1,11 @@
+Fighter: ABDUL-KERIM EDILOV
+  Date of Birth: 1991-11-25
+  Career record: 1
+  First fight: 2017-09-02
+  Last fight: 2017-09-02
+
+Career Statistics:
+- Significant Strikes Landed :77
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

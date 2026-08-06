@@ -1,0 +1,13 @@
+Event: UFC 270: Ngannou vs. Gane
+    Date: January 22, 2022
+    Location: Anaheim, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: VICTOR HENRY defeated RAONI BARCELOS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - VICTOR HENRY landed 181 significant strikes
+  - RAONI BARCELOS landed 134 significant strikes
+  - Knockdowns: VICTOR HENRY 0,  RAONI BARCELOS 0
+  - Takedowns: VICTOR HENRY 0,  RAONI BARCELOS 1

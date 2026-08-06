@@ -1,0 +1,11 @@
+Fighter: EDNALDO OLIVEIRA
+  Date of Birth: 1984-02-19
+  Career record: 2
+  First fight: 2012-01-14
+  Last fight: 2013-08-03
+
+Career Statistics:
+- Significant Strikes Landed :19
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

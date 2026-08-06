@@ -1,0 +1,11 @@
+Fighter: SAM HUGHES
+  Date of Birth: 1992-06-28
+  Career record: 12
+  First fight: 2020-12-12
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :710
+- Total takedowns landed :12
+- Knockdowns :0
+- Submission Attempts :2

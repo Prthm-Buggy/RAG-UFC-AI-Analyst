@@ -1,0 +1,13 @@
+Event: UFC 157: Rousey vs Carmouche
+    Date: February 23, 2013
+    Location: Anaheim, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: SAM STOUT defeated CAROS FODOR via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - SAM STOUT landed 46 significant strikes
+  - CAROS FODOR landed 47 significant strikes
+  - Knockdowns: SAM STOUT 0,  CAROS FODOR 0
+  - Takedowns: SAM STOUT 1,  CAROS FODOR 3

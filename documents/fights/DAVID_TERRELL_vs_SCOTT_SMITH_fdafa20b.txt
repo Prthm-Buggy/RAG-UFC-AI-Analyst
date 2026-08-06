@@ -1,0 +1,13 @@
+Event: UFC 59: Reality Check
+    Date: April 15, 2006
+    Location: Anaheim, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAVID TERRELL defeated SCOTT SMITH via Submission  
+  at 3:08 of round 1
+  Key stats:
+  - DAVID TERRELL landed 10 significant strikes
+  - SCOTT SMITH landed 3 significant strikes
+  - Knockdowns: DAVID TERRELL 0,  SCOTT SMITH 0
+  - Takedowns: DAVID TERRELL 1,  SCOTT SMITH 0

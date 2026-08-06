@@ -1,0 +1,13 @@
+Event: UFC 113: Machida vs Shogun 2
+    Date: May 08, 2010
+    Location: Montreal, Quebec, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: MATT MITRIONE defeated KEVIN FERGUSON via KO/TKO  
+  at 4:24 of round 2
+  Key stats:
+  - MATT MITRIONE landed 44 significant strikes
+  - KEVIN FERGUSON landed 5 significant strikes
+  - Knockdowns: MATT MITRIONE 0,  KEVIN FERGUSON 0
+  - Takedowns: MATT MITRIONE 0,  KEVIN FERGUSON 2

@@ -1,0 +1,13 @@
+Event: UFC 260: Miocic vs. Ngannou
+    Date: March 27, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALONZO MENIFIELD defeated FABIO CHERANT via Submission  
+  at 1:11 of round 1
+  Key stats:
+  - ALONZO MENIFIELD landed 3 significant strikes
+  - FABIO CHERANT landed 0 significant strikes
+  - Knockdowns: ALONZO MENIFIELD 0,  FABIO CHERANT 0
+  - Takedowns: ALONZO MENIFIELD 1,  FABIO CHERANT 0

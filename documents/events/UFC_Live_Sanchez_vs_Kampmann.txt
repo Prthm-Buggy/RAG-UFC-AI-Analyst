@@ -1,0 +1,18 @@
+Event : UFC Live: Sanchez vs Kampmann
+    Date : March 03, 2011
+    Location: Louisville, Kentucky, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Light Heavyweight, Middleweight, Lightweight, Welterweight
+
+    Fight Results:
+  - CHRIS WEIDMAN def. ALESSIO SAKARA via Decision - Unanimous(R3)
+- TAKEYA MIZUGAKI def. REUBEN DURAN via Decision - Split(R3)
+- DIEGO SANCHEZ def. MARTIN KAMPMANN via Decision - Unanimous(R3)
+- MARK MUNOZ def. CB DOLLAWAY via KO/TKO(R1)
+- CYRILLE DIABATE def. STEVE CANTWELL via Decision - Unanimous(R3)
+- IGOR POKRAJAC def. TODD BROWN via KO/TKO(R1)
+- DANNY CASTILLO def. JOE STEVENSON via Decision - Unanimous(R3)
+- ROUSIMAR PALHARES def. DAVID BRANCH via Submission(R2)
+- BRIAN BOWLES def. DAMACIO PAGE via Submission(R1)
+- DONGI YANG def. ROB KIMMONS via KO/TKO(R2)
+- SHANE ROLLER def. THIAGO TAVARES via KO/TKO(R2)

@@ -1,0 +1,11 @@
+Fighter: MARTIN SVENSSON
+  Date of Birth: 1985-04-25
+  Career record: 1
+  First fight: 2016-02-27
+  Last fight: 2016-02-27
+
+Career Statistics:
+- Significant Strikes Landed :13
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

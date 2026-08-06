@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brown vs Silva
+    Date: May 10, 2014
+    Location: Cincinnati, Ohio, USA
+    Weight Class: Middleweight
+    
+
+    Result: CONSTANTINOS PHILIPPOU defeated LORENZ LARKIN via KO/TKO  
+  at 3:47 of round 1
+  Key stats:
+  - CONSTANTINOS PHILIPPOU landed 15 significant strikes
+  - LORENZ LARKIN landed 16 significant strikes
+  - Knockdowns: CONSTANTINOS PHILIPPOU 1,  LORENZ LARKIN 0
+  - Takedowns: CONSTANTINOS PHILIPPOU 0,  LORENZ LARKIN 0

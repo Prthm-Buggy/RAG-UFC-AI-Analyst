@@ -1,0 +1,11 @@
+Fighter: JEREMY HORN
+  Date of Birth: 1975-08-25
+  Career record: 13
+  First fight: 1998-05-15
+  Last fight: 2009-01-17
+
+Career Statistics:
+- Significant Strikes Landed :155
+- Total takedowns landed :11
+- Knockdowns :0
+- Submission Attempts :12

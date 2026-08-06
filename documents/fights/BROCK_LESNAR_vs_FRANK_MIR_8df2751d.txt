@@ -1,0 +1,14 @@
+Event: UFC 100
+    Date: July 11, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BROCK LESNAR defeated FRANK MIR via KO/TKO  
+  at 1:48 of round 2
+  Key stats:
+  - BROCK LESNAR landed 47 significant strikes
+  - FRANK MIR landed 4 significant strikes
+  - Knockdowns: BROCK LESNAR 0,  FRANK MIR 0
+  - Takedowns: BROCK LESNAR 1,  FRANK MIR 0
+  Bonus: belt

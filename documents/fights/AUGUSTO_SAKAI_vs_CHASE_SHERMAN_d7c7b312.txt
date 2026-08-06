@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Marreta vs. Anders
+    Date: September 22, 2018
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: AUGUSTO SAKAI defeated CHASE SHERMAN via KO/TKO  
+  at 4:03 of round 3
+  Key stats:
+  - AUGUSTO SAKAI landed 111 significant strikes
+  - CHASE SHERMAN landed 79 significant strikes
+  - Knockdowns: AUGUSTO SAKAI 0,  CHASE SHERMAN 0
+  - Takedowns: AUGUSTO SAKAI 1,  CHASE SHERMAN 0

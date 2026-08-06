@@ -1,0 +1,11 @@
+Fighter: JENS PULVER
+  Date of Birth: 1974-12-06
+  Career record: 8
+  First fight: 2000-03-10
+  Last fight: 2007-06-23
+
+Career Statistics:
+- Significant Strikes Landed :180
+- Total takedowns landed :4
+- Knockdowns :1
+- Submission Attempts :3

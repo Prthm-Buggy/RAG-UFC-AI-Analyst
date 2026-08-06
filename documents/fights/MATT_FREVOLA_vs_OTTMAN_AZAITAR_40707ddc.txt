@@ -1,0 +1,13 @@
+Event: UFC 281: Adesanya vs. Pereira
+    Date: November 12, 2022
+    Location: New York City, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATT FREVOLA defeated OTTMAN AZAITAR via KO/TKO  
+  at 2:30 of round 1
+  Key stats:
+  - MATT FREVOLA landed 11 significant strikes
+  - OTTMAN AZAITAR landed 10 significant strikes
+  - Knockdowns: MATT FREVOLA 1,  OTTMAN AZAITAR 0
+  - Takedowns: MATT FREVOLA 0,  OTTMAN AZAITAR 0

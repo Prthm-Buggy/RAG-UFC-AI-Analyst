@@ -1,0 +1,14 @@
+Event: UFC 110: Nogueira vs Velasquez
+    Date: February 20, 2010
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Welterweight
+    
+
+    Result: CHRIS LYTLE defeated BRIAN FOSTER via Submission  
+  at 1:41 of round 1
+  Key stats:
+  - CHRIS LYTLE landed 2 significant strikes
+  - BRIAN FOSTER landed 5 significant strikes
+  - Knockdowns: CHRIS LYTLE 0,  BRIAN FOSTER 0
+  - Takedowns: CHRIS LYTLE 0,  BRIAN FOSTER 1
+  Bonus: sub

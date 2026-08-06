@@ -1,0 +1,11 @@
+Fighter: KYLE DAUKAUS
+  Date of Birth: 1993-02-27
+  Career record: 9
+  First fight: 2020-06-27
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :188
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :4

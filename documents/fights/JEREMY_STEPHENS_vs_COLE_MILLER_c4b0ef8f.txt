@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swick vs Burkman
+    Date: January 23, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JEREMY STEPHENS defeated COLE MILLER via KO/TKO  
+  at 4:44 of round 2
+  Key stats:
+  - JEREMY STEPHENS landed 30 significant strikes
+  - COLE MILLER landed 5 significant strikes
+  - Knockdowns: JEREMY STEPHENS 1,  COLE MILLER 0
+  - Takedowns: JEREMY STEPHENS 1,  COLE MILLER 0

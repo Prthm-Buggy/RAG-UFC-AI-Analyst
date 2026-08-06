@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Evans vs Salmon
+    Date: January 25, 2007
+    Location: Hollywood, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAKE O'BRIEN defeated HEATH HERRING via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JAKE O'BRIEN landed 13 significant strikes
+  - HEATH HERRING landed 11 significant strikes
+  - Knockdowns: JAKE O'BRIEN 0,  HEATH HERRING 1
+  - Takedowns: JAKE O'BRIEN 6,  HEATH HERRING 1

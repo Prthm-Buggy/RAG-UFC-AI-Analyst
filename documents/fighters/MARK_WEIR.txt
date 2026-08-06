@@ -1,0 +1,11 @@
+Fighter: MARK WEIR
+  Date of Birth: 1967-09-19
+  Career record: 3
+  First fight: 2002-07-13
+  Last fight: 2003-04-25
+
+Career Statistics:
+- Significant Strikes Landed :25
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :3

@@ -1,0 +1,13 @@
+Event: UFC 305: Du Plessis vs. Adesanya
+    Date: August 17, 2024
+    Location: Perth, Western Australia, Australia
+    Weight Class: Flyweight
+    
+
+    Result: JESUS AGUILAR defeated STEWART NICOLL via Submission  
+  at 2:39 of round 1
+  Key stats:
+  - JESUS AGUILAR landed 3 significant strikes
+  - STEWART NICOLL landed 8 significant strikes
+  - Knockdowns: JESUS AGUILAR 0,  STEWART NICOLL 0
+  - Takedowns: JESUS AGUILAR 0,  STEWART NICOLL 1

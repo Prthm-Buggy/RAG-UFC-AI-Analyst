@@ -1,0 +1,14 @@
+Event: UFC 223: Khabib vs. Iaquinta
+    Date: April 07, 2018
+    Location: Brooklyn, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: KHABIB NURMAGOMEDOV defeated AL IAQUINTA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - KHABIB NURMAGOMEDOV landed 134 significant strikes
+  - AL IAQUINTA landed 41 significant strikes
+  - Knockdowns: KHABIB NURMAGOMEDOV 0,  AL IAQUINTA 0
+  - Takedowns: KHABIB NURMAGOMEDOV 6,  AL IAQUINTA 0
+  Bonus: belt

@@ -1,0 +1,14 @@
+Event: UFC on FOX: Johnson vs Dodson
+    Date: January 26, 2013
+    Location: Chicago, Illinois, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RYAN BADER defeated VLADIMIR MATYUSHENKO via Submission  
+  at 0:50 of round 1
+  Key stats:
+  - RYAN BADER landed 3 significant strikes
+  - VLADIMIR MATYUSHENKO landed 0 significant strikes
+  - Knockdowns: RYAN BADER 1,  VLADIMIR MATYUSHENKO 0
+  - Takedowns: RYAN BADER 0,  VLADIMIR MATYUSHENKO 0
+  Bonus: sub

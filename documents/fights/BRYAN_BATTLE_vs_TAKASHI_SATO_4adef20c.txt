@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Santos vs. Hill
+    Date: August 06, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRYAN BATTLE defeated TAKASHI SATO via KO/TKO  
+  at 0:44 of round 1
+  Key stats:
+  - BRYAN BATTLE landed 7 significant strikes
+  - TAKASHI SATO landed 2 significant strikes
+  - Knockdowns: BRYAN BATTLE 1,  TAKASHI SATO 0
+  - Takedowns: BRYAN BATTLE 0,  TAKASHI SATO 0
+  Bonus: perf

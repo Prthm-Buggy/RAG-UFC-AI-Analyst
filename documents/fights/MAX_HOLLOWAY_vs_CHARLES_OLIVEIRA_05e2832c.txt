@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs Oliveira
+    Date: August 23, 2015
+    Location: Saskatoon, Saskatchewan, Canada
+    Weight Class: Featherweight
+    
+
+    Result: MAX HOLLOWAY defeated CHARLES OLIVEIRA via KO/TKO  
+  at 1:39 of round 1
+  Key stats:
+  - MAX HOLLOWAY landed 14 significant strikes
+  - CHARLES OLIVEIRA landed 5 significant strikes
+  - Knockdowns: MAX HOLLOWAY 0,  CHARLES OLIVEIRA 0
+  - Takedowns: MAX HOLLOWAY 0,  CHARLES OLIVEIRA 0

@@ -1,0 +1,13 @@
+Event: UFC 152: Jones vs Belfort
+    Date: September 22, 2012
+    Location: Toronto, Ontario, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: MITCH GAGNON defeated WALEL WATSON via Submission  
+  at 1:09 of round 1
+  Key stats:
+  - MITCH GAGNON landed 5 significant strikes
+  - WALEL WATSON landed 1 significant strikes
+  - Knockdowns: MITCH GAGNON 1,  WALEL WATSON 0
+  - Takedowns: MITCH GAGNON 0,  WALEL WATSON 0

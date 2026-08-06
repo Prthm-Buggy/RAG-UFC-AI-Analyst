@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Garbrandt
+    Date: May 22, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DAMIR ISMAGULOV defeated RAFAEL ALVES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DAMIR ISMAGULOV landed 56 significant strikes
+  - RAFAEL ALVES landed 30 significant strikes
+  - Knockdowns: DAMIR ISMAGULOV 0,  RAFAEL ALVES 1
+  - Takedowns: DAMIR ISMAGULOV 2,  RAFAEL ALVES 0

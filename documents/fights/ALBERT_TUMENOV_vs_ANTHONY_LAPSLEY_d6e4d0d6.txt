@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Brown vs Silva
+    Date: May 10, 2014
+    Location: Cincinnati, Ohio, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALBERT TUMENOV defeated ANTHONY LAPSLEY via KO/TKO  
+  at 3:56 of round 1
+  Key stats:
+  - ALBERT TUMENOV landed 6 significant strikes
+  - ANTHONY LAPSLEY landed 2 significant strikes
+  - Knockdowns: ALBERT TUMENOV 2,  ANTHONY LAPSLEY 0
+  - Takedowns: ALBERT TUMENOV 0,  ANTHONY LAPSLEY 0

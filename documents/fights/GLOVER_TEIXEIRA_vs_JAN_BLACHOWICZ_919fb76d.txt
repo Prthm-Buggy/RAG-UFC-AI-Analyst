@@ -1,0 +1,14 @@
+Event: UFC 267: Blachowicz vs. Teixeira
+    Date: October 30, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: GLOVER TEIXEIRA defeated JAN BLACHOWICZ via Submission  
+  at 3:02 of round 2
+  Key stats:
+  - GLOVER TEIXEIRA landed 23 significant strikes
+  - JAN BLACHOWICZ landed 28 significant strikes
+  - Knockdowns: GLOVER TEIXEIRA 0,  JAN BLACHOWICZ 0
+  - Takedowns: GLOVER TEIXEIRA 2,  JAN BLACHOWICZ 0
+  Bonus: belt

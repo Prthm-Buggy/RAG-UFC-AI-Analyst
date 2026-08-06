@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Anjos vs. Ferguson
+    Date: November 05, 2016
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Bantamweight
+    
+
+    Result: DOUGLAS SILVA DE ANDRADE defeated HENRY BRIONES via KO/TKO  
+  at 2:33 of round 3
+  Key stats:
+  - DOUGLAS SILVA DE ANDRADE landed 72 significant strikes
+  - HENRY BRIONES landed 67 significant strikes
+  - Knockdowns: DOUGLAS SILVA DE ANDRADE 1,  HENRY BRIONES 0
+  - Takedowns: DOUGLAS SILVA DE ANDRADE 1,  HENRY BRIONES 0
+  Bonus: perf

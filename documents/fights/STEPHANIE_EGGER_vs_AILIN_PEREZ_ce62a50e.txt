@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gane vs. Tuivasa
+    Date: September 03, 2022
+    Location: Paris, Ile-de-France, France
+    Weight Class: Women's Featherweight
+    
+
+    Result: STEPHANIE EGGER defeated AILIN PEREZ via Submission  
+  at 4:54 of round 2
+  Key stats:
+  - STEPHANIE EGGER landed 15 significant strikes
+  - AILIN PEREZ landed 16 significant strikes
+  - Knockdowns: STEPHANIE EGGER 0,  AILIN PEREZ 0
+  - Takedowns: STEPHANIE EGGER 2,  AILIN PEREZ 1

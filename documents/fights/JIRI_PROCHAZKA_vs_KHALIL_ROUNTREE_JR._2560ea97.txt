@@ -1,0 +1,14 @@
+Event: UFC 320: Ankalaev vs. Pereira 2
+    Date: October 04, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIRI PROCHAZKA defeated KHALIL ROUNTREE JR. via KO/TKO  
+  at 3:04 of round 3
+  Key stats:
+  - JIRI PROCHAZKA landed 71 significant strikes
+  - KHALIL ROUNTREE JR. landed 66 significant strikes
+  - Knockdowns: JIRI PROCHAZKA 1,  KHALIL ROUNTREE JR. 0
+  - Takedowns: JIRI PROCHAZKA 0,  KHALIL ROUNTREE JR. 0
+  Bonus: perf

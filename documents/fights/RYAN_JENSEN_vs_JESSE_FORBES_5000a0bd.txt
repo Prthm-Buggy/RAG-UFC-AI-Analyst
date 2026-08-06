@@ -1,0 +1,14 @@
+Event: UFC 114: Rampage vs Evans
+    Date: May 29, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: RYAN JENSEN defeated JESSE FORBES via Submission  
+  at 1:06 of round 1
+  Key stats:
+  - RYAN JENSEN landed 3 significant strikes
+  - JESSE FORBES landed 3 significant strikes
+  - Knockdowns: RYAN JENSEN 0,  JESSE FORBES 1
+  - Takedowns: RYAN JENSEN 0,  JESSE FORBES 1
+  Bonus: sub

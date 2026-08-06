@@ -1,0 +1,11 @@
+Fighter: NAD NARIMANI
+  Date of Birth: 1987-04-14
+  Career record: 4
+  First fight: 2018-07-22
+  Last fight: 2020-07-18
+
+Career Statistics:
+- Significant Strikes Landed :182
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :0

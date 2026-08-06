@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Clark
+    Date: November 28, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY SMITH defeated DEVIN CLARK via Submission  
+  at 2:34 of round 1
+  Key stats:
+  - ANTHONY SMITH landed 1 significant strikes
+  - DEVIN CLARK landed 1 significant strikes
+  - Knockdowns: ANTHONY SMITH 0,  DEVIN CLARK 0
+  - Takedowns: ANTHONY SMITH 1,  DEVIN CLARK 0
+  Bonus: perf

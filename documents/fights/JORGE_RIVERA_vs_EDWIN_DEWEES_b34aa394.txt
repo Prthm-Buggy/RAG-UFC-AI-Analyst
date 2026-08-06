@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: The Comeback Finale
+    Date: November 11, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JORGE RIVERA defeated EDWIN DEWEES via KO/TKO  
+  at 2:37 of round 1
+  Key stats:
+  - JORGE RIVERA landed 24 significant strikes
+  - EDWIN DEWEES landed 6 significant strikes
+  - Knockdowns: JORGE RIVERA 1,  EDWIN DEWEES 0
+  - Takedowns: JORGE RIVERA 0,  EDWIN DEWEES 0

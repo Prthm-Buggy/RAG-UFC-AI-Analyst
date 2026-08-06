@@ -1,0 +1,11 @@
+Fighter: MUHAMMAD MOKAEV
+  Date of Birth: 2000-07-30
+  Career record: 7
+  First fight: 2022-03-19
+  Last fight: 2024-07-27
+
+Career Statistics:
+- Significant Strikes Landed :142
+- Total takedowns landed :31
+- Knockdowns :1
+- Submission Attempts :5

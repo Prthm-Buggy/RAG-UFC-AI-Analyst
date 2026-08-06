@@ -1,0 +1,18 @@
+Event : UFC 282: Blachowicz vs. Ankalaev
+    Date : December 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Heavyweight, Catch Weight, Middleweight, Featherweight, Lightweight
+
+    Fight Results:
+  - DRICUS DU PLESSIS def. DARREN TILL via Submission(R3)
+- ILIA TOPURIA def. BRYCE MITCHELL via Submission(R2)
+- JAIRZINHO ROZENSTRUIK def. CHRIS DAUKAUS via KO/TKO(R1)
+- CHRIS CURTIS def. JOAQUIN BUCKLEY via KO/TKO(R2)
+- TJ BROWN def. ERIK SILVA via Submission(R3)
+- PADDY PIMBLETT def. JARED GORDON via Decision - Unanimous(R3)
+- BILLY QUARANTILLO def. ALEXANDER HERNANDEZ via KO/TKO(R2)
+- EDMEN SHAHBAZYAN def. DALCHA LUNGIAMBULA via KO/TKO(R2)
+- SANTIAGO PONZINIBBIO def. ALEX MORONO via KO/TKO(R3)
+- CAMERON SAAIMAN def. STEVEN KOSLOW via KO/TKO(R3)
+- RAUL ROSAS JR. def. JAY PERRIN via Submission(R1)

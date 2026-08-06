@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blaydes vs. Ngannou 2
+    Date: November 24, 2018
+    Location: Beijing, China
+    Weight Class: Bantamweight
+    
+
+    Result: LOUIS SMOLKA defeated SUMUDAERJI via Submission  
+  at 2:07 of round 2
+  Key stats:
+  - LOUIS SMOLKA landed 32 significant strikes
+  - SUMUDAERJI landed 18 significant strikes
+  - Knockdowns: LOUIS SMOLKA 0,  SUMUDAERJI 0
+  - Takedowns: LOUIS SMOLKA 2,  SUMUDAERJI 0

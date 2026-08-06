@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cerrone vs. Medeiros
+    Date: February 18, 2018
+    Location: Austin, Texas, USA
+    Weight Class: Flyweight
+    
+
+    Result: ROBERT SANCHEZ defeated JOBY SANCHEZ via Submission  
+  at 1:50 of round 1
+  Key stats:
+  - ROBERT SANCHEZ landed 2 significant strikes
+  - JOBY SANCHEZ landed 1 significant strikes
+  - Knockdowns: ROBERT SANCHEZ 0,  JOBY SANCHEZ 0
+  - Takedowns: ROBERT SANCHEZ 3,  JOBY SANCHEZ 0

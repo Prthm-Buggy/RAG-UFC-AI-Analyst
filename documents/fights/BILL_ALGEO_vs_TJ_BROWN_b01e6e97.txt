@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holloway vs. Allen
+    Date: April 15, 2023
+    Location: Kansas City, Missouri, USA
+    Weight Class: Featherweight
+    
+
+    Result: BILL ALGEO defeated TJ BROWN via Submission  
+  at 1:40 of round 2
+  Key stats:
+  - BILL ALGEO landed 64 significant strikes
+  - TJ BROWN landed 46 significant strikes
+  - Knockdowns: BILL ALGEO 1,  TJ BROWN 0
+  - Takedowns: BILL ALGEO 1,  TJ BROWN 1
+  Bonus: fight

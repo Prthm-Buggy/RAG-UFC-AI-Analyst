@@ -1,0 +1,11 @@
+Fighter: MIRKO FILIPOVIC
+  Date of Birth: 1974-09-10
+  Career record: 11
+  First fight: 2007-02-03
+  Last fight: 2015-04-11
+
+Career Statistics:
+- Significant Strikes Landed :236
+- Total takedowns landed :2
+- Knockdowns :3
+- Submission Attempts :3

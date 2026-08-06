@@ -1,0 +1,13 @@
+Event: UFC 18: The Road to the Heavyweight Title
+    Date: January 08, 1999
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PEDRO RIZZO defeated MARK COLEMAN via Decision - Split  
+  at 3:00 of round 2
+  Key stats:
+  - PEDRO RIZZO landed 16 significant strikes
+  - MARK COLEMAN landed 25 significant strikes
+  - Knockdowns: PEDRO RIZZO 0,  MARK COLEMAN 0
+  - Takedowns: PEDRO RIZZO 0,  MARK COLEMAN 2

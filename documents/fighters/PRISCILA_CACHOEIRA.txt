@@ -1,0 +1,11 @@
+Fighter: PRISCILA CACHOEIRA
+  Date of Birth: 1988-08-19
+  Career record: 14
+  First fight: 2018-02-03
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :528
+- Total takedowns landed :3
+- Knockdowns :3
+- Submission Attempts :0

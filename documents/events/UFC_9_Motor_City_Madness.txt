@@ -1,0 +1,14 @@
+Event : UFC 9: Motor City Madness
+    Date : May 17, 1996
+    Location: Detroit, Michigan, USA
+    Number of Fights: 7
+    Weight Classes: Open Weight
+
+    Fight Results:
+  - DON FRYE def. AMAURY BITETTI via KO/TKO(R1)
+- CAL WORSHAM def. ZANE FRAZIER via KO/TKO(R1)
+- STEVE NELMARK def. TAI BOWDEN via TKO - Doctor's Stoppage(R1)
+- RAFAEL CARINO def. MATT ANDERSEN via KO/TKO(R1)
+- MARK HALL def. KOJI KITAO via TKO - Doctor's Stoppage(R1)
+- MARK SCHULTZ def. GARY GOODRIDGE via TKO - Doctor's Stoppage(R1)
+- DAN SEVERN def. KEN SHAMROCK via Decision - Split(R3)

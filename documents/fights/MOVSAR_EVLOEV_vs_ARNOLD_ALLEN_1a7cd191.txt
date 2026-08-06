@@ -1,0 +1,13 @@
+Event: UFC 297: Strickland vs. Du Plessis
+    Date: January 20, 2024
+    Location: Toronto, Ontario, Canada
+    Weight Class: Featherweight
+    
+
+    Result: MOVSAR EVLOEV defeated ARNOLD ALLEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MOVSAR EVLOEV landed 51 significant strikes
+  - ARNOLD ALLEN landed 59 significant strikes
+  - Knockdowns: MOVSAR EVLOEV 0,  ARNOLD ALLEN 0
+  - Takedowns: MOVSAR EVLOEV 5,  ARNOLD ALLEN 0

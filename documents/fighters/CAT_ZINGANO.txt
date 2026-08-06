@@ -1,0 +1,11 @@
+Fighter: CAT ZINGANO
+  Date of Birth: 1982-07-01
+  Career record: 7
+  First fight: 2013-04-13
+  Last fight: 2018-12-29
+
+Career Statistics:
+- Significant Strikes Landed :181
+- Total takedowns landed :13
+- Knockdowns :0
+- Submission Attempts :4

@@ -1,0 +1,11 @@
+Fighter: JOE PYFER
+  Date of Birth: 1996-09-17
+  Career record: 8
+  First fight: 2022-09-17
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :253
+- Total takedowns landed :6
+- Knockdowns :5
+- Submission Attempts :4

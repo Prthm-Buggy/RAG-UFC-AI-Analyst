@@ -1,0 +1,13 @@
+Event: UFC 229: Khabib vs. McGregor
+    Date: October 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JUSSIER FORMIGA defeated SERGIO PETTIS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JUSSIER FORMIGA landed 18 significant strikes
+  - SERGIO PETTIS landed 30 significant strikes
+  - Knockdowns: JUSSIER FORMIGA 0,  SERGIO PETTIS 0
+  - Takedowns: JUSSIER FORMIGA 2,  SERGIO PETTIS 0

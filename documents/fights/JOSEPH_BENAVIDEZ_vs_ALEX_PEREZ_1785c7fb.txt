@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Heavy Hitters Finale
+    Date: November 30, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOSEPH BENAVIDEZ defeated ALEX PEREZ via KO/TKO  
+  at 4:19 of round 1
+  Key stats:
+  - JOSEPH BENAVIDEZ landed 35 significant strikes
+  - ALEX PEREZ landed 14 significant strikes
+  - Knockdowns: JOSEPH BENAVIDEZ 0,  ALEX PEREZ 0
+  - Takedowns: JOSEPH BENAVIDEZ 1,  ALEX PEREZ 1
+  Bonus: perf

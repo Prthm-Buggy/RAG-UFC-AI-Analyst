@@ -1,0 +1,11 @@
+Fighter: XAVIER FOUPA-POKAM
+  Date of Birth: 1982-07-03
+  Career record: 2
+  First fight: 2009-04-18
+  Last fight: 2009-05-23
+
+Career Statistics:
+- Significant Strikes Landed :23
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

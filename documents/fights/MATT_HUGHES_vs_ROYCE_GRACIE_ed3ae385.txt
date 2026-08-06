@@ -1,0 +1,13 @@
+Event: UFC 60: Hughes vs Gracie
+    Date: May 27, 2006
+    Location: Los Angeles, California, USA
+    Weight Class: Catch Weight
+    
+
+    Result: MATT HUGHES defeated ROYCE GRACIE via KO/TKO  
+  at 4:39 of round 1
+  Key stats:
+  - MATT HUGHES landed 32 significant strikes
+  - ROYCE GRACIE landed 7 significant strikes
+  - Knockdowns: MATT HUGHES 0,  ROYCE GRACIE 0
+  - Takedowns: MATT HUGHES 1,  ROYCE GRACIE 0

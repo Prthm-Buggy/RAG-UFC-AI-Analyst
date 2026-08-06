@@ -1,0 +1,14 @@
+Event: UFC 6: Clash of the Titans
+    Date: July 14, 1995
+    Location: Casper, Wyoming, USA
+    Weight Class: Open Weight
+    
+
+    Result: KEN SHAMROCK defeated DAN SEVERN via Submission  
+  at 2:14 of round 1
+  Key stats:
+  - KEN SHAMROCK landed 2 significant strikes
+  - DAN SEVERN landed 2 significant strikes
+  - Knockdowns: KEN SHAMROCK 0,  DAN SEVERN 0
+  - Takedowns: KEN SHAMROCK 0,  DAN SEVERN 0
+  Bonus: belt

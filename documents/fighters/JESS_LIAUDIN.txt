@@ -1,0 +1,11 @@
+Fighter: JESS LIAUDIN
+  Date of Birth: Unknown
+  Career record: 5
+  First fight: 2007-04-21
+  Last fight: 2008-10-18
+
+Career Statistics:
+- Significant Strikes Landed :90
+- Total takedowns landed :8
+- Knockdowns :2
+- Submission Attempts :4

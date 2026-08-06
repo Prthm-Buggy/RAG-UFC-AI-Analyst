@@ -1,0 +1,13 @@
+Event: UFC 127: Penn vs Fitch
+    Date: February 26, 2011
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Featherweight
+    
+
+    Result: ZHANG TIEQUAN defeated JASON REINHARDT via Submission  
+  at 0:48 of round 1
+  Key stats:
+  - ZHANG TIEQUAN landed 4 significant strikes
+  - JASON REINHARDT landed 2 significant strikes
+  - Knockdowns: ZHANG TIEQUAN 0,  JASON REINHARDT 0
+  - Takedowns: ZHANG TIEQUAN 0,  JASON REINHARDT 0

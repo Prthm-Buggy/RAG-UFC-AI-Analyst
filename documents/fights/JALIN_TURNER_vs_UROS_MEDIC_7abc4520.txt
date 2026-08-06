@@ -1,0 +1,13 @@
+Event: UFC 266: Volkanovski vs. Ortega
+    Date: September 25, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JALIN TURNER defeated UROS MEDIC via Submission  
+  at 4:01 of round 1
+  Key stats:
+  - JALIN TURNER landed 25 significant strikes
+  - UROS MEDIC landed 6 significant strikes
+  - Knockdowns: JALIN TURNER 0,  UROS MEDIC 0
+  - Takedowns: JALIN TURNER 1,  UROS MEDIC 0

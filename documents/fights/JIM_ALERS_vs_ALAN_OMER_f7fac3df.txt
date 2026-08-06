@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Minotauro vs Nelson
+    Date: April 11, 2014
+    Location: Abu Dhabi, United Arab Emirates
+    Weight Class: Featherweight
+    
+
+    Result: JIM ALERS defeated ALAN OMER via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JIM ALERS landed 36 significant strikes
+  - ALAN OMER landed 58 significant strikes
+  - Knockdowns: JIM ALERS 1,  ALAN OMER 0
+  - Takedowns: JIM ALERS 2,  ALAN OMER 1

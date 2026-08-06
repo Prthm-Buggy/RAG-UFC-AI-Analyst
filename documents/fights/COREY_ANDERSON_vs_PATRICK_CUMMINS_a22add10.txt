@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Lee
+    Date: April 21, 2018
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: COREY ANDERSON defeated PATRICK CUMMINS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - COREY ANDERSON landed 64 significant strikes
+  - PATRICK CUMMINS landed 31 significant strikes
+  - Knockdowns: COREY ANDERSON 0,  PATRICK CUMMINS 0
+  - Takedowns: COREY ANDERSON 12,  PATRICK CUMMINS 0

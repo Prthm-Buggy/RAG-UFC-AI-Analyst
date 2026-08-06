@@ -1,0 +1,14 @@
+Event: UFC 324: Gaethje vs. Pimblett
+    Date: January 24, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JOSH HOKIT defeated DENZEL FREEMAN via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - JOSH HOKIT landed 37 significant strikes
+  - DENZEL FREEMAN landed 0 significant strikes
+  - Knockdowns: JOSH HOKIT 0,  DENZEL FREEMAN 0
+  - Takedowns: JOSH HOKIT 1,  DENZEL FREEMAN 0
+  Bonus: perf

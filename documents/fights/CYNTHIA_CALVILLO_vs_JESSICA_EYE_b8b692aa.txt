@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Eye vs. Calvillo
+    Date: June 13, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: CYNTHIA CALVILLO defeated JESSICA EYE via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CYNTHIA CALVILLO landed 113 significant strikes
+  - JESSICA EYE landed 70 significant strikes
+  - Knockdowns: CYNTHIA CALVILLO 0,  JESSICA EYE 0
+  - Takedowns: CYNTHIA CALVILLO 4,  JESSICA EYE 0

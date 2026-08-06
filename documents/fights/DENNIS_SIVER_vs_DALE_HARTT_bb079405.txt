@@ -1,0 +1,13 @@
+Event: UFC 99: The Comeback
+    Date: June 13, 2009
+    Location: Cologne, North Rhine-Westphalia, Germany
+    Weight Class: Lightweight
+    
+
+    Result: DENNIS SIVER defeated DALE HARTT via Submission  
+  at 3:23 of round 1
+  Key stats:
+  - DENNIS SIVER landed 8 significant strikes
+  - DALE HARTT landed 5 significant strikes
+  - Knockdowns: DENNIS SIVER 0,  DALE HARTT 0
+  - Takedowns: DENNIS SIVER 0,  DALE HARTT 1

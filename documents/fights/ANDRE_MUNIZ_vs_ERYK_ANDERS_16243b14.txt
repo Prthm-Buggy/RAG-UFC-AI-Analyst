@@ -1,0 +1,13 @@
+Event: UFC 269: Oliveira vs. Poirier
+    Date: December 11, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDRE MUNIZ defeated ERYK ANDERS via Submission  
+  at 3:13 of round 1
+  Key stats:
+  - ANDRE MUNIZ landed 8 significant strikes
+  - ERYK ANDERS landed 3 significant strikes
+  - Knockdowns: ANDRE MUNIZ 0,  ERYK ANDERS 0
+  - Takedowns: ANDRE MUNIZ 2,  ERYK ANDERS 0

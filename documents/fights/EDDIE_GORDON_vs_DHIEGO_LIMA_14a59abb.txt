@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Edgar vs. Team Penn Finale
+    Date: July 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: EDDIE GORDON defeated DHIEGO LIMA via KO/TKO  
+  at 1:11 of round 1
+  Key stats:
+  - EDDIE GORDON landed 22 significant strikes
+  - DHIEGO LIMA landed 5 significant strikes
+  - Knockdowns: EDDIE GORDON 1,  DHIEGO LIMA 0
+  - Takedowns: EDDIE GORDON 0,  DHIEGO LIMA 0
+  Bonus: belt

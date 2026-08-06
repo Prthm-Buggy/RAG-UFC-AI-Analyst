@@ -1,0 +1,13 @@
+Event: UFC 310: Pantoja vs. Asakura
+    Date: December 07, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SHAVKAT RAKHMONOV defeated IAN MACHADO GARRY via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - SHAVKAT RAKHMONOV landed 37 significant strikes
+  - IAN MACHADO GARRY landed 42 significant strikes
+  - Knockdowns: SHAVKAT RAKHMONOV 0,  IAN MACHADO GARRY 0
+  - Takedowns: SHAVKAT RAKHMONOV 2,  IAN MACHADO GARRY 1

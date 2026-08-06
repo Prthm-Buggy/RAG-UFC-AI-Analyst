@@ -1,0 +1,11 @@
+Fighter: BRIAN COBB
+  Date of Birth: 1980-09-03
+  Career record: 1
+  First fight: 2009-02-21
+  Last fight: 2009-02-21
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

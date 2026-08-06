@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edgar vs Faber
+    Date: May 16, 2015
+    Location: Manila, Philippines
+    Weight Class: Lightweight
+    
+
+    Result: JON TUCK defeated TAE HYUN BANG via Submission  
+  at 3:56 of round 1
+  Key stats:
+  - JON TUCK landed 13 significant strikes
+  - TAE HYUN BANG landed 12 significant strikes
+  - Knockdowns: JON TUCK 1,  TAE HYUN BANG 0
+  - Takedowns: JON TUCK 0,  TAE HYUN BANG 1
+  Bonus: perf

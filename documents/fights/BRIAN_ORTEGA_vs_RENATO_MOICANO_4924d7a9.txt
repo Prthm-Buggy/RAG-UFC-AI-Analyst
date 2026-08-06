@@ -1,0 +1,14 @@
+Event: UFC 214: Cormier vs. Jones 2
+    Date: July 29, 2017
+    Location: Anaheim, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: BRIAN ORTEGA defeated RENATO MOICANO via Submission  
+  at 2:59 of round 3
+  Key stats:
+  - BRIAN ORTEGA landed 65 significant strikes
+  - RENATO MOICANO landed 109 significant strikes
+  - Knockdowns: BRIAN ORTEGA 0,  RENATO MOICANO 0
+  - Takedowns: BRIAN ORTEGA 0,  RENATO MOICANO 2
+  Bonus: fight

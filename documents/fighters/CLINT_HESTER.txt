@@ -1,0 +1,11 @@
+Fighter: CLINT HESTER
+  Date of Birth: 1986-11-21
+  Career record: 7
+  First fight: 2013-04-13
+  Last fight: 2016-04-23
+
+Career Statistics:
+- Significant Strikes Landed :248
+- Total takedowns landed :5
+- Knockdowns :3
+- Submission Attempts :0

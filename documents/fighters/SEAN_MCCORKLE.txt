@@ -1,0 +1,11 @@
+Fighter: SEAN MCCORKLE
+  Date of Birth: 1976-07-17
+  Career record: 3
+  First fight: 2010-09-25
+  Last fight: 2011-03-26
+
+Career Statistics:
+- Significant Strikes Landed :12
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :4

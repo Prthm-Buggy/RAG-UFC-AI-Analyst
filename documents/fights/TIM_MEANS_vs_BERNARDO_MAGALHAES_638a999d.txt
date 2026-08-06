@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Sanchez vs Ellenberger
+    Date: February 15, 2012
+    Location: Omaha, Nebraska, USA
+    Weight Class: Lightweight
+    
+
+    Result: TIM MEANS defeated BERNARDO MAGALHAES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TIM MEANS landed 83 significant strikes
+  - BERNARDO MAGALHAES landed 28 significant strikes
+  - Knockdowns: TIM MEANS 0,  BERNARDO MAGALHAES 0
+  - Takedowns: TIM MEANS 0,  BERNARDO MAGALHAES 0

@@ -1,0 +1,11 @@
+Fighter: LYMAN GOOD
+  Date of Birth: 1985-05-26
+  Career record: 6
+  First fight: 2015-07-15
+  Last fight: 2020-06-20
+
+Career Statistics:
+- Significant Strikes Landed :293
+- Total takedowns landed :1
+- Knockdowns :3
+- Submission Attempts :0

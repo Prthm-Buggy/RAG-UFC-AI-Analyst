@@ -1,0 +1,11 @@
+Fighter: JEREMIAH WELLS
+  Date of Birth: 1986-10-30
+  Career record: 7
+  First fight: 2021-06-26
+  Last fight: 2025-11-01
+
+Career Statistics:
+- Significant Strikes Landed :161
+- Total takedowns landed :14
+- Knockdowns :2
+- Submission Attempts :6

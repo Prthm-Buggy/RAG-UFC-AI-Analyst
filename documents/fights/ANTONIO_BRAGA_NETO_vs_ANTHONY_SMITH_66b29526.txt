@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Nogueira vs. Werdum
+    Date: June 08, 2013
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: ANTONIO BRAGA NETO defeated ANTHONY SMITH via Submission  
+  at 1:52 of round 1
+  Key stats:
+  - ANTONIO BRAGA NETO landed 6 significant strikes
+  - ANTHONY SMITH landed 5 significant strikes
+  - Knockdowns: ANTONIO BRAGA NETO 0,  ANTHONY SMITH 0
+  - Takedowns: ANTONIO BRAGA NETO 1,  ANTHONY SMITH 0

@@ -1,0 +1,13 @@
+Event: UFC 12: Judgement Day
+    Date: February 07, 1997
+    Location: Dothan, Alabama, USA
+    Weight Class: Lightweight
+    
+
+    Result: JERRY BOHLANDER defeated NICK SANZO via Submission  
+  at 0:39 of round 1
+  Key stats:
+  - JERRY BOHLANDER landed 2 significant strikes
+  - NICK SANZO landed 0 significant strikes
+  - Knockdowns: JERRY BOHLANDER 0,  NICK SANZO 0
+  - Takedowns: JERRY BOHLANDER 1,  NICK SANZO 0

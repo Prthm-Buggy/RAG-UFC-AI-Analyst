@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Garcia vs. Onama
+    Date: November 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: STEVE GARCIA defeated DAVID ONAMA via KO/TKO  
+  at 3:34 of round 1
+  Key stats:
+  - STEVE GARCIA landed 33 significant strikes
+  - DAVID ONAMA landed 2 significant strikes
+  - Knockdowns: STEVE GARCIA 1,  DAVID ONAMA 0
+  - Takedowns: STEVE GARCIA 0,  DAVID ONAMA 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: DARIAN WEEKS
+  Date of Birth: 1993-11-23
+  Career record: 3
+  First fight: 2021-12-04
+  Last fight: 2022-09-10
+
+Career Statistics:
+- Significant Strikes Landed :202
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :0

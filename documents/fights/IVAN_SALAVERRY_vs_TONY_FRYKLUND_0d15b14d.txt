@@ -1,0 +1,13 @@
+Event: UFC 50: The War Of '04
+    Date: October 22, 2004
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: IVAN SALAVERRY defeated TONY FRYKLUND via Submission  
+  at 1:36 of round 1
+  Key stats:
+  - IVAN SALAVERRY landed 9 significant strikes
+  - TONY FRYKLUND landed 4 significant strikes
+  - Knockdowns: IVAN SALAVERRY 1,  TONY FRYKLUND 0
+  - Takedowns: IVAN SALAVERRY 0,  TONY FRYKLUND 0

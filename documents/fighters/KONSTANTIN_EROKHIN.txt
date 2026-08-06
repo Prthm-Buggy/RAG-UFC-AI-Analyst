@@ -1,0 +1,11 @@
+Fighter: KONSTANTIN EROKHIN
+  Date of Birth: 1983-01-31
+  Career record: 2
+  First fight: 2015-01-24
+  Last fight: 2015-12-11
+
+Career Statistics:
+- Significant Strikes Landed :32
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

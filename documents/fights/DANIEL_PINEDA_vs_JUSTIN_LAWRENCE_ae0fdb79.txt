@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Jones vs. Team Sonnen Finale
+    Date: April 13, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DANIEL PINEDA defeated JUSTIN LAWRENCE via Submission  
+  at 1:35 of round 1
+  Key stats:
+  - DANIEL PINEDA landed 1 significant strikes
+  - JUSTIN LAWRENCE landed 0 significant strikes
+  - Knockdowns: DANIEL PINEDA 0,  JUSTIN LAWRENCE 0
+  - Takedowns: DANIEL PINEDA 2,  JUSTIN LAWRENCE 0
+  Bonus: sub

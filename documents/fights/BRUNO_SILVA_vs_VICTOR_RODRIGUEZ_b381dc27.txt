@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Font vs. Garbrandt
+    Date: May 22, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: BRUNO SILVA defeated VICTOR RODRIGUEZ via KO/TKO  
+  at 1:00 of round 1
+  Key stats:
+  - BRUNO SILVA landed 6 significant strikes
+  - VICTOR RODRIGUEZ landed 0 significant strikes
+  - Knockdowns: BRUNO SILVA 1,  VICTOR RODRIGUEZ 0
+  - Takedowns: BRUNO SILVA 0,  VICTOR RODRIGUEZ 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Thompson vs. Till
+    Date: May 27, 2018
+    Location: Liverpool, England, United Kingdom
+    Weight Class: Women's Flyweight
+    
+
+    Result: GILLIAN ROBERTSON defeated MOLLY MCCANN via Submission  
+  at 2:05 of round 2
+  Key stats:
+  - GILLIAN ROBERTSON landed 17 significant strikes
+  - MOLLY MCCANN landed 10 significant strikes
+  - Knockdowns: GILLIAN ROBERTSON 0,  MOLLY MCCANN 0
+  - Takedowns: GILLIAN ROBERTSON 2,  MOLLY MCCANN 0

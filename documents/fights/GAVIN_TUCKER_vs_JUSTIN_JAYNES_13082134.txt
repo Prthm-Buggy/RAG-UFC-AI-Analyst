@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lewis vs. Oleinik
+    Date: August 08, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: GAVIN TUCKER defeated JUSTIN JAYNES via Submission  
+  at 1:43 of round 3
+  Key stats:
+  - GAVIN TUCKER landed 87 significant strikes
+  - JUSTIN JAYNES landed 41 significant strikes
+  - Knockdowns: GAVIN TUCKER 0,  JUSTIN JAYNES 1
+  - Takedowns: GAVIN TUCKER 1,  JUSTIN JAYNES 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: PAT SABATINI
+  Date of Birth: 1990-11-09
+  Career record: 11
+  First fight: 2021-04-24
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :178
+- Total takedowns landed :30
+- Knockdowns :1
+- Submission Attempts :9

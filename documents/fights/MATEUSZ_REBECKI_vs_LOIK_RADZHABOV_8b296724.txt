@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Topuria
+    Date: June 24, 2023
+    Location: Jacksonville, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATEUSZ REBECKI defeated LOIK RADZHABOV via KO/TKO  
+  at 2:36 of round 2
+  Key stats:
+  - MATEUSZ REBECKI landed 54 significant strikes
+  - LOIK RADZHABOV landed 19 significant strikes
+  - Knockdowns: MATEUSZ REBECKI 2,  LOIK RADZHABOV 0
+  - Takedowns: MATEUSZ REBECKI 1,  LOIK RADZHABOV 0

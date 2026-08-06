@@ -1,0 +1,11 @@
+Fighter: CONNOR MATTHEWS
+  Date of Birth: 1992-05-31
+  Career record: 3
+  First fight: 2024-03-30
+  Last fight: 2025-05-17
+
+Career Statistics:
+- Significant Strikes Landed :69
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

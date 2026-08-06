@@ -1,0 +1,13 @@
+Event: UFC 202: Diaz vs. McGregor 2
+    Date: August 20, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MARVIN VETTORI defeated ALBERTO UDA via Submission  
+  at 4:30 of round 1
+  Key stats:
+  - MARVIN VETTORI landed 10 significant strikes
+  - ALBERTO UDA landed 4 significant strikes
+  - Knockdowns: MARVIN VETTORI 0,  ALBERTO UDA 0
+  - Takedowns: MARVIN VETTORI 1,  ALBERTO UDA 1

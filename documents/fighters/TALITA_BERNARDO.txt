@@ -1,0 +1,11 @@
+Fighter: TALITA BERNARDO
+  Date of Birth: 1987-03-04
+  Career record: 4
+  First fight: 2017-09-02
+  Last fight: 2019-05-11
+
+Career Statistics:
+- Significant Strikes Landed :174
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :2

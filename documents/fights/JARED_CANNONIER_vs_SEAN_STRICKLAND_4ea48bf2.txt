@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cannonier vs. Strickland
+    Date: December 17, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JARED CANNONIER defeated SEAN STRICKLAND via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - JARED CANNONIER landed 141 significant strikes
+  - SEAN STRICKLAND landed 152 significant strikes
+  - Knockdowns: JARED CANNONIER 0,  SEAN STRICKLAND 0
+  - Takedowns: JARED CANNONIER 0,  SEAN STRICKLAND 1

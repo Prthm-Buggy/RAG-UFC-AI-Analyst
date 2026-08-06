@@ -1,0 +1,19 @@
+Event : UFC 140: Jones vs Machida
+    Date : December 10, 2011
+    Location: Toronto, Ontario, Canada
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Featherweight, Light Heavyweight, Middleweight, Lightweight, Welterweight
+
+    Fight Results:
+  - JON JONES def. LYOTO MACHIDA via Submission(R2)
+- JOHN CHOLISH def. MITCH CLARKE via KO/TKO(R2)
+- BRIAN EBERSOLE def. CLAUDE PATRICK via Decision - Split(R3)
+- IGOR POKRAJAC def. KRZYSZTOF SOSZYNSKI via KO/TKO(R1)
+- CONSTANTINOS PHILIPPOU def. JARED HAMMAN via KO/TKO(R1)
+- JAKE HECHT def. RICH ATTONITO via KO/TKO(R2)
+- YVES JABOUIN def. WALEL WATSON via Decision - Split(R3)
+- ROGERIO NOGUEIRA def. TITO ORTIZ via KO/TKO(R1)
+- CHAN SUNG JUNG def. MARK HOMINICK via KO/TKO(R1)
+- FRANK MIR def. ANTONIO RODRIGO NOGUEIRA via Submission(R1)
+- MARK BOCEK def. NIK LENTZ via Decision - Unanimous(R3)
+- DENNIS HALLMAN def. JOHN MAKDESSI via Submission(R1)

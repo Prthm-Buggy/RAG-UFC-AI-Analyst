@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kattar vs. Ige
+    Date: July 15, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Women's Flyweight
+    
+
+    Result: LIANA JOJUA defeated DIANA BELBITA via Submission  
+  at 2:43 of round 1
+  Key stats:
+  - LIANA JOJUA landed 2 significant strikes
+  - DIANA BELBITA landed 5 significant strikes
+  - Knockdowns: LIANA JOJUA 0,  DIANA BELBITA 0
+  - Takedowns: LIANA JOJUA 0,  DIANA BELBITA 1

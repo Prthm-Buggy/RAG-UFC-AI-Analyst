@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Belfort vs Henderson 3
+    Date: November 07, 2015
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: THIAGO TAVARES defeated CLAY GUIDA via Submission  
+  at 0:39 of round 1
+  Key stats:
+  - THIAGO TAVARES landed 2 significant strikes
+  - CLAY GUIDA landed 3 significant strikes
+  - Knockdowns: THIAGO TAVARES 0,  CLAY GUIDA 0
+  - Takedowns: THIAGO TAVARES 0,  CLAY GUIDA 1
+  Bonus: perf

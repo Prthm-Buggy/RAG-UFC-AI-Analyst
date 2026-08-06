@@ -1,0 +1,11 @@
+Fighter: JESSICA RAKOCZY
+  Date of Birth: 1977-04-14
+  Career record: 2
+  First fight: 2013-11-30
+  Last fight: 2015-04-25
+
+Career Statistics:
+- Significant Strikes Landed :50
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

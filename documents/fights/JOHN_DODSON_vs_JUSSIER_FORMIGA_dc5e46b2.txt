@@ -1,0 +1,13 @@
+Event: UFC on FX: Browne vs Bigfoot
+    Date: October 05, 2012
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOHN DODSON defeated JUSSIER FORMIGA via KO/TKO  
+  at 4:35 of round 2
+  Key stats:
+  - JOHN DODSON landed 33 significant strikes
+  - JUSSIER FORMIGA landed 9 significant strikes
+  - Knockdowns: JOHN DODSON 2,  JUSSIER FORMIGA 0
+  - Takedowns: JOHN DODSON 0,  JUSSIER FORMIGA 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Hooker
+    Date: June 27, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MAURICE GREENE defeated GIAN VILLANTE via Submission  
+  at 3:44 of round 3
+  Key stats:
+  - MAURICE GREENE landed 63 significant strikes
+  - GIAN VILLANTE landed 72 significant strikes
+  - Knockdowns: MAURICE GREENE 0,  GIAN VILLANTE 1
+  - Takedowns: MAURICE GREENE 0,  GIAN VILLANTE 0

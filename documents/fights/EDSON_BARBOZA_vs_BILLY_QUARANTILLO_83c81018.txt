@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holloway vs. Allen
+    Date: April 15, 2023
+    Location: Kansas City, Missouri, USA
+    Weight Class: Featherweight
+    
+
+    Result: EDSON BARBOZA defeated BILLY QUARANTILLO via KO/TKO  
+  at 2:37 of round 1
+  Key stats:
+  - EDSON BARBOZA landed 21 significant strikes
+  - BILLY QUARANTILLO landed 19 significant strikes
+  - Knockdowns: EDSON BARBOZA 1,  BILLY QUARANTILLO 0
+  - Takedowns: EDSON BARBOZA 0,  BILLY QUARANTILLO 0
+  Bonus: perf

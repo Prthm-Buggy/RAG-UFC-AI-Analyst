@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Korean Zombie vs Poirier
+    Date: May 15, 2012
+    Location: Fairfax, Virginia, USA
+    Weight Class: Lightweight
+    
+
+    Result: RAFAEL DOS ANJOS defeated KAMAL SHALORUS via Submission  
+  at 1:40 of round 1
+  Key stats:
+  - RAFAEL DOS ANJOS landed 5 significant strikes
+  - KAMAL SHALORUS landed 2 significant strikes
+  - Knockdowns: RAFAEL DOS ANJOS 1,  KAMAL SHALORUS 0
+  - Takedowns: RAFAEL DOS ANJOS 0,  KAMAL SHALORUS 0

@@ -1,0 +1,11 @@
+Fighter: JOANNA JEDRZEJCZYK
+  Date of Birth: 1987-08-18
+  Career record: 15
+  First fight: 2014-07-26
+  Last fight: 2022-06-11
+
+Career Statistics:
+- Significant Strikes Landed :1754
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :1

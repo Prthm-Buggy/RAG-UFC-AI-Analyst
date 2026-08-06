@@ -1,0 +1,11 @@
+Fighter: DUSTIN POIRIER
+  Date of Birth: 1989-01-19
+  Career record: 31
+  First fight: 2011-01-01
+  Last fight: 2025-07-19
+
+Career Statistics:
+- Significant Strikes Landed :1788
+- Total takedowns landed :28
+- Knockdowns :15
+- Submission Attempts :23

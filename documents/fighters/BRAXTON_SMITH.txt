@@ -1,0 +1,11 @@
+Fighter: BRAXTON SMITH
+  Date of Birth: 1990-01-01
+  Career record: 1
+  First fight: 2023-05-06
+  Last fight: 2023-05-06
+
+Career Statistics:
+- Significant Strikes Landed :14
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

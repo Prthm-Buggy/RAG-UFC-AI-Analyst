@@ -1,0 +1,14 @@
+Event: UFC 202: Diaz vs. McGregor 2
+    Date: August 20, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ANTHONY JOHNSON defeated GLOVER TEIXEIRA via KO/TKO  
+  at 0:13 of round 1
+  Key stats:
+  - ANTHONY JOHNSON landed 4 significant strikes
+  - GLOVER TEIXEIRA landed 1 significant strikes
+  - Knockdowns: ANTHONY JOHNSON 1,  GLOVER TEIXEIRA 0
+  - Takedowns: ANTHONY JOHNSON 0,  GLOVER TEIXEIRA 0
+  Bonus: perf

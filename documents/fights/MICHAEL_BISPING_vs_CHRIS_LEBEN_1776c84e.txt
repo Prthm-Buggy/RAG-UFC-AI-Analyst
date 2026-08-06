@@ -1,0 +1,13 @@
+Event: UFC 89: Bisping vs Leben
+    Date: October 18, 2008
+    Location: Birmingham, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL BISPING defeated CHRIS LEBEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MICHAEL BISPING landed 70 significant strikes
+  - CHRIS LEBEN landed 51 significant strikes
+  - Knockdowns: MICHAEL BISPING 0,  CHRIS LEBEN 0
+  - Takedowns: MICHAEL BISPING 1,  CHRIS LEBEN 1

@@ -1,0 +1,11 @@
+Fighter: MAYCEE BARBER
+  Date of Birth: 1998-05-18
+  Career record: 13
+  First fight: 2018-11-10
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :635
+- Total takedowns landed :15
+- Knockdowns :0
+- Submission Attempts :1

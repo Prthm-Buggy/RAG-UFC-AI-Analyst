@@ -1,0 +1,13 @@
+Event: UFC on FOX: Evans vs Davis
+    Date: January 28, 2012
+    Location: Chicago, Illinois, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS CAMOZZI defeated DUSTIN JACOBY via Submission  
+  at 1:08 of round 3
+  Key stats:
+  - CHRIS CAMOZZI landed 44 significant strikes
+  - DUSTIN JACOBY landed 30 significant strikes
+  - Knockdowns: CHRIS CAMOZZI 0,  DUSTIN JACOBY 0
+  - Takedowns: CHRIS CAMOZZI 0,  DUSTIN JACOBY 0

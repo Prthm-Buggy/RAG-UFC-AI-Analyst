@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hall vs. Strickland
+    Date: July 31, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JARED GOODEN defeated NIKLAS STOLZE via KO/TKO  
+  at 1:08 of round 1
+  Key stats:
+  - JARED GOODEN landed 14 significant strikes
+  - NIKLAS STOLZE landed 7 significant strikes
+  - Knockdowns: JARED GOODEN 1,  NIKLAS STOLZE 0
+  - Takedowns: JARED GOODEN 1,  NIKLAS STOLZE 0

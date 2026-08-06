@@ -1,0 +1,13 @@
+Event: UFC 210: Cormier vs. Johnson 2
+    Date: April 08, 2017
+    Location: Buffalo, New York, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: CYNTHIA CALVILLO defeated PEARL GONZALEZ via Submission  
+  at 3:45 of round 3
+  Key stats:
+  - CYNTHIA CALVILLO landed 50 significant strikes
+  - PEARL GONZALEZ landed 37 significant strikes
+  - Knockdowns: CYNTHIA CALVILLO 0,  PEARL GONZALEZ 0
+  - Takedowns: CYNTHIA CALVILLO 1,  PEARL GONZALEZ 2

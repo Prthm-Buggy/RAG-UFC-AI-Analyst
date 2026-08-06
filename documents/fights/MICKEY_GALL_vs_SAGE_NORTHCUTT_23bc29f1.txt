@@ -1,0 +1,13 @@
+Event: UFC on FOX: VanZant vs. Waterson
+    Date: December 17, 2016
+    Location: Sacramento, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICKEY GALL defeated SAGE NORTHCUTT via Submission  
+  at 1:40 of round 2
+  Key stats:
+  - MICKEY GALL landed 9 significant strikes
+  - SAGE NORTHCUTT landed 13 significant strikes
+  - Knockdowns: MICKEY GALL 1,  SAGE NORTHCUTT 1
+  - Takedowns: MICKEY GALL 2,  SAGE NORTHCUTT 0

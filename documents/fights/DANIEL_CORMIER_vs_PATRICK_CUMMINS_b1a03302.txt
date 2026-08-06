@@ -1,0 +1,13 @@
+Event: UFC 170: Rousey vs McMann
+    Date: February 22, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DANIEL CORMIER defeated PATRICK CUMMINS via KO/TKO  
+  at 1:19 of round 1
+  Key stats:
+  - DANIEL CORMIER landed 18 significant strikes
+  - PATRICK CUMMINS landed 8 significant strikes
+  - Knockdowns: DANIEL CORMIER 1,  PATRICK CUMMINS 0
+  - Takedowns: DANIEL CORMIER 0,  PATRICK CUMMINS 0

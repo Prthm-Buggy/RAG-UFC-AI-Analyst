@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Silva vs Bisping
+    Date: February 27, 2016
+    Location: London, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: MICHAEL BISPING defeated ANDERSON SILVA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MICHAEL BISPING landed 108 significant strikes
+  - ANDERSON SILVA landed 75 significant strikes
+  - Knockdowns: MICHAEL BISPING 1,  ANDERSON SILVA 1
+  - Takedowns: MICHAEL BISPING 0,  ANDERSON SILVA 0
+  Bonus: fight

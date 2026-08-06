@@ -1,0 +1,14 @@
+Event: UFC 202: Diaz vs. McGregor 2
+    Date: August 20, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DONALD CERRONE defeated RICK STORY via KO/TKO  
+  at 2:02 of round 2
+  Key stats:
+  - DONALD CERRONE landed 45 significant strikes
+  - RICK STORY landed 17 significant strikes
+  - Knockdowns: DONALD CERRONE 1,  RICK STORY 0
+  - Takedowns: DONALD CERRONE 1,  RICK STORY 1
+  Bonus: perf

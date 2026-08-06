@@ -1,0 +1,11 @@
+Fighter: JOE VEDEPO
+  Date of Birth: 1983-01-01
+  Career record: 2
+  First fight: 2008-09-17
+  Last fight: 2009-04-01
+
+Career Statistics:
+- Significant Strikes Landed :11
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

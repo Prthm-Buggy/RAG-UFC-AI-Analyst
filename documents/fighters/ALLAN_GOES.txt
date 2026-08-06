@@ -1,0 +1,11 @@
+Fighter: ALLAN GOES
+  Date of Birth: 1971-04-20
+  Career record: 1
+  First fight: 1998-05-15
+  Last fight: 1998-05-15
+
+Career Statistics:
+- Significant Strikes Landed :36
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

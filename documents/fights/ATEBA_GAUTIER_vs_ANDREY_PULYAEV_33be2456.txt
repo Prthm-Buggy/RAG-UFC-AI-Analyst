@@ -1,0 +1,13 @@
+Event: UFC 324: Gaethje vs. Pimblett
+    Date: January 24, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ATEBA GAUTIER defeated ANDREY PULYAEV via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ATEBA GAUTIER landed 34 significant strikes
+  - ANDREY PULYAEV landed 59 significant strikes
+  - Knockdowns: ATEBA GAUTIER 2,  ANDREY PULYAEV 0
+  - Takedowns: ATEBA GAUTIER 0,  ANDREY PULYAEV 0

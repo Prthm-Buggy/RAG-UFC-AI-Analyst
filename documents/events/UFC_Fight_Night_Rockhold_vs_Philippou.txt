@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Rockhold vs Philippou
+    Date : January 15, 2014
+    Location: Duluth, Georgia, USA
+    Number of Fights: 12
+    Weight Classes: Middleweight, Flyweight, Featherweight, Lightweight, Bantamweight
+
+    Fight Results:
+  - BENEIL DARIUSH def. CHARLIE BRENNEMAN via Submission(R1)
+- LUKE ROCKHOLD def. CONSTANTINOS PHILIPPOU via KO/TKO(R1)
+- ELIAS SILVERIO def. ISAAC VALLIE-FLAGG via Decision - Unanimous(R3)
+- LOUIS SMOLKA def. ALPTEKIN OZKILIC via Decision - Unanimous(R3)
+- TJ DILLASHAW def. MIKE EASTON via Decision - Unanimous(R3)
+- BRAD TAVARES def. LORENZ LARKIN via Decision - Unanimous(R3)
+- RAMSEY NIJEM def. JUSTIN EDWARDS via Decision - Unanimous(R3)
+- YOEL ROMERO def. DEREK BRUNSON via KO/TKO(R3)
+- JOHN MORAGA def. DUSTIN ORTIZ via Decision - Split(R3)
+- COLE MILLER def. SAM SICILIA via Submission(R2)
+- VINC PICHEL def. GARETT WHITELEY via Decision - Unanimous(R3)
+- TREVOR SMITH def. BRIAN HOUSTON via Decision - Split(R3)

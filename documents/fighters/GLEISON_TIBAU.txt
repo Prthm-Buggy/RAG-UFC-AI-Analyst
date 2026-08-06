@@ -1,0 +1,11 @@
+Fighter: GLEISON TIBAU
+  Date of Birth: 1983-10-07
+  Career record: 28
+  First fight: 2006-11-18
+  Last fight: 2018-06-01
+
+Career Statistics:
+- Significant Strikes Landed :601
+- Total takedowns landed :84
+- Knockdowns :2
+- Submission Attempts :17

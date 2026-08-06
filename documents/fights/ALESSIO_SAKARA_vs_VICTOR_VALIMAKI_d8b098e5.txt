@@ -1,0 +1,13 @@
+Event: UFC 70: Nations Collide
+    Date: April 21, 2007
+    Location: Manchester, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALESSIO SAKARA defeated VICTOR VALIMAKI via KO/TKO  
+  at 1:44 of round 1
+  Key stats:
+  - ALESSIO SAKARA landed 6 significant strikes
+  - VICTOR VALIMAKI landed 0 significant strikes
+  - Knockdowns: ALESSIO SAKARA 0,  VICTOR VALIMAKI 0
+  - Takedowns: ALESSIO SAKARA 0,  VICTOR VALIMAKI 0

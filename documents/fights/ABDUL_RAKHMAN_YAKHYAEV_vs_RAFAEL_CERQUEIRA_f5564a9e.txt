@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tsarukyan vs. Hooker
+    Date: November 22, 2025
+    Location: Doha, Qatar
+    Weight Class: Light Heavyweight
+    
+
+    Result: ABDUL RAKHMAN YAKHYAEV defeated RAFAEL CERQUEIRA via Submission  
+  at 0:33 of round 1
+  Key stats:
+  - ABDUL RAKHMAN YAKHYAEV landed 6 significant strikes
+  - RAFAEL CERQUEIRA landed 0 significant strikes
+  - Knockdowns: ABDUL RAKHMAN YAKHYAEV 1,  RAFAEL CERQUEIRA 0
+  - Takedowns: ABDUL RAKHMAN YAKHYAEV 1,  RAFAEL CERQUEIRA 0

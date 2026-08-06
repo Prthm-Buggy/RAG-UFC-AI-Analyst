@@ -1,0 +1,13 @@
+Event: UFC 277: Pena vs. Nunes 2
+    Date: July 30, 2022
+    Location: Dallas, Texas, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SERGEI PAVLOVICH defeated DERRICK LEWIS via KO/TKO  
+  at 0:55 of round 1
+  Key stats:
+  - SERGEI PAVLOVICH landed 15 significant strikes
+  - DERRICK LEWIS landed 4 significant strikes
+  - Knockdowns: SERGEI PAVLOVICH 1,  DERRICK LEWIS 0
+  - Takedowns: SERGEI PAVLOVICH 0,  DERRICK LEWIS 0

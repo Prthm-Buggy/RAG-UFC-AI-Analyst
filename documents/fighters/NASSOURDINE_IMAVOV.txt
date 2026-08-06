@@ -1,0 +1,11 @@
+Fighter: NASSOURDINE IMAVOV
+  Date of Birth: 1996-03-01
+  Career record: 11
+  First fight: 2020-10-03
+  Last fight: 2025-09-06
+
+Career Statistics:
+- Significant Strikes Landed :727
+- Total takedowns landed :6
+- Knockdowns :2
+- Submission Attempts :11

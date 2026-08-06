@@ -1,0 +1,15 @@
+Event : UFC 45: Revolution
+    Date : November 21, 2003
+    Location: Uncasville, Connecticut, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Welterweight, Middleweight, Lightweight
+
+    Fight Results:
+  - MATT LINDLAND def. FALANIKO VITALE via KO/TKO(R3)
+- ROBBIE LAWLER def. CHRIS LYTLE via Decision - Unanimous(R3)
+- PEDRO RIZZO def. RICCO RODRIGUEZ via Decision - Unanimous(R3)
+- MATT HUGHES def. FRANK TRIGG via Submission(R1)
+- EVAN TANNER def. PHIL BARONI via KO/TKO(R1)
+- WESLEY CORREIRA def. DAVID ABBOTT via TKO - Doctor's Stoppage(R1)
+- KEITH ROCKEL def. CHRIS LIGUORI via Submission(R1)
+- YVES EDWARDS def. NICK AGALLAR via KO/TKO(R2)

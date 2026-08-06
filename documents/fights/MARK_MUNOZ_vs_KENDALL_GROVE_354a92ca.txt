@@ -1,0 +1,14 @@
+Event: UFC 112: Invincible
+    Date: April 10, 2010
+    Location: Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: MARK MUNOZ defeated KENDALL GROVE via KO/TKO  
+  at 2:50 of round 2
+  Key stats:
+  - MARK MUNOZ landed 25 significant strikes
+  - KENDALL GROVE landed 9 significant strikes
+  - Knockdowns: MARK MUNOZ 0,  KENDALL GROVE 1
+  - Takedowns: MARK MUNOZ 1,  KENDALL GROVE 0
+  Bonus: fight

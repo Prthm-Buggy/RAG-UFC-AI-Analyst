@@ -1,0 +1,11 @@
+Fighter: DANIEL TEYMUR
+  Date of Birth: 1988-02-03
+  Career record: 5
+  First fight: 2017-07-16
+  Last fight: 2019-12-14
+
+Career Statistics:
+- Significant Strikes Landed :165
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

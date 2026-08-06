@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cerrone vs. Medeiros
+    Date: February 18, 2018
+    Location: Austin, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: DONALD CERRONE defeated YANCY MEDEIROS via KO/TKO  
+  at 4:58 of round 1
+  Key stats:
+  - DONALD CERRONE landed 28 significant strikes
+  - YANCY MEDEIROS landed 25 significant strikes
+  - Knockdowns: DONALD CERRONE 3,  YANCY MEDEIROS 0
+  - Takedowns: DONALD CERRONE 0,  YANCY MEDEIROS 0

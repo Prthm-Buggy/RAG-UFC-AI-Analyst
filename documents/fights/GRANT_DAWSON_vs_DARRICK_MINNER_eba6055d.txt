@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Benavidez vs. Figueiredo
+    Date: February 29, 2020
+    Location: Norfolk, Virginia, USA
+    Weight Class: Featherweight
+    
+
+    Result: GRANT DAWSON defeated DARRICK MINNER via Submission  
+  at 1:38 of round 2
+  Key stats:
+  - GRANT DAWSON landed 15 significant strikes
+  - DARRICK MINNER landed 4 significant strikes
+  - Knockdowns: GRANT DAWSON 0,  DARRICK MINNER 0
+  - Takedowns: GRANT DAWSON 2,  DARRICK MINNER 1

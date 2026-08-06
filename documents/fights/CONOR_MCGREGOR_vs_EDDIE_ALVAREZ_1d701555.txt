@@ -1,0 +1,14 @@
+Event: UFC 205: Alvarez vs McGregor
+    Date: November 12, 2016
+    Location: New York City, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: CONOR MCGREGOR defeated EDDIE ALVAREZ via KO/TKO  
+  at 3:04 of round 2
+  Key stats:
+  - CONOR MCGREGOR landed 32 significant strikes
+  - EDDIE ALVAREZ landed 9 significant strikes
+  - Knockdowns: CONOR MCGREGOR 3,  EDDIE ALVAREZ 0
+  - Takedowns: CONOR MCGREGOR 0,  EDDIE ALVAREZ 0
+  Bonus: belt

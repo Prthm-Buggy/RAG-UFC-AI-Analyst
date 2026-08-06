@@ -1,0 +1,13 @@
+Event: UFC 43: Meltdown
+    Date: June 06, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: YVES EDWARDS defeated EDDIE RUIZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - YVES EDWARDS landed 21 significant strikes
+  - EDDIE RUIZ landed 3 significant strikes
+  - Knockdowns: YVES EDWARDS 1,  EDDIE RUIZ 0
+  - Takedowns: YVES EDWARDS 0,  EDDIE RUIZ 2

@@ -1,0 +1,11 @@
+Fighter: KURT HOLOBAUGH
+  Date of Birth: 1986-09-08
+  Career record: 9
+  First fight: 2013-04-27
+  Last fight: 2025-05-31
+
+Career Statistics:
+- Significant Strikes Landed :456
+- Total takedowns landed :5
+- Knockdowns :1
+- Submission Attempts :5

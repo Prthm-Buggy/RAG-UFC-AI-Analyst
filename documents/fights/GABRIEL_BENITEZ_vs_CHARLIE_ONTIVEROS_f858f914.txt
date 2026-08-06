@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vera vs. Cruz
+    Date: August 13, 2022
+    Location: San Diego, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: GABRIEL BENITEZ defeated CHARLIE ONTIVEROS via KO/TKO  
+  at 3:33 of round 1
+  Key stats:
+  - GABRIEL BENITEZ landed 37 significant strikes
+  - CHARLIE ONTIVEROS landed 22 significant strikes
+  - Knockdowns: GABRIEL BENITEZ 0,  CHARLIE ONTIVEROS 0
+  - Takedowns: GABRIEL BENITEZ 1,  CHARLIE ONTIVEROS 0

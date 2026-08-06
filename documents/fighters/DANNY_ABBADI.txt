@@ -1,0 +1,11 @@
+Fighter: DANNY ABBADI
+  Date of Birth: 1983-07-03
+  Career record: 2
+  First fight: 2006-06-24
+  Last fight: 2006-09-23
+
+Career Statistics:
+- Significant Strikes Landed :59
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

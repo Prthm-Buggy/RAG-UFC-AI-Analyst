@@ -1,0 +1,13 @@
+Event: UFC 169: Barao vs Faber 2
+    Date: February 01, 2014
+    Location: Newark, New Jersey, USA
+    Weight Class: Flyweight
+    
+
+    Result: CHRIS CARIASO defeated DANNY MARTINEZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CHRIS CARIASO landed 73 significant strikes
+  - DANNY MARTINEZ landed 33 significant strikes
+  - Knockdowns: CHRIS CARIASO 0,  DANNY MARTINEZ 0
+  - Takedowns: CHRIS CARIASO 0,  DANNY MARTINEZ 5

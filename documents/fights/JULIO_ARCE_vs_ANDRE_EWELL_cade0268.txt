@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Dillashaw
+    Date: July 24, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JULIO ARCE defeated ANDRE EWELL via KO/TKO  
+  at 3:45 of round 2
+  Key stats:
+  - JULIO ARCE landed 42 significant strikes
+  - ANDRE EWELL landed 31 significant strikes
+  - Knockdowns: JULIO ARCE 0,  ANDRE EWELL 0
+  - Takedowns: JULIO ARCE 0,  ANDRE EWELL 0

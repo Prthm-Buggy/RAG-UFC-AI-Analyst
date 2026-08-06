@@ -1,0 +1,14 @@
+Event: UFC 102: Couture vs Nogueira
+    Date: August 29, 2009
+    Location: Portland, Oregon, USA
+    Weight Class: Middleweight
+    
+
+    Result: JAKE ROSHOLT defeated CHRIS LEBEN via Submission  
+  at 1:30 of round 3
+  Key stats:
+  - JAKE ROSHOLT landed 21 significant strikes
+  - CHRIS LEBEN landed 14 significant strikes
+  - Knockdowns: JAKE ROSHOLT 0,  CHRIS LEBEN 0
+  - Takedowns: JAKE ROSHOLT 3,  CHRIS LEBEN 1
+  Bonus: sub

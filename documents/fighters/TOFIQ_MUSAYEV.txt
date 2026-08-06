@@ -1,0 +1,11 @@
+Fighter: TOFIQ MUSAYEV
+  Date of Birth: 1989-12-15
+  Career record: 2
+  First fight: 2025-06-21
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :36
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

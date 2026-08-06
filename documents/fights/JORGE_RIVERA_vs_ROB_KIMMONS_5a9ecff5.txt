@@ -1,0 +1,13 @@
+Event: UFC 104: Machida vs Shogun
+    Date: October 24, 2009
+    Location: Los Angeles, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: JORGE RIVERA defeated ROB KIMMONS via KO/TKO  
+  at 1:53 of round 3
+  Key stats:
+  - JORGE RIVERA landed 66 significant strikes
+  - ROB KIMMONS landed 23 significant strikes
+  - Knockdowns: JORGE RIVERA 1,  ROB KIMMONS 0
+  - Takedowns: JORGE RIVERA 0,  ROB KIMMONS 1

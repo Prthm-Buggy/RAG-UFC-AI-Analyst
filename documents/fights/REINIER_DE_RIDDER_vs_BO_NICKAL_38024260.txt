@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Sandhagen vs. Figueiredo
+    Date: May 03, 2025
+    Location: Des Moines, Iowa, USA
+    Weight Class: Middleweight
+    
+
+    Result: REINIER DE RIDDER defeated BO NICKAL via KO/TKO  
+  at 1:53 of round 2
+  Key stats:
+  - REINIER DE RIDDER landed 22 significant strikes
+  - BO NICKAL landed 8 significant strikes
+  - Knockdowns: REINIER DE RIDDER 1,  BO NICKAL 0
+  - Takedowns: REINIER DE RIDDER 0,  BO NICKAL 1
+  Bonus: perf

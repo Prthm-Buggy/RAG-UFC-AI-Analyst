@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Figueiredo vs. Benavidez 2
+    Date: July 18, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: ROMAN DOLIDZE defeated KHADIS IBRAGIMOV via KO/TKO  
+  at 4:15 of round 1
+  Key stats:
+  - ROMAN DOLIDZE landed 19 significant strikes
+  - KHADIS IBRAGIMOV landed 4 significant strikes
+  - Knockdowns: ROMAN DOLIDZE 1,  KHADIS IBRAGIMOV 0
+  - Takedowns: ROMAN DOLIDZE 0,  KHADIS IBRAGIMOV 0

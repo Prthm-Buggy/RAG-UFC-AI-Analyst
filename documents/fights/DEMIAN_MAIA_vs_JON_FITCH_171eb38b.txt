@@ -1,0 +1,13 @@
+Event: UFC 156: Aldo vs Edgar
+    Date: February 02, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DEMIAN MAIA defeated JON FITCH via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DEMIAN MAIA landed 12 significant strikes
+  - JON FITCH landed 6 significant strikes
+  - Knockdowns: DEMIAN MAIA 0,  JON FITCH 0
+  - Takedowns: DEMIAN MAIA 7,  JON FITCH 0

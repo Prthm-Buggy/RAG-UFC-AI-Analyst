@@ -1,0 +1,13 @@
+Event: UFC 143: Diaz vs Condit
+    Date: February 04, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ED HERMAN defeated CLIFFORD STARKS via Submission  
+  at 1:43 of round 2
+  Key stats:
+  - ED HERMAN landed 28 significant strikes
+  - CLIFFORD STARKS landed 16 significant strikes
+  - Knockdowns: ED HERMAN 0,  CLIFFORD STARKS 0
+  - Takedowns: ED HERMAN 2,  CLIFFORD STARKS 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Makhachev vs. Green
+    Date: February 26, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TERRANCE MCKINNEY defeated FARES ZIAM via Submission  
+  at 2:11 of round 1
+  Key stats:
+  - TERRANCE MCKINNEY landed 3 significant strikes
+  - FARES ZIAM landed 1 significant strikes
+  - Knockdowns: TERRANCE MCKINNEY 0,  FARES ZIAM 0
+  - Takedowns: TERRANCE MCKINNEY 0,  FARES ZIAM 0

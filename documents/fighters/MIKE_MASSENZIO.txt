@@ -1,0 +1,11 @@
+Fighter: MIKE MASSENZIO
+  Date of Birth: 1982-11-01
+  Career record: 7
+  First fight: 2008-09-17
+  Last fight: 2012-05-05
+
+Career Statistics:
+- Significant Strikes Landed :114
+- Total takedowns landed :10
+- Knockdowns :1
+- Submission Attempts :5

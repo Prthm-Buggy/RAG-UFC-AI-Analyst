@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tuivasa vs. Tybura
+    Date: March 16, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: GERALD MEERSCHAERT defeated BRYAN BARBERENA via Submission  
+  at 4:23 of round 2
+  Key stats:
+  - GERALD MEERSCHAERT landed 11 significant strikes
+  - BRYAN BARBERENA landed 12 significant strikes
+  - Knockdowns: GERALD MEERSCHAERT 0,  BRYAN BARBERENA 0
+  - Takedowns: GERALD MEERSCHAERT 3,  BRYAN BARBERENA 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bautista vs. Oliveira
+    Date: February 07, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: NIKOLAY VERETENNIKOV defeated NIKO PRICE via KO/TKO  
+  at 1:42 of round 1
+  Key stats:
+  - NIKOLAY VERETENNIKOV landed 19 significant strikes
+  - NIKO PRICE landed 9 significant strikes
+  - Knockdowns: NIKOLAY VERETENNIKOV 0,  NIKO PRICE 0
+  - Takedowns: NIKOLAY VERETENNIKOV 0,  NIKO PRICE 0

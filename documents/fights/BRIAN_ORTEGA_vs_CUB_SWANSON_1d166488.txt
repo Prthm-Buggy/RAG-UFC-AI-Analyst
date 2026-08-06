@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Swanson vs. Ortega
+    Date: December 09, 2017
+    Location: Fresno, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: BRIAN ORTEGA defeated CUB SWANSON via Submission  
+  at 3:22 of round 2
+  Key stats:
+  - BRIAN ORTEGA landed 24 significant strikes
+  - CUB SWANSON landed 60 significant strikes
+  - Knockdowns: BRIAN ORTEGA 0,  CUB SWANSON 0
+  - Takedowns: BRIAN ORTEGA 0,  CUB SWANSON 0
+  Bonus: fight

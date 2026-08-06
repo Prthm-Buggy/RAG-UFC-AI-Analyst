@@ -1,0 +1,11 @@
+Fighter: BENSON HENDERSON
+  Date of Birth: 1983-11-16
+  Career record: 14
+  First fight: 2011-04-30
+  Last fight: 2015-11-28
+
+Career Statistics:
+- Significant Strikes Landed :826
+- Total takedowns landed :32
+- Knockdowns :3
+- Submission Attempts :10

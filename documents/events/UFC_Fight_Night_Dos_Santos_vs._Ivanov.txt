@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Dos Santos vs. Ivanov
+    Date : July 14, 2018
+    Location: Boise, Idaho, USA
+    Number of Fights: 13
+    Weight Classes: Women's Flyweight, Heavyweight, Bantamweight, Featherweight, Women's Strawweight, Flyweight, Women's Bantamweight, Welterweight
+
+    Fight Results:
+  - RAONI BARCELOS def. KURT HOLOBAUGH via KO/TKO(R3)
+- ALEXANDER VOLKANOVSKI def. DARREN ELKINS via Decision - Unanimous(R3)
+- SAID NURMAGOMEDOV def. JUSTIN SCOGGINS via Decision - Split(R3)
+- MARK DE LA ROSA def. ELIAS GARCIA via Submission(R2)
+- NIKO PRICE def. RANDY BROWN via KO/TKO(R2)
+- JUNIOR DOS SANTOS def. BLAGOY IVANOV via Decision - Unanimous(R5)
+- CHAD MENDES def. MYLES JURY via KO/TKO(R1)
+- SAGE NORTHCUTT def. ZAK OTTOW via KO/TKO(R2)
+- LIZ CARMOUCHE def. JENNIFER MAIA via Decision - Unanimous(R3)
+- RICKY GLENN def. DENNIS BERMUDEZ via Decision - Split(R3)
+- CAT ZINGANO def. MARION RENEAU via Decision - Unanimous(R3)
+- ALEJANDRO PEREZ def. EDDIE WINELAND via Decision - Unanimous(R3)
+- JESSICA AGUILAR def. JODIE ESQUIBEL via Decision - Unanimous(R3)

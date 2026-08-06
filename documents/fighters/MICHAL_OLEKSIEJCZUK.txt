@@ -1,0 +1,11 @@
+Fighter: MICHAL OLEKSIEJCZUK
+  Date of Birth: 1995-02-22
+  Career record: 18
+  First fight: 2019-02-23
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :618
+- Total takedowns landed :6
+- Knockdowns :9
+- Submission Attempts :0

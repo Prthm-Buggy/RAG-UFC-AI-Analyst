@@ -1,0 +1,11 @@
+Fighter: GIL CASTILLO
+  Date of Birth: 1965-10-21
+  Career record: 3
+  First fight: 2001-09-28
+  Last fight: 2002-11-22
+
+Career Statistics:
+- Significant Strikes Landed :27
+- Total takedowns landed :10
+- Knockdowns :0
+- Submission Attempts :0

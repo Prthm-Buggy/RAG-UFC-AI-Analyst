@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Poirier vs. Hooker
+    Date: June 27, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE PERRY defeated MICKEY GALL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MIKE PERRY landed 76 significant strikes
+  - MICKEY GALL landed 55 significant strikes
+  - Knockdowns: MIKE PERRY 1,  MICKEY GALL 0
+  - Takedowns: MIKE PERRY 1,  MICKEY GALL 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Figueiredo
+    Date: May 03, 2025
+    Location: Des Moines, Iowa, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: GILLIAN ROBERTSON defeated MARINA RODRIGUEZ via KO/TKO  
+  at 2:07 of round 2
+  Key stats:
+  - GILLIAN ROBERTSON landed 16 significant strikes
+  - MARINA RODRIGUEZ landed 4 significant strikes
+  - Knockdowns: GILLIAN ROBERTSON 0,  MARINA RODRIGUEZ 0
+  - Takedowns: GILLIAN ROBERTSON 2,  MARINA RODRIGUEZ 0

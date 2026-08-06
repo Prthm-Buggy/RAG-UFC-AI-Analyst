@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Brunson vs. Machida
+    Date : October 28, 2017
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Number of Fights: 12
+    Weight Classes: Welterweight, Middleweight, Lightweight, Flyweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - PEDRO MUNHOZ def. ROB FONT via Submission(R1)
+- VICENTE LUQUE def. NIKO PRICE via Submission(R2)
+- THIAGO SANTOS def. JACK HERMANSSON via KO/TKO(R1)
+- DEIVESON FIGUEIREDO def. JARRED BROOKS via Decision - Split(R3)
+- DEREK BRUNSON def. LYOTO MACHIDA via KO/TKO(R1)
+- JARED GORDON def. HACRAN DIAS via Decision - Unanimous(R3)
+- ELIZEU ZALESKI DOS SANTOS def. MAX GRIFFIN via Decision - Unanimous(R3)
+- ANTONIO CARLOS JUNIOR def. JACK MARSHMAN via Submission(R1)
+- COLBY COVINGTON def. DEMIAN MAIA via Decision - Unanimous(R3)
+- FRANCISCO TRINALDO def. JIM MILLER via Decision - Unanimous(R3)
+- JOHN LINEKER def. MARLON VERA via Decision - Unanimous(R3)
+- MARCELO GOLM def. CHRISTIAN COLOMBO via Submission(R1)

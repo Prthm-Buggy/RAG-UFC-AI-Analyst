@@ -1,0 +1,14 @@
+Event: UFC 276: Adesanya vs. Cannonier
+    Date: July 02, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JULIJA STOLIARENKO defeated JESSICA-ROSE CLARK via Submission  
+  at 0:42 of round 1
+  Key stats:
+  - JULIJA STOLIARENKO landed 6 significant strikes
+  - JESSICA-ROSE CLARK landed 9 significant strikes
+  - Knockdowns: JULIJA STOLIARENKO 0,  JESSICA-ROSE CLARK 0
+  - Takedowns: JULIJA STOLIARENKO 1,  JESSICA-ROSE CLARK 0
+  Bonus: perf

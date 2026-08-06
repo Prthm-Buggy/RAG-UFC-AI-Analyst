@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Whittaker vs. Gastelum
+    Date: April 17, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEXANDR ROMANOV defeated JUAN ESPINO via Decision - Split  
+  at 1:05 of round 3
+  Key stats:
+  - ALEXANDR ROMANOV landed 32 significant strikes
+  - JUAN ESPINO landed 12 significant strikes
+  - Knockdowns: ALEXANDR ROMANOV 0,  JUAN ESPINO 0
+  - Takedowns: ALEXANDR ROMANOV 2,  JUAN ESPINO 4

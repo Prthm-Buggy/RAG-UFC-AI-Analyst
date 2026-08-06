@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shields vs Ellenberger
+    Date: September 17, 2011
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: SETH BACZYNSKI defeated CLAY HARVISON via Submission  
+  at 1:12 of round 2
+  Key stats:
+  - SETH BACZYNSKI landed 41 significant strikes
+  - CLAY HARVISON landed 12 significant strikes
+  - Knockdowns: SETH BACZYNSKI 1,  CLAY HARVISON 0
+  - Takedowns: SETH BACZYNSKI 0,  CLAY HARVISON 0

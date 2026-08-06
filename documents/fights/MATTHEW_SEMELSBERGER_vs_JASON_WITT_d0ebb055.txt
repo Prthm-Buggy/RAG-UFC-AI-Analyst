@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Edwards vs. Muhammad
+    Date: March 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATTHEW SEMELSBERGER defeated JASON WITT via KO/TKO  
+  at 0:16 of round 1
+  Key stats:
+  - MATTHEW SEMELSBERGER landed 3 significant strikes
+  - JASON WITT landed 4 significant strikes
+  - Knockdowns: MATTHEW SEMELSBERGER 1,  JASON WITT 0
+  - Takedowns: MATTHEW SEMELSBERGER 0,  JASON WITT 0
+  Bonus: perf

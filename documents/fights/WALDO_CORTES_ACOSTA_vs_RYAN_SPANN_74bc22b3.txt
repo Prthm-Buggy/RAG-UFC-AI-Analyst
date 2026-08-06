@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Dolidze 2
+    Date: March 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: WALDO CORTES ACOSTA defeated RYAN SPANN via KO/TKO  
+  at 4:48 of round 2
+  Key stats:
+  - WALDO CORTES ACOSTA landed 66 significant strikes
+  - RYAN SPANN landed 23 significant strikes
+  - Knockdowns: WALDO CORTES ACOSTA 1,  RYAN SPANN 0
+  - Takedowns: WALDO CORTES ACOSTA 0,  RYAN SPANN 0

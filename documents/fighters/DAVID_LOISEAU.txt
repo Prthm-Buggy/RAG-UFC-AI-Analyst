@@ -1,0 +1,11 @@
+Fighter: DAVID LOISEAU
+  Date of Birth: 1979-12-17
+  Career record: 9
+  First fight: 2003-04-25
+  Last fight: 2010-06-12
+
+Career Statistics:
+- Significant Strikes Landed :166
+- Total takedowns landed :3
+- Knockdowns :4
+- Submission Attempts :1

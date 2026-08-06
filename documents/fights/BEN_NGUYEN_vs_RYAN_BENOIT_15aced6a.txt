@@ -1,0 +1,13 @@
+Event: UFC 193: Rousey vs Holm
+    Date: November 14, 2015
+    Location: Melbourne, Victoria, Australia
+    Weight Class: Flyweight
+    
+
+    Result: BEN NGUYEN defeated RYAN BENOIT via Submission  
+  at 2:35 of round 1
+  Key stats:
+  - BEN NGUYEN landed 11 significant strikes
+  - RYAN BENOIT landed 1 significant strikes
+  - Knockdowns: BEN NGUYEN 0,  RYAN BENOIT 0
+  - Takedowns: BEN NGUYEN 0,  RYAN BENOIT 0

@@ -1,0 +1,13 @@
+Event: UFC 178: Johnson vs Cariaso
+    Date: September 27, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: CAT ZINGANO defeated AMANDA NUNES via KO/TKO  
+  at 1:21 of round 3
+  Key stats:
+  - CAT ZINGANO landed 40 significant strikes
+  - AMANDA NUNES landed 22 significant strikes
+  - Knockdowns: CAT ZINGANO 0,  AMANDA NUNES 0
+  - Takedowns: CAT ZINGANO 3,  AMANDA NUNES 1

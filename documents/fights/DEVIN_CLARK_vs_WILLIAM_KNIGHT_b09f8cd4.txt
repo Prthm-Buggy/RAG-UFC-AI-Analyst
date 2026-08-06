@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Luque vs. Muhammad
+    Date: April 16, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DEVIN CLARK defeated WILLIAM KNIGHT via KO/TKO  
+  at 3:21 of round 3
+  Key stats:
+  - DEVIN CLARK landed 34 significant strikes
+  - WILLIAM KNIGHT landed 21 significant strikes
+  - Knockdowns: DEVIN CLARK 1,  WILLIAM KNIGHT 0
+  - Takedowns: DEVIN CLARK 2,  WILLIAM KNIGHT 1

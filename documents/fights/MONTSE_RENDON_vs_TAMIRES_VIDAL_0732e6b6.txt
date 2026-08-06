@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fiziev vs. Gamrot
+    Date: September 23, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MONTSE RENDON defeated TAMIRES VIDAL via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MONTSE RENDON landed 69 significant strikes
+  - TAMIRES VIDAL landed 60 significant strikes
+  - Knockdowns: MONTSE RENDON 0,  TAMIRES VIDAL 0
+  - Takedowns: MONTSE RENDON 3,  TAMIRES VIDAL 0

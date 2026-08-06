@@ -1,0 +1,11 @@
+Fighter: DANIEL KELLY
+  Date of Birth: 1977-10-31
+  Career record: 10
+  First fight: 2014-11-07
+  Last fight: 2018-05-27
+
+Career Statistics:
+- Significant Strikes Landed :350
+- Total takedowns landed :12
+- Knockdowns :0
+- Submission Attempts :2

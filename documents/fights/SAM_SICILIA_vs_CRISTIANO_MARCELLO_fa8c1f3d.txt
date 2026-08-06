@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Live Finale
+    Date: June 01, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: SAM SICILIA defeated CRISTIANO MARCELLO via KO/TKO  
+  at 2:53 of round 2
+  Key stats:
+  - SAM SICILIA landed 33 significant strikes
+  - CRISTIANO MARCELLO landed 39 significant strikes
+  - Knockdowns: SAM SICILIA 0,  CRISTIANO MARCELLO 0
+  - Takedowns: SAM SICILIA 0,  CRISTIANO MARCELLO 0

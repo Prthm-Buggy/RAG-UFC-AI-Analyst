@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Ige
+    Date: July 15, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Featherweight
+    
+
+    Result: LERONE MURPHY defeated RICARDO RAMOS via KO/TKO  
+  at 4:18 of round 1
+  Key stats:
+  - LERONE MURPHY landed 22 significant strikes
+  - RICARDO RAMOS landed 10 significant strikes
+  - Knockdowns: LERONE MURPHY 0,  RICARDO RAMOS 0
+  - Takedowns: LERONE MURPHY 1,  RICARDO RAMOS 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Manuwa vs. Anderson
+    Date: March 18, 2017
+    Location: London, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: BRAD SCOTT defeated SCOTT ASKHAM via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - BRAD SCOTT landed 72 significant strikes
+  - SCOTT ASKHAM landed 86 significant strikes
+  - Knockdowns: BRAD SCOTT 1,  SCOTT ASKHAM 0
+  - Takedowns: BRAD SCOTT 0,  SCOTT ASKHAM 1

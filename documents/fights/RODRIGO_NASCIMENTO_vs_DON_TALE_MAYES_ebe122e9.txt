@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Harris
+    Date: May 16, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RODRIGO NASCIMENTO defeated DON'TALE MAYES via Submission  
+  at 2:05 of round 2
+  Key stats:
+  - RODRIGO NASCIMENTO landed 32 significant strikes
+  - DON'TALE MAYES landed 27 significant strikes
+  - Knockdowns: RODRIGO NASCIMENTO 0,  DON'TALE MAYES 0
+  - Takedowns: RODRIGO NASCIMENTO 2,  DON'TALE MAYES 0

@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Volkov vs. Struve
+    Date : September 02, 2017
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Lightweight, Featherweight, Light Heavyweight, Welterweight, Women's Bantamweight, Middleweight
+
+    Fight Results:
+  - ABDUL-KERIM EDILOV def. BOJAN MIHAJLOVIC via KO/TKO(R2)
+- ALEXANDER VOLKOV def. STEFAN STRUVE via KO/TKO(R3)
+- DARREN TILL def. BOJAN VELICKOVIC via Decision - Unanimous(R3)
+- ZABIT MAGOMEDSHARIPOV def. MIKE SANTIAGO via Submission(R2)
+- MICHEL PRAZERES def. MADS BURNELL via Submission(R3)
+- SIYAR BAHADURZADA def. ROB WILKINSON via KO/TKO(R2)
+- RUSTAM KHABILOV def. DESMOND GREEN via Decision - Unanimous(R3)
+- ALEKSANDAR RAKIC def. FRANCIMAR BARROSO via Decision - Unanimous(R3)
+- LEON EDWARDS def. BRYAN BARBERENA via Decision - Unanimous(R3)
+- MARION RENEAU def. TALITA BERNARDO via KO/TKO(R3)
+- MAIRBEK TAISUMOV def. FELIPE SILVA via KO/TKO(R1)
+- THIBAULT GOUTI def. ANDREW HOLBROOK via KO/TKO(R1)

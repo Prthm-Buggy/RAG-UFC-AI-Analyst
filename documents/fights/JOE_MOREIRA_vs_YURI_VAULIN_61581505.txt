@@ -1,0 +1,13 @@
+Event: UFC 14: Showdown
+    Date: July 27, 1997
+    Location: Birmingham, Alabama, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE MOREIRA defeated YURI VAULIN via Decision - Unanimous  
+  at 3:00 of round 2
+  Key stats:
+  - JOE MOREIRA landed 7 significant strikes
+  - YURI VAULIN landed 1 significant strikes
+  - Knockdowns: JOE MOREIRA 0,  YURI VAULIN 0
+  - Takedowns: JOE MOREIRA 3,  YURI VAULIN 0

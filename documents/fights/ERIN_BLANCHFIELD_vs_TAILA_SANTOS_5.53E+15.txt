@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. The Korean Zombie
+    Date: August 26, 2023
+    Location: Kallang, Singapore
+    Weight Class: Women's Flyweight
+    
+
+    Result: ERIN BLANCHFIELD defeated TAILA SANTOS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ERIN BLANCHFIELD landed 61 significant strikes
+  - TAILA SANTOS landed 55 significant strikes
+  - Knockdowns: ERIN BLANCHFIELD 0,  TAILA SANTOS 0
+  - Takedowns: ERIN BLANCHFIELD 0,  TAILA SANTOS 0

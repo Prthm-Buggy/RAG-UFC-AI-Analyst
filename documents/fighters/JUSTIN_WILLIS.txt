@@ -1,0 +1,11 @@
+Fighter: JUSTIN WILLIS
+  Date of Birth: 1987-07-19
+  Career record: 5
+  First fight: 2017-07-16
+  Last fight: 2019-03-23
+
+Career Statistics:
+- Significant Strikes Landed :211
+- Total takedowns landed :4
+- Knockdowns :2
+- Submission Attempts :0

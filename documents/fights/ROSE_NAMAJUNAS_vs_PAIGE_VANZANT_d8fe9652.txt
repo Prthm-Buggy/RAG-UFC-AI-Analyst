@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Namajunas vs. VanZant
+    Date: December 10, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: ROSE NAMAJUNAS defeated PAIGE VANZANT via Submission  
+  at 2:25 of round 5
+  Key stats:
+  - ROSE NAMAJUNAS landed 57 significant strikes
+  - PAIGE VANZANT landed 10 significant strikes
+  - Knockdowns: ROSE NAMAJUNAS 0,  PAIGE VANZANT 0
+  - Takedowns: ROSE NAMAJUNAS 8,  PAIGE VANZANT 0
+  Bonus: perf

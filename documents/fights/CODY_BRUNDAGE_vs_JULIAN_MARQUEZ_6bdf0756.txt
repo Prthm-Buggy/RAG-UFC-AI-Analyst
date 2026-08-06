@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kape vs. Almabayev
+    Date: March 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CODY BRUNDAGE defeated JULIAN MARQUEZ via KO/TKO  
+  at 4:45 of round 1
+  Key stats:
+  - CODY BRUNDAGE landed 44 significant strikes
+  - JULIAN MARQUEZ landed 37 significant strikes
+  - Knockdowns: CODY BRUNDAGE 1,  JULIAN MARQUEZ 0
+  - Takedowns: CODY BRUNDAGE 0,  JULIAN MARQUEZ 0

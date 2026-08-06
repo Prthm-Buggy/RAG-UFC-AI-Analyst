@@ -1,0 +1,13 @@
+Event: UFC 110: Nogueira vs Velasquez
+    Date: February 20, 2010
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: RYAN BADER defeated KEITH JARDINE via KO/TKO  
+  at 2:10 of round 3
+  Key stats:
+  - RYAN BADER landed 29 significant strikes
+  - KEITH JARDINE landed 15 significant strikes
+  - Knockdowns: RYAN BADER 1,  KEITH JARDINE 0
+  - Takedowns: RYAN BADER 3,  KEITH JARDINE 0

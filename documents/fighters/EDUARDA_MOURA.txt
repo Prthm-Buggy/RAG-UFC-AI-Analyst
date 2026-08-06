@@ -1,0 +1,11 @@
+Fighter: EDUARDA MOURA
+  Date of Birth: 1994-02-28
+  Career record: 5
+  First fight: 2023-11-04
+  Last fight: 2026-02-07
+
+Career Statistics:
+- Significant Strikes Landed :177
+- Total takedowns landed :16
+- Knockdowns :0
+- Submission Attempts :1

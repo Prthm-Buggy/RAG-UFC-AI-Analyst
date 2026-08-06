@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Machida vs Dollaway
+    Date : December 20, 2014
+    Location: Barueri, Sao Paulo, Brazil
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Lightweight, Middleweight, Light Heavyweight, Welterweight, Featherweight
+
+    Fight Results:
+  - RENATO MOICANO def. TOM NIINIMAKI via Submission(R2)
+- TIM MEANS def. MARCIO ALEXANDRE JUNIOR via Decision - Split(R3)
+- RASHID MAGOMEDOV def. ELIAS SILVERIO via KO/TKO(R3)
+- PATRICK CUMMINS def. ANTONIO CARLOS JUNIOR via Decision - Unanimous(R3)
+- MARCOS ROGERIO DE LIMA def. IGOR POKRAJAC via KO/TKO(R1)
+- RENAN BARAO def. MITCH GAGNON via Submission(R3)
+- VITOR MIRANDA def. JAKE COLLIER via KO/TKO(R1)
+- LEANDRO ISSA def. YUTA SASAKI via Submission(R2)
+- LYOTO MACHIDA def. CB DOLLAWAY via KO/TKO(R1)
+- HACRAN DIAS def. DARREN ELKINS via Decision - Unanimous(R3)
+- DANIEL SARAFIAN def. ANTONIO DOS SANTOS via KO/TKO(R2)
+- ERICK SILVA def. MIKE RHODES via Submission(R1)

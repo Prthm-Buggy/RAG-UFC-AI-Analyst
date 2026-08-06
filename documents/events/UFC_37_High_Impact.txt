@@ -1,0 +1,14 @@
+Event : UFC 37: High Impact
+    Date : May 10, 2002
+    Location: Bossier City, Louisiana, USA
+    Number of Fights: 7
+    Weight Classes: Middleweight, Lightweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - IVAN SALAVERRY def. ANDREI SEMENOV via KO/TKO(R3)
+- ROBBIE LAWLER def. AARON RILEY via Decision - Unanimous(R3)
+- RICCO RODRIGUEZ def. TSUYOSHI KOHSAKA via KO/TKO(R2)
+- MURILO BUSTAMANTE def. MATT LINDLAND via Submission(R3)
+- CAOL UNO def. YVES EDWARDS via Decision - Unanimous(R3)
+- BJ PENN def. PAUL CREIGHTON via KO/TKO(R2)
+- PHIL BARONI def. AMAR SULOEV via KO/TKO(R1)

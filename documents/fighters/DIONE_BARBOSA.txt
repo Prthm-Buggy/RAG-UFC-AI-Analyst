@@ -1,0 +1,11 @@
+Fighter: DIONE BARBOSA
+  Date of Birth: 1992-05-08
+  Career record: 5
+  First fight: 2024-05-04
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :148
+- Total takedowns landed :10
+- Knockdowns :0
+- Submission Attempts :4

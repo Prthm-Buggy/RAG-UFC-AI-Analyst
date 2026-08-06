@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Vettori
+    Date: December 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: LOUIS SMOLKA defeated JOSE QUINONEZ via KO/TKO  
+  at 2:15 of round 2
+  Key stats:
+  - LOUIS SMOLKA landed 59 significant strikes
+  - JOSE QUINONEZ landed 43 significant strikes
+  - Knockdowns: LOUIS SMOLKA 0,  JOSE QUINONEZ 0
+  - Takedowns: LOUIS SMOLKA 3,  JOSE QUINONEZ 2

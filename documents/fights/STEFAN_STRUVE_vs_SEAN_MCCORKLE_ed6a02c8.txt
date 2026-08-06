@@ -1,0 +1,13 @@
+Event: UFC 124: St-Pierre vs Koscheck 2
+    Date: December 11, 2010
+    Location: Montreal, Quebec, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: STEFAN STRUVE defeated SEAN MCCORKLE via KO/TKO  
+  at 3:55 of round 1
+  Key stats:
+  - STEFAN STRUVE landed 11 significant strikes
+  - SEAN MCCORKLE landed 4 significant strikes
+  - Knockdowns: STEFAN STRUVE 0,  SEAN MCCORKLE 0
+  - Takedowns: STEFAN STRUVE 0,  SEAN MCCORKLE 1

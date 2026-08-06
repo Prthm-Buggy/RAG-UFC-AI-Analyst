@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Magny vs Gastelum
+    Date: November 21, 2015
+    Location: Monterrey, Nuevo Leon, Mexico
+    Weight Class: Lightweight
+    
+
+    Result: MARCO POLO REYES defeated CESAR ARZAMENDIA via KO/TKO  
+  at 3:42 of round 1
+  Key stats:
+  - MARCO POLO REYES landed 10 significant strikes
+  - CESAR ARZAMENDIA landed 16 significant strikes
+  - Knockdowns: MARCO POLO REYES 1,  CESAR ARZAMENDIA 0
+  - Takedowns: MARCO POLO REYES 0,  CESAR ARZAMENDIA 3
+  Bonus: perf

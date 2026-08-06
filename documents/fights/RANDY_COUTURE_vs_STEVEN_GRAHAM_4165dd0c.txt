@@ -1,0 +1,14 @@
+Event: UFC 13: The Ultimate Force
+    Date: May 30, 1997
+    Location: Augusta, Georgia, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RANDY COUTURE defeated STEVEN GRAHAM via KO/TKO  
+  at 3:13 of round 1
+  Key stats:
+  - RANDY COUTURE landed 16 significant strikes
+  - STEVEN GRAHAM landed 0 significant strikes
+  - Knockdowns: RANDY COUTURE 0,  STEVEN GRAHAM 0
+  - Takedowns: RANDY COUTURE 1,  STEVEN GRAHAM 0
+  Bonus: belt

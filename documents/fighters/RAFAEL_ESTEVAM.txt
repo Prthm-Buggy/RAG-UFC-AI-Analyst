@@ -1,0 +1,11 @@
+Fighter: RAFAEL ESTEVAM
+  Date of Birth: 1996-08-10
+  Career record: 4
+  First fight: 2023-11-18
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :106
+- Total takedowns landed :19
+- Knockdowns :0
+- Submission Attempts :1

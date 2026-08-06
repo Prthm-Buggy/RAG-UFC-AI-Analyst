@@ -1,0 +1,13 @@
+Event: UFC 91: Couture vs Lesnar
+    Date: November 15, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: GABRIEL GONZAGA defeated JOSH HENDRICKS via KO/TKO  
+  at 1:01 of round 1
+  Key stats:
+  - GABRIEL GONZAGA landed 12 significant strikes
+  - JOSH HENDRICKS landed 1 significant strikes
+  - Knockdowns: GABRIEL GONZAGA 1,  JOSH HENDRICKS 0
+  - Takedowns: GABRIEL GONZAGA 0,  JOSH HENDRICKS 0

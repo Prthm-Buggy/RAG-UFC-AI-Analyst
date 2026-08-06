@@ -1,0 +1,14 @@
+Event: UFC 183: Silva vs Diaz
+    Date: January 31, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: THIAGO ALVES defeated JORDAN MEIN via KO/TKO  
+  at 0:39 of round 2
+  Key stats:
+  - THIAGO ALVES landed 23 significant strikes
+  - JORDAN MEIN landed 37 significant strikes
+  - Knockdowns: THIAGO ALVES 1,  JORDAN MEIN 0
+  - Takedowns: THIAGO ALVES 0,  JORDAN MEIN 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 26: Ultimate Field Of Dreams
+    Date: June 09, 2000
+    Location: Cedar Rapids, Iowa, USA
+    Weight Class: Welterweight
+    
+
+    Result: SHONIE CARTER defeated ADRIAN SERRANO via Decision - Unanimous  
+  at 5:00 of round 2
+  Key stats:
+  - SHONIE CARTER landed 26 significant strikes
+  - ADRIAN SERRANO landed 6 significant strikes
+  - Knockdowns: SHONIE CARTER 0,  ADRIAN SERRANO 0
+  - Takedowns: SHONIE CARTER 3,  ADRIAN SERRANO 0

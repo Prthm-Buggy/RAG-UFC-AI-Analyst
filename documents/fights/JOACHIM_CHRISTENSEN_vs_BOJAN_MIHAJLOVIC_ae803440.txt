@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Penn
+    Date: January 15, 2017
+    Location: Phoenix, Arizona, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JOACHIM CHRISTENSEN defeated BOJAN MIHAJLOVIC via KO/TKO  
+  at 2:05 of round 3
+  Key stats:
+  - JOACHIM CHRISTENSEN landed 41 significant strikes
+  - BOJAN MIHAJLOVIC landed 22 significant strikes
+  - Knockdowns: JOACHIM CHRISTENSEN 1,  BOJAN MIHAJLOVIC 0
+  - Takedowns: JOACHIM CHRISTENSEN 0,  BOJAN MIHAJLOVIC 0

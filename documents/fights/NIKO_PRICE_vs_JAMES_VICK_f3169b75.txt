@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Joanna vs. Waterson
+    Date: October 12, 2019
+    Location: Tampa, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: NIKO PRICE defeated JAMES VICK via KO/TKO  
+  at 1:44 of round 1
+  Key stats:
+  - NIKO PRICE landed 11 significant strikes
+  - JAMES VICK landed 9 significant strikes
+  - Knockdowns: NIKO PRICE 1,  JAMES VICK 0
+  - Takedowns: NIKO PRICE 0,  JAMES VICK 0
+  Bonus: perf

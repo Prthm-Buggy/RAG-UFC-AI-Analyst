@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. Cortez
+    Date: July 13, 2024
+    Location: Denver, Colorado, USA
+    Weight Class: Welterweight
+    
+
+    Result: EVAN ELDER defeated DARRIUS FLOWERS via Submission  
+  at 1:46 of round 2
+  Key stats:
+  - EVAN ELDER landed 45 significant strikes
+  - DARRIUS FLOWERS landed 24 significant strikes
+  - Knockdowns: EVAN ELDER 0,  DARRIUS FLOWERS 0
+  - Takedowns: EVAN ELDER 0,  DARRIUS FLOWERS 1

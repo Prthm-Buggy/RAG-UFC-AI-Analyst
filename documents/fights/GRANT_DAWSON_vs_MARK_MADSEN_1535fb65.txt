@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rodriguez vs. Lemos
+    Date: November 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: GRANT DAWSON defeated MARK MADSEN via Submission  
+  at 2:05 of round 3
+  Key stats:
+  - GRANT DAWSON landed 33 significant strikes
+  - MARK MADSEN landed 15 significant strikes
+  - Knockdowns: GRANT DAWSON 1,  MARK MADSEN 0
+  - Takedowns: GRANT DAWSON 2,  MARK MADSEN 0

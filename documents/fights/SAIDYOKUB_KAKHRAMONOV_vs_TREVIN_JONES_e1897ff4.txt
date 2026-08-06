@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cannonier vs. Gastelum
+    Date: August 21, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SAIDYOKUB KAKHRAMONOV defeated TREVIN JONES via Submission  
+  at 4:39 of round 3
+  Key stats:
+  - SAIDYOKUB KAKHRAMONOV landed 36 significant strikes
+  - TREVIN JONES landed 12 significant strikes
+  - Knockdowns: SAIDYOKUB KAKHRAMONOV 0,  TREVIN JONES 0
+  - Takedowns: SAIDYOKUB KAKHRAMONOV 2,  TREVIN JONES 1

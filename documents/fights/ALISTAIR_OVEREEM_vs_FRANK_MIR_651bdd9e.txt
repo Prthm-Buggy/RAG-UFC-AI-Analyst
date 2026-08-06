@@ -1,0 +1,13 @@
+Event: UFC 169: Barao vs Faber 2
+    Date: February 01, 2014
+    Location: Newark, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALISTAIR OVEREEM defeated FRANK MIR via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALISTAIR OVEREEM landed 62 significant strikes
+  - FRANK MIR landed 3 significant strikes
+  - Knockdowns: ALISTAIR OVEREEM 1,  FRANK MIR 0
+  - Takedowns: ALISTAIR OVEREEM 0,  FRANK MIR 1

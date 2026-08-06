@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edwards vs. Muhammad
+    Date: March 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NASRAT HAQPARAST defeated RAFA GARCIA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NASRAT HAQPARAST landed 99 significant strikes
+  - RAFA GARCIA landed 52 significant strikes
+  - Knockdowns: NASRAT HAQPARAST 0,  RAFA GARCIA 0
+  - Takedowns: NASRAT HAQPARAST 0,  RAFA GARCIA 0

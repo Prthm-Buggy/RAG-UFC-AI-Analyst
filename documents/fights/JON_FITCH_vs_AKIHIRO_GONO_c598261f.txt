@@ -1,0 +1,13 @@
+Event: UFC 94: St-Pierre vs Penn 2
+    Date: January 31, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JON FITCH defeated AKIHIRO GONO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JON FITCH landed 40 significant strikes
+  - AKIHIRO GONO landed 7 significant strikes
+  - Knockdowns: JON FITCH 0,  AKIHIRO GONO 0
+  - Takedowns: JON FITCH 4,  AKIHIRO GONO 0

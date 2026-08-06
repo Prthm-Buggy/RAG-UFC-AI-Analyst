@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Dariush vs. Tsarukyan
+    Date : December 02, 2023
+    Location: Austin, Texas, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Women's Flyweight, Lightweight, Middleweight, Welterweight, Light Heavyweight, Women's Bantamweight
+
+    Fight Results:
+  - VERONICA HARDY def. JAMEY-LYN HORTH via Decision - Split(R3)
+- DRAKKAR KLOSE def. JOE SOLECKI via KO/TKO(R1)
+- CODY BRUNDAGE def. ZACH REESE via KO/TKO(R1)
+- DEIVESON FIGUEIREDO def. ROB FONT via Decision - Unanimous(R3)
+- MIESHA TATE def. JULIA AVILA via Submission(R3)
+- DUSTIN STOLTZFUS def. PUNAHELE SORIANO via Submission(R2)
+- ARMAN TSARUKYAN def. BENEIL DARIUSH via KO/TKO(R1)
+- JARED GOODEN def. WELLINGTON TURMAN via Submission(R2)
+- SEAN BRADY def. KELVIN GASTELUM via Submission(R3)
+- JALIN TURNER def. KING GREEN via KO/TKO(R1)
+- JOAQUIM SILVA def. CLAY GUIDA via Decision - Unanimous(R3)
+- RODOLFO BELLATO def. IHOR POTIERIA via KO/TKO(R2)

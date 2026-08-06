@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Struve
+    Date: September 02, 2017
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Lightweight
+    
+
+    Result: MAIRBEK TAISUMOV defeated FELIPE SILVA via KO/TKO  
+  at 1:24 of round 1
+  Key stats:
+  - MAIRBEK TAISUMOV landed 2 significant strikes
+  - FELIPE SILVA landed 0 significant strikes
+  - Knockdowns: MAIRBEK TAISUMOV 1,  FELIPE SILVA 0
+  - Takedowns: MAIRBEK TAISUMOV 0,  FELIPE SILVA 0
+  Bonus: perf

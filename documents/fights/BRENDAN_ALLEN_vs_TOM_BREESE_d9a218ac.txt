@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Benavidez vs. Figueiredo
+    Date: February 29, 2020
+    Location: Norfolk, Virginia, USA
+    Weight Class: Middleweight
+    
+
+    Result: BRENDAN ALLEN defeated TOM BREESE via KO/TKO  
+  at 4:47 of round 1
+  Key stats:
+  - BRENDAN ALLEN landed 20 significant strikes
+  - TOM BREESE landed 4 significant strikes
+  - Knockdowns: BRENDAN ALLEN 0,  TOM BREESE 0
+  - Takedowns: BRENDAN ALLEN 0,  TOM BREESE 0

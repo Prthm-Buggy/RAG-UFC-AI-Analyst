@@ -1,0 +1,11 @@
+Fighter: MICHAEL MORALES
+  Date of Birth: 1999-06-24
+  Career record: 7
+  First fight: 2022-01-22
+  Last fight: 2025-11-15
+
+Career Statistics:
+- Significant Strikes Landed :356
+- Total takedowns landed :1
+- Knockdowns :7
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: UFC 92: The Ultimate 2008
+    Date: December 27, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: RASHAD EVANS defeated FORREST GRIFFIN via KO/TKO  
+  at 2:46 of round 3
+  Key stats:
+  - RASHAD EVANS landed 49 significant strikes
+  - FORREST GRIFFIN landed 50 significant strikes
+  - Knockdowns: RASHAD EVANS 0,  FORREST GRIFFIN 0
+  - Takedowns: RASHAD EVANS 1,  FORREST GRIFFIN 0
+  Bonus: belt

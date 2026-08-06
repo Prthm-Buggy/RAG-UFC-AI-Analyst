@@ -1,0 +1,11 @@
+Fighter: MONTSERRAT CONEJO RUIZ
+  Date of Birth: 1993-02-03
+  Career record: 5
+  First fight: 2021-03-20
+  Last fight: 2025-11-01
+
+Career Statistics:
+- Significant Strikes Landed :114
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :2

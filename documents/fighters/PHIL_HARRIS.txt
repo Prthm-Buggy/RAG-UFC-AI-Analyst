@@ -1,0 +1,11 @@
+Fighter: PHIL HARRIS
+  Date of Birth: 1983-09-04
+  Career record: 4
+  First fight: 2012-10-05
+  Last fight: 2014-07-19
+
+Career Statistics:
+- Significant Strikes Landed :97
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

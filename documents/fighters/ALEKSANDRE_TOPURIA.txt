@@ -1,0 +1,11 @@
+Fighter: ALEKSANDRE TOPURIA
+  Date of Birth: 1996-01-28
+  Career record: 2
+  First fight: 2025-02-08
+  Last fight: 2025-11-22
+
+Career Statistics:
+- Significant Strikes Landed :88
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

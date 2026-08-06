@@ -1,0 +1,11 @@
+Fighter: LIUDVIK SHOLINIAN
+  Date of Birth: 1990-01-20
+  Career record: 2
+  First fight: 2021-09-04
+  Last fight: 2022-11-05
+
+Career Statistics:
+- Significant Strikes Landed :75
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

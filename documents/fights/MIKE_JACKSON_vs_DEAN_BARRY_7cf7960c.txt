@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lemos vs. Andrade
+    Date: April 23, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MIKE JACKSON defeated DEAN BARRY via DQ  
+  at 3:52 of round 1
+  Key stats:
+  - MIKE JACKSON landed 18 significant strikes
+  - DEAN BARRY landed 36 significant strikes
+  - Knockdowns: MIKE JACKSON 0,  DEAN BARRY 1
+  - Takedowns: MIKE JACKSON 0,  DEAN BARRY 0

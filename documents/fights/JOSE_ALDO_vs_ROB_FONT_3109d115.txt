@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Aldo
+    Date: December 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOSE ALDO defeated ROB FONT via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JOSE ALDO landed 86 significant strikes
+  - ROB FONT landed 149 significant strikes
+  - Knockdowns: JOSE ALDO 2,  ROB FONT 0
+  - Takedowns: JOSE ALDO 0,  ROB FONT 1

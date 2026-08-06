@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holohan vs Smolka
+    Date: October 24, 2015
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Middleweight
+    
+
+    Result: GARRETH MCLELLAN defeated BUBBA BUSH via KO/TKO  
+  at 4:58 of round 3
+  Key stats:
+  - GARRETH MCLELLAN landed 97 significant strikes
+  - BUBBA BUSH landed 8 significant strikes
+  - Knockdowns: GARRETH MCLELLAN 0,  BUBBA BUSH 0
+  - Takedowns: GARRETH MCLELLAN 2,  BUBBA BUSH 3

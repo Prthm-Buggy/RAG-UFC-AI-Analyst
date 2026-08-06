@@ -1,0 +1,13 @@
+Event: UFC 288: Sterling vs. Cejudo
+    Date: May 06, 2023
+    Location: Newark, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: IKRAM ALISKEROV defeated PHIL HAWES via KO/TKO  
+  at 2:10 of round 1
+  Key stats:
+  - IKRAM ALISKEROV landed 20 significant strikes
+  - PHIL HAWES landed 17 significant strikes
+  - Knockdowns: IKRAM ALISKEROV 1,  PHIL HAWES 0
+  - Takedowns: IKRAM ALISKEROV 0,  PHIL HAWES 0

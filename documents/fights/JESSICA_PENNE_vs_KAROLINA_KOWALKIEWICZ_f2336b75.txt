@@ -1,0 +1,14 @@
+Event: UFC 265: Lewis vs. Gane
+    Date: August 07, 2021
+    Location: Houston, Texas, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JESSICA PENNE defeated KAROLINA KOWALKIEWICZ via Submission  
+  at 4:32 of round 1
+  Key stats:
+  - JESSICA PENNE landed 12 significant strikes
+  - KAROLINA KOWALKIEWICZ landed 8 significant strikes
+  - Knockdowns: JESSICA PENNE 0,  KAROLINA KOWALKIEWICZ 0
+  - Takedowns: JESSICA PENNE 1,  KAROLINA KOWALKIEWICZ 1
+  Bonus: perf

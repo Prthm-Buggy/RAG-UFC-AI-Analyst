@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Burns vs. Morales
+    Date: May 17, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: YADIER DEL VALLE defeated CONNOR MATTHEWS via Submission  
+  at 2:54 of round 1
+  Key stats:
+  - YADIER DEL VALLE landed 9 significant strikes
+  - CONNOR MATTHEWS landed 3 significant strikes
+  - Knockdowns: YADIER DEL VALLE 0,  CONNOR MATTHEWS 0
+  - Takedowns: YADIER DEL VALLE 1,  CONNOR MATTHEWS 0

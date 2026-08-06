@@ -1,0 +1,14 @@
+Event: UFC 90: Silva vs Cote
+    Date: October 25, 2008
+    Location: Rosemont, Illinois, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR DOS SANTOS defeated FABRICIO WERDUM via KO/TKO  
+  at 1:21 of round 1
+  Key stats:
+  - JUNIOR DOS SANTOS landed 7 significant strikes
+  - FABRICIO WERDUM landed 6 significant strikes
+  - Knockdowns: JUNIOR DOS SANTOS 1,  FABRICIO WERDUM 0
+  - Takedowns: JUNIOR DOS SANTOS 0,  FABRICIO WERDUM 0
+  Bonus: ko

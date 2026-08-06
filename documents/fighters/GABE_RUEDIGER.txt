@@ -1,0 +1,11 @@
+Fighter: GABE RUEDIGER
+  Date of Birth: 1977-08-29
+  Career record: 3
+  First fight: 2006-09-23
+  Last fight: 2011-02-05
+
+Career Statistics:
+- Significant Strikes Landed :25
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Strickland
+    Date: February 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: PHIL ROWE defeated JASON WITT via KO/TKO  
+  at 2:15 of round 2
+  Key stats:
+  - PHIL ROWE landed 8 significant strikes
+  - JASON WITT landed 8 significant strikes
+  - Knockdowns: PHIL ROWE 1,  JASON WITT 0
+  - Takedowns: PHIL ROWE 0,  JASON WITT 4

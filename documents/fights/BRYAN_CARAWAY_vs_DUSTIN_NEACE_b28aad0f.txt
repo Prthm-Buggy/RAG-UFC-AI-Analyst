@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Bisping vs Team Miller Finale
+    Date: December 03, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: BRYAN CARAWAY defeated DUSTIN NEACE via Submission  
+  at 3:38 of round 2
+  Key stats:
+  - BRYAN CARAWAY landed 23 significant strikes
+  - DUSTIN NEACE landed 18 significant strikes
+  - Knockdowns: BRYAN CARAWAY 0,  DUSTIN NEACE 0
+  - Takedowns: BRYAN CARAWAY 3,  DUSTIN NEACE 0

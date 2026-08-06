@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Stephens
+    Date: February 24, 2018
+    Location: Orlando, Florida, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MARION RENEAU defeated SARA MCMANN via Submission  
+  at 3:40 of round 2
+  Key stats:
+  - MARION RENEAU landed 23 significant strikes
+  - SARA MCMANN landed 9 significant strikes
+  - Knockdowns: MARION RENEAU 0,  SARA MCMANN 0
+  - Takedowns: MARION RENEAU 0,  SARA MCMANN 2

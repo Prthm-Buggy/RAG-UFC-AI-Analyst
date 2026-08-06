@@ -1,0 +1,13 @@
+Event: UFC 198: Werdum vs Miocic
+    Date: May 14, 2016
+    Location: Curitiba, Parana, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAURICIO RUA defeated COREY ANDERSON via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MAURICIO RUA landed 48 significant strikes
+  - COREY ANDERSON landed 55 significant strikes
+  - Knockdowns: MAURICIO RUA 2,  COREY ANDERSON 0
+  - Takedowns: MAURICIO RUA 0,  COREY ANDERSON 4

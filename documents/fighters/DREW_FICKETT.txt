@@ -1,0 +1,11 @@
+Fighter: DREW FICKETT
+  Date of Birth: 1979-12-14
+  Career record: 7
+  First fight: 2005-02-05
+  Last fight: 2007-04-05
+
+Career Statistics:
+- Significant Strikes Landed :155
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :8

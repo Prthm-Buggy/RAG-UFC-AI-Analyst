@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Thompson vs. Neal
+    Date: December 19, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: STEPHEN THOMPSON defeated GEOFF NEAL via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - STEPHEN THOMPSON landed 171 significant strikes
+  - GEOFF NEAL landed 85 significant strikes
+  - Knockdowns: STEPHEN THOMPSON 0,  GEOFF NEAL 0
+  - Takedowns: STEPHEN THOMPSON 0,  GEOFF NEAL 0
+  Bonus: perf

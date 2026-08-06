@@ -1,0 +1,11 @@
+Fighter: DEAN BARRY
+  Date of Birth: 1992-07-03
+  Career record: 1
+  First fight: 2022-04-23
+  Last fight: 2022-04-23
+
+Career Statistics:
+- Significant Strikes Landed :36
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

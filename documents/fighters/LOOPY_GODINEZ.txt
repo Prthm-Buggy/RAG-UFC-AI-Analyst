@@ -1,0 +1,11 @@
+Fighter: LOOPY GODINEZ
+  Date of Birth: 1993-09-06
+  Career record: 15
+  First fight: 2021-04-17
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :887
+- Total takedowns landed :40
+- Knockdowns :1
+- Submission Attempts :11

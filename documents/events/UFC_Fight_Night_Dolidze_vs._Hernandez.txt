@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Dolidze vs. Hernandez
+    Date : August 09, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Women's Flyweight, Middleweight, Featherweight, Light Heavyweight, Women's Strawweight, Women's Bantamweight, Welterweight
+
+    Fight Results:
+  - ERIC MCCONICO def. CODY BRUNDAGE via Decision - Split(R3)
+- ELIJAH SMITH def. TOSHIOMI KAZAMA via KO/TKO(R1)
+- UROS MEDIC def. GILBERT URBINA via KO/TKO(R1)
+- CHRISTIAN LEROY DUNCAN def. ERYK ANDERS via KO/TKO(R1)
+- ANTHONY HERNANDEZ def. ROMAN DOLIDZE via Submission(R4)
+- ANDRE FILI def. CHRISTIAN RODRIGUEZ via Decision - Split(R3)
+- GABRIELLA FERNANDES def. JULIJA STOLIARENKO via Decision - Unanimous(R3)
+- JEAN MATSUMOTO def. MILES JOHNS via Decision - Split(R3)
+- STEVE ERCEG def. ODE OSBOURNE via Decision - Unanimous(R3)
+- JOSELYNE EDWARDS def. PRISCILA CACHOEIRA via KO/TKO(R1)
+- IASMIN LUCINDO def. ANGELA HILL via Decision - Unanimous(R3)
+- JULIUS WALKER def. RAFAEL CERQUEIRA via Decision - Unanimous(R3)

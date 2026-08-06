@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Nicolau vs. Perez
+    Date: April 27, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: UROS MEDIC defeated TIM MEANS via KO/TKO  
+  at 2:09 of round 1
+  Key stats:
+  - UROS MEDIC landed 7 significant strikes
+  - TIM MEANS landed 7 significant strikes
+  - Knockdowns: UROS MEDIC 1,  TIM MEANS 0
+  - Takedowns: UROS MEDIC 0,  TIM MEANS 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 122: Marquardt vs Okami
+    Date: November 13, 2010
+    Location: Oberhausen, North Rhine-Westphalia, Germany
+    Weight Class: Welterweight
+    
+
+    Result: CARLOS EDUARDO ROCHA defeated KRIS MCCRAY via Submission  
+  at 2:21 of round 1
+  Key stats:
+  - CARLOS EDUARDO ROCHA landed 2 significant strikes
+  - KRIS MCCRAY landed 3 significant strikes
+  - Knockdowns: CARLOS EDUARDO ROCHA 0,  KRIS MCCRAY 0
+  - Takedowns: CARLOS EDUARDO ROCHA 0,  KRIS MCCRAY 2

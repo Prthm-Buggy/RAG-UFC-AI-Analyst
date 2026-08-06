@@ -1,0 +1,11 @@
+Fighter: MICHEL QUINONES
+  Date of Birth: 1984-12-22
+  Career record: 2
+  First fight: 2017-06-25
+  Last fight: 2017-11-11
+
+Career Statistics:
+- Significant Strikes Landed :71
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

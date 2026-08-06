@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holm vs. Vieira
+    Date: May 21, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JAILTON ALMEIDA defeated PARKER PORTER via Submission  
+  at 4:35 of round 1
+  Key stats:
+  - JAILTON ALMEIDA landed 18 significant strikes
+  - PARKER PORTER landed 0 significant strikes
+  - Knockdowns: JAILTON ALMEIDA 0,  PARKER PORTER 0
+  - Takedowns: JAILTON ALMEIDA 1,  PARKER PORTER 0

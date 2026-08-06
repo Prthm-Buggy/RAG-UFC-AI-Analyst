@@ -1,0 +1,13 @@
+Event: UFC 221: Romero vs. Rockhold
+    Date: February 10, 2018
+    Location: Perth, Western Australia, Australia
+    Weight Class: Featherweight
+    
+
+    Result: ALEXANDER VOLKANOVSKI defeated JEREMY KENNEDY via KO/TKO  
+  at 4:57 of round 2
+  Key stats:
+  - ALEXANDER VOLKANOVSKI landed 73 significant strikes
+  - JEREMY KENNEDY landed 8 significant strikes
+  - Knockdowns: ALEXANDER VOLKANOVSKI 0,  JEREMY KENNEDY 0
+  - Takedowns: ALEXANDER VOLKANOVSKI 2,  JEREMY KENNEDY 0

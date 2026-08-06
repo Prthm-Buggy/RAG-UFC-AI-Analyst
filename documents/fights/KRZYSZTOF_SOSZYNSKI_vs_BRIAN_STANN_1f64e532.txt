@@ -1,0 +1,14 @@
+Event: UFC 97: Redemption
+    Date: April 18, 2009
+    Location: Montreal, Quebec, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: KRZYSZTOF SOSZYNSKI defeated BRIAN STANN via Submission  
+  at 3:53 of round 1
+  Key stats:
+  - KRZYSZTOF SOSZYNSKI landed 3 significant strikes
+  - BRIAN STANN landed 8 significant strikes
+  - Knockdowns: KRZYSZTOF SOSZYNSKI 0,  BRIAN STANN 0
+  - Takedowns: KRZYSZTOF SOSZYNSKI 2,  BRIAN STANN 0
+  Bonus: sub

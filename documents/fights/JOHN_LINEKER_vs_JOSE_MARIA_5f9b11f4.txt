@@ -1,0 +1,13 @@
+Event: UFC 163: Aldo vs Jung
+    Date: August 03, 2013
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: JOHN LINEKER defeated JOSE MARIA via KO/TKO  
+  at 1:03 of round 2
+  Key stats:
+  - JOHN LINEKER landed 22 significant strikes
+  - JOSE MARIA landed 19 significant strikes
+  - Knockdowns: JOHN LINEKER 0,  JOSE MARIA 0
+  - Takedowns: JOHN LINEKER 2,  JOSE MARIA 1

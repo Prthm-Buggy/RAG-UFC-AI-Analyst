@@ -1,0 +1,14 @@
+Event: UFC 108: Evans vs Silva
+    Date: January 02, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: COLE MILLER defeated DAN LAUZON via Submission  
+  at 3:05 of round 1
+  Key stats:
+  - COLE MILLER landed 15 significant strikes
+  - DAN LAUZON landed 10 significant strikes
+  - Knockdowns: COLE MILLER 0,  DAN LAUZON 1
+  - Takedowns: COLE MILLER 0,  DAN LAUZON 1
+  Bonus: sub

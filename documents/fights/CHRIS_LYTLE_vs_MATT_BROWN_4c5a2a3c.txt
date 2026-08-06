@@ -1,0 +1,13 @@
+Event: UFC 116: Lesnar vs Carwin
+    Date: July 03, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: CHRIS LYTLE defeated MATT BROWN via Submission  
+  at 2:02 of round 2
+  Key stats:
+  - CHRIS LYTLE landed 19 significant strikes
+  - MATT BROWN landed 25 significant strikes
+  - Knockdowns: CHRIS LYTLE 0,  MATT BROWN 1
+  - Takedowns: CHRIS LYTLE 0,  MATT BROWN 1

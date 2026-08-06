@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Mousasi vs. Hall 2
+    Date: November 19, 2016
+    Location: Belfast, Northern Ireland, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: GEGARD MOUSASI defeated URIAH HALL via KO/TKO  
+  at 4:37 of round 1
+  Key stats:
+  - GEGARD MOUSASI landed 20 significant strikes
+  - URIAH HALL landed 12 significant strikes
+  - Knockdowns: GEGARD MOUSASI 0,  URIAH HALL 0
+  - Takedowns: GEGARD MOUSASI 1,  URIAH HALL 0

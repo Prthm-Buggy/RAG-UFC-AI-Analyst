@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Ige
+    Date: July 15, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: KHAMZAT CHIMAEV defeated JOHN PHILLIPS via Submission  
+  at 1:12 of round 2
+  Key stats:
+  - KHAMZAT CHIMAEV landed 43 significant strikes
+  - JOHN PHILLIPS landed 1 significant strikes
+  - Knockdowns: KHAMZAT CHIMAEV 0,  JOHN PHILLIPS 0
+  - Takedowns: KHAMZAT CHIMAEV 2,  JOHN PHILLIPS 0
+  Bonus: perf

@@ -1,0 +1,16 @@
+Event : UFC 94: St-Pierre vs Penn 2
+    Date : January 31, 2009
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Welterweight, Light Heavyweight, Lightweight
+
+    Fight Results:
+  - JON JONES def. STEPHAN BONNAR via Decision - Unanimous(R3)
+- LYOTO MACHIDA def. THIAGO SILVA via KO/TKO(R1)
+- CLAY GUIDA def. NATE DIAZ via Decision - Split(R3)
+- JON FITCH def. AKIHIRO GONO via Decision - Unanimous(R3)
+- DAN CRAMER def. MATT ARROYO via Decision - Split(R3)
+- THIAGO TAVARES def. MANVEL GAMBURYAN via Decision - Unanimous(R3)
+- JOHN HOWARD def. CHRIS WILSON via Decision - Split(R3)
+- JAKE O'BRIEN def. CHRISTIAN WELLISCH via Decision - Split(R3)
+- GEORGES ST-PIERRE def. BJ PENN via KO/TKO(R4)

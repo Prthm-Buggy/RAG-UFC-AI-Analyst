@@ -1,0 +1,11 @@
+Fighter: TOM LAWLOR
+  Date of Birth: 1983-05-15
+  Career record: 11
+  First fight: 2008-12-13
+  Last fight: 2016-03-05
+
+Career Statistics:
+- Significant Strikes Landed :244
+- Total takedowns landed :16
+- Knockdowns :3
+- Submission Attempts :9

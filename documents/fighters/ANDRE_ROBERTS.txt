@@ -1,0 +1,11 @@
+Fighter: ANDRE ROBERTS
+  Date of Birth: 1965-02-24
+  Career record: 2
+  First fight: 1999-03-05
+  Last fight: 1999-07-16
+
+Career Statistics:
+- Significant Strikes Landed :12
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

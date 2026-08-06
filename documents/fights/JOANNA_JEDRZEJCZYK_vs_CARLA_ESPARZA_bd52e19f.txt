@@ -1,0 +1,14 @@
+Event: UFC 185: Pettis vs Dos Anjos
+    Date: March 14, 2015
+    Location: Dallas, Texas, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JOANNA JEDRZEJCZYK defeated CARLA ESPARZA via KO/TKO  
+  at 4:17 of round 2
+  Key stats:
+  - JOANNA JEDRZEJCZYK landed 53 significant strikes
+  - CARLA ESPARZA landed 4 significant strikes
+  - Knockdowns: JOANNA JEDRZEJCZYK 0,  CARLA ESPARZA 0
+  - Takedowns: JOANNA JEDRZEJCZYK 0,  CARLA ESPARZA 1
+  Bonus: belt

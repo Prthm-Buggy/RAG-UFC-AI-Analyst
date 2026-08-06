@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Santos vs. Ivanov
+    Date: July 14, 2018
+    Location: Boise, Idaho, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHAD MENDES defeated MYLES JURY via KO/TKO  
+  at 2:52 of round 1
+  Key stats:
+  - CHAD MENDES landed 17 significant strikes
+  - MYLES JURY landed 3 significant strikes
+  - Knockdowns: CHAD MENDES 1,  MYLES JURY 0
+  - Takedowns: CHAD MENDES 0,  MYLES JURY 0
+  Bonus: perf

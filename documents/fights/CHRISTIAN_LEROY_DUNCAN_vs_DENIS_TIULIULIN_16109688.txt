@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Allen vs. Craig
+    Date: November 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRISTIAN LEROY DUNCAN defeated DENIS TIULIULIN via KO/TKO  
+  at 4:24 of round 2
+  Key stats:
+  - CHRISTIAN LEROY DUNCAN landed 65 significant strikes
+  - DENIS TIULIULIN landed 30 significant strikes
+  - Knockdowns: CHRISTIAN LEROY DUNCAN 1,  DENIS TIULIULIN 0
+  - Takedowns: CHRISTIAN LEROY DUNCAN 0,  DENIS TIULIULIN 0

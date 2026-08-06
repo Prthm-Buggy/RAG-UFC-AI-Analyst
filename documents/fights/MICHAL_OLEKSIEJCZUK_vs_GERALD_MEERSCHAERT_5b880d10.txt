@@ -1,0 +1,13 @@
+Event: UFC 319: Du Plessis vs. Chimaev
+    Date: August 16, 2025
+    Location: Chicago, Illinois, USA
+    Weight Class: Middleweight
+    
+
+    Result: MICHAL OLEKSIEJCZUK defeated GERALD MEERSCHAERT via KO/TKO  
+  at 3:03 of round 1
+  Key stats:
+  - MICHAL OLEKSIEJCZUK landed 23 significant strikes
+  - GERALD MEERSCHAERT landed 3 significant strikes
+  - Knockdowns: MICHAL OLEKSIEJCZUK 1,  GERALD MEERSCHAERT 0
+  - Takedowns: MICHAL OLEKSIEJCZUK 0,  GERALD MEERSCHAERT 0

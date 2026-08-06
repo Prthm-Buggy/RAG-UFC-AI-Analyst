@@ -1,0 +1,13 @@
+Event: UFC 23: Ultimate Japan 2
+    Date: November 19, 1999
+    Location: Chiba, Japan
+    Weight Class: Open Weight
+    
+
+    Result: KATSUHISA FUJII defeated MASUTATSU YANO via KO/TKO  
+  at 3:12 of round 2
+  Key stats:
+  - KATSUHISA FUJII landed 18 significant strikes
+  - MASUTATSU YANO landed 18 significant strikes
+  - Knockdowns: KATSUHISA FUJII 1,  MASUTATSU YANO 0
+  - Takedowns: KATSUHISA FUJII 0,  MASUTATSU YANO 1

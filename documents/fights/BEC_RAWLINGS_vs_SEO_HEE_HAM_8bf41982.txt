@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hunt vs Mir
+    Date: March 19, 2016
+    Location: Brisbane, Queensland, Australia
+    Weight Class: Women's Strawweight
+    
+
+    Result: BEC RAWLINGS defeated SEO HEE HAM via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BEC RAWLINGS landed 77 significant strikes
+  - SEO HEE HAM landed 92 significant strikes
+  - Knockdowns: BEC RAWLINGS 0,  SEO HEE HAM 0
+  - Takedowns: BEC RAWLINGS 1,  SEO HEE HAM 0

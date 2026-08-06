@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs. Anders
+    Date: February 03, 2018
+    Location: Belem, Para, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: DEIVESON FIGUEIREDO defeated JOSEPH MORALES via KO/TKO  
+  at 4:34 of round 2
+  Key stats:
+  - DEIVESON FIGUEIREDO landed 31 significant strikes
+  - JOSEPH MORALES landed 9 significant strikes
+  - Knockdowns: DEIVESON FIGUEIREDO 1,  JOSEPH MORALES 0
+  - Takedowns: DEIVESON FIGUEIREDO 2,  JOSEPH MORALES 0

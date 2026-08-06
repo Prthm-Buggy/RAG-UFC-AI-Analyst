@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Walker vs. Hill
+    Date : February 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Bantamweight, Light Heavyweight, Lightweight, Middleweight, Catch Weight, Featherweight, Women's Bantamweight, Women's Strawweight
+
+    Fight Results:
+  - JOAQUIN BUCKLEY def. ABDUL RAZAK ALHASSAN via Decision - Split(R3)
+- JIM MILLER def. NIKOLAS MOTTA via KO/TKO(R2)
+- DAVID ONAMA def. GABRIEL BENITEZ via KO/TKO(R1)
+- JAMAHAL HILL def. JOHNNY WALKER via KO/TKO(R1)
+- KYLE DAUKAUS def. JAMIE PICKETT via Submission(R1)
+- JONATHAN PEARCE def. CHRISTIAN RODRIGUEZ via Decision - Unanimous(R3)
+- GLORIA DE PAULA def. DIANA BELBITA via Decision - Unanimous(R3)
+- STEPHANIE EGGER def. JESSICA-ROSE CLARK via Submission(R1)
+- MARIO BAUTISTA def. JAY PERRIN via Decision - Unanimous(R3)
+- PARKER PORTER def. ALAN BAUDOT via Decision - Unanimous(R3)
+- CHAS SKELLY def. MARK STRIEGL via KO/TKO(R2)
+- CHAD ANHELIGER def. JESSE STRADER via KO/TKO(R3)

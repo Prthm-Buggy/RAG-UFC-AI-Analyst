@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shevchenko vs. Carmouche 2
+    Date: August 10, 2019
+    Location: Montevideo, Uruguay
+    Weight Class: Middleweight
+    
+
+    Result: RODOLFO VIEIRA defeated OSKAR PIECHOTA via Submission  
+  at 4:26 of round 2
+  Key stats:
+  - RODOLFO VIEIRA landed 18 significant strikes
+  - OSKAR PIECHOTA landed 22 significant strikes
+  - Knockdowns: RODOLFO VIEIRA 0,  OSKAR PIECHOTA 0
+  - Takedowns: RODOLFO VIEIRA 3,  OSKAR PIECHOTA 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machado Garry vs. Prates
+    Date: April 26, 2025
+    Location: Kansas City, Missouri, USA
+    Weight Class: Middleweight
+    
+
+    Result: IKRAM ALISKEROV defeated ANDRE MUNIZ via KO/TKO  
+  at 4:54 of round 1
+  Key stats:
+  - IKRAM ALISKEROV landed 44 significant strikes
+  - ANDRE MUNIZ landed 16 significant strikes
+  - Knockdowns: IKRAM ALISKEROV 1,  ANDRE MUNIZ 0
+  - Takedowns: IKRAM ALISKEROV 0,  ANDRE MUNIZ 0

@@ -1,0 +1,20 @@
+Event : The Ultimate Fighter: Heavy Hitters Finale
+    Date : November 30, 2018
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Women's Featherweight, Flyweight, Featherweight, Welterweight, Middleweight, Lightweight, Heavyweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - MACY CHIASSON def. PANNIE KIANZAD via Submission(R2)
+- LEAH LETSON def. JULIJA STOLIARENKO via Decision - Split(R3)
+- RAONI BARCELOS def. CHRIS GUTIERREZ via Submission(R2)
+- KEVIN AGUILAR def. RICKY GLENN via Decision - Unanimous(R3)
+- EDMEN SHAHBAZYAN def. DARREN STEWART via Decision - Split(R3)
+- KAMARU USMAN def. RAFAEL DOS ANJOS via Decision - Unanimous(R5)
+- ANTONINA SHEVCHENKO def. JI YEON KIM via Decision - Unanimous(R3)
+- PEDRO MUNHOZ def. BRYAN CARAWAY via KO/TKO(R1)
+- JOSEPH BENAVIDEZ def. ALEX PEREZ via KO/TKO(R1)
+- JUAN ESPINO def. JUSTIN FRAZIER via Submission(R1)
+- MAURICE GREENE def. MICHEL BATISTA via Submission(R1)
+- ROOSEVELT ROBERTS def. DARRELL HORCHER via Submission(R1)
+- TIM MEANS def. RICKY RAINEY via KO/TKO(R1)

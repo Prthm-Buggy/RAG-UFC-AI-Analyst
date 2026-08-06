@@ -1,0 +1,11 @@
+Fighter: BRANDON DAVIS
+  Date of Birth: 1990-05-08
+  Career record: 9
+  First fight: 2018-01-20
+  Last fight: 2022-10-15
+
+Career Statistics:
+- Significant Strikes Landed :437
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

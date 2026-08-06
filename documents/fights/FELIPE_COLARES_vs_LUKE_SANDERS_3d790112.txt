@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Reyes vs. Prochazka
+    Date: May 01, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: FELIPE COLARES defeated LUKE SANDERS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - FELIPE COLARES landed 78 significant strikes
+  - LUKE SANDERS landed 118 significant strikes
+  - Knockdowns: FELIPE COLARES 0,  LUKE SANDERS 1
+  - Takedowns: FELIPE COLARES 2,  LUKE SANDERS 2

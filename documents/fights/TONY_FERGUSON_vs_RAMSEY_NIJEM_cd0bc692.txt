@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Lesnar vs Team dos Santos Finale
+    Date: June 04, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: TONY FERGUSON defeated RAMSEY NIJEM via KO/TKO  
+  at 3:54 of round 1
+  Key stats:
+  - TONY FERGUSON landed 21 significant strikes
+  - RAMSEY NIJEM landed 12 significant strikes
+  - Knockdowns: TONY FERGUSON 1,  RAMSEY NIJEM 0
+  - Takedowns: TONY FERGUSON 2,  RAMSEY NIJEM 0
+  Bonus: belt

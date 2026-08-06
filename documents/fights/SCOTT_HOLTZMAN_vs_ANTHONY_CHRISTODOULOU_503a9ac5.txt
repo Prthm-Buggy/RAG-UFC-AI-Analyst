@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Teixeira vs Saint Preux
+    Date: August 08, 2015
+    Location: Nashville, Tennessee, USA
+    Weight Class: Lightweight
+    
+
+    Result: SCOTT HOLTZMAN defeated ANTHONY CHRISTODOULOU via Submission  
+  at 2:40 of round 3
+  Key stats:
+  - SCOTT HOLTZMAN landed 71 significant strikes
+  - ANTHONY CHRISTODOULOU landed 31 significant strikes
+  - Knockdowns: SCOTT HOLTZMAN 0,  ANTHONY CHRISTODOULOU 0
+  - Takedowns: SCOTT HOLTZMAN 1,  ANTHONY CHRISTODOULOU 0

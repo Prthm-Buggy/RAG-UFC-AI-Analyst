@@ -1,0 +1,14 @@
+Event: UFC 282: Blachowicz vs. Ankalaev
+    Date: December 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ILIA TOPURIA defeated BRYCE MITCHELL via Submission  
+  at 3:10 of round 2
+  Key stats:
+  - ILIA TOPURIA landed 40 significant strikes
+  - BRYCE MITCHELL landed 36 significant strikes
+  - Knockdowns: ILIA TOPURIA 1,  BRYCE MITCHELL 0
+  - Takedowns: ILIA TOPURIA 0,  BRYCE MITCHELL 1
+  Bonus: perf

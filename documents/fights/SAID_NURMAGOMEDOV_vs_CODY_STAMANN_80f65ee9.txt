@@ -1,0 +1,14 @@
+Event: UFC 270: Ngannou vs. Gane
+    Date: January 22, 2022
+    Location: Anaheim, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SAID NURMAGOMEDOV defeated CODY STAMANN via Submission  
+  at 0:47 of round 1
+  Key stats:
+  - SAID NURMAGOMEDOV landed 7 significant strikes
+  - CODY STAMANN landed 1 significant strikes
+  - Knockdowns: SAID NURMAGOMEDOV 0,  CODY STAMANN 0
+  - Takedowns: SAID NURMAGOMEDOV 0,  CODY STAMANN 0
+  Bonus: perf

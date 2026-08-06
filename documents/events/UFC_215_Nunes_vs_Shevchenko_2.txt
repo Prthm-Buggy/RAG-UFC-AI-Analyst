@@ -1,0 +1,18 @@
+Event : UFC 215: Nunes vs Shevchenko 2
+    Date : September 09, 2017
+    Location: Edmonton, Alberta, Canada
+    Number of Fights: 11
+    Weight Classes: Welterweight, Light Heavyweight, Flyweight, Featherweight, Women's Bantamweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - KETLEN VIEIRA def. SARA MCMANN via Submission(R2)
+- AMANDA NUNES def. VALENTINA SHEVCHENKO via Decision - Split(R5)
+- KAJAN JOHNSON def. ADRIANO MARTINS via KO/TKO(R3)
+- HENRY CEJUDO def. WILSON REIS via KO/TKO(R2)
+- RICKY GLENN def. GAVIN TUCKER via Decision - Unanimous(R3)
+- ALEX WHITE def. MITCH CLARKE via KO/TKO(R2)
+- ARJAN BHULLAR def. LUIS HENRIQUE via Decision - Unanimous(R3)
+- ILIR LATIFI def. TYSON PEDRO via Decision - Unanimous(R3)
+- RAFAEL DOS ANJOS def. NEIL MAGNY via Submission(R1)
+- JEREMY STEPHENS def. GILBERT MELENDEZ via Decision - Unanimous(R3)
+- SARAH MORAS def. ASHLEE EVANS-SMITH via Submission(R1)

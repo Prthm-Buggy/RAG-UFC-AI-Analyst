@@ -1,0 +1,11 @@
+Fighter: HU YAOZONG
+  Date of Birth: 1995-04-07
+  Career record: 3
+  First fight: 2017-11-25
+  Last fight: 2021-10-30
+
+Career Statistics:
+- Significant Strikes Landed :125
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

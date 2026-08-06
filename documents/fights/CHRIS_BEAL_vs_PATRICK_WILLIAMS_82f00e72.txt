@@ -1,0 +1,14 @@
+Event: UFC 172: Jones vs Teixeira
+    Date: April 26, 2014
+    Location: Baltimore, Maryland, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CHRIS BEAL defeated PATRICK WILLIAMS via KO/TKO  
+  at 1:51 of round 2
+  Key stats:
+  - CHRIS BEAL landed 19 significant strikes
+  - PATRICK WILLIAMS landed 14 significant strikes
+  - Knockdowns: CHRIS BEAL 1,  PATRICK WILLIAMS 0
+  - Takedowns: CHRIS BEAL 0,  PATRICK WILLIAMS 2
+  Bonus: perf

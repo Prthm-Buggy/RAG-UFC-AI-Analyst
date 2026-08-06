@@ -1,0 +1,13 @@
+Event: UFC 96: Jackson vs Jardine
+    Date: March 07, 2009
+    Location: Columbus, Ohio, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: BRANDON VERA defeated MICHAEL PATT via KO/TKO  
+  at 1:27 of round 2
+  Key stats:
+  - BRANDON VERA landed 32 significant strikes
+  - MICHAEL PATT landed 5 significant strikes
+  - Knockdowns: BRANDON VERA 2,  MICHAEL PATT 0
+  - Takedowns: BRANDON VERA 0,  MICHAEL PATT 0

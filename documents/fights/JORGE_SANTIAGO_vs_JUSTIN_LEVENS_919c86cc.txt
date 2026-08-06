@@ -1,0 +1,13 @@
+Event: UFC Fight Night 5
+    Date: June 28, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JORGE SANTIAGO defeated JUSTIN LEVENS via KO/TKO  
+  at 2:13 of round 1
+  Key stats:
+  - JORGE SANTIAGO landed 9 significant strikes
+  - JUSTIN LEVENS landed 0 significant strikes
+  - Knockdowns: JORGE SANTIAGO 1,  JUSTIN LEVENS 0
+  - Takedowns: JORGE SANTIAGO 1,  JUSTIN LEVENS 0

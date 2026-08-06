@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tsarukyan vs. Hooker
+    Date: November 22, 2025
+    Location: Doha, Qatar
+    Weight Class: Featherweight
+    
+
+    Result: LUKE RILEY defeated BOGDAN GRAD via KO/TKO  
+  at 0:30 of round 2
+  Key stats:
+  - LUKE RILEY landed 14 significant strikes
+  - BOGDAN GRAD landed 7 significant strikes
+  - Knockdowns: LUKE RILEY 1,  BOGDAN GRAD 0
+  - Takedowns: LUKE RILEY 0,  BOGDAN GRAD 4
+  Bonus: perf

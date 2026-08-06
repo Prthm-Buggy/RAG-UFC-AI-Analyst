@@ -1,0 +1,11 @@
+Fighter: DONNY WALKER
+  Date of Birth: 1980-01-04
+  Career record: 2
+  First fight: 2011-07-02
+  Last fight: 2011-09-17
+
+Career Statistics:
+- Significant Strikes Landed :32
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :2

@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Dern vs. Hill
+    Date : May 20, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Women's Flyweight, Heavyweight, Women's Strawweight, Lightweight, Welterweight, Catch Weight, Middleweight
+
+    Fight Results:
+  - JOAQUIN BUCKLEY def. ANDRE FIALHO via KO/TKO(R2)
+- LOOPY GODINEZ def. EMILY DUCOTE via Decision - Unanimous(R3)
+- ANTHONY HERNANDEZ def. EDMEN SHAHBAZYAN via KO/TKO(R3)
+- GILBERT URBINA def. ORION COSCE via KO/TKO(R2)
+- THEMBA GORIMBO def. TAKASHI SATO via Decision - Unanimous(R3)
+- NATALIA SILVA def. VICTORIA LEONARDO via KO/TKO(R1)
+- VIACHESLAV BORSHCHEV def. MAHESHATE via KO/TKO(R2)
+- RODRIGO NASCIMENTO def. ILIR LATIFI via Decision - Split(R3)
+- KAROLINA KOWALKIEWICZ def. VANESSA DEMOPOULOS via Decision - Unanimous(R3)
+- MACKENZIE DERN def. ANGELA HILL via Decision - Unanimous(R5)
+- DIEGO FERREIRA def. MICHAEL JOHNSON via KO/TKO(R2)
+- CHASE HOOPER def. NICK FIORE via Decision - Unanimous(R3)

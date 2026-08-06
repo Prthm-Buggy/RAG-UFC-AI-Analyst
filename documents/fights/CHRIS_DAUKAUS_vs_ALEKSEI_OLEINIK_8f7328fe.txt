@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blaydes vs. Lewis
+    Date: February 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHRIS DAUKAUS defeated ALEKSEI OLEINIK via KO/TKO  
+  at 1:55 of round 1
+  Key stats:
+  - CHRIS DAUKAUS landed 34 significant strikes
+  - ALEKSEI OLEINIK landed 5 significant strikes
+  - Knockdowns: CHRIS DAUKAUS 0,  ALEKSEI OLEINIK 0
+  - Takedowns: CHRIS DAUKAUS 0,  ALEKSEI OLEINIK 0
+  Bonus: perf

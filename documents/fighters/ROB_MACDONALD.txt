@@ -1,0 +1,11 @@
+Fighter: ROB MACDONALD
+  Date of Birth: 1978-09-05
+  Career record: 3
+  First fight: 2006-03-04
+  Last fight: 2006-08-26
+
+Career Statistics:
+- Significant Strikes Landed :15
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :3

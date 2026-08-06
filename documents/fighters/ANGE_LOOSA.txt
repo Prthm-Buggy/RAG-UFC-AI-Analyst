@@ -1,0 +1,11 @@
+Fighter: ANGE LOOSA
+  Date of Birth: 1993-03-18
+  Career record: 5
+  First fight: 2022-04-16
+  Last fight: 2025-06-14
+
+Career Statistics:
+- Significant Strikes Landed :432
+- Total takedowns landed :15
+- Knockdowns :1
+- Submission Attempts :0

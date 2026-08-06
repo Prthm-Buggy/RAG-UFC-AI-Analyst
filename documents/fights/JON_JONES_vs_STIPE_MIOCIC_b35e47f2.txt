@@ -1,0 +1,14 @@
+Event: UFC 309: Jones vs. Miocic
+    Date: November 16, 2024
+    Location: New York City, New York, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JON JONES defeated STIPE MIOCIC via KO/TKO  
+  at 4:29 of round 3
+  Key stats:
+  - JON JONES landed 96 significant strikes
+  - STIPE MIOCIC landed 37 significant strikes
+  - Knockdowns: JON JONES 1,  STIPE MIOCIC 0
+  - Takedowns: JON JONES 1,  STIPE MIOCIC 0
+  Bonus: belt

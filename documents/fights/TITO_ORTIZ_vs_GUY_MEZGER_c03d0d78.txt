@@ -1,0 +1,13 @@
+Event: UFC 19: Ultimate Young Guns
+    Date: March 05, 1999
+    Location: Bay St. Louis, Mississippi, USA
+    Weight Class: Middleweight
+    
+
+    Result: TITO ORTIZ defeated GUY MEZGER via KO/TKO  
+  at 9:56 of round 1
+  Key stats:
+  - TITO ORTIZ landed 26 significant strikes
+  - GUY MEZGER landed 2 significant strikes
+  - Knockdowns: TITO ORTIZ 0,  GUY MEZGER 0
+  - Takedowns: TITO ORTIZ 2,  GUY MEZGER 0

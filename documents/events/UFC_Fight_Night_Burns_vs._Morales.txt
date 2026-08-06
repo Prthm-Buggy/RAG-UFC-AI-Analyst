@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Burns vs. Morales
+    Date : May 17, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Women's Strawweight, Featherweight, Flyweight, Lightweight, Women's Bantamweight, Middleweight, Welterweight
+
+    Fight Results:
+  - LUANA SANTOS def. TAINARA LISBOA via Submission(R2)
+- YADIER DEL VALLE def. CONNOR MATTHEWS via Submission(R1)
+- MAIRON SANTOS def. SODIQ YUSUFF via Decision - Unanimous(R3)
+- MELQUIZAEL COSTA def. JULIAN EROSA via Decision - Unanimous(R3)
+- TECIA PENNINGTON def. LUANA PINHEIRO via Decision - Unanimous(R3)
+- DENISE GOMES def. ELISE REED via KO/TKO(R2)
+- HYUNSUNG PARK def. CARLOS HERNANDEZ via Submission(R1)
+- NURSULTON RUZIBOEV def. DUSTIN STOLTZFUS via Decision - Unanimous(R3)
+- MICHAEL MORALES def. GILBERT BURNS via KO/TKO(R1)
+- JARED GORDON def. THIAGO MOISES via KO/TKO(R1)
+- GABE GREEN def. MATHEUS CAMILO via Submission(R2)

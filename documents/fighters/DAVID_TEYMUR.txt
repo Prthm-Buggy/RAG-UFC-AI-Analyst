@@ -1,0 +1,11 @@
+Fighter: DAVID TEYMUR
+  Date of Birth: 1989-05-01
+  Career record: 6
+  First fight: 2016-02-27
+  Last fight: 2019-02-02
+
+Career Statistics:
+- Significant Strikes Landed :299
+- Total takedowns landed :4
+- Knockdowns :3
+- Submission Attempts :0

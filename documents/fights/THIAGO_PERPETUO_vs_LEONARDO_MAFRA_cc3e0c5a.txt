@@ -1,0 +1,13 @@
+Event: UFC 147: Silva vs Franklin 2
+    Date: June 23, 2012
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: THIAGO PERPETUO defeated LEONARDO MAFRA via KO/TKO  
+  at 0:41 of round 3
+  Key stats:
+  - THIAGO PERPETUO landed 68 significant strikes
+  - LEONARDO MAFRA landed 33 significant strikes
+  - Knockdowns: THIAGO PERPETUO 1,  LEONARDO MAFRA 0
+  - Takedowns: THIAGO PERPETUO 1,  LEONARDO MAFRA 0

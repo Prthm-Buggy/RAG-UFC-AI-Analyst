@@ -1,0 +1,11 @@
+Fighter: ROBERT VALENTIN
+  Date of Birth: 1995-03-31
+  Career record: 4
+  First fight: 2024-08-24
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :33
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :2

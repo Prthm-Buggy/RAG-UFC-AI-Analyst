@@ -1,0 +1,11 @@
+Fighter: JASON GONZALEZ
+  Date of Birth: 1990-02-28
+  Career record: 4
+  First fight: 2016-09-10
+  Last fight: 2019-04-27
+
+Career Statistics:
+- Significant Strikes Landed :46
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

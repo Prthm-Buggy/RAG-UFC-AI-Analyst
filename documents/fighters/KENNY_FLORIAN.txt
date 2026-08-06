@@ -1,0 +1,11 @@
+Fighter: KENNY FLORIAN
+  Date of Birth: 1976-05-26
+  Career record: 17
+  First fight: 2005-04-09
+  Last fight: 2011-10-08
+
+Career Statistics:
+- Significant Strikes Landed :454
+- Total takedowns landed :26
+- Knockdowns :1
+- Submission Attempts :13

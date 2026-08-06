@@ -1,0 +1,11 @@
+Fighter: BRUNA BRASIL
+  Date of Birth: 1993-09-07
+  Career record: 8
+  First fight: 2023-04-15
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :273
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :1

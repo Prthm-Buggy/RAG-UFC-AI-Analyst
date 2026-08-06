@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Nelson vs. Ponzinibbio
+    Date: July 16, 2017
+    Location: Glasgow, Scotland, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: PAUL FELDER defeated STEVIE RAY via KO/TKO  
+  at 3:57 of round 1
+  Key stats:
+  - PAUL FELDER landed 23 significant strikes
+  - STEVIE RAY landed 5 significant strikes
+  - Knockdowns: PAUL FELDER 1,  STEVIE RAY 0
+  - Takedowns: PAUL FELDER 0,  STEVIE RAY 0
+  Bonus: perf

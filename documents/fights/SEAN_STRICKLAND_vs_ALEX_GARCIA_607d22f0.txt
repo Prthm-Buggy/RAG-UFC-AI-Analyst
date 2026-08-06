@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs Cowboy
+    Date: February 21, 2016
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Welterweight
+    
+
+    Result: SEAN STRICKLAND defeated ALEX GARCIA via KO/TKO  
+  at 4:25 of round 3
+  Key stats:
+  - SEAN STRICKLAND landed 84 significant strikes
+  - ALEX GARCIA landed 23 significant strikes
+  - Knockdowns: SEAN STRICKLAND 1,  ALEX GARCIA 0
+  - Takedowns: SEAN STRICKLAND 1,  ALEX GARCIA 3

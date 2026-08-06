@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Font vs. Garbrandt
+    Date: May 22, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BEN ROTHWELL defeated CHRIS BARNETT via Submission  
+  at 2:07 of round 2
+  Key stats:
+  - BEN ROTHWELL landed 60 significant strikes
+  - CHRIS BARNETT landed 33 significant strikes
+  - Knockdowns: BEN ROTHWELL 0,  CHRIS BARNETT 0
+  - Takedowns: BEN ROTHWELL 1,  CHRIS BARNETT 0

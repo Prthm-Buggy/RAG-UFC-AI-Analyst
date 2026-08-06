@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Rodriguez
+    Date: November 13, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: RAFAEL ALVES defeated MARC DIAKIESE via Submission  
+  at 1:48 of round 1
+  Key stats:
+  - RAFAEL ALVES landed 6 significant strikes
+  - MARC DIAKIESE landed 3 significant strikes
+  - Knockdowns: RAFAEL ALVES 0,  MARC DIAKIESE 0
+  - Takedowns: RAFAEL ALVES 0,  MARC DIAKIESE 0

@@ -1,0 +1,11 @@
+Fighter: JUNIOR ASSUNCAO
+  Date of Birth: 1981-06-24
+  Career record: 5
+  First fight: 2006-10-14
+  Last fight: 2011-12-30
+
+Career Statistics:
+- Significant Strikes Landed :143
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :2

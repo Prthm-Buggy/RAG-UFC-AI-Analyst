@@ -1,0 +1,11 @@
+Fighter: NISSEN OSTERNECK
+  Date of Birth: 1981-05-01
+  Career record: 1
+  First fight: 2009-04-01
+  Last fight: 2009-04-01
+
+Career Statistics:
+- Significant Strikes Landed :35
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

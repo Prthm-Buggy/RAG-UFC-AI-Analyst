@@ -1,0 +1,11 @@
+Fighter: ELVIS MUTAPCIC
+  Date of Birth: 1986-07-19
+  Career record: 2
+  First fight: 2016-01-17
+  Last fight: 2016-12-03
+
+Career Statistics:
+- Significant Strikes Landed :67
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

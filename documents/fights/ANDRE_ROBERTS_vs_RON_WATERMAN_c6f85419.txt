@@ -1,0 +1,13 @@
+Event: UFC 21: Return of the Champions
+    Date: July 16, 1999
+    Location: Cedar Rapids, Iowa, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANDRE ROBERTS defeated RON WATERMAN via KO/TKO  
+  at 2:51 of round 1
+  Key stats:
+  - ANDRE ROBERTS landed 10 significant strikes
+  - RON WATERMAN landed 22 significant strikes
+  - Knockdowns: ANDRE ROBERTS 1,  RON WATERMAN 0
+  - Takedowns: ANDRE ROBERTS 0,  RON WATERMAN 0

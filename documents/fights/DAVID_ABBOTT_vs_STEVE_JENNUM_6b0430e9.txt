@@ -1,0 +1,13 @@
+Event: UFC - Ultimate Ultimate '95
+    Date: December 16, 1995
+    Location: Denver, Colorado, USA
+    Weight Class: Open Weight
+    
+
+    Result: DAVID ABBOTT defeated STEVE JENNUM via Submission  
+  at 1:14 of round 1
+  Key stats:
+  - DAVID ABBOTT landed 1 significant strikes
+  - STEVE JENNUM landed 0 significant strikes
+  - Knockdowns: DAVID ABBOTT 0,  STEVE JENNUM 0
+  - Takedowns: DAVID ABBOTT 1,  STEVE JENNUM 0

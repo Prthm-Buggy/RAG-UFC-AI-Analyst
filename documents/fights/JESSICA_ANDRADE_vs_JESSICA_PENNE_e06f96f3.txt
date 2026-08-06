@@ -1,0 +1,13 @@
+Event: UFC 199: Rockhold vs. Bisping 2
+    Date: June 04, 2016
+    Location: Los Angeles, California, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: JESSICA ANDRADE defeated JESSICA PENNE via KO/TKO  
+  at 2:56 of round 2
+  Key stats:
+  - JESSICA ANDRADE landed 117 significant strikes
+  - JESSICA PENNE landed 27 significant strikes
+  - Knockdowns: JESSICA ANDRADE 0,  JESSICA PENNE 0
+  - Takedowns: JESSICA ANDRADE 0,  JESSICA PENNE 0

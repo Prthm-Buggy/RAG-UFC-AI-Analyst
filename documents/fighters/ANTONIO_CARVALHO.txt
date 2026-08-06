@@ -1,0 +1,11 @@
+Fighter: ANTONIO CARVALHO
+  Date of Birth: 1979-05-30
+  Career record: 4
+  First fight: 2012-01-14
+  Last fight: 2013-03-16
+
+Career Statistics:
+- Significant Strikes Landed :104
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

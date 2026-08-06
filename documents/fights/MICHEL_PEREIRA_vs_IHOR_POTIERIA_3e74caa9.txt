@@ -1,0 +1,14 @@
+Event: UFC 301: Pantoja vs. Erceg
+    Date: May 04, 2024
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: MICHEL PEREIRA defeated IHOR POTIERIA via Submission  
+  at 0:54 of round 1
+  Key stats:
+  - MICHEL PEREIRA landed 6 significant strikes
+  - IHOR POTIERIA landed 2 significant strikes
+  - Knockdowns: MICHEL PEREIRA 0,  IHOR POTIERIA 0
+  - Takedowns: MICHEL PEREIRA 0,  IHOR POTIERIA 0
+  Bonus: perf

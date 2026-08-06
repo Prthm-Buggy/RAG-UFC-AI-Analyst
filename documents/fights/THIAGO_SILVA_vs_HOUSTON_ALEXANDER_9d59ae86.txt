@@ -1,0 +1,13 @@
+Event: UFC 78: Validation
+    Date: November 17, 2007
+    Location: Newark, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: THIAGO SILVA defeated HOUSTON ALEXANDER via KO/TKO  
+  at 3:25 of round 1
+  Key stats:
+  - THIAGO SILVA landed 22 significant strikes
+  - HOUSTON ALEXANDER landed 2 significant strikes
+  - Knockdowns: THIAGO SILVA 0,  HOUSTON ALEXANDER 0
+  - Takedowns: THIAGO SILVA 1,  HOUSTON ALEXANDER 1

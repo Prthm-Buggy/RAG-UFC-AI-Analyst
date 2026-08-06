@@ -1,0 +1,13 @@
+Event: UFC on FOX: Teixeira vs Evans
+    Date: April 16, 2016
+    Location: Tampa, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: CEZAR FERREIRA defeated OLUWALE BAMGBOSE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CEZAR FERREIRA landed 26 significant strikes
+  - OLUWALE BAMGBOSE landed 20 significant strikes
+  - Knockdowns: CEZAR FERREIRA 0,  OLUWALE BAMGBOSE 1
+  - Takedowns: CEZAR FERREIRA 3,  OLUWALE BAMGBOSE 0

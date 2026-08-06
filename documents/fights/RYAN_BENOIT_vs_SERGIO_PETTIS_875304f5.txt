@@ -1,0 +1,13 @@
+Event: UFC 185: Pettis vs Dos Anjos
+    Date: March 14, 2015
+    Location: Dallas, Texas, USA
+    Weight Class: Flyweight
+    
+
+    Result: RYAN BENOIT defeated SERGIO PETTIS via KO/TKO  
+  at 1:34 of round 2
+  Key stats:
+  - RYAN BENOIT landed 28 significant strikes
+  - SERGIO PETTIS landed 39 significant strikes
+  - Knockdowns: RYAN BENOIT 1,  SERGIO PETTIS 0
+  - Takedowns: RYAN BENOIT 1,  SERGIO PETTIS 1

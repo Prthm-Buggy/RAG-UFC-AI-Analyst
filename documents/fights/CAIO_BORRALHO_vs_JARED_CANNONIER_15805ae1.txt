@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Borralho
+    Date: August 24, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CAIO BORRALHO defeated JARED CANNONIER via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - CAIO BORRALHO landed 153 significant strikes
+  - JARED CANNONIER landed 83 significant strikes
+  - Knockdowns: CAIO BORRALHO 1,  JARED CANNONIER 0
+  - Takedowns: CAIO BORRALHO 0,  JARED CANNONIER 0
+  Bonus: fight

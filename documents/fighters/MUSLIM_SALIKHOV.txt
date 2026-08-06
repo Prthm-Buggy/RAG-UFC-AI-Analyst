@@ -1,0 +1,11 @@
+Fighter: MUSLIM SALIKHOV
+  Date of Birth: 1984-06-09
+  Career record: 14
+  First fight: 2017-11-25
+  Last fight: 2025-11-08
+
+Career Statistics:
+- Significant Strikes Landed :427
+- Total takedowns landed :9
+- Knockdowns :5
+- Submission Attempts :0

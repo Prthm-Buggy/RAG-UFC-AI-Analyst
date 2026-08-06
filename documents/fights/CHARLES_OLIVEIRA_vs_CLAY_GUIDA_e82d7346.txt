@@ -1,0 +1,14 @@
+Event: UFC 225: Whittaker vs. Romero 2
+    Date: June 09, 2018
+    Location: Chicago, Illinois, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHARLES OLIVEIRA defeated CLAY GUIDA via Submission  
+  at 2:18 of round 1
+  Key stats:
+  - CHARLES OLIVEIRA landed 14 significant strikes
+  - CLAY GUIDA landed 9 significant strikes
+  - Knockdowns: CHARLES OLIVEIRA 0,  CLAY GUIDA 0
+  - Takedowns: CHARLES OLIVEIRA 0,  CLAY GUIDA 0
+  Bonus: perf

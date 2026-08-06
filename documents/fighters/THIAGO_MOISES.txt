@@ -1,0 +1,11 @@
+Fighter: THIAGO MOISES
+  Date of Birth: 1995-03-23
+  Career record: 16
+  First fight: 2018-11-10
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :433
+- Total takedowns landed :17
+- Knockdowns :1
+- Submission Attempts :13

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Nzechukwu vs. Cutelaba
+    Date: November 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MUSLIM SALIKHOV defeated ANDRE FIALHO via KO/TKO  
+  at 1:03 of round 3
+  Key stats:
+  - MUSLIM SALIKHOV landed 56 significant strikes
+  - ANDRE FIALHO landed 17 significant strikes
+  - Knockdowns: MUSLIM SALIKHOV 0,  ANDRE FIALHO 0
+  - Takedowns: MUSLIM SALIKHOV 1,  ANDRE FIALHO 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ngannou vs. Dos Santos
+    Date: June 29, 2019
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALONZO MENIFIELD defeated PAUL CRAIG via KO/TKO  
+  at 3:19 of round 1
+  Key stats:
+  - ALONZO MENIFIELD landed 8 significant strikes
+  - PAUL CRAIG landed 7 significant strikes
+  - Knockdowns: ALONZO MENIFIELD 0,  PAUL CRAIG 0
+  - Takedowns: ALONZO MENIFIELD 0,  PAUL CRAIG 0
+  Bonus: perf

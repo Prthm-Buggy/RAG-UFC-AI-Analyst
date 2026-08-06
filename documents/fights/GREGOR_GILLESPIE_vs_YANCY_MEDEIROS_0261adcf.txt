@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cejudo vs. Dillashaw
+    Date: January 19, 2019
+    Location: Brooklyn, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: GREGOR GILLESPIE defeated YANCY MEDEIROS via KO/TKO  
+  at 4:59 of round 2
+  Key stats:
+  - GREGOR GILLESPIE landed 51 significant strikes
+  - YANCY MEDEIROS landed 1 significant strikes
+  - Knockdowns: GREGOR GILLESPIE 0,  YANCY MEDEIROS 0
+  - Takedowns: GREGOR GILLESPIE 6,  YANCY MEDEIROS 0

@@ -1,0 +1,13 @@
+Event: UFC 42: Sudden Impact
+    Date: April 25, 2003
+    Location: Miami, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: PETE SPRATT defeated ROBBIE LAWLER via Submission  
+  at 2:28 of round 2
+  Key stats:
+  - PETE SPRATT landed 19 significant strikes
+  - ROBBIE LAWLER landed 15 significant strikes
+  - Knockdowns: PETE SPRATT 0,  ROBBIE LAWLER 0
+  - Takedowns: PETE SPRATT 1,  ROBBIE LAWLER 2

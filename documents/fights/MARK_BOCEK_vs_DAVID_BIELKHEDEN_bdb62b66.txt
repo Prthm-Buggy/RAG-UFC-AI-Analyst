@@ -1,0 +1,13 @@
+Event: UFC 97: Redemption
+    Date: April 18, 2009
+    Location: Montreal, Quebec, Canada
+    Weight Class: Lightweight
+    
+
+    Result: MARK BOCEK defeated DAVID BIELKHEDEN via Submission  
+  at 4:57 of round 1
+  Key stats:
+  - MARK BOCEK landed 20 significant strikes
+  - DAVID BIELKHEDEN landed 4 significant strikes
+  - Knockdowns: MARK BOCEK 0,  DAVID BIELKHEDEN 0
+  - Takedowns: MARK BOCEK 1,  DAVID BIELKHEDEN 0

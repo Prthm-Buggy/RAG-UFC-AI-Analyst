@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holm vs. Aldana
+    Date: October 03, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: LUIGI VENDRAMINI defeated JESSIN AYARI via KO/TKO  
+  at 1:12 of round 1
+  Key stats:
+  - LUIGI VENDRAMINI landed 13 significant strikes
+  - JESSIN AYARI landed 2 significant strikes
+  - Knockdowns: LUIGI VENDRAMINI 1,  JESSIN AYARI 0
+  - Takedowns: LUIGI VENDRAMINI 0,  JESSIN AYARI 0
+  Bonus: perf

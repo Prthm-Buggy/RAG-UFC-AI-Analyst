@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rivera vs. Moraes
+    Date: June 01, 2018
+    Location: Utica, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: DAVID TEYMUR defeated NIK LENTZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DAVID TEYMUR landed 67 significant strikes
+  - NIK LENTZ landed 61 significant strikes
+  - Knockdowns: DAVID TEYMUR 0,  NIK LENTZ 0
+  - Takedowns: DAVID TEYMUR 0,  NIK LENTZ 0

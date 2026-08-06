@@ -1,0 +1,11 @@
+Fighter: BUBBA BUSH
+  Date of Birth: 1985-07-24
+  Career record: 1
+  First fight: 2015-10-24
+  Last fight: 2015-10-24
+
+Career Statistics:
+- Significant Strikes Landed :8
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

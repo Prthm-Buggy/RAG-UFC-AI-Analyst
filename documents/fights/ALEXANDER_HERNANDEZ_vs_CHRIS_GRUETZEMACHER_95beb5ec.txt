@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hall vs. Silva
+    Date: October 31, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ALEXANDER HERNANDEZ defeated CHRIS GRUETZEMACHER via KO/TKO  
+  at 1:46 of round 1
+  Key stats:
+  - ALEXANDER HERNANDEZ landed 29 significant strikes
+  - CHRIS GRUETZEMACHER landed 8 significant strikes
+  - Knockdowns: ALEXANDER HERNANDEZ 1,  CHRIS GRUETZEMACHER 0
+  - Takedowns: ALEXANDER HERNANDEZ 0,  CHRIS GRUETZEMACHER 0
+  Bonus: perf

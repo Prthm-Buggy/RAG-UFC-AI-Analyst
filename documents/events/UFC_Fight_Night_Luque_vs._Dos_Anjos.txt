@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Luque vs. Dos Anjos
+    Date : August 12, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Middleweight, Women's Strawweight, Welterweight, Light Heavyweight, Featherweight, Lightweight, Bantamweight, Heavyweight, Women's Flyweight
+
+    Fight Results:
+  - LUANA SANTOS def. JULIANA MILLER via KO/TKO(R1)
+- MARTIN BUDAY def. JOSH PARISIAN via Submission(R1)
+- TERRANCE MCKINNEY def. MIKE BREEDEN via KO/TKO(R1)
+- CUB SWANSON def. HAKEEM DAWODU via Decision - Unanimous(R3)
+- ISAAC DULGARIAN def. FRANCIS MARSHALL via KO/TKO(R1)
+- DA'MON BLACKSHEAR def. JOSE JOHNSON via Submission(R1)
+- KHALIL ROUNTREE JR. def. CHRIS DAUKAUS via KO/TKO(R1)
+- AJ DOBSON def. TAFON NCHUKWI via Decision - Unanimous(R3)
+- MARCUS MCGHEE def. JP BUYS via KO/TKO(R1)
+- IASMIN LUCINDO def. POLYANA VIANA via Submission(R2)
+- JOSH FREMD def. JAMIE PICKETT via Decision - Unanimous(R3)
+- VICENTE LUQUE def. RAFAEL DOS ANJOS via Decision - Unanimous(R5)
+- JAQUELINE AMORIM def. MONTSERRAT CONEJO RUIZ via KO/TKO(R3)

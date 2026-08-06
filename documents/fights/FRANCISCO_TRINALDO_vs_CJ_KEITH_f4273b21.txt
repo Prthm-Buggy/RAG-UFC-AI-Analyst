@@ -1,0 +1,13 @@
+Event: UFC on FX: Belfort vs Bisping
+    Date: January 19, 2013
+    Location: Sao Paulo, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: FRANCISCO TRINALDO defeated CJ KEITH via Submission  
+  at 1:50 of round 2
+  Key stats:
+  - FRANCISCO TRINALDO landed 12 significant strikes
+  - CJ KEITH landed 3 significant strikes
+  - Knockdowns: FRANCISCO TRINALDO 0,  CJ KEITH 0
+  - Takedowns: FRANCISCO TRINALDO 2,  CJ KEITH 0

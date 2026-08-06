@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Hill
+    Date: August 06, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MAYRA BUENO SILVA defeated STEPHANIE EGGER via Submission  
+  at 1:17 of round 1
+  Key stats:
+  - MAYRA BUENO SILVA landed 4 significant strikes
+  - STEPHANIE EGGER landed 8 significant strikes
+  - Knockdowns: MAYRA BUENO SILVA 0,  STEPHANIE EGGER 0
+  - Takedowns: MAYRA BUENO SILVA 0,  STEPHANIE EGGER 1

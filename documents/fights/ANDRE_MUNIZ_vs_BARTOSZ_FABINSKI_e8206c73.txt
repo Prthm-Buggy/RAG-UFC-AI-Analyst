@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs. Sakai
+    Date: September 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDRE MUNIZ defeated BARTOSZ FABINSKI via Submission  
+  at 2:42 of round 1
+  Key stats:
+  - ANDRE MUNIZ landed 4 significant strikes
+  - BARTOSZ FABINSKI landed 5 significant strikes
+  - Knockdowns: ANDRE MUNIZ 0,  BARTOSZ FABINSKI 0
+  - Takedowns: ANDRE MUNIZ 0,  BARTOSZ FABINSKI 1
+  Bonus: perf

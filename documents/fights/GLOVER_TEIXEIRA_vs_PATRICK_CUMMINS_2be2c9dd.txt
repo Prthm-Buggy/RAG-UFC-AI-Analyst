@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Belfort vs Henderson 3
+    Date: November 07, 2015
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: GLOVER TEIXEIRA defeated PATRICK CUMMINS via KO/TKO  
+  at 1:12 of round 2
+  Key stats:
+  - GLOVER TEIXEIRA landed 54 significant strikes
+  - PATRICK CUMMINS landed 33 significant strikes
+  - Knockdowns: GLOVER TEIXEIRA 0,  PATRICK CUMMINS 0
+  - Takedowns: GLOVER TEIXEIRA 0,  PATRICK CUMMINS 4

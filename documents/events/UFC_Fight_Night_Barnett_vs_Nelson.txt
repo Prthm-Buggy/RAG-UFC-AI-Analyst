@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Barnett vs Nelson
+    Date : September 26, 2015
+    Location: Saitama, Japan
+    Number of Fights: 9
+    Weight Classes: Flyweight, Middleweight, Lightweight, Welterweight, Featherweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - KYOJI HORIGUCHI def. CHICO CAMUS via Decision - Unanimous(R3)
+- URIAH HALL def. GEGARD MOUSASI via KO/TKO(R2)
+- NICK HEIN def. YUSUKE KASUYA via Decision - Unanimous(R3)
+- DIEGO BRANDAO def. KATSUNORI KIKUNO via KO/TKO(R1)
+- KAJAN JOHNSON def. NAOYUKI KOTANI via Decision - Unanimous(R3)
+- TAKEYA MIZUGAKI def. GEORGE ROOP via Decision - Unanimous(R3)
+- KEITA NAKAMURA def. LI JINGLIANG via Submission(R3)
+- JOSH BARNETT def. ROY NELSON via Decision - Unanimous(R5)
+- SHINSHO ANZAI def. ROGER ZAPATA via TKO - Doctor's Stoppage(R3)

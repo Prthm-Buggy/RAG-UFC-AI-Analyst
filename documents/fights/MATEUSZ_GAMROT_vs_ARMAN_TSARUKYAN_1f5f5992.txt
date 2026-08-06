@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Tsarukyan vs. Gamrot
+    Date: June 25, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATEUSZ GAMROT defeated ARMAN TSARUKYAN via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MATEUSZ GAMROT landed 81 significant strikes
+  - ARMAN TSARUKYAN landed 95 significant strikes
+  - Knockdowns: MATEUSZ GAMROT 0,  ARMAN TSARUKYAN 1
+  - Takedowns: MATEUSZ GAMROT 6,  ARMAN TSARUKYAN 1
+  Bonus: fight

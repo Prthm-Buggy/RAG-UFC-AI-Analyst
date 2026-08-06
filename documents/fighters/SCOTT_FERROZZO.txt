@@ -1,0 +1,11 @@
+Fighter: SCOTT FERROZZO
+  Date of Birth: 1965-04-26
+  Career record: 4
+  First fight: 1996-02-16
+  Last fight: 1997-02-07
+
+Career Statistics:
+- Significant Strikes Landed :99
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :2

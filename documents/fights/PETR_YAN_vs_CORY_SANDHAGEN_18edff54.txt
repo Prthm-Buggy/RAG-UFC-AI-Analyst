@@ -1,0 +1,14 @@
+Event: UFC 267: Blachowicz vs. Teixeira
+    Date: October 30, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Bantamweight
+    
+
+    Result: PETR YAN defeated CORY SANDHAGEN via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - PETR YAN landed 149 significant strikes
+  - CORY SANDHAGEN landed 169 significant strikes
+  - Knockdowns: PETR YAN 1,  CORY SANDHAGEN 0
+  - Takedowns: PETR YAN 0,  CORY SANDHAGEN 1
+  Bonus: belt

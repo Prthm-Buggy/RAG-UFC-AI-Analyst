@@ -1,0 +1,18 @@
+Event : UFC 137: Penn vs Diaz
+    Date : October 29, 2011
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Bantamweight, Lightweight, Welterweight, Featherweight, Light Heavyweight, Middleweight
+
+    Fight Results:
+  - DONALD CERRONE def. DENNIS SIVER via Submission(R1)
+- FRANCIS CARMONT def. CHRIS CAMOZZI via Decision - Unanimous(R3)
+- RAMSEY NIJEM def. DANNY DOWNES via Decision - Unanimous(R3)
+- BRANDON VERA def. ELIOT MARSHALL via Decision - Unanimous(R3)
+- CHEICK KONGO def. MATT MITRIONE via Decision - Unanimous(R3)
+- SCOTT JORGENSEN def. JEFF CURRAN via Decision - Unanimous(R3)
+- ROY NELSON def. MIRKO FILIPOVIC via KO/TKO(R3)
+- HATSU HIOKI def. GEORGE ROOP via Decision - Split(R3)
+- BART PALASZEWSKI def. TYSON GRIFFIN via KO/TKO(R1)
+- CLIFFORD STARKS def. DUSTIN JACOBY via Decision - Unanimous(R3)
+- NICK DIAZ def. BJ PENN via Decision - Unanimous(R3)

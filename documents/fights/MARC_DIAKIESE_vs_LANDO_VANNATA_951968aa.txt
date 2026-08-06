@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Cannonier
+    Date: September 28, 2019
+    Location: Copenhagen, Denmark
+    Weight Class: Lightweight
+    
+
+    Result: MARC DIAKIESE defeated LANDO VANNATA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MARC DIAKIESE landed 40 significant strikes
+  - LANDO VANNATA landed 25 significant strikes
+  - Knockdowns: MARC DIAKIESE 0,  LANDO VANNATA 0
+  - Takedowns: MARC DIAKIESE 4,  LANDO VANNATA 0

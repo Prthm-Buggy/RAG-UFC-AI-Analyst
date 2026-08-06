@@ -1,0 +1,13 @@
+Event: UFC Fight Night: McGregor vs Brandao
+    Date: July 19, 2014
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Flyweight
+    
+
+    Result: NEIL SEERY defeated PHIL HARRIS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NEIL SEERY landed 60 significant strikes
+  - PHIL HARRIS landed 40 significant strikes
+  - Knockdowns: NEIL SEERY 1,  PHIL HARRIS 0
+  - Takedowns: NEIL SEERY 2,  PHIL HARRIS 2

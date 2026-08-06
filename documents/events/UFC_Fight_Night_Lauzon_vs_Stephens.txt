@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Lauzon vs Stephens
+    Date : February 07, 2009
+    Location: Tampa, Florida, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Lightweight, Middleweight, Welterweight
+
+    Fight Results:
+  - GLEISON TIBAU def. RICH CLEMENTI via Submission(R1)
+- MATTHEW RIDDLE def. STEVE BRUNO via Decision - Unanimous(R3)
+- DAN MILLER def. JAKE ROSHOLT via Submission(R1)
+- ANTHONY JOHNSON def. LUIGI FIORAVANTI via KO/TKO(R1)
+- KURT PELLEGRINO def. ROB EMERSON via Submission(R2)
+- MATT VEACH def. MATT GRICE via KO/TKO(R1)
+- JOE LAUZON def. JEREMY STEPHENS via Submission(R2)
+- JOSH NEER def. MAC DANZIG via Submission(R2)
+- NICK CATONE def. DEREK DOWNEY via Submission(R2)
+- CAIN VELASQUEZ def. DENIS STOJNIC via KO/TKO(R2)

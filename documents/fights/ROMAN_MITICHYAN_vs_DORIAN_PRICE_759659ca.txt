@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Hughes vs. Team Serra Finale
+    Date: December 08, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ROMAN MITICHYAN defeated DORIAN PRICE via Submission  
+  at 0:23 of round 1
+  Key stats:
+  - ROMAN MITICHYAN landed 0 significant strikes
+  - DORIAN PRICE landed 0 significant strikes
+  - Knockdowns: ROMAN MITICHYAN 0,  DORIAN PRICE 0
+  - Takedowns: ROMAN MITICHYAN 1,  DORIAN PRICE 0

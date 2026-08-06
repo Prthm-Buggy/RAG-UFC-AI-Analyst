@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shevchenko vs. Carmouche 2
+    Date: August 10, 2019
+    Location: Montevideo, Uruguay
+    Weight Class: Flyweight
+    
+
+    Result: ROGERIO BONTORIN defeated RAULIAN PAIVA via TKO - Doctor's Stoppage  
+  at 2:56 of round 1
+  Key stats:
+  - ROGERIO BONTORIN landed 8 significant strikes
+  - RAULIAN PAIVA landed 3 significant strikes
+  - Knockdowns: ROGERIO BONTORIN 0,  RAULIAN PAIVA 0
+  - Takedowns: ROGERIO BONTORIN 2,  RAULIAN PAIVA 0

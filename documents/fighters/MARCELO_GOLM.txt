@@ -1,0 +1,11 @@
+Fighter: MARCELO GOLM
+  Date of Birth: 1992-09-15
+  Career record: 4
+  First fight: 2017-10-28
+  Last fight: 2019-04-20
+
+Career Statistics:
+- Significant Strikes Landed :142
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

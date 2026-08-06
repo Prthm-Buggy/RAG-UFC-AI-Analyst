@@ -1,0 +1,14 @@
+Event: UFC on FOX: VanZant vs. Waterson
+    Date: December 17, 2016
+    Location: Sacramento, California, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: LESLIE SMITH defeated IRENE ALDANA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LESLIE SMITH landed 169 significant strikes
+  - IRENE ALDANA landed 108 significant strikes
+  - Knockdowns: LESLIE SMITH 1,  IRENE ALDANA 0
+  - Takedowns: LESLIE SMITH 0,  IRENE ALDANA 1
+  Bonus: fight

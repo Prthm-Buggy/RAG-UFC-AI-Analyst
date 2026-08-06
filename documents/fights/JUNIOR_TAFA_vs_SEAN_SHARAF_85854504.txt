@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Royval vs. Taira
+    Date: October 12, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR TAFA defeated SEAN SHARAF via KO/TKO  
+  at 2:15 of round 2
+  Key stats:
+  - JUNIOR TAFA landed 71 significant strikes
+  - SEAN SHARAF landed 53 significant strikes
+  - Knockdowns: JUNIOR TAFA 0,  SEAN SHARAF 0
+  - Takedowns: JUNIOR TAFA 0,  SEAN SHARAF 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Werdum vs. Volkov
+    Date: March 17, 2018
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: LEON EDWARDS defeated PETER SOBOTTA via KO/TKO  
+  at 4:59 of round 3
+  Key stats:
+  - LEON EDWARDS landed 42 significant strikes
+  - PETER SOBOTTA landed 16 significant strikes
+  - Knockdowns: LEON EDWARDS 1,  PETER SOBOTTA 0
+  - Takedowns: LEON EDWARDS 1,  PETER SOBOTTA 1

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kara-France vs. Albazi
+    Date: June 03, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: AMIR ALBAZI defeated KAI KARA-FRANCE via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - AMIR ALBAZI landed 43 significant strikes
+  - KAI KARA-FRANCE landed 99 significant strikes
+  - Knockdowns: AMIR ALBAZI 0,  KAI KARA-FRANCE 0
+  - Takedowns: AMIR ALBAZI 1,  KAI KARA-FRANCE 2

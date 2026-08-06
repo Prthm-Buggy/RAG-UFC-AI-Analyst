@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gane vs. Volkov
+    Date: June 26, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JEREMIAH WELLS defeated WARLLEY ALVES via KO/TKO  
+  at 0:30 of round 2
+  Key stats:
+  - JEREMIAH WELLS landed 21 significant strikes
+  - WARLLEY ALVES landed 15 significant strikes
+  - Knockdowns: JEREMIAH WELLS 1,  WARLLEY ALVES 0
+  - Takedowns: JEREMIAH WELLS 0,  WARLLEY ALVES 0

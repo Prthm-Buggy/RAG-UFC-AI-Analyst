@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dern vs. Hill
+    Date: May 20, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DIEGO FERREIRA defeated MICHAEL JOHNSON via KO/TKO  
+  at 1:50 of round 2
+  Key stats:
+  - DIEGO FERREIRA landed 30 significant strikes
+  - MICHAEL JOHNSON landed 32 significant strikes
+  - Knockdowns: DIEGO FERREIRA 1,  MICHAEL JOHNSON 0
+  - Takedowns: DIEGO FERREIRA 0,  MICHAEL JOHNSON 0
+  Bonus: perf

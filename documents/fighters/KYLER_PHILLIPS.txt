@@ -1,0 +1,11 @@
+Fighter: KYLER PHILLIPS
+  Date of Birth: 1995-06-12
+  Career record: 10
+  First fight: 2020-02-29
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :643
+- Total takedowns landed :26
+- Knockdowns :2
+- Submission Attempts :3

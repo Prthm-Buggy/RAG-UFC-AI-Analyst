@@ -1,0 +1,13 @@
+Event: UFC on FOX: Henderson vs Melendez
+    Date: April 20, 2013
+    Location: San Jose, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: JORGE MASVIDAL defeated TIM MEANS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JORGE MASVIDAL landed 50 significant strikes
+  - TIM MEANS landed 43 significant strikes
+  - Knockdowns: JORGE MASVIDAL 0,  TIM MEANS 0
+  - Takedowns: JORGE MASVIDAL 6,  TIM MEANS 0

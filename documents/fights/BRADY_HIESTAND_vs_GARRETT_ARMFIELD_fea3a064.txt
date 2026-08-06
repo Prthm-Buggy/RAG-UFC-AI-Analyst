@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Perez vs. Taira
+    Date: June 15, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: BRADY HIESTAND defeated GARRETT ARMFIELD via Submission  
+  at 1:52 of round 3
+  Key stats:
+  - BRADY HIESTAND landed 22 significant strikes
+  - GARRETT ARMFIELD landed 49 significant strikes
+  - Knockdowns: BRADY HIESTAND 0,  GARRETT ARMFIELD 1
+  - Takedowns: BRADY HIESTAND 6,  GARRETT ARMFIELD 0
+  Bonus: perf

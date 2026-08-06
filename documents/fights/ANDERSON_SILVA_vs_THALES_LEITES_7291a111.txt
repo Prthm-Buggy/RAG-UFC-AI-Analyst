@@ -1,0 +1,14 @@
+Event: UFC 97: Redemption
+    Date: April 18, 2009
+    Location: Montreal, Quebec, Canada
+    Weight Class: Middleweight
+    
+
+    Result: ANDERSON SILVA defeated THALES LEITES via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ANDERSON SILVA landed 94 significant strikes
+  - THALES LEITES landed 10 significant strikes
+  - Knockdowns: ANDERSON SILVA 0,  THALES LEITES 0
+  - Takedowns: ANDERSON SILVA 0,  THALES LEITES 1
+  Bonus: belt

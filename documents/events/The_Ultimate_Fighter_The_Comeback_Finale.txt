@@ -1,0 +1,15 @@
+Event : The Ultimate Fighter: The Comeback Finale
+    Date : November 11, 2006
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Welterweight, Middleweight, Lightweight
+
+    Fight Results:
+  - MARTIN KAMPMANN def. THALES LEITES via Decision - Unanimous(R3)
+- SCOTT SMITH def. PETE SELL via KO/TKO(R2)
+- DIN THOMAS def. RICH CLEMENTI via Submission(R2)
+- MATT SERRA def. CHRIS LYTLE via Decision - Split(R3)
+- TRAVIS LUTTER def. PATRICK COTE via Submission(R1)
+- PETE SPRATT def. JEREMY JACKSON via Submission(R2)
+- JORGE RIVERA def. EDWIN DEWEES via KO/TKO(R1)
+- CHARLES MCCARTHY def. GIDEON RAY via Submission(R1)

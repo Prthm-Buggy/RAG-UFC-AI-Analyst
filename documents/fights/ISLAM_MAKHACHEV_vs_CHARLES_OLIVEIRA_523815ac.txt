@@ -1,0 +1,14 @@
+Event: UFC 280: Oliveira vs. Makhachev
+    Date: October 22, 2022
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: ISLAM MAKHACHEV defeated CHARLES OLIVEIRA via Submission  
+  at 3:16 of round 2
+  Key stats:
+  - ISLAM MAKHACHEV landed 30 significant strikes
+  - CHARLES OLIVEIRA landed 19 significant strikes
+  - Knockdowns: ISLAM MAKHACHEV 1,  CHARLES OLIVEIRA 0
+  - Takedowns: ISLAM MAKHACHEV 2,  CHARLES OLIVEIRA 0
+  Bonus: belt

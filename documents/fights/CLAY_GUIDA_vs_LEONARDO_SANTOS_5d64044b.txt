@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Font vs. Aldo
+    Date: December 04, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CLAY GUIDA defeated LEONARDO SANTOS via Submission  
+  at 1:21 of round 2
+  Key stats:
+  - CLAY GUIDA landed 18 significant strikes
+  - LEONARDO SANTOS landed 41 significant strikes
+  - Knockdowns: CLAY GUIDA 0,  LEONARDO SANTOS 1
+  - Takedowns: CLAY GUIDA 2,  LEONARDO SANTOS 0
+  Bonus: perf

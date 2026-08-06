@@ -1,0 +1,13 @@
+Event: UFC 172: Jones vs Teixeira
+    Date: April 26, 2014
+    Location: Baltimore, Maryland, USA
+    Weight Class: Lightweight
+    
+
+    Result: DANNY CASTILLO defeated CHARLIE BRENNEMAN via KO/TKO  
+  at 0:21 of round 2
+  Key stats:
+  - DANNY CASTILLO landed 16 significant strikes
+  - CHARLIE BRENNEMAN landed 13 significant strikes
+  - Knockdowns: DANNY CASTILLO 1,  CHARLIE BRENNEMAN 0
+  - Takedowns: DANNY CASTILLO 0,  CHARLIE BRENNEMAN 2

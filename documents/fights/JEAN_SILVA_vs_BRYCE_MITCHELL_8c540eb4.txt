@@ -1,0 +1,14 @@
+Event: UFC 314: Volkanovski vs. Lopes
+    Date: April 12, 2025
+    Location: Miami, Florida, USA
+    Weight Class: Featherweight
+    
+
+    Result: JEAN SILVA defeated BRYCE MITCHELL via Submission  
+  at 3:52 of round 2
+  Key stats:
+  - JEAN SILVA landed 27 significant strikes
+  - BRYCE MITCHELL landed 36 significant strikes
+  - Knockdowns: JEAN SILVA 1,  BRYCE MITCHELL 0
+  - Takedowns: JEAN SILVA 0,  BRYCE MITCHELL 1
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lawler vs. Dos Anjos
+    Date: December 16, 2017
+    Location: Winnipeg, Manitoba, Canada
+    Weight Class: Middleweight
+    
+
+    Result: ALESSIO DI CHIRICO defeated OLUWALE BAMGBOSE via KO/TKO  
+  at 2:14 of round 2
+  Key stats:
+  - ALESSIO DI CHIRICO landed 6 significant strikes
+  - OLUWALE BAMGBOSE landed 10 significant strikes
+  - Knockdowns: ALESSIO DI CHIRICO 1,  OLUWALE BAMGBOSE 0
+  - Takedowns: ALESSIO DI CHIRICO 1,  OLUWALE BAMGBOSE 0
+  Bonus: perf

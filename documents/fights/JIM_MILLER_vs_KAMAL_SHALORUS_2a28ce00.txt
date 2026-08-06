@@ -1,0 +1,13 @@
+Event: UFC 128: Shogun vs Jones
+    Date: March 19, 2011
+    Location: Newark, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated KAMAL SHALORUS via KO/TKO  
+  at 2:15 of round 3
+  Key stats:
+  - JIM MILLER landed 43 significant strikes
+  - KAMAL SHALORUS landed 26 significant strikes
+  - Knockdowns: JIM MILLER 1,  KAMAL SHALORUS 0
+  - Takedowns: JIM MILLER 1,  KAMAL SHALORUS 1

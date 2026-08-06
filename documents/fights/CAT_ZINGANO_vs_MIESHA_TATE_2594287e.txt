@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Jones vs. Team Sonnen Finale
+    Date: April 13, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: CAT ZINGANO defeated MIESHA TATE via KO/TKO  
+  at 2:55 of round 3
+  Key stats:
+  - CAT ZINGANO landed 35 significant strikes
+  - MIESHA TATE landed 23 significant strikes
+  - Knockdowns: CAT ZINGANO 0,  MIESHA TATE 0
+  - Takedowns: CAT ZINGANO 1,  MIESHA TATE 3
+  Bonus: fight

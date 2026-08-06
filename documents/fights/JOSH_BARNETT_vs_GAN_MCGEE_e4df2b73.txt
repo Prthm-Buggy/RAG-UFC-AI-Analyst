@@ -1,0 +1,13 @@
+Event: UFC 28: High Stakes
+    Date: November 17, 2000
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Super Heavyweight
+    
+
+    Result: JOSH BARNETT defeated GAN MCGEE via KO/TKO  
+  at 4:34 of round 2
+  Key stats:
+  - JOSH BARNETT landed 17 significant strikes
+  - GAN MCGEE landed 10 significant strikes
+  - Knockdowns: JOSH BARNETT 0,  GAN MCGEE 0
+  - Takedowns: JOSH BARNETT 1,  GAN MCGEE 2

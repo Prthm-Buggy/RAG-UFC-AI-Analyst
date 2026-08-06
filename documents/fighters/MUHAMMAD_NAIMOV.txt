@@ -1,0 +1,11 @@
+Fighter: MUHAMMAD NAIMOV
+  Date of Birth: 1994-08-07
+  Career record: 7
+  First fight: 2023-06-03
+  Last fight: 2025-12-06
+
+Career Statistics:
+- Significant Strikes Landed :175
+- Total takedowns landed :9
+- Knockdowns :1
+- Submission Attempts :1

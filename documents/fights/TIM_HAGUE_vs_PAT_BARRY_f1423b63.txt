@@ -1,0 +1,13 @@
+Event: UFC 98: Evans vs Machida
+    Date: May 23, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TIM HAGUE defeated PAT BARRY via Submission  
+  at 1:42 of round 1
+  Key stats:
+  - TIM HAGUE landed 0 significant strikes
+  - PAT BARRY landed 3 significant strikes
+  - Knockdowns: TIM HAGUE 0,  PAT BARRY 0
+  - Takedowns: TIM HAGUE 1,  PAT BARRY 0

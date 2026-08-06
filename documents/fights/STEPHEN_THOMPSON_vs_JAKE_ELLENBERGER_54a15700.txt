@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: American Top Team vs. Blackzilians Finale
+    Date: July 12, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: STEPHEN THOMPSON defeated JAKE ELLENBERGER via KO/TKO  
+  at 4:29 of round 1
+  Key stats:
+  - STEPHEN THOMPSON landed 20 significant strikes
+  - JAKE ELLENBERGER landed 5 significant strikes
+  - Knockdowns: STEPHEN THOMPSON 2,  JAKE ELLENBERGER 1
+  - Takedowns: STEPHEN THOMPSON 1,  JAKE ELLENBERGER 0
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: DASHON JOHNSON
+  Date of Birth: 1988-01-25
+  Career record: 2
+  First fight: 2014-06-28
+  Last fight: 2014-09-13
+
+Career Statistics:
+- Significant Strikes Landed :18
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

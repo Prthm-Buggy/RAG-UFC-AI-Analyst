@@ -1,0 +1,13 @@
+Event: UFC 318: Holloway vs. Poirier 3
+    Date: July 19, 2025
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIMMY CRUTE defeated MARCIN PRACHNIO via Submission  
+  at 4:42 of round 1
+  Key stats:
+  - JIMMY CRUTE landed 5 significant strikes
+  - MARCIN PRACHNIO landed 21 significant strikes
+  - Knockdowns: JIMMY CRUTE 0,  MARCIN PRACHNIO 0
+  - Takedowns: JIMMY CRUTE 3,  MARCIN PRACHNIO 0

@@ -1,0 +1,11 @@
+Fighter: RAMIZ BRAHIMAJ
+  Date of Birth: 1992-11-17
+  Career record: 9
+  First fight: 2020-11-07
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :172
+- Total takedowns landed :10
+- Knockdowns :1
+- Submission Attempts :8

@@ -1,0 +1,14 @@
+Event: UFC on FOX: Johnson vs. Bader
+    Date: January 30, 2016
+    Location: Newark, New Jersey, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BEN ROTHWELL defeated JOSH BARNETT via Submission  
+  at 3:48 of round 2
+  Key stats:
+  - BEN ROTHWELL landed 35 significant strikes
+  - JOSH BARNETT landed 35 significant strikes
+  - Knockdowns: BEN ROTHWELL 0,  JOSH BARNETT 0
+  - Takedowns: BEN ROTHWELL 0,  JOSH BARNETT 0
+  Bonus: perf

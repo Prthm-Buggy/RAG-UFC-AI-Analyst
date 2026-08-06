@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Garcia vs. Onama
+    Date: November 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: WALDO CORTES ACOSTA defeated ANTE DELIJA via KO/TKO  
+  at 3:59 of round 1
+  Key stats:
+  - WALDO CORTES ACOSTA landed 12 significant strikes
+  - ANTE DELIJA landed 16 significant strikes
+  - Knockdowns: WALDO CORTES ACOSTA 1,  ANTE DELIJA 0
+  - Takedowns: WALDO CORTES ACOSTA 0,  ANTE DELIJA 0
+  Bonus: perf

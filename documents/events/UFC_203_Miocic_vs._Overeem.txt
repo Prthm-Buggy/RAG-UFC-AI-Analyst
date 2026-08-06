@@ -1,0 +1,17 @@
+Event : UFC 203: Miocic vs. Overeem
+    Date : September 10, 2016
+    Location: Cleveland, Ohio, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Bantamweight, Welterweight, Women's Strawweight, Middleweight, Lightweight, Women's Bantamweight
+
+    Fight Results:
+  - BRAD TAVARES def. CAIO MAGALHAES via Decision - Split(R3)
+- MICKEY GALL def. CM PUNK via Submission(R1)
+- DREW DOBER def. JASON GONZALEZ via KO/TKO(R1)
+- JESSICA ANDRADE def. JOANNE WOOD via Submission(R1)
+- YANCY MEDEIROS def. SEAN SPENCER via Submission(R2)
+- JIMMIE RIVERA def. URIJAH FABER via Decision - Unanimous(R3)
+- FABRICIO WERDUM def. TRAVIS BROWNE via Decision - Unanimous(R3)
+- STIPE MIOCIC def. ALISTAIR OVEREEM via KO/TKO(R1)
+- BETHE CORREIA def. JESSICA EYE via Decision - Split(R3)
+- NIK LENTZ def. MICHAEL MCBRIDE via KO/TKO(R2)

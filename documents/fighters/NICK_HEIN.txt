@@ -1,0 +1,11 @@
+Fighter: NICK HEIN
+  Date of Birth: 1984-04-24
+  Career record: 8
+  First fight: 2014-05-31
+  Last fight: 2019-06-01
+
+Career Statistics:
+- Significant Strikes Landed :276
+- Total takedowns landed :6
+- Knockdowns :2
+- Submission Attempts :0

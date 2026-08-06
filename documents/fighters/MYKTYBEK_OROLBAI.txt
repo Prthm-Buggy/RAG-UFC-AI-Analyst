@@ -1,0 +1,11 @@
+Fighter: MYKTYBEK OROLBAI
+  Date of Birth: 1998-02-10
+  Career record: 6
+  First fight: 2023-11-18
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :171
+- Total takedowns landed :36
+- Knockdowns :2
+- Submission Attempts :2

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Chiesa vs. Magny
+    Date: January 20, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: DALCHA LUNGIAMBULA defeated MARKUS PEREZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DALCHA LUNGIAMBULA landed 29 significant strikes
+  - MARKUS PEREZ landed 25 significant strikes
+  - Knockdowns: DALCHA LUNGIAMBULA 0,  MARKUS PEREZ 0
+  - Takedowns: DALCHA LUNGIAMBULA 1,  MARKUS PEREZ 0

@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Florian vs Lauzon
+    Date : April 02, 2008
+    Location: Broomfield, Colorado, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Welterweight, Light Heavyweight
+
+    Fight Results:
+  - NATE DIAZ def. KURT PELLEGRINO via Submission(R2)
+- GEORGE SOTIROPOULOS def. ROMAN MITICHYAN via KO/TKO(R2)
+- MATT HAMILL def. TIM BOETSCH via KO/TKO(R2)
+- GRAY MAYNARD def. FRANKIE EDGAR via Decision - Unanimous(R3)
+- JOSH NEER def. DIN THOMAS via Decision - Unanimous(R3)
+- THIAGO ALVES def. KARO PARISYAN via KO/TKO(R2)
+- JAMES IRVIN def. HOUSTON ALEXANDER via KO/TKO(R1)
+- KENNY FLORIAN def. JOE LAUZON via KO/TKO(R2)
+- ANTHONY JOHNSON def. TOMMY SPEER via KO/TKO(R1)
+- CLAY GUIDA def. SAMY SCHIAVO via KO/TKO(R1)
+- MARCUS AURELIO def. RYAN ROBERTS via Submission(R1)
+- MANVEL GAMBURYAN def. JEFF COX via Submission(R1)

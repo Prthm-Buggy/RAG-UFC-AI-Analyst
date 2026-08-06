@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Saffiedine vs Lim
+    Date: January 04, 2014
+    Location: Singapore, Singapore
+    Weight Class: Featherweight
+    
+
+    Result: MAX HOLLOWAY defeated WILL CHOPE via KO/TKO  
+  at 2:27 of round 2
+  Key stats:
+  - MAX HOLLOWAY landed 74 significant strikes
+  - WILL CHOPE landed 33 significant strikes
+  - Knockdowns: MAX HOLLOWAY 2,  WILL CHOPE 0
+  - Takedowns: MAX HOLLOWAY 0,  WILL CHOPE 0
+  Bonus: ko

@@ -1,0 +1,11 @@
+Fighter: DOMINICK CRUZ
+  Date of Birth: 1985-03-09
+  Career record: 10
+  First fight: 2011-07-02
+  Last fight: 2022-08-13
+
+Career Statistics:
+- Significant Strikes Landed :780
+- Total takedowns landed :28
+- Knockdowns :1
+- Submission Attempts :1

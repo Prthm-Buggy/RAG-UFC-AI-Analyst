@@ -1,0 +1,11 @@
+Fighter: ANDREY PULYAEV
+  Date of Birth: 1997-09-10
+  Career record: 4
+  First fight: 2025-03-22
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :102
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

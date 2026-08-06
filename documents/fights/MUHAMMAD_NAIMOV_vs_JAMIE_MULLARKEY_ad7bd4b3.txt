@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kara-France vs. Albazi
+    Date: June 03, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MUHAMMAD NAIMOV defeated JAMIE MULLARKEY via KO/TKO  
+  at 2:59 of round 2
+  Key stats:
+  - MUHAMMAD NAIMOV landed 28 significant strikes
+  - JAMIE MULLARKEY landed 39 significant strikes
+  - Knockdowns: MUHAMMAD NAIMOV 1,  JAMIE MULLARKEY 0
+  - Takedowns: MUHAMMAD NAIMOV 0,  JAMIE MULLARKEY 3
+  Bonus: perf

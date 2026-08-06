@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holohan vs Smolka
+    Date: October 24, 2015
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Lightweight
+    
+
+    Result: STEVIE RAY defeated MICKAEL LEBOUT via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - STEVIE RAY landed 48 significant strikes
+  - MICKAEL LEBOUT landed 27 significant strikes
+  - Knockdowns: STEVIE RAY 0,  MICKAEL LEBOUT 0
+  - Takedowns: STEVIE RAY 1,  MICKAEL LEBOUT 0

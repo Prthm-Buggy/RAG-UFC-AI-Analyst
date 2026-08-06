@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Aspinall vs. Tybura
+    Date: July 22, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: LERONE MURPHY defeated JOSH CULIBAO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LERONE MURPHY landed 59 significant strikes
+  - JOSH CULIBAO landed 23 significant strikes
+  - Knockdowns: LERONE MURPHY 1,  JOSH CULIBAO 0
+  - Takedowns: LERONE MURPHY 3,  JOSH CULIBAO 0

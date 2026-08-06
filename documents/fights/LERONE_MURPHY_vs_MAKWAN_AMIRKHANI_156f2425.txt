@@ -1,0 +1,13 @@
+Event: UFC 267: Blachowicz vs. Teixeira
+    Date: October 30, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Featherweight
+    
+
+    Result: LERONE MURPHY defeated MAKWAN AMIRKHANI via KO/TKO  
+  at 0:14 of round 2
+  Key stats:
+  - LERONE MURPHY landed 4 significant strikes
+  - MAKWAN AMIRKHANI landed 4 significant strikes
+  - Knockdowns: LERONE MURPHY 1,  MAKWAN AMIRKHANI 0
+  - Takedowns: LERONE MURPHY 0,  MAKWAN AMIRKHANI 5

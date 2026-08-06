@@ -1,0 +1,13 @@
+Event: UFC 168: Weidman vs Silva 2
+    Date: December 28, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MICHAEL JOHNSON defeated GLEISON TIBAU via KO/TKO  
+  at 1:32 of round 2
+  Key stats:
+  - MICHAEL JOHNSON landed 22 significant strikes
+  - GLEISON TIBAU landed 12 significant strikes
+  - Knockdowns: MICHAEL JOHNSON 1,  GLEISON TIBAU 0
+  - Takedowns: MICHAEL JOHNSON 0,  GLEISON TIBAU 0

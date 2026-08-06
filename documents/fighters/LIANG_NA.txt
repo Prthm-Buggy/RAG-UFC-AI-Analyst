@@ -1,0 +1,11 @@
+Fighter: LIANG NA
+  Date of Birth: 1996-07-27
+  Career record: 4
+  First fight: 2021-04-24
+  Last fight: 2024-04-27
+
+Career Statistics:
+- Significant Strikes Landed :58
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :1

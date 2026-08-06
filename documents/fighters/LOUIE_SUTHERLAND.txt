@@ -1,0 +1,11 @@
+Fighter: LOUIE SUTHERLAND
+  Date of Birth: 1994-02-08
+  Career record: 3
+  First fight: 2025-10-25
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :33
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :0

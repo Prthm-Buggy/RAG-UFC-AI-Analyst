@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vieira vs. Tate
+    Date: November 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: SHAYILAN NUERDANBIEKE defeated SEAN SORIANO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SHAYILAN NUERDANBIEKE landed 17 significant strikes
+  - SEAN SORIANO landed 35 significant strikes
+  - Knockdowns: SHAYILAN NUERDANBIEKE 0,  SEAN SORIANO 0
+  - Takedowns: SHAYILAN NUERDANBIEKE 4,  SEAN SORIANO 2

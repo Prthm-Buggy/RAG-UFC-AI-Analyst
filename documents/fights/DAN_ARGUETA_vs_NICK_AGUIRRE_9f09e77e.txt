@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Strickland vs. Imavov
+    Date: January 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DAN ARGUETA defeated NICK AGUIRRE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DAN ARGUETA landed 47 significant strikes
+  - NICK AGUIRRE landed 14 significant strikes
+  - Knockdowns: DAN ARGUETA 0,  NICK AGUIRRE 0
+  - Takedowns: DAN ARGUETA 4,  NICK AGUIRRE 0

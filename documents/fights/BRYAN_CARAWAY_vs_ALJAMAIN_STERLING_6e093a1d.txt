@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Almeida vs Garbrandt
+    Date: May 29, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: BRYAN CARAWAY defeated ALJAMAIN STERLING via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - BRYAN CARAWAY landed 9 significant strikes
+  - ALJAMAIN STERLING landed 32 significant strikes
+  - Knockdowns: BRYAN CARAWAY 0,  ALJAMAIN STERLING 0
+  - Takedowns: BRYAN CARAWAY 3,  ALJAMAIN STERLING 1

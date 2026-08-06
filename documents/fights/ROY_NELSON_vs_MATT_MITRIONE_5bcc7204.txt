@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Carwin vs. Team Nelson Finale
+    Date: December 15, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ROY NELSON defeated MATT MITRIONE via KO/TKO  
+  at 2:58 of round 1
+  Key stats:
+  - ROY NELSON landed 23 significant strikes
+  - MATT MITRIONE landed 13 significant strikes
+  - Knockdowns: ROY NELSON 1,  MATT MITRIONE 0
+  - Takedowns: ROY NELSON 0,  MATT MITRIONE 0

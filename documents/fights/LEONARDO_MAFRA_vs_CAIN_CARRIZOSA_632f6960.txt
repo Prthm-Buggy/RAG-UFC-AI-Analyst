@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs LaFlare
+    Date: March 21, 2015
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: LEONARDO MAFRA defeated CAIN CARRIZOSA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LEONARDO MAFRA landed 94 significant strikes
+  - CAIN CARRIZOSA landed 44 significant strikes
+  - Knockdowns: LEONARDO MAFRA 0,  CAIN CARRIZOSA 1
+  - Takedowns: LEONARDO MAFRA 5,  CAIN CARRIZOSA 0

@@ -1,0 +1,11 @@
+Fighter: IURI ALCANTARA
+  Date of Birth: 1980-08-04
+  Career record: 17
+  First fight: 2011-08-27
+  Last fight: 2018-08-25
+
+Career Statistics:
+- Significant Strikes Landed :452
+- Total takedowns landed :16
+- Knockdowns :4
+- Submission Attempts :9

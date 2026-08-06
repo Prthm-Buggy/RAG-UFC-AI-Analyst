@@ -1,0 +1,14 @@
+Event: UFC 274: Oliveira vs. Gaethje
+    Date: May 07, 2022
+    Location: Phoenix, Arizona, USA
+    Weight Class: Welterweight
+    
+
+    Result: ANDRE FIALHO defeated CAMERON VANCAMP via KO/TKO  
+  at 2:35 of round 1
+  Key stats:
+  - ANDRE FIALHO landed 17 significant strikes
+  - CAMERON VANCAMP landed 19 significant strikes
+  - Knockdowns: ANDRE FIALHO 1,  CAMERON VANCAMP 0
+  - Takedowns: ANDRE FIALHO 0,  CAMERON VANCAMP 0
+  Bonus: perf

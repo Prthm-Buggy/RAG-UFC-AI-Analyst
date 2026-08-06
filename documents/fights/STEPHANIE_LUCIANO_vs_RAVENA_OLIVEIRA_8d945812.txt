@@ -1,0 +1,13 @@
+Event: UFC Fight Night: De Ridder vs. Allen
+    Date: October 18, 2025
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Women's Strawweight
+    
+
+    Result: STEPHANIE LUCIANO defeated RAVENA OLIVEIRA via Submission  
+  at 2:50 of round 3
+  Key stats:
+  - STEPHANIE LUCIANO landed 60 significant strikes
+  - RAVENA OLIVEIRA landed 24 significant strikes
+  - Knockdowns: STEPHANIE LUCIANO 0,  RAVENA OLIVEIRA 0
+  - Takedowns: STEPHANIE LUCIANO 3,  RAVENA OLIVEIRA 0

@@ -1,0 +1,14 @@
+Event: UFC 112: Invincible
+    Date: April 10, 2010
+    Location: Abu Dhabi, United Arab Emirates
+    Weight Class: Welterweight
+    
+
+    Result: DAMARQUES JOHNSON defeated BRAD BLACKBURN via KO/TKO  
+  at 2:08 of round 3
+  Key stats:
+  - DAMARQUES JOHNSON landed 34 significant strikes
+  - BRAD BLACKBURN landed 59 significant strikes
+  - Knockdowns: DAMARQUES JOHNSON 1,  BRAD BLACKBURN 0
+  - Takedowns: DAMARQUES JOHNSON 0,  BRAD BLACKBURN 4
+  Bonus: ko

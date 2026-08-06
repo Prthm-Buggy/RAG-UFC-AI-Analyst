@@ -1,0 +1,13 @@
+Event: UFC 249: Ferguson vs. Gaethje
+    Date: May 09, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: VICENTE LUQUE defeated NIKO PRICE via TKO - Doctor's Stoppage  
+  at 3:37 of round 3
+  Key stats:
+  - VICENTE LUQUE landed 130 significant strikes
+  - NIKO PRICE landed 129 significant strikes
+  - Knockdowns: VICENTE LUQUE 1,  NIKO PRICE 0
+  - Takedowns: VICENTE LUQUE 0,  NIKO PRICE 1

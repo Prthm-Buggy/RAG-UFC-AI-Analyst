@@ -1,0 +1,11 @@
+Fighter: DUDA SANTANA
+  Date of Birth: 1996-01-10
+  Career record: 1
+  First fight: 2019-06-01
+  Last fight: 2019-06-01
+
+Career Statistics:
+- Significant Strikes Landed :42
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

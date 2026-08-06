@@ -1,0 +1,20 @@
+Event : UFC 325: Volkanovski vs. Lopes 2
+    Date : January 31, 2026
+    Location: Sydney, New South Wales, Australia
+    Number of Fights: 13
+    Weight Classes: Lightweight, Featherweight, Light Heavyweight, Middleweight, Welterweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - TALLISON TEIXEIRA def. TAI TUIVASA via Decision - Unanimous(R3)
+- JACOB MALKOUN def. TORREZ FINNEY via Decision - Unanimous(R3)
+- Dom Mar Fan def. SANGWOOK KIM via Decision - Unanimous(R3)
+- LAWRENCE LUI def. SULANGRANGBO via Decision - Split(R3)
+- JONATHAN MICALLEF def. OBAN ELLIOTT via Submission(R2)
+- ALEXANDER VOLKANOVSKI def. DIEGO LOPES via Decision - Unanimous(R5)
+- KAAN OFLI def. YIZHA via Decision - Majority(R3)
+- BILLY ELEKANA def. JUNIOR TAFA via Submission(R2)
+- MAURICIO RUFFY def. RAFAEL FIZIEV via KO/TKO(R2)
+- QUILLAN SALKILLD def. JAMIE MULLARKEY via Submission(R1)
+- CAM ROWSTON def. CODY BRUNDAGE via KO/TKO(R2)
+- BENOIT SAINT DENIS def. DAN HOOKER via KO/TKO(R2)
+- KEIICHIRO NAKAMURA def. SEBASTIAN SZALAY via KO/TKO(R3)

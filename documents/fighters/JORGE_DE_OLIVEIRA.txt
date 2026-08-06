@@ -1,0 +1,11 @@
+Fighter: JORGE DE OLIVEIRA
+  Date of Birth: 1980-01-22
+  Career record: 2
+  First fight: 2014-11-08
+  Last fight: 2015-03-21
+
+Career Statistics:
+- Significant Strikes Landed :23
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

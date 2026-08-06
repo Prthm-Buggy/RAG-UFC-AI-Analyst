@@ -1,0 +1,13 @@
+Event: UFC 271: Adesanya vs. Whittaker 2
+    Date: February 12, 2022
+    Location: Houston, Texas, USA
+    Weight Class: Bantamweight
+    
+
+    Result: KYLER PHILLIPS defeated MARCELO ROJO via Submission  
+  at 1:48 of round 3
+  Key stats:
+  - KYLER PHILLIPS landed 80 significant strikes
+  - MARCELO ROJO landed 55 significant strikes
+  - Knockdowns: KYLER PHILLIPS 0,  MARCELO ROJO 0
+  - Takedowns: KYLER PHILLIPS 3,  MARCELO ROJO 0

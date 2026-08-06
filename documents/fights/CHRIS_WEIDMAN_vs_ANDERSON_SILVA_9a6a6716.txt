@@ -1,0 +1,14 @@
+Event: UFC 162: Silva vs Weidman
+    Date: July 06, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS WEIDMAN defeated ANDERSON SILVA via KO/TKO  
+  at 1:18 of round 2
+  Key stats:
+  - CHRIS WEIDMAN landed 16 significant strikes
+  - ANDERSON SILVA landed 14 significant strikes
+  - Knockdowns: CHRIS WEIDMAN 1,  ANDERSON SILVA 0
+  - Takedowns: CHRIS WEIDMAN 1,  ANDERSON SILVA 0
+  Bonus: belt

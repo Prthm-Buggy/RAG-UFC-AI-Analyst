@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Hermansson vs. Cannonier
+    Date : September 28, 2019
+    Location: Copenhagen, Denmark
+    Number of Fights: 13
+    Weight Classes: Featherweight, Lightweight, Women's Bantamweight, Welterweight, Middleweight, Light Heavyweight, Bantamweight
+
+    Fight Results:
+  - GIGA CHIKADZE def. BRANDON DAVIS via Decision - Split(R3)
+- ISMAIL NAURDIEV def. SIYAR BAHADURZADA via Decision - Unanimous(R3)
+- GILBERT BURNS def. GUNNAR NELSON via Decision - Unanimous(R3)
+- MAKHMUD MURADOV def. ALESSIO DI CHIRICO via Decision - Unanimous(R3)
+- ION CUTELABA def. KHALIL ROUNTREE JR. via KO/TKO(R1)
+- JARED CANNONIER def. JACK HERMANSSON via KO/TKO(R2)
+- JOHN PHILLIPS def. ALEN AMEDOVSKI via KO/TKO(R1)
+- OVINCE SAINT PREUX def. MICHAL OLEKSIEJCZUK via Submission(R2)
+- MARC DIAKIESE def. LANDO VANNATA via Decision - Unanimous(R3)
+- NICOLAS DALBY def. ALEX OLIVEIRA via Decision - Unanimous(R3)
+- LINA LANSBERG def. MACY CHIASSON via Decision - Unanimous(R3)
+- MARK MADSEN def. DANILO BELLUARDO via KO/TKO(R1)
+- JACK SHORE def. NOHELIN HERNANDEZ via Submission(R3)

@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Yan vs. Dvalishvili
+    Date : March 11, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Middleweight, Catch Weight, Flyweight, Welterweight, Light Heavyweight, Women's Flyweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - MERAB DVALISHVILI def. PETR YAN via Decision - Unanimous(R5)
+- VICTOR HENRY def. TONY GRAVELY via Decision - Split(R3)
+- MARIO BAUTISTA def. GUIDO CANNETTI via Submission(R1)
+- BRUNO SILVA def. TYSON NAM via Submission(R2)
+- ALEXANDER VOLKOV def. ALEXANDR ROMANOV via KO/TKO(R1)
+- CARLSTON HARRIS def. JARED GOODEN via Decision - Unanimous(R3)
+- ARIANE DA SILVA def. JJ ALDRICH via Decision - Unanimous(R3)
+- JONATHAN MARTINEZ def. SAID NURMAGOMEDOV via Decision - Unanimous(R3)
+- JOSH FREMD def. SEDRIQUES DUMAS via Submission(R2)
+- DAVEY GRANT def. RAPHAEL ASSUNCAO via Submission(R3)
+- NIKITA KRYLOV def. RYAN SPANN via Submission(R1)
+- VITOR PETRINO def. ANTON TURKALJ via Decision - Unanimous(R3)
+- KARL WILLIAMS def. LUKASZ BRZESKI via Decision - Unanimous(R3)

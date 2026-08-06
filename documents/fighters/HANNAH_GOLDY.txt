@@ -1,0 +1,11 @@
+Fighter: HANNAH GOLDY
+  Date of Birth: 1992-05-18
+  Career record: 5
+  First fight: 2019-08-03
+  Last fight: 2023-09-23
+
+Career Statistics:
+- Significant Strikes Landed :213
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

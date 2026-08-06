@@ -1,0 +1,14 @@
+Event: UFC 205: Alvarez vs McGregor
+    Date: November 12, 2016
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: YOEL ROMERO defeated CHRIS WEIDMAN via KO/TKO  
+  at 0:24 of round 3
+  Key stats:
+  - YOEL ROMERO landed 18 significant strikes
+  - CHRIS WEIDMAN landed 12 significant strikes
+  - Knockdowns: YOEL ROMERO 1,  CHRIS WEIDMAN 0
+  - Takedowns: YOEL ROMERO 2,  CHRIS WEIDMAN 1
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC 3: The American Dream
+    Date: September 09, 1994
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Open Weight
+    
+
+    Result: ROYCE GRACIE defeated KIMO LEOPOLDO via Submission  
+  at 4:40 of round 1
+  Key stats:
+  - ROYCE GRACIE landed 2 significant strikes
+  - KIMO LEOPOLDO landed 6 significant strikes
+  - Knockdowns: ROYCE GRACIE 0,  KIMO LEOPOLDO 0
+  - Takedowns: ROYCE GRACIE 0,  KIMO LEOPOLDO 1

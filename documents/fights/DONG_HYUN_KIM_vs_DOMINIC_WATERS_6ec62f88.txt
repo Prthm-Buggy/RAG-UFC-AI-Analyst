@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Masvidal
+    Date: November 28, 2015
+    Location: Seoul, South Korea
+    Weight Class: Welterweight
+    
+
+    Result: DONG HYUN KIM defeated DOMINIC WATERS via KO/TKO  
+  at 3:11 of round 1
+  Key stats:
+  - DONG HYUN KIM landed 6 significant strikes
+  - DOMINIC WATERS landed 0 significant strikes
+  - Knockdowns: DONG HYUN KIM 0,  DOMINIC WATERS 0
+  - Takedowns: DONG HYUN KIM 1,  DOMINIC WATERS 0

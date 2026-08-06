@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Alvarez
+    Date: July 07, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE DUFFY defeated MITCH CLARKE via Submission  
+  at 0:25 of round 1
+  Key stats:
+  - JOE DUFFY landed 3 significant strikes
+  - MITCH CLARKE landed 1 significant strikes
+  - Knockdowns: JOE DUFFY 1,  MITCH CLARKE 0
+  - Takedowns: JOE DUFFY 0,  MITCH CLARKE 0

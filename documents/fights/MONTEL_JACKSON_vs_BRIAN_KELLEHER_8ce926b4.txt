@@ -1,0 +1,13 @@
+Event: UFC 232: Jones vs. Gustafsson 2
+    Date: December 29, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MONTEL JACKSON defeated BRIAN KELLEHER via Submission  
+  at 1:40 of round 1
+  Key stats:
+  - MONTEL JACKSON landed 10 significant strikes
+  - BRIAN KELLEHER landed 6 significant strikes
+  - Knockdowns: MONTEL JACKSON 0,  BRIAN KELLEHER 0
+  - Takedowns: MONTEL JACKSON 0,  BRIAN KELLEHER 0

@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Munoz vs Weidman
+    Date: July 11, 2012
+    Location: San Jose, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: MARCELO GUIMARAES defeated DAN STITTGEN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MARCELO GUIMARAES landed 63 significant strikes
+  - DAN STITTGEN landed 49 significant strikes
+  - Knockdowns: MARCELO GUIMARAES 0,  DAN STITTGEN 0
+  - Takedowns: MARCELO GUIMARAES 0,  DAN STITTGEN 1

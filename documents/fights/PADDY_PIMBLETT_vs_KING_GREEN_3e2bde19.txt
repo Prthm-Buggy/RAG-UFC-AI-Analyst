@@ -1,0 +1,14 @@
+Event: UFC 304: Edwards vs. Muhammad 2
+    Date: July 27, 2024
+    Location: Manchester, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: PADDY PIMBLETT defeated KING GREEN via Submission  
+  at 3:22 of round 1
+  Key stats:
+  - PADDY PIMBLETT landed 8 significant strikes
+  - KING GREEN landed 15 significant strikes
+  - Knockdowns: PADDY PIMBLETT 0,  KING GREEN 0
+  - Takedowns: PADDY PIMBLETT 0,  KING GREEN 1
+  Bonus: perf

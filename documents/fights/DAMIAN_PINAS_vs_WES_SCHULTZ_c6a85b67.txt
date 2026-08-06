@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Kavanagh
+    Date: February 28, 2026
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Middleweight
+    
+
+    Result: DAMIAN PINAS defeated WES SCHULTZ via KO/TKO  
+  at 2:30 of round 1
+  Key stats:
+  - DAMIAN PINAS landed 15 significant strikes
+  - WES SCHULTZ landed 3 significant strikes
+  - Knockdowns: DAMIAN PINAS 2,  WES SCHULTZ 0
+  - Takedowns: DAMIAN PINAS 0,  WES SCHULTZ 0

@@ -1,0 +1,13 @@
+Event: UFC 261: Usman vs. Masvidal 2
+    Date: April 24, 2021
+    Location: Jacksonville, Florida, USA
+    Weight Class: Bantamweight
+    
+
+    Result: BATGEREL DANAA defeated KEVIN NATIVIDAD via KO/TKO  
+  at 0:50 of round 1
+  Key stats:
+  - BATGEREL DANAA landed 7 significant strikes
+  - KEVIN NATIVIDAD landed 3 significant strikes
+  - Knockdowns: BATGEREL DANAA 1,  KEVIN NATIVIDAD 0
+  - Takedowns: BATGEREL DANAA 0,  KEVIN NATIVIDAD 0

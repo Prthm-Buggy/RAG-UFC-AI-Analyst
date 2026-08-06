@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Ferguson
+    Date: November 05, 2016
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Middleweight
+    
+
+    Result: SAM ALVEY defeated ALEX NICHOLSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SAM ALVEY landed 63 significant strikes
+  - ALEX NICHOLSON landed 82 significant strikes
+  - Knockdowns: SAM ALVEY 0,  ALEX NICHOLSON 0
+  - Takedowns: SAM ALVEY 0,  ALEX NICHOLSON 0

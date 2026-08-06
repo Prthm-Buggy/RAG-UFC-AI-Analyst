@@ -1,0 +1,14 @@
+Event: UFC 52: Couture vs Liddell 2
+    Date: April 16, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT HUGHES defeated FRANK TRIGG via Submission  
+  at 4:05 of round 1
+  Key stats:
+  - MATT HUGHES landed 13 significant strikes
+  - FRANK TRIGG landed 13 significant strikes
+  - Knockdowns: MATT HUGHES 0,  FRANK TRIGG 1
+  - Takedowns: MATT HUGHES 1,  FRANK TRIGG 0
+  Bonus: belt

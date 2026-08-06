@@ -1,0 +1,11 @@
+Fighter: TAKANORI GOMI
+  Date of Birth: 1978-09-22
+  Career record: 13
+  First fight: 2010-03-31
+  Last fight: 2017-09-22
+
+Career Statistics:
+- Significant Strikes Landed :367
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fight for the Troops 3
+    Date: November 06, 2013
+    Location: Fort Campbell, Kentucky, USA
+    Weight Class: Bantamweight
+    
+
+    Result: FRANCISCO RIVERA defeated GEORGE ROOP via KO/TKO  
+  at 2:20 of round 2
+  Key stats:
+  - FRANCISCO RIVERA landed 27 significant strikes
+  - GEORGE ROOP landed 23 significant strikes
+  - Knockdowns: FRANCISCO RIVERA 1,  GEORGE ROOP 0
+  - Takedowns: FRANCISCO RIVERA 0,  GEORGE ROOP 1

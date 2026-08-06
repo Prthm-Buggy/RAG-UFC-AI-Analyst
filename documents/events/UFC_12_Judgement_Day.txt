@@ -1,0 +1,14 @@
+Event : UFC 12: Judgement Day
+    Date : February 07, 1997
+    Location: Dothan, Alabama, USA
+    Number of Fights: 7
+    Weight Classes: Lightweight, Heavyweight
+
+    Fight Results:
+  - VITOR BELFORT def. SCOTT FERROZZO via KO/TKO(R1)
+- VITOR BELFORT def. TRA TELLIGMAN via KO/TKO(R1)
+- SCOTT FERROZZO def. JIM MULLEN via KO/TKO(R1)
+- JERRY BOHLANDER def. NICK SANZO via Submission(R1)
+- JERRY BOHLANDER def. RAINY MARTINEZ via Submission(R1)
+- YOSHIKI TAKAHASHI def. WALLID ISMAIL via Decision - Unanimous(R2)
+- MARK COLEMAN def. DAN SEVERN via Submission(R1)

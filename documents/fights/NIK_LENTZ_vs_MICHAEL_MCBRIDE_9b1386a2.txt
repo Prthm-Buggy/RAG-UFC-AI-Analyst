@@ -1,0 +1,13 @@
+Event: UFC 203: Miocic vs. Overeem
+    Date: September 10, 2016
+    Location: Cleveland, Ohio, USA
+    Weight Class: Lightweight
+    
+
+    Result: NIK LENTZ defeated MICHAEL MCBRIDE via KO/TKO  
+  at 4:17 of round 2
+  Key stats:
+  - NIK LENTZ landed 38 significant strikes
+  - MICHAEL MCBRIDE landed 16 significant strikes
+  - Knockdowns: NIK LENTZ 0,  MICHAEL MCBRIDE 0
+  - Takedowns: NIK LENTZ 5,  MICHAEL MCBRIDE 0

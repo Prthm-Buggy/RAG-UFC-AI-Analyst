@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Barboza vs. Murphy
+    Date: May 18, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: LERONE MURPHY defeated EDSON BARBOZA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - LERONE MURPHY landed 220 significant strikes
+  - EDSON BARBOZA landed 79 significant strikes
+  - Knockdowns: LERONE MURPHY 0,  EDSON BARBOZA 0
+  - Takedowns: LERONE MURPHY 4,  EDSON BARBOZA 0
+  Bonus: fight

@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Swanson vs. Lobov
+    Date : April 22, 2017
+    Location: Nashville, Tennessee, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Lightweight, Light Heavyweight, Featherweight, Welterweight, Middleweight, Flyweight, Women's Strawweight, Women's Bantamweight
+
+    Fight Results:
+  - BRYAN BARBERENA def. JOE PROCTOR via KO/TKO(R1)
+- BRANDON MORENO def. DUSTIN ORTIZ via Submission(R2)
+- OVINCE SAINT PREUX def. MARCOS ROGERIO DE LIMA via Submission(R2)
+- CUB SWANSON def. ARTEM LOBOV via Decision - Unanimous(R5)
+- MIKE PERRY def. JAKE ELLENBERGER via KO/TKO(R2)
+- JOHN DODSON def. EDDIE WINELAND via Decision - Unanimous(R3)
+- DANIELLE TAYLOR def. JESSICA PENNE via Decision - Unanimous(R3)
+- HECTOR SANDOVAL def. MATT SCHNELL via KO/TKO(R1)
+- STEVIE RAY def. JOE LAUZON via Decision - Majority(R3)
+- THALES LEITES def. SAM ALVEY via Decision - Unanimous(R3)
+- AL IAQUINTA def. DIEGO SANCHEZ via KO/TKO(R1)
+- SCOTT HOLTZMAN def. MICHAEL MCBRIDE via Decision - Unanimous(R3)
+- ALEXIS DAVIS def. CINDY DANDOIS via Decision - Unanimous(R3)

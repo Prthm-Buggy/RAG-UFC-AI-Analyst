@@ -1,0 +1,11 @@
+Fighter: CHRIS HEATHERLY
+  Date of Birth: 1987-11-24
+  Career record: 2
+  First fight: 2014-08-23
+  Last fight: 2014-11-15
+
+Career Statistics:
+- Significant Strikes Landed :12
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

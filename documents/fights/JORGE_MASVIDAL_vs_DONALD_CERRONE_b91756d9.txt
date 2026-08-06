@@ -1,0 +1,14 @@
+Event: UFC on FOX: Shevchenko vs. Pena
+    Date: January 28, 2017
+    Location: Denver, Colorado, USA
+    Weight Class: Welterweight
+    
+
+    Result: JORGE MASVIDAL defeated DONALD CERRONE via KO/TKO  
+  at 1:00 of round 2
+  Key stats:
+  - JORGE MASVIDAL landed 58 significant strikes
+  - DONALD CERRONE landed 30 significant strikes
+  - Knockdowns: JORGE MASVIDAL 2,  DONALD CERRONE 0
+  - Takedowns: JORGE MASVIDAL 0,  DONALD CERRONE 0
+  Bonus: perf

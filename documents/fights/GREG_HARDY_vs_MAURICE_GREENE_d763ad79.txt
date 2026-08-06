@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hall vs. Silva
+    Date: October 31, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: GREG HARDY defeated MAURICE GREENE via KO/TKO  
+  at 1:12 of round 2
+  Key stats:
+  - GREG HARDY landed 46 significant strikes
+  - MAURICE GREENE landed 17 significant strikes
+  - Knockdowns: GREG HARDY 1,  MAURICE GREENE 0
+  - Takedowns: GREG HARDY 1,  MAURICE GREENE 0

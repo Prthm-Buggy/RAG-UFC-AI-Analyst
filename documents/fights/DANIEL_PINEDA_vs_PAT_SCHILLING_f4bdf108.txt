@@ -1,0 +1,13 @@
+Event: UFC on FX: Guillard vs Miller
+    Date: January 20, 2012
+    Location: Nashville, Tennessee, USA
+    Weight Class: Featherweight
+    
+
+    Result: DANIEL PINEDA defeated PAT SCHILLING via Submission  
+  at 1:37 of round 1
+  Key stats:
+  - DANIEL PINEDA landed 19 significant strikes
+  - PAT SCHILLING landed 4 significant strikes
+  - Knockdowns: DANIEL PINEDA 0,  PAT SCHILLING 0
+  - Takedowns: DANIEL PINEDA 1,  PAT SCHILLING 0

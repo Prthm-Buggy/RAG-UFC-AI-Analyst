@@ -1,0 +1,14 @@
+Event: UFC 275: Teixeira vs. Prochazka
+    Date: June 11, 2022
+    Location: Kallang, Singapore
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIRI PROCHAZKA defeated GLOVER TEIXEIRA via Submission  
+  at 4:32 of round 5
+  Key stats:
+  - JIRI PROCHAZKA landed 120 significant strikes
+  - GLOVER TEIXEIRA landed 111 significant strikes
+  - Knockdowns: JIRI PROCHAZKA 0,  GLOVER TEIXEIRA 0
+  - Takedowns: JIRI PROCHAZKA 0,  GLOVER TEIXEIRA 5
+  Bonus: belt

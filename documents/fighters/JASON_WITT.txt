@@ -1,0 +1,11 @@
+Fighter: JASON WITT
+  Date of Birth: 1986-11-07
+  Career record: 6
+  First fight: 2020-06-27
+  Last fight: 2022-08-13
+
+Career Statistics:
+- Significant Strikes Landed :70
+- Total takedowns landed :15
+- Knockdowns :1
+- Submission Attempts :2

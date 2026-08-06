@@ -1,0 +1,11 @@
+Fighter: JONATHAN PEARCE
+  Date of Birth: 1992-05-01
+  Career record: 9
+  First fight: 2019-10-18
+  Last fight: 2024-10-12
+
+Career Statistics:
+- Significant Strikes Landed :362
+- Total takedowns landed :29
+- Knockdowns :0
+- Submission Attempts :5

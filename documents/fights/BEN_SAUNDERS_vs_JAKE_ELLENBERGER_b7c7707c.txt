@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rivera vs. Moraes
+    Date: June 01, 2018
+    Location: Utica, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: BEN SAUNDERS defeated JAKE ELLENBERGER via KO/TKO  
+  at 1:56 of round 1
+  Key stats:
+  - BEN SAUNDERS landed 10 significant strikes
+  - JAKE ELLENBERGER landed 5 significant strikes
+  - Knockdowns: BEN SAUNDERS 1,  JAKE ELLENBERGER 0
+  - Takedowns: BEN SAUNDERS 0,  JAKE ELLENBERGER 0
+  Bonus: perf

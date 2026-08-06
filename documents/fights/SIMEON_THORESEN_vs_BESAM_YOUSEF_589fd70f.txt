@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Gustafsson vs Silva
+    Date: April 14, 2012
+    Location: Stockholm, Sweden
+    Weight Class: Welterweight
+    
+
+    Result: SIMEON THORESEN defeated BESAM YOUSEF via Submission  
+  at 2:36 of round 2
+  Key stats:
+  - SIMEON THORESEN landed 37 significant strikes
+  - BESAM YOUSEF landed 28 significant strikes
+  - Knockdowns: SIMEON THORESEN 0,  BESAM YOUSEF 0
+  - Takedowns: SIMEON THORESEN 1,  BESAM YOUSEF 0

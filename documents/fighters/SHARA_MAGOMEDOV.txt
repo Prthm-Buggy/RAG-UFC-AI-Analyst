@@ -1,0 +1,11 @@
+Fighter: SHARA MAGOMEDOV
+  Date of Birth: 1994-05-16
+  Career record: 7
+  First fight: 2023-10-21
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :540
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :0

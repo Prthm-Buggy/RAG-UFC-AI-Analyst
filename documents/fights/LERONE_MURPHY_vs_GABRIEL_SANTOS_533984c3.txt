@@ -1,0 +1,13 @@
+Event: UFC 286: Edwards vs. Usman 3
+    Date: March 18, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: LERONE MURPHY defeated GABRIEL SANTOS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - LERONE MURPHY landed 93 significant strikes
+  - GABRIEL SANTOS landed 69 significant strikes
+  - Knockdowns: LERONE MURPHY 0,  GABRIEL SANTOS 0
+  - Takedowns: LERONE MURPHY 1,  GABRIEL SANTOS 5

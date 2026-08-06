@@ -1,0 +1,11 @@
+Fighter: SALIM TOUAHRI
+  Date of Birth: 1989-09-28
+  Career record: 3
+  First fight: 2017-10-21
+  Last fight: 2019-08-03
+
+Career Statistics:
+- Significant Strikes Landed :117
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

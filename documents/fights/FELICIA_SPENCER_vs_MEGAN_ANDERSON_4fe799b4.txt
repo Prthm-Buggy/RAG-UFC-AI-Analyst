@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Lee
+    Date: May 18, 2019
+    Location: Rochester, New York, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: FELICIA SPENCER defeated MEGAN ANDERSON via Submission  
+  at 3:24 of round 1
+  Key stats:
+  - FELICIA SPENCER landed 22 significant strikes
+  - MEGAN ANDERSON landed 3 significant strikes
+  - Knockdowns: FELICIA SPENCER 0,  MEGAN ANDERSON 0
+  - Takedowns: FELICIA SPENCER 1,  MEGAN ANDERSON 0

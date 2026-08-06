@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Smith vs. Rakic
+    Date: August 29, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MALLORY MARTIN defeated HANNAH CIFERS via Submission  
+  at 1:33 of round 2
+  Key stats:
+  - MALLORY MARTIN landed 22 significant strikes
+  - HANNAH CIFERS landed 49 significant strikes
+  - Knockdowns: MALLORY MARTIN 0,  HANNAH CIFERS 1
+  - Takedowns: MALLORY MARTIN 1,  HANNAH CIFERS 0
+  Bonus: perf

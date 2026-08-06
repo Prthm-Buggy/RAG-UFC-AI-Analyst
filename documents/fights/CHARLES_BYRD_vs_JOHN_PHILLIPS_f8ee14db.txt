@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Werdum vs. Volkov
+    Date: March 17, 2018
+    Location: London, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: CHARLES BYRD defeated JOHN PHILLIPS via Submission  
+  at 3:58 of round 1
+  Key stats:
+  - CHARLES BYRD landed 11 significant strikes
+  - JOHN PHILLIPS landed 0 significant strikes
+  - Knockdowns: CHARLES BYRD 0,  JOHN PHILLIPS 0
+  - Takedowns: CHARLES BYRD 1,  JOHN PHILLIPS 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Werdum vs. Tybura
+    Date: November 18, 2017
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: TAI TUIVASA defeated RASHAD COULTER via KO/TKO  
+  at 4:35 of round 1
+  Key stats:
+  - TAI TUIVASA landed 22 significant strikes
+  - RASHAD COULTER landed 10 significant strikes
+  - Knockdowns: TAI TUIVASA 1,  RASHAD COULTER 0
+  - Takedowns: TAI TUIVASA 0,  RASHAD COULTER 0
+  Bonus: perf

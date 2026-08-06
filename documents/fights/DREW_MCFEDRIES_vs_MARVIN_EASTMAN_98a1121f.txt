@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Rampage vs Team Forrest Finale
+    Date: June 21, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DREW MCFEDRIES defeated MARVIN EASTMAN via KO/TKO  
+  at 1:08 of round 1
+  Key stats:
+  - DREW MCFEDRIES landed 19 significant strikes
+  - MARVIN EASTMAN landed 3 significant strikes
+  - Knockdowns: DREW MCFEDRIES 1,  MARVIN EASTMAN 0
+  - Takedowns: DREW MCFEDRIES 1,  MARVIN EASTMAN 1
+  Bonus: ko

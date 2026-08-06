@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tsarukyan vs. Hooker
+    Date: November 22, 2025
+    Location: Doha, Qatar
+    Weight Class: Welterweight
+    
+
+    Result: MYKTYBEK OROLBAI defeated JACK HERMANSSON via KO/TKO  
+  at 2:46 of round 1
+  Key stats:
+  - MYKTYBEK OROLBAI landed 15 significant strikes
+  - JACK HERMANSSON landed 19 significant strikes
+  - Knockdowns: MYKTYBEK OROLBAI 1,  JACK HERMANSSON 0
+  - Takedowns: MYKTYBEK OROLBAI 0,  JACK HERMANSSON 0

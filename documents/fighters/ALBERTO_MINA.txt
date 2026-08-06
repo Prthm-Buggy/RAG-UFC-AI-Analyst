@@ -1,0 +1,11 @@
+Fighter: ALBERTO MINA
+  Date of Birth: 1982-05-02
+  Career record: 4
+  First fight: 2014-08-23
+  Last fight: 2018-05-12
+
+Career Statistics:
+- Significant Strikes Landed :131
+- Total takedowns landed :5
+- Knockdowns :3
+- Submission Attempts :0

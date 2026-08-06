@@ -1,0 +1,14 @@
+Event: UFC 94: St-Pierre vs Penn 2
+    Date: January 31, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: LYOTO MACHIDA defeated THIAGO SILVA via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - LYOTO MACHIDA landed 24 significant strikes
+  - THIAGO SILVA landed 2 significant strikes
+  - Knockdowns: LYOTO MACHIDA 2,  THIAGO SILVA 0
+  - Takedowns: LYOTO MACHIDA 2,  THIAGO SILVA 0
+  Bonus: ko

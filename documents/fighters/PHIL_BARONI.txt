@@ -1,0 +1,11 @@
+Fighter: PHIL BARONI
+  Date of Birth: 1976-04-16
+  Career record: 10
+  First fight: 2001-02-23
+  Last fight: 2011-01-01
+
+Career Statistics:
+- Significant Strikes Landed :253
+- Total takedowns landed :8
+- Knockdowns :5
+- Submission Attempts :3

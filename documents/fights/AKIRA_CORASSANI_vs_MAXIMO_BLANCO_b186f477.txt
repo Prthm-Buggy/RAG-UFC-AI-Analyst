@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Rousey vs. Team Tate Finale
+    Date: November 30, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: AKIRA CORASSANI defeated MAXIMO BLANCO via DQ  
+  at 0:25 of round 1
+  Key stats:
+  - AKIRA CORASSANI landed 1 significant strikes
+  - MAXIMO BLANCO landed 5 significant strikes
+  - Knockdowns: AKIRA CORASSANI 0,  MAXIMO BLANCO 0
+  - Takedowns: AKIRA CORASSANI 0,  MAXIMO BLANCO 1

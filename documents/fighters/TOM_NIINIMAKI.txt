@@ -1,0 +1,11 @@
+Fighter: TOM NIINIMAKI
+  Date of Birth: 1982-07-25
+  Career record: 4
+  First fight: 2013-11-30
+  Last fight: 2014-12-20
+
+Career Statistics:
+- Significant Strikes Landed :58
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

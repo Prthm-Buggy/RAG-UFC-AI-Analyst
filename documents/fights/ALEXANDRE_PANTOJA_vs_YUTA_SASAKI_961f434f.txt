@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs. Ponzinibbio
+    Date: November 17, 2018
+    Location: Buenos Aires, Buenos Aires, Argentina
+    Weight Class: Flyweight
+    
+
+    Result: ALEXANDRE PANTOJA defeated YUTA SASAKI via Submission  
+  at 2:18 of round 1
+  Key stats:
+  - ALEXANDRE PANTOJA landed 4 significant strikes
+  - YUTA SASAKI landed 7 significant strikes
+  - Knockdowns: ALEXANDRE PANTOJA 0,  YUTA SASAKI 0
+  - Takedowns: ALEXANDRE PANTOJA 0,  YUTA SASAKI 0

@@ -1,0 +1,11 @@
+Fighter: SHAMAR BAILEY
+  Date of Birth: 1982-09-22
+  Career record: 3
+  First fight: 2011-06-04
+  Last fight: 2011-11-19
+
+Career Statistics:
+- Significant Strikes Landed :71
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

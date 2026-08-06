@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Benavidez vs. Figueiredo
+    Date: February 29, 2020
+    Location: Norfolk, Virginia, USA
+    Weight Class: Featherweight
+    
+
+    Result: JORDAN GRIFFIN defeated TJ BROWN via Submission  
+  at 3:38 of round 2
+  Key stats:
+  - JORDAN GRIFFIN landed 15 significant strikes
+  - TJ BROWN landed 32 significant strikes
+  - Knockdowns: JORDAN GRIFFIN 0,  TJ BROWN 0
+  - Takedowns: JORDAN GRIFFIN 0,  TJ BROWN 7
+  Bonus: perf

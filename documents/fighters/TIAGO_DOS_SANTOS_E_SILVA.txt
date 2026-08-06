@@ -1,0 +1,11 @@
+Fighter: TIAGO DOS SANTOS E SILVA
+  Date of Birth: 1987-04-12
+  Career record: 4
+  First fight: 2014-07-26
+  Last fight: 2016-12-09
+
+Career Statistics:
+- Significant Strikes Landed :177
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

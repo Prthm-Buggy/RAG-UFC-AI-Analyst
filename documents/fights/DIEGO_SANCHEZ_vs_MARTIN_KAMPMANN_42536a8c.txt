@@ -1,0 +1,14 @@
+Event: UFC Live: Sanchez vs Kampmann
+    Date: March 03, 2011
+    Location: Louisville, Kentucky, USA
+    Weight Class: Welterweight
+    
+
+    Result: DIEGO SANCHEZ defeated MARTIN KAMPMANN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DIEGO SANCHEZ landed 51 significant strikes
+  - MARTIN KAMPMANN landed 77 significant strikes
+  - Knockdowns: DIEGO SANCHEZ 0,  MARTIN KAMPMANN 1
+  - Takedowns: DIEGO SANCHEZ 1,  MARTIN KAMPMANN 0
+  Bonus: fight

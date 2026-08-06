@@ -1,0 +1,14 @@
+Event: UFC 74: Respect
+    Date: August 25, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: THALES LEITES defeated RYAN JENSEN via Submission  
+  at 3:47 of round 1
+  Key stats:
+  - THALES LEITES landed 10 significant strikes
+  - RYAN JENSEN landed 11 significant strikes
+  - Knockdowns: THALES LEITES 0,  RYAN JENSEN 0
+  - Takedowns: THALES LEITES 3,  RYAN JENSEN 0
+  Bonus: sub

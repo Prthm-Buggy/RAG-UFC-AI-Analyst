@@ -1,0 +1,11 @@
+Fighter: JUANCAMILO RONDEROS
+  Date of Birth: 1995-02-17
+  Career record: 2
+  First fight: 2021-05-22
+  Last fight: 2023-02-18
+
+Career Statistics:
+- Significant Strikes Landed :12
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

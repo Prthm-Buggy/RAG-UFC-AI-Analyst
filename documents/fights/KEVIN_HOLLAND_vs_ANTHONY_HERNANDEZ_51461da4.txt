@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Harris
+    Date: May 16, 2020
+    Location: Jacksonville, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: KEVIN HOLLAND defeated ANTHONY HERNANDEZ via KO/TKO  
+  at 0:39 of round 1
+  Key stats:
+  - KEVIN HOLLAND landed 14 significant strikes
+  - ANTHONY HERNANDEZ landed 0 significant strikes
+  - Knockdowns: KEVIN HOLLAND 1,  ANTHONY HERNANDEZ 0
+  - Takedowns: KEVIN HOLLAND 0,  ANTHONY HERNANDEZ 0

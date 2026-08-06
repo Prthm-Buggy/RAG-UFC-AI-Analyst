@@ -1,0 +1,11 @@
+Fighter: DAN LAUZON
+  Date of Birth: 1988-03-30
+  Career record: 3
+  First fight: 2006-10-14
+  Last fight: 2010-05-29
+
+Career Statistics:
+- Significant Strikes Landed :35
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Undefeated Finale
+    Date: July 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: LUIS PENA defeated RICHIE SMULLEN via Submission  
+  at 3:32 of round 1
+  Key stats:
+  - LUIS PENA landed 8 significant strikes
+  - RICHIE SMULLEN landed 7 significant strikes
+  - Knockdowns: LUIS PENA 1,  RICHIE SMULLEN 0
+  - Takedowns: LUIS PENA 1,  RICHIE SMULLEN 2
+  Bonus: perf

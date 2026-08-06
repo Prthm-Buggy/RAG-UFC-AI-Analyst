@@ -1,0 +1,11 @@
+Fighter: JORDAN LEAVITT
+  Date of Birth: 1995-06-02
+  Career record: 10
+  First fight: 2020-12-05
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :161
+- Total takedowns landed :14
+- Knockdowns :1
+- Submission Attempts :4

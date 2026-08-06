@@ -1,0 +1,13 @@
+Event: UFC 10: The Tournament
+    Date: July 12, 1996
+    Location: Birmingham, Alabama, USA
+    Weight Class: Open Weight
+    
+
+    Result: DON FRYE defeated MARK HALL via KO/TKO  
+  at 10:21 of round 1
+  Key stats:
+  - DON FRYE landed 27 significant strikes
+  - MARK HALL landed 2 significant strikes
+  - Knockdowns: DON FRYE 0,  MARK HALL 0
+  - Takedowns: DON FRYE 1,  MARK HALL 0

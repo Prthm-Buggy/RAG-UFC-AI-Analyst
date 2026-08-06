@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs. Oleinik
+    Date: April 20, 2019
+    Location: Saint Petersburg, Saint Petersburg, Russia
+    Weight Class: Heavyweight
+    
+
+    Result: SERGEI PAVLOVICH defeated MARCELO GOLM via KO/TKO  
+  at 1:06 of round 1
+  Key stats:
+  - SERGEI PAVLOVICH landed 17 significant strikes
+  - MARCELO GOLM landed 5 significant strikes
+  - Knockdowns: SERGEI PAVLOVICH 1,  MARCELO GOLM 0
+  - Takedowns: SERGEI PAVLOVICH 0,  MARCELO GOLM 0
+  Bonus: perf

@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Strickland vs. Magomedov
+    Date : July 01, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Middleweight, Lightweight, Welterweight, Featherweight, Women's Featherweight, Women's Flyweight, Heavyweight
+
+    Fight Results:
+  - KAROL ROSA def. YANA SANTOS via Decision - Split(R3)
+- BENOIT SAINT DENIS def. ISMAEL BONFIM via Submission(R1)
+- ELVES BRENER def. GURAM KUTATELADZE via KO/TKO(R3)
+- NURSULTON RUZIBOEV def. BRUNNO FERREIRA via KO/TKO(R1)
+- GRANT DAWSON def. DAMIR ISMAGULOV via Decision - Unanimous(R3)
+- SEAN STRICKLAND def. ABUS MAGOMEDOV via KO/TKO(R2)
+- LUANA CAROLINA def. IVANA PETROVIC via Decision - Unanimous(R3)
+- JOANDERSON BRITO def. WESTIN WILSON via KO/TKO(R1)
+- RINAT FAKHRETDINOV def. KEVIN LEE via Submission(R1)
+- ALEXANDR ROMANOV def. BLAGOY IVANOV via Decision - Unanimous(R3)
+- MICHAEL MORALES def. MAX GRIFFIN via Decision - Unanimous(R3)
+- ARIANE DA SILVA def. MELISSA GATTO via Decision - Split(R3)

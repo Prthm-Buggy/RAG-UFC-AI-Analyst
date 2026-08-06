@@ -1,0 +1,18 @@
+Event : UFC 252: Miocic vs. Cormier 3
+    Date : August 15, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Heavyweight, Women's Strawweight, Featherweight, Lightweight
+
+    Fight Results:
+  - VIRNA JANDIROBA def. FELICE HERRIG via Submission(R1)
+- MARLON VERA def. SEAN O'MALLEY via KO/TKO(R1)
+- DANNY CHAVEZ def. TJ BROWN via Decision - Unanimous(R3)
+- MERAB DVALISHVILI def. JOHN DODSON via Decision - Unanimous(R3)
+- CHRIS DAUKAUS def. PARKER PORTER via KO/TKO(R1)
+- STIPE MIOCIC def. DANIEL CORMIER via Decision - Unanimous(R5)
+- DANIEL PINEDA def. HERBERT BURNS via KO/TKO(R2)
+- JAIRZINHO ROZENSTRUIK def. JUNIOR DOS SANTOS via KO/TKO(R2)
+- LIVINHA SOUZA def. ASHLEY YODER via Decision - Unanimous(R3)
+- VINC PICHEL def. JIM MILLER via Decision - Unanimous(R3)
+- KAI KAMAKA III def. TONY KELLEY via Decision - Unanimous(R3)

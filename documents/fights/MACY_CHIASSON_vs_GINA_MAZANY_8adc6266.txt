@@ -1,0 +1,13 @@
+Event: UFC 235: Jones vs. Smith
+    Date: March 02, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MACY CHIASSON defeated GINA MAZANY via KO/TKO  
+  at 1:49 of round 1
+  Key stats:
+  - MACY CHIASSON landed 25 significant strikes
+  - GINA MAZANY landed 14 significant strikes
+  - Knockdowns: MACY CHIASSON 1,  GINA MAZANY 0
+  - Takedowns: MACY CHIASSON 0,  GINA MAZANY 0

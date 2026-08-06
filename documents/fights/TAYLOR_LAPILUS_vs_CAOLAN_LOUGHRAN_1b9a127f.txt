@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gane vs. Spivac
+    Date: September 02, 2023
+    Location: Paris, Ile-de-France, France
+    Weight Class: Bantamweight
+    
+
+    Result: TAYLOR LAPILUS defeated CAOLAN LOUGHRAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - TAYLOR LAPILUS landed 84 significant strikes
+  - CAOLAN LOUGHRAN landed 48 significant strikes
+  - Knockdowns: TAYLOR LAPILUS 0,  CAOLAN LOUGHRAN 0
+  - Takedowns: TAYLOR LAPILUS 0,  CAOLAN LOUGHRAN 2

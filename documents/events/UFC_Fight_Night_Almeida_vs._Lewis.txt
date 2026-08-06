@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Almeida vs. Lewis
+    Date : November 04, 2023
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Number of Fights: 9
+    Weight Classes: Women's Strawweight, Welterweight, Lightweight, Catch Weight, Middleweight, Light Heavyweight, Heavyweight
+
+    Fight Results:
+  - CAIO BORRALHO def. ABUS MAGOMEDOV via Decision - Unanimous(R3)
+- NICOLAS DALBY def. GABRIEL BONFIM via KO/TKO(R2)
+- MARC DIAKIESE def. KAUE FERNANDES via Decision - Split(R3)
+- ANGELA HILL def. DENISE GOMES via Decision - Unanimous(R3)
+- JAILTON ALMEIDA def. DERRICK LEWIS via Decision - Unanimous(R5)
+- VITOR PETRINO def. MODESTAS BUKAUSKAS via KO/TKO(R2)
+- RODRIGO NASCIMENTO def. DON'TALE MAYES via Decision - Unanimous(R3)
+- ELVES BRENER def. KAYNAN KRUSCHEWSKY via KO/TKO(R1)
+- EDUARDA MOURA def. MONTSERRAT CONEJO RUIZ via KO/TKO(R2)

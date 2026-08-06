@@ -1,0 +1,14 @@
+Event: UFC Fight Night: McGregor vs Brandao
+    Date: July 19, 2014
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Middleweight
+    
+
+    Result: CATHAL PENDRED defeated MIKE KING via Submission  
+  at 3:33 of round 2
+  Key stats:
+  - CATHAL PENDRED landed 11 significant strikes
+  - MIKE KING landed 38 significant strikes
+  - Knockdowns: CATHAL PENDRED 0,  MIKE KING 1
+  - Takedowns: CATHAL PENDRED 3,  MIKE KING 1
+  Bonus: fight

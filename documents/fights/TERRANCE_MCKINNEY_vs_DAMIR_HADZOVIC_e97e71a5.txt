@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Adesanya vs. Imavov
+    Date: February 01, 2025
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Weight Class: Lightweight
+    
+
+    Result: TERRANCE MCKINNEY defeated DAMIR HADZOVIC via KO/TKO  
+  at 2:01 of round 1
+  Key stats:
+  - TERRANCE MCKINNEY landed 54 significant strikes
+  - DAMIR HADZOVIC landed 4 significant strikes
+  - Knockdowns: TERRANCE MCKINNEY 0,  DAMIR HADZOVIC 0
+  - Takedowns: TERRANCE MCKINNEY 0,  DAMIR HADZOVIC 1

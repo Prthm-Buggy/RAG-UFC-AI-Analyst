@@ -1,0 +1,14 @@
+Event: UFC 325: Volkanovski vs. Lopes 2
+    Date: January 31, 2026
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Lightweight
+    
+
+    Result: QUILLAN SALKILLD defeated JAMIE MULLARKEY via Submission  
+  at 3:02 of round 1
+  Key stats:
+  - QUILLAN SALKILLD landed 5 significant strikes
+  - JAMIE MULLARKEY landed 1 significant strikes
+  - Knockdowns: QUILLAN SALKILLD 0,  JAMIE MULLARKEY 0
+  - Takedowns: QUILLAN SALKILLD 2,  JAMIE MULLARKEY 1
+  Bonus: perf

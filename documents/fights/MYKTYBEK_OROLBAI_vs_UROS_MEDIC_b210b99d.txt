@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Allen vs. Craig
+    Date: November 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MYKTYBEK OROLBAI defeated UROS MEDIC via Submission  
+  at 4:12 of round 2
+  Key stats:
+  - MYKTYBEK OROLBAI landed 8 significant strikes
+  - UROS MEDIC landed 14 significant strikes
+  - Knockdowns: MYKTYBEK OROLBAI 0,  UROS MEDIC 0
+  - Takedowns: MYKTYBEK OROLBAI 7,  UROS MEDIC 0

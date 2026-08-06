@@ -1,0 +1,14 @@
+Event: UFC 319: Du Plessis vs. Chimaev
+    Date: August 16, 2025
+    Location: Chicago, Illinois, USA
+    Weight Class: Middleweight
+    
+
+    Result: KHAMZAT CHIMAEV defeated DRICUS DU PLESSIS via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - KHAMZAT CHIMAEV landed 37 significant strikes
+  - DRICUS DU PLESSIS landed 13 significant strikes
+  - Knockdowns: KHAMZAT CHIMAEV 0,  DRICUS DU PLESSIS 0
+  - Takedowns: KHAMZAT CHIMAEV 12,  DRICUS DU PLESSIS 1
+  Bonus: belt

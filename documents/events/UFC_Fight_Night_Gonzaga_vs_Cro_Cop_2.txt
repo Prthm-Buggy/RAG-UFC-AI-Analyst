@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Gonzaga vs Cro Cop 2
+    Date : April 11, 2015
+    Location: Krakow, Poland
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Welterweight, Women's Strawweight, Light Heavyweight, Middleweight, Featherweight, Lightweight
+
+    Fight Results:
+  - ALEKSANDRA ALBU def. IZABELA BADUREK via Submission(R2)
+- STEVIE RAY def. MARCIN BANDEL via KO/TKO(R2)
+- SERGIO MORAES def. MICKAEL LEBOUT via Decision - Unanimous(R3)
+- PAWEL PAWLAK def. SHELDON WESTCOTT via Decision - Unanimous(R3)
+- LEON EDWARDS def. SETH BACZYNSKI via KO/TKO(R1)
+- JIMI MANUWA def. JAN BLACHOWICZ via Decision - Unanimous(R3)
+- BARTOSZ FABINSKI def. GARRETH MCLELLAN via Decision - Unanimous(R3)
+- MARYNA MOROZ def. JOANNE WOOD via Submission(R1)
+- YAOTZIN MEZA def. DAMIAN STASIAK via Decision - Unanimous(R3)
+- ANTHONY HAMILTON def. DANIEL OMIELANCZUK via Decision - Unanimous(R3)
+- MIRKO FILIPOVIC def. GABRIEL GONZAGA via KO/TKO(R3)
+- TAYLOR LAPILUS def. ROCKY LEE via Decision - Unanimous(R3)

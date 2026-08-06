@@ -1,0 +1,14 @@
+Event: UFC 256: Figueiredo vs. Moreno
+    Date: December 12, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: RAFAEL FIZIEV defeated RENATO MOICANO via KO/TKO  
+  at 4:05 of round 1
+  Key stats:
+  - RAFAEL FIZIEV landed 21 significant strikes
+  - RENATO MOICANO landed 15 significant strikes
+  - Knockdowns: RAFAEL FIZIEV 1,  RENATO MOICANO 0
+  - Takedowns: RAFAEL FIZIEV 0,  RENATO MOICANO 0
+  Bonus: perf

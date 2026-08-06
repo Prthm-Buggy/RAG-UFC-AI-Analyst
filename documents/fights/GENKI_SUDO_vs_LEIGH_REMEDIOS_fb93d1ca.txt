@@ -1,0 +1,13 @@
+Event: UFC 38: Brawl at the Hall
+    Date: July 13, 2002
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: GENKI SUDO defeated LEIGH REMEDIOS via Submission  
+  at 1:38 of round 2
+  Key stats:
+  - GENKI SUDO landed 9 significant strikes
+  - LEIGH REMEDIOS landed 5 significant strikes
+  - Knockdowns: GENKI SUDO 0,  LEIGH REMEDIOS 0
+  - Takedowns: GENKI SUDO 2,  LEIGH REMEDIOS 0

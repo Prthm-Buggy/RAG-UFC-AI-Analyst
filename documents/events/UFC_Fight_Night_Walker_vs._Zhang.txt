@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Walker vs. Zhang
+    Date : August 23, 2025
+    Location: Shanghai, Hebei, China
+    Number of Fights: 12
+    Weight Classes: Heavyweight, Bantamweight, Featherweight, Middleweight, Flyweight, Welterweight, Light Heavyweight, Catch Weight, Lightweight
+
+    Fight Results:
+  - GAUGE YOUNG def. MAHESHATE via Decision - Unanimous(R3)
+- JOHNNY WALKER def. ZHANG MINGYANG via KO/TKO(R2)
+- CHARLES JOHNSON def. LONE'ER KAVANAGH via KO/TKO(R2)
+- SERGEI PAVLOVICH def. WALDO CORTES ACOSTA via Decision - Unanimous(R3)
+- SUYOUNG YOU def. XIAO LONG via Decision - Unanimous(R3)
+- URAN SATYBALDIEV def. DIYAR NURGOZHAY via Submission(R1)
+- KYLE DAUKAUS def. MICHEL PEREIRA via KO/TKO(R1)
+- YIZHA def. WESTIN WILSON via KO/TKO(R1)
+- ALJAMAIN STERLING def. BRIAN ORTEGA via Decision - Unanimous(R5)
+- RONGZHU def. AUSTIN HUBBARD via Decision - Unanimous(R3)
+- SUMUDAERJI def. KEVIN BORJAS via Decision - Unanimous(R3)
+- TAIYILAKE NUERAJI def. KIEFER CROSBIE via KO/TKO(R1)

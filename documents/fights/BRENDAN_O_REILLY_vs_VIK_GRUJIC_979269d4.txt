@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Miocic vs Hunt
+    Date: May 09, 2015
+    Location: Adelaide, South Australia, Australia
+    Weight Class: Welterweight
+    
+
+    Result: BRENDAN O'REILLY defeated VIK GRUJIC via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BRENDAN O'REILLY landed 42 significant strikes
+  - VIK GRUJIC landed 59 significant strikes
+  - Knockdowns: BRENDAN O'REILLY 0,  VIK GRUJIC 0
+  - Takedowns: BRENDAN O'REILLY 6,  VIK GRUJIC 1

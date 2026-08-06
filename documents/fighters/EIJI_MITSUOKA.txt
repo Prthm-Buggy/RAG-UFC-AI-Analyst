@@ -1,0 +1,11 @@
+Fighter: EIJI MITSUOKA
+  Date of Birth: 1976-01-01
+  Career record: 2
+  First fight: 2012-02-25
+  Last fight: 2012-08-11
+
+Career Statistics:
+- Significant Strikes Landed :37
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :1

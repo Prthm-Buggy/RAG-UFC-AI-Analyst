@@ -1,0 +1,11 @@
+Fighter: KERRY SCHALL
+  Date of Birth: 1971-08-09
+  Career record: 1
+  First fight: 2005-11-05
+  Last fight: 2005-11-05
+
+Career Statistics:
+- Significant Strikes Landed :8
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

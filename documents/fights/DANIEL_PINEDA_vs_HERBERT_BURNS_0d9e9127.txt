@@ -1,0 +1,14 @@
+Event: UFC 252: Miocic vs. Cormier 3
+    Date: August 15, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DANIEL PINEDA defeated HERBERT BURNS via KO/TKO  
+  at 4:37 of round 2
+  Key stats:
+  - DANIEL PINEDA landed 57 significant strikes
+  - HERBERT BURNS landed 10 significant strikes
+  - Knockdowns: DANIEL PINEDA 0,  HERBERT BURNS 0
+  - Takedowns: DANIEL PINEDA 1,  HERBERT BURNS 3
+  Bonus: perf

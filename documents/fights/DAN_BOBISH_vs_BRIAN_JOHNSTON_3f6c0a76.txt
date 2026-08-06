@@ -1,0 +1,13 @@
+Event: UFC 14: Showdown
+    Date: July 27, 1997
+    Location: Birmingham, Alabama, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DAN BOBISH defeated BRIAN JOHNSTON via Submission  
+  at 2:10 of round 1
+  Key stats:
+  - DAN BOBISH landed 9 significant strikes
+  - BRIAN JOHNSTON landed 6 significant strikes
+  - Knockdowns: DAN BOBISH 0,  BRIAN JOHNSTON 0
+  - Takedowns: DAN BOBISH 1,  BRIAN JOHNSTON 0

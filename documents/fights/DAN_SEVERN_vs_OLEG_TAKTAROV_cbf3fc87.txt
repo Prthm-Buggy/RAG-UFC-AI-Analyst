@@ -1,0 +1,13 @@
+Event: UFC 5: The Return of the Beast
+    Date: April 07, 1995
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Open Weight
+    
+
+    Result: DAN SEVERN defeated OLEG TAKTAROV via TKO - Doctor's Stoppage  
+  at 4:21 of round 1
+  Key stats:
+  - DAN SEVERN landed 9 significant strikes
+  - OLEG TAKTAROV landed 0 significant strikes
+  - Knockdowns: DAN SEVERN 0,  OLEG TAKTAROV 0
+  - Takedowns: DAN SEVERN 1,  OLEG TAKTAROV 0

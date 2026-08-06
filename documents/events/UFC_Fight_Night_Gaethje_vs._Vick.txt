@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Gaethje vs. Vick
+    Date : August 25, 2018
+    Location: Lincoln, Nebraska, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Women's Flyweight, Lightweight, Welterweight, Middleweight, Women's Strawweight, Featherweight, Flyweight
+
+    Fight Results:
+  - CORY SANDHAGEN def. IURI ALCANTARA via KO/TKO(R2)
+- DEIVESON FIGUEIREDO def. JOHN MORAGA via KO/TKO(R2)
+- JOANNE WOOD def. KALINDRA FARIA via Submission(R1)
+- DREW DOBER def. JON TUCK via Decision - Unanimous(R3)
+- JUSTIN GAETHJE def. JAMES VICK via KO/TKO(R1)
+- MICKEY GALL def. GEORGE SULLIVAN via Submission(R1)
+- RANI YAHYA def. LUKE SANDERS via Submission(R1)
+- ANDREW SANCHEZ def. MARKUS PEREZ via Decision - Unanimous(R3)
+- MICHAEL JOHNSON def. ANDRE FILI via Decision - Split(R3)
+- BRYAN BARBERENA def. JAKE ELLENBERGER via KO/TKO(R1)
+- JAMES KRAUSE def. WARLLEY ALVES via KO/TKO(R2)
+- CORTNEY CASEY def. ANGELA HILL via Decision - Split(R3)
+- ERYK ANDERS def. TIM WILLIAMS via KO/TKO(R3)

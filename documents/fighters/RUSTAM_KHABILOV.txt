@@ -1,0 +1,11 @@
+Fighter: RUSTAM KHABILOV
+  Date of Birth: 1986-11-04
+  Career record: 13
+  First fight: 2012-12-15
+  Last fight: 2019-11-09
+
+Career Statistics:
+- Significant Strikes Landed :339
+- Total takedowns landed :45
+- Knockdowns :1
+- Submission Attempts :1

@@ -1,0 +1,14 @@
+Event: UFC 51: Super Saturday
+    Date: February 05, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: EVAN TANNER defeated DAVID TERRELL via KO/TKO  
+  at 4:35 of round 1
+  Key stats:
+  - EVAN TANNER landed 19 significant strikes
+  - DAVID TERRELL landed 4 significant strikes
+  - Knockdowns: EVAN TANNER 0,  DAVID TERRELL 0
+  - Takedowns: EVAN TANNER 0,  DAVID TERRELL 2
+  Bonus: belt

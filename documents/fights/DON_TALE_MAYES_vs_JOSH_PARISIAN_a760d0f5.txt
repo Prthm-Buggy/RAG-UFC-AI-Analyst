@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Daukaus
+    Date: December 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DON'TALE MAYES defeated JOSH PARISIAN via KO/TKO  
+  at 3:26 of round 3
+  Key stats:
+  - DON'TALE MAYES landed 25 significant strikes
+  - JOSH PARISIAN landed 10 significant strikes
+  - Knockdowns: DON'TALE MAYES 0,  JOSH PARISIAN 0
+  - Takedowns: DON'TALE MAYES 6,  JOSH PARISIAN 0

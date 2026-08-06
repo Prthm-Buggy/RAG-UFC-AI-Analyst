@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Volkov
+    Date: February 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: DEVONTE SMITH defeated JUSTIN JAYNES via TKO - Doctor's Stoppage  
+  at 3:38 of round 2
+  Key stats:
+  - DEVONTE SMITH landed 34 significant strikes
+  - JUSTIN JAYNES landed 11 significant strikes
+  - Knockdowns: DEVONTE SMITH 0,  JUSTIN JAYNES 0
+  - Takedowns: DEVONTE SMITH 1,  JUSTIN JAYNES 0

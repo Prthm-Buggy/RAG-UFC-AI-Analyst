@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hermansson vs. Cannonier
+    Date: September 28, 2019
+    Location: Copenhagen, Denmark
+    Weight Class: Middleweight
+    
+
+    Result: JARED CANNONIER defeated JACK HERMANSSON via KO/TKO  
+  at 0:27 of round 2
+  Key stats:
+  - JARED CANNONIER landed 28 significant strikes
+  - JACK HERMANSSON landed 20 significant strikes
+  - Knockdowns: JARED CANNONIER 1,  JACK HERMANSSON 0
+  - Takedowns: JARED CANNONIER 0,  JACK HERMANSSON 1
+  Bonus: perf

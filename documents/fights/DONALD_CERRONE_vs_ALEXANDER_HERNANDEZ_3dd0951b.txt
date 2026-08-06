@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cejudo vs. Dillashaw
+    Date: January 19, 2019
+    Location: Brooklyn, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: DONALD CERRONE defeated ALEXANDER HERNANDEZ via KO/TKO  
+  at 3:43 of round 2
+  Key stats:
+  - DONALD CERRONE landed 80 significant strikes
+  - ALEXANDER HERNANDEZ landed 49 significant strikes
+  - Knockdowns: DONALD CERRONE 1,  ALEXANDER HERNANDEZ 0
+  - Takedowns: DONALD CERRONE 1,  ALEXANDER HERNANDEZ 0
+  Bonus: fight

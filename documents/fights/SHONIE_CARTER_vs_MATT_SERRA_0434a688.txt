@@ -1,0 +1,13 @@
+Event: UFC 31: Locked and Loaded
+    Date: May 04, 2001
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: SHONIE CARTER defeated MATT SERRA via KO/TKO  
+  at 4:51 of round 3
+  Key stats:
+  - SHONIE CARTER landed 18 significant strikes
+  - MATT SERRA landed 10 significant strikes
+  - Knockdowns: SHONIE CARTER 2,  MATT SERRA 0
+  - Takedowns: SHONIE CARTER 2,  MATT SERRA 2

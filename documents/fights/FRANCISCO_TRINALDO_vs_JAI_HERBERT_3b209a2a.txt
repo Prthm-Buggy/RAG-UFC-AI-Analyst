@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Whittaker vs. Till
+    Date: July 25, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Lightweight
+    
+
+    Result: FRANCISCO TRINALDO defeated JAI HERBERT via KO/TKO  
+  at 1:30 of round 3
+  Key stats:
+  - FRANCISCO TRINALDO landed 30 significant strikes
+  - JAI HERBERT landed 21 significant strikes
+  - Knockdowns: FRANCISCO TRINALDO 1,  JAI HERBERT 1
+  - Takedowns: FRANCISCO TRINALDO 2,  JAI HERBERT 0

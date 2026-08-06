@@ -1,0 +1,18 @@
+Event : UFC on FOX: Lawler vs Brown
+    Date : July 26, 2014
+    Location: San Jose, California, USA
+    Number of Fights: 11
+    Weight Classes: Featherweight, Lightweight, Light Heavyweight, Welterweight, Women's Strawweight
+
+    Fight Results:
+  - KING GREEN def. JOSH THOMSON via Decision - Split(R3)
+- GILBERT BURNS def. ANDREAS STAHL via Decision - Unanimous(R3)
+- TIM MEANS def. HERNANI PERPETUO via Decision - Unanimous(R3)
+- JOANNA JEDRZEJCZYK def. JULIANA LIMA via Decision - Unanimous(R3)
+- ROBBIE LAWLER def. MATT BROWN via Decision - Unanimous(R5)
+- JORGE MASVIDAL def. DARON CRUICKSHANK via Decision - Unanimous(R3)
+- NOAD LAHAT def. STEVEN SILER via Decision - Unanimous(R3)
+- TIAGO DOS SANTOS E SILVA def. AKBARH ARREOLA via Decision - Unanimous(R3)
+- PATRICK CUMMINS def. KYLE KINGSBURY via Decision - Unanimous(R3)
+- ANTHONY JOHNSON def. ROGERIO NOGUEIRA via KO/TKO(R1)
+- DENNIS BERMUDEZ def. CLAY GUIDA via Submission(R2)

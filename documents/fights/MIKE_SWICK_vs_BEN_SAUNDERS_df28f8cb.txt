@@ -1,0 +1,14 @@
+Event: UFC 99: The Comeback
+    Date: June 13, 2009
+    Location: Cologne, North Rhine-Westphalia, Germany
+    Weight Class: Welterweight
+    
+
+    Result: MIKE SWICK defeated BEN SAUNDERS via KO/TKO  
+  at 3:47 of round 2
+  Key stats:
+  - MIKE SWICK landed 10 significant strikes
+  - BEN SAUNDERS landed 17 significant strikes
+  - Knockdowns: MIKE SWICK 1,  BEN SAUNDERS 0
+  - Takedowns: MIKE SWICK 1,  BEN SAUNDERS 0
+  Bonus: ko

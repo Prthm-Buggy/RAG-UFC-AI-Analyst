@@ -1,0 +1,11 @@
+Fighter: ROUSIMAR PALHARES
+  Date of Birth: 1980-02-26
+  Career record: 12
+  First fight: 2008-05-24
+  Last fight: 2013-10-09
+
+Career Statistics:
+- Significant Strikes Landed :131
+- Total takedowns landed :14
+- Knockdowns :1
+- Submission Attempts :16

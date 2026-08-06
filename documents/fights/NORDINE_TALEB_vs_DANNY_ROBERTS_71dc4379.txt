@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lawler vs. Dos Anjos
+    Date: December 16, 2017
+    Location: Winnipeg, Manitoba, Canada
+    Weight Class: Welterweight
+    
+
+    Result: NORDINE TALEB defeated DANNY ROBERTS via KO/TKO  
+  at 0:59 of round 1
+  Key stats:
+  - NORDINE TALEB landed 5 significant strikes
+  - DANNY ROBERTS landed 1 significant strikes
+  - Knockdowns: NORDINE TALEB 1,  DANNY ROBERTS 0
+  - Takedowns: NORDINE TALEB 0,  DANNY ROBERTS 0
+  Bonus: perf

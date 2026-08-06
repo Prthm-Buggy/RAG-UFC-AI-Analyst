@@ -1,0 +1,13 @@
+Event: UFC 110: Nogueira vs Velasquez
+    Date: February 20, 2010
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Light Heavyweight
+    
+
+    Result: KRZYSZTOF SOSZYNSKI defeated STEPHAN BONNAR via TKO - Doctor's Stoppage  
+  at 1:04 of round 3
+  Key stats:
+  - KRZYSZTOF SOSZYNSKI landed 48 significant strikes
+  - STEPHAN BONNAR landed 36 significant strikes
+  - Knockdowns: KRZYSZTOF SOSZYNSKI 0,  STEPHAN BONNAR 0
+  - Takedowns: KRZYSZTOF SOSZYNSKI 0,  STEPHAN BONNAR 2

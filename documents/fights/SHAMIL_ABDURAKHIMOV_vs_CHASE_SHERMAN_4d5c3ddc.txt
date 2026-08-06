@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bisping vs. Gastelum
+    Date: November 25, 2017
+    Location: Shanghai, Hebei, China
+    Weight Class: Heavyweight
+    
+
+    Result: SHAMIL ABDURAKHIMOV defeated CHASE SHERMAN via KO/TKO  
+  at 1:24 of round 1
+  Key stats:
+  - SHAMIL ABDURAKHIMOV landed 6 significant strikes
+  - CHASE SHERMAN landed 5 significant strikes
+  - Knockdowns: SHAMIL ABDURAKHIMOV 1,  CHASE SHERMAN 0
+  - Takedowns: SHAMIL ABDURAKHIMOV 0,  CHASE SHERMAN 0

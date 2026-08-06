@@ -1,0 +1,14 @@
+Event: UFC 196: McGregor vs Diaz
+    Date: March 05, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: MIESHA TATE defeated HOLLY HOLM via Submission  
+  at 3:30 of round 5
+  Key stats:
+  - MIESHA TATE landed 40 significant strikes
+  - HOLLY HOLM landed 59 significant strikes
+  - Knockdowns: MIESHA TATE 0,  HOLLY HOLM 0
+  - Takedowns: MIESHA TATE 2,  HOLLY HOLM 0
+  Bonus: belt

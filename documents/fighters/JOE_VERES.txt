@@ -1,0 +1,11 @@
+Fighter: JOE VERES
+  Date of Birth: 1977-11-09
+  Career record: 2
+  First fight: 2007-09-19
+  Last fight: 2008-01-23
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

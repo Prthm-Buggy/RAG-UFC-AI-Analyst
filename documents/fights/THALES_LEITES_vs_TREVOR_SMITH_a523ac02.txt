@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Minotauro vs Nelson
+    Date: April 11, 2014
+    Location: Abu Dhabi, United Arab Emirates
+    Weight Class: Middleweight
+    
+
+    Result: THALES LEITES defeated TREVOR SMITH via KO/TKO  
+  at 0:45 of round 1
+  Key stats:
+  - THALES LEITES landed 5 significant strikes
+  - TREVOR SMITH landed 3 significant strikes
+  - Knockdowns: THALES LEITES 1,  TREVOR SMITH 0
+  - Takedowns: THALES LEITES 0,  TREVOR SMITH 0

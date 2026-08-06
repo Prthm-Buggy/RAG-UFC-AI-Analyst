@@ -1,0 +1,14 @@
+Event: UFC 276: Adesanya vs. Cannonier
+    Date: July 02, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ALEXANDER VOLKANOVSKI defeated MAX HOLLOWAY via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ALEXANDER VOLKANOVSKI landed 199 significant strikes
+  - MAX HOLLOWAY landed 127 significant strikes
+  - Knockdowns: ALEXANDER VOLKANOVSKI 0,  MAX HOLLOWAY 0
+  - Takedowns: ALEXANDER VOLKANOVSKI 0,  MAX HOLLOWAY 0
+  Bonus: belt

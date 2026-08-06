@@ -1,0 +1,13 @@
+Event: UFC Fight Night 1
+    Date: August 06, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: KENNY FLORIAN defeated ALEX KARALEXIS via TKO - Doctor's Stoppage  
+  at 2:52 of round 2
+  Key stats:
+  - KENNY FLORIAN landed 38 significant strikes
+  - ALEX KARALEXIS landed 18 significant strikes
+  - Knockdowns: KENNY FLORIAN 0,  ALEX KARALEXIS 0
+  - Takedowns: KENNY FLORIAN 1,  ALEX KARALEXIS 0

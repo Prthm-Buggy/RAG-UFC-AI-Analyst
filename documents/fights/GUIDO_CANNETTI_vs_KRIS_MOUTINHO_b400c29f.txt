@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Santos vs. Ankalaev
+    Date: March 12, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: GUIDO CANNETTI defeated KRIS MOUTINHO via KO/TKO  
+  at 2:07 of round 1
+  Key stats:
+  - GUIDO CANNETTI landed 28 significant strikes
+  - KRIS MOUTINHO landed 11 significant strikes
+  - Knockdowns: GUIDO CANNETTI 0,  KRIS MOUTINHO 0
+  - Takedowns: GUIDO CANNETTI 0,  KRIS MOUTINHO 0

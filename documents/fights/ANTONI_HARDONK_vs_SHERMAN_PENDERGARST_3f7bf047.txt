@@ -1,0 +1,13 @@
+Event: UFC 65: Bad Intentions
+    Date: November 18, 2006
+    Location: Sacramento, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ANTONI HARDONK defeated SHERMAN PENDERGARST via KO/TKO  
+  at 3:15 of round 1
+  Key stats:
+  - ANTONI HARDONK landed 10 significant strikes
+  - SHERMAN PENDERGARST landed 4 significant strikes
+  - Knockdowns: ANTONI HARDONK 1,  SHERMAN PENDERGARST 0
+  - Takedowns: ANTONI HARDONK 0,  SHERMAN PENDERGARST 1

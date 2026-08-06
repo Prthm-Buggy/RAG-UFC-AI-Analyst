@@ -1,0 +1,13 @@
+Event: UFC 14: Showdown
+    Date: July 27, 1997
+    Location: Birmingham, Alabama, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARK KERR defeated MOTI HORENSTEIN via KO/TKO  
+  at 2:22 of round 1
+  Key stats:
+  - MARK KERR landed 14 significant strikes
+  - MOTI HORENSTEIN landed 1 significant strikes
+  - Knockdowns: MARK KERR 0,  MOTI HORENSTEIN 0
+  - Takedowns: MARK KERR 1,  MOTI HORENSTEIN 0

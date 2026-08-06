@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lineker vs. Dodson
+    Date: October 01, 2016
+    Location: Portland, Oregon, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOHN LINEKER defeated JOHN DODSON via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - JOHN LINEKER landed 93 significant strikes
+  - JOHN DODSON landed 101 significant strikes
+  - Knockdowns: JOHN LINEKER 0,  JOHN DODSON 0
+  - Takedowns: JOHN LINEKER 0,  JOHN DODSON 0

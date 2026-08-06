@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lawler vs. Dos Anjos
+    Date: December 16, 2017
+    Location: Winnipeg, Manitoba, Canada
+    Weight Class: Featherweight
+    
+
+    Result: JOSH EMMETT defeated RICARDO LAMAS via KO/TKO  
+  at 4:33 of round 1
+  Key stats:
+  - JOSH EMMETT landed 10 significant strikes
+  - RICARDO LAMAS landed 17 significant strikes
+  - Knockdowns: JOSH EMMETT 1,  RICARDO LAMAS 0
+  - Takedowns: JOSH EMMETT 0,  RICARDO LAMAS 0

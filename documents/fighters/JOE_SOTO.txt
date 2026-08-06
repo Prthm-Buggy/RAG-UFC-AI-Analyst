@@ -1,0 +1,11 @@
+Fighter: JOE SOTO
+  Date of Birth: 1987-03-22
+  Career record: 8
+  First fight: 2014-08-30
+  Last fight: 2018-02-03
+
+Career Statistics:
+- Significant Strikes Landed :238
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :9

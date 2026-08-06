@@ -1,0 +1,11 @@
+Fighter: JAMES MULHERON
+  Date of Birth: 1988-02-20
+  Career record: 1
+  First fight: 2017-07-16
+  Last fight: 2017-07-16
+
+Career Statistics:
+- Significant Strikes Landed :36
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

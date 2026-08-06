@@ -1,0 +1,21 @@
+Event : UFC 267: Blachowicz vs. Teixeira
+    Date : October 30, 2021
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 14
+    Weight Classes: Middleweight, Featherweight, Flyweight, Welterweight, Women's Strawweight, Light Heavyweight, Lightweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - ANDRE PETROSKI def. HU YAOZONG via Submission(R3)
+- MICHAL OLEKSIEJCZUK def. SHAMIL GAMZATOV via KO/TKO(R1)
+- ELIZEU ZALESKI DOS SANTOS def. BENOIT SAINT DENIS via Decision - Unanimous(R3)
+- TAGIR ULANBEKOV def. ALLAN NASCIMENTO via Decision - Split(R3)
+- ISLAM MAKHACHEV def. DAN HOOKER via Submission(R1)
+- LERONE MURPHY def. MAKWAN AMIRKHANI via KO/TKO(R2)
+- PETR YAN def. CORY SANDHAGEN via Decision - Unanimous(R5)
+- MAGOMED ANKALAEV def. VOLKAN OEZDEMIR via Decision - Unanimous(R3)
+- ALBERT DURAEV def. ROMAN KOPYLOV via Decision - Unanimous(R3)
+- AMANDA RIBAS def. VIRNA JANDIROBA via Decision - Unanimous(R3)
+- KHAMZAT CHIMAEV def. LI JINGLIANG via Submission(R1)
+- ALEXANDER VOLKOV def. MARCIN TYBURA via Decision - Unanimous(R3)
+- ZUBAIRA TUKHUGOV def. RICARDO RAMOS via Decision - Unanimous(R3)
+- GLOVER TEIXEIRA def. JAN BLACHOWICZ via Submission(R2)

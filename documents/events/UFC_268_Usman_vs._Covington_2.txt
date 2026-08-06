@@ -1,0 +1,21 @@
+Event : UFC 268: Usman vs. Covington 2
+    Date : November 06, 2021
+    Location: New York City, New York, USA
+    Number of Fights: 14
+    Weight Classes: Heavyweight, Bantamweight, Welterweight, Flyweight, Light Heavyweight, Lightweight, Featherweight, Middleweight, Women's Strawweight
+
+    Fight Results:
+  - NASSOURDINE IMAVOV def. EDMEN SHAHBAZYAN via KO/TKO(R2)
+- IAN MACHADO GARRY def. JORDAN WILLIAMS via KO/TKO(R1)
+- CHRIS CURTIS def. PHIL HAWES via KO/TKO(R1)
+- ALEX PEREIRA def. ANDREAS MICHAILIDIS via KO/TKO(R2)
+- KING GREEN def. AL IAQUINTA via KO/TKO(R1)
+- ROSE NAMAJUNAS def. ZHANG WEILI via Decision - Split(R5)
+- SHANE BURGOS def. BILLY QUARANTILLO via Decision - Unanimous(R3)
+- JUSTIN GAETHJE def. MICHAEL CHANDLER via Decision - Unanimous(R3)
+- KAMARU USMAN def. COLBY COVINGTON via Decision - Unanimous(R5)
+- ODE OSBOURNE def. CJ VERGARA via Decision - Unanimous(R3)
+- CHRIS BARNETT def. GIAN VILLANTE via KO/TKO(R2)
+- MARLON VERA def. FRANKIE EDGAR via KO/TKO(R3)
+- MELSIK BAGHDASARYAN def. BRUNO SOUZA via Decision - Unanimous(R3)
+- DUSTIN JACOBY def. JOHN ALLAN via Decision - Unanimous(R3)

@@ -1,0 +1,11 @@
+Fighter: OSKAR PIECHOTA
+  Date of Birth: 1990-01-24
+  Career record: 5
+  First fight: 2017-10-21
+  Last fight: 2019-12-14
+
+Career Statistics:
+- Significant Strikes Landed :126
+- Total takedowns landed :2
+- Knockdowns :3
+- Submission Attempts :5

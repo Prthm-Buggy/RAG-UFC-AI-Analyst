@@ -1,0 +1,14 @@
+Event: UFC 73: Stacked
+    Date: July 07, 2007
+    Location: Sacramento, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDERSON SILVA defeated NATE MARQUARDT via KO/TKO  
+  at 4:50 of round 1
+  Key stats:
+  - ANDERSON SILVA landed 10 significant strikes
+  - NATE MARQUARDT landed 3 significant strikes
+  - Knockdowns: ANDERSON SILVA 1,  NATE MARQUARDT 0
+  - Takedowns: ANDERSON SILVA 1,  NATE MARQUARDT 1
+  Bonus: belt

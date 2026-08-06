@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Burns vs. Morales
+    Date: May 17, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: MICHAEL MORALES defeated GILBERT BURNS via KO/TKO  
+  at 3:39 of round 1
+  Key stats:
+  - MICHAEL MORALES landed 33 significant strikes
+  - GILBERT BURNS landed 5 significant strikes
+  - Knockdowns: MICHAEL MORALES 2,  GILBERT BURNS 0
+  - Takedowns: MICHAEL MORALES 0,  GILBERT BURNS 1
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC 275: Teixeira vs. Prochazka
+    Date: June 11, 2022
+    Location: Kallang, Singapore
+    Weight Class: Lightweight
+    
+
+    Result: MAHESHATE defeated STEVE GARCIA via KO/TKO  
+  at 1:14 of round 1
+  Key stats:
+  - MAHESHATE landed 7 significant strikes
+  - STEVE GARCIA landed 7 significant strikes
+  - Knockdowns: MAHESHATE 2,  STEVE GARCIA 0
+  - Takedowns: MAHESHATE 0,  STEVE GARCIA 0
+  Bonus: perf

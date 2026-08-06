@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machado Garry vs. Prates
+    Date: April 26, 2025
+    Location: Kansas City, Missouri, USA
+    Weight Class: Welterweight
+    
+
+    Result: IAN MACHADO GARRY defeated CARLOS PRATES via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - IAN MACHADO GARRY landed 126 significant strikes
+  - CARLOS PRATES landed 63 significant strikes
+  - Knockdowns: IAN MACHADO GARRY 0,  CARLOS PRATES 0
+  - Takedowns: IAN MACHADO GARRY 4,  CARLOS PRATES 0

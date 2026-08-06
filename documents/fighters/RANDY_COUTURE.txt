@@ -1,0 +1,11 @@
+Fighter: RANDY COUTURE
+  Date of Birth: 1963-06-22
+  Career record: 24
+  First fight: 1997-05-30
+  Last fight: 2011-04-30
+
+Career Statistics:
+- Significant Strikes Landed :778
+- Total takedowns landed :52
+- Knockdowns :1
+- Submission Attempts :11

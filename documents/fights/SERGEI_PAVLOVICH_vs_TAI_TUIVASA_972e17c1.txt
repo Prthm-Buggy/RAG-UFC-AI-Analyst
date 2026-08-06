@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Thompson vs. Holland
+    Date: December 03, 2022
+    Location: Orlando, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: SERGEI PAVLOVICH defeated TAI TUIVASA via KO/TKO  
+  at 0:54 of round 1
+  Key stats:
+  - SERGEI PAVLOVICH landed 23 significant strikes
+  - TAI TUIVASA landed 2 significant strikes
+  - Knockdowns: SERGEI PAVLOVICH 2,  TAI TUIVASA 0
+  - Takedowns: SERGEI PAVLOVICH 0,  TAI TUIVASA 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Mir vs Duffee
+    Date: July 15, 2015
+    Location: San Diego, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANK MIR defeated TODD DUFFEE via KO/TKO  
+  at 1:13 of round 1
+  Key stats:
+  - FRANK MIR landed 16 significant strikes
+  - TODD DUFFEE landed 9 significant strikes
+  - Knockdowns: FRANK MIR 1,  TODD DUFFEE 0
+  - Takedowns: FRANK MIR 0,  TODD DUFFEE 0
+  Bonus: perf

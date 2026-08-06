@@ -1,0 +1,11 @@
+Fighter: MATT HUGHES
+  Date of Birth: 1973-10-13
+  Career record: 25
+  First fight: 1999-09-24
+  Last fight: 2011-09-24
+
+Career Statistics:
+- Significant Strikes Landed :531
+- Total takedowns landed :47
+- Knockdowns :3
+- Submission Attempts :16

@@ -1,0 +1,11 @@
+Fighter: CHRISTIAN AGUILERA
+  Date of Birth: 1991-11-25
+  Career record: 3
+  First fight: 2020-06-13
+  Last fight: 2021-05-08
+
+Career Statistics:
+- Significant Strikes Landed :27
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

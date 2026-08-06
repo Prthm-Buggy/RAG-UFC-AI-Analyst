@@ -1,0 +1,13 @@
+Event: UFC 58: USA vs Canada
+    Date: March 04, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TOM MURPHY defeated ICHO LARENAS via KO/TKO  
+  at 1:59 of round 3
+  Key stats:
+  - TOM MURPHY landed 30 significant strikes
+  - ICHO LARENAS landed 2 significant strikes
+  - Knockdowns: TOM MURPHY 0,  ICHO LARENAS 0
+  - Takedowns: TOM MURPHY 6,  ICHO LARENAS 0

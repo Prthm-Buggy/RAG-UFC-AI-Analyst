@@ -1,0 +1,13 @@
+Event: UFC 155: Dos Santos vs Velasquez II
+    Date: December 29, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DEREK BRUNSON defeated CHRIS LEBEN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DEREK BRUNSON landed 41 significant strikes
+  - CHRIS LEBEN landed 40 significant strikes
+  - Knockdowns: DEREK BRUNSON 0,  CHRIS LEBEN 0
+  - Takedowns: DEREK BRUNSON 4,  CHRIS LEBEN 0

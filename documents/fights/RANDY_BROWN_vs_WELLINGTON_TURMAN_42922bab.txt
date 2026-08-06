@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Emmett vs. Topuria
+    Date: June 24, 2023
+    Location: Jacksonville, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: RANDY BROWN defeated WELLINGTON TURMAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RANDY BROWN landed 64 significant strikes
+  - WELLINGTON TURMAN landed 55 significant strikes
+  - Knockdowns: RANDY BROWN 0,  WELLINGTON TURMAN 0
+  - Takedowns: RANDY BROWN 2,  WELLINGTON TURMAN 0

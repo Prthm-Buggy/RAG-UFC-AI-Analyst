@@ -1,0 +1,11 @@
+Fighter: TOM ASPINALL
+  Date of Birth: 1993-04-11
+  Career record: 9
+  First fight: 2020-07-25
+  Last fight: 2024-07-27
+
+Career Statistics:
+- Significant Strikes Landed :148
+- Total takedowns landed :4
+- Knockdowns :5
+- Submission Attempts :2

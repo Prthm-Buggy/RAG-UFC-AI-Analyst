@@ -1,0 +1,14 @@
+Event: UFC 289: Nunes vs. Aldana
+    Date: June 10, 2023
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AMANDA NUNES defeated IRENE ALDANA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - AMANDA NUNES landed 142 significant strikes
+  - IRENE ALDANA landed 41 significant strikes
+  - Knockdowns: AMANDA NUNES 0,  IRENE ALDANA 0
+  - Takedowns: AMANDA NUNES 6,  IRENE ALDANA 0
+  Bonus: belt

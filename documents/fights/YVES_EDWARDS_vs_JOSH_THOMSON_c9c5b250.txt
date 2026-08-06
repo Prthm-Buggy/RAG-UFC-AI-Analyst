@@ -1,0 +1,13 @@
+Event: UFC 49: Unfinished Business
+    Date: August 21, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: YVES EDWARDS defeated JOSH THOMSON via KO/TKO  
+  at 4:32 of round 1
+  Key stats:
+  - YVES EDWARDS landed 16 significant strikes
+  - JOSH THOMSON landed 13 significant strikes
+  - Knockdowns: YVES EDWARDS 1,  JOSH THOMSON 0
+  - Takedowns: YVES EDWARDS 0,  JOSH THOMSON 2

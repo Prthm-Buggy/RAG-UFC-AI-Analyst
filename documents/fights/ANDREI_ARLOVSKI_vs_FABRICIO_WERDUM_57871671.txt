@@ -1,0 +1,13 @@
+Event: UFC 70: Nations Collide
+    Date: April 21, 2007
+    Location: Manchester, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated FABRICIO WERDUM via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ANDREI ARLOVSKI landed 28 significant strikes
+  - FABRICIO WERDUM landed 23 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 1,  FABRICIO WERDUM 0
+  - Takedowns: ANDREI ARLOVSKI 0,  FABRICIO WERDUM 0

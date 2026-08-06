@@ -1,0 +1,11 @@
+Fighter: MAXIM GRISHIN
+  Date of Birth: 1984-05-02
+  Career record: 5
+  First fight: 2020-07-11
+  Last fight: 2023-06-03
+
+Career Statistics:
+- Significant Strikes Landed :228
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :0

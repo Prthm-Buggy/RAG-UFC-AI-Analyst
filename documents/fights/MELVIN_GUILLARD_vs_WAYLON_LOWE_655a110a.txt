@@ -1,0 +1,13 @@
+Event: UFC 114: Rampage vs Evans
+    Date: May 29, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MELVIN GUILLARD defeated WAYLON LOWE via KO/TKO  
+  at 3:28 of round 1
+  Key stats:
+  - MELVIN GUILLARD landed 14 significant strikes
+  - WAYLON LOWE landed 1 significant strikes
+  - Knockdowns: MELVIN GUILLARD 1,  WAYLON LOWE 0
+  - Takedowns: MELVIN GUILLARD 0,  WAYLON LOWE 1

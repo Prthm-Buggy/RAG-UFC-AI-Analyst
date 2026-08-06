@@ -1,0 +1,11 @@
+Fighter: DUSTIN ORTIZ
+  Date of Birth: 1988-12-25
+  Career record: 14
+  First fight: 2013-11-09
+  Last fight: 2019-01-19
+
+Career Statistics:
+- Significant Strikes Landed :513
+- Total takedowns landed :35
+- Knockdowns :2
+- Submission Attempts :1

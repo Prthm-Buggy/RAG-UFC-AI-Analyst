@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dern vs. Hill
+    Date: May 20, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MACKENZIE DERN defeated ANGELA HILL via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MACKENZIE DERN landed 126 significant strikes
+  - ANGELA HILL landed 66 significant strikes
+  - Knockdowns: MACKENZIE DERN 1,  ANGELA HILL 0
+  - Takedowns: MACKENZIE DERN 3,  ANGELA HILL 0
+  Bonus: fight

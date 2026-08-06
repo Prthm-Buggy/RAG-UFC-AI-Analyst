@@ -1,0 +1,13 @@
+Event: UFC 111: St-Pierre vs Hardy
+    Date: March 27, 2010
+    Location: Newark, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROUSIMAR PALHARES defeated TOMASZ DRWAL via Submission  
+  at 0:45 of round 1
+  Key stats:
+  - ROUSIMAR PALHARES landed 0 significant strikes
+  - TOMASZ DRWAL landed 0 significant strikes
+  - Knockdowns: ROUSIMAR PALHARES 0,  TOMASZ DRWAL 0
+  - Takedowns: ROUSIMAR PALHARES 0,  TOMASZ DRWAL 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vera vs. Cruz
+    Date: August 13, 2022
+    Location: San Diego, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: GERALD MEERSCHAERT defeated BRUNO SILVA via Submission  
+  at 1:39 of round 3
+  Key stats:
+  - GERALD MEERSCHAERT landed 46 significant strikes
+  - BRUNO SILVA landed 29 significant strikes
+  - Knockdowns: GERALD MEERSCHAERT 1,  BRUNO SILVA 0
+  - Takedowns: GERALD MEERSCHAERT 1,  BRUNO SILVA 0

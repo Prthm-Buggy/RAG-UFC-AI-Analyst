@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dern vs. Hill
+    Date: May 20, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: VIACHESLAV BORSHCHEV defeated MAHESHATE via KO/TKO  
+  at 2:37 of round 2
+  Key stats:
+  - VIACHESLAV BORSHCHEV landed 85 significant strikes
+  - MAHESHATE landed 32 significant strikes
+  - Knockdowns: VIACHESLAV BORSHCHEV 3,  MAHESHATE 0
+  - Takedowns: VIACHESLAV BORSHCHEV 0,  MAHESHATE 0
+  Bonus: perf

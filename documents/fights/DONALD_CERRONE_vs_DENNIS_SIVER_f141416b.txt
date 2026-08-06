@@ -1,0 +1,14 @@
+Event: UFC 137: Penn vs Diaz
+    Date: October 29, 2011
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DONALD CERRONE defeated DENNIS SIVER via Submission  
+  at 2:22 of round 1
+  Key stats:
+  - DONALD CERRONE landed 9 significant strikes
+  - DENNIS SIVER landed 12 significant strikes
+  - Knockdowns: DONALD CERRONE 2,  DENNIS SIVER 0
+  - Takedowns: DONALD CERRONE 0,  DENNIS SIVER 0
+  Bonus: sub

@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Andrade vs. Blanchfield
+    Date : February 18, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Heavyweight, Lightweight, Light Heavyweight, Women's Bantamweight, Welterweight, Flyweight, Featherweight
+
+    Fight Results:
+  - JAMAL POGUES def. JOSH PARISIAN via Decision - Unanimous(R3)
+- NAZIM SADYKHOV def. EVAN ELDER via TKO - Doctor's Stoppage(R3)
+- AJ FLETCHER def. THEMBA GORIMBO via Submission(R2)
+- MARCIN PRACHNIO def. WILLIAM KNIGHT via Decision - Unanimous(R3)
+- ZAC PAUGA def. JORDAN WRIGHT via Decision - Unanimous(R3)
+- ERIN BLANCHFIELD def. JESSICA ANDRADE via Submission(R2)
+- MAYRA BUENO SILVA def. LINA LANSBERG via Submission(R2)
+- PHILIPE LINS def. OVINCE SAINT PREUX via KO/TKO(R1)
+- ALEXANDER HERNANDEZ def. JIM MILLER via Decision - Unanimous(R3)
+- CLAYTON CARPENTER def. JUANCAMILO RONDEROS via Submission(R1)
+- JAMALL EMMERS def. KHUSEIN ASKHABOV via Decision - Unanimous(R3)

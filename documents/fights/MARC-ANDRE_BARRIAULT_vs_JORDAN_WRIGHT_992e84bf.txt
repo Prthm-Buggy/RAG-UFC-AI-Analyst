@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lemos vs. Andrade
+    Date: April 23, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Catch Weight
+    
+
+    Result: MARC-ANDRE BARRIAULT defeated JORDAN WRIGHT via Submission  
+  at 2:36 of round 1
+  Key stats:
+  - MARC-ANDRE BARRIAULT landed 13 significant strikes
+  - JORDAN WRIGHT landed 12 significant strikes
+  - Knockdowns: MARC-ANDRE BARRIAULT 0,  JORDAN WRIGHT 0
+  - Takedowns: MARC-ANDRE BARRIAULT 0,  JORDAN WRIGHT 2

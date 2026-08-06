@@ -1,0 +1,11 @@
+Fighter: ED HERMAN
+  Date of Birth: 1980-10-02
+  Career record: 25
+  First fight: 2006-06-24
+  Last fight: 2023-04-15
+
+Career Statistics:
+- Significant Strikes Landed :830
+- Total takedowns landed :33
+- Knockdowns :4
+- Submission Attempts :17

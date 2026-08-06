@@ -1,0 +1,11 @@
+Fighter: SAM SICILIA
+  Date of Birth: 1986-02-01
+  Career record: 12
+  First fight: 2012-06-01
+  Last fight: 2017-02-19
+
+Career Statistics:
+- Significant Strikes Landed :255
+- Total takedowns landed :10
+- Knockdowns :1
+- Submission Attempts :6

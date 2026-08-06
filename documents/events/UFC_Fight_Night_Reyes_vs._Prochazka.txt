@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Reyes vs. Prochazka
+    Date : May 01, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Middleweight, Light Heavyweight, Women's Strawweight, Featherweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - SEAN STRICKLAND def. KRZYSZTOF JOTKO via Decision - Unanimous(R3)
+- FELIPE COLARES def. LUKE SANDERS via Decision - Unanimous(R3)
+- JIRI PROCHAZKA def. DOMINICK REYES via KO/TKO(R2)
+- MERAB DVALISHVILI def. CODY STAMANN via Decision - Unanimous(R3)
+- TJ BROWN def. KAI KAMAKA III via Decision - Split(R3)
+- LUANA CAROLINA def. POLIANA BOTELHO via Decision - Split(R3)
+- LUANA PINHEIRO def. RANDA MARKOS via DQ(R1)
+- GIGA CHIKADZE def. CUB SWANSON via KO/TKO(R1)
+- ANDREAS MICHAILIDIS def. KB BHULLAR via Decision - Unanimous(R3)
+- LOMA LOOKBOONMEE def. SAM HUGHES via Decision - Unanimous(R3)

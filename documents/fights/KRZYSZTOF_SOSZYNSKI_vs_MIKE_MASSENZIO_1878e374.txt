@@ -1,0 +1,13 @@
+Event: UFC 131: Dos Santos vs Carwin
+    Date: June 11, 2011
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: KRZYSZTOF SOSZYNSKI defeated MIKE MASSENZIO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - KRZYSZTOF SOSZYNSKI landed 66 significant strikes
+  - MIKE MASSENZIO landed 17 significant strikes
+  - Knockdowns: KRZYSZTOF SOSZYNSKI 0,  MIKE MASSENZIO 0
+  - Takedowns: KRZYSZTOF SOSZYNSKI 0,  MIKE MASSENZIO 2

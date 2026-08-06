@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Masvidal
+    Date: November 28, 2015
+    Location: Seoul, South Korea
+    Weight Class: Middleweight
+    
+
+    Result: DONGI YANG defeated JAKE COLLIER via KO/TKO  
+  at 1:50 of round 2
+  Key stats:
+  - DONGI YANG landed 29 significant strikes
+  - JAKE COLLIER landed 22 significant strikes
+  - Knockdowns: DONGI YANG 0,  JAKE COLLIER 1
+  - Takedowns: DONGI YANG 1,  JAKE COLLIER 0

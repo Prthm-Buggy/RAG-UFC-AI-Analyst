@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Cannonier vs. Gastelum
+    Date : August 21, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Light Heavyweight, Featherweight, Lightweight, Middleweight, Women's Bantamweight, Welterweight, Flyweight, Bantamweight, Heavyweight
+
+    Fight Results:
+  - JOSIANE NUNES def. BEA MALECKI via KO/TKO(R1)
+- AUSTIN LINGO def. LUIS SALDANA via Decision - Unanimous(R3)
+- SAIDYOKUB KAKHRAMONOV def. TREVIN JONES via Submission(R3)
+- RAMIZ BRAHIMAJ def. SASHA PALATNIKOV via Submission(R1)
+- ALEXANDRE PANTOJA def. BRANDON ROYVAL via Submission(R2)
+- IGNACIO BAHAMONDES def. ROOSEVELT ROBERTS via KO/TKO(R3)
+- BRIAN KELLEHER def. DOMINGO PILARTE via Decision - Unanimous(R3)
+- JARED CANNONIER def. KELVIN GASTELUM via Decision - Unanimous(R5)
+- PARKER PORTER def. CHASE SHERMAN via Decision - Unanimous(R3)
+- VINC PICHEL def. AUSTIN HUBBARD via Decision - Unanimous(R3)
+- MARK MADSEN def. CLAY GUIDA via Decision - Split(R3)
+- WILLIAM KNIGHT def. FABIO CHERANT via KO/TKO(R1)

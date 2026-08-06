@@ -1,0 +1,14 @@
+Event: UFC 26: Ultimate Field Of Dreams
+    Date: June 09, 2000
+    Location: Cedar Rapids, Iowa, USA
+    Weight Class: Welterweight
+    
+
+    Result: PAT MILETICH defeated JOHN ALESSIO via Submission  
+  at 1:43 of round 2
+  Key stats:
+  - PAT MILETICH landed 9 significant strikes
+  - JOHN ALESSIO landed 1 significant strikes
+  - Knockdowns: PAT MILETICH 0,  JOHN ALESSIO 0
+  - Takedowns: PAT MILETICH 2,  JOHN ALESSIO 0
+  Bonus: belt

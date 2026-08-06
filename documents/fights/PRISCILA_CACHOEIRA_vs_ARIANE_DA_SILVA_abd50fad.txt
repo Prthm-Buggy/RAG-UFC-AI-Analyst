@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vera vs. Cruz
+    Date: August 13, 2022
+    Location: San Diego, California, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: PRISCILA CACHOEIRA defeated ARIANE DA SILVA via KO/TKO  
+  at 1:05 of round 1
+  Key stats:
+  - PRISCILA CACHOEIRA landed 20 significant strikes
+  - ARIANE DA SILVA landed 4 significant strikes
+  - Knockdowns: PRISCILA CACHOEIRA 1,  ARIANE DA SILVA 0
+  - Takedowns: PRISCILA CACHOEIRA 0,  ARIANE DA SILVA 0

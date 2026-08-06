@@ -1,0 +1,11 @@
+Fighter: RASHID MAGOMEDOV
+  Date of Birth: 1984-11-29
+  Career record: 6
+  First fight: 2014-02-01
+  Last fight: 2017-04-15
+
+Career Statistics:
+- Significant Strikes Landed :396
+- Total takedowns landed :4
+- Knockdowns :5
+- Submission Attempts :1

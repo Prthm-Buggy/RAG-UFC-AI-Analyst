@@ -1,0 +1,13 @@
+Event: UFC 7: The Brawl in Buffalo
+    Date: September 08, 1995
+    Location: Buffalo, New York, USA
+    Weight Class: Open Weight
+    
+
+    Result: REMCO PARDOEL defeated RYAN PARKER via Submission  
+  at 3:05 of round 1
+  Key stats:
+  - REMCO PARDOEL landed 0 significant strikes
+  - RYAN PARKER landed 0 significant strikes
+  - Knockdowns: REMCO PARDOEL 0,  RYAN PARKER 0
+  - Takedowns: REMCO PARDOEL 1,  RYAN PARKER 0

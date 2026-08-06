@@ -1,0 +1,14 @@
+Event: UFC 325: Volkanovski vs. Lopes 2
+    Date: January 31, 2026
+    Location: Sydney, New South Wales, Australia
+    Weight Class: Bantamweight
+    
+
+    Result: LAWRENCE LUI defeated SULANGRANGBO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - LAWRENCE LUI landed 52 significant strikes
+  - SULANGRANGBO landed 56 significant strikes
+  - Knockdowns: LAWRENCE LUI 0,  SULANGRANGBO 0
+  - Takedowns: LAWRENCE LUI 7,  SULANGRANGBO 0
+  Bonus: belt

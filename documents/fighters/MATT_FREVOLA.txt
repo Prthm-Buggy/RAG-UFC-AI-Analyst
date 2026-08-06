@@ -1,0 +1,11 @@
+Fighter: MATT FREVOLA
+  Date of Birth: 1990-06-11
+  Career record: 11
+  First fight: 2018-01-14
+  Last fight: 2025-10-18
+
+Career Statistics:
+- Significant Strikes Landed :274
+- Total takedowns landed :13
+- Knockdowns :6
+- Submission Attempts :3

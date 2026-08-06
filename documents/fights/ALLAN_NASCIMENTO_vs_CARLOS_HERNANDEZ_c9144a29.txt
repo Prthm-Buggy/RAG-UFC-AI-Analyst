@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Strickland vs. Imavov
+    Date: January 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: ALLAN NASCIMENTO defeated CARLOS HERNANDEZ via Submission  
+  at 3:16 of round 1
+  Key stats:
+  - ALLAN NASCIMENTO landed 6 significant strikes
+  - CARLOS HERNANDEZ landed 3 significant strikes
+  - Knockdowns: ALLAN NASCIMENTO 0,  CARLOS HERNANDEZ 0
+  - Takedowns: ALLAN NASCIMENTO 2,  CARLOS HERNANDEZ 0
+  Bonus: perf

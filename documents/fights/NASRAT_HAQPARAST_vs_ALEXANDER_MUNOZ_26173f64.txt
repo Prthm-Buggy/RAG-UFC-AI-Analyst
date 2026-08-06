@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Oleinik
+    Date: August 08, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: NASRAT HAQPARAST defeated ALEXANDER MUNOZ via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NASRAT HAQPARAST landed 104 significant strikes
+  - ALEXANDER MUNOZ landed 37 significant strikes
+  - Knockdowns: NASRAT HAQPARAST 0,  ALEXANDER MUNOZ 0
+  - Takedowns: NASRAT HAQPARAST 0,  ALEXANDER MUNOZ 1

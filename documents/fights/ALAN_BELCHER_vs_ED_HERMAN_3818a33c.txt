@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Diaz vs Neer
+    Date: September 17, 2008
+    Location: Omaha, Nebraska, USA
+    Weight Class: Middleweight
+    
+
+    Result: ALAN BELCHER defeated ED HERMAN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ALAN BELCHER landed 54 significant strikes
+  - ED HERMAN landed 43 significant strikes
+  - Knockdowns: ALAN BELCHER 0,  ED HERMAN 0
+  - Takedowns: ALAN BELCHER 0,  ED HERMAN 5

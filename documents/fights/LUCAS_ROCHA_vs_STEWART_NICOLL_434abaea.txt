@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Oliveira vs. Gamrot
+    Date: October 11, 2025
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: LUCAS ROCHA defeated STEWART NICOLL via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LUCAS ROCHA landed 115 significant strikes
+  - STEWART NICOLL landed 45 significant strikes
+  - Knockdowns: LUCAS ROCHA 0,  STEWART NICOLL 0
+  - Takedowns: LUCAS ROCHA 3,  STEWART NICOLL 2

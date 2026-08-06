@@ -1,0 +1,13 @@
+Event: UFC 20: Battle for the Gold
+    Date: May 07, 1999
+    Location: Birmingham, Alabama, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PEDRO RIZZO defeated TRA TELLIGMAN via KO/TKO  
+  at 4:30 of round 1
+  Key stats:
+  - PEDRO RIZZO landed 9 significant strikes
+  - TRA TELLIGMAN landed 16 significant strikes
+  - Knockdowns: PEDRO RIZZO 1,  TRA TELLIGMAN 0
+  - Takedowns: PEDRO RIZZO 0,  TRA TELLIGMAN 0

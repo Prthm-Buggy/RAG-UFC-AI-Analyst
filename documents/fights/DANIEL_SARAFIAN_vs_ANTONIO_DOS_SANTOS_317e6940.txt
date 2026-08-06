@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Dollaway
+    Date: December 20, 2014
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: DANIEL SARAFIAN defeated ANTONIO DOS SANTOS via KO/TKO  
+  at 1:01 of round 2
+  Key stats:
+  - DANIEL SARAFIAN landed 24 significant strikes
+  - ANTONIO DOS SANTOS landed 37 significant strikes
+  - Knockdowns: DANIEL SARAFIAN 0,  ANTONIO DOS SANTOS 1
+  - Takedowns: DANIEL SARAFIAN 0,  ANTONIO DOS SANTOS 0

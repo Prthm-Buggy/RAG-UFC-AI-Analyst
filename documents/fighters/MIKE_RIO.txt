@@ -1,0 +1,11 @@
+Fighter: MIKE RIO
+  Date of Birth: 1981-07-06
+  Career record: 4
+  First fight: 2012-12-15
+  Last fight: 2014-01-25
+
+Career Statistics:
+- Significant Strikes Landed :49
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :2

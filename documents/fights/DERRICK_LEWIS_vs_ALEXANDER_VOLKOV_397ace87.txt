@@ -1,0 +1,14 @@
+Event: UFC 229: Khabib vs. McGregor
+    Date: October 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: DERRICK LEWIS defeated ALEXANDER VOLKOV via KO/TKO  
+  at 4:49 of round 3
+  Key stats:
+  - DERRICK LEWIS landed 39 significant strikes
+  - ALEXANDER VOLKOV landed 121 significant strikes
+  - Knockdowns: DERRICK LEWIS 1,  ALEXANDER VOLKOV 0
+  - Takedowns: DERRICK LEWIS 0,  ALEXANDER VOLKOV 1
+  Bonus: perf

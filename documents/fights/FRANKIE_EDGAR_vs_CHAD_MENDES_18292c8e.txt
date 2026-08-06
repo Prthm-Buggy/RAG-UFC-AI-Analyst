@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team McGregor vs. Team Faber Finale
+    Date: December 11, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: FRANKIE EDGAR defeated CHAD MENDES via KO/TKO  
+  at 2:28 of round 1
+  Key stats:
+  - FRANKIE EDGAR landed 13 significant strikes
+  - CHAD MENDES landed 5 significant strikes
+  - Knockdowns: FRANKIE EDGAR 1,  CHAD MENDES 0
+  - Takedowns: FRANKIE EDGAR 0,  CHAD MENDES 0
+  Bonus: perf

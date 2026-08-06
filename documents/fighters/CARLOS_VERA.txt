@@ -1,0 +1,11 @@
+Fighter: CARLOS VERA
+  Date of Birth: 1987-11-05
+  Career record: 2
+  First fight: 2024-02-17
+  Last fight: 2025-03-15
+
+Career Statistics:
+- Significant Strikes Landed :28
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :2

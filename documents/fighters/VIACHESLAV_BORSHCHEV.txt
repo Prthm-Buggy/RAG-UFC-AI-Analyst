@@ -1,0 +1,11 @@
+Fighter: VIACHESLAV BORSHCHEV
+  Date of Birth: 1992-01-08
+  Career record: 9
+  First fight: 2022-01-15
+  Last fight: 2025-11-15
+
+Career Statistics:
+- Significant Strikes Landed :407
+- Total takedowns landed :0
+- Knockdowns :4
+- Submission Attempts :1

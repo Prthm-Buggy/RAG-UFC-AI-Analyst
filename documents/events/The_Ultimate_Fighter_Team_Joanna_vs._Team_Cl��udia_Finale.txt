@@ -1,0 +1,19 @@
+Event : The Ultimate Fighter: Team Joanna vs. Team Cl��udia Finale
+    Date : July 08, 2016
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Flyweight, Women's Strawweight, Light Heavyweight, Lightweight, Featherweight, Welterweight, Middleweight
+
+    Fight Results:
+  - JOSH STANSBURY def. CORY HENDRICKS via Decision - Majority(R3)
+- KEVIN LEE def. JAKE MATTHEWS via KO/TKO(R1)
+- TATIANA SUAREZ def. AMANDA COOPER via Submission(R1)
+- JOANNA JEDRZEJCZYK def. CLAUDIA GADELHA via Decision - Unanimous(R5)
+- MATHEUS NICOLAU def. JOHN MORAGA via Decision - Split(R3)
+- CEZAR FERREIRA def. ANTHONY SMITH via Decision - Unanimous(R3)
+- ANDREW SANCHEZ def. KHALIL ROUNTREE JR. via Decision - Unanimous(R3)
+- DOOHO CHOI def. THIAGO TAVARES via KO/TKO(R1)
+- WILL BROOKS def. ROSS PEARSON via Decision - Unanimous(R3)
+- GRAY MAYNARD def. FERNANDO BRUNO via Decision - Unanimous(R3)
+- LI JINGLIANG def. ANTON ZAFIR via KO/TKO(R1)
+- JOAQUIM SILVA def. ANDREW HOLBROOK via KO/TKO(R1)

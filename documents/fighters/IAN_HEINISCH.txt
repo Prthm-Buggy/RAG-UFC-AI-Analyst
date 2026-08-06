@@ -1,0 +1,11 @@
+Fighter: IAN HEINISCH
+  Date of Birth: 1988-08-05
+  Career record: 7
+  First fight: 2018-11-17
+  Last fight: 2021-07-24
+
+Career Statistics:
+- Significant Strikes Landed :276
+- Total takedowns landed :6
+- Knockdowns :2
+- Submission Attempts :4

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gonzaga vs Cro Cop 2
+    Date: April 11, 2015
+    Location: Krakow, Poland
+    Weight Class: Featherweight
+    
+
+    Result: YAOTZIN MEZA defeated DAMIAN STASIAK via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - YAOTZIN MEZA landed 17 significant strikes
+  - DAMIAN STASIAK landed 14 significant strikes
+  - Knockdowns: YAOTZIN MEZA 0,  DAMIAN STASIAK 0
+  - Takedowns: YAOTZIN MEZA 2,  DAMIAN STASIAK 1

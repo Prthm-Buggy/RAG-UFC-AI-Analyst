@@ -1,0 +1,11 @@
+Fighter: GEORGE SULLIVAN
+  Date of Birth: 1981-03-13
+  Career record: 7
+  First fight: 2014-01-25
+  Last fight: 2018-08-25
+
+Career Statistics:
+- Significant Strikes Landed :232
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :3

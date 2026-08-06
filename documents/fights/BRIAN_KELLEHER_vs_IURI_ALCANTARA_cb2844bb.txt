@@ -1,0 +1,14 @@
+Event: UFC 212: Aldo vs. Holloway
+    Date: June 03, 2017
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: BRIAN KELLEHER defeated IURI ALCANTARA via Submission  
+  at 1:48 of round 1
+  Key stats:
+  - BRIAN KELLEHER landed 4 significant strikes
+  - IURI ALCANTARA landed 12 significant strikes
+  - Knockdowns: BRIAN KELLEHER 0,  IURI ALCANTARA 0
+  - Takedowns: BRIAN KELLEHER 0,  IURI ALCANTARA 1
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kattar vs. Allen
+    Date: October 29, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: KHALIL ROUNTREE JR. defeated DUSTIN JACOBY via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - KHALIL ROUNTREE JR. landed 85 significant strikes
+  - DUSTIN JACOBY landed 120 significant strikes
+  - Knockdowns: KHALIL ROUNTREE JR. 0,  DUSTIN JACOBY 0
+  - Takedowns: KHALIL ROUNTREE JR. 0,  DUSTIN JACOBY 0

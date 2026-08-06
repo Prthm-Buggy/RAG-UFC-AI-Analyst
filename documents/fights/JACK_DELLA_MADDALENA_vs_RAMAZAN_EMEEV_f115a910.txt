@@ -1,0 +1,14 @@
+Event: UFC 275: Teixeira vs. Prochazka
+    Date: June 11, 2022
+    Location: Kallang, Singapore
+    Weight Class: Welterweight
+    
+
+    Result: JACK DELLA MADDALENA defeated RAMAZAN EMEEV via KO/TKO  
+  at 2:32 of round 1
+  Key stats:
+  - JACK DELLA MADDALENA landed 18 significant strikes
+  - RAMAZAN EMEEV landed 7 significant strikes
+  - Knockdowns: JACK DELLA MADDALENA 1,  RAMAZAN EMEEV 0
+  - Takedowns: JACK DELLA MADDALENA 0,  RAMAZAN EMEEV 1
+  Bonus: perf

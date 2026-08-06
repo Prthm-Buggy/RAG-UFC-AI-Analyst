@@ -1,0 +1,13 @@
+Event: UFC Fight Night 6
+    Date: August 17, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSH KOSCHECK defeated JONATHAN GOULET via KO/TKO  
+  at 4:10 of round 1
+  Key stats:
+  - JOSH KOSCHECK landed 23 significant strikes
+  - JONATHAN GOULET landed 1 significant strikes
+  - Knockdowns: JOSH KOSCHECK 1,  JONATHAN GOULET 0
+  - Takedowns: JOSH KOSCHECK 1,  JONATHAN GOULET 0

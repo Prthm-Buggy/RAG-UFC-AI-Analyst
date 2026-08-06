@@ -1,0 +1,11 @@
+Fighter: PAWEL PAWLAK
+  Date of Birth: 1989-02-08
+  Career record: 3
+  First fight: 2014-05-31
+  Last fight: 2015-07-18
+
+Career Statistics:
+- Significant Strikes Landed :75
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

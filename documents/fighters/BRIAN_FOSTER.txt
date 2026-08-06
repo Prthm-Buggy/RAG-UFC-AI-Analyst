@@ -1,0 +1,11 @@
+Fighter: BRIAN FOSTER
+  Date of Birth: 1984-04-03
+  Career record: 5
+  First fight: 2009-09-19
+  Last fight: 2010-11-20
+
+Career Statistics:
+- Significant Strikes Landed :81
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :3

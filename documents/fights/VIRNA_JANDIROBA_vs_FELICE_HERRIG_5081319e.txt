@@ -1,0 +1,14 @@
+Event: UFC 252: Miocic vs. Cormier 3
+    Date: August 15, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: VIRNA JANDIROBA defeated FELICE HERRIG via Submission  
+  at 1:44 of round 1
+  Key stats:
+  - VIRNA JANDIROBA landed 4 significant strikes
+  - FELICE HERRIG landed 1 significant strikes
+  - Knockdowns: VIRNA JANDIROBA 0,  FELICE HERRIG 0
+  - Takedowns: VIRNA JANDIROBA 1,  FELICE HERRIG 0
+  Bonus: perf

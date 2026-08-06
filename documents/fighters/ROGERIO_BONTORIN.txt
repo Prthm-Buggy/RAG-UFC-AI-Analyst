@@ -1,0 +1,11 @@
+Fighter: ROGERIO BONTORIN
+  Date of Birth: 1992-04-25
+  Career record: 5
+  First fight: 2019-02-02
+  Last fight: 2022-01-15
+
+Career Statistics:
+- Significant Strikes Landed :91
+- Total takedowns landed :12
+- Knockdowns :0
+- Submission Attempts :4

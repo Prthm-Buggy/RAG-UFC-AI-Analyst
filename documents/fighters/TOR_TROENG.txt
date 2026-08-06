@@ -1,0 +1,11 @@
+Fighter: TOR TROENG
+  Date of Birth: 1983-01-25
+  Career record: 4
+  First fight: 2013-04-06
+  Last fight: 2014-10-04
+
+Career Statistics:
+- Significant Strikes Landed :56
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

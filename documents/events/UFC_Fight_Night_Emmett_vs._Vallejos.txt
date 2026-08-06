@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Emmett vs. Vallejos
+    Date : March 14, 2026
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 14
+    Weight Classes: Bantamweight, Heavyweight, Featherweight, Middleweight, Lightweight, Women's Strawweight, Welterweight, Flyweight, Light Heavyweight, Women's Bantamweight
+
+    Fight Results:
+  - KEVIN VALLEJOS def. JOSH EMMETT via KO/TKO(R1)
+- JOSE DELGADO def. ANDRE FILI via Decision - Split(R3)
+- MYKTYBEK OROLBAI def. CHRIS CURTIS via Decision - Unanimous(R3)
+- HECHER SOSA def. LUAN LACERDA via Decision - Unanimous(R3)
+- MANOEL SOUSA def. BOLAJI OKI via KO/TKO(R3)
+- ELIJAH SMITH def. SUYOUNG YOU via Submission(R2)
+- MARWAN RAHIKI def. HARRY HARDWICK via KO/TKO(R2)
+- BIA MESQUITA def. MONTSE RENDON via Submission(R1)
+- ION CUTELABA def. OUMAR SY via Submission(R1)
+- GILLIAN ROBERTSON def. AMANDA LEMOS via Decision - Unanimous(R3)
+- CHARLES JOHNSON def. BRUNO SILVA via Decision - Split(R3)
+- ERYK ANDERS def. BRAD TAVARES via Decision - Unanimous(R3)
+- VITOR PETRINO def. STEVEN ASPLUND via Decision - Unanimous(R3)
+- PIERA RODRIGUEZ def. SAM HUGHES via Decision - Unanimous(R3)

@@ -1,0 +1,11 @@
+Fighter: JAKE HECHT
+  Date of Birth: 1984-02-09
+  Career record: 3
+  First fight: 2011-12-10
+  Last fight: 2012-06-08
+
+Career Statistics:
+- Significant Strikes Landed :72
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

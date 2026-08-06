@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Daukaus
+    Date: December 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: RAQUEL PENNINGTON defeated MACY CHIASSON via Submission  
+  at 3:07 of round 2
+  Key stats:
+  - RAQUEL PENNINGTON landed 45 significant strikes
+  - MACY CHIASSON landed 26 significant strikes
+  - Knockdowns: RAQUEL PENNINGTON 0,  MACY CHIASSON 0
+  - Takedowns: RAQUEL PENNINGTON 0,  MACY CHIASSON 1

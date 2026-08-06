@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Blanchfield vs. Fiorot
+    Date: March 30, 2024
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Featherweight
+    
+
+    Result: KYLE NELSON defeated BILL ALGEO via KO/TKO  
+  at 4:00 of round 1
+  Key stats:
+  - KYLE NELSON landed 32 significant strikes
+  - BILL ALGEO landed 30 significant strikes
+  - Knockdowns: KYLE NELSON 0,  BILL ALGEO 0
+  - Takedowns: KYLE NELSON 0,  BILL ALGEO 0

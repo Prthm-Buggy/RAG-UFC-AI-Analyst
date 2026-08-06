@@ -1,0 +1,13 @@
+Event: UFC 131: Dos Santos vs Carwin
+    Date: June 11, 2011
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Heavyweight
+    
+
+    Result: JUNIOR DOS SANTOS defeated SHANE CARWIN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JUNIOR DOS SANTOS landed 88 significant strikes
+  - SHANE CARWIN landed 20 significant strikes
+  - Knockdowns: JUNIOR DOS SANTOS 1,  SHANE CARWIN 0
+  - Takedowns: JUNIOR DOS SANTOS 2,  SHANE CARWIN 1

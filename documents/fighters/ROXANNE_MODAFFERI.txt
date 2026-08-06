@@ -1,0 +1,11 @@
+Fighter: ROXANNE MODAFFERI
+  Date of Birth: 1982-09-24
+  Career record: 12
+  First fight: 2013-11-30
+  Last fight: 2022-02-12
+
+Career Statistics:
+- Significant Strikes Landed :622
+- Total takedowns landed :16
+- Knockdowns :1
+- Submission Attempts :1

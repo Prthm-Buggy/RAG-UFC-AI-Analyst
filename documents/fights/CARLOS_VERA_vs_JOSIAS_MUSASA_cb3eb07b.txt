@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vettori vs. Dolidze 2
+    Date: March 15, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CARLOS VERA defeated JOSIAS MUSASA via Submission  
+  at 3:16 of round 1
+  Key stats:
+  - CARLOS VERA landed 16 significant strikes
+  - JOSIAS MUSASA landed 13 significant strikes
+  - Knockdowns: CARLOS VERA 1,  JOSIAS MUSASA 0
+  - Takedowns: CARLOS VERA 0,  JOSIAS MUSASA 0
+  Bonus: perf

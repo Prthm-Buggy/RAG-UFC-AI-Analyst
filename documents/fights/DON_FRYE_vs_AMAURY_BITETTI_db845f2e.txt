@@ -1,0 +1,13 @@
+Event: UFC 9: Motor City Madness
+    Date: May 17, 1996
+    Location: Detroit, Michigan, USA
+    Weight Class: Open Weight
+    
+
+    Result: DON FRYE defeated AMAURY BITETTI via KO/TKO  
+  at 9:30 of round 1
+  Key stats:
+  - DON FRYE landed 46 significant strikes
+  - AMAURY BITETTI landed 2 significant strikes
+  - Knockdowns: DON FRYE 0,  AMAURY BITETTI 0
+  - Takedowns: DON FRYE 1,  AMAURY BITETTI 0

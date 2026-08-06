@@ -1,0 +1,19 @@
+Event : UFC on FUEL TV: Gustafsson vs Silva
+    Date : April 14, 2012
+    Location: Stockholm, Sweden
+    Number of Fights: 12
+    Weight Classes: Middleweight, Light Heavyweight, Featherweight, Welterweight, Lightweight, Bantamweight
+
+    Fight Results:
+  - FRANCIS CARMONT def. MAGNUS CEDENBLAD via Submission(R2)
+- JAMES HEAD def. PAPY ABEDI via Submission(R1)
+- BRAD PICKETT def. DAMACIO PAGE via Submission(R2)
+- DENNIS SIVER def. DIEGO NUNES via Decision - Unanimous(R3)
+- ALEXANDER GUSTAFSSON def. THIAGO SILVA via Decision - Unanimous(R3)
+- SIYAR BAHADURZADA def. PAULO THIAGO via KO/TKO(R1)
+- JOHN MAGUIRE def. DAMARQUES JOHNSON via Submission(R2)
+- BRIAN STANN def. ALESSIO SAKARA via KO/TKO(R1)
+- CYRILLE DIABATE def. TOM DEBLASS via Decision - Majority(R3)
+- REZA MADADI def. YOISLANDY IZQUIERDO via Submission(R2)
+- JASON YOUNG def. ERIC WISELY via Decision - Unanimous(R3)
+- SIMEON THORESEN def. BESAM YOUSEF via Submission(R2)

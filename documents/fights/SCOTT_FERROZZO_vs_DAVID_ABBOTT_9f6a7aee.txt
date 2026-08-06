@@ -1,0 +1,13 @@
+Event: UFC 11: The Proving Ground
+    Date: September 20, 1996
+    Location: Augusta, Georgia, USA
+    Weight Class: Open Weight
+    
+
+    Result: SCOTT FERROZZO defeated DAVID ABBOTT via Decision - Unanimous  
+  at 3:00 of round 2
+  Key stats:
+  - SCOTT FERROZZO landed 60 significant strikes
+  - DAVID ABBOTT landed 21 significant strikes
+  - Knockdowns: SCOTT FERROZZO 0,  DAVID ABBOTT 0
+  - Takedowns: SCOTT FERROZZO 0,  DAVID ABBOTT 0

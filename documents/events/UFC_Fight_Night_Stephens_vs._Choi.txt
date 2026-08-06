@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Stephens vs. Choi
+    Date : January 14, 2018
+    Location: St. Louis, Missouri, USA
+    Number of Fights: 11
+    Weight Classes: Women's Flyweight, Bantamweight, Welterweight, Lightweight, Featherweight, Women's Bantamweight, Women's Strawweight
+
+    Fight Results:
+  - IRENE ALDANA def. TALITA BERNARDO via Decision - Unanimous(R3)
+- KAMARU USMAN def. EMIL MEEK via Decision - Unanimous(R3)
+- JJ ALDRICH def. DANIELLE TAYLOR via Decision - Unanimous(R3)
+- JESSICA EYE def. KALINDRA FARIA via Decision - Split(R3)
+- JEREMY STEPHENS def. DOOHO CHOI via KO/TKO(R2)
+- MADS BURNELL def. MIKE SANTIAGO via Decision - Unanimous(R3)
+- KYUNG HO KANG def. GUIDO CANNETTI via Submission(R1)
+- JESSICA-ROSE CLARK def. PAIGE VANZANT via Decision - Unanimous(R3)
+- JAMES KRAUSE def. ALEX WHITE via Decision - Unanimous(R3)
+- MARCO POLO REYES def. MATT FREVOLA via KO/TKO(R1)
+- DARREN ELKINS def. MICHAEL JOHNSON via Submission(R2)

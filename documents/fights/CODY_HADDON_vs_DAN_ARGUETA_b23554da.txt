@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Royval vs. Taira
+    Date: October 12, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: CODY HADDON defeated DAN ARGUETA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CODY HADDON landed 140 significant strikes
+  - DAN ARGUETA landed 54 significant strikes
+  - Knockdowns: CODY HADDON 0,  DAN ARGUETA 0
+  - Takedowns: CODY HADDON 2,  DAN ARGUETA 4

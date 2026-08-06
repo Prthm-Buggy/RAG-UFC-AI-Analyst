@@ -1,0 +1,13 @@
+Event: UFC Fight Night: MacDonald vs Thompson
+    Date: June 18, 2016
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Welterweight
+    
+
+    Result: COLBY COVINGTON defeated JONATHAN MEUNIER via Submission  
+  at 0:54 of round 3
+  Key stats:
+  - COLBY COVINGTON landed 19 significant strikes
+  - JONATHAN MEUNIER landed 16 significant strikes
+  - Knockdowns: COLBY COVINGTON 1,  JONATHAN MEUNIER 0
+  - Takedowns: COLBY COVINGTON 5,  JONATHAN MEUNIER 0

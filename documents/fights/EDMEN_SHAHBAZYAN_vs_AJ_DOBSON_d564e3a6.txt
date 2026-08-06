@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ribas vs. Namajunas
+    Date: March 23, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: EDMEN SHAHBAZYAN defeated AJ DOBSON via KO/TKO  
+  at 4:33 of round 1
+  Key stats:
+  - EDMEN SHAHBAZYAN landed 27 significant strikes
+  - AJ DOBSON landed 15 significant strikes
+  - Knockdowns: EDMEN SHAHBAZYAN 1,  AJ DOBSON 0
+  - Takedowns: EDMEN SHAHBAZYAN 1,  AJ DOBSON 0

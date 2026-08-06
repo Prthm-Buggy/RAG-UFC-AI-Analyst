@@ -1,0 +1,13 @@
+Event: UFC 236: Holloway vs. Poirier 2
+    Date: April 13, 2019
+    Location: Atlanta, Georgia, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: NIKITA KRYLOV defeated OVINCE SAINT PREUX via Submission  
+  at 2:30 of round 2
+  Key stats:
+  - NIKITA KRYLOV landed 27 significant strikes
+  - OVINCE SAINT PREUX landed 4 significant strikes
+  - Knockdowns: NIKITA KRYLOV 0,  OVINCE SAINT PREUX 0
+  - Takedowns: NIKITA KRYLOV 1,  OVINCE SAINT PREUX 3

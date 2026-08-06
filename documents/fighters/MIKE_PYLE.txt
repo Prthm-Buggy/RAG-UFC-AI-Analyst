@@ -1,0 +1,11 @@
+Fighter: MIKE PYLE
+  Date of Birth: 1975-09-18
+  Career record: 19
+  First fight: 2009-05-23
+  Last fight: 2018-03-03
+
+Career Statistics:
+- Significant Strikes Landed :383
+- Total takedowns landed :16
+- Knockdowns :4
+- Submission Attempts :14

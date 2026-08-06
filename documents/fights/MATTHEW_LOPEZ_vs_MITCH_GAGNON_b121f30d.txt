@@ -1,0 +1,13 @@
+Event: UFC 206: Holloway vs. Pettis
+    Date: December 10, 2016
+    Location: Toronto, Ontario, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: MATTHEW LOPEZ defeated MITCH GAGNON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MATTHEW LOPEZ landed 30 significant strikes
+  - MITCH GAGNON landed 31 significant strikes
+  - Knockdowns: MATTHEW LOPEZ 0,  MITCH GAGNON 1
+  - Takedowns: MATTHEW LOPEZ 5,  MITCH GAGNON 1

@@ -1,0 +1,14 @@
+Event: UFC 274: Oliveira vs. Gaethje
+    Date: May 07, 2022
+    Location: Phoenix, Arizona, USA
+    Weight Class: Lightweight
+    
+
+    Result: MICHAEL CHANDLER defeated TONY FERGUSON via KO/TKO  
+  at 0:17 of round 2
+  Key stats:
+  - MICHAEL CHANDLER landed 27 significant strikes
+  - TONY FERGUSON landed 20 significant strikes
+  - Knockdowns: MICHAEL CHANDLER 1,  TONY FERGUSON 0
+  - Takedowns: MICHAEL CHANDLER 1,  TONY FERGUSON 0
+  Bonus: perf

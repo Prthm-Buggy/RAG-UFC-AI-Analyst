@@ -1,0 +1,18 @@
+Event : UFC 170: Rousey vs McMann
+    Date : February 22, 2014
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Welterweight, Light Heavyweight, Women's Bantamweight, Lightweight, Flyweight, Bantamweight
+
+    Fight Results:
+  - STEPHEN THOMPSON def. ROBERT WHITTAKER via KO/TKO(R1)
+- ALJAMAIN STERLING def. CODY GIBSON via Decision - Unanimous(R3)
+- RAPHAEL ASSUNCAO def. PEDRO MUNHOZ via Decision - Unanimous(R3)
+- ZACH MAKOVSKY def. JOSH SAMPO via Decision - Unanimous(R3)
+- DANIEL CORMIER def. PATRICK CUMMINS via KO/TKO(R1)
+- ERNEST CHAVEZ def. YOSDENIS CEDENO via Decision - Split(R3)
+- ALEXIS DAVIS def. JESSICA EYE via Decision - Split(R3)
+- ERIK KOCH def. RAFAELLO OLIVEIRA via KO/TKO(R1)
+- MIKE PYLE def. TJ WALDBURGER via KO/TKO(R3)
+- RONDA ROUSEY def. SARA MCMANN via KO/TKO(R1)
+- RORY MACDONALD def. DEMIAN MAIA via Decision - Unanimous(R3)

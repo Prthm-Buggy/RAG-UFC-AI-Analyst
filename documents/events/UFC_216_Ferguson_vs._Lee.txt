@@ -1,0 +1,16 @@
+Event : UFC 216: Ferguson vs. Lee
+    Date : October 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Heavyweight, Women's Flyweight, Bantamweight, Women's Strawweight, Flyweight, Lightweight, Middleweight
+
+    Fight Results:
+  - CODY STAMANN def. TOM DUQUESNOY via Decision - Split(R3)
+- MATT SCHNELL def. MARCO BELTRAN via Decision - Unanimous(R3)
+- POLIANA BOTELHO def. PEARL GONZALEZ via Decision - Unanimous(R3)
+- JOHN MORAGA def. MAGOMED BIBULATOV via KO/TKO(R1)
+- MARA ROMERO BORELLA def. KALINDRA FARIA via Submission(R1)
+- BRAD TAVARES def. THALES LEITES via Decision - Unanimous(R3)
+- DEMETRIOUS JOHNSON def. RAY BORG via Submission(R5)
+- FABRICIO WERDUM def. WALT HARRIS via Submission(R1)
+- TONY FERGUSON def. KEVIN LEE via Submission(R3)

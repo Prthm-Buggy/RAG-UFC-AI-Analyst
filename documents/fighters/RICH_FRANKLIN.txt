@@ -1,0 +1,11 @@
+Fighter: RICH FRANKLIN
+  Date of Birth: 1974-10-05
+  Career record: 20
+  First fight: 2003-04-25
+  Last fight: 2012-11-10
+
+Career Statistics:
+- Significant Strikes Landed :856
+- Total takedowns landed :14
+- Knockdowns :10
+- Submission Attempts :2

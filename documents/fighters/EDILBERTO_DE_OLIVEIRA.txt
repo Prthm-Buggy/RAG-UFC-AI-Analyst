@@ -1,0 +1,11 @@
+Fighter: EDILBERTO DE OLIVEIRA
+  Date of Birth: 1982-11-22
+  Career record: 2
+  First fight: 2007-04-21
+  Last fight: 2007-09-19
+
+Career Statistics:
+- Significant Strikes Landed :51
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

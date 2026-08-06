@@ -1,0 +1,11 @@
+Fighter: CHRISTOPHE LENINGER
+  Date of Birth: Unknown
+  Career record: 2
+  First fight: 1994-09-09
+  Last fight: 1997-05-30
+
+Career Statistics:
+- Significant Strikes Landed :4
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

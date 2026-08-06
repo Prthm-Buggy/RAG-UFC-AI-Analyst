@@ -1,0 +1,11 @@
+Fighter: HAYATO SAKURAI
+  Date of Birth: 1975-08-24
+  Career record: 1
+  First fight: 2002-03-22
+  Last fight: 2002-03-22
+
+Career Statistics:
+- Significant Strikes Landed :5
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

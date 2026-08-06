@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Moreno vs. Erceg
+    Date: March 29, 2025
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Lightweight
+    
+
+    Result: MANUEL TORRES defeated DREW DOBER via KO/TKO  
+  at 1:45 of round 1
+  Key stats:
+  - MANUEL TORRES landed 23 significant strikes
+  - DREW DOBER landed 3 significant strikes
+  - Knockdowns: MANUEL TORRES 1,  DREW DOBER 0
+  - Takedowns: MANUEL TORRES 0,  DREW DOBER 0
+  Bonus: perf

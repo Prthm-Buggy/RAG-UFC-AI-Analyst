@@ -1,0 +1,14 @@
+Event: UFC 191: Johnson vs Dodson 2
+    Date: September 05, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: RAQUEL PENNINGTON defeated JESSICA ANDRADE via Submission  
+  at 4:58 of round 2
+  Key stats:
+  - RAQUEL PENNINGTON landed 41 significant strikes
+  - JESSICA ANDRADE landed 41 significant strikes
+  - Knockdowns: RAQUEL PENNINGTON 0,  JESSICA ANDRADE 0
+  - Takedowns: RAQUEL PENNINGTON 2,  JESSICA ANDRADE 4
+  Bonus: perf

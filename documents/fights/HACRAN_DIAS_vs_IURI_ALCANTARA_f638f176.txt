@@ -1,0 +1,13 @@
+Event: UFC 147: Silva vs Franklin 2
+    Date: June 23, 2012
+    Location: Belo Horizonte, Minas Gerais, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: HACRAN DIAS defeated IURI ALCANTARA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - HACRAN DIAS landed 19 significant strikes
+  - IURI ALCANTARA landed 19 significant strikes
+  - Knockdowns: HACRAN DIAS 0,  IURI ALCANTARA 0
+  - Takedowns: HACRAN DIAS 5,  IURI ALCANTARA 0

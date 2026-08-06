@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Gaethje vs. Vick
+    Date: August 25, 2018
+    Location: Lincoln, Nebraska, USA
+    Weight Class: Lightweight
+    
+
+    Result: JUSTIN GAETHJE defeated JAMES VICK via KO/TKO  
+  at 1:27 of round 1
+  Key stats:
+  - JUSTIN GAETHJE landed 7 significant strikes
+  - JAMES VICK landed 10 significant strikes
+  - Knockdowns: JUSTIN GAETHJE 1,  JAMES VICK 0
+  - Takedowns: JUSTIN GAETHJE 0,  JAMES VICK 0
+  Bonus: perf

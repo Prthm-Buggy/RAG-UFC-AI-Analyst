@@ -1,0 +1,11 @@
+Fighter: KYUNG HO KANG
+  Date of Birth: 1987-09-09
+  Career record: 13
+  First fight: 2013-08-31
+  Last fight: 2024-06-22
+
+Career Statistics:
+- Significant Strikes Landed :533
+- Total takedowns landed :18
+- Knockdowns :4
+- Submission Attempts :9

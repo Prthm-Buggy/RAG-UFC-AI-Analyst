@@ -1,0 +1,11 @@
+Fighter: DIEGO FERREIRA
+  Date of Birth: 1985-01-18
+  Career record: 17
+  First fight: 2014-06-28
+  Last fight: 2025-09-13
+
+Career Statistics:
+- Significant Strikes Landed :776
+- Total takedowns landed :9
+- Knockdowns :3
+- Submission Attempts :6

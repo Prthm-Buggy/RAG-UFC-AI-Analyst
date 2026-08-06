@@ -1,0 +1,11 @@
+Fighter: DEMETRIOUS JOHNSON
+  Date of Birth: 1986-08-13
+  Career record: 17
+  First fight: 2011-02-05
+  Last fight: 2018-08-04
+
+Career Statistics:
+- Significant Strikes Landed :1098
+- Total takedowns landed :74
+- Knockdowns :3
+- Submission Attempts :12

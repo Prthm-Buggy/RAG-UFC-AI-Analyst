@@ -1,0 +1,13 @@
+Event: UFC 92: The Ultimate 2008
+    Date: December 27, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PAT BARRY defeated DAN EVENSEN via KO/TKO  
+  at 2:36 of round 1
+  Key stats:
+  - PAT BARRY landed 6 significant strikes
+  - DAN EVENSEN landed 0 significant strikes
+  - Knockdowns: PAT BARRY 0,  DAN EVENSEN 0
+  - Takedowns: PAT BARRY 0,  DAN EVENSEN 0

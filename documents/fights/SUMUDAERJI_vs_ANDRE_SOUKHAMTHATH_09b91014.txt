@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Andrade vs. Zhang
+    Date: August 31, 2019
+    Location: Shenzhen, Guangdong, China
+    Weight Class: Bantamweight
+    
+
+    Result: SUMUDAERJI defeated ANDRE SOUKHAMTHATH via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SUMUDAERJI landed 93 significant strikes
+  - ANDRE SOUKHAMTHATH landed 23 significant strikes
+  - Knockdowns: SUMUDAERJI 0,  ANDRE SOUKHAMTHATH 0
+  - Takedowns: SUMUDAERJI 1,  ANDRE SOUKHAMTHATH 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Adesanya vs. Pyfer
+    Date: March 28, 2026
+    Location: Seattle, Washington, USA
+    Weight Class: Middleweight
+    
+
+    Result: YOUSRI BELGAROUI defeated MANSUR ABDUL-MALIK via KO/TKO  
+  at 3:39 of round 3
+  Key stats:
+  - YOUSRI BELGAROUI landed 94 significant strikes
+  - MANSUR ABDUL-MALIK landed 16 significant strikes
+  - Knockdowns: YOUSRI BELGAROUI 2,  MANSUR ABDUL-MALIK 0
+  - Takedowns: YOUSRI BELGAROUI 0,  MANSUR ABDUL-MALIK 3

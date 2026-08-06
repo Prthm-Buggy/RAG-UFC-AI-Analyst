@@ -1,0 +1,11 @@
+Fighter: JOSH SAMPO
+  Date of Birth: 1984-07-24
+  Career record: 4
+  First fight: 2013-11-30
+  Last fight: 2015-05-23
+
+Career Statistics:
+- Significant Strikes Landed :85
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :6

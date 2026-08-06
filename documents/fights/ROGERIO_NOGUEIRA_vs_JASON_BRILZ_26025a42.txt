@@ -1,0 +1,14 @@
+Event: UFC 114: Rampage vs Evans
+    Date: May 29, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ROGERIO NOGUEIRA defeated JASON BRILZ via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ROGERIO NOGUEIRA landed 23 significant strikes
+  - JASON BRILZ landed 18 significant strikes
+  - Knockdowns: ROGERIO NOGUEIRA 0,  JASON BRILZ 0
+  - Takedowns: ROGERIO NOGUEIRA 1,  JASON BRILZ 3
+  Bonus: fight

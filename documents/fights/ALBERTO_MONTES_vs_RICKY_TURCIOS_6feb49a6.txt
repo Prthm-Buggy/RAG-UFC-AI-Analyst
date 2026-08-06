@@ -1,0 +1,14 @@
+Event: UFC 326: Holloway vs. Oliveira 2
+    Date: March 07, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ALBERTO MONTES defeated RICKY TURCIOS via Submission  
+  at 0:40 of round 2
+  Key stats:
+  - ALBERTO MONTES landed 32 significant strikes
+  - RICKY TURCIOS landed 22 significant strikes
+  - Knockdowns: ALBERTO MONTES 0,  RICKY TURCIOS 0
+  - Takedowns: ALBERTO MONTES 0,  RICKY TURCIOS 0
+  Bonus: perf

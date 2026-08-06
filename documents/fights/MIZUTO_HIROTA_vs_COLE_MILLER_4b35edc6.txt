@@ -1,0 +1,13 @@
+Event: UFC on FOX: VanZant vs. Waterson
+    Date: December 17, 2016
+    Location: Sacramento, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: MIZUTO HIROTA defeated COLE MILLER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MIZUTO HIROTA landed 57 significant strikes
+  - COLE MILLER landed 21 significant strikes
+  - Knockdowns: MIZUTO HIROTA 0,  COLE MILLER 0
+  - Takedowns: MIZUTO HIROTA 6,  COLE MILLER 0

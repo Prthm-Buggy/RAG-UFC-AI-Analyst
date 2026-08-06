@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Anjos vs. Fiziev
+    Date: July 09, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: RAFAEL FIZIEV defeated RAFAEL DOS ANJOS via KO/TKO  
+  at 0:18 of round 5
+  Key stats:
+  - RAFAEL FIZIEV landed 64 significant strikes
+  - RAFAEL DOS ANJOS landed 54 significant strikes
+  - Knockdowns: RAFAEL FIZIEV 1,  RAFAEL DOS ANJOS 0
+  - Takedowns: RAFAEL FIZIEV 0,  RAFAEL DOS ANJOS 2
+  Bonus: perf

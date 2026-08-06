@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Fight for the Troops 2
+    Date : January 22, 2011
+    Location: Killeen, Texas, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Bantamweight, Lightweight, Welterweight, Featherweight
+
+    Fight Results:
+  - MATT MITRIONE def. TIM HAGUE via KO/TKO(R1)
+- RANI YAHYA def. MIKE BROWN via Decision - Unanimous(R3)
+- YVES EDWARDS def. CODY MCKENZIE via Submission(R2)
+- DAMARQUES JOHNSON def. MIKE GUYMON via Submission(R1)
+- CHRIS CARIASO def. WILL CAMPUZANO via Decision - Unanimous(R3)
+- MELVIN GUILLARD def. EVAN DUNHAM via KO/TKO(R1)
+- PAT BARRY def. JOEY BELTRAN via Decision - Unanimous(R3)
+- MATT WIMAN def. COLE MILLER via Decision - Unanimous(R3)
+- MARK HOMINICK def. GEORGE ROOP via KO/TKO(R1)
+- WAYLON LOWE def. WILLAMY FREIRE via Decision - Unanimous(R3)
+- CHARLIE BRENNEMAN def. AMILCAR ALVES via Decision - Unanimous(R3)

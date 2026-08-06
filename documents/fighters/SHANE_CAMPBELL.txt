@@ -1,0 +1,11 @@
+Fighter: SHANE CAMPBELL
+  Date of Birth: 1987-01-21
+  Career record: 5
+  First fight: 2015-04-25
+  Last fight: 2016-08-27
+
+Career Statistics:
+- Significant Strikes Landed :176
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Almeida vs Garbrandt
+    Date : May 29, 2016
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Featherweight, Welterweight, Middleweight, Lightweight, Women's Bantamweight
+
+    Fight Results:
+  - JAKE COLLIER def. ALBERTO UDA via KO/TKO(R2)
+- RICK STORY def. TAREC SAFFIEDINE via Decision - Unanimous(R3)
+- ADAM MILSTEAD def. CHRIS DE LA ROCHA via KO/TKO(R2)
+- ABEL TRUJILLO def. JORDAN RINALDI via Decision - Unanimous(R3)
+- PAUL FELDER def. JOSHUA BURKMAN via Decision - Unanimous(R3)
+- CHRIS CAMOZZI def. VITOR MIRANDA via Decision - Unanimous(R3)
+- CODY GARBRANDT def. THOMAS ALMEIDA via KO/TKO(R1)
+- ERIK KOCH def. SHANE CAMPBELL via Submission(R2)
+- SARA MCMANN def. JESSICA EYE via Decision - Unanimous(R3)
+- BRYAN CARAWAY def. ALJAMAIN STERLING via Decision - Split(R3)
+- JEREMY STEPHENS def. RENAN BARAO via Decision - Unanimous(R3)
+- LORENZ LARKIN def. JORGE MASVIDAL via Decision - Split(R3)

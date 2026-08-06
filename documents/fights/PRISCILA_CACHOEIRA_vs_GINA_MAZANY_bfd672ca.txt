@@ -1,0 +1,13 @@
+Event: UFC 262: Oliveira vs. Chandler
+    Date: May 15, 2021
+    Location: Houston, Texas, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: PRISCILA CACHOEIRA defeated GINA MAZANY via KO/TKO  
+  at 4:51 of round 2
+  Key stats:
+  - PRISCILA CACHOEIRA landed 36 significant strikes
+  - GINA MAZANY landed 33 significant strikes
+  - Knockdowns: PRISCILA CACHOEIRA 0,  GINA MAZANY 0
+  - Takedowns: PRISCILA CACHOEIRA 0,  GINA MAZANY 4

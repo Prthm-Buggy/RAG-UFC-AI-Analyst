@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. Allen
+    Date: April 15, 2023
+    Location: Kansas City, Missouri, USA
+    Weight Class: Featherweight
+    
+
+    Result: MAX HOLLOWAY defeated ARNOLD ALLEN via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MAX HOLLOWAY landed 147 significant strikes
+  - ARNOLD ALLEN landed 76 significant strikes
+  - Knockdowns: MAX HOLLOWAY 0,  ARNOLD ALLEN 0
+  - Takedowns: MAX HOLLOWAY 0,  ARNOLD ALLEN 0

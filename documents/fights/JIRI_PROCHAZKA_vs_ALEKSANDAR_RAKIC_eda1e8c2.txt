@@ -1,0 +1,14 @@
+Event: UFC 300: Pereira vs. Hill
+    Date: April 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIRI PROCHAZKA defeated ALEKSANDAR RAKIC via KO/TKO  
+  at 3:17 of round 2
+  Key stats:
+  - JIRI PROCHAZKA landed 69 significant strikes
+  - ALEKSANDAR RAKIC landed 58 significant strikes
+  - Knockdowns: JIRI PROCHAZKA 0,  ALEKSANDAR RAKIC 0
+  - Takedowns: JIRI PROCHAZKA 1,  ALEKSANDAR RAKIC 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC on FOX: Shogun vs Vera
+    Date: August 04, 2012
+    Location: Los Angeles, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: RANI YAHYA defeated JOSH GRISPI via Submission  
+  at 3:15 of round 1
+  Key stats:
+  - RANI YAHYA landed 3 significant strikes
+  - JOSH GRISPI landed 6 significant strikes
+  - Knockdowns: RANI YAHYA 0,  JOSH GRISPI 0
+  - Takedowns: RANI YAHYA 1,  JOSH GRISPI 0

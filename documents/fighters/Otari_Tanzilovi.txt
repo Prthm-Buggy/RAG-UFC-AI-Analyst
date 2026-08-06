@@ -1,0 +1,11 @@
+Fighter: Otari Tanzilovi
+  Date of Birth: 1998-04-09
+  Career record: 1
+  First fight: 2026-04-04
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :58
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :0

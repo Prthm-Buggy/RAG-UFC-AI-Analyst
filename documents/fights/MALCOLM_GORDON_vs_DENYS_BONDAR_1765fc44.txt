@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Strickland
+    Date: February 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: MALCOLM GORDON defeated DENYS BONDAR via KO/TKO  
+  at 1:22 of round 1
+  Key stats:
+  - MALCOLM GORDON landed 3 significant strikes
+  - DENYS BONDAR landed 4 significant strikes
+  - Knockdowns: MALCOLM GORDON 0,  DENYS BONDAR 0
+  - Takedowns: MALCOLM GORDON 1,  DENYS BONDAR 1

@@ -1,0 +1,11 @@
+Fighter: DOOHO CHOI
+  Date of Birth: 1991-04-10
+  Career record: 9
+  First fight: 2014-11-22
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :366
+- Total takedowns landed :7
+- Knockdowns :5
+- Submission Attempts :3

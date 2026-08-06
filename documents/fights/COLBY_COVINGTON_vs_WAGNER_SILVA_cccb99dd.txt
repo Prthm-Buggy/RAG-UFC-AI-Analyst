@@ -1,0 +1,13 @@
+Event: UFC Fight Night 56: Shogun vs Saint Preux
+    Date: November 08, 2014
+    Location: Uberlandia, Minas Gerais, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: COLBY COVINGTON defeated WAGNER SILVA via Submission  
+  at 3:26 of round 3
+  Key stats:
+  - COLBY COVINGTON landed 23 significant strikes
+  - WAGNER SILVA landed 16 significant strikes
+  - Knockdowns: COLBY COVINGTON 0,  WAGNER SILVA 0
+  - Takedowns: COLBY COVINGTON 5,  WAGNER SILVA 0

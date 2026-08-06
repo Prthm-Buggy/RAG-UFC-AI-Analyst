@@ -1,0 +1,11 @@
+Fighter: JORDAN MEIN
+  Date of Birth: 1989-10-10
+  Career record: 9
+  First fight: 2013-03-16
+  Last fight: 2018-07-28
+
+Career Statistics:
+- Significant Strikes Landed :281
+- Total takedowns landed :14
+- Knockdowns :3
+- Submission Attempts :2

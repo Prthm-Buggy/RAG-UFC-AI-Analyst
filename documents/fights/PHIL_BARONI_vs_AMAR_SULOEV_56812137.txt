@@ -1,0 +1,13 @@
+Event: UFC 37: High Impact
+    Date: May 10, 2002
+    Location: Bossier City, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: PHIL BARONI defeated AMAR SULOEV via KO/TKO  
+  at 2:59 of round 1
+  Key stats:
+  - PHIL BARONI landed 11 significant strikes
+  - AMAR SULOEV landed 9 significant strikes
+  - Knockdowns: PHIL BARONI 0,  AMAR SULOEV 0
+  - Takedowns: PHIL BARONI 0,  AMAR SULOEV 1

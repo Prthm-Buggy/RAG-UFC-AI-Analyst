@@ -1,0 +1,13 @@
+Event: UFC 195: Lawler vs Condit
+    Date: January 02, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: ABEL TRUJILLO defeated TONY SIMS via Submission  
+  at 3:18 of round 1
+  Key stats:
+  - ABEL TRUJILLO landed 4 significant strikes
+  - TONY SIMS landed 5 significant strikes
+  - Knockdowns: ABEL TRUJILLO 0,  TONY SIMS 0
+  - Takedowns: ABEL TRUJILLO 0,  TONY SIMS 1

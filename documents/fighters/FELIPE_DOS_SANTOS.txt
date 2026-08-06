@@ -1,0 +1,11 @@
+Fighter: FELIPE DOS SANTOS
+  Date of Birth: 2000-09-11
+  Career record: 4
+  First fight: 2023-09-09
+  Last fight: 2025-03-22
+
+Career Statistics:
+- Significant Strikes Landed :225
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :2

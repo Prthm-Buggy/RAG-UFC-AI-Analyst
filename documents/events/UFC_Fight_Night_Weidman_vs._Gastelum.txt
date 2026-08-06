@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Weidman vs. Gastelum
+    Date : July 22, 2017
+    Location: Uniondale, New York, USA
+    Number of Fights: 13
+    Weight Classes: Heavyweight, Bantamweight, Featherweight, Light Heavyweight, Welterweight, Middleweight, Lightweight
+
+    Fight Results:
+  - ELIZEU ZALESKI DOS SANTOS def. LYMAN GOOD via Decision - Split(R3)
+- MARLON VERA def. BRIAN KELLEHER via Submission(R1)
+- ERYK ANDERS def. RAFAEL NATAL via KO/TKO(R1)
+- DARREN ELKINS def. DENNIS BERMUDEZ via Decision - Split(R3)
+- SHANE BURGOS def. GODOFREDO PEPEY via Decision - Unanimous(R3)
+- ALEX OLIVEIRA def. RYAN LAFLARE via KO/TKO(R2)
+- CHASE SHERMAN def. DAMIAN GRABOWSKI via Decision - Unanimous(R3)
+- JUNIOR ALBINI def. TIMOTHY JOHNSON via KO/TKO(R1)
+- CHRIS WADE def. FRANKIE PEREZ via Decision - Unanimous(R3)
+- JIMMIE RIVERA def. THOMAS ALMEIDA via Decision - Unanimous(R3)
+- JEREMY KENNEDY def. KYLE BOCHNIAK via Decision - Unanimous(R3)
+- CHRIS WEIDMAN def. KELVIN GASTELUM via Submission(R3)
+- PATRICK CUMMINS def. GIAN VILLANTE via Decision - Split(R3)

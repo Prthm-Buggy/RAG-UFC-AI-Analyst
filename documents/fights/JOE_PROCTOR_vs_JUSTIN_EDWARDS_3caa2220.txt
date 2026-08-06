@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Boetsch vs Henderson
+    Date: June 06, 2015
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE PROCTOR defeated JUSTIN EDWARDS via Submission  
+  at 4:58 of round 3
+  Key stats:
+  - JOE PROCTOR landed 67 significant strikes
+  - JUSTIN EDWARDS landed 63 significant strikes
+  - Knockdowns: JOE PROCTOR 0,  JUSTIN EDWARDS 0
+  - Takedowns: JOE PROCTOR 0,  JUSTIN EDWARDS 2

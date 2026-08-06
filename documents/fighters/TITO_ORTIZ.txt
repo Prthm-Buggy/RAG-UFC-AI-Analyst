@@ -1,0 +1,11 @@
+Fighter: TITO ORTIZ
+  Date of Birth: 1975-01-23
+  Career record: 26
+  First fight: 1997-05-30
+  Last fight: 2012-07-07
+
+Career Statistics:
+- Significant Strikes Landed :683
+- Total takedowns landed :55
+- Knockdowns :2
+- Submission Attempts :7

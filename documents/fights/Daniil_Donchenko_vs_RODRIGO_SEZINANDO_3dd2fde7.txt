@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lopes vs. Silva
+    Date: September 13, 2025
+    Location: San Antonio, Texas, USA
+    Weight Class: Welterweight
+    
+
+    Result: Daniil Donchenko defeated RODRIGO SEZINANDO via KO/TKO  
+  at 4:27 of round 1
+  Key stats:
+  - Daniil Donchenko landed 39 significant strikes
+  - RODRIGO SEZINANDO landed 10 significant strikes
+  - Knockdowns: Daniil Donchenko 1,  RODRIGO SEZINANDO 0
+  - Takedowns: Daniil Donchenko 1,  RODRIGO SEZINANDO 1
+  Bonus: belt

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: De Ridder vs. Allen
+    Date: October 18, 2025
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Women's Flyweight
+    
+
+    Result: MANON FIOROT defeated JASMINE JASUDAVICIUS via KO/TKO  
+  at 1:14 of round 1
+  Key stats:
+  - MANON FIOROT landed 16 significant strikes
+  - JASMINE JASUDAVICIUS landed 2 significant strikes
+  - Knockdowns: MANON FIOROT 0,  JASMINE JASUDAVICIUS 0
+  - Takedowns: MANON FIOROT 0,  JASMINE JASUDAVICIUS 0

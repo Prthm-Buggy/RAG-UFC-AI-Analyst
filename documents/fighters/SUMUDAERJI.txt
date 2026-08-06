@@ -1,0 +1,11 @@
+Fighter: SUMUDAERJI
+  Date of Birth: 1996-01-20
+  Career record: 11
+  First fight: 2018-11-24
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :519
+- Total takedowns landed :6
+- Knockdowns :3
+- Submission Attempts :4

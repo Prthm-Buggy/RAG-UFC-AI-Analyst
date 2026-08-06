@@ -1,0 +1,18 @@
+Event : UFC 101: Declaration
+    Date : August 08, 2009
+    Location: Philadelphia, Pennsylvania, USA
+    Number of Fights: 11
+    Weight Classes: Welterweight, Lightweight, Light Heavyweight, Middleweight
+
+    Fight Results:
+  - JOHNY HENDRICKS def. AMIR SADOLLAH via KO/TKO(R1)
+- MATTHEW RIDDLE def. DAN CRAMER via Decision - Unanimous(R3)
+- ANDERSON SILVA def. FORREST GRIFFIN via KO/TKO(R1)
+- JOHN HOWARD def. TAMDAN MCCRORY via Decision - Split(R3)
+- AARON RILEY def. SHANE NELSON via Decision - Unanimous(R3)
+- GEORGE SOTIROPOULOS def. GEORGE ROOP via Submission(R2)
+- BJ PENN def. KENNY FLORIAN via Submission(R4)
+- RICARDO ALMEIDA def. KENDALL GROVE via Decision - Unanimous(R3)
+- KURT PELLEGRINO def. JOSH NEER via Decision - Unanimous(R3)
+- ALESSIO SAKARA def. THALES LEITES via Decision - Split(R3)
+- JESSE LENNOX def. DANILLO VILLEFORT via TKO - Doctor's Stoppage(R3)

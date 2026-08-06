@@ -1,0 +1,13 @@
+Event: UFC on FOX: Maia vs. Condit
+    Date: August 27, 2016
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Lightweight
+    
+
+    Result: CHAD LAPRISE defeated THIBAULT GOUTI via KO/TKO  
+  at 1:36 of round 1
+  Key stats:
+  - CHAD LAPRISE landed 17 significant strikes
+  - THIBAULT GOUTI landed 4 significant strikes
+  - Knockdowns: CHAD LAPRISE 2,  THIBAULT GOUTI 0
+  - Takedowns: CHAD LAPRISE 0,  THIBAULT GOUTI 0

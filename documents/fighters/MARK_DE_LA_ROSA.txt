@@ -1,0 +1,11 @@
+Fighter: MARK DE LA ROSA
+  Date of Birth: 1994-08-31
+  Career record: 7
+  First fight: 2017-12-30
+  Last fight: 2020-06-13
+
+Career Statistics:
+- Significant Strikes Landed :261
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

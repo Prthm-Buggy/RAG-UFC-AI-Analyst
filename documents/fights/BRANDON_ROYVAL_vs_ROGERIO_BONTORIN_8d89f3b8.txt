@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kattar vs. Chikadze
+    Date: January 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: BRANDON ROYVAL defeated ROGERIO BONTORIN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - BRANDON ROYVAL landed 40 significant strikes
+  - ROGERIO BONTORIN landed 28 significant strikes
+  - Knockdowns: BRANDON ROYVAL 0,  ROGERIO BONTORIN 0
+  - Takedowns: BRANDON ROYVAL 0,  ROGERIO BONTORIN 8

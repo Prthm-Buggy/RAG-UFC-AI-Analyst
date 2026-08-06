@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Vettori vs. Holland
+    Date: April 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JACK SHORE defeated HUNTER AZURE via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JACK SHORE landed 36 significant strikes
+  - HUNTER AZURE landed 45 significant strikes
+  - Knockdowns: JACK SHORE 0,  HUNTER AZURE 0
+  - Takedowns: JACK SHORE 6,  HUNTER AZURE 0

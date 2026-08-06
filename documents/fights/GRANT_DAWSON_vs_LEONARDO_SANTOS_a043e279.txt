@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Brunson vs. Holland
+    Date: March 20, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: GRANT DAWSON defeated LEONARDO SANTOS via KO/TKO  
+  at 4:59 of round 3
+  Key stats:
+  - GRANT DAWSON landed 46 significant strikes
+  - LEONARDO SANTOS landed 30 significant strikes
+  - Knockdowns: GRANT DAWSON 0,  LEONARDO SANTOS 0
+  - Takedowns: GRANT DAWSON 1,  LEONARDO SANTOS 1
+  Bonus: perf

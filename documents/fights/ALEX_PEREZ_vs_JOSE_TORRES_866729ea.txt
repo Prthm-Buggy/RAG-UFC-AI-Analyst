@@ -1,0 +1,13 @@
+Event: UFC 227: Dillashaw vs. Garbrandt 2
+    Date: August 04, 2018
+    Location: Los Angeles, California, USA
+    Weight Class: Flyweight
+    
+
+    Result: ALEX PEREZ defeated JOSE TORRES via KO/TKO  
+  at 3:46 of round 1
+  Key stats:
+  - ALEX PEREZ landed 84 significant strikes
+  - JOSE TORRES landed 29 significant strikes
+  - Knockdowns: ALEX PEREZ 1,  JOSE TORRES 0
+  - Takedowns: ALEX PEREZ 0,  JOSE TORRES 0

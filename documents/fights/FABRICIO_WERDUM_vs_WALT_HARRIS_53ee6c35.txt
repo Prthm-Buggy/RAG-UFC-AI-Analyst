@@ -1,0 +1,13 @@
+Event: UFC 216: Ferguson vs. Lee
+    Date: October 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FABRICIO WERDUM defeated WALT HARRIS via Submission  
+  at 1:05 of round 1
+  Key stats:
+  - FABRICIO WERDUM landed 0 significant strikes
+  - WALT HARRIS landed 0 significant strikes
+  - Knockdowns: FABRICIO WERDUM 0,  WALT HARRIS 0
+  - Takedowns: FABRICIO WERDUM 1,  WALT HARRIS 0

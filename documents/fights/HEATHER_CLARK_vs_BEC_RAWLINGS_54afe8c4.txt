@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: A Champion Will Be Crowned Finale
+    Date: December 12, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: HEATHER CLARK defeated BEC RAWLINGS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - HEATHER CLARK landed 56 significant strikes
+  - BEC RAWLINGS landed 69 significant strikes
+  - Knockdowns: HEATHER CLARK 0,  BEC RAWLINGS 0
+  - Takedowns: HEATHER CLARK 1,  BEC RAWLINGS 0

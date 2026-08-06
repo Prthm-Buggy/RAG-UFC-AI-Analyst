@@ -1,0 +1,11 @@
+Fighter: ERNESTA KARECKAITE
+  Date of Birth: 1998-07-05
+  Career record: 3
+  First fight: 2024-05-04
+  Last fight: 2026-02-28
+
+Career Statistics:
+- Significant Strikes Landed :253
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

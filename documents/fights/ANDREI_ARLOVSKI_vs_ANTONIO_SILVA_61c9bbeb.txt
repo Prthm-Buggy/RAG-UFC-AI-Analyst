@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bigfoot vs Arlovski
+    Date: September 13, 2014
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Heavyweight
+    
+
+    Result: ANDREI ARLOVSKI defeated ANTONIO SILVA via KO/TKO  
+  at 2:59 of round 1
+  Key stats:
+  - ANDREI ARLOVSKI landed 13 significant strikes
+  - ANTONIO SILVA landed 6 significant strikes
+  - Knockdowns: ANDREI ARLOVSKI 1,  ANTONIO SILVA 0
+  - Takedowns: ANDREI ARLOVSKI 0,  ANTONIO SILVA 0
+  Bonus: perf

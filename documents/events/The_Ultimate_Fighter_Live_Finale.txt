@@ -1,0 +1,17 @@
+Event : The Ultimate Fighter: Live Finale
+    Date : June 01, 2012
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Welterweight, Lightweight, Featherweight, Bantamweight
+
+    Fight Results:
+  - CHARLES OLIVEIRA def. JONATHAN BROOKINS via Submission(R2)
+- SAM SICILIA def. CRISTIANO MARCELLO via KO/TKO(R2)
+- ERIK PEREZ def. JOHN ALBERT via Submission(R1)
+- MICHAEL CHIESA def. AL IAQUINTA via Submission(R1)
+- JOE PROCTOR def. JEREMY LARSEN via KO/TKO(R1)
+- MARTIN KAMPMANN def. JAKE ELLENBERGER via KO/TKO(R2)
+- MAX HOLLOWAY def. PAT SCHILLING via Decision - Unanimous(R3)
+- DARON CRUICKSHANK def. CHRIS TICKLE via Decision - Unanimous(R3)
+- MYLES JURY def. CHRIS SAUNDERS via Submission(R1)
+- JUSTIN LAWRENCE def. JOHN COFER via KO/TKO(R3)

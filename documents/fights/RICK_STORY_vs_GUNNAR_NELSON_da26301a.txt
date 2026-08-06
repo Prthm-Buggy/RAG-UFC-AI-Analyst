@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nelson vs Story
+    Date: October 04, 2014
+    Location: Stockholm, Sweden
+    Weight Class: Welterweight
+    
+
+    Result: RICK STORY defeated GUNNAR NELSON via Decision - Split  
+  at 5:00 of round 5
+  Key stats:
+  - RICK STORY landed 168 significant strikes
+  - GUNNAR NELSON landed 53 significant strikes
+  - Knockdowns: RICK STORY 1,  GUNNAR NELSON 0
+  - Takedowns: RICK STORY 1,  GUNNAR NELSON 1

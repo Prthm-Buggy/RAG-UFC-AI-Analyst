@@ -1,0 +1,11 @@
+Fighter: BILL ALGEO
+  Date of Birth: 1989-06-09
+  Career record: 10
+  First fight: 2020-08-29
+  Last fight: 2024-07-20
+
+Career Statistics:
+- Significant Strikes Landed :624
+- Total takedowns landed :9
+- Knockdowns :2
+- Submission Attempts :1

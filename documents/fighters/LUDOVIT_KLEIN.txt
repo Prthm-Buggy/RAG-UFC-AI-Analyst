@@ -1,0 +1,11 @@
+Fighter: LUDOVIT KLEIN
+  Date of Birth: 1995-02-22
+  Career record: 11
+  First fight: 2020-09-26
+  Last fight: 2025-10-25
+
+Career Statistics:
+- Significant Strikes Landed :529
+- Total takedowns landed :12
+- Knockdowns :5
+- Submission Attempts :0

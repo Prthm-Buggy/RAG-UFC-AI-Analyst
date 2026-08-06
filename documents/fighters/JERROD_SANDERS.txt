@@ -1,0 +1,11 @@
+Fighter: JERROD SANDERS
+  Date of Birth: 1979-10-01
+  Career record: 3
+  First fight: 2014-07-16
+  Last fight: 2016-07-07
+
+Career Statistics:
+- Significant Strikes Landed :23
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :3

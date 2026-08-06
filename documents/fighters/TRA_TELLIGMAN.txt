@@ -1,0 +1,11 @@
+Fighter: TRA TELLIGMAN
+  Date of Birth: 1965-02-07
+  Career record: 5
+  First fight: 1997-02-07
+  Last fight: 2005-08-20
+
+Career Statistics:
+- Significant Strikes Landed :70
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :1

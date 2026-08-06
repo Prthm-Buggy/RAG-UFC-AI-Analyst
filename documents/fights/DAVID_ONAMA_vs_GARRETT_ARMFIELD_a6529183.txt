@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Fiziev
+    Date: July 09, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: DAVID ONAMA defeated GARRETT ARMFIELD via Submission  
+  at 3:13 of round 2
+  Key stats:
+  - DAVID ONAMA landed 29 significant strikes
+  - GARRETT ARMFIELD landed 21 significant strikes
+  - Knockdowns: DAVID ONAMA 0,  GARRETT ARMFIELD 0
+  - Takedowns: DAVID ONAMA 2,  GARRETT ARMFIELD 0

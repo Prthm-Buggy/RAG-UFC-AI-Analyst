@@ -1,0 +1,13 @@
+Event: UFC 187: Johnson vs Cormier
+    Date: May 23, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DONG HYUN KIM defeated JOSHUA BURKMAN via Submission  
+  at 2:13 of round 3
+  Key stats:
+  - DONG HYUN KIM landed 30 significant strikes
+  - JOSHUA BURKMAN landed 20 significant strikes
+  - Knockdowns: DONG HYUN KIM 0,  JOSHUA BURKMAN 0
+  - Takedowns: DONG HYUN KIM 1,  JOSHUA BURKMAN 0

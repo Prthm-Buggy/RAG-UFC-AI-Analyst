@@ -1,0 +1,15 @@
+Event : UFC Fight Night: Kim vs Hathaway
+    Date : March 01, 2014
+    Location: Macau, China
+    Number of Fights: 8
+    Weight Classes: Welterweight, Lightweight, Featherweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - ZHANG LIPENG def. SAI WANG via Decision - Split(R3)
+- ANYING WANG def. ALBERT CHENG via TKO - Doctor's Stoppage(R1)
+- MATT MITRIONE def. SHAWN JORDAN via KO/TKO(R1)
+- DONG HYUN KIM def. JOHN HATHAWAY via KO/TKO(R3)
+- MARK EDDIVA def. JUMABIEKE TUERXUN via Decision - Unanimous(R3)
+- YUI CHUL NAM def. KAZUKI TOKUDOME via Decision - Split(R3)
+- HATSU HIOKI def. IVAN MENJIVAR via Decision - Unanimous(R3)
+- VAUGHAN LEE def. NAM PHAN via Decision - Unanimous(R3)

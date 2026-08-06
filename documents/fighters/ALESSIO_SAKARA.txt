@@ -1,0 +1,11 @@
+Fighter: ALESSIO SAKARA
+  Date of Birth: 1981-09-02
+  Career record: 14
+  First fight: 2006-02-04
+  Last fight: 2013-10-26
+
+Career Statistics:
+- Significant Strikes Landed :253
+- Total takedowns landed :11
+- Knockdowns :3
+- Submission Attempts :0

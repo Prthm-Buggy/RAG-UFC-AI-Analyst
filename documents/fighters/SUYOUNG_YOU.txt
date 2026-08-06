@@ -1,0 +1,11 @@
+Fighter: SUYOUNG YOU
+  Date of Birth: 1995-12-11
+  Career record: 4
+  First fight: 2024-11-23
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :121
+- Total takedowns landed :11
+- Knockdowns :0
+- Submission Attempts :1

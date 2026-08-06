@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Marreta vs. Anders
+    Date: September 22, 2018
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: ROGERIO NOGUEIRA defeated SAM ALVEY via KO/TKO  
+  at 1:00 of round 2
+  Key stats:
+  - ROGERIO NOGUEIRA landed 26 significant strikes
+  - SAM ALVEY landed 34 significant strikes
+  - Knockdowns: ROGERIO NOGUEIRA 1,  SAM ALVEY 0
+  - Takedowns: ROGERIO NOGUEIRA 0,  SAM ALVEY 0
+  Bonus: perf

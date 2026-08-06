@@ -1,0 +1,11 @@
+Fighter: JOSEPH HOLMES
+  Date of Birth: 1995-07-04
+  Career record: 4
+  First fight: 2022-01-15
+  Last fight: 2023-05-06
+
+Career Statistics:
+- Significant Strikes Landed :104
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :1

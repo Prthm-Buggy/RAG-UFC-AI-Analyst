@@ -1,0 +1,11 @@
+Fighter: EMILY DUCOTE
+  Date of Birth: 1994-01-01
+  Career record: 5
+  First fight: 2022-07-16
+  Last fight: 2024-05-18
+
+Career Statistics:
+- Significant Strikes Landed :559
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

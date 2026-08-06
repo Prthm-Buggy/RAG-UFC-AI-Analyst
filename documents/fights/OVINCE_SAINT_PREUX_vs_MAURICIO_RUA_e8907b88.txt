@@ -1,0 +1,14 @@
+Event: UFC Fight Night 56: Shogun vs Saint Preux
+    Date: November 08, 2014
+    Location: Uberlandia, Minas Gerais, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: OVINCE SAINT PREUX defeated MAURICIO RUA via KO/TKO  
+  at 0:34 of round 1
+  Key stats:
+  - OVINCE SAINT PREUX landed 9 significant strikes
+  - MAURICIO RUA landed 2 significant strikes
+  - Knockdowns: OVINCE SAINT PREUX 1,  MAURICIO RUA 0
+  - Takedowns: OVINCE SAINT PREUX 0,  MAURICIO RUA 0
+  Bonus: perf

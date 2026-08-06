@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs. Ponzinibbio
+    Date: November 17, 2018
+    Location: Buenos Aires, Buenos Aires, Argentina
+    Weight Class: Featherweight
+    
+
+    Result: RICARDO LAMAS defeated DARREN ELKINS via KO/TKO  
+  at 4:09 of round 3
+  Key stats:
+  - RICARDO LAMAS landed 70 significant strikes
+  - DARREN ELKINS landed 62 significant strikes
+  - Knockdowns: RICARDO LAMAS 0,  DARREN ELKINS 0
+  - Takedowns: RICARDO LAMAS 3,  DARREN ELKINS 3

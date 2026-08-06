@@ -1,0 +1,13 @@
+Event: UFC 167: St-Pierre vs Hendricks
+    Date: November 16, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JASON HIGH defeated ANTHONY LAPSLEY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JASON HIGH landed 5 significant strikes
+  - ANTHONY LAPSLEY landed 8 significant strikes
+  - Knockdowns: JASON HIGH 0,  ANTHONY LAPSLEY 0
+  - Takedowns: JASON HIGH 4,  ANTHONY LAPSLEY 0

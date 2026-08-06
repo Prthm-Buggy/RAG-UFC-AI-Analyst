@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs. Bader
+    Date: January 30, 2016
+    Location: Newark, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: RAFAEL NATAL defeated KEVIN CASEY via KO/TKO  
+  at 3:37 of round 3
+  Key stats:
+  - RAFAEL NATAL landed 54 significant strikes
+  - KEVIN CASEY landed 16 significant strikes
+  - Knockdowns: RAFAEL NATAL 1,  KEVIN CASEY 0
+  - Takedowns: RAFAEL NATAL 4,  KEVIN CASEY 0

@@ -1,0 +1,19 @@
+Event : UFC 206: Holloway vs. Pettis
+    Date : December 10, 2016
+    Location: Toronto, Ontario, Canada
+    Number of Fights: 12
+    Weight Classes: Lightweight, Flyweight, Welterweight, Light Heavyweight, Middleweight, Featherweight, Women's Strawweight, Bantamweight
+
+    Fight Results:
+  - MAX HOLLOWAY def. ANTHONY PETTIS via KO/TKO(R3)
+- KELVIN GASTELUM def. TIM KENNEDY via KO/TKO(R3)
+- MATTHEW LOPEZ def. MITCH GAGNON via Decision - Unanimous(R3)
+- CUB SWANSON def. DOOHO CHOI via Decision - Unanimous(R3)
+- LANDO VANNATA def. JOHN MAKDESSI via KO/TKO(R1)
+- VIVIANE PEREIRA def. VALERIE LETOURNEAU via Decision - Split(R3)
+- RUSTAM KHABILOV def. JASON SAGGO via Decision - Unanimous(R3)
+- DONALD CERRONE def. MATT BROWN via KO/TKO(R3)
+- DUSTIN ORTIZ def. ZACH MAKOVSKY via Decision - Split(R3)
+- EMIL MEEK def. JORDAN MEIN via Decision - Unanimous(R3)
+- MISHA CIRKUNOV def. NIKITA KRYLOV via Submission(R1)
+- OLIVIER AUBIN-MERCIER def. DREW DOBER via Submission(R2)

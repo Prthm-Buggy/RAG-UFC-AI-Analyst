@@ -1,0 +1,14 @@
+Event: UFC 313: Pereira vs. Ankalaev
+    Date: March 08, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAGOMED ANKALAEV defeated ALEX PEREIRA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MAGOMED ANKALAEV landed 94 significant strikes
+  - ALEX PEREIRA landed 76 significant strikes
+  - Knockdowns: MAGOMED ANKALAEV 0,  ALEX PEREIRA 0
+  - Takedowns: MAGOMED ANKALAEV 0,  ALEX PEREIRA 0
+  Bonus: belt

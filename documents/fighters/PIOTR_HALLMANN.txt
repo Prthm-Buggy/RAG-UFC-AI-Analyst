@@ -1,0 +1,11 @@
+Fighter: PIOTR HALLMANN
+  Date of Birth: 1987-08-25
+  Career record: 6
+  First fight: 2013-09-04
+  Last fight: 2015-11-07
+
+Career Statistics:
+- Significant Strikes Landed :281
+- Total takedowns landed :12
+- Knockdowns :0
+- Submission Attempts :2

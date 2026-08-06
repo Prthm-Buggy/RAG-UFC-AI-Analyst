@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hermansson vs. Vettori
+    Date: December 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ROMAN DOLIDZE defeated JOHN ALLAN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ROMAN DOLIDZE landed 51 significant strikes
+  - JOHN ALLAN landed 29 significant strikes
+  - Knockdowns: ROMAN DOLIDZE 0,  JOHN ALLAN 0
+  - Takedowns: ROMAN DOLIDZE 3,  JOHN ALLAN 1

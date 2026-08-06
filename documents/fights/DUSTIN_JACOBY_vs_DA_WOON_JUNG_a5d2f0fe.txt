@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ortega vs. Rodriguez
+    Date: July 16, 2022
+    Location: Elmont, New York, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DUSTIN JACOBY defeated DA WOON JUNG via KO/TKO  
+  at 3:13 of round 1
+  Key stats:
+  - DUSTIN JACOBY landed 14 significant strikes
+  - DA WOON JUNG landed 14 significant strikes
+  - Knockdowns: DUSTIN JACOBY 1,  DA WOON JUNG 0
+  - Takedowns: DUSTIN JACOBY 0,  DA WOON JUNG 0
+  Bonus: perf

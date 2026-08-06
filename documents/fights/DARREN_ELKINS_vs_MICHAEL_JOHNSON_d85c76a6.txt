@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Stephens vs. Choi
+    Date: January 14, 2018
+    Location: St. Louis, Missouri, USA
+    Weight Class: Featherweight
+    
+
+    Result: DARREN ELKINS defeated MICHAEL JOHNSON via Submission  
+  at 2:22 of round 2
+  Key stats:
+  - DARREN ELKINS landed 18 significant strikes
+  - MICHAEL JOHNSON landed 45 significant strikes
+  - Knockdowns: DARREN ELKINS 0,  MICHAEL JOHNSON 0
+  - Takedowns: DARREN ELKINS 1,  MICHAEL JOHNSON 0
+  Bonus: perf

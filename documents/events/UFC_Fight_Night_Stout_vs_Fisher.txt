@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Stout vs Fisher
+    Date : June 12, 2007
+    Location: Hollywood, Florida, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Welterweight, Middleweight
+
+    Fight Results:
+  - JON FITCH def. ROAN CARNEIRO via Submission(R2)
+- TAMDAN MCCRORY def. PETE SPRATT via Submission(R2)
+- FORREST PETZ def. LUIGI FIORAVANTI via Decision - Unanimous(R3)
+- SPENCER FISHER def. SAM STOUT via Decision - Unanimous(R3)
+- ANTHONY JOHNSON def. CHAD REINER via KO/TKO(R1)
+- THIAGO TAVARES def. JASON BLACK via Submission(R2)
+- DREW MCFEDRIES def. JORDAN RADEV via KO/TKO(R1)
+- GLEISON TIBAU def. JEFF COX via Submission(R1)
+- NATE MOHR def. LUKE CAUDILLO via Decision - Unanimous(R3)

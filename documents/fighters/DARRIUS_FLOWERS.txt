@@ -1,0 +1,11 @@
+Fighter: DARRIUS FLOWERS
+  Date of Birth: 1994-08-25
+  Career record: 4
+  First fight: 2023-07-29
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :113
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

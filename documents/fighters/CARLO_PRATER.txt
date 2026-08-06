@@ -1,0 +1,11 @@
+Fighter: CARLO PRATER
+  Date of Birth: 1981-06-25
+  Career record: 3
+  First fight: 2012-01-14
+  Last fight: 2012-10-05
+
+Career Statistics:
+- Significant Strikes Landed :69
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :4

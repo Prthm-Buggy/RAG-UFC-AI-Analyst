@@ -1,0 +1,11 @@
+Fighter: MARTIN BUDAY
+  Date of Birth: 1991-11-11
+  Career record: 8
+  First fight: 2022-04-16
+  Last fight: 2025-07-26
+
+Career Statistics:
+- Significant Strikes Landed :423
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :1

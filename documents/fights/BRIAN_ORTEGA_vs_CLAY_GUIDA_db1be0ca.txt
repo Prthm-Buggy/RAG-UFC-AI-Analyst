@@ -1,0 +1,13 @@
+Event: UFC 199: Rockhold vs. Bisping 2
+    Date: June 04, 2016
+    Location: Los Angeles, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: BRIAN ORTEGA defeated CLAY GUIDA via KO/TKO  
+  at 4:40 of round 3
+  Key stats:
+  - BRIAN ORTEGA landed 62 significant strikes
+  - CLAY GUIDA landed 62 significant strikes
+  - Knockdowns: BRIAN ORTEGA 1,  CLAY GUIDA 1
+  - Takedowns: BRIAN ORTEGA 0,  CLAY GUIDA 0

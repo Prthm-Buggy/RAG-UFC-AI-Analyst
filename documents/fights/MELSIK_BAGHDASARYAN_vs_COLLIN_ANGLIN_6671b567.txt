@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hall vs. Strickland
+    Date: July 31, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: MELSIK BAGHDASARYAN defeated COLLIN ANGLIN via KO/TKO  
+  at 1:50 of round 2
+  Key stats:
+  - MELSIK BAGHDASARYAN landed 44 significant strikes
+  - COLLIN ANGLIN landed 25 significant strikes
+  - Knockdowns: MELSIK BAGHDASARYAN 1,  COLLIN ANGLIN 0
+  - Takedowns: MELSIK BAGHDASARYAN 0,  COLLIN ANGLIN 1
+  Bonus: perf

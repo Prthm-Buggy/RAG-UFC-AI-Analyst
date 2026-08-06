@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gonzaga vs Cro Cop 2
+    Date: April 11, 2015
+    Location: Krakow, Poland
+    Weight Class: Lightweight
+    
+
+    Result: STEVIE RAY defeated MARCIN BANDEL via KO/TKO  
+  at 1:35 of round 2
+  Key stats:
+  - STEVIE RAY landed 31 significant strikes
+  - MARCIN BANDEL landed 3 significant strikes
+  - Knockdowns: STEVIE RAY 0,  MARCIN BANDEL 0
+  - Takedowns: STEVIE RAY 0,  MARCIN BANDEL 0

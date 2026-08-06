@@ -1,0 +1,15 @@
+Event : UFC 73: Stacked
+    Date : July 07, 2007
+    Location: Sacramento, California, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Lightweight, Middleweight, Light Heavyweight, Welterweight
+
+    Fight Results:
+  - ANDERSON SILVA def. NATE MARQUARDT via KO/TKO(R1)
+- STEPHAN BONNAR def. MIKE NICKELS via Submission(R1)
+- ANTONIO RODRIGO NOGUEIRA def. HEATH HERRING via Decision - Unanimous(R3)
+- KENNY FLORIAN def. ALVIN ROBINSON via KO/TKO(R1)
+- FRANKIE EDGAR def. MARK BOCEK via KO/TKO(R1)
+- SEAN SHERK def. HERMES FRANCA via Decision - Unanimous(R5)
+- CHRIS LYTLE def. JASON GILLIAM via Submission(R1)
+- JORGE GURGEL def. DIEGO SARAIVA via Decision - Unanimous(R3)

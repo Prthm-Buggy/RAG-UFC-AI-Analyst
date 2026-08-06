@@ -1,0 +1,13 @@
+Event: UFC 318: Holloway vs. Poirier 3
+    Date: July 19, 2025
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Lightweight
+    
+
+    Result: MAX HOLLOWAY defeated DUSTIN POIRIER via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MAX HOLLOWAY landed 198 significant strikes
+  - DUSTIN POIRIER landed 109 significant strikes
+  - Knockdowns: MAX HOLLOWAY 1,  DUSTIN POIRIER 1
+  - Takedowns: MAX HOLLOWAY 0,  DUSTIN POIRIER 0

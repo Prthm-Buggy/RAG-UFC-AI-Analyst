@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Miocic vs Hunt
+    Date: May 09, 2015
+    Location: Adelaide, South Australia, Australia
+    Weight Class: Middleweight
+    
+
+    Result: BRAD SCOTT defeated DYLAN ANDREWS via Submission  
+  at 4:54 of round 2
+  Key stats:
+  - BRAD SCOTT landed 42 significant strikes
+  - DYLAN ANDREWS landed 25 significant strikes
+  - Knockdowns: BRAD SCOTT 0,  DYLAN ANDREWS 2
+  - Takedowns: BRAD SCOTT 1,  DYLAN ANDREWS 1

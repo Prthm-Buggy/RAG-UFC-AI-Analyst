@@ -1,0 +1,13 @@
+Event: UFC 281: Adesanya vs. Pereira
+    Date: November 12, 2022
+    Location: New York City, New York, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDRE PETROSKI defeated WELLINGTON TURMAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ANDRE PETROSKI landed 42 significant strikes
+  - WELLINGTON TURMAN landed 41 significant strikes
+  - Knockdowns: ANDRE PETROSKI 0,  WELLINGTON TURMAN 0
+  - Takedowns: ANDRE PETROSKI 8,  WELLINGTON TURMAN 1

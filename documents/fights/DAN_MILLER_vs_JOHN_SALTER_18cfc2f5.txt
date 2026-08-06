@@ -1,0 +1,13 @@
+Event: UFC 118: Edgar vs Penn 2
+    Date: August 28, 2010
+    Location: Boston, Massachusetts, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAN MILLER defeated JOHN SALTER via Submission  
+  at 1:53 of round 2
+  Key stats:
+  - DAN MILLER landed 23 significant strikes
+  - JOHN SALTER landed 21 significant strikes
+  - Knockdowns: DAN MILLER 0,  JOHN SALTER 0
+  - Takedowns: DAN MILLER 0,  JOHN SALTER 2

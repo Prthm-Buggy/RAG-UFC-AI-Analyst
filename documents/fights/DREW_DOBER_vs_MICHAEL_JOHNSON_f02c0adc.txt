@@ -1,0 +1,14 @@
+Event: UFC 326: Holloway vs. Oliveira 2
+    Date: March 07, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DREW DOBER defeated MICHAEL JOHNSON via KO/TKO  
+  at 1:53 of round 2
+  Key stats:
+  - DREW DOBER landed 22 significant strikes
+  - MICHAEL JOHNSON landed 27 significant strikes
+  - Knockdowns: DREW DOBER 1,  MICHAEL JOHNSON 0
+  - Takedowns: DREW DOBER 0,  MICHAEL JOHNSON 0
+  Bonus: perf

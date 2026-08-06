@@ -1,0 +1,11 @@
+Fighter: DWAYNE CASON
+  Date of Birth: Unknown
+  Career record: 2
+  First fight: 1997-10-17
+  Last fight: 1997-10-17
+
+Career Statistics:
+- Significant Strikes Landed :11
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

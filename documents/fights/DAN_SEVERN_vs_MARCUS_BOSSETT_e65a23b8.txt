@@ -1,0 +1,13 @@
+Event: UFC 4: Revenge of the Warriors
+    Date: December 16, 1994
+    Location: Tulsa, Oklahoma, USA
+    Weight Class: Open Weight
+    
+
+    Result: DAN SEVERN defeated MARCUS BOSSETT via Submission  
+  at 0:52 of round 1
+  Key stats:
+  - DAN SEVERN landed 0 significant strikes
+  - MARCUS BOSSETT landed 1 significant strikes
+  - Knockdowns: DAN SEVERN 0,  MARCUS BOSSETT 0
+  - Takedowns: DAN SEVERN 1,  MARCUS BOSSETT 0

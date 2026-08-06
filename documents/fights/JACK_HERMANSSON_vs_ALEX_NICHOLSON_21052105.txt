@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gustafsson vs. Teixeira
+    Date: May 28, 2017
+    Location: Stockholm, Sweden
+    Weight Class: Middleweight
+    
+
+    Result: JACK HERMANSSON defeated ALEX NICHOLSON via KO/TKO  
+  at 2:00 of round 1
+  Key stats:
+  - JACK HERMANSSON landed 23 significant strikes
+  - ALEX NICHOLSON landed 1 significant strikes
+  - Knockdowns: JACK HERMANSSON 0,  ALEX NICHOLSON 0
+  - Takedowns: JACK HERMANSSON 1,  ALEX NICHOLSON 0

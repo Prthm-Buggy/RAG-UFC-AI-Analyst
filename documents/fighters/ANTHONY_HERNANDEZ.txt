@@ -1,0 +1,11 @@
+Fighter: ANTHONY HERNANDEZ
+  Date of Birth: 1993-10-18
+  Career record: 12
+  First fight: 2019-02-02
+  Last fight: 2026-02-21
+
+Career Statistics:
+- Significant Strikes Landed :620
+- Total takedowns landed :54
+- Knockdowns :0
+- Submission Attempts :15

@@ -1,0 +1,11 @@
+Fighter: PAUL HERRERA
+  Date of Birth: 1964-02-21
+  Career record: 1
+  First fight: 1996-02-16
+  Last fight: 1996-02-16
+
+Career Statistics:
+- Significant Strikes Landed :0
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

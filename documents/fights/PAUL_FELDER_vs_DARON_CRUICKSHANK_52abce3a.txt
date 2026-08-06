@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dillashaw vs Cruz
+    Date: January 17, 2016
+    Location: Boston, Massachusetts, USA
+    Weight Class: Lightweight
+    
+
+    Result: PAUL FELDER defeated DARON CRUICKSHANK via Submission  
+  at 3:56 of round 3
+  Key stats:
+  - PAUL FELDER landed 46 significant strikes
+  - DARON CRUICKSHANK landed 32 significant strikes
+  - Knockdowns: PAUL FELDER 0,  DARON CRUICKSHANK 0
+  - Takedowns: PAUL FELDER 2,  DARON CRUICKSHANK 3

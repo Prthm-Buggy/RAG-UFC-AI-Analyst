@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cannonier vs. Borralho
+    Date: August 24, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: RYAN LODER defeated ROBERT VALENTIN via KO/TKO  
+  at 1:49 of round 2
+  Key stats:
+  - RYAN LODER landed 42 significant strikes
+  - ROBERT VALENTIN landed 1 significant strikes
+  - Knockdowns: RYAN LODER 0,  ROBERT VALENTIN 0
+  - Takedowns: RYAN LODER 1,  ROBERT VALENTIN 0
+  Bonus: belt

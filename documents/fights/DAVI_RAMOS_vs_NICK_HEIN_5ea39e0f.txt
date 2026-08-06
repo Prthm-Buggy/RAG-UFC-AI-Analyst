@@ -1,0 +1,13 @@
+Event: UFC 224: Nunes vs. Pennington
+    Date: May 12, 2018
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Lightweight
+    
+
+    Result: DAVI RAMOS defeated NICK HEIN via Submission  
+  at 4:15 of round 1
+  Key stats:
+  - DAVI RAMOS landed 6 significant strikes
+  - NICK HEIN landed 1 significant strikes
+  - Knockdowns: DAVI RAMOS 0,  NICK HEIN 0
+  - Takedowns: DAVI RAMOS 1,  NICK HEIN 0

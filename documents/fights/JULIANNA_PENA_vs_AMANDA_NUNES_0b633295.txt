@@ -1,0 +1,14 @@
+Event: UFC 269: Oliveira vs. Poirier
+    Date: December 11, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: JULIANNA PENA defeated AMANDA NUNES via Submission  
+  at 3:26 of round 2
+  Key stats:
+  - JULIANNA PENA landed 79 significant strikes
+  - AMANDA NUNES landed 46 significant strikes
+  - Knockdowns: JULIANNA PENA 0,  AMANDA NUNES 0
+  - Takedowns: JULIANNA PENA 1,  AMANDA NUNES 1
+  Bonus: belt

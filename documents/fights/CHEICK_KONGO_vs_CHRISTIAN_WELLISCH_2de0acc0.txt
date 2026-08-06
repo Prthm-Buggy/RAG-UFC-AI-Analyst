@@ -1,0 +1,13 @@
+Event: UFC 62: Liddell vs Sobral
+    Date: August 26, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CHEICK KONGO defeated CHRISTIAN WELLISCH via KO/TKO  
+  at 2:51 of round 1
+  Key stats:
+  - CHEICK KONGO landed 17 significant strikes
+  - CHRISTIAN WELLISCH landed 0 significant strikes
+  - Knockdowns: CHEICK KONGO 1,  CHRISTIAN WELLISCH 0
+  - Takedowns: CHEICK KONGO 0,  CHRISTIAN WELLISCH 1

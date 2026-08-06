@@ -1,0 +1,11 @@
+Fighter: ROB KIMMONS
+  Date of Birth: 1981-01-30
+  Career record: 7
+  First fight: 2008-06-21
+  Last fight: 2011-03-03
+
+Career Statistics:
+- Significant Strikes Landed :94
+- Total takedowns landed :7
+- Knockdowns :0
+- Submission Attempts :8

@@ -1,0 +1,11 @@
+Fighter: CARLOS CANDELARIO
+  Date of Birth: 1991-06-04
+  Career record: 2
+  First fight: 2022-05-14
+  Last fight: 2022-11-05
+
+Career Statistics:
+- Significant Strikes Landed :78
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :1

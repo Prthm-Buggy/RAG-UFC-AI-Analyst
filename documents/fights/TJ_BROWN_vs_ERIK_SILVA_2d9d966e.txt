@@ -1,0 +1,14 @@
+Event: UFC 282: Blachowicz vs. Ankalaev
+    Date: December 10, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: TJ BROWN defeated ERIK SILVA via Submission  
+  at 3:41 of round 3
+  Key stats:
+  - TJ BROWN landed 24 significant strikes
+  - ERIK SILVA landed 21 significant strikes
+  - Knockdowns: TJ BROWN 0,  ERIK SILVA 0
+  - Takedowns: TJ BROWN 2,  ERIK SILVA 3
+  Bonus: perf

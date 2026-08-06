@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Grasso vs. Shevchenko 2
+    Date : September 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Women's Flyweight, Bantamweight, Welterweight, Women's Strawweight, Lightweight, Featherweight, Middleweight
+
+    Fight Results:
+  - CHARLIE CAMPBELL def. ALEX REYES via KO/TKO(R1)
+- KYLE NELSON def. FERNANDO PADILLA via Decision - Unanimous(R3)
+- LOOPY GODINEZ def. ELISE REED via Submission(R2)
+- TRACY CORTEZ def. JASMINE JASUDAVICIUS via Decision - Unanimous(R3)
+- JOSEFINE KNUTSSON def. MARNIC MANN via Decision - Unanimous(R3)
+- ROMAN KOPYLOV def. JOSH FREMD via KO/TKO(R2)
+- JACK DELLA MADDALENA def. KEVIN HOLLAND via Decision - Split(R3)
+- DANIEL ZELLHUBER def. CHRISTOS GIAGOS via Submission(R2)
+- RAUL ROSAS JR. def. TERRENCE MITCHELL via KO/TKO(R1)

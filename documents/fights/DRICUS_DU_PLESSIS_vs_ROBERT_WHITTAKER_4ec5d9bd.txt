@@ -1,0 +1,14 @@
+Event: UFC 290: Volkanovski vs. Rodriguez
+    Date: July 08, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DRICUS DU PLESSIS defeated ROBERT WHITTAKER via KO/TKO  
+  at 2:23 of round 2
+  Key stats:
+  - DRICUS DU PLESSIS landed 62 significant strikes
+  - ROBERT WHITTAKER landed 31 significant strikes
+  - Knockdowns: DRICUS DU PLESSIS 1,  ROBERT WHITTAKER 0
+  - Takedowns: DRICUS DU PLESSIS 1,  ROBERT WHITTAKER 1
+  Bonus: perf

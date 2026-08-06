@@ -1,0 +1,13 @@
+Event: UFC 78: Validation
+    Date: November 17, 2007
+    Location: Newark, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: MARCUS AURELIO defeated LUKE CAUDILLO via KO/TKO  
+  at 4:29 of round 1
+  Key stats:
+  - MARCUS AURELIO landed 20 significant strikes
+  - LUKE CAUDILLO landed 6 significant strikes
+  - Knockdowns: MARCUS AURELIO 0,  LUKE CAUDILLO 0
+  - Takedowns: MARCUS AURELIO 1,  LUKE CAUDILLO 0

@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Barboza vs. Gaethje
+    Date : March 30, 2019
+    Location: Philadelphia, Pennsylvania, USA
+    Number of Fights: 13
+    Weight Classes: Lightweight, Featherweight, Middleweight, Light Heavyweight, Women's Strawweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - KEVIN HOLLAND def. GERALD MEERSCHAERT via Decision - Split(R3)
+- PAUL CRAIG def. KENNEDY NZECHUKWU via Submission(R3)
+- JACK HERMANSSON def. DAVID BRANCH via Submission(R1)
+- MARINA RODRIGUEZ def. JESSICA AGUILAR via Decision - Unanimous(R3)
+- MARYNA MOROZ def. SABINA MAZO via Decision - Unanimous(R3)
+- JUSTIN GAETHJE def. EDSON BARBOZA via KO/TKO(R1)
+- CASEY KENNEY def. RAY BORG via Decision - Unanimous(R3)
+- KEVIN AGUILAR def. ENRIQUE BARZOLA via Decision - Unanimous(R3)
+- ALEX PEREZ def. MARK DE LA ROSA via Decision - Unanimous(R3)
+- JOSH EMMETT def. MICHAEL JOHNSON via KO/TKO(R3)
+- MICHELLE WATERSON-GOMEZ def. KAROLINA KOWALKIEWICZ via Decision - Unanimous(R3)
+- DESMOND GREEN def. ROSS PEARSON via KO/TKO(R1)
+- SODIQ YUSUFF def. SHEYMON MORAES via Decision - Unanimous(R3)

@@ -1,0 +1,14 @@
+Event: UFC Fight Night - Fight for the Troops
+    Date: December 10, 2008
+    Location: Fayetteville, North Carolina, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOSH KOSCHECK defeated YOSHIYUKI YOSHIDA via KO/TKO  
+  at 2:15 of round 1
+  Key stats:
+  - JOSH KOSCHECK landed 6 significant strikes
+  - YOSHIYUKI YOSHIDA landed 6 significant strikes
+  - Knockdowns: JOSH KOSCHECK 1,  YOSHIYUKI YOSHIDA 0
+  - Takedowns: JOSH KOSCHECK 0,  YOSHIYUKI YOSHIDA 0
+  Bonus: ko

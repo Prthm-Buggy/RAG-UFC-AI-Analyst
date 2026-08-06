@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Pulver vs. Team Penn Finale
+    Date: June 23, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: LEONARD GARCIA defeated ALLEN BERUBE via Submission  
+  at 4:22 of round 1
+  Key stats:
+  - LEONARD GARCIA landed 4 significant strikes
+  - ALLEN BERUBE landed 4 significant strikes
+  - Knockdowns: LEONARD GARCIA 0,  ALLEN BERUBE 0
+  - Takedowns: LEONARD GARCIA 0,  ALLEN BERUBE 2

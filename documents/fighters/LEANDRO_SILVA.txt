@@ -1,0 +1,11 @@
+Fighter: LEANDRO SILVA
+  Date of Birth: 1985-11-11
+  Career record: 7
+  First fight: 2013-06-08
+  Last fight: 2016-09-03
+
+Career Statistics:
+- Significant Strikes Landed :219
+- Total takedowns landed :10
+- Knockdowns :0
+- Submission Attempts :2

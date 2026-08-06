@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Swanson vs. Lobov
+    Date: April 22, 2017
+    Location: Nashville, Tennessee, USA
+    Weight Class: Lightweight
+    
+
+    Result: STEVIE RAY defeated JOE LAUZON via Decision - Majority  
+  at 5:00 of round 3
+  Key stats:
+  - STEVIE RAY landed 109 significant strikes
+  - JOE LAUZON landed 46 significant strikes
+  - Knockdowns: STEVIE RAY 0,  JOE LAUZON 0
+  - Takedowns: STEVIE RAY 0,  JOE LAUZON 5

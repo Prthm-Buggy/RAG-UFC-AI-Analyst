@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Heavyweights Finale
+    Date: December 05, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MATT HAMILL defeated JON JONES via DQ  
+  at 4:14 of round 1
+  Key stats:
+  - MATT HAMILL landed 5 significant strikes
+  - JON JONES landed 44 significant strikes
+  - Knockdowns: MATT HAMILL 0,  JON JONES 0
+  - Takedowns: MATT HAMILL 0,  JON JONES 1

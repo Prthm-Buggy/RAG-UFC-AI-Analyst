@@ -1,0 +1,13 @@
+Event: UFC 270: Ngannou vs. Gane
+    Date: January 22, 2022
+    Location: Anaheim, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: JACK DELLA MADDALENA defeated PETE RODRIGUEZ via KO/TKO  
+  at 2:59 of round 1
+  Key stats:
+  - JACK DELLA MADDALENA landed 43 significant strikes
+  - PETE RODRIGUEZ landed 25 significant strikes
+  - Knockdowns: JACK DELLA MADDALENA 1,  PETE RODRIGUEZ 0
+  - Takedowns: JACK DELLA MADDALENA 0,  PETE RODRIGUEZ 0

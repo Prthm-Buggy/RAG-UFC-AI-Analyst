@@ -1,0 +1,18 @@
+Event : UFC on FOX: Holm vs. Shevchenko
+    Date : July 23, 2016
+    Location: Chicago, Illinois, USA
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Bantamweight, Women's Bantamweight, Women's Strawweight, Lightweight, Featherweight, Welterweight
+
+    Fight Results:
+  - DARREN ELKINS def. GODOFREDO PEPEY via Decision - Unanimous(R3)
+- KAMARU USMAN def. ALEXANDER YAKOVLEV via Decision - Unanimous(R3)
+- EDSON BARBOZA def. GILBERT MELENDEZ via Decision - Unanimous(R3)
+- VALENTINA SHEVCHENKO def. HOLLY HOLM via Decision - Unanimous(R5)
+- JASON KNIGHT def. JIM ALERS via Decision - Split(R3)
+- FRANCIS NGANNOU def. BOJAN MIHAJLOVIC via KO/TKO(R1)
+- ALEX OLIVEIRA def. JAMES MOONTASRI via Decision - Unanimous(R3)
+- FELICE HERRIG def. KAILIN CURRAN via Submission(R1)
+- LUIS HENRIQUE def. DMITRII SMOLIAKOV via Submission(R2)
+- EDDIE WINELAND def. FRANKIE SAENZ via KO/TKO(R3)
+- MICHEL PRAZERES def. JC COTTRELL via Decision - Unanimous(R3)

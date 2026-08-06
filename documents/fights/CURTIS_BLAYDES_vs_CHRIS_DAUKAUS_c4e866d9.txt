@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blaydes vs. Daukaus
+    Date: March 26, 2022
+    Location: Columbus, Ohio, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CURTIS BLAYDES defeated CHRIS DAUKAUS via KO/TKO  
+  at 0:17 of round 2
+  Key stats:
+  - CURTIS BLAYDES landed 30 significant strikes
+  - CHRIS DAUKAUS landed 13 significant strikes
+  - Knockdowns: CURTIS BLAYDES 1,  CHRIS DAUKAUS 0
+  - Takedowns: CURTIS BLAYDES 0,  CHRIS DAUKAUS 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Nogueira vs. Team Mir Finale
+    Date: December 13, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: WILSON GOUVEIA defeated JASON MACDONALD via KO/TKO  
+  at 2:18 of round 1
+  Key stats:
+  - WILSON GOUVEIA landed 18 significant strikes
+  - JASON MACDONALD landed 6 significant strikes
+  - Knockdowns: WILSON GOUVEIA 1,  JASON MACDONALD 0
+  - Takedowns: WILSON GOUVEIA 0,  JASON MACDONALD 1

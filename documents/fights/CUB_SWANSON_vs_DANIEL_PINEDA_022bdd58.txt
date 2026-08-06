@@ -1,0 +1,13 @@
+Event: UFC 256: Figueiredo vs. Moreno
+    Date: December 12, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CUB SWANSON defeated DANIEL PINEDA via KO/TKO  
+  at 1:52 of round 2
+  Key stats:
+  - CUB SWANSON landed 46 significant strikes
+  - DANIEL PINEDA landed 21 significant strikes
+  - Knockdowns: CUB SWANSON 2,  DANIEL PINEDA 0
+  - Takedowns: CUB SWANSON 1,  DANIEL PINEDA 1

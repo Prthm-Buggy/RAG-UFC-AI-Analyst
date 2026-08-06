@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs. Branch
+    Date: September 16, 2017
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Middleweight
+    
+
+    Result: LUKE ROCKHOLD defeated DAVID BRANCH via KO/TKO  
+  at 4:05 of round 2
+  Key stats:
+  - LUKE ROCKHOLD landed 58 significant strikes
+  - DAVID BRANCH landed 25 significant strikes
+  - Knockdowns: LUKE ROCKHOLD 0,  DAVID BRANCH 0
+  - Takedowns: LUKE ROCKHOLD 2,  DAVID BRANCH 1

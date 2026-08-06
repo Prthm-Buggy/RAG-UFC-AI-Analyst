@@ -1,0 +1,11 @@
+Fighter: EVAN ELDER
+  Date of Birth: 1997-04-11
+  Career record: 5
+  First fight: 2022-04-23
+  Last fight: 2025-04-26
+
+Career Statistics:
+- Significant Strikes Landed :353
+- Total takedowns landed :2
+- Knockdowns :2
+- Submission Attempts :2

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lee vs. Oliveira
+    Date: March 14, 2020
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: NIKITA KRYLOV defeated JOHNNY WALKER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NIKITA KRYLOV landed 45 significant strikes
+  - JOHNNY WALKER landed 37 significant strikes
+  - Knockdowns: NIKITA KRYLOV 0,  JOHNNY WALKER 0
+  - Takedowns: NIKITA KRYLOV 3,  JOHNNY WALKER 0

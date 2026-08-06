@@ -1,0 +1,13 @@
+Event: UFC 229: Khabib vs. McGregor
+    Date: October 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MICHELLE WATERSON-GOMEZ defeated FELICE HERRIG via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MICHELLE WATERSON-GOMEZ landed 76 significant strikes
+  - FELICE HERRIG landed 51 significant strikes
+  - Knockdowns: MICHELLE WATERSON-GOMEZ 0,  FELICE HERRIG 0
+  - Takedowns: MICHELLE WATERSON-GOMEZ 0,  FELICE HERRIG 1

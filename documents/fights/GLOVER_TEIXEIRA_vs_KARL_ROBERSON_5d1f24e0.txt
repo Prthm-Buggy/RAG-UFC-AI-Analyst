@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cejudo vs. Dillashaw
+    Date: January 19, 2019
+    Location: Brooklyn, New York, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: GLOVER TEIXEIRA defeated KARL ROBERSON via Submission  
+  at 3:21 of round 1
+  Key stats:
+  - GLOVER TEIXEIRA landed 6 significant strikes
+  - KARL ROBERSON landed 24 significant strikes
+  - Knockdowns: GLOVER TEIXEIRA 0,  KARL ROBERSON 1
+  - Takedowns: GLOVER TEIXEIRA 1,  KARL ROBERSON 0

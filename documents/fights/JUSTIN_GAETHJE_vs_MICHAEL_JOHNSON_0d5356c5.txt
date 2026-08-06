@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Redemption Finale
+    Date: July 07, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JUSTIN GAETHJE defeated MICHAEL JOHNSON via KO/TKO  
+  at 4:48 of round 2
+  Key stats:
+  - JUSTIN GAETHJE landed 104 significant strikes
+  - MICHAEL JOHNSON landed 91 significant strikes
+  - Knockdowns: JUSTIN GAETHJE 0,  MICHAEL JOHNSON 0
+  - Takedowns: JUSTIN GAETHJE 0,  MICHAEL JOHNSON 1
+  Bonus: fight

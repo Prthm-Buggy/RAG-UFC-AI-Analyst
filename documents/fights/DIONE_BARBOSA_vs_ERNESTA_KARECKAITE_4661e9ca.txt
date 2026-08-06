@@ -1,0 +1,13 @@
+Event: UFC 301: Pantoja vs. Erceg
+    Date: May 04, 2024
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Women's Flyweight
+    
+
+    Result: DIONE BARBOSA defeated ERNESTA KARECKAITE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DIONE BARBOSA landed 39 significant strikes
+  - ERNESTA KARECKAITE landed 53 significant strikes
+  - Knockdowns: DIONE BARBOSA 0,  ERNESTA KARECKAITE 0
+  - Takedowns: DIONE BARBOSA 2,  ERNESTA KARECKAITE 1

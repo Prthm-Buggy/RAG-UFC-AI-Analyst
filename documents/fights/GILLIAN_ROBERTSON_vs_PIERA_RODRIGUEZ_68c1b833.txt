@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Holloway vs. Allen
+    Date: April 15, 2023
+    Location: Kansas City, Missouri, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: GILLIAN ROBERTSON defeated PIERA RODRIGUEZ via Submission  
+  at 4:21 of round 2
+  Key stats:
+  - GILLIAN ROBERTSON landed 26 significant strikes
+  - PIERA RODRIGUEZ landed 12 significant strikes
+  - Knockdowns: GILLIAN ROBERTSON 0,  PIERA RODRIGUEZ 0
+  - Takedowns: GILLIAN ROBERTSON 2,  PIERA RODRIGUEZ 1
+  Bonus: perf

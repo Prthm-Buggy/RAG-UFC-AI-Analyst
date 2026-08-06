@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs. Reis
+    Date: April 15, 2017
+    Location: Kansas City, Missouri, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALJAMAIN STERLING defeated AUGUSTO MENDES via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALJAMAIN STERLING landed 83 significant strikes
+  - AUGUSTO MENDES landed 30 significant strikes
+  - Knockdowns: ALJAMAIN STERLING 0,  AUGUSTO MENDES 1
+  - Takedowns: ALJAMAIN STERLING 2,  AUGUSTO MENDES 0

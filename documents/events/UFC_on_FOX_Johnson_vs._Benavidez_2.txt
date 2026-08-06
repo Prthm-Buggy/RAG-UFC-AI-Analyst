@@ -1,0 +1,18 @@
+Event : UFC on FOX: Johnson vs. Benavidez 2
+    Date : December 14, 2013
+    Location: Sacramento, California, USA
+    Number of Fights: 11
+    Weight Classes: Bantamweight, Flyweight, Featherweight, Welterweight, Lightweight
+
+    Fight Results:
+  - URIJAH FABER def. MICHAEL MCDONALD via Submission(R2)
+- KING GREEN def. PAT HEALY via Decision - Unanimous(R3)
+- DEMETRIOUS JOHNSON def. JOSEPH BENAVIDEZ via KO/TKO(R1)
+- ALPTEKIN OZKILIC def. DARREN UYENOYAMA via Decision - Split(R3)
+- JOE LAUZON def. MAC DANZIG via Decision - Unanimous(R3)
+- EDSON BARBOZA def. DANNY CASTILLO via Decision - Majority(R3)
+- RYAN LAFLARE def. COURT MCGEE via Decision - Unanimous(R3)
+- SAM STOUT def. CODY MCKENZIE via Decision - Unanimous(R3)
+- CHAD MENDES def. NIK LENTZ via Decision - Unanimous(R3)
+- ZACH MAKOVSKY def. SCOTT JORGENSEN via Decision - Unanimous(R3)
+- ABEL TRUJILLO def. ROGER BOWLING via KO/TKO(R2)

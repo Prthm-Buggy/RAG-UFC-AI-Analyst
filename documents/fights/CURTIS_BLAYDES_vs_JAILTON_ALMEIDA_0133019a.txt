@@ -1,0 +1,14 @@
+Event: UFC 299: O'Malley vs. Vera 2
+    Date: March 09, 2024
+    Location: Miami, Florida, USA
+    Weight Class: Heavyweight
+    
+
+    Result: CURTIS BLAYDES defeated JAILTON ALMEIDA via KO/TKO  
+  at 0:36 of round 2
+  Key stats:
+  - CURTIS BLAYDES landed 16 significant strikes
+  - JAILTON ALMEIDA landed 1 significant strikes
+  - Knockdowns: CURTIS BLAYDES 0,  JAILTON ALMEIDA 0
+  - Takedowns: CURTIS BLAYDES 0,  JAILTON ALMEIDA 9
+  Bonus: perf

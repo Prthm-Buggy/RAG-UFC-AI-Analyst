@@ -1,0 +1,11 @@
+Fighter: VICTOR HENRY
+  Date of Birth: 1987-05-04
+  Career record: 6
+  First fight: 2022-01-22
+  Last fight: 2025-04-05
+
+Career Statistics:
+- Significant Strikes Landed :596
+- Total takedowns landed :6
+- Knockdowns :3
+- Submission Attempts :2

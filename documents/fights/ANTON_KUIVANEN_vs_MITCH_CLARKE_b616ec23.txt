@@ -1,0 +1,13 @@
+Event: UFC 149: Faber vs Barao
+    Date: July 21, 2012
+    Location: Calgary, Alberta, Canada
+    Weight Class: Lightweight
+    
+
+    Result: ANTON KUIVANEN defeated MITCH CLARKE via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - ANTON KUIVANEN landed 29 significant strikes
+  - MITCH CLARKE landed 6 significant strikes
+  - Knockdowns: ANTON KUIVANEN 0,  MITCH CLARKE 0
+  - Takedowns: ANTON KUIVANEN 3,  MITCH CLARKE 3

@@ -1,0 +1,11 @@
+Fighter: JACK DELLA MADDALENA
+  Date of Birth: 1996-09-10
+  Career record: 10
+  First fight: 2022-01-22
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :600
+- Total takedowns landed :3
+- Knockdowns :6
+- Submission Attempts :1

@@ -1,0 +1,11 @@
+Fighter: CAM ROWSTON
+  Date of Birth: 1995-01-19
+  Career record: 3
+  First fight: 2025-09-27
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :148
+- Total takedowns landed :3
+- Knockdowns :1
+- Submission Attempts :0

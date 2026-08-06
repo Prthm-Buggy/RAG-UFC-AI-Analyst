@@ -1,0 +1,13 @@
+Event: UFC 181: Hendricks vs Lawler II
+    Date: December 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CLAY COLLARD defeated ALEX WHITE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - CLAY COLLARD landed 60 significant strikes
+  - ALEX WHITE landed 58 significant strikes
+  - Knockdowns: CLAY COLLARD 1,  ALEX WHITE 0
+  - Takedowns: CLAY COLLARD 3,  ALEX WHITE 1

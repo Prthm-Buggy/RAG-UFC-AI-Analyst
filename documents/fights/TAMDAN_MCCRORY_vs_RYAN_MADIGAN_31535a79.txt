@@ -1,0 +1,13 @@
+Event: UFC 96: Jackson vs Jardine
+    Date: March 07, 2009
+    Location: Columbus, Ohio, USA
+    Weight Class: Welterweight
+    
+
+    Result: TAMDAN MCCRORY defeated RYAN MADIGAN via KO/TKO  
+  at 3:35 of round 1
+  Key stats:
+  - TAMDAN MCCRORY landed 12 significant strikes
+  - RYAN MADIGAN landed 0 significant strikes
+  - Knockdowns: TAMDAN MCCRORY 0,  RYAN MADIGAN 0
+  - Takedowns: TAMDAN MCCRORY 1,  RYAN MADIGAN 0

@@ -1,0 +1,11 @@
+Fighter: RUAN POTTS
+  Date of Birth: 1978-02-23
+  Career record: 3
+  First fight: 2014-05-10
+  Last fight: 2015-02-28
+
+Career Statistics:
+- Significant Strikes Landed :17
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :3

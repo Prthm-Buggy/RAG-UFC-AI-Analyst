@@ -1,0 +1,11 @@
+Fighter: BILL MAHOOD
+  Date of Birth: 1967-02-01
+  Career record: 1
+  First fight: 2005-06-04
+  Last fight: 2005-06-04
+
+Career Statistics:
+- Significant Strikes Landed :1
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

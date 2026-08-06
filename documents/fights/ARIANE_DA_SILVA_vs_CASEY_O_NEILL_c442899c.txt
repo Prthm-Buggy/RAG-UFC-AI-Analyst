@@ -1,0 +1,14 @@
+Event: UFC 296: Edwards vs. Covington
+    Date: December 16, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: ARIANE DA SILVA defeated CASEY O'NEILL via Submission  
+  at 1:18 of round 2
+  Key stats:
+  - ARIANE DA SILVA landed 64 significant strikes
+  - CASEY O'NEILL landed 31 significant strikes
+  - Knockdowns: ARIANE DA SILVA 0,  CASEY O'NEILL 0
+  - Takedowns: ARIANE DA SILVA 1,  CASEY O'NEILL 0
+  Bonus: perf

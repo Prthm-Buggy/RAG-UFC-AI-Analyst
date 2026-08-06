@@ -1,0 +1,16 @@
+Event : UFC 86: Jackson vs Griffin
+    Date : July 05, 2008
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Lightweight, Light Heavyweight, Middleweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - COLE MILLER def. JORGE GURGEL via Submission(R3)
+- GABRIEL GONZAGA def. JUSTIN MCCULLY via Submission(R1)
+- JUSTIN BUCHHOLZ def. COREY HILL via Submission(R2)
+- PATRICK COTE def. RICARDO ALMEIDA via Decision - Split(R3)
+- JOSH KOSCHECK def. CHRIS LYTLE via Decision - Unanimous(R3)
+- TYSON GRIFFIN def. MARCUS AURELIO via Decision - Unanimous(R3)
+- FORREST GRIFFIN def. QUINTON JACKSON via Decision - Unanimous(R5)
+- MELVIN GUILLARD def. DENNIS SIVER via KO/TKO(R1)
+- JOE STEVENSON def. GLEISON TIBAU via Submission(R2)

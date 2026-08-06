@@ -1,0 +1,11 @@
+Fighter: CLAUDIA GADELHA
+  Date of Birth: 1988-12-07
+  Career record: 12
+  First fight: 2014-07-16
+  Last fight: 2020-11-07
+
+Career Statistics:
+- Significant Strikes Landed :590
+- Total takedowns landed :36
+- Knockdowns :1
+- Submission Attempts :8

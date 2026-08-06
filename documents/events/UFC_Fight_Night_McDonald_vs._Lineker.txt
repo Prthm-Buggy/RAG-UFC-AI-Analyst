@@ -1,0 +1,19 @@
+Event : UFC Fight Night: McDonald vs. Lineker
+    Date : July 13, 2016
+    Location: Sioux Falls, South Dakota, USA
+    Number of Fights: 12
+    Weight Classes: Women's Strawweight, Middleweight, Flyweight, Lightweight, Welterweight, Women's Bantamweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - TIM BOETSCH def. JOSH SAMMAN via KO/TKO(R2)
+- LOUIS SMOLKA def. BEN NGUYEN via KO/TKO(R2)
+- KATLYN CERMINARA def. LAUREN MURPHY via Decision - Unanimous(R3)
+- ALEX NICHOLSON def. DEVIN CLARK via KO/TKO(R1)
+- RANI YAHYA def. MATTHEW LOPEZ via Submission(R3)
+- SAM ALVEY def. ERIC SPICELY via Submission(R1)
+- JOHN LINEKER def. MICHAEL MCDONALD via KO/TKO(R1)
+- TONY FERGUSON def. LANDO VANNATA via Submission(R2)
+- KEITA NAKAMURA def. KYLE NOKE via Submission(R2)
+- DANIEL OMIELANCZUK def. ALEKSEI OLEINIK via Decision - Majority(R3)
+- SCOTT HOLTZMAN def. CODY PFISTER via Decision - Unanimous(R3)
+- CORTNEY CASEY def. CRISTINA STANCIU via KO/TKO(R1)

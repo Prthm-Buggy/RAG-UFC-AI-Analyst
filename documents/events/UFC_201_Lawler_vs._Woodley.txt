@@ -1,0 +1,17 @@
+Event : UFC 201: Lawler vs. Woodley
+    Date : July 30, 2016
+    Location: Atlanta, Georgia, USA
+    Number of Fights: 10
+    Weight Classes: Heavyweight, Bantamweight, Welterweight, Flyweight, Light Heavyweight, Women's Strawweight, Lightweight
+
+    Fight Results:
+  - WILSON REIS def. HECTOR SANDOVAL via Submission(R1)
+- KAROLINA KOWALKIEWICZ def. ROSE NAMAJUNAS via Decision - Split(R3)
+- DAMIEN BROWN def. CESAR ARZAMENDIA via KO/TKO(R1)
+- ERIK PEREZ def. FRANCISCO RIVERA via Decision - Unanimous(R3)
+- ANTHONY HAMILTON def. DAMIAN GRABOWSKI via KO/TKO(R1)
+- NIKITA KRYLOV def. ED HERMAN via KO/TKO(R2)
+- TYRON WOODLEY def. ROBBIE LAWLER via KO/TKO(R1)
+- JORGE MASVIDAL def. ROSS PEARSON via Decision - Unanimous(R3)
+- JAKE ELLENBERGER def. MATT BROWN via KO/TKO(R1)
+- RYAN BENOIT def. FREDY SERRANO via Decision - Split(R3)

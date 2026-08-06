@@ -1,0 +1,11 @@
+Fighter: ABU AZAITAR
+  Date of Birth: 1986-03-10
+  Career record: 3
+  First fight: 2018-07-22
+  Last fight: 2023-10-21
+
+Career Statistics:
+- Significant Strikes Landed :197
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

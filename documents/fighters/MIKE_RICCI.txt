@@ -1,0 +1,11 @@
+Fighter: MIKE RICCI
+  Date of Birth: 1986-03-18
+  Career record: 3
+  First fight: 2012-12-15
+  Last fight: 2013-09-21
+
+Career Statistics:
+- Significant Strikes Landed :81
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

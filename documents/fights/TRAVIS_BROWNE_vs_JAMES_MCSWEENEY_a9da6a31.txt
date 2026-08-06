@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Liddell vs Team Ortiz Finale
+    Date: June 19, 2010
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: TRAVIS BROWNE defeated JAMES MCSWEENEY via KO/TKO  
+  at 4:32 of round 1
+  Key stats:
+  - TRAVIS BROWNE landed 19 significant strikes
+  - JAMES MCSWEENEY landed 6 significant strikes
+  - Knockdowns: TRAVIS BROWNE 1,  JAMES MCSWEENEY 0
+  - Takedowns: TRAVIS BROWNE 0,  JAMES MCSWEENEY 0

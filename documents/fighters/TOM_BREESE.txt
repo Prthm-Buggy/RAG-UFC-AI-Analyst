@@ -1,0 +1,11 @@
+Fighter: TOM BREESE
+  Date of Birth: 1991-09-26
+  Career record: 8
+  First fight: 2015-05-30
+  Last fight: 2021-01-20
+
+Career Statistics:
+- Significant Strikes Landed :188
+- Total takedowns landed :0
+- Knockdowns :4
+- Submission Attempts :4

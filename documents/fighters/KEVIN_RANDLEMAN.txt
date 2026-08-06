@@ -1,0 +1,11 @@
+Fighter: KEVIN RANDLEMAN
+  Date of Birth: 1971-08-10
+  Career record: 7
+  First fight: 1999-03-05
+  Last fight: 2002-01-11
+
+Career Statistics:
+- Significant Strikes Landed :97
+- Total takedowns landed :21
+- Knockdowns :0
+- Submission Attempts :5

@@ -1,0 +1,14 @@
+Event: UFC 177: Dillashaw vs Soto
+    Date: August 30, 2014
+    Location: Sacramento, California, USA
+    Weight Class: Lightweight
+    
+
+    Result: YANCY MEDEIROS defeated DAMON JACKSON via Submission  
+  at 1:54 of round 2
+  Key stats:
+  - YANCY MEDEIROS landed 29 significant strikes
+  - DAMON JACKSON landed 20 significant strikes
+  - Knockdowns: YANCY MEDEIROS 0,  DAMON JACKSON 0
+  - Takedowns: YANCY MEDEIROS 0,  DAMON JACKSON 0
+  Bonus: perf

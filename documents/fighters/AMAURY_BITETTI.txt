@@ -1,0 +1,11 @@
+Fighter: AMAURY BITETTI
+  Date of Birth: 1969-04-14
+  Career record: 2
+  First fight: 1996-05-17
+  Last fight: 2000-06-09
+
+Career Statistics:
+- Significant Strikes Landed :8
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

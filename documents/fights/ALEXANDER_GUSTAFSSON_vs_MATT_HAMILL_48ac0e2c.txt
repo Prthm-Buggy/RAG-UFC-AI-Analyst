@@ -1,0 +1,13 @@
+Event: UFC 133: Evans vs Ortiz 2
+    Date: August 06, 2011
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEXANDER GUSTAFSSON defeated MATT HAMILL via KO/TKO  
+  at 3:34 of round 2
+  Key stats:
+  - ALEXANDER GUSTAFSSON landed 37 significant strikes
+  - MATT HAMILL landed 13 significant strikes
+  - Knockdowns: ALEXANDER GUSTAFSSON 1,  MATT HAMILL 0
+  - Takedowns: ALEXANDER GUSTAFSSON 0,  MATT HAMILL 0

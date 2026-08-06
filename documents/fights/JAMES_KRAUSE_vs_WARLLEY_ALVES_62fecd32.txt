@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gaethje vs. Vick
+    Date: August 25, 2018
+    Location: Lincoln, Nebraska, USA
+    Weight Class: Welterweight
+    
+
+    Result: JAMES KRAUSE defeated WARLLEY ALVES via KO/TKO  
+  at 2:28 of round 2
+  Key stats:
+  - JAMES KRAUSE landed 59 significant strikes
+  - WARLLEY ALVES landed 28 significant strikes
+  - Knockdowns: JAMES KRAUSE 0,  WARLLEY ALVES 0
+  - Takedowns: JAMES KRAUSE 0,  WARLLEY ALVES 1

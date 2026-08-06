@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ankalaev vs. Walker 2
+    Date: January 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAGOMED ANKALAEV defeated JOHNNY WALKER via KO/TKO  
+  at 2:42 of round 2
+  Key stats:
+  - MAGOMED ANKALAEV landed 39 significant strikes
+  - JOHNNY WALKER landed 24 significant strikes
+  - Knockdowns: MAGOMED ANKALAEV 1,  JOHNNY WALKER 0
+  - Takedowns: MAGOMED ANKALAEV 0,  JOHNNY WALKER 0
+  Bonus: perf

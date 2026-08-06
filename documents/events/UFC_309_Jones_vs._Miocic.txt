@@ -1,0 +1,19 @@
+Event : UFC 309: Jones vs. Miocic
+    Date : November 16, 2024
+    Location: New York City, New York, USA
+    Number of Fights: 12
+    Weight Classes: Middleweight, Lightweight, Welterweight, Catch Weight, Women's Flyweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - VIVIANE ARAUJO def. KARINE SILVA via Decision - Unanimous(R3)
+- MAURICIO RUFFY def. JAMES LLONTOP via Decision - Unanimous(R3)
+- MARCIN TYBURA def. JHONATA DINIZ via TKO - Doctor's Stoppage(R2)
+- OBAN ELLIOTT def. BASSIL HAFEZ via KO/TKO(R3)
+- EDUARDA MOURA def. VERONICA HARDY via Decision - Unanimous(R3)
+- MARCUS MCGHEE def. JONATHAN MARTINEZ via Decision - Unanimous(R3)
+- CHARLES OLIVEIRA def. MICHAEL CHANDLER via Decision - Unanimous(R5)
+- RAMIZ BRAHIMAJ def. MICKEY GALL via KO/TKO(R1)
+- JON JONES def. STIPE MIOCIC via KO/TKO(R3)
+- JIM MILLER def. DAMON JACKSON via Submission(R1)
+- BO NICKAL def. PAUL CRAIG via Decision - Unanimous(R3)
+- DAVID ONAMA def. ROBERTO ROMERO via Decision - Unanimous(R3)

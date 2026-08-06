@@ -1,0 +1,13 @@
+Event: UFC 100
+    Date: July 11, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: SHANNON GUGERTY defeated MATT GRICE via Submission  
+  at 2:36 of round 1
+  Key stats:
+  - SHANNON GUGERTY landed 1 significant strikes
+  - MATT GRICE landed 4 significant strikes
+  - Knockdowns: SHANNON GUGERTY 0,  MATT GRICE 0
+  - Takedowns: SHANNON GUGERTY 1,  MATT GRICE 0

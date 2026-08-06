@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Nogueira vs. Werdum
+    Date: June 08, 2013
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: ILDEMAR ALCANTARA defeated LEANDRO SILVA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ILDEMAR ALCANTARA landed 33 significant strikes
+  - LEANDRO SILVA landed 50 significant strikes
+  - Knockdowns: ILDEMAR ALCANTARA 0,  LEANDRO SILVA 0
+  - Takedowns: ILDEMAR ALCANTARA 3,  LEANDRO SILVA 0

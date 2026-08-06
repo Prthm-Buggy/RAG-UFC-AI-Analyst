@@ -1,0 +1,13 @@
+Event: UFC 35: Throwdown
+    Date: January 11, 2002
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Middleweight
+    
+
+    Result: EUGENE JACKSON defeated KEITH ROCKEL via Submission  
+  at 1:14 of round 2
+  Key stats:
+  - EUGENE JACKSON landed 1 significant strikes
+  - KEITH ROCKEL landed 6 significant strikes
+  - Knockdowns: EUGENE JACKSON 0,  KEITH ROCKEL 0
+  - Takedowns: EUGENE JACKSON 0,  KEITH ROCKEL 2

@@ -1,0 +1,20 @@
+Event : UFC 251: Usman vs. Masvidal
+    Date : July 11, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Number of Fights: 13
+    Weight Classes: Welterweight, Featherweight, Women's Strawweight, Women's Bantamweight, Lightweight, Flyweight, Light Heavyweight, Bantamweight, Women's Flyweight, Heavyweight
+
+    Fight Results:
+  - KAROL ROSA def. VANESSA MELO via Decision - Unanimous(R3)
+- KAMARU USMAN def. JORGE MASVIDAL via Decision - Unanimous(R5)
+- MUSLIM SALIKHOV def. ELIZEU ZALESKI DOS SANTOS via Decision - Split(R3)
+- JIRI PROCHAZKA def. VOLKAN OEZDEMIR via KO/TKO(R2)
+- MAKWAN AMIRKHANI def. DANNY HENRY via Submission(R1)
+- DAVEY GRANT def. MARTIN DAY via KO/TKO(R3)
+- AMANDA RIBAS def. PAIGE VANZANT via Submission(R1)
+- ALEXANDER VOLKANOVSKI def. MAX HOLLOWAY via Decision - Split(R5)
+- ROSE NAMAJUNAS def. JESSICA ANDRADE via Decision - Split(R3)
+- PETR YAN def. JOSE ALDO via KO/TKO(R5)
+- RAULIAN PAIVA def. ZHALGAS ZHUMAGULOV via Decision - Unanimous(R3)
+- MARCIN TYBURA def. MAXIM GRISHIN via Decision - Unanimous(R3)
+- LEONARDO SANTOS def. ROMAN BOGATOV via Decision - Unanimous(R3)

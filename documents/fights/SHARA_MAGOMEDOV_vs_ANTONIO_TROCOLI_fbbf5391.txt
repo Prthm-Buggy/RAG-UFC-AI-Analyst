@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. Aliskerov
+    Date: June 22, 2024
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Weight Class: Middleweight
+    
+
+    Result: SHARA MAGOMEDOV defeated ANTONIO TROCOLI via KO/TKO  
+  at 2:27 of round 3
+  Key stats:
+  - SHARA MAGOMEDOV landed 82 significant strikes
+  - ANTONIO TROCOLI landed 16 significant strikes
+  - Knockdowns: SHARA MAGOMEDOV 1,  ANTONIO TROCOLI 0
+  - Takedowns: SHARA MAGOMEDOV 0,  ANTONIO TROCOLI 0
+  Bonus: perf

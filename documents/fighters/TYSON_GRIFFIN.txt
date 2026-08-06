@@ -1,0 +1,11 @@
+Fighter: TYSON GRIFFIN
+  Date of Birth: 1984-04-20
+  Career record: 14
+  First fight: 2006-09-23
+  Last fight: 2011-10-29
+
+Career Statistics:
+- Significant Strikes Landed :612
+- Total takedowns landed :20
+- Knockdowns :2
+- Submission Attempts :10

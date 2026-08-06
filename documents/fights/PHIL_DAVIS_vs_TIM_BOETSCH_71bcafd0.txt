@@ -1,0 +1,14 @@
+Event: UFC 123: Rampage vs Machida
+    Date: November 20, 2010
+    Location: Auburn Hills, Michigan, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: PHIL DAVIS defeated TIM BOETSCH via Submission  
+  at 2:55 of round 2
+  Key stats:
+  - PHIL DAVIS landed 33 significant strikes
+  - TIM BOETSCH landed 7 significant strikes
+  - Knockdowns: PHIL DAVIS 0,  TIM BOETSCH 0
+  - Takedowns: PHIL DAVIS 2,  TIM BOETSCH 0
+  Bonus: sub

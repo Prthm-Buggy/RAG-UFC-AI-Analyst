@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edgar vs. The Korean Zombie
+    Date: December 21, 2019
+    Location: Busan, South Korea
+    Weight Class: Light Heavyweight
+    
+
+    Result: DA WOON JUNG defeated MIKE RODRIGUEZ via KO/TKO  
+  at 1:04 of round 1
+  Key stats:
+  - DA WOON JUNG landed 5 significant strikes
+  - MIKE RODRIGUEZ landed 4 significant strikes
+  - Knockdowns: DA WOON JUNG 1,  MIKE RODRIGUEZ 0
+  - Takedowns: DA WOON JUNG 0,  MIKE RODRIGUEZ 0

@@ -1,0 +1,14 @@
+Event: UFC 300: Pereira vs. Hill
+    Date: April 13, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: ALEX PEREIRA defeated JAMAHAL HILL via KO/TKO  
+  at 3:14 of round 1
+  Key stats:
+  - ALEX PEREIRA landed 24 significant strikes
+  - JAMAHAL HILL landed 12 significant strikes
+  - Knockdowns: ALEX PEREIRA 1,  JAMAHAL HILL 0
+  - Takedowns: ALEX PEREIRA 0,  JAMAHAL HILL 0
+  Bonus: belt

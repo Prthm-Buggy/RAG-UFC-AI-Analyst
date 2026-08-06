@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Gaethje
+    Date: March 30, 2019
+    Location: Philadelphia, Pennsylvania, USA
+    Weight Class: Middleweight
+    
+
+    Result: KEVIN HOLLAND defeated GERALD MEERSCHAERT via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - KEVIN HOLLAND landed 27 significant strikes
+  - GERALD MEERSCHAERT landed 10 significant strikes
+  - Knockdowns: KEVIN HOLLAND 0,  GERALD MEERSCHAERT 0
+  - Takedowns: KEVIN HOLLAND 1,  GERALD MEERSCHAERT 6

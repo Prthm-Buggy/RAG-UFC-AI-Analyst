@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Teixeira vs Saint Preux
+    Date: August 08, 2015
+    Location: Nashville, Tennessee, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JONATHAN WILSON defeated CHRIS DEMPSEY via KO/TKO  
+  at 0:50 of round 1
+  Key stats:
+  - JONATHAN WILSON landed 4 significant strikes
+  - CHRIS DEMPSEY landed 0 significant strikes
+  - Knockdowns: JONATHAN WILSON 1,  CHRIS DEMPSEY 0
+  - Takedowns: JONATHAN WILSON 0,  CHRIS DEMPSEY 0

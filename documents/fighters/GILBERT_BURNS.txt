@@ -1,0 +1,11 @@
+Fighter: GILBERT BURNS
+  Date of Birth: 1986-07-20
+  Career record: 25
+  First fight: 2014-07-26
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :974
+- Total takedowns landed :42
+- Knockdowns :4
+- Submission Attempts :9

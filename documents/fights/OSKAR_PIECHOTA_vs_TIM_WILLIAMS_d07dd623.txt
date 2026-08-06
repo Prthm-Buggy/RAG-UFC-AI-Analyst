@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cerrone vs. Medeiros
+    Date: February 18, 2018
+    Location: Austin, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: OSKAR PIECHOTA defeated TIM WILLIAMS via KO/TKO  
+  at 1:54 of round 1
+  Key stats:
+  - OSKAR PIECHOTA landed 17 significant strikes
+  - TIM WILLIAMS landed 8 significant strikes
+  - Knockdowns: OSKAR PIECHOTA 1,  TIM WILLIAMS 0
+  - Takedowns: OSKAR PIECHOTA 0,  TIM WILLIAMS 0

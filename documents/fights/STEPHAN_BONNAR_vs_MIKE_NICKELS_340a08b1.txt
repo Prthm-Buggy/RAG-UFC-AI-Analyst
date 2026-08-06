@@ -1,0 +1,13 @@
+Event: UFC 73: Stacked
+    Date: July 07, 2007
+    Location: Sacramento, California, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: STEPHAN BONNAR defeated MIKE NICKELS via Submission  
+  at 2:14 of round 1
+  Key stats:
+  - STEPHAN BONNAR landed 2 significant strikes
+  - MIKE NICKELS landed 2 significant strikes
+  - Knockdowns: STEPHAN BONNAR 0,  MIKE NICKELS 0
+  - Takedowns: STEPHAN BONNAR 0,  MIKE NICKELS 1

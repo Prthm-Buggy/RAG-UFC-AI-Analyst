@@ -1,0 +1,11 @@
+Fighter: ALEX DA SILVA
+  Date of Birth: 1996-02-04
+  Career record: 4
+  First fight: 2019-04-20
+  Last fight: 2022-06-04
+
+Career Statistics:
+- Significant Strikes Landed :114
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :1

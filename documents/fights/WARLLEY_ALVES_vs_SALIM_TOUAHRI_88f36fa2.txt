@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cerrone vs. Till
+    Date: October 21, 2017
+    Location: Gdansk, Poland
+    Weight Class: Welterweight
+    
+
+    Result: WARLLEY ALVES defeated SALIM TOUAHRI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - WARLLEY ALVES landed 38 significant strikes
+  - SALIM TOUAHRI landed 35 significant strikes
+  - Knockdowns: WARLLEY ALVES 0,  SALIM TOUAHRI 0
+  - Takedowns: WARLLEY ALVES 2,  SALIM TOUAHRI 0

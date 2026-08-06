@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Heavy Hitters Finale
+    Date: November 30, 2018
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: TIM MEANS defeated RICKY RAINEY via KO/TKO  
+  at 1:18 of round 1
+  Key stats:
+  - TIM MEANS landed 19 significant strikes
+  - RICKY RAINEY landed 6 significant strikes
+  - Knockdowns: TIM MEANS 0,  RICKY RAINEY 0
+  - Takedowns: TIM MEANS 2,  RICKY RAINEY 0

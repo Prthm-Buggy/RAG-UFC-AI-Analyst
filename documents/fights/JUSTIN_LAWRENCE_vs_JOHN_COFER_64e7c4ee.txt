@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Live Finale
+    Date: June 01, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JUSTIN LAWRENCE defeated JOHN COFER via KO/TKO  
+  at 0:19 of round 3
+  Key stats:
+  - JUSTIN LAWRENCE landed 54 significant strikes
+  - JOHN COFER landed 36 significant strikes
+  - Knockdowns: JUSTIN LAWRENCE 1,  JOHN COFER 0
+  - Takedowns: JUSTIN LAWRENCE 1,  JOHN COFER 2
+  Bonus: fight

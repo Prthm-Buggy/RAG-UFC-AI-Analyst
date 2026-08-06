@@ -1,0 +1,11 @@
+Fighter: JOOSANG YOO
+  Date of Birth: 1994-01-21
+  Career record: 2
+  First fight: 2025-06-07
+  Last fight: 2025-10-04
+
+Career Statistics:
+- Significant Strikes Landed :37
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

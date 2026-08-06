@@ -1,0 +1,11 @@
+Fighter: JOHN HOWARD
+  Date of Birth: 1983-03-01
+  Career record: 14
+  First fight: 2009-01-31
+  Last fight: 2015-12-10
+
+Career Statistics:
+- Significant Strikes Landed :369
+- Total takedowns landed :31
+- Knockdowns :2
+- Submission Attempts :5

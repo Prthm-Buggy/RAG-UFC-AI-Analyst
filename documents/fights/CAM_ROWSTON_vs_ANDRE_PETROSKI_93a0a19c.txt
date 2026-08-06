@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ulberg vs. Reyes
+    Date: September 27, 2025
+    Location: Perth, Western Australia, Australia
+    Weight Class: Middleweight
+    
+
+    Result: CAM ROWSTON defeated ANDRE PETROSKI via KO/TKO  
+  at 2:41 of round 1
+  Key stats:
+  - CAM ROWSTON landed 12 significant strikes
+  - ANDRE PETROSKI landed 7 significant strikes
+  - Knockdowns: CAM ROWSTON 1,  ANDRE PETROSKI 0
+  - Takedowns: CAM ROWSTON 0,  ANDRE PETROSKI 0

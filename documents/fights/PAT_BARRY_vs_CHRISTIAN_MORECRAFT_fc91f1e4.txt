@@ -1,0 +1,14 @@
+Event: UFC on FX: Guillard vs Miller
+    Date: January 20, 2012
+    Location: Nashville, Tennessee, USA
+    Weight Class: Heavyweight
+    
+
+    Result: PAT BARRY defeated CHRISTIAN MORECRAFT via KO/TKO  
+  at 3:38 of round 1
+  Key stats:
+  - PAT BARRY landed 12 significant strikes
+  - CHRISTIAN MORECRAFT landed 3 significant strikes
+  - Knockdowns: PAT BARRY 1,  CHRISTIAN MORECRAFT 0
+  - Takedowns: PAT BARRY 0,  CHRISTIAN MORECRAFT 2
+  Bonus: fight

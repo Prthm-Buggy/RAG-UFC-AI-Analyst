@@ -1,0 +1,16 @@
+Event : UFC 149: Faber vs Barao
+    Date : July 21, 2012
+    Location: Calgary, Alberta, Canada
+    Number of Fights: 9
+    Weight Classes: Bantamweight, Heavyweight, Middleweight, Welterweight, Featherweight, Light Heavyweight, Lightweight
+
+    Fight Results:
+  - BRYAN CARAWAY def. MITCH GAGNON via Submission(R3)
+- JAMES HEAD def. BRIAN EBERSOLE via Decision - Split(R3)
+- RENAN BARAO def. URIJAH FABER via Decision - Unanimous(R5)
+- TIM BOETSCH def. HECTOR LOMBARD via Decision - Split(R3)
+- RYAN JIMMO def. ANTHONY PEROSH via KO/TKO(R1)
+- CHEICK KONGO def. SHAWN JORDAN via Decision - Unanimous(R3)
+- ANTON KUIVANEN def. MITCH CLARKE via Decision - Split(R3)
+- ANTONIO CARVALHO def. DANIEL PINEDA via KO/TKO(R1)
+- NICK RING def. COURT MCGEE via Decision - Unanimous(R3)

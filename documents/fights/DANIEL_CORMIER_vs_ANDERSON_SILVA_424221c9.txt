@@ -1,0 +1,13 @@
+Event: UFC 200: Tate vs Nunes
+    Date: July 09, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DANIEL CORMIER defeated ANDERSON SILVA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DANIEL CORMIER landed 33 significant strikes
+  - ANDERSON SILVA landed 17 significant strikes
+  - Knockdowns: DANIEL CORMIER 0,  ANDERSON SILVA 0
+  - Takedowns: DANIEL CORMIER 3,  ANDERSON SILVA 0

@@ -1,0 +1,11 @@
+Fighter: MIKE RHODES
+  Date of Birth: 1989-12-04
+  Career record: 3
+  First fight: 2014-01-25
+  Last fight: 2014-12-20
+
+Career Statistics:
+- Significant Strikes Landed :100
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :1

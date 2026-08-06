@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Muniz vs. Allen
+    Date: February 25, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: TREVOR PEEK defeated ERICK GONZALEZ via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - TREVOR PEEK landed 51 significant strikes
+  - ERICK GONZALEZ landed 7 significant strikes
+  - Knockdowns: TREVOR PEEK 2,  ERICK GONZALEZ 0
+  - Takedowns: TREVOR PEEK 0,  ERICK GONZALEZ 4
+  Bonus: perf

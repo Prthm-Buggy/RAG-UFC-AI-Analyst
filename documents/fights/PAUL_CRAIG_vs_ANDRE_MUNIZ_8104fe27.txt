@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Aspinall vs. Tybura
+    Date: July 22, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Middleweight
+    
+
+    Result: PAUL CRAIG defeated ANDRE MUNIZ via KO/TKO  
+  at 4:40 of round 2
+  Key stats:
+  - PAUL CRAIG landed 40 significant strikes
+  - ANDRE MUNIZ landed 24 significant strikes
+  - Knockdowns: PAUL CRAIG 0,  ANDRE MUNIZ 0
+  - Takedowns: PAUL CRAIG 2,  ANDRE MUNIZ 2
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: ALEX REYES
+  Date of Birth: 1986-10-02
+  Career record: 3
+  First fight: 2017-09-16
+  Last fight: 2024-08-17
+
+Career Statistics:
+- Significant Strikes Landed :89
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

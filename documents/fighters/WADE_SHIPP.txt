@@ -1,0 +1,11 @@
+Fighter: WADE SHIPP
+  Date of Birth: 1975-02-09
+  Career record: 1
+  First fight: 2004-04-02
+  Last fight: 2004-04-02
+
+Career Statistics:
+- Significant Strikes Landed :20
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

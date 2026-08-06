@@ -1,0 +1,14 @@
+Event: UFC 25: Ultimate Japan 3
+    Date: April 14, 2000
+    Location: Tokyo, Japan
+    Weight Class: Middleweight
+    
+
+    Result: TITO ORTIZ defeated WANDERLEI SILVA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - TITO ORTIZ landed 20 significant strikes
+  - WANDERLEI SILVA landed 10 significant strikes
+  - Knockdowns: TITO ORTIZ 1,  WANDERLEI SILVA 0
+  - Takedowns: TITO ORTIZ 4,  WANDERLEI SILVA 0
+  Bonus: belt

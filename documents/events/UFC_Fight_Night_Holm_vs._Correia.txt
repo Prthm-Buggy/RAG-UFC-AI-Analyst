@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Holm vs. Correia
+    Date : June 17, 2017
+    Location: Kallang, Singapore
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Flyweight, Lightweight, Welterweight, Women's Bantamweight, Featherweight
+
+    Fight Results:
+  - MARCIN TYBURA def. ANDREI ARLOVSKI via Decision - Unanimous(R3)
+- RAFAEL DOS ANJOS def. TAREC SAFFIEDINE via Decision - Unanimous(R3)
+- ALEX CACERES def. ROLANDO DY via TKO - Doctor's Stoppage(R2)
+- COLBY COVINGTON def. DONG HYUN KIM via Decision - Unanimous(R3)
+- RUSSELL DOANE def. KWAN HO KWAK via KO/TKO(R1)
+- NAOKI INOUE def. CARLS JOHN DE TOMAS via Decision - Unanimous(R3)
+- WALT HARRIS def. CYRIL ASKER via KO/TKO(R1)
+- HOLLY HOLM def. BETHE CORREIA via KO/TKO(R3)
+- LI JINGLIANG def. FRANK CAMACHO via Decision - Unanimous(R3)
+- YUTA SASAKI def. JUSTIN SCOGGINS via Submission(R2)
+- LUCIE PUDILOVA def. JI YEON KIM via Decision - Unanimous(R3)
+- JON TUCK def. TAKANORI GOMI via Submission(R1)

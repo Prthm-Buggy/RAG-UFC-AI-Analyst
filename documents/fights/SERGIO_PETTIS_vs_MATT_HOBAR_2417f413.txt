@@ -1,0 +1,14 @@
+Event: UFC 181: Hendricks vs Lawler II
+    Date: December 06, 2014
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: SERGIO PETTIS defeated MATT HOBAR via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - SERGIO PETTIS landed 78 significant strikes
+  - MATT HOBAR landed 36 significant strikes
+  - Knockdowns: SERGIO PETTIS 0,  MATT HOBAR 1
+  - Takedowns: SERGIO PETTIS 0,  MATT HOBAR 2
+  Bonus: fight

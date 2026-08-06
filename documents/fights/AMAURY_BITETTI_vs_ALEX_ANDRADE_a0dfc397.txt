@@ -1,0 +1,13 @@
+Event: UFC 26: Ultimate Field Of Dreams
+    Date: June 09, 2000
+    Location: Cedar Rapids, Iowa, USA
+    Weight Class: Middleweight
+    
+
+    Result: AMAURY BITETTI defeated ALEX ANDRADE via DQ  
+  at 0:43 of round 2
+  Key stats:
+  - AMAURY BITETTI landed 6 significant strikes
+  - ALEX ANDRADE landed 12 significant strikes
+  - Knockdowns: AMAURY BITETTI 0,  ALEX ANDRADE 1
+  - Takedowns: AMAURY BITETTI 0,  ALEX ANDRADE 0

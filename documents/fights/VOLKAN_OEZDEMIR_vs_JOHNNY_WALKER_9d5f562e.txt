@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Whittaker vs. Aliskerov
+    Date: June 22, 2024
+    Location: Riyadh, Riyadh, Saudi Arabia
+    Weight Class: Light Heavyweight
+    
+
+    Result: VOLKAN OEZDEMIR defeated JOHNNY WALKER via KO/TKO  
+  at 2:28 of round 1
+  Key stats:
+  - VOLKAN OEZDEMIR landed 37 significant strikes
+  - JOHNNY WALKER landed 15 significant strikes
+  - Knockdowns: VOLKAN OEZDEMIR 2,  JOHNNY WALKER 0
+  - Takedowns: VOLKAN OEZDEMIR 0,  JOHNNY WALKER 0
+  Bonus: perf

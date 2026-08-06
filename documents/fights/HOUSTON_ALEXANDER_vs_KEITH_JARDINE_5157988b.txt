@@ -1,0 +1,13 @@
+Event: UFC 71: Liddell vs Jackson
+    Date: May 26, 2007
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: HOUSTON ALEXANDER defeated KEITH JARDINE via KO/TKO  
+  at 0:48 of round 1
+  Key stats:
+  - HOUSTON ALEXANDER landed 17 significant strikes
+  - KEITH JARDINE landed 5 significant strikes
+  - Knockdowns: HOUSTON ALEXANDER 2,  KEITH JARDINE 0
+  - Takedowns: HOUSTON ALEXANDER 0,  KEITH JARDINE 0

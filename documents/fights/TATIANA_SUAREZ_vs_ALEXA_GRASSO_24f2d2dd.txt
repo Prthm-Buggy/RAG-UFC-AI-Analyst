@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs. Usman
+    Date: May 19, 2018
+    Location: Santiago, Chile
+    Weight Class: Women's Strawweight
+    
+
+    Result: TATIANA SUAREZ defeated ALEXA GRASSO via Submission  
+  at 2:44 of round 1
+  Key stats:
+  - TATIANA SUAREZ landed 2 significant strikes
+  - ALEXA GRASSO landed 6 significant strikes
+  - Knockdowns: TATIANA SUAREZ 0,  ALEXA GRASSO 0
+  - Takedowns: TATIANA SUAREZ 2,  ALEXA GRASSO 0

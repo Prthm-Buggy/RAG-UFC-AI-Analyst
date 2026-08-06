@@ -1,0 +1,13 @@
+Event: UFC 66: Liddell vs Ortiz 2
+    Date: December 30, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: YUSHIN OKAMI defeated RORY SINGER via KO/TKO  
+  at 4:03 of round 3
+  Key stats:
+  - YUSHIN OKAMI landed 35 significant strikes
+  - RORY SINGER landed 28 significant strikes
+  - Knockdowns: YUSHIN OKAMI 0,  RORY SINGER 0
+  - Takedowns: YUSHIN OKAMI 3,  RORY SINGER 0

@@ -1,0 +1,13 @@
+Event: UFC 239: Jones vs. Santos
+    Date: July 06, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARLON VERA defeated NOHELIN HERNANDEZ via Submission  
+  at 3:25 of round 2
+  Key stats:
+  - MARLON VERA landed 10 significant strikes
+  - NOHELIN HERNANDEZ landed 22 significant strikes
+  - Knockdowns: MARLON VERA 0,  NOHELIN HERNANDEZ 0
+  - Takedowns: MARLON VERA 1,  NOHELIN HERNANDEZ 1

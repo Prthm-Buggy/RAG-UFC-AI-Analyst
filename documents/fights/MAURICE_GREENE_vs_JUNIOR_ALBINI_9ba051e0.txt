@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ngannou vs. Dos Santos
+    Date: June 29, 2019
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MAURICE GREENE defeated JUNIOR ALBINI via KO/TKO  
+  at 3:38 of round 1
+  Key stats:
+  - MAURICE GREENE landed 37 significant strikes
+  - JUNIOR ALBINI landed 19 significant strikes
+  - Knockdowns: MAURICE GREENE 2,  JUNIOR ALBINI 0
+  - Takedowns: MAURICE GREENE 0,  JUNIOR ALBINI 0

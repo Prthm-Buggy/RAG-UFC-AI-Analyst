@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Mousasi vs. Hall 2
+    Date: November 19, 2016
+    Location: Belfast, Northern Ireland, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: KEVIN LEE defeated MAGOMED MUSTAFAEV via Submission  
+  at 4:31 of round 2
+  Key stats:
+  - KEVIN LEE landed 20 significant strikes
+  - MAGOMED MUSTAFAEV landed 20 significant strikes
+  - Knockdowns: KEVIN LEE 0,  MAGOMED MUSTAFAEV 0
+  - Takedowns: KEVIN LEE 7,  MAGOMED MUSTAFAEV 0
+  Bonus: perf

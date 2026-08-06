@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Nogueira vs. Werdum
+    Date: June 08, 2013
+    Location: Fortaleza, Ceara, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: RAPHAEL ASSUNCAO defeated VAUGHAN LEE via Submission  
+  at 1:51 of round 2
+  Key stats:
+  - RAPHAEL ASSUNCAO landed 17 significant strikes
+  - VAUGHAN LEE landed 14 significant strikes
+  - Knockdowns: RAPHAEL ASSUNCAO 0,  VAUGHAN LEE 0
+  - Takedowns: RAPHAEL ASSUNCAO 3,  VAUGHAN LEE 0

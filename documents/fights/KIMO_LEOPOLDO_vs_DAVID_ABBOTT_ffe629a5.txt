@@ -1,0 +1,13 @@
+Event: UFC 43: Meltdown
+    Date: June 06, 2003
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Heavyweight
+    
+
+    Result: KIMO LEOPOLDO defeated DAVID ABBOTT via Submission  
+  at 1:59 of round 1
+  Key stats:
+  - KIMO LEOPOLDO landed 1 significant strikes
+  - DAVID ABBOTT landed 0 significant strikes
+  - Knockdowns: KIMO LEOPOLDO 0,  DAVID ABBOTT 0
+  - Takedowns: KIMO LEOPOLDO 1,  DAVID ABBOTT 0

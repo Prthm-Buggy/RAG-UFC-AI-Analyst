@@ -1,0 +1,11 @@
+Fighter: BEN NGUYEN
+  Date of Birth: 1988-08-03
+  Career record: 7
+  First fight: 2015-05-09
+  Last fight: 2018-12-01
+
+Career Statistics:
+- Significant Strikes Landed :210
+- Total takedowns landed :1
+- Knockdowns :3
+- Submission Attempts :4

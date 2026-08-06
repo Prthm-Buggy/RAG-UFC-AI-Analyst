@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Ribas vs. Namajunas
+    Date: March 23, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: JULIAN EROSA defeated RICARDO RAMOS via Submission  
+  at 2:15 of round 1
+  Key stats:
+  - JULIAN EROSA landed 4 significant strikes
+  - RICARDO RAMOS landed 7 significant strikes
+  - Knockdowns: JULIAN EROSA 0,  RICARDO RAMOS 0
+  - Takedowns: JULIAN EROSA 0,  RICARDO RAMOS 2

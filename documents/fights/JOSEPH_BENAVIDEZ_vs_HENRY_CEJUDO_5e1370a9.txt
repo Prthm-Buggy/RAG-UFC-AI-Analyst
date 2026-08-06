@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Tournament of Champions Finale
+    Date: December 03, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOSEPH BENAVIDEZ defeated HENRY CEJUDO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JOSEPH BENAVIDEZ landed 69 significant strikes
+  - HENRY CEJUDO landed 68 significant strikes
+  - Knockdowns: JOSEPH BENAVIDEZ 0,  HENRY CEJUDO 1
+  - Takedowns: JOSEPH BENAVIDEZ 0,  HENRY CEJUDO 1

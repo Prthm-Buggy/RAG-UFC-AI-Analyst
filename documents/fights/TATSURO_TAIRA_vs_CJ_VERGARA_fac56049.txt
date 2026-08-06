@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Grasso vs. Araujo
+    Date: October 15, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Flyweight
+    
+
+    Result: TATSURO TAIRA defeated CJ VERGARA via Submission  
+  at 4:19 of round 2
+  Key stats:
+  - TATSURO TAIRA landed 22 significant strikes
+  - CJ VERGARA landed 19 significant strikes
+  - Knockdowns: TATSURO TAIRA 0,  CJ VERGARA 0
+  - Takedowns: TATSURO TAIRA 3,  CJ VERGARA 0
+  Bonus: perf

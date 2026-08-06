@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lineker vs. Dodson
+    Date: October 01, 2016
+    Location: Portland, Oregon, USA
+    Weight Class: Flyweight
+    
+
+    Result: BRANDON MORENO defeated LOUIS SMOLKA via Submission  
+  at 2:23 of round 1
+  Key stats:
+  - BRANDON MORENO landed 8 significant strikes
+  - LOUIS SMOLKA landed 7 significant strikes
+  - Knockdowns: BRANDON MORENO 0,  LOUIS SMOLKA 0
+  - Takedowns: BRANDON MORENO 1,  LOUIS SMOLKA 1
+  Bonus: perf

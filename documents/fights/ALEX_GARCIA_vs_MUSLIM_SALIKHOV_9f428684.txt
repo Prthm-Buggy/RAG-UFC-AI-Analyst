@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Bisping vs. Gastelum
+    Date: November 25, 2017
+    Location: Shanghai, Hebei, China
+    Weight Class: Welterweight
+    
+
+    Result: ALEX GARCIA defeated MUSLIM SALIKHOV via Submission  
+  at 3:22 of round 2
+  Key stats:
+  - ALEX GARCIA landed 6 significant strikes
+  - MUSLIM SALIKHOV landed 10 significant strikes
+  - Knockdowns: ALEX GARCIA 0,  MUSLIM SALIKHOV 0
+  - Takedowns: ALEX GARCIA 3,  MUSLIM SALIKHOV 0

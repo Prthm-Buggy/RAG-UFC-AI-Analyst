@@ -1,0 +1,11 @@
+Fighter: PASCAL KRAUSS
+  Date of Birth: 1987-04-19
+  Career record: 4
+  First fight: 2010-11-13
+  Last fight: 2013-08-31
+
+Career Statistics:
+- Significant Strikes Landed :267
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :3

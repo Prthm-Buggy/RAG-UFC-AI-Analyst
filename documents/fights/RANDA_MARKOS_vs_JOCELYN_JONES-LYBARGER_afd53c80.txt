@@ -1,0 +1,13 @@
+Event: UFC Fight Night: MacDonald vs Thompson
+    Date: June 18, 2016
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Women's Strawweight
+    
+
+    Result: RANDA MARKOS defeated JOCELYN JONES-LYBARGER via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RANDA MARKOS landed 86 significant strikes
+  - JOCELYN JONES-LYBARGER landed 79 significant strikes
+  - Knockdowns: RANDA MARKOS 0,  JOCELYN JONES-LYBARGER 0
+  - Takedowns: RANDA MARKOS 1,  JOCELYN JONES-LYBARGER 1

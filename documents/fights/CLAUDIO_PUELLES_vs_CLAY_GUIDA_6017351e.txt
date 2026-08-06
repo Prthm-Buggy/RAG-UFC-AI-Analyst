@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lemos vs. Andrade
+    Date: April 23, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: CLAUDIO PUELLES defeated CLAY GUIDA via Submission  
+  at 3:01 of round 1
+  Key stats:
+  - CLAUDIO PUELLES landed 1 significant strikes
+  - CLAY GUIDA landed 3 significant strikes
+  - Knockdowns: CLAUDIO PUELLES 0,  CLAY GUIDA 0
+  - Takedowns: CLAUDIO PUELLES 0,  CLAY GUIDA 0
+  Bonus: perf

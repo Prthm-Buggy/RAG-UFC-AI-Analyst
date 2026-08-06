@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cerrone vs. Till
+    Date: October 21, 2017
+    Location: Gdansk, Poland
+    Weight Class: Women's Bantamweight
+    
+
+    Result: ASPEN LADD defeated LINA LANSBERG via KO/TKO  
+  at 2:33 of round 2
+  Key stats:
+  - ASPEN LADD landed 26 significant strikes
+  - LINA LANSBERG landed 41 significant strikes
+  - Knockdowns: ASPEN LADD 0,  LINA LANSBERG 0
+  - Takedowns: ASPEN LADD 1,  LINA LANSBERG 0

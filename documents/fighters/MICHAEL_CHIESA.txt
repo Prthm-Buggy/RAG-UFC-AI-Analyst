@@ -1,0 +1,11 @@
+Fighter: MICHAEL CHIESA
+  Date of Birth: 1987-12-07
+  Career record: 22
+  First fight: 2012-06-01
+  Last fight: 2026-03-28
+
+Career Statistics:
+- Significant Strikes Landed :409
+- Total takedowns landed :42
+- Knockdowns :1
+- Submission Attempts :14

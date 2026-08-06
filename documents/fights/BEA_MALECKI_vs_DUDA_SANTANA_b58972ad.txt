@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Gustafsson vs. Smith
+    Date: June 01, 2019
+    Location: Stockholm, Sweden
+    Weight Class: Women's Bantamweight
+    
+
+    Result: BEA MALECKI defeated DUDA SANTANA via Submission  
+  at 1:59 of round 2
+  Key stats:
+  - BEA MALECKI landed 19 significant strikes
+  - DUDA SANTANA landed 42 significant strikes
+  - Knockdowns: BEA MALECKI 0,  DUDA SANTANA 0
+  - Takedowns: BEA MALECKI 0,  DUDA SANTANA 3

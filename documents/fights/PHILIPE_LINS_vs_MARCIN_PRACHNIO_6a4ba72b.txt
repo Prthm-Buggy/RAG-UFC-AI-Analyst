@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lemos vs. Andrade
+    Date: April 23, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: PHILIPE LINS defeated MARCIN PRACHNIO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - PHILIPE LINS landed 64 significant strikes
+  - MARCIN PRACHNIO landed 74 significant strikes
+  - Knockdowns: PHILIPE LINS 0,  MARCIN PRACHNIO 0
+  - Takedowns: PHILIPE LINS 4,  MARCIN PRACHNIO 0

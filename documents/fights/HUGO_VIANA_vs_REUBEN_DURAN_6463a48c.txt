@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Carwin vs. Team Nelson Finale
+    Date: December 15, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: HUGO VIANA defeated REUBEN DURAN via KO/TKO  
+  at 4:05 of round 1
+  Key stats:
+  - HUGO VIANA landed 22 significant strikes
+  - REUBEN DURAN landed 8 significant strikes
+  - Knockdowns: HUGO VIANA 3,  REUBEN DURAN 0
+  - Takedowns: HUGO VIANA 0,  REUBEN DURAN 0

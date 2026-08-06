@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Garcia vs. Onama
+    Date: November 01, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: TALITA ALENCAR defeated ARIANE CARNELOSSI via Submission  
+  at 4:36 of round 3
+  Key stats:
+  - TALITA ALENCAR landed 60 significant strikes
+  - ARIANE CARNELOSSI landed 25 significant strikes
+  - Knockdowns: TALITA ALENCAR 0,  ARIANE CARNELOSSI 0
+  - Takedowns: TALITA ALENCAR 5,  ARIANE CARNELOSSI 0

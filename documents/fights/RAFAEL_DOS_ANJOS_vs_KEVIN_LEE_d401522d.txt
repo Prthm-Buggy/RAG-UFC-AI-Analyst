@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dos Anjos vs. Lee
+    Date: May 18, 2019
+    Location: Rochester, New York, USA
+    Weight Class: Welterweight
+    
+
+    Result: RAFAEL DOS ANJOS defeated KEVIN LEE via Submission  
+  at 3:47 of round 4
+  Key stats:
+  - RAFAEL DOS ANJOS landed 60 significant strikes
+  - KEVIN LEE landed 35 significant strikes
+  - Knockdowns: RAFAEL DOS ANJOS 0,  KEVIN LEE 0
+  - Takedowns: RAFAEL DOS ANJOS 4,  KEVIN LEE 6

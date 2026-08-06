@@ -1,0 +1,13 @@
+Event: UFC Live: Cruz vs Johnson
+    Date: October 01, 2011
+    Location: Washington, DC, USA
+    Weight Class: Bantamweight
+    
+
+    Result: WALEL WATSON defeated JOSEPH SANDOVAL via KO/TKO  
+  at 1:17 of round 1
+  Key stats:
+  - WALEL WATSON landed 9 significant strikes
+  - JOSEPH SANDOVAL landed 0 significant strikes
+  - Knockdowns: WALEL WATSON 2,  JOSEPH SANDOVAL 0
+  - Takedowns: WALEL WATSON 0,  JOSEPH SANDOVAL 0

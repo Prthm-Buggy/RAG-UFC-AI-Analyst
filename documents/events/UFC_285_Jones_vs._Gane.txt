@@ -1,0 +1,21 @@
+Event : UFC 285: Jones vs. Gane
+    Date : March 04, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 14
+    Weight Classes: Middleweight, Welterweight, Women's Strawweight, Lightweight, Bantamweight, Women's Flyweight, Heavyweight
+
+    Fight Results:
+  - JON JONES def. CIRYL GANE via Submission(R1)
+- CAMERON SAAIMAN def. MANA MARTINEZ via Decision - Majority(R3)
+- BO NICKAL def. JAMIE PICKETT via Submission(R1)
+- LOIK RADZHABOV def. ESTEBAN RIBOVICS via Decision - Unanimous(R3)
+- FARID BASHARAT def. DA'MON BLACKSHEAR via Decision - Unanimous(R3)
+- IAN MACHADO GARRY def. SONG KENAN via KO/TKO(R3)
+- TABATHA RICCI def. JESSICA PENNE via Submission(R2)
+- ALEXA GRASSO def. VALENTINA SHEVCHENKO via Submission(R4)
+- MARC-ANDRE BARRIAULT def. JULIAN MARQUEZ via KO/TKO(R2)
+- MATEUSZ GAMROT def. JALIN TURNER via Decision - Split(R3)
+- DRICUS DU PLESSIS def. DEREK BRUNSON via KO/TKO(R2)
+- SHAVKAT RAKHMONOV def. GEOFF NEAL via Submission(R3)
+- AMANDA RIBAS def. VIVIANE ARAUJO via Decision - Unanimous(R3)
+- CODY GARBRANDT def. TREVIN JONES via Decision - Unanimous(R3)

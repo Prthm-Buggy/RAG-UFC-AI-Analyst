@@ -1,0 +1,19 @@
+Event : UFC 169: Barao vs Faber 2
+    Date : February 01, 2014
+    Location: Newark, New Jersey, USA
+    Number of Fights: 12
+    Weight Classes: Featherweight, Flyweight, Lightweight, Middleweight, Welterweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - RASHID MAGOMEDOV def. ANTHONY ROCCO MARTIN via Decision - Unanimous(R3)
+- ALISTAIR OVEREEM def. FRANK MIR via Decision - Unanimous(R3)
+- JOSE ALDO def. RICARDO LAMAS via Decision - Unanimous(R5)
+- CHRIS CARIASO def. DANNY MARTINEZ via Decision - Unanimous(R3)
+- AL IAQUINTA def. KEVIN LEE via Decision - Unanimous(R3)
+- ALI BAGAUTINOV def. JOHN LINEKER via Decision - Unanimous(R3)
+- ABEL TRUJILLO def. JAMIE VARNER via KO/TKO(R2)
+- ALAN PATRICK def. JOHN MAKDESSI via Decision - Unanimous(R3)
+- NICK CATONE def. TOM WATSON via Decision - Split(R3)
+- RENAN BARAO def. URIJAH FABER via KO/TKO(R1)
+- NEIL MAGNY def. GASAN UMALATOV via Decision - Unanimous(R3)
+- CLINT HESTER def. ANDY ENZ via Decision - Unanimous(R3)

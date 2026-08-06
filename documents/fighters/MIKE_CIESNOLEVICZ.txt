@@ -1,0 +1,11 @@
+Fighter: MIKE CIESNOLEVICZ
+  Date of Birth: 1979-10-28
+  Career record: 2
+  First fight: 2009-02-21
+  Last fight: 2009-06-20
+
+Career Statistics:
+- Significant Strikes Landed :3
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :2

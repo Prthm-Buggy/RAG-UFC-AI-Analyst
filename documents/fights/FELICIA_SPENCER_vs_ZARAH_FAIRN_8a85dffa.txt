@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Benavidez vs. Figueiredo
+    Date: February 29, 2020
+    Location: Norfolk, Virginia, USA
+    Weight Class: Women's Featherweight
+    
+
+    Result: FELICIA SPENCER defeated ZARAH FAIRN via KO/TKO  
+  at 3:37 of round 1
+  Key stats:
+  - FELICIA SPENCER landed 40 significant strikes
+  - ZARAH FAIRN landed 13 significant strikes
+  - Knockdowns: FELICIA SPENCER 0,  ZARAH FAIRN 0
+  - Takedowns: FELICIA SPENCER 1,  ZARAH FAIRN 0

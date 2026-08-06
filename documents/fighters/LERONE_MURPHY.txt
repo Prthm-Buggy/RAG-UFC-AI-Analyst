@@ -1,0 +1,11 @@
+Fighter: LERONE MURPHY
+  Date of Birth: 1991-07-22
+  Career record: 10
+  First fight: 2020-07-15
+  Last fight: 2026-03-21
+
+Career Statistics:
+- Significant Strikes Landed :679
+- Total takedowns landed :13
+- Knockdowns :3
+- Submission Attempts :3

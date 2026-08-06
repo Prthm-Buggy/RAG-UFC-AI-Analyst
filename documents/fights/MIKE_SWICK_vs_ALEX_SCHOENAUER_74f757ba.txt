@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Couture vs. Team Liddell Finale
+    Date: April 09, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MIKE SWICK defeated ALEX SCHOENAUER via KO/TKO  
+  at 0:20 of round 1
+  Key stats:
+  - MIKE SWICK landed 7 significant strikes
+  - ALEX SCHOENAUER landed 1 significant strikes
+  - Knockdowns: MIKE SWICK 1,  ALEX SCHOENAUER 0
+  - Takedowns: MIKE SWICK 0,  ALEX SCHOENAUER 0

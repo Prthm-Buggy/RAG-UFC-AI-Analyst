@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Makhachev vs. Green
+    Date: February 26, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: WELLINGTON TURMAN defeated MISHA CIRKUNOV via Submission  
+  at 1:29 of round 2
+  Key stats:
+  - WELLINGTON TURMAN landed 15 significant strikes
+  - MISHA CIRKUNOV landed 30 significant strikes
+  - Knockdowns: WELLINGTON TURMAN 0,  MISHA CIRKUNOV 0
+  - Takedowns: WELLINGTON TURMAN 0,  MISHA CIRKUNOV 1
+  Bonus: perf

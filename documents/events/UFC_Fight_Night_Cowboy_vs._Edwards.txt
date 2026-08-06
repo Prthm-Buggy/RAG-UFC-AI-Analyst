@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Cowboy vs. Edwards
+    Date : June 23, 2018
+    Location: Kallang, Singapore
+    Number of Fights: 13
+    Weight Classes: Women's Strawweight, Welterweight, Light Heavyweight, Flyweight, Featherweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - JAKE MATTHEWS def. SHINSHO ANZAI via Submission(R1)
+- PETR YAN def. TERUTO ISHIHARA via KO/TKO(R1)
+- YAN XIAONAN def. VIVIANE PEREIRA via Decision - Unanimous(R3)
+- MATT SCHNELL def. NAOKI INOUE via Decision - Split(R3)
+- LI JINGLIANG def. DAICHI ABE via Decision - Unanimous(R3)
+- SONG YADONG def. FELIPE ARANTES via KO/TKO(R2)
+- OVINCE SAINT PREUX def. TYSON PEDRO via Submission(R1)
+- JESSICA EYE def. JESSICA-ROSE CLARK via Decision - Unanimous(R3)
+- SHANE YOUNG def. ROLANDO DY via KO/TKO(R2)
+- YUTA SASAKI def. JENEL LAUSA via Submission(R2)
+- LEON EDWARDS def. DONALD CERRONE via Decision - Unanimous(R5)
+- SONG KENAN def. HECTOR ALDANA via KO/TKO(R2)
+- JI YEON KIM def. MELINDA FABIAN via Decision - Split(R3)

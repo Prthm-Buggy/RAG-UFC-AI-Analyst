@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Hall vs. Silva
+    Date: October 31, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JASON WITT defeated COLE WILLIAMS via Submission  
+  at 2:09 of round 2
+  Key stats:
+  - JASON WITT landed 20 significant strikes
+  - COLE WILLIAMS landed 1 significant strikes
+  - Knockdowns: JASON WITT 0,  COLE WILLIAMS 0
+  - Takedowns: JASON WITT 2,  COLE WILLIAMS 0

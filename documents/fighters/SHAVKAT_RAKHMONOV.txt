@@ -1,0 +1,11 @@
+Fighter: SHAVKAT RAKHMONOV
+  Date of Birth: 1994-10-23
+  Career record: 7
+  First fight: 2020-10-24
+  Last fight: 2024-12-07
+
+Career Statistics:
+- Significant Strikes Landed :244
+- Total takedowns landed :7
+- Knockdowns :1
+- Submission Attempts :6

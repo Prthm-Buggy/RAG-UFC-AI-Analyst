@@ -1,0 +1,14 @@
+Event: UFC 163: Aldo vs Jung
+    Date: August 03, 2013
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: JOSE ALDO defeated CHAN SUNG JUNG via KO/TKO  
+  at 2:00 of round 4
+  Key stats:
+  - JOSE ALDO landed 32 significant strikes
+  - CHAN SUNG JUNG landed 17 significant strikes
+  - Knockdowns: JOSE ALDO 0,  CHAN SUNG JUNG 0
+  - Takedowns: JOSE ALDO 5,  CHAN SUNG JUNG 0
+  Bonus: belt

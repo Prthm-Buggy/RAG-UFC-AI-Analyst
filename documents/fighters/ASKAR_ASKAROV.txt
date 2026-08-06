@@ -1,0 +1,11 @@
+Fighter: ASKAR ASKAROV
+  Date of Birth: 1992-10-09
+  Career record: 4
+  First fight: 2020-01-18
+  Last fight: 2022-03-26
+
+Career Statistics:
+- Significant Strikes Landed :199
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :2

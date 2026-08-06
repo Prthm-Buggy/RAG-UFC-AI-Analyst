@@ -1,0 +1,11 @@
+Fighter: ROGER ZAPATA
+  Date of Birth: 1986-05-09
+  Career record: 1
+  First fight: 2015-09-26
+  Last fight: 2015-09-26
+
+Career Statistics:
+- Significant Strikes Landed :28
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :1

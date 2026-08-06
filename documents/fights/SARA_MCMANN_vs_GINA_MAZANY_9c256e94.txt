@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Browne
+    Date: February 19, 2017
+    Location: Halifax, Nova Scotia, Canada
+    Weight Class: Women's Bantamweight
+    
+
+    Result: SARA MCMANN defeated GINA MAZANY via Submission  
+  at 1:14 of round 1
+  Key stats:
+  - SARA MCMANN landed 7 significant strikes
+  - GINA MAZANY landed 0 significant strikes
+  - Knockdowns: SARA MCMANN 0,  GINA MAZANY 0
+  - Takedowns: SARA MCMANN 2,  GINA MAZANY 0

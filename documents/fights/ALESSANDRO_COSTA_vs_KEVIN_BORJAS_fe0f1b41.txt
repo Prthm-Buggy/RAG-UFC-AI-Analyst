@@ -1,0 +1,14 @@
+Event: UFC 301: Pantoja vs. Erceg
+    Date: May 04, 2024
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Flyweight
+    
+
+    Result: ALESSANDRO COSTA defeated KEVIN BORJAS via KO/TKO  
+  at 1:35 of round 2
+  Key stats:
+  - ALESSANDRO COSTA landed 46 significant strikes
+  - KEVIN BORJAS landed 18 significant strikes
+  - Knockdowns: ALESSANDRO COSTA 1,  KEVIN BORJAS 0
+  - Takedowns: ALESSANDRO COSTA 0,  KEVIN BORJAS 0
+  Bonus: perf

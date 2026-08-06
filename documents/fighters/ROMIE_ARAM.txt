@@ -1,0 +1,11 @@
+Fighter: ROMIE ARAM
+  Date of Birth: 1977-12-02
+  Career record: 1
+  First fight: 2003-04-25
+  Last fight: 2003-04-25
+
+Career Statistics:
+- Significant Strikes Landed :24
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :0

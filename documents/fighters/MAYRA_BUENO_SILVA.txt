@@ -1,0 +1,11 @@
+Fighter: MAYRA BUENO SILVA
+  Date of Birth: 1991-08-22
+  Career record: 12
+  First fight: 2018-09-22
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :496
+- Total takedowns landed :5
+- Knockdowns :0
+- Submission Attempts :10

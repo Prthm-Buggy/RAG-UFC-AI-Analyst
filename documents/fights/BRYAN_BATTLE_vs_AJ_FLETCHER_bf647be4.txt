@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fiziev vs. Gamrot
+    Date: September 23, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: BRYAN BATTLE defeated AJ FLETCHER via Submission  
+  at 4:32 of round 2
+  Key stats:
+  - BRYAN BATTLE landed 45 significant strikes
+  - AJ FLETCHER landed 25 significant strikes
+  - Knockdowns: BRYAN BATTLE 0,  AJ FLETCHER 0
+  - Takedowns: BRYAN BATTLE 1,  AJ FLETCHER 0

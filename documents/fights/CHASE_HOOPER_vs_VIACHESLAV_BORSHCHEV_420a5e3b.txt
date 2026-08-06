@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Nascimento
+    Date: May 11, 2024
+    Location: St. Louis, Missouri, USA
+    Weight Class: Lightweight
+    
+
+    Result: CHASE HOOPER defeated VIACHESLAV BORSHCHEV via Submission  
+  at 3:00 of round 2
+  Key stats:
+  - CHASE HOOPER landed 62 significant strikes
+  - VIACHESLAV BORSHCHEV landed 2 significant strikes
+  - Knockdowns: CHASE HOOPER 1,  VIACHESLAV BORSHCHEV 0
+  - Takedowns: CHASE HOOPER 1,  VIACHESLAV BORSHCHEV 0

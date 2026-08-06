@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Namajunas vs. VanZant
+    Date: December 10, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALJAMAIN STERLING defeated JOHNNY EDUARDO via Submission  
+  at 4:18 of round 2
+  Key stats:
+  - ALJAMAIN STERLING landed 23 significant strikes
+  - JOHNNY EDUARDO landed 4 significant strikes
+  - Knockdowns: ALJAMAIN STERLING 0,  JOHNNY EDUARDO 0
+  - Takedowns: ALJAMAIN STERLING 2,  JOHNNY EDUARDO 0

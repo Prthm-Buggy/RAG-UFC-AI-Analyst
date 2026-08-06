@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Gomi
+    Date: March 31, 2010
+    Location: Charlotte, North Carolina, USA
+    Weight Class: Lightweight
+    
+
+    Result: JACOB VOLKMANN defeated RONYS TORRES via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JACOB VOLKMANN landed 24 significant strikes
+  - RONYS TORRES landed 20 significant strikes
+  - Knockdowns: JACOB VOLKMANN 0,  RONYS TORRES 0
+  - Takedowns: JACOB VOLKMANN 5,  RONYS TORRES 3

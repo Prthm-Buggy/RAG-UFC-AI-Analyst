@@ -1,0 +1,11 @@
+Fighter: BRIAN MELANCON
+  Date of Birth: 1982-05-28
+  Career record: 2
+  First fight: 2013-07-06
+  Last fight: 2013-08-28
+
+Career Statistics:
+- Significant Strikes Landed :31
+- Total takedowns landed :1
+- Knockdowns :1
+- Submission Attempts :0

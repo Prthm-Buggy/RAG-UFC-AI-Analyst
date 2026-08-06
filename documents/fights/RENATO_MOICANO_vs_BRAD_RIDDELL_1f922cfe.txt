@@ -1,0 +1,13 @@
+Event: UFC 281: Adesanya vs. Pereira
+    Date: November 12, 2022
+    Location: New York City, New York, USA
+    Weight Class: Lightweight
+    
+
+    Result: RENATO MOICANO defeated BRAD RIDDELL via Submission  
+  at 3:20 of round 1
+  Key stats:
+  - RENATO MOICANO landed 10 significant strikes
+  - BRAD RIDDELL landed 14 significant strikes
+  - Knockdowns: RENATO MOICANO 0,  BRAD RIDDELL 0
+  - Takedowns: RENATO MOICANO 0,  BRAD RIDDELL 0

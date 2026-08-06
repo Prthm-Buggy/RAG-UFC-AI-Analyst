@@ -1,0 +1,14 @@
+Event: UFC 95: Sanchez vs Stevenson
+    Date: February 21, 2009
+    Location: London, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: PAULO THIAGO defeated JOSH KOSCHECK via KO/TKO  
+  at 3:29 of round 1
+  Key stats:
+  - PAULO THIAGO landed 7 significant strikes
+  - JOSH KOSCHECK landed 8 significant strikes
+  - Knockdowns: PAULO THIAGO 1,  JOSH KOSCHECK 0
+  - Takedowns: PAULO THIAGO 0,  JOSH KOSCHECK 0
+  Bonus: ko

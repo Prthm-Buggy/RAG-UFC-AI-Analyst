@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Live Finale
+    Date: June 01, 2012
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MYLES JURY defeated CHRIS SAUNDERS via Submission  
+  at 4:03 of round 1
+  Key stats:
+  - MYLES JURY landed 12 significant strikes
+  - CHRIS SAUNDERS landed 6 significant strikes
+  - Knockdowns: MYLES JURY 0,  CHRIS SAUNDERS 0
+  - Takedowns: MYLES JURY 0,  CHRIS SAUNDERS 1

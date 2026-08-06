@@ -1,0 +1,14 @@
+Event: UFC 86: Jackson vs Griffin
+    Date: July 05, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: COLE MILLER defeated JORGE GURGEL via Submission  
+  at 4:48 of round 3
+  Key stats:
+  - COLE MILLER landed 41 significant strikes
+  - JORGE GURGEL landed 54 significant strikes
+  - Knockdowns: COLE MILLER 0,  JORGE GURGEL 0
+  - Takedowns: COLE MILLER 1,  JORGE GURGEL 3
+  Bonus: sub

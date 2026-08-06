@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Alvarez vs. Poirier 2
+    Date: July 28, 2018
+    Location: Calgary, Alberta, Canada
+    Weight Class: Lightweight
+    
+
+    Result: ISLAM MAKHACHEV defeated KAJAN JOHNSON via Submission  
+  at 4:43 of round 1
+  Key stats:
+  - ISLAM MAKHACHEV landed 7 significant strikes
+  - KAJAN JOHNSON landed 7 significant strikes
+  - Knockdowns: ISLAM MAKHACHEV 0,  KAJAN JOHNSON 0
+  - Takedowns: ISLAM MAKHACHEV 1,  KAJAN JOHNSON 0

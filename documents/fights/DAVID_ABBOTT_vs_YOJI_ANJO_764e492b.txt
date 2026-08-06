@@ -1,0 +1,13 @@
+Event: UFC - Ultimate Japan
+    Date: December 21, 1997
+    Location: Yokohama, Kanagawa, Japan
+    Weight Class: Heavyweight
+    
+
+    Result: DAVID ABBOTT defeated YOJI ANJO via Decision - Unanimous  
+  at 3:00 of round 2
+  Key stats:
+  - DAVID ABBOTT landed 13 significant strikes
+  - YOJI ANJO landed 9 significant strikes
+  - Knockdowns: DAVID ABBOTT 0,  YOJI ANJO 0
+  - Takedowns: DAVID ABBOTT 3,  YOJI ANJO 0

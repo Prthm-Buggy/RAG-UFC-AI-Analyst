@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Kara-France vs. Albazi
+    Date : June 03, 2023
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Women's Flyweight, Heavyweight, Flyweight, Lightweight, Featherweight, Welterweight, Women's Strawweight, Light Heavyweight
+
+    Fight Results:
+  - ELIZEU ZALESKI DOS SANTOS def. ABUBAKAR NURMAGOMEDOV via Decision - Split(R3)
+- KARINE SILVA def. Ketlen Souza via Submission(R1)
+- DANIEL SANTOS def. JOHNNY MUNOZ via Decision - Unanimous(R3)
+- MUHAMMAD NAIMOV def. JAMIE MULLARKEY via KO/TKO(R2)
+- TIM ELLIOTT def. VICTOR ALTAMIRANO via Decision - Unanimous(R3)
+- DA'MON BLACKSHEAR def. LUAN LACERDA via KO/TKO(R2)
+- JOHN CASTANEDA def. MUIN GAFUROV via Decision - Unanimous(R3)
+- ELISE REED def. JINH YU FREY via Decision - Unanimous(R3)
+- AMIR ALBAZI def. KAI KARA-FRANCE via Decision - Split(R5)
+- ALEX CACERES def. DANIEL PINEDA via Decision - Unanimous(R3)
+- DON'TALE MAYES def. ANDREI ARLOVSKI via KO/TKO(R2)
+- JIM MILLER def. JESSE BUTLER via KO/TKO(R1)
+- PHILIPE LINS def. MAXIM GRISHIN via Decision - Unanimous(R3)

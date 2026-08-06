@@ -1,0 +1,11 @@
+Fighter: FRANK SHAMROCK
+  Date of Birth: 1972-12-08
+  Career record: 5
+  First fight: 1997-12-21
+  Last fight: 1999-09-24
+
+Career Statistics:
+- Significant Strikes Landed :77
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :9

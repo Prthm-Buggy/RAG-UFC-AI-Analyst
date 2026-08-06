@@ -1,0 +1,11 @@
+Fighter: DARRELL HORCHER
+  Date of Birth: 1987-07-28
+  Career record: 4
+  First fight: 2016-04-16
+  Last fight: 2018-11-30
+
+Career Statistics:
+- Significant Strikes Landed :89
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :2

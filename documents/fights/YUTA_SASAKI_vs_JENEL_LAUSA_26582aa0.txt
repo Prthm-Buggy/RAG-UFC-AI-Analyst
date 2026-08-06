@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs. Edwards
+    Date: June 23, 2018
+    Location: Kallang, Singapore
+    Weight Class: Flyweight
+    
+
+    Result: YUTA SASAKI defeated JENEL LAUSA via Submission  
+  at 4:04 of round 2
+  Key stats:
+  - YUTA SASAKI landed 25 significant strikes
+  - JENEL LAUSA landed 7 significant strikes
+  - Knockdowns: YUTA SASAKI 0,  JENEL LAUSA 0
+  - Takedowns: YUTA SASAKI 5,  JENEL LAUSA 0

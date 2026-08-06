@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Barboza vs. Chikadze
+    Date: August 28, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANDRE PETROSKI defeated MICHEAL GILLMORE via KO/TKO  
+  at 3:12 of round 3
+  Key stats:
+  - ANDRE PETROSKI landed 46 significant strikes
+  - MICHEAL GILLMORE landed 31 significant strikes
+  - Knockdowns: ANDRE PETROSKI 0,  MICHEAL GILLMORE 0
+  - Takedowns: ANDRE PETROSKI 4,  MICHEAL GILLMORE 0

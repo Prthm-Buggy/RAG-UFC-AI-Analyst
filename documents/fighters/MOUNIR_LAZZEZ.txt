@@ -1,0 +1,11 @@
+Fighter: MOUNIR LAZZEZ
+  Date of Birth: 1987-11-16
+  Career record: 4
+  First fight: 2020-07-15
+  Last fight: 2023-01-21
+
+Career Statistics:
+- Significant Strikes Landed :250
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :0

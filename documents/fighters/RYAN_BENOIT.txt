@@ -1,0 +1,11 @@
+Fighter: RYAN BENOIT
+  Date of Birth: 1989-08-25
+  Career record: 9
+  First fight: 2013-11-30
+  Last fight: 2021-07-31
+
+Career Statistics:
+- Significant Strikes Landed :306
+- Total takedowns landed :2
+- Knockdowns :5
+- Submission Attempts :3

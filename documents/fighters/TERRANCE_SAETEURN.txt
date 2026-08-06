@@ -1,0 +1,11 @@
+Fighter: TERRANCE SAETEURN
+  Date of Birth: 1995-05-30
+  Career record: 1
+  First fight: 2025-08-22
+  Last fight: 2025-08-22
+
+Career Statistics:
+- Significant Strikes Landed :11
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

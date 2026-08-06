@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Hunt vs Mir
+    Date: March 19, 2016
+    Location: Brisbane, Queensland, Australia
+    Weight Class: Heavyweight
+    
+
+    Result: MARK HUNT defeated FRANK MIR via KO/TKO  
+  at 3:01 of round 1
+  Key stats:
+  - MARK HUNT landed 8 significant strikes
+  - FRANK MIR landed 1 significant strikes
+  - Knockdowns: MARK HUNT 1,  FRANK MIR 0
+  - Takedowns: MARK HUNT 0,  FRANK MIR 0
+  Bonus: perf

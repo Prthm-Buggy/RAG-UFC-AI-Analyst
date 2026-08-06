@@ -1,0 +1,13 @@
+Event: UFC: Silva vs Irvin
+    Date: July 19, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: BRANDON VERA defeated REESE ANDY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - BRANDON VERA landed 38 significant strikes
+  - REESE ANDY landed 30 significant strikes
+  - Knockdowns: BRANDON VERA 0,  REESE ANDY 0
+  - Takedowns: BRANDON VERA 2,  REESE ANDY 1

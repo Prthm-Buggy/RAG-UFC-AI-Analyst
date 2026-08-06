@@ -1,0 +1,14 @@
+Event: UFC 289: Nunes vs. Aldana
+    Date: June 10, 2023
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Welterweight
+    
+
+    Result: MIKE MALOTT defeated ADAM FUGITT via Submission  
+  at 1:06 of round 2
+  Key stats:
+  - MIKE MALOTT landed 19 significant strikes
+  - ADAM FUGITT landed 9 significant strikes
+  - Knockdowns: MIKE MALOTT 1,  ADAM FUGITT 0
+  - Takedowns: MIKE MALOTT 2,  ADAM FUGITT 0
+  Bonus: perf

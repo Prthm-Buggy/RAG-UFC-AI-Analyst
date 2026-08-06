@@ -1,0 +1,11 @@
+Fighter: LANDON QUINONES
+  Date of Birth: 1995-11-21
+  Career record: 2
+  First fight: 2023-09-09
+  Last fight: 2024-02-03
+
+Career Statistics:
+- Significant Strikes Landed :203
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

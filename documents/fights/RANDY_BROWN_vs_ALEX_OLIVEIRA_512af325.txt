@@ -1,0 +1,13 @@
+Event: UFC 261: Usman vs. Masvidal 2
+    Date: April 24, 2021
+    Location: Jacksonville, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: RANDY BROWN defeated ALEX OLIVEIRA via Submission  
+  at 2:50 of round 1
+  Key stats:
+  - RANDY BROWN landed 16 significant strikes
+  - ALEX OLIVEIRA landed 7 significant strikes
+  - Knockdowns: RANDY BROWN 1,  ALEX OLIVEIRA 0
+  - Takedowns: RANDY BROWN 0,  ALEX OLIVEIRA 0

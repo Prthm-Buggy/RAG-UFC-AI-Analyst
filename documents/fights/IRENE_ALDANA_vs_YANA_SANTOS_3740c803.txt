@@ -1,0 +1,13 @@
+Event: UFC 264: Poirier vs. McGregor 3
+    Date: July 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: IRENE ALDANA defeated YANA SANTOS via KO/TKO  
+  at 4:35 of round 1
+  Key stats:
+  - IRENE ALDANA landed 37 significant strikes
+  - YANA SANTOS landed 24 significant strikes
+  - Knockdowns: IRENE ALDANA 1,  YANA SANTOS 0
+  - Takedowns: IRENE ALDANA 0,  YANA SANTOS 0

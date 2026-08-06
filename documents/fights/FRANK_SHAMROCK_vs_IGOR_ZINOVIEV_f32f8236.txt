@@ -1,0 +1,14 @@
+Event: UFC 16: Battle in the Bayou
+    Date: March 13, 1998
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Middleweight
+    
+
+    Result: FRANK SHAMROCK defeated IGOR ZINOVIEV via KO/TKO  
+  at 0:22 of round 1
+  Key stats:
+  - FRANK SHAMROCK landed 2 significant strikes
+  - IGOR ZINOVIEV landed 0 significant strikes
+  - Knockdowns: FRANK SHAMROCK 0,  IGOR ZINOVIEV 0
+  - Takedowns: FRANK SHAMROCK 1,  IGOR ZINOVIEV 0
+  Bonus: belt

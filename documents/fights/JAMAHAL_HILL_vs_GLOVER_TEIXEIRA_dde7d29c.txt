@@ -1,0 +1,14 @@
+Event: UFC 283: Teixeira vs. Hill
+    Date: January 21, 2023
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAMAHAL HILL defeated GLOVER TEIXEIRA via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - JAMAHAL HILL landed 232 significant strikes
+  - GLOVER TEIXEIRA landed 75 significant strikes
+  - Knockdowns: JAMAHAL HILL 0,  GLOVER TEIXEIRA 0
+  - Takedowns: JAMAHAL HILL 0,  GLOVER TEIXEIRA 2
+  Bonus: belt

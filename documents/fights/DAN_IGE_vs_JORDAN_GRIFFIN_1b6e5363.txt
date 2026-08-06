@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lee vs. Iaquinta
+    Date: December 15, 2018
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Featherweight
+    
+
+    Result: DAN IGE defeated JORDAN GRIFFIN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DAN IGE landed 56 significant strikes
+  - JORDAN GRIFFIN landed 56 significant strikes
+  - Knockdowns: DAN IGE 0,  JORDAN GRIFFIN 0
+  - Takedowns: DAN IGE 3,  JORDAN GRIFFIN 0

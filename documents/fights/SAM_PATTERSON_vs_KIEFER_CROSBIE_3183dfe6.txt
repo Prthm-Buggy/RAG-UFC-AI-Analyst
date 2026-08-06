@@ -1,0 +1,13 @@
+Event: UFC 304: Edwards vs. Muhammad 2
+    Date: July 27, 2024
+    Location: Manchester, England, United Kingdom
+    Weight Class: Welterweight
+    
+
+    Result: SAM PATTERSON defeated KIEFER CROSBIE via Submission  
+  at 2:50 of round 1
+  Key stats:
+  - SAM PATTERSON landed 9 significant strikes
+  - KIEFER CROSBIE landed 9 significant strikes
+  - Knockdowns: SAM PATTERSON 0,  KIEFER CROSBIE 0
+  - Takedowns: SAM PATTERSON 1,  KIEFER CROSBIE 0

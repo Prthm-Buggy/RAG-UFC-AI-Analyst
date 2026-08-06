@@ -1,0 +1,11 @@
+Fighter: CHRIS COPE
+  Date of Birth: 1983-03-05
+  Career record: 3
+  First fight: 2011-06-04
+  Last fight: 2012-02-04
+
+Career Statistics:
+- Significant Strikes Landed :87
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

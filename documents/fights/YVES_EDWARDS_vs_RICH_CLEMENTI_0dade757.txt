@@ -1,0 +1,13 @@
+Event: UFC 41: Onslaught
+    Date: February 28, 2003
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Lightweight
+    
+
+    Result: YVES EDWARDS defeated RICH CLEMENTI via Submission  
+  at 4:07 of round 3
+  Key stats:
+  - YVES EDWARDS landed 51 significant strikes
+  - RICH CLEMENTI landed 31 significant strikes
+  - Knockdowns: YVES EDWARDS 1,  RICH CLEMENTI 0
+  - Takedowns: YVES EDWARDS 0,  RICH CLEMENTI 2

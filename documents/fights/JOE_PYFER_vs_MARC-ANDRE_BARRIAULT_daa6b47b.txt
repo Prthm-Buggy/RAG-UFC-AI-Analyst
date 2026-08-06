@@ -1,0 +1,14 @@
+Event: UFC 303: Pereira vs. Prochazka 2
+    Date: June 29, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: JOE PYFER defeated MARC-ANDRE BARRIAULT via KO/TKO  
+  at 1:25 of round 1
+  Key stats:
+  - JOE PYFER landed 8 significant strikes
+  - MARC-ANDRE BARRIAULT landed 0 significant strikes
+  - Knockdowns: JOE PYFER 1,  MARC-ANDRE BARRIAULT 0
+  - Takedowns: JOE PYFER 0,  MARC-ANDRE BARRIAULT 0
+  Bonus: perf

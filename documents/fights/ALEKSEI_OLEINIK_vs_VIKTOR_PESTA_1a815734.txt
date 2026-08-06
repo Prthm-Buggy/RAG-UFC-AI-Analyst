@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Penn
+    Date: January 15, 2017
+    Location: Phoenix, Arizona, USA
+    Weight Class: Heavyweight
+    
+
+    Result: ALEKSEI OLEINIK defeated VIKTOR PESTA via Submission  
+  at 2:57 of round 1
+  Key stats:
+  - ALEKSEI OLEINIK landed 7 significant strikes
+  - VIKTOR PESTA landed 7 significant strikes
+  - Knockdowns: ALEKSEI OLEINIK 0,  VIKTOR PESTA 0
+  - Takedowns: ALEKSEI OLEINIK 0,  VIKTOR PESTA 1
+  Bonus: perf

@@ -1,0 +1,11 @@
+Fighter: MANOEL SOUSA
+  Date of Birth: 1997-06-04
+  Career record: 1
+  First fight: 2026-03-14
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :71
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :1

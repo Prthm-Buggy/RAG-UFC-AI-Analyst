@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Florian vs Lauzon
+    Date: April 02, 2008
+    Location: Broomfield, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: KENNY FLORIAN defeated JOE LAUZON via KO/TKO  
+  at 3:28 of round 2
+  Key stats:
+  - KENNY FLORIAN landed 35 significant strikes
+  - JOE LAUZON landed 5 significant strikes
+  - Knockdowns: KENNY FLORIAN 0,  JOE LAUZON 0
+  - Takedowns: KENNY FLORIAN 2,  JOE LAUZON 2
+  Bonus: fight

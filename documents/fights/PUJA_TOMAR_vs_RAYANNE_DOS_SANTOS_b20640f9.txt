@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cannonier vs. Imavov
+    Date: June 08, 2024
+    Location: Louisville, Kentucky, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: PUJA TOMAR defeated RAYANNE DOS SANTOS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - PUJA TOMAR landed 95 significant strikes
+  - RAYANNE DOS SANTOS landed 84 significant strikes
+  - Knockdowns: PUJA TOMAR 0,  RAYANNE DOS SANTOS 0
+  - Takedowns: PUJA TOMAR 0,  RAYANNE DOS SANTOS 0

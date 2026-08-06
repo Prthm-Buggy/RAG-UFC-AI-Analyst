@@ -1,0 +1,13 @@
+Event: UFC 182: Jones vs Cormier
+    Date: January 03, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: OMARI AKHMEDOV defeated MATS NILSSON via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - OMARI AKHMEDOV landed 64 significant strikes
+  - MATS NILSSON landed 33 significant strikes
+  - Knockdowns: OMARI AKHMEDOV 0,  MATS NILSSON 0
+  - Takedowns: OMARI AKHMEDOV 5,  MATS NILSSON 5

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Aspinall vs. Tybura
+    Date: July 22, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Flyweight
+    
+
+    Result: JAFEL FILHO defeated DANIEL BAREZ via Submission  
+  at 3:26 of round 1
+  Key stats:
+  - JAFEL FILHO landed 21 significant strikes
+  - DANIEL BAREZ landed 18 significant strikes
+  - Knockdowns: JAFEL FILHO 0,  DANIEL BAREZ 1
+  - Takedowns: JAFEL FILHO 1,  DANIEL BAREZ 0

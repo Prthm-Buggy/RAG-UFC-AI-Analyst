@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs Cowboy
+    Date: February 21, 2016
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Catch Weight
+    
+
+    Result: CODY GARBRANDT defeated AUGUSTO MENDES via KO/TKO  
+  at 4:18 of round 1
+  Key stats:
+  - CODY GARBRANDT landed 11 significant strikes
+  - AUGUSTO MENDES landed 11 significant strikes
+  - Knockdowns: CODY GARBRANDT 1,  AUGUSTO MENDES 0
+  - Takedowns: CODY GARBRANDT 0,  AUGUSTO MENDES 0

@@ -1,0 +1,19 @@
+Event : The Ultimate Fighter: Undefeated Finale
+    Date : July 06, 2018
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Middleweight, Featherweight, Women's Flyweight
+
+    Fight Results:
+  - ALEX CACERES def. MARTIN BRAVO via Decision - Split(R3)
+- GERALD MEERSCHAERT def. OSKAR PIECHOTA via Submission(R2)
+- STEVEN PETERSON def. MATT BESSETTE via Decision - Split(R3)
+- BRYCE MITCHELL def. TYLER DIAMOND via Decision - Majority(R3)
+- BRAD KATONA def. JAY CUCCINIELLO via Decision - Unanimous(R3)
+- ISRAEL ADESANYA def. BRAD TAVARES via Decision - Unanimous(R5)
+- ROXANNE MODAFFERI def. BARB HONCHAK via KO/TKO(R2)
+- ALESSIO DI CHIRICO def. JULIAN MARQUEZ via Decision - Split(R3)
+- MONTANA DE LA ROSA def. RACHAEL OSTOVICH via Submission(R3)
+- JOHN GUNTHER def. ALLAN ZUNIGA via Decision - Majority(R3)
+- MICHAEL TRIZANO def. JOE GIANNETTI via Decision - Split(R3)
+- LUIS PENA def. RICHIE SMULLEN via Submission(R1)

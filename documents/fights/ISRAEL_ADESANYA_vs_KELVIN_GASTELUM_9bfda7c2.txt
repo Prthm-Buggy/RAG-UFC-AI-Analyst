@@ -1,0 +1,14 @@
+Event: UFC 236: Holloway vs. Poirier 2
+    Date: April 13, 2019
+    Location: Atlanta, Georgia, USA
+    Weight Class: Middleweight
+    
+
+    Result: ISRAEL ADESANYA defeated KELVIN GASTELUM via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ISRAEL ADESANYA landed 109 significant strikes
+  - KELVIN GASTELUM landed 91 significant strikes
+  - Knockdowns: ISRAEL ADESANYA 4,  KELVIN GASTELUM 0
+  - Takedowns: ISRAEL ADESANYA 0,  KELVIN GASTELUM 1
+  Bonus: belt

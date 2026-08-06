@@ -1,0 +1,11 @@
+Fighter: RICARDO ABREU
+  Date of Birth: 1984-04-27
+  Career record: 2
+  First fight: 2014-05-31
+  Last fight: 2015-06-06
+
+Career Statistics:
+- Significant Strikes Landed :80
+- Total takedowns landed :3
+- Knockdowns :2
+- Submission Attempts :1

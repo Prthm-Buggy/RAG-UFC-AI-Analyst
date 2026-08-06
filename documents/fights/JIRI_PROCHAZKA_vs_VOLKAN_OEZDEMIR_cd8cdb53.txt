@@ -1,0 +1,14 @@
+Event: UFC 251: Usman vs. Masvidal
+    Date: July 11, 2020
+    Location: Abu Dhabi, Abu Dhabi, United Arab Emirates
+    Weight Class: Light Heavyweight
+    
+
+    Result: JIRI PROCHAZKA defeated VOLKAN OEZDEMIR via KO/TKO  
+  at 0:49 of round 2
+  Key stats:
+  - JIRI PROCHAZKA landed 33 significant strikes
+  - VOLKAN OEZDEMIR landed 41 significant strikes
+  - Knockdowns: JIRI PROCHAZKA 1,  VOLKAN OEZDEMIR 0
+  - Takedowns: JIRI PROCHAZKA 0,  VOLKAN OEZDEMIR 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Erceg
+    Date: March 29, 2025
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Featherweight
+    
+
+    Result: JAMALL EMMERS defeated GABRIEL MIRANDA via KO/TKO  
+  at 4:06 of round 1
+  Key stats:
+  - JAMALL EMMERS landed 33 significant strikes
+  - GABRIEL MIRANDA landed 18 significant strikes
+  - Knockdowns: JAMALL EMMERS 2,  GABRIEL MIRANDA 0
+  - Takedowns: JAMALL EMMERS 0,  GABRIEL MIRANDA 2

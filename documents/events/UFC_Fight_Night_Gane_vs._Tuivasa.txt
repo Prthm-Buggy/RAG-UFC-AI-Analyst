@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Gane vs. Tuivasa
+    Date : September 03, 2022
+    Location: Paris, Ile-de-France, France
+    Number of Fights: 12
+    Weight Classes: Middleweight, Lightweight, Featherweight, Women's Featherweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - NATHANIEL WOOD def. CHARLES JOURDAIN via Decision - Unanimous(R3)
+- WILLIAM GOMIS def. JARNO ERRENS via Decision - Majority(R3)
+- STEPHANIE EGGER def. AILIN PEREZ via Submission(R2)
+- NASRAT HAQPARAST def. JOHN MAKDESSI via Decision - Unanimous(R3)
+- ROMAN KOPYLOV def. ALESSIO DI CHIRICO via KO/TKO(R3)
+- NASSOURDINE IMAVOV def. JOAQUIN BUCKLEY via Decision - Unanimous(R3)
+- ABUS MAGOMEDOV def. DUSTIN STOLTZFUS via KO/TKO(R1)
+- CRISTIAN QUINONEZ def. KHALID TAHA via KO/TKO(R1)
+- CIRYL GANE def. TAI TUIVASA via KO/TKO(R3)
+- ROBERT WHITTAKER def. MARVIN VETTORI via Decision - Unanimous(R3)
+- BENOIT SAINT DENIS def. GABRIEL MIRANDA via KO/TKO(R2)
+- FARES ZIAM def. MICHAL FIGLAK via Decision - Unanimous(R3)

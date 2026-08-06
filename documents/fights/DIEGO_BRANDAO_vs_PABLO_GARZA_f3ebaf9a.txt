@@ -1,0 +1,13 @@
+Event: UFC on FUEL TV: Mousasi vs Latifi
+    Date: April 06, 2013
+    Location: Stockholm, Sweden
+    Weight Class: Featherweight
+    
+
+    Result: DIEGO BRANDAO defeated PABLO GARZA via Submission  
+  at 3:27 of round 1
+  Key stats:
+  - DIEGO BRANDAO landed 9 significant strikes
+  - PABLO GARZA landed 4 significant strikes
+  - Knockdowns: DIEGO BRANDAO 0,  PABLO GARZA 0
+  - Takedowns: DIEGO BRANDAO 0,  PABLO GARZA 1

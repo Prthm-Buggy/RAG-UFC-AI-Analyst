@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Allen vs. Curtis 2
+    Date: April 06, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: CESAR ALMEIDA defeated DYLAN BUDKA via KO/TKO  
+  at 2:13 of round 2
+  Key stats:
+  - CESAR ALMEIDA landed 29 significant strikes
+  - DYLAN BUDKA landed 1 significant strikes
+  - Knockdowns: CESAR ALMEIDA 0,  DYLAN BUDKA 0
+  - Takedowns: CESAR ALMEIDA 0,  DYLAN BUDKA 3
+  Bonus: perf

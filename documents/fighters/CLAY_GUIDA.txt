@@ -1,0 +1,11 @@
+Fighter: CLAY GUIDA
+  Date of Birth: 1981-12-08
+  Career record: 37
+  First fight: 2006-10-14
+  Last fight: 2024-12-07
+
+Career Statistics:
+- Significant Strikes Landed :1156
+- Total takedowns landed :78
+- Knockdowns :6
+- Submission Attempts :16

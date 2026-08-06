@@ -1,0 +1,11 @@
+Fighter: THIAGO SILVA
+  Date of Birth: 1982-11-12
+  Career record: 10
+  First fight: 2007-05-26
+  Last fight: 2013-10-09
+
+Career Statistics:
+- Significant Strikes Landed :299
+- Total takedowns landed :2
+- Knockdowns :4
+- Submission Attempts :2

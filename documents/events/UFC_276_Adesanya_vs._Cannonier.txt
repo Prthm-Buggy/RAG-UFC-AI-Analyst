@@ -1,0 +1,18 @@
+Event : UFC 276: Adesanya vs. Cannonier
+    Date : July 02, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Welterweight, Women's Bantamweight, Middleweight, Featherweight, Lightweight, Women's Flyweight
+
+    Fight Results:
+  - IAN MACHADO GARRY def. GABE GREEN via Decision - Unanimous(R3)
+- DRICUS DU PLESSIS def. BRAD TAVARES via Decision - Unanimous(R3)
+- ALEX PEREIRA def. SEAN STRICKLAND via KO/TKO(R1)
+- JALIN TURNER def. BRAD RIDDELL via Submission(R1)
+- MAYCEE BARBER def. JESSICA EYE via Decision - Unanimous(R3)
+- JULIJA STOLIARENKO def. JESSICA-ROSE CLARK via Submission(R1)
+- ALEXANDER VOLKANOVSKI def. MAX HOLLOWAY via Decision - Unanimous(R5)
+- ANDRE MUNIZ def. URIAH HALL via Decision - Unanimous(R3)
+- ISRAEL ADESANYA def. JARED CANNONIER via Decision - Unanimous(R5)
+- JIM MILLER def. DONALD CERRONE via Submission(R2)
+- BRYAN BARBERENA def. ROBBIE LAWLER via KO/TKO(R2)

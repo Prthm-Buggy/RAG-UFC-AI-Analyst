@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Henderson vs Thatch
+    Date: February 14, 2015
+    Location: Broomfield, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: JAMES MOONTASRI defeated CODY PFISTER via Submission  
+  at 1:49 of round 2
+  Key stats:
+  - JAMES MOONTASRI landed 32 significant strikes
+  - CODY PFISTER landed 12 significant strikes
+  - Knockdowns: JAMES MOONTASRI 0,  CODY PFISTER 0
+  - Takedowns: JAMES MOONTASRI 0,  CODY PFISTER 0

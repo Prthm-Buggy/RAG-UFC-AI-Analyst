@@ -1,0 +1,14 @@
+Event: UFC Live: Kongo vs Barry
+    Date: June 26, 2011
+    Location: Pittsburgh, Pennsylvania, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOE LAUZON defeated CURT WARBURTON via Submission  
+  at 1:58 of round 1
+  Key stats:
+  - JOE LAUZON landed 12 significant strikes
+  - CURT WARBURTON landed 5 significant strikes
+  - Knockdowns: JOE LAUZON 1,  CURT WARBURTON 0
+  - Takedowns: JOE LAUZON 0,  CURT WARBURTON 0
+  Bonus: sub

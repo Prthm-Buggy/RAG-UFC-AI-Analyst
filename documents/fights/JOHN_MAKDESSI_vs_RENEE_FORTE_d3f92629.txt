@@ -1,0 +1,13 @@
+Event: UFC 165: Jones vs Gustafsson
+    Date: September 21, 2013
+    Location: Toronto, Ontario, Canada
+    Weight Class: Lightweight
+    
+
+    Result: JOHN MAKDESSI defeated RENEE FORTE via KO/TKO  
+  at 2:01 of round 1
+  Key stats:
+  - JOHN MAKDESSI landed 20 significant strikes
+  - RENEE FORTE landed 7 significant strikes
+  - Knockdowns: JOHN MAKDESSI 1,  RENEE FORTE 0
+  - Takedowns: JOHN MAKDESSI 0,  RENEE FORTE 0

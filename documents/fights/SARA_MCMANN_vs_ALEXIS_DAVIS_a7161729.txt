@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Tournament of Champions Finale
+    Date: December 03, 2016
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: SARA MCMANN defeated ALEXIS DAVIS via Submission  
+  at 2:52 of round 2
+  Key stats:
+  - SARA MCMANN landed 14 significant strikes
+  - ALEXIS DAVIS landed 21 significant strikes
+  - Knockdowns: SARA MCMANN 0,  ALEXIS DAVIS 0
+  - Takedowns: SARA MCMANN 2,  ALEXIS DAVIS 0
+  Bonus: perf

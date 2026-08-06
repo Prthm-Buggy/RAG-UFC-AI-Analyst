@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Holloway vs. The Korean Zombie
+    Date: August 26, 2023
+    Location: Kallang, Singapore
+    Weight Class: Welterweight
+    
+
+    Result: BILLY RAY GOFF defeated YUSAKU KINOSHITA via KO/TKO  
+  at 3:49 of round 1
+  Key stats:
+  - BILLY RAY GOFF landed 40 significant strikes
+  - YUSAKU KINOSHITA landed 17 significant strikes
+  - Knockdowns: BILLY RAY GOFF 1,  YUSAKU KINOSHITA 0
+  - Takedowns: BILLY RAY GOFF 0,  YUSAKU KINOSHITA 0

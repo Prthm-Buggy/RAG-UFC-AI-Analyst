@@ -1,0 +1,14 @@
+Event: UFC 117: Silva vs Sonnen
+    Date: August 07, 2010
+    Location: Oakland, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT HUGHES defeated RICARDO ALMEIDA via Submission  
+  at 3:15 of round 1
+  Key stats:
+  - MATT HUGHES landed 2 significant strikes
+  - RICARDO ALMEIDA landed 10 significant strikes
+  - Knockdowns: MATT HUGHES 1,  RICARDO ALMEIDA 0
+  - Takedowns: MATT HUGHES 0,  RICARDO ALMEIDA 0
+  Bonus: sub

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Usman vs. Buckley
+    Date: June 14, 2025
+    Location: Atlanta, Georgia, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOSE OCHOA defeated CODY DURDEN via KO/TKO  
+  at 0:11 of round 2
+  Key stats:
+  - JOSE OCHOA landed 30 significant strikes
+  - CODY DURDEN landed 9 significant strikes
+  - Knockdowns: JOSE OCHOA 1,  CODY DURDEN 0
+  - Takedowns: JOSE OCHOA 0,  CODY DURDEN 2
+  Bonus: perf

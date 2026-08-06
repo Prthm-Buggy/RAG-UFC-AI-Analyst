@@ -1,0 +1,13 @@
+Event: UFC Fight Night 3
+    Date: January 16, 2006
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: SPENCER FISHER defeated AARON RILEY via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - SPENCER FISHER landed 25 significant strikes
+  - AARON RILEY landed 9 significant strikes
+  - Knockdowns: SPENCER FISHER 0,  AARON RILEY 0
+  - Takedowns: SPENCER FISHER 0,  AARON RILEY 2

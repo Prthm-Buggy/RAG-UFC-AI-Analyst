@@ -1,0 +1,11 @@
+Fighter: ANTHONY MACIAS
+  Date of Birth: 1969-02-09
+  Career record: 2
+  First fight: 1994-12-16
+  Last fight: 1995-07-14
+
+Career Statistics:
+- Significant Strikes Landed :8
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

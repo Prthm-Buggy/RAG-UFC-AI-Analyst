@@ -1,0 +1,11 @@
+Fighter: KURTIS CAMPBELL
+  Date of Birth: 2002-07-29
+  Career record: 1
+  First fight: 2026-03-21
+  Last fight: 2026-03-21
+
+Career Statistics:
+- Significant Strikes Landed :17
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

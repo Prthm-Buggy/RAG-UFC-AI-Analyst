@@ -1,0 +1,14 @@
+Event : UFC 24: First Defense
+    Date : March 10, 2000
+    Location: Lake Charles, Louisiana, USA
+    Number of Fights: 7
+    Weight Classes: Middleweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - SCOTT ADAMS def. IAN FREEMAN via Submission(R1)
+- DAVE MENNE def. FABIANO IHA via Decision - Unanimous(R3)
+- TEDD WILLIAMS def. STEVE JUDSON via KO/TKO(R1)
+- LANCE GIBSON def. JERMAINE ANDRE via KO/TKO(R3)
+- JENS PULVER def. DAVID VELASQUEZ via KO/TKO(R2)
+- SHONIE CARTER def. BRAD GUMM via Decision - Unanimous(R2)
+- BOB COOK def. TIKI GHOSN via Submission(R2)

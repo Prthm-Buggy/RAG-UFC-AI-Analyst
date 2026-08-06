@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Marreta vs. Anders
+    Date: September 22, 2018
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: ALEX OLIVEIRA defeated CARLO PEDERSOLI JR. via KO/TKO  
+  at 0:39 of round 1
+  Key stats:
+  - ALEX OLIVEIRA landed 7 significant strikes
+  - CARLO PEDERSOLI JR. landed 2 significant strikes
+  - Knockdowns: ALEX OLIVEIRA 0,  CARLO PEDERSOLI JR. 0
+  - Takedowns: ALEX OLIVEIRA 0,  CARLO PEDERSOLI JR. 0

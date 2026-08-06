@@ -1,0 +1,15 @@
+Event : UFC 47: It's On!
+    Date : April 02, 2004
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Heavyweight, Light Heavyweight, Welterweight, Lightweight
+
+    Fight Results:
+  - ANDREI ARLOVSKI def. WESLEY CORREIRA via KO/TKO(R2)
+- CHUCK LIDDELL def. TITO ORTIZ via KO/TKO(R2)
+- YVES EDWARDS def. HERMES FRANCA via Decision - Split(R3)
+- NICK DIAZ def. ROBBIE LAWLER via KO/TKO(R2)
+- GENKI SUDO def. MIKE BROWN via Submission(R1)
+- JONATHAN WIEZOREK def. WADE SHIPP via KO/TKO(R1)
+- CHRIS LYTLE def. TIKI GHOSN via Submission(R2)
+- MIKE KYLE def. WES SIMS via KO/TKO(R1)

@@ -1,0 +1,14 @@
+Event: UFC 245: Usman vs. Covington
+    Date: December 14, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: IRENE ALDANA defeated KETLEN VIEIRA via KO/TKO  
+  at 4:51 of round 1
+  Key stats:
+  - IRENE ALDANA landed 26 significant strikes
+  - KETLEN VIEIRA landed 20 significant strikes
+  - Knockdowns: IRENE ALDANA 1,  KETLEN VIEIRA 0
+  - Takedowns: IRENE ALDANA 0,  KETLEN VIEIRA 0
+  Bonus: perf

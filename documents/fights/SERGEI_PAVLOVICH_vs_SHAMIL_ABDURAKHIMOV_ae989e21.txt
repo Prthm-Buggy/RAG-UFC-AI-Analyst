@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Aspinall
+    Date: March 19, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Heavyweight
+    
+
+    Result: SERGEI PAVLOVICH defeated SHAMIL ABDURAKHIMOV via KO/TKO  
+  at 4:03 of round 1
+  Key stats:
+  - SERGEI PAVLOVICH landed 21 significant strikes
+  - SHAMIL ABDURAKHIMOV landed 17 significant strikes
+  - Knockdowns: SERGEI PAVLOVICH 1,  SHAMIL ABDURAKHIMOV 0
+  - Takedowns: SERGEI PAVLOVICH 0,  SHAMIL ABDURAKHIMOV 0
+  Bonus: perf

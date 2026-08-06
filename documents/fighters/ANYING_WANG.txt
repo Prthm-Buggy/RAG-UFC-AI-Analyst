@@ -1,0 +1,11 @@
+Fighter: ANYING WANG
+  Date of Birth: 1991-04-04
+  Career record: 2
+  First fight: 2014-03-01
+  Last fight: 2014-08-23
+
+Career Statistics:
+- Significant Strikes Landed :13
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

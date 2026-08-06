@@ -1,0 +1,11 @@
+Fighter: SCOTT MORRIS
+  Date of Birth: Unknown
+  Career record: 2
+  First fight: 1994-03-11
+  Last fight: 1994-03-11
+
+Career Statistics:
+- Significant Strikes Landed :1
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

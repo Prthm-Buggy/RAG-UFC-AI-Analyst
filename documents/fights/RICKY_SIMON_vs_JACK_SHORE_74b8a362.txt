@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ortega vs. Rodriguez
+    Date: July 16, 2022
+    Location: Elmont, New York, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RICKY SIMON defeated JACK SHORE via Submission  
+  at 3:28 of round 2
+  Key stats:
+  - RICKY SIMON landed 25 significant strikes
+  - JACK SHORE landed 19 significant strikes
+  - Knockdowns: RICKY SIMON 1,  JACK SHORE 0
+  - Takedowns: RICKY SIMON 2,  JACK SHORE 0
+  Bonus: perf

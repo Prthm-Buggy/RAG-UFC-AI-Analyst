@@ -1,0 +1,13 @@
+Event: UFC - Ultimate Ultimate '96
+    Date: December 07, 1996
+    Location: Birmingham, Alabama, USA
+    Weight Class: Open Weight
+    
+
+    Result: DAVID ABBOTT defeated STEVE NELMARK via KO/TKO  
+  at 1:03 of round 1
+  Key stats:
+  - DAVID ABBOTT landed 9 significant strikes
+  - STEVE NELMARK landed 2 significant strikes
+  - Knockdowns: DAVID ABBOTT 1,  STEVE NELMARK 0
+  - Takedowns: DAVID ABBOTT 1,  STEVE NELMARK 0

@@ -1,0 +1,14 @@
+Event: UFC 160: Velasquez vs Silva 2
+    Date: May 25, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: GLOVER TEIXEIRA defeated JAMES TE HUNA via Submission  
+  at 2:38 of round 1
+  Key stats:
+  - GLOVER TEIXEIRA landed 12 significant strikes
+  - JAMES TE HUNA landed 8 significant strikes
+  - Knockdowns: GLOVER TEIXEIRA 0,  JAMES TE HUNA 0
+  - Takedowns: GLOVER TEIXEIRA 1,  JAMES TE HUNA 0
+  Bonus: sub

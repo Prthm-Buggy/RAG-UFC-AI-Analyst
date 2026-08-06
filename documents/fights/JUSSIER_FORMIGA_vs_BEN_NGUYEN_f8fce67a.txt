@@ -1,0 +1,14 @@
+Event: UFC 221: Romero vs. Rockhold
+    Date: February 10, 2018
+    Location: Perth, Western Australia, Australia
+    Weight Class: Flyweight
+    
+
+    Result: JUSSIER FORMIGA defeated BEN NGUYEN via Submission  
+  at 1:43 of round 3
+  Key stats:
+  - JUSSIER FORMIGA landed 27 significant strikes
+  - BEN NGUYEN landed 21 significant strikes
+  - Knockdowns: JUSSIER FORMIGA 1,  BEN NGUYEN 0
+  - Takedowns: JUSSIER FORMIGA 2,  BEN NGUYEN 0
+  Bonus: perf

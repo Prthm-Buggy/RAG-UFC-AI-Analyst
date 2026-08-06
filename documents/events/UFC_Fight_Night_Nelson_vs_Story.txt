@@ -1,0 +1,18 @@
+Event : UFC Fight Night: Nelson vs Story
+    Date : October 04, 2014
+    Location: Stockholm, Sweden
+    Number of Fights: 11
+    Weight Classes: Welterweight, Featherweight, Middleweight, Lightweight, Light Heavyweight
+
+    Fight Results:
+  - KRZYSZTOF JOTKO def. TOR TROENG via Decision - Unanimous(R3)
+- MAX HOLLOWAY def. AKIRA CORASSANI via KO/TKO(R1)
+- ZUBAIRA TUKHUGOV def. ERNEST CHAVEZ via KO/TKO(R1)
+- JAN BLACHOWICZ def. ILIR LATIFI via KO/TKO(R1)
+- MIKE WILKINSON def. NIKLAS BACKSTROM via KO/TKO(R1)
+- MAIRBEK TAISUMOV def. MARCIN BANDEL via KO/TKO(R1)
+- MAGNUS CEDENBLAD def. SCOTT ASKHAM via Decision - Unanimous(R3)
+- RICK STORY def. GUNNAR NELSON via Decision - Split(R5)
+- NICHOLAS MUSOKE def. ALEXANDER YAKOVLEV via Decision - Unanimous(R3)
+- DENNIS SIVER def. CHARLES ROSA via Decision - Unanimous(R3)
+- CATHAL PENDRED def. GASAN UMALATOV via Decision - Split(R3)

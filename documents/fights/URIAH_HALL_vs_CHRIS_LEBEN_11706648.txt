@@ -1,0 +1,13 @@
+Event: UFC 168: Weidman vs Silva 2
+    Date: December 28, 2013
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: URIAH HALL defeated CHRIS LEBEN via TKO - Doctor's Stoppage  
+  at 5:00 of round 1
+  Key stats:
+  - URIAH HALL landed 20 significant strikes
+  - CHRIS LEBEN landed 11 significant strikes
+  - Knockdowns: URIAH HALL 1,  CHRIS LEBEN 0
+  - Takedowns: URIAH HALL 0,  CHRIS LEBEN 0

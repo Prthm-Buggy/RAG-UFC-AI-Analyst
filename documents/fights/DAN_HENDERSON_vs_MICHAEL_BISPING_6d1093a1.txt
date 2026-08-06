@@ -1,0 +1,14 @@
+Event: UFC 100
+    Date: July 11, 2009
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAN HENDERSON defeated MICHAEL BISPING via KO/TKO  
+  at 3:20 of round 2
+  Key stats:
+  - DAN HENDERSON landed 29 significant strikes
+  - MICHAEL BISPING landed 22 significant strikes
+  - Knockdowns: DAN HENDERSON 1,  MICHAEL BISPING 0
+  - Takedowns: DAN HENDERSON 0,  MICHAEL BISPING 0
+  Bonus: ko

@@ -1,0 +1,13 @@
+Event: UFC on FOX: Johnson vs. Bader
+    Date: January 30, 2016
+    Location: Newark, New Jersey, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALEXANDER YAKOVLEV defeated GEORGE SULLIVAN via KO/TKO  
+  at 3:59 of round 1
+  Key stats:
+  - ALEXANDER YAKOVLEV landed 15 significant strikes
+  - GEORGE SULLIVAN landed 14 significant strikes
+  - Knockdowns: ALEXANDER YAKOVLEV 1,  GEORGE SULLIVAN 0
+  - Takedowns: ALEXANDER YAKOVLEV 2,  GEORGE SULLIVAN 0

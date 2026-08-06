@@ -1,0 +1,20 @@
+Event : UFC 238: Cejudo vs. Moraes
+    Date : June 08, 2019
+    Location: Chicago, Illinois, USA
+    Number of Fights: 13
+    Weight Classes: Women's Flyweight, Heavyweight, Bantamweight, Lightweight, Featherweight, Women's Strawweight, Middleweight
+
+    Fight Results:
+  - ALJAMAIN STERLING def. PEDRO MUNHOZ via Decision - Unanimous(R3)
+- VALENTINA SHEVCHENKO def. JESSICA EYE via KO/TKO(R2)
+- ALEXA GRASSO def. KAROLINA KOWALKIEWICZ via Decision - Unanimous(R3)
+- PETR YAN def. JIMMIE RIVERA via Decision - Unanimous(R3)
+- EDDIE WINELAND def. GRIGORY POPOV via KO/TKO(R2)
+- TATIANA SUAREZ def. NINA NUNES via Decision - Unanimous(R3)
+- KATLYN CERMINARA def. JOANNE WOOD via Decision - Unanimous(R3)
+- DARREN STEWART def. BEVON LEWIS via Decision - Unanimous(R3)
+- CALVIN KATTAR def. RICARDO LAMAS via KO/TKO(R1)
+- YAN XIAONAN def. ANGELA HILL via Decision - Unanimous(R3)
+- HENRY CEJUDO def. MARLON MORAES via KO/TKO(R3)
+- BLAGOY IVANOV def. TAI TUIVASA via Decision - Unanimous(R3)
+- TONY FERGUSON def. DONALD CERRONE via TKO - Doctor's Stoppage(R2)

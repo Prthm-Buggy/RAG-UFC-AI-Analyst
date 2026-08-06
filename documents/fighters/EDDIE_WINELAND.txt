@@ -1,0 +1,11 @@
+Fighter: EDDIE WINELAND
+  Date of Birth: 1984-06-26
+  Career record: 16
+  First fight: 2011-03-19
+  Last fight: 2022-06-18
+
+Career Statistics:
+- Significant Strikes Landed :527
+- Total takedowns landed :3
+- Knockdowns :8
+- Submission Attempts :0

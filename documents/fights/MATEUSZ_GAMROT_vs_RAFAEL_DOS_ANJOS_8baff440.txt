@@ -1,0 +1,13 @@
+Event: UFC 299: O'Malley vs. Vera 2
+    Date: March 09, 2024
+    Location: Miami, Florida, USA
+    Weight Class: Lightweight
+    
+
+    Result: MATEUSZ GAMROT defeated RAFAEL DOS ANJOS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - MATEUSZ GAMROT landed 57 significant strikes
+  - RAFAEL DOS ANJOS landed 36 significant strikes
+  - Knockdowns: MATEUSZ GAMROT 0,  RAFAEL DOS ANJOS 1
+  - Takedowns: MATEUSZ GAMROT 11,  RAFAEL DOS ANJOS 0

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs. Sakai
+    Date: September 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: OVINCE SAINT PREUX defeated ALONZO MENIFIELD via KO/TKO  
+  at 4:07 of round 2
+  Key stats:
+  - OVINCE SAINT PREUX landed 33 significant strikes
+  - ALONZO MENIFIELD landed 19 significant strikes
+  - Knockdowns: OVINCE SAINT PREUX 1,  ALONZO MENIFIELD 0
+  - Takedowns: OVINCE SAINT PREUX 0,  ALONZO MENIFIELD 0
+  Bonus: perf

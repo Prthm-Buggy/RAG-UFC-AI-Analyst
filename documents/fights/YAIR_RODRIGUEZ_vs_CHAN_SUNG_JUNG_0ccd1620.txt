@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Korean Zombie vs. Rodriguez
+    Date: November 10, 2018
+    Location: Denver, Colorado, USA
+    Weight Class: Featherweight
+    
+
+    Result: YAIR RODRIGUEZ defeated CHAN SUNG JUNG via KO/TKO  
+  at 4:59 of round 5
+  Key stats:
+  - YAIR RODRIGUEZ landed 119 significant strikes
+  - CHAN SUNG JUNG landed 126 significant strikes
+  - Knockdowns: YAIR RODRIGUEZ 1,  CHAN SUNG JUNG 0
+  - Takedowns: YAIR RODRIGUEZ 0,  CHAN SUNG JUNG 0
+  Bonus: fight

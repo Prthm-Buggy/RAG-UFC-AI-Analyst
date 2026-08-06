@@ -1,0 +1,11 @@
+Fighter: LUKASZ BRZESKI
+  Date of Birth: 1992-05-17
+  Career record: 7
+  First fight: 2022-08-13
+  Last fight: 2025-07-19
+
+Career Statistics:
+- Significant Strikes Landed :277
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

@@ -1,0 +1,11 @@
+Fighter: ANGEL PACHECO
+  Date of Birth: 1992-01-13
+  Career record: 2
+  First fight: 2024-03-30
+  Last fight: 2026-02-28
+
+Career Statistics:
+- Significant Strikes Landed :144
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

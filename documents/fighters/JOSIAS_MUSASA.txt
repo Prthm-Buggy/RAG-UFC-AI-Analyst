@@ -1,0 +1,11 @@
+Fighter: JOSIAS MUSASA
+  Date of Birth: 1998-10-10
+  Career record: 2
+  First fight: 2025-03-15
+  Last fight: 2025-09-27
+
+Career Statistics:
+- Significant Strikes Landed :56
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

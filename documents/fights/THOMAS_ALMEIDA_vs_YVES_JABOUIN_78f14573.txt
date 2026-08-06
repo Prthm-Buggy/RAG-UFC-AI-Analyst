@@ -1,0 +1,14 @@
+Event: UFC 186: Johnson vs Horiguchi
+    Date: April 25, 2015
+    Location: Montreal, Quebec, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: THOMAS ALMEIDA defeated YVES JABOUIN via KO/TKO  
+  at 4:18 of round 1
+  Key stats:
+  - THOMAS ALMEIDA landed 31 significant strikes
+  - YVES JABOUIN landed 20 significant strikes
+  - Knockdowns: THOMAS ALMEIDA 0,  YVES JABOUIN 0
+  - Takedowns: THOMAS ALMEIDA 0,  YVES JABOUIN 1
+  Bonus: perf

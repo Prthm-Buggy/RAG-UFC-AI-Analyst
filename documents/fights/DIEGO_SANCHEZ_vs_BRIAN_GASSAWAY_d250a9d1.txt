@@ -1,0 +1,13 @@
+Event: UFC 54: Boiling Point
+    Date: August 20, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: DIEGO SANCHEZ defeated BRIAN GASSAWAY via KO/TKO  
+  at 1:56 of round 2
+  Key stats:
+  - DIEGO SANCHEZ landed 35 significant strikes
+  - BRIAN GASSAWAY landed 3 significant strikes
+  - Knockdowns: DIEGO SANCHEZ 0,  BRIAN GASSAWAY 0
+  - Takedowns: DIEGO SANCHEZ 3,  BRIAN GASSAWAY 0

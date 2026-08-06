@@ -1,0 +1,14 @@
+Event: UFC 187: Johnson vs Cormier
+    Date: May 23, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: DANIEL CORMIER defeated ANTHONY JOHNSON via Submission  
+  at 2:39 of round 3
+  Key stats:
+  - DANIEL CORMIER landed 23 significant strikes
+  - ANTHONY JOHNSON landed 23 significant strikes
+  - Knockdowns: DANIEL CORMIER 0,  ANTHONY JOHNSON 1
+  - Takedowns: DANIEL CORMIER 3,  ANTHONY JOHNSON 1
+  Bonus: belt

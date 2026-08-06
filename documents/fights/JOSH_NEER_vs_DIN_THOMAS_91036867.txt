@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Florian vs Lauzon
+    Date: April 02, 2008
+    Location: Broomfield, Colorado, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOSH NEER defeated DIN THOMAS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOSH NEER landed 80 significant strikes
+  - DIN THOMAS landed 20 significant strikes
+  - Knockdowns: JOSH NEER 0,  DIN THOMAS 0
+  - Takedowns: JOSH NEER 3,  DIN THOMAS 2

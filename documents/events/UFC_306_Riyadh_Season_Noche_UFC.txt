@@ -1,0 +1,17 @@
+Event : UFC 306: Riyadh Season Noche UFC
+    Date : September 14, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Women's Flyweight, Featherweight, Flyweight, Women's Bantamweight, Lightweight, Women's Strawweight
+
+    Fight Results:
+  - IGNACIO BAHAMONDES def. MANUEL TORRES via KO/TKO(R1)
+- JOSHUA VAN def. EDGAR CHAIREZ via Decision - Unanimous(R3)
+- MERAB DVALISHVILI def. SEAN O'MALLEY via Decision - Unanimous(R5)
+- Ketlen Souza def. YAZMIN JAUREGUI via Submission(R1)
+- ESTEBAN RIBOVICS def. DANIEL ZELLHUBER via Decision - Split(R3)
+- VALENTINA SHEVCHENKO def. ALEXA GRASSO via Decision - Unanimous(R5)
+- NORMA DUMONT def. IRENE ALDANA via Decision - Unanimous(R3)
+- RAUL ROSAS JR. def. AORIQILENG via Decision - Unanimous(R3)
+- DIEGO LOPES def. BRIAN ORTEGA via Decision - Unanimous(R3)
+- RONALDO RODRIGUEZ def. ODE OSBOURNE via Decision - Unanimous(R3)

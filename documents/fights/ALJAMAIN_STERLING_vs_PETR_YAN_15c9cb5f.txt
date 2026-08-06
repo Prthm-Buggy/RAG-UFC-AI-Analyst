@@ -1,0 +1,14 @@
+Event: UFC 259: Blachowicz vs. Adesanya
+    Date: March 06, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALJAMAIN STERLING defeated PETR YAN via DQ  
+  at 4:29 of round 4
+  Key stats:
+  - ALJAMAIN STERLING landed 97 significant strikes
+  - PETR YAN landed 86 significant strikes
+  - Knockdowns: ALJAMAIN STERLING 0,  PETR YAN 1
+  - Takedowns: ALJAMAIN STERLING 1,  PETR YAN 7
+  Bonus: belt

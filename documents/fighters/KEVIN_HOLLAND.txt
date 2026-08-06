@@ -1,0 +1,11 @@
+Fighter: KEVIN HOLLAND
+  Date of Birth: 1992-11-05
+  Career record: 28
+  First fight: 2018-08-04
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :1285
+- Total takedowns landed :17
+- Knockdowns :7
+- Submission Attempts :11

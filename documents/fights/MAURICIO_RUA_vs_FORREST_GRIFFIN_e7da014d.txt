@@ -1,0 +1,13 @@
+Event: UFC 134: Silva vs Okami
+    Date: August 27, 2011
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Light Heavyweight
+    
+
+    Result: MAURICIO RUA defeated FORREST GRIFFIN via KO/TKO  
+  at 1:53 of round 1
+  Key stats:
+  - MAURICIO RUA landed 16 significant strikes
+  - FORREST GRIFFIN landed 3 significant strikes
+  - Knockdowns: MAURICIO RUA 1,  FORREST GRIFFIN 0
+  - Takedowns: MAURICIO RUA 0,  FORREST GRIFFIN 0

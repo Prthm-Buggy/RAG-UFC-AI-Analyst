@@ -1,0 +1,11 @@
+Fighter: ARIANE DA SILVA
+  Date of Birth: 1994-01-26
+  Career record: 14
+  First fight: 2019-01-19
+  Last fight: 2025-06-07
+
+Career Statistics:
+- Significant Strikes Landed :650
+- Total takedowns landed :5
+- Knockdowns :3
+- Submission Attempts :3

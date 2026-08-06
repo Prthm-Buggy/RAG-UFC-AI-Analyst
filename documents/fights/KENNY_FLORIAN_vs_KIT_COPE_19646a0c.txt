@@ -1,0 +1,13 @@
+Event: The Ultimate Fighter: Team Hughes vs. Team Franklin Finale
+    Date: November 05, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: KENNY FLORIAN defeated KIT COPE via Submission  
+  at 0:37 of round 2
+  Key stats:
+  - KENNY FLORIAN landed 10 significant strikes
+  - KIT COPE landed 8 significant strikes
+  - Knockdowns: KENNY FLORIAN 0,  KIT COPE 0
+  - Takedowns: KENNY FLORIAN 3,  KIT COPE 0

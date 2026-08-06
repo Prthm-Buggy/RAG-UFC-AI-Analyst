@@ -1,0 +1,11 @@
+Fighter: RYAN HALL
+  Date of Birth: 1985-02-22
+  Career record: 6
+  First fight: 2015-12-11
+  Last fight: 2021-12-11
+
+Career Statistics:
+- Significant Strikes Landed :161
+- Total takedowns landed :1
+- Knockdowns :2
+- Submission Attempts :10

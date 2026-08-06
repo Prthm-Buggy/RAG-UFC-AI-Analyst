@@ -1,0 +1,13 @@
+Event: UFC 164: Henderson vs Pettis 2
+    Date: August 31, 2013
+    Location: Milwaukee, Wisconsin, USA
+    Weight Class: Heavyweight
+    
+
+    Result: BEN ROTHWELL defeated BRANDON VERA via KO/TKO  
+  at 1:54 of round 3
+  Key stats:
+  - BEN ROTHWELL landed 56 significant strikes
+  - BRANDON VERA landed 41 significant strikes
+  - Knockdowns: BEN ROTHWELL 1,  BRANDON VERA 0
+  - Takedowns: BEN ROTHWELL 0,  BRANDON VERA 0

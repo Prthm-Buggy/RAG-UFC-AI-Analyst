@@ -1,0 +1,13 @@
+Event: UFC 24: First Defense
+    Date: March 10, 2000
+    Location: Lake Charles, Louisiana, USA
+    Weight Class: Lightweight
+    
+
+    Result: JENS PULVER defeated DAVID VELASQUEZ via KO/TKO  
+  at 2:41 of round 2
+  Key stats:
+  - JENS PULVER landed 54 significant strikes
+  - DAVID VELASQUEZ landed 20 significant strikes
+  - Knockdowns: JENS PULVER 0,  DAVID VELASQUEZ 0
+  - Takedowns: JENS PULVER 3,  DAVID VELASQUEZ 0

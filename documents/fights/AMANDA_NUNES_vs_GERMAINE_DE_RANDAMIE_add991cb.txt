@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fight for the Troops 3
+    Date: November 06, 2013
+    Location: Fort Campbell, Kentucky, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: AMANDA NUNES defeated GERMAINE DE RANDAMIE via KO/TKO  
+  at 3:56 of round 1
+  Key stats:
+  - AMANDA NUNES landed 14 significant strikes
+  - GERMAINE DE RANDAMIE landed 1 significant strikes
+  - Knockdowns: AMANDA NUNES 0,  GERMAINE DE RANDAMIE 0
+  - Takedowns: AMANDA NUNES 1,  GERMAINE DE RANDAMIE 0

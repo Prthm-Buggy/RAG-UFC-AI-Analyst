@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Rodriguez vs. Lemos
+    Date: November 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Bantamweight
+    
+
+    Result: TAMIRES VIDAL defeated RAMONA PASCUAL via KO/TKO  
+  at 3:06 of round 1
+  Key stats:
+  - TAMIRES VIDAL landed 17 significant strikes
+  - RAMONA PASCUAL landed 13 significant strikes
+  - Knockdowns: TAMIRES VIDAL 1,  RAMONA PASCUAL 0
+  - Takedowns: TAMIRES VIDAL 0,  RAMONA PASCUAL 0
+  Bonus: perf

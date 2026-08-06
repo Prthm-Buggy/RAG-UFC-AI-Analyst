@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Fight for the Troops 3
+    Date: November 06, 2013
+    Location: Fort Campbell, Kentucky, USA
+    Weight Class: Lightweight
+    
+
+    Result: KING GREEN defeated JAMES KRAUSE via KO/TKO  
+  at 3:50 of round 1
+  Key stats:
+  - KING GREEN landed 20 significant strikes
+  - JAMES KRAUSE landed 22 significant strikes
+  - Knockdowns: KING GREEN 1,  JAMES KRAUSE 0
+  - Takedowns: KING GREEN 0,  JAMES KRAUSE 0

@@ -1,0 +1,19 @@
+Event : UFC 185: Pettis vs Dos Anjos
+    Date : March 14, 2015
+    Location: Dallas, Texas, USA
+    Number of Fights: 12
+    Weight Classes: Women's Strawweight, Lightweight, Welterweight, Flyweight, Middleweight, Women's Bantamweight, Heavyweight
+
+    Fight Results:
+  - HENRY CEJUDO def. CHRIS CARIASO via Decision - Unanimous(R3)
+- BENEIL DARIUSH def. DARON CRUICKSHANK via Submission(R2)
+- JOANNA JEDRZEJCZYK def. CARLA ESPARZA via KO/TKO(R2)
+- GERMAINE DE RANDAMIE def. LARISSA PACHECO via KO/TKO(R2)
+- JOE DUFFY def. JAKE LINDSEY via KO/TKO(R1)
+- RAFAEL DOS ANJOS def. ANTHONY PETTIS via Decision - Unanimous(R5)
+- RYAN BENOIT def. SERGIO PETTIS via KO/TKO(R2)
+- ROSS PEARSON def. SAM STOUT via KO/TKO(R2)
+- ALISTAIR OVEREEM def. ROY NELSON via Decision - Unanimous(R3)
+- JOHNY HENDRICKS def. MATT BROWN via Decision - Unanimous(R3)
+- ELIAS THEODOROU def. ROGER NARVAEZ via KO/TKO(R2)
+- JARED ROSHOLT def. JOSH COPELAND via KO/TKO(R3)

@@ -1,0 +1,11 @@
+Fighter: DANIEL ZELLHUBER
+  Date of Birth: 1999-07-07
+  Career record: 7
+  First fight: 2022-09-17
+  Last fight: 2026-02-28
+
+Career Statistics:
+- Significant Strikes Landed :476
+- Total takedowns landed :0
+- Knockdowns :2
+- Submission Attempts :2

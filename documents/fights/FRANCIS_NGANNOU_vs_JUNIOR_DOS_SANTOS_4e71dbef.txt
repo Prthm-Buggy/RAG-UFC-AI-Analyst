@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Ngannou vs. Dos Santos
+    Date: June 29, 2019
+    Location: Minneapolis, Minnesota, USA
+    Weight Class: Heavyweight
+    
+
+    Result: FRANCIS NGANNOU defeated JUNIOR DOS SANTOS via KO/TKO  
+  at 1:11 of round 1
+  Key stats:
+  - FRANCIS NGANNOU landed 9 significant strikes
+  - JUNIOR DOS SANTOS landed 4 significant strikes
+  - Knockdowns: FRANCIS NGANNOU 1,  JUNIOR DOS SANTOS 0
+  - Takedowns: FRANCIS NGANNOU 0,  JUNIOR DOS SANTOS 0
+  Bonus: perf

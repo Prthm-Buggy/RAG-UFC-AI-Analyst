@@ -1,0 +1,11 @@
+Fighter: BRUNO SOUZA
+  Date of Birth: 1996-03-07
+  Career record: 2
+  First fight: 2021-11-06
+  Last fight: 2022-03-26
+
+Career Statistics:
+- Significant Strikes Landed :112
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

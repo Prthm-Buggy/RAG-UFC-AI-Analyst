@@ -1,0 +1,13 @@
+Event: UFC Fight Night: MacDonald vs Thompson
+    Date: June 18, 2016
+    Location: Ottawa, Ontario, Canada
+    Weight Class: Bantamweight
+    
+
+    Result: JOE SOTO defeated CHRIS BEAL via Submission  
+  at 3:39 of round 3
+  Key stats:
+  - JOE SOTO landed 47 significant strikes
+  - CHRIS BEAL landed 76 significant strikes
+  - Knockdowns: JOE SOTO 0,  CHRIS BEAL 0
+  - Takedowns: JOE SOTO 1,  CHRIS BEAL 0

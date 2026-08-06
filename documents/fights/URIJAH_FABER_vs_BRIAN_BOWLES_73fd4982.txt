@@ -1,0 +1,14 @@
+Event: UFC 139: Shogun vs Henderson
+    Date: November 19, 2011
+    Location: San Jose, California, USA
+    Weight Class: Bantamweight
+    
+
+    Result: URIJAH FABER defeated BRIAN BOWLES via Submission  
+  at 1:27 of round 2
+  Key stats:
+  - URIJAH FABER landed 36 significant strikes
+  - BRIAN BOWLES landed 13 significant strikes
+  - Knockdowns: URIJAH FABER 1,  BRIAN BOWLES 0
+  - Takedowns: URIJAH FABER 1,  BRIAN BOWLES 0
+  Bonus: sub

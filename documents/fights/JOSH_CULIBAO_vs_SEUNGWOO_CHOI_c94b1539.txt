@@ -1,0 +1,13 @@
+Event: UFC 275: Teixeira vs. Prochazka
+    Date: June 11, 2022
+    Location: Kallang, Singapore
+    Weight Class: Featherweight
+    
+
+    Result: JOSH CULIBAO defeated SEUNGWOO CHOI via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JOSH CULIBAO landed 51 significant strikes
+  - SEUNGWOO CHOI landed 46 significant strikes
+  - Knockdowns: JOSH CULIBAO 2,  SEUNGWOO CHOI 0
+  - Takedowns: JOSH CULIBAO 0,  SEUNGWOO CHOI 1

@@ -1,0 +1,18 @@
+Event : UFC 127: Penn vs Fitch
+    Date : February 26, 2011
+    Location: Sydney, New South Wales, Australia
+    Number of Fights: 11
+    Weight Classes: Heavyweight, Middleweight, Lightweight, Welterweight, Featherweight, Light Heavyweight
+
+    Fight Results:
+  - MARK HUNT def. CHRIS TUCHSCHERER via KO/TKO(R2)
+- ANTHONY PEROSH def. TOM BLACKLEDGE via Submission(R1)
+- CURT WARBURTON def. MACIEJ JEWTUSZKO via Decision - Unanimous(R3)
+- MICHAEL BISPING def. JORGE RIVERA via KO/TKO(R2)
+- ROSS PEARSON def. SPENCER FISHER via Decision - Unanimous(R3)
+- ALEXANDER GUSTAFSSON def. JAMES TE HUNA via Submission(R1)
+- DENNIS SIVER def. GEORGE SOTIROPOULOS via Decision - Unanimous(R3)
+- NICK RING def. RIKI FUKUDA via Decision - Unanimous(R3)
+- BRIAN EBERSOLE def. CHRIS LYTLE via Decision - Unanimous(R3)
+- KYLE NOKE def. CHRIS CAMOZZI via Submission(R1)
+- ZHANG TIEQUAN def. JASON REINHARDT via Submission(R1)

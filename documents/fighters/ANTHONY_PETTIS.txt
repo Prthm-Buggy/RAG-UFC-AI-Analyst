@@ -1,0 +1,11 @@
+Fighter: ANTHONY PETTIS
+  Date of Birth: 1987-01-27
+  Career record: 20
+  First fight: 2011-06-04
+  Last fight: 2020-12-19
+
+Career Statistics:
+- Significant Strikes Landed :769
+- Total takedowns landed :8
+- Knockdowns :4
+- Submission Attempts :11

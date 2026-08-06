@@ -1,0 +1,11 @@
+Fighter: KATSUHISA FUJII
+  Date of Birth: 1972-08-15
+  Career record: 2
+  First fight: 1999-11-19
+  Last fight: 1999-11-19
+
+Career Statistics:
+- Significant Strikes Landed :45
+- Total takedowns landed :2
+- Knockdowns :1
+- Submission Attempts :0

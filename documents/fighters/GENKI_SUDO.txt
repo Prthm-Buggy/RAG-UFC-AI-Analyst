@@ -1,0 +1,11 @@
+Fighter: GENKI SUDO
+  Date of Birth: 1978-03-08
+  Career record: 3
+  First fight: 2002-07-13
+  Last fight: 2004-04-02
+
+Career Statistics:
+- Significant Strikes Landed :39
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :7

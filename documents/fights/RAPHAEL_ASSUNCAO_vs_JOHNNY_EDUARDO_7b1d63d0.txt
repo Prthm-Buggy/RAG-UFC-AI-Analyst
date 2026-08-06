@@ -1,0 +1,13 @@
+Event: UFC 134: Silva vs Okami
+    Date: August 27, 2011
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Bantamweight
+    
+
+    Result: RAPHAEL ASSUNCAO defeated JOHNNY EDUARDO via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RAPHAEL ASSUNCAO landed 53 significant strikes
+  - JOHNNY EDUARDO landed 28 significant strikes
+  - Knockdowns: RAPHAEL ASSUNCAO 0,  JOHNNY EDUARDO 0
+  - Takedowns: RAPHAEL ASSUNCAO 3,  JOHNNY EDUARDO 0

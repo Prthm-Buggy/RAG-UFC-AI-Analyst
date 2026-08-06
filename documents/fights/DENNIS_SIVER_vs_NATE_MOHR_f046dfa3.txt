@@ -1,0 +1,14 @@
+Event: UFC 93: Franklin vs Henderson
+    Date: January 17, 2009
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Lightweight
+    
+
+    Result: DENNIS SIVER defeated NATE MOHR via KO/TKO  
+  at 3:45 of round 3
+  Key stats:
+  - DENNIS SIVER landed 48 significant strikes
+  - NATE MOHR landed 48 significant strikes
+  - Knockdowns: DENNIS SIVER 1,  NATE MOHR 0
+  - Takedowns: DENNIS SIVER 0,  NATE MOHR 1
+  Bonus: ko

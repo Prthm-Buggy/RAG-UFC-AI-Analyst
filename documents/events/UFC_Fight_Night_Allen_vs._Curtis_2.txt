@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Allen vs. Curtis 2
+    Date : April 06, 2024
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Middleweight, Featherweight, Lightweight, Welterweight, Women's Bantamweight
+
+    Fight Results:
+  - CHEPE MARISCAL def. MORGAN CHARRIERE via Decision - Split(R3)
+- CESAR ALMEIDA def. DYLAN BUDKA via KO/TKO(R2)
+- LUKASZ BRZESKI def. VALTER WALKER via Decision - Unanimous(R3)
+- NORA CORNOLLE def. MELISSA MULLINS via KO/TKO(R2)
+- VICTOR HUGO def. PEDRO FALCAO via Decision - Unanimous(R3)
+- BRENDAN ALLEN def. CHRIS CURTIS via Decision - Split(R5)
+- JEAN MATSUMOTO def. DAN ARGUETA via Submission(R2)
+- CHARLIE CAMPBELL def. TREVOR PEEK via Decision - Unanimous(R3)
+- NORMA DUMONT def. GERMAINE DE RANDAMIE via Decision - Unanimous(R3)
+- DAMON JACKSON def. ALEXANDER HERNANDEZ via Decision - Split(R3)
+- IGNACIO BAHAMONDES def. CHRISTOS GIAGOS via KO/TKO(R1)
+- ALEX MORONO def. COURT MCGEE via Decision - Unanimous(R3)

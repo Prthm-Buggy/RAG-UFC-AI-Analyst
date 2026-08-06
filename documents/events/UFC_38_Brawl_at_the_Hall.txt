@@ -1,0 +1,14 @@
+Event : UFC 38: Brawl at the Hall
+    Date : July 13, 2002
+    Location: London, England, United Kingdom
+    Number of Fights: 7
+    Weight Classes: Heavyweight, Light Heavyweight, Lightweight, Middleweight, Welterweight
+
+    Fight Results:
+  - MATT HUGHES def. CARLOS NEWTON via KO/TKO(R4)
+- MARK WEIR def. EUGENE JACKSON via KO/TKO(R1)
+- RENATO SOBRAL def. ELVIS SINOSIC via Decision - Unanimous(R3)
+- IAN FREEMAN def. FRANK MIR via KO/TKO(R1)
+- PHILLIP MILLER def. JAMES ZIKIC via Decision - Unanimous(R3)
+- EVAN TANNER def. CHRIS HASEMAN via Decision - Unanimous(R3)
+- GENKI SUDO def. LEIGH REMEDIOS via Submission(R2)

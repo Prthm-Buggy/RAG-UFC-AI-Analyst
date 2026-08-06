@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Dern vs. Yan
+    Date: October 01, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: SODIQ YUSUFF defeated DON SHAINIS via Submission  
+  at 0:30 of round 1
+  Key stats:
+  - SODIQ YUSUFF landed 9 significant strikes
+  - DON SHAINIS landed 3 significant strikes
+  - Knockdowns: SODIQ YUSUFF 0,  DON SHAINIS 0
+  - Takedowns: SODIQ YUSUFF 0,  DON SHAINIS 0

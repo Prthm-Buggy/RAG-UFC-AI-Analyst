@@ -1,0 +1,13 @@
+Event: UFC 12: Judgement Day
+    Date: February 07, 1997
+    Location: Dothan, Alabama, USA
+    Weight Class: Heavyweight
+    
+
+    Result: VITOR BELFORT defeated SCOTT FERROZZO via KO/TKO  
+  at 0:43 of round 1
+  Key stats:
+  - VITOR BELFORT landed 9 significant strikes
+  - SCOTT FERROZZO landed 0 significant strikes
+  - Knockdowns: VITOR BELFORT 1,  SCOTT FERROZZO 0
+  - Takedowns: VITOR BELFORT 0,  SCOTT FERROZZO 0

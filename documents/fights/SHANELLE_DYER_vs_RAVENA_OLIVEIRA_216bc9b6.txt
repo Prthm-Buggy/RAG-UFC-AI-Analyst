@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Evloev vs. Murphy
+    Date: March 21, 2026
+    Location: London, England, United Kingdom
+    Weight Class: Women's Strawweight
+    
+
+    Result: SHANELLE DYER defeated RAVENA OLIVEIRA via KO/TKO  
+  at 1:17 of round 2
+  Key stats:
+  - SHANELLE DYER landed 49 significant strikes
+  - RAVENA OLIVEIRA landed 26 significant strikes
+  - Knockdowns: SHANELLE DYER 0,  RAVENA OLIVEIRA 0
+  - Takedowns: SHANELLE DYER 1,  RAVENA OLIVEIRA 0
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Eye vs. Calvillo
+    Date: June 13, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MARIYA AGAPOVA defeated HANNAH CIFERS via Submission  
+  at 2:42 of round 1
+  Key stats:
+  - MARIYA AGAPOVA landed 29 significant strikes
+  - HANNAH CIFERS landed 11 significant strikes
+  - Knockdowns: MARIYA AGAPOVA 1,  HANNAH CIFERS 0
+  - Takedowns: MARIYA AGAPOVA 0,  HANNAH CIFERS 0
+  Bonus: perf

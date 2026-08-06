@@ -1,0 +1,16 @@
+Event : UFC Fight Night 5
+    Date : June 28, 2006
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 9
+    Weight Classes: Welterweight, Middleweight, Light Heavyweight, Lightweight
+
+    Fight Results:
+  - JOSH KOSCHECK def. DAVE MENNE via Decision - Unanimous(R3)
+- ANDERSON SILVA def. CHRIS LEBEN via KO/TKO(R1)
+- JON FITCH def. THIAGO ALVES via KO/TKO(R2)
+- RASHAD EVANS def. STEPHAN BONNAR via Decision - Majority(R3)
+- JASON LAMBERT def. BRANDEN LEE HINKLE via KO/TKO(R1)
+- JONATHAN GOULET def. LUKE CUMMO via Decision - Majority(R3)
+- MARK HOMINICK def. JORGE GURGEL via Decision - Unanimous(R3)
+- JORGE SANTIAGO def. JUSTIN LEVENS via KO/TKO(R1)
+- ROB MACDONALD def. KRISTIAN ROTHAERMEL via Submission(R1)

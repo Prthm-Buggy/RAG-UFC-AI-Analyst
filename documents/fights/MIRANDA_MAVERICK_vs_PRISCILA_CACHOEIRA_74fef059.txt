@@ -1,0 +1,13 @@
+Event: UFC 291: Poirier vs. Gaethje 2
+    Date: July 29, 2023
+    Location: Salt Lake City, Utah, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: MIRANDA MAVERICK defeated PRISCILA CACHOEIRA via Submission  
+  at 2:11 of round 3
+  Key stats:
+  - MIRANDA MAVERICK landed 36 significant strikes
+  - PRISCILA CACHOEIRA landed 11 significant strikes
+  - Knockdowns: MIRANDA MAVERICK 0,  PRISCILA CACHOEIRA 0
+  - Takedowns: MIRANDA MAVERICK 3,  PRISCILA CACHOEIRA 0

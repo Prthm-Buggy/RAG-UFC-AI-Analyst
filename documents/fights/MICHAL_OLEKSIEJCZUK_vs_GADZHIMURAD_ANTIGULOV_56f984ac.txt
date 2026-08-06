@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Overeem vs. Oleinik
+    Date: April 20, 2019
+    Location: Saint Petersburg, Saint Petersburg, Russia
+    Weight Class: Light Heavyweight
+    
+
+    Result: MICHAL OLEKSIEJCZUK defeated GADZHIMURAD ANTIGULOV via KO/TKO  
+  at 0:44 of round 1
+  Key stats:
+  - MICHAL OLEKSIEJCZUK landed 8 significant strikes
+  - GADZHIMURAD ANTIGULOV landed 6 significant strikes
+  - Knockdowns: MICHAL OLEKSIEJCZUK 3,  GADZHIMURAD ANTIGULOV 0
+  - Takedowns: MICHAL OLEKSIEJCZUK 0,  GADZHIMURAD ANTIGULOV 0

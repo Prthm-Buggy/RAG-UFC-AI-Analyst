@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cejudo vs. Song
+    Date: February 22, 2025
+    Location: Seattle, Washington, USA
+    Weight Class: Bantamweight
+    
+
+    Result: RICKY SIMON defeated JAVID BASHARAT via KO/TKO  
+  at 3:58 of round 1
+  Key stats:
+  - RICKY SIMON landed 11 significant strikes
+  - JAVID BASHARAT landed 20 significant strikes
+  - Knockdowns: RICKY SIMON 1,  JAVID BASHARAT 0
+  - Takedowns: RICKY SIMON 1,  JAVID BASHARAT 0
+  Bonus: perf

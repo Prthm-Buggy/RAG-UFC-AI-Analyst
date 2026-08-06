@@ -1,0 +1,11 @@
+Fighter: NICCO MONTANO
+  Date of Birth: 1988-12-16
+  Career record: 2
+  First fight: 2017-12-01
+  Last fight: 2019-07-13
+
+Career Statistics:
+- Significant Strikes Landed :224
+- Total takedowns landed :6
+- Knockdowns :0
+- Submission Attempts :1

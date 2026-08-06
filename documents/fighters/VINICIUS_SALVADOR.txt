@@ -1,0 +1,11 @@
+Fighter: VINICIUS SALVADOR
+  Date of Birth: 1996-07-24
+  Career record: 3
+  First fight: 2023-03-25
+  Last fight: 2024-05-18
+
+Career Statistics:
+- Significant Strikes Landed :152
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

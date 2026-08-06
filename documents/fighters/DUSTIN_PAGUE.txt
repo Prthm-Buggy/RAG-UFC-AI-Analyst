@@ -1,0 +1,11 @@
+Fighter: DUSTIN PAGUE
+  Date of Birth: 1987-08-05
+  Career record: 6
+  First fight: 2011-12-03
+  Last fight: 2013-10-19
+
+Career Statistics:
+- Significant Strikes Landed :96
+- Total takedowns landed :4
+- Knockdowns :0
+- Submission Attempts :10

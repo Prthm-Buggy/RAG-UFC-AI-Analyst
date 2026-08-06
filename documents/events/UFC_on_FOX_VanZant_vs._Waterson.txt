@@ -1,0 +1,20 @@
+Event : UFC on FOX: VanZant vs. Waterson
+    Date : December 17, 2016
+    Location: Sacramento, California, USA
+    Number of Fights: 13
+    Weight Classes: Bantamweight, Welterweight, Women's Strawweight, Lightweight, Flyweight, Featherweight, Women's Bantamweight, Light Heavyweight
+
+    Fight Results:
+  - ALEX MORONO def. JAMES MOONTASRI via Decision - Unanimous(R3)
+- PAUL CRAIG def. HENRIQUE DA SILVA via Submission(R2)
+- MICHELLE WATERSON-GOMEZ def. PAIGE VANZANT via Submission(R1)
+- MICKEY GALL def. SAGE NORTHCUTT via Submission(R2)
+- JOSH EMMETT def. SCOTT HOLTZMAN via Decision - Unanimous(R3)
+- SULTAN ALIEV def. BOJAN VELICKOVIC via Decision - Split(R3)
+- COLBY COVINGTON def. BRYAN BARBERENA via Decision - Unanimous(R3)
+- LESLIE SMITH def. IRENE ALDANA via Decision - Unanimous(R3)
+- EDDIE WINELAND def. TAKEYA MIZUGAKI via KO/TKO(R1)
+- ALAN JOUBAN def. MIKE PERRY via Decision - Unanimous(R3)
+- URIJAH FABER def. BRAD PICKETT via Decision - Unanimous(R3)
+- MIZUTO HIROTA def. COLE MILLER via Decision - Unanimous(R3)
+- HECTOR SANDOVAL def. FREDY SERRANO via Decision - Unanimous(R3)

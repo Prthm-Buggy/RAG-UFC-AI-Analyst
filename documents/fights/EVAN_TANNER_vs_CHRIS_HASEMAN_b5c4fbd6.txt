@@ -1,0 +1,13 @@
+Event: UFC 38: Brawl at the Hall
+    Date: July 13, 2002
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: EVAN TANNER defeated CHRIS HASEMAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - EVAN TANNER landed 70 significant strikes
+  - CHRIS HASEMAN landed 14 significant strikes
+  - Knockdowns: EVAN TANNER 0,  CHRIS HASEMAN 0
+  - Takedowns: EVAN TANNER 3,  CHRIS HASEMAN 0

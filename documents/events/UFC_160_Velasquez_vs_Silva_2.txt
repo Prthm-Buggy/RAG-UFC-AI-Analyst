@@ -1,0 +1,19 @@
+Event : UFC 160: Velasquez vs Silva 2
+    Date : May 25, 2013
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 12
+    Weight Classes: Lightweight, Light Heavyweight, Welterweight, Featherweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - GLOVER TEIXEIRA def. JAMES TE HUNA via Submission(R1)
+- ROBERT WHITTAKER def. COLTON SMITH via KO/TKO(R3)
+- STEPHEN THOMPSON def. NAH-SHON BURRELL via Decision - Unanimous(R3)
+- KHABIB NURMAGOMEDOV def. ABEL TRUJILLO via Decision - Unanimous(R3)
+- JEREMY STEPHENS def. ESTEVAN PAYAN via Decision - Unanimous(R3)
+- DONALD CERRONE def. KJ NOONS via Decision - Unanimous(R3)
+- GEORGE ROOP def. BRIAN BOWLES via KO/TKO(R2)
+- JUNIOR DOS SANTOS def. MARK HUNT via KO/TKO(R3)
+- MIKE PYLE def. RICK STORY via Decision - Split(R3)
+- DENNIS BERMUDEZ def. MAX HOLLOWAY via Decision - Split(R3)
+- CAIN VELASQUEZ def. ANTONIO SILVA via KO/TKO(R1)
+- TJ GRANT def. GRAY MAYNARD via KO/TKO(R1)

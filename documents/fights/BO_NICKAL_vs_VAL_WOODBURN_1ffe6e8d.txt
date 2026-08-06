@@ -1,0 +1,13 @@
+Event: UFC 290: Volkanovski vs. Rodriguez
+    Date: July 08, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: BO NICKAL defeated VAL WOODBURN via KO/TKO  
+  at 0:38 of round 1
+  Key stats:
+  - BO NICKAL landed 7 significant strikes
+  - VAL WOODBURN landed 2 significant strikes
+  - Knockdowns: BO NICKAL 1,  VAL WOODBURN 0
+  - Takedowns: BO NICKAL 0,  VAL WOODBURN 0

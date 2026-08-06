@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs Shields
+    Date: October 09, 2013
+    Location: Barueri, Sao Paulo, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: ROUSIMAR PALHARES defeated MIKE PIERCE via Submission  
+  at 0:31 of round 1
+  Key stats:
+  - ROUSIMAR PALHARES landed 0 significant strikes
+  - MIKE PIERCE landed 2 significant strikes
+  - Knockdowns: ROUSIMAR PALHARES 0,  MIKE PIERCE 0
+  - Takedowns: ROUSIMAR PALHARES 0,  MIKE PIERCE 1

@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Arlovski vs. Barnett
+    Date : September 03, 2016
+    Location: Hamburg, Hamburg, Germany
+    Number of Fights: 10
+    Weight Classes: Light Heavyweight, Welterweight, Middleweight, Women's Bantamweight, Lightweight, Heavyweight, Bantamweight
+
+    Fight Results:
+  - TAYLOR LAPILUS def. LEANDRO ISSA via Decision - Unanimous(R3)
+- JACK HERMANSSON def. SCOTT ASKHAM via Decision - Unanimous(R3)
+- RUSTAM KHABILOV def. LEANDRO SILVA via Decision - Unanimous(R3)
+- NICK HEIN def. TAE HYUN BANG via Decision - Unanimous(R3)
+- PETER SOBOTTA def. NICOLAS DALBY via Decision - Unanimous(R3)
+- ASHLEE EVANS-SMITH def. VERONICA HARDY via KO/TKO(R3)
+- RYAN BADER def. ILIR LATIFI via KO/TKO(R2)
+- ALEXANDER GUSTAFSSON def. JAN BLACHOWICZ via Decision - Unanimous(R3)
+- JOSH BARNETT def. ANDREI ARLOVSKI via Submission(R3)
+- JESSIN AYARI def. JIM WALLHEAD via Decision - Split(R3)

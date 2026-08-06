@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Vettori vs. Holland
+    Date: April 10, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MACKENZIE DERN defeated NINA NUNES via Submission  
+  at 4:48 of round 1
+  Key stats:
+  - MACKENZIE DERN landed 12 significant strikes
+  - NINA NUNES landed 4 significant strikes
+  - Knockdowns: MACKENZIE DERN 0,  NINA NUNES 0
+  - Takedowns: MACKENZIE DERN 1,  NINA NUNES 0
+  Bonus: perf

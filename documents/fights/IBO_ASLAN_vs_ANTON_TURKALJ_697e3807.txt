@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blanchfield vs. Fiorot
+    Date: March 30, 2024
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: IBO ASLAN defeated ANTON TURKALJ via KO/TKO  
+  at 1:32 of round 3
+  Key stats:
+  - IBO ASLAN landed 74 significant strikes
+  - ANTON TURKALJ landed 55 significant strikes
+  - Knockdowns: IBO ASLAN 1,  ANTON TURKALJ 0
+  - Takedowns: IBO ASLAN 0,  ANTON TURKALJ 0
+  Bonus: fight

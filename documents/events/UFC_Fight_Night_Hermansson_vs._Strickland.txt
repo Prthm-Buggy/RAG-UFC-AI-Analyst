@@ -1,0 +1,20 @@
+Event : UFC Fight Night: Hermansson vs. Strickland
+    Date : February 05, 2022
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Light Heavyweight, Featherweight, Welterweight, Middleweight, Flyweight, Women's Bantamweight, Bantamweight
+
+    Fight Results:
+  - BRYAN BATTLE def. TRESEAN GORE via Decision - Unanimous(R3)
+- SHAVKAT RAKHMONOV def. CARLSTON HARRIS via KO/TKO(R1)
+- PHIL ROWE def. JASON WITT via KO/TKO(R2)
+- BRENDAN ALLEN def. SAM ALVEY via Submission(R2)
+- SEAN STRICKLAND def. JACK HERMANSSON via Decision - Split(R5)
+- JULIAN EROSA def. STEVEN PETERSON via Decision - Split(R3)
+- HAKEEM DAWODU def. MICHAEL TRIZANO via Decision - Unanimous(R3)
+- CHIDI NJOKUANI def. MARC-ANDRE BARRIAULT via KO/TKO(R1)
+- NICK MAXIMOV def. PUNAHELE SORIANO via Decision - Split(R3)
+- JOHN CASTANEDA def. MILES JOHNS via Submission(R3)
+- ALEXIS DAVIS def. JULIJA STOLIARENKO via Decision - Unanimous(R3)
+- JAILTON ALMEIDA def. DANILO MARQUES via KO/TKO(R1)
+- MALCOLM GORDON def. DENYS BONDAR via KO/TKO(R1)

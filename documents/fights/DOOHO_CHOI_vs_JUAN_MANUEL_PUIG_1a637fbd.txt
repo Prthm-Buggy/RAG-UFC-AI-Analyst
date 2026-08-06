@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edgar vs Swanson
+    Date: November 22, 2014
+    Location: Austin, Texas, USA
+    Weight Class: Featherweight
+    
+
+    Result: DOOHO CHOI defeated JUAN MANUEL PUIG via KO/TKO  
+  at 0:18 of round 1
+  Key stats:
+  - DOOHO CHOI landed 10 significant strikes
+  - JUAN MANUEL PUIG landed 0 significant strikes
+  - Knockdowns: DOOHO CHOI 1,  JUAN MANUEL PUIG 0
+  - Takedowns: DOOHO CHOI 0,  JUAN MANUEL PUIG 0

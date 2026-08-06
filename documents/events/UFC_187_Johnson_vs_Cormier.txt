@@ -1,0 +1,18 @@
+Event : UFC 187: Johnson vs Cormier
+    Date : May 23, 2015
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 11
+    Weight Classes: Flyweight, Light Heavyweight, Middleweight, Lightweight, Welterweight, Heavyweight
+
+    Fight Results:
+  - DANIEL CORMIER def. ANTHONY JOHNSON via Submission(R3)
+- COLBY COVINGTON def. MIKE PYLE via Decision - Unanimous(R3)
+- DONALD CERRONE def. JOHN MAKDESSI via KO/TKO(R2)
+- ANDREI ARLOVSKI def. TRAVIS BROWNE via KO/TKO(R1)
+- JUSTIN SCOGGINS def. JOSH SAMPO via Decision - Unanimous(R3)
+- JOHN DODSON def. ZACH MAKOVSKY via Decision - Unanimous(R3)
+- JOSEPH BENAVIDEZ def. JOHN MORAGA via Decision - Unanimous(R3)
+- CHRIS WEIDMAN def. VITOR BELFORT via KO/TKO(R1)
+- DONG HYUN KIM def. JOSHUA BURKMAN via Submission(R3)
+- RAFAEL NATAL def. URIAH HALL via Decision - Split(R3)
+- ISLAM MAKHACHEV def. LEO KUNTZ via Submission(R2)

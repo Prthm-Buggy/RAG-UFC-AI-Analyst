@@ -1,0 +1,14 @@
+Event: UFC 42: Sudden Impact
+    Date: April 25, 2003
+    Location: Miami, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: MATT HUGHES defeated SEAN SHERK via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - MATT HUGHES landed 44 significant strikes
+  - SEAN SHERK landed 19 significant strikes
+  - Knockdowns: MATT HUGHES 0,  SEAN SHERK 0
+  - Takedowns: MATT HUGHES 5,  SEAN SHERK 3
+  Bonus: belt

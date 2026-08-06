@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Maia vs. Usman
+    Date: May 19, 2018
+    Location: Santiago, Chile
+    Weight Class: Women's Strawweight
+    
+
+    Result: POLIANA BOTELHO defeated SYURI KONDO via KO/TKO  
+  at 0:33 of round 1
+  Key stats:
+  - POLIANA BOTELHO landed 9 significant strikes
+  - SYURI KONDO landed 2 significant strikes
+  - Knockdowns: POLIANA BOTELHO 1,  SYURI KONDO 0
+  - Takedowns: POLIANA BOTELHO 0,  SYURI KONDO 0

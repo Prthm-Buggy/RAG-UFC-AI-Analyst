@@ -1,0 +1,14 @@
+Event: UFC 131: Dos Santos vs Carwin
+    Date: June 11, 2011
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Middleweight
+    
+
+    Result: CHRIS WEIDMAN defeated JESSE BONGFELDT via Submission  
+  at 4:54 of round 1
+  Key stats:
+  - CHRIS WEIDMAN landed 7 significant strikes
+  - JESSE BONGFELDT landed 5 significant strikes
+  - Knockdowns: CHRIS WEIDMAN 0,  JESSE BONGFELDT 0
+  - Takedowns: CHRIS WEIDMAN 1,  JESSE BONGFELDT 0
+  Bonus: sub

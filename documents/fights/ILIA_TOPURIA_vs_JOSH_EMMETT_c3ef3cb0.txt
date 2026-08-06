@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Emmett vs. Topuria
+    Date: June 24, 2023
+    Location: Jacksonville, Florida, USA
+    Weight Class: Featherweight
+    
+
+    Result: ILIA TOPURIA defeated JOSH EMMETT via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - ILIA TOPURIA landed 152 significant strikes
+  - JOSH EMMETT landed 87 significant strikes
+  - Knockdowns: ILIA TOPURIA 1,  JOSH EMMETT 0
+  - Takedowns: ILIA TOPURIA 3,  JOSH EMMETT 0
+  Bonus: fight

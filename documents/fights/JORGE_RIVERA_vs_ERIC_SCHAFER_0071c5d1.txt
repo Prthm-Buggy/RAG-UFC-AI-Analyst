@@ -1,0 +1,13 @@
+Event: UFC on FX: Guillard vs Miller
+    Date: January 20, 2012
+    Location: Nashville, Tennessee, USA
+    Weight Class: Middleweight
+    
+
+    Result: JORGE RIVERA defeated ERIC SCHAFER via KO/TKO  
+  at 1:31 of round 2
+  Key stats:
+  - JORGE RIVERA landed 6 significant strikes
+  - ERIC SCHAFER landed 6 significant strikes
+  - Knockdowns: JORGE RIVERA 0,  ERIC SCHAFER 0
+  - Takedowns: JORGE RIVERA 0,  ERIC SCHAFER 2

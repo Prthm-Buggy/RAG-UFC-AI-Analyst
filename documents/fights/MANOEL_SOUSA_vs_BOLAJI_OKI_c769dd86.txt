@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Emmett vs. Vallejos
+    Date: March 14, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: MANOEL SOUSA defeated BOLAJI OKI via KO/TKO  
+  at 4:12 of round 3
+  Key stats:
+  - MANOEL SOUSA landed 71 significant strikes
+  - BOLAJI OKI landed 84 significant strikes
+  - Knockdowns: MANOEL SOUSA 2,  BOLAJI OKI 0
+  - Takedowns: MANOEL SOUSA 0,  BOLAJI OKI 1
+  Bonus: perf

@@ -1,0 +1,16 @@
+Event : UFC Fight Night: Machida vs Romero
+    Date : June 27, 2015
+    Location: Hollywood, Florida, USA
+    Number of Fights: 9
+    Weight Classes: Middleweight, Welterweight, Featherweight, Bantamweight
+
+    Fight Results:
+  - ANTONIO CARLOS JUNIOR def. EDDIE GORDON via Submission(R3)
+- TONY SIMS def. STEVE MONTGOMERY via KO/TKO(R1)
+- SIRWAN KAKAI def. DANNY MARTINEZ via Decision - Unanimous(R3)
+- THIAGO SANTOS def. STEVE BOSSE via KO/TKO(R1)
+- YOEL ROMERO def. LYOTO MACHIDA via KO/TKO(R3)
+- LORENZ LARKIN def. SANTIAGO PONZINIBBIO via KO/TKO(R2)
+- HACRAN DIAS def. LEVAN MAKASHVILI via Decision - Split(R3)
+- ALEX OLIVEIRA def. JOE MERRITT via Decision - Unanimous(R3)
+- LEANDRO SILVA def. LEWIS GONZALEZ via Decision - Unanimous(R3)

@@ -1,0 +1,11 @@
+Fighter: DAVID BRANCH
+  Date of Birth: 1981-09-26
+  Career record: 9
+  First fight: 2010-07-03
+  Last fight: 2019-03-30
+
+Career Statistics:
+- Significant Strikes Landed :137
+- Total takedowns landed :14
+- Knockdowns :1
+- Submission Attempts :0

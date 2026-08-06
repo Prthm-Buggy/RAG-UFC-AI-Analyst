@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Overeem vs. Sakai
+    Date: September 05, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: BRIAN KELLEHER defeated RAY RODRIGUEZ via Submission  
+  at 0:39 of round 1
+  Key stats:
+  - BRIAN KELLEHER landed 1 significant strikes
+  - RAY RODRIGUEZ landed 1 significant strikes
+  - Knockdowns: BRIAN KELLEHER 0,  RAY RODRIGUEZ 0
+  - Takedowns: BRIAN KELLEHER 0,  RAY RODRIGUEZ 1
+  Bonus: perf

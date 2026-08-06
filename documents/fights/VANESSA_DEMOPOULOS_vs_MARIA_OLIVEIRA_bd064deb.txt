@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Nzechukwu vs. Cutelaba
+    Date: November 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: VANESSA DEMOPOULOS defeated MARIA OLIVEIRA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - VANESSA DEMOPOULOS landed 55 significant strikes
+  - MARIA OLIVEIRA landed 83 significant strikes
+  - Knockdowns: VANESSA DEMOPOULOS 1,  MARIA OLIVEIRA 0
+  - Takedowns: VANESSA DEMOPOULOS 2,  MARIA OLIVEIRA 0

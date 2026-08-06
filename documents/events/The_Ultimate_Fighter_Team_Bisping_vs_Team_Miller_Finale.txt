@@ -1,0 +1,17 @@
+Event : The Ultimate Fighter: Team Bisping vs Team Miller Finale
+    Date : December 03, 2011
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Featherweight, Middleweight, Lightweight
+
+    Fight Results:
+  - TONY FERGUSON def. YVES EDWARDS via Decision - Unanimous(R3)
+- JOHN DODSON def. TJ DILLASHAW via KO/TKO(R1)
+- MICHAEL BISPING def. JASON MILLER via KO/TKO(R3)
+- JOHNNY BEDFORD def. LOUIS GAUDINOT via KO/TKO(R3)
+- DIEGO BRANDAO def. DENNIS BERMUDEZ via Submission(R1)
+- JOHN ALBERT def. DUSTIN PAGUE via KO/TKO(R1)
+- MARCUS BRIMAGE def. STEPHEN BASS via Decision - Unanimous(R3)
+- BRYAN CARAWAY def. DUSTIN NEACE via Submission(R2)
+- STEVEN SILER def. JOSH CLOPTON via Decision - Unanimous(R3)
+- ROLAND DELORME def. JOSH FERGUSON via Submission(R3)

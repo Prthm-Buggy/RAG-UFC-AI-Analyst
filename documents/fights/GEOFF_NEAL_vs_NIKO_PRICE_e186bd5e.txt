@@ -1,0 +1,14 @@
+Event: UFC 240: Holloway vs. Edgar
+    Date: July 27, 2019
+    Location: Edmonton, Alberta, Canada
+    Weight Class: Welterweight
+    
+
+    Result: GEOFF NEAL defeated NIKO PRICE via KO/TKO  
+  at 2:39 of round 2
+  Key stats:
+  - GEOFF NEAL landed 41 significant strikes
+  - NIKO PRICE landed 24 significant strikes
+  - Knockdowns: GEOFF NEAL 0,  NIKO PRICE 1
+  - Takedowns: GEOFF NEAL 2,  NIKO PRICE 0
+  Bonus: perf

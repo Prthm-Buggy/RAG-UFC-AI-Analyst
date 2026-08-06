@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Yan vs. Dvalishvili
+    Date: March 11, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARIO BAUTISTA defeated GUIDO CANNETTI via Submission  
+  at 3:18 of round 1
+  Key stats:
+  - MARIO BAUTISTA landed 3 significant strikes
+  - GUIDO CANNETTI landed 2 significant strikes
+  - Knockdowns: MARIO BAUTISTA 0,  GUIDO CANNETTI 0
+  - Takedowns: MARIO BAUTISTA 3,  GUIDO CANNETTI 1

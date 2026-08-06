@@ -1,0 +1,13 @@
+Event: UFC 53: Heavy Hitters
+    Date: June 04, 2005
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Middleweight
+    
+
+    Result: DAVID LOISEAU defeated CHARLES MCCARTHY via KO/TKO  
+  at 2:10 of round 2
+  Key stats:
+  - DAVID LOISEAU landed 20 significant strikes
+  - CHARLES MCCARTHY landed 0 significant strikes
+  - Knockdowns: DAVID LOISEAU 1,  CHARLES MCCARTHY 0
+  - Takedowns: DAVID LOISEAU 0,  CHARLES MCCARTHY 1

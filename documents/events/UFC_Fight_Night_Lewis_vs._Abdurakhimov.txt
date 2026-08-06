@@ -1,0 +1,19 @@
+Event : UFC Fight Night: Lewis vs. Abdurakhimov
+    Date : December 09, 2016
+    Location: Albany, New York, USA
+    Number of Fights: 12
+    Weight Classes: Light Heavyweight, Middleweight, Featherweight, Women's Strawweight, Welterweight, Lightweight, Heavyweight
+
+    Fight Results:
+  - DERRICK LEWIS def. SHAMIL ABDURAKHIMOV via KO/TKO(R4)
+- GERALD MEERSCHAERT def. JOSEPH GIGLIOTTI via Submission(R1)
+- MARC DIAKIESE def. FRANKIE PEREZ via Decision - Unanimous(R3)
+- RYAN JANES def. KEITH BERISH via Decision - Unanimous(R3)
+- SHANE BURGOS def. TIAGO DOS SANTOS E SILVA via Decision - Unanimous(R3)
+- FRANCIS NGANNOU def. ANTHONY HAMILTON via Submission(R1)
+- ANDREW SANCHEZ def. TREVOR SMITH via Decision - Unanimous(R3)
+- JUSTINE KISH def. ASHLEY YODER via Decision - Unanimous(R3)
+- JULIANA LIMA def. JJ ALDRICH via Decision - Unanimous(R3)
+- RANDY BROWN def. BRIAN CAMOZZI via KO/TKO(R2)
+- COREY ANDERSON def. SEAN O'CONNELL via KO/TKO(R2)
+- GIAN VILLANTE def. SAPARBEG SAFAROV via KO/TKO(R2)

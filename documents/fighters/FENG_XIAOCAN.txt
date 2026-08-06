@@ -1,0 +1,11 @@
+Fighter: FENG XIAOCAN
+  Date of Birth: 2001-10-27
+  Career record: 1
+  First fight: 2024-11-23
+  Last fight: 2024-11-23
+
+Career Statistics:
+- Significant Strikes Landed :48
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

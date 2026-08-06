@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Woodley vs. Burns
+    Date: May 30, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: CHRIS GUTIERREZ defeated VINCE MORALES via KO/TKO  
+  at 4:27 of round 2
+  Key stats:
+  - CHRIS GUTIERREZ landed 60 significant strikes
+  - VINCE MORALES landed 8 significant strikes
+  - Knockdowns: CHRIS GUTIERREZ 2,  VINCE MORALES 0
+  - Takedowns: CHRIS GUTIERREZ 0,  VINCE MORALES 0

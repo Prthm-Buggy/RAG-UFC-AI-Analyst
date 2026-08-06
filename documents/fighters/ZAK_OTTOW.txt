@@ -1,0 +1,11 @@
+Fighter: ZAK OTTOW
+  Date of Birth: 1986-12-22
+  Career record: 8
+  First fight: 2016-10-01
+  Last fight: 2019-03-09
+
+Career Statistics:
+- Significant Strikes Landed :203
+- Total takedowns landed :5
+- Knockdowns :2
+- Submission Attempts :2

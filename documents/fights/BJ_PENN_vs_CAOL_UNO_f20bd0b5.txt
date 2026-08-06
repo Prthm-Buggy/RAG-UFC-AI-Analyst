@@ -1,0 +1,13 @@
+Event: UFC 34: High Voltage
+    Date: November 02, 2001
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: BJ PENN defeated CAOL UNO via KO/TKO  
+  at 0:11 of round 1
+  Key stats:
+  - BJ PENN landed 5 significant strikes
+  - CAOL UNO landed 0 significant strikes
+  - Knockdowns: BJ PENN 1,  CAOL UNO 0
+  - Takedowns: BJ PENN 1,  CAOL UNO 0

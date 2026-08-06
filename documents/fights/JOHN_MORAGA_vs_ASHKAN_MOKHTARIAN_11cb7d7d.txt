@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Hunt
+    Date: June 10, 2017
+    Location: Auckland, New Zealand
+    Weight Class: Flyweight
+    
+
+    Result: JOHN MORAGA defeated ASHKAN MOKHTARIAN via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOHN MORAGA landed 56 significant strikes
+  - ASHKAN MOKHTARIAN landed 12 significant strikes
+  - Knockdowns: JOHN MORAGA 0,  ASHKAN MOKHTARIAN 0
+  - Takedowns: JOHN MORAGA 2,  ASHKAN MOKHTARIAN 1

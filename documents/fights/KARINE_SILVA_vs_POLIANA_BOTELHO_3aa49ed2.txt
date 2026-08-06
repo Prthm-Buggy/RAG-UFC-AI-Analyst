@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Rozenstruik
+    Date: June 04, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Flyweight
+    
+
+    Result: KARINE SILVA defeated POLIANA BOTELHO via Submission  
+  at 4:55 of round 1
+  Key stats:
+  - KARINE SILVA landed 17 significant strikes
+  - POLIANA BOTELHO landed 19 significant strikes
+  - Knockdowns: KARINE SILVA 0,  POLIANA BOTELHO 0
+  - Takedowns: KARINE SILVA 1,  POLIANA BOTELHO 0
+  Bonus: perf

@@ -1,0 +1,13 @@
+Event: UFC on FX: Guillard vs Miller
+    Date: January 20, 2012
+    Location: Nashville, Tennessee, USA
+    Weight Class: Lightweight
+    
+
+    Result: FABRICIO CAMOES defeated TOMMY HAYDEN via Submission  
+  at 4:03 of round 1
+  Key stats:
+  - FABRICIO CAMOES landed 6 significant strikes
+  - TOMMY HAYDEN landed 7 significant strikes
+  - Knockdowns: FABRICIO CAMOES 0,  TOMMY HAYDEN 0
+  - Takedowns: FABRICIO CAMOES 1,  TOMMY HAYDEN 2

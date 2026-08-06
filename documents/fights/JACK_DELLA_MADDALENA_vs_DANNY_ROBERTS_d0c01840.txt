@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Nzechukwu vs. Cutelaba
+    Date: November 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: JACK DELLA MADDALENA defeated DANNY ROBERTS via KO/TKO  
+  at 3:24 of round 1
+  Key stats:
+  - JACK DELLA MADDALENA landed 33 significant strikes
+  - DANNY ROBERTS landed 5 significant strikes
+  - Knockdowns: JACK DELLA MADDALENA 2,  DANNY ROBERTS 0
+  - Takedowns: JACK DELLA MADDALENA 0,  DANNY ROBERTS 0
+  Bonus: perf

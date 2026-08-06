@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Oliveira vs. Gamrot
+    Date: October 11, 2025
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil
+    Weight Class: Featherweight
+    
+
+    Result: MICHAEL ASWELL JR. defeated LUCAS ALMEIDA via KO/TKO  
+  at 1:42 of round 1
+  Key stats:
+  - MICHAEL ASWELL JR. landed 30 significant strikes
+  - LUCAS ALMEIDA landed 9 significant strikes
+  - Knockdowns: MICHAEL ASWELL JR. 2,  LUCAS ALMEIDA 0
+  - Takedowns: MICHAEL ASWELL JR. 0,  LUCAS ALMEIDA 0

@@ -1,0 +1,11 @@
+Fighter: CHRIS LEBEN
+  Date of Birth: 1980-07-21
+  Career record: 22
+  First fight: 2005-04-09
+  Last fight: 2013-12-28
+
+Career Statistics:
+- Significant Strikes Landed :572
+- Total takedowns landed :17
+- Knockdowns :5
+- Submission Attempts :10

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Arlovski vs. Barnett
+    Date: September 03, 2016
+    Location: Hamburg, Hamburg, Germany
+    Weight Class: Women's Bantamweight
+    
+
+    Result: ASHLEE EVANS-SMITH defeated VERONICA HARDY via KO/TKO  
+  at 2:46 of round 3
+  Key stats:
+  - ASHLEE EVANS-SMITH landed 73 significant strikes
+  - VERONICA HARDY landed 23 significant strikes
+  - Knockdowns: ASHLEE EVANS-SMITH 0,  VERONICA HARDY 0
+  - Takedowns: ASHLEE EVANS-SMITH 2,  VERONICA HARDY 0

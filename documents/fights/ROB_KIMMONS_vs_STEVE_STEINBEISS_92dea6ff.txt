@@ -1,0 +1,13 @@
+Event: UFC Live: Jones vs Matyushenko
+    Date: August 01, 2010
+    Location: San Diego, California, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROB KIMMONS defeated STEVE STEINBEISS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ROB KIMMONS landed 38 significant strikes
+  - STEVE STEINBEISS landed 85 significant strikes
+  - Knockdowns: ROB KIMMONS 0,  STEVE STEINBEISS 0
+  - Takedowns: ROB KIMMONS 4,  STEVE STEINBEISS 0

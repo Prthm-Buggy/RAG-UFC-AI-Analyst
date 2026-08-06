@@ -1,0 +1,11 @@
+Fighter: TIKI GHOSN
+  Date of Birth: 1977-02-09
+  Career record: 4
+  First fight: 2000-03-10
+  Last fight: 2004-04-02
+
+Career Statistics:
+- Significant Strikes Landed :59
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

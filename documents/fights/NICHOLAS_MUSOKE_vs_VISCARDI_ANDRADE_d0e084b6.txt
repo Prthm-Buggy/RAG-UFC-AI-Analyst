@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Mousasi
+    Date: February 15, 2014
+    Location: Jaragua do Sul, Santa Catarina, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: NICHOLAS MUSOKE defeated VISCARDI ANDRADE via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - NICHOLAS MUSOKE landed 45 significant strikes
+  - VISCARDI ANDRADE landed 24 significant strikes
+  - Knockdowns: NICHOLAS MUSOKE 0,  VISCARDI ANDRADE 1
+  - Takedowns: NICHOLAS MUSOKE 2,  VISCARDI ANDRADE 1

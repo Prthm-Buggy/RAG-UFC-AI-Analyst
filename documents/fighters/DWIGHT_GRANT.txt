@@ -1,0 +1,11 @@
+Fighter: DWIGHT GRANT
+  Date of Birth: 1984-09-14
+  Career record: 8
+  First fight: 2018-12-15
+  Last fight: 2022-07-16
+
+Career Statistics:
+- Significant Strikes Landed :287
+- Total takedowns landed :4
+- Knockdowns :3
+- Submission Attempts :0

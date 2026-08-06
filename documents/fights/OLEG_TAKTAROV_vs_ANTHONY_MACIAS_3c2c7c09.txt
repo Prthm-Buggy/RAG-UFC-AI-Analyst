@@ -1,0 +1,13 @@
+Event: UFC 6: Clash of the Titans
+    Date: July 14, 1995
+    Location: Casper, Wyoming, USA
+    Weight Class: Open Weight
+    
+
+    Result: OLEG TAKTAROV defeated ANTHONY MACIAS via Submission  
+  at 0:09 of round 1
+  Key stats:
+  - OLEG TAKTAROV landed 0 significant strikes
+  - ANTHONY MACIAS landed 0 significant strikes
+  - Knockdowns: OLEG TAKTAROV 0,  ANTHONY MACIAS 0
+  - Takedowns: OLEG TAKTAROV 0,  ANTHONY MACIAS 0

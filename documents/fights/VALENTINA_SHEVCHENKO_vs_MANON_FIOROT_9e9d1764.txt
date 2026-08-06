@@ -1,0 +1,14 @@
+Event: UFC 315: Muhammad vs. Della Maddalena
+    Date: May 10, 2025
+    Location: Montreal, Quebec, Canada
+    Weight Class: Women's Flyweight
+    
+
+    Result: VALENTINA SHEVCHENKO defeated MANON FIOROT via Decision - Unanimous  
+  at 5:00 of round 5
+  Key stats:
+  - VALENTINA SHEVCHENKO landed 72 significant strikes
+  - MANON FIOROT landed 71 significant strikes
+  - Knockdowns: VALENTINA SHEVCHENKO 1,  MANON FIOROT 0
+  - Takedowns: VALENTINA SHEVCHENKO 2,  MANON FIOROT 1
+  Bonus: belt

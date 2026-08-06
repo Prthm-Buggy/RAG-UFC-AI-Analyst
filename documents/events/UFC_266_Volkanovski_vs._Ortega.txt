@@ -1,0 +1,20 @@
+Event : UFC 266: Volkanovski vs. Ortega
+    Date : September 25, 2021
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 13
+    Weight Classes: Featherweight, Middleweight, Lightweight, Welterweight, Heavyweight, Women's Flyweight, Bantamweight
+
+    Fight Results:
+  - TAILA SANTOS def. ROXANNE MODAFFERI via Decision - Unanimous(R3)
+- MERAB DVALISHVILI def. MARLON MORAES via KO/TKO(R2)
+- ALEXANDER VOLKANOVSKI def. BRIAN ORTEGA via Decision - Unanimous(R5)
+- CURTIS BLAYDES def. JAIRZINHO ROZENSTRUIK via Decision - Unanimous(R3)
+- JALIN TURNER def. UROS MEDIC via Submission(R1)
+- JESSICA ANDRADE def. CYNTHIA CALVILLO via KO/TKO(R1)
+- DAN HOOKER def. NASRAT HAQPARAST via Decision - Unanimous(R3)
+- VALENTINA SHEVCHENKO def. LAUREN MURPHY via KO/TKO(R4)
+- JONATHAN PEARCE def. OMAR MORALES via Submission(R2)
+- CHRIS DAUKAUS def. SHAMIL ABDURAKHIMOV via KO/TKO(R2)
+- NICK MAXIMOV def. CODY BRUNDAGE via Decision - Unanimous(R3)
+- ROBBIE LAWLER def. NICK DIAZ via KO/TKO(R3)
+- MATTHEW SEMELSBERGER def. MARTIN SANO via KO/TKO(R1)

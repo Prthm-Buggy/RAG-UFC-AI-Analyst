@@ -1,0 +1,11 @@
+Fighter: THIAGO ALVES
+  Date of Birth: 1983-10-03
+  Career record: 27
+  First fight: 2005-10-03
+  Last fight: 2019-12-07
+
+Career Statistics:
+- Significant Strikes Landed :1106
+- Total takedowns landed :14
+- Knockdowns :13
+- Submission Attempts :6

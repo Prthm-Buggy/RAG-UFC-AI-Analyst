@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Kattar vs. Emmett
+    Date: June 18, 2022
+    Location: Austin, Texas, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: MARIA OLIVEIRA defeated GLORIA DE PAULA via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - MARIA OLIVEIRA landed 96 significant strikes
+  - GLORIA DE PAULA landed 105 significant strikes
+  - Knockdowns: MARIA OLIVEIRA 0,  GLORIA DE PAULA 0
+  - Takedowns: MARIA OLIVEIRA 2,  GLORIA DE PAULA 2

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Lee vs. Oliveira
+    Date: March 14, 2020
+    Location: Brasilia, Distrito Federal, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: GILBERT BURNS defeated DEMIAN MAIA via KO/TKO  
+  at 2:34 of round 1
+  Key stats:
+  - GILBERT BURNS landed 13 significant strikes
+  - DEMIAN MAIA landed 4 significant strikes
+  - Knockdowns: GILBERT BURNS 1,  DEMIAN MAIA 0
+  - Takedowns: GILBERT BURNS 0,  DEMIAN MAIA 2
+  Bonus: perf

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Blachowicz vs. Jacare
+    Date: November 16, 2019
+    Location: Sao Paulo, Sao Paulo, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: RANDY BROWN defeated WARLLEY ALVES via Submission  
+  at 1:22 of round 2
+  Key stats:
+  - RANDY BROWN landed 16 significant strikes
+  - WARLLEY ALVES landed 3 significant strikes
+  - Knockdowns: RANDY BROWN 0,  WARLLEY ALVES 0
+  - Takedowns: RANDY BROWN 1,  WARLLEY ALVES 3
+  Bonus: perf

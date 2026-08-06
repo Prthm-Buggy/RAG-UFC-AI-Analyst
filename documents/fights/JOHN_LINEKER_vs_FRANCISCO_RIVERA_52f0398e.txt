@@ -1,0 +1,14 @@
+Event: UFC 191: Johnson vs Dodson 2
+    Date: September 05, 2015
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JOHN LINEKER defeated FRANCISCO RIVERA via Submission  
+  at 2:08 of round 1
+  Key stats:
+  - JOHN LINEKER landed 28 significant strikes
+  - FRANCISCO RIVERA landed 16 significant strikes
+  - Knockdowns: JOHN LINEKER 1,  FRANCISCO RIVERA 0
+  - Takedowns: JOHN LINEKER 0,  FRANCISCO RIVERA 0
+  Bonus: fight

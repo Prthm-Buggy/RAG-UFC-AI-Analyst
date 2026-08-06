@@ -1,0 +1,13 @@
+Event: UFC 180: Werdum vs Hunt
+    Date: November 15, 2014
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Featherweight
+    
+
+    Result: RICARDO LAMAS defeated DENNIS BERMUDEZ via Submission  
+  at 3:18 of round 1
+  Key stats:
+  - RICARDO LAMAS landed 14 significant strikes
+  - DENNIS BERMUDEZ landed 8 significant strikes
+  - Knockdowns: RICARDO LAMAS 1,  DENNIS BERMUDEZ 0
+  - Takedowns: RICARDO LAMAS 0,  DENNIS BERMUDEZ 0

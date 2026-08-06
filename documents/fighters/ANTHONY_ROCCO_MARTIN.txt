@@ -1,0 +1,11 @@
+Fighter: ANTHONY ROCCO MARTIN
+  Date of Birth: 1989-12-11
+  Career record: 15
+  First fight: 2014-02-01
+  Last fight: 2020-06-06
+
+Career Statistics:
+- Significant Strikes Landed :511
+- Total takedowns landed :9
+- Knockdowns :2
+- Submission Attempts :13

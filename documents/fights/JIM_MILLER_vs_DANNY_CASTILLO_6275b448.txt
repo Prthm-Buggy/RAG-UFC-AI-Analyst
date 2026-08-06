@@ -1,0 +1,13 @@
+Event: UFC on FOX: Dillashaw vs. Barao II
+    Date: July 25, 2015
+    Location: Chicago, Illinois, USA
+    Weight Class: Lightweight
+    
+
+    Result: JIM MILLER defeated DANNY CASTILLO via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JIM MILLER landed 45 significant strikes
+  - DANNY CASTILLO landed 35 significant strikes
+  - Knockdowns: JIM MILLER 0,  DANNY CASTILLO 0
+  - Takedowns: JIM MILLER 2,  DANNY CASTILLO 0

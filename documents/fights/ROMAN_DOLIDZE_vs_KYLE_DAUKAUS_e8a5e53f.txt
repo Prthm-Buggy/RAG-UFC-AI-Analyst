@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Kattar vs. Emmett
+    Date: June 18, 2022
+    Location: Austin, Texas, USA
+    Weight Class: Middleweight
+    
+
+    Result: ROMAN DOLIDZE defeated KYLE DAUKAUS via KO/TKO  
+  at 1:13 of round 1
+  Key stats:
+  - ROMAN DOLIDZE landed 8 significant strikes
+  - KYLE DAUKAUS landed 4 significant strikes
+  - Knockdowns: ROMAN DOLIDZE 2,  KYLE DAUKAUS 0
+  - Takedowns: ROMAN DOLIDZE 0,  KYLE DAUKAUS 0
+  Bonus: perf

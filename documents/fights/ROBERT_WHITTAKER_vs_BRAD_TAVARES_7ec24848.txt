@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Miocic vs Hunt
+    Date: May 09, 2015
+    Location: Adelaide, South Australia, Australia
+    Weight Class: Middleweight
+    
+
+    Result: ROBERT WHITTAKER defeated BRAD TAVARES via KO/TKO  
+  at 0:44 of round 1
+  Key stats:
+  - ROBERT WHITTAKER landed 10 significant strikes
+  - BRAD TAVARES landed 2 significant strikes
+  - Knockdowns: ROBERT WHITTAKER 1,  BRAD TAVARES 0
+  - Takedowns: ROBERT WHITTAKER 0,  BRAD TAVARES 0
+  Bonus: perf

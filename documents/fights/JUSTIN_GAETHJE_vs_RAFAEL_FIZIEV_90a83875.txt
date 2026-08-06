@@ -1,0 +1,14 @@
+Event: UFC 286: Edwards vs. Usman 3
+    Date: March 18, 2023
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: JUSTIN GAETHJE defeated RAFAEL FIZIEV via Decision - Majority  
+  at 5:00 of round 3
+  Key stats:
+  - JUSTIN GAETHJE landed 103 significant strikes
+  - RAFAEL FIZIEV landed 97 significant strikes
+  - Knockdowns: JUSTIN GAETHJE 0,  RAFAEL FIZIEV 0
+  - Takedowns: JUSTIN GAETHJE 1,  RAFAEL FIZIEV 0
+  Bonus: fight

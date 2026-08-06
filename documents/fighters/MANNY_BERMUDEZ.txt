@@ -1,0 +1,11 @@
+Fighter: MANNY BERMUDEZ
+  Date of Birth: 1994-07-16
+  Career record: 5
+  First fight: 2018-02-24
+  Last fight: 2019-10-18
+
+Career Statistics:
+- Significant Strikes Landed :86
+- Total takedowns landed :6
+- Knockdowns :1
+- Submission Attempts :6

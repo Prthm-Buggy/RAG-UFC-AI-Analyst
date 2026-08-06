@@ -1,0 +1,11 @@
+Fighter: JESSICA PENNE
+  Date of Birth: 1983-01-30
+  Career record: 9
+  First fight: 2014-12-12
+  Last fight: 2024-10-19
+
+Career Statistics:
+- Significant Strikes Landed :326
+- Total takedowns landed :8
+- Knockdowns :0
+- Submission Attempts :1

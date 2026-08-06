@@ -1,0 +1,14 @@
+Event: UFC Fight Night: McGregor vs Brandao
+    Date: July 19, 2014
+    Location: Dublin, Leinster, Ireland
+    Weight Class: Welterweight
+    
+
+    Result: GUNNAR NELSON defeated ZAK CUMMINGS via Submission  
+  at 4:48 of round 2
+  Key stats:
+  - GUNNAR NELSON landed 13 significant strikes
+  - ZAK CUMMINGS landed 18 significant strikes
+  - Knockdowns: GUNNAR NELSON 0,  ZAK CUMMINGS 0
+  - Takedowns: GUNNAR NELSON 1,  ZAK CUMMINGS 0
+  Bonus: perf

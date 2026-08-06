@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dern vs. Yan
+    Date: October 01, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: JOAQUIM SILVA defeated JESSE RONSON via KO/TKO  
+  at 3:08 of round 2
+  Key stats:
+  - JOAQUIM SILVA landed 45 significant strikes
+  - JESSE RONSON landed 39 significant strikes
+  - Knockdowns: JOAQUIM SILVA 1,  JESSE RONSON 0
+  - Takedowns: JOAQUIM SILVA 0,  JESSE RONSON 0
+  Bonus: perf

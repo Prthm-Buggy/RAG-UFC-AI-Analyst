@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Condit vs Kampmann
+    Date: April 01, 2009
+    Location: Nashville, Tennessee, USA
+    Weight Class: Middleweight
+    
+
+    Result: AARON SIMPSON defeated TIM MCKENZIE via KO/TKO  
+  at 1:40 of round 1
+  Key stats:
+  - AARON SIMPSON landed 16 significant strikes
+  - TIM MCKENZIE landed 1 significant strikes
+  - Knockdowns: AARON SIMPSON 1,  TIM MCKENZIE 0
+  - Takedowns: AARON SIMPSON 1,  TIM MCKENZIE 0
+  Bonus: ko

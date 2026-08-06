@@ -1,0 +1,13 @@
+Event: UFC 153: Silva vs Bonnar
+    Date: October 13, 2012
+    Location: Rio de Janeiro, Brazil
+    Weight Class: Welterweight
+    
+
+    Result: DEMIAN MAIA defeated RICK STORY via Submission  
+  at 2:30 of round 1
+  Key stats:
+  - DEMIAN MAIA landed 5 significant strikes
+  - RICK STORY landed 3 significant strikes
+  - Knockdowns: DEMIAN MAIA 0,  RICK STORY 0
+  - Takedowns: DEMIAN MAIA 3,  RICK STORY 0

@@ -1,0 +1,21 @@
+Event : UFC Fight Night: Dern vs. Ribas 2
+    Date : January 11, 2025
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 14
+    Weight Classes: Middleweight, Welterweight, Light Heavyweight, Lightweight, Women's Strawweight, Flyweight, Featherweight, Women's Flyweight
+
+    Fight Results:
+  - BRUNO LOPES def. MAGOMED GADZHIYASULOV via Decision - Unanimous(R3)
+- FELIPE BUNES def. JOSE JOHNSON via Submission(R1)
+- CHRISTIAN RODRIGUEZ def. AUSTIN BASHI via Decision - Unanimous(R3)
+- JACOBE SMITH def. PRESTON PARSONS via KO/TKO(R1)
+- FATIMA KLINE def. VIKTORIIA DUDAKOVA via KO/TKO(R2)
+- PUNAHELE SORIANO def. UROS MEDIC via KO/TKO(R1)
+- THIAGO MOISES def. TREY OGDEN via Decision - Unanimous(R3)
+- SANTIAGO PONZINIBBIO def. CARLSTON HARRIS via KO/TKO(R3)
+- NURULLO ALIEV def. JOE SOLECKI via Decision - Unanimous(R3)
+- MACKENZIE DERN def. AMANDA RIBAS via Submission(R3)
+- ROMAN KOPYLOV def. CHRIS CURTIS via KO/TKO(R3)
+- CESAR ALMEIDA def. ABDUL RAZAK ALHASSAN via KO/TKO(R1)
+- MARCO TULIO def. IHOR POTIERIA via KO/TKO(R1)
+- ERNESTA KARECKAITE def. NICOLLE CALIARI via Decision - Split(R3)

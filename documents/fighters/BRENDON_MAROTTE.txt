@@ -1,0 +1,11 @@
+Fighter: BRENDON MAROTTE
+  Date of Birth: 1996-01-12
+  Career record: 2
+  First fight: 2023-10-14
+  Last fight: 2024-09-07
+
+Career Statistics:
+- Significant Strikes Landed :4
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

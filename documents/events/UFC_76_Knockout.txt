@@ -1,0 +1,16 @@
+Event : UFC 76: Knockout
+    Date : September 22, 2007
+    Location: Anaheim, California, USA
+    Number of Fights: 9
+    Weight Classes: Heavyweight, Light Heavyweight, Welterweight, Lightweight
+
+    Fight Results:
+  - JON FITCH def. DIEGO SANCHEZ via Decision - Split(R3)
+- TYSON GRIFFIN def. THIAGO TAVARES via Decision - Unanimous(R3)
+- RICH CLEMENTI def. ANTHONY JOHNSON via Submission(R2)
+- MATT WIMAN def. MICHIHIRO OMIGAWA via Decision - Unanimous(R3)
+- KEITH JARDINE def. CHUCK LIDDELL via Decision - Split(R3)
+- FORREST GRIFFIN def. MAURICIO RUA via Submission(R3)
+- JEREMY STEPHENS def. DIEGO SARAIVA via Decision - Unanimous(R3)
+- LYOTO MACHIDA def. KAZUHIRO NAKAMURA via Decision - Unanimous(R3)
+- CHRISTIAN WELLISCH def. SCOTT JUNK via Submission(R1)

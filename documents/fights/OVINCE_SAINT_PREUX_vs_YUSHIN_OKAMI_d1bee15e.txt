@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Saint Preux vs. Okami
+    Date: September 22, 2017
+    Location: Saitama, Saitama, Japan
+    Weight Class: Light Heavyweight
+    
+
+    Result: OVINCE SAINT PREUX defeated YUSHIN OKAMI via Submission  
+  at 1:50 of round 1
+  Key stats:
+  - OVINCE SAINT PREUX landed 0 significant strikes
+  - YUSHIN OKAMI landed 0 significant strikes
+  - Knockdowns: OVINCE SAINT PREUX 0,  YUSHIN OKAMI 0
+  - Takedowns: OVINCE SAINT PREUX 0,  YUSHIN OKAMI 0
+  Bonus: perf

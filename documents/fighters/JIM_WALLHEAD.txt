@@ -1,0 +1,11 @@
+Fighter: JIM WALLHEAD
+  Date of Birth: 1984-03-14
+  Career record: 2
+  First fight: 2016-09-03
+  Last fight: 2017-06-03
+
+Career Statistics:
+- Significant Strikes Landed :79
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

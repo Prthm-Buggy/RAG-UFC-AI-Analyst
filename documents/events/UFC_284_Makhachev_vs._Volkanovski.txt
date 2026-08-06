@@ -1,0 +1,19 @@
+Event : UFC 284: Makhachev vs. Volkanovski
+    Date : February 11, 2023
+    Location: Perth, Western Australia, Australia
+    Number of Fights: 12
+    Weight Classes: Lightweight, Light Heavyweight, Flyweight, Women's Strawweight, Welterweight, Featherweight, Heavyweight
+
+    Fight Results:
+  - MODESTAS BUKAUSKAS def. TYSON PEDRO via Decision - Unanimous(R3)
+- ISLAM MAKHACHEV def. ALEXANDER VOLKANOVSKI via Decision - Unanimous(R5)
+- BLAKE BILDER def. SHANE YOUNG via Decision - Unanimous(R3)
+- JAMIE MULLARKEY def. FRANCISCO PRADO via Decision - Unanimous(R3)
+- ELVES BRENER def. ZUBAIRA TUKHUGOV via Decision - Split(R3)
+- JACK DELLA MADDALENA def. RANDY BROWN via Submission(R1)
+- JOSH CULIBAO def. MELSIK BAGHDASARYAN via Submission(R2)
+- LOMA LOOKBOONMEE def. ELISE REED via Submission(R2)
+- KLEYDSON RODRIGUES def. SHANNON ROSS via KO/TKO(R1)
+- JUSTIN TAFA def. PARKER PORTER via KO/TKO(R1)
+- YAIR RODRIGUEZ def. JOSH EMMETT via Submission(R2)
+- JACK JENKINS def. DON SHAINIS via Decision - Unanimous(R3)

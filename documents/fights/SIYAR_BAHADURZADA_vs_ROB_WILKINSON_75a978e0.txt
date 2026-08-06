@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Volkov vs. Struve
+    Date: September 02, 2017
+    Location: Rotterdam, Zuid-Holland, Netherlands
+    Weight Class: Middleweight
+    
+
+    Result: SIYAR BAHADURZADA defeated ROB WILKINSON via KO/TKO  
+  at 3:10 of round 2
+  Key stats:
+  - SIYAR BAHADURZADA landed 43 significant strikes
+  - ROB WILKINSON landed 24 significant strikes
+  - Knockdowns: SIYAR BAHADURZADA 3,  ROB WILKINSON 0
+  - Takedowns: SIYAR BAHADURZADA 0,  ROB WILKINSON 2

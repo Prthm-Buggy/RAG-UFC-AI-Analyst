@@ -1,0 +1,11 @@
+Fighter: CESAR ALMEIDA
+  Date of Birth: 1988-03-28
+  Career record: 5
+  First fight: 2024-04-06
+  Last fight: 2025-12-13
+
+Career Statistics:
+- Significant Strikes Landed :176
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :1

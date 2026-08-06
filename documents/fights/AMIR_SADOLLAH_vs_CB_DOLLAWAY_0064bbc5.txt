@@ -1,0 +1,14 @@
+Event: The Ultimate Fighter: Team Rampage vs Team Forrest Finale
+    Date: June 21, 2008
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: AMIR SADOLLAH defeated CB DOLLAWAY via Submission  
+  at 3:02 of round 1
+  Key stats:
+  - AMIR SADOLLAH landed 2 significant strikes
+  - CB DOLLAWAY landed 6 significant strikes
+  - Knockdowns: AMIR SADOLLAH 0,  CB DOLLAWAY 0
+  - Takedowns: AMIR SADOLLAH 0,  CB DOLLAWAY 1
+  Bonus: belt

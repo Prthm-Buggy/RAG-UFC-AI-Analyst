@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Sandhagen vs. Dillashaw
+    Date: July 24, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Women's Strawweight
+    
+
+    Result: DIANA BELBITA defeated HANNAH GOLDY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DIANA BELBITA landed 117 significant strikes
+  - HANNAH GOLDY landed 92 significant strikes
+  - Knockdowns: DIANA BELBITA 1,  HANNAH GOLDY 0
+  - Takedowns: DIANA BELBITA 0,  HANNAH GOLDY 2

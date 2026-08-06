@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Manuwa vs. Anderson
+    Date: March 18, 2017
+    Location: London, England, United Kingdom
+    Weight Class: Lightweight
+    
+
+    Result: JOE DUFFY defeated REZA MADADI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - JOE DUFFY landed 51 significant strikes
+  - REZA MADADI landed 28 significant strikes
+  - Knockdowns: JOE DUFFY 0,  REZA MADADI 0
+  - Takedowns: JOE DUFFY 0,  REZA MADADI 2

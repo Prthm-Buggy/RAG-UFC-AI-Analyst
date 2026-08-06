@@ -1,0 +1,13 @@
+Event: UFC 45: Revolution
+    Date: November 21, 2003
+    Location: Uncasville, Connecticut, USA
+    Weight Class: Lightweight
+    
+
+    Result: YVES EDWARDS defeated NICK AGALLAR via KO/TKO  
+  at 2:14 of round 2
+  Key stats:
+  - YVES EDWARDS landed 33 significant strikes
+  - NICK AGALLAR landed 5 significant strikes
+  - Knockdowns: YVES EDWARDS 1,  NICK AGALLAR 0
+  - Takedowns: YVES EDWARDS 0,  NICK AGALLAR 0

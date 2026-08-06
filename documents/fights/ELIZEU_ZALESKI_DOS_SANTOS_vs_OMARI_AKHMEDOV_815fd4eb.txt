@@ -1,0 +1,14 @@
+Event: UFC on FOX: Teixeira vs Evans
+    Date: April 16, 2016
+    Location: Tampa, Florida, USA
+    Weight Class: Welterweight
+    
+
+    Result: ELIZEU ZALESKI DOS SANTOS defeated OMARI AKHMEDOV via KO/TKO  
+  at 3:03 of round 3
+  Key stats:
+  - ELIZEU ZALESKI DOS SANTOS landed 72 significant strikes
+  - OMARI AKHMEDOV landed 36 significant strikes
+  - Knockdowns: ELIZEU ZALESKI DOS SANTOS 0,  OMARI AKHMEDOV 0
+  - Takedowns: ELIZEU ZALESKI DOS SANTOS 0,  OMARI AKHMEDOV 3
+  Bonus: fight

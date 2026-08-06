@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Cowboy vs Miller
+    Date: July 16, 2014
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Bantamweight
+    
+
+    Result: ALJAMAIN STERLING defeated HUGO VIANA via KO/TKO  
+  at 3:50 of round 3
+  Key stats:
+  - ALJAMAIN STERLING landed 62 significant strikes
+  - HUGO VIANA landed 15 significant strikes
+  - Knockdowns: ALJAMAIN STERLING 0,  HUGO VIANA 0
+  - Takedowns: ALJAMAIN STERLING 4,  HUGO VIANA 0

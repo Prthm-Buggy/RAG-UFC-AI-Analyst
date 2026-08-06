@@ -1,0 +1,14 @@
+Event: UFC 29: Defense of the Belts
+    Date: December 16, 2000
+    Location: Tokyo, Japan
+    Weight Class: Middleweight
+    
+
+    Result: TITO ORTIZ defeated YUKI KONDO via Submission  
+  at 1:52 of round 1
+  Key stats:
+  - TITO ORTIZ landed 16 significant strikes
+  - YUKI KONDO landed 2 significant strikes
+  - Knockdowns: TITO ORTIZ 0,  YUKI KONDO 1
+  - Takedowns: TITO ORTIZ 2,  YUKI KONDO 0
+  Bonus: belt

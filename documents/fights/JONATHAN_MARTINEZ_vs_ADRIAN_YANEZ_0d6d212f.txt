@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Yusuff vs. Barboza
+    Date: October 14, 2023
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JONATHAN MARTINEZ defeated ADRIAN YANEZ via KO/TKO  
+  at 2:26 of round 2
+  Key stats:
+  - JONATHAN MARTINEZ landed 36 significant strikes
+  - ADRIAN YANEZ landed 20 significant strikes
+  - Knockdowns: JONATHAN MARTINEZ 2,  ADRIAN YANEZ 0
+  - Takedowns: JONATHAN MARTINEZ 0,  ADRIAN YANEZ 0
+  Bonus: perf

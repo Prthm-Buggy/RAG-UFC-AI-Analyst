@@ -1,0 +1,15 @@
+Event : UFC Fight Night: Munhoz vs. Edgar
+    Date : August 22, 2020
+    Location: Las Vegas, Nevada, USA
+    Number of Fights: 8
+    Weight Classes: Lightweight, Women's Strawweight, Welterweight, Light Heavyweight, Bantamweight, Women's Flyweight
+
+    Fight Results:
+  - JOE SOLECKI def. AUSTIN HUBBARD via Submission(R1)
+- MATTHEW SEMELSBERGER def. CARLTON MINUS via Decision - Unanimous(R3)
+- AMANDA LEMOS def. MIZUKI via Decision - Unanimous(R3)
+- DANIEL RODRIGUEZ def. DWIGHT GRANT via KO/TKO(R1)
+- SHANA DOBSON def. MARIYA AGAPOVA via KO/TKO(R2)
+- JORDAN WRIGHT def. IKE VILLANUEVA via TKO - Doctor's Stoppage(R1)
+- MIKE RODRIGUEZ def. MARCIN PRACHNIO via KO/TKO(R1)
+- FRANKIE EDGAR def. PEDRO MUNHOZ via Decision - Split(R5)

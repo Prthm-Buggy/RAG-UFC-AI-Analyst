@@ -1,0 +1,15 @@
+Event : UFC Macao: Franklin vs Le
+    Date : November 10, 2012
+    Location: Macau, China
+    Number of Fights: 8
+    Weight Classes: Bantamweight, Lightweight, Middleweight, Welterweight, Flyweight
+
+    Fight Results:
+  - TAKEYA MIZUGAKI def. JEFF HOUGLAND via Decision - Unanimous(R3)
+- JOHN LINEKER def. YASUHIRO URUSHITANI via Decision - Unanimous(R3)
+- DONG HYUN KIM def. PAULO THIAGO via Decision - Unanimous(R3)
+- JON TUCK def. ZHANG TIEQUAN via Decision - Unanimous(R3)
+- CUNG LE def. RICH FRANKLIN via KO/TKO(R1)
+- TAKANORI GOMI def. MAC DANZIG via Decision - Split(R3)
+- ALEX CACERES def. MOTONOBU TEZUKA via Decision - Split(R3)
+- RIKI FUKUDA def. TOM DEBLASS via Decision - Unanimous(R3)

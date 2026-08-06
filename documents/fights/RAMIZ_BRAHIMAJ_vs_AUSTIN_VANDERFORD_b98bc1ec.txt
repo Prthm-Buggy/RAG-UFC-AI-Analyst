@@ -1,0 +1,13 @@
+Event: UFC 320: Ankalaev vs. Pereira 2
+    Date: October 04, 2025
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: RAMIZ BRAHIMAJ defeated AUSTIN VANDERFORD via Submission  
+  at 2:24 of round 2
+  Key stats:
+  - RAMIZ BRAHIMAJ landed 21 significant strikes
+  - AUSTIN VANDERFORD landed 5 significant strikes
+  - Knockdowns: RAMIZ BRAHIMAJ 0,  AUSTIN VANDERFORD 0
+  - Takedowns: RAMIZ BRAHIMAJ 0,  AUSTIN VANDERFORD 3

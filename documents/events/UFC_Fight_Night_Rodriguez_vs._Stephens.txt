@@ -1,0 +1,17 @@
+Event : UFC Fight Night: Rodriguez vs. Stephens
+    Date : September 21, 2019
+    Location: Mexico City, Distrito Federal, Mexico
+    Number of Fights: 10
+    Weight Classes: Bantamweight, Women's Bantamweight, Lightweight, Light Heavyweight, Flyweight, Women's Strawweight, Featherweight
+
+    Fight Results:
+  - ANGELA HILL def. ARIANE CARNELOSSI via TKO - Doctor's Stoppage(R3)
+- KYLE NELSON def. MARCO POLO REYES via KO/TKO(R1)
+- STEVEN PETERSON def. MARTIN BRAVO via KO/TKO(R2)
+- CARLA ESPARZA def. ALEXA GRASSO via Decision - Majority(R3)
+- PAUL CRAIG def. VINICIUS MOREIRA via Submission(R1)
+- IRENE ALDANA def. VANESSA MELO via Decision - Unanimous(R3)
+- BETHE CORREIA def. SIJARA EUBANKS via Decision - Unanimous(R3)
+- SERGIO PETTIS def. TYSON NAM via Decision - Unanimous(R3)
+- CLAUDIO PUELLES def. MARCOS MARIANO via Decision - Unanimous(R3)
+- JOSE QUINONEZ def. CARLOS HUACHIN via Decision - Unanimous(R3)

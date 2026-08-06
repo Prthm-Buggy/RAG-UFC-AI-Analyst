@@ -1,0 +1,13 @@
+Event: UFC 60: Hughes vs Gracie
+    Date: May 27, 2006
+    Location: Los Angeles, California, USA
+    Weight Class: Heavyweight
+    
+
+    Result: GABRIEL GONZAGA defeated FABIANO SCHERNER via KO/TKO  
+  at 0:24 of round 2
+  Key stats:
+  - GABRIEL GONZAGA landed 16 significant strikes
+  - FABIANO SCHERNER landed 8 significant strikes
+  - Knockdowns: GABRIEL GONZAGA 1,  FABIANO SCHERNER 0
+  - Takedowns: GABRIEL GONZAGA 3,  FABIANO SCHERNER 0

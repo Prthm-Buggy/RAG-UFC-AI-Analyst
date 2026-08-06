@@ -1,0 +1,13 @@
+Event: UFC on FOX: Shogun vs Vera
+    Date: August 04, 2012
+    Location: Los Angeles, California, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOHN MORAGA defeated ULYSSES GOMEZ via KO/TKO  
+  at 3:46 of round 1
+  Key stats:
+  - JOHN MORAGA landed 34 significant strikes
+  - ULYSSES GOMEZ landed 16 significant strikes
+  - Knockdowns: JOHN MORAGA 1,  ULYSSES GOMEZ 0
+  - Takedowns: JOHN MORAGA 0,  ULYSSES GOMEZ 0

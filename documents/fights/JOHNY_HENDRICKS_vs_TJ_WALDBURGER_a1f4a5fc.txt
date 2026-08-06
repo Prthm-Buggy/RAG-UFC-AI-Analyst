@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Nogueira vs Davis
+    Date: March 26, 2011
+    Location: Seattle, Washington, USA
+    Weight Class: Welterweight
+    
+
+    Result: JOHNY HENDRICKS defeated TJ WALDBURGER via KO/TKO  
+  at 1:35 of round 1
+  Key stats:
+  - JOHNY HENDRICKS landed 7 significant strikes
+  - TJ WALDBURGER landed 3 significant strikes
+  - Knockdowns: JOHNY HENDRICKS 1,  TJ WALDBURGER 0
+  - Takedowns: JOHNY HENDRICKS 0,  TJ WALDBURGER 0
+  Bonus: ko

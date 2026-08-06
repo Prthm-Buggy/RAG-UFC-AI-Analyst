@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs Philippou
+    Date: January 15, 2014
+    Location: Duluth, Georgia, USA
+    Weight Class: Flyweight
+    
+
+    Result: JOHN MORAGA defeated DUSTIN ORTIZ via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - JOHN MORAGA landed 43 significant strikes
+  - DUSTIN ORTIZ landed 35 significant strikes
+  - Knockdowns: JOHN MORAGA 0,  DUSTIN ORTIZ 0
+  - Takedowns: JOHN MORAGA 0,  DUSTIN ORTIZ 2

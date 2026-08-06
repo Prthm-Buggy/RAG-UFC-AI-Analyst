@@ -1,0 +1,13 @@
+Event: UFC 245: Usman vs. Covington
+    Date: December 14, 2019
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: PUNAHELE SORIANO defeated OSKAR PIECHOTA via KO/TKO  
+  at 3:17 of round 1
+  Key stats:
+  - PUNAHELE SORIANO landed 26 significant strikes
+  - OSKAR PIECHOTA landed 8 significant strikes
+  - Knockdowns: PUNAHELE SORIANO 2,  OSKAR PIECHOTA 0
+  - Takedowns: PUNAHELE SORIANO 1,  OSKAR PIECHOTA 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Miocic vs Hunt
+    Date: May 09, 2015
+    Location: Adelaide, South Australia, Australia
+    Weight Class: Flyweight
+    
+
+    Result: BEN NGUYEN defeated ALPTEKIN OZKILIC via KO/TKO  
+  at 4:59 of round 1
+  Key stats:
+  - BEN NGUYEN landed 27 significant strikes
+  - ALPTEKIN OZKILIC landed 15 significant strikes
+  - Knockdowns: BEN NGUYEN 2,  ALPTEKIN OZKILIC 0
+  - Takedowns: BEN NGUYEN 0,  ALPTEKIN OZKILIC 1

@@ -1,0 +1,11 @@
+Fighter: PIERA RODRIGUEZ
+  Date of Birth: 1992-11-11
+  Career record: 7
+  First fight: 2022-04-09
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :392
+- Total takedowns landed :26
+- Knockdowns :1
+- Submission Attempts :0

@@ -1,0 +1,13 @@
+Event: UFC 47: It's On!
+    Date: April 02, 2004
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: NICK DIAZ defeated ROBBIE LAWLER via KO/TKO  
+  at 1:31 of round 2
+  Key stats:
+  - NICK DIAZ landed 22 significant strikes
+  - ROBBIE LAWLER landed 16 significant strikes
+  - Knockdowns: NICK DIAZ 1,  ROBBIE LAWLER 0
+  - Takedowns: NICK DIAZ 0,  ROBBIE LAWLER 0

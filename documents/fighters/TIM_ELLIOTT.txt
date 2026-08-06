@@ -1,0 +1,11 @@
+Fighter: TIM ELLIOTT
+  Date of Birth: 1986-12-24
+  Career record: 22
+  First fight: 2012-05-05
+  Last fight: 2026-04-04
+
+Career Statistics:
+- Significant Strikes Landed :948
+- Total takedowns landed :65
+- Knockdowns :2
+- Submission Attempts :19

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Edgar vs Faber
+    Date: May 16, 2015
+    Location: Manila, Philippines
+    Weight Class: Flyweight
+    
+
+    Result: YAO ZHIKUI defeated NOLAN TICMAN via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - YAO ZHIKUI landed 9 significant strikes
+  - NOLAN TICMAN landed 52 significant strikes
+  - Knockdowns: YAO ZHIKUI 0,  NOLAN TICMAN 0
+  - Takedowns: YAO ZHIKUI 1,  NOLAN TICMAN 0

@@ -1,0 +1,13 @@
+Event: UFC 53: Heavy Hitters
+    Date: June 04, 2005
+    Location: Atlantic City, New Jersey, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: FORREST GRIFFIN defeated BILL MAHOOD via Submission  
+  at 2:18 of round 1
+  Key stats:
+  - FORREST GRIFFIN landed 3 significant strikes
+  - BILL MAHOOD landed 1 significant strikes
+  - Knockdowns: FORREST GRIFFIN 0,  BILL MAHOOD 0
+  - Takedowns: FORREST GRIFFIN 1,  BILL MAHOOD 0

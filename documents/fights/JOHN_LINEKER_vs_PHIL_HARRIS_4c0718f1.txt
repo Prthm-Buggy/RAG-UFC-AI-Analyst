@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Munoz
+    Date: October 26, 2013
+    Location: Manchester, England, United Kingdom
+    Weight Class: Flyweight
+    
+
+    Result: JOHN LINEKER defeated PHIL HARRIS via KO/TKO  
+  at 2:51 of round 1
+  Key stats:
+  - JOHN LINEKER landed 31 significant strikes
+  - PHIL HARRIS landed 14 significant strikes
+  - Knockdowns: JOHN LINEKER 3,  PHIL HARRIS 0
+  - Takedowns: JOHN LINEKER 0,  PHIL HARRIS 0

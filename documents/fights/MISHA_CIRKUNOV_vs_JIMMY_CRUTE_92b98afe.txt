@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Cowboy vs. Gaethje
+    Date: September 14, 2019
+    Location: Vancouver, British Columbia, Canada
+    Weight Class: Light Heavyweight
+    
+
+    Result: MISHA CIRKUNOV defeated JIMMY CRUTE via Submission  
+  at 3:38 of round 1
+  Key stats:
+  - MISHA CIRKUNOV landed 6 significant strikes
+  - JIMMY CRUTE landed 21 significant strikes
+  - Knockdowns: MISHA CIRKUNOV 0,  JIMMY CRUTE 0
+  - Takedowns: MISHA CIRKUNOV 1,  JIMMY CRUTE 0
+  Bonus: perf

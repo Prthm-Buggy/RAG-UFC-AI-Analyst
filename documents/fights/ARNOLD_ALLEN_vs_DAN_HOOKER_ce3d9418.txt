@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Volkov vs. Aspinall
+    Date: March 19, 2022
+    Location: London, England, United Kingdom
+    Weight Class: Featherweight
+    
+
+    Result: ARNOLD ALLEN defeated DAN HOOKER via KO/TKO  
+  at 2:33 of round 1
+  Key stats:
+  - ARNOLD ALLEN landed 49 significant strikes
+  - DAN HOOKER landed 14 significant strikes
+  - Knockdowns: ARNOLD ALLEN 0,  DAN HOOKER 0
+  - Takedowns: ARNOLD ALLEN 0,  DAN HOOKER 0
+  Bonus: perf

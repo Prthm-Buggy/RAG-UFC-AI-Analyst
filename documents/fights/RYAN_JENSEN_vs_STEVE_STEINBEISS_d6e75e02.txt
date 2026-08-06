@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Diaz vs Guillard
+    Date: September 16, 2009
+    Location: Oklahoma City, Oklahoma, USA
+    Weight Class: Middleweight
+    
+
+    Result: RYAN JENSEN defeated STEVE STEINBEISS via Submission  
+  at 3:56 of round 1
+  Key stats:
+  - RYAN JENSEN landed 9 significant strikes
+  - STEVE STEINBEISS landed 7 significant strikes
+  - Knockdowns: RYAN JENSEN 0,  STEVE STEINBEISS 0
+  - Takedowns: RYAN JENSEN 1,  STEVE STEINBEISS 0

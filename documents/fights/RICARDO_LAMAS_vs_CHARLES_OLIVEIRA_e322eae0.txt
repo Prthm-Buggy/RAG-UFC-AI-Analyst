@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Dos Anjos vs. Ferguson
+    Date: November 05, 2016
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Featherweight
+    
+
+    Result: RICARDO LAMAS defeated CHARLES OLIVEIRA via Submission  
+  at 2:13 of round 2
+  Key stats:
+  - RICARDO LAMAS landed 11 significant strikes
+  - CHARLES OLIVEIRA landed 13 significant strikes
+  - Knockdowns: RICARDO LAMAS 0,  CHARLES OLIVEIRA 0
+  - Takedowns: RICARDO LAMAS 1,  CHARLES OLIVEIRA 2
+  Bonus: perf

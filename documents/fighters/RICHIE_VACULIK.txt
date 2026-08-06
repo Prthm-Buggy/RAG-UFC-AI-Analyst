@@ -1,0 +1,11 @@
+Fighter: RICHIE VACULIK
+  Date of Birth: 1983-06-19
+  Career record: 4
+  First fight: 2013-12-06
+  Last fight: 2015-11-14
+
+Career Statistics:
+- Significant Strikes Landed :166
+- Total takedowns landed :9
+- Knockdowns :0
+- Submission Attempts :3

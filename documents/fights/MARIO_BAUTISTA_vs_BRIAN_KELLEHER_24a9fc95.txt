@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Tsarukyan vs. Gamrot
+    Date: June 25, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: MARIO BAUTISTA defeated BRIAN KELLEHER via Submission  
+  at 2:27 of round 1
+  Key stats:
+  - MARIO BAUTISTA landed 6 significant strikes
+  - BRIAN KELLEHER landed 2 significant strikes
+  - Knockdowns: MARIO BAUTISTA 0,  BRIAN KELLEHER 0
+  - Takedowns: MARIO BAUTISTA 2,  BRIAN KELLEHER 0

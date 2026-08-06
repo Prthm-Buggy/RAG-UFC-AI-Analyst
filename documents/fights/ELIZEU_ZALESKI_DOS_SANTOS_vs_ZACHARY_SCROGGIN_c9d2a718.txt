@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Magny vs. Prates
+    Date: November 09, 2024
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Welterweight
+    
+
+    Result: ELIZEU ZALESKI DOS SANTOS defeated ZACHARY SCROGGIN via KO/TKO  
+  at 1:15 of round 1
+  Key stats:
+  - ELIZEU ZALESKI DOS SANTOS landed 11 significant strikes
+  - ZACHARY SCROGGIN landed 3 significant strikes
+  - Knockdowns: ELIZEU ZALESKI DOS SANTOS 0,  ZACHARY SCROGGIN 0
+  - Takedowns: ELIZEU ZALESKI DOS SANTOS 0,  ZACHARY SCROGGIN 0

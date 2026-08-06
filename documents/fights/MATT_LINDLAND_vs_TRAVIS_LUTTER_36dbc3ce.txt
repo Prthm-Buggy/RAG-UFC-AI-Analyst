@@ -1,0 +1,13 @@
+Event: UFC 52: Couture vs Liddell 2
+    Date: April 16, 2005
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: MATT LINDLAND defeated TRAVIS LUTTER via Submission  
+  at 3:13 of round 2
+  Key stats:
+  - MATT LINDLAND landed 11 significant strikes
+  - TRAVIS LUTTER landed 0 significant strikes
+  - Knockdowns: MATT LINDLAND 0,  TRAVIS LUTTER 0
+  - Takedowns: MATT LINDLAND 2,  TRAVIS LUTTER 1

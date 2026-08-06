@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Lewis vs. Dos Santos
+    Date: March 09, 2019
+    Location: Wichita, Kansas, USA
+    Weight Class: Welterweight
+    
+
+    Result: ELIZEU ZALESKI DOS SANTOS defeated CURTIS MILLENDER via Submission  
+  at 2:35 of round 1
+  Key stats:
+  - ELIZEU ZALESKI DOS SANTOS landed 6 significant strikes
+  - CURTIS MILLENDER landed 0 significant strikes
+  - Knockdowns: ELIZEU ZALESKI DOS SANTOS 0,  CURTIS MILLENDER 0
+  - Takedowns: ELIZEU ZALESKI DOS SANTOS 1,  CURTIS MILLENDER 0

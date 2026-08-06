@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Rockhold vs Philippou
+    Date: January 15, 2014
+    Location: Duluth, Georgia, USA
+    Weight Class: Flyweight
+    
+
+    Result: LOUIS SMOLKA defeated ALPTEKIN OZKILIC via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - LOUIS SMOLKA landed 92 significant strikes
+  - ALPTEKIN OZKILIC landed 60 significant strikes
+  - Knockdowns: LOUIS SMOLKA 0,  ALPTEKIN OZKILIC 0
+  - Takedowns: LOUIS SMOLKA 0,  ALPTEKIN OZKILIC 9

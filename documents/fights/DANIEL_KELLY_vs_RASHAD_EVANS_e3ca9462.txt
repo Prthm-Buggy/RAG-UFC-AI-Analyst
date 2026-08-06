@@ -1,0 +1,13 @@
+Event: UFC 209: Woodley vs. Thompson 2
+    Date: March 04, 2017
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Middleweight
+    
+
+    Result: DANIEL KELLY defeated RASHAD EVANS via Decision - Split  
+  at 5:00 of round 3
+  Key stats:
+  - DANIEL KELLY landed 74 significant strikes
+  - RASHAD EVANS landed 53 significant strikes
+  - Knockdowns: DANIEL KELLY 0,  RASHAD EVANS 0
+  - Takedowns: DANIEL KELLY 0,  RASHAD EVANS 1

@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Bautista vs. Oliveira
+    Date: February 07, 2026
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Bantamweight
+    
+
+    Result: JAKUB WIKLACZ defeated MUIN GAFUROV via Submission  
+  at 4:59 of round 3
+  Key stats:
+  - JAKUB WIKLACZ landed 56 significant strikes
+  - MUIN GAFUROV landed 79 significant strikes
+  - Knockdowns: JAKUB WIKLACZ 0,  MUIN GAFUROV 0
+  - Takedowns: JAKUB WIKLACZ 0,  MUIN GAFUROV 2
+  Bonus: perf

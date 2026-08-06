@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Oezdemir vs. Smith
+    Date: October 27, 2018
+    Location: Moncton, New Brunswick, Canada
+    Weight Class: Welterweight
+    
+
+    Result: SEAN STRICKLAND defeated NORDINE TALEB via KO/TKO  
+  at 3:10 of round 2
+  Key stats:
+  - SEAN STRICKLAND landed 65 significant strikes
+  - NORDINE TALEB landed 48 significant strikes
+  - Knockdowns: SEAN STRICKLAND 1,  NORDINE TALEB 0
+  - Takedowns: SEAN STRICKLAND 0,  NORDINE TALEB 0

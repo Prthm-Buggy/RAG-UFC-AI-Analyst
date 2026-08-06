@@ -1,0 +1,11 @@
+Fighter: RICARDO FUNCH
+  Date of Birth: 1980-08-14
+  Career record: 4
+  First fight: 2009-12-12
+  Last fight: 2012-06-22
+
+Career Statistics:
+- Significant Strikes Landed :95
+- Total takedowns landed :3
+- Knockdowns :0
+- Submission Attempts :0

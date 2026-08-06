@@ -1,0 +1,11 @@
+Fighter: HECHER SOSA
+  Date of Birth: 1995-08-25
+  Career record: 1
+  First fight: 2026-03-14
+  Last fight: 2026-03-14
+
+Career Statistics:
+- Significant Strikes Landed :104
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

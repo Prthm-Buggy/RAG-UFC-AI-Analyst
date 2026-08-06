@@ -1,0 +1,14 @@
+Event: UFC 122: Marquardt vs Okami
+    Date: November 13, 2010
+    Location: Oberhausen, North Rhine-Westphalia, Germany
+    Weight Class: Light Heavyweight
+    
+
+    Result: KARLOS VEMOLA defeated SETH PETRUZELLI via KO/TKO  
+  at 3:46 of round 1
+  Key stats:
+  - KARLOS VEMOLA landed 18 significant strikes
+  - SETH PETRUZELLI landed 3 significant strikes
+  - Knockdowns: KARLOS VEMOLA 0,  SETH PETRUZELLI 0
+  - Takedowns: KARLOS VEMOLA 2,  SETH PETRUZELLI 0
+  Bonus: ko

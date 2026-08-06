@@ -1,0 +1,13 @@
+Event: UFC 15: Collision Course
+    Date: October 17, 1997
+    Location: Bay St. Louis, Mississippi, USA
+    Weight Class: Heavyweight
+    
+
+    Result: RANDY COUTURE defeated VITOR BELFORT via KO/TKO  
+  at 8:16 of round 1
+  Key stats:
+  - RANDY COUTURE landed 34 significant strikes
+  - VITOR BELFORT landed 6 significant strikes
+  - Knockdowns: RANDY COUTURE 0,  VITOR BELFORT 0
+  - Takedowns: RANDY COUTURE 1,  VITOR BELFORT 0

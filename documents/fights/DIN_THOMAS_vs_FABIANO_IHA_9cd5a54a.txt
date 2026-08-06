@@ -1,0 +1,13 @@
+Event: UFC 33: Victory in Vegas
+    Date: September 28, 2001
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: DIN THOMAS defeated FABIANO IHA via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - DIN THOMAS landed 42 significant strikes
+  - FABIANO IHA landed 19 significant strikes
+  - Knockdowns: DIN THOMAS 0,  FABIANO IHA 0
+  - Takedowns: DIN THOMAS 1,  FABIANO IHA 2

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Rakic
+    Date: August 29, 2020
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Featherweight
+    
+
+    Result: ALEX CACERES defeated AUSTIN SPRINGER via Submission  
+  at 3:38 of round 1
+  Key stats:
+  - ALEX CACERES landed 18 significant strikes
+  - AUSTIN SPRINGER landed 14 significant strikes
+  - Knockdowns: ALEX CACERES 0,  AUSTIN SPRINGER 0
+  - Takedowns: ALEX CACERES 0,  AUSTIN SPRINGER 0

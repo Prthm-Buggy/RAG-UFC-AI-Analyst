@@ -1,0 +1,14 @@
+Event: UFC on FX: Belfort vs. Rockhold
+    Date: May 18, 2013
+    Location: Jaragua do Sul, Santa Catarina, Brazil
+    Weight Class: Middleweight
+    
+
+    Result: JACARE SOUZA defeated CHRIS CAMOZZI via Submission  
+  at 3:37 of round 1
+  Key stats:
+  - JACARE SOUZA landed 8 significant strikes
+  - CHRIS CAMOZZI landed 4 significant strikes
+  - Knockdowns: JACARE SOUZA 0,  CHRIS CAMOZZI 0
+  - Takedowns: JACARE SOUZA 1,  CHRIS CAMOZZI 0
+  Bonus: sub

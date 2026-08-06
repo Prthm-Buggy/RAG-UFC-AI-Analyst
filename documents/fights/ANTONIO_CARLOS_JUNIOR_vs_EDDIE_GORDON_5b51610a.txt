@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Machida vs Romero
+    Date: June 27, 2015
+    Location: Hollywood, Florida, USA
+    Weight Class: Middleweight
+    
+
+    Result: ANTONIO CARLOS JUNIOR defeated EDDIE GORDON via Submission  
+  at 4:37 of round 3
+  Key stats:
+  - ANTONIO CARLOS JUNIOR landed 40 significant strikes
+  - EDDIE GORDON landed 12 significant strikes
+  - Knockdowns: ANTONIO CARLOS JUNIOR 0,  EDDIE GORDON 0
+  - Takedowns: ANTONIO CARLOS JUNIOR 4,  EDDIE GORDON 0

@@ -1,0 +1,11 @@
+Fighter: RAPHAEL PESSOA
+  Date of Birth: 1989-03-09
+  Career record: 3
+  First fight: 2019-08-10
+  Last fight: 2020-07-25
+
+Career Statistics:
+- Significant Strikes Landed :58
+- Total takedowns landed :0
+- Knockdowns :1
+- Submission Attempts :0

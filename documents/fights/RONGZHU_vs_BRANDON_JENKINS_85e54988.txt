@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Smith vs. Spann
+    Date: September 18, 2021
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Lightweight
+    
+
+    Result: RONGZHU defeated BRANDON JENKINS via KO/TKO  
+  at 4:35 of round 3
+  Key stats:
+  - RONGZHU landed 86 significant strikes
+  - BRANDON JENKINS landed 41 significant strikes
+  - Knockdowns: RONGZHU 1,  BRANDON JENKINS 0
+  - Takedowns: RONGZHU 6,  BRANDON JENKINS 0

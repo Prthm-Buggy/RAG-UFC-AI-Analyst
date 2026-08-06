@@ -1,0 +1,11 @@
+Fighter: PEDRO MUNHOZ
+  Date of Birth: 1986-09-07
+  Career record: 20
+  First fight: 2014-02-22
+  Last fight: 2024-11-02
+
+Career Statistics:
+- Significant Strikes Landed :1330
+- Total takedowns landed :8
+- Knockdowns :7
+- Submission Attempts :7

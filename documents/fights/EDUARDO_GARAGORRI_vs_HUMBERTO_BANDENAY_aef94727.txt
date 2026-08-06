@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Shevchenko vs. Carmouche 2
+    Date: August 10, 2019
+    Location: Montevideo, Uruguay
+    Weight Class: Featherweight
+    
+
+    Result: EDUARDO GARAGORRI defeated HUMBERTO BANDENAY via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - EDUARDO GARAGORRI landed 65 significant strikes
+  - HUMBERTO BANDENAY landed 32 significant strikes
+  - Knockdowns: EDUARDO GARAGORRI 0,  HUMBERTO BANDENAY 0
+  - Takedowns: EDUARDO GARAGORRI 1,  HUMBERTO BANDENAY 4

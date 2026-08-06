@@ -1,0 +1,11 @@
+Fighter: SEAN O'CONNELL
+  Date of Birth: 1983-09-02
+  Career record: 7
+  First fight: 2014-04-16
+  Last fight: 2016-12-09
+
+Career Statistics:
+- Significant Strikes Landed :304
+- Total takedowns landed :0
+- Knockdowns :3
+- Submission Attempts :2

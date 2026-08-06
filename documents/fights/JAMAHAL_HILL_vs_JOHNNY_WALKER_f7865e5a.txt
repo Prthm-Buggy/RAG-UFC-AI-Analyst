@@ -1,0 +1,14 @@
+Event: UFC Fight Night: Walker vs. Hill
+    Date: February 19, 2022
+    Location: Las Vegas, Nevada, USA
+    Weight Class: Light Heavyweight
+    
+
+    Result: JAMAHAL HILL defeated JOHNNY WALKER via KO/TKO  
+  at 2:55 of round 1
+  Key stats:
+  - JAMAHAL HILL landed 6 significant strikes
+  - JOHNNY WALKER landed 12 significant strikes
+  - Knockdowns: JAMAHAL HILL 1,  JOHNNY WALKER 0
+  - Takedowns: JAMAHAL HILL 0,  JOHNNY WALKER 0
+  Bonus: perf

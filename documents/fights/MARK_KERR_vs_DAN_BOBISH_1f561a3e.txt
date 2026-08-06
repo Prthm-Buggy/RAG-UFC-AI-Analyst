@@ -1,0 +1,14 @@
+Event: UFC 14: Showdown
+    Date: July 27, 1997
+    Location: Birmingham, Alabama, USA
+    Weight Class: Heavyweight
+    
+
+    Result: MARK KERR defeated DAN BOBISH via Submission  
+  at 1:38 of round 1
+  Key stats:
+  - MARK KERR landed 3 significant strikes
+  - DAN BOBISH landed 0 significant strikes
+  - Knockdowns: MARK KERR 0,  DAN BOBISH 0
+  - Takedowns: MARK KERR 1,  DAN BOBISH 0
+  Bonus: belt

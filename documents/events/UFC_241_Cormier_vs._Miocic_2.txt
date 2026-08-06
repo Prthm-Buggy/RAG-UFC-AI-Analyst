@@ -1,0 +1,19 @@
+Event : UFC 241: Cormier vs. Miocic 2
+    Date : August 17, 2019
+    Location: Anaheim, California, USA
+    Number of Fights: 12
+    Weight Classes: Bantamweight, Heavyweight, Women's Flyweight, Welterweight, Middleweight, Featherweight, Lightweight, Catch Weight, Women's Strawweight
+
+    Fight Results:
+  - CORY SANDHAGEN def. RAPHAEL ASSUNCAO via Decision - Unanimous(R3)
+- CASEY KENNEY def. MANNY BERMUDEZ via Decision - Unanimous(R3)
+- STIPE MIOCIC def. DANIEL CORMIER via KO/TKO(R4)
+- KYUNG HO KANG def. BRANDON DAVIS via Decision - Split(R3)
+- DEREK BRUNSON def. IAN HEINISCH via Decision - Unanimous(R3)
+- SODIQ YUSUFF def. GABRIEL BENITEZ via KO/TKO(R1)
+- SABINA MAZO def. SHANA DOBSON via Decision - Unanimous(R3)
+- KHAMA WORTHY def. DEVONTE SMITH via KO/TKO(R1)
+- PAULO COSTA def. YOEL ROMERO via Decision - Unanimous(R3)
+- DRAKKAR KLOSE def. CHRISTOS GIAGOS via Decision - Unanimous(R3)
+- NATE DIAZ def. ANTHONY PETTIS via Decision - Unanimous(R3)
+- HANNAH CIFERS def. JODIE ESQUIBEL via Decision - Unanimous(R3)

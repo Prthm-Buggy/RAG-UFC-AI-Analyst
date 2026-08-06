@@ -1,0 +1,13 @@
+Event: UFC on FOX: VanZant vs. Waterson
+    Date: December 17, 2016
+    Location: Sacramento, California, USA
+    Weight Class: Welterweight
+    
+
+    Result: ALEX MORONO defeated JAMES MOONTASRI via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - ALEX MORONO landed 111 significant strikes
+  - JAMES MOONTASRI landed 46 significant strikes
+  - Knockdowns: ALEX MORONO 0,  JAMES MOONTASRI 0
+  - Takedowns: ALEX MORONO 0,  JAMES MOONTASRI 0

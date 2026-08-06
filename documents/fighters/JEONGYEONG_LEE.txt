@@ -1,0 +1,11 @@
+Fighter: JEONGYEONG LEE
+  Date of Birth: 1995-11-13
+  Career record: 4
+  First fight: 2023-02-04
+  Last fight: 2025-05-10
+
+Career Statistics:
+- Significant Strikes Landed :146
+- Total takedowns landed :2
+- Knockdowns :0
+- Submission Attempts :0

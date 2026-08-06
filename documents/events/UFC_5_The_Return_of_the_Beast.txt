@@ -1,0 +1,16 @@
+Event : UFC 5: The Return of the Beast
+    Date : April 07, 1995
+    Location: Charlotte, North Carolina, USA
+    Number of Fights: 9
+    Weight Classes: Open Weight
+
+    Fight Results:
+  - DAN SEVERN def. DAVE BENETEAU via Submission(R1)
+- DAVE BENETEAU def. TODD MEDINA via KO/TKO(R1)
+- DAN SEVERN def. OLEG TAKTAROV via TKO - Doctor's Stoppage(R1)
+- JON HESS def. ANDY ANDERSON via KO/TKO(R1)
+- DAVE BENETEAU def. ASBEL CANCIO via KO/TKO(R1)
+- GUY MEZGER def. JOHN DOWDY via KO/TKO(R1)
+- OLEG TAKTAROV def. ERNIE VERDICIA via Submission(R1)
+- TODD MEDINA def. LARRY CURETON via Submission(R1)
+- DAN SEVERN def. JOE CHARLES via Submission(R1)

@@ -1,0 +1,11 @@
+Fighter: HENRIQUE DA SILVA
+  Date of Birth: 1989-09-01
+  Career record: 6
+  First fight: 2016-06-04
+  Last fight: 2017-09-22
+
+Career Statistics:
+- Significant Strikes Landed :184
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :1

@@ -1,0 +1,11 @@
+Fighter: EDUARDO GARAGORRI
+  Date of Birth: 1989-05-28
+  Career record: 3
+  First fight: 2019-08-10
+  Last fight: 2020-11-07
+
+Career Statistics:
+- Significant Strikes Landed :107
+- Total takedowns landed :1
+- Knockdowns :0
+- Submission Attempts :0

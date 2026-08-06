@@ -1,0 +1,13 @@
+Event: UFC 75: Champion vs Champion
+    Date: September 08, 2007
+    Location: London, England, United Kingdom
+    Weight Class: Light Heavyweight
+    
+
+    Result: THIAGO SILVA defeated TOMASZ DRWAL via KO/TKO  
+  at 4:23 of round 2
+  Key stats:
+  - THIAGO SILVA landed 48 significant strikes
+  - TOMASZ DRWAL landed 43 significant strikes
+  - Knockdowns: THIAGO SILVA 1,  TOMASZ DRWAL 0
+  - Takedowns: THIAGO SILVA 0,  TOMASZ DRWAL 1

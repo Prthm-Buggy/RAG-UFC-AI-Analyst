@@ -1,0 +1,11 @@
+Fighter: ANTHONY CHRISTODOULOU
+  Date of Birth: 1987-07-30
+  Career record: 2
+  First fight: 2015-01-24
+  Last fight: 2015-08-08
+
+Career Statistics:
+- Significant Strikes Landed :40
+- Total takedowns landed :0
+- Knockdowns :0
+- Submission Attempts :0

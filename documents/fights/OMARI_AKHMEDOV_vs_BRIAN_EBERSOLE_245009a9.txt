@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Boetsch vs Henderson
+    Date: June 06, 2015
+    Location: New Orleans, Louisiana, USA
+    Weight Class: Welterweight
+    
+
+    Result: OMARI AKHMEDOV defeated BRIAN EBERSOLE via KO/TKO  
+  at 5:00 of round 1
+  Key stats:
+  - OMARI AKHMEDOV landed 15 significant strikes
+  - BRIAN EBERSOLE landed 2 significant strikes
+  - Knockdowns: OMARI AKHMEDOV 0,  BRIAN EBERSOLE 0
+  - Takedowns: OMARI AKHMEDOV 0,  BRIAN EBERSOLE 0

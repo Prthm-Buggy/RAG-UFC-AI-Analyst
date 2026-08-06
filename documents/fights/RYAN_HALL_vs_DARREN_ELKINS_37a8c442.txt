@@ -1,0 +1,13 @@
+Event: UFC Fight Night: De Randamie vs. Ladd
+    Date: July 13, 2019
+    Location: Sacramento, California, USA
+    Weight Class: Featherweight
+    
+
+    Result: RYAN HALL defeated DARREN ELKINS via Decision - Unanimous  
+  at 5:00 of round 3
+  Key stats:
+  - RYAN HALL landed 36 significant strikes
+  - DARREN ELKINS landed 29 significant strikes
+  - Knockdowns: RYAN HALL 2,  DARREN ELKINS 0
+  - Takedowns: RYAN HALL 0,  DARREN ELKINS 0

@@ -1,0 +1,13 @@
+Event: UFC Fight Night: Moreno vs. Kavanagh
+    Date: February 28, 2026
+    Location: Mexico City, Distrito Federal, Mexico
+    Weight Class: Featherweight
+    
+
+    Result: FRANCIS MARSHALL defeated ERIK SILVA via Submission  
+  at 2:29 of round 1
+  Key stats:
+  - FRANCIS MARSHALL landed 3 significant strikes
+  - ERIK SILVA landed 5 significant strikes
+  - Knockdowns: FRANCIS MARSHALL 0,  ERIK SILVA 0
+  - Takedowns: FRANCIS MARSHALL 1,  ERIK SILVA 0
