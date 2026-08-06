@@ -1,0 +1,16 @@
+pandas
+numpy
+duckdb
+pyarrow
+tqdm
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+langchain-openai
+langchain-xai
+langgraph
+chromadb
+sentence-transformers
+gradio
+python-dotenv
