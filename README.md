@@ -6,9 +6,7 @@ Ask questions in natural language. Get answers powered by structured fight data,
 
 **UFC AI Analyst** is an open-source project that combines Retrieval-Augmented Generation (RAG), SQL-based data analysis, and agentic AI in a single conversational interface.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5192d03f-aed2-4cfa-b7e7-88d3294e22c6" alt="UFC AI Analyst architecture" width="720"/>
-</p>
+
 
 ## What makes it different?
 
